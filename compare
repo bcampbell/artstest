@@ -1,0 +1,57 @@
+#!/usr/bin/env python
+import yaml
+import re
+import sys
+from pprint import pprint
+
+splitter = re.compile(r'---(.*?)---\s*(.*)$',re.DOTALL)
+
+def main():
+
+    if len(sys.argv)>2:
+        # compare two articles
+        art1 = Article(sys.argv[1])
+        art2 = Article(sys.argv[2])
+        compare(art1,art2)
+    elif len(sys.argv)>1:
+        art = Article(sys.argv[1])
+        art.dump()
+    else:
+        print("Missing args")
+
+
+class Article:
+    def __init__(self, filename): 
+        f = open(filename,"r")
+        with f:
+            data = f.read()
+            m = splitter.match(data)
+            meta = yaml.load(m.group(1))
+            for f in ("headline","published","updated","authors","canonical_url"):
+                if f in meta:
+                    self.__dict__[f] = meta[f]
+                else:
+                    self.__dict__[f] = None
+            self.content = m.group(2)
+
+    def dump(self):
+        print("canonical_url: %s" % (self.canonical_url))
+        print("headline: %s" % (self.headline))
+        print("published: %s" % (self.published))
+        print("updated: %s" % (self.updated))
+        print("authors: %s" % (self.authors))
+        print "------"
+        print self.content
+
+def compare(art1,art2):
+    if art1.headline != art2.headline:
+        print("Headline mismatch")
+        return False
+
+    # TODO: everything else :-)
+
+    return True
+
+if __name__ == "__main__":
+    sys.exit(main())
+

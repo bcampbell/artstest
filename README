@@ -1,0 +1,24 @@
+Test suite for evaluating news article scrapers.
+
+
+Freeform directory structure. Probably arrange by categories,
+eg country, national papers, local papers, blogs, whatever.
+
+
+original html:
+data/blah/dailycheese.com/moon-made-of-cheese.html
+
+expected data:
+data/blah/dailycheese.com/moon-made-of-cheese.expected
+
+TODO: maybe also have a .meta file, to store http headers to go along
+with the html. html might not always be enough, eg character encoding,
+languages...
+
+
+The expected data files are designed to be easy to edit by hand.
+They begin with a yaml front-matter section, then the rest
+of the file is the text content that we expect to be extracted.
+
+
+
