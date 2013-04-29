@@ -4,24 +4,34 @@ import yaml
 import re
 import sys
 from pprint import pprint
+import argparse     # >=python 2.7
 
 splitter = re.compile(r'---(.*?)---\s*(.*)$',re.DOTALL)
 
 def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('got', help='file containing scraped data')
+    parser.add_argument('expected', help='file containing expected data')
+#    parser.add_argument("-v", "--verbose", help="increase output verbosity",
+#                    action="store_true")
+    args = parser.parse_args()
 
-    if len(sys.argv)>2:
-        # compare two articles
-        art_got = Article(sys.argv[1])
-        art_expected = Article(sys.argv[2])
+
+    try:
+        # load and compare two articles
+        art_got = Article(args.got)
+        art_expected = Article(args.expected)
+
         errs = art_got.compare(art_expected)
         if len(errs)>0:
-            print('ERRORS - %s' % (art_expected.filename,), file=sys.stderr)
-            [print('  %s' % (err,), file=sys.stderr) for err in errs]
-    elif len(sys.argv)>1:
-        art = Article(sys.argv[1])
-        art.dump()
-    else:
-        print("Missing args: <got> <expected>")
+            [print("  %s" % (err.encode('utf-8'),), file=sys.stdout) for err in errs]
+
+            return 1
+        else:
+            return 0
+    except BaseException as e:
+        print("error: %s" % (e,), file=sys.stderr)
+        return 2
 
 
 class Article:

@@ -4,12 +4,12 @@
 # against expected data
 
 set -e
-# the command to nvoke to scrape
+# the command to invoke to scrape
 scrape=/home/ben/mygo/src/arts/scrapetool/scrapetool
 
 # command to compare scrape output against .expected files
 compare=./compare
-
+compare_flags=
 if [ -z "$1" ]
 then
     # default - scan data dir
@@ -22,11 +22,31 @@ else
     inputs="$1"
 fi
 
+goodcnt=0
+badcnt=0
+errcnt=0
 for expected in $inputs; do
     htmlfile=$(echo $expected | sed 's/\.expected/\.html/')
     tmpfile=$(mktemp)
     #echo >&2 $htmlfile
     ${scrape} "file://$(pwd)/$htmlfile" >$tmpfile
-    ${compare} $tmpfile $expected
+    set +e
+    errs=$(${compare} ${compare_flags} $tmpfile $expected)
+    result=$?
+    if [ $result -eq 0 ]; then
+        echo "GOOD: ${expected}"
+        let goodcnt=goodcnt+1
+    elif [ $result -eq 1 ]; then
+        echo "BAD: ${expected}"
+        echo "$errs"
+        let badcnt=badcnt+1
+    else
+        echo "ERROR: ${expected}"
+        echo "$errs"
+        let errcnt=errcnt+1
+    fi
+    set -e
     rm $tmpfile
 done
+
+echo "${goodcnt} good, ${badcnt} bad, ${errcnt} errors"
