@@ -1,4 +1,16 @@
 #!/usr/bin/env python
+""" compare
+
+Compare output from a news article scraper against expected data.
+
+The .expected data files are designed to be easy to edit by hand.
+They begin with a yaml front-matter section, then the rest
+of the file is the text content that we expect to be extracted.
+For now, we expect the scraper to produce that same format, ready to
+be passed into this program.
+"""
+
+
 from __future__ import print_function
 import yaml
 import re
@@ -40,13 +52,19 @@ class Article:
         f = open(filename,"r")
         with f:
             data = f.read()
+            # split yaml front matter from content block
             m = splitter.match(data)
             meta = yaml.load(m.group(1))
-            for f in ("headline","published","updated","authors","canonical_url"):
+            for f in ("headline","published","updated","authors","canonical_url","alternate_urls"):
                 if f in meta:
                     self.__dict__[f] = meta[f]
                 else:
                     self.__dict__[f] = None
+
+            # some patchups
+            if self.alternate_urls is None:
+                self.alternate_urls = []
+
             self.content = m.group(2)
 
     def dump(self):
@@ -61,6 +79,12 @@ class Article:
     def compare(self,expected):
         errs = []
 
+        # check urls
+        if self.canonical_url != expected.canonical_url:
+            errs.append("canonical_url: expected '%s', got '%s'" %(expected.canonical_url,self.canonical_url))
+        if sorted(self.alternate_urls) != sorted(expected.alternate_urls):
+            errs.append("alternate_urls: expected '%s', got '%s'" %(expected.alternate_urls,self.alternate_urls))
+
         # check headline
         if self.headline != expected.headline:
             errs.append("Headline: expected '%s', got '%s'" %(expected.headline,self.headline))
@@ -72,6 +96,9 @@ class Article:
         for author in self.authors:
             if expected.find_author(author) is None:
                 errs.append("extra author: '%s'" % (author['name'],))
+
+
+
 
         # TODO: everything else :-)
 
