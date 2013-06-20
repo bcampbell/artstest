@@ -5,7 +5,7 @@
 
 set -e
 # the command to invoke to scrape
-scrape=/home/ben/mygo/src/arts/scrapetool/scrapetool
+scrape="go run /home/ben/mygo/src/github.com/bcampbell/arts/scrapetool/main.go"
 
 # command to compare scrape output against .expected files
 compare=./compare

@@ -41,8 +41,10 @@ def main():
             return 1
         else:
             return 0
+
     except BaseException as e:
         print("error: %s" % (e,), file=sys.stderr)
+        raise
         return 2
 
 
@@ -59,7 +61,10 @@ class Article:
                 if f in meta:
                     self.__dict__[f] = meta[f]
                 else:
-                    self.__dict__[f] = None
+                    if f in ("authors","alternate_urls"):
+                        self.__dict__[f] = []
+                    else:
+                        self.__dict__[f] = None
 
             # some patchups
             if self.alternate_urls is None:
