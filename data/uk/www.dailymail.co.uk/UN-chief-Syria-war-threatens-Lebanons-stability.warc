@@ -1,0 +1,3248 @@
+WARC/1.0
+Content-Length: 139467
+Content-Type: application/http; msgtype=response
+Warc-Date: 2014-04-24T23:20:52Z
+Warc-Record-Id: urn:X-scrapeomat:1398381652615296888
+Warc-Target-Uri: http://www.dailymail.co.uk/wires/ap/article-2612475/UN-chief-Syria-war-threatens-Lebanons-stability.html
+Warc-Type: response
+X-Scrapeomat-Srcurl: http://www.dailymail.co.uk/wires/ap/article-2612475/UN-chief-Syria-war-threatens-Lebanons-stability.html
+
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Cache-Control: max-age=278
+Connection: keep-alive
+Connection: Transfer-Encoding
+Content-Type: text/html;charset=UTF-8
+Date: Thu, 24 Apr 2014 23:20:52 GMT
+Vary: User-Agent
+Vary: Accept-Encoding
+X-Rs-Ops: mol-hsk-cljfe4:8181
+
+8000
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/">
+  <head>
+
+  <title>UN chief: Syria war threatens Lebanon's stability | Mail Online</title>
+
+  <!-- google_ad_section_start(name=s1) -->
+  <meta name="keywords" content="UN,chief,Syria,war,threatens,Lebanons,stability" />
+  <meta name="news_keywords" content="UN,chief,Syria,war,threatens,Lebanons,stability" />
+  <meta name="description" content="UNITED NATIONS (AP) — The U.N. secretary-general is warning that the 3-year-old conflict in Syria poses a serious threat to the stability of neighboring Leba..." />
+  <meta name="original-source" content="http://www.dailymail.co.uk/wires/ap/article-2612475/UN-chief-Syria-war-threatens-Lebanons-stability.html" />
+  <!-- google_ad_section_end(name=s1) -->
+
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta http-equiv="Content-Language" content="en" />
+  <meta name="Rating" content="General" />
+  <meta name="doc-class" content="Living Document" />
+  <meta name="verify-v1" content="DXwlrsxbqxSv+FTFkWUfgflBvFJfx2YbNf/HmABrVyY=" />
+  <meta name="msvalidate.01" content="12E6B4B813EB44C9BFC8F6A21F1D01F5" />
+  <meta name="y_key" content="1a7e912afbfcab2f" />
+  <meta http-equiv="imagetoolbar" content="false" />
+  <meta name="MSSmartTagsPreventParsing" content="true" />
+  <meta property="twitter:account_id" content="15438913" />
+  <meta name="articleid" content="2612475" />
+  <meta name="divclasspage" content="articlePage" />
+  <meta name="dartPageType" content="art" />
+  <meta name="robots" content="noodp,noydir,all,noarchive" />
+  <meta property="twitter:card" content="summary_large_image" />
+  <meta property="twitter:title" content="UN chief: Syria war threatens Lebanon's stability" />
+  <meta property="twitter:description" content="UNITED NATIONS (AP) — The U.N. secretary-general is warning that the 3-year-old conflict in Syria poses a serious threat to the stability of neighboring Leba..." />
+  <meta property="twitter:url" content="http://www.dailymail.co.uk/wires/ap/article-2612475/UN-chief-Syria-war-threatens-Lebanons-stability.html" />
+  <meta property="twitter:image" content="" />
+  <meta property="twitter:app:name:iphone" content="" />
+  <meta property="twitter:app:id:iphone" content="384101264" />
+  <meta property="twitter:app:name:ipad" content="" />
+  <meta property="twitter:app:id:ipad" content="400442503" />
+  <meta property="twitter:app:name:googleplay" content="" />
+  <meta property="twitter:app:id:googleplay" content="" />
+  <meta property="article:publisher" content="https://www.facebook.com/DailyMail" />
+  <meta property="article:published_time" content="2014-04-24T19:49:54.000Zyyyy-MM-dd HH:mm:ss z" />
+  <meta property="article:modified_time" content="2014-04-24T19:49:54.000Zyyyy-MM-dd HH:mm:ss z" />
+  <meta property="article:section" content="AP" />
+  <meta property="article:tag" content="UN chief Syria war threatens Lebanons stability" />
+  <meta property="article:author" content="http://www.dailymail.co.uk/home/search.html?s=&authornamef=Associated+Press" />
+  <meta property="fb:app_id" content="146202712090395" />
+  <meta property="og:site_name" content="Mail Online" />
+  <meta property="og:title" content="UN chief: Syria war threatens Lebanon's stability" />
+  <meta property="og:type" content="article" />
+  <meta property="og:description" content="UNITED NATIONS (AP) — The U.N. secretary-general is warning that the 3-year-old conflict in Syria poses a serious threat to the stability of neighboring Leba..." />
+  <meta property="og:url" content="http://www.dailymail.co.uk/wires/ap/article-2612475/UN-chief-Syria-war-threatens-Lebanons-stability.html" />
+  <meta property="og:image" content="" />
+
+  <link rel="canonical" href="http://www.dailymail.co.uk/wires/ap/article-2612475/UN-chief-Syria-war-threatens-Lebanons-stability.html"   />
+  <link rel="search" href="/xml/opensearch.xml" title="Mail Online Search" type="application/opensearchdescription+xml" />
+  <link rel="alternate" href="/wires/ap/index.rss" title="Mail Online AP RSS feed" type="application/rss+xml" />
+  <link rel="publisher" href="https://plus.google.com/101913233771349778690/"   />
+
+  
+  
+  
+
+  <link rel="stylesheet" type="text/css" media="screen" href="http://scripts.dailymail.co.uk/static/gunther/gunther-497/all--.css" /><link rel="stylesheet" type="text/css" media="screen" href="http://scripts.dailymail.co.uk/static/gunther/gunther-497/all1--.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="http://scripts.dailymail.co.uk/static/gunther/gunther-497/colours.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="http://scripts.dailymail.co.uk/static/gunther/gunther-497/mobilegallery--.css" />
+
+<!--[if lte IE 6]><link rel="stylesheet" type="text/css" media="screen" href="http://scripts.dailymail.co.uk/static/gunther/gunther-497/ie6--.css" /><![endif]-->
+
+<link rel="stylesheet" type="text/css" media="print" href="http://scripts.dailymail.co.uk/static/gunther/gunther-497/print--.css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="http://scripts.dailymail.co.uk/static/gunther/gunther-440/registration--.css" />
+
+
+
+
+
+
+
+    <link rel="stylesheet" type="text/css" media="screen" href="http://scripts.dailymail.co.uk/static/bundles/rc-main-140318154402.css" />
+
+
+
+<style type="text/css">
+.wiresap .masthead {
+background-image:url(http://i.dailymail.co.uk/i/pix/tim_channelheaders/597x91_wires_ap.png);
+}
+</style>
+
+
+  <script type="text/javascript">
+  PageCriteria = window.PageCriteria || {};
+  PageCriteria.channel = 'wires';
+  PageCriteria.subchannel = 'ap';
+  PageCriteria.geo = 'GB';
+  PageCriteria.pageType = 'article';
+  PageCriteria.articleId = '2612475';
+  PageCriteria.sponsored = '';
+  
+  </script>
+  
+  <script type="text/javascript">
+  PageCriteria.latitude = "51.50";
+  PageCriteria.longitude = "-0.12";
+  PageCriteria.geo = "GB" || PageCriteria.geo;
+  </script>
+  
+
+  <script type="text/javascript">
+    
+      
+        var twitterVia = 'MailOnline';
+    
+  
+    var useAdx = false;
+    var useFreewheel = false;
+    var useRtp = false;  
+  </script>
+  <!-- Grapeshot-->
+  <script type="text/javascript">
+  var andGrapeshot,
+      gs_channels = "DEFAULT",
+      gs_us_channels = "DEFAULT";
+  
+  andGrapeshot = 1;
+  
+  </script>
+  <script type='text/javascript'>
+  var crtg_nid="1867";
+  var crtg_cookiename="cto_dailymail";
+  var crtg_varname="crtg_content";
+  function crtg_getCookie(c_name){ var i,x,y,ARRCookies=document.cookie.split(";");for(i=0;i<ARRCookies.length;i++){x=ARRCookies[i].substr(0,ARRCookies[i].indexOf("="));y=ARRCookies[i].substr(ARRCookies[i].indexOf("=")+1);x=x.replace(/^\s+|\s+$/g,"");if(x==c_name){return unescape(y);}}return'';}
+  
+  var crtg_content = crtg_getCookie(crtg_cookiename);
+  var crtg_rnd=Math.floor(Math.random()*99999999999);
+  var crtg_url=location.protocol+'//rtax.criteo.com/delivery/rta/rta.js?netId='+escape(crtg_nid);crtg_url+='&cookieName='+escape(crtg_cookiename);crtg_url+='&rnd='+crtg_rnd;crtg_url+='&varName=' + escape(crtg_varname);
+  var crtg_script=document.createElement('script');crtg_script.type='text/javascript';crtg_script.src=crtg_url;crtg_script.async=true;
+  if(document.getElementsByTagName("head").length>0)document.getElementsByTagName("head")[0].appendChild(crtg_script);else if(document.getElementsByTagName("body").length>0)document.getElementsByTagName("body")[0].appendChild(crtg_script);</script>
+  
+    
+  
+  
+  <script type="text/javascript">
+    if (!window.console) window.console = { log: function() {} };
+    var ANDDebugOn = false;
+    var s_account='anddailymailprod';
+    var s_account15 = 'molglobalprod';
+  </script>
+  
+  <script type="text/javascript">
+  
+  
+     var mol_ipad_smartappbanner = false;
+    
+  
+    
+      var mol_smartappbanner = true;
+    
+  
+  </script>
+  <script type="text/javascript" src="http://scripts.dailymail.co.uk/static/gunther/lib-4/lib--.js" ></script>
+  <script type="text/javascript" src="http://scripts.dailymail.co.uk/static/gunther/gunther-497/dm1--.js" ></script>
+  <script type="text/javascript">
+    DM.guntherBase = 'http://scripts.dailymail.co.uk/static/gunther/gunther-497/';
+    //features
+    DM.features = {};
+  </script>
+  <script type="text/javascript">
+  
+  
+    
+      DM.isLoggedIn = false;
+    
+  
+  </script>
+  
+  <script type="text/javascript">
+  var adReferrer = '';
+  
+  if ("" != "") {
+    DM.setCookie("adReferrer", "", "", "/");
+    adReferrer = "";
+  }
+  else if (DM.getCookie("adReferrer") != null) {
+    adReferrer = DM.getCookie("adReferrer");
+  }
+  
+  var adType='dart',
+      dartSiteId = "dailymail.uk",
+      DFPid="N5765",
+      adAreaSiteId = "dm",
+      adAreaId = "wires",
+      adSubareaId = (adReferrer == "") ? "ap" : adReferrer,
+    adPageType = 'art',
+    adContent = "",
+    adSection = '',
+    adArticleId = "2612475",
+    adEnvironment = "production",
+    enableAds=true;
+  
+  </script>
+  <script type="text/javascript">
+    var adProbe = new Array();
+    (function() {
+       var cusIds = '13392,13393,9979,13394,9978,',
+           wlOrd = new Date().getTime();
+       document.write('<scr' + 'ipt type="text/javascript" src="http://req.connect.wunderloop.net/AP/470/5854/9978/js?cus='+cusIds+'&ord=' + wlOrd + '"></sc' + 'ript>');
+    })();
+  </script>
+  
+  <script type="text/javascript">
+    if(typeof 13392 !== 'undefined') {
+       adProbe.push({variableName: 'wl13392camp',
+                     variableValue: wl13392camp,
+                     advertPosition: 'ldr_top'});
+    }
+    if(typeof 13393 !== 'undefined') {
+       adProbe.push({variableName: 'wl13393camp',
+                     variableValue: wl13393camp,
+                     advertPosition: 'mpu_top'});
+    }
+    if(typeof 9979 !== 'undefined') {
+       adProbe.push({variableName: 'wl9979camp',
+                     variableValue: wl9979camp,
+                     advertPosition: ''});
+    }
+    if(typeof 13394 !== 'undefined') {
+       adProbe.push({variableName: 'wl13394camp',
+                     variableValue: wl13394camp,
+                     advertPosition: 'billboard'});
+    }
+    if(typeof 9978 !== 'undefined') {
+       adProbe.push({variableName: 'wl9978camp',
+                     variableValue: wl9978camp,
+                     advertPosition: ''});
+    }
+  </script>  
+    <script type="text/javascript">
+        var freewheelAdIdentType = "standardBC_id";
+        function setFreewheelAdIdentType (id) {
+            if (window.useFreewheel && id) {
+                freewheelAdIdentType = "mi9videoid";
+            } else if (window.useFreewheel) {
+                freewheelAdIdentType = "standardBC_id";
+            }
+        }
+    
+        if (window.useFreewheel) {
+            window.fw_config = function() {
+                return _.chain({
+                    siteSection: 'dma_wires',
+                    siteSectionId: 'dma_wires',
+                    assetIdField: freewheelAdIdentType
+                }).extend({     amLocation: "http://adm.fwmrm.net/p/msn_au_live/AdManager.swf",         amLocation_js: "http://adm.fwmrm.net/p/msn_au_live/AdManager.js", cb_profile: "MSN_AU_BC_Live",     cb_profile_js: "MSN_AU_BC_HTML5_Live",     fw_server: "http://5bb3d.v.fwmrm.net",     networkId: 375613,    videoAssetFallbackId:"brightcove_video"   } ).value();
+            };
+        }
+    </script>
+
+  
+
+  <script type="text/javascript">
+  var taboola_country = 'uk';
+  window._taboola = window._taboola || [];
+  _taboola.push({ article:'auto' });
+  !function (e, f, u) {
+    e.async = 1;
+    e.src = u;
+    f.parentNode.insertBefore(e, f);
+  }(document.createElement('script'), document.getElementsByTagName('script')[0], 'http://cdn.taboola.com/libtrc/dailymail-' + taboola_country + '/loader.js');
+</script>
+
+
+  <script type="text/javascript">
+      var inlineModules = "";
+  </script>
+  
+
+</head>
+
+  <body id="ap" class="wiresap mol-desktop">
+    <script type="text/javascript">MobileUtils.setupMobileClass();</script>
+  
+    <script type="text/javascript">
+  //<![CDATA[
+  DM.ComScore.off = false;
+  DM.ComScore.labels = {
+    c2: '14366613',
+    name: 'wires.ap.article.2612475.un-chief-syria-war-threatens-lebanons-stability.page',
+    mo_vs_pl: 'we',
+    mo_vs_pr: 'dm',
+    mo_vs_ct: 'ar',
+    category: 'wires',
+    mo_site: 'dailymail',
+    mo_logged_in: 0
+  }
+  if (DM.isLoggedIn && DM.userId) {
+    Ext.apply(DM.ComScore.labels, {
+      mo_logged_in: 1,
+      mo_user_id: DM.userId
+    });
+  }
+  DM.ComScore.dm  = DM.ComScore.getDM();
+  DM.ComScore.vd  = '';
+  //]]>
+</script>
+
+<!-- Begin comScore Inline Tag 1.1111.15 -->
+<script type="text/javascript">
+  //<![CDATA[
+  function udm_(a) {
+    var b = "comScore=", c = document, d = c.cookie, e = "", f = "indexOf", g = "substring", h = "length", i = 2048, j, k = "&ns_", l = "&", m, n, o, p, q = window, r = q.encodeURIComponent || escape;
+    if (d[f](b) + 1)for (o = 0, n = d.split(";"), p = n[h]; o < p; o++)m = n[o][f](b), m + 1 && (e = l + unescape(n[o][g](m + b[h])));
+    a += k + "_t=" + +(new Date) + k + "c=" + (c.characterSet || c.defaultCharset || "") + "&c8=" + r(c.title) + e + "&c7=" + r(c.URL) + "&c9=" + r(c.referrer), a[h] > i && a[f](l) > 0 && (j = a[g](0, i - 8).lastIndexOf(l), a = (a[g](0, j) + k + "cut=" + r(a[g](j + 1)))[g](0, i)), c.images ? (m = new Image, q.ns_p || (ns_p = m), m.src = a) : c.write("<", "p", "><", 'img src="', a, '" height="1" width="1" alt="*"', "><", "/p", ">")
+  }
+  udm_('http' + (document.location.href.charAt(4) == 's' ? 's://sb' : '://b') + '.scorecardresearch.com/b?c1=2&c2=' + '14366613' + '&name=' + 'wires.ap.article.2612475.un-chief-syria-war-threatens-lebanons-stability.page' + '&mo_vs_pl=we&mo_vs_pr=dm&mo_vs_ct=ar&mo_tb=0&category=wires&mo_article_id=2612475&mo_article_author=associated+press&mo_article_date=20140424&mo_article_title=un+chief%3A+syria+war+threatens+lebanon%27s+stability&mo_article_pd=20140424&mo_article_vn=7579666&mo_site=dailymail' + ((DM.isLoggedIn && DM.userId) ? '&mo_logged_in=1&mo_user_id=' + DM.userId : '&mo_logged_in=0') + DM.ComScore.dm + DM.ComScore.vd);
+  //]]>
+</script>
+
+<noscript><p><img src="http://b.scorecardresearch.com/p?c1=2&c2=14366613&name=wires.ap.article.2612475.un-chief-syria-war-threatens-lebanons-stability.page&mo_vs_pl=we&mo_vs_pr=dm&mo_vs_ct=ar&mo_tb=0&category=wires&mo_article_id=2612475&mo_article_author=associated+press&mo_article_date=20140424&mo_article_title=un+chief%3A+syria+war+threatens+lebanon%27s+stability&mo_article_pd=20140424&mo_article_vn=7579666&mo_site=dailymail&mo_logged_in=0" height="1" width="1" alt="*"></p></noscript>
+<!-- End comScore Inline Tag -->
+
+        <!-- SiteCatalyst code version: H.20.3.
+    Copyright 1997-2009 Omniture, Inc. More info available at
+    http://www.omniture.com -->
+
+    <script type="text/javascript">
+      var searchTerms = '';
+    </script>
+
+    
+    
+    <script type="text/javascript">
+      searchTerms = '';
+    </script>
+    
+    
+
+    <script type="text/javascript"><!--
+    var refererHost = "direct";
+    if (document.referrer) {
+        var docReferrerHostMatches = new RegExp("://([^/]*)/.*").exec(document.referrer);
+        /* Check just to be safe */
+        if (docReferrerHostMatches) {
+            var docReferrerHost = docReferrerHostMatches[1];
+            refererHost = docReferrerHost;
+        }
+    }
+    // login tracking (1)
+    DM.pageEvents.listen(DM.pageEvents.PAGE_LOGIN_BUTTON_CLICKED, function (obj, event, pars){
+        if (pars.action === 'loggingIn'){
+            document.cookie = "attempting_login=true; path=/";
+        }
+    });
+
+    DM.setPageMetadata((function (){
+        var pagemeta = {
+            domain: 'dailymail',
+            channel: '/wires',
+            subChannel: '/wires/ap',
+            subChannel2: '',
+            contentType: 'article',
+            articleTitle: 'UN chief: Syria war threatens Lebanon\'s stability',
+            articleId: '2612475',
+            articleVersionNumber: '7579666',
+            internalSearchTerms: searchTerms,
+            loggedInStatus: (DM.isLoggedIn ? 'Logged In' : 'Logged Out'),
+            galleryTitle: '',
+            galleryId: '',
+            threadTitle: '',
+            threadId: '',
+            userId: DM.userId,
+            partnerSite: '',
+            publishedDate: new Date(1398368994000),
+            authorName: 'Associated Press',
+            errorUrl: '',
+            serverDate: new Date(1398378421089),
+            url: 'D=g',
+            referringSubDomain: refererHost,
+            inlineLinks: '',
+            pageName: '/wires/ap/article',
+            products: '',
+	    bundleVersion: 'gunther-497'
+        };
+        // login tracking (1)
+        if (document.cookie.replace(/(?:(?:^|.*;\s*)attempting_login\s*\=\s*([^;]*).*$)|^.*$/, "$1") === "true" &&
+            DM.isLoggedIn) {
+              document.cookie = "attempting_login=false; path=/";
+              pagemeta.registrationEntry = 'Successfully Logged In';
+        }
+
+        return pagemeta;
+    }()));
+
+    /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+    DM.pageEvents.fireEvent(DM.pageEvents.PAGE_RENDER_STARTED, DM.getPageMetadata());
+    //--></script>
+    <script type="text/javascript"><!--
+    if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+    //--></script><!--/DO NOT REMOVE/-->
+    <!-- End SiteCatalyst code version: H.20.3. -->
+
+        <script type="text/javascript">
+         
+        var _gaq = _gaq || [];
+          _gaq.push(['_setAccount', 'UA-3639451-1']);
+          _gaq.push(['_trackPageview']);
+    
+          (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+          })();
+        </script>
+    
+    
+    <script type="text/javascript">
+      if (!DM.ted) {
+        DM.ted = {
+          geo: function(location) {
+            DM.ted.g = location;
+          }
+        };
+      }
+      
+      
+          DM.ted.geo('GB');
+        
+      
+      if (!DM.ted.tedEvent) {
+        AND.addScript('http://video.dailymail.co.uk/brightcove/tracking/ted3.js', {
+          success: function() {
+            DM.ted.tedEvent('view');
+          }
+        });
+      } else {
+        DM.ted.tedEvent('view');
+      }
+    </script>
+    <script type="text/javascript">
+    (function() {
+      var currentChannel = 'wires' || 'none';
+      var subchannel = 'ap' || 'none';
+      var currentSubchannel = (subchannel === currentChannel) ? 'none' : subchannel;
+      var pageType = 'article';
+    
+      var adControlDevice = "";
+      if (MobileUtils.isIPhone()) {
+        adControlDevice = "iphone";
+      } else if (MobileUtils.isIPad()) {
+        adControlDevice = "ipad";
+      } else if (MobileUtils.isAndroidTablet() || MobileUtils.isKindleSilk()) {
+        adControlDevice = "androidTablet";
+      } else if (MobileUtils.isAndroidPhone()) {
+        adControlDevice = "androidMobile";
+      } else {
+        adControlDevice = "other";
+      }
+      var url = 'http://mads.dailymail.co.uk/v2' + '/' + PageCriteria.geo.toLowerCase() + '/' + currentChannel + '/' + currentSubchannel + '/' + pageType + '/' + adControlDevice;
+    
+      adverts.setStickyBannerZoomThresholds(
+        1,
+        1
+      );
+      adverts.requestSlotConfig(url);
+    })();
+    </script>    
+    <script>(function() {
+      var _fbq = window._fbq || (window._fbq = []);
+      if (!_fbq.loaded) {
+        var fbds = document.createElement('script');
+        fbds.async = true;
+        fbds.src = '//connect.facebook.net/en_US/fbds.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(fbds, s);
+        _fbq.loaded = true;
+      }
+      _fbq.push(['addPixelId', '1401367413466420']);
+    })();
+    window._fbq = window._fbq || [];
+    window._fbq.push(["track", "PixelInitialized", {}]);
+    </script>
+    <noscript><img height="1" width="1" border="0" alt="" style="display:none" src="https://www.facebook.com/tr?id=1401367413466420&amp;ev=NoScript" /></noscript>
+  
+     <div id="adx_page_skins" class="adHolder">
+         <script type="text/javascript">
+            adverts.addToArray({pos: 'adx_page_skins'});
+        </script>
+    </div>  
+    <div id="lightbox-target" class="lightbox-gallery hidden"></div>
+    <div id="top" class="page_banner_overrides page page-banner articlePage ">
+      
+
+
+
+
+
+<div id="page-container">
+      <div class="clear">&nbsp;</div>
+
+      <div class="page-header bdrgr2">
+  <div class="home">
+    <div class="masthead">
+      <a href="/"><img src="http://i.dailymail.co.uk/i/sitelogos/logo_mol.gif" width="350" height="66" alt="MailOnline - news, sport, celebrity, science and health stories" id="logo" /></a>
+    </div>
+</div>
+<a name="navigation"></a>
+<ul class="nav-primary cleared bdrgr3 cnr5"
+	data-track-module="nav-primary^primary" data-track-pos="static">
+  <li class="home">
+  <span class="link-gr6ox linkro-ccox">
+    <a href="/home/index.html" class="no-border" > Home</a>
+  </span>
+</li>
+  <li class="news">
+  <span class="link-gr6ox linkro-ccox">
+    <a href="/news/index.html"  > News</a>
+  </span>
+</li>
+  <li class="home">
+  <span class="link-gr6ox linkro-ccox">
+    <a href="/ushome/index.html"  > U.S.</a>
+  </span>
+</li>
+  <li class="sport">
+  <span class="link-gr6ox linkro-ccox">
+    <a href="/sport/index.html"  > Sport</a>
+  </span>
+</li>
+  <li class="tvshowbiz">
+  <span class="link-gr6ox linkro-ccox">
+    <a href="/tvshowbiz/index.html"  > TV&amp;Showbiz</a>
+  </span>
+</li>
+  <li class="femail">
+  <span class="link-gr6ox linkro-ccox">
+    <a href="/femail/index.html"  > Femail</a>
+  </span>
+</li>
+  <li class="health">
+  <span class="link-gr6ox linkro-ccox">
+    <a href="/health/index.html"  > Health</a>
+  </span>
+</li>
+  <li class="sciencetech">
+  <span class="link-gr6ox linkro-ccox">
+    <a href="/sciencetech/index.html"  > Science</a>
+  </span>
+</li>
+  <li class="money">
+  <span class="link-gr6ox linkro-ccox">
+    <a href="/money/index.html"  > Money</a>
+  </span>
+</li>
+  <li class="video">
+  <span class="link-gr6ox linkro-ccox">
+    <a href="/video/index.html"  > Video</a>
+  </span>
+</li>
+  <li class="coffeebreak">
+  <span class="link-gr6ox linkro-ccox">
+    <a href="/coffeebreak/index.html"  > Coffee Break</a>
+  </span>
+</li>
+  <li class="travel">
+  <span class="link-gr6ox linkro-ccox">
+    <a href="/travel/index.html"  > Travel</a>
+  </span>
+</li>
+  <li class="femail">
+  <span class="link-gr6ox linkro-ccox">
+    <a href="/femail/fashionfinder/index.html"  > Fashion Finder</a>
+  </span>
+</li>
+</ul>
+
+<div class="home">
+  <div class="nav-secondary wocc link-lccox cleared bdrgr3"
+    data-track-module="nav-secondary^secondary" data-track-pos="static">
+    <ul class="float-l">
+      <li class="first">
+        <a href="/wires/index.html"  >Wires Home</a>
+      </li>
+    </ul>
+
+    <script language="JavaScript">
+        <!--
+        if (DM.isLoggedIn) {
+            document.write('<ul class="float-r">      <li class="first">        <a href="/registration/profile.html">My Profile</a>      </li>      <li id="logout" class="first">        <a class="js-logout" href="/registration/logout.html">Logout</a>      </li>    </ul>');
+            } else {
+        document.write('<ul class="float-r">      <li id="login" class="first">        <a class="js-login" href="/registration/login.html?targetUrl= "           data-target="/registration/p/lightbox_login.html?targetUrl= .login-lightbox"           data-modal-type="login-overlay"           data-ajax-refresh-everytime="false"           data-toggle="modal">Login</a>      </li>    </ul>');
+        }
+        // -->
+    </script>
+
+      <noscript>
+          <ul class="float-r">      <li class="first">        <a href="/registration/profile.html">My Profile</a>      </li>      <li id="logout" class="first">        <a class="js-logout" href="/registration/logout.html">Logout</a>      </li>    </ul>
+      </noscript>
+
+      <!-- to remove after releasing gunther -->
+    <script type="text/javascript">
+    DM.has('login', 'login', {
+      url: '/registration/p/lightbox_login.html?targetUrl=' + window.location
+    });
+    DM.has('logout', 'logout', {
+      url: '/registration/logout.html?targetUrl=' + window.location
+    });
+    </script>
+  </div>
+</div>
+
+<script>
+currentChannelTwitterFollow = 'MailOnline';
+NavigationShare.init({facebookAppId: '146202712090395',
+		      facebookChannelUrl: 'http://www.dailymail.co.uk/facebook/channel.html',
+		      channel: '',
+		      hostName: 'http://www.dailymail.co.uk',
+		      articleUrl: ''});
+</script>
+
+<div class="supplements"
+  data-track-module="nav-supplements^supplements" data-track-pos="static">
+  <div class="lkeFlw">
+    <div class="imgs">
+     </div>
+     <div class="links">
+      <a href="http://www.dailymail.co.uk/home/article-1388040/Privacy-Policy-Cookies.html"  target="_blank"  >Cookie Policy</a>
+      <a href="/home/feedback.html"   class="last" >Feedback</a>
+   </div>
+    <div class="btns">
+      <div class="fb-like" data-href="http://www.facebook.com/DailyMail" data-send="false" data-layout="button_count" data-width="150" data-show-faces="false" data-font="arial"></div>
+    </div>
+    <div class="btns">
+      <a style="border-right:none;" href="https://twitter.com/MailOnline" class="twitter-follow-button twitter-follow-header" data-show-count="false" data-show-screen-name="true"></a>
+    </div>
+  </div>
+  <div id="fb-root"></div>
+</div>
+
+<div class="weather" data-track-module="nav-weather^weather" data-track-pos="static"></div>
+<script type="text/javascript">
+    var now = moment();
+    $.get( "/weather.html", {
+      old: "true",
+      latitude: PageCriteria.latitude,
+      longitude: PageCriteria.longitude,
+      weatherDate: now.format('YYYYMMDDHH')}, function( data ) {
+     $( ".page-header .weather" ).append( "<strong>" + now.format("dddd, MMM Do YYYY") + "</strong>" + data );
+      });
+</script>
+
+</div> <!-- from masthead -->
+
+
+
+
+      
+      <div id="content">
+      <div class="billboard_wrapper relative">
+        <div class="adHolder billboard" id="billBoard">
+          <script type="text/javascript">
+          adverts.addToArray({pos:'billboard', type: "970x250,900x250", dcopt:true, adProbe: true});
+          </script>
+        </div>
+        <div class="billboard-show js-show hdn">
+          <a href="#" class="homeblue"><b class="arrow-small-d"></b> show ad</a>
+        </div>
+      </div>  
+      <div class="floating-menu" id="floatingMenu">
+  <div class="shareArticles floatingShareArticles">
+    <div id="floatingShare">
+  <ul>
+    <li class="facebook">
+      <a></a>
+    </li>
+    <li class="twitter">
+      <a></a>
+    </li>
+    <li class="pinterest">
+      <a></a>
+    </li>
+    <li class="gplus">
+      <span class="g-interactivepost"
+            data-contenturl="http://www.dailymail.co.uk/wires/ap/article-2612475/UN-chief-Syria-war-threatens-Lebanons-stability.html"
+            data-contentdeeplinkid="/pages"
+            data-clientid="746589970956-e10ciaf67a1id9ggu75ph3ds0sthn7j6.apps.googleusercontent.com"
+            data-cookiepolicy="single_host_origin"
+            data-prefilltext="UN chief: Syria war threatens Lebanon's stability"
+            data-calltoactionlabel="VIEW"
+            data-calltoactionurl="http://www.dailymail.co.uk/wires/ap/article-2612475/UN-chief-Syria-war-threatens-Lebanons-stability.html">
+        <a></a>
+      </span>
+    </li>
+    <li class="mail">
+      <a href="http://www.dailymail.co.uk/wires/ap/article-2612475/emailArticle.html" title="Email to a friend" target="_new"></a>
+    </li>
+    <li class="share">
+      <p>
+	0
+      </p>
+      <span>shares</span>
+    </li>
+  </ul>
+</div>
+<script type="text/javascript">
+DM.has('socialLinksFloating', 'SCExternalLinks', {
+    value: 'share 2612475'
+});
+</script>
+<script type="text/javascript">
+DM.has('socialLinks', 'comScore', {
+  mo_ev_ty: 'share',
+  mo_ev_pl: 'bottom',
+  del: 'a.js-tl'
+});
+</script>
+
+  </div>
+</div>
+
+<div class="articleWide cleared">
+  <div class="alpha">
+    <div id="js-article-text" class="article-text wide">
+    <h1>UN chief: Syria war threatens Lebanon's stability</h1>
+<p class="author-section">By
+<a href="/home/search.html?s=&amp;authornamef=Associated+Press" class="author" rel="nofollow">Associated Press</a>
+</p>
+<p class="byline-section"><span class="article-timestamp article-timestamp-published">
+  <span class="article-timestamp-label">Published:</span>
+  
+  
+      20:49, 24 April 2014
+    
+  
+</span>
+ | <span class="article-timestamp article-timestamp-updated">
+  <span class="article-timestamp-label">Updated:</span>
+  
+  
+      20:49, 24 April 2014
+    
+  
+</span>
+</p>
+<div id="articleIconLinksContainer">
+  <ul>
+    <li class="share-facebook" onclick="postToFB('top'); return false;"></li>
+    <li class="share-twitter" onclick="postToTWTTR('top'); return false;"></li>
+    
+    <li class="share-gplus">
+      <span class="g-interactivepost"
+	    data-contenturl="http://www.dailymail.co.uk/wires/ap/article-2612475/UN-chief-Syria-war-threatens-Lebanons-stability.html"
+	    data-contentdeeplinkid="/pages"
+	    data-clientid="746589970956-e10ciaf67a1id9ggu75ph3ds0sthn7j6.apps.googleusercontent.com"
+	    data-cookiepolicy="single_host_origin"
+	    data-prefilltext="UN chief: Syria war threatens Lebanon's stability"
+	    data-calltoactionlabel="VIEW"
+	    data-calltoactionurl="http://www.dailymail.co.uk/wires/ap/article-2612475/UN-chief-Syria-war-threatens-Lebanons-stability.html">
+        <a onclick='postToGPlus("top"); return false;'></a>
+      </span>
+    </li>
+    <li class="share-icons" id="shareLinkTop">
+      <a class="js-sl share-link" href="#socialLinks"> </a>
+      <script type="text/javascript">
+      var twitterVia = '';
+      DM.has('shareLinkTop', 'shareLinks', {
+              'id': '2612475',
+              'title': 'UN chief: Syria war threatens Lebanon\'s stability',
+              'url': 'http://www.dailymail.co.uk/wires/ap/article-2612475/UN-chief-Syria-war-threatens-Lebanons-stability.html',
+              'eTwitterStatus': ' http://dailym.ai/1mECwuZ via @' + twitterVia,
+              'articleChannelFollowButton': '',
+              'isChannel': false,
+              'placement': 'top',
+              'anchor': 'tl'
+      });
+      </script>
+    </li>
+  </ul>
+</div>
+<p><font style="font-size:1.2em;">UNITED NATIONS (AP) — The U.N. secretary-general is warning that the 3-year-old conflict in Syria poses a serious threat to the stability of neighboring Lebanon, as thousands of refugees stream into the small country and weapons and fighters are transferred out.</font></p><p><font style="font-size:1.2em;">Ban Ki-moon's latest report to the U.N. Security Council, circulated Thursday, says the involvement of Lebanese groups in the Syrian fighting "has had a devastating impact on security," including several terrorist attacks in Lebanon "by groups claiming that they are acting in response to Hezbollah's fighting in Syria."</font></p><p><font style="font-size:1.2em;">Lebanon, with its own history of a 15-year civil war, has a fragile sectarian mix that supports both sides in the Syrian conflict.</font></p><p><font style="font-size:1.2em;">Sunni Muslims in Lebanon tend to support Syrian rebels. Lebanese Shiites tend to support the Syrian regime. The powerful Shiite Hezbollah group has sent fighters to support the regime's forces, and the U.N. chief again called on that to stop.</font></p><p><font style="font-size:1.2em;">Ban's report also highlighted the growing humanitarian problem as Lebanon, "the smallest and most vulnerable of Syria's neighbors," hosts the most of its refugees.</font></p><p><font style="font-size:1.2em;">Earlier this month, the U.N. refugee agency marked a grim milestone: the one-millionth refugee to register in Lebanon, a country of just 4.5 million.</font></p><p><font style="font-size:1.2em;">The agency has said it is registering an average of more than one refugee a minute there.</font></p><p><font style="font-size:1.2em;">The country is "facing significant humanitarian and socio-economic challenges as a consequence," Ban's new report said.</font></p><p><font style="font-size:1.2em;">The U.N. chief also noted the almost-daily "cross-border shooting, shelling and rocket attacks" from Syria into Lebanon, which killed at least 12 people in the past half-year. All were in the border town of Arsal, which was hit by multiple rocke
+8000
+ts on Jan. 17 and by at least 20 missiles on March 3 and 16 during raids by the Syrian Air force.</font></p><p><font style="font-size:1.2em;">Ban called for "full respect" for Lebanon's sovereignty, including from Israel, whose continued overflights of Lebanese territory he described as "deplorable."</font></p>
+    
+    
+    
+    
+    <div class="column-content cleared">
+      <div class="shareArticles">
+        <h3 class="social-links-title">Share or comment on this article</h3>
+        <div class="social-links cleared" id="socialLinks">
+          <ul class="bigLinks sc-icns cleared">
+            <li class="facebook">
+              <a class="js-tl" onclick='postToFB("bottom"); return false;' rel="nofollow"></a>
+            </li>
+            <li class="twitter">
+              <a class="js-tl" onclick="postToTWTTR('bottom'); return false;" rel="nofollow"></a>
+            </li>
+            <li class="googleplus">
+              <span class="g-interactivepost"
+                    data-contenturl="http://www.dailymail.co.uk/wires/ap/article-2612475/UN-chief-Syria-war-threatens-Lebanons-stability.html"
+                    data-contentdeeplinkid="/pages"
+                    data-clientid="746589970956-e10ciaf67a1id9ggu75ph3ds0sthn7j6.apps.googleusercontent.com"
+                    data-cookiepolicy="single_host_origin"
+                    data-prefilltext="UN chief: Syria war threatens Lebanon's stability"
+                    data-calltoactionlabel="VIEW"
+                    data-calltoactionurl="http://www.dailymail.co.uk/wires/ap/article-2612475/UN-chief-Syria-war-threatens-Lebanons-stability.html">
+                <a class="js-tl" onclick="postToGPlus('bottom');" rel="nofollow"></a>
+              </span>
+            </li>
+            <li class="email">
+              <a class="js-tl" href="http://www.dailymail.co.uk/wires/ap/article-2612475/emailArticle.html" onclick="emailArticle('bottom');" title="Email to a friend" target="_new" rel="nofollow">
+              </a>
+            </li>
+            <li class="share" id="shareLinkBottom">
+              <a class="js-sl share-link" href="#socialLinks">
+              </a>
+            </li>
+    
+          </ul>
+          <script type="text/javascript">
+          var twitterVia = '';
+          DM.has('shareLinkBottom', 'shareLinks', {
+    	'id': '2612475',
+    	'title': 'UN chief: Syria war threatens Lebanon\'s stability',
+    	'url': 'http://www.dailymail.co.uk/wires/ap/article-2612475/UN-chief-Syria-war-threatens-Lebanons-stability.html',
+            'eTwitterStatus': ' http://dailym.ai/1mECwuZ via @' + twitterVia,
+            'articleChannelFollowButton': '',
+            'placement': 'bottom',
+            'anchor': 'tl'
+            ,'hideEmailBottom' :true
+          });
+          </script>
+        </div>
+    
+    
+              <script type="text/javascript">
+              DM.has('socialLinks', 'SCExternalLinks', {
+                value: 'share 2612475'
+              });
+          
+              // Google +1 callback used in article_icon_links.jsp
+              window.plusone_vote = function(obj) {
+                DM.pageEvents.fireEvent(DM.pageEvents.SOCIAL_BUTTON_CLICKED, {
+                  pageMetadata: DM.getPageMetadata(),
+                  type: 'plusone-vote',
+                  channel: 'ap',
+                  link: obj.href
+                });
+          
+                DM.ComScore.connectCallback('plusone-vote', obj);
+              };
+          
+              window.twitterCallback = function(intent_event) {
+               var placement, $button = $(intent_event.target);
+                // if I get a placement it is a follow button
+                if ($button.is('.twitter-follow-author')){
+                  placement = 'author';
+                }
+                else if ($button.is('.twitter-follow-header')){
+                  placement = 'header';
+                }
+          
+                if (placement) {
+                  DM.pageEvents.fireEvent(DM.pageEvents.SOCIAL_SHARE_CLICKED, {
+                    pageMetadata: DM.getPageMetadata(),
+                    site: 'twitter-follow',
+                    placement: placement
+                  });
+                }
+                else {
+                  DM.pageEvents.fireEvent(DM.pageEvents.SOCIAL_BUTTON_CLICKED, {
+                    pageMetadata: DM.getPageMetadata(),
+                    type: 'twitter-click',
+                    channel: 'ap',
+                    link: intent_event.target.baseURI
+                  });
+                }
+                  DM.ComScore.connectCallback('twitter-click', intent_event);
+          
+              };
+          
+              window.___gcfg = {lang: 'en-GB'};
+              window.articleShortUrl = 'http://dailym.ai/1mECwuZ';
+          
+              (function() {
+                var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                po.src = 'https://apis.google.com/js/plusone.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+              })();
+          
+              (function(d, s, id) {
+                var js, fjs = d.getElementsByTagName(s)[0];
+                if (d.getElementById(id)) return;
+                js = d.createElement(s); js.id = id;
+                js.src = '//connect.facebook.net/en_GB/all.js#xfbml=1&appId=146202712090395&channelUrl=http://www.dailymail.co.uk/facebook/channel.html&status=1&cookie=1&oauth=1';
+                fjs.parentNode.insertBefore(js, fjs);
+              }(document, 'script', 'facebook-jssdk'));
+          
+              if (!window.fbAsyncInit) {
+                window.fbAsyncInit = function() {
+                  FB.Event.subscribe('edge.create', function(response) {
+                    DM.ComScore.connectCallback('facebook-like', response);
+                    DM.pageEvents.fireEvent(DM.pageEvents.SOCIAL_BUTTON_CLICKED, {
+                      pageMetadata: DM.getPageMetadata(),
+                      type: 'facebook-like',
+                      channel: 'ap',
+                      link: 'http://www.dailymail.co.uk/wires/ap/article-2612475/UN-chief-Syria-war-threatens-Lebanons-stability.html'
+                    });
+                  });
+                }
+              }
+          
+              if (!window.twttr) {
+                window.twttr = (function (d,s,id) {
+                  var t, js, fjs = d.getElementsByTagName(s)[0];
+                  if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+                  js.src='//platform.twitter.com/widgets.js'; fjs.parentNode.insertBefore(js, fjs);
+                  return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+                }(document, 'script', 'twitter-wjs'));
+              }
+          
+              if (window.twttr) {
+                window.twttr.ready(function (twttr) {
+                  twttr.events.bind('click', twitterCallback);
+                });
+              }
+              </script>
+    
+      </div>
+    </div>
+    
+    
+    
+    <div class="column-content cleared">
+      <div id="wideCommentAdvert" class="googleAds">
+            <script type="text/javascript" src="http://scripts.dailymail.co.uk/static/gunther/gunther-497/googleads--.js"></script>
+    <script type="text/javascript">
+      var goog_ad = {};
+    </script>
+
+    
+    
+        <script>
+          var google_ad_client = 'ca-an-dailymail';
+          goog_ad.prefix = 'uk';
+        </script>
+      
+    
+
+    <script type="text/javascript">
+      goog_ad.channel = 'wires_ap';
+      google_ad_channel = '' + goog_ad.prefix + '_' + goog_ad.channel;
+    </script>
+
+    <script type="text/javascript">
+      google_ad_output = 'js';
+      google_ad_type = 'text';
+      google_ad_type_location = 'comments'
+      google_language = 'en';
+      google_encoding = 'utf8';
+      google_safe = 'high';
+      google_ad_section = 's1 s2';
+      google_feedback = 'on';
+      google_max_num_ads = 4;
+      google_skip = 0;
+    </script>
+
+     <script type="text/javascript">
+       adverts.requestGoogleAd(false, 'comments');
+     </script>
+      </div>
+    </div>
+    
+    
+    <p class="rc-title bdrgr2 m-b-15">Sorry we are not currently accepting comments on this article.</p>
+    </div>
+    
+  </div>
+  
+  <div class="beta">
+      <div class="item beta_search_wrapper">
+  <a name="search"></a>
+  <form id="p-2-bing" name="searchForm" action="/home/search.html" method="get">
+  <div class="bing cnr5">
+    <fieldset class="cleared">
+      <legend class="usability">Bing</legend>
+      <div class="bow cleared">
+        <span class="ctnr-l">
+          <span class="nowrap"><input id="p-2-bing-site" name="sel" value="site" type="radio" class="ie-radio" checked="checked" /><label for="p-2-bing-site">Site</label></span>
+          <span class="nowrap"><input id="p-2-bing-web" name="sel" value="web" type="radio" class="ie-radio" /><label for="p-2-bing-web">Web</label></span>
+        </span>
+        <span class="ctnr-r">
+          <label for="p-2-searchPhrase" class="usability">Enter search term:</label>
+          <input id="p-2-searchPhrase" class="text-input" name="searchPhrase" type="text"><button type="submit"><span class="usability">Search</span></button>
+        </span>
+      </div>
+      <span class="bing-logo"></span>
+    </fieldset>
+    <span class="tl"></span>
+    <span class="tr"></span>
+    <span class="bl"></span>
+    <span class="br"></span>
+  </div>
+  </form>
+<script type="text/javascript">
+  DM.has('p-2-bing', 'bingSearchBox');
+</script>
+</div>
+
+      <div class="item mpu_wrapper">
+  <div class="mpu adHolder molads_mpu_top" id="p-3">
+  <script type="text/javascript">
+    adverts.addToArray({type:'300x250', pos:'mpu_top', adProbe:true});
+  </script>
+</div>
+</div>
+
+      <div class="home item html_snippet_module">
+  <ul class="puff-follow">
+    <li class="facebook">
+        <a alt="Facebook">
+            <b>Like</b>
+            <span>DailyMail</span>
+        </a>    
+    </li>
+    <li class="twitter">
+        <a alt="Twitter">
+            <b>Follow</b>
+            <span>MailOnline</span>
+        </a>
+    </li>
+    <li class="pinterest">
+        <a alt="Pinterest">
+            <b>Follow</b>
+            <span>DailyMail</span>
+        </a>
+    </li>
+    <li class="gplus">
+        <a alt="GooglePlus One">
+            <b>+1</b>
+            <span>DailyMail</span>
+        </a>
+    </li> 
+</ul>
+<script>
+        PuffShare.init({});
+</script>
+</div>
+
+      <div class="femail item">
+  <div class="puff cleared" id="p-5"
+     data-track-module="llg-1000113^puff">
+  
+  <span class="tl">&nbsp;</span>
+  <span class="tr">&nbsp;</span>
+  <h3 class="wocc">DON'T MISS</h3>
+  <ul class="link-bogr2 linkro-wocc">
+    <li>
+      <a href="/tvshowbiz/article-2612548/Jennifer-Lawrence-Nicholas-Hoult-look-besotted-step-al-fresco-lunch.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/linkListItem-0-1D5309F600000578-268_154x115.jpg" height="115" width="154" alt="Jennifer Lawrence" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          PICTURE EXCLUSIVE: Lovebirds Jennifer Lawrence and Nicholas Hoult look besotted as they step out for al fresco lunch
+          </strong>
+          Quiet pub moment
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612372/Casey-Batchelor-attempts-sexy-selfies-skimpy-pink-bikini.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612372-1D5225F500000578-51_154x115.jpg" height="115" width="154" alt="CASEY" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Worth documenting! Casey Batchelor attempts to take sexy selfies as she relaxes poolside in skimpy pink bikini
+          </strong>
+          Doesn't mind posing up
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612399/Jorgie-Porter-virtually-unrecognisable-ditches-glamour-goes-make-free-outing-ex-boyfriend-Andrew-Collinge.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612399-1D521FCA00000578-822_154x115.jpg" height="115" width="154" alt="Jorgie Porter" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Jorgie Porter is virtually unrecognisable as she ditches the glamour and goes make-up free for outing with ex-boyfriend Andrew Collinge
+          </strong>
+          
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612511/Kym-Marsh-Chelsee-Healey-fashion-fail-attend-annual-event-matching-ensembles.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612511-1D532E7B00000578-676_154x115.jpg" height="115" width="154" alt="Kym Marsh" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          The eighties called... they want their jumpsuits back! Kym Marsh and Chelsee Healey suffer a mutual fashion fail as they judge Miss Manchester&nbsp;
+          </strong>
+          
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612398/Tamera-Mowry-shows-post-baby-body-sexy-pink-swimwear.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612398-1D52469B00000578-728_154x115.jpg" height="115" width="154" alt="'First time in a bikini since my honeymoon!' Sister, Sister star Tamera Mowry shows off her post-baby body in sexy pink swimwear" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          'First time in a bikini since my honeymoon!' Sister,
+ Sister star Tamera Mowry shows off her post-baby body in sexy pink swimwear
+          </strong>
+          Gave birth in 2012
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612607/Taylor-Swift-makes-long-legs-centre-attention-short-skirt.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612607-1D5432E600000578-963_154x115.jpg" height="115" width="154" alt="Trouble when she walked in! Taylor Swift makes her long legs the centre of attention in a very short skirt" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Trouble when she walked in! Taylor Swift makes her long legs the centre of attention in a very short skirt
+          </strong>
+          Taylor knows how to highlight her best assets
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612602/Vogue-McFadden-rocks-chic-outerwear-sexy-leather-shorts-joins-husband-Brian-McFadden-art-event.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612602-1D54049900000578-115_154x115.jpg" height="115" width="154" alt="VOGUE MCFADDEN" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Caped crusader! Vogue McFadden rocks chic outerwear and sexy leather shorts as she joins husband Brian at art event
+          </strong>
+          Runway-ready look
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612521/Kris-Jenner-Khloe-Kardashian-different-style-approaches-day-home-decorating-shopping.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612521-1D54139600000578-145_154x115.jpg" height="115" width="154" alt="Kris Jenner looks ready for a night on the tiles in strapped stilettos while daughter Khloe Kardashian slums it in gym gear on outing to home furnishings store" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Kris Jenner looks ready for a night on the tiles in strapped stilettos while daughter Khloe Kardashian slums it in gym gear on outing to home furnishings store
+          </strong>
+          
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612507/Tila-Tequila-opens-finding-joy-heartbreak-father-revealed-struggling-musician-Thomas-Paxton-Whitaker.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612507-1D5308D400000578-231_154x115.jpg" height="115" width="154" alt="'My baby saved my life': Tila Tequila opens up about finding joy after heartbreak as the father is revealed to be struggling musician Thomas Paxton Whitaker" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          'My baby saved my life': Tila Tequila opens up about finding joy after heartbreak as the father is revealed to be musician Thomas Paxton Whitaker
+          </strong>
+          
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612631/Kelly-Hoppen-catches-eye-flame-red-dress-joined-Dragons-Den-star-Piers-Linney-BAFTA-TV-Nominees-Party.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-0-1D5434CF00000578-915_154x115.jpg" height="115" width="154" alt="Kelly Hoppen" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          She's on fire! Kelly Hoppen catches the eye in flame red dress as she is joined by Dragon's Den co-star Piers Linney at BAFTA TV Nominees Party
+          </strong>
+          
+        </span>
+      </a>
+    </li>
+    <li class="puff-ad" id="mpu_puff_10">
+      <script type="text/javascript">adverts.addToArray({type: '300x250',pos:'mpu_puff_10'});</script>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612379/Danniella-Westbrook-left-fuming-car-stolen-outside-Kent-home-weeks-burglars-strip-new-property-THREE-times-month.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612379-1D2A3EB700000578-156_154x115.jpg" height="115" width="154" alt="Fuming: Danniella Westbrook was stunned after discovering her car had been stolen from outside her Kent home. Fianc&eacute; Tom Richards has since appealed for help on Twitter" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Danniella Westbrook left 'fuming' after car is stolen from outside Kent home... weeks after burglars strip her new property THREE times in a month
+          </strong>
+          
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612527/Jodie-Foster-shows-shiny-gold-wedding-band-runs-errands-green-smoothie-just-days-marrying-Alexandra-Hedison.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612527-1D53315B00000578-169_154x115.jpg" height="115" width="154" alt="First look at the newlywed: Jodie Foster shows off shiny gold wedding band while running errands just days after marrying Alexandra Hedison" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          First look at the newlywed: Jodie Foster shows off shiny gold wedding band while running errands just days after marrying Alexandra Hedison
+          </strong>
+          
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612572/50-Cent-hit-5m-defamation-lawsuit-model-claims-ruined-career-Instagram.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612572-1D53258B00000578-881_154x115.jpg" height="115" width="154" alt="Rapper 50 Cent 'hit by $5m defamation lawsuit from model who claims he ruined her career on Instagram'" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Rapper 50 Cent 'hit by $5m defamation lawsuit from model who claims he ruined her career on Instagram'
+          </strong>
+          Sally Ferreira appeared in 50's Big Rich Town
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612546/Jeremy-Kyle-does-best-James-Bond-impression-hits-beach-holiday-Barbados.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612546-1D54121400000578-256_154x115.jpg" height="115" width="154" alt="JEREMY KYLE" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          The name's Kyle, Jeremy Kyle! Chat show host does his best James Bond impression as he hits the beach while on holiday in Barbados
+          </strong>
+          
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612444/Rose-McGowan-not-yellow-mellow-dons-garish-ensemble-red-boater-hat-photo-call-plug-new-film.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-0-1D524DA000000578-690_154x115.jpg" height="115" width="154" alt="Rose McGowan is a ray of sunshine as she dons matching golden yellow top and trousers with bright red boater hat" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Rose McGowan is not so mellow in yellow as she dons garish ensemble with red boater hat at photo call to plug new film
+          </strong>
+          London film festival
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/femail/article-2612523/Its-definition-bittersweet-Kiernan-Shipka-opens-filming-final-episodes-Mad-Men.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612523-1D541F4E00000578-444_154x115.jpg" height="115" width="154" alt="Kiernan Shipka Covers 'Scene' Magazine Ahead of Bittersweet 'Mad Men' Ending (Exclusive)" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          'It's the very definition of bittersweet': Kiernan Shipka opens up about filming the final episodes of Mad Men
+          </strong>
+          14-year-old was just six when the series began
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2611878/Joanna-Krupa-slips-sexy-strapless-party-frock-celebrates-turning-35-Hollywood-bash.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2611878-1D523C5900000578-858_154x115.jpg" height="115" width="154" alt="Blonde birthday bombshell: Housewives star Joanna Krupa celebrates her 35th birthday in a revealing strapless dress at the Hollywood Rocks party on April 23" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Bombshell in black: Housewives star Joanna Krupa is settling into LA life nicely as she celebrates 35th birthday in sexy lace gown at Hollywood bash
+          </strong>
+          
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612577/Roseanne-61-shows-new-slimline-figure-Kim-Kardashian-style-belfie.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-0-1D53E75800000578-767_154x115.jpg" height="115" width="154" alt="Raising or lowering the Barr? Now Roseanne, 61, shows off her new slimline figure in Kim Kardashian style 'belfie'" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Raising or lowering the Barr? Now Roseanne, 61, shows off her new slimline figure in Kim Kardashian style 'belfie'
+          </strong>
+          Latest 'belfie' disciple is surprisingly.... Roseanne
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612498/Cara-Delevingne-opts-ladylike-blouse-pencil-skirt-Suki-Waterhouse-rocks-daring-LBD-Burberry-event-Shanghai.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612498-1D53200300000578-770_154x115.jpg" height="115" width="154" alt="BURBERRY" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          From prim to plunging! Cara Delevingne opts for a ladylike blouse and pencil skirt... as Suki Waterhouse rocks a daring LBD at Burberry event in Shanghai
+          </strong>
+          
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612425/Shaping-nicely-Michelle-Heaton-shows-slimmer-frame-outside-Loose-Women-sticking-strict-post-natal-diet-following-birth-son-Aaron.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612425-1D525A4E00000578-638_154x115.jpg" height="115" width="154" alt="Danniella Westbrook" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Shaping up nicely! Michelle Heaton shows off her slimmer frame outside Loose Women... after sticking to strict post-natal diet following birth of son Aaron
+          </strong>
+          
+        </span>
+      </a>
+    </li>
+    <li class="puff-ad" id="mpu_puff_20">
+      <script type="text/javascript">adverts.addToArray({type: '300x250',pos:'mpu_puff_20'});</script>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612310/Kaley-Cuoco-not-ready-close-leaves-salon-stringy-wet-hair-wearing-baggy-sweater.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612310-1D51A28B00000578-575_154x115.jpg" height="115" width="154" alt="Kaley Cuoco leaves the salon in a large grey sweater with newly cropped 'do looking stringy and damp" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Kaley Cuoco is not ready for her close-up as she leaves salon with stringy wet hair and wearing baggy sweater
+          </strong>
+          The 28-year-old star was seen leaving LA salon
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612112/Kym-Marsh-shows-impressive-body-inking-filming-upcoming-episode-Coronation-Street.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612112-1D507E0100000578-874_154x115.jpg" height="115" width="154" alt="That's a big one!: Kym Marsh shows off 'tramp stamp' while filming an upcoming episode of Coronation Street" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          That's a big one!: Kym Marsh shows off impressive body inking while filming an upcoming episode of Coronation Street
+          </strong>
+          Her 'tramp stamp'
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612260/Myleene-Klass-brightens-morning-vibrant-yellow-t-shirt.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/linkListItem-62247888-1D51C48400000578-708_154x115.jpg" height="115" width="154" alt="Klass" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          No holiday blues here: Myleene Klass brightens up a cloudy morning in a vibrant yellow t-shirt and leopard print skirt
+          </strong>
+          Back in London after exotic Easter break
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612457/Ginnifer-Goodwin-dishes-baby-barefoot-pregnant-wedding-Josh-Dallas.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612457-1D527E6800000578-974_154x115.jpg" height="115" width="154" alt="Expectant Once Upon A Time star Ginnifer Goodwin dishes on baby and her 'barefoot and pregnant' wedding to Josh Dallas" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Expectant Once Upon A Time star Ginnifer Goodwin dishes on baby and her 'barefoot and pregnant' wedding to Josh Dallas
+          </strong>
+          Recently married
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612492/Sarah-Jessica-Parker-twin-daughters-Marion-Tabitha-look-stylish-bright-colours-patterns-New-York-stroll.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-0-1D53057000000578-59_154x115.jpg" height="115" width="154" alt="Sarah Jessica Parker and twin daughters Marion and Tabitha look stylish in bright colours and patterns during New York stroll" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Mix 'n' match madness! Sarah Jessica Parker and twin daughters wear clashing colors for New York stroll but still manage to look chic
+          </strong>
+          
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612387/Nick-Jonas-21-shows-beefed-body-tight-T-shirt-low-key-shopping-trip.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612387-1D52360600000578-288_154x115.jpg" height="115" width="154" alt="Nick Jonas, 21, shows off beefed up body in tight T-shirt on low key shopping trip" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          The incredible bulk! Nick Jonas, 21, shows off beefed up body in tight T-shirt on low key shopping trip
+          </strong>
+          Jonas Brother steps out in West Hollywood
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612373/Anna-Paquin-looks-fit-pushes-twins-double-stroller-LA-stroll.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-0-1D51FCB200000578-792_154x115.jpg" height="115" width="154" alt="Rogue would be proud! X-Men star Anna Paquin maneuvers a double stroller as she takes her adorable twins for a stroll in Venice" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          So that's how she stays in shape! Anna Paquin looks fit in Daisy Dukes as she pushes her twins in a double stroller during LA walk
+          </strong>
+          Very hands-on mum
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612334/Ciara-sizzles-exposes-large-bump-revealing-fashions-W-magazine-photo-shoot.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612334-1D51BF0700000578-319_154x115.jpg" height="115" width="154" alt="Pregnant Ciara sizzles as she exposes her very large bump in revealing fashions for W magazine photo shoot" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Pregnant Ciara sizzles as she exposes her very large bump in revealing fashions for W magazine photo shoot
+          </strong>
+          Ciara looks like she's ready any day now
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612441/Kelis-celebrates-cooking-sixth-album-Food-sparklers-cake-NYC-release-party.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612441-1D4FC31D00000578-592_154x115.jpg" height="115" width="154" alt="'Shooting Stars': Kelis celebrates with a big red cake at her album release party for 'Food' on April 23 in NYC" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Kelis celebrates cooking up her sixth album 'Food' with sparklers and cake at NYC release party
+          </strong>
+          Kelis ready to serve up some new music
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612349/Lindsay-Lohan-vague-drink-gives-Alan-Carr-pole-dancing-lesson-Chatty-Man.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-0-1D51D44D00000578-524_154x115.jpg" height="115" width="154" alt="Lindsay Lohan" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          'I don't know... a long time ago': Lindsay Lohan is vague about her last drink... as she gives Alan Carr a pole dancing lesson on Chatty Man
+          </strong>
+          LiLo talks about rehab
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612458/Rita-Ora-dazzles-jade-green-sequin-encrusted-pencil-skirt-sports-jacket-launches-Rimmel-line-New-York.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612458-1D526E8B00000578-613_154x115.jpg" height="115" width="154" alt="RITA ORA" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          The emerald queen! Rita Ora dazzles in a jade green sequin-encrusted pencil skirt and sports jacket as she launches Rimmel line in New York
+          </strong>
+          
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/femail/article-2612360/I-dont-like-use-fame-card-Victoria-Beckham-opens-finding-success-taken-seriously-designer.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612360-1D51FC4100000578-648_154x115.jpg" height="115" width="154" alt="Victoria Beckham, who celebrated her 40th birthday last week, opens up about the limitations and advantages of fame when it comes to being taken seriously as a fashion designer in Business of Fashion (out April 25th)" />
+        <span clas
+8000
+s="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          'I don't like to use the fame card': Victoria Beckham opens up about finding success - and being taken seriously as a designer
+          </strong>
+          Magazine interview
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612326/Victoria-Beckham-opens-crazy-moments-self-doubt-struggles-motherhood-rare-candid-Q-A.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612326-1D49743F00000578-689_154x115.jpg" height="115" width="154" alt="It happens to the best of us: Victoria Beckham has revealed that sometimes even she suffers from self-doubt" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Victoria Beckham opens up about 'crazy moments of self-doubt' and struggles&nbsp; of motherhood in rare and candid Skype Q&amp;A
+          </strong>
+          Shy Posh speaks out
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612440/Rosie-Huntington-Whiteley-flashes-bra-daring-sheer-breezes-LAX.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612440-1D524E9400000578-27_154x115.jpg" height="115" width="154" alt="ROSIE H-W" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Now THAT's how you do jet-set glamour! Rosie Huntington-Whiteley flashes her bra in a daring sheer top as she breezes through LAX airport
+          </strong>
+          
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612238/Jamelia-shows-singing-skills-models-range-bikinis.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612238-1D516DAD00000578-35_154x115.jpg" height="115" width="154" alt="Jamelia's new swimwear campaign" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Loose Women star Jamelia shows off her singing skills as she models range of pretty bikinis for swimwear commercial
+          </strong>
+          Face of Boux Avenue
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612463/Beyonces-half-brother-Nixon-4-forced-trailer-park-mother-just-singer-named-Times-magazines-Most-Influential-person.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612463-1D53040600000578-684_154x115.jpg" height="115" width="154" alt="Beyonce's half brother Nixon, 4, forced to move into trailer park with his mother... just as singer is named Time's magazine's Most Influential person" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Beyonce's half brother Nixon, 4, forced to move into trailer park with his mother... just as singer is named Time's magazine's Most Influential person
+          </strong>
+          
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612490/The-Hobbit-movie-given-bombastic-new-title-The-Battle-Of-The-Five-Armies-replace-low-key-There-And-Back-Again.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-0-1D2562D600000578-570_154x115.jpg" height="115" width="154" alt="The third Hobbit movie is given bombastic new title The Battle Of The Five Armies... to replace the low-key There And Back Again" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          The third Hobbit movie is given bombastic new title The Battle Of The Five Armies... to replace the low-key There And Back Again
+          </strong>
+          Epic trilogy's finale
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612097/Roberto-Cavalli-73-younger-girlfriend-frolic-beach-matching-exotic-print.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612097-1D4FEC8700000578-131_154x115.jpg" height="115" width="154" alt="Wild things: Roberto Cavalli was seen on the beach with his girlfriend Lina Nilson in Miami on Wednesday" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Of course they're wearing leopard! Roberto Cavalli, 73, and his much younger girlfriend frolic on the beach in matching exotic print
+          </strong>
+          
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612218/Bruce-Jenner-walked-Kris-sister-Karen-Houghton-claims.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612218-1D5257C100000578-447_154x115.jpg" height="115" width="154" alt="'He left her!' Bruce Jenner 'walked out' on Kris, claims her sister Karen Houghton" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          'He left her!' Bruce Jenner 'walked out' on Kris, claims her sister Karen Houghton
+          </strong>
+          Reality TV couple called it quits last year after 22 years of marriage
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612215/One-Direction-accused-copying-freeze-special-effect-Australian-band-new-video-You-I.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612215-1D515BEC00000578-933_154x115.jpg" height="115" width="154" alt="one direction" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          One Direction accused of copying 'freeze' special effect from Australian band in new video for You &amp; I
+          </strong>
+          Aussie group Clubfeet said it was their idea
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/femail/article-2611924/Kate-dazzles-white-Duke-Duchesss-night-Australia.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/linkListItem-0-1D50171E00000578-50_154x115.jpg" height="115" width="154" alt="Kate Middleton" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Kate's all white on the last night: Duke and Duchess of Cambridge attend evening reception at the Governor General's house
+          </strong>
+          In Canberra
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/news/article-2611805/Kate-William-arrive-Canberra.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/linkListItem-62247467-1D4FF5FC00000578-756_154x115.jpg" height="115" width="154" alt="Kate and Wilhelmina Dreghorn" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          'She loves princesses so it's a dream come true': Kate delights three-year-old girl who presents her with flowers as they arrive in Canberra on Royal Tour
+          </strong>
+          
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2611939/Cher-Lloyd-sports-long-luscious-locks-performs-Los-Angeles.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/linkListItem-62247640-1D4F31F700000578-204_154x115.jpg" height="115" width="154" alt="Cher who? Publicist has to hold up name board for Cher Lloyd on the red carpet... before Hollywood Rocks performance" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Cher who? Event organiser has to hold up name board for Cher Lloyd on the red carpet before Hollywood Rocks performance<br>
+          </strong>
+          Not the '70s legend
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612488/It-disgusting-watch-Kenya-Moore-reacts-brutal-physical-fight-Porsha-Williams-RHOA.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612488-1D53264600000578-779_154x115.jpg" height="115" width="154" alt="'It was disgusting to watch': Kenya Moore gets candid about brutal physical fight with Porsha Williams on RHOA" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          'It was disgusting to watch': Kenya Moore gets candid about brutal physical fight with Porsha Williams on RHOA
+          </strong>
+          Real Housewives feud
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612302/Emma-Stone-Andrew-Garfield-blue-arrive-Good-Morning-America.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612302-1D51B4DB00000578-390_154x115.jpg" height="115" width="154" alt="Love match! Emma Stone and Andrew Garfield are very blue as they arrive at Good Morning America" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Love match! Emma Stone and Andrew Garfield colour co-ordinate in blue hues as they arrive at GMA studios
+          </strong>
+          Now they dress together
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612549/Allison-Williams-Marnie-spotted-comforted-unlikely-friend-scene-GIRLS-season-four.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-0-1D508CBE00000578-679_154x115.jpg" height="115" width="154" alt="What fresh drama? Marnie and Elijah (Allison Williams and Andrew Rannells) appear to have a moment while filming season four of GIRLS" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Elijah to the rescue? Allison Williams' Marnie is spotted being comforted by an unlikely friend in a scene for GIRLS season four
+          </strong>
+          Dramatic character rifts
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612043/Madonna-outrages-fans-uses-term-gay-insult.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612043-1D51965E00000578-210_154x115.jpg" height="115" width="154" alt="Madonna outrages fans as she uses the term 'gay' as an insult... during a word association game to describe a vegetable" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Madonna outrages fans as she uses the term 'gay' as an insult... during a word association game to describe a vegetable
+          </strong>
+          Supposed to be gay icon
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612200/Alice-Eve-heads-dinner-white-outfit.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612200-1D5160ED00000578-793_154x115.jpg" height="115" width="154" alt="Not a scrap of slap: Alice Eve heads out for dinner in an all-white outfit looking naturally pretty completely make-up free" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Not a scrap of slap: Alice Eve heads out for dinner in an all-white outfit looking naturally pretty completely make- up free
+          </strong>
+          Lucky she can pull it off
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612382/Kanye-West-producer-Rick-Rubin-release-bizarre-acceptance-speech-video.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612382-1D51FEF200000578-474_154x115.jpg" height="115" width="154" alt="Imma let you finish... but this is weird Kanye! West and producer Rick Rubin release bizarre acceptance speech video" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Imma let you finish... but this is weird Kanye! West and producer Rick Rubin release bizarre acceptance speech video
+          </strong>
+          Re-writing history?
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612240/Scantily-clad-ladies-Kelly-Osbourne-course-THAT-hat-Pharrell-Williams-d-buts-music-video-Marilyn-Monroe.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612240-1D51891900000578-3_154x115.jpg" height="115" width="154" alt="Kelly Osbourne, and (of course) THAT hat: Pharrell Williams d&eacute;buts music video for Marilyn Monroe" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Scantily clad ladies, Kelly Osbourne, and of course THAT hat: Pharrell Williams d&eacute;buts music video for Marilyn Monroe single
+          </strong>
+          Homage to uniqueness
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612284/Photo-evidence-Tiger-Woods-ex-Elin-Nordegren-new-flame-Lindsey-Vonn-prove-theyre-friends-chat-game.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612284-1D51660F00000578-293_154x115.jpg" height="115" width="154" alt="Photo evidence: Tiger Woods' ex Elin Nordegren and new flame Lindsey Vonn prove they're friends as they chat at game" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Three's company! Tiger Woods' ex Elin Nordegren and new flame Lindsey Vonn prove they're friends as they chat at game
+          </strong>
+          Kids baseball game
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612338/Jessica-Chastain-play-Marilyn-Monroe-new-film-biopic-produced-Brad-Pitt.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612338-1D51F7B900000578-413_154x115.jpg" height="115" width="154" alt="Jessica Chastain to play Marilyn Monroe in new film biopic produced by Brad Pitt" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Going Blonde: Jessica Chastain to play Marilyn Monroe in new film biopic produced by Brad Pitt's Plan B
+          </strong>
+          Project will be produced by Brad Pitt's company&nbsp;
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2611875/Michelle-Rodriguez-performs-headstand-wearing-pink-bikini.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2611875-1D4F6A7100000578-573_154x115.jpg" height="115" width="154" alt="Yoga lover: Michelle Rodriguez flexes her muscles" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          A tribute to Fast and Furious? Michelle Rodriguez slips into a neon pink bikini to do a headstand next to a Bugatti
+          </strong>
+          Cara Delevingne's lover
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612416/Katy-Perry-jumps-90th-birthday-cake-care-home-portrays-ageing-Vegas-starlet-new-video.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-0-1D522C1C00000578-310_154x115.jpg" height="115" width="154" alt="Katy Perry transforms herself into ageing Vegas showgirl to dance for elderly man in wheelchair as full Birthday video is revealed" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Katy Perry transforms herself into ageing Vegas showgirl to dance for elderly man in wheelchair as full Birthday video is revealed
+          </strong>
+          
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612106/Uma-Thurman-steps-without-engagement-ring.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612106-1D509E9F00000578-971_154x115.jpg" height="115" width="154" alt="Uma Thurman steps out once again without her engagement ring fuelling rumours her relationship with Arpad Busson is over" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Uma Thurman steps out once again without her engagement ring fuelling rumours her relationship with Arpad Busson is over
+          </strong>
+          Had a daughter together
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612232/That-makes-change-Rita-Ora-lacks-colour-steps-white-coat-matching-trainers.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612232-1D511E6900000578-625_154x115.jpg" height="115" width="154" alt="That makes a change: Rita Ora looks glum as steps out in all white coat and matching trainers" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Mind you don't get it dirty: Rita Ora poses for the camera in pristine white designer coat and matching zig-zag soled trainers
+          </strong>
+          Bet that cost a lot...
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612129/Zac-Efron-met-hordes-teenage-fans-arrives-BBC-Radio-1.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612129-1D50FBE500000578-368_154x115.jpg" height="115" width="154" alt="zac efron" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Shouldn't they be in High School? Zac Efron met by hordes of teenage fans as he arrives at BBC Radio 1
+          </strong>
+          Promoting his film Neighbours
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612357/Bethenny-Frankel-pay-100-000-ex-Jason-Hoppys-attorney-divorce-battle-nears-16-MONTHS.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612357-1D5224E900000578-12_154x115.jpg" height="115" width="154" alt="Bethenny Frankel has been ordered to shell out $100,000 to ex Jason Hoppy's attorneys as divorce battle heads into its 16th MONTH" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Bethenny Frankel has been ordered to shell out $100,000 to ex Jason Hoppy's attorneys as divorce battle heads into its 16th MONTH
+          </strong>
+          Bitter proceedings
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/news/article-2612295/Beyonc-tops-Times-2014-100-Most-Influential-People-list.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612295-1D51A75500000578-576_154x115.jpg" height="115" width="154" alt="Pop queen: Time magazine features Beyonce on the cover of its '100 Most Influential People', out Friday" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Beyonc&eacute; beats Obama, Miley and the Pope to land the cover of Time's '100 Most Influential People'
+          </strong>
+          Joins Obama and the Pope on the list
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/femail/article-2612282/Want-lips-like-Lorde-Pop-star-launches-limited-edition-MAC-collection-featuring-signature-deep-plum-lipstick.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612282-1D517E9B00000578-402_154x115.jpg" height="115" width="154" alt="Fans of Lorde will soon be able to get the pop superstar's signature beauty look -- deep plum lips and wing-tipped eyeliner" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Want lips like Lorde? Pop star launches limited edition MAC collection featuring her signature deep plum lipstick
+          </strong>
+          Two-piece collection
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612333/Im-not-THAT-rich-Marc-Anthony-clarifies-earned-40m-past-4-years.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612333-1D51F55300000578-191_154x115.jpg" height="115" width="154" alt="I'm not THAT rich! Marc Anthony clarifies he earned only $40m in the past four years as he continues to battle ex-wife Dayanara Torres on child support payments" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          I'm not THAT rich! Marc Anthony clarifies he earned only $40m in the past four years as he continues to battle ex-wife Dayanara Torres on child support
+          </strong>
+          
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2611926/David-McIntosh-thinks-hes-famous-CBB.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2611926-1D4FC09C00000578-751_154x115.jpg" height="115" width="154" alt="'David&iquest;s too famous for CBB': Kelly Brook's man McIntosh whips up a storm as it's revealed 'he believes he's too popular for British reality show'" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          'David's too famous for CBB': Kelly Brook's man McIntosh whips up a storm as it's revealed 'he believes he's too popular for British reality show'
+          </strong>
+          
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2611963/EastEnders-Jamie-Lomas-looks-ecstatic-23-year-old-model-girlfriend.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-0-1D4F22F900000578-910_154x115.jpg" height="115" width="154" alt="Kym Marsh&iquest;s former husband Jamie Lomas looked like the cat that got the cream as he stepped out with his 23-year-old model girlfriend on Wednesday night." />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          He's a happy chap: Kym Marsh's ex Jamie Lomas, 39, looks pleased with himself as he steps out with 23- year-old model girlfriend
+          </strong>
+          Makes him feel young...
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612134/Nick-Cave-Emeli-Sande-Arctic-Monkeys-head-head-2014-Ivor-Novello-nominees-revealed.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612134-1D5127C400000578-733_154x115.jpg" height="115" width="154" alt="Ivor Novellos" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Nick Cave, Emeli Sande and Arctic Monkeys go head-to-head as 2014 Ivor Novello nominees are revealed
+          </strong>
+          Who will win this year's prestigious ceremony?
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612110/Kylie-Minogue-denies-dancers-worked-free-film-music-video.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612110-1D5137C800000578-777_154x115.jpg" height="115" width="154" alt="Kylie" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          'The atmosphere on set was amazing': Kylie Minogue denies dancers worked for free whilst filming I Was Gonna Cancel music video in Melbourne
+          </strong>
+          
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612014/Michelle-Dockery-looks-elegant-filming-new-Downton-Abbey-scenes.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612014-1D50259900000578-994_154x115.jpg" height="115" width="154" alt="Back in costume: Michelle Dockery has put her period drama attire back on to return to her role as Lady Mary Crawley while filming the fifth series of the show" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          New series but same great style: Michelle Dockery looks elegant in matching purple coat and skirt as Lady Mary while filming Downton Abbey season five
+          </strong>
+          
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612286/Karrueche-Tran-paints-town-red-low-cut-scarlet-dress-hit-Hollywood-nightclub-Chris-Brown-sits-jail.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612286-1D517CD900000578-572_154x115.jpg" height="115" width="154" alt="Karrueche Tran paints the town red in low-cut scarlet dress to hit up a Hollywood nightclub while Chris Brown sits in jail" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Karrueche Tran paints the town red in low-cut scarlet dress to hit up a Hollywood nightclub while Chris Brown sits in jail
+          </strong>
+          No point of moping!
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/femail/article-2612270/Leaving-chest-bare-VERY-sexy-Dita-von-Teese-launches-latest-lingerie-designs-sexiest-shoot-yet.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612270-1D51AD5C00000578-528_154x115.jpg" height="115" width="154" alt="Dita" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          'I wanted a bra to create a voluptuous cleavage': Dita Von Teese launches (and models) her sexiest lingerie collection yet. Yes... there's cleavage
+          </strong>
+          
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/femail/article-2612323/The-real-life-Tinkerbell-Shop-assistant-Gemme-Beard-spends-spare-time-dressed-Disney-characters-cheer-sick-children.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612323-1D4FA87700000578-676_154x115.jpg" height="115" width="154" alt="It's Tinkerbell! Gemma Beard, 22,   works in electrical store Game by day but spends her spare time dressed as a Disney character entertaining children" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          The real life Tinkerbell: Shop assistant, 22, spends spare time dressed as Disney characters to cheer up sick children
+          </strong>
+          Weekend dress-up
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612099/Irina-Shayk-whips-outfit-Miami-beach.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612099-1D50950100000578-197_154x115.jpg" height="115" width="154" alt="Irina Shayk on beach fashion shoot" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Nice work if you can get it! Irina Shayk whips off her outfit on Miami beach before slipping on white dress for fashion shoot
+          </strong>
+          Ronaldo's a lucky boy
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612173/Cara-Delevingne-shares-zany-Instagram-snap-plays-peekaboo-friends-legs.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612173-1D50A70900000578-673_154x115.jpg" height="115" width="154" alt="Model behavior: 21-year-old Cara Delevingne adds a new pic to her wacky Instagram collection" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Cara Delevingne shares yet another zany Instagram snap as she plays peekaboo between friend's legs
+          </strong>
+          Not exactly shy and retiring
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/femail/article-2612022/Cara-Delevingne-Everyone-wants-dress-like-Kate-Moss-Model-opens-icons-style-ahead-Topshop-drop.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612022-1D50627800000578-478_154x115.jpg" height="115" width="154" alt="Cara Delevingne kate moss" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          'Everyone wants to dress like Kate Moss': Cara Delevingne opens up about icon's style ahead of Topshop drop
+          </strong>
+          Kate is designing a range for the high street
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/news/article-2612256/Peaches-Geldofs-husband-sang-Hey-Thats-No-Way-To-Say-Goodbye-accompanied-Jools-Holland-funeral.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612256-079BEC6600000514-380_154x115.jpg" height="115" width="154" alt="Heartbroken: Tom Cohen (pictured with his late wife Peaches Geldof and their two sons Phaedra and Astala) sang a moving tribute to the 25-year-old at her funeral" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Peaches Geldof's husband sang Leonard Cohen's 'Hey, That's No Way To Say Goodbye' accompanied by Jools Holland at her funeral
+          </strong>
+          Tom Cohen sang classic
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/femail/article-2612203/From-toy-shelf-big-screen-Barbie-star-live-action-movie-role-similar-modern-day-Mary-Poppins.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612203-1D4D6B2900000578-666_154x115.jpg" height="115" width="154" alt="In a Barbie world: Barbie is set to make her transition from the toy shelf to the big screen in a new live-action movie produced by Sony, which is expected to go into production by the end of the year" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          From the toy shelf to the big screen: Barbie to star in live-action movie in a role similar to 'a modern-day Mary Poppins'
+          </strong>
+          Who will play Barbie?
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612312/Dressed-success-Petra-Nemcova-cuts-stylish-figure-sharp-shoulder-pads-business-meeting-London.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-0-1D518B2B00000578-204_156x123.jpg" height="115" width="154" alt="Dressed for success: Petra Nemcova cuts a stylish figure in sharp shoulder pads for business meeting in London" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Dressed for success: Petra Nemcova cuts a stylish figure in sharp shoulder pads for business meeting in London
+          </strong>
+          Ready for business
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/femail/article-2612082/Intimate-images-Royal-Family-taken-amateur-photographer-followed-50-YEARS.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/linkListItem-62247833-1D5189DE00000578-294_154x115.jpg" height="115" width="154" alt="royals" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Intimate images of the Royal Family revealed - including a young Diana - taken by an amateur photographer who has followed them for 50 YEARS
+          </strong>
+          
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/femail/article-2612149/First-Lady-fashion-Michelle-Obama-set-open-Costume-Institutes-new-Anna-Wintour-wing-Metropolitan-Museum-Art.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612149-1D4D235600000578-504_154x115.jpg" height="115" width="154" alt="Presidential launch: Michelle Obama (pictured on April 23) will officially open the Costume Institute's Anna Wintour Costume Center on the morning of the annual Costume Institute gala on May 5" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          First Lady of fashion! Michelle Obama set to open the Costume Institute's new Anna Wintour wing at Metropolitan Museum of Art
+          </strong>
+          
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2611870/Cameron-Diaz-twerks-Jimmy-Fallon-reveals-used-deodorant-TWENTY-years.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2611870-1D4F52B000000578-209_154x115.jpg" height="115" width="154" alt="Work it girl: Cameron Diaz started twerking up a storm in front of an actor dressed in a panda bear costume on Late Night With Jimmy Fallon... after revealing she hasn't used deodorant in twenty years" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Hope she didn't sweat it! Cameron Diaz twerks on Jimmy Fallon after revealing she hasn't used deodorant in TWENTY years
+          </strong>
+          Prefers natural scent
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612201/Kellan-Lutz-beats-chest-like-character-Tarzan-zoo-trip.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612201-1D5140A500000578-627_154x115.jpg" height="115" width="154" alt="In character: Kellan Lutz tired out his best Tarzan impression at Bristol Zoo on Thursday" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Where's your loin cloth, Lutz? Kellan gets into character beating his chest like Tarzan during day out at the zoo but fails to impress onlooking gorillas
+          </strong>
+          
+        </span>
+      </a>
+    </li>
+    <li>
+
+8000
+      <a href="/tvshowbiz/article-2610855/Avril-Lavigne-blasts-criticism-new-Hello-Kitty-video-makes-fun-Japanese-culture.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/23/article-2610855-1D47223D00000578-633_154x115.jpg" height="115" width="154" alt="Avril Lavigne shows off her slim figure in plunging leather bodice in new Japanese techno inspired video Hello Kitty" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          'Racist? LOL!': Avril Lavigne blasts criticism her new Hello Kitty video makes fun of Japanese culture
+          </strong>
+          Canadian singer insists she's a big fan
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612196/Chord-Overstreet-shows-agility-skills-furry-star-film-scenes-Glee-dog-training-course.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612196-1D5139F700000578-308_154x115.jpg" height="115" width="154" alt="Jumping for joy! Chord Overstreet shows off his agility skills with a furry co-star to film Glee" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Jumping for joy! Chord Overstreet shows off his agility skills with a furry co-star to film Glee... and Dog Whisperer Cesar Milan drops by too
+          </strong>
+          Never work with animals
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612009/Definitely-not-best-look-Jennifer-Aniston-continues-cut-dowdy-figure-films-scenes-new-movie-LA.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612009-1D503D9600000578-658_154x115.jpg" height="115" width="154" alt="Aniston" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Definitely not her best look: Jennifer Aniston continues to cut a dowdy figure as she films scenes for new movie in LA
+          </strong>
+          Star of Cake
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2611826/Hunger-Games-star-Sam-Claflin-admires-bikini-clad-new-wife-romantic-Hawaii-getaway.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2611826-1D4F69BE00000578-441_154x115.jpg" height="115" width="154" alt="What a view! Hunger Games star Sam Claflin admires bikini-clad new wife on romantic Hawaii getaway" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          What a view! Hunger Games star Sam Claflin admires bikini-clad wife Laura Haddock on romantic Hawaii getaway
+          </strong>
+          Inbetweeners actress
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2611970/Fern-Britton-wades-ageism-debate.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2611970-1D50517A00000578-585_154x115.jpg" height="115" width="154" alt="'It's time for other people to have their turn': Fern Britton wades in on the ageism debate in favour of stepping aside for the next generation" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          'It's time for other people to have their turn': Fern Britton wades in on the ageism debate in favour of stepping aside for the next generation
+          </strong>
+          
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612138/Across-Pond-Dr-Who-actress-Karen-Gillan-looks-dressed-shopping-friend-LA.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-0-1D50F1C200000578-371_156x117.jpg" height="115" width="154" alt="Across the Pond: Dr Who actress Karen Gillan looks dressed down for shopping trip with a friend in LA" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Across the Pond: Dr Who actress Karen Gillan looks dressed down for shopping trip with a friend in LA
+          </strong>
+          Statuesque redhead certainly stood out
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/femail/article-2612030/FEMAIL-gets-ready-join-Cara-Delevingne-Suki-Waterhouse-Burberrys-glittering-Shanghai-launch-party.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612030-1D50726600000578-198_154x115.jpg" height="115" width="154" alt="Burberry Cara Delevingne preview.jpg" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          London lands in Shanghai: FEMAIL gets ready to join Cara Delevingne and Suki Waterhouse at Burberry's glittering Chinese launch party
+          </strong>
+          
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612036/No-missing-luggage-Alexa-Chung-arrives-LAX-airport-brandishing-posh-personalised-Louis-Vuitton-luggage.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612036-1D4FF40800000578-209_154x115.jpg" height="115" width="154" alt="No missing her or her luggage: Alexa Chung arrives at LAX airport brandishing posh personalised Louis Vuitton luggage" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Even her luggage is cool: Alexa Chung steps out in leopard print coat brandishing personalised Louis Vuitton luggage
+          </strong>
+          Pretty pricey suitcases
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612070/Ernest-Hemingways-great-grand-daughter-Dree-boasts-enviable-figure-hits-beach-Miami.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-0-1D5086EF00000578-559_154x115.jpg" height="115" width="154" alt="Dree" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Give us a WAVE! Ernest Hemingway's great-granddaughter Dree boasts an enviable figure as she hits the beach in Miami
+          </strong>
+          Talented family...
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612211/Emmy-Rossum-class-act-demure-dress-charity-fundraiser.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612211-1D516DB100000578-19_154x115.jpg" height="115" width="154" alt="Emmy Rossum wore a Tory Burch dress" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Nothing Shameless about her! TV star Emmy Rossum is a class act in demure dress at charity fundraiser
+          </strong>
+          Looked stunning in a Tory Burch number
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2611774/Kim-Kardashian-pairs-plunging-sheer-blouse-rear-enhancing-plastic-look-skirt-unflattering-effect.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2611774-1D4F81C100000578-339_154x115.jpg" height="115" width="154" alt="Kim Kardashian is filming her reality show in Sherman Oaks" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Bin that outfit! Kim Kardashian unleashes most unflattering look yet as she pairs bizarre 'trash bag' style skirt with plunging sheer blouse
+          </strong>
+          
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2611806/Sharon-Stone-rushed-hospital-Brazil-earlier-month-local-media-speculate-possible-stroke.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2611806-1D4EAB3100000578-705_154x115.jpg" height="115" width="154" alt="Hospital stay: Sharon Stone, shown at the Foundation For Aids Research gala on April 4 in Sao Paulo, Brazil, was reportedly hospitalised for two days following the event" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Sharon Stone 'rushed to hospital' in Brazil earlier this month as local media speculate about a 'possible stroke'
+          </strong>
+          Was in the country hosting an AIDs benefit
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2611908/Justin-Timberlake-left-waitresses-2-450-tip-Cologne-club.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2611908-1D39CFA300000578-811_154x115.jpg" height="115" width="154" alt="Generous: Justin Timberlake reportedly left a group of waitresses a &pound;2,450 tip after partying in Cologne, where he has been performing part of his The 20/20 Experience World Tour" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Generous Justin! Timberlake left waitresses &pound;2,450 after partying until early hours in Cologne club
+          </strong>
+          Currently on tour in Germany
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2611918/Liz-McClarnon-attends-saucy-book-launch-looks-slim-crisp-white-shift-dress.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2611918-1D4F921100000578-496_154x115.jpg" height="115" width="154" alt="Liz McClarnon attends book launch in white dress" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Read all about it: Liz McClarnon attends saucy book launch and looks slim in crisp white shift dress with grey high heels
+          </strong>
+          Looking glossy
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/femail/article-2611850/Australian-designers-verdict-Kates-Royal-tour-outfits.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2611850-1D4F167400000578-262_154x115.jpg" height="115" width="154" alt="Emerald: Kate wore a striking grass green Venetian wool coatdress by Catherine Walker to the reception at Parliament House" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          'Approachable, modern and not dictated by fashion': Australian designers give their verdict on Kate's Royal tour outfits
+          </strong>
+          Series of striking outfits
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/news/article-2611744/Kate-William-pause-Australian-visit-express-sadness-death-Camillas-brother-Mark-Shand.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2611744-1D4DCAD200000578-249_154x115.jpg" height="115" width="154" alt="Kate and William will spend today in Canberra, Australia's capital, meeting locals, visiting Parliament House and attending a reception thrown by the Governor-General" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Kate and William pause during their Australian visit to express their sadness over the death of Camilla's brother Mark Shand
+          </strong>
+          
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/news/article-2611776/Pictured-hours-fatal-slip-outside-New-York-bar-Camillas-brother-Mark-Shand-62-smiling-cameras-secret-fiance-Ruth-Powys.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2611776-1D4D805D00000578-566_154x115.jpg" height="115" width="154" alt="Ruth Powys, Mark Shand.. The Faberge big egg hunt auction, New York, America" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Pictured hours before his death: Camilla's brother Mark Shand, 62, smiling for cameras with his 'secret fianc&eacute;e', 36, and Princess Eugenie
+          </strong>
+          
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/news/article-2611454/A-man-extraordinary-vitality-tireless-campaigner-conservationist-Life-times-Mark-Shand.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/23/article-2611454-1D4C92DA00000578-401_154x115.jpg" height="115" width="154" alt="Mark Shand, left, the brother of Camilla, Duchess of Cornwall, right, has died after falling and suffering a serious head injury in New York" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          A playboy and gossip but he never let his beloved sister down: Richard Kay on the Mark Shand he knew
+          </strong>
+          Vehemently defended his sister Camilla
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2611755/Olivia-Wilde-Jason-Sudeikis-welcome-baby-boy-two-weeks-early-names-got-lot-soul.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2611755-1D4DB81A00000578-348_154x115.jpg" height="115" width="154" alt="Olivia Wilde and Jason Sudeikis welcome  their baby boy nearly two weeks early... and his name's got a lot of soul" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Olivia Wilde and Jason Sudeikis welcome  their baby boy nearly two weeks early... and his name's got a lot of soul
+          </strong>
+          Welcome to the world (and Twitter) little Otis
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2611983/John-Mayer-enjoys-single-life-solo-Australian-shopping-trip.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2611983-1D4FE5FF00000578-354_154x115.jpg" height="115" width="154" alt="Solo trip: John Mayer takes goes out shopping at The Rocks in Sydney on Thursday" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          John Mayer enjoys the single life with a solo shopping trip in Sydney
+          </strong>
+          Katy Perry's ex-boyfriend is currently on tour in Australia
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2611741/Lucy-Mecklenburgh-catches-eye-sleeveless-A-line-dress-Superdrug-birthday-celebration.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2611741-1D4F8D9B00000578-354_154x115.jpg" height="115" width="154" alt="Lucy Mecklenburgh attends the Superdrug 50th Birthday celebration at One Marylebone" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          She's no lemon: Former TOWIE star Lucy Mecklenburgh looks chic in a stylish pleated dress at Superdrug birthday celebration
+          </strong>
+          Covered up for once
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/news/article-2612145/No-shots-George-Clooneys-business-partner-says-actor-NOT-drunk-called-Steve-Wynn-hole.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612145-1D51278B00000578-99_154x115.jpg" height="115" width="154" alt="s" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          No shots were had! George Clooney's business partner says actor was NOT drunk when he called Steve Wynn an a**hole
+          </strong>
+          Row rumbles on
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/femail/article-2612635/I-dont-believe-doing-drastic-things-skin-Salma-Hayek-Pinault-shes-maintains-radiant-complexion-age-47.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-0-1D5436A000000578-569_154x115.jpg" height="115" width="154" alt="Fresh-faced: Salma Hayek Pinault says that her skincare line is meant to enable all women to maintain their youth and beauty" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          'I don't believe in doing drastic things to your skin': Salma Hayek Pinault on how she maintains her radiant complexion at age 47
+          </strong>
+          Salma takes time out
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2611742/Yeezus-wept-Lauren-Goodger-gives-urban-make-wears-leather-jogging-pants-Superdrugs-50th-party.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2611742-1D4F8FCB00000578-556_154x115.jpg" height="115" width="154" alt="Lauren Goodger attends Superdrug party" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Yeezus wept! Lauren Goodger gives herself an urban makeover as she wears leather jogging pants to Superdrug's 50th party
+          </strong>
+          Kanye: that look is mine
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2611702/Jorgie-Porter-Gemma-Merna-toned-curves-strip-skimpy-bikinis-Dubai-beach-holiday.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/23/article-0-1D4D5E4800000578-648_154x115.jpg" height="115" width="154" alt="Gemma Merna" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Family ties: Hollyoaks cousins Jorgie Porter and Gemma Merna show off their toned curves as they strip down to skimpy bikinis for Dubai beach holiday
+          </strong>
+          
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2611844/Mila-Kunis-shows-no-sign-slowing-visits-gym-Los-Angeles.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2611844-1D4F18D100000578-189_154x115.jpg" height="115" width="154" alt="No pregnant pause here! Mila Kunis shows no sign of slowing down as she visits gym in Los Angeles" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          No pregnant pause here! Mila Kunis shows no sign of slowing down as she visits gym in Los Angeles
+          </strong>
+          Keeping in shape to prepare for childbirth
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612040/Hilaria-Baldwin-carries-curious-baby-Carmen-playfully-looks-coffee-run-Alec.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2612040-1D50EB1C00000578-382_154x115.jpg" height="115" width="154" alt="Alec Baldwin and wife Hilaria Thomas grab some coffee while walking their dogs around Manhattan with their daughter Carmen Gabriela Baldwin" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Keeping baby close to her chest! Hilaria Baldwin carries curious Carmen during around coffee run with Alec
+          </strong>
+          Yoga teacher inseperable from his girl
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2611778/Holly-Willoughby-high-spirits-leaves-Celebrity-Juice-revealing-baby-bump.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2611778-1D50078200000578-834_154x115.jpg" height="115" width="154" alt="Holly Willoughby shows off growing bump" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Reasons to be cheerful! Pregnant Holly Willoughby is in high spirits as she leaves Celebrity Juice revealing baby bump
+          </strong>
+          Blooming with third baby
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2611904/Kendall-Jenner-shows-support-sisters-fiancee-Kanye-West-wearing-concert-tour-shirt-again.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2611904-1D4F711C00000578-532_154x115.jpg" height="115" width="154" alt="Tour shirt: Kendall Jenner showed her support for Kanye West on Wednesday as she wore a Yeezus concert shirt while shopping with a friend in Los Angeles" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Showing her support for Yeezus... again! Kendall Jenner steps out in her favourite T-shirt for shopping trip with a pal
+          </strong>
+          Future brother-in-law
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2611829/Kylie-Jenner-16-sophisticated-grey-skirt-white-cropped-enjoys-pampering-West-Hollywood-salon.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2611829-1D4EC18E00000578-530_154x115.jpg" height="115" width="154" alt="Kylie Jenner, 16, is sophisticated in grey skirt and white cropped top as she enjoys some pampering at West Hollywood salon" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Kylie Jenner, 16, is sophisticated in grey skirt and white cropped top as she enjoys some pampering at West Hollywood salon
+          </strong>
+          Pretty pricey salon...
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2611794/Neighbours-Khloe-Kardashians-new-beau-French-Montana-warn-stay-away-quiet-town.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-2611794-1D4DD67700000578-899_154x115.jpg" height="115" width="154" alt="Khloe is not welcome here': Neighbours of Kardashian's new beau French Montana warn her to stay away from their quiet town" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          'Khloe is not welcome here': Neighbours of Kardashian's new beau French Montana warn her to stay away from their peaceful town
+          </strong>
+          Want to keep life quiet
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/tvshowbiz/article-2612047/Robert-Downey-Jr-treats-fans-picture-set-The-Avengers-Age-Of-Ultron.html" class="bottom">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/24/article-0-1D4FDA8600000578-960_154x115.jpg" height="115" width="154" alt="Robert Downey Jr tweets first picture from the set of Avengers" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          What a SUPER- hero: Robert Downey Jr treats his fans to first picture from the set of The Avengers: Age Of Ultron
+          </strong>
+          Is the high-vis part of his costume?
+        </span>
+      </a>
+    </li>
+  </ul>
+  
+</div>
+
+</div>
+<script type="text/javascript">
+  DM.has('p-5', 'comScore', {
+    mo_mod_id: '1000113',
+    mo_mod_pos: 'p-5'
+  });
+</script>
+
+      <div class="event item html_snippet_module">
+   
+   
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+		
+	
+
+
+
+
+	
+	
+		
+	
+
+
+
+	
+
+
+
+
+
+
+
+    
+	
+		
+		<div class="tvshowbiz item puff_pastel_purple_module">
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="puffpastel puffpastel-alt1 cleared">
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+	
+		
+			
+			
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+	
+	
+			
+	
+
+
+<div class="content-container cleared">
+  	<a href="http://pubads.g.doubleclick.net/gampad/clk?id=80742152&iu=/5765/dailymail.uk" target="_blank"><img src="http://i.dailymail.co.uk/i/pix/2014/04/01/undefined-undefined-1CBCF97E00000578-847_136x135.jpg" alt="135x135.jpg" width="136" height="135"/></a>
+	<div class="pufftext">
+	 	<h3><font size="4">M&S Leading Ladies</font></h3>
+	  	<a href="http://pubads.g.doubleclick.net/gampad/clk?id=80742152&iu=/5765/dailymail.uk" target="_blank">Our spring/summer collection as worn by our Leading Ladies. Shop now.</a>
+	  	
+	</div>
+</div>
+<div class="more-container link-wox cleared">
+<a href="http://pubads.g.doubleclick.net/gampad/clk?id=80742152&amp;iu=/5765/dailymail.uk" target="_blank" > more
+</a>
+</div> 
+</div>
+		</div>		
+	
+
+
+
+
+ 
+      
+
+</div>
+
+      <div class="home item button_style_module">
+    <div class="button-style">
+    <a href="http://itunes.apple.com/app/mailonline/id400442503?mt=8&amp;ign-mpt=uo%3D4">
+        <img src="http://i.dailymail.co.uk/i/pix//promoboxes/btn_ipadapp_5_308x111.png" alt="MailOnline iPad app" title="" width="308" height="111" />
+    </a>
+  </div>
+</div>
+
+      <div class="item mpu_wrapper">
+  <div class="mpu adHolder molads_mpu_bottom" id="p-8">
+  <script type="text/javascript">
+    adverts.addToArray({type:'300x250', pos:'mpu_bottom', adProbe:false});
+  </script>
+</div>
+</div>
+
+      <div class="home item html_snippet_module">
+   
+   
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+		
+	
+	
+
+
+
+	
+	
+		
+	
+
+
+
+
+
+
+
+
+<div class="home item">
+	
+		
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="puff puff-advertorials link-wob linkro-bogr2 cleared">
+	<span class="tl">&nbsp;</span>
+	<span class="tr">&nbsp;</span>
+	<h3 class="bogr3">ADVERTORIAL FEATURES</h3>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<ul class="">
+          
+	
+		
+		
+		
+		
+		
+			
+			
+		
+		
+			
+			
+			
+		
+		
+
+		
+			
+			
+				
+				
+				
+				<li>
+					<a href="http://pubads.g.doubleclick.net/gampad/clk?id=76627952&iu=/5765/dailymail.uk">
+						
+							<img src="http://i.dailymail.co.uk/i/pix/promoboxes/red-carpet-puff_154x115.jpg" alt="Red Carpet" width="154" height="115" />
+						
+
+						<span class="pufftext">
+							<span class="arrow-small-r"></span>
+							<strong>TAKE A WALK DOWN THE RED CARPET</strong>
+							Brought to you by Surf
+						</span>
+					</a>
+				</li>
+			
+		
+		
+		
+		
+		
+	
+		
+		
+		
+		
+		
+			
+			
+		
+		
+			
+			
+			
+		
+		
+
+		
+			
+			
+				
+				
+				
+				<li>
+					<a href="http://pubads.g.doubleclick.net/gampad/clk?id=79042232&iu=/5765/dailymail.uk">
+						
+							<img src="http://i.dailymail.co.uk/i/pix/promoboxes/OpenUni_Puff_154x115.jpg" alt="Open University" width="154" height="115" />
+						
+
+						<span class="pufftext">
+							<span class="arrow-small-r"></span>
+							<strong>The Open University</strong>
+							We're offering you the chance to WIN* a fully-funded Open University qualification of your choice. Enter here >
+						</span>
+					</a>
+				</li>
+			
+		
+		
+		
+		
+		
+	
+		
+		
+		
+		
+		
+			
+			
+		
+		
+			
+			
+			
+		
+		
+
+		
+			
+			
+				
+				
+				
+				<li>
+					<a href="http://pubads.g.doubleclick.net/gampad/clk?id=80634152&iu=/5765/dailymail.uk">
+						
+							<img src="http://i.dailymail.co.uk/i/pix/promoboxes/seaworld_puff_154x115.jpg" alt="SeaWorld" width="154" height="115" />
+						
+
+						<span class="pufftext">
+							<span class="arrow-small-r"></span>
+							<strong>WIN a family holiday to Orlando</strong>
+							For two adults and two children, courtesy of SeaWorld Parks & Entertainment.
+						</span>
+					</a>
+				</li>
+			
+		
+		
+		
+		
+		
+	
+		
+		
+		
+		
+		
+			
+			
+		
+		
+			
+			
+			
+		
+		
+
+		
+			
+			
+				
+				
+				
+				<li>
+					<a href="http://pubads.g.doubleclick.net/gampad/clk?id=80293592&iu=/5765/dailymail.uk" class="bottom">
+						
+							<img src="http://i.dailymail.co.uk/i/pix/promoboxes/hobbycraft_puff_154x115.jpg" alt="Hobbycraft" width="154" height="115" />
+						
+
+						<span class="pufftext">
+							<span class="arrow-small-r"></span>
+							<strong>WIN &pound;100 Gift Card Every Day</strong>
+							Enter now for your chance to win!
+						</span>
+					</a>
+				</li>
+			
+		
+		
+		
+		
+		
+	
+</ul>
+ 	
+</div>
+		
+	
+</div>
+
+
+
+ 
+     
+
+</div>
+
+      <div class="home item html_snippet_module">
+  <!-- <img src='http://tag.researchnow.com/t/beacon?pr=41&ca=CAMPAIGNNAME&pl=PLACEMENTNAME&cr=CREATIVENAME&si=SITENAME&adn=3&tt=3' /> -->
+</div>
+
+</div>
+
+  <div class="articleAds articleAds-right" id="js-sky-right">
+    <div id="sky-article-wide" class="sky adHolder molads_sky_right_top">
+      <script type="text/javascript">
+      adverts.addToArray({pos: 'sky_right_top', type: '120x600', target: 'MOL_SKY_WIDE_ART', wide:true});
+      </script>
+    </div>
+  
+    <div id="textAd" class="adHolder molads_halfsky_right_top">
+      <script type="text/javascript">
+      adverts.addToArray({pos:'halfsky_right_top', type: '120x240', wide:true});
+      </script>
+    </div>
+  
+    <div id="h-sky-a" class="adHolder h-sky molads_halfsky_right_middle">
+      <script type="text/javascript">
+      adverts.addToArray({pos:'halfsky_right_middle', type: '120x240', wide:true});
+      </script>
+    </div>
+  
+    <div id="h-sky-b" class="adHolder h-sky molads_halfsky_right_bottom">
+      <script type="text/javascript">
+      adverts.addToArray({pos:'halfsky_right_bottom', type: '120x240', wide:true});
+      </script>
+    </div>
+  
+    <div class="google-sky">
+        <script type="text/javascript" src="http://scripts.dailymail.co.uk/static/gunther/gunther-497/googleads--.js"></script>
+    <script type="text/javascript">
+      var goog_ad = {};
+    </script>
+
+    
+    
+        <script>
+          var google_ad_client = 'ca-an-dailymail';
+          goog_ad.prefix = 'uk';
+        </script>
+      
+    
+
+    <script type="text/javascript">
+      goog_ad.channel = 'wires_ap';
+      google_ad_channel = '' + goog_ad.prefix + '_' + goog_ad.channel;
+    </script>
+
+    <script type="text/javascript">
+      google_ad_output = 'js';
+      google_ad_type = 'text';
+      google_ad_type_location = 'sky'
+      google_language = 'en';
+      google_encoding = 'utf8';
+      google_safe = 'high';
+      google_ad_section = 's1 s2';
+      google_feedback = 'on';
+      google_max_num_ads = 5;
+      google_skip = 4;
+    </script>
+
+     <script type="text/javascript">
+       adverts.requestGoogleAd(true, 'sky');
+     </script>
+    </div>
+  </div></div>
+
+
+  
+  
+      <script type="text/javascript">
+      DM.has('content', 'shareLinks', { isChannel: false,
+      'anchor': 'tl'});
+      </script>
+      <script type='text/javascript' src='/dwr/interface/AjaxPoll.js'></script>
+      <script type='text/javascript' src='/dwr/interface/AjaxFeedsFacade.js'></script>
+      <script type='text/javascript' src='/dwr/interface/AjaxNewsletter.js'></script>
+      <script type='text/javascript' src='/dwr/interface/AjaxWeatherHelper.js'></script>
+      <script type='text/javascript' src='/dwr/engine.js'></script>
+      <script type="text/javascript" src="http://scripts.dailymail.co.uk/static/gunther/gunther-497/dm2--.js" ></script>
+      <script type='text/javascript'>
+      DM.BC.videoAdServerUrl = "http://pubads.g.doubleclick.net/gampad/ads?sz=8x8&iu=%2F5765%2Fdm.video%2Fdm_video_homehp&ciu_szs=&impl=s&gdfp_req=1&env=vp&output=xml_vast2&unviewed_position_start=1&url=[referrer_url]&correlator=[timestamp]";
+      </script>
+      
+      <script type="text/javascript" >
+      
+      var GUNTHER = {};
+      	    GUNTHER.bundleLocation = "http://scripts.dailymail.co.uk/static/gunther/";
+      	    GUNTHER.registrationBundleVersion = "gunther-440";
+      </script>
+      
+      <script src="http://admin.brightcove.com/js/BrightcoveExperiences.js" type="text/javascript"></script>
+      
+      <script type="text/javascript" src="http://scripts.dailymail.co.uk/static/gunther/gunther-497/mobilegallery--.js" ></script>
+
+<div id='mobileGalleryModal'>
+  <div id='mobileGallerySlider' class='swipe'>
+    <div id="mobileGallerySwipeWrap" class='swipe-wrap'>
+      <div class='slide-container terminator'>
+        <div class='slide' data-show-callback='terminator'></div>
+      </div>
+      <div id="interstitial-0" class='slide-container advert' data-advert-index="0" data-position="2">
+        <div class='interstitial adHolder slide'>
+          <script type="text/javascript">
+	    adverts.addToArray({id: 'interstitial', type: '980x90', pos: 'interstitial', command: "pfadj", adProbe: true, dcopt: true});
+	  </script>
+          <div class="adLinkLabel"><a href="#">Find out more...</a></div>
+        </div>
+        <div class="ad-guard"></div>
+      </div>
+      <div id="interstitial-1" class='slide-container advert' data-advert-index="1">
+        <div class='interstitial adHolder slide'>
+          <script type="text/javascript">
+            adverts.addToArray({id: 'interstitial', type: '980x90', pos: 'interstitial', command: "pfadj", adProbe: true, dcopt: true});
+          </script>
+          <div class="adLinkLabel"><a href="#">Find out more...</a></div>
+        </div>
+        <div class="ad-guard"></div>
+      </div>
+      <div class='slide-container terminator'>
+        <div class='slide' data-show-callback='terminator'></div>
+      </div>
+    </div>
+    <div class='mobile-gallery-bar top-bar'><div class='title'></div><div class='close-button'></div></div>
+    <div class='mobile-gallery-bar navigation-bar'><div class='navigation-arrow left'></div><div class='navigation-arrow right'></div></div>
+    <div class='caption-bar'><span class='text'></span></div>
+  </div>
+  <div class='canvas'></div>
+</div>
+<script>
+if (window.ArticlePage) {
+  new ArticlePage();
+}
+</script>
+      
+      
+      
+
+
+
+
+    <script type="text/javascript" src="http://scripts.dailymail.co.uk/static/bundles/rc-main-140318154402.js"></script>
+
+      
+      
+      <script type="text/javascript">
+      if (typeof DM !== "undefined" && typeof DM.Fn !== "undefined") {
+      DM.Fn.init();
+      }
+      </script>
+      
+      
+      
+      <!-- Begin comScore Inline Tag 1.1111.15 -->
+      <script type="text/javascript" language="JavaScript1.3" src="http://b.scorecardresearch.com/c2/14366613/cs.js"></script>
+
+1f88
+      <!-- End comScore Inline Tag -->
+      
+      
+      <script type="text/javascript" src="http://js.revsci.net/gateway/gw.js?csid=D05509&auto=t"></script>
+  
+      </div>
+      <div class="footer" id="footer"
+  data-track-module="nav-footer^footer" data-track-selector=".dm-tab-pane a" data-track-pos="static">
+  <ul class="home dm-tabs cleared js-links">
+    <li class="cnr-5 link-wocc">
+      <span class="tl"> </span>
+      <span class="tr"> </span>
+      <a href="#top">Back to top</a>
+    </li>
+  </ul>
+  <div id="footer-1" class="dm-tab-pane">
+    <ul class="nav-primary cleared bdrgr3">
+        <li class="home">
+  <span class="link-gr6ox linkro-ccox">
+    <a href="/home/index.html" class="no-border">Home</a>
+  </span>
+</li>
+        <li class="news">
+  <span class="link-gr6ox linkro-ccox">
+    <a href="/news/index.html" >News</a>
+  </span>
+</li>
+        <li class="home">
+  <span class="link-gr6ox linkro-ccox">
+    <a href="/ushome/index.html" >U.S.</a>
+  </span>
+</li>
+        <li class="sport">
+  <span class="link-gr6ox linkro-ccox">
+    <a href="/sport/index.html" >Sport</a>
+  </span>
+</li>
+        <li class="tvshowbiz">
+  <span class="link-gr6ox linkro-ccox">
+    <a href="/tvshowbiz/index.html" >TV&amp;Showbiz</a>
+  </span>
+</li>
+        <li class="femail">
+  <span class="link-gr6ox linkro-ccox">
+    <a href="/femail/index.html" >Femail</a>
+  </span>
+</li>
+        <li class="health">
+  <span class="link-gr6ox linkro-ccox">
+    <a href="/health/index.html" >Health</a>
+  </span>
+</li>
+        <li class="sciencetech">
+  <span class="link-gr6ox linkro-ccox">
+    <a href="/sciencetech/index.html" >Science</a>
+  </span>
+</li>
+        <li class="money">
+  <span class="link-gr6ox linkro-ccox">
+    <a href="/money/index.html" >Money</a>
+  </span>
+</li>
+        <li class="video">
+  <span class="link-gr6ox linkro-ccox">
+    <a href="/video/index.html" >Video</a>
+  </span>
+</li>
+        <li class="coffeebreak">
+  <span class="link-gr6ox linkro-ccox">
+    <a href="/coffeebreak/index.html" >Coffee Break</a>
+  </span>
+</li>
+        <li class="travel">
+  <span class="link-gr6ox linkro-ccox">
+    <a href="/travel/index.html" >Travel</a>
+  </span>
+</li>
+        <li class="femail">
+  <span class="link-gr6ox linkro-ccox">
+    <a href="/femail/fashionfinder/index.html" >Fashion Finder</a>
+  </span>
+</li>
+    </ul>
+  </div>
+</div>
+<script type="text/javascript">
+   DM.Footer();
+</script>
+
+<div class="page-footer"
+  data-track-module="nav-page_footer^page_footer" data-track-pos="static">
+  <a href="/home/sitemap.html" >Sitemap</a>
+  <a href="/home/sitemaparchive/index.html" >Archive</a>
+  <a href="/home/article-2084869/Finally-apps-youve-waiting--MailOnline-iPhone-Android-Now-available-US-try-FREE.html">Mobile Apps</a>
+  <a href="/home/rssMenu.html" >RSS</a>
+  <a href="/textbased/channel-1/index.html" rel="nofollow">Text-based site</a>
+  <a href="http://mailpictures.newsprints.co.uk" target="_blank" rel="nofollow" title="Daily Mail Pictures">Reader Prints</a>
+  <a href="/ourpapers" target="_blank" rel="nofollow" title="Our Papers">Our Papers</a>
+  <a href="#top" class="last" >Top of page</a>
+  <br/>
+  <a href="http://www.dailymail.co.uk" target="_blank" rel="nofollow" title="News, sport, health and showbiz from The Daily Mail">Daily Mail</a>
+  <a href="http://www.mailonsunday.co.uk" target="_blank" rel="nofollow"	title="News, sport and showbiz from The Mail on Sunday">Mail on	Sunday</a>
+  <a href="http://www.thisisgloucestershire.co.uk/towns.html" target="_blank" rel="nofollow" title="At the heart of all things local">This is Network</a>
+  <a href="http://www.thisislondon.co.uk" target="_blank" rel="nofollow" title="Entertainment listings, reviews and showbiz from The Evening Standard">This is London</a>
+  <a href="http://www.thisismoney.co.uk" title="Financial Advice, News, Help &amp; Guides from This is Money UK" target="_blank" rel="nofollow" class="last">This is Money</a>
+  <br/>
+  <a href="http://www.metro.co.uk" target="_blank" rel="nofollow" title="Competitions, games and offbeat stories from Metro">Metro</a>
+  <a href="http://www.jobsite.co.uk" target="_blank" rel="nofollow" title="Award-winning UK job search and jobs by email service">Jobsite</a>
+  <a href="http://www.mailtravel.co.uk" target="_blank" rel="nofollow" title="Mail Travel">Mail Travel</a>
+  <a href="http://www.zoopla.co.uk" target="_blank" rel="nofollow" title="Find your ideal house, flat or apartment for sale or rent">Zoopla.co.uk</a>
+  <a href="http://www.primelocation.com" target="_blank" rel="nofollow" title="Search thousands of prime properties for sale or rent">Prime Location</a>
+  <a href="http://www.villarenters.com/" target="_blank" rel="nofollow" title="Holiday Rentals" class="last">Villa Holidays</a>
+</div>
+<div class="and-footer"
+  data-track-module="nav-and_footer^and_footer" data-track-pos="static">
+  <p>Published by Associated Newspapers Ltd</p>
+  <p>Part of the Daily Mail, The Mail on Sunday &amp; Metro Media Group</p>
+
+  
+
+  <a href="http://www.and.co.uk/" target="_blank" rel="nofollow" class="copyRight last">&copy; Associated Newspapers Ltd</a>
+  <a href="/contactus" >Contact us</a>
+  <a rel="nofollow" target="_blank" href="http://www.mailconnected.co.uk/">Advertise with us</a>
+  <a href="/terms" >Terms</a>
+  <a href="/privacy" >Privacy policy &amp; cookies</a>
+  <a href="/additionalcookieinfo" title="Find out more information about cookies on this website" class="cookies last"><img src="http://i.dailymail.co.uk/i/furniture/misc/logo_cookie_reg.png" alt="Cookie regulation logo" width="12" height="12" /></a>
+</div>
+
+
+
+
+  
+      <div id="banner" class="banner adHolder">
+    <script type="text/javascript">
+        adverts.addToArray({type:'468x60', target: 'NON_LEADERBOARD', pos: 'banner_top', dcopt: false});
+    </script>
+</div>
+  
+      </div>
+      <div class="banner-adverts">
+        <div id="stickyBanner" class="adHolder sticky_banner_overrides">
+          <script type="text/javascript">
+          adverts.addToArray({type: '980x90', pos: 'sticky_banner', command: "pfadj", adProbe: true, dcopt: true});
+          </script>
+        </div>
+        <div id="superBanner" class="adHolder">
+          <script type="text/javascript">
+          adverts.addToArray({type: '468x60,728x90,900x125', pos: 'ldr_top', adProbe: true, dcopt: true});
+          </script>
+        </div>
+       </div>    </div>
+    
+    <iframe id="lightbox-shim"></iframe>
+    <div id="overlay">&nbsp;</div>
+    <div id="lightbox-container" class="cnr8">
+        <table id="lightbox" class="ox-iw" summary="lightbox">
+            <tr>
+                <td class="tl"></td>
+                <td></td>
+                <td class="tr"></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>
+                    <div id="lightbox-content">
+                        <div id="lightbox-default-container">&nbsp;</div>
+                        <div id="lightbox-fader">&nbsp;</div>
+                    </div>
+                </td>
+                <td></td>
+            </tr>
+            <tr>
+                <td class="bl"></td>
+                <td></td>
+                <td class="br"></td>
+            </tr>
+        </table>
+    </div>
+    <!-- BEGIN Tynt Script -->
+    <script type="text/javascript">
+    if (document.location.protocol == 'http:') {
+      var Tynt = Tynt || [];
+      Tynt.push('bBOTTqvd0r3Pooab7jrHcU');
+      Tynt.i = {
+        "ap" : "Read more:",
+        "w" : "MailOnline",
+        "f" : "DailyMail"
+      };
+      (function() {
+        var s = document.createElement('script');
+        s.async = "async";
+        s.type = "text/javascript";
+        s.src = 'http://tcr.tynt.com/ti.js';
+        var h = document.getElementsByTagName('script')[0];
+        h.parentNode.insertBefore(s, h);
+      })();
+    }
+    </script>
+    <!-- END Tynt Script -->
+  
+    
+      <script type="text/javascript" src="http://tags.crwdcntrl.net/c/991/cc.js?ns=_cc991" id="LOTCC_991"></script>
+      <script type="text/javascript">
+      _cc991.bcp();
+      </script>
+    
+  
+  </body>
+</html>
+0
+
+
+

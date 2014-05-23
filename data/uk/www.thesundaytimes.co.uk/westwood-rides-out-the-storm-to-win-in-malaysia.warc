@@ -1,0 +1,902 @@
+WARC/1.0
+Content-Length: 40156
+Content-Type: application/http; msgtype=response
+Warc-Date: 2014-04-26T03:39:49Z
+Warc-Record-Id: urn:X-scrapeomat:1398483590871062328
+Warc-Target-Uri: http://www.thesundaytimes.co.uk/sto/sport/golf/article1402092.ece
+Warc-Type: response
+X-Scrapeomat-Srcurl: http://www.thesundaytimes.co.uk/sto/sport/golf/article1402092.ece
+
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Cache-Control: max-age=60
+Connection: keep-alive
+Content-Type: text/html;charset=UTF-8
+Date: Sat, 26 Apr 2014 03:39:50 GMT
+Objttl: 
+Server: Apache-Coyote/1.1
+Vary: Accept-Encoding
+X-Cachemod-Currenttl: 900s
+X-Cachemod-Origttl: max-age=900
+X-Client-Ttl: 50
+X-Ni-Location: 
+X-Ni-Statuscode: acsaz-200
+X-Ni-Statusmessage: 
+X-Origcc: max-age=50
+X-Origd: Sat, 26 Apr 2014 03:39:50 GMT
+X-Varnish: 1194640371
+X-Ws: docache1,stocda14a
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/js/lib/jquery-1.8.2.min.js">\x3C/script>')</script>
+<script type="text/javascript">
+var sto = sto || {};
+sto.document = {};
+sto.document.domain = "thesundaytimes.co.uk" ;
+</script>
+<script type='text/javascript'>
+var _vwo_code=(function(){
+var account_id=26962,
+settings_tolerance=2000,
+library_tolerance=1500,
+use_existing_jquery=true,
+// DO NOT EDIT BELOW THIS LINE
+f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+</script>
+<script>
+var sto = sto || {};
+sto.ads = sto.ads || {};
+sto.ads.cipImageURL = "";
+sto.ads.cipAdvertURL = "";
+sto.ads.cipisEnabled = "true";
+</script>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<article:use articleId="1402092">
+</article:use>
+<meta name="dashboard_publisher" content="sto" />
+<meta name="dashboard_article_id" content="1402092" />
+<meta name="dashboard_header" content="Westwood rides out the storm to win in Malaysia" />
+<meta name="dashboard_updated_date" content="Sun Apr 20 14:06:24 BST 2014" />
+<meta name="dashboard_published_date" content="Sun Apr 20 2014 14:09 UTC+0100" />
+<link rel="canonical" href="http://www.thesundaytimes.co.uk/sto/sport/golf/article1402092.ece" />
+<title>Westwood rides out the storm to win in Malaysia | The Sunday Times</title>
+<link rel="shortcut icon" href="/sto/public/images/favicon.ico" />
+<link rel="stylesheet" href="/sto/public/121214/css/unified-global.css" media="screen" title="no title" />
+<link rel="stylesheet" href="/sto/public/121214/css/print.css" type="text/css" media="print" title="no title" charset="utf-8" />
+<!--[if IE 8]>
+<link rel="stylesheet" href="/sto/public/121214/css/ie8.css" type="text/css" media="screen" title="no title" />
+<![endif]-->
+<script type="text/javascript" src="/sto/public/121214/js/unified-global-top.js" ></script>
+<script type="text/javascript">
+sto.basePath="/sto/public/121214/";
+sto.dashBoardEnabled=true;
+sto.section="golf";
+sto.autoPageRefresh = "900000";
+sto.timeInterval = "10000";
+sto.carouselPuffSpeed = "600";
+sto.carouselPuffIncrement = "4";
+sto.mainCarouselTransition = "25";
+sto.hoverInterval = "500";
+sto.articleTimeStamp = "2014-04-20 14:09:48";
+sto.articleUpdated = false;
+sto.isArticle=true;
+</script>
+<!-- B-02219-insert DART ad tag cache-busting in html header -->
+<script type="text/javascript">
+<!--
+var time = new Date();
+randnum= (time.getTime());
+var categoryValues = '';
+if (document.referrer != null) {
+if (document.referrer.match(".google.") != null ||
+document.referrer.match(".yahoo.") != null ||
+document.referrer.match(".lycos.") != null ||
+document.referrer.match(".ask.") != null ||
+document.referrer.match(".msn.") != null) {
+categoryValues = '!category=no_overlays;';
+}
+}
+//-->
+</script>
+<script type="text/javascript" src="https://dcdd29eaa743c493e732-7dc0216bc6cc2f4ed239035dfc17235b.ssl.cf3.rackcdn.com/tags/the_times/hoktop.js"></script>
+</head>
+<body>
+<div id="container">
+<script>!function(d,s,id){var st,fst=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){st=d.createElement(s);st.id=id;st.src='//login.thesundaytimes.co.uk/js/toolbar.js';fst.parentNode.insertBefore(st,fst);}}(document,"script","acsps");</script>
+<div id="prenav" data-searchUrl="http://www.thesundaytimes.co.uk/sto/public/sitesearch.do" data-contactUsUrl="https://login.thesundaytimes.co.uk/links/contact" style="height:31px"></div>
+<div id="content">
+<div id="mast-pull-down" class="margin-default first">	
+<noscript>No script ads will arrive soon!</noscript> 
+</div>
+<div id="mast-logo-section">
+<div id="skyline-puff">
+<a href="/sto/sport/article1401508.ece">
+<img class="top" src="http://www.thesundaytimes.co.uk/sto/multimedia/archive/00700/20_SPOW_SKY_web4_700501a.jpg" height="90" width="320" alt="" title="" />
+</a>
+</div>
+<a href="/sto/"><img src="/sto/public/images/logos/logo-section.gif" width="195" height="36" alt="Sunday Times" title="Sunday Times" /></a>
+</div>
+<div id="topnav">
+<div id="navigation">
+<ul class="top-nav">
+<li>
+<a title="home" href="/sto/">
+<img src="/sto/public/images/navigation/home.gif" width="35" height="92" alt="Home Section" title="Home Section" />
+<span id="ece_frontpage">Home</span>
+</a>
+</li>
+<li>
+<a title="news" href="/sto/news/">
+<img src="/sto/public/images/navigation/news.gif" width="55" height="92" alt="News Section" title="News Section" />
+<span id="daily_informer">News</span>
+</a>
+</li>
+<li>
+<a class='selected' title="sport" href="/sto/sport/">
+<img src="/sto/public/images/navigation/sport.gif" width="63" height="92" alt="Sport Section" title="Sport Section" />
+<span id="sport">Sport</span>
+</a>
+</li>
+<li>
+<a title="business" href="/sto/business/">
+<img src="/sto/public/images/navigation/business.gif" width="82" height="92" alt="Business Section" title="Business Section" />
+<span id="business">Business</span>
+</a>
+</li>
+<li>
+<a title="comment" href="/sto/comment/">
+<img src="/sto/multimedia/archive/00329/nav_comment_329210a.gif" width="86" height="92" alt="Comment Section" title="Comment Section" />
+<span id="CommentTop">Comment</span>
+</a>
+</li>
+<li>
+<a title="news review" href="/sto/newsreview/">
+<img src="/sto/public/images/navigation/news-review.gif" width="109" height="92" alt="News Review Section" title="News Review Section" />
+<span id="NewsReviewTop">News Review</span>
+</a>
+</li>
+<li>
+<a title="culture" href="/sto/culture/">
+<img src="/sto/public/images/navigation/culture.gif" width="80" height="92" alt="Culture Section" title="Culture Section" />
+<span id="culture">Culture</span>
+</a>
+</li>
+<li>
+<a title="style" href="/sto/style/">
+<img src="/sto/public/images/navigation/style.gif" width="60" height="92" alt="Style Section" title="Style Section" />
+<span id="style">Style</span>
+</a>
+</li>
+<li>
+<a title="travel" href="/sto/travel/">
+<img src="/sto/public/images/navigation/travel.gif" width="72" height="92" alt="Travel Section" title="Travel Section" />
+<span id="travel">Travel</span>
+</a>
+</li>
+<li>
+<a title="driving" href="/sto/ingear/">
+<img src="/sto/multimedia/archive/00298/driving_298594a.gif" width="71" height="92" alt="Driving Section" title="Driving Section" />
+<span id="ingear">Driving</span>
+</a>
+</li>
+<li>
+<a title="magazine" href="/sto/Magazine/">
+<img src="/sto/public/images/navigation/magazine.gif" width="85" height="92" alt="Magazine Section" title="Magazine Section" />
+<span id="HomeMagazine">Magazine</span>
+</a>
+</li>
+<li>
+<a title="papers" href="/sto/the_newspaper/papers.do">
+<img src="/sto/public/images/navigation/paper.gif" width="71" height="92" alt="Papers Section" title="Papers Section" />
+<span id="the_newspaper">Papers</span>
+</a>
+</li>
+</ul>
+<script type="text/javascript">
+<!--
+cNavigation.init();
+//-->
+</script>
+</div>
+</div>
+<div id="crumbnav">
+<!--BEGIN: B02288 Crumbtrail -->
+<div id="crumbtrail" class="crumbtrail">
+<ul>
+<li><a href="/sto/">Home</a></li>	
+<li> / <a href="/sto/sport/">Sport</a> </li>
+<li> / <a href="/sto/sport/golf/">Golf</a> </li>
+</ul>
+<div class="sponsored_by sponsored_by_article" id="sponsored-mpu">
+<noscript>No script ads will arrive soon!</noscript>	
+</div>
+</div>
+<a name="mainContent" id="mainContent"></a>
+<!--BEGIN: B02288 Crumbtrail -->
+</div>
+<script type="text/javascript">
+var sto = sto || {}; //best practise for next build
+sto.env = sto.env || {};
+sto.env.settings = sto.env.settings || {};
+sto.env.settings.acsURL = 'http://store.thetimes.co.uk/?ILC=INT-TNL_The_Times-teaser-button-5_17_2013_-6&goto=';
+</script>
+<div id="content-area" class="standard-article">
+<div id="content-full">
+<div id="article-header" class="margin-default">
+<h1><img src="/sto/public/images/page-titles/News-News.gif" height="35" width="94" alt="News" escapeXml="false" title="News" escapeXml="false" /><span class="hidden">News</span></h1>
+<div class="grey-top"></div>
+</div>
+</div>
+<div id="content-main">
+<div id="standard-article" class="margin-default first" >
+<div class="clear-both"></div>
+<div class="article-pagination-container top">
+<div class="tools_border">
+<div class="tools comments-parent">
+<ul>
+<li class="comments">
+<a class="no-border" href="#commentsStart">
+<span class="articleComments" data-article-id="sto1402092">
+</span>
+</a>
+</li>
+<li><a href="#" class="print" title="Print this article">Print</a></li>
+</ul>	
+</div>
+</div>
+<div class="article-pagination top">
+<a href="#prev" class="prev">Previous</a>
+<span class="first">&nbsp;</span>
+<ul>
+<li><a href="#1">1</a></li>
+<li><a href="#p">...</a></li>
+<li class="visited"><a href="#1">23</a></li>
+<li class="visited"><a href="#1">24</a></li>
+<li class="selected"><a href="#1">25</a></li>
+<li><a href="#26">26</a></li>
+<li><a href="#27">27</a></li>
+<li><a href="#n">...</a></li>
+<li><a href="#100">100</a></li>
+</ul>
+<span class="last">&nbsp;</span>
+<a href="#next" class="next">Next page</a>
+</div>
+<a href="#show-all" class="show-all">Show all</a>
+</div>
+<div class="clear-both"></div>
+<!--END: B02258 Article Pagination -->
+<div class="standard-content">
+<div class="article-page page-1">
+<h2>Westwood rides out the storm to win in Malaysia</h2>
+<div class="standard-summary-full-width">
+<div class="author-comments">
+<div class="author">
+<span class="author-name">
+Sport Staff
+</span>
+<span id="published-date" class="published-date">Published: 20 April 2014</span>
+</div>
+<div class="tools comments-parent">
+<ul>
+<li class="comments">
+<a class="no-border" href="#commentsStart">
+<span class="articleComments" data-article-id="sto1402092">
+</span>
+</a>
+</li>
+<li><a href="#" class="print" title="Print this article">Print</a></li>
+</ul>	
+</div>
+</div>
+<p>
+<span class="multi-position-img-left">
+<img src="http://www.thesundaytimes.co.uk/sto/multimedia/dynamic/00710/152332507_westwood__710791k.jpg" width="580" height="386" alt="" title="" />
+<span class="multi-position-photo-text">Despite the weather, Westwood won the Malaysia Open by seven shots
+Photograph:
+EPA/AZHAR RAHIM
+</span>
+</span>
+</p>
+</div>
+<p>
+LEE WESTWOOD believes that changes made on and off the course have yielded an 
+upturn in his form after he shrugged off a storm-disrupted final round at 
+the Maybank Malaysia Open to claim the 41st title of his career.
+</p>
+<p>
+Despite the threat of lightning and a four-hour delay, the Englishman finished 
+seven shots clear of the field at Kuala Lumpur Golf &amp; Country Club, having 
+increased his one-shot overnight lead to four when play was suspended.
+</p>
+<p>
+Resuming after 11 holes, Westwood added two more birdies for a round of 68, 18 
+under par overall, with the margin of victory the largest of his 23 European 
+Tour titles. Having finished seventh at the Masters a week ago, Westwood 
+said that changing his coach and caddy is beginning to bear fruit.
+</p>
+<p>
+“I started working with a new coach a few weeks ago, Mike Walker, and Billy 
+Foster came back on the bag at the end of last year, so I was going back to 
+what I had done before because it had worked,” he said.
+</p>
+<p>
+“It’s started to work already – the last couple of weeks I’ve played well in 
+Houston and at the Masters last week and this week I’ve obviously played 
+very well. It’s a golf course that suits my game; it’s very tight in certain 
+areas. I played well, I putted well, and the short game is good.”
+</p>
+<p>
+Asked whether he was approaching the form that took him to No 1 in the world, 
+Westwood added: “It’s got the potential, although now I feel like I’ve got a 
+short game and starting to roll a few putts in. It makes a hell of a 
+difference if you can get up-and-down if you miss a few greens and keeps the 
+momentum going.”
+</p>
+<p>
+Westwood, who won this tournament in 1997 before it became co-sanctioned by 
+the European Tour and Asian Tour, started the day one ahead of Andy 
+Sullivan, his compatriot, but Sullivan lost ground after finding water at 
+the second and hitting a wayward fourth from the drop zone, eventually 
+completing a triple-bogey seven.
+</p>
+<p>
+The former Walker Cup star responded with three birdies but dropped another 
+shot at the seventh after finding trees down the left. Danny Willett had 
+been in sole possession of second place after five birdies in his final 
+round but ran up a double-bogey seven at the last to tie for fifth, as 
+Nicolas Colsaerts, Louis Oosthuizen and Bernd Wiesberger overhauled him to 
+finish runners-up to Westwood.
+</p>
+<div class="tools_border">
+<div class="tools comments-parent">
+<ul>
+<li class="comments">
+<a class="no-border" href="#commentsStart">
+<span class="articleComments" data-article-id="sto1402092">
+</span>
+</a>
+</li>
+<li><a href="#" class="print" title="Print this article">Print</a></li>
+</ul>	
+</div>
+</div>
+</div>
+</div>
+<!--BEGIN: B02243 Related Links -->
+<!--END: B02243 Related Links -->
+<!--BEGIN: B02261 Standard Comments -->
+<a name="commentsStart"></a>
+<div id="niCommentingRig"> </div>
+<script type="text/javascript">
+sto.config = sto.config || {};
+sto.config.commenting = {
+id : "sto1402092", // Article id 
+url : "http://www.thesundaytimes.co.uk/sto/sport/golf/article1402092.ece", // Article url
+title : "Westwood rides out the storm to win in Malaysia", // Article title
+articleToken: "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJuZXdzaW50IiwidGl0bGUiOiJXZXN0d29vZCByaWRlcyBvdXQgdGhlIHN0b3JtIHRvIHdpbiBpbiBNYWxheXNpYSIsInVybCI6Imh0dHA6Ly93d3cudGhlc3VuZGF5dGltZXMuY28udWsvc3RvL3Nwb3J0L2dvbGYvYXJ0aWNsZTE0MDIwOTIuZWNlIiwiY2hlY2tzdW0iOiJjYTI3ZDI1NzE3NzI5ZjcxMGIzMjczM2YyMDg1NzYxMyIsImFydGljbGVJZCI6InN0bzE0MDIwOTIifQ.7Up15D_OFwXYWwP35UfIdGRW25Uqi-8G_Akm1LEEGtI",
+checksum : "ca27d25717729f710b32733f20857613", // Checksum of Metadata
+myAccountUrl : "https://home.thesundaytimes.co.uk" // URL to authenticate user
+};
+</script>
+</div>
+</div>
+<div id="content-sub">
+<div id="single-mpu" class="margin-default first">
+<noscript>No script ads will arrive soon!</noscript>
+</div>
+<div class="subscription-promo margin-default first ">
+<a class="promo-logged-in" href="http://www.mytimesplus.co.uk/public/offers/win-tickets-to-the-aviva-premier-final" target="_self">
+<img src="http://www.thesundaytimes.co.uk/sto/multimedia/dynamic/00655/20_NewOffers_web13_655878f.jpg" height="440" width="300" alt="" title="" />
+</a>
+<a class="promo-logged-out" href="http://www.mytimesplus.co.uk/public/offers/win-tickets-to-the-aviva-premier-final" target="_self">
+<img src="http://www.thesundaytimes.co.uk/sto/multimedia/dynamic/00655/20_NewOffers_web13_655878f.jpg" height="440" width="300" alt="" title="" />
+</a>
+</div>	
+<div class="subscription-promo margin-default first ">
+<a class="promo-logged-in" href="http://www.mytimesplus.co.uk/public/offers/30-years-in-rugby-ebook" target="_self">
+<img src="http://www.thesundaytimes.co.uk/sto/multimedia/dynamic/00425/23_SPORT_PROMO_PUFF_425810f.jpg" height="135" width="300" alt="" title="" />
+</a>
+<a class="promo-logged-out" href="http://www.mytimesplus.co.uk/public/offers/30-years-in-rugby-ebook" target="_self">
+<img src="http://www.thesundaytimes.co.uk/sto/multimedia/dynamic/00425/23_SPORT_PROMO_PUFF_425810f.jpg" height="135" width="300" alt="" title="" />
+</a>
+</div>	
+<div class="subscription-promo margin-default first ">
+<a class="promo-logged-in" href="https://www.offersinthetimes.com/sportscalendar2014/" target="_self">
+<img src="http://www.thesundaytimes.co.uk/sto/multimedia/dynamic/00395/sports-calendar1_395393f.jpg" height="135" width="300" alt="" title="" />
+</a>
+<a class="promo-logged-out" href="https://www.offersinthetimes.com/sportscalendar2014/" target="_self">
+<img src="http://www.thesundaytimes.co.uk/sto/multimedia/dynamic/00395/sports-calendar1_395393f.jpg" height="135" width="300" alt="" title="" />
+</a>
+</div>	
+<div class="subscription-promo margin-default first ">
+<a class="promo-logged-in" href="http://www.thetimes.co.uk/tto/sport/" target="_self">
+<img src="http://www.thesundaytimes.co.uk/sto/multimedia/dynamic/00363/footpremier_mega181_363943f.jpg" height="135" width="300" alt="" title="" />
+</a>
+<a class="promo-logged-out" href="http://www.thetimes.co.uk/tto/sport/" target="_self">
+<img src="http://www.thesundaytimes.co.uk/sto/multimedia/dynamic/00363/footpremier_mega181_363943f.jpg" height="135" width="300" alt="" title="" />
+</a>
+</div>	
+<script type="text/javascript">
+<!--
+cClassifiedSearch.formActions = ["http://appointments.thesundaytimes.co.uk/jobs/ ","http://carlocator.thetimes.co.uk/classifieds_motors_search.aspx","http://thesundaytimes.zoopla.co.uk/search/","http://traveldirectory.thetimes.co.uk/classifieds_travel_search.aspx"];
+cClassifiedSearch.defaultHome = ["http://appointments.thesundaytimes.co.uk/","http://carlocator.thetimes.co.uk/","http://thesundaytimes.zoopla.co.uk/","http://traveldirectory.thetimes.co.uk/"];
+cClassifiedSearch.defaultText = ["Search all Jobs","Search all Cars","Enter place or area","Search all Holidays"];
+cClassifiedSearch.orignalText = ["Search all Jobs","Search all Cars","Enter place or area","Search all Holidays"];
+//-->
+</script>
+<div id="classified-search" class="margin-default">
+<div class="search-upper">
+<img height="23" width="64" alt="Find" src="/sto/public/images/text/find.jpg" class="find" />
+<script type="text/javascript">
+<!--
+cClassifiedSearch.currentlySelected = 0;
+//-->	
+</script>
+<ul class="search-links">
+<li class="selected"><a href="/sto/culture/article265409.ece?tab=jobs">Jobs</a></li>
+<li class=""><a href="/sto/culture/article265409.ece?tab=cars">Cars</a></li>
+<li class=""><a href="/sto/culture/article265409.ece?tab=property">Property</a></li>
+<li class="last "><a href="/sto/culture/article265409.ece?tab=holidays">Holidays</a></li>	
+</ul>
+</div>
+<div class="form-container">
+<form action="http://appointments.thesundaytimes.co.uk/jobs/ " method="get" id="form-classified-search" name="form-classified-search" target="_blank">
+<fieldset class="searchfield" >
+<input name="keywords" id="keywords" class="text start_text" value="Search all Jobs" maxlength="50" type="text" />
+<input src="/sto/public/images/buttons/classified_search.gif" class="submit" alt="Search" title="Search" type="image" />
+</fieldset>
+<fieldset class="zoopla" style="display:none">
+<input type="radio" id="for-sale" name="section" value="for-sale" checked="checked" /><label for="for-sale">For sale</label>
+<input type="radio" id="for-rent" name="section" value="to-rent" /><label for="for-rent">For rent</label>
+</fieldset>
+</form>
+<ul id="job-classifieds" class="classified-list display-block">
+<li>
+<a href="http://pubads.g.doubleclick.net/gampad/clk?id=172238334&iu=/3048/thesundaytimes/runofsite" target="_blank">Non Executive Director</a>
+<p>Greater Manchester West NHS - Manchester - £12,400</p>
+</li>
+<li>
+<a href="http://pubads.g.doubleclick.net/gampad/clk?id=169428054&iu=/3048/thesundaytimes/runofsite" target="_blank">Chief Executive Officer</a>
+<p>Bath and Wells Multi Academy Trust - Bath & Wells - Competitive Salary</p>
+</li>
+<li>
+<a href="http://pubads.g.doubleclick.net/gampad/clk?id=162631134&iu=/3048/thesundaytimes/runofsite" target="_blank">Chief Information Officer</a>
+<p>Goldsmiths - London - Salary Not Specified</p>
+</li>
+<li>
+<a href="http://pubads.g.doubleclick.net/gampad/clk?id=173256654&iu=/3048/thesundaytimes/runofsite" target="_blank">Chief Executive</a>
+<p>The Fire Fighters Charity - Hampshire - Competitive Remuneration</p>
+</li>
+</ul>
+<ul id="car-classifieds" class="classified-list">
+<li>
+<a href="http://ad.doubleclick.net/clk;267555043;48157919;u?http://www.romansinternational.com/car/725/lamborghini-gallardo-lp560-4-spyder" target="_blank">2012/62 Lamborghini Gallardo</a>
+<p>2012/62 Lamborghini Gallardo LP560-4 Spyder 750 Miles in Nero Serapis £144,950 – ‘Great Spec, Huge Saving on List</p>
+</li>
+<li>
+<a href="http://ad.doubleclick.net/clk;267663201;48157919;q?http://www.top555.co.uk/pages/top555_stock.htm" target="_blank">11/61 ROLLS-ROYCE GHOST EWB</a>
+<p>3.2k, Diamond Black with Seashell Hide £182,950</p>
+</li>
+<li>
+<a href="http://pubads.g.doubleclick.net/gampad/clk?id=21380694&iu=/3048/thesundaytimes/runofsite " target="_blank">Bramley’s Cars</a>
+<p>Bentley Continental Supersport, 2012, Granite, 1.8k Miles £129,850. Top Prices Paid!</p>
+</li>
+<li>
+<a href="http://pubads.g.doubleclick.net/gampad/clk?id=21406614&iu=/3048/thesundaytimes/runofsite " target="_blank">H.R. Owen & Jack Barclay </a>
+<p>UK's largest Bentley Dealer - New & Approved - Test Drive Today</p>
+</li>
+</ul>
+<ul id="property-classifieds" class="classified-list">	
+<li>
+<a href="http://pubads.g.doubleclick.net/gampad/clk?id=74793774&iu=/3048/thesundaytimes/runofsite" target="_blank">The Eagle, City Road. EC1</a>
+<p>Art Deco inspired apartments designed by Farrells. Find your apartment today.</p>
+</li>
+<li>
+<a href="http://pubads.g.doubleclick.net/gampad/clk?id=53543334&iu=/3048/thesundaytimes/runofsite" target="_blank">Luxury apartments to buy in Venice	</a>
+<p>Palazzo Molin - 18 immaculately restored contemporary apartments in the heart of Venice </p>
+</li>
+<li>
+<a href="http://pubads.g.doubleclick.net/gampad/clk?id=21499254&iu=/3048/thesundaytimes/runofsite" target="_blank">Click here to download the Savills app	</a>
+<p>Just search Savills, with an award winning website, & 80 offices across the UK, Savills makes searching simple </p>
+</li>
+<li>
+<a href="http://pubads.g.doubleclick.net/gampad/clk?id=36548214&iu=/3048/thesundaytimes/runofsite" target="_blank">Stunning 4-bed Holiday Home for Sale</a>
+<p>Beautiful 4-bed cottage in Wales, incredible views, perfect condition, seaside location!</p>
+</li>
+</ul>
+<ul id="holiday-classifieds" class="classified-list">	
+<li>
+<a href="http://pubads.g.doubleclick.net/gampad/clk?id=120635694&iu=/3048/thesundaytimes/runofsite" target="_blank">A taste of paradise on Herm Island</a>
+<p>Channel Island short break at the 4* White House Hotel from £340pp inc flights & transfers.</p>
+</li>
+<li>
+<a href="http://pubads.g.doubleclick.net/gampad/clk?id=149343654&iu=/3048/thesundaytimes/runofsite" target="_blank">Mark Warner Summer Sale. Save 30%</a>
+<p>Jet off to Europe this summer from £490pp. Includes; flights, transfers, board, activities & childcare</p>
+</li>
+<li>
+<a href="http://pubads.g.doubleclick.net/gampad/clk?id=166763694&iu=/3048/thesundaytimes/runofsite" target="_blank">Best Half Term. Ever. from £699pp</a>
+<p>6 night cruise to France & Spain on Independence sailing from Southampton. 25 May 2014. </p>
+</li>
+<li>
+<a href="http://pubads.g.doubleclick.net/gampad/clk?id=169535694&iu=/3048/thesundaytimes/runofsite" target="_blank">Save up to 20% at 5* Oceania Club Greece</a>
+<p>Plus free airport transfers. Book before April 30th for stays 3-15th May and 18-31st May. </p>
+</li>
+</ul>
+</div>
+</div>
+<!--BEGIN: B03338 Sponsored editorial -->
+<div class="sponsored-editorial margin-default spons-edit1">	
+<script type="text/javascript">
+<!--
+$(document).ready(function() {
+var iSponEditInst1 = new cSponsoredEditorial();
+iSponEditInst1.setElementClass("spons-edit1");
+iSponEditInst1.setStoryURLs(["http://pubads.g.doubleclick.net/gampad/clk?id=159725694&iu=/3048/thesundaytimes","http://pubads.g.doubleclick.net/gampad/clk?id=138678774&iu=/3048/thesundaytimes","http://www.thetimes.co.uk/tto/public/powerinpartnerships/","http://pubads.g.doubleclick.net/gampad/clk?id=82383894&iu=/3048/homepage.thesundaytimes/mainhomepage","http://pubads.g.doubleclick.net/gampad/clk?id=77122974&iu=/3048/homepage.thetimes/mainhomepage//index","http://www.thetimes.co.uk/tto/public/drivingthegame/article4053196.ece","http://www.thetimes.co.uk/tto/public/citybusiness/article2579379.ece"]);
+iSponEditInst1.setStoryImages(["http://www.thesundaytimes.co.uk/sto/multimedia/archive/00428/120notcutss_428738a.jpg","http://www.thesundaytimes.co.uk/sto/multimedia/archive/00426/120burton_426786a.jpg","http://www.thesundaytimes.co.uk/sto/multimedia/archive/00405/hatman_120x90_405941a.jpg","http://www.thesundaytimes.co.uk/sto/multimedia/archive/00427/120santander_427031a.jpg","http://www.thesundaytimes.co.uk/sto/multimedia/archive/00402/Chivas_WarRooms-107_402322a.jpg","http://www.thesundaytimes.co.uk/sto/multimedia/archive/00429/120kia_429852a.jpg","http://www.thesundaytimes.co.uk/sto/multimedia/archive/00414/120citybusiness_414464a.jpg"]);
+iSponEditInst1.setStoryImagesAlts(["","","","","","",""]);
+iSponEditInst1.setStoryHeadlines(["Love your garden","Stylish menswear","Power in Partnerships","SME Hub","Partners In Style","Driving the Game","City Business"]);
+iSponEditInst1.setStoryStandfirsts(["Get inventive with the great outdoors","All bases covered","Does your business need a lift?","Successful modern entrepreneurship","New rules for the modern gentleman","Performance of the Month","Getting started"]);
+iSponEditInst1.setStoryTeaserTexts(["From inventive pots and furniture, to growing your own food, here’s you can make the most of your space","Get the full Monty this spring with Burton’s new range of clothing","Entrepreneur Simon Woodroffe shares his expertise","Advice, live Q&amp;As and case study interviews for small businesses","Tailoring goes on tour to the Cabinet War Rooms, while Savile Row heads give their tips for 2014 style","Mile Jedinak was instrumental in a result that could have a big bearing on both ends of the Premier League table","Thinking of setting up a business abroad? Don’t go anywhere without consulting this guide"]);
+iSponEditInst1.setAutoPlayTime(5000);//Autoplay time in seconds
+iSponEditInst1.init();
+});
+//-->
+</script>
+<h2 class="overline"><img src="/sto/public/images/text/sponsored-editorial.gif" height="20" width="194" alt="Sponsored Editorial" title="Sponsored Editorial" /><span class="hidden">Sponsored Editorial</span></h2>	
+<div class="sponsored-editorial-background">
+<div class="sponsored-editorial-text">
+<span class="img-top-right"><a href="http://pubads.g.doubleclick.net/gampad/clk?id=159725694&iu=/3048/thesundaytimes" target="_blank"><img src="http://www.thesundaytimes.co.uk/sto/multimedia/archive/00428/120notcutss_428738a.jpg" width="120" height="90" alt="" title="" /></a></span>
+<h3><a href="http://pubads.g.doubleclick.net/gampad/clk?id=159725694&iu=/3048/thesundaytimes" target="_blank">Love your garden</a></h3>
+<h4>Get inventive with the great outdoors</h4>
+<p>From inventive pots and furniture, to growing your own food, here’s you can make the most of your space</p>
+<div class="clear-both"></div>
+</div>
+</div>
+<div class="controls">
+<ul>
+<li><a href="javascript:;" class="previous">Previous</a></li>
+<li class="indicator">
+<a href="#" class="selected" title="Love your garden">1</a>
+<a href="#" title="Stylish menswear ">2</a>	
+<a href="#" title="Power in Partnerships ">3</a>	
+<a href="#" title="SME Hub ">4</a>	
+<a href="#" title="Partners In Style ">5</a>	
+<a href="#" title="Driving the Game ">6</a>	
+<a href="#" title="City Business ">7</a>	
+</li>
+<li class="right"><a href="javascript:;" class="next">Next</a></li>
+</ul>
+<div class="clear-both"></div>
+</div>
+</div>
+<!--BEGIN: B03338 Sponsored editorial -->
+</div>
+</div>
+<script type="text/javascript">
+<!--
+$(document).ready(function() {
+cPrint.init();
+cRSS.init();
+});
+-->
+</script>
+<div id="footer">
+<div class="footer-groups clearfloat">
+<div class="footer-group">
+<p>Contact Us</p>
+<ol>
+<li><a href="https://login.thetimes.co.uk/links/contact">Useful contacts</a></li>
+<li><a href="http://www.nisyndication.com">Syndication</a></li>
+<li><a href="http://www.nicommercial.com/">Display advertising</a></li>
+<li><a href="/goto/classified">Classified advertising</a></li>
+</ol>
+</div>
+<div class="footer-group">
+<p>Terms of use</p>
+<ol>
+<li><a href="https://login.thetimes.co.uk/links/terms">Terms and conditions</a></li>
+<li><a href="http://www.nidp.com">Privacy and cookie policy</a></li>
+</ol>
+</div>
+<div class="footer-group">
+<p>Site Map</p>
+<ol>
+<li><a href="http://www.thesundaytimes.co.uk/sto/public/Sitemap/?view=sitemap">Site Map</a></li>
+<li><a href="http://www.thesundaytimes.co.uk/sto/comment/regulars/corrections/">Corrections</a></li>
+</ol>
+</div>
+<div class="footer-group">
+<p>About us</p>
+<ol>
+<li><a href="http://www.news.co.uk">News UK</a></li>
+<li><a href="http://www.newscorp.com/index.html">News Corporation</a></li>
+<li><a href="https://login.thetimes.co.uk/links/faq">FAQ</a></li>
+</ol>
+</div>
+<div class="footer-group">
+<p>Other sites</p>
+<ol>
+<li><a href="http://www.timeswhiskyclub.com?utm_source=sundaytimes_homepage&utm_medium=website&utm_content=click_through_link&utm_campaign=homepage_footer">The Whisky Club</a></li>
+<li><a href="http://www.sundaytimeswineclub.co.uk">Sunday Times Wine Club</a></li>
+<li><a href="http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/games_and_puzzles/crossword/">Crossword Club</a></li>
+<li><a href="http://www.encountersdating.co.uk?utm_source=sundaytimes_homepage&utm_medium=website&utm_content=click_through_link&utm_campaign=homepage_footer">Encounters Dating</a></li>
+<li><a href="http://www.timesbooks.co.uk">The Sunday Times Bookshop</a></li>
+<li><a href="http://driving.co.uk">Sunday Times Driving</a></li>
+<li><a href="http://www.thetimes.co.uk/tto/public/timescurrencyservices">Times Currency Services</a></li>
+<li><a href="http://www.timesprintgallery.co.uk">Times Print Gallery</a></li>
+</ol>
+</div>
+</div>
+</div>
+<div class="copyright">
+&copy; Times Newspapers Ltd 2012<br/>
+Registered office 3 Thomas More Square, London E98 1XY.<br/>
+Registered in England No 894646
+</div>
+</div>
+<div id="feedback-lightbox"></div>
+<div class="feedback-container">
+<div class="feedback-wrapper">
+<div class="a-wrapper">
+<div class="head-wrapper">
+<h1>Contact us</h1>
+<a href="/sto/public/?service=feedback&amp;view=maininclude" class="feedback-close">Close</a>
+</div>
+<div class="content-wrapper initial-page">
+<span id="thoughtsLink" class="heading f-hb">
+What do you think?
+</span>
+<p>Help us improve The Sunday Times. We welcome your feedback, suggestions and ideas. <a href="mailto:custserv@sunday-times.co.uk?subject=**'Customer Communication from The Times website'**">Click here</a> to send us your feedback</p>
+<span id="questionLink" class="heading f-hb">
+Need help from our Customer Services team?
+</span>
+<p>You can contact the team via the following channels: <br/> <br/> <a target="_blank" href="http://www.thetimes.co.uk/tto/public/article2582551.ece">Live Chat</a> <br/> <br/> <a target="_blank" href="http://twitter.com/#!/@Times_CS">Twitter</a> <br/> <br/> <a href="mailto:custserv@sunday-times.co.uk?subject=**'Customer Communication from The Times website'**">Email</a> <br/> <br/> Telephone: +0044 20 7711 1523</p>
+<a href="/sto/public/?service=feedback&amp;view=doyouhaveastory" id="storyLink"
+class="heading feedback-page f-hb">Do you have a story?</a>
+<p>If you know of a story that we should be investigating, please let us know about it</p>
+<span class="status">
+</span>
+</div>
+</div>
+<div class="contact-wrapper">
+<h4 class="post">Post</h4>
+<p>Customer Liaison <br/>3 Thomas More Square, <br/>London<br/>E98 1RL</p>
+<a class="contacts-link" href="http://www.timesplus.co.uk/welcome/tp_contact.htm">Other useful contacts</a>
+</div>
+<div class="panel-shadow"></div>
+</div>
+</div>
+</div>
+<script type="text/javascript" src="http://player.ooyala.com/v3/YTRjM2U1NDZkYTUwMTg1MTgzNjg2MTEz"></script>
+<script type="text/javascript" src="/sto/public/121214/js/unified-global-bottom.js"></script>
+<script type="text/javascript">
+/***************************************************************/
+/* All parameter options are optional */
+/* Parameter options are */
+/* timeOut = amount of time before the message auto hides */
+/* width = width of the inner bar */
+/* height = height of the message bar */
+/* background = color of the background of the bar */
+/* opacity = opacity of the message bar */
+/* fontSize = size of the font */
+/* fontColor = color of the font */
+/* fontFamily = font to use */
+/* messageText = 3 part arrary containing before, link and */
+/* after text as elements 0-2 */
+/* acceptText = Text to be used for the accept button */
+/* termsLink = The link from the body text */
+/* paddingTop = The padding above the text in the banner */
+/* acceptPadding = Padding around the accept button */
+/* acceptMargin = margin above the accept button */
+/***************************************************************/
+var params={};
+params.width=956;
+params.height=30;
+params.fontSize=12;
+params.paddingTop=7;
+params.fontFamily = "arial";
+params.timeOut = 60000;
+params.opacity = 0.6;
+params.background = "#000000";
+showCookiesMessage(params);
+</script>
+<script type="text/javascript" src="/sto/public/121214/js/carousel.js" ></script>
+<script type="text/javascript" src="/sto/public/121214/js/superPuff.js"></script>
+<!-- Pushdown start -->
+<div id="mast-pull-down-ad" class="hidden">	
+<!-- BEGIN: Module - Advert:Top -->
+<!-- For Travel Search -->
+<script type="text/javascript">
+<!--
+var RStag = "";
+try{
+RStag = segQS;
+}
+catch(e){
+RStag = "";
+}
+function getCookie(c_name)
+{
+var c_value = document.cookie;
+var c_start = c_value.indexOf(" " + c_name + "=");
+if (c_start == -1)
+{
+c_start = c_value.indexOf(c_name + "=");
+}
+if (c_start == -1)
+{
+c_value = null;
+}
+else
+{
+c_start = c_value.indexOf("=", c_start) + 1;
+var c_end = c_value.indexOf(";", c_start);
+if (c_end == -1)
+{
+c_end = c_value.length;
+}
+c_value = unescape(c_value.substring(c_start,c_end));
+}
+return c_value;
+}
+var cipsCookieValue = "";
+if(getCookie('cips'))
+{
+cipsCookieValue = getCookie('cips');
+}
+document.write('<script type="text/javascript" src="http://ad.uk.doubleclick.net/N3048/adj/sport.thesundaytimes/golf;pos=pushdown;content_type=art;sz=970x66;'+ RStag + cipsCookieValue +'tile=1;'+categoryValues+'ord='+randnum+'?"><\/script>');
+//-->
+</script>
+<noscript>
+<a href="http://ad.uk.doubleclick.net/N3048/jump/sport.thesundaytimes/golf;A=3;C=GB;CH=2;EM=0;ENX=2;G=1;HO=0;HTP=1;IA=0;II=1;L=NA;MS=0;NK=6;P=W;PCP=9;PLS=1;PP=DO;RE=0;S=1;SEC=1;SP=D;ST=A;SW=0;TX=4;cips=CIP_10035;pos=pushdown;content_type=art;sz=970x66;tile=1;;'+categoryValues+'ord=1398483589918?">
+<img src="http://ad.uk.doubleclick.net/N3048/ad/sport.thesundaytimes/golf;pos=pushdown;content_type=art;tile=1;sz=970x66;ord=1398483589918" width="970" height="66" border="0" alt="" />
+</a>
+</noscript>
+<!--SECTION:parameter parameter="dart.server" /-->
+<!-- END: Module - Advert:Top -->
+</div>
+<!-- Pushdown End -->
+<div id="sponsored-mpu-ad" class="hidden">	
+<!-- BEGIN: Module - Advert:Top -->
+<!-- For Travel Search -->
+<script type="text/javascript">
+<!--
+var RStag = "";
+try{
+RStag = segQS;
+}
+catch(e){
+RStag = "";
+}
+function getCookie(c_name)
+{
+var c_value = document.cookie;
+var c_start = c_value.indexOf(" " + c_name + "=");
+if (c_start == -1)
+{
+c_start = c_value.indexOf(c_name + "=");
+}
+if (c_start == -1)
+{
+c_value = null;
+}
+else
+{
+c_start = c_value.indexOf("=", c_start) + 1;
+var c_end = c_value.indexOf(";", c_start);
+if (c_end == -1)
+{
+c_end = c_value.length;
+}
+c_value = unescape(c_value.substring(c_start,c_end));
+}
+return c_value;
+}
+var cipsCookieValue = "";
+if(getCookie('cips'))
+{
+cipsCookieValue = getCookie('cips');
+}
+document.write('<script type="text/javascript" src="http://ad.uk.doubleclick.net/N3048/adj/sport.thesundaytimes/golf;pos=sponsor;content_type=art;sz=120x60;'+ RStag + cipsCookieValue +'tile=2;'+categoryValues+'ord='+randnum+'?"><\/script>');
+//-->
+</script>
+<noscript>
+<a href="http://ad.uk.doubleclick.net/N3048/jump/sport.thesundaytimes/golf;A=3;C=GB;CH=2;EM=0;ENX=2;G=1;HO=0;HTP=1;IA=0;II=1;L=NA;MS=0;NK=6;P=W;PCP=9;PLS=1;PP=DO;RE=0;S=1;SEC=1;SP=D;ST=A;SW=0;TX=4;cips=CIP_10035;pos=sponsor;content_type=art;sz=120x60;tile=2;;'+categoryValues+'ord=1398483589918?">
+<img src="http://ad.uk.doubleclick.net/N3048/ad/sport.thesundaytimes/golf;pos=sponsor;content_type=art;tile=2;sz=120x60;ord=1398483589918" width="120" height="60" border="0" alt="" />
+</a>
+</noscript>
+<!--SECTION:parameter parameter="dart.server" /-->
+<!-- END: Module - Advert:Top -->
+</div>
+<div id="single-mpu-ad" class="hidden">
+<!-- BEGIN: Module - Advert:Top -->
+<!-- For Travel Search -->
+<script type="text/javascript">
+<!--
+var RStag = "";
+try{
+RStag = segQS;
+}
+catch(e){
+RStag = "";
+}
+function getCookie(c_name)
+{
+var c_value = document.cookie;
+var c_start = c_value.indexOf(" " + c_name + "=");
+if (c_start == -1)
+{
+c_start = c_value.indexOf(c_name + "=");
+}
+if (c_start == -1)
+{
+c_value = null;
+}
+else
+{
+c_start = c_value.indexOf("=", c_start) + 1;
+var c_end = c_value.indexOf(";", c_start);
+if (c_end == -1)
+{
+c_end = c_value.length;
+}
+c_value = unescape(c_value.substring(c_start,c_end));
+}
+return c_value;
+}
+var cipsCookieValue = "";
+if(getCookie('cips'))
+{
+cipsCookieValue = getCookie('cips');
+}
+document.write('<script type="text/javascript" src="http://ad.uk.doubleclick.net/N3048/adj/sport.thesundaytimes/golf;pos=mpu;content_type=art;sz=300x250;'+ RStag + cipsCookieValue +'tile=3;'+categoryValues+'ord='+randnum+'?"><\/script>');
+//-->
+</script>
+<noscript>
+<a href="http://ad.uk.doubleclick.net/N3048/jump/sport.thesundaytimes/golf;A=3;C=GB;CH=2;EM=0;ENX=2;G=1;HO=0;HTP=1;IA=0;II=1;L=NA;MS=0;NK=6;P=W;PCP=9;PLS=1;PP=DO;RE=0;S=1;SEC=1;SP=D;ST=A;SW=0;TX=4;cips=CIP_10035;pos=mpu;content_type=art;sz=300x250;tile=3;;'+categoryValues+'ord=1398483589918?">
+<img src="http://ad.uk.doubleclick.net/N3048/ad/sport.thesundaytimes/golf;pos=mpu;content_type=art;tile=3;sz=300x250;ord=1398483589918" width="300" height="250" border="0" alt="" />
+</a>
+</noscript>
+<!--SECTION:parameter parameter="dart.server" /-->
+<!-- END: Module - Advert:Top -->
+</div>
+<!-- BEGIN: Module - Advert:Top -->
+<!-- END: Module - Advert:Top -->
+<script type="text/javascript">
+$(window).load(function() {
+<!--
+cInsertAds.init("sponsored-mpu-ad", "sponsored-mpu");
+cInsertAds.init("single-mpu-ad", "single-mpu");	
+cInsertAds.init("mast-pull-down-ad", "mast-pull-down");
+//-->	
+});	
+</script>
+<script type="text/javascript" src="/sto/public/121214/js/dashboardCall.js"></script>
+<!-- checking for IAM -->
+<script type="text/javascript">
+<!--
+var utag_data = {
+site : "sundaytimes",
+type : "ARTICLE",
+article_id : "1402092",
+title : "Westwood rides out the storm to win in Malaysia",
+path : "/sport/golf",
+path_names : "/Sport/Golf",
+publication_date : "20042014",
+section_id : "139",
+byline : "Sport Staff",
+source : "Online"
+}
+//-->
+</script>
+<script type="text/javascript" src="http://tealium.hs.llnwd.net/o43/utag/newsinternational/thesundaytimes/prod/utag.js"></script>
+<!-- end checking for IAM -->
+<script type="text/javascript" src="https://dcdd29eaa743c493e732-7dc0216bc6cc2f4ed239035dfc17235b.ssl.cf3.rackcdn.com/tags/the_times/hokbottom.js"></script>
+</body>
+</html>
+
+

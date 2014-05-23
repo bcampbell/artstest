@@ -1,0 +1,884 @@
+WARC/1.0
+Content-Length: 65053
+Content-Type: application/http; msgtype=response
+Warc-Date: 2014-05-09T17:07:50Z
+Warc-Record-Id: urn:X-scrapeomat:1399655273607493842
+Warc-Target-Uri: http://www.ft.com/cms/s/0/e330e830-d6f3-11e3-b95e-00144feabdc0.html
+Warc-Type: response
+X-Scrapeomat-Srcurl: http://www.ft.com/intl/cms/s/0/e330e830-d6f3-11e3-b95e-00144feabdc0.html
+
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Cache-Control: private, max-age=26
+Connection: keep-alive
+Connection: Transfer-Encoding
+Content-Language: en-GB
+Content-Type: text/html;charset=utf-8
+Date: Fri, 09 May 2014 17:07:53 GMT
+Environment: p
+Expires: Fri, 09 May 2014 17:08:19 GMT
+Last-Modified: Fri, 09 May 2014 17:07:53 GMT
+P3p: policyref="/w3c/p3p.xml", CP="CAO DSP COR LAW CURa ADMa DEVa TAIa PSAa PSDa CONo OUR DELi BUS IND PHY ONL UNI COM NAV INT DEM PRE OTC"
+Server: Apache/2.2.17 (Unix) mod_jk/1.2.30
+Set-Cookie: FT_M=D=D|F=|R=0; expires=Sat, 09-May-2015 17:07:53 GMT; path=/; domain=.ft.com
+Vary: Accept-Encoding
+X-Ft-Id: 20u
+
+8000
+
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html lang="en" class="msie msie6"><![endif]-->
+<!--[if IE 7 ]><html lang="en" class="msie msie7"><![endif]-->
+<!--[if IE 8 ]><html lang="en" class="msie msie8"><![endif]-->
+<!--[if IE 9 ]><html lang="en" class="msie msie9"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--><html lang="en" xmlns="http://www.w3.org/1999/xhtml"><!--<![endif]-->
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta charset="UTF-8" />
+<title>Apple in talks for $3.2bn Beats deal - FT.com</title>
+<link rel="canonical" href="http://www.ft.com/cms/s/0/e330e830-d6f3-11e3-b95e-00144feabdc0.html" />
+<meta name="description" content="Beats slideshow Apple is closing in on its largest acquisition with the planned $3.2bn purchase of Beats Electronics, the headphone maker and music streaming operator founded by music producer Jimmy Iovine and the hip-hop star Dr Dre. The deal could" />
+<meta name="keywords" content="technology, tech, it company news, software, hardware, internet, computers, robots, apple, micrisoft, dell, it industry news, it news headlines, it headlines, company news, companies news, industry news, business headlines, financial times, ft.com" />
+<!-- START OF OPEN GRAPH TAGS -->
+<meta property="og:title" content="Apple in talks for $3.2bn Beats deal - FT.com"/>
+<meta property="og:type" content="article"/>
+<meta property="og:url" content="http://www.ft.com/cms/s/0/e330e830-d6f3-11e3-b95e-00144feabdc0.html"/>
+<meta property="og:site_name" content="Financial Times"/>
+<meta property="og:description" content="Beats slideshow Apple is closing in on its largest acquisition with the planned $3.2bn purchase of Beats Electronics, the headphone maker and music streaming operator founded by music producer Jimmy Iovine and the hip-hop star Dr Dre. The deal could"/>
+<meta property="og:image" content="http://im.ft-static.com/m/img/social/og-ft-logo-large.png"/>
+<meta property="fb:page_id" content="8860325749" />
+<!-- END OF OPEN GRAPH TAGS -->
+<link rel='stylesheet' href='http://s1.ft-static.com/m/style/e9a83318/bundles/core.css' media="all" />
+<link rel='stylesheet' href='http://navigation.webservices.ft.com/v1/navigation/ft/css/style.min.css' media="all" />
+<link rel='stylesheet' href='http://s1.ft-static.com/m/style/7126a62f/bundles/article.css' media="all" />
+<!--ft:headWrapperCss-->
+<!--[if lt IE 9]>
+<script src="http://s2.ft-static.com/scripts/45348a8f/bundles/html5Shiv.js"></script>
+<![endif]-->
+<script>
+var pageUUID = "700004bc-f97b-11df-9e29-00144feab49a";
+var articleUUID= "e330e830-d6f3-11e3-b95e-00144feabdc0";
+var FT = FT || {};
+FT.isPage = { Context: 1, Master: 0, Site: 0, Section: 0, Front: 0, Story: 1 };
+</script>
+<link rel="shortcut icon" href="http://im.ft-static.com/m/icons/favicon.ico" type="image/x-icon" />
+<link rel="apple-touch-icon" href="http://im.ft-static.com/m/icons/apple-touch-icon.png" />
+<script>
+siteMapTerm = 'Sections.Technology';
+navEdition = 'UK';
+brandName = '';
+primaryThemeName = 'Apple Inc';
+</script> 
+<script>
+FT.env = {
+"site" : "ftcom",
+"sec" : "sectionAdvert1",
+"page" : "pageAdvert1",
+"artid" : "pageAdvert1",
+"server" : "",
+"dfp_site": "ftcom.5887.technology",
+"dfp_zone": "technology-index",
+"dfp_targeting" : "XXXX;pt=art",
+"asset" : "story"
+};
+// These global vars are required for FTTrack2.js
+FTSection = FT.env.sec;
+FTPage = FT.env.page;
+FTSite = FT.env.site;
+AssetType = FT.env.asset;
+</script>
+<script>
+FT = FT ? FT : {};
+FT.storyTools = FT.storyTools ? FT.storyTools : {};
+FT.storyTools.storySummary = 'Headphone+maker+is+set+to+be+iPhone+maker%26rsquo%3Bs+largest+acquisition';
+</script>
+<link href="https://plus.google.com/113457471429583444041/" rel="publisher" />
+<script src="//s4.media.ft.com/opentag/opentag-27295-31253.js"></script>
+<script src="http://s2.ft-static.com/scripts/d4d522ed/bundles/renderHead.js"></script>
+<!-- New tracking module, supercedes ft-tracking and si-tracking -->
+<script src="http://s2.ft-static.com/scripts/8fb33395/bundles/tracking.js"></script>
+<noscript>
+<img alt="" border="0" width="1" height="1" src="http://track.ft.com/track/track.js?javascript=disabled"/>
+<img alt="" border="0" width="1" height="1" src="http://stats.ft.com/si/track.gif?WT.js=No"/>
+</noscript>
+<!-- FT Advertising code -->
+<script>
+(function () {
+var version = 'latest',
+urlStem = '//www.ft.com/m/advertising/',
+timestamp = new Date(),
+query = '?t=' + timestamp.getFullYear() + '-' + (timestamp.getMonth() + 1) + '-' + timestamp.getDate();
+if (FT) {
+if (FT.env && FT.env.advertising) {
+version = FT.env.advertising;
+query = '';
+}
+if (FT.Properties && FT.Properties.ADVERTISING_BASE) {
+urlStem = FT.Properties.ADVERTISING_BASE;
+}
+}
+urlStem = urlStem + 'advertising-' + version+ '.min';
+document.write('\x3Cscript src="' + urlStem + '.js' + query + '">\x3C\/script>');
+document.write('\x3Clink rel="stylesheet" media="all" href="' + urlStem + '.css' + query + '" \/>');
+}());
+</script>
+<!-- New brightcove module, contains the libraries and FT wrappers as well -->
+<script src="http://s2.ft-static.com/scripts/aa616ea6/bundles/brightcove.js"></script>
+</head>
+<body data-uid="700004bc-f97b-11df-9e29-00144feab49a" data-article-uid="e330e830-d6f3-11e3-b95e-00144feabdc0" class="nojs hoverable ">
+<!-- DoubleClick DART Natural Search Standard Tracking Tag for DS3
+DFA Network - Essence - DFA EMEA (6494) : DS Agency - Essence Digital (20200000000000626) : DS Advertiser - Finacial Times (21700000000032003)
+Please do not remove
+Tag should be placed at the top of the page, after opening body tag and before DoubleClick Spotlight or Floodlight tag(s)
+Creation Date: 01-06-2014
+User Story ID - US40735
+Request By - Marketing
+Purpose - To track conversions driven by natural searches using the existing DFA infrastructure.
+-->
+<script type='text/javascript'>
+// DoubleClick DART Natural Search Tracking Code
+if (document.referrer){
+var ord = Math.random()*1000000000000;
+document.write('<SCRIPT language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/N6494.197812.NSO.CODESRV/B7995637;dcadv=4349995;sz=1x2;ord=' + ord + '?"><\/SCRIPT>');
+}
+</script>
+<script>FT.$doc.trigger("pgObjStart", {key: "perceivedLoadTime"});</script>
+<!-- Methode uuid: "e330e830-d6f3-11e3-b95e-00144feabdc0" -->
+<!-- BuildLife: "PROD 209919" -->
+<!-- Session Id: "" -->
+<!-- Date: "2014-04-17:13:56:23GMT" -->
+<!-- Revision: "${SVN.REVISION} " -->
+<!-- Version: "NewAHP " -->
+<script>
+FT.preInit.setBodyClass(navigator);
+</script>
+<div id="fullpage-container"></div>
+<div class="introAd" data-cb-ad-id="Intro" data-cb-dfp-id="unit=ftcom5887technology.technology-index;targeting=art;pos=intro">
+<script>
+FT.ads.request('intro');
+</script>
+</div>
+<div class="clearfix container" id="page-container">
+<div id="bannerAdvertContainer">
+<div id="banlbGPT" data-ftads-pos="banlb" class="advertising" >
+<script>
+if( FT.ads.slots && FT._ads.utils.isFunction(FT.ads.slots.initSlot) ){
+FT.ads.slots.initSlot("banlbGPT");
+}
+</script>
+<noscript>
+<a href="http://ad.doubleclick.net/N5887/jump/ftcom.5887.home/uk;sz=468x60,728x90;pos=banlbGPT;tile=1;nojs=1?" target="_blank">
+<img src="http://ad.doubleclick.net/N5887/ad/ftcom.5887.home/uk;sz=468x60,728x90;pos=banlbGPT;tile=1;nojs=1?" border="0" alt="Advertisement" />
+</a>
+</noscript>
+</div>
+<div id="newssubsGPT" data-ftads-pos="newssubs" class="advertising">
+<script>
+if( FT.ads.slots && FT._ads.utils.isFunction(FT.ads.slots.initSlot) ){
+FT.ads.slots.initSlot("newssubsGPT");
+}
+</script>
+</div>
+</div>
+<div class="master-row topSection" data-zone="topSection" data-timer-key="1">
+<script>FT.$doc.trigger("pgObjStart", {key: "1", keyType: "el"});</script>
+<script>FT.$doc.trigger("pgObjStart", {key: "2", keyType: "el"});</script>
+<div id="header" class="headerGPT clearfix" data-comp-name="header" data-comp-view="header" data-comp-index="0" data-timer-key="2" >
+<div id="page-title">
+<div class="bar section">
+<a class="heading hidden" href="http://www.ft.com"><img src="http://im.ft-static.com/m/img/masthead_print.gif" alt="Financial Times" /></a>
+<p class="bc"> 
+<a href="http://www.ft.com">ft.com</a>
+<span> &gt; </span><a href="http://www.ft.com/companies">Companies</a>
+<span> &gt; </span>
+</p>
+<div class="pagename"> 
+<span data-pos="0" ><a href='http://www.ft.com/companies/technology'>Tech Hub</a></span>
+</div>
+</div>	</div>
+<div class="colright clearfix">
+<div id="ft-search" class="clearfix wideSearchInput">
+<form id="wsod-symbolSearch" method="get" action="http://search.ft.com/search" >
+<fieldset>
+<div class="searchContainer">
+<input class="text ft-search-auto-completable" type="text" value="" name="queryText" id="simpleSearchField" autocomplete="off" />
+</div>
+<button type="submit" class="ft-button ft-button-large">Search</button>
+</fieldset>
+</form>
+</div>
+<div id="ftLogin">
+<div class="ftLogin-loggedOut">
+<a id="ftLogin-signIn" class="ft-link" href="https://registration.ft.com/registration/barrier/login">Sign in</a>
+<a class="ft-link" href="http://registration.ft.com/registration/subscription-service/signuppsp?segid=70009">Register</a>
+<a class="ft-link subscriptionLink" href="http://registration.ft.com/registration/subscription-service/bpsp?segid=70152">Subscribe</a>
+</div>
+<div class="ftLogin-loggedIn">
+<a href="https://registration.ft.com/registration/login/logout?location=" id="ftLogin-logout">Sign out <span id="ftLogin-user"></span></a>
+<span id ="ftLogin-sub-link"><a href="http://registration.ft.com/registration/subscription-service/bpsp?segid=70152" class="subscriptionLink">Subscribe</a></span>
+<a href="http://registration.ft.com/registration/selfcare/" id="ftLogin-yourAccount">Your account</a>
+</div>
+<div id="ftLogin-box" class="roundedCorners">
+<form action="https://registration.ft.com/registration/barrier/login" method="post">
+<input type="hidden" name="location" value="http://www.ft.com/cms/s/0/e330e830-d6f3-11e3-b95e-00144feabdc0.html" />
+<fieldset>
+<label for="ftLogin-username">Email address</label>
+<input id="ftLogin-username" name="username" class="text" type="text"/>
+</fieldset>
+<fieldset>
+<label for="ftLogin-password">Password</label>
+<input id="ftLogin-password" name="password" class="text" type="password"/>
+</fieldset>
+<span class="ftLogin-forgotPassword">
+<a href="https://registration.ft.com/registration/login/forgottenpassword?forgottenPasswordUsername=&amp;location=">Forgot password?</a>
+</span>
+<fieldset>
+<p class="ftLogin-rememberMe">
+<span>
+<input id="ftLogin-remember" name="rememberme" class="checkbox" type="checkbox" checked="checked" />
+<label for="ftLogin-remember">Remember me on this computer</label>
+</span>
+<button type="submit" class="ft-button ft-button-large">Sign in</button>
+</p>
+<p class="ftLogin-cookiePolicy">
+"Remember me" uses a cookie. View our <a href="http://www.ft.com/cookiepolicy">Cookie Policy</a>.
+</p>
+</fieldset>
+</form>
+</div>
+</div>
+<script>
+FT.preInit.loginForm();
+</script>
+<div id="searchbox" data-ftads-pos="newssubs" class="advertising">
+<script>
+if( FT.ads.slots && FT._ads.utils.isFunction(FT.ads.slots.initSlot) ){
+FT.ads.slots.initSlot("searchbox");
+}
+</script>
+</div>
+</div>
+</div>
+<script>FT.$doc.trigger("pgObjStop", {key: "2"});</script>
+<script>FT.$doc.trigger("pgObjStart", {key: "3", keyType: "el"});</script>
+<nav class="nav-ftcom"> <div id="nav-ftcom" data-track-comp-name="nav" data-nav-source="ft-uk"> <ol class="nav-items-l1"> <li class="nav-item-l1" data-track-pos="0"> <a href="http://www.ft.com">Home</a> </li> <li class="nav-item-l1" data-track-pos="1" data-headlinesuuid="2836ebbe-cd26-11de-a748-00144feabdc0"> <a href="http://www.ft.com/world/uk">UK</a> <div class="nav-flyout"></div> </li> <li class="nav-item-l1" data-track-pos="2" data-headlinesuuid="fefd8528-cd25-11de-a748-00144feabdc0"> <a href="http://www.ft.com/world">World</a> <div class="nav-flyout"></div> </li> <li class="nav-item-l1 nav-selected" data-track-pos="3" data-headlinesuuid="ee08dbdc-cd25-11de-a748-00144feabdc0"> <a href="http://www.ft.com/companies">Companies</a> <ol class="nav-items-l2"> <li class="nav-has-l3"> <a href="http://www.ft.com/companies/energy"> Energy </a> <ol class="nav-items-l3"> <li class="title"><a href="http://www.ft.com/companies/energy">Energy<span class="arrow">&#8250;</span></a></li> <li > <a href="http://www.ft.com/companies/mining"> Mining </a> </li> <li > <a href="http://www.ft.com/companies/oil-gas"> Oil & Gas </a> </li> <li > <a href="http://www.ft.com/companies/utilities"> Utilities </a> </li> </ol> </li> <li class="nav-has-l3"> <a href="http://www.ft.com/companies/financials"> Financials </a> <ol class="nav-items-l3"> <li class="title"><a href="http://www.ft.com/companies/financials">Financials<span class="arrow">&#8250;</span></a></li> <li > <a href="http://www.ft.com/companies/banks"> Banks </a> </li> <li > <a href="http://www.ft.com/companies/insurance"> Insurance </a> </li> <li > <a href="http://www.ft.com/companies/property"> Property </a> </li> <li > <a href="http://www.ft.com/companies/financial-services"> Financial Services </a> </li> </ol> </li> <li class="nav-has-l3"> <a href="http://www.ft.com/companies/health"> Health </a> <ol class="nav-items-l3"> <li class="title"><a href="http://www.ft.com/companies/health">Health<span class="arrow">&#8250;</span></a></li> <li > <a href="http://www.ft.com/companies/health-care"> Health Care </a> </li> <li > <a href="http://www.ft.com/companies/pharmaceuticals"> Pharmaceuticals </a> </li> </ol> </li> <li class="nav-has-l3"> <a href="http://www.ft.com/companies/industrials"> Industrials </a> <ol class="nav-items-l3"> <li class="title"><a href="http://www.ft.com/companies/industrials">Industrials<span class="arrow">&#8250;</span></a></li> <li > <a href="http://www.ft.com/companies/aerospace-defence"> Aerospace & Defence </a> </li> <li > <a href="http://www.ft.com/companies/automobiles"> Automobiles </a> </li> <li > <a href="http://www.ft.com/companies/basic-resources"> Basic Resources </a> </li> <li > <a href="http://www.ft.com/companies/chemicals"> Chemicals </a> </li> <li > <a href="http://www.ft.com/companies/construction"> Construction </a> </li> <li > <a href="http://www.ft.com/companies/industrial-goods"> Industrial Goods </a> </li> <li > <a href="http://www.ft.com/companies/support-services"> Support Services </a> </li> </ol> </li> <li> <a href="http://www.ft.com/companies/luxury-360"> Luxury 360 </a> </li> <li> <a href="http://www.ft.com/companies/media"> Media </a> </li> <li class="nav-has-l3"> <a href="http://www.ft.com/companies/retail-consumer"> Retail & Consumer </a> <ol class="nav-items-l3"> <li class="title"><a href="http://www.ft.com/companies/retail-consumer">Retail & Consumer<span class="arrow">&#8250;</span></a></li> <li > <a href="http://www.ft.com/companies/food-beverage"> Food & Beverage </a> </li> <li > <a href="http://www.ft.com/companies/personal-goods"> Personal & Household Goods </a> </li> <li > <a href="http://www.ft.com/companies/retail"> Retail </a> </li> <li > <a href="http://www.ft.com/companies/tobacco"> Tobacco </a> </li> <li > <a href="http://www.ft.com/companies/travel-leisure"> Travel & Leisure </a> </li> </ol> </li> <li class="nav-has-l3 nav-selected"> <a href="http://www.ft.com/companies/technology"> Tech </a> <ol class="nav-items-l3"> <li class="title"><a href="http://www.ft.com/companies/technology">Tech<span class="arrow">&#8250;</span></a></li> <li > <a href="http://www.ft.com/technology/science"> Science </a> </li> <li > <a href="http://blogs.ft.com/fttechhub/"> Tech Blog </a> </li> </ol> </li> <li> <a href="http://www.ft.com/companies/telecoms"> Telecoms </a> </li> <li class="nav-has-l3"> <a href="http://www.ft.com/companies/transport"> Transport </a> <ol class="nav-items-l3"> <li class="title"><a href="http://www.ft.com/companies/transport">Transport<span class="arrow">&#8250;</span></a></li> <li > <a href="http://www.ft.com/companies/airlines"> Airlines </a> </li> <li > <a href="http://www.ft.com/companies/shipping"> Shipping </a> </li> <li > <a href="http://www.ft.com/companies/rail"> Rail </a> </li> </ol> </li> <li class="nav-has-l3"> <a href="http://www.ft.com/companies/byregion"> By Region </a> <ol class="nav-items-l3"> <li class="title"><a href="http://www.ft.com/companies/byregion">By Region<span class="arrow">&#8250;</span></a></li> <li > <a href="http://www.ft.com/companies/us"> US Companies </a> </li> <li > <a href="http://www.ft.com/companies/uk"> UK Companies </a> </li> <li > <a href="http://www.ft.com/companies/europe"> European Companies </a> </li> <li > <a href="http://www.ft.com/companies/americas"> Americas Companies </a> </li> <li > <a href="http://www.ft.com/companies/asiapacific"> Asia-Pacific Companies </a> </li> <li > <a href="http://www.ft.com/companies/africa"> African Companies </a> </li> <li > <a href="http://www.ft.com/companies/byregion/mideast"> Middle Eastern Companies </a> </li> <li > <a href="http://www.ft.com/companies/uksmallercompanies"> UK Small Companies </a> </li> </ol> </li> <li class="nav-rss"><img src="http://navigation.webservices.ft.com/v1/navigation/ft/img/rss-icon.gif" width="14" height="14" alt="RSS" /></li> <li class="nav-tools nav-has-l3"> <a href="http://www.ft.com/servicestools">Tools</a> <ol class="nav-items-l3"> <li class="title"> <a href="http://www.ft.com/servicestools"> Tools <span class="arrow">&#8250;</span> </a> </li> <li> <a href="http://aboutus.ft.com/">About Us</a> </li> <li> <a href="http://www.ft.com/topics">Topics</a> </li> <li> <a href="http://markets.ft.com/portfolio/all.asp">Portfolio</a> </li> <li> <a href="http://clippings.ft.com/">FT clippings</a> </li> <li> <a href="http://markets.ft.com/alerts/keyword.asp">Alerts hub</a> </li> <li> <a href="http://nbe.ft.com/nbe/profile.cfm">Email briefings</a> </li> <li> <a href="http://rankings.ft.com/businessschoolrankings/global-mba-rankings">MBA rankings</a> </li> <li> <a href="http://mbanewslines.ft.com/">Newslines</a> </li> <li> <a href="http://lexicon.ft.com">FT Lexicon</a> </li> <li> <a href="http://www.ft.com/mobile">Mobile</a> </li> <li> <a href="http://markets.ft.com/ft/markets/currencies.asp">Currency converter</a> </li> <li> <a href="http://www.ft.com/ebooks">FT ebooks</a> </li> <li> <a href="http://www.ft.com/FTePaper">ePaper</a> </li> <li> <a href="http://jobs.ft.com/regionselector.ashx">Executive jobs</a> </li> <li> <a href="http://presscuttings.ft.com/presscuttings/search.htm">FT press cuttings</a> </li> <li> <a href="http://aboutus.ft.com/social-media/">Social Media hub</a> </li> <li> <a href="http://markets.ft.com/research/EcoCalendar">Economic calendar</a> </li> </ol> </li> </ol> </li> <li class="nav-item-l1" data-track-pos="4" data-headlinesuuid="011debcc-cd26-11de-a748-00144feabdc0"> <a href="http://www.ft.com/markets">Markets</a> <div class="nav-flyout"></div> </li> <li class="nav-item-l1" data-track-pos="5" data-headlinesuuid="efdac59c-cd25-11de-a748-00144feabdc0"> <a href="http://www.ft.com/global-economy">Global Economy</a> <div class="nav-flyout"></div> </li> <li class="nav-item-l1" data-track-pos="6" data-headlinesuuid="fa35a412-cd25-11de-a748-00144feabdc0"> <a href="http://www.ft.com/lex">Lex</a> <div class="nav-flyout"></div> </li> <li class="nav-item-l1" data-track-pos="7" data-headlinesuuid="ec66fcc8-cd25-11de-a748-00144feabdc0"> <a href="http://www.ft.com/comment">Comment</a> <div class="nav-flyout"></div> </li> <li class="nav-item-l1" data-track-pos="8" data-headlinesuuid="fcdae4e8-cd25-11de-a748-00144feabdc0"> <a href="http://www.ft.com/management">Management</a> <div class="nav-flyout"></div> </li> <li class="nav-item-l1" data-track-pos="9" data-headlinesuuid="d5480e62-cd28-11de-a748-00144feabdc0"> <a href="http://www.ft.com/personal-finance">Personal Finance</a> <div class="nav-flyout"></div> </li> <li class="nav-item-l1" data-track-pos="10" data-headlinesuuid="cec106aa-cd25-11de-a748-00144feabdc0"> <a href="http://www.ft.com/life-arts">Life & Arts</a> <div class="nav-flyout"></div> </li> </ol> </div></nav>
+<script>FT.$doc.trigger("pgObjStop", {key: "3"});</script>
+<script>FT.$doc.trigger("pgObjStart", {key: "4", keyType: "el"});</script>
+<div class="freestyle" data-comp-name="freestyle" data-comp-view="freestyle" data-comp-index="2" data-timer-key="4" id="168514">
+<script>
+//<![CDATA[
+FT = FT ? FT : {};
+FT.storyTools = FT.storyTools ? FT.storyTools : {};
+FT.storyTools.shareList = [
+{
+'id': 'twitter',
+'label': 'Twitter',
+'link' : 'https://twitter.com/intent/tweet?url={url}&text={title}&original_referer={originalUrl}&related={relatedAccts}&via=FT',
+'size': 'height=436,width=646'
+},
+{
+'id': 'facebook',
+'label': 'Facebook',
+'link': 'http://www.facebook.com/sharer.php?u={canonicalurl}&t={title}+|+{section}',
+'size': 'height=436,width=646'
+},
+{
+'id': 'googleplus',
+'label': 'Google+',
+'link': 'https://plus.google.com/share?url={url}',
+'size': 'height=436,width=646'
+},
+{
+'id': 'linkedin',
+'label': 'LinkedIn',
+'link' : 'http://www.linkedin.com/shareArticle?mini=true&url={url}&title={title}+|+{section}&summary={summary}&source={source}',
+'size': 'height=436,width=646'
+},
+{
+'id': 'stumbleupon',
+'label': 'StumbleUpon',
+'link': 'http://www.stumbleupon.com/submit?url={url}&title={title}',
+'size': 'height=436,width=646'
+},
+{
+'id': 'reddit',
+'label': 'Reddit',
+'link': 'http://reddit.com/submit?url={url}&title={title}',
+'size': 'height=436,width=646'
+},
+{
+'id': 'tumblr',
+'label': 'Tumblr',
+'link': 'http://www.tumblr.com/share/link?url={url}&name={title}&description={summary}',
+'size': 'height=436,width=646'
+}
+];
+FT.storyTools.twitterList = [
+{
+"name": "World",
+"value": "fttheworld" 
+},
+{
+"name": "Companies",
+"value": "ftcompanies" 
+},
+{
+"name": "Economy",
+"value": "ftuseconomy"
+},
+{
+"name": "Lex",
+"value": "helexcolumn" 
+},
+{
+"name": "Management",
+"value": "ftmanagement"
+},
+{
+"name": "Life &amp; Arts",
+"value": "ftlifeandarts" 
+},
+{
+"name": "Alphaville",
+"value": "ftalphaville" 
+},
+{
+"name": "Beyond Bricks",
+"value": "beyondbrics" 
+},
+{
+"name": "Tech Hub",
+"value": "fttechhub" 
+} 
+];
+FT.storyTools.defaultTwitAct = {
+"name": "fttheworld" 
+};
+//]]>
+</script>
+</div>
+<script>FT.$doc.trigger("pgObjStop", {key: "4"});</script>
+<script>FT.$doc.trigger("pgObjStop", {key: "1"});</script>
+</div>
+<div class="master-column middleSection " data-zone="middleSection" data-timer-key="5">
+<div class="master-row contentSection " data-zone="contentSection" data-timer-key="6">
+<div class="master-row editorialSection" data-zone="editorialSection" data-timer-key="7">
+<script>FT.$doc.trigger("pgObjStart", {key: "7", keyType: "el"});</script>
+<script>FT.$doc.trigger("pgObjStart", {key: "8", keyType: "el"});</script>
+<div class="fullstory fullstoryHeader clearfix" data-comp-name="fullstory" data-comp-view="fullstory_title" data-comp-index="0" data-timer-key="8">
+<p class="lastUpdated" id="publicationDate">
+<span class="time">May 8, 2014 10:45 pm</span></p>
+<h1>Apple in talks for $3.2bn Beats deal</h1>
+<p class="byline ">
+<span>By Matthew Garrahan in Los Angeles and Tim Bradshaw in San Francisco</span></p>
+</div>
+<script>FT.$doc.trigger("pgObjStop", {key: "8"});</script>
+<script>FT.$doc.trigger("pgObjStart", {key: "9", keyType: "el"});</script>
+<div class="fullstory fullstoryBody" data-comp-name="fullstory" data-comp-view="fullstory" data-comp-index="1" data-timer-key="9">
+<div id="storyContent"><div class="slideshow slideshow-standard carousel" data-feature-group="b0e31b54-d6e5-11e3-907c-00144feabdc0" data-feature-type="slideshow"><ul class="carousel-collection"><li class="carousel-item"><img src="http://im.ft-static.com/content/images/1d54aa92-1142-4a1b-ab90-b3c8618e383b.img" alt="Time for a move: Apple chief Tim Cook’s swoop for Beats marks a radical shift. ‘It shows he is willing to go against Steve Jobs’s wishes. Apple is now truly his company,’ says one pundit" width="600" height="338" /><div class="slide-overlay">Time for a move: Apple chief Tim Cook’s swoop for Beats marks a radical shift. ‘It shows he is willing to go against Steve Jobs’s wishes. Apple is now truly his company,’ says one pundit<div class="slide-imageSource"><a href="http://www.ft.com/servicestools/terms/getty" class="credit">©Getty</a></div></div></li><li class="carousel-item"><noscript data-src="http://im.ft-static.com/content/images/d73c7f27-23b1-4253-b2c0-43054a6347a9.img" data-alt="Street credibility: Dr Dre, the hip-hop star, founded Beats, a headphone maker and music stream operator. Apple is not just adding to its portfolio with the move, it is buying urban cool" data-width="600" data-height="338"><img src="http://im.ft-static.com/content/images/d73c7f27-23b1-4253-b2c0-43054a6347a9.img" alt="Street credibility: Dr Dre, the hip-hop star, founded Beats, a headphone maker and music stream operator. Apple is not just adding to its portfolio with the move, it is buying urban cool" width="600" height="338" /></noscript><div class="slide-overlay">Street credibility: Dr Dre, the hip-hop star, founded Beats, a headphone maker and music stream operator. Apple is not just adding to its portfolio with the move, it is buying urban cool<div class="slide-imageSource"><a href="http://www.ft.com/servicestools/terms/getty" class="credit">©Getty</a></div></div></li><li class="carousel-item"><noscript data-src="http://im.ft-static.com/content/images/9e29beb1-7e07-4e59-9e8e-3238eb280377.img" data-alt="New offering: the Ekocycle headphones by Beats. With growth of the iPad slowing and iPod sales dwindling, Mr Cook has been under pressure to reduce its reliance on the iPhone" data-width="600" data-height="338"><img src="http://im.ft-static.com/content/images/9e29beb1-7e07-4e59-9e8e-3238eb280377.img" alt="New offering: the Ekocycle headphones by Beats. With growth of the iPad slowing and iPod sales dwindling, Mr Cook has been under pressure to reduce its reliance on the iPhone" width="600" height="338" /></noscript><div class="slide-overlay">New offering: the Ekocycle headphones by Beats. With growth of the iPad slowing and iPod sales dwindling, Mr Cook has been under pressure to reduce its reliance on the iPhone<div class="slide-imageSource"><a href="http://www.ft.com/servicestools/terms/associated-press" class="credit">©AP</a></div></div></li><li class="carousel-item"><noscript data-src="http://im.ft-static.com/content/images/e8de8055-8c59-4118-a3ab-5835d23abfd0.img" data-alt="Linked to Apple: Jimmy Iovine, Beats chairman, has said the group’s founding six years ago was inspired by the iPod in its marriage of tech and pop culture, but also its earpieces’ low quality" data-width="600" data-height="338"><img src="http://im.ft-static.com/content/images/e8de8055-8c59-4118-a3ab-5835d23abfd0.img" alt="Linked to Apple: Jimmy Iovine, Beats chairman, has said the group’s founding six years ago was inspired by the iPod in its marriage of tech and pop culture, but also its earpieces’ low quality" width="600" height="338" /></noscript><div class="slide-overlay">Linked to Apple: Jimmy Iovine, Beats chairman, has said the group’s founding six years ago was inspired by the iPod in its marriage of tech and pop culture, but also its earpieces’ low quality<div class="slide-imageSource"><a href="http://www.ft.com/servicestools/terms/getty" class="credit">©Getty</a></div></div></li><li class="carousel-item"><noscript data-src="http://im.ft-static.com/content/images/24c3fec6-118a-446a-af5c-2e409348e04a.img" data-alt="Selling the tune: Trent Reznor, the Nine Inch Nails frontman, joined Beats last year as chief creative officer as the group continued to diversify beyond electronics and into music streaming" data-width="600" data-height="338"><img src="http://im.ft-static.com/content/images/24c3fec6-118a-446a-af5c-2e409348e04a.img" alt="Selling the tune: Trent Reznor, the Nine Inch Nails frontman, joined Beats last year as chief creative officer as the group continued to diversify beyond electronics and into music streaming" width="600" height="338" /></noscript><div class="slide-overlay">Selling the tune: Trent Reznor, the Nine Inch Nails frontman, joined Beats last year as chief creative officer as the group continued to diversify beyond electronics and into music streaming<div class="slide-imageSource"><a href="http://www.ft.com/servicestools/terms/getty" class="credit">©Getty</a></div></div></li><li class="carousel-item"><noscript data-src="http://im.ft-static.com/content/images/9f26342a-dbb4-40f9-8eab-1efafd380846.img" data-alt="Aesthetic attraction: Apple is tapping into a Hollywood culture and marketing savvy that has made Beats’ products loved by a younger demographic not always drawn to the iPhone’s minimalism" data-width="600" data-height="338"><img src="http://im.ft-static.com/content/images/9f26342a-dbb4-40f9-8eab-1efafd380846.img" alt="Aesthetic attraction: Apple is tapping into a Hollywood culture and marketing savvy that has made Beats’ products loved by a younger demographic not always drawn to the iPhone’s minimalism" width="600" height="338" /></noscript><div class="slide-overlay">Aesthetic attraction: Apple is tapping into a Hollywood culture and marketing savvy that has made Beats’ products loved by a younger demographic not always drawn to the iPhone’s minimalism<div class="slide-imageSource"><a href="http://www.ft.com/servicestools/terms/afp" class="credit">©AFP</a></div></div></li><li class="carousel-item"><noscript data-src="http://im.ft-static.com/content/images/dc431705-6baf-4e79-9181-07fa6af5a2f7.img" data-alt="Powerful backers: billionaire James Packer, co-chairman of casino group Melco Crown, was among those investing in Beats’ music subscription service in 2013" data-width="600" data-height="338"><img src="http://im.ft-static.com/content/images/dc431705-6baf-4e79-9181-07fa6af5a2f7.img" alt="Powerful backers: billionaire James Packer, co-chairman of casino group Melco Crown, was among those investing in Beats’ music subscription service in 2013" width="600" height="338" /></noscript><div class="slide-overlay">Powerful backers: billionaire James Packer, co-chairman of casino group Melco Crown, was among those investing in Beats’ music subscription service in 2013<div class="slide-imageSource"><a href="http://www.ft.com/servicestools/terms/bloomberg" class="credit">©Bloomberg</a></div></div></li></ul><div class="carousel-nav carousel-prev carousel-hidden"><span>Previous image</span></div><div class="carousel-nav carousel-next carousel-hidden"><span>Next image</span></div></div><div class="thumbnail-carousel thumbnails-standard carousel" data-feature-group="b0e31b54-d6e5-11e3-907c-00144feabdc0" data-feature-type="slideshowThumbnails"><ul class="carousel-collection"><li class="current carousel-item"><img src="http://im.ft-static.com/content/images/281b5d99-088b-42e0-ac2c-e1a1d6b4c74f.img" alt="" width="114" height="64" /></li><li class="carousel-item"><img src="http://im.ft-static.com/content/images/46aaaa53-5df0-4750-9e04-d14c1482a885.img" alt="" width="114" height="64" /></li><li class="carousel-item"><img src="http://im.ft-static.com/content/images/ee893391-0f93-45e0-9c1d-e9a4245e8289.img" alt="" width="114" height="64" /></li><li class="carousel-item"><img src="http://im.ft-static.com/content/images/10587d23-17c2-4175-bf50-23cdf27e0f4c.img" alt="" width="114" height="64" /></li><li class="carousel-item"><img src="http://im.ft-static.com/content/images/2cba1321-474f-44b9-a886-a3c2869fa4fc.img" alt="" width="114" height="64" /></li><li class="carousel-item"><img src="http://im.ft-static.com/content/images/48eb5f5b-e5f5-44bf-9b10-b59323e0b46a.img" alt="" width="114" height="64" /></li><li class="carousel-item"><img src="http://im.ft-static.com/content/images/410ea12b-cbd0-4345-9508-d09cf95577f0.img" alt="" width="114" height="64" /></li></ul><div class="carousel-nav carousel-next carousel-hidden"><span class="offscreen">Next Thumbnails</span></div><div class="carousel-nav carousel-prev carousel-hidden"><span class="offscreen">Previous Thumbnails</span></div></div>
+<p><a class="wsodCompany" data-hover-chart="us:AAPL" href="http://markets.ft.com/tearsheets/performance.asp?s=us:AAPL">Apple</a> is closing in on its largest acquisition with the planned $3.2bn purchase of Beats Electronics, the headphone maker and music streaming operator founded by music producer Jimmy Iovine and the hip-hop star Dr Dre.</p>
+<div class="insideArticleShare"><ul><!----></ul></div><div class="story-package" data-track-comp-name="moreOn"><div class="insideArticleCompHeader"><h3 class="insideArticleCompHeaderTitle">More</h3></div><h4>On this topic</h4><ul><li data-track-pos="0"> <a href="http://www.ft.com/cms/s/0/030d08f4-d70e-11e3-b95e-00144feabdc0.html">Beats move marks break with Apple’s past</a></li><li data-track-pos="1">Slideshow <a href="http://www.ft.com/cms/s/0/b0e31b54-d6e5-11e3-907c-00144feabdc0.html">Apple buys Beats Electronics</a></li><li data-track-pos="2"> <a href="h
+7b79
+ttp://www.ft.com/cms/s/0/1280b75a-d4ce-11e3-8f77-00144feabdc0.html">Apple’s Ahrendts in line for $68m payday</a></li><li data-track-pos="3">Fast FT <a href="http://on.ft.com/1lSLBRl">Apple’s earnings dwarf rivals</a></li></ul><h4>IN Technology</h4><ul><li data-track-pos="4"> <a href="http://www.ft.com/cms/s/0/0bef5d18-d755-11e3-a47c-00144feabdc0.html">Cracking the code for budding female entrepreneurs</a></li><li data-track-pos="5"> <a href="http://www.ft.com/cms/s/0/50d3b630-d71f-11e3-b95e-00144feabdc0.html">Beats deal could spark digital music spree</a></li><li data-track-pos="6"> <a href="http://www.ft.com/cms/s/0/a831c9a6-d6d6-11e3-b95e-00144feabdc0.html">Snapchat settles privacy complaint</a></li><li data-track-pos="7"> <a href="http://www.ft.com/cms/s/0/d4496d86-d68c-11e3-907c-00144feabdc0.html">Watch the wild cards in Alibaba’s IPO</a></li></ul></div><p>The deal could be announced as early as next week, people familiar with the negotiations said, but they cautioned that some details had yet to be agreed and talks could still fall apart.</p>
+<p>A deal on the scale being discussed would represent a radical departure for Tim Cook, chief executive of the iPhone maker: under the late Steve Jobs, Apple was reluctant to pursue high-profile acquisitions.</p>
+<p>Apple will acquire <a href="http://www.ft.com/intl/cms/s/0/f1990134-adca-11e3-9ddc-00144feab7de.html?siteedition=intl" title="Music revenues decline as digital fail to grow fast enough - FT.com">Beats’ streaming music </a>service, which launched this year, and its audio equipment business, which includes its brand of headphones and audio equipment. The Beats management team will report to Mr Cook, said people familiar with the deal. Apple and Beats declined to comment. </p>
+<p>A decade after Mr Jobs transformed the music industry with the iTunes download store and the iPod digital music player, the deal is likely to be seen as an admission that Apple needs to look outside its Cupertino labs to continue making an impact.</p>
+<noscript><div class="storyvideonojs"><div><p>You need JavaScript active on your browser in order to see this video.</p><img alt="No video" src="http://im.ft-static.com/m/img/logo/no_video.gif" /></div></div></noscript><div class="storyvideo" id="storyvideo3549799729001"><!-- Start of Brightcove Player --><div style="display:none"><!--.--></div><!--
+By use of this code snippet, I agree to the Brightcove Publisher T and C
+found at https://accounts.brightcove.com/en/terms-and-conditions/.
+--><object class="BrightcoveExperience" id="myExperience3549799729001"><param name="bgcolor" value="#FFFFFF" /><param name="width" value="400" /><param name="height" value="225" /><param name="wmode" value="transparent" /><param name="playerID" value="754609517001" /><param name="playerKey" value="AQ~~,AAAACxbljZk~,eD0zYozylZ0BsBE0lwVQCchDhI4xG0tl" /><param name="isVid" value="true" /><param name="isUI" value="true" /><param name="dynamicStreaming" value="true" /><param name="@videoPlayer" value="3549799729001" /><param name="linkBaseURL" value="http://video.ft.com/v/3549799729001" /></object><!--
+This script tag will cause the Brightcove Players defined above it to be created as soon
+as the line is read by the browser. If you wish to have the player instantiated only after
+the rest of the HTML is processed and the page load is complete, remove the line.
+--><script>
+BrightcoveFT.Init.createExperience('myExperience3549799729001');
+BrightcoveFT.eventHandlers['myExperience3549799729001'].extend({
+onTemplateReady: function(e) {
+this._super('onTemplateReady', e);
+var currentVideo = BrightcoveFT.experiences[this.experienceID].mod.videoPlayer.getCurrentVideo();
+if (currentVideo === null) {
+var container = document.getElementById("storyvideo3549799729001");
+container.style.display="none";
+}
+}
+});
+</script><!-- End of Brightcove Player --><div class="morevideo"><a href="http://video.ft.com/">More video</a></div></div>
+<p>While Beats commands a leading position in the premium headphone market, its real value to Apple is in revitalising its “cool” at a time when iTunes has waned in popularity and <a class="wsodCompany" data-hover-chart="kr:A005930" href="http://markets.ft.com/tearsheets/performance.asp?s=kr:A005930">Samsung</a>’s marketing campaigns have savaged the iPhone’s brand. </p>
+<p>Apple executives have admitted that its brand is in need of a revamp. Internal emails released during its recent patent trial with Samsung showed that its marketing chief Phil Schiller considered changing Apple’s ad agency after the success of its Korean rival’s “next big thing” campaign.</p>
+<p>Apple is paying a hefty premium for cool: Beats took a $500m investment from <a class="wsodCompany" data-hover-chart="us:CG" href="http://markets.ft.com/tearsheets/performance.asp?s=us:CG">Carlyle</a> in September 2013 that valued the company at more than $1bn. “In terms of acquisitions, Apple has been very, very light in their activity,” said Richard Lane, analyst at Moody’s. “I don’t think they’ve spent $1bn in any of the last four years.” </p>
+<div class="fullstoryImage fullstoryImageLeft inline"><span class="story-image"><img style="width:273px;" alt="" src="http://im.ft-static.com/content/images/ddf516ec-aeae-11e3-8e41-00144feab7de.img" /></span></div><p>Mr Cook said last month Apple was “on the prowl” for more acquisitions, after buying 24 companies in the past 18 months and he was not averse to large acquisitions.</p>
+<p>The Beats move follows a string of high-priced deals in Silicon Valley, after <a class="wsodCompany" data-hover-chart="us:GOOG" href="http://markets.ft.com/tearsheets/performance.asp?s=us:GOOG">Google</a> acquired smart home developer Nest Labs for $3.2bn and <a class="wsodCompany" data-hover-chart="us:FB" href="http://markets.ft.com/tearsheets/performance.asp?s=us:FB">Facebook</a> offered an initial $19bn for WhatsApp Messenger. </p>
+<p>One motivation for the Beats deal may lie in shifts in <a href="http://www.ft.com/intl/cms/s/0/f1990134-adca-11e3-9ddc-00144feab7de.html?siteedition=intl" title="Music revenues decline as digital fail to grow fast enough - FT.com">music consumption</a>. Subscription services are the biggest growth area for the music industry, with revenues increasing 50 per cent to $1.1bn in 2013, according to a recent report by the IFPI, the global music industry association.</p>
+<p>But downloads fell 2 per cent to $3.93bn – the first annual decline since Apple launched its iTunes store in 2003. iTunes is still the world’s largest music download service. </p>
+<p>Apple has dabbled in music streaming but never launched an unlimited subscription service to compete with fast-growing rivals to iTunes such as Spotify. </p>
+<p>In 2009 it acquired Lala, a music streaming service, and last year launched iTunes Radio, which competes with elements of Beats, as well as more established players such as <a class="wsodCompany" data-hover-chart="us:P" href="http://markets.ft.com/tearsheets/performance.asp?s=us:P">Pandora</a>. </p>
+<div class="promobox"><h3>FT Video
+</h3><strong><p><a href="http://video.ft.com/3527379779001/M-A-cycle-turns/Companies" title="Video: M&amp;A cycle turns - FT.com">M&amp;A cycle turns</a>
+</p>
+</strong><div class="promobox-img"><img src="http://im.ft-static.com/content/images/fda953cc-d13b-11e3-bdbb-00144feabdc0.img" /></div><p>May 2014: Global merger and acquisitions activity has just passed the $1tn mark - the first time the figure has been reached at this point of the year since 2007. </p>
+</div>
+<p>Mr Iovine and Dr Dre – real name Andre Young – were inspired to create Beats by the poor sound quality of the headphones bundled with the iPod and iPhone. Beloved by music and sports stars Beats has become a street-smart fashion brand</p>
+<p>Ahead of Apple’s expected launch of an ‘iWatch’ accessory, Beats will also give its designers and engineers access to years of experience in what some see as the original “wearable technology”. </p>
+<p>Nonetheless, the pricey deal is likely to raise questions about Apple’s internal capability to innovate after the death of Mr Jobs in 2011.  </p>
+<p>At the end of March, Apple’s global cash pile stood at $133bn, net of the $17bn in debt it raised last year. Since then it has raised a further $12bn, which it said at the time was to help fund its $130bn dividend and share buyback programme. However, most of its funds are held overseas and its domestic cash has fallen by $16bn to $18bn since it resumed paying dividends in 2012.</p>
+<div><!--web-table table--><table class="data-table" style=" width:100%; "><caption>Apple deals history</caption>
+<thead><tr><th>Date</th>
+<th>Target</th>
+<th>Value ($m)</th>
+</tr></thead>
+<tbody><tr><td>1997</td>
+<td><strong>NeXT</strong> computer systems</td>
+<td>400</td>
+</tr><tr class=" row-odd "><td>2008</td>
+<td><strong>PA Semi </strong>chip designer</td>
+<td>278</td>
+</tr><tr><td>Jan 2010</td>
+<td><strong>Quattro Wireless</strong> mobile ads</td>
+<td>275</td>
+</tr><tr class=" row-odd "><td>Apri 2010</td>
+<td><strong>Siri </strong>voice technology</td>
+<td> </td>
+</tr><tr><td>Sept 2010</td>
+<td><strong>Polar Rose</strong> facial recognition software</td>
+<td> </td>
+</tr><tr class=" row-odd "><td>Nov 2010</td>
+<td><strong>WiGear</strong> wireless headphones</td>
+<td> </td>
+</tr><tr><td>July 2011</td>
+<td><strong>C3 Technologies</strong> 3D maps</td>
+<td>154</td>
+</tr><tr class=" row-odd "><td>Jan 2012</td>
+<td><strong>Anobit</strong> flash memory</td>
+<td>390</td>
+</tr><tr><td>Feb 2012</td>
+<td><strong>Chomp</strong> app store search</td>
+<td> </td>
+</tr><tr class=" row-odd "><td>May 2012</td>
+<td><strong>Redmatica</strong> music editing software</td>
+<td> </td>
+</tr><tr><td>July 2012</td>
+<td><strong>AuthenTec</strong> fingerprint and biometric sensors</td>
+<td>393</td>
+</tr><tr class=" row-odd "><td>Oct 2012</td>
+<td><strong>Color Labs</strong> photo and video sharing social network</td>
+<td>7</td>
+</tr><tr><td>Mar 2013</td>
+<td><strong>WifiSLAM</strong> indoor GPS start-up</td>
+<td> </td>
+</tr><tr class=" row-odd "><td>July 2013</td>
+<td><strong>HopStop.com</strong> transit guide</td>
+<td> </td>
+</tr><tr><td>Aug 2013</td>
+<td><strong>Matcha.tv</strong> video recommendation site</td>
+<td>10</td>
+</tr><tr class=" row-odd "><td>Oct 2013</td>
+<td><strong>Cue</strong> personal assistant app</td>
+<td>35</td>
+</tr><tr><td>Nov 2013</td>
+<td><strong>PrimeSense</strong> 3D motion sensors</td>
+<td>350</td>
+</tr><tr class=" row-odd "><td>Dec 2013</td>
+<td><strong>Topsy Labs</strong> social media data analytics</td>
+<td>200</td>
+</tr><tr><td>Feb 2014</td>
+<td><strong>TestFlight</strong> beta app testing platform</td>
+<td> </td>
+</tr><tr class=" row-odd "><td>May 2014</td>
+<td><strong>Beats</strong> headphone maker</td>
+<td>*3,200</td>
+</tr><tr><td> <em>Source: Dealogic and FT</em>
+</td>
+<td> </td>
+<td>*mooted value</td>
+</tr></tbody>
+</table>
+</div>
+</div><div class="insideArticleRelatedTopics ft-spc-btm-full" data-track-comp-name="relatedTopics"><h2 class="ft-heading ft-heading-medium">Related Topics</h2><ul class="ft-list ft-list-plain ft-list-wrapping"><li class="ft-list-item" data-track-pos="0"><a href="http://www.ft.com/topics/organisations/Apple_Inc">Apple Inc</a>,</li><li class="ft-list-item" data-track-pos="1"><a href="http://www.ft.com/topics/themes/Mergers_&amp;_Acquisitions">Mergers &amp; Acquisitions</a></li></ul></div>
+<p class="screen-copy">
+<a href="http://www.ft.com/servicestools/help/copyright">Copyright</a> The Financial Times Limited 2014. You may share using our article tools.
+<br />
+Please don't cut articles from FT.com and redistribute by email or post to the web.
+</p>
+<div class="storyToolsContainer clearfix">
+<ul id="ft-story-tools-bottom" class="storyTools">
+<li class="linkButton shareButton">
+<a href="#"><span>Share</span></a>
+<div class="shareList roundedCorners overlay" id="shareListOverlay">
+<div class="overlayArrow overlayTopArrow"></div>
+<div class="innerBox">
+<div class="title">Share this on<a href="#" id="closeShareListOverlay"></a></div>
+<ul class="clearfix">
+<li class="dummyNode"></li>
+</ul>
+</div>
+<div class="overlayArrow overlayBottomArrow"></div>
+</div>
+</li>
+<li class="linkButton clipButton" id="clipthis-container-bottom">
+<a href="http://clippings.ft.com/clipthis/?url=http://www.ft.com/cms/s/0/e330e830-d6f3-11e3-b95e-00144feabdc0.html&amp;title=Apple+in+talks+for+%243.2bn+Beats+deal&amp;note=Headphone+maker+is+set+to+be+iPhone+maker%E2%80%99s+largest+acquisition&amp;clipthisdisplay=%3Cspan%3EClip%3C%2Fspan%3E&amp;clippeddisplay=%3Cspan%3EClipped%3C%2Fspan%3E&amp;datepublished=2014-05-08+22%3A45%3A40&amp;images=http%3A%2F%2Fim.ft-static.com%2Fcontent%2Fimages%2Fa78ddac5-7988-40b1-a411-bdc0629371d9.img,http%3A%2F%2Fim.ft-static.com%2Fcontent%2Fimages%2Fddf516ec-aeae-11e3-8e41-00144feab7de.img,http%3A%2F%2Fim.ft-static.com%2Fcontent%2Fimages%2F91b39ae8-ccff-11e1-92c1-00144feabdc0.img,"><span>Clip</span></a>
+</li>
+<li class="linkButton reprintButton">
+<a href="http://www.ft.com/cms/s/0/e330e830-d6f3-11e3-b95e-00144feabdc0.html?reprint=true" rel="nofollow" data-enhanced="true"><span>Reprints</span></a>
+</li>
+<li class="linkButton printButton">
+<a href="#"><span>Print</span></a>
+</li>
+<li id="anc-email-this-bottom" class="linkButton emailButton" data-enhanced="true" >
+<form id="frm-email-this-bottom" action="http://emailthis.t.ft.com/form" method="post" target="_blank"><span><input type="submit" value="Email" /><input type="hidden" name="data" value="{&quot;url&quot;:&quot;http://www.ft.com/cms/s/0/e330e830-d6f3-11e3-b95e-00144feabdc0.html&quot;,&quot;template&quot;:&quot;article&quot;,&quot;config&quot;:&quot;1&quot;,&quot;data&quot;:{&quot;title&quot;:&quot;Apple in talks for $3.2bn Beats deal&quot;,&quot;snippet&quot;:&quot;Beats slideshow \nApple is closing in on its largest acquisition with the planned $3.2bn purchase of Beats Electronics, the...&quot;,&quot;url&quot;:&quot;http://www.ft.com/cms/s/0/e330e830-d6f3-11e3-b95e-00144feabdc0.html&quot;,&quot;date&quot;:&quot;May 8, 2014 9:45 pm&quot;,&quot;byline&quot;:&quot;By Matthew Garrahan in Los Angeles and Tim Bradshaw in San Francisco&quot;,&quot;source&quot;:&quot;FT&quot;},&quot;gentime&quot;:&quot;1399655273&quot;,&quot;sig&quot;:&quot;61109536e2290977638384d31aa0e65a&quot;}" /></span></form>
+</li>
+</ul>
+</div>
+<div id="ft-article-comments"></div>
+</div>
+<script>
+FT.$(function() {
+var script = document.createElement('script');
+script.type = 'text/javascript';
+script.async = "async";
+script.src = 'http://'+FT.Properties.ASSANKA_ANNOTATION_HOST+'/resources/javascript/bootstrap';
+document.getElementsByTagName("head")[0].appendChild(script);
+});
+</script>
+<script>FT.$doc.trigger("pgObjStop", {key: "9"});</script>
+<script>FT.$doc.trigger("pgObjStop", {key: "7"});</script>
+</div>
+<div class="master-row marketingSection" data-zone="marketingSection" data-timer-key="10">
+<script>FT.$doc.trigger("pgObjStart", {key: "10", keyType: "el"});</script>
+<script>FT.$doc.trigger("pgObjStop", {key: "10"});</script>
+</div>
+</div>
+<div class="master-row topAds" data-zone="topAdSection" data-timer-key="11">
+<script>FT.$doc.trigger("pgObjStart", {key: "11", keyType: "el"});</script>
+<script>FT.$doc.trigger("pgObjStart", {key: "12", keyType: "el"});</script>
+<div id="banlb" class="advertising" data-comp-name="advert" data-comp-view="advert" data-comp-index="0" data-timer-key="12" data-cb-ad-id="Leaderboard" data-cb-dfp-id="unit=ftcom5887technology.technology-index;targeting=art;pos=banlb">
+<script>
+FT.ads.request("banlb");
+</script>
+<noscript>
+<a href="http://ad.doubleclick.net/N5887/jump/ftcom.5887.technology/technology-index;sz=468x60,728x90;pos=banlb;tile=1;nojs=1?" target="_blank">
+<img src="http://ad.doubleclick.net/N5887/ad/ftcom.5887.technology/technology-index;sz=468x60,728x90;pos=banlb;tile=1;nojs=1?" border="0" alt="Advertisement" />
+</a>
+</noscript>
+</div>
+<div id="newssubs" class="advertising" data-cb-ad-id="News subs" data-cb-dfp-id="unit=ftcom5887technology.technology-index;targeting=art;pos=newssubs">
+<script>
+FT.ads.requestNewssubs();
+</script>
+</div>
+<script>FT.$doc.trigger("pgObjStop", {key: "12"});</script>
+<script>FT.$doc.trigger("pgObjStop", {key: "11"});</script>
+</div>
+<script>FT.$doc.trigger("pgObjStop", {key: "perceivedLoadTime"});</script>
+<div id="railBg"></div>
+<div class="master-row railSection" data-zone="railSection" data-timer-key="13">
+<div class="storyToolsContainer clearfix">
+<ul id="ft-story-tools-top" class="storyTools">
+<li class="linkButton shareButton">
+<a href="#"><span>Share</span></a>
+</li>
+<li class="linkButton clipButton" id="clipthis-container-top">
+<a href="http://clippings.ft.com/clipthis/?url=http://www.ft.com/cms/s/0/e330e830-d6f3-11e3-b95e-00144feabdc0.html&amp;title=&amp;note=&amp;clipthisdisplay=%3Cspan%3EClip%3C%2Fspan%3E&amp;clippeddisplay=%3Cspan%3EClipped%3C%2Fspan%3E&amp;images="><span>Clip</span></a>
+</li>
+<li class="linkButton reprintButton">
+<a href="http://www.ft.com/cms/s/0/e330e830-d6f3-11e3-b95e-00144feabdc0.html?reprint=true" rel="nofollow" data-enhanced="true"><span>Reprints</span></a>
+</li>
+<li class="linkButton printButton">
+<a href="#"><span>Print</span></a>
+</li>
+<li id="anc-email-this-top" class="linkButton emailButton" data-enhanced="true" >
+<form id="frm-email-this-top" action="http://emailthis.t.ft.com/form" method="post" target="_blank"><span><input type="submit" value="Email" /><input type="hidden" name="data" value="{&quot;url&quot;:&quot;http://www.ft.com/cms/s/0/e330e830-d6f3-11e3-b95e-00144feabdc0.html&quot;,&quot;template&quot;:&quot;article&quot;,&quot;config&quot;:&quot;1&quot;,&quot;data&quot;:{&quot;title&quot;:&quot;Apple in talks for $3.2bn Beats deal&quot;,&quot;snippet&quot;:&quot;Beats slideshow \nApple is closing in on its largest acquisition with the planned $3.2bn purchase of Beats Electronics, the...&quot;,&quot;url&quot;:&quot;http://www.ft.com/cms/s/0/e330e830-d6f3-11e3-b95e-00144feabdc0.html&quot;,&quot;date&quot;:&quot;May 8, 2014 9:45 pm&quot;,&quot;byline&quot;:&quot;By Matthew Garrahan in Los Angeles and Tim Bradshaw in San Francisco&quot;,&quot;source&quot;:&quot;FT&quot;},&quot;gentime&quot;:&quot;1399655273&quot;,&quot;sig&quot;:&quot;61109536e2290977638384d31aa0e65a&quot;}" /></span></form>
+</li>
+</ul>
+</div>
+<script>FT.$doc.trigger("pgObjStart", {key: "13", keyType: "el"});</script>
+<script>FT.$doc.trigger("pgObjStart", {key: "14", keyType: "el"});</script>
+<div id="tlbxrib" class="advertising" data-comp-name="advert" data-comp-view="advert" data-comp-index="0" data-timer-key="14" data-cb-ad-id="Right rail ribbon" data-cb-dfp-id="unit=ftcom5887technology.technology-index;targeting=art;pos=tlbxrib">
+<script>
+FT.ads.request("tlbxrib");
+</script>
+</div>
+<script>FT.$doc.trigger("pgObjStop", {key: "14"});</script>
+<script>FT.$doc.trigger("pgObjStart", {key: "15", keyType: "el"});</script>
+<div class="freestyle" data-comp-name="freestyle" data-comp-view="freestyle" data-comp-index="1" data-timer-key="15" id="179383">
+<iframe src="http://www.ft.com/ig/widgets/series-promo/live/index.html?id=0ApOBlr1i6-rxdFRULXI0R2ZxSkhRTmlDMlNhRm5sWnc&amp;mini=1" frameborder="0" width="352" height="0" scrolling="no"></iframe> 
+</div>
+<script>FT.$doc.trigger("pgObjStop", {key: "15"});</script>
+<script>FT.$doc.trigger("pgObjStart", {key: "16", keyType: "el"});</script>
+<div id="hlfmpu" class="advertising" data-comp-name="advert" data-comp-view="advert" data-comp-index="2" data-timer-key="16" data-cb-ad-id="Half mpu" data-cb-dfp-id="unit=ftcom5887technology.technology-index;targeting=art;pos=hlfmpu">
+<script>
+FT.ads.request("hlfmpu");
+</script>
+<noscript>
+<a href="http://ad.doubleclick.net/N5887/jump/ftcom.5887.technology/technology-index;sz=300x600,336x850,300x250,336x280;pos=hlfmpu;tile=2;nojs=1?" target="_blank">
+<img src="http://ad.doubleclick.net/N5887/ad/ftcom.5887.technology/technology-index;sz=300x600,336x850,300x250,336x280;pos=hlfmpu;tile=2;nojs=1?" border="0" alt="Advertisement" />
+</a>
+</noscript>
+</div>
+<script>FT.$doc.trigger("pgObjStop", {key: "16"});</script>
+<script>FT.$doc.trigger("pgObjStart", {key: "17", keyType: "el"});</script>
+<div class="railMiniVideo" data-comp-name="railminivideo" data-comp-view="railminivideo" data-comp-index="3" data-timer-key="17" data-cb-ad-id="Pre roll mini player" data-cb-dfp-id="unit=ftcom5887technology.technology-index;targeting=art;pos=minivid">
+<div class="ft-header-medium ">
+<h3 class="ft-header-medium-title " data-pos="0"><a href="http://video.ft.com/" >COMPANIES VIDEOS</a></h3>
+</div>
+<noscript>
+<div class="railMiniVideo-player-nojs">
+You need JavaScript active on your browser in order see this video.
+</div>
+</noscript>
+<div class="railMiniVideo-player" style="height:365px">
+<!-- Start of Brightcove Player -->
+<div style="display:none">
+</div>
+<object id="13-ef2ca130-84f2-11df-adfa-00144feabdc0" class="BrightcoveExperience">
+<param name="bgcolor" value="#00000" />
+<param name="width" value="332" />
+<param name="height" value="365px" />
+<param name="playerID" value="1820439059001" />
+<param name="publisherID" value="46412932001" />
+<param name="isVid" value="true" />
+<param name="isUI" value="true" />
+<param name="dynamicStreaming" value="true" />
+<param name="@videoList" value="ref:companies" />
+<param name="playerKey" value="AQ~~,AAAACxbljZk~,eD0zYozylZ2BGOo7AxcJk7QiRt45zQkF" /> <param name="wmode" value="opaque" />
+<param name="htmlFallback" value="true" />
+</object>
+<!-- End of Brightcove Player -->
+<script>
+BrightcoveFT.Init.createExperience('13-ef2ca130-84f2-11df-adfa-00144feabdc0');
+</script>
+</div>
+</div>
+<script>FT.$doc.trigger("pgObjStop", {key: "17"});</script>
+<script>FT.$doc.trigger("pgObjStart", {key: "18", keyType: "el"});</script>
+<div class="freestyle" data-comp-name="freestyle" data-comp-view="freestyle" data-comp-index="4" data-timer-key="18" id="228377">
+<div class="ft-header-medium ft-header-medium-tint">
+<h3 class="ft-header-medium-title " data-pos="1">NEWS BY EMAIL</h3>
+</div>
+<div><style>
+.brandPagePromo { margin:0 0 32px 0 ; }
+.brandPageContent { margin:0 10px ; }
+.brandPageContent p { margin:10px 0 ; }
+</style>
+<div class="brandPageContent">
+<p><a href="http://www.ft.com/nbe" target="_blank"> Sign up for email briefings</a> to stay up to date on topics you are interested in
+</p> </div> 
+</div> 
+</div>
+<script>FT.$doc.trigger("pgObjStop", {key: "18"});</script>
+<script>FT.$doc.trigger("pgObjStart", {key: "19", keyType: "el"});</script>
+<div class="editorialDoublet" data-comp-name="editorialDoublet" data-comp-view="editorialDoublet" data-comp-index="5" data-timer-key="19" >
+<div class="comp-header">
+<h3 class="comp-header-title" data-pos="0">
+EDITOR&rsquo;S CHOICE
+</h3>
+</div>
+<div class="doublet">
+<div class="doublet-column" data-pos="1">
+<div class="doublet-content">
+<h4><a href="http://blogs.ft.com/fttechhub" class="label"><span>Tech blog</span></a></h4>
+<span class="story-image">
+<a href="http://blogs.ft.com/fttechhub" >
+<img src="http://im.ft-static.com/content/images/cbf8acfc-5cbb-11e1-ac80-00144feabdc0.img" alt="Tech Hub" />
+</a>
+<span class="credit manualSource"></span>
+</span> 
+<a href="http://blogs.ft.com/fttechhub" >
+<span class="content">FT experts around the world share their views</span>
+</a>
+</div>	</div>
+<div class="doublet-column" data-pos="2">
+<div class="doublet-content">
+<h4><a href="http://blogs.ft.com/fttechhub/category/personal-technology/" class="label"><span>Personal Technology</span></a></h4>
+<span class="story-image">
+<a href="http://blogs.ft.com/fttechhub/category/personal-technology/" >
+<img src="http://im.ft-static.com/content/images/54d45dfc-6384-11e3-886f-00144feabdc0.img" alt="Paul Taylor" />
+</a>
+<span class="credit manualSource"></span>
+</span> 
+<a href="http://blogs.ft.com/fttechhub/category/personal-technology/" >
+<span class="content">Paul Taylor reviews the latest trends in tech</span>
+</a>
+</div>	</div>
+</div>
+</div>
+<script>FT.$doc.trigger("pgObjStop", {key: "19"});</script>
+<script>FT.$doc.trigger("pgObjStart", {key: "20", keyType: "el"});</script>
+<div class="freestyle" data-comp-name="freestyle" data-comp-view="freestyle" data-comp-index="6" data-timer-key="20" id="193864">
+<div id="popularContent">
+</div>
+<script>
+(function getScript () {
+var url = 'http://mostpopular.sp.ft-static.com/v1/script/prod/min/topArticles.0.2.10.min.js';
+var script = document.createElement('script');
+script.type = 'text/javascript';
+script.async = true;
+script.src = url;
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(script, s);
+})();
+</script>
+</div>
+<script>FT.$doc.trigger("pgObjStop", {key: "20"});</script>
+<script>FT.$doc.trigger("pgObjStart", {key: "21", keyType: "el"});</script>
+<div id="doublet" class="advertising" data-cb-ad-id="Editorial Doublet" data-cb-dfp-id="unit=ftcom5887technology.technology-index;targeting=art;pos=doublet">
+<script>
+FT.ads.request("doublet");
+</script>
+</div> 
+<script>FT.$doc.trigger("pgObjStop", {key: "21"});</script>
+<script>FT.$doc.trigger("pgObjStart", {key: "22", keyType: "el"});</script>
+<div id="mpu" class="advertising" data-comp-name="advert" data-comp-view="advert" data-comp-index="8" data-timer-key="22" data-cb-ad-id="mpu" data-cb-dfp-id="unit=ftcom5887technology.technology-index;targeting=art;pos=mpu">
+<script>
+FT.ads.request("mpu");
+</script>
+</div>
+<script>FT.$doc.trigger("pgObjStop", {key: "22"});</script>
+<script>FT.$doc.trigger("pgObjStart", {key: "23", keyType: "el"});</script>
+<div class="partnerLinks" data-comp-name="railFeedsBox" data-comp-view="partnerLinks" data-comp-index="9" data-timer-key="23">
+<div class="comp-header">
+<h3 class="comp-header-title" data-pos="0">
+<a href="http://www.cnbc.com" >
+LATEST HEADLINES FROM CNBC
+</a>
+</h3>
+</div>
+<ul class="railLinks" data-pos="1">
+<li>
+<a href="http://www.cnbc.com/id/101658705?__source=ft&amp;par=ft" class="siTrack">
+Stocks turn positive; S&P 500 and Nasdaq cut weekly losses
+</a>
+</li>
+<li>
+<a href="http://www.cnbc.com/id/101658639?__source=ft&amp;par=ft" class="siTrack">
+Morning Six-Pack: What we're reading Friday
+</a>
+</li>
+<li>
+<a href="http://www.cnbc.com/id/101655223?__source=ft&amp;par=ft" class="siTrack">
+Oh the smell! Zoning battle rages over farm odors
+</a>
+</li>
+<li>
+<a href="http://www.cnbc.com/id/101658544?__source=ft&amp;par=ft" class="siTrack">
+Comedies will rule the screens this summer
+</a>
+</li>
+<li>
+<a href="http://www.cnbc.com/id/101659150?__source=ft&amp;par=ft" class="siTrack">
+Art critic speaks out against Uniqlo, MoMA tie-up
+</a>
+</li>
+</ul>
+</div>
+<script>FT.$doc.trigger("pgObjStop", {key: "23"});</script>
+<script>FT.$doc.trigger("pgObjStop", {key: "13"});</script>
+</div>
+</div>
+<div class="master-row bottomSection " data-zone="bottomSection" data-timer-key="24">
+<script>FT.$doc.trigger("pgObjStart", {key: "24", keyType: "el"});</script>
+<script>FT.$doc.trigger("pgObjStart", {key: "25", keyType: "el"});</script>
+<div class="freestyle" data-comp-name="freestyle" data-comp-view="freestyle" data-comp-index="0" data-timer-key="25" id="156239">
+<div id="footer">
+<div id="content">
+<ul class="gen-freestyle-ul"> 
+<li><a href="http://www.ft.com/help">Help</a></li>
+<li>&#8226;<a href="http://aboutus.ft.com/contact-us">Contact us</a></li>
+<li>&#8226;<a href="http://www.ft.com/aboutus">About us</a></li>
+<li>&#8226;<a href="http://www.ft.com/advertising">Advertise with the FT</a></li>
+<li>&#8226;<a href="http://www.ft.com/servicestools/help/terms">Terms &amp; conditions</a></li>
+<li>&#8226;<a href="http://www.ft.com/servicestools/help/privacy">Privacy policy</a></li>
+<li>&#8226;<a href="http://www.ft.com/servicestools/help/copyright">Copyright</a></li>
+<li id="footerCookiePolicy">&#8226;<a href="http://www.ft.com/cookiepolicy">Cookie policy</a></li>
+<script>
+/* <![CDATA[
+FT.FooterAdChoiceLink = '<li id="footerAdChoices">&#8226;<a href="http://www.youronlinechoices.eu">AdChoices</a></li>';
+if (typeof FT.render.user.isUserInEU === 'function' && FT.render.user.isUserInEU()) {
+document.write(FT.FooterAdChoiceLink);
+}
+$(window).load(function() {
+FT.lib.hashCookies();
+if (typeof FT.render.user.isUserInEU === 'function' && FT.render.user.isUserInEU() && !$('#footerAdChoices').length) {
+$(FT.FooterAdChoiceLink).insertAfter('#footerCookiePolicy');
+}
+});
+]]> */
+</script>
+</ul>
+<p>
+<span class="copyright"><strong>&#169; The Financial Times Ltd 2014 </strong></span>
+<span><acronym title="Financial Times">FT</acronym> and 'Financial Times' are trademarks of The Financial Times Ltd.</span>
+</p>
+<br/>
+</div>
+</div>
+</div>
+<script>FT.$doc.trigger("pgObjStop", {key: "25"});</script>
+<script>FT.$doc.trigger("pgObjStop", {key: "24"});</script>
+</div>
+<div class="adRequests">
+<div id="corppop" data-cb-ad-id="Corp pop up" data-cb-dfp-id="unit=ftcom5887technology.technology-index;targeting=art;pos=corppop">
+<script>
+FT.ads.request('corppop');
+</script>
+</div>
+<div id="refresh" data-cb-ad-id="Refresh" data-cb-dfp-id="unit=ftcom5887technology.technology-index;targeting=art;pos=refresh">
+<script>
+FT.ads.request('refresh');
+</script>
+</div>
+</div>
+</div>
+<div id="renderPageOverlay" class="loading hidden"></div>
+<div id="print-footer">
+<p id="print-from"><strong>Printed from: </strong> http://www.ft.com/cms/s/0/e330e830-d6f3-11e3-b95e-00144feabdc0.html</p>
+<p>Print a single copy of this article for personal use. <a
+href="http://www.ft.com/servicestools/help/contactus">Contact us</a> if you wish to print more to
+distribute to others.</p>
+<p><strong>&copy; <span class="company">The Financial Times Ltd</span> 2014</strong> FT
+and &lsquo;Financial Times&rsquo; are trademarks of The Financial Times Ltd.
+<span class="links">
+<a href="http://www.ft.com/servicestools/help/privacy">Privacy policy</a> |
+<a href="http://www.ft.com/servicestools/help/terms">Terms</a> |
+<a href="http://www.ft.com/servicestools/help/copyright">Copyright</a>
+</span>
+</p>
+</div>
+<div id="oob" data-cb-ad-id="Oob" data-cb-dfp-id="unit=ftcom5887technology.technology-index;targeting=art;pos=oob">
+<script>
+FT.ads.request('oob');
+</script>
+</div>
+<script src="http://s2.ft-static.com/scripts/11cb40b2/bundles/coreFoot.js"></script>
+<script src="http://s2.ft-static.com/scripts/bf5d7477/bundles/articleFoot.js"></script>
+<script src="http://navigation.webservices.ft.com/v1/navigation/ft/js/script.min.js"></script>
+<!--ft:footWrapperJs-->
+<script>
+FT.comments = FT.comments || {};
+FT.comments.enabled = true;
+</script>
+<script>
+var InfernoConfig = {commentcontainer:"inferno-comments",inputuicontainer:"inferno-input",user:"FTDam",thiscontent:"e330e830-d6f3-11e3-b95e-00144feabdc0",site:"15",output:{format:'iframe',themed:true, theme:"ft/new"}};
+</script>
+<!-- Google Code for Remarketing tag -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1004457185;
+var google_conversion_label = "2CA1CMe1kgQQ4Zn73gM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1004457185/?value=0&amp;label=2CA1CMe1kgQQ4Zn73gM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+</body>
+</html>
+
+0
+
+
+

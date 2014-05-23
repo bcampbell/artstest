@@ -1,24 +1,71 @@
-Test suite for evaluating news article scrapers.
+artstest - a test suite for evaluating news article scrapers.
 
+The idea is to build up a good set of test data for evaluating
+news article scrapers, so any improvements can be quantified
+and regressions easily flagged up.
+
+
+USAGE:
+ $ ./runtests [directory]
+
+
+EXAMPLES:
+
+ $ ./runtests
+
+To run all tests
+
+ $ ./runtests data/misc
+
+to only run the tests in data/misc
+
+
+
+TEST DATA:
 
 Freeform directory structure. Probably arrange by categories,
 eg country, national papers, local papers, blogs, whatever.
 
+Each test has two files - one holding source date, the other
+the expected result.
 
-original html:
-data/blah/dailycheese.com/moon-made-of-cheese.html
+Source can be either a html file, or a warc file capturing
+the raw http response and (optionally) the request(s) and other
+metadata.
 
-expected data:
-data/blah/dailycheese.com/moon-made-of-cheese.expected
+Warc files are preferred, as they provide better opportunity for
+picking up redirects and character encodings.
 
-TODO: maybe also have a .meta file, to store http headers to go along
-with the html. html might not always be enough, eg character encoding,
-languages...
+The test framework (runtests) goes like this:
+  - for each .expected file
+    - find the coressponding .warc or .html file
+    - run that though the scraper
+    - compare the results against those in the .expected file
 
-
-The expected data files are designed to be easy to edit by hand.
+The .expected data files are designed to be easy to edit by hand.
 They begin with a yaml front-matter section, then the rest
-of the file is the text content that we expect to be extracted.
+of the file is the content that we expect to be extracted.
+The text can be plain text or html (tags will be stripped for
+comparing).
+
+an example .expected file:
+---------------------------------------------------------
+headline: Moon made of Cheese
+urls:
+    - http://dailycheese.com/moon-made-of-cheese.html
+published: 2011-04-01
+publication:
+    site: dailycheese.com
+    name: The Daily Cheese
+---
+Scientists today discovered...
+blah 
+blah
+...NASA has no plans to send mice on future missions.
+---------------------------------------------------------
+
+The base filename for each test is unimportant, but it's good to have
+something human readable (eg a slug).
 
 
 

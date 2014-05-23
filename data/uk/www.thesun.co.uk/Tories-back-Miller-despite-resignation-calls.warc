@@ -1,0 +1,1200 @@
+WARC/1.0
+Content-Length: 81641
+Content-Type: application/http; msgtype=response
+Warc-Date: 2014-04-24T11:45:05Z
+Warc-Record-Id: urn:X-scrapeomat:1398339906318073075
+Warc-Target-Uri: http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5554371/Tories-back-Miller-despite-resignation-calls.html
+Warc-Type: response
+X-Scrapeomat-Srcurl: http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5554371/Tories-back-Miller-despite-resignation-calls.html
+
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Cache-Control: max-age=50
+Connection: keep-alive
+Content-Type: text/html;charset=UTF-8
+Date: Thu, 24 Apr 2014 11:45:06 GMT
+Etag: 06-Apr-2014 17:36-5554371-12119
+Last-Modified: Thu, 24 Apr 2014 11:45:06 GMT
+Objttl: 
+Server: Apache-Coyote/1.1
+Vary: Accept-Encoding
+X-Cachemod-Currenttl: 900s
+X-Cachemod-Origttl: max-age=900
+X-Client-Ttl: 50
+X-Ni-Location: 
+X-Ni-Statuscode: acsaz-200
+X-Ni-Statusmessage: 
+X-Origcc: max-age=50
+X-Origd: Thu, 24 Apr 2014 11:45:06 GMT
+X-Tpver: original
+X-Varnish: 1325652456
+X-Ws: docache8,solcda33a
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+<script type="text/javascript">
+/*
+var byLine = ""; 
+var elem = document.createElement("div");
+elem.innerHTML = byLine;
+var images = elem.getElementsByTagName("img");
+byLine = images[0].alt; 
+*/
+var utag_data = {
+site : "sun",
+type : "ARTICLE", 
+article_id : "5554371", // Escenic article id
+title : "Tories back Miller despite resignation calls", // Headline of article
+path : "homepage/video/news/sky-news/", // Section hierarchy 
+path_names : "/Home//Video/News/Sky-news", // Section Name hieararchy
+publication_date : "20140406", // Publication date yyyymmdd
+section_id : "12119", // Escenic section Id
+byline : "", // Byline
+source : "" //SunOnline or SunPrint
+}
+</script>
+<script type="text/javascript" src="//tealium.hs.llnwd.net/o43/utag/newsinternational/thesun/prod/utag.js"></script>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script>
+if (!window.jQuery) {
+document.write('<script src="/js/lib/jquery-1.7.1.min.js"><\/script>');
+}
+</script>
+<script src="/js/sol.js?v=120928" type="text/javascript"></script>
+<script type="text/javascript" src="http://widget.cloud.opta.net/2.0/js/widgets.opta.js"></script>
+<script>
+if (typeof SUN.Scroll === "object"){
+SUN.Scroll.navHome_On = "";
+SUN.Scroll.navHome_Off = "";
+}
+</script>
+<script>
+SUN.fixedMasthead = true;
+</script>
+<script>
+SUN.weatherConf = {
+enabled: true,
+dataURL: false,
+localStorageKey: false,
+validity: false,
+linkURL: false,
+daysToDisplay: false
+};
+</script>
+<link rel="stylesheet" type="text/css" href="/styles/sol.css?v=120928" />
+<link rel="stylesheet" href="http://widget.cloud.opta.net/2.0/css/widgets.opta.css" type="text/css">
+<!--[if IE 9]>
+<link rel="stylesheet" type="text/css" href="http://widget.cloud.opta.net/2.0/css/ie9.widgets.opta.css" media="screen" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" type="text/css" href="http://widget.cloud.opta.net/2.0/css/ie8.widgets.opta.css" media="screen" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" type="text/css" href="http://widget.cloud.opta.net/2.0/css/ie7.widgets.opta.css" media="screen" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" type="text/css" href="/css/sun-ie7.css" />
+<![endif]-->
+<!--[if gt IE 7]>
+<link rel="stylesheet" type="text/css" href="/css/sun-ie8plus.css" />
+<![endif]-->
+<!-- HOK VWO TESING TAG -->
+<script type='text/javascript'>
+var _vwo_code=(function(){
+var account_id=43116,
+settings_tolerance=2000,
+library_tolerance=2500,
+use_existing_jquery=true,
+// DO NOT EDIT BELOW THIS LINE
+f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+</script>
+<!-- HOK VWO TESING TAG END -->
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="canonical" href="http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5554371/Tories-back-Miller-despite-resignation-calls.html" />
+<title>Tories back Miller despite resignation calls | The Sun |Video|News|Sky News</title>
+<meta name="Description" content="CONSERVATIVE Party chairman thinks Maria Miller should be "allowed to get on with her job", despite calls for her to resign" />
+<meta name="news_keywords" content="The Sun, newspaper, Dear Deidre, Mystic Meg, page 3, page3, page 3 girls, UK, Britain, England, London, tabloid, breaking news, news, sport, showbiz, exclusives, gossip, competitions, celebrities, Bizarre, football, weather, big brother, celeb, celebrity, Barclaycard Premier League, Carling FA Cup, Dreamteam FC, F1 dream team, sun says, talkback, Ken Gibson, Premier, cartoons, crossword, Sun Fun, Jane Moore, John Sadler, Lorraine Kelly, superbabes, jukebox, investigations, 24 hour, reports, stars, horoscopes, mobile, wwe, wrestling, jon gaunt, Gizmo, keeley, sophie, ruth, gadgets, chart, gardening, film, trailers, diets, fitness, music, fashion, motors, videos, royals, royal family, contact us, back issues, stories, news desk, sports, sport, team, bizarre, showbiz news, showbiz, gossip, daily news, real life stories" /> <meta name="google-site-verification" content="B0ZYMWDxLa5XxtE_cbGUpwtB07xOSb3hRXsVU4rL_88" />
+<meta name="ROBOTS" content="NoArchive" />
+<meta name="verify-v1" content="jLT+mGXhBqCXPJN38lNvPVxhFsuSUtiLdffigZEeQ9A=" />
+<meta name="msvalidate.01" content="A7DEE9259F9373D2F7B7E5D204D3AB5E" />
+<meta name="y_key" content="a41cd5f34e3d1d67" />
+<meta property="og:site_name" content="The Sun"/>
+<meta id="fbAppId" property="fb:app_id" content="134069326738314"/>
+<script type="text/javascript">
+if( navigator.userAgent.match(/iPhone/i) )
+{
+document.write('<meta name="apple-itunes-app" content="app-id=485672520,app-argument=thesun://">');
+}
+if( navigator.userAgent.match(/iPad/i) )
+{
+document.write('<meta name="apple-itunes-app" content="app-id=373954290,app-argument=thesun://">');
+}	
+</script>
+<script type="text/javascript" src="http://player.ooyala.com/v3/NDcyOWI0M2YyMDdkN2YwODU5Mzc5MDUz?platform=html5-fallback"></script>
+<script type="text/javascript" src="http://player.ooyala.com/v3/63f267a0aae8493e9a2393eb94951149?namespace=EPLWEB"></script>
+<script type="text/javascript" src="http://player.ooyala.com/v3/63f267a0aae8493e9a2393eb94951149?namespace=SPFLWEB"></script>
+<script type="text/javascript" src="http://player.ooyala.com/v3/63f267a0aae8493e9a2393eb94951149?namespace=FACUPWEB"></script>
+<meta property="og:type" content="video"/>
+<meta property="og:video:type" content="text/html"/> 
+<meta property="article:published_time" content="2014-04-06T13:52:11Z"/> 
+<meta property="article:modified_time" content="2014-04-07T09:20:57Z"/> 
+<meta property="article:tag" content="Sky News"/> 
+<meta property="og:title" content="Tories back Miller despite resignation calls"/>
+<meta property="og:url" content="http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5554371/Tories-back-Miller-despite-resignation-calls.html"/>
+<meta property="og:description" content="CONSERVATIVE Party chairman thinks Maria Miller should be "allowed to get on with her job", despite calls for her to resign"/>
+<meta property="og:image" content="http://img.thesun.co.uk/aidemitlum/archive/01952/Tories_back_Miller_1952538w.jpg"/>
+<link rel="image_src" href="http://img.thesun.co.uk/aidemitlum/archive/01952/Tories_back_Miller_1952538f.jpg" />
+<link rel="image_src" href="http://img.thesun.co.uk/aidemitlum/archive/01952/Tories_back_Miller_1952538a.jpg" />
+<meta name="twitter:card" content="player">
+<meta name="twitter:site" content="@thesunnewspaper"/> 
+<meta name="twitter:url" content="http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5554371/Tories-back-Miller-despite-resignation-calls.html" /> 
+<meta name="twitter:title" content="Tories back Miller despite resignation calls" />
+<meta name="twitter:description" content="CONSERVATIVE Party chairman thinks Maria Miller should be "allowed to get on with her job", despite calls for her to resign">
+<meta name="twitter:image" content="http://img.thesun.co.uk/aidemitlum/archive/01952/Tories_back_Miller_1952538a.jpg">
+<meta name="twitter:player" content="https://player.ooyala.com/tframe.html?ec=5mbmtybDpTP55YG0WguHyk1L6xuoqIYb&pbid=NDcyOWI0M2YyMDdkN2YwODU5Mzc5MDUz">
+<meta name="twitter:player:width" content="435">
+<meta name="twitter:player:height" content="251">
+<script type="text/javascript">SUN.imgRightClick.msg="Open link in new tab</a><hr/></div>Copyright 2012 News Group Newspapers Ltd and/or its licensors. No use without permission. Contact <a href='mailto:enquiries@newssyndication.com'>enquiries@newssyndication.com</a>";</script>
+<style type="text/css">
+.sectionColour {color: #cc0000!important;} 
+.article-social .default:hover {background-color: #cc0000!important;} 
+.display-byline-author .article-byline-by, .topic-head { background-color: #cc0000!important}	
+.top-stories-header, .related-stories a:hover { border-color: #cc0000!important; color: #cc0000!important; }
+</style>
+<style type="text/css" media="all">
+@import "http://img.thesun.co.uk/aidemitlum/archive/01821/override-2_10_13_1821755a.css";
+@import "http://img.thesun.co.uk/aidemitlum/archive/01907/newstyle-headers-r_1907458a.css?x";	
+</style>
+<script type="text/javascript">
+SUN.accessKeys = {
+home: '/sol/homepage/',
+complaints:'http://www.pcc.org.uk/',
+tAndC:'http://www.thesun.co.uk/sol/homepage/254101/Terms-and-Conditions-for-The-Sun.html',
+help:'http://www.thesun.co.uk/sol/homepage/251760/Contact-us.html',
+feedback:'http://www.thesun.co.uk/sol/homepage/251760/Contact-us.html'	
+};
+</script>
+<script type="text/javascript" src="https://dcdd29eaa743c493e732-7dc0216bc6cc2f4ed239035dfc17235b.ssl.cf3.rackcdn.com/tags/the_sun/hoktop.js"></script>
+</head>
+<body>
+<div id="fb-root"></div>
+<div class="grids leaderboard-ad-grid">	
+<div id="leaderboard-ad">
+<div>
+<div class="mpuV2 " >
+<span class="adph-delay" id="adpl-1"></span>
+</div>
+</div>
+</div>
+</div>
+<div id="masthead-wrapper">
+<script type="text/javascript">
+SUN.fixedLogoImage="http://img.thesun.co.uk/aidemitlum/archive/01775/The_Sun_small_1775137a.gif";
+SUN.fixedHomeIcon = false;
+</script>
+<div class="grids" id="mainNav">
+<div class="grid-12 mainNavInner">
+<div id="accessibility-links">
+<h2 class="hidden-accessibility">Accessibility links</h2>
+<ul>
+<li class="hidden-accessibility"><a href="#content-area">Skip to content</a></li>
+<li class="hidden-accessibility"><a href="#navcontainer">Skip to local navigation</a></li>
+</ul>
+</div>
+<div class="groupA">
+<style type="text/css">
+#mainNav .mainNavInner .groupA h1,
+#mainNav .mainNavInner .groupA div.logo {
+background: transparent url(http://img.thesun.co.uk/aidemitlum/archive/01775/The_Sun_large_1775138a.gif) no-repeat 0 0;
+}
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) { 
+#mainNav .mainNavInner .groupA h1,
+#mainNav .mainNavInner .groupA div.logo {
+background: transparent url(http://img.thesun.co.uk/aidemitlum/archive/01775/The_Sun_large_1775138a.gif) no-repeat 0 0;
+}
+}
+</style>
+<!-- div for other pages -->
+<div class="logo"><a href="/sol/homepage" title="The Sun">The Sun</a></div>
+<div class="rowOne">	
+<ul>
+<li id="weatherWidget" class="weather"></li>
+<li class="regionSelector">
+<h3 unselectable="on" id="regions" class="toggleElement" data-targetid="options"><span class="hidden-accessibility">Current title: </span>The Sun<span class="arrow"></span></h3>
+<ul id="options">
+<li><a href="http://www.thesun.co.uk" target="_blank">
+<span class="title">The Sun</span>
+<span class="url">www.thesun.co.uk</span>	
+<span class="icon" style="background-image: url(http://img.thesun.co.uk/aidemitlum/archive/01778/The_Sun_logo_1778471a.png);"></span>	
+</a></li>
+<li><a href="http://www.thescottishsun.co.uk" target="_blank">
+<span class="title">Scottish Sun</span>
+<span class="url">www.thescottishsun.co.uk</span>	
+<span class="icon" style="background-image: url(http://img.thesun.co.uk/aidemitlum/archive/01778/Scottish_Sun_logo_1778473a.png);"></span>	
+</a></li>
+<li><a href="http://www.thesun.ie" target="_blank">
+<span class="title">Irish Sun</span>
+<span class="url">www.thesun.ie</span>	
+<span class="icon" style="background-image: url(http://img.thesun.co.uk/aidemitlum/archive/01778/The_Irish_Sun_logo_1778472a.png);"></span>	
+</a></li>
+</ul>
+</li>
+<li id="paidProducts"><div style="float: right; margin-top: -5px;"><a href="http://bit.ly/18nPynA" target="_blank"><img src="/aidemitlum/archive/01780/nav_dt_1780782a.gif" alt="Dream Team Fantasy Football" /></a>
+<!--<a href="http://perks.thesun.co.uk/" target="_blank"><img src="/multimedia/archive/01775/01_brand_1775956a.gif" alt="Sun Perks" /><img src="/multimedia/archive/01775/03_perks_1775722a.gif" alt="Sun Perks" /></a>-->
+<a href="http://perks.thesun.co.uk/" target="_blank"><img src="http://img.thesun.co.uk/aidemitlum/archive/01822/brands_perks_1822695a.gif" alt="Sun Perks" style="margin-bottom:7px" /></a><a href="http://bit.ly/19YTIlX" target="_blank"><img src="http://img.thesun.co.uk/aidemitlum/archive/01822/brands_lotto_1822696a.gif" alt="Sun Lotto" style="margin-bottom:7px" /></a>
+</div></li>
+</ul>
+<div class="login-widget" id="IdentityManager"></div>
+</div>	
+<div class="rowTwo logged-out">
+<ul class="nav">
+<li class=""><a style="border-color: #cc3333" id="navLink1" href="/sol/homepage/">NEWS</a>
+</li>
+<li class=""><a style="border-color: #00745e" id="navLink2" href="/sol/homepage/sport/sunsport/">Sport</a>
+</li>
+<li class=""><a style="border-color: #993399" id="navLink3" href="/sol/homepage/showbiz/">Showbiz</a>
+</li>
+<li class=""><a style="border-color: #00745e" id="navLink4" href="/sol/homepage/video/sport/football/premier-league/">GOALS</a>
+</li>
+<li class="all">
+<a id="allLink" class="toggleElement" href="#allDropdown" data-targetid="allDropdown">
+<span>MORE</span>
+<span class="arrow"></span>
+</a>
+</li>
+</ul>
+<div class="signInSearch">
+<div class="user-actions">
+<script type="text/javascript">!function(d,s,id){var st,fst=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){st=d.createElement(s);st.id=id;st.src='https://login.thesun.co.uk/js/login.js';fst.parentNode.insertBefore(st,fst);}}(document,"script","acsps");</script>
+<div id="prenav" data-rootNode="section-wrapper" data-style="false"></div>
+</div>
+<div class="search">
+<button>Search</button>
+</div>
+</div>
+<div class="search-dropdown">
+<div class="float-right">
+<form class="g-search" id="search-form" action="/search/newSearchAction.do" method="get">	
+<div class="g-search-txt">
+<label for="search-input" class="hidden-accessibility">Search</label>
+<input id="search-input" class="searchAutocomplete" type="text" name="querystring" value="" onkeypress="Javascript: if (event.keyCode==13) return SUN.search.showResults('search-form');">
+<input id="search-reset" type="reset" />
+<input id="b" type="submit" name="submit" value="Search" onclick="" class="g-search-btn">
+</div>	
+<input type="hidden" name="view" value="internal"/>
+<input type="hidden" name="pubName" value="sol" />
+<input type="hidden" value="sun" name="p" />
+<input type="hidden" value="on" name="bl" />
+<input type="hidden" value="" name="navigators" />
+<input type="hidden" value="0" name="offset" />
+<input type="hidden" value="" name="sortby" />
+</form>
+</div>
+</div>	
+</div>
+</div> <!-- groupA ends -->	
+</div> 
+</div>
+<div class="grids">
+<div id="allDropdown">
+<ul class="navGroup">
+<li class="navGroupItem">
+<h3><a id="more-nav-first1" href="/sol/homepage/showbiz/" >Entertainment</a></h3>
+<ul class="nav-extension-list">
+<li><a id="more-nav-second11" title="Video" href="/sol/homepage/video/" >Video</a></li>
+<li><a id="more-nav-second12" title="Bizarre" href="/sol/homepage/showbiz/bizarre/" >Bizarre</a></li>
+<li><a id="more-nav-second13" title="TV Biz" href="/sol/homepage/showbiz/tv/" >TV Biz</a></li>
+<li><a id="more-nav-second14" title="Soaps" href="/sol/homepage/showbiz/tv/soaps/" >Soaps</a></li>
+<li><a id="more-nav-second15" title="Reality TV" href="/sol/homepage/showbiz/tv/realitytv/" >Reality TV</a></li>
+<li><a id="more-nav-second16" title="Gaming" href="/sol/homepage/fun/gaming/" >Gaming</a></li>
+<li><a id="more-nav-second17" title="Dan Wootton" href="/sol/homepage/showbiz/dan-wootton/" >Dan Wootton</a></li>
+<li><a id="more-nav-second18" title="Really Bizarre" href="/sol/homepage/showbiz/reallybizarre/" >Really Bizarre</a></li>
+<li><a id="more-nav-second19" title="Celebrity Index" href="/sol/homepage/showbiz/bizarre/celebs/" >Celebrity Index</a></li>
+<li><a id="more-nav-second110" title="Clubz" href="/sol/homepage/clubz/" >Clubz</a></li>
+<li><a id="more-nav-second111" title="WWE" href="/sol/homepage/sport/wwe/" >WWE</a></li>
+</ul>
+</li>	
+<li class="navGroupItem">
+<h3><a id="more-nav-first2" href="/sol/homepage/news/" >MY SUN</a></h3>
+<ul class="nav-extension-list">
+<li><a id="more-nav-second21" title="Politics" href="/sol/homepage/news/politics/" >Politics</a></li>
+<li><a id="more-nav-second22" title="Millies" href="/sol/homepage/news/millies/" >Millies</a></li>
+<li><a id="more-nav-second23" title="Forces" href="/sol/homepage/news/campaigns/our_boys/" >Forces</a></li>
+<li><a id="more-nav-second24" title="Sun City" href="/sol/homepage/news/money/" >Sun City</a></li>
+<li><a id="more-nav-second25" title="Sun Says" href="/sol/homepage/news/sun_says/4508014/The-Sun-says.html" >Sun Says</a></li>
+<li><a id="more-nav-second26" title="Mrs Crunch" href="/sol/homepage/news/money/mrscrunch/" >Mrs Crunch</a></li>
+<li><a id="more-nav-second27" title="Mystic Meg" href="/sol/homepage/mystic_meg/daily_stars/1369426/Mystic-Megs-Horoscopes-Check-out-your-star-signs-for-today.html" >Mystic Meg</a></li>
+<li><a id="more-nav-second28" title="Dear Deidre" href="/sol/homepage/deidre/" >Dear Deidre</a></li>
+<li><a id="more-nav-second29" title="Sun Justice" href="/sol/homepage/news/justice/" >Sun Justice</a></li>
+<li><a id="more-nav-second210" title="Clarifications" href="/sol/homepage/news/clarifications/" >Clarifications</a></li>
+</ul>
+</li>	
+<li class="navGroupItem">
+<h3><a id="more-nav-first3" href="/sol/homepage/suncolumnists/" >Columnists</a></h3>
+<ul class="nav-extension-list">
+<li><a id="more-nav-second31" title="Jeremy Clarkson" href="/sol/homepage/suncolumnists/jeremyclarkson/" >Jeremy Clarkson</a></li>
+<li><a id="more-nav-second32" title="Guido Fawkes" href="/sol/homepage/suncolumnists/guidofawkes/" >Guido Fawkes</a></li>
+<li><a id="more-nav-second33" title="Trevor Kavanagh" href="/sol/homepage/suncolumnists/trevorkavanagh/" >Trevor Kavanagh</a></li>
+<li><a id="more-nav-second34" title="Lorraine Kelly" href="/sol/homepage/suncolumnists/lorrainekelly/" >Lorraine Kelly</a></li>
+<li><a id="more-nav-second35" title="Rod Liddle" href="/sol/homepage/suncolumnists/rodliddle/" >Rod Liddle</a></li>
+<li><a id="more-nav-second36" title="Louise Mensch" href="/sol/homepage/suncolumnists/louisemensch/" >Louise Mensch</a></li>
+<li><a id="more-nav-second37" title="Jane Moore" href="/sol/homepage/suncolumnists/janemoore/" >Jane Moore</a></li>
+<li><a id="more-nav-second38" title="Tony Parsons" href="/sol/homepage/suncolumnists/tony-parsons/" >Tony Parsons</a></li>
+<li><a id="more-nav-second39" title="Katie Hopkins" href="/sol/homepage/suncolumnists/katiehopkins/" >Katie Hopkins</a></li>
+<li><a id="more-nav-second310" title="Ally Ross" href="/sol/homepage/suncolumnists/allyross/" >Ally Ross</a></li>
+</ul>
+</li>	
+<li class="navGroupItem">
+<h3><a id="more-nav-first4" href="/sol/homepage/features/" >Features</a></h3>
+<ul class="nav-extension-list">
+<li><a id="more-nav-second41" title="Woman" href="/sol/homepage/woman/" >Woman</a></li>
+<li><a id="more-nav-second42" title="Real Life" href="/sol/homepage/woman/real_life/" >Real Life</a></li>
+<li><a id="more-nav-second43" title="Health" href="/sol/homepage/woman/health/health/" >Health</a></li>
+<li><a id="more-nav-second44" title="Bored?" href="/sol/homepage/features/toplists/" >Bored?</a></li>
+<li><a id="more-nav-second45" title="Travel" href="/sol/homepage/travel/" >Travel</a></li>
+<li><a id="more-nav-second46" title="Motors" href="http://www.sunmotors.co.uk" target="_blank">Motors</a></li>
+<li><a id="more-nav-second47" title="Competitions" href="/sol/homepage/fun/competitions/" >Competitions</a></li>
+<li><a id="more-nav-second48" title="Striker" href="/sol/homepage/fun/4729935/Footballs-greatest-comic-strip-Striker-makes-its-long-awaited-comeback-in-The-Sun.html" >Striker</a></li>
+</ul>
+</li>	
+<li class="navGroupItem">
+<h3><a id="more-nav-first5" href="/sol/" >Extras</a></h3>
+<ul class="nav-extension-list">
+<li><a id="more-nav-second51" title="Fabulous" href="/sol/homepage/fabulous/" >Fabulous</a></li>
+<li><a id="more-nav-second52" title="Page 3" href="http://www.page3.com/" target="_blank">Page 3</a></li>
+<li><a id="more-nav-second53" title="Dream Team" href="https://www.dreamteamfc.com/" target="_blank">Dream Team</a></li>
+<li><a id="more-nav-second54" title="Scottish Sun" href="http://www.thescottishsun.co.uk" target="_blank">Scottish Sun</a></li>
+<li><a id="more-nav-second55" title="Irish Sun" href="http://www.thesun.ie" target="_blank">Irish Sun</a></li>
+<li><a id="more-nav-second56" title="Bingo" href="http://www.sunbingo.co.uk/tv/movie/" target="_blank">Bingo</a></li>
+</ul>
+</li>	
+</ul>
+<div id="partner-sites-new" class="count-4">
+<div class="partnerLinks full">
+<ul class="rowOne">
+<li><a title="SUN GIFTS" href="http://bit.ly/zTRGkd?SunHPfrm10APR" target="_blank" style="background-image: url(http://img.thesun.co.uk/multimedia/archive/01553/partner-nav-sun-gi_1553130a.png)">SUN GIFTS</a></li>
+<li><a title="JOBS" href="http://jobs.thesun.co.uk" target="_blank" style="background-image: url(http://img.thesun.co.uk/multimedia/archive/01554/jobs-nav_1554328a.png)">JOBS</a></li>
+<li><a title="PAGE 3" href="http://www.page3.com/" target="_blank" style="background-image: url(http://img.thesun.co.uk/multimedia/archive/01651/comnav-page-3_1651454a.png)">PAGE 3</a></li>
+<li><a title="FABULOUS" href="http://www.thesun.co.uk/sol/homepage/fabulous/" target="_blank" style="background-image: url(http://img.thesun.co.uk/aidemitlum/archive/01776/fab_1776634a.png)">FABULOUS</a></li>
+</ul>
+<ul class="rowTwo">
+<li><a title="HOLD YE FRONT PAGE" href="http://www.thesun.co.uk/sol/homepage/hold_ye_front_page/" target="_blank" style="background-image: url(http://img.thesun.co.uk/multimedia/archive/01651/comnav-hyfp_1651457a.png)">HOLD YE FRONT PAGE</a></li>
+<li><a title="SCOTTISH SUN" href="http://www.thescottishsun.co.uk/" target="_blank" style="background-image: url(http://img.thesun.co.uk/multimedia/archive/01651/comnav-scot-sol_1651451a.png)">SCOTTISH SUN</a></li>
+<li><a title="IRISH SUN" href="http://www.thesun.ie/" target="_blank" style="background-image: url(http://img.thesun.co.uk/multimedia/archive/01651/comnav-irish-sol-1_1651455a.png)">IRISH SUN</a></li>
+<li class="email"><a title="CONTACT US" href="http://www.thesun.co.uk/sol/homepage/article296174.ece" target="_blank" style="background-image: url(http://img.thesun.co.uk/multimedia/archive/01553/partner-nav-contac_1553075a.png)">CONTACT US</a></li>
+</ul>
+</div>
+</div>
+</div><!-- All nav ends -->
+<style type="text/css">
+#more-nav-first1:hover {color: #993399!important;}#more-nav-second11:hover {color: #666666!important;}#more-nav-second12:hover {color: #993399!important;}#more-nav-second13:hover {color: #993399!important;}#more-nav-second14:hover {color: #993399!important;}#more-nav-second15:hover {color: #993399!important;}#more-nav-second16:hover {color: #993399!important;}#more-nav-second17:hover {color: #993399!important;}#more-nav-second18:hover {color: #993399!important;}#more-nav-second19:hover {color: #993399!important;}#more-nav-second110:hover {color: #993399!important;}#more-nav-first2:hover {color: #cc3333!important;}#more-nav-second21:hover {color: #cc3333!important;}#more-nav-second22:hover {color: #cc3333!important;}#more-nav-second23:hover {color: #cc3333!important;}#more-nav-second24:hover {color: #cc3333!important;}#more-nav-second25:hover {color: #cc3333!important;}#more-nav-second26:hover {color: #cc3333!important;}#more-nav-second27:hover {color: #cc3333!important;}#more-nav-second28:hover {color: #cc3333!important;}#more-nav-second29:hover {color: #cc3333!important;}#more-nav-second210:hover {color: #cc3333!important;}#more-nav-first4:hover {color: #cc6600!important;}#more-nav-second45:hover {color: #cc6600!important;}#more-nav-second47:hover {color: #669933!important;}#more-nav-second51:hover {color: #e60712!important;}
+</style>
+</div>
+</div>
+<div id="full-width-wrapper">
+<div id="FireplaceAdPlaceholder" style="height:0; width:0"></div>
+<div id="section-wrapper">
+<div class="grids main-content" id="content-area">
+<div id="sun-video-wrap" class="grid-12">
+<div class="grid-12" data-vr-zone="section-header">
+<div data-vr-contentbox="">
+<div class="customhtml-3Column">
+<div class="branding-section branding-video">
+<p><a href="/sol/homepage/video/" title="The Sun Video">video</a></p>
+<span></span>
+</div>
+</div>
+</div>
+</div>
+<div class="grid-8" id="articlebody" data-vr-zone="video-main-grid" itemprop="video" itemscope itemtype="http://schema.org/VideoObject">
+<h2 itemprop="name" class="">Tories back Miller despite resignation calls</h2>
+<meta itemprop="thumbnailUrl" content="http://img.thesun.co.uk/aidemitlum/archive/01952/Tories_back_Miller_1952538w.jpg" />
+<meta itemprop="duration" content="T02M32S" />
+<meta itemprop="uploadDate" content="2014-04-06T17:36:36+0100"/>
+<div id="5mbmtybDpTP55YG0WguHyk1L6xuoqIYb" class="ngn-player vid-5mbmtybDpTP55YG0WguHyk1L6xuoqIYb OO" data-embedCode="5mbmtybDpTP55YG0WguHyk1L6xuoqIYb">
+<span id="pid-1">
+<div style="height: 348px" id="video-container-1" class="playerDiv videoItem" data-width="620" data-height="348" data-embedCode="5mbmtybDpTP55YG0WguHyk1L6xuoqIYb" data-title="Tories back Miller despite resignation calls" data-namespace="OO" data-sharing="true"> </div>
+<script>
+$(document).ready(function() {
+NUK.videoManager.render('videoItem#video-container-1');
+SUN.Video.Analytics();
+});
+</script>
+</span>
+</div>
+<div class="video-detail-title">
+<div class="article-social-top">
+<div class="article-social">
+<div class="default article-comments-chicklet">
+<a href="/sol/homepage/video/news/sky-news/5554371/Tories-back-Miller-despite-resignation-calls.html#commentsStart" data-lf-site-id="289969" data-lf-article-id="sol5554371" class="livefyre-commentcount add_a_comment lf-comments" rel="nofollow">&nbsp;</a>
+</div>
+<div class="chicklet-shareit"></div>
+</div>
+<div class="social-icons" style="">
+<div class="ni-fb-like" style="float:left;height:20px;margin-top:5px;width:90px">
+<fb:like href="http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5554371/Tories-back-Miller-despite-resignation-calls.html" layout="button_count" send="false" width="90"></fb:like>	
+</div>
+<div class="ni-tweet" style="float:left;height:20px;margin-top:5px; width: 90px;">
+<a href="https://twitter.com/share" data-url="http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5554371/Tories-back-Miller-despite-resignation-calls.html" data-counturl="http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5554371/Tories-back-Miller-despite-resignation-calls.html" data-text="" class="twitter-share-button" data-count="horizontal" data-via=""></a>
+</div>
+<div class="ni-gplus" style="float:left;height:20px;margin-top:5px;">
+<g:plusone size="medium" annotation="none" width="36px"></g:plusone>
+</div>	
+</div>
+</div>
+<p itemprop="description">CONSERVATIVE Party chairman thinks Maria Miller should be "allowed to get on with her job", despite calls for her to resign</p>
+</div>
+<div class="video-detail-info" style="border-color:#cc0000">
+<a href="/sol/homepage/video/news/sky-news/" class="section" style="color:#cc0000;">SKY NEWS</a>
+<p class="time">
+07 April 2014
+09.20 AM
+<span class="video-length">02:32min</span>
+</p>
+<a href="/sol/homepage/news/politics/5555150/Maria-Miller-a-witch-hunt-victim-over-expenses-scandal-says-Iain-Duncan-Smith.html" class="read-article" style="background-color:#cc0000;"><span class="text">READ FULL ARTICLE</span> <span class="arrow"></span></a>
+</div>
+<script type="text/javascript">
+google_ad_client = 'ca-thesun'; 
+google_ad_channel = '';
+google_ad_output = 'js';
+google_max_num_ads = '0';
+google_ad_type = 'text'; 
+google_language = 'en';
+google_encoding = 'utf8';
+google_adtest = 'off';
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+<div class="OUTBRAIN" data-src="http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5554371/Tories-back-Miller-despite-resignation-calls.html" data-widget-id="VR_1" data-ob-template="thesun" ></div>
+<div class="OUTBRAIN" data-src="http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5554371/Tories-back-Miller-despite-resignation-calls.html" data-widget-id="VR_2" data-ob-template="thesun" ></div>
+<script type="text/javascript" src="http://widgets.outbrain.com/outbrain.js"></script>
+<div style="clear:both; height:0">
+<a id="commentsStart" name="commentsStart"> </a>
+</div>
+<div id="niCommentingRig" class="lf-widget-inner"> </div>
+</div>
+<div class="grid-4 right-hand-column" data-vr-zone="video-right-grid">
+<div class="video-landscape-teaser teaserToggler " data-hovercolour="cc0000" data-vr-contentbox="">
+<div class="inner-wrapper">
+<div class="header-div" style="border-left: 4px solid #cc0000">
+<p style="color:#cc0000" class="section-tag">
+<a style="color:#cc0000" href="/sol/homepage/video/news/sky-news/">SKY NEWS</a>
+</p>
+<p class="time">
+23/04/14
+</p>
+<p class="header">
+<a href="/sol/homepage/video/news/sky-news/5585903/Child-deaths-Police-news-conference.html">Child deaths: Police news conference</a>
+</p>
+</div>
+<p class="videoTime">00:54</p>
+</div>
+<img class="mainImage jsLink" data-link="/sol/homepage/video/news/sky-news/5585903/Child-deaths-Police-news-conference.html" src="http://img.thesun.co.uk/aidemitlum/archive/01964/Murder_probe_as__d_1964145q.jpg" class="teaser-image" alt="Murder probe as 'disabled' children found dead" width="489" height="275" />
+<div class="video-play-icon jsLink" data-link="/sol/homepage/video/news/sky-news/5585903/Child-deaths-Police-news-conference.html"></div>
+<div class="comments">
+<div class="tweeter">
+<a href="http://twitter.com/intent/tweet?source=tweetbutton&url=http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5585903/Child-deaths-Police-news-conference.html&text=Child deaths: Police news conference" class="5585903-tweets tweetLink" rel="nofollow">Share on twitter></a>	
+</div>	
+<div class="facebook">
+<a onclick="window.open('http://www.facebook.com/sharer.php?u=http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5585903/Child-deaths-Police-news-conference.html',
+'Facebook', 'toolbar=no, width=650, height=450'); return false;" href="http://www.facebook.com/sharer.php?u=http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5585903/Child-deaths-Police-news-conference.html" class="5585903-fbshares" rel="nofollow">Share on facebook</a>
+</div>
+<div class="default noHover">
+<div class="default">	
+<a href="/sol/homepage/video/news/sky-news/5585903/Child-deaths-Police-news-conference.html#commentsStart" data-lf-site-id="289969" data-lf-article-id="sol5585903" class="livefyre-commentcount" rel="nofollow">&nbsp;</a>	
+</div>	
+</div>
+</div>
+</div>	
+<div class="video-landscape-teaser teaserToggler " data-hovercolour="cc0000" data-vr-contentbox="">
+<div class="inner-wrapper">
+<div class="header-div" style="border-left: 4px solid #cc0000">
+<p style="color:#cc0000" class="section-tag">
+<a style="color:#cc0000" href="/sol/homepage/video/news/sky-news/">SKY NEWS</a>
+</p>
+<p class="time">
+23/04/14
+</p>
+<p class="header">
+<a href="/sol/homepage/video/news/sky-news/5585607/1m-mark-hit-by-dying-teens-fundraising-page.html">£1m mark hit by dying teen's fundraising page</a>
+</p>
+</div>
+<p class="videoTime">03:31</p>
+</div>
+<img class="mainImage jsLink" data-link="/sol/homepage/video/news/sky-news/5585607/1m-mark-hit-by-dying-teens-fundraising-page.html" src="http://img.thesun.co.uk/aidemitlum/archive/01964/_1m_mark_hit_by_dy_1964039q.jpg" class="teaser-image" alt="£1m mark hit by dying teen's fundraising page" width="489" height="275" />
+<div class="video-play-icon jsLink" data-link="/sol/homepage/video/news/sky-news/5585607/1m-mark-hit-by-dying-teens-fundraising-page.html"></div>
+<div class="comments">
+<div class="tweeter">
+<a href="http://twitter.com/intent/tweet?source=tweetbutton&url=http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5585607/1m-mark-hit-by-dying-teens-fundraising-page.html&text=£1m mark hit by dying teens fundraising page" class="5585607-tweets tweetLink" rel="nofollow">Share on twitter></a>	
+</div>	
+<div class="facebook">
+<a onclick="window.open('http://www.facebook.com/sharer.php?u=http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5585607/1m-mark-hit-by-dying-teens-fundraising-page.html',
+'Facebook', 'toolbar=no, width=650, height=450'); return false;" href="http://www.facebook.com/sharer.php?u=http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5585607/1m-mark-hit-by-dying-teens-fundraising-page.html" class="5585607-fbshares" rel="nofollow">Share on facebook</a>
+</div>
+<div class="default noHover">
+<div class="default">	
+<a href="/sol/homepage/video/news/sky-news/5585607/1m-mark-hit-by-dying-teens-fundraising-page.html#commentsStart" data-lf-site-id="289969" data-lf-article-id="sol5585607" class="livefyre-commentcount" rel="nofollow">&nbsp;</a>	
+</div>	
+</div>
+</div>
+</div>	
+<div class="video-landscape-teaser teaserToggler " data-hovercolour="cc0000" data-vr-contentbox="">
+<div class="inner-wrapper">
+<div class="header-div" style="border-left: 4px solid #cc0000">
+<p style="color:#cc0000" class="section-tag">
+<a style="color:#cc0000" href="/sol/homepage/video/news/sky-news/">SKY NEWS</a>
+</p>
+<p class="time">
+23/04/14
+</p>
+<p class="header">
+<a href="/sol/homepage/video/news/sky-news/5585600/Madeleine-cops-probe-five-new-assault-cases.html">Madeleine cops probe five new assault cases</a>
+</p>
+</div>
+<p class="videoTime">02:18</p>
+</div>
+<img class="mainImage jsLink" data-link="/sol/homepage/video/news/sky-news/5585600/Madeleine-cops-probe-five-new-assault-cases.html" src="http://img.thesun.co.uk/aidemitlum/archive/01964/Madeleine_cops_pro_1964334q.jpg" class="teaser-image" alt="Madeleine cops probe five new assault cases" width="489" height="275" />
+<div class="video-play-icon jsLink" data-link="/sol/homepage/video/news/sky-news/5585600/Madeleine-cops-probe-five-new-assault-cases.html"></div>
+<div class="comments">
+<div class="tweeter">
+<a href="http://twitter.com/intent/tweet?source=tweetbutton&url=http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5585600/Madeleine-cops-probe-five-new-assault-cases.html&text=Madeleine cops probe five new assault cases" class="5585600-tweets tweetLink" rel="nofollow">Share on twitter></a>	
+</div>	
+<div class="facebook">
+<a onclick="window.open('http://www.facebook.com/sharer.php?u=http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5585600/Madeleine-cops-probe-five-new-assault-cases.html',
+'Facebook', 'toolbar=no, width=650, height=450'); return false;" href="http://www.facebook.com/sharer.php?u=http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5585600/Madeleine-cops-probe-five-new-assault-cases.html" class="5585600-fbshares" rel="nofollow">Share on facebook</a>
+</div>
+<div class="default noHover">
+<div class="default">	
+<a href="/sol/homepage/video/news/sky-news/5585600/Madeleine-cops-probe-five-new-assault-cases.html#commentsStart" data-lf-site-id="289969" data-lf-article-id="sol5585600" class="livefyre-commentcount" rel="nofollow">&nbsp;</a>	
+</div>	
+</div>
+</div>
+</div>	
+<div class="video-landscape-teaser teaserToggler " data-hovercolour="cc0000" data-vr-contentbox="">
+<div class="inner-wrapper">
+<div class="header-div" style="border-left: 4px solid #cc0000">
+<p style="color:#cc0000" class="section-tag">
+<a style="color:#cc0000" href="/sol/homepage/video/news/sky-news/">SKY NEWS</a>
+</p>
+<p class="time">
+23/04/14
+</p>
+<p class="header">
+<a href="/sol/homepage/video/news/sky-news/5585111/Snorkellers-saved-by-huge-SOS-in-sand.html">Snorkellers saved by huge SOS in sand</a>
+</p>
+</div>
+<p class="videoTime">01:11</p>
+</div>
+<img class="mainImage jsLink" data-link="/sol/homepage/video/news/sky-news/5585111/Snorkellers-saved-by-huge-SOS-in-sand.html" src="http://img.thesun.co.uk/aidemitlum/archive/01963/Snorkellers_saved__1963844q.jpg" class="teaser-image" alt="Snorkellers saved by huge SOS in sand" width="489" height="275" />
+<div class="video-play-icon jsLink" data-link="/sol/homepage/video/news/sky-news/5585111/Snorkellers-saved-by-huge-SOS-in-sand.html"></div>
+<div class="comments">
+<div class="tweeter">
+<a href="http://twitter.com/intent/tweet?source=tweetbutton&url=http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5585111/Snorkellers-saved-by-huge-SOS-in-sand.html&text=Snorkellers saved by huge SOS in sand" class="5585111-tweets tweetLink" rel="nofollow">Share on twitter></a>	
+</div>	
+<div class="facebook">
+<a onclick="window.open('http://www.facebook.com/sharer.php?u=http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5585111/Snorkellers-saved-by-huge-SOS-in-sand.html',
+'Facebook', 'toolbar=no, width=650, height=450'); return false;" href="http://www.facebook.com/sharer.php?u=http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5585111/Snorkellers-saved-by-huge-SOS-in-sand.html" class="5585111-fbshares" rel="nofollow">Share on facebook</a>
+</div>
+<div class="default noHover">
+<div class="default">	
+<a href="/sol/homepage/video/news/sky-news/5585111/Snorkellers-saved-by-huge-SOS-in-sand.html#commentsStart" data-lf-site-id="289969" data-lf-article-id="sol5585111" class="livefyre-commentcount" rel="nofollow">&nbsp;</a>	
+</div>	
+</div>
+</div>
+</div>	
+<div class="mpuV2 mpuPresent" >
+<span class="adph-delay" id="adpl-2"></span>
+</div>
+<div class="video-landscape-teaser teaserToggler " data-hovercolour="cc0000" data-vr-contentbox="">
+<div class="inner-wrapper">
+<div class="header-div" style="border-left: 4px solid #cc0000">
+<p style="color:#cc0000" class="section-tag">
+<a style="color:#cc0000" href="/sol/homepage/video/news/sky-news/">SKY NEWS</a>
+</p>
+<p class="time">
+23/04/14
+</p>
+<p class="header">
+<a href="/sol/homepage/video/news/sky-news/5585081/Murder-suspect-wants-murder-tatt-on-neck-removed.html">Murder suspect wants murder tatt on neck removed</a>
+</p>
+</div>
+<p class="videoTime">00:23</p>
+</div>
+<img class="mainImage jsLink" data-link="/sol/homepage/video/news/sky-news/5585081/Murder-suspect-wants-murder-tatt-on-neck-removed.html" src="http://img.thesun.co.uk/aidemitlum/archive/01963/Murder_suspect_wan_1963831q.jpg" class="teaser-image" alt="Murder suspect wants murder tatt on neck removed" width="489" height="275" />
+<div class="video-play-icon jsLink" data-link="/sol/homepage/video/news/sky-news/5585081/Murder-suspect-wants-murder-tatt-on-neck-removed.html"></div>
+<div class="comments">
+<div class="tweeter">
+<a href="http://twitter.com/intent/tweet?source=tweetbutton&url=http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5585081/Murder-suspect-wants-murder-tatt-on-neck-removed.html&text=Murder suspect wants murder tatt on neck removed" class="5585081-tweets tweetLink" rel="nofollow">Share on twitter></a>	
+</div>	
+<div class="facebook">
+<a onclick="window.open('http://www.facebook.com/sharer.php?u=http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5585081/Murder-suspect-wants-murder-tatt-on-neck-removed.html',
+'Facebook', 'toolbar=no, width=650, height=450'); return false;" href="http://www.facebook.com/sharer.php?u=http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5585081/Murder-suspect-wants-murder-tatt-on-neck-removed.html" class="5585081-fbshares" rel="nofollow">Share on facebook</a>
+</div>
+<div class="default noHover">
+<div class="default">	
+<a href="/sol/homepage/video/news/sky-news/5585081/Murder-suspect-wants-murder-tatt-on-neck-removed.html#commentsStart" data-lf-site-id="289969" data-lf-article-id="sol5585081" class="livefyre-commentcount" rel="nofollow">&nbsp;</a>	
+</div>	
+</div>
+</div>
+</div>	
+<div class="video-landscape-teaser teaserToggler " data-hovercolour="cc0000" data-vr-contentbox="">
+<div class="inner-wrapper">
+<div class="header-div" style="border-left: 4px solid #cc0000">
+<p style="color:#cc0000" class="section-tag">
+<a style="color:#cc0000" href="/sol/homepage/video/news/sky-news/">SKY NEWS</a>
+</p>
+<p class="time">
+23/04/14
+</p>
+<p class="header">
+<a href="/sol/homepage/video/news/sky-news/5584995/Bodies-of-three-children-found-in-London-residence.html">Bodies of three children found in London residence</a>
+</p>
+</div>
+<p class="videoTime">02:04</p>
+</div>
+<img class="mainImage jsLink" data-link="/sol/homepage/video/news/sky-news/5584995/Bodies-of-three-children-found-in-London-residence.html" src="http://img.thesun.co.uk/aidemitlum/archive/01964/Bodies_of_three_ch_1964336q.jpg" class="teaser-image" alt="Bodies of three children found in London residence" width="489" height="275" />
+<div class="video-play-icon jsLink" data-link="/sol/homepage/video/news/sky-news/5584995/Bodies-of-three-children-found-in-London-residence.html"></div>
+<div class="comments">
+<div class="tweeter">
+<a href="http://twitter.com/intent/tweet?source=tweetbutton&url=http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5584995/Bodies-of-three-children-found-in-London-residence.html&text=Bodies of three children found in London residence" class="5584995-tweets tweetLink" rel="nofollow">Share on twitter></a>	
+</div>	
+<div class="facebook">
+<a onclick="window.open('http://www.facebook.com/sharer.php?u=http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5584995/Bodies-of-three-children-found-in-London-residence.html',
+'Facebook', 'toolbar=no, width=650, height=450'); return false;" href="http://www.facebook.com/sharer.php?u=http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5584995/Bodies-of-three-children-found-in-London-residence.html" class="5584995-fbshares" rel="nofollow">Share on facebook</a>
+</div>
+<div class="default noHover">
+<div class="default">	
+<a href="/sol/homepage/video/news/sky-news/5584995/Bodies-of-three-children-found-in-London-residence.html#commentsStart" data-lf-site-id="289969" data-lf-article-id="sol5584995" class="livefyre-commentcount" rel="nofollow">&nbsp;</a>	
+</div>	
+</div>
+</div>
+</div>	
+<div class="video-landscape-teaser teaserToggler " data-hovercolour="cc0000" data-vr-contentbox="">
+<div class="inner-wrapper">
+<div class="header-div" style="border-left: 4px solid #cc0000">
+<p style="color:#cc0000" class="section-tag">
+<a style="color:#cc0000" href="/sol/homepage/video/news/sky-news/">SKY NEWS</a>
+</p>
+<p class="time">
+21/04/14
+</p>
+<p class="header">
+<a href="/sol/homepage/video/news/sky-news/5581987/Peaches-Geldof-funeral-attended-by-stars.html">Peaches Geldof funeral attended by stars</a>
+</p>
+</div>
+<p class="videoTime">01:37</p>
+</div>
+<img class="mainImage jsLink" data-link="/sol/homepage/video/news/sky-news/5581987/Peaches-Geldof-funeral-attended-by-stars.html" src="http://img.thesun.co.uk/aidemitlum/archive/01962/Peaches_Geldof_fun_1962929q.jpg" class="teaser-image" alt="Peaches Geldof funeral attended by stars" width="489" height="275" />
+<div class="video-play-icon jsLink" data-link="/sol/homepage/video/news/sky-news/5581987/Peaches-Geldof-funeral-attended-by-stars.html"></div>
+<div class="comments">
+<div class="tweeter">
+<a href="http://twitter.com/intent/tweet?source=tweetbutton&url=http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5581987/Peaches-Geldof-funeral-attended-by-stars.html&text=Peaches Geldof funeral attended by stars" class="5581987-tweets tweetLink" rel="nofollow">Share on twitter></a>	
+</div>	
+<div class="facebook">
+<a onclick="window.open('http://www.facebook.com/sharer.php?u=http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5581987/Peaches-Geldof-funeral-attended-by-stars.html',
+'Facebook', 'toolbar=no, width=650, height=450'); return false;" href="http://www.facebook.com/sharer.php?u=http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5581987/Peaches-Geldof-funeral-attended-by-stars.html" class="5581987-fbshares" rel="nofollow">Share on facebook</a>
+</div>
+<div class="default noHover">
+<div class="default">	
+<a href="/sol/homepage/video/news/sky-news/5581987/Peaches-Geldof-funeral-attended-by-stars.html#commentsStart" data-lf-site-id="289969" data-lf-article-id="sol5581987" class="livefyre-commentcount" rel="nofollow">&nbsp;</a>	
+</div>	
+</div>
+</div>
+</div>	
+<div class="video-landscape-teaser teaserToggler " data-hovercolour="cc0000" data-vr-contentbox="">
+<div class="inner-wrapper">
+<div class="header-div" style="border-left: 4px solid #cc0000">
+<p style="color:#cc0000" class="section-tag">
+<a style="color:#cc0000" href="/sol/homepage/video/news/sky-news/">SKY NEWS</a>
+</p>
+<p class="time">
+22/04/14
+</p>
+<p class="header">
+<a href="/sol/homepage/video/news/sky-news/5581301/South-Korean-President-blasts-ferry-Captain.html">South Korean President blasts ferry Captain</a>
+</p>
+</div>
+<p class="videoTime">02:45</p>
+</div>
+<img class="mainImage jsLink" data-link="/sol/homepage/video/news/sky-news/5581301/South-Korean-President-blasts-ferry-Captain.html" src="http://img.thesun.co.uk/aidemitlum/archive/01962/South_Korean_Presi_1962626q.jpg" class="teaser-image" alt="South Korean President blasts ferry Captain" width="489" height="275" />
+<div class="video-play-icon jsLink" data-link="/sol/homepage/video/news/sky-news/5581301/South-Korean-President-blasts-ferry-Captain.html"></div>
+<div class="comments">
+<div class="tweeter">
+<a href="http://twitter.com/intent/tweet?source=tweetbutton&url=http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5581301/South-Korean-President-blasts-ferry-Captain.html&text=South Korean President blasts ferry Captain" class="5581301-tweets tweetLink" rel="nofollow">Share on twitter></a>	
+</div>	
+<div class="facebook">
+<a onclick="window.open('http://www.facebook.com/sharer.php?u=http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5581301/South-Korean-President-blasts-ferry-Captain.html',
+'Facebook', 'toolbar=no, width=650, height=450'); return false;" href="http://www.facebook.com/sharer.php?u=http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5581301/South-Korean-President-blasts-ferry-Captain.html" class="5581301-fbshares" rel="nofollow">Share on facebook</a>
+</div>
+<div class="default noHover">
+<div class="default">	
+<a href="/sol/homepage/video/news/sky-news/5581301/South-Korean-President-blasts-ferry-Captain.html#commentsStart" data-lf-site-id="289969" data-lf-article-id="sol5581301" class="livefyre-commentcount" rel="nofollow">&nbsp;</a>	
+</div>	
+</div>
+</div>
+</div>	
+<div class="video-landscape-teaser teaserToggler " data-hovercolour="cc0000" data-vr-contentbox="">
+<div class="inner-wrapper">
+<div class="header-div" style="border-left: 4px solid #cc0000">
+<p style="color:#cc0000" class="section-tag">
+<a style="color:#cc0000" href="/sol/homepage/video/news/sky-news/">SKY NEWS</a>
+</p>
+<p class="time">
+20/04/14
+</p>
+<p class="header">
+<a href="/sol/homepage/video/news/sky-news/5579838/Royal-couple-visit-Taronga-Zoo-with-baby-Prince.html">Royal couple visit Taronga Zoo with baby Prince </a>
+</p>
+</div>
+<p class="videoTime">02:24</p>
+</div>
+<img class="mainImage jsLink" data-link="/sol/homepage/video/news/sky-news/5579838/Royal-couple-visit-Taronga-Zoo-with-baby-Prince.html" src="http://img.thesun.co.uk/aidemitlum/archive/01962/Royal_couple_visit_1962155q.jpg" class="teaser-image" alt="Royal couple visit Taronga Zoo with baby Prince " width="489" height="275" />
+<div class="video-play-icon jsLink" data-link="/sol/homepage/video/news/sky-news/5579838/Royal-couple-visit-Taronga-Zoo-with-baby-Prince.html"></div>
+<div class="comments">
+<div class="tweeter">
+<a href="http://twitter.com/intent/tweet?source=tweetbutton&url=http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5579838/Royal-couple-visit-Taronga-Zoo-with-baby-Prince.html&text=Royal couple visit Taronga Zoo with baby Prince " class="5579838-tweets tweetLink" rel="nofollow">Share on twitter></a>	
+</div>	
+<div class="facebook">
+<a onclick="window.open('http://www.facebook.com/sharer.php?u=http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5579838/Royal-couple-visit-Taronga-Zoo-with-baby-Prince.html',
+'Facebook', 'toolbar=no, width=650, height=450'); return false;" href="http://www.facebook.com/sharer.php?u=http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5579838/Royal-couple-visit-Taronga-Zoo-with-baby-Prince.html" class="5579838-fbshares" rel="nofollow">Share on facebook</a>
+</div>
+<div class="default noHover">
+<div class="default">	
+<a href="/sol/homepage/video/news/sky-news/5579838/Royal-couple-visit-Taronga-Zoo-with-baby-Prince.html#commentsStart" data-lf-site-id="289969" data-lf-article-id="sol5579838" class="livefyre-commentcount" rel="nofollow">&nbsp;</a>	
+</div>	
+</div>
+</div>
+</div>	
+<div class="video-landscape-teaser teaserToggler " data-hovercolour="cc0000" data-vr-contentbox="">
+<div class="inner-wrapper">
+<div class="header-div" style="border-left: 4px solid #cc0000">
+<p style="color:#cc0000" class="section-tag">
+<a style="color:#cc0000" href="/sol/homepage/video/news/sky-news/">SKY NEWS</a>
+</p>
+<p class="time">
+20/04/14
+</p>
+<p class="header">
+<a href="/sol/homepage/video/news/sky-news/5579824/Korean-ferry-disaster-Families-anger-erupts.html">Korean ferry disaster: Families' anger erupts</a>
+</p>
+</div>
+<p class="videoTime">03:14</p>
+</div>
+<img class="mainImage jsLink" data-link="/sol/homepage/video/news/sky-news/5579824/Korean-ferry-disaster-Families-anger-erupts.html" src="http://img.thesun.co.uk/aidemitlum/archive/01962/Korean_ferry_disas_1962146q.jpg" class="teaser-image" alt="Korean ferry disaster: Families' anger erupts" width="489" height="275" />
+<div class="video-play-icon jsLink" data-link="/sol/homepage/video/news/sky-news/5579824/Korean-ferry-disaster-Families-anger-erupts.html"></div>
+<div class="comments">
+<div class="tweeter">
+<a href="http://twitter.com/intent/tweet?source=tweetbutton&url=http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5579824/Korean-ferry-disaster-Families-anger-erupts.html&text=Korean ferry disaster: Families anger erupts" class="5579824-tweets tweetLink" rel="nofollow">Share on twitter></a>	
+</div>	
+<div class="facebook">
+<a onclick="window.open('http://www.facebook.com/sharer.php?u=http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5579824/Korean-ferry-disaster-Families-anger-erupts.html',
+'Facebook', 'toolbar=no, width=650, height=450'); return false;" href="http://www.facebook.com/sharer.php?u=http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5579824/Korean-ferry-disaster-Families-anger-erupts.html" class="5579824-fbshares" rel="nofollow">Share on facebook</a>
+</div>
+<div class="default noHover">
+<div class="default">	
+<a href="/sol/homepage/video/news/sky-news/5579824/Korean-ferry-disaster-Families-anger-erupts.html#commentsStart" data-lf-site-id="289969" data-lf-article-id="sol5579824" class="livefyre-commentcount" rel="nofollow">&nbsp;</a>	
+</div>	
+</div>
+</div>
+</div>	
+<div class="video-landscape-teaser teaserToggler " data-hovercolour="cc0000" data-vr-contentbox="">
+<div class="inner-wrapper">
+<div class="header-div" style="border-left: 4px solid #cc0000">
+<p style="color:#cc0000" class="section-tag">
+<a style="color:#cc0000" href="/sol/homepage/video/news/sky-news/">SKY NEWS</a>
+</p>
+<p class="time">
+19/04/14
+</p>
+<p class="header">
+<a href="/sol/homepage/video/news/sky-news/5578617/IRA-murder-man-26-held.html">'IRA' murder: man, 26, held</a>
+</p>
+</div>
+<p class="videoTime">01:46</p>
+</div>
+<img class="mainImage jsLink" data-link="/sol/homepage/video/news/sky-news/5578617/IRA-murder-man-26-held.html" src="http://img.thesun.co.uk/aidemitlum/archive/01961/_IRA__murder__man__1961752q.jpg" class="teaser-image" alt="'IRA' murder: man, 26, held" width="489" height="275" />
+<div class="video-play-icon jsLink" data-link="/sol/homepage/video/news/sky-news/5578617/IRA-murder-man-26-held.html"></div>
+<div class="comments">
+<div class="tweeter">
+<a href="http://twitter.com/intent/tweet?source=tweetbutton&url=http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5578617/IRA-murder-man-26-held.html&text=IRA murder: man, 26, held" class="5578617-tweets tweetLink" rel="nofollow">Share on twitter></a>	
+</div>	
+<div class="facebook">
+<a onclick="window.open('http://www.facebook.com/sharer.php?u=http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5578617/IRA-murder-man-26-held.html',
+'Facebook', 'toolbar=no, width=650, height=450'); return false;" href="http://www.facebook.com/sharer.php?u=http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5578617/IRA-murder-man-26-held.html" class="5578617-fbshares" rel="nofollow">Share on facebook</a>
+</div>
+<div class="default noHover">
+<div class="default">	
+<a href="/sol/homepage/video/news/sky-news/5578617/IRA-murder-man-26-held.html#commentsStart" data-lf-site-id="289969" data-lf-article-id="sol5578617" class="livefyre-commentcount" rel="nofollow">&nbsp;</a>	
+</div>	
+</div>
+</div>
+</div>	
+<div class="video-landscape-teaser teaserToggler " data-hovercolour="1B58AA" data-vr-contentbox="">
+<div class="inner-wrapper">
+<div class="header-div" style="border-left: 4px solid #1B58AA">
+<p style="color:#1B58AA" class="section-tag">
+<a style="color:#1B58AA" href="/sol/homepage/feeds/NewsApp/newsapp-english/newsapp-english-news/">NEWS</a>
+</p>
+<p class="time">
+21/04/14
+</p>
+<p class="header">
+<a href="/sol/homepage/feeds/NewsApp/newsapp-english/newsapp-english-news/5578266/Captains-apology-to-ferry-disaster-victims.html">Captain's apology to ferry disaster victims</a>
+</p>
+</div>
+<p class="videoTime">02:17</p>
+</div>
+<img class="mainImage jsLink" data-link="/sol/homepage/feeds/NewsApp/newsapp-english/newsapp-english-news/5578266/Captains-apology-to-ferry-disaster-victims.html" src="http://img.thesun.co.uk/aidemitlum/archive/01961/Captain_s_apology__1961505q.jpg" class="teaser-image" alt="Captain's apology to ferry disaster victims" width="489" height="275" />
+<div class="video-play-icon jsLink" data-link="/sol/homepage/feeds/NewsApp/newsapp-english/newsapp-english-news/5578266/Captains-apology-to-ferry-disaster-victims.html"></div>
+<div class="comments">
+<div class="tweeter">
+<a href="http://twitter.com/intent/tweet?source=tweetbutton&url=http://www.thesun.co.uk/sol/homepage/feeds/NewsApp/newsapp-english/newsapp-english-news/5578266/Captains-apology-to-ferry-disaster-victims.html&text=Captains apology to ferry disaster victims" class="5578266-tweets tweetLink" rel="nofollow">Share on twitter></a>	
+</div>	
+<div class="facebook">
+<a onclick="window.open('http://www.facebook.com/sharer.php?u=http://www.thesun.co.uk/sol/homepage/feeds/NewsApp/newsapp-english/newsapp-english-news/5578266/Captains-apology-to-ferry-disaster-victims.html',
+'Facebook', 'toolbar=no, width=650, height=450'); return false;" href="http://www.facebook.com/sharer.php?u=http://www.thesun.co.uk/sol/homepage/feeds/NewsApp/newsapp-english/newsapp-english-news/5578266/Captains-apology-to-ferry-disaster-victims.html" class="5578266-fbshares" rel="nofollow">Share on facebook</a>
+</div>
+<div class="default noHover">
+<div class="default">	
+<a href="/sol/homepage/feeds/NewsApp/newsapp-english/newsapp-english-news/5578266/Captains-apology-to-ferry-disaster-victims.html#commentsStart" data-lf-site-id="289969" data-lf-article-id="sol5578266" class="livefyre-commentcount" rel="nofollow">&nbsp;</a>	
+</div>	
+</div>
+</div>
+</div>	
+<div class="video-landscape-teaser teaserToggler " data-hovercolour="cc0000" data-vr-contentbox="">
+<div class="inner-wrapper">
+<div class="header-div" style="border-left: 4px solid #cc0000">
+<p style="color:#cc0000" class="section-tag">
+<a style="color:#cc0000" href="/sol/homepage/video/news/sky-news/">SKY NEWS</a>
+</p>
+<p class="time">
+19/04/14
+</p>
+<p class="header">
+<a href="/sol/homepage/video/news/sky-news/5577061/Avalanche-kills-at-least-13-people-on-Mount-Everest.html">Avalanche kills at least 13 people on Mount Everest</a>
+</p>
+</div>
+<p class="videoTime">02:57</p>
+</div>
+<img class="mainImage jsLink" data-link="/sol/homepage/video/news/sky-news/5577061/Avalanche-kills-at-least-13-people-on-Mount-Everest.html" src="http://img.thesun.co.uk/aidemitlum/archive/01961/Avalanche_kills_at_1961088q.jpg" class="teaser-image" alt="Avalanche kills at least 12 people on Mount Everest" width="489" height="275" />
+<div class="video-play-icon jsLink" data-link="/sol/homepage/video/news/sky-news/5577061/Avalanche-kills-at-least-13-people-on-Mount-Everest.html"></div>
+<div class="comments">
+<div class="tweeter">
+<a href="http://twitter.com/intent/tweet?source=tweetbutton&url=http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5577061/Avalanche-kills-at-least-13-people-on-Mount-Everest.html&text=Avalanche kills at least 13 people on Mount Everest" class="5577061-tweets tweetLink" rel="nofollow">Share on twitter></a>	
+</div>	
+<div class="facebook">
+<a onclick="window.open('http://www.facebook.com/sharer.php?u=http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5577061/Avalanche-kills-at-least-13-people-on-Mount-Everest.html',
+'Facebook', 'toolbar=no, width=650, height=450'); return false;" href="http://www.facebook.com/sharer.php?u=http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5577061/Avalanche-kills-at-least-13-people-on-Mount-Everest.html" class="5577061-fbshares" rel="nofollow">Share on facebook</a>
+</div>
+<div class="default noHover">
+<div class="default">	
+<a href="/sol/homepage/video/news/sky-news/5577061/Avalanche-kills-at-least-13-people-on-Mount-Everest.html#commentsStart" data-lf-site-id="289969" data-lf-article-id="sol5577061" class="livefyre-commentcount" rel="nofollow">&nbsp;</a>	
+</div>	
+</div>
+</div>
+</div>	
+<div class="video-landscape-teaser teaserToggler " data-hovercolour="cc0000" data-vr-contentbox="">
+<div class="inner-wrapper">
+<div class="header-div" style="border-left: 4px solid #cc0000">
+<p style="color:#cc0000" class="section-tag">
+<a style="color:#cc0000" href="/sol/homepage/video/news/sky-news/">SKY NEWS</a>
+</p>
+<p class="time">
+18/04/14
+</p>
+<p class="header">
+<a href="/sol/homepage/video/news/sky-news/5577060/Strong-quake-rattles-Mexican-capital.html">Strong quake rattles Mexican capital</a>
+</p>
+</div>
+<p class="videoTime">00:39</p>
+</div>
+<img class="mainImage jsLink" data-link="/sol/homepage/video/news/sky-news/5577060/Strong-quake-rattles-Mexican-capital.html" src="http://img.thesun.co.uk/aidemitlum/archive/01961/Strong_quake_rattl_1961087q.jpg" class="teaser-image" alt="Strong quake rattles Mexican capital" width="489" height="275" />
+<div class="video-play-icon jsLink" data-link="/sol/homepage/video/news/sky-news/5577060/Strong-quake-rattles-Mexican-capital.html"></div>
+<div class="comments">
+<div class="tweeter">
+<a href="http://twitter.com/intent/tweet?source=tweetbutton&url=http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5577060/Strong-quake-rattles-Mexican-capital.html&text=Strong quake rattles Mexican capital" class="5577060-tweets tweetLink" rel="nofollow">Share on twitter></a>	
+</div>	
+<div class="facebook">
+<a onclick="window.open('http://www.facebook.com/sharer.php?u=http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5577060/Strong-quake-rattles-Mexican-capital.html',
+'Facebook', 'toolbar=no, width=650, height=450'); return false;" href="http://www.facebook.com/sharer.php?u=http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5577060/Strong-quake-rattles-Mexican-capital.html" class="5577060-fbshares" rel="nofollow">Share on facebook</a>
+</div>
+<div class="default noHover">
+<div class="default">	
+<a href="/sol/homepage/video/news/sky-news/5577060/Strong-quake-rattles-Mexican-capital.html#commentsStart" data-lf-site-id="289969" data-lf-article-id="sol5577060" class="livefyre-commentcount" rel="nofollow">&nbsp;</a>	
+</div>	
+</div>
+</div>
+</div>	
+<div class="video-landscape-teaser teaserToggler " data-hovercolour="cc0000" data-vr-contentbox="">
+<div class="inner-wrapper">
+<div class="header-div" style="border-left: 4px solid #cc0000">
+<p style="color:#cc0000" class="section-tag">
+<a style="color:#cc0000" href="/sol/homepage/video/news/sky-news/">SKY NEWS</a>
+</p>
+<p class="time">
+18/04/14
+</p>
+<p class="header">
+<a href="/sol/homepage/video/news/sky-news/5576991/My-son-is-a-martyr-says-dad-of-teen-killed-fighting-in-Syria.html">'My son is a martyr', says dad of teen killed fighting in Syria</a>
+</p>
+</div>
+<p class="videoTime">01:56</p>
+</div>
+<img class="mainImage jsLink" data-link="/sol/homepage/video/news/sky-news/5576991/My-son-is-a-martyr-says-dad-of-teen-killed-fighting-in-Syria.html" src="http://img.thesun.co.uk/aidemitlum/archive/01961/_My_son_is_a_marty_1961041q.jpg" class="teaser-image" alt="'My son is a martyr', says dad of teen killed fighting in Syria" width="489" height="275" />
+<div class="video-play-icon jsLink" data-link="/sol/homepage/video/news/sky-news/5576991/My-son-is-a-martyr-says-dad-of-teen-killed-fighting-in-Syria.html"></div>
+<div class="comments">
+<div class="tweeter">
+<a href="http://twitter.com/intent/tweet?source=tweetbutton&url=http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5576991/My-son-is-a-martyr-says-dad-of-teen-killed-fighting-in-Syria.html&text=My son is a martyr, says dad of teen killed fighting in Syria" class="5576991-tweets tweetLink" rel="nofollow">Share on twitter></a>	
+</div>	
+<div class="facebook">
+<a onclick="window.open('http://www.facebook.com/sharer.php?u=http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5576991/My-son-is-a-martyr-says-dad-of-teen-killed-fighting-in-Syria.html',
+'Facebook', 'toolbar=no, width=650, height=450'); return false;" href="http://www.facebook.com/sharer.php?u=http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5576991/My-son-is-a-martyr-says-dad-of-teen-killed-fighting-in-Syria.html" class="5576991-fbshares" rel="nofollow">Share on facebook</a>
+</div>
+<div class="default noHover">
+<div class="default">	
+<a href="/sol/homepage/video/news/sky-news/5576991/My-son-is-a-martyr-says-dad-of-teen-killed-fighting-in-Syria.html#commentsStart" data-lf-site-id="289969" data-lf-article-id="sol5576991" class="livefyre-commentcount" rel="nofollow">&nbsp;</a>	
+</div>	
+</div>
+</div>
+</div>	
+<div class="video-landscape-teaser teaserToggler " data-hovercolour="cc0000" data-vr-contentbox="">
+<div class="inner-wrapper">
+<div class="header-div" style="border-left: 4px solid #cc0000">
+<p style="color:#cc0000" class="section-tag">
+<a style="color:#cc0000" href="/sol/homepage/video/news/sky-news/">SKY NEWS</a>
+</p>
+<p class="time">
+18/04/14
+</p>
+<p class="header">
+<a href="/sol/homepage/video/news/sky-news/5576793/Vice-Principal-rescued-from-ferry-found-hanged.html">Vice-Principal rescued from ferry found hanged</a>
+</p>
+</div>
+<p class="videoTime">03:37</p>
+</div>
+<img class="mainImage jsLink" data-link="/sol/homepage/video/news/sky-news/5576793/Vice-Principal-rescued-from-ferry-found-hanged.html" src="http://img.thesun.co.uk/aidemitlum/archive/01961/Vice-Principal_res_1961042q.jpg" class="teaser-image" alt="Vice-Principal rescued from ferry found hanged" width="489" height="275" />
+<div class="video-play-icon jsLink" data-link="/sol/homepage/video/news/sky-news/5576793/Vice-Principal-rescued-from-ferry-found-hanged.html"></div>
+<div class="comments">
+<div class="tweeter">
+<a href="http://twitter.com/intent/tweet?source=tweetbutton&url=http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5576793/Vice-Principal-rescued-from-ferry-found-hanged.html&text=Vice-Principal rescued from ferry found hanged" class="5576793-tweets tweetLink" rel="nofollow">Share on twitter></a>	
+</div>	
+<div class="facebook">
+<a onclick="window.open('http://www.facebook.com/sharer.php?u=http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5576793/Vice-Principal-rescued-from-ferry-found-hanged.html',
+'Facebook', 'toolbar=no, width=650, height=450'); return false;" href="http://www.facebook.com/sharer.php?u=http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5576793/Vice-Principal-rescued-from-ferry-found-hanged.html" class="5576793-fbshares" rel="nofollow">Share on facebook</a>
+</div>
+<div class="default noHover">
+<div class="default">	
+<a href="/sol/homepage/video/news/sky-news/5576793/Vice-Principal-rescued-from-ferry-found-hanged.html#commentsStart" data-lf-site-id="289969" data-lf-article-id="sol5576793" class="livefyre-commentcount" rel="nofollow">&nbsp;</a>	
+</div>	
+</div>
+</div>
+</div>	
+<div class="video-landscape-teaser teaserToggler " data-hovercolour="cc0000" data-vr-contentbox="">
+<div class="inner-wrapper">
+<div class="header-div" style="border-left: 4px solid #cc0000">
+<p style="color:#cc0000" class="section-tag">
+<a style="color:#cc0000" href="/sol/homepage/video/news/sky-news/">SKY NEWS</a>
+</p>
+<p class="time">
+18/04/14
+</p>
+<p class="header">
+<a href="/sol/homepage/video/news/sky-news/5576705/British-Royals-soak-up-Sydney.html">British Royals soak up Sydney</a>
+</p>
+</div>
+<p class="videoTime">02:15</p>
+</div>
+<img class="mainImage jsLink" data-link="/sol/homepage/video/news/sky-news/5576705/British-Royals-soak-up-Sydney.html" src="http://img.thesun.co.uk/aidemitlum/archive/01960/British_Royals_soa_1960948q.jpg" class="teaser-image" alt="British Royals soak up Sydney" width="489" height="275" />
+<div class="video-play-icon jsLink" data-link="/sol/homepage/video/news/sky-news/5576705/British-Royals-soak-up-Sydney.html"></div>
+<div class="comments">
+<div class="tweeter">
+<a href="http://twitter.com/intent/tweet?source=tweetbutton&url=http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5576705/British-Royals-soak-up-Sydney.html&text=British Royals soak up Sydney" class="5576705-tweets tweetLink" rel="nofollow">Share on twitter></a>	
+</div>	
+<div class="facebook">
+<a onclick="window.open('http://www.facebook.com/sharer.php?u=http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5576705/British-Royals-soak-up-Sydney.html',
+'Facebook', 'toolbar=no, width=650, height=450'); return false;" href="http://www.facebook.com/sharer.php?u=http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5576705/British-Royals-soak-up-Sydney.html" class="5576705-fbshares" rel="nofollow">Share on facebook</a>
+</div>
+<div class="default noHover">
+<div class="default">	
+<a href="/sol/homepage/video/news/sky-news/5576705/British-Royals-soak-up-Sydney.html#commentsStart" data-lf-site-id="289969" data-lf-article-id="sol5576705" class="livefyre-commentcount" rel="nofollow">&nbsp;</a>	
+</div>	
+</div>
+</div>
+</div>	
+<div class="video-landscape-teaser teaserToggler " data-hovercolour="cc0000" data-vr-contentbox="">
+<div class="inner-wrapper">
+<div class="header-div" style="border-left: 4px solid #cc0000">
+<p style="color:#cc0000" class="section-tag">
+<a style="color:#cc0000" href="/sol/homepage/video/news/sky-news/">SKY NEWS</a>
+</p>
+<p class="time">
+18/04/14
+</p>
+<p class="header">
+<a href="/sol/homepage/video/news/sky-news/5576703/Obama-cautious-over-deal-to-ease-Ukraine-crisis.html">Obama cautious over deal to ease Ukraine crisis</a>
+</p>
+</div>
+<p class="videoTime">05:46</p>
+</div>
+<img class="mainImage jsLink" data-link="/sol/homepage/video/news/sky-news/5576703/Obama-cautious-over-deal-to-ease-Ukraine-crisis.html" src="http://img.thesun.co.uk/aidemitlum/archive/01960/Obama_cautious_ove_1960955q.jpg" class="teaser-image" alt="Obama cautious over deal to ease Ukraine crisis" width="489" height="275" />
+<div class="video-play-icon jsLink" data-link="/sol/homepage/video/news/sky-news/5576703/Obama-cautious-over-deal-to-ease-Ukraine-crisis.html"></div>
+<div class="comments">
+<div class="tweeter">
+<a href="http://twitter.com/intent/tweet?source=tweetbutton&url=http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5576703/Obama-cautious-over-deal-to-ease-Ukraine-crisis.html&text=Obama cautious over deal to ease Ukraine crisis" class="5576703-tweets tweetLink" rel="nofollow">Share on twitter></a>	
+</div>	
+<div class="facebook">
+<a onclick="window.open('http://www.facebook.com/sharer.php?u=http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5576703/Obama-cautious-over-deal-to-ease-Ukraine-crisis.html',
+'Facebook', 'toolbar=no, width=650, height=450'); return false;" href="http://www.facebook.com/sharer.php?u=http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5576703/Obama-cautious-over-deal-to-ease-Ukraine-crisis.html" class="5576703-fbshares" rel="nofollow">Share on facebook</a>
+</div>
+<div class="default noHover">
+<div class="default">	
+<a href="/sol/homepage/video/news/sky-news/5576703/Obama-cautious-over-deal-to-ease-Ukraine-crisis.html#commentsStart" data-lf-site-id="289969" data-lf-article-id="sol5576703" class="livefyre-commentcount" rel="nofollow">&nbsp;</a>	
+</div>	
+</div>
+</div>
+</div>	
+<div class="video-landscape-teaser teaserToggler " data-hovercolour="cc0000" data-vr-contentbox="">
+<div class="inner-wrapper">
+<div class="header-div" style="border-left: 4px solid #cc0000">
+<p style="color:#cc0000" class="section-tag">
+<a style="color:#cc0000" href="/sol/homepage/video/news/sky-news/">SKY NEWS</a>
+</p>
+<p class="time">
+17/04/14
+</p>
+<p class="header">
+<a href="/sol/homepage/video/news/sky-news/5575667/Oscar-Pistorius-murder-trial-evidence-wrong.html">Oscar Pistorius murder trial evidence 'wrong'</a>
+</p>
+</div>
+<p class="videoTime">03:40</p>
+</div>
+<img class="mainImage jsLink" data-link="/sol/homepage/video/news/sky-news/5575667/Oscar-Pistorius-murder-trial-evidence-wrong.html" src="http://img.thesun.co.uk/aidemitlum/archive/01960/Oscar_Pistorius_mu_1960664q.jpg" class="teaser-image" alt="Oscar Pistorius murder trial evidence 'wrong'" width="489" height="275" />
+<div class="video-play-icon jsLink" data-link="/sol/homepage/video/news/sky-news/5575667/Oscar-Pistorius-murder-trial-evidence-wrong.html"></div>
+<div class="comments">
+<div class="tweeter">
+<a href="http://twitter.com/intent/tweet?source=tweetbutton&url=http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5575667/Oscar-Pistorius-murder-trial-evidence-wrong.html&text=Oscar Pistorius murder trial evidence wrong" class="5575667-tweets tweetLink" rel="nofollow">Share on twitter></a>	
+</div>	
+<div class="facebook">
+<a onclick="window.open('http://www.facebook.com/sharer.php?u=http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5575667/Oscar-Pistorius-murder-trial-evidence-wrong.html',
+'Facebook', 'toolbar=no, width=650, height=450'); return false;" href="http://www.facebook.com/sharer.php?u=http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5575667/Oscar-Pistorius-murder-trial-evidence-wrong.html" class="5575667-fbshares" rel="nofollow">Share on facebook</a>
+</div>
+<div class="default noHover">
+<div class="default">	
+<a href="/sol/homepage/video/news/sky-news/5575667/Oscar-Pistorius-murder-trial-evidence-wrong.html#commentsStart" data-lf-site-id="289969" data-lf-article-id="sol5575667" class="livefyre-commentcount" rel="nofollow">&nbsp;</a>	
+</div>	
+</div>
+</div>
+</div>	
+<div class="video-landscape-teaser teaserToggler " data-hovercolour="cc0000" data-vr-contentbox="">
+<div class="inner-wrapper">
+<div class="header-div" style="border-left: 4px solid #cc0000">
+<p style="color:#cc0000" class="section-tag">
+<a style="color:#cc0000" href="/sol/homepage/video/news/sky-news/">SKY NEWS</a>
+</p>
+<p class="time">
+21/04/14
+</p>
+<p class="header">
+<a href="/sol/homepage/video/news/sky-news/5574362/Ukraine-separatists-killed-ahead-of-talks.html">Ukraine separatists killed ahead of talks</a>
+</p>
+</div>
+<p class="videoTime">02:42</p>
+</div>
+<img class="mainImage jsLink" data-link="/sol/homepage/video/news/sky-news/5574362/Ukraine-separatists-killed-ahead-of-talks.html" src="http://img.thesun.co.uk/aidemitlum/archive/01960/Ukraine_separatist_1960662q.jpg" class="teaser-image" alt="Ukraine separatists killed ahead of talks" width="489" height="275" />
+<div class="video-play-icon jsLink" data-link="/sol/homepage/video/news/sky-news/5574362/Ukraine-separatists-killed-ahead-of-talks.html"></div>
+<div class="comments">
+<div class="tweeter">
+<a href="http://twitter.com/intent/tweet?source=tweetbutton&url=http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5574362/Ukraine-separatists-killed-ahead-of-talks.html&text=Ukraine separatists killed ahead of talks" class="5574362-tweets tweetLink" rel="nofollow">Share on twitter></a>	
+</div>	
+<div class="facebook">
+<a onclick="window.open('http://www.facebook.com/sharer.php?u=http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5574362/Ukraine-separatists-killed-ahead-of-talks.html',
+'Facebook', 'toolbar=no, width=650, height=450'); return false;" href="http://www.facebook.com/sharer.php?u=http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5574362/Ukraine-separatists-killed-ahead-of-talks.html" class="5574362-fbshares" rel="nofollow">Share on facebook</a>
+</div>
+<div class="default noHover">
+<div class="default">	
+<a href="/sol/homepage/video/news/sky-news/5574362/Ukraine-separatists-killed-ahead-of-talks.html#commentsStart" data-lf-site-id="289969" data-lf-article-id="sol5574362" class="livefyre-commentcount" rel="nofollow">&nbsp;</a>	
+</div>	
+</div>
+</div>
+</div>	
+<div class="mpuV2 " >
+<span class="adph-delay" id="adpl-3"></span>
+</div>
+<ul id="bottomlinks">
+</ul>
+<div id="fixedFooter">
+<div style="padding: 0 0 10px 10px; height:23px;"> <a href="http://www.thesun.co.uk"><img border="0" alt="Sun Logo" src="http://img.thesun.co.uk/multimedia/archive/01717/sun-logo-mini_1717070a.png"/></a></div><div class="footer-links"> <a href="http://www.thesun.co.uk/sol/homepage/article296174.ece">Contact Us</a></div><div class="footer-links"> <a href="http://www.thesun.co.uk/sol/homepage/4903356/The-sun-site-map.html">Sitemap</a></div><div class="footer-links"> <a href="http://www.thesun.co.uk/sol/homepage/fun/competitions/promotions/article4972642.ece">FAQs</a></div><div class="footer-links"> <a target="_blank" href="https://www.newsukadvertising.co.uk/the-sun">Advertising</a></div><div class="foot-copyright" id="foot-copyright"> <p style="padding: 0 0 5px 0px;">© News Group Newspapers Limited Registered in England No. 679215 Registered office: 3 Thomas More Square, London E98 1XY. &quot;The Sun&quot;, &quot;Sun&quot;, &quot;Sun Online&quot; are registered trademarks or trade names of News Group Newspapers Limited. This service is provided on News Group Newspapers' Limited's <a target="_parent" href="/sol/homepage/article254101.ece">Standard Terms and Conditions</a> in accordance with our <a target="_blank" href="http://www.newsprivacy.co.uk">Privacy &amp; Cookie Policy</a> . To inquire about a licence to reproduce material, visit our <a target="_blank" href="http://www.thesun.co.uk/sol/homepage/article2636543.ece">Syndication site</a>. View our online Press Pack. For other inquiries, <a target="_parent" href="/sol/homepage/article251760.ece">Contact Us</a>. To see all content on The Sun, please use the Site Map. The Sun website is regulated by the <a target="_blank" href="http://www.pcc.org.uk/">Press Complaints Commission (PCC)</a></p> <p style="padding: 0 0 5px 0;">Our journalists strive for accuracy but on occasion we make mistakes. The Sun ombudsman will correct significant errors. Please contact her at <a href="mailto:ombudsman@the-sun.co.uk">ombudsman@the-sun.co.uk</a></p></div><style>.foot-copyright { width: 289px !important; text-align:justify !important; padding: 0 0 0 8px !important; border-left: 4px solid #666; color: #999; font-size: 12px; line-height: 18px;}.foot-copyright a { color: #666 !important; font-weight: bold; text-decoration: none;}.foot-copyright a:hover{ color: #300 !important;}.footer-links { display: block !important; border-top: 1px solid #e5e5e5; line-height: 20px; font-size: 11px; font-weight: bold; color: #333; padding: 0 0 0 10px; text-decoration: none; width: 290px;}.footer-links a { display: block !important; line-height: 20px; font-size: 11px; font-weight: bold; color: #333; text-decoration: none;}.footer-links a:hover { text-decoration: underline;}</style>
+</div>
+</div>
+<div class="grid-12">
+<div id="articleleaderboardbottom-ad">
+<div>
+<div class="mpuV2 " >
+<span class="adph-delay" id="adpl-4"></span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="pageConfig">
+<div id="liveFyre" 
+data-livefyre-network="thesun.fyre.co" 
+data-site-id="289969" 
+data-jssource-url="http://zor.livefyre.com/wjs/v3.0/javascripts/livefyre.js" 
+data-livefyre-comment-counts-url="http://zor.livefyre.com/wjs/v1.0/javascripts/CommentCount.js" 
+data-article-id="sol5554371" 
+data-article-url="http://www.thesun.co.uk/sol/homepage/video/news/sky-news/5554371/Tories-back-Miller-despite-resignation-calls.html"
+data-article-title="Tories back Miller despite resignation calls"
+data-article-token="eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJuZXdzaW50IiwidGl0bGUiOiJUb3JpZXMgYmFjayBNaWxsZXIgZGVzcGl0ZSByZXNpZ25hdGlvbiBjYWxscyIsInVybCI6Imh0dHA6Ly93d3cudGhlc3VuLmNvLnVrL3NvbC9ob21lcGFnZS92aWRlby9uZXdzL3NreS1uZXdzL2FydGljbGU1NTU0MzcxLmVjZSIsInRhZ3MiOiJzdW4iLCJjaGVja3N1bSI6IjEwYzY0MjQ3OTgwM2UzYWM2OWI3YzYwODZjNGEyNzE2IiwiYXJ0aWNsZUlkIjoic29sNTU1NDM3MSJ9.iGVlXWJESLvfZ-yzwYbAo5aFdEa-BLrH-__58oXl2Qw"
+data-article-checksum="10c642479803e3ac69b7c6086c4a2716"
+data-login-url="https://login.thesun.co.uk/">
+</div>
+<script type="text/javascript" src="http://zor.livefyre.com/wjs/v3.0/javascripts/livefyre.js"></script>
+<script type="text/javascript" data-lf-domain="thesun.fyre.co" src="http://zor.livefyre.com/wjs/v1.0/javascripts/CommentCount.js"></script>
+<div id="sectionColour" data-hex="#cc0000"></div>
+<script type="text/javascript">
+var SUN = SUN || {};
+SUN.premiumVideoProviders = {
+EPLWEB: {
+tokenService: 'http://feedengine.thesun.co.uk',
+directory: '/tokenservice/generate',
+account: 'epl2',
+service: 'jsonp',
+analyticsNamespace : 'epl_content',
+blackoutEndpoint: '/js/jsdata/prod/blackout.json'
+},
+SPFLWEB : {
+tokenService: 'http://feedengine.thesun.co.uk',
+directory: '/tokenservice/generate',
+account: 'spfl',
+service: 'jsonp',
+analyticsNamespace : 'spl_content',
+blackoutEndpoint: '/js/jsdata/prod/blackout.json'
+},
+FACUPWEB : {
+tokenService: 'http://feedengine.thesun.co.uk',
+directory: '/tokenservice/generate',
+account: 'epl2',
+service: 'jsonp',
+analyticsNamespace : 'facup_content',
+blackoutEndpoint: '/js/jsdata/prod/blackout.json'
+}
+}
+</script>
+<div id="pvcRefreshEndpoint" data-url="http://live.feed.thesun.co.uk/sunvideocarousel/prod/"></div>
+<div id="lottoWidget" data-endpoint="/lotto/results.jsonp"></div>
+</div>
+<span id="ad-1" class="ad-delay"><script type="text/javascript">SUN.tagDart.proccessUrl({url:'http://ad.uk.doubleclick.net/N3048/adj/videos.thesun.co.uk/news;section=/homepage/video/news/sky-news/;sec_id=12119;log=1;pw=1;dcopt=ist;pos=leaderboard;aid=5554371;cont_type=art;kw=null;cat=null;leader=1;mpu={{mpu}};search=null;vid=5mbmtybDpTP55YG0WguHyk1L6xuoqIYb;tile=1;sz=728x90;{{cip_sol_aud}}{{iam_tgt}}eid={{eid}};ord={{ord}}?'});</script></span>
+<span id="ad-2" class="ad-delay"><script type="text/javascript">SUN.tagDart.proccessUrl({url:'http://ad.uk.doubleclick.net/N3048/adj/videos.thesun.co.uk/news;section=/homepage/video/news/sky-news/;sec_id=12119;log=1;pw=1;pos=articlempu;aid=5554371;cont_type=art;kw=null;cat=null;leader=1;mpu={{mpu}};search=null;vid=5mbmtybDpTP55YG0WguHyk1L6xuoqIYb;tile=2;sz=300x250;{{cip_sol_aud}}{{iam_tgt}}eid={{eid}};ord={{ord}}?'});</script></span>
+<span id="ad-3" class="ad-delay"><script type="text/javascript">SUN.tagDart.proccessUrl({url:'http://ad.uk.doubleclick.net/N3048/adj/videos.thesun.co.uk/news;section=/homepage/video/news/sky-news/;sec_id=12119;log=1;pw=1;pos=mpu;aid=5554371;cont_type=art;kw=null;cat=null;leader=1;mpu={{mpu}};search=null;vid=5mbmtybDpTP55YG0WguHyk1L6xuoqIYb;tile=3;sz=300x250;{{cip_sol_aud}}{{iam_tgt}}eid={{eid}};ord={{ord}}?'});</script></span>
+<span id="ad-4" class="ad-delay"><script type="text/javascript">SUN.tagDart.proccessUrl({url:'http://ad.uk.doubleclick.net/N3048/adj/videos.thesun.co.uk/news;section=/homepage/video/news/sky-news/;sec_id=12119;log=1;pw=1;pos=bottomleaderboard;aid=5554371;cont_type=art;kw=null;cat=null;leader=1;mpu={{mpu}};search=null;vid=5mbmtybDpTP55YG0WguHyk1L6xuoqIYb;tile=4;sz=728x90;{{cip_sol_aud}}{{iam_tgt}}eid={{eid}};ord={{ord}}?'});</script></span>
+<span class="adph-delay" id="adpl-1x1"></span>
+<span id="ad-1x1" class="ad-delay"><script type="text/javascript">SUN.tagDart.proccessUrl({url:'http://ad.uk.doubleclick.net/N3048/adj/commercial.products.news.uk/sol;section=/homepage/video/news/sky-news/;sec_id=12119;log=1;pw=1;pos=pixel;aid=5554371;cont_type=art;kw=null;cat=null;leader=1;mpu={{mpu}};search=null;vid=5mbmtybDpTP55YG0WguHyk1L6xuoqIYb;sz=1x1;{{cip_sol_aud}}{{iam_tgt}}eid={{eid}};ord={{ord}}?'});</script></span>
+<script type="text/javascript" src="https://dcdd29eaa743c493e732-7dc0216bc6cc2f4ed239035dfc17235b.ssl.cf3.rackcdn.com/tags/the_sun/hokbottom.js"></script>
+</body>
+</html>
+

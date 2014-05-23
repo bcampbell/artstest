@@ -1,0 +1,2738 @@
+WARC/1.0
+Content-Length: 120693
+Content-Type: application/http; msgtype=response
+Warc-Date: 2014-04-24T03:30:19Z
+Warc-Record-Id: urn:X-scrapeomat:1398310220393992101
+Warc-Target-Uri: http://www.dailymail.co.uk/money/markets/article-2609101/Sir-Frank-Chapman-13m-shares-options-standing-job-year.html
+Warc-Type: response
+X-Scrapeomat-Srcurl: http://www.dailymail.co.uk/money/markets/article-2609101/Sir-Frank-Chapman-13m-shares-options-standing-job-year.html
+
+HTTP/1.1 200 OK
+Cache-Control: max-age=779
+Connection: keep-alive
+Content-Type: text/html;charset=UTF-8
+Date: Thu, 24 Apr 2014 03:30:20 GMT
+Vary: User-Agent
+Vary: Accept-Encoding
+X-N: S
+X-Rs-Ops: mol-hsk-cljfe6:8181
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/">
+  <head>
+
+  <title>Sir Frank Chapman made more than £13m on shares and options after standing down from his job last year | Mail Online</title>
+
+  <!-- google_ad_section_start(name=s1) -->
+  <meta name="keywords" content="Sir,Frank,Chapman,13m,shares,options,standing,job,year" />
+  <meta name="news_keywords" content="Sir,Frank,Chapman,13m,shares,options,standing,job,year" />
+  <meta name="description" content="Sir Frank, who is well respected in the City and has been named as a possible chairman for global commodity trader Glencore." />
+  <meta name="original-source" content="http://www.dailymail.co.uk/money/markets/article-2609101/Sir-Frank-Chapman-13m-shares-options-standing-job-year.html" />
+  <!-- google_ad_section_end(name=s1) -->
+
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta http-equiv="Content-Language" content="en" />
+  <meta name="Rating" content="General" />
+  <meta name="doc-class" content="Living Document" />
+  <meta name="verify-v1" content="DXwlrsxbqxSv+FTFkWUfgflBvFJfx2YbNf/HmABrVyY=" />
+  <meta name="msvalidate.01" content="12E6B4B813EB44C9BFC8F6A21F1D01F5" />
+  <meta name="y_key" content="1a7e912afbfcab2f" />
+  <meta http-equiv="imagetoolbar" content="false" />
+  <meta name="MSSmartTagsPreventParsing" content="true" />
+  <meta property="twitter:account_id" content="15438913" />
+  <meta name="articleid" content="2609101" />
+  <meta name="divclasspage" content="articlePage" />
+  <meta name="dartPageType" content="art" />
+  <meta name="robots" content="noodp,noydir,all,noarchive" />
+  <meta property="twitter:card" content="summary_large_image" />
+  <meta property="twitter:title" content="Sir Frank Chapman made more than £13m on shares and options" />
+  <meta property="twitter:description" content="Sir Frank, who is well respected in the City and has been named as a possible chairman for global commodity trader Glencore." />
+  <meta property="twitter:url" content="http://www.dailymail.co.uk/money/markets/article-2609101/Sir-Frank-Chapman-13m-shares-options-standing-job-year.html" />
+  <meta property="twitter:image" content="http://i.dailymail.co.uk/i/pix/2014/04/20/article-2609101-008562AE00000258-835_1024x615_large.jpg" />
+  <meta property="twitter:app:name:iphone" content="" />
+  <meta property="twitter:app:id:iphone" content="384101264" />
+  <meta property="twitter:app:name:ipad" content="" />
+  <meta property="twitter:app:id:ipad" content="400442503" />
+  <meta property="twitter:app:name:googleplay" content="" />
+  <meta property="twitter:app:id:googleplay" content="" />
+  <meta property="article:publisher" content="https://www.facebook.com/DailyMail" />
+  <meta property="article:published_time" content="2014-04-20T21:26:36.000Zyyyy-MM-dd HH:mm:ss z" />
+  <meta property="article:modified_time" content="2014-04-21T09:10:35.000Zyyyy-MM-dd HH:mm:ss z" />
+  <meta property="article:section" content="Markets" />
+  <meta property="article:tag" content="Sir Frank Chapman 13m shares options standing job year" />
+  <meta property="article:author" content="http://www.dailymail.co.uk/home/search.html?s=&authornamef=Daily+Mail+Repoter" />
+  <meta property="fb:app_id" content="146202712090395" />
+  <meta property="og:site_name" content="Mail Online" />
+  <meta property="og:title" content="Sir Frank Chapman made more than £13m on shares and options" />
+  <meta property="og:type" content="article" />
+  <meta property="og:description" content="Sir Frank, who is well respected in the City and has been named as a possible chairman for global commodity trader Glencore." />
+  <meta property="og:url" content="http://www.dailymail.co.uk/money/markets/article-2609101/Sir-Frank-Chapman-13m-shares-options-standing-job-year.html" />
+  <meta property="og:image" content="http://i.dailymail.co.uk/i/pix/2014/04/20/article-2609101-008562AE00000258-835_1024x615_large.jpg" />
+
+  <link rel="canonical" href="http://www.dailymail.co.uk/money/markets/article-2609101/Sir-Frank-Chapman-13m-shares-options-standing-job-year.html"   />
+  <link rel="search" href="/xml/opensearch.xml" title="Mail Online Search" type="application/opensearchdescription+xml" />
+  <link rel="alternate" href="/money/markets/index.rss" title="Mail Online Markets RSS feed" type="application/rss+xml" />
+  <link rel="publisher" href="https://plus.google.com/101913233771349778690/"   />
+
+  
+  
+  
+
+  <link rel="stylesheet" type="text/css" media="screen" href="http://scripts.dailymail.co.uk/static/gunther/gunther-497/all--.css" /><link rel="stylesheet" type="text/css" media="screen" href="http://scripts.dailymail.co.uk/static/gunther/gunther-497/all1--.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="http://scripts.dailymail.co.uk/static/gunther/gunther-497/colours.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="http://scripts.dailymail.co.uk/static/gunther/gunther-497/mobilegallery--.css" />
+
+<!--[if lte IE 6]><link rel="stylesheet" type="text/css" media="screen" href="http://scripts.dailymail.co.uk/static/gunther/gunther-497/ie6--.css" /><![endif]-->
+
+<link rel="stylesheet" type="text/css" media="print" href="http://scripts.dailymail.co.uk/static/gunther/gunther-497/print--.css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="http://scripts.dailymail.co.uk/static/gunther/gunther-440/registration--.css" />
+
+
+
+
+
+
+
+    <link rel="stylesheet" type="text/css" media="screen" href="http://scripts.dailymail.co.uk/static/bundles/rc-main-140318154402.css" />
+
+
+
+<style type="text/css">
+.moneymoneymarkets .masthead {
+background-image:url(http://i.dailymail.co.uk/i/pix/tim_channelheaders/markets_mol_masthead.jpg);
+}
+</style>
+
+
+  <script type="text/javascript">
+  PageCriteria = window.PageCriteria || {};
+  PageCriteria.channel = 'money';
+  PageCriteria.subchannel = 'moneymarkets';
+  PageCriteria.geo = 'GB';
+  PageCriteria.pageType = 'article';
+  PageCriteria.articleId = '2609101';
+  PageCriteria.sponsored = '';
+  
+  </script>
+  
+  <script type="text/javascript">
+  PageCriteria.latitude = "51.50";
+  PageCriteria.longitude = "-0.12";
+  PageCriteria.geo = "GB" || PageCriteria.geo;
+  </script>
+  
+
+  <script type="text/javascript">
+    
+      
+        var twitterVia = 'MailOnline';
+    
+  
+    var useAdx = false;
+    var useFreewheel = false;
+    var useRtp = false;  
+  </script>
+
+  <!-- Grapeshot-->
+  <script type="text/javascript">
+  var andGrapeshot,
+      gs_channels = "DEFAULT",
+      gs_us_channels = "DEFAULT";
+  
+  andGrapeshot = 1;
+  
+  </script>
+  <script type='text/javascript'>
+  var crtg_nid="1867";
+  var crtg_cookiename="cto_dailymail";
+  var crtg_varname="crtg_content";
+  function crtg_getCookie(c_name){ var i,x,y,ARRCookies=document.cookie.split(";");for(i=0;i<ARRCookies.length;i++){x=ARRCookies[i].substr(0,ARRCookies[i].indexOf("="));y=ARRCookies[i].substr(ARRCookies[i].indexOf("=")+1);x=x.replace(/^\s+|\s+$/g,"");if(x==c_name){return unescape(y);}}return'';}
+  
+  var crtg_content = crtg_getCookie(crtg_cookiename);
+  var crtg_rnd=Math.floor(Math.random()*99999999999);
+  var crtg_url=location.protocol+'//rtax.criteo.com/delivery/rta/rta.js?netId='+escape(crtg_nid);crtg_url+='&cookieName='+escape(crtg_cookiename);crtg_url+='&rnd='+crtg_rnd;crtg_url+='&varName=' + escape(crtg_varname);
+  var crtg_script=document.createElement('script');crtg_script.type='text/javascript';crtg_script.src=crtg_url;crtg_script.async=true;
+  if(document.getElementsByTagName("head").length>0)document.getElementsByTagName("head")[0].appendChild(crtg_script);else if(document.getElementsByTagName("body").length>0)document.getElementsByTagName("body")[0].appendChild(crtg_script);</script>
+  
+    
+  
+  
+  <script type="text/javascript">
+    if (!window.console) window.console = { log: function() {} };
+    var ANDDebugOn = false;
+    var s_account='anddailymailprod';
+    var s_account15 = 'molglobalprod';
+  </script>
+  
+  <script type="text/javascript">
+  
+  
+     var mol_ipad_smartappbanner = false;
+    
+  
+    
+      var mol_smartappbanner = true;
+    
+  
+  </script>
+  <script type="text/javascript" src="http://scripts.dailymail.co.uk/static/gunther/lib-4/lib--.js" ></script>
+  <script type="text/javascript" src="http://scripts.dailymail.co.uk/static/gunther/gunther-497/dm1--.js" ></script>
+  <script type="text/javascript">
+    DM.guntherBase = 'http://scripts.dailymail.co.uk/static/gunther/gunther-497/';
+    //features
+    DM.features = {};
+  </script>
+  <script type="text/javascript">
+  
+  
+    
+      DM.isLoggedIn = false;
+    
+  
+  </script>
+  
+  <script type="text/javascript">
+  var adReferrer = '';
+  
+  if ("" != "") {
+    DM.setCookie("adReferrer", "", "", "/");
+    adReferrer = "";
+  }
+  else if (DM.getCookie("adReferrer") != null) {
+    adReferrer = DM.getCookie("adReferrer");
+  }
+  
+  var adType='dart',
+      dartSiteId = "dailymail.uk",
+      DFPid="N5765",
+      adAreaSiteId = "dm",
+      adAreaId = "money",
+      adSubareaId = (adReferrer == "") ? "moneymarkets" : adReferrer,
+    adPageType = 'art',
+    adContent = "",
+    adSection = '',
+    adArticleId = "2609101",
+    adEnvironment = "production",
+    enableAds=true;
+  
+  </script>
+  <script type="text/javascript">
+    var adProbe = new Array();
+    (function() {
+       var cusIds = '13392,13393,9979,13394,9978,',
+           wlOrd = new Date().getTime();
+       document.write('<scr' + 'ipt type="text/javascript" src="http://req.connect.wunderloop.net/AP/470/5854/9978/js?cus='+cusIds+'&ord=' + wlOrd + '"></sc' + 'ript>');
+    })();
+  </script>
+  
+  <script type="text/javascript">
+    if(typeof 13392 !== 'undefined') {
+       adProbe.push({variableName: 'wl13392camp',
+                     variableValue: wl13392camp,
+                     advertPosition: 'ldr_top'});
+    }
+    if(typeof 13393 !== 'undefined') {
+       adProbe.push({variableName: 'wl13393camp',
+                     variableValue: wl13393camp,
+                     advertPosition: 'mpu_top'});
+    }
+    if(typeof 9979 !== 'undefined') {
+       adProbe.push({variableName: 'wl9979camp',
+                     variableValue: wl9979camp,
+                     advertPosition: ''});
+    }
+    if(typeof 13394 !== 'undefined') {
+       adProbe.push({variableName: 'wl13394camp',
+                     variableValue: wl13394camp,
+                     advertPosition: 'billboard'});
+    }
+    if(typeof 9978 !== 'undefined') {
+       adProbe.push({variableName: 'wl9978camp',
+                     variableValue: wl9978camp,
+                     advertPosition: ''});
+    }
+  </script>  
+
+    <script type="text/javascript">
+        var freewheelAdIdentType = "standardBC_id";
+        function setFreewheelAdIdentType (id) {
+            if (window.useFreewheel && id) {
+                freewheelAdIdentType = "mi9videoid";
+            } else if (window.useFreewheel) {
+                freewheelAdIdentType = "standardBC_id";
+            }
+        }
+    
+        if (window.useFreewheel) {
+            window.fw_config = function() {
+                return _.chain({
+                    siteSection: 'dma_money',
+                    siteSectionId: 'dma_money',
+                    assetIdField: freewheelAdIdentType
+                }).extend({     amLocation: "http://adm.fwmrm.net/p/msn_au_live/AdManager.swf",         amLocation_js: "http://adm.fwmrm.net/p/msn_au_live/AdManager.js", cb_profile: "MSN_AU_BC_Live",     cb_profile_js: "MSN_AU_BC_HTML5_Live",     fw_server: "http://5bb3d.v.fwmrm.net",     networkId: 375613,    videoAssetFallbackId:"brightcove_video"   } ).value();
+            };
+        }
+    </script>
+
+  
+
+  <script type="text/javascript">
+      var inlineModules = "";
+  </script>
+
+  <script type="text/javascript">
+  var taboola_country = 'uk';
+  window._taboola = window._taboola || [];
+  _taboola.push({ article:'auto' });
+  !function (e, f, u) {
+    e.async = 1;
+    e.src = u;
+    f.parentNode.insertBefore(e, f);
+  }(document.createElement('script'), document.getElementsByTagName('script')[0], 'http://cdn.taboola.com/libtrc/dailymail-' + taboola_country + '/loader.js');
+</script>
+
+
+  
+
+</head>
+
+  <body id="moneymarkets" class="moneymoneymarkets mol-desktop">
+    <script type="text/javascript">MobileUtils.setupMobileClass();</script>
+    <script type="text/javascript">
+  //<![CDATA[
+  DM.ComScore.off = false;
+  DM.ComScore.labels = {
+    c2: '14366613',
+    name: 'money.markets.article.2609101.sir-frank-chapman-13m-shares-options-standing-job-year.page',
+    mo_vs_pl: 'we',
+    mo_vs_pr: 'dm',
+    mo_vs_ct: 'ar',
+    category: 'money',
+    mo_site: 'dailymail',
+    mo_logged_in: 0
+  }
+  if (DM.isLoggedIn && DM.userId) {
+    Ext.apply(DM.ComScore.labels, {
+      mo_logged_in: 1,
+      mo_user_id: DM.userId
+    });
+  }
+  DM.ComScore.dm  = DM.ComScore.getDM();
+  DM.ComScore.vd  = '';
+  //]]>
+</script>
+
+<!-- Begin comScore Inline Tag 1.1111.15 -->
+<script type="text/javascript">
+  //<![CDATA[
+  function udm_(a) {
+    var b = "comScore=", c = document, d = c.cookie, e = "", f = "indexOf", g = "substring", h = "length", i = 2048, j, k = "&ns_", l = "&", m, n, o, p, q = window, r = q.encodeURIComponent || escape;
+    if (d[f](b) + 1)for (o = 0, n = d.split(";"), p = n[h]; o < p; o++)m = n[o][f](b), m + 1 && (e = l + unescape(n[o][g](m + b[h])));
+    a += k + "_t=" + +(new Date) + k + "c=" + (c.characterSet || c.defaultCharset || "") + "&c8=" + r(c.title) + e + "&c7=" + r(c.URL) + "&c9=" + r(c.referrer), a[h] > i && a[f](l) > 0 && (j = a[g](0, i - 8).lastIndexOf(l), a = (a[g](0, j) + k + "cut=" + r(a[g](j + 1)))[g](0, i)), c.images ? (m = new Image, q.ns_p || (ns_p = m), m.src = a) : c.write("<", "p", "><", 'img src="', a, '" height="1" width="1" alt="*"', "><", "/p", ">")
+  }
+  udm_('http' + (document.location.href.charAt(4) == 's' ? 's://sb' : '://b') + '.scorecardresearch.com/b?c1=2&c2=' + '14366613' + '&name=' + 'money.markets.article.2609101.sir-frank-chapman-13m-shares-options-standing-job-year.page' + '&mo_vs_pl=we&mo_vs_pr=dm&mo_vs_ct=ar&mo_tb=0&category=money&mo_article_id=2609101&mo_article_author=daily+mail+repoter&mo_article_date=20140421&mo_article_title=sir+frank+chapman+made+more+than+%C2%A313m+on+shares+and+options+after+standing+down+from+his+job+last+year&mo_article_pd=20140420&mo_article_vn=7553042&mo_site=dailymail' + ((DM.isLoggedIn && DM.userId) ? '&mo_logged_in=1&mo_user_id=' + DM.userId : '&mo_logged_in=0') + DM.ComScore.dm + DM.ComScore.vd);
+  //]]>
+</script>
+
+<noscript><p><img src="http://b.scorecardresearch.com/p?c1=2&c2=14366613&name=money.markets.article.2609101.sir-frank-chapman-13m-shares-options-standing-job-year.page&mo_vs_pl=we&mo_vs_pr=dm&mo_vs_ct=ar&mo_tb=0&category=money&mo_article_id=2609101&mo_article_author=daily+mail+repoter&mo_article_date=20140421&mo_article_title=sir+frank+chapman+made+more+than+%C2%A313m+on+shares+and+options+after+standing+down+from+his+job+last+year&mo_article_pd=20140420&mo_article_vn=7553042&mo_site=dailymail&mo_logged_in=0" height="1" width="1" alt="*"></p></noscript>
+<!-- End comScore Inline Tag -->
+
+        <!-- SiteCatalyst code version: H.20.3.
+    Copyright 1997-2009 Omniture, Inc. More info available at
+    http://www.omniture.com -->
+
+    <script type="text/javascript">
+      var searchTerms = '';
+    </script>
+
+    
+    
+    <script type="text/javascript">
+      searchTerms = '';
+    </script>
+    
+    
+
+    <script type="text/javascript"><!--
+    var refererHost = "direct";
+    if (document.referrer) {
+        var docReferrerHostMatches = new RegExp("://([^/]*)/.*").exec(document.referrer);
+        /* Check just to be safe */
+        if (docReferrerHostMatches) {
+            var docReferrerHost = docReferrerHostMatches[1];
+            refererHost = docReferrerHost;
+        }
+    }
+    // login tracking (1)
+    DM.pageEvents.listen(DM.pageEvents.PAGE_LOGIN_BUTTON_CLICKED, function (obj, event, pars){
+        if (pars.action === 'loggingIn'){
+            document.cookie = "attempting_login=true; path=/";
+        }
+    });
+
+    DM.setPageMetadata((function (){
+        var pagemeta = {
+            domain: 'dailymail',
+            channel: '/money',
+            subChannel: '/money/moneymarkets',
+            subChannel2: '',
+            contentType: 'article',
+            articleTitle: 'Sir Frank Chapman made more than \u00A313m on shares and options after standing down from his job last year',
+            articleId: '2609101',
+            articleVersionNumber: '7553042',
+            internalSearchTerms: searchTerms,
+            loggedInStatus: (DM.isLoggedIn ? 'Logged In' : 'Logged Out'),
+            galleryTitle: '',
+            galleryId: '',
+            threadTitle: '',
+            threadId: '',
+            userId: DM.userId,
+            partnerSite: '',
+            publishedDate: new Date(1398029196000),
+            authorName: 'Daily Mail Repoter',
+            errorUrl: '',
+            serverDate: new Date(1398310219699),
+            url: 'D=g',
+            referringSubDomain: refererHost,
+            inlineLinks: '',
+            pageName: '/money/moneymarkets/article',
+            products: '',
+	    bundleVersion: 'gunther-497'
+        };
+        // login tracking (1)
+        if (document.cookie.replace(/(?:(?:^|.*;\s*)attempting_login\s*\=\s*([^;]*).*$)|^.*$/, "$1") === "true" &&
+            DM.isLoggedIn) {
+              document.cookie = "attempting_login=false; path=/";
+              pagemeta.registrationEntry = 'Successfully Logged In';
+        }
+
+        return pagemeta;
+    }()));
+
+    /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+    DM.pageEvents.fireEvent(DM.pageEvents.PAGE_RENDER_STARTED, DM.getPageMetadata());
+    //--></script>
+    <script type="text/javascript"><!--
+    if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+    //--></script><!--/DO NOT REMOVE/-->
+    <!-- End SiteCatalyst code version: H.20.3. -->
+
+        <script type="text/javascript">
+         
+        var _gaq = _gaq || [];
+          _gaq.push(['_setAccount', 'UA-3639451-1']);
+          _gaq.push(['_trackPageview']);
+    
+          (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+          })();
+        </script>
+    
+    
+    <script type="text/javascript">
+      if (!DM.ted) {
+        DM.ted = {
+          geo: function(location) {
+            DM.ted.g = location;
+          }
+        };
+      }
+      
+      
+          DM.ted.geo('GB');
+        
+      
+      if (!DM.ted.tedEvent) {
+        AND.addScript('http://video.dailymail.co.uk/brightcove/tracking/ted3.js', {
+          success: function() {
+            DM.ted.tedEvent('view');
+          }
+        });
+      } else {
+        DM.ted.tedEvent('view');
+      }
+    </script>
+    <script type="text/javascript">
+    (function() {
+      var currentChannel = 'money' || 'none';
+      var subchannel = 'moneymarkets' || 'none';
+      var currentSubchannel = (subchannel === currentChannel) ? 'none' : subchannel;
+      var pageType = 'article';
+    
+      var adControlDevice = "";
+      if (MobileUtils.isIPhone()) {
+        adControlDevice = "iphone";
+      } else if (MobileUtils.isIPad()) {
+        adControlDevice = "ipad";
+      } else if (MobileUtils.isAndroidTablet() || MobileUtils.isKindleSilk()) {
+        adControlDevice = "androidTablet";
+      } else if (MobileUtils.isAndroidPhone()) {
+        adControlDevice = "androidMobile";
+      } else {
+        adControlDevice = "other";
+      }
+      var url = 'http://mads.dailymail.co.uk/v2' + '/' + PageCriteria.geo.toLowerCase() + '/' + currentChannel + '/' + currentSubchannel + '/' + pageType + '/' + adControlDevice;
+    
+      adverts.setStickyBannerZoomThresholds(
+        1,
+        1
+      );
+      adverts.requestSlotConfig(url);
+    })();
+    </script>     <div id="adx_page_skins" class="adHolder">
+     <script type="text/javascript">
+        adverts.addToArray({pos: 'adx_page_skins'});
+    </script>
+</div>  
+    <div id="lightbox-target" class="lightbox-gallery hidden"></div>
+    <div id="top" class="page_banner_overrides page page-banner articlePage ">
+      
+
+
+
+
+
+<div id="page-container">
+      <div class="clear">&nbsp;</div>
+
+      <div class="page-header bdrgr2">
+  <div class="money">
+    <div class="masthead">
+      <a href="/"><img src="http://i.dailymail.co.uk/i/sitelogos/logo_mol.gif" width="350" height="66" alt="MailOnline - news, sport, celebrity, science and health stories" id="logo" /></a>
+    </div>
+</div>
+<a name="navigation"></a>
+<ul class="nav-primary cleared bdrgr3 cnr5"
+	data-track-module="nav-primary^primary" data-track-pos="static">
+  <li class="home">
+  <span class="link-gr6ox linkro-ccox">
+    <a href="/home/index.html" class="no-border" > Home</a>
+  </span>
+</li>
+  <li class="news">
+  <span class="link-gr6ox linkro-ccox">
+    <a href="/news/index.html"  > News</a>
+  </span>
+</li>
+  <li class="home">
+  <span class="link-gr6ox linkro-ccox">
+    <a href="/ushome/index.html"  > U.S.</a>
+  </span>
+</li>
+  <li class="sport">
+  <span class="link-gr6ox linkro-ccox">
+    <a href="/sport/index.html"  > Sport</a>
+  </span>
+</li>
+  <li class="tvshowbiz">
+  <span class="link-gr6ox linkro-ccox">
+    <a href="/tvshowbiz/index.html"  > TV&amp;Showbiz</a>
+  </span>
+</li>
+  <li class="femail">
+  <span class="link-gr6ox linkro-ccox">
+    <a href="/femail/index.html"  > Femail</a>
+  </span>
+</li>
+  <li class="health">
+  <span class="link-gr6ox linkro-ccox">
+    <a href="/health/index.html"  > Health</a>
+  </span>
+</li>
+  <li class="sciencetech">
+  <span class="link-gr6ox linkro-ccox">
+    <a href="/sciencetech/index.html"  > Science</a>
+  </span>
+</li>
+  <li class="money">
+  <span class="tl">&nbsp;</span>
+  <span class="tr">&nbsp;</span>
+  <span class="link-wocc linkro-wocc">
+    <a href="/money/index.html" >Money</a>
+  </span>
+</li>
+  <li class="video">
+  <span class="link-gr6ox linkro-ccox">
+    <a href="/video/index.html" class="no-border" > Video</a>
+  </span>
+</li>
+  <li class="coffeebreak">
+  <span class="link-gr6ox linkro-ccox">
+    <a href="/coffeebreak/index.html"  > Coffee Break</a>
+  </span>
+</li>
+  <li class="travel">
+  <span class="link-gr6ox linkro-ccox">
+    <a href="/travel/index.html"  > Travel</a>
+  </span>
+</li>
+  <li class="femail">
+  <span class="link-gr6ox linkro-ccox">
+    <a href="/femail/fashionfinder/index.html"  > Fashion Finder</a>
+  </span>
+</li>
+</ul>
+
+<div class="money">
+  <div class="nav-secondary wocc link-lccox cleared bdrgr3"
+    data-track-module="nav-secondary^secondary" data-track-pos="static">
+    <ul class="float-l">
+      <li class="first">
+        <a href="/money/index.html"  >Money Home</a>
+      </li>
+      <li class="">
+        <a href="/money/markets/index.html"  class="current">Markets</a>
+      </li>
+      <li class="">
+        <a href="/money/saving/index.html"  >Saving & banking</a>
+      </li>
+      <li class="">
+        <a href="/money/investing/index.html"  >Investing</a>
+      </li>
+      <li class="">
+        <a href="/money/bills/index.html"  >Bills</a>
+      </li>
+      <li class="">
+        <a href="/money/cars/index.html"  >Cars</a>
+      </li>
+      <li class="">
+        <a href="/money/holidays/index.html"  >Holidays</a>
+      </li>
+      <li class="">
+        <a href="/money/cardsloans/index.html"  >Cards & loans</a>
+      </li>
+      <li class="">
+        <a href="/money/pensions/index.html"  >Pensions</a>
+      </li>
+      <li class="">
+        <a href="/money/mortgageshome/index.html"  >Mortgages & home</a>
+      </li>
+      <li class="">
+        <a href="/money/experts/index.html"  >Experts</a>
+      </li>
+      <li class="">
+        <a href="http://boards.thisismoney.co.uk/" target="_blank" >Forums</a>
+      </li>
+    </ul>
+
+    <script language="JavaScript">
+        <!--
+        if (DM.isLoggedIn) {
+            document.write('<ul class="float-r">      <li class="first">        <a href="/registration/profile.html">My Profile</a>      </li>      <li id="logout" class="first">        <a class="js-logout" href="/registration/logout.html">Logout</a>      </li>    </ul>');
+            } else {
+        document.write('<ul class="float-r">      <li id="login" class="first">        <a class="js-login" href="/registration/login.html?targetUrl= "           data-target="/registration/p/lightbox_login.html?targetUrl= .login-lightbox"           data-modal-type="login-overlay"           data-ajax-refresh-everytime="false"           data-toggle="modal">Login</a>      </li>    </ul>');
+        }
+        // -->
+    </script>
+
+      <noscript>
+          <ul class="float-r">      <li class="first">        <a href="/registration/profile.html">My Profile</a>      </li>      <li id="logout" class="first">        <a class="js-logout" href="/registration/logout.html">Logout</a>      </li>    </ul>
+      </noscript>
+
+      <!-- to remove after releasing gunther -->
+    <script type="text/javascript">
+    DM.has('login', 'login', {
+      url: '/registration/p/lightbox_login.html?targetUrl=' + window.location
+    });
+    DM.has('logout', 'logout', {
+      url: '/registration/logout.html?targetUrl=' + window.location
+    });
+    </script>
+  </div>
+</div>
+
+<script>
+currentChannelTwitterFollow = 'ThisIsMoney';
+NavigationShare.init({facebookAppId: '146202712090395',
+		      facebookChannelUrl: 'http://www.dailymail.co.uk/facebook/channel.html',
+		      channel: '',
+		      hostName: 'http://www.dailymail.co.uk',
+		      articleUrl: ''});
+</script>
+
+<div class="supplements"
+  data-track-module="nav-supplements^supplements" data-track-pos="static">
+  <div class="lkeFlw">
+    <div class="imgs">
+     </div>
+     <div class="links">
+      <a href="http://www.dailymail.co.uk/home/article-1388040/Privacy-Policy-Cookies.html"  target="_blank"  >Cookie Policy</a>
+      <a href="/home/feedback.html"   class="last" >Feedback</a>
+   </div>
+    <div class="btns">
+      <div class="fb-like" data-href="http://www.facebook.com/DailyMail" data-send="false" data-layout="button_count" data-width="150" data-show-faces="false" data-font="arial"></div>
+    </div>
+    <div class="btns">
+      <a style="border-right:none;" href="https://twitter.com/ThisIsMoney" class="twitter-follow-button twitter-follow-header" data-show-count="false" data-show-screen-name="true"></a>
+    </div>
+    <div class="btns pinterest-follow-button">
+      <a data-pin-do="buttonFollow" rel="nofollow" no href="http://www.pinterest.com/dailymail/">DailyMail</a>
+    </div>
+  </div>
+  <div id="fb-root"></div>
+</div>
+
+<div class="weather" data-track-module="nav-weather^weather" data-track-pos="static"></div>
+<script type="text/javascript">
+    var now = moment();
+    $.get( "/weather.html", {
+      old: "true",
+      latitude: PageCriteria.latitude,
+      longitude: PageCriteria.longitude,
+      weatherDate: now.format('YYYYMMDDHH')}, function( data ) {
+     $( ".page-header .weather" ).append( "<strong>" + now.format("dddd, MMM Do YYYY") + "</strong>" + data );
+      });
+</script>
+
+</div> <!-- from masthead -->
+
+
+
+
+      
+      <div id="content">
+      <div class="billboard_wrapper relative">
+        <div class="adHolder billboard" id="billBoard">
+          <script type="text/javascript">
+          adverts.addToArray({pos:'billboard', type: "970x250,900x250", dcopt:true, adProbe: true});
+          </script>
+        </div>
+        <div class="billboard-show js-show hdn">
+          <a href="#" class="homeblue"><b class="arrow-small-d"></b> show ad</a>
+        </div>
+      </div>  
+      <div class="floating-menu" id="floatingMenu">
+  <div class="shareArticles floatingShareArticles">
+    <div id="floatingShare">
+  <ul>
+    <li class="facebook">
+      <a></a>
+    </li>
+    <li class="twitter">
+      <a></a>
+    </li>
+    <li class="pinterest">
+      <a></a>
+    </li>
+    <li class="gplus">
+      <span class="g-interactivepost"
+            data-contenturl="http://www.dailymail.co.uk/money/markets/article-2609101/Sir-Frank-Chapman-13m-shares-options-standing-job-year.html"
+            data-contentdeeplinkid="/pages"
+            data-clientid="746589970956-e10ciaf67a1id9ggu75ph3ds0sthn7j6.apps.googleusercontent.com"
+            data-cookiepolicy="single_host_origin"
+            data-prefilltext="Sir Frank Chapman made more than £13m on shares and options after standing down from his job last year"
+            data-calltoactionlabel="VIEW"
+            data-calltoactionurl="http://www.dailymail.co.uk/money/markets/article-2609101/Sir-Frank-Chapman-13m-shares-options-standing-job-year.html">
+        <a></a>
+      </span>
+    </li>
+    <li class="mail">
+      <a href="http://www.dailymail.co.uk/money/markets/article-2609101/emailArticle.html" title="Email to a friend" target="_new"></a>
+    </li>
+    <li class="share">
+      <p>
+	1
+      </p>
+      <span>shares</span>
+    </li>
+  </ul>
+</div>
+<script type="text/javascript">
+DM.has('socialLinksFloating', 'SCExternalLinks', {
+    value: 'share 2609101'
+});
+</script>
+<script type="text/javascript">
+DM.has('socialLinks', 'comScore', {
+  mo_ev_ty: 'share',
+  mo_ev_pl: 'bottom',
+  del: 'a.js-tl'
+});
+</script>
+
+  </div>
+</div>
+
+<div class="articleWide cleared">
+  <div class="alpha">
+    <div id="js-article-text" class="article-text wide">
+    <h1>Sir Frank Chapman made more than £13m on shares and options after standing down from his job last year</h1>
+<p class="author-section">By
+<a href="/home/search.html?s=&amp;authornamef=Daily+Mail+Repoter" class="author" rel="nofollow">Daily Mail Repoter</a>
+</p>
+<p class="byline-section"><span class="article-timestamp article-timestamp-published">
+  <span class="article-timestamp-label">Published:</span>
+  
+  
+      22:26, 20 April 2014
+    
+  
+</span>
+ | <span class="article-timestamp article-timestamp-updated">
+  <span class="article-timestamp-label">Updated:</span>
+  
+  
+      10:10, 21 April 2014
+    
+  
+</span>
+</p>
+<div id="articleIconLinksContainer">
+  <ul>
+    <li class="share-facebook" onclick="postToFB('top'); return false;"></li>
+    <li class="share-twitter" onclick="postToTWTTR('top'); return false;"></li>
+    <li class="share-pinterest" onclick="postToPinterest('top'); return false;"></li>
+    <li class="share-gplus">
+      <span class="g-interactivepost"
+	    data-contenturl="http://www.dailymail.co.uk/money/markets/article-2609101/Sir-Frank-Chapman-13m-shares-options-standing-job-year.html"
+	    data-contentdeeplinkid="/pages"
+	    data-clientid="746589970956-e10ciaf67a1id9ggu75ph3ds0sthn7j6.apps.googleusercontent.com"
+	    data-cookiepolicy="single_host_origin"
+	    data-prefilltext="Sir Frank Chapman made more than £13m on shares and options after standing down from his job last year"
+	    data-calltoactionlabel="VIEW"
+	    data-calltoactionurl="http://www.dailymail.co.uk/money/markets/article-2609101/Sir-Frank-Chapman-13m-shares-options-standing-job-year.html">
+        <a onclick='postToGPlus("top"); return false;'></a>
+      </span>
+    </li>
+    <li class="share-icons" id="shareLinkTop">
+      <a class="js-sl share-link" href="#socialLinks"> </a>
+      <script type="text/javascript">
+      var twitterVia = 'ThisIsMoney';
+      DM.has('shareLinkTop', 'shareLinks', {
+              'id': '2609101',
+              'title': 'Sir Frank Chapman made more than \u00A313m on shares and options',
+              'url': 'http://www.dailymail.co.uk/money/markets/article-2609101/Sir-Frank-Chapman-13m-shares-options-standing-job-year.html',
+              'eTwitterStatus': ' http://dailym.ai/1rbUIMD via @' + twitterVia,
+              'articleChannelFollowButton': 'ThisIsMoney',
+              'isChannel': false,
+              'placement': 'top',
+              'anchor': 'tl'
+      });
+      </script>
+    </li>
+  </ul>
+  <a class="comments-count home" href="/money/markets/article-2609101/Sir-Frank-Chapman-13m-shares-options-standing-job-year.html#comments"> <span></span>
+    <p class="count-number">5</p>
+    <p class="count-text">View <br> comments</p>
+  </a>
+</div>
+<p class="mol-para-with-font"><font style="font-size:1.2em;">Former BG chief executive Sir Frank Chapman made gains of more than £13million on shares and options after standing down from his job last year, on top of a £22million pension pot.<br></font></p><p class="mol-para-with-font"><font style="font-size:1.2em;">Sir Frank, who is well respected in the City and has been named as a possible chairman for global commodity trader Glencore, made the gains under a series of executive option plans.</font></p><div class="clear"> </div><div class="artSplitter">
+
+  <img id="i-a5890e4e" src="http://i.dailymail.co.uk/i/pix/2014/04/20/article-2609101-008562AE00000258-424_634x419.jpg" height="419" width="634" alt="Investment: Sir Frank Chapman made gains of more than £13million on shares and options" class="blkBorder img-share"/>
+<p class="imageCaption">Investment: Sir Frank Chapman made gains of more than £13million on shares and options</p>
+</div><p> </p><p class="mol-para-with-font"><div class="relatedItemsTopBorder">&nbsp;</div>
+<div class="relatedItems">
+  <h4>More...</h4>
+  <ul>
+    <li><a href="/money/markets/article-2602682/Tony-Hayward-step-closer-chairmanship-Glencore-Xstrata.html"
+           >
+         Former BP boss Tony Hayward takes step closer to chairmanship at commodities giant Glencore Xstrata</a></li>
+    <li><a href="/money/markets/article-2608454/Pressure-grows-Sports-Direct-owner-Mike-Ashley-solve-Chinese-puzzle.html"
+           >
+         Pressure grows on Sports Direct owner Mike Ashley to solve Chinese puzzle</a></li>
+  </ul>
+</div>
+</p><p class="mol-para-with-font"><font style="font-size: 1.2em;">He has no remaining payouts to collect under such schemes from BG, which faces shareholder protests at its annual meeting over rewards for its current bosses.</font></p>
+<div class="clear"> </div>
+    
+    
+    
+    
+    <div class="column-content cleared">
+      <div class="shareArticles">
+        <h3 class="social-links-title">Share or comment on this article</h3>
+        <div class="social-links cleared" id="socialLinks">
+          <ul class="bigLinks sc-icns cleared">
+            <li class="facebook">
+              <a class="js-tl" onclick='postToFB("bottom"); return false;' rel="nofollow"></a>
+            </li>
+            <li class="twitter">
+              <a class="js-tl" onclick="postToTWTTR('bottom'); return false;" rel="nofollow"></a>
+            </li>
+            <li class="pinterest">
+              <a class="js-tl" onclick="postToPinterest('bottom'); return false;" rel="nofollow"></a>
+            </li>
+            <li class="googleplus">
+              <span class="g-interactivepost"
+                    data-contenturl="http://www.dailymail.co.uk/money/markets/article-2609101/Sir-Frank-Chapman-13m-shares-options-standing-job-year.html"
+                    data-contentdeeplinkid="/pages"
+                    data-clientid="746589970956-e10ciaf67a1id9ggu75ph3ds0sthn7j6.apps.googleusercontent.com"
+                    data-cookiepolicy="single_host_origin"
+                    data-prefilltext="Sir Frank Chapman made more than £13m on shares and options after standing down from his job last year"
+                    data-calltoactionlabel="VIEW"
+                    data-calltoactionurl="http://www.dailymail.co.uk/money/markets/article-2609101/Sir-Frank-Chapman-13m-shares-options-standing-job-year.html">
+                <a class="js-tl" onclick="postToGPlus('bottom');" rel="nofollow"></a>
+              </span>
+            </li>
+            <li class="email">
+              <a class="js-tl" href="http://www.dailymail.co.uk/money/markets/article-2609101/emailArticle.html" onclick="emailArticle('bottom');" title="Email to a friend" target="_new" rel="nofollow">
+              </a>
+            </li>
+            <li class="share" id="shareLinkBottom">
+              <a class="js-sl share-link" href="#socialLinks">
+              </a>
+            </li>
+    
+            <li id="addCommentButton" class="add-comment">
+              <a href="#newcomment" rel="nofollow">
+              </a>
+            </li>
+          </ul>
+          <script type="text/javascript">
+          var twitterVia = 'ThisIsMoney';
+          DM.has('shareLinkBottom', 'shareLinks', {
+    	'id': '2609101',
+    	'title': 'Sir Frank Chapman made more than \u00A313m on shares and options',
+    	'url': 'http://www.dailymail.co.uk/money/markets/article-2609101/Sir-Frank-Chapman-13m-shares-options-standing-job-year.html',
+            'eTwitterStatus': ' http://dailym.ai/1rbUIMD via @' + twitterVia,
+            'articleChannelFollowButton': 'ThisIsMoney',
+            'placement': 'bottom',
+            'anchor': 'tl'
+            ,'hideEmailBottom' :true
+          });
+          </script>
+        </div>
+    
+    
+              <script type="text/javascript">
+              DM.has('socialLinks', 'SCExternalLinks', {
+                value: 'share 2609101'
+              });
+          
+              // Google +1 callback used in article_icon_links.jsp
+              window.plusone_vote = function(obj) {
+                DM.pageEvents.fireEvent(DM.pageEvents.SOCIAL_BUTTON_CLICKED, {
+                  pageMetadata: DM.getPageMetadata(),
+                  type: 'plusone-vote',
+                  channel: 'moneymarkets',
+                  link: obj.href
+                });
+          
+                DM.ComScore.connectCallback('plusone-vote', obj);
+              };
+          
+              window.twitterCallback = function(intent_event) {
+               var placement, $button = $(intent_event.target);
+                // if I get a placement it is a follow button
+                if ($button.is('.twitter-follow-author')){
+                  placement = 'author';
+                }
+                else if ($button.is('.twitter-follow-header')){
+                  placement = 'header';
+                }
+          
+                if (placement) {
+                  DM.pageEvents.fireEvent(DM.pageEvents.SOCIAL_SHARE_CLICKED, {
+                    pageMetadata: DM.getPageMetadata(),
+                    site: 'twitter-follow',
+                    placement: placement
+                  });
+                }
+                else {
+                  DM.pageEvents.fireEvent(DM.pageEvents.SOCIAL_BUTTON_CLICKED, {
+                    pageMetadata: DM.getPageMetadata(),
+                    type: 'twitter-click',
+                    channel: 'moneymarkets',
+                    link: intent_event.target.baseURI
+                  });
+                }
+                  DM.ComScore.connectCallback('twitter-click', intent_event);
+          
+              };
+          
+              window.___gcfg = {lang: 'en-GB'};
+              window.articleShortUrl = 'http://dailym.ai/1rbUIMD';
+          
+              (function() {
+                var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                po.src = 'https://apis.google.com/js/plusone.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+              })();
+          
+              (function(d, s, id) {
+                var js, fjs = d.getElementsByTagName(s)[0];
+                if (d.getElementById(id)) return;
+                js = d.createElement(s); js.id = id;
+                js.src = '//connect.facebook.net/en_GB/all.js#xfbml=1&appId=146202712090395&channelUrl=http://www.dailymail.co.uk/facebook/channel.html&status=1&cookie=1&oauth=1';
+                fjs.parentNode.insertBefore(js, fjs);
+              }(document, 'script', 'facebook-jssdk'));
+          
+              if (!window.fbAsyncInit) {
+                window.fbAsyncInit = function() {
+                  FB.Event.subscribe('edge.create', function(response) {
+                    DM.ComScore.connectCallback('facebook-like', response);
+                    DM.pageEvents.fireEvent(DM.pageEvents.SOCIAL_BUTTON_CLICKED, {
+                      pageMetadata: DM.getPageMetadata(),
+                      type: 'facebook-like',
+                      channel: 'moneymarkets',
+                      link: 'http://www.dailymail.co.uk/money/markets/article-2609101/Sir-Frank-Chapman-13m-shares-options-standing-job-year.html'
+                    });
+                  });
+                }
+              }
+          
+              if (!window.twttr) {
+                window.twttr = (function (d,s,id) {
+                  var t, js, fjs = d.getElementsByTagName(s)[0];
+                  if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+                  js.src='//platform.twitter.com/widgets.js'; fjs.parentNode.insertBefore(js, fjs);
+                  return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+                }(document, 'script', 'twitter-wjs'));
+              }
+          
+              if (window.twttr) {
+                window.twttr.ready(function (twttr) {
+                  twttr.events.bind('click', twitterCallback);
+                });
+              }
+              </script>
+    
+      </div>
+    </div>
+    
+    <div id='taboola-below-main-column'></div>
+    <script>
+      var taboola_country = 'uk';
+      _taboola.push({mode: 'autosized-generated-text-under-1r-' + taboola_country, container: 'taboola-below-main-column', placement: 'wide'});
+      _taboola.push({flush:true});
+    </script>
+    
+    
+    <div class="column-content cleared">
+      <div id="wideCommentAdvert" class="googleAds">
+            <script type="text/javascript" src="http://scripts.dailymail.co.uk/static/gunther/gunther-497/googleads--.js"></script>
+    <script type="text/javascript">
+      var goog_ad = {};
+    </script>
+
+    
+    
+        <script>
+          var google_ad_client = 'ca-an-dailymail';
+          goog_ad.prefix = 'uk';
+        </script>
+      
+    
+
+    <script type="text/javascript">
+      goog_ad.channel = 'money_moneymarkets';
+      google_ad_channel = '' + goog_ad.prefix + '_' + goog_ad.channel;
+    </script>
+
+    <script type="text/javascript">
+      google_ad_output = 'js';
+      google_ad_type = 'text';
+      google_ad_type_location = 'comments'
+      google_language = 'en';
+      google_encoding = 'utf8';
+      google_safe = 'high';
+      google_ad_section = 's1 s2';
+      google_feedback = 'on';
+      google_max_num_ads = 4;
+      google_skip = 0;
+    </script>
+
+     <script type="text/javascript">
+       adverts.requestGoogleAd(false, 'comments');
+     </script>
+      </div>
+    </div>
+    <div id="most-read-news-wrapper" class="item"
+     data-track-module="am-most_read_news^most_read_news" data-track-selector=".rotator-panels a" data-track-pos="static">
+  <div id="most-read-news" class="rotator money">
+    <div class="rotator-title wogr6">
+      <h2>MOST READ MONEY</h2>
+      <ul class="rotator-pages">
+        <li class="rotator-prev"><a href="#" data-page="prev">Previous</a></li>
+        <li class="linkro-wocc"><a href="#" data-page="1">1</a></li>
+        <li class="linkro-wocc"><a href="#" data-page="2">2</a></li>
+        <li class="linkro-wocc"><a href="#" data-page="3">3</a></li>
+        <li class="rotator-next"><a href="#" data-page="next">Next</a></li>
+      </ul>
+    </div>    <ul class="rotator-panels">
+      <li class="link-bogr2 link-ccogr2 linkro-wocc">
+        <a href="/money/mortgageshome/article-2610774/As-banks-crackdown-reckless-lending-three-hour-interviews-quizzed-sex-life-apply-mortgage.html">
+          <img src="http://i.dailymail.co.uk/i/pix/2014/04/23/article-2610774-1D4444EF00000578-1_154x115.jpg" alt="How did this happen then? In some cases, bank advisers have asked specific questions like have you been trying for children? Are you expecting?" />
+          <span>Will you be quizzed about your sex life when you apply for a...</span>
+        </a>
+      </li>
+      <li class="link-bogr2 link-ccogr2 linkro-wocc">
+        <a href="/money/investing/article-2607028/What-really-happens-win-Premium-Bonds-We-speak-millionaire-advisers.html">
+          <img src="http://i.dailymail.co.uk/i/pix/2014/04/23/article-2607028-1D2A2AC500000578-748_154x115.jpg" alt="Agent Million: If you hold Premium Bonds, one day she might knock on YOUR door" />
+          <span>What really happens when you hit the Premium Bonds jackpot?...</span>
+        </a>
+      </li>
+      <li class="link-bogr2 link-ccogr2 linkro-wocc">
+        <a href="/money/mortgageshome/article-2611139/Ipswich-Building-Society-boss-says-government-needs-tackle-housing-supply.html">
+          <img src="http://i.dailymail.co.uk/i/pix/2014/04/23/article-2611139-1D49AA5D00000578-104_154x115.jpg" alt="Double lockout: Paul Winter says that the focus should be on increasing housing supply, not locking out those with small incomes from obtaining a mortgage" />
+          <span>'I worry people on average incomes will now struggle to get...</span>
+        </a>
+      </li>
+      <li class="link-bogr2 link-ccogr2 linkro-wocc">
+        <a href="/money/news/article-2610632/The-Heartbleed-bug-poses-biggest-threat-bank-security-allowing-hackers-snatch-credit-card-details-internet.html">
+          <img src="http://i.dailymail.co.uk/i/pix/2014/04/22/article-2610632-002BDFD400000578-608_154x115.jpg" alt="Change your passwords: Internet bank customers are being warned to change their passwords to reduce the risk of falling victim to the online bug" />
+          <span>Heartbleed bug poses the biggest threat to your bank...</span>
+        </a>
+      </li>
+      <li class="link-bogr2 link-ccogr2 linkro-wocc">
+        <a href="/money/experts/article-2610328/Im-miss-new-higher-state-pension-I-able-I-defer-retirement-year.html">
+          <img src="http://i.dailymail.co.uk/i/pix/2014/04/22/article-0-0B9E399A000005DC-236_154x115.jpg" alt="No rush: Delaying taking your state pension can have benefits - but you will have to wait." />
+          <span>I'm due to miss the new higher state pension - but will I be...</span>
+        </a>
+      </li>
+      <li class="link-bogr2 link-ccogr2 linkro-wocc">
+        <a href="/money/experts/article-2610854/ASK-TONY-My-bag-went-smoke-I-claim-insurance.html">
+          <img src="http://i.dailymail.co.uk/i/pix/2014/04/23/article-2610854-1D44641600000578-910_154x115.jpg" alt="Emergency:  I saw smoke billowing out of the front so immediately got off, leaving behind my bag containing a change of clothes" />
+          <span>ASK TONY: My bag went up in smoke after a coach in which I...</span>
+        </a>
+      </li>
+      <li class="link-bogr2 link-ccogr2 linkro-wocc">
+        <a href="/money/saving/article-2610802/Banks-cut-rates-cash-Isa-deals-just-weeks-new-tax-year.html">
+          <img src="http://i.dailymail.co.uk/i/pix/2014/04/23/article-2610802-03AB2D19000005DC-19_154x115.jpg" alt="Rates slashed: Banks have begun to chop Isa deals" />
+          <span>Fresh blow for savers: Banks cut rates on top cash Isa deals...</span>
+        </a>
+      </li>
+      <li class="link-bogr2 link-ccogr2 linkro-wocc">
+        <a href="/money/bills/article-2610842/Energy-giants-pocketed-75m-green-tax-cuts.html">
+          <img src="http://i.dailymail.co.uk/i/pix/2014/04/23/article-0-1BCB77E900000578-168_154x115.jpg" alt="British Gas, EDF Energy, Eon, Npower, Scottish and Southern Energy and Scottish Power &iquest; will save money this year after the Government slashed network charges" />
+          <span>Energy giants pocket &pound;75m of green tax cuts which would have...</span>
+        </a>
+      </li>
+      <li class="link-bogr2 link-ccogr2 linkro-wocc">
+        <a href="/money/article-2610701/MARKET-REPORT-Outsourcing-group-Quindell-goes-war-Gotham-City-activist-group-posted-disparaging-report-online.html">
+          <img src="http://i.dailymail.co.uk/i/pix/2014/04/22/article-2610701-1D07666800000578-441_154x115.jpg" alt="Activists: Gotham City Research posted the report online about the valuation of the company" />
+          <span>MARKET REPORT: Quindell slams Gotham City Research after...</span>
+        </a>
+      </li>
+      <li class="link-bogr2 link-ccogr2 linkro-wocc">
+        <a href="/money/news/article-2610219/Tesco-cuts-prices-basics-win-customers-lost-Aldi-Lidl.html">
+          <img src="http://i.dailymail.co.uk/i/pix/2014/04/22/article-2610219-1B3ED37C000005DC-797_154x115.jpg" alt="Falling prices: Tesco said the cost of everyday items would fall - including butter, eggs and bread" />
+          <span>Tesco fights back: Prices cut on basics to win over...</span>
+        </a>
+      </li>
+      <li class="link-bogr2 link-ccogr2 linkro-wocc">
+        <a href="/money/mortgageshome/article-2610831/JAMES-CONEY-The-new-stringent-mortgage-rules-prove-hard-test-pass.html">
+          <img src="http://i.dailymail.co.uk/i/pix/2014/04/23/article-2610831-023A456D0000044D-11_154x115.jpg" alt="Test: Officially starting on Saturday, many banks and building societies will implement time-consuming detailed probes" />
+          <span>JAMES CONEY: The new stringent mortgage rules could prove to...</span>
+        </a>
+      </li>
+      <li class="link-bogr2 link-ccogr2 linkro-wocc">
+        <a href="/money/mortgageshome/article-2611079/Homeowners-expect-property-prices-rise-9-September.html">
+          <img src="http://i.dailymail.co.uk/i/pix/2014/04/23/article-0-1D48F0A500000578-203_154x115.jpg" alt="Bullish: Homeowners across the UK expect property prices to rise by at least 7% in their region" />
+          <span>Bullish homeowners rush to invest in house improvements as...</span>
+        </a>
+      </li>
+    </ul>
+  </div>
+</div>
+<script type="text/javascript">
+DM.has('most-read-news', 'Rotator', {
+  pageSize: 4,
+  pageCount: 3.0
+});
+</script>
+    
+    
+    
+    
+    
+    
+    
+
+
+
+
+
+
+
+
+
+    <script type="text/javascript">
+        DM.has("reader-comments", "ReaderComments", {
+            gplusClientId: '746589970956-e10ciaf67a1id9ggu75ph3ds0sthn7j6.apps.googleusercontent.com',
+            total: 5,
+            offset: 0,
+            allowNewComments:  true ,
+            moderated:  false 
+        });
+    </script>
+
+    <div id="reader-comments" class="article-reader-comments article-id-2609101">
+        <a name="comments"></a>
+            <div class="rc-content">
+                
+                    <div class="rc-header link-ccow">
+                         
+                            <a id='addYourCommentButton' href="#newcomment" rel="nofollow">
+                                <img src="http://f.dailymail.co.uk/i/furniture/comments/articles/btn_add-your-comment.png">
+                            </a>
+                        
+                        <div class="title-cont">
+                            <img src="http://f.dailymail.co.uk/i/furniture/comments/articles/icon_comments_74.png">
+                            <div>
+                                <h3>Comments (<span class="readerCommentsCount">5</span>)</h3>
+                                <p>Share what you think</p>
+                            </div>
+                        </div>
+                        
+                    </div>
+                
+                
+                    <ul id="rc-tabs" class="js-links dm-tabs cnr5 cleared">
+                        <li class="dm-tab dm-tab-on bdrgr5 cnr-bdr wogr5 link-wox js-active">
+                            <span class="xogr5 tl"></span>
+                            <span class="xogr5 tr"></span>
+                            <a href="#">Newest</a>
+                        </li>
+                        <li class="dm-tab bdrgr5 ow-igr2-bx cnr-bdr xogr2 link-gr5ox">
+                            <span class="xogr5 tl"></span>
+                            <span class="xogr5 tr"></span>
+                            <a href="#">Oldest</a>
+                        </li>
+                        <li class="dm-tab bdrgr5 ow-igr2-bx cnr-bdr xogr2 link-gr5ox">
+                            <span class="xogr5 tl"></span>
+                            <span class="xogr5 tr"></span>
+                            <a href="#">Best rated</a>
+                        </li>
+                        <li class="dm-tab bdrgr5 ow-igr2-bx cnr-bdr xogr2 link-gr5ox last">
+                            <span class="xogr5 tl"></span>
+                            <span class="xogr5 tr"></span>
+                            <a href="#">Worst rated</a>
+                        </li>
+                    </ul>
+
+                    <script type="text/javascript">
+                        Ext.each(Ext.get('rc-tabs').select('li.dm-tab').elements, function(el){
+                            Ext.get(el).on('click', function(e){ window.RCdefferedTab = e; e.preventDefault(); });
+                        });
+                    </script>
+
+                    <div class="view-more-container xogr5 cleared">
+                        
+                            
+                        
+                        <a id="js-view-all-link" class="btn-grey bdrgr4 gr5ox float-r hidden" rel="nofollow"><span class="comment-link-icon">&nbsp;</span><span class="comment-link-text">View all</span></a>
+                    </div>
+
+                    <div class="pagination-container cleared"></div>
+
+                    <div class="rc-title">
+                        
+                        
+                            
+                                <p>The comments below have not been moderated.</p>
+                            
+                        
+                    </div>
+
+                    <div id="js-comments" class="comments-list">
+                                                    
+                            <div id="comment-52915770" class="comment comment-post bogr1 cleared">
+    
+        
+    
+    <div class="avatar">
+        <a href="/registration/6175225/andy-c/profile.html" class="rc-avatar-link">
+            
+                <img
+                    src="http://i.dailymail.co.uk/i/user/6175225_p.jpg?cb=20140424"  
+                    style="width: 55px; clip: rect(0px 55px 55px 0px);" 
+                    onerror="this.style.display='none';">
+            
+        </a>
+    </div>
+    <a class="reportAbuseLink" href="/home/reportAbuseInComment.html?articleId=2609101&amp;commentId=52915770" rel="nofollow">
+        <div title="Report abuse" class="reportAbuseIcon"></div>
+    </a>
+    <div class="container">
+        <p class="user-info">
+            
+                <a href="/registration/6175225/andy-c/profile.html" class="js-usr">andy c,</a>
+            
+            
+                northampton,
+            
+            1 day ago
+            
+        </p>
+        <p class="comment-body comment-text">Vile </p>
+        <div class="rating " rel="52915770">
+            <div class="reply-buttons">
+        
+            
+                    
+                        <button type="submit" class="btn anchor-reply-comment js-reply" rel="reply-form-52915770">Reply</button>
+                        <button type="submit" class="btn anchor-comment js-newcomment newcomment-wide">New Comment</button>
+                        <button type="submit" class="btn anchor-comment js-newcomment newcomment-small">New</button>
+                    
+                
+        
+            </div>
+            <div class="shareComment">
+                <a class="fShareComment"></a><a class="tShareComment"></a><span 
+                class="pShareComment"></span><span 
+                class="gShareComment"></span><span
+                class="copyCommentLink"></span><span 
+                class="shareExpansionAnchor"></span>
+            </div>
+            <a class="js-rate js-rate-down" href="#">
+                <div class="rating-button grey-rating-button rating-button-down">
+                    <div class="rate-down"></div>
+                    <div class="rating-button-inline">0</div>
+                </div>
+            </a>
+            <a class="js-rate js-rate-up" href="#">
+                <div class="rating-button grey-rating-button rating-button-up">
+                    <div class="rate-up"></div>
+                    <div class="rating-button-inline">0</div>
+                </div>
+            </a>
+            <span style="float:right;" class="gr5ox">Click to rate</span>
+        </div>
+        
+            <div class="comment-replies">
+                
+            </div>
+        
+    </div>
+</div> 
+                                                    
+                            <div id="comment-52893446" class="comment comment-post bogr1 cleared">
+    
+        
+    
+    <div class="avatar">
+        <a href="/registration/4577916/steve/profile.html" class="rc-avatar-link">
+            
+                <img
+                    src="http://i.dailymail.co.uk/i/user/4577916_p.jpg?cb=20140424"  
+                    style="width: 55px; clip: rect(0px 55px 55px 0px);" 
+                    onerror="this.style.display='none';">
+            
+        </a>
+    </div>
+    <a class="reportAbuseLink" href="/home/reportAbuseInComment.html?articleId=2609101&amp;commentId=52893446" rel="nofollow">
+        <div title="Report abuse" class="reportAbuseIcon"></div>
+    </a>
+    <div class="container">
+        <p class="user-info">
+            
+                <a href="/registration/4577916/steve/profile.html" class="js-usr">steve,</a>
+            
+            
+                stockport cheshire,
+            
+            2 days ago
+            
+        </p>
+        <p class="comment-body comment-text">£35 M in pension and shares!!!!! He must have worked hard to get that.
+I mean he must have worked hard to get such a Monopoly money deal.
+What makes it stomach churning is this Hog thinks he deserves it.
+Make sure you don't use BG or its products it is the  only way you can protest.</p>
+        <div class="rating positive" rel="52893446">
+            <div class="reply-buttons">
+        
+            
+                    
+                        <button type="submit" class="btn anchor-reply-comment js-reply" rel="reply-form-52893446">Reply</button>
+                        <button type="submit" class="btn anchor-comment js-newcomment newcomment-wide">New Comment</button>
+                        <button type="submit" class="btn anchor-comment js-newcomment newcomment-small">New</button>
+                    
+                
+        
+            </div>
+            <div class="shareComment">
+                <a class="fShareComment"></a><a class="tShareComment"></a><span 
+                class="pShareComment"></span><span 
+                class="gShareComment"></span><span
+                class="copyCommentLink"></span><span 
+                class="shareExpansionAnchor"></span>
+            </div>
+            <a class="js-rate js-rate-down" href="#">
+                <div class="rating-button grey-rating-button rating-button-down">
+                    <div class="rate-down"></div>
+                    <div class="rating-button-inline">0</div>
+                </div>
+            </a>
+            <a class="js-rate js-rate-up" href="#">
+                <div class="rating-button grey-rating-button rating-button-up">
+                    <div class="rate-up"></div>
+                    <div class="rating-button-inline">1</div>
+                </div>
+            </a>
+            <span style="float:right;" class="gr5ox">Click to rate</span>
+        </div>
+        
+            <div class="comment-replies">
+                
+            </div>
+        
+    </div>
+</div> 
+                                                    
+                            <div id="comment-52861811" class="comment comment-post bogr1 cleared">
+    
+        
+    
+    <div class="avatar">
+        <a href="/registration/4280586/agentbiscuit/profile.html" class="rc-avatar-link">
+            
+                <img
+                    src="http://i.dailymail.co.uk/i/user/4280586_p.jpg?cb=20140424"  
+                    style="width: 55px; clip: rect(0px 55px 55px 0px);" 
+                    onerror="this.style.display='none';">
+            
+        </a>
+    </div>
+    <a class="reportAbuseLink" href="/home/reportAbuseInComment.html?articleId=2609101&amp;commentId=52861811" rel="nofollow">
+        <div title="Report abuse" class="reportAbuseIcon"></div>
+    </a>
+    <div class="container">
+        <p class="user-info">
+            
+                <a href="/registration/4280586/agentbiscuit/profile.html" class="js-usr">agentbiscuit,</a>
+            
+            
+                Gotham, United Kingdom,
+            
+            2 days ago
+            
+        </p>
+        <p class="comment-body comment-text">As a business owner what I find difficult is that most of these senior CEO staff have never owned the business  but justify their existence by experience alone and possible previous achievements but then to command such large salaries is beyond me and how investors and share holders allow this is crazy... Yes an owner whom risks all to build a business deserves the rewards. But a risk free CEO whom may then. Purchase a few thousand shares as a show is undeserving of multimillion pay packet ....the same can be said for public sector managers whom are paid to fail  and retire or move jobs ....</p>
+        <div class="rating positive" rel="52861811">
+            <div class="reply-buttons">
+        
+            
+                    
+                        <button type="submit" class="btn anchor-reply-comment js-reply" rel="reply-form-52861811">Reply</button>
+                        <button type="submit" class="btn anchor-comment js-newcomment newcomment-wide">New Comment</button>
+                        <button type="submit" class="btn anchor-comment js-newcomment newcomment-small">New</button>
+                    
+                
+        
+            </div>
+            <div class="shareComment">
+                <a class="fShareComment"></a><a class="tShareComment"></a><span 
+                class="pShareComment"></span><span 
+                class="gShareComment"></span><span
+                class="copyCommentLink"></span><span 
+                class="shareExpansionAnchor"></span>
+            </div>
+            <a class="js-rate js-rate-down" href="#">
+                <div class="rating-button grey-rating-button rating-button-down">
+                    <div class="rate-down"></div>
+                    <div class="rating-button-inline">0</div>
+                </div>
+            </a>
+            <a class="js-rate js-rate-up" href="#">
+                <div class="rating-button grey-rating-button rating-button-up">
+                    <div class="rate-up"></div>
+                    <div class="rating-button-inline">3</div>
+                </div>
+            </a>
+            <span style="float:right;" class="gr5ox">Click to rate</span>
+        </div>
+        
+            <div class="comment-replies">
+                
+            </div>
+        
+    </div>
+</div> 
+                                                    
+                            <div id="comment-52841161" class="comment comment-post bogr1 cleared">
+    
+        
+    
+    <div class="avatar">
+        <a href="/registration/6259714/Greg-Malaysia/profile.html" class="rc-avatar-link">
+            
+                <img
+                    src="http://i.dailymail.co.uk/i/user/6259714_p.jpg?cb=20140424"  
+                    style="width: 55px; clip: rect(0px 55px 55px 0px);" 
+                    onerror="this.style.display='none';">
+            
+        </a>
+    </div>
+    <a class="reportAbuseLink" href="/home/reportAbuseInComment.html?articleId=2609101&amp;commentId=52841161" rel="nofollow">
+        <div title="Report abuse" class="reportAbuseIcon"></div>
+    </a>
+    <div class="container">
+        <p class="user-info">
+            
+                <a href="/registration/6259714/Greg-Malaysia/profile.html" class="js-usr">Greg Malaysia,</a>
+            
+            
+                Kedah,
+            
+            2 days ago
+            
+        </p>
+        <p class="comment-body comment-text">Slightly incomplete and misleading information like how much did he invest to risk to make 13 million ?  Is this 13 million on  his own portfolio or for a  pot of investors.   Makes a big difference.</p>
+        <div class="rating negative" rel="52841161">
+            <div class="reply-buttons">
+        
+            
+                    
+                        <button type="submit" class="btn anchor-reply-comment js-reply" rel="reply-form-52841161">Reply</button>
+                        <button type="submit" class="btn anchor-comment js-newcomment newcomment-wide">New Comment</button>
+                        <button type="submit" class="btn anchor-comment js-newcomment newcomment-small">New</button>
+                    
+                
+        
+            </div>
+            <div class="shareComment">
+                <a class="fShareComment"></a><a class="tShareComment"></a><span 
+                class="pShareComment"></span><span 
+                class="gShareComment"></span><span
+                class="copyCommentLink"></span><span 
+                class="shareExpansionAnchor"></span>
+            </div>
+            <a class="js-rate js-rate-down" href="#">
+                <div class="rating-button grey-rating-button rating-button-down">
+                    <div class="rate-down"></div>
+                    <div class="rating-button-inline">5</div>
+                </div>
+            </a>
+            <a class="js-rate js-rate-up" href="#">
+                <div class="rating-button grey-rating-button rating-button-up">
+                    <div class="rate-up"></div>
+                    <div class="rating-button-inline">2</div>
+                </div>
+            </a>
+            <span style="float:right;" class="gr5ox">Click to rate</span>
+        </div>
+        
+            <div class="comment-replies">
+                
+            </div>
+        
+    </div>
+</div> 
+                                                    
+                            <div id="comment-52838460" class="comment comment-post bogr1 cleared">
+    
+        
+    
+    <div class="avatar">
+        <a href="/registration/4406260/keithg/profile.html" class="rc-avatar-link">
+            
+                <img
+                    src="http://i.dailymail.co.uk/i/user/4406260_p.jpg?cb=20140424"  
+                    style="width: 55px; clip: rect(0px 55px 55px 0px);" 
+                    onerror="this.style.display='none';">
+            
+        </a>
+    </div>
+    <a class="reportAbuseLink" href="/home/reportAbuseInComment.html?articleId=2609101&amp;commentId=52838460" rel="nofollow">
+        <div title="Report abuse" class="reportAbuseIcon"></div>
+    </a>
+    <div class="container">
+        <p class="user-info">
+            
+                <a href="/registration/4406260/keithg/profile.html" class="js-usr">keithg,</a>
+            
+            
+                witham UK,
+            
+            2 days ago
+            
+        </p>
+        <p class="comment-body comment-text">So corporate greed is not restricted to the banks. Remuneration committees really have just been pushing corporate greed. Average CEO now gets 170 times the average employee wage. 30 years ago it was 40 times - why???</p>
+        <div class="rating positive" rel="52838460">
+            <div class="reply-buttons">
+        
+            
+                    
+                        <button type="submit" class="btn anchor-reply-comment js-reply" rel="reply-form-52838460">Reply</button>
+                        <button type="submit" class="btn anchor-comment js-newcomment newcomment-wide">New Comment</button>
+                        <button type="submit" class="btn anchor-comment js-newcomment newcomment-small">New</button>
+                    
+                
+        
+            </div>
+            <div class="shareComment">
+                <a class="fShareComment"></a><a class="tShareComment"></a><span 
+                class="pShareComment"></span><span 
+                class="gShareComment"></span><span
+                class="copyCommentLink"></span><span 
+                class="shareExpansionAnchor"></span>
+            </div>
+            <a class="js-rate js-rate-down" href="#">
+                <div class="rating-button grey-rating-button rating-button-down">
+                    <div class="rate-down"></div>
+                    <div class="rating-button-inline">2</div>
+                </div>
+            </a>
+            <a class="js-rate js-rate-up" href="#">
+                <div class="rating-button grey-rating-button rating-button-up">
+                    <div class="rate-up"></div>
+                    <div class="rating-button-inline">6</div>
+                </div>
+            </a>
+            <span style="float:right;" class="gr5ox">Click to rate</span>
+        </div>
+        
+            <div class="comment-replies">
+                
+            </div>
+        
+    </div>
+</div> 
+                        
+                    </div>
+                    <div class="pagination-container cleared"></div>
+                    <p class="bold pad5 wogr5">
+                        The views expressed in the contents above are those of our users and do not necessarily reflect the views of MailOnline.
+                    </p>
+                
+            </div>
+
+            <a href="#comments"></a>
+
+
+            
+            
+                    <a id="newcomment" name="newcomment"></a>
+                    <div class="rc-header link-ccow">
+                        
+                        
+
+                            
+                                
+                            
+
+                        <h3>Add your comment</h3>
+                    </div>
+                    
+                    <div id="readerCommentsCommand" class="post-comment-form">
+                        <div class="bogr1 comment-form">
+                            <input name="ieutf" type="hidden" value="&#9760;" />
+                            
+                            <input type="hidden" id="formAssetId" value="2609101" />
+                            <a name="addComment"></a>
+
+                            <div id="readerCommentsCommand-message-field" class="textarea-holder field cleared">
+                                <span class="errors"></span>
+                                <textarea id="message" name="message" class="maxlength js-validate js-countdown js-defaultvalue js-expand textarea-input" rows="5" cols="40" title="Enter your comment">Enter your comment</textarea>
+                            </div>
+                            
+                            
+                            <div class="field house-rules"><p>By posting your comment you agree to our <a href="/home/house_rules.html" title="House Rules" rel="nofollow" target="_blank">house rules</a>.</p></div>
+                            
+                            <div class="buttons-holder">
+                                <button type="submit" class="btn btn-submit"></span>Submit Comment</button>
+                                <button type="reset" class="btn btn-clear"></span>Clear</button>
+                            </div>
+                        </div>
+                    </div>
+                
+            
+            
+                <div class="topcommenter">
+                    <img class="arrows" src="http://f.dailymail.co.uk/i/furniture/comments/articles/topcommenter.png" />
+                    <span class="text">Who is this week's top commenter?</span>
+                    <a class="btn link" href="/stats">Find out now</a>
+                </div>
+            
+
+        <div id="copyLinkLightboxArrow"></div>
+        <div id='copyLinkLightbox'></div>
+
+
+    </div>
+
+
+    
+    </div>
+    
+  </div>
+  
+  <div class="beta">
+      <div class="item tim/tim_search_single_wrapper">
+  <div class="tim-search bogr1">
+  <a name="search"></a>
+  <form id="p-2-search" action="/money/search.html" method="get">
+      <fieldset>
+          <label for="p-2-phrase" class="usability">Enter search term:</label>
+          <input id="p-2-phrase" class="textinp" name="searchPhrase" type="text" alt="Enter a search term" value="" />
+          <input name="channelshortname" type="hidden" value="money" />
+          <span class="tim-btn">
+              <button type="submit"><span></span>Search</button>
+          </span>
+          <div class="gr5ox">
+              <input id="p-2-article" name="searchWhere" value="article" type="radio" checked="checked" class="ie-radio" />
+              <label for="p-2-article">All Articles</label>
+              <input id="p-2-company" name="searchWhere" value="company" type="radio" class="ie-radio" />
+              <label for="p-2-company">Share prices</label>
+          </div>
+      </fieldset>
+  </form>
+    <span class="tl"></span>
+    <span class="tr"></span>
+    <span class="bl"></span>
+    <span class="br"></span>
+</div>
+
+<script type="text/javascript">
+  DM.has('p-2-search', "timSearch", {'link' : 'http://investing.thisismoney.co.uk/search/?q='});
+</script>
+
+</div>
+
+      <div class="money item">
+  <div class="tim-tools-list bogr2">
+  <ul class="inblocks link-homeblue linkro-darkred">
+    <li>
+      <a href="http://www.thisismoney.co.uk/portfolio" target="_blank">
+        <span class="arrow-small-r"></span>Power Portfolio
+      </a>
+    </li>
+    <li>
+      <a href="http://www.thisismoney.co.uk/newslettersignup" target="_blank">
+        <span class="arrow-small-r"></span>Newsletters
+      </a>
+    </li>
+    <li>
+      <a href="http://www.thisismoney.co.uk/money/guides/index.html" target="_blank">
+        <span class="arrow-small-r"></span>Guides
+      </a>
+    </li>
+    <li>
+      <a href="http://www.thisismoney.co.uk/bestsavingsrates" target="_blank">
+        <span class="arrow-small-r"></span>Savings rates
+      </a>
+    </li>
+    <li>
+      <a href="http://www.thisismoney.co.uk/money/article-2077060/Compare-market--reader-offers-best-deals-money.html" target="_blank">
+        <span class="arrow-small-r"></span>Money savers
+      </a>
+    </li>
+    <li>
+      <a href="http://www.thisismoney.co.uk/calculators" target="_blank">
+        <span class="arrow-small-r"></span>Calculators
+      </a>
+    </li>
+  </ul>
+</div>
+
+</div>
+
+      <div class="money item">
+  <div class="cmicons cleared bogr3 link-box linkro-darkred cnr5">
+    <h3>QUICK WAYS TO SAVE MONEY</h3>
+    <div class="bow"><div>
+    <ul class="cleared">
+            <li class="frow">
+                <a href="http://mailonlinecreative.co.uk/tim/0_balance.html?ito=TIM_savemodule_cards" target="_blank">
+                  <strong>Credit cards</strong>
+                  <img src="http://i.dailymail.co.uk/i/pix/2013/06/27/linkListItem-null-1A7F663E000005DC-843_107x58.jpg" alt="credit cards" width="107" height="58" /><br />
+                  <span></span>
+                </a>
+            </li>
+            <li class="frow">
+                <a href="http://mailonlinecreative.co.uk/tim/insurance/index.html?ito=TIM_savemodule_insurance">
+                  <strong>Cheaper insurance</strong>
+                  <img src="http://i.dailymail.co.uk/i/pix/2013/09_01/insurance1_107x58.jpg" alt="Insurance" width="107" height="58" /><br />
+                  <span></span>
+                </a>
+            </li>
+            <li>
+                <a href="http://mailonlinecreative.co.uk/tim/cash_isas.html?ito=TIM_savemodule_savings">
+                  <strong>Savings accounts</strong>
+                  <img src="http://i.dailymail.co.uk/i/pix/2013/06/27/linkListItem-null-05F591EC0000044D-139_107x58.jpg" alt="savings pig" width="107" height="58" /><br />
+                  <span></span>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.lcplc.co.uk/ThirdParties/ThisIsMoney/mortgages2/home/?source=savemodule">
+                  <strong>Best mortgages</strong>
+                  <img src="http://i.dailymail.co.uk/i/pix/2013/09_01/mortgage_107x58.jpg" alt="houses" width="107" height="58" /><br />
+                  <span></span>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.energyhelpline.com/ThisIsMoney_module">
+                  <strong>Cut your energy bills</strong>
+                  <img src="http://i.dailymail.co.uk/i/pix/2013/09_01/energy_107x58.jpg" alt="Plug hole" width="107" height="58" /><br />
+                  <span></span>
+                </a>
+            </li>
+            <li>
+                <a href="http://mailonlinecreative.co.uk/tim/rewards.html?ito=TIM_savemodule_current">
+                  <strong>Current accounts</strong>
+                  <img src="http://i.dailymail.co.uk/i/pix/2013/06/27/linkListItem-null-1A7F73D6000005DC-61_107x58.jpg" alt="coins" width="107" height="58" /><br />
+                  <span></span>
+                </a>
+            </li>
+            <li>
+                <a href="/money/cardsloans/article-2262700/Our-loans-picks-This-Is-Moneys-best-personal-loans.html">
+                  <strong>Cheapest loans</strong>
+                  <img src="http://i.dailymail.co.uk/i/pix/2013/06/27/linkListItem-null-1A7F6643000005DC-825_107x58.jpg" alt="loans" width="107" height="58" /><br />
+                  <span></span>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.thisismoney.co.uk/money/investing/article-1608159/Share-dealing-service-Buy--sell-UK-stock-market-shares-online--cheap-flat-fee-certificate-trades.html?ito=TIM_savemodule_sharedealing">
+                  <strong>&pound;12.50 share dealing</strong>
+                  <img src="http://i.dailymail.co.uk/i/pix/2013/09_01/shares_107x58.jpg" alt="share prices" width="107" height="58" /><br />
+                  <span></span>
+                </a>
+            </li>
+     </ul>
+    </div></div>
+    <span class="tl"></span>
+    <span class="tr"></span>
+</div>
+</div>
+
+      <div class="money item button_style_module">
+    <div class="button-style">
+    <a href="http://www.thisismoney.co.uk/money/article-2423403/This-Money-brilliant-iPhone-app-FREE.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/01_04/140127_TIM_ad_v8_308x170.jpg" target="_blank" alt="TiM iPhone puff" title="" width="308" height="170" />
+    </a>
+  </div>
+</div>
+
+      <div class="item mpu_300x600_wrapper">
+  <div class="mpu-300x600 adHolder molads_mpu_top" id="p-6">
+  <script type="text/javascript">
+    adverts.addToArray({type:'300x250,300x600', pos:'mpu_top_300x600', adProbe:true});
+  </script>
+</div>
+</div>
+
+      <div class="money item">
+  <div class="inthsec-hot ccogr2">
+  <h3>DEALS AND OFFERS</h3>
+  <div class="xow">
+    <ul class="gr5ox link-gr5ox">
+      <li class="cleared">
+        <a href="http://www.thisismoney.co.uk/sharedealing">
+            <img src="http://i.dailymail.co.uk/i/pix/2011/tim/icons/inthsec_sharedealing.png" alt="share dealing" width="35" height="35" />
+          <strong>&pound;12.50 share dealing</strong><br>
+          <span>Dividend reinvestment just 0.5%</span>
+        </a>
+      </li>
+      <li class="cleared">
+        <a href="http://www.thisismoney.co.uk/fundsupermarket">
+            <img src="http://i.dailymail.co.uk/i/pix/2011/tim/icons/inthsec_discountFunds.png" alt="Fund supermarket" width="35" height="35" />
+          <strong>Buy discounted funds</strong><br>
+          <span>Check out our fund supermarket</span>
+        </a>
+      </li>
+      <li class="cleared">
+        <a href="http://www.thisismoney.co.uk/brochures">
+            <img src="http://i.dailymail.co.uk/i/pix/2011/tim/icons/inthsec_invBrochures.png" alt="Free brochures" width="35" height="35" />
+          <strong>Free investment brochures</strong><br>
+          <span>Useful info by post or email</span>
+        </a>
+      </li>
+      <li class="cleared">
+        <a href="http://thisismoney.brgl.co.uk/default.aspx">
+            <img src="http://i.dailymail.co.uk/i/pix/2011/tim/icons/inthsec_pensionPlanner.png" alt="pensions" width="35" height="35" />
+          <strong>Annuity rates</strong><br>
+          <span>Best buys and calculator</span>
+        </a>
+      </li>
+    </ul>
+  </div>
+  <span class="tl"></span>
+  <span class="tr"></span>
+  <span class="bl"></span>
+  <span class="br"></span>
+</div>
+
+</div>
+
+      <div class="item iframe_module">
+  <iframe	src="http://investing.thisismoney.co.uk/modules/main-markets-beta" width="308" height="213" frameborder="0" scrolling="no"></iframe>
+</div>
+
+      <div class="money item">
+  <div class="inthsec-plain cleared linkro-darkred ccow">
+  <h3 class="wocc">MARKET DATA </h3>
+  <ul class="cleared">
+    <li>
+      <a href="http://investing.thisismoney.co.uk/quote/UKX" target="_blank"
+         ><span class="arrow-small-r"></span>FTSE 100</a>
+    </li>
+    <li>
+      <a href="http://investing.thisismoney.co.uk/alerts/" target="_blank"
+         ><span class="arrow-small-r"></span>Share price alerts</a>
+    </li>
+    <li>
+      <a href="http://investing.thisismoney.co.uk/rns" target="_blank"
+         ><span class="arrow-small-r"></span>RNS announcements</a>
+    </li>
+    <li>
+      <a href="http://investing.thisismoney.co.uk/director-dealings/" target="_blank"
+         ><span class="arrow-small-r"></span>Director dealings</a>
+    </li>
+    <li>
+      <a href="http://investing.thisismoney.co.uk/companies/" target="_blank"
+         ><span class="arrow-small-r"></span>Company A to Z</a>
+    </li>
+    <li>
+      <a href="http://investing.thisismoney.co.uk/gilts/" target="_blank"
+         ><span class="arrow-small-r"></span>Gilts</a>
+    </li>
+    <li>
+      <a href="http://investing.thisismoney.co.uk/market-data/risers-fallers/" target="_blank"
+         ><span class="arrow-small-r"></span>Top movers</a>
+    </li>
+    <li>
+      <a href="http://investing.thisismoney.co.uk/indices/" target="_blank"
+         ><span class="arrow-small-r"></span>Indices</a>
+    </li>
+    <li>
+      <a href="http://webfund6.financialexpress.net/clients/dailymail/PriceTable.aspx?Universe=UnitTrusts" target="_blank"
+         ><span class="arrow-small-r"></span>Funds tables</a>
+    </li>
+    <li>
+      <a href="http://investing.thisismoney.co.uk/indices/uk-sectors/" target="_blank"
+         ><span class="arrow-small-r"></span>Sectors</a>
+    </li>
+    <li>
+      <a href="http://investing.thisismoney.co.uk/performance/overview/" target="_blank"
+         ><span class="arrow-small-r"></span>Share tables</a>
+    </li>
+    <li>
+      <a href="http://investing.thisismoney.co.uk/market-diary/" target="_blank"
+         ><span class="arrow-small-r"></span>Diary: City today</a>
+    </li>
+    <li>
+      <a href="http://investing.thisismoney.co.uk/new-issues/" target="_blank"
+         ><span class="arrow-small-r"></span>New Issues</a>
+    </li>
+    <li>
+      <a href="http://investing.thisismoney.co.uk/broker-views/" target="_blank"
+         ><span class="arrow-small-r"></span>Broker views</a>
+    </li>
+    <li>
+      <a href="http://investing.thisismoney.co.uk/charts/" target="_blank"
+         ><span class="arrow-small-r"></span>Charting</a>
+    </li>
+    <li>
+      <a href="http://investing.thisismoney.co.uk/commodities/" target="_blank"
+         ><span class="arrow-small-r"></span>Gold / oil prices</a>
+    </li>
+    <li>
+      <a href="http://investing.thisismoney.co.uk/forex/" target="_blank"
+         ><span class="arrow-small-r"></span>Forex rates</a>
+    </li>
+    <li>
+      <a href="http://investing.thisismoney.co.uk/heatmaps/" target="_blank"
+         ><span class="arrow-small-r"></span>Heatmaps</a>
+    </li>
+    <li>
+      <a href="http://investing.thisismoney.co.uk/news/" target="_blank"
+         ><span class="arrow-small-r"></span>Company news</a>
+    </li>
+    <li>
+      <a href="http://www.thisismoney.co.uk/money/markets/article-1583858/Permanent-bearing-shares--PIBS-rates-table.html" target="_blank"
+         ><span class="arrow-small-r"></span>Pibs</a>
+    </li>
+    <li>
+      <a href="http://investing.thisismoney.co.uk/news-alerts/" target="_blank"
+         ><span class="arrow-small-r"></span>NEW: News alerts</a>
+    </li>
+    <li>
+      <a href="http://www.thisismoney.co.uk/market-data" target="_blank"
+         ><span class="arrow-small-r"></span>All</a>
+    </li>
+  </ul>
+  <span class="tl"></span>
+  <span class="tr"></span>
+  <span class="bl"></span>
+  <span class="br"></span>
+</div>
+
+</div>
+
+      <div class="item iframe_module">
+  <iframe	src="http://investing.thisismoney.co.uk/modules/risers-fallers-beta" width="308" height="390" frameborder="0" scrolling="no"></iframe>
+</div>
+
+      <div class="money item">
+  <div class="puff cleared" id="p-11"
+     data-track-module="llg-1001175^puff">
+  
+  <span class="tl">&nbsp;</span>
+  <span class="tr">&nbsp;</span>
+  <h3 class="wocc">DON'T MISS</h3>
+  <ul class="link-bogr2 linkro-wocc">
+    <li>
+      <a href="/money/bills/article-2610842/Energy-giants-pocketed-75m-green-tax-cuts.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/23/article-0-1BCB77E900000578-168_154x115.jpg" height="115" width="154" alt="British Gas, EDF Energy, Eon, Npower, Scottish and Southern Energy and Scottish Power &iquest; will save money this year after the Government slashed network charges" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Energy giants pocket tax cuts that could have knocked &pound;50 off millions of households' energy bills
+          </strong>
+          Big six firms will save &pound;75m.
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/money/mortgageshome/article-2610831/JAMES-CONEY-The-new-stringent-mortgage-rules-prove-hard-test-pass.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/23/article-2610831-023A456D0000044D-11_154x115.jpg" height="115" width="154" alt="Test: Officially starting on Saturday, many banks and building societies will implement time-consuming detailed probes" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          JAMES CONEY: Mortgage rules could prove tough for first-time borrowers
+          </strong>
+          I've put the Coney finances through the process
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/money/experts/article-2610328/Im-miss-new-higher-state-pension-I-able-I-defer-retirement-year.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/22/article-0-0B9E399A000005DC-236_154x115.jpg" height="115" width="154" alt="No rush: Delaying taking your state pension can have benefits - but you will have to wait." />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          I'm due to miss the new higher state pension - but will I be able to get it if I defer my retirement for a year?
+          </strong>
+          An expert answers...
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/money/cardsloans/article-2600533/What-credit-card-reveals-read-report.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/22/article-2600533-04FA7CA4000005DC-581_154x115.jpg" height="115" width="154" alt="Credit report: Navigating your credit file can be confusing but it is important to check your score and the details of the report to give yourself the best chance of being accepted by potential lenders" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          What your credit score reveals about you ...
+          </strong>
+          ... and how to read your report.
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/money/pensions/article-2609562/Study-finds-workers-fall-huge-financial-cliff-retirement.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/21/article-0-05BE14010000044D-450_154x115.jpg" height="115" width="154" alt="Struggle: Many retirees will see a dramatic drop in their incomes when they stop working and take their pension." />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Can you cope with a two-thirds drop in your income?
+          </strong>
+          Study finds workers fall off huge financial cliff at retirement.
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/money/news/article-2609733/Britain-rack-fifth-biggest-budget-deficit-record-despite-years-austerity.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/21/article-0-04FE9C07000005DC-146_154x115.jpg" height="115" width="154" alt="Budget deficit: New figures are expected to show that the Government borrowed around &pound;110billion in 2013-14" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Britain to rack up fifth biggest budget deficit on record despite years of austerity
+          </strong>
+          ONS expected to report borrowing of c.&pound;110bn in 2013-14.
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/money/news/article-2610219/Tesco-cuts-prices-basics-win-customers-lost-Aldi-Lidl.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/22/article-2610219-1B3ED37C000005DC-797_154x115.jpg" height="115" width="154" alt="Falling prices: Tesco said the cost of everyday items would fall - including butter, eggs and bread" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Tesco fights back: Prices cut on basics to win over customers lost to Aldi and Lidl
+          </strong>
+          And free click and collect for food shopping.
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/money/pensions/article-2602420/Fears-advice-black-hole-pension-freedom-kicks-in.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/11/article-2602420-00CD536800000578-377_154x115.jpg" height="115" width="154" alt="Worry: Anyone who can't afford financial advice may well have to plan their retirement themselves." />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Fears of a retirement advice 'black hole
+          </strong>
+          As those with modest savings are priced out of help when pension freedom kicks in
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/money/mortgageshome/article-2608430/I-lucky-new-rules-help-home-buyers-bar-instead.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/19/article-0-1D2E8B1600000578-811_154x115.jpg" height="115" width="154" alt="Just in time: Catherine Hegarty has completed her house purchase" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          I was lucky - but new rules to help home buyers may bar them instead
+          </strong>
+          How to escape the looming mortgage crisis over affordability tests
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/money/saving/article-2608412/Pay-booms-building-societies-chiefs-millions-savers-hit-1-000-rate-cuts.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/19/article-2608412-1D336A1800000578-713_154x115.jpg" height="115" width="154" alt="The big league" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Millions of savers hit with more than 1,000 interest rate cuts
+          </strong>
+          Just as building society chiefs enjoy massive pay boom...
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/money/investing/article-2608522/MIDAS-SHARE-TIPS-Join-pack-How-Dogs-portfolio-running-ahead-Footsie-100.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/19/article-2608522-1D34E3A400000578-50_154x115.jpg" height="115" width="154" alt="High yields" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          Join the pack! How the Midas 'Dogs' portfolio is beating the FTSE 100
+          </strong>
+          Dogs of the Footsie portfolio is delivering generous dividends too.
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/money/saving/article-1723571/This-Moneys-favourite-best-buy-Isas.html" class="bottom">
+        <img src="http://i.dailymail.co.uk/i/pix/2011/06/23/article-1723571-0C9CB26F00000578-259_154x115.jpg" height="115" width="154" alt="number 5" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          This is Money's best buy cash Isas for 2014
+          </strong>
+          We pick our five favourite cash Isas for savers
+        </span>
+      </a>
+    </li>
+  </ul>
+  
+</div>
+
+</div>
+<script type="text/javascript">
+  DM.has('p-11', 'comScore', {
+    mo_mod_id: '1001175',
+    mo_mod_pos: 'p-11'
+  });
+</script>
+
+      <div class="money item html_snippet_module">
+  <iframe valign="middle" width="308" height="283" marginheight=0 marginwidth=0 frameborder=0 vspace=0 hspace=0 scrolling=NO  src="http://www.dianomioffers.co.uk/smartads.epl?id=1188"></iframe>
+</div>
+
+      <div class="money item">
+  <div class="editors-choice ccox link-ccox linkro-darkred" id="p-13"
+     data-track-module="llg-1001510^editors_choice">
+  <h3 class="bdrcc">MONEY'S SIX OF THE BEST </h3>
+  <ul class="cleared">
+    <li>
+      <div class="wocc">&nbsp;</div>
+      <a class="js-tl" href="/money/article-2610701/MARKET-REPORT-Outsourcing-group-Quindell-goes-war-Gotham-City-activist-group-posted-disparaging-report-online.html"
+         >Small cap favourite Quindell's shares hit</a>
+    </li>
+    <li>
+      <div class="wocc">&nbsp;</div>
+      <a class="js-tl" href="/money/mortgageshome/article-2607712/Eight-reasons-pay-estate-agent-sell-home.html"
+         >Eight reasons why estate agents are worth it</a>
+    </li>
+    <li>
+      <div class="wocc">&nbsp;</div>
+      <a class="js-tl" href="/money/bills/article-2605935/Is-defrosting-freezer-easiest-way-cut-energy-bills-overnight.html"
+         >Can defrosting the freezer cut bills overnight?</a>
+    </li>
+    <li>
+      <div class="wocc">&nbsp;</div>
+      <a class="js-tl" href="/money/saving/article-2608767/Why-building-society-bosses-deserve-bumper-pay-rises.html"
+         >Why do building society bosses get big pay rises?</a>
+    </li>
+    <li>
+      <div class="wocc">&nbsp;</div>
+      <a class="js-tl" href="/money/saving/article-2608423/Enjoy-good-life-save-fortune-From-keeping-chickens-bees-cultivating-allotment-profit-youre-having-fun.html"
+         >Enjoy the good life - it can save you a fortune</a>
+    </li>
+    <li>
+      <div class="wocc">&nbsp;</div>
+      <a class="js-tl" href="/money/investing/article-2604385/Most-viewed-investment-trusts-revealed-performed.html"
+         >The Top 20 most watched investment trusts</a>
+    </li>
+  </ul>
+</div>
+</div>
+<script type="text/javascript">
+  DM.has('p-13', 'comScore', {
+    mo_mod_id: '1001510',
+    mo_mod_pos: 'p-13'
+  });
+</script>
+<script type="text/javascript">
+    DM.has('p-13', 'externalLinkTracker');
+</script>
+      <div class="money item">
+  <div class="puff cleared" id="p-14"
+     data-track-module="llg-1001210^puff">
+  
+  <span class="tl">&nbsp;</span>
+  <span class="tr">&nbsp;</span>
+  <h3 class="wocc">VIEWS, TIPS &amp; SPECIAL REPORTS</h3>
+  <ul class="link-bogr2 linkro-wocc">
+    <li>
+      <a href="/money/article-2610706/ALEX-BRUMMER-AstraZeneca-looks-set-welcome-takeover-bid-Pfizer-asked-Goldman-Sachs-shore-defences.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/22/article-2610706-1498C0DF000005DC-880_154x115.jpg" height="115" width="154" alt="Importance for Britain: It is reported that US drug giant Pfizer is making a  bid for AstraZeneca." />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          ALEX BRUMMER
+          </strong>
+          Vince Cable should take up cudgels against Pfizer bid for AstraZeneca
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/money/article-2610733/CITY-FOCUS-Barclays-set-investor-showdown-bank-braces-bruising-shareholder-revolt-bonuses.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/22/article-2610733-1C1AEFD900000578-39_154x115.jpg" height="115" width="154" alt="Revolt: The High Street giant is bracing itself for another bruising showdown with shareholders over pay" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          CITY FOCUS
+          </strong>
+          Barclays braces for another bruising revolt over bonuses in latest showdown with investors
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/money/news/article-2609698/RUTH-SUNDERLAND-Putin-not-fear-sanctions-West.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/21/article-0-195EECD700000578-410_154x115.jpg" height="115" width="154" alt="Ruth Sunderland" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          RUTH SUNDERLAND
+          </strong>
+          Putin will not fear sanctions by the West
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/money/investing/article-2608522/MIDAS-SHARE-TIPS-Join-pack-How-Dogs-portfolio-running-ahead-Footsie-100.html" class="bottom">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/04/19/article-2608522-1D34E3A400000578-50_154x115.jpg" height="115" width="154" alt="High yields" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          MIDAS SHARE TIPS
+          </strong>
+          Join the pack ... How our 'Dogs' portfolio is running ahead of the Footsie 100
+        </span>
+      </a>
+    </li>
+  </ul>
+  
+</div>
+
+</div>
+<script type="text/javascript">
+  DM.has('p-14', 'comScore', {
+    mo_mod_id: '1001210',
+    mo_mod_pos: 'p-14'
+  });
+</script>
+
+      <div class="item latest_reports_by_channel_picture_swap_wrapper">
+  <div class="money">
+  <div class="js-picture-swap picture-swap picture-swap2 wocc cleared" id="p-15">
+    <h3>Latest from Markets</h3>
+    <img src="http://i.dailymail.co.uk/i/pix/2014/04/23/article-2611575-1498C0DF000005DC-524_308x185.jpg" alt="Heading to the US: Shares in Primark go up after it announces plans to head to the US" width="292" id="p-15-img"></img>
+    <ul class="link-bow linkro-wocc">
+      <li>
+	<a class="http://i.dailymail.co.uk/i/pix/2014/04/23/article-2611575-1498C0DF000005DC-524_308x185.jpg| bold" alt="Heading to the US: Shares in Primark go up after it announces plans to head to the US" href="/money/markets/article-2611575/ALEX-BRUMMER-Shares-Primark-announced-plans-head-US-no-guarantee-success.html"><span class="arrow-small-r"></span>ALEX BRUMMER: Shares in Primark go up - but there is no guarantee the cheap and cheerful chain will be successful in Boston</a>
+      </li>
+      <li>
+	<a class="http://i.dailymail.co.uk/i/pix/2014/04/23/article-2611613-19A26F7600000578-190_308x185.jpg| " alt="Invest: AIM shares are one of the most tax-advantaged options for investors" href="/money/markets/article-2611613/MARKET-REPORT-Investors-cash-steady-stream-IPOs-AIM-stocks-surge-popularity-following-crucial-change-rules.html"><span class="arrow-small-r"></span>MARKET REPORT: Investors put their cash into a steady stream of IPOs</a>
+      </li>
+      <li>
+	<a class="http://i.dailymail.co.uk/i/pix/2014/04/23/article-2611532-1D4CD1BF00000578-321_308x185.jpg| bold" alt="Co-Op: Richard Pennycook was thrust into the role of caretaker boss by the exit of Euan Sutherland, who walked out in a huff" href="/money/markets/article-2611532/CITY-PROFILE-Richard-Pennycook-faces-unenviable-task-leading-embattled-Co-Operative-Group.html"><span class="arrow-small-r"></span>CITY PROFILE: Richard Pennycook faces the unenviable task of leading the embattled Co-Operative Group</a>
+      </li>
+      <li>
+	<a class="http://i.dailymail.co.uk/i/pix/2014/04/23/article-0-1BBDC2CA000005DC-803_308x185.jpg| " alt="Slow: Slowing sales of expensive smart phones such as Apple's iPhone have dented revenues for chip designer ARM Holdings" href="/money/markets/article-2611560/Slowing-sales-smartphones-hit-quarter-revenues-chip-designer-ARM-Holdings.html"><span class="arrow-small-r"></span>Slowing sales of smartphones hit first quarter revenues at chip designer ARM Holdings</a>
+      </li>
+      <li>
+	<a class="http://i.dailymail.co.uk/i/pix/2014/04/23/article-2611596-03C8A1BD00000514-681_308x185.jpg| bold" alt="France: Students stand outside a Primark in Oxford Street" href="/money/markets/article-2611596/Primark-poised-break-lucrative-American-market-biggest-opening-stores-France-year.html"><span class="arrow-small-r"></span>Primark is poised to break into the lucrative American market in its biggest move since opening stores in France last year</a>
+      </li>
+      <li>
+	<a class="http://i.dailymail.co.uk/i/pix/2014/04/23/article-2611626-1D4CDA5100000578-174_308x185.jpg| " alt="Revolt: Sports Direct sought to push through a bonus scheme that would have seen the billionaire make a further &pound;65million" href="/money/markets/article-2611626/Sports-Direct-goes-battle-shareholders-rejecting-Mike-Ashley-bonus-scheme.html"><span class="arrow-small-r"></span>Sports Direct goes to battle with shareholders for rejecting Mike Ashley bonus scheme</a>
+      </li>
+      <li>
+	<a class="http://i.dailymail.co.uk/i/pix/2014/04/23/article-2611009-1D4579E900000578-750_308x185.jpg| bold" alt="Under pressure: US stocks posted early falls today keeping up the pressure on the lacklustre Footsie" href="/money/markets/article-2611009/FTSE-LIVE-Footsie-ticks-higher-China-data-provides-reassurance-ex-div-factors-constrain.html"><span class="arrow-small-r"></span>FTSE CLOSE: Plans for Primark foray into the US market sends owner ABF's shares soaring</a>
+      </li>
+      <li>
+	<a class="http://i.dailymail.co.uk/i/pix/2014/04/19/article-0-03AA4CB90000044D-390_308x185.jpg| " alt="Facing shutdown: Kellingley miners are asked to support the winding down of their pit by autumn 2015 or face its immediate closure" href="/money/markets/article-2608457/Yorkshire-miners-asked-Do-want-year.html"><span class="arrow-small-r"></span>Yorkshire miners asked: Do you want to go now or next year?</a>
+      </li>
+      <li>
+	<a class="http://i.dailymail.co.uk/i/pix/2011/06/24/article-1583858-0BEFA21D00000578-875_308x185.jpg| bold" alt="Five pound note and graphs" href="/money/markets/article-1583858/Permanent-bearing-shares-PIBS-rates-table.html"><span class="arrow-small-r"></span>PIBS: Permanent interest bearing shares</a>
+      </li>
+      <li>
+	<a class="http://i.dailymail.co.uk/i/pix/2014/04/23/article-2611271-130C037C000005DC-621_308x185.jpg| " alt="Take a slice: The Patisserie Valerie owner has plans to open 250 more sites" href="/money/markets/article-2611271/Cake-AIM-menu-Patisserie-Valerie-owner-launches-33m-float.html"><span class="arrow-small-r"></span>Cake on the AIM menu as Patisserie Valerie owner launches &pound;33m float, with plans to open 250 more sites</a>
+      </li>
+    </ul>
+    <p class="last link-bow linkro-wocc"><a href="/money/markets/"><span class="arrow-small-r"></span>MORE HEADLINES</a></p>
+    <span class="tl">&nbsp;</span>
+    <span class="tr">&nbsp;</span>
+  </div>
+</div>
+
+<script type="text/javascript">
+  DM.has('p-15', 'pictureSwap');
+</script>
+
+</div>
+
+      <div class="money item">
+  <div class="puff cleared" id="p-16"
+     data-track-module="llg-1001191^puff">
+  
+  <span class="tl">&nbsp;</span>
+  <span class="tr">&nbsp;</span>
+  <h3 class="wocc">HOT TOPICS AND PREDICTIONS</h3>
+  <ul class="link-bogr2 linkro-wocc">
+    <li>
+      <a href="/money/news/article-1607881/When-UK-rates-rise.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2014/03/25/article-1607881-0736E48400000514-14_154x115.jpg" height="115" width="154" alt="Lower for longer: Bank of England Governor Mark Carney has stated that the base rate should stay low and only rise gradually." />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          What next for interest rates?
+          </strong>
+          Forward guidance has been rejigged but when will base rate rise?
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/money/mortgageshome/article-2163151/Leeds-BS-offers-year-fix-mortgage-4-58.html">
+        <img src="http://i.dailymail.co.uk/i/pix/2012/06/22/article-0-131F2094000005DC-291_154x115.jpg" height="115" width="154" alt="Long-term deal: When N&amp;P launched its ten-year fix at the start of the year, it proved extremely popular" />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          What next for mortgage rates?
+          </strong>
+          Should you fix or track? And which are the best deals?
+        </span>
+      </a>
+    </li>
+    <li>
+      <a href="/money/mortgageshome/article-1671748/House-prices-What-expect-news-predictions.html" class="bottom">
+        <img src="http://i.dailymail.co.uk/i/pix/2013/11/07/article-1671748-193F4A5500000578-729_154x115.jpg" height="115" width="154" alt="Forecast: Savills has released its five-year house price outlook, tipping average values to go up 25%." />
+        <span class="pufftext">
+          <span class="arrow-small-r"></span>
+          <strong>
+          What next for house prices?
+          </strong>
+          The property market is on the up fuelled by cheap mortgages and taxpayer help
+        </span>
+      </a>
+    </li>
+  </ul>
+  
+</div>
+
+</div>
+<script type="text/javascript">
+  DM.has('p-16', 'comScore', {
+    mo_mod_id: '1001191',
+    mo_mod_pos: 'p-16'
+  });
+</script>
+
+      <div class="debate item puff_quote_of_day_module">
+  <div class="quoteofday wocc">
+  <div class="bogr1 link-gr5ox cleared">
+    <a href="http://www.thisismoney.co.uk/newslettersignup">
+      <img src="http://i.dailymail.co.uk/i/pix/2012/09_01/ipadlady_136x135.jpg" alt="Coins" width="136" height="135"></img>
+    </a>
+    <h3>FREE WEEKLY NEWSLETTER: SIGN UP NOW</h3>
+    <blockquote class="linkro-darkred">
+      <p><a href="http://www.thisismoney.co.uk/newslettersignup"
+            >&lsquo;Keep on top of your money with our brilliant free round-up&rsquo;</a>
+      </p>
+    </blockquote>
+    <strong class="who"></strong>
+  </div>
+  <div class="ftr link-wox">
+    <a href="http://www.thisismoney.co.uk/newslettersignup">QUICK SIGN UP: Britain's favourite money news</a>
+    <span class="arrow-small-r"></span>
+  </div>
+</div>
+
+</div>
+
+      <div class="home item html_snippet_module">
+  <script>var twitterVia = 'ThisIsMoney';</script>
+</div>
+
+</div>
+
+  <div class="articleAds articleAds-right" id="js-sky-right">
+    <div id="sky-article-wide" class="sky adHolder molads_sky_right_top">
+      <script type="text/javascript">
+      adverts.addToArray({pos: 'sky_right_top', type: '120x600', target: 'MOL_SKY_WIDE_ART', wide:true});
+      </script>
+    </div>
+  
+    <div id="textAd" class="adHolder molads_halfsky_right_top">
+      <script type="text/javascript">
+      adverts.addToArray({pos:'halfsky_right_top', type: '120x240', wide:true});
+      </script>
+    </div>
+  
+    <div id="h-sky-a" class="adHolder h-sky molads_halfsky_right_middle">
+      <script type="text/javascript">
+      adverts.addToArray({pos:'halfsky_right_middle', type: '120x240', wide:true});
+      </script>
+    </div>
+  
+    <div id="h-sky-b" class="adHolder h-sky molads_halfsky_right_bottom">
+      <script type="text/javascript">
+      adverts.addToArray({pos:'halfsky_right_bottom', type: '120x240', wide:true});
+      </script>
+    </div>
+  
+    <div class="google-sky">
+        <script type="text/javascript" src="http://scripts.dailymail.co.uk/static/gunther/gunther-497/googleads--.js"></script>
+    <script type="text/javascript">
+      var goog_ad = {};
+    </script>
+
+    
+    
+        <script>
+          var google_ad_client = 'ca-an-dailymail';
+          goog_ad.prefix = 'uk';
+        </script>
+      
+    
+
+    <script type="text/javascript">
+      goog_ad.channel = 'money_moneymarkets';
+      google_ad_channel = '' + goog_ad.prefix + '_' + goog_ad.channel;
+    </script>
+
+    <script type="text/javascript">
+      google_ad_output = 'js';
+      google_ad_type = 'text';
+      google_ad_type_location = 'sky'
+      google_language = 'en';
+      google_encoding = 'utf8';
+      google_safe = 'high';
+      google_ad_section = 's1 s2';
+      google_feedback = 'on';
+      google_max_num_ads = 5;
+      google_skip = 4;
+    </script>
+
+     <script type="text/javascript">
+       adverts.requestGoogleAd(true, 'sky');
+     </script>
+    </div>
+  </div></div>
+
+
+  
+  
+      <script type="text/javascript">
+      DM.has('content', 'shareLinks', { isChannel: false,
+      'anchor': 'tl'});
+      </script>
+      <script type='text/javascript' src='/dwr/interface/AjaxPoll.js'></script>
+      <script type='text/javascript' src='/dwr/interface/AjaxFeedsFacade.js'></script>
+      <script type='text/javascript' src='/dwr/interface/AjaxNewsletter.js'></script>
+      <script type='text/javascript' src='/dwr/interface/AjaxWeatherHelper.js'></script>
+      <script type='text/javascript' src='/dwr/engine.js'></script>
+      <script type="text/javascript" src="http://scripts.dailymail.co.uk/static/gunther/gunther-497/dm2--.js" ></script>
+      <script type='text/javascript'>
+      DM.BC.videoAdServerUrl = "http://pubads.g.doubleclick.net/gampad/ads?sz=8x8&iu=%2F5765%2Fdm.video%2Fdm_video_homehp&ciu_szs=&impl=s&gdfp_req=1&env=vp&output=xml_vast2&unviewed_position_start=1&url=[referrer_url]&correlator=[timestamp]";
+      </script>
+      
+      <script type="text/javascript" >
+      
+      var GUNTHER = {};
+      	    GUNTHER.bundleLocation = "http://scripts.dailymail.co.uk/static/gunther/";
+      	    GUNTHER.registrationBundleVersion = "gunther-440";
+      </script>
+      
+      <script src="http://admin.brightcove.com/js/BrightcoveExperiences.js" type="text/javascript"></script>
+      
+      <script type="text/javascript" src="http://scripts.dailymail.co.uk/static/gunther/gunther-497/mobilegallery--.js" ></script>
+
+<div id='mobileGalleryModal'>
+  <div id='mobileGallerySlider' class='swipe'>
+    <div id="mobileGallerySwipeWrap" class='swipe-wrap'>
+      <div class='slide-container terminator'>
+        <div class='slide' data-show-callback='terminator'></div>
+      </div>
+      <div id="interstitial-0" class='slide-container advert' data-advert-index="0" data-position="2">
+        <div class='interstitial adHolder slide'>
+          <script type="text/javascript">
+	    adverts.addToArray({id: 'interstitial', type: '980x90', pos: 'interstitial', command: "pfadj", adProbe: true, dcopt: true});
+	  </script>
+          <div class="adLinkLabel"><a href="#">Find out more...</a></div>
+        </div>
+        <div class="ad-guard"></div>
+      </div>
+      <div id="interstitial-1" class='slide-container advert' data-advert-index="1">
+        <div class='interstitial adHolder slide'>
+          <script type="text/javascript">
+            adverts.addToArray({id: 'interstitial', type: '980x90', pos: 'interstitial', command: "pfadj", adProbe: true, dcopt: true});
+          </script>
+          <div class="adLinkLabel"><a href="#">Find out more...</a></div>
+        </div>
+        <div class="ad-guard"></div>
+      </div>
+      <div class='slide-container terminator'>
+        <div class='slide' data-show-callback='terminator'></div>
+      </div>
+    </div>
+    <div class='mobile-gallery-bar top-bar'><div class='title'></div><div class='close-button'></div></div>
+    <div class='mobile-gallery-bar navigation-bar'><div class='navigation-arrow left'></div><div class='navigation-arrow right'></div></div>
+    <div class='caption-bar'><span class='text'></span></div>
+  </div>
+  <div class='canvas'></div>
+</div>
+<script>
+if (window.ArticlePage) {
+  new ArticlePage();
+}
+</script>
+      
+      
+      
+
+
+
+
+    <script type="text/javascript" src="http://scripts.dailymail.co.uk/static/bundles/rc-main-140318154402.js"></script>
+
+      
+      
+      <script type="text/javascript">
+      if (typeof DM !== "undefined" && typeof DM.Fn !== "undefined") {
+      DM.Fn.init();
+      }
+      </script>
+      
+      
+      
+      <!-- Begin comScore Inline Tag 1.1111.15 -->
+      <script type="text/javascript" language="JavaScript1.3" src="http://b.scorecardresearch.com/c2/14366613/cs.js"></script>
+      <!-- End comScore Inline Tag -->
+      
+      
+      <script type="text/javascript" src="http://js.revsci.net/gateway/gw.js?csid=D05509&auto=t"></script>
+  
+      </div>
+      <div class="footer" id="footer"
+  data-track-module="nav-footer^footer" data-track-selector=".dm-tab-pane a" data-track-pos="static">
+  <ul class="money dm-tabs cleared js-links">
+    <li class="cnr-5 link-wocc">
+      <span class="tl"> </span>
+      <span class="tr"> </span>
+      <a href="#top">Back to top</a>
+    </li>
+  </ul>
+  <div id="footer-1" class="dm-tab-pane">
+    <ul class="nav-primary cleared bdrgr3">
+        <li class="home">
+  <span class="link-gr6ox linkro-ccox">
+    <a href="/home/index.html" class="no-border">Home</a>
+  </span>
+</li>
+        <li class="news">
+  <span class="link-gr6ox linkro-ccox">
+    <a href="/news/index.html" >News</a>
+  </span>
+</li>
+        <li class="home">
+  <span class="link-gr6ox linkro-ccox">
+    <a href="/ushome/index.html" >U.S.</a>
+  </span>
+</li>
+        <li class="sport">
+  <span class="link-gr6ox linkro-ccox">
+    <a href="/sport/index.html" >Sport</a>
+  </span>
+</li>
+        <li class="tvshowbiz">
+  <span class="link-gr6ox linkro-ccox">
+    <a href="/tvshowbiz/index.html" >TV&amp;Showbiz</a>
+  </span>
+</li>
+        <li class="femail">
+  <span class="link-gr6ox linkro-ccox">
+    <a href="/femail/index.html" >Femail</a>
+  </span>
+</li>
+        <li class="health">
+  <span class="link-gr6ox linkro-ccox">
+    <a href="/health/index.html" >Health</a>
+  </span>
+</li>
+        <li class="sciencetech">
+  <span class="link-gr6ox linkro-ccox">
+    <a href="/sciencetech/index.html" >Science</a>
+  </span>
+</li>
+        <li class="money">
+  <span class="link-ccox linkro-ccox">
+    <a href="/money/index.html" >Money</a>
+  </span>
+</li>
+        <li class="video">
+  <span class="link-gr6ox linkro-ccox">
+    <a href="/video/index.html" >Video</a>
+  </span>
+</li>
+        <li class="coffeebreak">
+  <span class="link-gr6ox linkro-ccox">
+    <a href="/coffeebreak/index.html" >Coffee Break</a>
+  </span>
+</li>
+        <li class="travel">
+  <span class="link-gr6ox linkro-ccox">
+    <a href="/travel/index.html" >Travel</a>
+  </span>
+</li>
+        <li class="femail">
+  <span class="link-gr6ox linkro-ccox">
+    <a href="/femail/fashionfinder/index.html" >Fashion Finder</a>
+  </span>
+</li>
+    </ul>
+  </div>
+</div>
+<script type="text/javascript">
+   DM.Footer();
+</script>
+
+<div class="page-footer"
+  data-track-module="nav-page_footer^page_footer" data-track-pos="static">
+  <a href="/home/sitemap.html" >Sitemap</a>
+  <a href="/home/sitemaparchive/index.html" >Archive</a>
+  <a href="/home/article-2084869/Finally-apps-youve-waiting--MailOnline-iPhone-Android-Now-available-US-try-FREE.html">Mobile Apps</a>
+  <a href="/home/rssMenu.html" >RSS</a>
+  <a href="/textbased/channel-1/index.html" rel="nofollow">Text-based site</a>
+  <a href="http://mailpictures.newsprints.co.uk" target="_blank" rel="nofollow" title="Daily Mail Pictures">Reader Prints</a>
+  <a href="/ourpapers" target="_blank" rel="nofollow" title="Our Papers">Our Papers</a>
+  <a href="#top" class="last" >Top of page</a>
+  <br/>
+  <a href="http://www.dailymail.co.uk" target="_blank" rel="nofollow" title="News, sport, health and showbiz from The Daily Mail">Daily Mail</a>
+  <a href="http://www.mailonsunday.co.uk" target="_blank" rel="nofollow"	title="News, sport and showbiz from The Mail on Sunday">Mail on	Sunday</a>
+  <a href="http://www.thisisgloucestershire.co.uk/towns.html" target="_blank" rel="nofollow" title="At the heart of all things local">This is Network</a>
+  <a href="http://www.thisislondon.co.uk" target="_blank" rel="nofollow" title="Entertainment listings, reviews and showbiz from The Evening Standard">This is London</a>
+  <a href="http://www.thisismoney.co.uk" title="Financial Advice, News, Help &amp; Guides from This is Money UK" target="_blank" rel="nofollow" class="last">This is Money</a>
+  <br/>
+  <a href="http://www.metro.co.uk" target="_blank" rel="nofollow" title="Competitions, games and offbeat stories from Metro">Metro</a>
+  <a href="http://www.jobsite.co.uk" target="_blank" rel="nofollow" title="Award-winning UK job search and jobs by email service">Jobsite</a>
+  <a href="http://www.mailtravel.co.uk" target="_blank" rel="nofollow" title="Mail Travel">Mail Travel</a>
+  <a href="http://www.zoopla.co.uk" target="_blank" rel="nofollow" title="Find your ideal house, flat or apartment for sale or rent">Zoopla.co.uk</a>
+  <a href="http://www.primelocation.com" target="_blank" rel="nofollow" title="Search thousands of prime properties for sale or rent">Prime Location</a>
+  <a href="http://www.villarenters.com/" target="_blank" rel="nofollow" title="Holiday Rentals" class="last">Villa Holidays</a>
+</div>
+<div class="and-footer"
+  data-track-module="nav-and_footer^and_footer" data-track-pos="static">
+  <p>Published by Associated Newspapers Ltd</p>
+  <p>Part of the Daily Mail, The Mail on Sunday &amp; Metro Media Group</p>
+
+  
+
+  <a href="http://www.and.co.uk/" target="_blank" rel="nofollow" class="copyRight last">&copy; Associated Newspapers Ltd</a>
+  <a href="/contactus" >Contact us</a>
+  <a rel="nofollow" target="_blank" href="http://www.mailconnected.co.uk/">Advertise with us</a>
+  <a href="/terms" >Terms</a>
+  <a href="/privacy" >Privacy policy &amp; cookies</a>
+  <a href="/additionalcookieinfo" title="Find out more information about cookies on this website" class="cookies last"><img src="http://i.dailymail.co.uk/i/furniture/misc/logo_cookie_reg.png" alt="Cookie regulation logo" width="12" height="12" /></a>
+</div>
+
+
+
+
+  
+      <div id="banner" class="banner adHolder">
+    <script type="text/javascript">
+        adverts.addToArray({type:'468x60', target: 'NON_LEADERBOARD', pos: 'banner_top', dcopt: false});
+    </script>
+</div>
+  
+      </div>
+      <div class="banner-adverts">
+        <div id="stickyBanner" class="adHolder sticky_banner_overrides">
+          <script type="text/javascript">
+          adverts.addToArray({type: '980x90', pos: 'sticky_banner', command: "pfadj", adProbe: true, dcopt: true});
+          </script>
+        </div>
+        <div id="superBanner" class="adHolder">
+          <script type="text/javascript">
+          adverts.addToArray({type: '468x60,728x90,900x125', pos: 'ldr_top', adProbe: true, dcopt: true});
+          </script>
+        </div>
+       </div>    </div>
+    
+    <iframe id="lightbox-shim"></iframe>
+    <div id="overlay">&nbsp;</div>
+    <div id="lightbox-container" class="cnr8">
+        <table id="lightbox" class="ox-iw" summary="lightbox">
+            <tr>
+                <td class="tl"></td>
+                <td></td>
+                <td class="tr"></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>
+                    <div id="lightbox-content">
+                        <div id="lightbox-default-container">&nbsp;</div>
+                        <div id="lightbox-fader">&nbsp;</div>
+                    </div>
+                </td>
+                <td></td>
+            </tr>
+            <tr>
+                <td class="bl"></td>
+                <td></td>
+                <td class="br"></td>
+            </tr>
+        </table>
+    </div>
+    <!-- BEGIN Tynt Script -->
+    <script type="text/javascript">
+    if (document.location.protocol == 'http:') {
+      var Tynt = Tynt || [];
+      Tynt.push('bBOTTqvd0r3Pooab7jrHcU');
+      Tynt.i = {
+        "ap" : "Read more:",
+        "w" : "MailOnline",
+        "f" : "DailyMail"
+      };
+      (function() {
+        var s = document.createElement('script');
+        s.async = "async";
+        s.type = "text/javascript";
+        s.src = 'http://tcr.tynt.com/ti.js';
+        var h = document.getElementsByTagName('script')[0];
+        h.parentNode.insertBefore(s, h);
+      })();
+    }
+    </script>
+    <!-- END Tynt Script -->
+  
+    
+      <script type="text/javascript" src="http://tags.crwdcntrl.net/c/991/cc.js?ns=_cc991" id="LOTCC_991"></script>
+      <script type="text/javascript">
+      _cc991.bcp();
+      </script>
+    
+  
+  </body>
+</html>
+

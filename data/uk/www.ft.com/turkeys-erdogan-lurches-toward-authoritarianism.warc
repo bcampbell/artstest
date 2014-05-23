@@ -1,0 +1,671 @@
+WARC/1.0
+Content-Length: 46797
+Content-Type: application/http; msgtype=response
+Warc-Date: 2014-05-06T17:23:36Z
+Warc-Record-Id: urn:X-scrapeomat:1399397017966487530
+Warc-Target-Uri: http://www.ft.com/cms/s/0/e89e8d74-cfc1-11e3-a2b7-00144feabdc0.html
+Warc-Type: response
+X-Scrapeomat-Srcurl: http://www.ft.com/cms/s/0/e89e8d74-cfc1-11e3-a2b7-00144feabdc0.html
+
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Cache-Control: private, max-age=29
+Connection: keep-alive
+Connection: Transfer-Encoding
+Content-Language: en-GB
+Content-Type: text/html;charset=utf-8
+Date: Tue, 06 May 2014 17:23:37 GMT
+Environment: p
+Expires: Tue, 06 May 2014 17:24:06 GMT
+Last-Modified: Tue, 06 May 2014 17:23:37 GMT
+P3p: policyref="/w3c/p3p.xml", CP="CAO DSP COR LAW CURa ADMa DEVa TAIa PSAa PSDa CONo OUR DELi BUS IND PHY ONL UNI COM NAV INT DEM PRE OTC"
+Server: Apache/2.2.17 (Unix) mod_jk/1.2.30
+Set-Cookie: FT_M=D=D|F=|R=0; expires=Wed, 06-May-2015 17:23:37 GMT; path=/; domain=.ft.com
+Vary: Accept-Encoding
+X-Ft-Id: 21u
+
+8000
+
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html lang="en" class="msie msie6"><![endif]-->
+<!--[if IE 7 ]><html lang="en" class="msie msie7"><![endif]-->
+<!--[if IE 8 ]><html lang="en" class="msie msie8"><![endif]-->
+<!--[if IE 9 ]><html lang="en" class="msie msie9"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--><html lang="en" xmlns="http://www.w3.org/1999/xhtml"><!--<![endif]-->
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta charset="UTF-8" />
+<title>Turkey&rsquo;s Erdogan lurches toward authoritarianism - FT.com</title>
+<link rel="canonical" href="http://www.ft.com/cms/s/0/e89e8d74-cfc1-11e3-a2b7-00144feabdc0.html" />
+<meta name="description" content="Surveying a throng of supporters in Ankara after the latest in an unbroken sweep of election victories, prime minister Recep Tayyip Erdogan also looked out on a Turkey that has gone through the most turbulent of years. Since May 2013, the country" />
+<meta name="keywords" content="Turkey, Recep Tayyip Erdogan, Ataturk, market view, investment, politics, Ottoman past, Syria, trade and tourism, Pegasus Airlines, energy, demographics, economics, European Union, foreign relations, Middle East, culture, tourism, construction" />
+<!-- START OF OPEN GRAPH TAGS -->
+<meta property="og:title" content="Turkey&rsquo;s Erdogan lurches toward authoritarianism - FT.com"/>
+<meta property="og:type" content="article"/>
+<meta property="og:url" content="http://www.ft.com/cms/s/0/e89e8d74-cfc1-11e3-a2b7-00144feabdc0.html"/>
+<meta property="og:site_name" content="Financial Times"/>
+<meta property="og:description" content="Surveying a throng of supporters in Ankara after the latest in an unbroken sweep of election victories, prime minister Recep Tayyip Erdogan also looked out on a Turkey that has gone through the most turbulent of years. Since May 2013, the country"/>
+<meta property="og:image" content="http://im.ft-static.com/m/img/social/og-ft-logo-large.png"/>
+<meta property="fb:page_id" content="8860325749" />
+<!-- END OF OPEN GRAPH TAGS -->
+<link rel='stylesheet' href='http://s1.ft-static.com/m/style/e9a83318/bundles/core.css' media="all" />
+<link rel='stylesheet' href='http://navigation.webservices.ft.com/v1/navigation/ft/css/style.min.css' media="all" />
+<link rel='stylesheet' href='http://s1.ft-static.com/m/style/7126a62f/bundles/article.css' media="all" />
+<!--ft:headWrapperCss-->
+<!--[if lt IE 9]>
+<script src="http://s2.ft-static.com/scripts/45348a8f/bundles/html5Shiv.js"></script>
+<![endif]-->
+<script>
+var pageUUID = "e9acd064-be56-11e1-9abf-00144feabdc0";
+var articleUUID= "e89e8d74-cfc1-11e3-a2b7-00144feabdc0";
+var FT = FT || {};
+FT.isPage = { Context: 1, Master: 0, Site: 0, Section: 0, Front: 0, Story: 1 };
+</script>
+<link rel="shortcut icon" href="http://im.ft-static.com/m/icons/favicon.ico" type="image/x-icon" />
+<link rel="apple-touch-icon" href="http://im.ft-static.com/m/icons/apple-touch-icon.png" />
+<script>
+siteMapTerm = 'SpecialReports.Turkey';
+navEdition = 'UK';
+brandName = '';
+primaryThemeName = 'Turkey';
+</script> 
+<script>
+FT.env = {
+"site" : "ftcom",
+"sec" : "sectionAdvert1",
+"page" : "pageAdvert1",
+"artid" : "pageAdvert1",
+"server" : "",
+"dfp_site": "ftcom.5887.special-reports",
+"dfp_zone": "",
+"dfp_targeting" : ";pt=art",
+"asset" : "story"
+};
+// These global vars are required for FTTrack2.js
+FTSection = FT.env.sec;
+FTPage = FT.env.page;
+FTSite = FT.env.site;
+AssetType = FT.env.asset;
+</script>
+<script>
+FT = FT ? FT : {};
+FT.storyTools = FT.storyTools ? FT.storyTools : {};
+FT.storyTools.storySummary = 'Lurch+to+authoritarianism+raises+concern';
+</script>
+<link href="https://plus.google.com/113457471429583444041/" rel="publisher" />
+<script src="//s4.media.ft.com/opentag/opentag-27295-31253.js"></script>
+<script src="http://s2.ft-static.com/scripts/d4d522ed/bundles/renderHead.js"></script>
+<!-- New tracking module, supercedes ft-tracking and si-tracking -->
+<script src="http://s2.ft-static.com/scripts/8fb33395/bundles/tracking.js"></script>
+<noscript>
+<img alt="" border="0" width="1" height="1" src="http://track.ft.com/track/track.js?javascript=disabled"/>
+<img alt="" border="0" width="1" height="1" src="http://stats.ft.com/si/track.gif?WT.js=No"/>
+</noscript>
+<!-- FT Advertising code -->
+<script>
+(function () {
+var version = 'latest',
+urlStem = '//www.ft.com/m/advertising/',
+timestamp = new Date(),
+query = '?t=' + timestamp.getFullYear() + '-' + (timestamp.getMonth() + 1) + '-' + timestamp.getDate();
+if (FT) {
+if (FT.env && FT.env.advertising) {
+version = FT.env.advertising;
+query = '';
+}
+if (FT.Properties && FT.Properties.ADVERTISING_BASE) {
+urlStem = FT.Properties.ADVERTISING_BASE;
+}
+}
+urlStem = urlStem + 'advertising-' + version+ '.min';
+document.write('\x3Cscript src="' + urlStem + '.js' + query + '">\x3C\/script>');
+document.write('\x3Clink rel="stylesheet" media="all" href="' + urlStem + '.css' + query + '" \/>');
+}());
+</script>
+<!-- New brightcove module, contains the libraries and FT wrappers as well -->
+<script src="http://s2.ft-static.com/scripts/aa616ea6/bundles/brightcove.js"></script>
+</head>
+<body data-uid="e9acd064-be56-11e1-9abf-00144feabdc0" data-article-uid="e89e8d74-cfc1-11e3-a2b7-00144feabdc0" class="nojs hoverable ">
+<!-- DoubleClick DART Natural Search Standard Tracking Tag for DS3
+DFA Network - Essence - DFA EMEA (6494) : DS Agency - Essence Digital (20200000000000626) : DS Advertiser - Finacial Times (21700000000032003)
+Please do not remove
+Tag should be placed at the top of the page, after opening body tag and before DoubleClick Spotlight or Floodlight tag(s)
+Creation Date: 01-06-2014
+User Story ID - US40735
+Request By - Marketing
+Purpose - To track conversions driven by natural searches using the existing DFA infrastructure.
+-->
+<script type='text/javascript'>
+// DoubleClick DART Natural Search Tracking Code
+if (document.referrer){
+var ord = Math.random()*1000000000000;
+document.write('<SCRIPT language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/N6494.197812.NSO.CODESRV/B7995637;dcadv=4349995;sz=1x2;ord=' + ord + '?"><\/SCRIPT>');
+}
+</script>
+<script>FT.$doc.trigger("pgObjStart", {key: "perceivedLoadTime"});</script>
+<!-- Methode uuid: "e89e8d74-cfc1-11e3-a2b7-00144feabdc0" -->
+<!-- BuildLife: "PROD 209919" -->
+<!-- Session Id: "" -->
+<!-- Date: "2014-04-17:13:56:23GMT" -->
+<!-- Revision: "${SVN.REVISION} " -->
+<!-- Version: "NewAHP " -->
+<script>
+FT.preInit.setBodyClass(navigator);
+</script>
+<div id="fullpage-container"></div>
+<div class="introAd" data-cb-ad-id="Intro" data-cb-dfp-id="unit=ftcom5887special-reports.;targeting=art;pos=intro">
+<script>
+FT.ads.request('intro');
+</script>
+</div>
+<div class="clearfix container" id="page-container">
+<div id="bannerAdvertContainer">
+<div id="banlbGPT" data-ftads-pos="banlb" class="advertising" >
+<script>
+if( FT.ads.slots && FT._ads.utils.isFunction(FT.ads.slots.initSlot) ){
+FT.ads.slots.initSlot("banlbGPT");
+}
+</script>
+<noscript>
+<a href="http://ad.doubleclick.net/N5887/jump/ftcom.5887.home/uk;sz=468x60,728x90;pos=banlbGPT;tile=1;nojs=1?" target="_blank">
+<img src="http://ad.doubleclick.net/N5887/ad/ftcom.5887.home/uk;sz=468x60,728x90;pos=banlbGPT;tile=1;nojs=1?" border="0" alt="Advertisement" />
+</a>
+</noscript>
+</div>
+<div id="newssubsGPT" data-ftads-pos="newssubs" class="advertising">
+<script>
+if( FT.ads.slots && FT._ads.utils.isFunction(FT.ads.slots.initSlot) ){
+FT.ads.slots.initSlot("newssubsGPT");
+}
+</script>
+</div>
+</div>
+<div class="master-row topSection" data-zone="topSection" data-timer-key="1">
+<script>FT.$doc.trigger("pgObjStart", {key: "1", keyType: "el"});</script>
+<script>FT.$doc.trigger("pgObjStart", {key: "2", keyType: "el"});</script>
+<div id="header" class="headerGPT clearfix" data-comp-name="header" data-comp-view="header" data-comp-index="0" data-timer-key="2" >
+<div id="page-title">
+<div class="bar section">
+<a class="heading hidden" href="http://www.ft.com"><img src="http://im.ft-static.com/m/img/masthead_print.gif" alt="Financial Times" /></a>
+<p class="bc"> 
+<a href="http://www.ft.com">ft.com</a>
+<span> &gt; </span><a href="http://www.ft.com/special-reports">reports</a>
+<span> &gt; </span>
+</p>
+<div class="pagename"> 
+<span data-pos="0" ><a href='http://www.ft.com/reports/turkey'>Turkey</a></span>
+</div>
+</div>	</div>
+<div class="colright clearfix">
+<div id="ft-search" class="clearfix wideSearchInput">
+<form id="wsod-symbolSearch" method="get" action="http://search.ft.com/search" >
+<fieldset>
+<div class="searchContainer">
+<input class="text ft-search-auto-completable" type="text" value="" name="queryText" id="simpleSearchField" autocomplete="off" />
+</div>
+<button type="submit" class="ft-button ft-button-large">Search</button>
+</fieldset>
+</form>
+</div>
+<div id="ftLogin">
+<div class="ftLogin-loggedOut">
+<a id="ftLogin-signIn" class="ft-link" href="https://registration.ft.com/registration/barrier/login">Sign in</a>
+<a class="ft-link" href="http://registration.ft.com/registration/subscription-service/signuppsp?segid=70009">Register</a>
+<a class="ft-link subscriptionLink" href="http://registration.ft.com/registration/subscription-service/bpsp?segid=70152">Subscribe</a>
+</div>
+<div class="ftLogin-loggedIn">
+<a href="https://registration.ft.com/registration/login/logout?location=" id="ftLogin-logout">Sign out <span id="ftLogin-user"></span></a>
+<span id ="ftLogin-sub-link"><a href="http://registration.ft.com/registration/subscription-service/bpsp?segid=70152" class="subscriptionLink">Subscribe</a></span>
+<a href="http://registration.ft.com/registration/selfcare/" id="ftLogin-yourAccount">Your account</a>
+</div>
+<div id="ftLogin-box" class="roundedCorners">
+<form action="https://registration.ft.com/registration/barrier/login" method="post">
+<input type="hidden" name="location" value="http://www.ft.com/cms/s/0/e89e8d74-cfc1-11e3-a2b7-00144feabdc0.html" />
+<fieldset>
+<label for="ftLogin-username">Email address</label>
+<input id="ftLogin-username" name="username" class="text" type="text"/>
+</fieldset>
+<fieldset>
+<label for="ftLogin-password">Password</label>
+<input id="ftLogin-password" name="password" class="text" type="password"/>
+</fieldset>
+<span class="ftLogin-forgotPassword">
+<a href="https://registration.ft.com/registration/login/forgottenpassword?forgottenPasswordUsername=&amp;location=">Forgot password?</a>
+</span>
+<fieldset>
+<p class="ftLogin-rememberMe">
+<span>
+<input id="ftLogin-remember" name="rememberme" class="checkbox" type="checkbox" checked="checked" />
+<label for="ftLogin-remember">Remember me on this computer</label>
+</span>
+<button type="submit" class="ft-button ft-button-large">Sign in</button>
+</p>
+<p class="ftLogin-cookiePolicy">
+"Remember me" uses a cookie. View our <a href="http://www.ft.com/cookiepolicy">Cookie Policy</a>.
+</p>
+</fieldset>
+</form>
+</div>
+</div>
+<script>
+FT.preInit.loginForm();
+</script>
+<div id="searchbox" data-ftads-pos="newssubs" class="advertising">
+<script>
+if( FT.ads.slots && FT._ads.utils.isFunction(FT.ads.slots.initSlot) ){
+FT.ads.slots.initSlot("searchbox");
+}
+</script>
+</div>
+</div>
+</div>
+<script>FT.$doc.trigger("pgObjStop", {key: "2"});</script>
+<script>FT.$doc.trigger("pgObjStart", {key: "3", keyType: "el"});</script>
+<nav class="nav-ftcom"> <div id="nav-ftcom" data-track-comp-name="nav" data-nav-source="ft-uk"> <ol class="nav-items-l1"> <li class="nav-item-l1 nav-selected" data-track-pos="0"> <a href="http://www.ft.com">Home</a> <ol class="nav-items-l2"> <li> <a href="http://video.ft.com/"> Video </a> </li> <li> <a href="http://www.ft.com/interactive"> Interactive </a> </li> <li> <a href="http://www.ft.com/blogs"> Blogs </a> </li> <li> <a href="http://www.ft.com/news-feed"> News feed </a> </li> <li> <a href="http://www.ft.com/alphaville"> Alphaville </a> </li> <li> <a href="http://blogs.ft.com/beyond-brics/"> beyondbrics </a> </li> <li> <a href="http://markets.ft.com/portfolio/all.asp"> Portfolio </a> </li> <li class=" nav-selected"> <a href="http://www.ft.com/special-reports"> Special Reports </a> </li> <li> <a href="http://www.ft.com/indepth"> In depth </a> </li> <li> <a href="http://www.ft.com/uk-edition"> Today’s Newspaper </a> </li> <li class="nav-rss"><img src="http://navigation.webservices.ft.com/v1/navigation/ft/img/rss-icon.gif" width="14" height="14" alt="RSS" /></li> <li class="nav-tools nav-has-l3"> <a href="http://www.ft.com/servicestools">Tools</a> <ol class="nav-items-l3"> <li class="title"> <a href="http://www.ft.com/servicestools"> Tools <span class="arrow">&#8250;</span> </a> </li> <li> <a href="http://aboutus.ft.com/">About Us</a> </li> <li> <a href="http://www.ft.com/topics">Topics</a> </li> <li> <a href="http://markets.ft.com/portfolio/all.asp">Portfolio</a> </li> <li> <a href="http://clippings.ft.com/">FT clippings</a> </li> <li> <a href="http://markets.ft.com/alerts/keyword.asp">Alerts hub</a> </li> <li> <a href="http://nbe.ft.com/nbe/profile.cfm">Email briefings</a> </li> <li> <a href="http://rankings.ft.com/businessschoolrankings/global-mba-rankings">MBA rankings</a> </li> <li> <a href="http://mbanewslines.ft.com/">Newslines</a> </li> <li> <a href="http://lexicon.ft.com">FT Lexicon</a> </li> <li> <a href="http://www.ft.com/mobile">Mobile</a> </li> <li> <a href="http://markets.ft.com/ft/markets/currencies.asp">Currency converter</a> </li> <li> <a href="http://www.ft.com/ebooks">FT ebooks</a> </li> <li> <a href="http://www.ft.com/FTePaper">ePaper</a> </li> <li> <a href="http://jobs.ft.com/regionselector.ashx">Executive jobs</a> </li> <li> <a href="http://presscuttings.ft.com/presscuttings/search.htm">FT press cuttings</a> </li> <li> <a href="http://aboutus.ft.com/social-media/">Social Media hub</a> </li> <li> <a href="http://markets.ft.com/research/EcoCalendar">Economic calendar</a> </li> </ol> </li> </ol> </li> <li class="nav-item-l1" data-track-pos="1" data-headlinesuuid="2836ebbe-cd26-11de-a748-00144feabdc0"> <a href="http://www.ft.com/world/uk">UK</a> <div class="nav-flyout"></div> </li> <li class="nav-item-l1" data-track-pos="2" data-headlinesuuid="fefd8528-cd25-11de-a748-00144feabdc0"> <a href="http://www.ft.com/world">World</a> <div class="nav-flyout"></div> </li> <li class="nav-item-l1" data-track-pos="3" data-headlinesuuid="ee08dbdc-cd25-11de-a748-00144feabdc0"> <a href="http://www.ft.com/companies">Companies</a> <div class="nav-flyout"></div> </li> <li class="nav-item-l1" data-track-pos="4" data-headlinesuuid="011debcc-cd26-11de-a748-00144feabdc0"> <a href="http://www.ft.com/markets">Markets</a> <div class="nav-flyout"></div> </li> <li class="nav-item-l1" data-track-pos="5" data-headlinesuuid="efdac59c-cd25-11de-a748-00144feabdc0"> <a href="http://www.ft.com/global-economy">Global Economy</a> <div class="nav-flyout"></div> </li> <li class="nav-item-l1" data-track-pos="6" data-headlinesuuid="fa35a412-cd25-11de-a748-00144feabdc0"> <a href="http://www.ft.com/lex">Lex</a> <div class="nav-flyout"></div> </li> <li class="nav-item-l1" data-track-pos="7" data-headlinesuuid="ec66fcc8-cd25-11de-a748-00144feabdc0"> <a href="http://www.ft.com/comment">Comment</a> <div class="nav-flyout"></div> </li> <li class="nav-item-l1" data-track-pos="8" data-headlinesuuid="fcdae4e8-cd25-11de-a748-00144feabdc0"> <a href="http://www.ft.com/management">Management</a> <div class="nav-flyout"></div> </li> <li class="nav-item-l1" data-track-pos="9" data-headlinesuuid="d5480e62-cd28-11de-a748-00144feabdc0"> <a href="http://www.ft.com/personal-finance">Personal Finance</a> <div class="nav-flyout"></div> </li> <li class="nav-item-l1" data-track-pos="10" data-headlinesuuid="cec106aa-cd25-11de-a748-00144feabdc0"> <a href="http://www.ft.com/life-arts">Life & Arts</a> <div class="nav-flyout"></div> </li> </ol> </div></nav>
+<script>FT.$doc.trigger("pgObjStop", {key: "3"});</script>
+<script>FT.$doc.trigger("pgObjStart", {key: "4", keyType: "el"});</script>
+<div class="freestyle" data-comp-name="freestyle" data-comp-view="freestyle" data-comp-index="2" data-timer-key="4" id="168514">
+<script>
+//<![CDATA[
+FT = FT ? FT : {};
+FT.storyTools = FT.storyTools ? FT.storyTools : {};
+FT.storyTools.shareList = [
+{
+'id': 'twitter',
+'label': 'Twitter',
+'link' : 'https://twitter.com/intent/tweet?url={url}&text={title}&original_referer={originalUrl}&related={relatedAccts}&via=FT',
+'size': 'height=436,width=646'
+},
+{
+'id': 'facebook',
+'label': 'Facebook',
+'link': 'http://www.facebook.com/sharer.php?u={canonicalurl}&t={title}+|+{section}',
+'size': 'height=436,width=646'
+},
+{
+'id': 'googleplus',
+'label': 'Google+',
+'link': 'https://plus.google.com/share?url={url}',
+'size': 'height=436,width=646'
+},
+{
+'id': 'linkedin',
+'label': 'LinkedIn',
+'link' : 'http://www.linkedin.com/shareArticle?mini=true&url={url}&title={title}+|+{section}&summary={summary}&source={source}',
+'size': 'height=436,width=646'
+},
+{
+'id': 'stumbleupon',
+'label': 'StumbleUpon',
+'link': 'http://www.stumbleupon.com/submit?url={url}&title={title}',
+'size': 'height=436,width=646'
+},
+{
+'id': 'reddit',
+'label': 'Reddit',
+'link': 'http://reddit.com/submit?url={url}&title={title}',
+'size': 'height=436,width=646'
+},
+{
+'id': 'tumblr',
+'label': 'Tumblr',
+'link': 'http://www.tumblr.com/share/link?url={url}&name={title}&description={summary}',
+'size': 'height=436,width=646'
+}
+];
+FT.storyTools.twitterList = [
+{
+"name": "World",
+"value": "fttheworld" 
+},
+{
+"name": "Companies",
+"value": "ftcompanies" 
+},
+{
+"name": "Economy",
+"value": "ftuseconomy"
+},
+{
+"name": "Lex",
+"value": "helexcolumn" 
+},
+{
+"name": "Management",
+"value": "ftmanagement"
+},
+{
+"name": "Life &amp; Arts",
+"value": "ftlifeandarts" 
+},
+{
+"name": "Alphaville",
+"value": "ftalphaville" 
+},
+{
+"name": "Beyond Bricks",
+"value": "beyondbrics" 
+},
+{
+"name": "Tech Hub",
+"value": "fttechhub" 
+} 
+];
+FT.storyTools.defaultTwitAct = {
+"name": "fttheworld" 
+};
+//]]>
+</script>
+</div>
+<script>FT.$doc.trigger("pgObjStop", {key: "4"});</script>
+<script>FT.$doc.trigger("pgObjStop", {key: "1"});</script>
+</div>
+<div class="master-column middleSection " data-zone="middleSection" data-timer-key="5">
+<div class="master-row contentSection " data-zone="contentSection" data-timer-key="6">
+<div class="master-row editorialSection" data-zone="editorialSection" data-timer-key="7">
+<script>FT.$doc.trigger("pgObjStart", {key: "7", keyType: "el"});</script>
+<script>FT.$doc.trigger("pgObjStart", {key: "8", keyType: "el"});</script>
+<div class="fullstory fullstoryHeader clearfix" data-comp-name="fullstory" data-comp-view="fullstory_title" data-comp-index="0" data-timer-key="8">
+<p class="lastUpdated" id="publicationDate">
+<span class="time">May 6, 2014 12:42 pm</span></p>
+<h1>Turkey&rsquo;s Erdogan lurches toward authoritarianism</h1>
+<p class="byline ">
+<span>By Daniel Dombey</span></p>
+</div>
+<script>FT.$doc.trigger("pgObjStop", {key: "8"});</script>
+<script>FT.$doc.trigger("pgObjStart", {key: "9", keyType: "el"});</script>
+<div class="fullstory fullstoryBody" data-comp-name="fullstory" data-comp-view="fullstory" data-comp-index="1" data-timer-key="9">
+<div id="storyContent"><div class="fullstoryImage fullstoryImageHybrid article" style="width:600px"><span class="story-image"><img alt="Turkey's Prime Minister Recep Tayyip Erdogan greets supporters from the balcony of Justice and Development Party headquarters in Ankara, Turkey on March 31, 2014" src="http://im.ft-static.com/content/images/a535ec31-7245-4279-a797-cc74383ab021.img" /><a href="http://www.ft.com/servicestools/terms/getty" class="credit">©Getty</a></span><p class="caption">Savouring acclaim: prime minister Recep Tayyip Erdogan looks out over supporters in Ankara celebrating after his local election victory in March</p></div><p>Surveying a throng of supporters in Ankara after the latest in an unbroken sweep of election victories, prime minister Recep Tayyip Erdogan also looked out on a <a href="http://www.ft.com/Turkey" title="Turkey news headlines - FT.com">Turkey</a> that has gone through the most turbulent of years. </p>
+<p>Since May 2013, the country has been damaged by an emerging markets rout, mass protests against the prime minister, a corruption probe, a split with an old government ally, a torrent of hostile leaks, and <a href="http://www.ft.com/cms/s/ceb93554-cebc-11e3-8e62-00144feabdc0.html" title="Renewed onslaught on freedom of expression in Turkey - FT.com">bans on Twitter and YouTube</a>.</p>
+<div class="insideArticleShare"><ul><!----></ul></div><div class="story-package" data-track-comp-name="moreOn"><div class="insideArticleCompHeader"><h3 class="insideArticleCompHeaderTitle">More</h3></div><h4>On this story</h4><ul><li data-track-pos="0"> <a href="http://www.ft.com/cms/s/0/ceb93554-cebc-11e3-8e62-00144feabdc0.html">New onslaught on freedom of expression in Turkey</a></li><li data-track-pos="1"> <a href="http://www.ft.com/cms/s/0/1543ee04-cc99-11e3-ab99-00144feabdc0.html">Erdogan may have squandered legacy</a></li><li data-track-pos="2"> <a href="http://www.ft.com/cms/s/0/fb9362c4-ceb8-11e3-8e62-00144feabdc0.html">This generation is redefining Turkey’s society</a></li><li data-track-pos="3"> <a href="http://www.ft.com/cms/s/0/0e7a3854-cc98-11e3-ab99-00144feabdc0.html">Erdogan turns on Gulenists’ ‘parallel state’</a></li><li data-track-pos="4"> <a href="http://www.ft.com/cms/s/0/11b3ecf4-cc98-11e3-ab99-00144feabdc0.html">‘Game on’ for Turkey’s M&amp;A market</a></li></ul><h4>On this topic</h4><ul><li data-track-pos="5">Global Insight <a href="http://www.ft.com/cms/s/0/9f8472d8-d512-11e3-9187-00144feabdc0.html">Erdogan sizes up powers of presidency</a></li><li data-track-pos="6"> <a href="http://www.ft.com/cms/s/0/68196132-cc98-11e3-ab99-00144feabdc0.html">Scandal taints Turkish construction</a></li><li data-track-pos="7"> <a href="http://www.ft.com/cms/s/0/12a5e260-cc99-11e3-ab99-00144feabdc0.html">Turkey’s image and influence abroad have been tarnished</a></li><li data-track-pos="8"> <a href="http://www.ft.com/cms/s/0/1a4b7676-cc7e-11e3-9b5f-00144feabdc0.html">Top judge blasts Erdogan over rule of law</a></li></ul><h4>IN Turkey</h4><ul><li data-track-pos="9"> <a href="http://www.ft.com/cms/s/0/0b9b66bc-cc98-11e3-ab99-00144feabdc0.html">Turkish economy’s tolerance for debt approaches its limits</a></li><li data-track-pos="10"> <a href="http://www.ft.com/cms/s/0/fe71c39e-1eb1-11e3-b80b-00144feab7de.html">Middle East: Erdogan’s popularity slumps</a></li><li data-track-pos="11"> <a href="http://www.ft.com/cms/s/0/fb9f22ce-1eb1-11e3-b80b-00144feab7de.html">Opinion: EU shares blame with Erdogan for loss of momentum</a></li><li data-track-pos="12"> <a href="http://www.ft.com/cms/s/0/e29f6794-1eb0-11e3-b80b-00144feab7de.html">Turkey’s reliance on foreign capital inflows raises concern</a></li></ul></div><p>The past 12 months have seen <a href="http://www.ft.com/cms/s/1543ee04-cc99-11e3-ab99-00144feabdc0.html" title="Erdogan may have squandered legacy - FT.com">Mr Erdogan’s rule</a> increasingly described as authoritarian, the vulnerability of the economy much commented on, and the rule of law – an issue that affects both the political and economic spheres – often seen as under threat. </p>
+<p>Despite it all, local elections delivered the triumph he savoured from his Ankara balcony on March 30, a victory convincing enough to put the presidency of the country within his grasp should he decide to run in inaugural elections to the post in August.</p>
+<p>“The people have given a clear message to Turkey and the world,” Mr Erdogan said that night. “The people will not bow and Turkey is invincible.”</p>
+<p>Mr Erdogan’s election success shows that his stock of capital with his core supporters is still high. His government is feted for improving services, notably health and housing, and for ending restrictions that constricted the lives of millions of people in Turkey’s pious heartlands – especially headscarf-wearing women.</p>
+<p>But the capital that Turkey built up on the <a href="http://www.ft.com/cms/s/12a5e260-cc99-11e3-ab99-00144feabdc0.html" title="Turkey’s image and influence abroad have been tarnished - FT.com">international stage</a> – chiefly through political and economic reforms that reached a high point between an International Monetary Fund-led bailout in 2001 and the start of EU membership talks in 2005 – is running low. </p>
+<p>Rarely in recent years has the country appeared more isolated, criticised by its allies in the EU and US over <a href="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/#wrapper" title="US Dept of State: Country Reports on Human Rights Practices for 2013 - state.gov" target="_blank">freedom of expression</a>, the use of force and the rule of law. Meanwhile growth, widely forecast to be between 2 and 3 per cent this year, is far from the sky-high rates of the start of the decade. Both the <a href="http://www.imf.org/External/Pubs/FT/GFSR/2013/02/index.htm" title="Global Financial Stability Report - IMF.org" target="_blank">IMF</a> and the <a href="http://www.federalreserve.gov/monetarypolicy/mpr_20140211_part1.htm" title="Recent Economic and Financial Developments - federalreserve.gov" target="_blank">US Federal Reserve</a> have called Turkey the most vulnerable big emerging market, largely because of its <a href="http://www.ft.com/intl/cms/s/0/0b9b66bc-cc98-11e3-ab99-00144feabdc0.html" title="How debt threatens Turkey's economy">reliance on debt to fuel the economy</a>.</p>
+<p>According to Turkey’s central bank, the country’s large current account deficit is principally underwritten by bonds and loans rather than <a href="http://www.ft.com/cms/s/0/11b3ecf4-cc98-11e3-ab99-00144feabdc0.html" title="Good signs for Turkish mergers and aquisitions - FT.com">foreign direct investment</a>. The mainstay of the economy is not exports but <a href="http://www.tcmb.gov.tr/yeni/eng/" title="Turkish Central Bank - tcmb.gov.tr" target="_blank">domestic demand</a>, which has been propelled by annual credit growth of between 20 and 30 per cent for most of the past five years. </p>
+<p>While the government has greatly improved its finances, companies’ net <a href="http://www.tcmb.gov.tr/yeni/dovizpozisyon/FEALNFC2014-01.pdf" title="Foreign exchange assets and liabilities of non-financial companies - tcmb.gov.tr" target="_blank">foreign exchange liabilities</a> have soared during Mr Erdogan’s time in office – from $6.5bn in 2002 to more than $170bn today. By contrast, the central bank’s net reserves are only around $32bn; the bank’s independence from the prime minister has been questioned despite a rate rise that rallied markets this spring. </p>
+<p>The question now facing Turkey is whether Mr Erdogan will continue his steady accumulation of power and keep the country on its current political and economic path. His supporters say he has little option in the face of an alleged conspiracy by the movement of <a href="http://www.ft.com/cms/s/0e7a3854-cc98-11e3-ab99-00144feabdc0.html" title="Erdogan turns on Gulenists’ ‘parallel state’ in battle for power - FT.com">Fethullah Gulen</a>, an ally-turned-foe with followers throughout Turkish institutions. The prime minister blames Mr Gulen for the corruption probe, which he depicts as an anti-government plot. </p>
+<p>“Call Erdogan an autocrat and then you don’t need to talk about coup attempts, illegal wiretappings, parallel structures, shadowy connections, espionage, and the misuse of judicial powers,” <a href="http://www.dailysabah.com/columns/ibrahim-kalin/2014/04/16/authoritarian-fantasies" title="Authoritarian Fantasies - dailysabah.com" target="_blank">wrote Ibrahim Kalin</a>, one of the prime minister’s top advisers, in a recent column. </p>
+<p>“Calling Erdogan a dictator is an insult to Turkish democracy and the Turkish people. But nobody cares; this is the new fashion and it sells.”</p>
+<p>Such protestations have not convinced everybody. In a speech before a glowering Mr Erdogan last month, Hasim Kilic, the head of the country’s constitutional court, declared that current trends would “bring about the end of the state of law”.</p>
+<p>Thousands of police and hundreds of prosecutors and judges have been moved from their positions since the corruption investigation began in late December. A new law has increased the government’s power over the judiciary, even though key provisions were thrown out by the constitutional court. The court also found Mr Erdogan’s ban on Twitter, which the government previously maintained in defiance of an order by a lower tribunal, to be without legal basis. </p>
+<p>The debate on the rule of law – and the fight with the Gulenists – affects corporate life too. Groups associated with Mr Gulen or with Turkey’s old secular order have been subjected to revoked licences, cancelled deals and high-profile tax raids. </p>
+<p>In one instance, Turkish Airlines led a series of creditors in pulling money out of a Gulenist bank – while the largely stalled corruption probe targeted government-connected companies, whose executives deny any wrongdoing. </p>
+<p>“To attract local and foreign investment, we need the rule of law,” says Suzan Sabanci Dincer, chairman of Akbank, one of Turkey’s biggest banks. </p>
+<p>Ali Babacan, deputy prime minister, has highlighted similar concerns. “If we cannot be law-governed, our democracy will remain incomplete and our economy will not reach the point we wish,” he said in a recent speech. </p>
+<p>“We reached $10,000 per capita income in 2007-08, but . . . we have started to have problems even in rising from $10,000 to $11,000,” he continued. “We need to have equal opportunity within competition for all our companies . . . There should be no tolerance in fighting corruption.”</p>
+<p>The issue is all the more pressing, as Turkey vies for a higher place on the value chain, now the era of easy international credit may be over.</p>
+<p>The country, often hailed for its favourable demographics, has the highest proportion of 15-29-year-olds neither employed nor in <a href="http://www.oecd.org/edu/Turkey_EAG2013%20Country%20Note.pdf" title="Education at a glance 2013 - oecd.org" target="_blank">education or training in the OECD</a>, at 35 per cent, against an average of 16 per cent. Such educational characteristics are reflected in the economy: high technology goods are 2 per cent of <a href="http://www.imf.org/external/pubs/ft/scr/2013/cr13364.pdf" title="Turkey selected issues paper - imf.org" target="_blank">manufactured exports</a>, a lower figure than a decade ago and <a href="http://wdi.worldbank.org/table/5.13" title="World Development Indicators: Science and Technology - wdi.worldbank.org" target="_blank">far below</a> Poland, Mexico, South Africa and Russia. </p>
+<p>Mr Erdogan’s supporters emphasise the broader picture. The prime minister has done more than any previous leader, for example, to resolve the country’s Kurdish conflict, its bloodiest dispute. Indeed, the 6 per cent bloc of votes that go to pro-Kurdish parties could be instrumental in making him president.</p>
+<p>On foreign policy, too, Mr Erdogan retains the capacity to break the mould: in a historic step in late April he issued his condolences over the mass killings of Armenians almost 100 years ago. </p>
+<p>Yigit Bulut, another prominent prime ministerial adviser, has argued there are only two great leaders in the world today: Mr Erdogan and Russia’s Vladimir Putin.</p>
+<p>Turkey is, of course, far from Russian-style authoritarianism. But if it goes further down the road it is travelling, the political and economic results could be felt for years to come.</p></div>
+<p class="screen-copy">
+<a href="http://www.ft.com/servicestools/help/copyright">Copyright</a> The Financial Times Limited 2014. You may share using our article tools.
+<br />
+Please don't cut articles from FT.com and redistribute by email or post to the web.
+</p>
+<div class="storyToolsContainer clearfix">
+<ul id="ft-story-tools-bottom" class="storyTools">
+<li class="linkButton shareButton">
+<a href="#"><span>Share</span></a>
+<div class="shareList roundedCorners overlay" id="shareListOverlay">
+<div class="overlayArrow overlayTopArrow"></div>
+<div class="innerBox">
+<div class="title">Share this on<a href="#" id="closeShareListOverlay"></a></div>
+<ul class="clearfix">
+<li class="dummyNode"></li>
+</ul>
+</div>
+<div class="overlayArrow overlayBottomArrow"></div>
+</div>
+</li>
+<li class="linkButton clipButton" id="clipthis-container-bottom">
+<a href="http://clippings.ft.com/clipthis/?url=http://www.ft.com/cms/s/0/e89e8d74-cfc1-11e3-a2b7-00144feabdc0.html&amp;title=Turkey%E2%80%99s+Erdogan+lurches+toward+authoritarianism&amp;note=Lurch+to+authoritarianism+raises+concern&amp;clipthisdisplay=%3Cspan%3EClip%3C%2Fspan%3E&amp;clippeddisplay=%3Cspan%3EClipped%3C%2Fspan%3E&amp;datepublished=2014-05-06+12%3A42%3A26&amp;images
+3429
+=http%3A%2F%2Fim.ft-static.com%2Fcontent%2Fimages%2Fa535ec31-7245-4279-a797-cc74383ab021.img,"><span>Clip</span></a>
+</li>
+<li class="linkButton reprintButton">
+<a href="http://www.ft.com/cms/s/0/e89e8d74-cfc1-11e3-a2b7-00144feabdc0.html?reprint=true" rel="nofollow" data-enhanced="true"><span>Reprints</span></a>
+</li>
+<li class="linkButton printButton">
+<a href="#"><span>Print</span></a>
+</li>
+<li id="anc-email-this-bottom" class="linkButton emailButton" data-enhanced="true" >
+<form id="frm-email-this-bottom" action="http://emailthis.t.ft.com/form" method="post" target="_blank"><span><input type="submit" value="Email" /><input type="hidden" name="data" value="{&quot;url&quot;:&quot;http://www.ft.com/cms/s/0/e89e8d74-cfc1-11e3-a2b7-00144feabdc0.html&quot;,&quot;template&quot;:&quot;article&quot;,&quot;config&quot;:&quot;1&quot;,&quot;data&quot;:{&quot;title&quot;:&quot;Turkey&amp;rsquo;s Erdogan lurches toward authoritarianism&quot;,&quot;snippet&quot;:&quot;Surveying a throng of supporters in Ankara after the latest in an unbroken sweep of election victories, prime minister Recep Tayyip...&quot;,&quot;url&quot;:&quot;http://www.ft.com/cms/s/0/e89e8d74-cfc1-11e3-a2b7-00144feabdc0.html&quot;,&quot;date&quot;:&quot;May 6, 2014 11:42 am&quot;,&quot;byline&quot;:&quot;By Daniel Dombey&quot;,&quot;source&quot;:&quot;FT&quot;},&quot;gentime&quot;:&quot;1399397017&quot;,&quot;sig&quot;:&quot;0dc721649043e030f29b9f1310bae92e&quot;}" /></span></form>
+</li>
+</ul>
+</div>
+<div id="ft-article-comments"></div>
+</div>
+<script>
+FT.$(function() {
+var script = document.createElement('script');
+script.type = 'text/javascript';
+script.async = "async";
+script.src = 'http://'+FT.Properties.ASSANKA_ANNOTATION_HOST+'/resources/javascript/bootstrap';
+document.getElementsByTagName("head")[0].appendChild(script);
+});
+</script>
+<script>FT.$doc.trigger("pgObjStop", {key: "9"});</script>
+<script>FT.$doc.trigger("pgObjStop", {key: "7"});</script>
+</div>
+<div class="master-row marketingSection" data-zone="marketingSection" data-timer-key="10">
+<script>FT.$doc.trigger("pgObjStart", {key: "10", keyType: "el"});</script>
+<script>FT.$doc.trigger("pgObjStop", {key: "10"});</script>
+</div>
+</div>
+<div class="master-row topAds" data-zone="topAdSection" data-timer-key="11">
+<script>FT.$doc.trigger("pgObjStart", {key: "11", keyType: "el"});</script>
+<script>FT.$doc.trigger("pgObjStart", {key: "12", keyType: "el"});</script>
+<div id="banlb" class="advertising" data-comp-name="advert" data-comp-view="advert" data-comp-index="0" data-timer-key="12" data-cb-ad-id="Leaderboard" data-cb-dfp-id="unit=ftcom5887special-reports.;targeting=art;pos=banlb">
+<script>
+FT.ads.request("banlb");
+</script>
+<noscript>
+<a href="http://ad.doubleclick.net/N5887/jump/ftcom.5887.special-reports/unclassified;sz=468x60,728x90;pos=banlb;tile=1;nojs=1?" target="_blank">
+<img src="http://ad.doubleclick.net/N5887/ad/ftcom.5887.special-reports/unclassified;sz=468x60,728x90;pos=banlb;tile=1;nojs=1?" border="0" alt="Advertisement" />
+</a>
+</noscript>
+</div>
+<div id="newssubs" class="advertising" data-cb-ad-id="News subs" data-cb-dfp-id="unit=ftcom5887special-reports.;targeting=art;pos=newssubs">
+<script>
+FT.ads.requestNewssubs();
+</script>
+</div>
+<script>FT.$doc.trigger("pgObjStop", {key: "12"});</script>
+<script>FT.$doc.trigger("pgObjStop", {key: "11"});</script>
+</div>
+<script>FT.$doc.trigger("pgObjStop", {key: "perceivedLoadTime"});</script>
+<div id="railBg"></div>
+<div class="master-row railSection" data-zone="railSection" data-timer-key="13">
+<div class="storyToolsContainer clearfix">
+<ul id="ft-story-tools-top" class="storyTools">
+<li class="linkButton shareButton">
+<a href="#"><span>Share</span></a>
+</li>
+<li class="linkButton clipButton" id="clipthis-container-top">
+<a href="http://clippings.ft.com/clipthis/?url=http://www.ft.com/cms/s/0/e89e8d74-cfc1-11e3-a2b7-00144feabdc0.html&amp;title=&amp;note=&amp;clipthisdisplay=%3Cspan%3EClip%3C%2Fspan%3E&amp;clippeddisplay=%3Cspan%3EClipped%3C%2Fspan%3E&amp;images="><span>Clip</span></a>
+</li>
+<li class="linkButton reprintButton">
+<a href="http://www.ft.com/cms/s/0/e89e8d74-cfc1-11e3-a2b7-00144feabdc0.html?reprint=true" rel="nofollow" data-enhanced="true"><span>Reprints</span></a>
+</li>
+<li class="linkButton printButton">
+<a href="#"><span>Print</span></a>
+</li>
+<li id="anc-email-this-top" class="linkButton emailButton" data-enhanced="true" >
+<form id="frm-email-this-top" action="http://emailthis.t.ft.com/form" method="post" target="_blank"><span><input type="submit" value="Email" /><input type="hidden" name="data" value="{&quot;url&quot;:&quot;http://www.ft.com/cms/s/0/e89e8d74-cfc1-11e3-a2b7-00144feabdc0.html&quot;,&quot;template&quot;:&quot;article&quot;,&quot;config&quot;:&quot;1&quot;,&quot;data&quot;:{&quot;title&quot;:&quot;Turkey&amp;rsquo;s Erdogan lurches toward authoritarianism&quot;,&quot;snippet&quot;:&quot;Surveying a throng of supporters in Ankara after the latest in an unbroken sweep of election victories, prime minister Recep Tayyip...&quot;,&quot;url&quot;:&quot;http://www.ft.com/cms/s/0/e89e8d74-cfc1-11e3-a2b7-00144feabdc0.html&quot;,&quot;date&quot;:&quot;May 6, 2014 11:42 am&quot;,&quot;byline&quot;:&quot;By Daniel Dombey&quot;,&quot;source&quot;:&quot;FT&quot;},&quot;gentime&quot;:&quot;1399397017&quot;,&quot;sig&quot;:&quot;0dc721649043e030f29b9f1310bae92e&quot;}" /></span></form>
+</li>
+</ul>
+</div>
+<script>FT.$doc.trigger("pgObjStart", {key: "13", keyType: "el"});</script>
+<script>FT.$doc.trigger("pgObjStart", {key: "14", keyType: "el"});</script>
+<div id="tlbxrib" class="advertising" data-comp-name="advert" data-comp-view="advert" data-comp-index="0" data-timer-key="14" data-cb-ad-id="Right rail ribbon" data-cb-dfp-id="unit=ftcom5887special-reports.;targeting=art;pos=tlbxrib">
+<script>
+FT.ads.request("tlbxrib");
+</script>
+</div>
+<script>FT.$doc.trigger("pgObjStop", {key: "14"});</script>
+<script>FT.$doc.trigger("pgObjStart", {key: "15", keyType: "el"});</script>
+<div class="freestyle" data-comp-name="freestyle" data-comp-view="freestyle" data-comp-index="1" data-timer-key="15" id="123339">
+<style>
+.reportsLinks { margin:0 0 32px 0 ; overflow:hidden ; }
+.reportsLinks-column { float:left ; margin:10px 0 0 10px ; width:166px ; }
+</style>
+<div class="reportsLinks">
+<div class="comp-header">
+<h3 class="comp-header-title">REPORTS LINKS</h3> 
+</div>
+<div class="reportsLinks-column">
+<ul>
+<li><a href="http://www.surveys.ft.com/USSurveyWeb.nsf/WSDA?openView&amp;Count=30">Future reports</a></li>
+<li><a href="http://www.ft.com/reports/library">Reports library</a></li>	
+</ul>
+</div>
+<div class="reportsLinks-column">
+<ul>
+<li><a href="http://twitter.com/ftreports">Follow us on Twitter </a></li>
+<li><a href="http://www.facebook.com/financialtimes">Follow us on Facebook</a></li>	
+</ul>
+</div> 
+</div>
+</div>
+<script>FT.$doc.trigger("pgObjStop", {key: "15"});</script>
+<script>FT.$doc.trigger("pgObjStart", {key: "16", keyType: "el"});</script>
+<div id="hlfmpu" class="advertising" data-comp-name="advert" data-comp-view="advert" data-comp-index="2" data-timer-key="16" data-cb-ad-id="Half mpu" data-cb-dfp-id="unit=ftcom5887special-reports.;targeting=art;pos=hlfmpu">
+<script>
+FT.ads.request("hlfmpu");
+</script>
+<noscript>
+<a href="http://ad.doubleclick.net/N5887/jump/ftcom.5887.special-reports/unclassified;sz=300x600,336x850,300x250,336x280;pos=hlfmpu;tile=2;nojs=1?" target="_blank">
+<img src="http://ad.doubleclick.net/N5887/ad/ftcom.5887.special-reports/unclassified;sz=300x600,336x850,300x250,336x280;pos=hlfmpu;tile=2;nojs=1?" border="0" alt="Advertisement" />
+</a>
+</noscript>
+</div>
+<script>FT.$doc.trigger("pgObjStop", {key: "16"});</script>
+<script>FT.$doc.trigger("pgObjStart", {key: "17", keyType: "el"});</script>
+<div id="doublet" class="advertising" data-cb-ad-id="Editorial Doublet" data-cb-dfp-id="unit=ftcom5887special-reports.;targeting=art;pos=doublet">
+<script>
+FT.ads.request("doublet");
+</script>
+</div> 
+<script>FT.$doc.trigger("pgObjStop", {key: "17"});</script>
+<script>FT.$doc.trigger("pgObjStart", {key: "18", keyType: "el"});</script>
+<div id="mpu" class="advertising" data-comp-name="advert" data-comp-view="advert" data-comp-index="4" data-timer-key="18" data-cb-ad-id="mpu" data-cb-dfp-id="unit=ftcom5887special-reports.;targeting=art;pos=mpu">
+<script>
+FT.ads.request("mpu");
+</script>
+</div>
+<script>FT.$doc.trigger("pgObjStop", {key: "18"});</script>
+<script>FT.$doc.trigger("pgObjStop", {key: "13"});</script>
+</div>
+</div>
+<div class="master-row bottomSection " data-zone="bottomSection" data-timer-key="19">
+<script>FT.$doc.trigger("pgObjStart", {key: "19", keyType: "el"});</script>
+<script>FT.$doc.trigger("pgObjStart", {key: "20", keyType: "el"});</script>
+<div class="freestyle" data-comp-name="freestyle" data-comp-view="freestyle" data-comp-index="0" data-timer-key="20" id="156239">
+<div id="footer">
+<div id="content">
+<ul class="gen-freestyle-ul"> 
+<li><a href="http://www.ft.com/help">Help</a></li>
+<li>&#8226;<a href="http://aboutus.ft.com/contact-us">Contact us</a></li>
+<li>&#8226;<a href="http://www.ft.com/aboutus">About us</a></li>
+<li>&#8226;<a href="http://www.ft.com/advertising">Advertise with the FT</a></li>
+<li>&#8226;<a href="http://www.ft.com/servicestools/help/terms">Terms &amp; conditions</a></li>
+<li>&#8226;<a href="http://www.ft.com/servicestools/help/privacy">Privacy policy</a></li>
+<li>&#8226;<a href="http://www.ft.com/servicestools/help/copyright">Copyright</a></li>
+<li id="footerCookiePolicy">&#8226;<a href="http://www.ft.com/cookiepolicy">Cookie policy</a></li>
+<script>
+/* <![CDATA[
+FT.FooterAdChoiceLink = '<li id="footerAdChoices">&#8226;<a href="http://www.youronlinechoices.eu">AdChoices</a></li>';
+if (typeof FT.render.user.isUserInEU === 'function' && FT.render.user.isUserInEU()) {
+document.write(FT.FooterAdChoiceLink);
+}
+$(window).load(function() {
+FT.lib.hashCookies();
+if (typeof FT.render.user.isUserInEU === 'function' && FT.render.user.isUserInEU() && !$('#footerAdChoices').length) {
+$(FT.FooterAdChoiceLink).insertAfter('#footerCookiePolicy');
+}
+});
+]]> */
+</script>
+</ul>
+<p>
+<span class="copyright"><strong>&#169; The Financial Times Ltd 2014 </strong></span>
+<span><acronym title="Financial Times">FT</acronym> and 'Financial Times' are trademarks of The Financial Times Ltd.</span>
+</p>
+<br/>
+</div>
+</div>
+</div>
+<script>FT.$doc.trigger("pgObjStop", {key: "20"});</script>
+<script>FT.$doc.trigger("pgObjStop", {key: "19"});</script>
+</div>
+<div class="adRequests">
+<div id="corppop" data-cb-ad-id="Corp pop up" data-cb-dfp-id="unit=ftcom5887special-reports.;targeting=art;pos=corppop">
+<script>
+FT.ads.request('corppop');
+</script>
+</div>
+<div id="refresh" data-cb-ad-id="Refresh" data-cb-dfp-id="unit=ftcom5887special-reports.;targeting=art;pos=refresh">
+<script>
+FT.ads.request('refresh');
+</script>
+</div>
+</div>
+</div>
+<div id="renderPageOverlay" class="loading hidden"></div>
+<div id="print-footer">
+<p id="print-from"><strong>Printed from: </strong> http://www.ft.com/cms/s/0/e89e8d74-cfc1-11e3-a2b7-00144feabdc0.html</p>
+<p>Print a single copy of this article for personal use. <a
+href="http://www.ft.com/servicestools/help/contactus">Contact us</a> if you wish to print more to
+distribute to others.</p>
+<p><strong>&copy; <span class="company">The Financial Times Ltd</span> 2014</strong> FT
+and &lsquo;Financial Times&rsquo; are trademarks of The Financial Times Ltd.
+<span class="links">
+<a href="http://www.ft.com/servicestools/help/privacy">Privacy policy</a> |
+<a href="http://www.ft.com/servicestools/help/terms">Terms</a> |
+<a href="http://www.ft.com/servicestools/help/copyright">Copyright</a>
+</span>
+</p>
+</div>
+<div id="oob" data-cb-ad-id="Oob" data-cb-dfp-id="unit=ftcom5887special-reports.;targeting=art;pos=oob">
+<script>
+FT.ads.request('oob');
+</script>
+</div>
+<script src="http://s2.ft-static.com/scripts/11cb40b2/bundles/coreFoot.js"></script>
+<script src="http://s2.ft-static.com/scripts/bf5d7477/bundles/articleFoot.js"></script>
+<script src="http://navigation.webservices.ft.com/v1/navigation/ft/js/script.min.js"></script>
+<!--ft:footWrapperJs-->
+<script>
+FT.comments = FT.comments || {};
+FT.comments.enabled = true;
+</script>
+<script>
+var InfernoConfig = {commentcontainer:"inferno-comments",inputuicontainer:"inferno-input",user:"FTDam",thiscontent:"e89e8d74-cfc1-11e3-a2b7-00144feabdc0",site:"15",output:{format:'iframe',themed:true, theme:"ft/new"}};
+</script>
+<!-- Google Code for Remarketing tag -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1004457185;
+var google_conversion_label = "2CA1CMe1kgQQ4Zn73gM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1004457185/?value=0&amp;label=2CA1CMe1kgQQ4Zn73gM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+</body>
+</html>
+
+0
+
+
+

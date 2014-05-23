@@ -1,0 +1,1477 @@
+WARC/1.0
+Content-Length: 60232
+Content-Type: application/http; msgtype=response
+Warc-Date: 2014-05-13T04:42:52Z
+Warc-Record-Id: urn:X-scrapeomat:1399956173081864057
+Warc-Target-Uri: http://www.thetimes.co.uk/tto/business/industries/health/article4087496.ece
+Warc-Type: response
+X-Scrapeomat-Srcurl: http://www.thetimes.co.uk/tto/business/industries/health/article4087496.ece
+
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Cache-Control: max-age=60
+Connection: keep-alive
+Content-Type: text/html;charset=UTF-8
+Date: Tue, 13 May 2014 04:42:53 GMT
+Etag: "20140513005835BST-4087496-411"
+Last-Modified: Tue, 13 May 2014 04:42:05 GMT
+Objttl: 
+Server: Apache-Coyote/1.1
+Vary: Accept-Encoding
+X-Cachemod-Currenttl: 900s
+X-Cachemod-Origttl: max-age=900
+X-Client-Ttl: 50
+X-Ni-Location: 
+X-Ni-Statuscode: acsaz-200
+X-Ni-Statusmessage: 
+X-Origcc: max-age=50
+X-Origd: Tue, 13 May 2014 04:42:05 GMT
+X-Varnish: 1233352374
+X-Ws: docache1,ttocda13b
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/tto/public/js/lib/jquery-1.8.2.min.js">\x3C/script>')</script>
+<script>
+var $ = jQuery.noConflict();
+$.ajaxSetup({ cache: true });
+</script>
+<script type='text/javascript'>
+var _vwo_code=(function(){
+var account_id=26962,
+settings_tolerance=2000,
+library_tolerance=1500,
+use_existing_jquery=true,
+// DO NOT EDIT BELOW THIS LINE
+f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+</script>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<meta name="dashboard_publisher" content="tto" />
+<meta name="dashboard_article_id" content="4087496" />
+<meta name="dashboard_header" content="
+Business leaders echo public distrust of Pfizer’s £63bn bid
+" />
+<meta name="dashboard_updated_date" content="Tue May 13 2014 00:58 UTC+1258" />
+<meta name="dashboard_published_date" content="Tue May 13 2014 00:01 UTC+1201" />
+<meta property="twitter:account_id" content="6107422" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:image" content="http://www.thetimes.co.uk/tto/multimedia/archive/00524/b795750c-982c-11e3-_524544h.jpg" />
+<meta name="twitter:url" content="http://www.thetimes.co.uk/tto/business/industries/health/article4087496.ece" />
+<meta name="twitter:title" content="Business leaders echo public distrust of Pfizer’s £63bn bid" />
+<meta name = "twitter:description" content="The public overwhelmingly opposes Pfizer’s takeover of AstraZeneca according 
+to polls showing the scale of the challenge faced by the US drugs company in 
+overcoming doubts about its £63 billion offer.
+A" />
+<link rel="canonical" href="http://www.thetimes.co.uk/tto/business/industries/health/article4087496.ece" />
+<title>Business leaders echo public distrust of Pfizer’s £63bn bid | The Times </title>
+<meta property="og:title" content="Business leaders echo public distrust of Pfizer’s £63bn bid | The Times "/>
+<meta name="description" content="The public overwhelmingly opposes Pfizer’s bid for AstraZeneca, according to polls showing the scale of the challenge faced by the US company" />
+<meta property="og:description" content="The public overwhelmingly opposes Pfizer’s bid for AstraZeneca, according to polls showing the scale of the challenge faced by the US company"/>
+<meta property="og:type" content="article"/>
+<meta property="og:url" content="http://www.thetimes.co.uk/tto/business/industries/health/article4087496.ece"/>
+<meta property="og:image" content="http://www.thetimes.co.uk/tto/multimedia/archive/00524/b795750c-982c-11e3-_524544h.jpg"/>
+<meta property="og:site_name" content="The Times"/>
+<meta property="fb:app_id" content="135261079877127"/>
+<meta property="fb:locale" content="en_GB"/>
+<meta property="og:image" content="123"/>
+<link rel="shortcut icon" type="image/x-icon" href="/tto/public/123613/img/favicon.ico"/>
+<link rel="apple-touch-icon" href="/tto/public/123613/img/icons/iOS_icon.png" />
+<link rel="stylesheet" type="text/css" href="/tto/public/123613/css/tto-unified.css" media="screen"/>
+<link rel="stylesheet" type="text/css" href="/tto/public/123613/css/print.css" media="print"/>
+<!--[if IE 8]>
+<link rel="stylesheet" type="text/css" href="/tto/public/123613/css/ie8.css" />
+<![endif]-->
+<!--[if IE 9]>
+<link rel="stylesheet" type="text/css" href="/tto/public/123613/css/ie9.css" />
+<![endif]-->
+<style type="text/css">
+/* Global color */
+.fg-000000 {color: #000000;}
+.bg-000000 {background-color: #000000;}
+.fg-2d4563 {color: #2d4563;}
+.bg-2d4563 {background-color: #2d4563;}
+.fg-666655 {color: #666655;}
+.bg-666655 {background-color: #666655;}
+.fg-303064 {color: #303064;}
+.bg-303064 {background-color: #303064;}
+.fg-112244 {color: #112244;}
+.bg-112244 {background-color: #112244;}
+.fg- {color: #;}
+.bg- {background-color: #;}
+/* Color codes for #2D4563 */
+.fg-2D4563 {color: #2D4563;}
+.bg-2D4563 {background-color: #2D4563;}
+/* Color codes for #850029 */
+.fg-850029 {color: #850029;}
+.bg-850029 {background-color: #850029;}
+/* Color codes for #112244 */
+.fg-112244 {color: #112244;}
+.bg-112244 {background-color: #112244;}
+/* Color codes for #007469 */
+.fg-007469 {color: #007469;}
+.bg-007469 {background-color: #007469;}
+/* Color codes for #0e6100 */
+.fg-0e6100 {color: #0e6100;}
+.bg-0e6100 {background-color: #0e6100;}
+/* Color codes for #733171 */
+.fg-733171 {color: #733171;}
+.bg-733171 {background-color: #733171;}
+/* Color codes for #BB1A00 */
+.fg-BB1A00 {color: #BB1A00;}
+.bg-BB1A00 {background-color: #BB1A00;}
+/* Color codes for #F66200 */
+.fg-F66200 {color: #F66200;}
+.bg-F66200 {background-color: #F66200;}
+/* Color codes for #666666 */
+.fg-666666 {color: #666666;}
+.bg-666666 {background-color: #666666;}
+</style>
+<script type="text/javascript">
+//<![CDATA[
+var tto = {};
+tto.debug = false;
+tto.section = "health";
+tto.template = "article";
+tto.publicationUrl = "/tto/";
+tto.browser ={};
+tto.IAMServer = "https://www.timesplus.co.uk";
+tto.slideshow = {};	
+tto.slideshow.forwardFetch = 2;	
+tto.slideshow.backwardFetch = 2;	
+tto.autoPageRefresh = "900000";
+tto.isThirdParty = false;
+tto.hub = {};
+//]]>
+</script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/tto/public/js/lib/jquery-1.8.2.min.js">\x3C/script>')</script>
+<script>
+var $ = jQuery.noConflict();
+$.ajaxSetup({ cache: true });
+</script>
+<script type="text/javascript" src="/tto/public/123613/js/tto-top-unified.js"></script>
+<script>
+if (tto.browser.os === "ipad") {
+document.write('<meta name="apple-itunes-app" content="app-id=364276908"/>');
+}
+if (tto.browser.os === "iphone") {
+document.write('<meta name="apple-itunes-app" content="app-id=436792321"/>');
+}
+</script>
+<script type="text/javascript" src="https://dcdd29eaa743c493e732-7dc0216bc6cc2f4ed239035dfc17235b.ssl.cf3.rackcdn.com/tags/the_times/hoktop.js"></script>
+</head>
+<body>
+<div class="wrapper ">
+<script type="text/javascript">
+//<![CDATA[
+var name = getName();
+if (name != undefined && name != "")
+name = decodeURI(name).replace(/\+/g, " ").replace(/</g, "&#60;").replace(/>/g, "&#62;");
+//]]>
+</script>
+<script>!function(d,s,id){var st,fst=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){st=d.createElement(s);st.id=id;st.src='//login.thetimes.co.uk/js/toolbar.js';fst.parentNode.insertBefore(st,fst);}}(document,"script","acsps");</script>
+<div id="prenav" data-searchUrl="http://www.thetimes.co.uk/tto/public/sitesearch.do" data-contactUsUrl="https://login.thetimes.co.uk/links/contact" style="height:31px"></div>
+<div class="mpu" id="mpu-banner">
+<!-- -->
+</div>
+<div class="mast-head ">
+<div class="section-header">
+<a id="section-logo" href="http://www.thetimes.co.uk/tto/news/"><img src="/tto/public/img/Small_masthead_positive_A.gif" width="160" height="19" alt="THE TIMES" /></a>
+<div class="section-title">
+<a href="http://www.thetimes.co.uk/tto/business/industries/health/">
+<img src="/tto/public/nav/411.png" alt="Health" class="fg-112244" />
+</a>
+</div>
+</div>
+<div class="sponsored-logo" id="mpu-sponsored1"></div>
+<div id="earpiece"></div>
+</div>
+<div id="p-nav">
+<ul id="primary" class="cf">
+<li id="news"
+class="child">
+<a href="/tto/news/"
+>
+<img src="/tto/public/nav/news.gif"
+alt="News&nbsp;"/>
+</a>
+</li>
+<li id="opinion"
+class="child">
+<a href="/tto/opinion/"
+>
+<img src="/tto/public/nav/opinion.gif"
+alt="Opinion&nbsp;"/>
+</a>
+</li>
+<li id="business"
+class="child">
+<a href="/tto/business/"
+class="active">
+<img src="/tto/public/nav/business.gif"
+alt="Business&nbsp;"/>
+</a>
+</li>
+<li id="money"
+class="child">
+<a href="/tto/money/"
+>
+<img src="/tto/public/nav/money.gif"
+alt="Money&nbsp;"/>
+</a>
+</li>
+<li id="sport"
+class="child">
+<a href="/tto/sport/"
+>
+<img src="/tto/public/nav/sport.gif"
+alt="Sport&nbsp;"/>
+</a>
+</li>
+<li id="life"
+class="child">
+<a href="/tto/life/"
+>
+<img src="/tto/public/nav/life.gif"
+alt="Life&nbsp;"/>
+</a>
+</li>
+<li id="arts"
+class="child">
+<a href="/tto/arts/"
+>
+<img src="/tto/public/nav/arts.gif"
+alt="Arts&nbsp;"/>
+</a>
+</li>
+<li id="puzzles"
+class="child">
+<a href="/tto/puzzles/"
+>
+<img src="/tto/public/nav/puzzles.gif"
+alt="Puzzles&nbsp;"/>
+</a>
+</li>
+<li id="papers"
+class="child">
+<a href="http://www.thetimes.co.uk/tto/papers.do"
+>
+<img src="/tto/public/nav/papers.gif"
+alt="Papers&nbsp;"/>
+</a>
+</li>
+</ul>
+<div class="nav-wrapper">
+<ul id="sub-prime" class="cf">
+<li class="list t-nav-item">
+<a class="pngfix" href="/tto/business/industries/health/?view=list">List View</a>
+</li>
+<li class="sitemap t-nav-item">
+<a class="pngfix" href="/tto/business/industries/health/?view=sitemap">Site Map</a>
+</li>
+<li class="rss t-nav-item">
+<a class="pngfix" href="/tto/business/industries/health/?service=rss">
+RSS Feeds
+</a>
+</li>
+</ul>
+<div id="weather-placeholder">
+</div>
+<ul id="date">
+<li></li>
+</ul>
+</div>
+<div class="p-nav-panel-wrap">
+<div class="p-nav-child pngfix cf"></div>
+<div class="p-nav-panel-shadow pngfix"></div>
+</div>
+</div>
+<div id="newsflash-ticker-placeholder"></div>
+<div class="content t-article-id-tto-4087496 t-article tabs-single">
+<div class="heading">
+<h1 class="f-ha" id="title">Business leaders echo public distrust of Pfizer’s £63bn bid</h1>
+</div>
+<a name="p"></a><a name="tab-1"></a><a name="tab-2"></a><a name="tab-3"></a><a name="tab-4"></a><a name="tab-5"></a><a name="tab-6"></a>
+<div class="cf ">
+<div class="article" id="tabs">
+<div id="tab-1" class="largeLandscape tab">
+<div class="background">
+<div class="utilities">
+<div class="utilities-head">
+<div class="caption">
+<div class="f-caption">Mike Lynch said a foreign takeover of AstraZeneca would threaten Britain’s science skills base</div>
+<div class="f-credit">Times Newspapers Ltd</div>
+</div>
+</div>
+<div id="articleToolsWrapper">
+<div id="articleTools">
+<ul class="printComment">
+<li class="post-comment">
+<a href="#commentsStart" class="pngfix">
+<span class="articleComments"></span>
+</a>
+</li>
+<li class="print">
+<a href="#" class="pngfix"><span>Print</span></a>
+</li>
+</ul>
+<h4>Share via</h4>
+<ul class="sharing">
+<li class="fb">
+<a class="pop" href="https://www.facebook.com/dialog/feed?display=popup&app_id=135261079877127&link=http://www.thetimes.co.uk/tto/business/industries/health/article4087496.ece&redirect_uri=http://www.thetimes.co.uk/includes/socialcallback.html"><span>Facebook</span></a>
+</li>
+<li class="twitter">
+<a class="pop" href="https://twitter.com/share?url=http://www.thetimes.co.uk/tto/business/industries/health/article4087496.ece&text=Business leaders echo public distrust of Pfizer’s £63bn bid"><span>Twitter</span></a>
+</li>
+<li class="google">
+<a class="pop" href="https://plus.google.com/share?url=http://www.thetimes.co.uk/tto/business/industries/health/article4087496.ece"><span>Google+</span></a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="media">
+<div class="tto-slideshow">
+<ul class="tto-slides">
+<li class="tto-slide ">
+<img src="http://www.thetimes.co.uk/tto/multimedia/archive/00524/b795750c-982c-11e3-_524544c.jpg" alt="Mike Lynch said a foreign takeover of AstraZeneca would threaten Britain’s science skills base" width="620" height="413"/>
+<div class="caption">
+<div class="tto-counter">1 of 1</div>
+<span class="f-caption">Mike Lynch said a foreign takeover of AstraZeneca would threaten Britain’s science skills base</span>
+<span class="f-credit">Times Newspapers Ltd</span>
+</div>
+</li>
+</ul>
+<div class="tto-slideshow-controls">
+<a href="#" class="tto-slide-prev" title="Previous"><span></span></a>
+<a href="#" class="tto-slide-next" title="Next"><span></span></a>
+</div>
+</div>
+</div>
+<div class="byline-timestamp">
+<div class="byline special">
+<strong class="f-author" ><a href="http://www.thetimes.co.uk/tto/public/profile/Andrew-Clark" class="fg-">Andrew Clark</a>, <a href="http://www.thetimes.co.uk/tto/public/profile/Nic-Fildes" class="fg-">Nic Fildes</a></strong>
+<span class="title" ></span>
+</div>
+<div class="f-regular-update">
+Last updated at 12:04AM, May 13 2014
+</div>
+</div>
+<script type="text/javascript">
+var articleType = 'standard';
+var acsURL = 'http://store.thetimes.co.uk/?ILC=INT-TNL_The_Times-teaser-button-5_17_2013_-6&goto=';
+</script>
+<div id="bodycopy" class="bgGradRelPos">
+<div class="contentpage currentpage" id="page-1">
+<p>
+The public overwhelmingly opposes Pfizer’s takeover of AstraZeneca according 
+to polls showing the scale of the challenge faced by the US drugs company in 
+overcoming doubts about its £63 billion offer.
+</p><p>
+As the bosses of Pfizer and AstraZeneca prepared for a showdown in front of 
+MPs today, several prominent business leaders, including Mike Lynch, the 
+former boss of Autonomy, stepped forward to speak out against the buyout.
+</p><p>
+Ian Read, Pfizer’s chief executive, will deliver a staunch defence of the 
+proposed transaction in front of the Commons business select committee, 
+portraying it as a deal to bring out the “best of the best” of each 
+organisation together to create a “UK-based scientific powerhouse”.
+</p><p>
+However, a YouGov poll found that only 8 per cent of the public believe that 
+takeovers of British companies by larger foreign rivals bring benefits, 
+while 64 per cent said such deals were a “bad thing”.
+</p><p>
+In a second poll, carried out by Survation for Unite, the trade union, just 14 
+per cent of respondents said they supported Pfizer buying AstraZeneca, while 
+54 per cent opposed the deal.
+</p><p>
+Business leaders usually supportive of an open market are concerned about 
+potential damage to Britain’s science base. Dr Lynch, one of Britain’s 
+leading technology entrepreneurs, who made £500 million by selling Autonomy 
+to Hewlett-Packard in 2011, said that he believed taxpayers could be 
+short-changed after effectively subsidising the training of AstraZeneca’s 
+scientists.
+</p><p>
+“The UK punches above its weight in science and technology, in no small part 
+thanks to the quality of our education system, particularly at the 
+university level,” Dr Lynch said. “Essentially, this research and education 
+is underwritten by the taxpayer. Large technology and healthcare companies 
+create an ecosystem and virtual circle of skills and training around them 
+which could be endangered with a foreign takeover.”
+</p><p>
+One of the country’s leading biotechnology investors added her voice to the 
+chorus of concern. Kate Bingham, managing partner of SV Life Sciences, who 
+managed more than $2 billion of venture capital in the scientific industry, 
+said competition for jobs between two large UK-based drugs companies — 
+GlaxoSmithKline and AstraZeneca — was crucial to the skills base.
+</p><p>
+“I’m very concerned about the pool of management talent from which we can 
+recruit people to put into smaller, growing life science companies,” Ms 
+Bingham said. “A lack of diversity of big pharmaceuticals companies is a 
+massive problem. If we’re left with just GSK training people here, that will 
+be insufficient.”
+</p><p>
+She said that it was essential to have an “ecosystem” with “people changing 
+jobs and developing their skills” and that Pfizer, with a track record of 
+job destruction in the wake of past buyouts, posed a threat to that.
+</p><p>
+AstraZeneca’s shares drifted slightly higher yesterday, rising by 9½p to 
+£46.10. Pfizer’s offer, initially worth £50 in a mixture of cash and shares, 
+has slipped in value to less than £48 because of a decline in the US 
+company’s stock.
+</p><p>
+Although Pfizer has offered five-year commitments on jobs, laboratories and 
+investments in Britain, politicians have said it needs to go further in 
+safeguarding AstraZeneca’s future.
+</p><p>
+AstraZeneca’s board has refused to negotiate with Pfizer. However, analysts 
+say that if the offer reached £55 a share, AstraZeneca would have little 
+choice but to engage in discussions.
+</p>
+</div>
+</div>
+<div id="pagination" class="pagination"></div>
+</div>
+<a name="commentsStart"></a>
+<div id="niCommentingRig"> </div>
+<script type="text/javascript">
+tto.config = tto.config || {};
+tto.config.commenting = {
+id : "tto4087496", // Article id 
+url : "http://www.thetimes.co.uk/tto/business/industries/health/article4087496.ece", // Article url
+title : "Business leaders echo public distrust of Pfizer’s £63bn bid", // Article title
+articleToken: "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJuZXdzaW50IiwidGl0bGUiOiJCdXNpbmVzcyBsZWFkZXJzIGVjaG8gcHVibGljIGRpc3RydXN0IG9mIFBmaXplcuKAmXMgwqM2M2JuIGJpZCIsInVybCI6Imh0dHA6Ly93d3cudGhldGltZXMuY28udWsvdHRvL2J1c2luZXNzL2luZHVzdHJpZXMvaGVhbHRoL2FydGljbGU0MDg3NDk2LmVjZSIsInRhZ3MiOiJ0dG8iLCJjaGVja3N1bSI6ImI1M2IzODlmY2U2Y2RmMjE2NTU4ZDQ4OTc2MTcwNDM1IiwiYXJ0aWNsZUlkIjoidHRvNDA4NzQ5NiJ9.W3VQCv9--AKYz-JqwtZZXk0miviNMA1tfD1D_pOV7Qo",
+checksum : "b53b389fce6cdf216558d48976170435", // Checksum of Metadata
+myAccountUrl : "https://home.thetimes.co.uk" // URL to authenticate user
+};
+</script>
+</div>
+</div>
+<div class="article-side" id="articleside">
+<div class="mpu" id="mpu1">
+<!-- -->
+</div>
+<h4 class="f-hc fg-112244">Behind the story:</h4>
+<div class="related-links primary-related-links">
+<div class="has-image">
+<h5 class="f-hc"><a href="/tto/business/industries/health/article4088027.ece">Pfizer and AstraZeneca bosses face the £63bn questions</a></h5>
+<a href="/tto/business/industries/health/article4088027.ece" class="image"><b></b><img src="http://www.thetimes.co.uk/tto/multimedia/archive/00698/7de41a4a-da1a-11e3-_698793h.jpg" alt="Ian Read can expect a hostile reception from MPs" width="140" height="93" /></a>
+<p>
+Ian Read, chief executive of the US-based drugs company, faces two days of questioning from MPs that will be crucial...
+</p>
+<span class="f-regular-update">
+Published at May 13 2014
+</span>
+<ul class="relations">
+<li class="comments">
+<a class="pngfix" href="/tto/business/industries/health/article4088027.ece#commentsStart">
+<span class="articleComments" data-article-id="tto4088027"></span>
+</a>
+</li>
+</ul>
+</div>
+<div class="">
+<h5 class="f-hc"><a href="/tto/business/industries/health/article4086893.ece">MPs set to give Pfizer chief rough ride on takeover</a></h5>
+<p>
+Scottish-born chief Ian Read has been advised to expect a particularly tough time over Pfizer’s plan to &#8220;invert&#8221;...
+</p>
+<span class="f-regular-update">
+Published at May 12 2014
+</span>
+<ul class="relations">
+<li class="comments">
+<a class="pngfix" href="/tto/business/industries/health/article4086893.ece#commentsStart">
+<span class="articleComments" data-article-id="tto4086893"></span>
+</a>
+</li>
+</ul>
+</div>
+<div class="last-child">
+<h5 class="f-hc"><a href="/tto/business/columnists/article4085956.ece">Pfizer and AZ: it would be a disaster for the government to intervene </a></h5>
+<p>
+</p>
+<span class="f-regular-update">
+Published at May 10 2014
+</span>
+<ul class="relations">
+<li class="comments">
+<a class="pngfix" href="/tto/business/columnists/article4085956.ece#commentsStart">
+<span class="articleComments" data-article-id="tto4085956"></span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="topics">
+<h4 class="f-hc">Related topics:</h4>
+<ul>	
+<li>
+<h5 class="f-hc">
+<a class="fg-112244" href="/tto/business/" title="Business">Business</a>
+</h5>
+<ul class="topics-list">
+<li>
+<a href="/tto/business/topics/AstraZeneca plc:_3071000" title="AstraZeneca plc">AstraZeneca plc</a>
+</li>
+</ul>
+</li>
+</ul> 
+</div>
+<div class="related-links secondary-related-links">
+<div class="has-image last-child">
+<h5 class="f-hc"><a href="/tto/business/industries/health/article4085242.ece">Wellcome Trust questions Pfizer’s Astra bid</a></h5>
+<a href="/tto/business/industries/health/article4085242.ece" class="image"><b></b><img src="http://www.thetimes.co.uk/tto/multimedia/archive/00697/105c027e-d75b-11e3-_697295h.jpg" alt="" width="140" height="93" /></a>
+<p>
+The trust has called on the government to seek assurances that the merger would not reduce R&amp;D facilities in...
+</p>
+<span class="f-regular-update">
+Last updated at May 9 2014
+</span>
+<ul class="relations">
+<li class="comments">
+<a class="pngfix" href="/tto/business/industries/health/article4085242.ece#commentsStart">
+<span class="articleComments" data-article-id="tto4085242"></span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="tto-slideshow tto-sponsored-element tto-sponsored-element-wide tto-slideshow-speed-5000">
+<h3 class="tto-slideshow-title">Sponsored Editorial</h3>
+<div class="tto-slides">
+<div class="tto-slide">
+<a href="http://pubads.g.doubleclick.net/gampad/clk?id=191049414&amp;iu=/3048/thesundaytimes"> 
+<img src="http://www.thetimes.co.uk/tto/multimedia/archive/00697/140cayman_697377a.jpg" alt="" width="140"
+height="93" />
+</a>
+<h4 class="editorial-title"><a
+href="http://pubads.g.doubleclick.net/gampad/clk?id=191049414&amp;iu=/3048/thesundaytimes">Cayman Islands</a></h4>
+<h4 class="editorial-headline"><a
+href="http://pubads.g.doubleclick.net/gampad/clk?id=191049414&amp;iu=/3048/thesundaytimes">Paradise found</a></h4>
+<p>Laid-back and luxurious, the Cayman Islands are the perfect place to indulge yourself — after all, you’re worth it</p>
+</div>
+<div class="tto-slide">
+<a href="http://pubads.g.doubleclick.net/gampad/clk?id=136947054&amp;iu=/3048/thetimes/sponsored_ed_test"> 
+<img src="http://www.thetimes.co.uk/tto/multimedia/archive/00556/Dubrovnik_556893h_556908a.jpg" alt="" width="140"
+height="93" />
+</a>
+<h4 class="editorial-title"><a
+href="http://pubads.g.doubleclick.net/gampad/clk?id=136947054&amp;iu=/3048/thetimes/sponsored_ed_test">Discover More</a></h4>
+<h4 class="editorial-headline"><a
+href="http://pubads.g.doubleclick.net/gampad/clk?id=136947054&amp;iu=/3048/thetimes/sponsored_ed_test">A perfect getaway</a></h4>
+<p>The beautiful and ancient walled city of Dubrovnik has the best of both worlds</p>
+</div>
+<div class="tto-slide">
+<a href="http://pubads.g.doubleclick.net/gampad/clk?id=159726294&amp;iu=/3048/thetimes/sponsored_ed_test"> 
+<img src="http://www.thetimes.co.uk/tto/multimedia/archive/00551/524645_598135770199_551948a.jpg" alt="" width="140"
+height="93" />
+</a>
+<h4 class="editorial-title"><a
+href="http://pubads.g.doubleclick.net/gampad/clk?id=159726294&amp;iu=/3048/thetimes/sponsored_ed_test">Love your garden</a></h4>
+<h4 class="editorial-headline"><a
+href="http://pubads.g.doubleclick.net/gampad/clk?id=159726294&amp;iu=/3048/thetimes/sponsored_ed_test">Get creative with the great outdoors</a></h4>
+<p>From inventive pots and furniture, to growing your own food, here&#8217;s you can make the most of your space</p>
+</div>
+<div class="tto-slide">
+<a href="http://pubads.g.doubleclick.net/gampad/clk?id=138398214&amp;iu=/3048/homepage.thetimes/mainhomepage//index"> 
+<img src="http://www.thetimes.co.uk/tto/multimedia/archive/00537/140girls_537591a.jpg" alt="" width="140"
+height="93" />
+</a>
+<h4 class="editorial-title"><a
+href="http://pubads.g.doubleclick.net/gampad/clk?id=138398214&amp;iu=/3048/homepage.thetimes/mainhomepage//index">Future of Engineering</a></h4>
+<h4 class="editorial-headline"><a
+href="http://pubads.g.doubleclick.net/gampad/clk?id=138398214&amp;iu=/3048/homepage.thetimes/mainhomepage//index">Girls need ‘cool’ role models</a></h4>
+<p>Why children have to be coaxed into STEM subjects</p>
+</div>
+<div class="tto-slide">
+<a href="http://www.thetimes.co.uk/tto/public/powerinpartnerships/"> 
+<img src="http://www.thetimes.co.uk/tto/multimedia/archive/00693/140times_693143a.jpg" alt="" width="140"
+height="93" />
+</a>
+<h4 class="editorial-title"><a
+href="http://www.thetimes.co.uk/tto/public/powerinpartnerships/">Power in Partnerships</a></h4>
+<h4 class="editorial-headline"><a
+href="http://www.thetimes.co.uk/tto/public/powerinpartnerships/">Beating their business challenges</a></h4>
+<p>Meet the five entrepreneurs who will be mentored by YO! Sushi founder Simon Woodroffe</p>
+</div>
+<div class="tto-slide">
+<a href="http://pubads.g.doubleclick.net/gampad/clk?id=82382454&amp;iu=/3048/homepage.thetimes/mainhomepage//index"> 
+<img src="http://www.thetimes.co.uk/tto/multimedia/archive/00695/izzy_687704h_695501a.jpg" alt="" width="140"
+height="93" />
+</a>
+<h4 class="editorial-title"><a
+href="http://pubads.g.doubleclick.net/gampad/clk?id=82382454&amp;iu=/3048/homepage.thetimes/mainhomepage//index">SME Hub</a></h4>
+<h4 class="editorial-headline"><a
+href="http://pubads.g.doubleclick.net/gampad/clk?id=82382454&amp;iu=/3048/homepage.thetimes/mainhomepage//index">Successful modern entrepreneurship</a></h4>
+<p>Advice, live Q&amp;As and case study interviews for small businesses</p>
+</div>
+<div class="tto-slide">
+<a href="http://www.thetimes.co.uk/tto/public/drivingthegame/article4078276.ece"> 
+<img src="http://www.thetimes.co.uk/tto/multimedia/archive/00693/kiaapril_693492h_693494a.jpg" alt="" width="140"
+height="93" />
+</a>
+<h4 class="editorial-title"><a
+href="http://www.thetimes.co.uk/tto/public/drivingthegame/article4078276.ece">Driving the Game</a></h4>
+<h4 class="editorial-headline"><a
+href="http://www.thetimes.co.uk/tto/public/drivingthegame/article4078276.ece">Performance of the Month</a></h4>
+<p>Yaya Toure was the lynchpin for all of Manchester City’s best moments</p>
+</div>
+<div class="tto-slide">
+<a href="http://www.timesnorth.co.uk/"> 
+<img src="http://www.thetimes.co.uk/tto/multimedia/archive/00522/northengland_140x93_522127a.jpg" alt="" width="140"
+height="93" />
+</a>
+<h4 class="editorial-title"><a
+href="http://www.timesnorth.co.uk/">Business Insight </a></h4>
+<h4 class="editorial-headline"><a
+href="http://www.timesnorth.co.uk/">North West United</a></h4>
+<p>Northern heavyweights come together</p>
+</div>
+<div class="tto-slide">
+<a href="http://www.times-energy.co.uk/"> 
+<img src="http://www.thetimes.co.uk/tto/multimedia/archive/00693/140scotland_693415a.jpg" alt="" width="140"
+height="93" />
+</a>
+<h4 class="editorial-title"><a
+href="http://www.times-energy.co.uk/">Times Energy</a></h4>
+<h4 class="editorial-headline"><a
+href="http://www.times-energy.co.uk/">Deep thoughts</a></h4>
+<p>Neil Gordon on the crucial role of subsea</p>
+</div>
+<div class="tto-slide">
+<a href="http://www.thetimes.co.uk/tto/public/citybusiness/article2579379.ece"> 
+<img src="http://www.thetimes.co.uk/tto/multimedia/archive/00089/BCG-top-image_30409h_89037a.jpg" alt="" width="140"
+height="93" />
+</a>
+<h4 class="editorial-title"><a
+href="http://www.thetimes.co.uk/tto/public/citybusiness/article2579379.ece">City Business</a></h4>
+<h4 class="editorial-headline"><a
+href="http://www.thetimes.co.uk/tto/public/citybusiness/article2579379.ece">Getting started</a></h4>
+<p>Thinking of setting up a business abroad? Don’t go anywhere without consulting this guide</p>
+</div>
+</div>
+<div class="tto-slideshow-controls">
+<a class="tto-slide-prev" href="#" title="Left"><span></span></a>
+<a class="tto-slide-next" href="#" title="Right"><span></span></a>
+</div>
+</div>
+<h4 class="f-hc fg-112244">More from Health</h4>
+<div class="stories cf">
+<div class="col1">
+<div class="story">
+<h5 class="f-hc"><a href="/tto/business/industries/health/article4088007.ece" title='How to survive a grilling by angry MPs'>How to survive a grilling by angry MPs</a></h5>
+<span class="f-regular-update">
+Published at 12:01AM, May 13 2014
+</span>
+<p> Business leaders loathe being summoned to Parliament — trial by MPs is an ordeal that can be career-ending if handled badly</p>
+</div>
+<div class="hr"></div>
+<div class="story">
+<h5 class="f-hc"><a href="/tto/business/industries/health/article4085851.ece" title='‘Britain will suffer’ if Pfizer bid blocked'>‘Britain will suffer’ if Pfizer bid blocked</a></h5>
+<span class="f-regular-update">
+Published at 12:01AM, May 10 2014
+</span>
+<p>The head of the Institute of Directors says British companies would lose out in America if Pfizer’s ambitions are thwarted by politicians</p>
+</div>
+</div><div class="col2">
+<div class="story">
+<h5 class="f-hc"><a href="/tto/business/industries/health/article4084834.ece" title='US plan to close Pfizer tax loophole could scupper bid'>US plan to close Pfizer tax loophole could scupper bid</a></h5>
+<span class="f-regular-update">
+Last updated at 12:01AM, May 9 2014
+</span>
+<p>US legislators are threatening to scupper the £63 billion takeover by preventing the US company from shifting its tax domicile to Britain</p>
+</div>
+<div class="hr"></div>
+<div class="story">
+<h5 class="f-hc"><a href="/tto/business/industries/health/article4083892.ece" title='Doubts grow as cracks appear in Pfizer’s bid'>Doubts grow as cracks appear in Pfizer’s bid</a></h5>
+<span class="f-regular-update">
+Published at 12:01AM, May 8 2014
+</span>
+<p>AstraZeneca’s shares have sunk by almost 4 per cent in two days as the City bets against Pfizer&#8217;s hostile takeover of the British company</p>
+</div>
+</div>
+</div>
+<div id="classified-search" class="tabs">
+<h3>Find</h3>
+<!-- Debug -->
+<!-- Headline: Jobs Teaser: URL: http://jobs.thetimes.co.uk -->
+<!-- Debug -->
+<!-- Headline: Motors Teaser: URL: http://carlocator.thetimes.co.uk -->
+<!-- Debug -->
+<!-- Headline: Property Teaser: URL: http://timesonline.globrix.com/property/ -->
+<!-- Debug -->
+<!-- Headline: Holidays Teaser: URL: http://traveldirectory.thetimes.co.uk/classifieds_travel_search.aspx -->
+<ul class="search-links cf">
+<li class="ui-tabs-selected"><a href="#jobstab">Jobs</a></li>
+<li class=""><a href="#carstab">Motors</a></li>
+<li class=""><a href="#propertytab">Property</a></li>
+<li class=""><a href="#holidaytab" class="last">Holidays</a></li>
+</ul>
+<div class="tabs-wrapper">
+<div id="jobstab">
+<form action="http://jobs.thetimes.co.uk/searchjobs/" method="get" id="jobs-classified-search" target="_blank">
+<fieldset class="cf">
+<legend>Search Form</legend>
+<label for="job-search-box" class="offscreen">Search all Jobs</label>
+<input type="text" id="job-search-box" name="keywords" class="keywords input-lg" title="Search all Jobs" maxlength="50" />
+<button type="submit" class="search" >Search</button>
+</fieldset>
+</form>
+<ul class="panel panel-jobs cf">
+<li>
+<h4><a href="http://pubads.g.doubleclick.net/gampad/clk?id=196700574&amp;iu=/3048/thetimes/runofsite">Chief Executive</a></h4>
+<p>Technology Strategy Board - London/Swindon - Up to £200k</p>
+</li>
+<li>
+<h4><a href="http://pubads.g.doubleclick.net/gampad/clk?id=196700694&amp;iu=/3048/thetimes/runofsite">Director of Operations and Finance</a></h4>
+<p>University of Cambridge - Cambridge - Salary Not Specified</p>
+</li>
+<li>
+<h4><a href="http://pubads.g.doubleclick.net/gampad/clk?id=196700814&amp;iu=/3048/thetimes/runofsite">Commercial Manager</a></h4>
+<p>Moto - UK - Excellent benefits package</p>
+</li>
+<li>
+<h4><a href="http://pubads.g.doubleclick.net/gampad/clk?id=196700934&amp;iu=/3048/thetimes/runofsite">Senior Lecturer</a></h4>
+<p>University of Melbourne - Melbourne, Australia - Salary Not Specified</p>
+</li>
+<li class="more selected">
+<ul>
+<li><a href="http://jobs.thetimes.co.uk" target="_blank"></a></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="ui-tabs-hide" id="carstab">
+<form action="http://carlocator.thetimes.co.uk/classifieds_motors_search.aspx" method="get" id="cars-classified-search" target="_blank">
+<fieldset class="cf">
+<legend>Search Form</legend>
+<label for="cars-search-box" class="offscreen">Search all Cars</label>
+<input type="text" id="cars-search-box" name="keywords" class="keywords input-lg" title="Search all Cars" maxlength="50" />
+<button type="submit" class="search">Search</button>
+</fieldset>
+</form>
+<ul class="panel panel-cars cf">
+<li>
+<h4><a href="http://pubads.g.doubleclick.net/gampad/clk?id=21502134&amp;iu=/3048/classified.thetimes/runofsite">Car Leasing</a></h4>
+<p>The clever way to lease a new car is with Car Leasing made simple.</p>
+</li>
+<li>
+<h4><a href="http://pubads.g.doubleclick.net/gampad/clk?id=21502374&amp;iu=/3048/classified.thetimes/runofsite">2012 Mclaren</a></h4>
+<p> McLAREN MP4-12C - POA - Derbyshire </p>
+</li>
+<li>
+<h4><a href="http://pubads.g.doubleclick.net/gampad/clk?id=21502614&amp;iu=/3048/classified.thetimes/runofsite">Be Wiser Insurance</a></h4>
+<p>Car Insurance</p><p>The best policy at the best price</p>
+</li>
+<li>
+<h4><a href="http://pubads.g.doubleclick.net/gampad/clk?id=21502974&amp;iu=/3048/classified.thetimes/runofsite">FERRARI 458 Italia </a></h4>
+<p>FERRARI 458 Italia - POA - Derbyshire - 2012</p>
+</li>
+<li class="more selected">
+<ul>
+<li><a href="http://carlocator.thetimes.co.uk" target="_blank"></a></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="ui-tabs-hide" id="propertytab">
+<form action="http://thetimes.zoopla.co.uk/search/" method="get" id="property-classified-search" target="_blank">
+<fieldset class="cf">
+<legend>Search Form</legend>
+<label for="property-search-box" class="offscreen">Enter place or area</label>
+<input type="text" id="property-search-box" name="q" class="keywords input-lg" title="Enter place or area" maxlength="50" />
+<input type="image" src="/tto/public/img/classifieds/search.gif" class="search" name="search" alt="[Search]" value="Search" />
+<input type="hidden" id="property-search-action" value="http://thetimes.zoopla.co.uk/search/" />
+<input type="hidden" id="property-search-action-default" value="http://thetimes.zoopla.co.uk/" />
+</fieldset>
+<fieldset class="zoopla">
+<input type="radio" id="for-sale" name="section" value="for-sale" checked="checked" /><label for="for-sale">For sale</label>
+<input type="radio" id="for-rent" name="section" value="to-rent" /><label for="for-rent">For rent</label>
+</fieldset> 
+</form>
+<ul class="panel panel-property cf">
+<li>
+<h4><a href="http://pubads.g.doubleclick.net/gampad/clk?id=151385694&amp;iu=/3048/classified.thetimes/runofsite">3 Valleys Ski Properties</a></h4>
+<p>Ski-in ski-out apartments with a superb location and high rental returns from €149,800.</p>
+</li>
+<li>
+<h4><a href="http://pubads.g.doubleclick.net/gampad/clk?id=151391574&amp;iu=/3048/classified.thetimes/runofsite">Ski-in ski-out 3 Valleys Apartments </a></h4>
+<p>Piste-side properties with great views &amp; the highest rental returns in the French Alps.</p>
+</li>
+<li>
+<h4><a href="http://pubads.g.doubleclick.net/gampad/clk?id=151397574&amp;iu=/3048/classified.thetimes/runofsite">Salcombe’s Luxury Waterside Property</a></h4>
+<p>Salcombe’s first development of new properties right on the water’s edge for almost twenty years.</p>
+</li>
+<li>
+<h4><a href="http://pubads.g.doubleclick.net/gampad/clk?id=36548094&amp;iu=/3048/classified.thetimes/runofsite">Stunning 4-bed Holiday Home for Sale</a></h4>
+<p>Beautiful 4-bed cottage in Wales, incredible views, perfect condition, seaside location!</p>
+</li>
+<li class="more selected">
+<ul>
+<li><a href="http://timesonline.globrix.com/property/" target="_blank"></a></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="ui-tabs-hide" id="holidaytab">
+<ul class="panel panel-travel cf">
+<li>
+<h4><a href="http://pubads.g.doubleclick.net/gampad/clk?id=183588894&amp;iu=/3048/thetimes/runofsite">Summer sun in The Gambia</a></h4>
+<p>4* Sheraton Hotel - 7nights All-Inc from £979pp. Includes flights, transfers &amp; all taxes.</p>
+</li>
+<li>
+<h4><a href="http://pubads.g.doubleclick.net/gampad/clk?id=191023254&amp;iu=/3048/thetimes/runofsite">Discover Croatia with Valamar</a></h4>
+<p>Save up to 15% at Valamar&#8217;s two newly refurbished hotels in the heart of Dubrovnik. </p>
+</li>
+<li>
+<h4><a href="http://pubads.g.doubleclick.net/gampad/clk?id=166747254&amp;iu=/3048/thetimes/runofsite">Best Half Term. Ever. from £699pp</a></h4>
+<p>6 night cruise to France &amp; Spain on Independence sailing from Southampton. 25 May 2014.</p>
+</li>
+<li>
+<h4><a href="http://pubads.g.doubleclick.net/gampad/clk?id=190813254&amp;iu=/3048/thetimes/runofsite">Travel Club Class with Air Malta for Less</a></h4>
+<p>You can&#8217;t put a price on comfort, so we haven&#8217;t. Club Class to Malta from only £230.</p><br/>
+</li>
+<li class="more selected">
+<ul>
+<li><a href="http://traveldirectory.thetimes.co.uk/classifieds_travel_search.aspx" target="_blank"></a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="bricks brick-mpu cf middle-ads footer-brick">
+<script id="mostReadItem-Tpl" type="text/template">
+<div class="topArticles {{type}}" style="opacity:{{opacity}}">
+<ol>
+{{#items}}
+<li>
+<div class="mostReadItemWrapper mostReadItemWrapper-{{position}}">
+<div class="mostReadItem">
+<div class="mostReadItemPosition mostReadItemPosition-{{position}}">
+</div>
+</div>
+<div class="mostReadItemBody ellipses">
+<a href="{{link}}" class="ellipses-inner">{{{title}}}</a>
+</div>
+</div>
+</li>
+{{/items}}
+</ol>
+</div>
+</script>
+<span class="title-bar"></span>
+<div class="brick-third divider">
+<div class="topArticlesContainer">
+<ul class="links cf">
+<li class="first">
+<div>
+<a href="#most-read" class="mostReadLink active">Most Read</a>
+</div>
+</li>
+<li>
+<div>
+<a href="#trending-articles" class="trendingArticlesLink">Most Active</a>
+</div>
+</li>
+</ul>
+</div>
+<script src="http://live.feed.thetimes.co.uk/thetimes.co.uk/ttoMostRead.jsonp"></script> 
+</div>
+<div class="brick-sixth divider">
+<div class="element">
+<div class="brick-sixth divider">
+<div class="f-hc"> <a class="bg-112244 fat-rule" href="http://www.facebook.com/timesandsundaytimes" target="_blank"> </a> <a class="fg-112244" href="http://www.facebook.com/timesandsundaytimes"></a> </div>
+<div class="f-hc"><a href="http://www.facebook.com/timesandsundaytimes" target="_blank"><img src="http://www.thetimes.co.uk/tto/multimedia/archive/00105/facebook-2_105831a.gif"></img></a>
+<a href="http://www.thetimes.co.uk/tto/public/twitter/" target="_blank"><img src="http://www.thetimes.co.uk/tto/multimedia/archive/00105/twitter-2_105832a.gif"></img></a></div>
+</div>
+</div>
+</div>
+<div class="brick-sixth divider color-override">
+<div class="element ">
+<h4 class="f-hc">
+<a href="/tto/public/times-ipad/" class="bg-112244 fat-rule">
+</a>
+<a href="/tto/public/times-ipad/" class="fg-112244">
+The Times and Sunday Times for Android tablets
+</a>
+</h4>
+<h5 class="f-hc"><a href="http://www.thetimes.co.uk/tto/public/digital/article3670696.ece"></a></h5>
+<div class="bottomImage">
+<a href="http://www.thetimes.co.uk/tto/public/digital/article3670696.ece" title=""><img src="http://www.thetimes.co.uk/tto/multimedia/archive/00227/tablet_gaddafi_p140_227652a.jpg" alt="" width="140" height="140" /></a>
+</div>
+</div>
+</div>
+<div class="brick-third no-margin">
+<div class="mpu" id="mpu-bottommpu">
+<!-- -->
+</div>
+</div>
+</div>
+</div>
+<!-- Football club page OPTA widgets -->
+<script src="http://features.thesundaytimes.co.uk/public/sport/widgets/football-v9/football/hub/js/tto-club-page.js"></script>
+<script>$(document).ready(function() { OptaFootballHubHelperInit("http://features.thesundaytimes.co.uk/public/sport/widgets/football-v9/football/"); });</script>
+<!-- LF Journo tag -->
+<script>
+$( document ).ready(function() {
+$("span .fyre-comment-author-tag:contains('TTO_Journalist')").replaceWith("<span class='fyre-comment-author-tag' style='background-color:#850029;display:inline-block;line-height: 18px;font-size: 12px;'>Times Journalist</span>");
+$("span .fyre-comment-author-tag:contains('moderator')").remove();
+$("span .fyre-comment-author-tag:contains('STO_journalist')").remove();
+});
+</script>
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-46906650-1', 'www.thetimes.co.uk');
+ga('require', 'displayfeatures');
+ga('require', 'linkid', 'linkid.js');
+ga('send', 'pageview');
+</script>
+<!-- LBP -->
+<script type="text/javascript" src="http://extras.thetimes.co.uk/public/js/lbpv1.js"></script>
+<!-- lf comment fix -->
+<style type="text/css">
+a.fyre-comment-author {display:none!important;}
+</style>
+<!-- Embedly Test -->
+<script type="text/javascript" src="http://extras.thetimes.co.uk/public/js/embedly.js?1"></script>
+<style>
+.embedly-embed {
+max-width:620px;
+}
+.embed {
+max-width:620px;}
+</style>
+<!-- test <script type="text/javascript">
+$(".contentpage p a:contains('embedthis')").embedly({
+key: '88d40aa91dcc44b994389ccb803fe0ec'
+});
+</script> -->
+<!-- embedly end -->
+<!-- arts multimedia -->
+<script type="text/javascript">
+var url = $(location).attr('href');
+if (url.match(/http\:\/\/(cma|www).thetimes.co.uk\/tto\/arts\/$/)) {
+$(".feature-section h3").attr('style','display:none');$("#feature-brick .dotted-divider").attr({style: "background:none;width: 0px;height: 213px;display: inline;border-right: 1px dotted #ccc;"});$("#feature-brick").attr("style","margin-bottom:0px");$("#feature-brick .title-bar").attr("style","margin-bottom:15px")
+}
+</script>
+<!--start live person -->
+<preform>
+<script type="text/javascript">
+var lpMTagConfig = lpMTagConfig || {}; lpMTagConfig.vars = lpMTagConfig.vars || [];
+lpMTagConfig.lpTagSrv = "sr4.liveperson.net"; lpMTagConfig.lpServer = "server.lon.liveperson.net"; 
+lpMTagConfig.lpNumber = "62792903"; lpMTagConfig.deploymentID = "times-service"; //value is according to "unit"
+</script>
+<script type="text/javascript">
+//Routing variables
+lpMTagConfig.vars.push(["page","unit","times-service"]);
+//All tagged pages
+lpMTagConfig.vars.push(["page","Section","contactus"]);
+lpMTagConfig.vars.push(["session","IsLoggedIn","True"]); 
+</script>
+<script type="text/javascript" 
+src="http://extras.thetimes.co.uk/public/liveperson/mtagconfig.js"></script>
+</preform>
+<!--end live person-->
+<!--FOOTER-->
+<script src="http://platform.twitter.com/widgets.js" 
+charset="utf-8"></script>
+<!--fix for sharing on teaser articles-->
+<script>
+$('.share-widget p').text('In order to read the full article, visitors must subscribe to thetimes.co.uk');
+</script>
+<!--HOMEPAGE VIDEO BRICK-->
+<script>
+$('.brick-full.no-margin .title-bar.bg-2d4563 h3.f-hc').text('Barclays Premier League videos');
+</script>
+<!--FOOTBALL VIDEO BRICK-->
+<script>
+$('.brick-full.no-margin .title-bar.bg-0e6100 h3.f-hc').text('Barclays Premier League videos');
+</script>
+<!--SUNDAY TIMES -->
+<preform>
+<script type="text/javascript">
+(function() {
+var url = window.location.href,
+isTimesHome = /\/tto\/news\/$/gi.test(url),
+dt = new Date(),
+isSunday = (dt.getDay() == 0),
+hasBeenRedirected = !!get_cookie('hasBeenRedirected');
+// if we are on the tto homepage
+if(isTimesHome && isSunday && !hasBeenRedirected) {
+set_cookie('hasBeenRedirected', 'true', 18*60*60, "/" );
+window.location.href = 
+'http://www.thesundaytimes.co.uk/sto/?ILC=INTstp2';
+}
+})()
+</script>
+</preform>
+<!--TIMES CYCLING CAMPAIGN-->
+<script type="text/javascript">
+if( /\/tto\/news\/$/gi.test(window.location.href) ){
+$(".mast-head").append("<a style='position:absolute; top:0px; left:800px' ></a>");
+}
+</script>
+<!--Journalist Avator tag fix -->
+<style>
+#niCommentingRig.fyre .fyre-widget 
+.fyre-comment-author-tag-TTO_Journalist {
+background-color: #F4F3E1;
+padding-top: 8px;
+padding-left: 8px;
+}
+#niCommentingRig.fyre .fyre-widget .fyre-comment-author-tag-Standard 
+.fyre-comment-user {
+display: none !important;
+}
+#niCommentingRig.fyre .fyre-widget 
+.fyre-comment-author-tag-TTO_Journalist .fyre-comment-user {
+display: block;
+width: 60px;
+height: 60px;
+float: left;
+background-image: url('/tto/public/img/commentingAvatarTTO.png');
+background-repeat: no-repeat;
+padding-left: 8px;
+position: relative;
+}
+#niCommentingRig.fyre .fyre-widget 
+.fyre-comment-author-tag-TTO_Journalist .fyre-comment-user a {
+display: none;
+}
+</style>
+<!--Article package double MPU fix-->
+<style>
+.t-package-article .article-side #mpu1 .tto-mpu {
+float: none; }
+</style>
+<!--FOOTER-->
+<script src="http://platform.twitter.com/widgets.js" 
+charset="utf-8"></script>
+<!--fix for sharing on teaser articles-->
+<script>
+$('.share-widget p').text('In order to read the full article, visitors must subscribe to thetimes.co.uk');
+</script>
+<div id="footer" class="cf">
+<div class="address">
+<div><span class="build-version">Â© Times Newspapers Limited 2014 | 
+Version 5.9.0.9(123613)</span></div>
+<span>Registered in England No. 894646 Registered office:<address> 3 Thomas More Square, London, E98 1XY </address>
+</span>
+</div>
+<div class="links" style="margin-bottom:125px">
+<a href="https://home.thetimes.co.uk">My Account</a> |
+<a href="http://www.thetimes.co.uk/tto/feedindex/">RSS</a> | 
+<a href="/goto/classified">Classified advertising</a> |
+<a href="http://www.nicommercial.com/">Display advertising</a> | 
+<a href="http://www.timeswhiskyclub.com?utm_source=times_homepage&amp;utm_medium=website&amp;utm_content=click_through_link&amp;utm_campaign=homepage_footer/">The Times Whisky Club</a> |
+<a href="http://www.encountersdating.co.uk?utm_source=times_homepage&amp;utm_medium=website&amp;utm_content=click_through_link&amp;utm_campaign=homepage_footer">Encounters Dating</a> |
+<a href="http://www.sundaytimeswineclub.co.uk/">Sunday Times Wine Club</a> |
+<a href="http://www.nidp.com/">Privacy &amp; Cookie Policy</a> | 
+<a href="http://www.nisyndication.com/">Syndication</a> |
+<a href="http://www.thetimes.co.uk/tto/public/?view=sitemap&amp;section=News">Site Map</a> | 
+<a href="https://login.thetimes.co.uk/links/faq">FAQ</a> | 
+<a href="https://login.thetimes.co.uk/links/terms">Terms &amp; Conditions</a> | 
+<a href="https://login.thetimes.co.uk/links/contact">Contact us</a> |
+<a href="http://www.thetimes.co.uk/tto/public/digital/article3678635.ece">iPhone</a> |
+<a href="http://www.thetimes.co.uk/tto/public/digital/article3670735.ece">Android smartphone</a> |
+<a href="http://www.thetimes.co.uk/tto/public/digital/article3670696.ece">Android tablet</a> |
+<a href="http://www.thetimes.co.uk/tto/public/digital/article3670713.ece">Kindle</a> |
+<a href="http://www.thetimes.co.uk/tto/public/digital/article3670699.ece">Kindle Fire</a> | 
+<a href="/goto/announcements">Place an announcement in The Times</a> |
+<a href="http://driving.co.uk">Sunday Times Driving</a> | 
+<a href="http://www.timesbooks.co.uk">The Times Bookshop</a> | 
+<a href="http://www.timestutorials.co.uk/?utm_source=the_times&amp;utm_medium=website&amp;utm_content=click_through_link&amp;utm_campaign=footer">Times Tutorials</a>|
+<a href="http://www.thetimes.co.uk/tto/public/timescurrencyservices?utm_source=the_times&amp;utm_medium=website&amp;utm_content=click_through_link&amp;utm_campaign=footer">Times Currency Services</a>| 
+<a href="http://www.timesprintgallery.co.uk?utm_source=the_times&amp;utm_medium=website&amp;utm_content=click_through_link&amp;utm_campaign=footer">Times 
+Print Gallery</a></div>
+</div>
+<!--Journalist Avator tag fix -->
+<style>
+#niCommentingRig.fyre .fyre-widget 
+.fyre-comment-author-tag-TTO_Journalist {
+background-color: #F4F3E1;
+padding-top: 8px;
+padding-left: 8px;
+}
+#niCommentingRig.fyre .fyre-widget .fyre-comment-author-tag-Standard 
+.fyre-comment-user {
+display: none !important;
+}
+#niCommentingRig.fyre .fyre-widget 
+.fyre-comment-author-tag-TTO_Journalist .fyre-comment-user {
+display: block;
+width: 60px;
+height: 60px;
+float: left;
+background-image: url('/tto/public/img/commentingAvatarTTO.png');
+background-repeat: no-repeat;
+padding-left: 8px;
+position: relative;
+}
+#niCommentingRig.fyre .fyre-widget 
+.fyre-comment-author-tag-TTO_Journalist .fyre-comment-user a {
+display: none;
+}
+</style>
+<!--Article package double MPU fix-->
+<style>
+.t-package-article .article-side #mpu1 .tto-mpu {
+float: none; }
+</style>
+<!--js for subs thingy-->
+<link rel="stylesheet" type="text/css" href="http://www.thetimes.co.uk/fonts/TimesClassicText-Smallcaps-Roman.css"></link>
+<script type="text/javascript">
+if( /\/tto\/news\/$/gi.test(window.location.href) ){
+(function($, window){
+$(window).ready(function(){
+var subscribers, anchor, img, html;
+if($('.mast-head').find('a').length > 0) {
+subscribers = "375,882";
+anchor = $('.mast-head').find('a')[1];
+img = $('.mast-head').find('a')[1].children;
+html = '<div class="subscribe-button"><div class="subscribe-button-counter"><strong>'+subscribers+'</strong>members</div>';
+html += '<a href="http://store2.thetimes.co.uk/?ILC=INT-TNL_The_Times-homepage-toplink-5_28_2013_-64#packs" class="subscribe-button-link"><span>';
+html += 'Join now from just Â£2 week</span></a></div>';
+function format(n) {
+return n.toFixed(2).replace(/(\d)(?=(\d{3})+\.)/g, "$1,").split('.')[0];
+}
+$(img).remove();
+$(anchor).html(html);
+$(this).delay(500).queue(function(){
+$('.subscribe-button').addClass('active');
+});
+}
+});
+})(jQuery, window);
+}
+</script>
+<!--css for subs bar-->
+<style>
+.subscribe-button {
+opacity: 0;
+transition: opacity 500ms ease;
+margin: 0 auto;
+width: 170px;
+height: 80px;
+overflow: hidden;
+font-size: 12px;
+font-family:"TimesClassicText-Smallcaps-Roman";
+background-color: white;
+font-smoothing: antialiased; }
+.subscribe-button .subscribe-button-counter {
+width: 90px;
+float: left;
+margin-top: 16px;
+text-align: center; }
+.subscribe-button .subscribe-button-counter strong {
+font-size: 2.4em;
+font-weight: normal;
+display: block; }
+.subscribe-button .subscribe-button-link {
+transition: opacity 400ms ease;
+margin: 0;
+margin-top: 2px;
+display: block;
+width: 68px;
+height: 68px;
+float: right;
+background-image: 
+url("http://www.thetimes.co.uk/tto/multimedia/archive/00670/ROUNDEL_670934a.png"); 
+}
+.subscribe-button .subscribe-button-link span {
+display: block;
+width: 0px;
+height: 0px;
+overflow: hidden; }
+.subscribe-button .subscribe-button-link:hover {
+opacity: .5; }
+.subscribe-button .subscribe-button-link:after {
+content: ' ';
+display: block;
+clear: both; }
+.subscribe-button.active {
+opacity: 1; }
+</style>
+<!-- Evo wizard code for The Times -->
+<script type="text/javascript">
+var __evo = window.__evo || {}; __evo.partner = "TheTimes";
+(function() {
+window.onload=function(){
+if (document.getElementById('toolbar-login')) {
+var script = document.createElement("script"); script.type = 
+"text/javascript"; 
+script.id = "evo-core"; script.async = true;
+script.src = ( "https:" == document.location.protocol ? "https" : "http" ) + "://www.primefuse.com/public/evo/wizard/core.js";
+var o = document.getElementsByTagName("script")[0]; 
+o.parentNode.insertBefore( script, o );
+}
+}
+})();
+</script>
+</div>
+<script type="text/javascript" src="http://player.ooyala.com/v3/NzUwODU5MDkxMWQyNmI0ZWZhOTViMzI0"></script>
+<script type="text/javascript" src="/tto/public/123613/js/tto-bottom-unified.js"></script>
+<script type="text/javascript">
+/***************************************************************/
+/* All parameter options are optional */
+/* Parameter options are */
+/* timeOut = amount of time before the message auto hides */
+/* width = width of the inner bar */
+/* height = height of the message bar */
+/* background = color of the background of the bar */
+/* opacity = opacity of the message bar */
+/* fontSize = size of the font */
+/* fontColor = color of the font */
+/* fontFamily = font to use */
+/* messageText = 3 part arrary containing before, link and */
+/* after text as elements 0-2 */
+/* acceptText = Text to be used for the accept button */
+/* termsLink = The link from the body text */
+/* paddingTop = The padding above the text in the banner */
+/* acceptPadding = Padding around the accept button */
+/* acceptMargin = margin above the accept button */
+/***************************************************************/
+var params={};
+params.width=956;
+params.height=30;
+params.fontSize=12;
+params.paddingTop=7;
+params.fontFamily = "arial";
+params.timeOut = 60000;
+params.opacity = 0.6;
+params.background = "#000000";
+showCookiesMessage(params);
+</script>
+<script type="text/javascript">
+//<![CDATA[
+$("#newsflash-ticker-placeholder").fetch('/tto/public/?service=ajaxHandler&type=flashTicker&sec=BusinessIndustriesHealth&ftf=').css("height","auto");
+//]]>
+</script>
+<script type="text/javascript" src="/tto/public/123613/js/pager.js"></script>
+<script type="text/javascript">
+$("#earpiece").fetch('/tto/public/?service=ajaxHandler&sec=BusinessIndustriesHealth&type=topPuff');
+</script>
+<script type="text/javascript">
+//<![CDATA[
+$(window).load(function() {
+if ($('#clock').length) {
+new tto.Clock('/tto/public');
+};
+var ttoCountryCode = new tto.countryCode('/tto/');	
+if (tto.browser.osVendor=="ios"){
+var ttoReplaceLogo = new tto.replaceLogo('/tto/public');
+};
+});
+//]]>
+</script>
+<!-- checking if in IAM -->
+v
+<script type="text/javascript">
+<!--
+var utag_data = {
+site : "tto",
+type : "ARTICLE",
+article_id : "4087496",
+title : "Business leaders echo public distrust of Pfizer’s £63bn bid",
+path : "/business/industries/health",
+path_names : "/Business/Industries/Health",
+publication_date : "20140513",
+section_id : "411",
+byline : "Andrew Clark, Nic Fildes",
+source : "EidosMedia",
+hub_availability: "no"
+}
+//-->
+</script>	
+<!-- Asyc Tealium File Call-->
+<script type="text/javascript">
+(function(a,b,c,d){
+a='//tags.tiqcdn.com/utag/newsinternational/thetimes/prod/utag.js';
+b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+})();
+</script>
+<!-- End of Tealium Script-->
+<!-- End - checking if in IAM -->
+<div id="mpu-block" class="tto-hide">
+<div class="tto-mpu" id="content-mpu-banner">
+<!-- BEGIN: Module - Advert:Top -->
+<script type="text/javascript">
+<!--
+function getCookie(c_name)
+{
+var c_value = document.cookie;
+var c_start = c_value.indexOf(" " + c_name + "=");
+if (c_start == -1)
+{
+c_start = c_value.indexOf(c_name + "=");
+}
+if (c_start == -1)
+{
+c_value = null;
+}
+else
+{
+c_start = c_value.indexOf("=", c_start) + 1;
+var c_end = c_value.indexOf(";", c_start);
+if (c_end == -1)
+{
+c_end = c_value.length;
+}
+c_value = unescape(c_value.substring(c_start,c_end));
+}
+return c_value;
+}
+var cipsCookieValue = "";
+if(getCookie('cips'))
+{
+cipsCookieValue = getCookie('cips');
+}
+document.write('<script type="text/javascript" src="http://ad.uk.doubleclick.net/N3048/adj/business.thetimes/industries;pos=pushdown;content_type=art;sz=970x66;' + cipsCookieValue + 'tile=1;ord='+randnum+'?"><\/script>');
+//-->
+</script>
+<noscript><a href="http://ad.uk.doubleclick.net/N3048/jump/business.thetimes/industries;pos=pushdown;content_type=art;sz=970x66;tile=1;;ord=1399956125750?" target="_blank"> 
+<img src="http://ad.uk.doubleclick.net/N3048/ad/business.thetimes/industries;pos=pushdown;content_type=art;tile=1;sz=970x66;ord=1399956125750" width="970" height="66" border="0" alt="" /></a>
+</noscript>
+<!-- END: Module - Advert:Top -->
+</div>
+<div class="tto-mpu" id="content-mpu-sponsored1">	
+<!-- BEGIN: Module - Advert:Top -->
+<script type="text/javascript">
+<!--
+function getCookie(c_name)
+{
+var c_value = document.cookie;
+var c_start = c_value.indexOf(" " + c_name + "=");
+if (c_start == -1)
+{
+c_start = c_value.indexOf(c_name + "=");
+}
+if (c_start == -1)
+{
+c_value = null;
+}
+else
+{
+c_start = c_value.indexOf("=", c_start) + 1;
+var c_end = c_value.indexOf(";", c_start);
+if (c_end == -1)
+{
+c_end = c_value.length;
+}
+c_value = unescape(c_value.substring(c_start,c_end));
+}
+return c_value;
+}
+var cipsCookieValue = "";
+if(getCookie('cips'))
+{
+cipsCookieValue = getCookie('cips');
+}
+document.write('<script type="text/javascript" src="http://ad.uk.doubleclick.net/N3048/adj/business.thetimes/mainhomepage;pos=sponsor;content_type=art;sz=120x60;' + cipsCookieValue + 'tile=2;ord='+randnum+'?"><\/script>');
+//-->
+</script>
+<noscript><a href="http://ad.uk.doubleclick.net/N3048/jump/business.thetimes/mainhomepage;pos=sponsor;content_type=art;sz=120x60;tile=2;;ord=1399956125750?" target="_blank"> 
+<img src="http://ad.uk.doubleclick.net/N3048/ad/business.thetimes/mainhomepage;pos=sponsor;content_type=art;tile=2;sz=120x60;ord=1399956125750" width="120" height="60" border="0" alt="" /></a>
+</noscript>
+<!-- END: Module - Advert:Top -->
+</div>
+<div class="tto-mpu" id="content-mpu1">
+<!-- BEGIN: Module - Advert:Top -->
+<script type="text/javascript">
+<!--
+function getCookie(c_name)
+{
+var c_value = document.cookie;
+var c_start = c_value.indexOf(" " + c_name + "=");
+if (c_start == -1)
+{
+c_start = c_value.indexOf(c_name + "=");
+}
+if (c_start == -1)
+{
+c_value = null;
+}
+else
+{
+c_start = c_value.indexOf("=", c_start) + 1;
+var c_end = c_value.indexOf(";", c_start);
+if (c_end == -1)
+{
+c_end = c_value.length;
+}
+c_value = unescape(c_value.substring(c_start,c_end));
+}
+return c_value;
+}
+var cipsCookieValue = "";
+if(getCookie('cips'))
+{
+cipsCookieValue = getCookie('cips');
+}
+document.write('<script type="text/javascript" src="http://ad.uk.doubleclick.net/N3048/adj/business.thetimes/industries;pos=mpu;content_type=art;sz=300x250;' + cipsCookieValue + 'tile=3;ord='+randnum+'?"><\/script>');
+//-->
+</script>
+<noscript><a href="http://ad.uk.doubleclick.net/N3048/jump/business.thetimes/industries;pos=mpu;content_type=art;sz=300x250;tile=3;;ord=1399956125750?" target="_blank"> 
+<img src="http://ad.uk.doubleclick.net/N3048/ad/business.thetimes/industries;pos=mpu;content_type=art;tile=3;sz=300x250;ord=1399956125750" width="300" height="250" border="0" alt="" /></a>
+</noscript>
+<!-- END: Module - Advert:Top -->
+</div>
+<div class="tto-mpu" id="content-mpu-bottommpu">
+<!-- BEGIN: Module - Advert:Top -->
+<script type="text/javascript">
+<!--
+function getCookie(c_name)
+{
+var c_value = document.cookie;
+var c_start = c_value.indexOf(" " + c_name + "=");
+if (c_start == -1)
+{
+c_start = c_value.indexOf(c_name + "=");
+}
+if (c_start == -1)
+{
+c_value = null;
+}
+else
+{
+c_start = c_value.indexOf("=", c_start) + 1;
+var c_end = c_value.indexOf(";", c_start);
+if (c_end == -1)
+{
+c_end = c_value.length;
+}
+c_value = unescape(c_value.substring(c_start,c_end));
+}
+return c_value;
+}
+var cipsCookieValue = "";
+if(getCookie('cips'))
+{
+cipsCookieValue = getCookie('cips');
+}
+document.write('<script type="text/javascript" src="http://ad.uk.doubleclick.net/N3048/adj/business.thetimes/industries;pos=bottommpu;content_type=art;sz=300x251;' + cipsCookieValue + 'tile=4;ord='+randnum+'?"><\/script>');
+//-->
+</script>
+<noscript><a href="http://ad.uk.doubleclick.net/N3048/jump/business.thetimes/industries;pos=bottommpu;content_type=art;sz=300x251;tile=4;;ord=1399956125750?" target="_blank"> 
+<img src="http://ad.uk.doubleclick.net/N3048/ad/business.thetimes/industries;pos=bottommpu;content_type=art;tile=4;sz=300x251;ord=1399956125750" width="300" height="251" border="0" alt="" /></a>
+</noscript>
+<!-- END: Module - Advert:Top -->
+</div>
+</div>
+<!-- BEGIN: Module - Advert:Top -->
+<!-- END: Module - Advert:Top -->
+<script type="text/javascript" src="/tto/public/js/moveMpus.js"></script>
+<script type="text/javascript" src="https://dcdd29eaa743c493e732-7dc0216bc6cc2f4ed239035dfc17235b.ssl.cf3.rackcdn.com/tags/the_times/hokbottom.js"></script>
+</body>
+</html>
+
+

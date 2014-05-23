@@ -5,7 +5,7 @@
 
 set -e
 # the command to invoke to scrape
-scrape="go run /home/ben/mygo/src/github.com/bcampbell/arts/scrapetool/main.go"
+scrape="scrapetool"
 
 # command to compare scrape output against .expected files
 compare=./compare
@@ -26,10 +26,14 @@ goodcnt=0
 badcnt=0
 errcnt=0
 for expected in $inputs; do
-    htmlfile=$(echo $expected | sed 's/\.expected/\.html/')
+    # look for input file - either .warc or .html
+    srcfile=$(echo $expected | sed 's/\.expected$/\.warc/')
+    if [[ ! -f $srcfile ]]; then
+        srcfile=$(echo $expected | sed 's/\.expected$/\.html/')
+    fi
     tmpfile=$(mktemp)
-    #echo >&2 $htmlfile
-    ${scrape} "file://$(pwd)/$htmlfile" >$tmpfile
+    #echo >&2 $srcfile
+    ${scrape} "file://$(pwd)/$srcfile" >$tmpfile
     set +e
     errs=$(${compare} ${compare_flags} $tmpfile $expected)
     result=$?

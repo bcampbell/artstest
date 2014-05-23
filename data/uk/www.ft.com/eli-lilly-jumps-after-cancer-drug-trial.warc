@@ -1,0 +1,797 @@
+WARC/1.0
+Content-Length: 49227
+Content-Type: application/http; msgtype=response
+Warc-Date: 2014-04-26T23:23:10Z
+Warc-Record-Id: urn:X-scrapeomat:1398554591549555980
+Warc-Target-Uri: http://www.ft.com/cms/s/0/4372b27e-9986-11e3-b3a2-00144feab7de.html
+Warc-Type: response
+X-Scrapeomat-Srcurl: http://www.ft.com/cms/s/0/4372b27e-9986-11e3-b3a2-00144feab7de.html
+
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Cache-Control: private, max-age=28
+Connection: keep-alive
+Connection: Transfer-Encoding
+Content-Language: en-GB
+Content-Type: text/html;charset=utf-8
+Date: Sat, 26 Apr 2014 23:23:11 GMT
+Environment: p
+Expires: Sat, 26 Apr 2014 23:23:39 GMT
+Last-Modified: Sat, 26 Apr 2014 23:23:11 GMT
+P3p: policyref="/w3c/p3p.xml", CP="CAO DSP COR LAW CURa ADMa DEVa TAIa PSAa PSDa CONo OUR DELi BUS IND PHY ONL UNI COM NAV INT DEM PRE OTC"
+Server: Apache/2.2.17 (Unix) mod_jk/1.2.30
+Set-Cookie: FT_M=D=D|F=|R=0; expires=Sun, 26-Apr-2015 23:23:11 GMT; path=/; domain=.ft.com
+Vary: Accept-Encoding
+X-Ft-Id: 20u
+
+8000
+
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html lang="en" class="msie msie6"><![endif]-->
+<!--[if IE 7 ]><html lang="en" class="msie msie7"><![endif]-->
+<!--[if IE 8 ]><html lang="en" class="msie msie8"><![endif]-->
+<!--[if IE 9 ]><html lang="en" class="msie msie9"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--><html lang="en" xmlns="http://www.w3.org/1999/xhtml"><!--<![endif]-->
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta charset="UTF-8" />
+<title>Eli Lilly jumps after cancer drug trial - FT.com</title>
+<link rel="canonical" href="http://www.ft.com/cms/s/0/4372b27e-9986-11e3-b3a2-00144feab7de.html" />
+<meta name="description" content="Shares in Eli Lilly climbed after the US pharmaceuticals group said a study of a lung cancer treatment increased survival rates in patients, meeting the study’s primary goals. The drug, ramucirumab, is a human, receptor-targeted antibody that seeks" />
+<meta name="keywords" content="US equities, equities markets news, financial markets news, stock market news, stock data, market data, market summary, market watch, equities, financial data, financial times, ft.com" />
+<!-- START OF OPEN GRAPH TAGS -->
+<meta property="og:title" content="Eli Lilly jumps after cancer drug trial - FT.com"/>
+<meta property="og:type" content="article"/>
+<meta property="og:url" content="http://www.ft.com/cms/s/0/4372b27e-9986-11e3-b3a2-00144feab7de.html"/>
+<meta property="og:site_name" content="Financial Times"/>
+<meta property="og:description" content="Shares in Eli Lilly climbed after the US pharmaceuticals group said a study of a lung cancer treatment increased survival rates in patients, meeting the study’s primary goals. The drug, ramucirumab, is a human, receptor-targeted antibody that seeks"/>
+<meta property="og:image" content="http://im.ft-static.com/m/img/social/og-ft-logo-large.png"/>
+<meta property="fb:page_id" content="8860325749" />
+<!-- END OF OPEN GRAPH TAGS -->
+<link rel='stylesheet' href='http://s1.ft-static.com/m/style/234dbf74/bundles/core.css' media="all" />
+<link rel='stylesheet' href='http://navigation.webservices.ft.com/v1/navigation/ft/css/style.min.css' media="all" />
+<link rel='stylesheet' href='http://s1.ft-static.com/m/style/39201db9/bundles/article.css' media="all" />
+<!--ft:headWrapperCss-->
+<!--[if lt IE 9]>
+<script src="http://s2.ft-static.com/scripts/45348a8f/bundles/html5Shiv.js"></script>
+<![endif]-->
+<script>
+var pageUUID = "3d476962-fbe1-11df-b7e9-00144feab49a";
+var articleUUID= "4372b27e-9986-11e3-b3a2-00144feab7de";
+var FT = FT || {};
+FT.isPage = { Context: 1, Master: 0, Site: 0, Section: 0, Front: 0, Story: 1 };
+</script>
+<link rel="shortcut icon" href="http://im.ft-static.com/m/icons/favicon.ico" type="image/x-icon" />
+<link rel="apple-touch-icon" href="http://im.ft-static.com/m/icons/apple-touch-icon.png" />
+<script>
+siteMapTerm = 'Sections.US Equities';
+navEdition = 'UK';
+brandName = '';
+primaryThemeName = 'Eli Lilly & Co';
+</script> 
+<script>
+FT.env = {
+"site" : "ftcom",
+"sec" : "sectionAdvert1",
+"page" : "pageAdvert1",
+"artid" : "pageAdvert1",
+"server" : "",
+"dfp_site": "ftcom.5887.markets",
+"dfp_zone": "equities-us",
+"dfp_targeting" : ";pt=art",
+"asset" : "story"
+};
+// These global vars are required for FTTrack2.js
+FTSection = FT.env.sec;
+FTPage = FT.env.page;
+FTSite = FT.env.site;
+AssetType = FT.env.asset;
+</script>
+<script>
+FT = FT ? FT : {};
+FT.storyTools = FT.storyTools ? FT.storyTools : {};
+FT.storyTools.storySummary = 'US+indices+dip+modestly+lower';
+</script>
+<link href="https://plus.google.com/113457471429583444041/" rel="publisher" />
+<script src="//s4.media.ft.com/opentag/opentag-27295-31253.js"></script>
+<script src="http://s2.ft-static.com/scripts/d4d522ed/bundles/renderHead.js"></script>
+<!-- New tracking module, supercedes ft-tracking and si-tracking -->
+<script src="http://s2.ft-static.com/scripts/8fb33395/bundles/tracking.js"></script>
+<noscript>
+<img alt="" border="0" width="1" height="1" src="http://track.ft.com/track/track.js?javascript=disabled"/>
+<img alt="" border="0" width="1" height="1" src="http://stats.ft.com/si/track.gif?WT.js=No"/>
+</noscript>
+<!-- FT Advertising code -->
+<script>
+(function () {
+var version = 'latest',
+urlStem = '//www.ft.com/m/advertising/',
+timestamp = new Date(),
+query = '?t=' + timestamp.getFullYear() + '-' + (timestamp.getMonth() + 1) + '-' + timestamp.getDate();
+if (FT) {
+if (FT.env && FT.env.advertising) {
+version = FT.env.advertising;
+query = '';
+}
+if (FT.Properties && FT.Properties.ADVERTISING_BASE) {
+urlStem = FT.Properties.ADVERTISING_BASE;
+}
+}
+urlStem = urlStem + 'advertising-' + version+ '.min';
+document.write('\x3Cscript src="' + urlStem + '.js' + query + '">\x3C\/script>');
+document.write('\x3Clink rel="stylesheet" media="all" href="' + urlStem + '.css' + query + '" \/>');
+}());
+</script>
+<!-- New brightcove module, contains the libraries and FT wrappers as well -->
+<script src="http://s2.ft-static.com/scripts/d17d92b5/bundles/brightcove.js"></script>
+</head>
+<body data-uid="3d476962-fbe1-11df-b7e9-00144feab49a" data-article-uid="4372b27e-9986-11e3-b3a2-00144feab7de" class="nojs ">
+<!-- DoubleClick DART Natural Search Standard Tracking Tag for DS3
+DFA Network - Essence - DFA EMEA (6494) : DS Agency - Essence Digital (20200000000000626) : DS Advertiser - Finacial Times (21700000000032003)
+Please do not remove
+Tag should be placed at the top of the page, after opening body tag and before DoubleClick Spotlight or Floodlight tag(s)
+Creation Date: 01-06-2014
+User Story ID - US40735
+Request By - Marketing
+Purpose - To track conversions driven by natural searches using the existing DFA infrastructure.
+-->
+<script type='text/javascript'>
+// DoubleClick DART Natural Search Tracking Code
+if (document.referrer){
+var ord = Math.random()*1000000000000;
+document.write('<SCRIPT language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/N6494.197812.NSO.CODESRV/B7995637;dcadv=4349995;sz=1x2;ord=' + ord + '?"><\/SCRIPT>');
+}
+</script>
+<script>FT.$doc.trigger("pgObjStart", {key: "perceivedLoadTime"});</script>
+<!-- Methode uuid: "4372b27e-9986-11e3-b3a2-00144feab7de" -->
+<!-- BuildLife: "PROD 208440" -->
+<!-- Session Id: "" -->
+<!-- Date: "2014-04-07:13:10:43GMT" -->
+<!-- Revision: "${SVN.REVISION} " -->
+<!-- Version: "NewAHP " -->
+<script>
+FT.preInit.setBodyClass(navigator);
+</script>
+<div id="fullpage-container"></div>
+<div class="introAd" data-cb-ad-id="Intro" data-cb-dfp-id="unit=ftcom5887markets.equities-us;targeting=art;pos=intro">
+<script>
+FT.ads.request('intro');
+</script>
+</div>
+<div class="clearfix container" id="page-container">
+<div id="bannerAdvertContainer">
+<div id="banlbGPT" data-ftads-pos="banlb" class="advertising" >
+<script>
+if( FT.ads.slots && FT._ads.utils.isFunction(FT.ads.slots.initSlot) ){
+FT.ads.slots.initSlot("banlbGPT");
+}
+</script>
+<noscript>
+<a href="http://ad.doubleclick.net/N5887/jump/ftcom.5887.home/uk;sz=468x60,728x90;pos=banlbGPT;tile=1;nojs=1?" target="_blank">
+<img src="http://ad.doubleclick.net/N5887/ad/ftcom.5887.home/uk;sz=468x60,728x90;pos=banlbGPT;tile=1;nojs=1?" border="0" alt="Advertisement" />
+</a>
+</noscript>
+</div>
+<div id="newssubsGPT" data-ftads-pos="newssubs" class="advertising">
+<script>
+if( FT.ads.slots && FT._ads.utils.isFunction(FT.ads.slots.initSlot) ){
+FT.ads.slots.initSlot("newssubsGPT");
+}
+</script>
+</div>
+</div>
+<div class="master-row topSection" data-zone="topSection" data-timer-key="1">
+<script>FT.$doc.trigger("pgObjStart", {key: "1", keyType: "el"});</script>
+<script>FT.$doc.trigger("pgObjStart", {key: "2", keyType: "el"});</script>
+<div id="header" class="headerGPT clearfix" data-comp-name="header" data-comp-view="header" data-comp-index="0" data-timer-key="2" >
+<div id="page-title">
+<div class="bar section">
+<a class="heading hidden" href="http://www.ft.com"><img src="http://im.ft-static.com/m/img/masthead_print.gif" alt="Financial Times" /></a>
+<p class="bc"> 
+<a href="http://www.ft.com">ft.com</a>
+<span> &gt; </span><a href="http://www.ft.com/markets">Markets</a>
+<span> &gt; </span><a href="http://www.ft.com/markets/equities">Equities</a>
+<span> &gt; </span>
+</p>
+<div class="pagename"> 
+<span data-pos="0" ><a href='http://www.ft.com/markets/us'>US Equities</a></span>
+</div>
+</div>	</div>
+<div class="colright clearfix">
+<div id="ft-search" class="clearfix wideSearchInput">
+<form id="wsod-symbolSearch" method="get" action="http://search.ft.com/search" >
+<fieldset>
+<div class="searchContainer">
+<input class="text ft-search-auto-completable" type="text" value="" name="queryText" id="simpleSearchField" autocomplete="off" />
+</div>
+<button type="submit" class="ft-button ft-button-large">Search</button>
+</fieldset>
+</form>
+</div>
+<div id="ftLogin">
+<div class="ftLogin-loggedOut">
+<a id="ftLogin-signIn" class="ft-link" href="https://registration.ft.com/registration/barrier/login">Sign in</a>
+<a class="ft-link" href="http://registration.ft.com/registration/subscription-service/signuppsp?segid=70009">Register</a>
+<a class="ft-link subscriptionLink" href="http://registration.ft.com/registration/subscription-service/bpsp?segid=70152">Subscribe</a>
+</div>
+<div class="ftLogin-loggedIn">
+<a href="https://registration.ft.com/registration/login/logout?location=" id="ftLogin-logout">Sign out <span id="ftLogin-user"></span></a>
+<span id ="ftLogin-sub-link"><a href="http://registration.ft.com/registration/subscription-service/bpsp?segid=70152" class="subscriptionLink">Subscribe</a></span>
+<a href="http://registration.ft.com/registration/selfcare/" id="ftLogin-yourAccount">Your account</a>
+</div>
+<div id="ftLogin-box" class="roundedCorners">
+<form action="https://registration.ft.com/registration/barrier/login" method="post">
+<input type="hidden" name="location" value="http://www.ft.com/cms/s/0/4372b27e-9986-11e3-b3a2-00144feab7de.html" />
+<fieldset>
+<label for="ftLogin-username">Email address</label>
+<input id="ftLogin-username" name="username" class="text" type="text"/>
+</fieldset>
+<fieldset>
+<label for="ftLogin-password">Password</label>
+<input id="ftLogin-password" name="password" class="text" type="password"/>
+</fieldset>
+<span class="ftLogin-forgotPassword">
+<a href="https://registration.ft.com/registration/login/forgottenpassword?forgottenPasswordUsername=&amp;location=">Forgot password?</a>
+</span>
+<fieldset>
+<p class="ftLogin-rememberMe">
+<span>
+<input id="ftLogin-remember" name="rememberme" class="checkbox" type="checkbox" checked="checked" />
+<label for="ftLogin-remember">Remember me on this computer</label>
+</span>
+<button type="submit" class="ft-button ft-button-large">Sign in</button>
+</p>
+<p class="ftLogin-cookiePolicy">
+"Remember me" uses a cookie. View our <a href="http://www.ft.com/cookiepolicy">Cookie Policy</a>.
+</p>
+</fieldset>
+</form>
+</div>
+</div>
+<script>
+FT.preInit.loginForm();
+</script>
+<div id="searchbox" data-ftads-pos="newssubs" class="advertising">
+<script>
+if( FT.ads.slots && FT._ads.utils.isFunction(FT.ads.slots.initSlot) ){
+FT.ads.slots.initSlot("searchbox");
+}
+</script>
+</div>
+</div>
+</div>
+<script>FT.$doc.trigger("pgObjStop", {key: "2"});</script>
+<script>FT.$doc.trigger("pgObjStart", {key: "3", keyType: "el"});</script>
+<nav class="nav-ftcom"> <div id="nav-ftcom" data-track-comp-name="nav" data-nav-source="ft-uk"> <ol class="nav-items-l1"> <li class="nav-item-l1" data-track-pos="0"> <a href="http://www.ft.com">Home</a> </li> <li class="nav-item-l1" data-track-pos="1" data-headlinesuuid="2836ebbe-cd26-11de-a748-00144feabdc0"> <a href="http://www.ft.com/world/uk">UK</a> <div class="nav-flyout"></div> </li> <li class="nav-item-l1" data-track-pos="2" data-headlinesuuid="fefd8528-cd25-11de-a748-00144feabdc0"> <a href="http://www.ft.com/world">World</a> <div class="nav-flyout"></div> </li> <li class="nav-item-l1" data-track-pos="3" data-headlinesuuid="ee08dbdc-cd25-11de-a748-00144feabdc0"> <a href="http://www.ft.com/companies">Companies</a> <div class="nav-flyout"></div> </li> <li class="nav-item-l1 nav-selected" data-track-pos="4" data-headlinesuuid="011debcc-cd26-11de-a748-00144feabdc0"> <a href="http://www.ft.com/markets">Markets</a> <ol class="nav-items-l2"> <li> <a href="http://www.ft.com/fastft"> fastFT </a> </li> <li> <a href="http://www.ft.com/alphaville"> Alphaville </a> </li> <li class="nav-has-l3"> <a href="http://www.ft.com/ftfm"> FTfm </a> <ol class="nav-items-l3"> <li class="title"><a href="http://www.ft.com/ftfm">FTfm<span class="arrow">&#8250;</span></a></li> <li > <a href="http://www.ft.com/ftfm/regulation"> Regulation </a> </li> <li > <a href="http://www.ft.com/ftfm/etfs"> ETFs </a> </li> <li > <a href="http://www.ft.com/ftfm/investment-strategy"> Investment Strategy </a> </li> <li > <a href="http://www.ft.com/ftfm/pensions"> Pensions </a> </li> <li > <a href="http://www.ft.com/ftfm/people"> People </a> </li> <li > <a href="http://www.ft.com/ftfm/opinion"> Opinion </a> </li> <li > <a href="http://video.ft.com/ftfm"> Video </a> </li> </ol> </li> <li class="nav-has-l3"> <a href="http://markets.ft.com/research/markets/overview"> Markets Data </a> <ol class="nav-items-l3"> <li class="title"><a href="http://markets.ft.com/research/markets/overview">Markets Data<span class="arrow">&#8250;</span></a></li> <li > <a href="http://markets.ft.com/research/markets/companies-research"> Equities </a> </li> <li > <a href="http://markets.ft.com/research/Markets/Currencies"> Currencies </a> </li> <li > <a href="http://markets.ft.com/research/Markets/Commodities"> Commodities </a> </li> <li > <a href="http://markets.ft.com/research/Markets/Bonds"> Bonds & Rates </a> </li> <li > <a href="http://funds.ft.com/"> Funds </a> </li> <li > <a href="http://funds.ft.com/UK/ETFS"> ETFs </a> </li> <li > <a href="http://markets.ft.com/research/Markets/Equity-Indices"> World Indices </a> </li> <li > <a href="http://markets.ft.com/research/Markets/Sectors-and-industries"> Sectors & Industries </a> </li> <li > <a href="http://markets.ft.com/portfolio/all.asp"> Portfolio </a> </li> <li > <a href="http://markets.ft.com/research/Markets/Director-dealings"> Director Dealings </a> </li> <li > <a href="http://markets.ft.com/screener/customScreen.asp"> Equity Screener </a> </li> <li > <a href="http://announce.ft.com/"> Company Announcement Service </a> </li> <li > <a href="http://markets.ft.com/research/markets/company-content"> Company Content Hub </a> </li> <li > <a href="http://markets.ft.com/research/Markets/Data-Archive"> Data Archive </a> </li> <li > <a href="http://markets.ft.com/research/Markets/Interactive-chart"> Interactive Charting </a> </li> <li > <a href="http://markets.ft.com/research/Economic-Calendar"> Economic Calendar </a> </li> <li > <a href="http://funds.ft.com/uk/Screener"> Funds & ETF Screener </a> </li> <li > <a href="http://funds.ft.com/uk/fund-comparison"> Fund Compare Tool </a> </li> </ol> </li> <li class="nav-has-l3"> <a href="http://www.ft.com/markets/trading-room"> Trading Room </a> <ol class="nav-items-l3"> <li class="title"><a href="http://www.ft.com/markets/trading-room">Trading Room<span class="arrow">&#8250;</span></a></li> <li > <a href="http://www.ft.com/ft-trading-room/clearing-settlement"> Clearing & Settlement </a> </li> <li > <a href="http://www.ft.com/ft-trading-room/developing-markets-asia"> Developing Markets & Asia </a> </li> <li > <a href="http://www.ft.com/ft-trading-room/high-frequency-trading"> High Frequency Trading </a> </li> <li > <a href="http://www.ft.com/ft-trading-room/markets-regulation"> Markets Regulation </a> </li> <li > <a href="http://www.ft.com/ft-trading-room/trading-technology"> Trading Technology </a> </li> <li > <a href="http://www.ft.com/ft-trading-room/quick-view"> Quick View </a> </li> <li > <a href="http://www.ft.com/ft-trading-room/carbon-markets"> Carbon Markets </a> </li> <li > <a href="http://www.ft.com/ft-trading-room/exchanges-consolidation"> Exchanges Consolidation </a> </li> </ol> </li> <li class="nav-has-l3 nav-selected"> <a href="http://www.ft.com/markets/equities"> Equities </a> <ol class="nav-items-l3"> <li class="title"><a href="http://www.ft.com/markets/equities">Equities<span class="arrow">&#8250;</span></a></li> <li class="nav-selected"> <a href="http://www.ft.com/markets/us"> US </a> </li> <li > <a href="http://www.ft.com/markets/uk"> UK </a> </li> <li > <a href="http://www.ft.com/markets/europe"> Europe </a> </li> <li > <a href="http://www.ft.com/markets/asiapacific"> Asia-Pacific </a> </li> </ol> </li> <li> <a href="http://www.ft.com/markets/currencies"> Currencies </a> </li> <li> <a href="http://www.ft.com/markets/capitalmarkets"> Capital Mkts </a> </li> <li> <a href="http://www.ft.com/markets/commodities"> Commodities </a> </li> <li> <a href="http://blogs.ft.com/beyond-brics/"> Emerging Markets </a> </li> <li class="nav-rss"><img src="http://navigation.webservices.ft.com/v1/navigation/ft/img/rss-icon.gif" width="14" height="14" alt="RSS" /></li> <li class="nav-tools nav-has-l3"> <a href="http://www.ft.com/servicestools">Tools</a> <ol class="nav-items-l3"> <li class="title"> <a href="http://www.ft.com/servicestools"> Tools <span class="arrow">&#8250;</span> </a> </li> <li> <a href="http://www.ft.com/topics">Topics</a> </li> <li> <a href="http://markets.ft.com/portfolio/all.asp">Portfolio</a> </li> <li> <a href="http://clippings.ft.com/">FT clippings</a> </li> <li> <a href="http://markets.ft.com/alerts/keyword.asp">Alerts hub</a> </li> <li> <a href="http://nbe.ft.com/nbe/profile.cfm">Email briefings</a> </li> <li> <a href="http://rankings.ft.com/businessschoolrankings/global-mba-rankings">MBA rankings</a> </li> <li> <a href="http://mbanewslines.ft.com/">Newslines</a> </li> <li> <a href="http://lexicon.ft.com">FT Lexicon</a> </li> <li> <a href="http://www.ft.com/mobile">Mobile</a> </li> <li> <a href="http://markets.ft.com/ft/markets/currencies.asp">Currency converter</a> </li> <li> <a href="http://www.ft.com/ebooks">FT ebooks</a> </li> <li> <a href="http://www.ft.com/FTePaper">ePaper</a> </li> <li> <a href="http://jobs.ft.com/regionselector.ashx">Executive jobs</a> </li> <li> <a href="http://presscuttings.ft.com/presscuttings/search.htm">FT press cuttings</a> </li> <li> <a href="http://aboutus.ft.com/social-media/">Social Media hub</a> </li> <li> <a href="http://markets.ft.com/research/EcoCalendar">Economic calendar</a> </li> </ol> </li> </ol> </li> <li class="nav-item-l1" data-track-pos="5" data-headlinesuuid="efdac59c-cd25-11de-a748-00144feabdc0"> <a href="http://www.ft.com/global-economy">Global Economy</a> <div class="nav-flyout"></div> </li> <li class="nav-item-l1" data-track-pos="6" data-headlinesuuid="fa35a412-cd25-11de-a748-00144feabdc0"> <a href="http://www.ft.com/lex">Lex</a> <div class="nav-flyout"></div> </li> <li class="nav-item-l1" data-track-pos="7" data-headlinesuuid="ec66fcc8-cd25-11de-a748-00144feabdc0"> <a href="http://www.ft.com/comment">Comment</a> <div class="nav-flyout"></div> </li> <li class="nav-item-l1" data-track-pos="8" data-headlinesuuid="fcdae4e8-cd25-11de-a748-00144feabdc0"> <a href="http://www.ft.com/management">Management</a> <div class="nav-flyout"></div> </li> <li class="nav-item-l1" data-track-pos="9" data-headlinesuuid="d5480e62-cd28-11de-a748-00144feabdc0"> <a href="http://www.ft.com/personal-finance">Personal Finance</a> <div class="nav-flyout"></div> </li> <li class="nav-item-l1" data-track-pos="10" data-headlinesuuid="cec106aa-cd25-11de-a748-00144feabdc0"> <a href="http://www.ft.com/life-arts">Life & Arts</a> <div class="nav-flyout"></div> </li> </ol> </div></nav>
+<script>FT.$doc.trigger("pgObjStop", {key: "3"});</script>
+<script>FT.$doc.trigger("pgObjStart", {key: "4", keyType: "el"});</script>
+<div class="freestyle" data-comp-name="freestyle" data-comp-view="freestyle" data-comp-index="2" data-timer-key="4" id="168514">
+<script>
+//<![CDATA[
+FT = FT ? FT : {};
+FT.storyTools = FT.storyTools ? FT.storyTools : {};
+FT.storyTools.shareList = [
+{
+'id': 'twitter',
+'label': 'Twitter',
+'link' : 'https://twitter.com/intent/tweet?url={url}&text={title}&original_referer={originalUrl}&related={relatedAccts}&via=FT',
+'size': 'height=436,width=646'
+},
+{
+'id': 'facebook',
+'label': 'Facebook',
+'link': 'http://www.facebook.com/sharer.php?u={canonicalurl}&t={title}+|+{section}',
+'size': 'height=436,width=646'
+},
+{
+'id': 'googleplus',
+'label': 'Google+',
+'link': 'https://plus.google.com/share?url={url}',
+'size': 'height=436,width=646'
+},
+{
+'id': 'linkedin',
+'label': 'LinkedIn',
+'link' : 'http://www.linkedin.com/shareArticle?mini=true&url={url}&title={title}+|+{section}&summary={summary}&source={source}',
+'size': 'height=436,width=646'
+},
+{
+'id': 'stumbleupon',
+'label': 'StumbleUpon',
+'link': 'http://www.stumbleupon.com/submit?url={url}&title={title}',
+'size': 'height=436,width=646'
+},
+{
+'id': 'reddit',
+'label': 'Reddit',
+'link': 'http://reddit.com/submit?url={url}&title={title}',
+'size': 'height=436,width=646'
+},
+{
+'id': 'tumblr',
+'label': 'Tumblr',
+'link': 'http://www.tumblr.com/share/link?url={url}&name={title}&description={summary}',
+'size': 'height=436,width=646'
+}
+];
+FT.storyTools.twitterList = [
+{
+"name": "World",
+"value": "fttheworld" 
+},
+{
+"name": "Companies",
+"value": "ftcompanies" 
+},
+{
+"name": "Economy",
+"value": "ftuseconomy"
+},
+{
+"name": "Lex",
+"value": "helexcolumn" 
+},
+{
+"name": "Management",
+"value": "ftmanagement"
+},
+{
+"name": "Life &amp; Arts",
+"value": "ftlifeandarts" 
+},
+{
+"name": "Alphaville",
+"value": "ftalphaville" 
+},
+{
+"name": "Beyond Bricks",
+"value": "beyondbrics" 
+},
+{
+"name": "Tech Hub",
+"value": "fttechhub" 
+} 
+];
+FT.storyTools.defaultTwitAct = {
+"name": "fttheworld" 
+};
+//]]>
+</script>
+</div>
+<script>FT.$doc.trigger("pgObjStop", {key: "4"});</script>
+<script>FT.$doc.trigger("pgObjStop", {key: "1"});</script>
+</div>
+<div class="master-column middleSection " data-zone="middleSection" data-timer-key="5">
+<div class="master-row contentSection " data-zone="contentSection" data-timer-key="6">
+<div class="master-row editorialSection" data-zone="editorialSection" data-timer-key="7">
+<script>FT.$doc.trigger("pgObjStart", {key: "7", keyType: "el"});</script>
+<script>FT.$doc.trigger("pgObjStart", {key: "8", keyType: "el"});</script>
+<div class="fullstory fullstoryHeader clearfix" data-comp-name="fullstory" data-comp-view="fullstory_title" data-comp-index="0" data-timer-key="8">
+<p class="lastUpdated" id="publicationDate">
+<span class="time">February 19, 2014 6:10 pm</span></p>
+<h1>Eli Lilly jumps after cancer drug trial</h1>
+<p class="byline ">
+<span>By Eric Platt in New York</span></p>
+</div>
+<script>FT.$doc.trigger("pgObjStop", {key: "8"});</script>
+<script>FT.$doc.trigger("pgObjStart", {key: "9", keyType: "el"});</script>
+<div class="fullstory fullstoryBody" data-comp-name="fullstory" data-comp-view="fullstory" data-comp-index="1" data-timer-key="9">
+<div id="storyContent"><p>Shares in <a class="wsodCompany" data-hover-chart="us:LLY" href="http://markets.ft.com/tearsheets/performance.asp?s=us:LLY">Eli Lilly</a> climbed after the US pharmaceuticals group said a study of a lung cancer treatment increased survival rates in patients, meeting the study’s primary goals.</p>
+<p>The drug, ramucirumab, is a human, receptor-targeted antibody that seeks to restrict the process by which blood vessels supply blood to tumours.</p>
+<div class="insideArticleShare"><ul><!----></ul></div><div class="story-package" data-track-comp-name="moreOn"><div class="insideArticleCompHeader"><h3 class="insideArticleCompHeaderTitle">More</h3></div><h4>On this topic</h4><ul><li data-track-pos="0">Lex <a href="http://www.ft.com/cms/s/3/8edc414c-ca34-11e3-bb92-00144feabdc0.html">Eli Lilly animal spirits</a></li><li data-track-pos="1">Lex <a href="http://www.ft.com/cms/s/3/1fd1fe38-c0d7-11e3-bd6b-00144feabdc0.html">Eli Lilly – momentum and mean reversion</a></li><li data-track-pos="2"> <a href="http://www.ft.com/cms/s/0/d011b670-0b11-11e3-bffc-00144feabdc0.html">Eli Lilly hit by China corruption claims</a></li><li data-track-pos="3"> <a href="http://www.ft.com/cms/s/0/ccdbce9e-4ad4-11e2-929d-00144feab49a.html">Eli Lilly settles bribery charges</a></li></ul><h4>IN US Equities</h4><ul><li data-track-pos="4"> <a href="http://www.ft.com/cms/s/0/506abec6-cc90-11e3-ab99-00144feabdc0.html">Pandora falls on slower sales forecast</a></li><li data-track-pos="5"> <a href="http://www.ft.com/cms/s/0/962a7644-cbc9-11e3-a934-00144feabdc0.html">DR Horton lifts housebuilding sector</a></li><li data-track-pos="6"> <a href="http://www.ft.com/cms/s/0/650e308e-cb04-11e3-ba9d-00144feabdc0.html">US airlines advance on strong results</a></li><li data-track-pos="7"> <a href="http://www.ft.com/cms/s/0/2bbc1a5e-ca3b-11e3-8a31-00144feabdc0.html">Harley-Davidson races up S&amp;P leaderboard</a></li></ul></div><p>The phase three trial of patients with second-line, non-small cell lung cancer compared outcomes of those treated with ramucirumab-plus-docetaxel to a group of patients who had a placebo-plus-docetaxel.</p>
+<p>Analysts at Credit Suisse have estimated the market for ramucirumab could top $800m per year by 2020, or 4 per cent of Eli Lilly’s overall sales. </p>
+<p>The company gained access to ramucirumab through its $6.5bn acquisition of ImClone Systems in 2008.</p>
+<p>Two separate phase three trials of the drug have been successful, although both were tested in patients with gastric cancer. </p>
+<p>Lilly expects top-line results for phase three trials of ramucirumab in liver and colon cancer later this year.</p>
+<p>Shares in Lilly rose 5.1 per cent to close at $58.07.</p>
+<p><a class="wsodCompany" data-hover-chart="us:ACT" href="http://markets.ft.com/tearsheets/performance.asp?s=us:ACT">Actavis</a> shares rose more than 5 per cent to touch a new record high of $212.57, before closing at $211.15, following the upgrade from neutral to buy by investment bank Goldman Sachs.</p>
+<p>Analysts at Goldman said the acquisitive Dublin-based company would see a “substantial” sales and profit improvement if it is able to complete its <a href="http://www.ft.com/intl/cms/s/0/d6ae6cf4-9896-11e3-8503-00144feab7de.html" title="Actavis buys Forest Laboratories for $25bn - FT.com" target="_blank">$25bn buyout</a> of New York’s <a class="wsodCompany" data-hover-chart="us:FRX" href="http://markets.ft.com/tearsheets/performance.asp?s=us:FRX">Forest Laboratories</a>.</p>
+<p>“Blurring the distinction between speciality/generics and large-cap pharma, we see Actavis transforming from a speciality/generic business to a full-fledged pharma company with an equal balance of brands and generics,” analyst Jami Rubin said.</p>
+<p>Wednesday’s gain added to the company’s 5 per cent advance a day earlier.</p>
+<p><a class="wsodCompany" data-hover-chart="us:GRMN" href="http://markets.ft.com/tearsheets/performance.asp?s=us:GRMN">Garmin</a> shares surged to their highest level since 2008 after the maker of navigation equipment forecast sales for the year would be above Wall Street expectations.</p>
+<p>The Swiss group said it expected revenues between $2.6bn and $2.7bn in 2014, with earnings of $2.50 to $2.60 a share.</p>
+<p>“Garmin typically guides conservatively at the beginning of the year so we think the company must be feeling very good about its business,” Wells Fargo analyst Andrew Spinola said.</p>
+<p>Profits rose 27 per cent from a year earlier in the fourth quarter to $164m, or 83 cents per diluted share, buoyed by sales growth in its fitness, aviation and marine units. </p>
+<p>Overall sales fell 1 per cent in the period to $760m as Garmin’s auto and mobile business continued to see intense competition from free offerings by <a class="wsodCompany" data-hover-chart="us:AAPL" href="http://markets.ft.com/tearsheets/performance.asp?s=us:AAPL">Apple</a> and <a class="wsodCompany" data-hover-chart="us:GOOG" href="http://markets.ft.com/tearsheets/performance.asp?s=us:GOOG">Google</a>. </p>
+<p>Shares increased 9.56 per cent to end at $51.68.</p>
+<p>Apparel and shoe manufacturer Columbia Sportswear hit a new record high after chief executive Tim Boyle said the company expected to see “renewed growth” in its wholesale business after market close on Tuesday.</p>
+<p>The owner of the Columbia and Sorel brands said net sales would grow 15 to 17 per cent over the coming year, driven by its new Chinese joint venture, as well as gains in its direct-to-consumer and wholesale businesses.</p>
+<p>Columbia shares jumped 12 per cent to $88.25 before falling back to close at $84.16.</p>
+<p>Private equity firm <a class="wsodCompany" data-hover-chart="us:CG" href="http://markets.ft.com/tearsheets/performance.asp?s=us:CG">Carlyle Group</a> reported economic net income <a href="http://www.ft.com/intl/cms/s/0/fcf55f3c-997a-11e3-b3a2-00144feab7de.html" title="Carlyle buoyed by rising equity markets - FT.com" target="_blank">more than tripled</a> in the fourth quarter.</p>
+<p>Revenues rose 117 per cent from a year earlier to $1.6bn while economic net income, a measure that includes unrealised gains, increased to $520m, or $1.64 per share. Analysts had expected economic net income of 91 cents a share. </p>
+<p>Assets under management rose by nearly $4bn from a quarter earlier to $188.8bn.</p>
+<p>Carlyle shares initially rose 4 per cent before closing off 1.3 per cent at $35.00.</p>
+<p>Overall, US equity markets broadly drifted on the day, as investors digested weaker-than-anticipated housing figures in January.</p>
+<p>The benchmark S&amp;P 500 was 0.65 per cent lower at 1,828.75 while the Dow Jones Industrial Average was little changed at 16,040.56. The technology heavy Nasdaq Composite fell 0.82 per cent to end at 4,237.95.</p></div><div class="insideArticleRelatedTopics ft-spc-btm-full" data-track-comp-name="relatedTopics"><h2 class="ft-heading ft-heading-medium">Related Topics</h2><ul class="ft-list ft-list-plain ft-list-wrapping"><li class="ft-list-item" data-track-pos="0"><a href="http://www.ft.com/topics/places/United_States_of_America">United States of America</a></li></ul></div>
+<p class="screen-copy">
+<a href="http://www.ft.com/servicestools/help/copyright">Copyright</a> The Financial Times Limited 2014. You may share using our article tools.
+<br />
+Please don't cut articles from FT.com and redistribute by email or post to the web.
+</p>
+<div class="storyToolsContainer clearfix">
+<ul id="ft-story-tools-bottom" class="storyTools">
+<li class="linkButton shareButton">
+<a href="#"><span>Share</span></a>
+<div class="shareList roundedCorners overlay" id="shareListOverlay">
+<div class="overlayArrow overlayTopArrow"></div>
+<div class="innerBox">
+<div class="title">Share this on<a href="#" id="closeShareListOverlay"></a></div>
+<ul class="clearfix">
+<li class="dummyNode"></li>
+</ul>
+</div>
+<div class="overlayArrow overlayBottomArrow"></div>
+</div>
+</li>
+<li class="linkButton clipButton" id="clipthis-container-bottom">
+<a href="http://clippings.ft.com/clipthis/?url=http://www.ft.com/cms/s/0/4372b27e-9986-11e3-b3a2-00144feab7de.html&amp;title=Eli+Lilly+jumps+after+cancer+drug+trial&amp;note=US+indices+dip+modestly+lower&amp;clipthisdisplay=%3Cspan%3EClip%3C%2Fspan%3E&amp;clippeddisplay=%3Cspan%3EClipped%3C%2Fspan%3E&amp;datepublished=2014-02-19+18%3A10%3A4&amp;images="><span>Clip</span></a>
+</li>
+<li class="linkButton reprintButton">
+<a href="http://www.ft.com/cms/s/0/4372b27e-9986-11e3-b3a2-00144feab7de.html?reprint=true" rel="nofollow"><span>Reprints</span></a>
+</li>
+<li class="linkButton printButton">
+<a href="#"><span>Print</span></a>
+</li>
+<li id="anc-email-this-bottom" class="linkButton emailButton" data-enhanced="true" >
+<form id="frm-email-this-bottom" action="http://emailthis.t.ft.com/form" method="post" target="_blank"><span><input type="submit" value="Email" /><input type="hidden" name="data" value="{&quot;url&quot;:&quot;http://www.ft.com/cms/s/0/4372b27e-9986-11e3-b3a2-00144feab7de.html&quot;,&quot;template&quot;:&quot;article&quot;,&quot;config&quot;:&quot;1&quot;,&quot;data&quot;:{&quot;title&quot;:&quot;Eli Lilly jumps after cancer drug trial&quot;,&quot;snippet&quot;:&quot;Shares in Eli Lilly climbed after the US pharmaceuticals group said a study of a lung cancer treatment increased survival rates in patients,&quot;,&quot;url&quot;:&quot;http://www.ft.com/cms/s/0/4372b27e-9986-11e3-b3a2-00144feab7de.html&quot;,&quot;date&quot;:&quot;February 19, 2014 6:10 pm&quot;,&quot;byline&quot;:&quot;By Eric Platt in New York&quot;,&quot;source&quot;:&quot;FT&quot;},&quot;gentime&quot;:&quot;1398554591&quot;,&quot;sig&quot;:&quot;4649cb606fbfea31c695b35fc3ce7ef6&quot;}" /></span></form>
+</li>
+</ul>
+</div>
+</div>
+<script>
+FT.$(function() {
+var script = document.createElement('script');
+script.type = 'text/javascript';
+script.async = "async";
+script.src = 'http://'+FT.Properties.ASSANKA_ANNOTATION_HOST+'/resources/javascript/bootstrap';
+document.getElementsByTagName("head")[0].appendChild(script);
+});
+</script>
+<script>FT
+3da7
+.$doc.trigger("pgObjStop", {key: "9"});</script>
+<script>FT.$doc.trigger("pgObjStop", {key: "7"});</script>
+</div>
+<div class="master-row marketingSection" data-zone="marketingSection" data-timer-key="10">
+<script>FT.$doc.trigger("pgObjStart", {key: "10", keyType: "el"});</script>
+<script>FT.$doc.trigger("pgObjStop", {key: "10"});</script>
+</div>
+</div>
+<div class="master-row topAds" data-zone="topAdSection" data-timer-key="11">
+<script>FT.$doc.trigger("pgObjStart", {key: "11", keyType: "el"});</script>
+<script>FT.$doc.trigger("pgObjStart", {key: "12", keyType: "el"});</script>
+<div id="banlb" class="advertising" data-comp-name="advert" data-comp-view="advert" data-comp-index="0" data-timer-key="12" data-cb-ad-id="Leaderboard" data-cb-dfp-id="unit=ftcom5887markets.equities-us;targeting=art;pos=banlb">
+<script>
+FT.ads.request("banlb");
+</script>
+<noscript>
+<a href="http://ad.doubleclick.net/N5887/jump/ftcom.5887.markets/equities-us;sz=468x60,728x90;pos=banlb;tile=1;nojs=1?" target="_blank">
+<img src="http://ad.doubleclick.net/N5887/ad/ftcom.5887.markets/equities-us;sz=468x60,728x90;pos=banlb;tile=1;nojs=1?" border="0" alt="Advertisement" />
+</a>
+</noscript>
+</div>
+<div id="newssubs" class="advertising" data-cb-ad-id="News subs" data-cb-dfp-id="unit=ftcom5887markets.equities-us;targeting=art;pos=newssubs">
+<script>
+FT.ads.requestNewssubs();
+</script>
+</div>
+<script>FT.$doc.trigger("pgObjStop", {key: "12"});</script>
+<script>FT.$doc.trigger("pgObjStop", {key: "11"});</script>
+</div>
+<script>FT.$doc.trigger("pgObjStop", {key: "perceivedLoadTime"});</script>
+<div id="railBg"></div>
+<div class="master-row railSection" data-zone="railSection" data-timer-key="13">
+<div class="storyToolsContainer clearfix">
+<ul id="ft-story-tools-top" class="storyTools">
+<li class="linkButton shareButton">
+<a href="#"><span>Share</span></a>
+</li>
+<li class="linkButton clipButton" id="clipthis-container-top">
+<a href="http://clippings.ft.com/clipthis/?url=http://www.ft.com/cms/s/0/4372b27e-9986-11e3-b3a2-00144feab7de.html&amp;title=&amp;note=&amp;clipthisdisplay=%3Cspan%3EClip%3C%2Fspan%3E&amp;clippeddisplay=%3Cspan%3EClipped%3C%2Fspan%3E&amp;images="><span>Clip</span></a>
+</li>
+<li class="linkButton reprintButton">
+<a href="http://www.ft.com/cms/s/0/4372b27e-9986-11e3-b3a2-00144feab7de.html?reprint=true" rel="nofollow"><span>Reprints</span></a>
+</li>
+<li class="linkButton printButton">
+<a href="#"><span>Print</span></a>
+</li>
+<li id="anc-email-this-top" class="linkButton emailButton" data-enhanced="true" >
+<form id="frm-email-this-top" action="http://emailthis.t.ft.com/form" method="post" target="_blank"><span><input type="submit" value="Email" /><input type="hidden" name="data" value="{&quot;url&quot;:&quot;http://www.ft.com/cms/s/0/4372b27e-9986-11e3-b3a2-00144feab7de.html&quot;,&quot;template&quot;:&quot;article&quot;,&quot;config&quot;:&quot;1&quot;,&quot;data&quot;:{&quot;title&quot;:&quot;Eli Lilly jumps after cancer drug trial&quot;,&quot;snippet&quot;:&quot;Shares in Eli Lilly climbed after the US pharmaceuticals group said a study of a lung cancer treatment increased survival rates in patients,&quot;,&quot;url&quot;:&quot;http://www.ft.com/cms/s/0/4372b27e-9986-11e3-b3a2-00144feab7de.html&quot;,&quot;date&quot;:&quot;February 19, 2014 6:10 pm&quot;,&quot;byline&quot;:&quot;By Eric Platt in New York&quot;,&quot;source&quot;:&quot;FT&quot;},&quot;gentime&quot;:&quot;1398554591&quot;,&quot;sig&quot;:&quot;4649cb606fbfea31c695b35fc3ce7ef6&quot;}" /></span></form>
+</li>
+</ul>
+</div>
+<script>FT.$doc.trigger("pgObjStart", {key: "13", keyType: "el"});</script>
+<script>FT.$doc.trigger("pgObjStart", {key: "14", keyType: "el"});</script>
+<div id="tlbxrib" class="advertising" data-comp-name="advert" data-comp-view="advert" data-comp-index="0" data-timer-key="14" data-cb-ad-id="Right rail ribbon" data-cb-dfp-id="unit=ftcom5887markets.equities-us;targeting=art;pos=tlbxrib">
+<script>
+FT.ads.request("tlbxrib");
+</script>
+</div>
+<script>FT.$doc.trigger("pgObjStop", {key: "14"});</script>
+<script>FT.$doc.trigger("pgObjStart", {key: "15", keyType: "el"});</script>
+<div class="freestyle" data-comp-name="freestyle" data-comp-view="freestyle" data-comp-index="1" data-timer-key="15" id="170556">
+<span></span>
+</div>
+<script>FT.$doc.trigger("pgObjStop", {key: "15"});</script>
+<script>FT.$doc.trigger("pgObjStart", {key: "16", keyType: "el"});</script>
+<div class="railMiniVideo" data-comp-name="railminivideo" data-comp-view="railminivideo" data-comp-index="2" data-timer-key="16" data-cb-ad-id="Pre roll mini player" data-cb-dfp-id="unit=ftcom5887markets.equities-us;targeting=art;pos=minivid">
+<div class="comp-header">
+<h3 class="comp-header-title" data-pos="0">
+<a href="http://video.ft.com" >
+VIDEOS
+</a>
+</h3>
+</div>
+<noscript>
+<div class="railMiniVideo-player-nojs">
+You need JavaScript active on your browser in order see this video.
+</div>
+</noscript>
+<div class="railMiniVideo-player" style="height:365px">
+<!-- Start of Brightcove Player -->
+<div style="display:none">
+</div>
+<object id="13-0820e2fa-84f3-11df-adfa-00144feabdc0" class="BrightcoveExperience">
+<param name="bgcolor" value="#00000" />
+<param name="width" value="332" />
+<param name="height" value="365px" />
+<param name="playerID" value="1820439059001" />
+<param name="publisherID" value="46412932001" />
+<param name="isVid" value="true" />
+<param name="isUI" value="true" />
+<param name="dynamicStreaming" value="true" />
+<param name="@videoList" value="ref:ft markets" />
+<param name="playerKey" value="AQ~~,AAAACxbljZk~,eD0zYozylZ2BGOo7AxcJk7QiRt45zQkF" /> <param name="wmode" value="opaque" />
+<param name="htmlFallback" value="true" />
+</object>
+<!-- End of Brightcove Player -->
+<script>
+BrightcoveFT.Init.createExperience('13-0820e2fa-84f3-11df-adfa-00144feabdc0');
+</script>
+</div>
+</div>
+<script>FT.$doc.trigger("pgObjStop", {key: "16"});</script>
+<script>FT.$doc.trigger("pgObjStart", {key: "17", keyType: "el"});</script>
+<div id="hlfmpu" class="advertising" data-comp-name="advert" data-comp-view="advert" data-comp-index="3" data-timer-key="17" data-cb-ad-id="Half mpu" data-cb-dfp-id="unit=ftcom5887markets.equities-us;targeting=art;pos=hlfmpu">
+<script>
+FT.ads.request("hlfmpu");
+</script>
+<noscript>
+<a href="http://ad.doubleclick.net/N5887/jump/ftcom.5887.markets/equities-us;sz=300x600,336x850,300x250,336x280;pos=hlfmpu;tile=2;nojs=1?" target="_blank">
+<img src="http://ad.doubleclick.net/N5887/ad/ftcom.5887.markets/equities-us;sz=300x600,336x850,300x250,336x280;pos=hlfmpu;tile=2;nojs=1?" border="0" alt="Advertisement" />
+</a>
+</noscript>
+</div>
+<script>FT.$doc.trigger("pgObjStop", {key: "17"});</script>
+<script>FT.$doc.trigger("pgObjStart", {key: "18", keyType: "el"});</script>
+<div class="freestyle" data-comp-name="freestyle" data-comp-view="freestyle" data-comp-index="4" data-timer-key="18" id="228377">
+<div class="ft-header-medium ft-header-medium-tint">
+<h3 class="ft-header-medium-title " data-pos="1">NEWS BY EMAIL</h3>
+</div>
+<div><style>
+.brandPagePromo { margin:0 0 32px 0 ; }
+.brandPageContent { margin:0 10px ; }
+.brandPageContent p { margin:10px 0 ; }
+</style>
+<div class="brandPageContent">
+<p><a href="http://www.ft.com/nbe" target="_blank"> Sign up for email briefings</a> to stay up to date on topics you are interested in
+</p> </div> 
+</div> 
+</div>
+<script>FT.$doc.trigger("pgObjStop", {key: "18"});</script>
+<script>FT.$doc.trigger("pgObjStart", {key: "19", keyType: "el"});</script>
+<div class="freestyle" data-comp-name="freestyle" data-comp-view="freestyle" data-comp-index="5" data-timer-key="19" id="193864">
+<div id="popularContent">
+</div>
+<script>
+(function getScript () {
+var url = 'http://mostpopular.sp.ft-static.com/v1/script/prod/min/topArticles.0.2.10.min.js';
+var script = document.createElement('script');
+script.type = 'text/javascript';
+script.async = true;
+script.src = url;
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(script, s);
+})();
+</script>
+</div>
+<script>FT.$doc.trigger("pgObjStop", {key: "19"});</script>
+<script>FT.$doc.trigger("pgObjStart", {key: "20", keyType: "el"});</script>
+<div class="partnerLinks" data-comp-name="railFeedsBox" data-comp-view="partnerLinks" data-comp-index="6" data-timer-key="20">
+<div class="comp-header">
+<h3 class="comp-header-title" data-pos="0">
+<a href="http://www.cnbc.com" >
+LATEST HEADLINES FROM CNBC
+</a>
+</h3>
+</div>
+<ul class="railLinks" data-pos="1">
+<li>
+<a href="http://www.cnbc.com/id/101611844?__source=ft&amp;par=ft" class="siTrack">
+Flip your lid! New coffee-cup top targets your nose
+</a>
+</li>
+<li>
+<a href="http://www.cnbc.com/id/101611330?__source=ft&amp;par=ft" class="siTrack">
+Data at risk as Americans don't protect smartphones
+</a>
+</li>
+<li>
+<a href="http://www.cnbc.com/id/101616944?__source=ft&amp;par=ft" class="siTrack">
+Chase closing accounts of porn stars: Report
+</a>
+</li>
+<li>
+<a href="http://www.cnbc.com/id/101605729?__source=ft&amp;par=ft" class="siTrack">
+When your CEO neighbor isn't so neighborly
+</a>
+</li>
+<li>
+<a href="http://www.cnbc.com/id/101586094?__source=ft&amp;par=ft" class="siTrack">
+Do retirees really need to pay for life insurance?
+</a>
+</li>
+</ul>
+</div>
+<script>FT.$doc.trigger("pgObjStop", {key: "20"});</script>
+<script>FT.$doc.trigger("pgObjStart", {key: "21", keyType: "el"});</script>
+<div class="jobsBox" data-comp-name="railFeedsBox" data-comp-view="jobsbox" data-comp-index="7" data-timer-key="21">
+<div class="comp-header">
+<h3 class="comp-header-title" data-pos="0">
+<a href="http://www.exec-appointments.com/" >
+FINANCIAL TIMES JOBS
+</a>
+</h3>
+</div>
+<form action="http://www.exec-appointments.com/searchjobs/" method="get" class="jobsBoxSearch">
+<fieldset>
+<legend>Enter job search</legend>
+<input type="text" name="Keywords" class="jobsBoxKeywords" value="" placeholder="Enter job search here..." />
+<button type="submit" class="jobsBoxSearchButton"><span><span>Search</span></span></button>
+</fieldset>
+</form>
+<ul class="jobsBoxLinks clearfix" data-pos="1">
+<li class="odd">
+<a target="_blank" href="http://www.exec-appointments.com/job/1369445/director-of-people-and-business-transformation-/?TrackID=28">
+Director of People and Business Transformation
+</a>
+<br/>
+Raven Housing
+<br/>
+</li>
+<li>
+<a target="_blank" href="http://www.exec-appointments.com/job/1369757/team-leader-analysis-and-mi/?TrackID=28">
+Team Leader - Analysis and MI
+</a>
+<br/>
+The Homes and Communities Agency
+<br/>
+</li>
+<li class="odd">
+<a target="_blank" href="http://www.exec-appointments.com/job/1369761/senior-portfolio-managers-portfolio-managers/?TrackID=28">
+Senior Portfolio Managers/Portfolio Managers
+</a>
+<br/>
+The Homes and Communities Agency
+<br/>
+</li>
+<li>
+<a target="_blank" href="http://www.exec-appointments.com/job/1369759/senior-managers-managers-transactions/?TrackID=28">
+Senior Managers/Managers – Transactions
+</a>
+<br/>
+The Homes and Communities Agency
+<br/>
+</li>
+</ul>
+<div class="jobsBoxOptionalLink" data-pos="2">
+<a href="http://www.exec-appointments.com/alerts/" >
+Register for free to receive the latest executive jobs by email
+</a>
+</div>
+</div>
+<script>FT.$doc.trigger("pgObjStop", {key: "21"});</script>
+<script>FT.$doc.trigger("pgObjStop", {key: "13"});</script>
+</div>
+</div>
+<div class="master-row bottomSection " data-zone="bottomSection" data-timer-key="22">
+<script>FT.$doc.trigger("pgObjStart", {key: "22", keyType: "el"});</script>
+<script>FT.$doc.trigger("pgObjStart", {key: "23", keyType: "el"});</script>
+<div class="freestyle" data-comp-name="freestyle" data-comp-view="freestyle" data-comp-index="0" data-timer-key="23" id="156239">
+<div id="footer">
+<div id="content">
+<ul class="gen-freestyle-ul"> 
+<li><a href="http://www.ft.com/help">Help</a></li>
+<li>&#8226;<a href="http://aboutus.ft.com/contact-us">Contact us</a></li>
+<li>&#8226;<a href="http://www.ft.com/aboutus">About us</a></li>
+<li>&#8226;<a href="http://www.ft.com/advertising">Advertise with the FT</a></li>
+<li>&#8226;<a href="http://www.ft.com/servicestools/help/terms">Terms &amp; conditions</a></li>
+<li>&#8226;<a href="http://www.ft.com/servicestools/help/privacy">Privacy policy</a></li>
+<li>&#8226;<a href="http://www.ft.com/servicestools/help/copyright">Copyright</a></li>
+<li id="footerCookiePolicy">&#8226;<a href="http://www.ft.com/cookiepolicy">Cookie policy</a></li>
+<script>
+/* <![CDATA[
+FT.FooterAdChoiceLink = '<li id="footerAdChoices">&#8226;<a href="http://www.youronlinechoices.eu">AdChoices</a></li>';
+if (typeof FT.render.user.isUserInEU === 'function' && FT.render.user.isUserInEU()) {
+document.write(FT.FooterAdChoiceLink);
+}
+$(window).load(function() {
+FT.lib.hashCookies();
+if (typeof FT.render.user.isUserInEU === 'function' && FT.render.user.isUserInEU() && !$('#footerAdChoices').length) {
+$(FT.FooterAdChoiceLink).insertAfter('#footerCookiePolicy');
+}
+});
+]]> */
+</script>
+</ul>
+<p>
+<span class="copyright"><strong>&#169; The Financial Times Ltd 2014 </strong></span>
+<span><acronym title="Financial Times">FT</acronym> and 'Financial Times' are trademarks of The Financial Times Ltd.</span>
+</p>
+<br/>
+</div>
+</div>
+</div>
+<script>FT.$doc.trigger("pgObjStop", {key: "23"});</script>
+<script>FT.$doc.trigger("pgObjStop", {key: "22"});</script>
+</div>
+<div class="adRequests">
+<div id="corppop" data-cb-ad-id="Corp pop up" data-cb-dfp-id="unit=ftcom5887markets.equities-us;targeting=art;pos=corppop">
+<script>
+FT.ads.request('corppop');
+</script>
+</div>
+<div id="refresh" data-cb-ad-id="Refresh" data-cb-dfp-id="unit=ftcom5887markets.equities-us;targeting=art;pos=refresh">
+<script>
+FT.ads.request('refresh');
+</script>
+</div>
+</div>
+</div>
+<div id="renderPageOverlay" class="loading hidden"></div>
+<div id="print-footer">
+<p id="print-from"><strong>Printed from: </strong> http://www.ft.com/cms/s/0/4372b27e-9986-11e3-b3a2-00144feab7de.html</p>
+<p>Print a single copy of this article for personal use. <a
+href="http://www.ft.com/servicestools/help/contactus">Contact us</a> if you wish to print more to
+distribute to others.</p>
+<p><strong>&copy; <span class="company">The Financial Times Ltd</span> 2014</strong> FT
+and &lsquo;Financial Times&rsquo; are trademarks of The Financial Times Ltd.
+<span class="links">
+<a href="http://www.ft.com/servicestools/help/privacy">Privacy policy</a> |
+<a href="http://www.ft.com/servicestools/help/terms">Terms</a> |
+<a href="http://www.ft.com/servicestools/help/copyright">Copyright</a>
+</span>
+</p>
+</div>
+<div id="oob" data-cb-ad-id="Oob" data-cb-dfp-id="unit=ftcom5887markets.equities-us;targeting=art;pos=oob">
+<script>
+FT.ads.request('oob');
+</script>
+</div>
+<script src="http://s2.ft-static.com/scripts/1185aa5a/bundles/coreFoot.js"></script>
+<script src="http://s2.ft-static.com/scripts/93557a7/bundles/articleFoot.js"></script>
+<script src="http://navigation.webservices.ft.com/v1/navigation/ft/js/script.min.js"></script>
+<!--ft:footWrapperJs-->
+<!-- Google Code for Remarketing tag -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1004457185;
+var google_conversion_label = "2CA1CMe1kgQQ4Zn73gM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1004457185/?value=0&amp;label=2CA1CMe1kgQQ4Zn73gM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+</body>
+</html>
+
+0
+
+
+

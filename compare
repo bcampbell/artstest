@@ -17,6 +17,9 @@ import re
 import sys
 from pprint import pprint
 import argparse     # >=python 2.7
+import unicodedata
+import lxml.html
+import lxml.etree
 
 splitter = re.compile(r'---(.*?)---\s*(.*)$',re.DOTALL)
 
@@ -102,8 +105,12 @@ class Article:
             if expected.find_author(author) is None:
                 errs.append("extra author: '%s'" % (author['name'],))
 
+        # check content
+        txt1 = html_to_text(self.content)
+        txt2 = html_to_text(expected.content)
 
-
+        if txt1 != txt2:
+            errs.append("content mismatch")
 
         # TODO: everything else :-)
 
@@ -114,6 +121,61 @@ class Article:
             if a['name'] == author['name']:
                 return a
         return None
+
+
+
+def normalise_text(txt):
+    """ return stripped-down, ascii, alphanumeric-only version for comparisons """
+    # replace various accented latin chars with rough ascii equivalents
+    txt = unicodedata.normalize('NFKD',txt).encode('ascii','ignore')
+    txt = re.sub(u'[^a-zA-Z0-9 ]',u'',txt)
+    txt = u' '.join(txt.split())    # compress spaces
+    txt = txt.lower().strip()
+    return txt
+
+
+def uberstrip(s):
+    # strip leading/trailing non-alphabetic chars
+    pat = re.compile(r'^[^\w()]*(.*?)[^\w()]*$', re.IGNORECASE|re.UNICODE)
+    return pat.sub(r'\1', s)
+
+
+def html_to_text(html):
+    parser = lxml.html.HTMLParser()
+    doc = lxml.html.document_fromstring(html, parser)
+    return render_text(doc)
+
+
+
+
+def render_text(el):
+    """ like lxml.html text_content(), but with tactical use of whitespace for block elements """
+
+    inline_tags = ( 'a', 'abbr', 'acronym', 'b', 'basefont', 'bdo', 'big',
+        'br',
+        'cite', 'code', 'dfn', 'em', 'font', 'i', 'img', 'input',
+        'kbd', 'label', 'q', 's', 'samp', 'select', 'small', 'span',
+        'strike', 'strong', 'sub', 'sup', 'textarea', 'tt', 'u', 'var',
+        'applet', 'button', 'del', 'iframe', 'ins', 'map', 'object',
+        'script' )
+
+    txt = u''
+
+    tag = str(el.tag).lower()
+    if tag not in inline_tags:
+        txt += u"\n";
+
+    if el.text is not None:
+        txt += unicode(el.text)
+    for child in el.iterchildren():
+        txt += render_text(child)
+        if child.tail is not None:
+            txt += unicode(child.tail)
+
+    if el.tag=='br' or tag not in inline_tags:
+        txt += u"\n";
+    return txt
+
 
 if __name__ == "__main__":
     sys.exit(main())
