@@ -1,0 +1,1159 @@
+WARC/1.0
+Content-Length: 77980
+Content-Type: application/http; msgtype=response
+Warc-Date: 2014-04-24T03:16:42Z
+Warc-Record-Id: urn:X-scrapeomat:1398309402359064778
+Warc-Target-Uri: http://www.newstatesman.com/2013/09/rage-twitter-machine-great-hater-and-miliband-slowman
+Warc-Type: response
+X-Scrapeomat-Srcurl: http://www.newstatesman.com/2013/09/rage-twitter-machine-great-hater-and-miliband-slowman
+
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Age: 61750
+Cache-Control: public, max-age=86400
+Connection: keep-alive
+Content-Language: en
+Content-Type: text/html; charset=utf-8
+Date: Thu, 24 Apr 2014 03:16:42 GMT
+Etag: "1398247649-1"
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Last-Modified: Wed, 23 Apr 2014 10:07:29 +0000
+Link: <http://www.newstatesman.com>; rel="publisher",<http://www.newstatesman.com/node/197936>; rel="shortlink",<http://www.newstatesman.com/2013/09/rage-twitter-machine-great-hater-and-miliband-slowman>; rel="canonical"
+Server: nginx
+Vary: Cookie,Accept-Encoding
+Via: 1.1 varnish
+X-Ah-Environment: prod
+X-Cache: HIT
+X-Cache-Hits: 3
+X-Drupal-Cache: MISS
+X-Generator: Drupal 7 (http://drupal.org)
+X-Varnish: 678940445 675746635
+
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7" lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7" lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8" lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9" lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]--><head>
+<meta charset="utf-8" />
+<meta property="twitter:site" content="@NewStatesman" />
+<meta property="twitter:card" content="summary" />
+<link rel="publisher" href="http://www.newstatesman.com" />
+<meta property="twitter:creator" content="@NewStatesman" />
+<meta property="twitter:creator:id" content="19906615" />
+<link rel="apple-touch-icon-precomposed" href="http://www.newstatesman.com/sites/default/files/ap-1024.png" type="image/png" />
+<link rel="apple-touch-icon" href="http://www.newstatesman.com/sites/default/files/ap-1024_0.png" type="image/png" />
+<link rel="shortcut icon" href="http://www.newstatesman.com/sites/default/files/favicon_0.ico" type="image/vnd.microsoft.icon" />
+<meta property="twitter:url" content="http://www.newstatesman.com/2013/09/rage-twitter-machine-great-hater-and-miliband-slowman" />
+<link rel="shortlink" href="http://www.newstatesman.com/node/197936" />
+<meta name="copyright" content="New Statesman Ltd" />
+<meta property="twitter:title" content="Jonathan Franzen and the rage of the Twitter machine" />
+<meta name="abstract" content="Property field_subheadline" />
+<meta name="description" content="Property field_subheadline" />
+<meta content="Jonathan Franzen and the rage of the Twitter machine" about="/2013/09/rage-twitter-machine-great-hater-and-miliband-slowman" property="dc:title" />
+<meta property="twitter:description" content="In a recent newspaper interview Paul Mason, the former B" />
+<meta name="keywords" content="New Statesman magazine, International Politics, British Politics, Britain, UK, Tony Blair, Gordon Brown, Geoffrey Robinson, David Cameron, Sir Menzies Campbell, Labour, Conservative, Liberal Democrat, UK Politics, House of Commons, House of Lords, Legislation, politics magazine" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<meta name="news_keywords" content="New Statesman magazine, International Politics, British Politics, Britain, UK, Tony Blair, Gordon Brown, Geoffrey Robinson, David Cameron, Sir Menzies Campbell, Labour, Conservative, Liberal Democrat, UK Politics, House of Commons, House of Lords, Legislation, politics magazin" />
+<meta name="robots" content="follow, index" />
+<link rel="canonical" href="http://www.newstatesman.com/2013/09/rage-twitter-machine-great-hater-and-miliband-slowman" />
+
+
+<meta name="DCSext.WebsiteName" content="www.newstatesman.com" />
+<title>New Statesman | Jonathan Franzen and the rage of the Twitter machine</title>
+<link type="text/css" rel="stylesheet" href="http://www.newstatesman.com/sites/default/files/css/css_BAvlU_nkLjx_N2ceUN6wjSpt73HFLirIRHRDFKsgW_o.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.newstatesman.com/sites/default/files/css/css_V2zp5fAS37Y54wkxBwtmDW3UKLB3tUqUjrEMnTvP_50.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.newstatesman.com/sites/default/files/css/css_7AKKtsueJ-MKD2KSTVgxxugxr-5wNe06wODzMl5HxA0.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.newstatesman.com/sites/default/files/css/css_smWejqFexB_rDFKKSWlAeBFeL0wXW7QAXc0ERqON49Y.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="http://www.newstatesman.com/sites/default/files/css/css_1wcKqx0FJARZX86YRWSVXnPaD6PNPN8e__yOZhJRY2M.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.newstatesman.com/sites/default/files/css/css_5_EBsvYf_U3gqgv1Idal1sImw7zcXB1kaIR6NOugp8o.css" media="print" />
+<link type="text/css" rel="stylesheet" href="http://www.newstatesman.com/sites/default/files/css/css_bendyGXujRFZK9vQplMVes3fsFYItbuNN5pPKBpbzLs.css" media="screen" />
+
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="http://www.newstatesman.com/sites/default/files/css/css_wil2VZHAky4m54MyLVpgiMX_IQ_4jrIPsVv8FFt_U9I.css" media="screen" />
+<![endif]-->
+<script src="http://www.newstatesman.com/sites/default/files/js/js_zzcIWOou_jnX0ZWAIA4sb6Xy_p5a8FZNA0GySvuWjPU.js"></script>
+<script src="http://www.newstatesman.com/sites/default/files/js/js_IMl3smh3e0caGFTkhRI1O9RGs11TsaavUtoyNsCHKk0.js"></script>
+<script src="http://www.newstatesman.com/sites/default/files/js/js_WtDEcAN-amkLBGsU6tOsAY0oKUXrZtaht70mpDYMetQ.js"></script>
+<script>var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-121540-1"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();</script>
+<script src="http://www.newstatesman.com/sites/default/files/js/js_kw_EpH770pq8GLX4EApzhuMG5vmi7oKPzJhErPfi2Sk.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"corolla","theme_token":"gcjTM9HXUMt3GOWyhSNHdFUvFJtwY75X0IoEGSDpY6A","css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/simplenews\/simplenews.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/google_cse\/google_cse.css":1,"sites\/all\/modules\/logintoboggan\/logintoboggan.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/views_slideshow\/views_slideshow.css":1,"sites\/all\/modules\/widgets\/widgets.css":1,"sites\/all\/modules\/flag\/theme\/flag.css":1,"sites\/all\/modules\/quicktabs\/css\/quicktabs.css":1,"sites\/all\/modules\/quicktabs\/quicktabs_tabstyles\/tabstyles\/basic\/basic.css":1,"sites\/all\/modules\/ajaxblocks\/ajaxblocks.css":1,"sites\/all\/themes\/adaptivetheme\/at_core\/css\/at.layout.css":1,"sites\/all\/themes\/corolla\/css\/NSstyles.css":1,"sites\/all\/themes\/corolla\/css\/print.css":1,"sites\/all\/themes\/corolla\/generated_files\/corolla.default.layout.css":1,"sites\/all\/themes\/corolla\/css\/ie-lte-9.css":1},"js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.5\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/modules\/google_cse\/google_cse.js":1,"misc\/progress.js":1,"sites\/all\/modules\/views_slideshow\/js\/views_slideshow.js":1,"sites\/all\/modules\/service_links\/js\/facebook_like.js":1,"sites\/all\/modules\/service_links\/js\/google_plus_one.js":1,"sites\/all\/modules\/service_links\/js\/twitter_button.js":1,"sites\/all\/modules\/flag\/theme\/flag.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/modules\/disqus_old\/disqus.js":1,"sites\/all\/modules\/quicktabs\/js\/quicktabs.js":1,"sites\/all\/modules\/ajaxblocks\/ajaxblocks.js":1,"1":1}},"googleCSE":{"cx":"014587529549946006773:q0ke2unon2y","language":"en","resultsWidth":820,"domain":"www.google.com"},"jcarousel":{"ajaxPath":"\/jcarousel\/ajax\/views"},"ws_fl":{"width":90,"height":21},"ws_gpo":{"size":"","annotation":"","lang":"","callback":"","width":120},"flag":{"anonymous":true,"templates":{"bookmarks_197936":"\u003Cspan class=\u0022flag-wrapper flag-bookmarks flag-bookmarks-197936\u0022\u003E\n      \u003Ca href=\u0022\/flag\/unflag\/bookmarks\/197936?destination=node\/197936\u0026amp;token=e7b51d1066eb9a29532b6202afa226f4\u0022 title=\u0022Remove this post from your bookmarks\u0022 class=\u0022flag unflag-action flag-link-toggle\u0022 rel=\u0022nofollow\u0022\u003E\u003Cspan class=\u0022i a2a_i_unlibrary\u0022\u003E\u0026nbsp;\u003C\/span\u003E\u003C\/a\u003E\u003Cspan class=\u0022flag-throbber\u0022\u003E\u0026nbsp;\u003C\/span\u003E\n    \u003C\/span\u003E\n"}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"disqus":{"domain":"newstatesman1913","url":"http:\/\/www.newstatesman.com\/2013\/09\/rage-twitter-machine-great-hater-and-miliband-slowman","title":"Jonathan Franzen and the rage of the Twitter machine","identifier":"node\/197936","developer":1},"quicktabs":{"qt_most_read_and_most_commented":{"name":"most_read_and_most_commented","tabs":[{"bid":"views_delta_gas-block_1","hide_title":1},{"bid":"disqus_delta_disqus_popular_threads","hide_title":1}],"flag":{"templates":{"bookmarks_197936":"\u003Cspan class=\u0022flag-wrapper flag-bookmarks flag-bookmarks-197936\u0022\u003E\n      \u003Ca href=\u0022\/flag\/unflag\/bookmarks\/197936?destination=node\/197936\u0026amp;token=e7b51d1066eb9a29532b6202afa226f4\u0022 title=\u0022Remove this post from your bookmarks\u0022 class=\u0022flag unflag-action flag-link-toggle\u0022 rel=\u0022nofollow\u0022\u003E\u003Cspan class=\u0022i a2a_i_unlibrary\u0022\u003E\u0026nbsp;\u003C\/span\u003E\u003C\/a\u003E\u003Cspan class=\u0022flag-throbber\u0022\u003E\u0026nbsp;\u003C\/span\u003E\n    \u003C\/span\u003E\n"}}}},"ajaxblocks":"blocks=views-home_sponsored_articles-block\/views-sidebar_first-block\u0026path=node\/197936","ajaxblocks_delay":1});</script>
+<!--[if lt IE 9]>
+<script src="http://www.newstatesman.com/sites/all/themes/adaptivetheme/at_core/scripts/html5.js?n4h9li"></script>
+<![endif]-->
+<!--<script type="text/javascript">
+jQuery(document).ready(function($) {								
+//
+//								
+//jQuery("ul.nice-menu").click(function(){														
+//jQuery("ul.nice-menu a+ul").class("visibility","visible");			
+//
+//
+    //	});							   
+});
+</script>-->
+
+
+
+
+<meta name="google-site-verification" content="GfOJMinBD7e8A_EFHIWacMNjU-AM1WaPrpnAVzwr7-4"/>
+<meta name="DCSext.WebsiteName" content="www.newstatesman.com" />
+<!-- Google Analytics End -->
+
+<!-- JIRA -->
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function()
+ { var gads = document.createElement('script'); gads.async = true; gads.type = 'text/javascript'; var useSSL = 'https:' == document.location.protocol; gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js'; var node = document.getElementsByTagName('script')[0]; node.parentNode.insertBefore(gads, node); }
+
+)();
+</script>
+<!-- JIRA End-->
+
+<!--nsds 376 Test_NS_Minister_widesky-->
+<script type='text/javascript'>
+googletag.cmd.push(function()
+{ googletag.defineSlot('/5269235/Test_NS_Minister_widesky', [160, 600], 'div-gpt-ad-1357235299034-0').addService(googletag.pubads()); googletag.pubads().enableSingleRequest(); googletag.enableServices(); }
+
+);
+</script>
+<!-- nsds end 376 Test_NS_Minister_widesky -->
+
+<script>googletag.cmd.push(function() {
+googletag.defineSlot('/5269235/NS_Home_Exp_5', [[4, 4], [975, 250]], 'div-gpt-ad-1366822588103-0').addService(googletag.pubads());			
+googletag.defineSlot('/5269235/Dynamic_NS_MPU_From_Mar13', [[300, 250], [300, 600]], 'div-gpt-ad-1363178482999-0').addService(googletag.pubads());
+googletag.defineSlot('/5269235/Vodafone_Widesky', [160, 600], 'div-gpt-ad-1359372266606-0').addService(googletag.pubads());
+googletag.defineSlot('/5269235/Vodafone_NS_Pol_MPU2', [300, 250], 'div-gpt-ad-1359374444737-0').addService(googletag.pubads());
+googletag.defineSlot('/5269235/NS_Vodafone_Politics_Leader', [728, 90], 'div-gpt-ad-1359018522590-0').addService(googletag.pubads());
+googletag.defineSlot('/5269235/NewStatesman_Bottom_Leader', [728, 90], 'div-gpt-ad-1320926772906-0').addService(googletag.pubads()); 
+googletag.defineSlot('/5269235/Dynamic_MPU_Portrait', [[300, 250], [300, 1050]], 'div-gpt-ad-1372771363914-0').addService(googletag.pubads()); 
+googletag.pubads().setTargeting("Section", "politics");googletag.pubads().enableSingleRequest(); googletag.enableServices(); });</script>
+
+<!-- Begin comScore Tag -->
+<script>
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "14601216" });
+(function() { var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true; s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js"; el.parentNode.insertBefore(s, el); })();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&c2=14601216&cv=2.0&cj=1" />
+</noscript>
+
+<!-- End comScore Tag -->
+
+
+    <script>
+    jQuery(document).ready(function($) {	
+        jQuery("img.image-style-fullnode-image").addClass("kalooga_11440");
+      (function()
+      { var d=document,k="kalooga",s="script",n=d.createElement(s),f=d.getElementsByTagName(s)[0]; n.async=true;n.type="text/java"+s;n.src="http://publishing.kalooga.com/acct/3312.js"; f.parentNode.insertBefore(n,f); }
+
+    );
+    });
+  </script>
+
+
+
+  
+<!-- NSDS-311 -->
+<!-- NSDS-311 -->
+
+<!--NSDS-309 -->
+<script type="text/javascript" language="javascript">
+  window.onload = function() {
+    var rand = Math.floor(Math.random() * 10000);
+    document.getElementById('rand_lnk').href += rand+'?';
+    document.getElementById('rand_img').src += rand+'?';   
+  }
+</script>
+<!--NSDS-309 -->
+</head>
+
+    <body class="html not-front not-logged-in two-sidebars page-node page-node- page-node-197936 node-type-blogs site-name-hidden lang-en site-name-new-statesman section-2013 corolla bs-n bb-n mb-dd rc-6 rct-6" >
+
+
+
+<script type="text/javascript" src="http://j.maxmind.com/app/geoip.js"></script>
+<script type="text/javascript">
+var country;
+country = geoip_country_code()
+//alert(country);
+var d = new Date();
+var n = d.getTime(); 
+
+if(country == "GB"){
+document.write('<scr'+'ipt language="JavaScript1.1" src="http://ad-emea.doubleclick.net/adj/N5532.140369.NEWSTATESMAN/B7978192.28;sz=1x1;ord='+n+'?"></sc'+'ript>');
+
+document.write('<NOSC'+'RIPT><A HREF="http://ad-emea.doubleclick.net/jump/N5532.140369.NEWSTATESMAN/B7978192.28;sz=1x1;ord='+n+'?"><IMG SRC="http://ad-emea.doubleclick.net/ad/N5532.140369.NEWSTATESMAN/B7978192.28;sz=1x1;ord='+n+'?" BORDER=0 WIDTH=1 HEIGHT=1 ALT="Advertisement"></A></NOSC'+'RIPT>');
+console.log("No errors cc"+ '<NOSC'+'RIPT><A HREF="http://ad-emea.doubleclick.net/jump/N5532.140369.NEWSTATESMAN/B7978192.28;sz=1x1;ord='+n+'?"><IMG SRC="http://ad-emea.doubleclick.net/ad/N5532.140369.NEWSTATESMAN/B7978192.28;sz=1x1;ord='+n+'?" BORDER=0 WIDTH=1 HEIGHT=1 ALT="Advertisement"></A></NOSC'+'RIPT>');
+
+
+//console.log('no errors');
+}
+</script>   
+    
+
+
+    <!-- NSDS-428 -->
+
+<!-- NSDS-428 END-->
+
+
+<!-- NSDS-380 start-->
+
+<!-- NSDS-380 END-->
+
+    
+            <script type="text/javascript">
+            (function(){
+                var d=document,k="kalooga",s="script",n=d.createElement(s),f=d.getElementsByTagName(s)[0];
+                n.async=true;n.type="text/java"+s;n.src="http://publishing.kalooga.com/acct/3312.js";
+                f.parentNode.insertBefore(n,f);
+            })();
+        </script>
+    
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+
+
+<!-- NSDS-428 -->
+
+<!-- NSDS-428 END--> 
+
+
+
+
+<script type="text/javascript">
+var country;
+country = geoip_country_code();
+//alert(country);
+if(country == "GB"){
+	//alert("ok");	
+document.write("<div style='margin:auto; width:1265px;'><div style='border:0px solid red; position: relative; top:-52px; width:1200px; height:2000px;'/> <a href='http://ad-emea.doubleclick.net/clk;278473249;106047010;a' target='_blank'><img src='http://www.newstatesman.com/sites/all/themes/corolla/images/skin_Industry.jpg'></a>");
+}
+</script>
+	
+   
+    
+
+
+
+    
+
+<script type="text/javascript" src="http://j.maxmind.com/app/geoip.js"></script>
+<script type="text/javascript">
+var country;
+country = geoip_country_code();
+//alert(country);
+if(country == "GB"){
+document.write("<div id='page-wrapper' style='position: absolute; top: 171px; left: 144px;'>");
+}
+else
+{
+	//alert("hai");
+document.write("<div id='page-wrapper'>");
+}
+</script>
+
+
+
+  <div id="page" class="page">  
+         <div id="aboveheader">
+     
+             <!-- NS_Home_Exp_5 -->
+        <div id='div-gpt-ad-1366822588103-0' style="float:left;"> 
+          <script type='text/javascript'>
+googletag.display('div-gpt-ad-1366822588103-0');
+</script> 
+        </div>
+        
+      
+        <div class="search_bg">
+          <div class="region region-above-header"><div class="region-inner clearfix"><div id="block-search-form" class="block block-search no-title odd first last block-count-1 block-region-above-header block-form"  role="search"><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><form class="google-cse" action="/2013/09/rage-twitter-machine-great-hater-and-miliband-slowman" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="search" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions--2"><input type="submit" id="edit-submit--3" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-bOcchnWbtJrpFXMs8n3zkgBfeJdxqq2kIT1DJl3k9DE" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form></div>
+  </div></div></div></div>        </div>
+      </div>
+        
+    <div id="header-wrapper">
+      <div class="container clearfix">
+        
+        <header class="clearfix with-logo" role="banner">
+       
+         
+                      <div id="branding" class="branding-elements clearfix">
+           
+          
+    <!-- NS_Vodafone_Politics_Leader -->
+<div id='div-gpt-ad-1359018522590-0' style='width:728px; height:90px;'>
+  <script type='text/javascript'>
+				googletag.cmd.push(function()
+				{ googletag.display('div-gpt-ad-1359018522590-0'); }
+				
+				);
+				</script>
+</div>
+ 
+           
+             
+                              <div id="logo">
+                  <a href="/" title="Home page"><img class="site-logo image-style-none" typeof="foaf:Image" src="http://www.newstatesman.com/sites/default/files/newstatesmanlogo.jpg" alt="New Statesman" /></a>                                 </div>
+              
+                              <hgroup id="name-and-slogan" class="element-invisible" id="name-and-slogan">
+
+                                      <h1 id="site-name" class="element-invisible" id="site-name"><a href="/" title="Home page">New Statesman</a></h1>
+                  
+                  
+                </hgroup>
+              
+            </div>
+                    
+          <div id="header-new" class="clear-blockwith-blocks">
+                           
+          <div style="float:right" > <a href="http://www.newstatesman.com/subscribe"><img src="http://www.newstatesman.com/sites/all/themes/corolla/images/NSadbox.png"  alt="New Statesman Week subscription offers"  title="New Statesman Week subscription offers"/></a></div>
+                   
+        </div>
+
+          
+        </header>
+      </div>
+    </div>
+
+      <div id="menu-bar-wrapper" >
+        <div class="container clearfix">
+          <div id="menu-bar" class="nav clearfix"><nav id="block-system-main-menu" class="block block-system block-menu menu-wrapper menu-bar-wrapper clearfix odd first last block-count-2 block-region-menu-bar block-main-menu"  role="navigation">  
+      <h2 class="element-invisible block-title element-invisible">Main menu</h2>
+  
+  <ul class="menu clearfix"><li class="first expanded menu-depth-1 menu-item-679"><a href="/" title="">﻿Home</a><ul class="menu clearfix"><li class="first leaf menu-depth-2 menu-item-1931"><a href="/gibraltar" title="">Gibraltar</a></li><li class="leaf menu-depth-2 menu-item-1892"><a href="/subjects/ukraine" title="">Ukraine</a></li><li class="leaf menu-depth-2 menu-item-1750"><a href="/subjects/Scottish%20independence" title="">Scottish Independence</a></li><li class="leaf menu-depth-2 menu-item-1893"><a href="/subjects/education" title="">Education</a></li><li class="leaf menu-depth-2 menu-item-1751"><a href="/subjects/Feminism" title="">Feminism</a></li><li class="leaf menu-depth-2 menu-item-684"><a href="/subjects/Syria" title="">Syria</a></li><li class="last leaf menu-depth-2 menu-item-755"><a href="/subjects/advertorial" title="">Sponsored Advertorial</a></li></ul></li><li class="leaf menu-depth-1 menu-item-783"><a href="/the-staggers" title="">The Staggers</a></li><li class="expanded active-trail menu-depth-1 menu-item-784"><a href="/politics" title="" class="active-trail">Politics</a><ul class="menu clearfix"><li class="first leaf active-trail menu-depth-2 menu-item-803"><a href="/comment" title="politics/comment" class="active-trail">Comment</a></li><li class="leaf menu-depth-2 menu-item-804"><a href="/politics/blogs" title="">Blogs</a></li><li class="leaf menu-depth-2 menu-item-806"><a href="/topics/uk-politics" title="">UK politics</a></li><li class="leaf menu-depth-2 menu-item-807"><a href="/topics/international-politics" title="">International politics</a></li><li class="leaf menu-depth-2 menu-item-809"><a href="/topics/environment" title="">Environment</a></li><li class="leaf menu-depth-2 menu-item-810"><a href="/politics/polls-guide" title="">Polls</a></li><li class="last leaf menu-depth-2 menu-item-811"><a href="/events" title="">Events</a></li></ul></li><li class="collapsed menu-depth-1 menu-item-785"><a href="/business" title="">Business &amp; Economics</a></li><li class="collapsed menu-depth-1 menu-item-786"><a href="/culture" title="">Culture</a></li><li class="collapsed menu-depth-1 menu-item-1642"><a href="/blogs" title="">Blogs</a></li><li class="leaf menu-depth-1 menu-item-1595"><a href="/energy">Energy</a></li><li class="leaf menu-depth-1 menu-item-522"><a href="/events" title="">Events</a></li><li class="leaf menu-depth-1 menu-item-1153"><a href="/podcast">Podcast</a></li><li class="leaf menu-depth-1 menu-item-1748"><a href="/magazine">Magazine</a></li><li class="last collapsed menu-depth-1 menu-item-546"><a href="/archive" title="">Archive</a></li></ul>
+  </nav></div>        </div>
+      </div>
+        
+   
+
+    
+    
+    <div id="content-wrapper">
+      <div class="container">
+
+        <div id="columns">
+          <div class="columns-inner clearfix">
+
+	
+            <div id="content-column">
+              <div class="content-inner">
+
+                
+                <section id="main-content" role="main">
+
+                  
+                  <div class="content-margin">
+                    <div class="content-style">
+
+                                                                    <div id="breadcrumb" class="clearfix"><nav class="breadcrumb-wrapper clearfix" role="navigation"><h2 class="element-invisible">You are here</h2><span>Return to: </span><ul id="crumbs" class="clearfix"><li class="crumb crumb-first"><a href="/politics" title="">Politics</a></li><li class="crumb crumb-last"><span class="crumb-sepreator"> | </span><a href="/comment" title="politics/comment">Comment</a></li></ul></nav></div>                                            
+                    
+                      
+                      
+                      <div id="content">                     
+                        <div id="block-system-main" class="block block-system no-title odd first last block-count-3 block-region-content block-main" >  
+  
+   
+
+
+<article id="node-197936" class="node node-blogs node-sticky article odd node-full clearfix" about="/2013/09/rage-twitter-machine-great-hater-and-miliband-slowman" typeof="sioc:Item foaf:Document" role="article">
+
+  <div class="node-inner">
+
+    
+              <header class="node-header">
+
+                  <h1 property="dc:title" datatype="" class="node-title" rel="nofollow">
+                          Jonathan Franzen and the rage of the Twitter machine                      </h1>
+              
+      <h1 class="subheadline"><div class="field field-name-field-subheadline field-type-text-long field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even"><p>We’re swamped by a tide of reaction and instant opinion churned out by the second on Twitter, writes Jason Cowley. But as Franzen, Obama and Miliband show, instant gratification won’t secure our grasp of events.</p>
+</div></div></div></h1>
+         
+      <span class="submitted">
+      
+                  <p class="submitted"><span property="dc:date dc:created" content="2013-09-26T08:03:49+01:00" datatype="xsd:dateTime" rel="sioc:has_creator">by <a href="/writers/jason_cowley" title="View user profile." class="username" xml:lang="" about="/users/jason-cowley" typeof="sioc:UserAccount" property="foaf:name" datatype="">Jason Cowley</a> <span class="published_date">Published <time datetime="2013-09-26T08:03:49+0100" pubdate="pubdate">26 September, 2013 - 08:03</time></span></span></p>
+         
+		
+		      <nav class="clearfix"><ul class="links inline"><li class="widgets_service_links-default first"><span><a href="http://www.stumbleupon.com/submit?url=http%3A//www.newstatesman.com/2013/09/rage-twitter-machine-great-hater-and-miliband-slowman&amp;title=Jonathan%20Franzen%20and%20the%20rage%20of%20the%20Twitter%20machine&amp;text=" title="Thumb this up at StumbleUpon" class="service-links-stumbleupon" rel="nofollow" target="_blank"><img typeof="foaf:Image" class="image-style-none" src="http://www.newstatesman.com/sites/all/modules/service_links/images/stumbleit.png" alt="StumbleUpon logo" /></a><a href="http://reddit.com/submit?url=http%3A//www.newstatesman.com/2013/09/rage-twitter-machine-great-hater-and-miliband-slowman&amp;title=Jonathan%20Franzen%20and%20the%20rage%20of%20the%20Twitter%20machine&amp;text=" title="Submit this post on reddit.com" class="service-links-reddit" rel="nofollow" target="_blank"><img typeof="foaf:Image" class="image-style-none" src="http://www.newstatesman.com/sites/all/modules/service_links/images/reddit.png" alt="Reddit logo" /></a><a href="http://www.newstatesman.com/print/node/197936?title=&amp;text=" title="Printable version" class="service-links-print" rel="nofollow" target="_blank"><img typeof="foaf:Image" class="image-style-none" src="http://www.newstatesman.com/sites/all/modules/service_links/images/print.png" alt="Print HTML logo" /></a><a href="http://www.facebook.com/plugins/like.php?href=http%3A//www.newstatesman.com/2013/09/rage-twitter-machine-great-hater-and-miliband-slowman&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;width=90&amp;height=21&amp;font=&amp;locale=&amp;title=&amp;text=" title="I Like it" class="service-links-facebook-like" rel="nofollow" target="_blank"><span class="element-invisible">Facebook Like</span></a><a href="http://www.newstatesman.com/2013/09/rage-twitter-machine-great-hater-and-miliband-slowman?title=&amp;text=" title="Plus it" class="service-links-google-plus-one" rel="nofollow" target="_blank"><span class="element-invisible">Google Plus One</span></a><a href="http://twitter.com/share?url=http%3A//www.newstatesman.com/2013/09/rage-twitter-machine-great-hater-and-miliband-slowman&amp;count=horizontal&amp;via=&amp;text=Jonathan%20Franzen%20and%20the%20rage%20of%20the%20Twitter%20machine&amp;counturl=http%3A//www.newstatesman.com/2013/09/rage-twitter-machine-great-hater-and-miliband-slowman&amp;title=" class="twitter-share-button service-links-twitter-widget" title="Tweet This" rel="nofollow" target="_blank"><span class="element-invisible">Tweet Widget</span></a></span></li><li class="flag-bookmarks last"><span><a href="http://www.newstatesman.com/user"><span class="i a2a_i_library">&nbsp;</span></a></span></li></ul><a title="Share via e-mail program" href="mailto:?subject=Jonathan Franzen and the rage of the Twitter machine&body=http://www.newstatesman.com/2013/09/rage-twitter-machine-great-hater-and-miliband-slowman" class="a2a_i_email" id="addtoany_email_program"><span>&nbsp;</span></a></nav>
+          </span>
+      </header>      
+        
+      
+        
+    <div class="node-content">
+        <span class="print-link"></span><div class="field field-name-field-node-image field-type-image field-label-hidden view-mode-full"><div class="field-items"><figure class="clearfix field-item even"><img typeof="foaf:Image" class="image-style-fullnode-image" src="http://www.newstatesman.com/sites/default/files/styles/fullnode_image/public/articles_2013/110014362_2.jpg?itok=CihJZZLx" width="510" height="348" alt="" /></figure></div></div><div class="field field-name-field-nodeimage-title field-type-text field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even">Does using social media make you more interesting? Image: Getty</div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even" property="content:encoded"> <p>In a recent newspaper interview Paul Mason, the former BBC <em>Newsnight </em>reporter who has joined <em>Channel 4 News</em> as its digital editor, made the absurd claim that those who use social media are “more interesting” than those who don’t because “they have more to talk about”. I once had breakfast with Mason and he certainly had a lot to say – mostly about himself (I’m only joking, Paul!). Perhaps he should read the novelist Jonathan Franzen’s new book, <em>The Kraus Project</em>, in which he writes about what he perceives to be the idiocy of “our own media-saturated, technology-crazed, apocalypse-haunted historical moment”.</p>
+<p>The book reads as an extended meditation on the enduring influence of the <em>fin de siècle</em> Viennese satirist Karl Kraus, who was known as the Great Hater, and as a counterblast against our veneration of technology. One could call it the cult of digital cool. Franzen – who is quite a hater himself – despises the look-at-me Facebook generation’s obsession with ostentatious display as well as the extreme self-promotion that social media encourages and indulges. He also hates Twitter not as an end in itself but because it has become the means to create a kind of mindless babble of instant opinion.</p>
+<h2>
+	Deafening birdsong</h2>
+<p>I paradoxically agree both with Mason the techno-zealot and with Franzen the technoreactionary. I like the liberating potential of social media, as Mason does, and the way it allows a small publication such as the <em>New Statesman</em> to transcend old channels of production and distribution and have instant global reach and impact (more than a third of our ever-growing web traffic, on which we are making a healthy financial return, comes through social media). And yet, I’m thoroughly bored by much of what is said and linked to on Twitter, if indeed one has time to follow what is said and linked to, and I seldom do. For me, there are few phrases more dispiriting than “Twitter storm”.</p>
+<p>The larger problem of Twitter is that it encourages a kind of crude, unthinking public evaluation – and evisceration – of the kind experienced the other week by the Labour minister Rachel Reeves. More generally, it allows the voice – to use a Krausian term – of mass man to be heard: scabrous, enraged, atomised. When people express outrage about the vulgarity and aggression of so much of what is posted on Twitter, my reaction is: what did they expect, a reasoned and nuanced conversation? Wise up.</p>
+<h2>
+	Coulda been a contender?</h2>
+<p>Because it indulges brash opinion and rewards brevity and haste, Twitter has contributed to the even greater banalisation of the political and cultural discourse.</p>
+<p>We see this all the time in the way politics is routinely discussed and reported. One need only consider the fortunes of Ed Miliband, the Labour leader, who arrives for his party’s annual conference in Brighton at the weekend with, if you believe the way the polls are reported, his “personal approval ratings” in free fall and his party restively wishing it was led by someone else – anyone else! Well, if so, who is this person, and why don’t they make themselves known?</p>
+<h2>
+	Smart as a vampire tortoise</h2>
+<p>“Why has the pleasure of slowness disappeared?” asked Milan Kundera. Miliband is in many ways the slow man of politics – a man out of time. He likes to think hard before he speaks; like a politician of the 1980s, he likes the long-drawn-out process of policy reviews and strategic deliberation. As a former Treasury wonk and Harvard lecturer, and the son of a Marxist academic for whom a family dinner could morph into a seminar, he is interested in ideas and philosophical concepts – “predistribution”, “the squeezed middle”, “responsible capitalism”.</p>
+<p>David Maraniss, the author of a biography of Barack Obama, has written that the US president has “a writer’s sensibility, where he is both participating and observing himself participating, and views much of the political process as ridiculous or surreal, even as he is deep into it”. This would fit also as a description of Ed Miliband. Unlike Obama, the author of two fine books of memoir, the Labour leader is not a writer, but he is cerebral and introspective. He refuses to be rushed. He is watchful and self-watching. He knows what he knows and has the strange confidence of a man who believes that all will come right on the night. It might not, of course.</p>
+<p>The deliberative approach has taken him a long way – to the summit of his party and to a consistent, if shallow, lead in the polls. But the clamour of the mob grows ever louder. Miliband is a “vulture”, it is said, an opportunist who feeds off the carcasses of his weakened opponents – his elder brother; David Cam eron during the debate on whether to intervene militarily in Syria. We know he lacks courage, critics say, because he hesitated when others wanted him to fall in behind the hawks and demand the immediate bombing of Syria. According to the <em>Telegraph</em>, “Red Ed” has “turned into Dead Ed”: “Even those closest to Ed Miliband are beginning to ask whether they dare go into the general election with this guy as their leader.”</p>
+<h2>
+	Tics of conference season</h2>
+<p>Politics has become rather like football, addicted to crisis narratives. Those who commentate on it are becoming obsessed with the superficialities of instant evaluation. And the cry is ever the same: sack the manager! I can’t see any way that Miliband will be sacked by his party before the next election in 2015, and I understand why Tim Farron, the Liberal Democrat president, used the forum of his <em>NS </em>interview last week to woo him.</p>
+<p>The message of the conference season is clear: parliament remains hung; the public distrusts and mostly dislikes our politicians; Britain is not one nation but several, and votes accordingly; and there is no one dominant political idea that will help one leader or party effect a grand transformation of the kind achieved by the Thatcherites, or by the economic planners during and after the Second World War.</p>
+<p>Meanwhile, to paraphrase Kraus, the Twitter machine goes on humming.</p>
+ </div></div></div>    </div>
+    
+      
+  
+    <div class="tags"><strong>Tags:</strong><a href="/subjects/twitter">twitter</a></div>
+          <span class="submitted">
+       <nav class="clearfix"><ul class="links inline"><li class="widgets_service_links-default first"><span><a href="http://www.stumbleupon.com/submit?url=http%3A//www.newstatesman.com/2013/09/rage-twitter-machine-great-hater-and-miliband-slowman&amp;title=Jonathan%20Franzen%20and%20the%20rage%20of%20the%20Twitter%20machine&amp;text=" title="Thumb this up at StumbleUpon" class="service-links-stumbleupon" rel="nofollow" target="_blank"><img typeof="foaf:Image" class="image-style-none" src="http://www.newstatesman.com/sites/all/modules/service_links/images/stumbleit.png" alt="StumbleUpon logo" /></a><a href="http://reddit.com/submit?url=http%3A//www.newstatesman.com/2013/09/rage-twitter-machine-great-hater-and-miliband-slowman&amp;title=Jonathan%20Franzen%20and%20the%20rage%20of%20the%20Twitter%20machine&amp;text=" title="Submit this post on reddit.com" class="service-links-reddit" rel="nofollow" target="_blank"><img typeof="foaf:Image" class="image-style-none" src="http://www.newstatesman.com/sites/all/modules/service_links/images/reddit.png" alt="Reddit logo" /></a><a href="http://www.newstatesman.com/print/node/197936?title=&amp;text=" title="Printable version" class="service-links-print" rel="nofollow" target="_blank"><img typeof="foaf:Image" class="image-style-none" src="http://www.newstatesman.com/sites/all/modules/service_links/images/print.png" alt="Print HTML logo" /></a><a href="http://www.facebook.com/plugins/like.php?href=http%3A//www.newstatesman.com/2013/09/rage-twitter-machine-great-hater-and-miliband-slowman&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;width=90&amp;height=21&amp;font=&amp;locale=&amp;title=&amp;text=" title="I Like it" class="service-links-facebook-like" rel="nofollow" target="_blank"><span class="element-invisible">Facebook Like</span></a><a href="http://www.newstatesman.com/2013/09/rage-twitter-machine-great-hater-and-miliband-slowman?title=&amp;text=" title="Plus it" class="service-links-google-plus-one" rel="nofollow" target="_blank"><span class="element-invisible">Google Plus One</span></a><a href="http://twitter.com/share?url=http%3A//www.newstatesman.com/2013/09/rage-twitter-machine-great-hater-and-miliband-slowman&amp;count=horizontal&amp;via=&amp;text=Jonathan%20Franzen%20and%20the%20rage%20of%20the%20Twitter%20machine&amp;counturl=http%3A//www.newstatesman.com/2013/09/rage-twitter-machine-great-hater-and-miliband-slowman&amp;title=" class="twitter-share-button service-links-twitter-widget" title="Tweet This" rel="nofollow" target="_blank"><span class="element-invisible">Tweet Widget</span></a></span></li><li class="flag-bookmarks last"><span><a href="http://www.newstatesman.com/user"><span class="i a2a_i_library">&nbsp;</span></a></span></li></ul><a title="Share via e-mail program" href="mailto:?subject=Jonathan Franzen and the rage of the Twitter machine&body=http://www.newstatesman.com/2013/09/rage-twitter-machine-great-hater-and-miliband-slowman" class="a2a_i_email" id="addtoany_email_program"><span>&nbsp;</span></a></nav>
+    </span>
+    
+  </div>
+</article>
+
+
+
+<div id="contentclick529"></div>
+<script type="text/javascript">
+    (function() {
+        var data =
+        {
+            pub_id: "269",w_id: "529",pw: "a98a47124bbb74", cbust: (new Date()).getTime()
+        };
+        var u="";
+        for(var key in data){u+=key+"="+data[key]+"&"}
+        u=u.substring(0,u.length-1);		
+        var a = document.createElement("script");
+        a.type= 'text/javascript';
+        a.src = "https://api.contentclick.co.uk/pub_serve.php?" + u;
+        a.async = true;		
+        document.getElementById("contentclick529").appendChild(a);
+    })();		
+</script>
+
+
+
+
+
+
+  </div>                                             
+                                                      <div class="clear"></div>
+                                         
+                 
+                      </div>
+
+                      
+                    </div>
+                  </div>
+
+                </section>
+
+                <div class="region region-content-aside"><div class="region-inner clearfix"><div id="block-disqus-disqus-comments" class="block block-disqus no-title odd first last block-count-4 block-region-content-aside block-disqus-comments" ><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><div id="disqus_thread"><noscript><p><a href="http://newstatesman1913.disqus.com/?url=http%3A%2F%2Fwww.newstatesman.com%2F2013%2F09%2Frage-twitter-machine-great-hater-and-miliband-slowman">View the discussion thread.</a></p></noscript></div></div>
+  </div></div></div></div>
+
+<!-- OnScroll - NewStatesman - NS MPU (left navi) [Oct2013] -->
+<script>
+var onScrOll=new Object();
+onScrOll.code="PCEtLSBNZXRyaWMgU2NpZW5jZSAtIE5ld1N0YXRlc21hbiAtIE5TIE1QVSAobGVmdCBuYXZpKSBbT2N0MjAxM10gLS0+CjxkaXY+CjwhLS0gc3RhcnQgb2YgY3JlYXRpdmUgY29udGVudCAtLT4KPCEtLSBCRUdJTiBKUyBUQUcgLSBOUyBNUFUgKGxlZnQgbmF2aSkgPCAtIERPIE5PVCBNT0RJRlkgLS0+DQo8U0NSSVBUIFNSQz0iaHR0cDovL2FkLm5ldGNvbW11bml0aWVzLmNvbS90dGo/aWQ9MTgzNjM2NSIgVFlQRT0idGV4dC9qYXZhc2NyaXB0Ij48L1NDUklQVD4NCjwhLS0gRU5EIFRBRyAtLT4KPCEtLSBlbmQgb2YgY3JlYXRpdmUgY29udGVudCAtLT4KPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPgood2luZG93Ll90cmFja2VyID0gKHdpbmRvdy5fdHJhY2tlciB8fCBbXSkpLnB1c2goewogIGNhbXBhaWduSWQ6ICc1MWZmN2U2OTc4ZWNjOGU4NzYwMDAwMmEnLAogIGNyZWF0aXZlSWQ6ICc1MjRlOGNhZjE2OTU5MWQ3MjMwMDAwMDUnLAogIGFjY291bnRJZDogJzUxZmY3ZTRiNzhlY2M4ZTg3NjAwMDAyOScKfSk7Cjwvc2NyaXB0Pgo8c2NyaXB0IHNyYz0iaHR0cDovL2Nkbi5vbnNjcm9sbC5jb20vbXMub3MuanMiPjwvc2NyaXB0Pgo8L2Rpdj4KPCEtLSBFbmQgb2YgdGFnIC0gLS0+";
+onScrOll.margin=880;
+onScrOll.mode="sticky";
+onScrOll.height=250;
+onScrOll.width=300;
+onScrOll.reload=false;
+onScrOll.marginTop=10;
+onScrOll.iframe=false;
+onScrOll.refreshTime=30;
+onScrOll.onPageLoad=false;
+</script>
+<script src="http://cdn.onscroll.com/onscroll.refresh.ms.js"></script>
+<!-- End of tag - -->
+    
+       
+              </div>
+            </div>
+          
+            
+ 	<!--sidebar first --> 
+	
+     <div class="region custom-sidebar-first sidebar" >
+      
+            <div class="region region-sidebar-first-top sidebar"><div class="region-inner clearfix"><div id="block-quicktabs-most-read-and-most-commented" class="block block-quicktabs no-title odd first block-count-7 block-region-sidebar-first-top block-most-read-and-most-commented">
+  <div class="block-inner clearfix">
+    <div  id="quicktabs-most_read_and_most_commented" class="quicktabs-wrapper quicktabs-style-basic"><div class="item-list"><ul class="quicktabs-tabs quicktabs-style-basic"><li class="active even first"><a href="/2013/09/rage-twitter-machine-great-hater-and-miliband-slowman?qt-most_read_and_most_commented=0#qt-most_read_and_most_commented" id="quicktabs-tab-most_read_and_most_commented-0" class="active">Most read</a></li><li class="odd last"><a href="/2013/09/rage-twitter-machine-great-hater-and-miliband-slowman?qt-most_read_and_most_commented=1#qt-most_read_and_most_commented" id="quicktabs-tab-most_read_and_most_commented-1" class="active">Most commented</a></li></ul></div><div id="quicktabs-container-most_read_and_most_commented" class="quicktabs_main quicktabs-style-basic"><div  id="quicktabs-tabpage-most_read_and_most_commented-0" class="quicktabs-tabpage "><div id="block-views-gas-block-1" class="block block-views no-title odd first block-count-5 block-region-quicktabs-tabpage block-gas-block-1" ><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><div class="view view-gas view-id-gas view-display-id-block_1 view-dom-id-8fffd2b49ec53efd2f7bd298af515a00">
+        
+  
+  
+      <div class="view-content">
+        <div class="arrow-list">
+    
+    <div class="views-field views-field-title">       <span class="field-content"><a href="/voices/2014/02/how-many-models-will-speak-out-against-terry-richardson-fashion-industry-cares">How many models will speak out against Terry Richardson before the fashion industry cares?</a></span>    
+  </div>    <div class="views-field views-field-name">       <span class="field-content">Harriet Williamson</span>    
+  </div>
+
+
+
+
+
+  </div>
+  <div class="arrow-list">
+    
+    <div class="views-field views-field-title">       <span class="field-content"><a href="/politics/2014/04/h-g-wells-it-seems-me-i-am-more-left-you-mr-stalin">H G Wells: “It seems to me that I am more to the Left than you, Mr Stalin”</a></span>    
+  </div>    <div class="views-field views-field-name">       <span class="field-content">H G Wells</span>    
+  </div>
+
+
+
+
+
+  </div>
+  <div class="arrow-list">
+    
+    <div class="views-field views-field-title">       <span class="field-content"><a href="/2014/04/anxiety-nation-why-are-so-many-us-so-ill-ease">Anxiety nation: why are so many of us so ill at ease?</a></span>    
+  </div>    <div class="views-field views-field-name">       <span class="field-content">Sophie McBain</span>    
+  </div>
+
+
+
+
+
+  </div>
+  <div class="arrow-list">
+    
+    <div class="views-field views-field-title">       <span class="field-content"><a href="/culture/2014/04/sympathy-wife-murderer-feminist-killjoy-review-fargo">Sympathy for a wife-murderer: a feminist killjoy review of Fargo</a></span>    
+  </div>    <div class="views-field views-field-name">       <span class="field-content">Rebecca Reilly-Cooper</span>    
+  </div>
+
+
+
+
+
+  </div>
+  <div class="arrow-list">
+    
+    <div class="views-field views-field-title">       <span class="field-content"><a href="/politics/2014/04/why-i-say-ukip-posters-are-racist">Why I say Ukip posters are racist</a></span>    
+  </div>    <div class="views-field views-field-name">       <span class="field-content">Mike Gapes</span>    
+  </div>
+
+
+
+
+
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></div>
+  </div></div></div><div  id="quicktabs-tabpage-most_read_and_most_commented-1" class="quicktabs-tabpage quicktabs-hide"><div id="block-disqus-disqus-popular-threads" class="block block-disqus no-title even block-count-6 block-region-quicktabs-tabpage block-disqus-popular-threads" ><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><div id="dsq-popthreads" class="dsq-widget"><script type="text/javascript" src="http://disqus.com/forums/newstatesman1913/popular_threads_widget.js?num_items=5"></script></div></div>
+  </div></div></div></div></div>  </div>
+</div>
+<div id="block-views-home-sponsored-articles-block" class="block block-views no-title even last block-count-8 block-region-sidebar-first-top block-home-sponsored-articles-block" ><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><div id="block-views-home_sponsored_articles-block-ajax-content" class="ajaxblocks-wrapper-8"><script type="text/javascript"></script><noscript><div class="view view-home-sponsored-articles view-id-home_sponsored_articles view-display-id-block view-dom-id-389e010bbe51b20c3379757f5436fa91">
+        
+  
+  
+      <div class="view-content">
+        <div class="arrow-list">
+    
+   <div class="sponsored-list">
+    <div class="views-field views-field-title">       <span class="field-content"><a href="/politics/2014/04/blurring-lines">Blurring the lines</a></span>      </div>    <div class="views-field views-field-field-sponsored">       <div class="field-content">on</div>      </div>    <span class="views-field views-field-field-select-type">       <span class="field-content">Presented by</span>      </span>    <span class="views-field views-field-field-sponsored-by">       <span class="field-content"><a href="http://www.rnib.org.uk/" target="_blank">RNIB </a></span>      </span></div> 
+
+
+
+
+
+
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></noscript></div></div>
+  </div></div></div></div> <div id='div-gpt-ad-1363178482999-0' style='width:300px; height:auto; float:left;  margin-bottom:10px;'>
+			<script type='text/javascript'>
+			googletag.cmd.push(function()
+			{ googletag.display('div-gpt-ad-1363178482999-0'); }			
+			);
+			</script>
+			</div>
+		<div class="region region-sidebar-first sidebar"><div class="region-inner clearfix"><div id="block-views-about-author-block" class="block block-views no-title odd first block-count-9 block-region-sidebar-first block-about-author-block" ><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><div class="view view-about-author view-id-about_author view-display-id-block about-author view-dom-id-069c1180cf74d30e02741cab73bfb821">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+    
+    <div class="views-field views-field-name">       <span class="field-content">About Jason Cowley</span>    
+  </div>    <div class="views-field views-field-picture">       <div class="field-content"><a href="/writers/jason_cowley"><img typeof="foaf:Image" class="image-style-thumbnail" src="http://www.newstatesman.com/sites/default/files/styles/thumbnail/public/pictures/picture-327.jpg?itok=jxiiMtM4" alt="" /></a></div>    
+  </div>    <div class="views-field views-field-field-userbiography">       <div class="field-content"> <p>Jason Cowley is editor of the New Statesman</p>
+ </div>    
+  </div>
+
+
+
+
+
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></div>
+  </div></div><section id="block-views-sidebar-first-block" class="block block-views even last block-count-10 block-region-sidebar-first block-sidebar-first-block" ><div class="block-inner clearfix">  
+      <h2 class="block-title"><a href="/magazine" class="block-title-link">From the magazine</a></h2>
+  
+  <div class="block-content content"><div id="block-views-sidebar_first-block-ajax-content" class="ajaxblocks-wrapper-8"><script type="text/javascript"></script><noscript><div class="view view-sidebar-first view-id-sidebar_first view-display-id-block  from-the-magazine view-dom-id-47194d00015695ad55ccdeb0eb3ab0d1">
+        
+  
+  
+      <div class="view-content">
+      <div class="view-item">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">
+    <div class="views-field views-field-field-node-image">       <div class="field-content"><a href="/politics/2014/04/jimmy-carter-william-hague-hero-mine"><img typeof="foaf:Image" class="image-style-magazine-big-thumb-image" src="http://www.newstatesman.com/sites/default/files/styles/magazine_big_thumb_image/public/blogs_2014/04/2014%2B14jimmyC2.jpg?itok=PDLTC0EX" width="300" height="202" alt="James the evangelist: Jimmy Carter at home in Plains, Georgia" title="James the evangelist: Jimmy Carter at home in Plains, Georgia" /></a></div>    
+  </div>    <div class="views-field views-field-field-promo-title">       <div class="field-content"><a href="/politics/2014/04/jimmy-carter-william-hague-hero-mine">Jimmy Carter: “William Hague is a hero of mine”</a></div>    
+  </div>    <div class="views-field views-field-name">       <span class="field-content"><a href="/writers/113045">John Bew</a></span>    
+  </div>
+
+
+
+
+
+</li>
+          <li class="views-row views-row-2 views-row-even">
+    <div class="views-field views-field-field-node-image">       <div class="field-content"><a href="/culture/2014/04/hilary-mantel-i-do-think-level-public-debate-debased"><img typeof="foaf:Image" class="image-style-magazine-big-thumb-image" src="http://www.newstatesman.com/sites/default/files/styles/magazine_big_thumb_image/public/blogs_2014/04/2014%2B15HilaryMantel2.jpg?itok=5-L-odWI" width="300" height="202" alt="" /></a></div>    
+  </div>    <div class="views-field views-field-field-promo-title">       <div class="field-content"><a href="/culture/2014/04/hilary-mantel-i-do-think-level-public-debate-debased">Hilary Mantel: “I do think the level of public debate is debased”</a></div>    
+  </div>    <div class="views-field views-field-name">       <span class="field-content"><a href="/writers/117088">Erica Wagner</a></span>    
+  </div>
+
+
+
+
+
+</li>
+          <li class="views-row views-row-3 views-row-odd">
+    <div class="views-field views-field-field-node-image">       <div class="field-content"><a href="/politics/2014/04/h-g-wells-it-seems-me-i-am-more-left-you-mr-stalin"><img typeof="foaf:Image" class="image-style-magazine-big-thumb-image" src="http://www.newstatesman.com/sites/default/files/styles/magazine_big_thumb_image/public/blogs_2014/04/2014%2B15stalin.jpg?itok=NBqTSi-W" width="300" height="202" alt="Portrait of Josef Stalin (1933) by Isaak Izrailevich. Image: Bridgeman Art Library" title="Portrait of Josef Stalin (1933) by Isaak Izrailevich. Image: Bridgeman Art Library" /></a></div>    
+  </div>    <div class="views-field views-field-field-promo-title">       <div class="field-content"><a href="/politics/2014/04/h-g-wells-it-seems-me-i-am-more-left-you-mr-stalin">H G Wells: “It seems to me that I am more to the Left than you, Mr Stalin”</a></div>    
+  </div>    <div class="views-field views-field-name">       <span class="field-content"><a href="/writers/h_g_wells">H G Wells</a></span>    
+  </div>
+
+
+
+
+
+</li>
+          <li class="views-row views-row-4 views-row-even">
+    <div class="views-field views-field-field-node-image">       <div class="field-content"><a href="/2014/04/anxiety-nation-why-are-so-many-us-so-ill-ease"><img typeof="foaf:Image" class="image-style-magazine-big-thumb-image" src="http://www.newstatesman.com/sites/default/files/styles/magazine_big_thumb_image/public/blogs_2014/04/2014%2B14anxiety.jpg?itok=OjOzbuIs" width="300" height="202" alt="" /></a></div>    
+  </div>    <div class="views-field views-field-field-promo-title">       <div class="field-content"><a href="/2014/04/anxiety-nation-why-are-so-many-us-so-ill-ease">Anxiety nation: why are so many of us so ill at ease?</a></div>    
+  </div>    <div class="views-field views-field-name">       <span class="field-content"><a href="/writers/sophie_mcbain">Sophie McBain</a></span>    
+  </div>
+
+
+
+
+
+</li>
+          <li class="views-row views-row-5 views-row-odd">
+    <div class="views-field views-field-field-node-image">       <div class="field-content"><a href="/world-affairs/2013/04/why-allende-had-die"><img typeof="foaf:Image" class="image-style-magazine-big-thumb-image" src="http://www.newstatesman.com/sites/default/files/styles/magazine_big_thumb_image/public/articles_2013/train2.jpg?itok=5mGqCORn" width="300" height="202" alt="" /></a></div>    
+  </div>    <div class="views-field views-field-field-promo-title">       <div class="field-content"><a href="/world-affairs/2013/04/why-allende-had-die">Gabriel García Márquez: Why Allende had to die</a></div>    
+  </div>    <div class="views-field views-field-name">       <span class="field-content"><a href="/writers/123406">Gabriel García Márquez</a></span>    
+  </div>
+
+
+
+
+
+</li>
+          <li class="views-row views-row-6 views-row-even">
+    <div class="views-field views-field-field-node-image">       <div class="field-content"><a href="/culture/2014/04/henri-matisse-hand-takes-you-ride"><img typeof="foaf:Image" class="image-style-magazine-big-thumb-image" src="http://www.newstatesman.com/sites/default/files/styles/magazine_big_thumb_image/public/blogs_2014/04/2014%2B15matisse011%283%29.jpg?itok=DQo5m93y" width="300" height="202" alt="" /></a></div>    
+  </div>    <div class="views-field views-field-field-promo-title">       <div class="field-content"><a href="/culture/2014/04/henri-matisse-hand-takes-you-ride">Henri Matisse: the hand that takes you for a ride</a></div>    
+  </div>    <div class="views-field views-field-name">       <span class="field-content"><a href="/writers/craig_raine">Craig Raine</a></span>    
+  </div>
+
+
+
+
+
+</li>
+          <li class="views-row views-row-7 views-row-odd views-row-last">
+    <div class="views-field views-field-field-node-image">       <div class="field-content"><a href="/lifestyle/2014/04/lucy-winkett-easter-articulates-both-catastrophe-and-wonder-life-world"><img typeof="foaf:Image" class="image-style-magazine-big-thumb-image" src="http://www.newstatesman.com/sites/default/files/styles/magazine_big_thumb_image/public/blogs_2014/04/179460163.jpg?itok=fLniUNNr" width="300" height="202" alt="A visitor to Glastonbury Tor takes a photograph of St Michael&#039;s Tower. Photo: Getty" title="A visitor to Glastonbury Tor takes a photograph of St Michael&#039;s Tower. Photo: Getty" /></a></div>    
+  </div>    <div class="views-field views-field-field-promo-title">       <div class="field-content"><a href="/lifestyle/2014/04/lucy-winkett-easter-articulates-both-catastrophe-and-wonder-life-world">Lucy Winkett: Easter articulates both the catastrophe and the wonder of life in the world</a></div>    
+  </div>    <div class="views-field views-field-name">       <span class="field-content"><a href="/writers/lucy_winkett">Lucy Winkett</a></span>    
+  </div>
+
+
+
+
+
+</li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div></noscript></div></div>
+  </div></section></div></div>	
+         
+         <div id='div-gpt-ad-1372771363914-0' style='width:300px; height:auto; float:left; margin-bottom:10px;'>
+		<script type='text/javascript'>	googletag.cmd.push(function() { googletag.display('div-gpt-ad-1372771363914-0'); } 		);
+		</script>
+		</div>
+        
+        <!-- OnScroll - NewStatesman - Double MPU (right navi) [Dec2013] -->
+<script>
+var onScrOll=new Object();
+onScrOll.code="PCEtLSBNZXRyaWMgU2NpZW5jZSAtIE5ld1N0YXRlc21hbiAtIERvdWJsZSBNUFUgKHJpZ2h0IG5hdmkpIFtEZWMyMDEzXSAtLT4KPGRpdj4KPCEtLSBzdGFydCBvZiBjcmVhdGl2ZSBjb250ZW50IC0tPgo8IS0tIEJFR0lOIEpTIFRBRyAtIE5TIERvdWJsZSBNUFUgKHJpZ2h0IG5hdmkpIDwgLSBETyBOT1QgTU9ESUZZIC0tPg0KPFNDUklQVCBTUkM9Imh0dHA6Ly9hZC5uZXRjb21tdW5pdGllcy5jb20vdHRqP2lkPTIwMzMzMTQmc2l6ZT0zMDB4NjAwJnByb21vX3NpemVzPTMwMHgyNTAiIFRZUEU9InRleHQvamF2YXNjcmlwdCI+PC9TQ1JJUFQ+DQo8IS0tIEVORCBUQUcgLS0+CjwhLS0gZW5kIG9mIGNyZWF0aXZlIGNvbnRlbnQgLS0+CjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij4KKHdpbmRvdy5fdHJhY2tlciA9ICh3aW5kb3cuX3RyYWNrZXIgfHwgW10pKS5wdXNoKHsKICBjYW1wYWlnbklkOiAnNTFmZjdlNjk3OGVjYzhlODc2MDAwMDJhJywKICBjcmVhdGl2ZUlkOiAnNTI5ZjI1ODQxY2VkZDJlOTc4MDAwMDA5JywKICBhY2NvdW50SWQ6ICc1MWZmN2U0Yjc4ZWNjOGU4NzYwMDAwMjknCn0pOwo8L3NjcmlwdD4KPHNjcmlwdCBzcmM9Imh0dHA6Ly9jZG4ub25zY3JvbGwuY29tL21zLm9zLmpzIj48L3NjcmlwdD4KPC9kaXY+CjwhLS0gRW5kIG9mIHRhZyAtIC0tPg==";
+onScrOll.margin=880;
+onScrOll.mode="sticky";
+onScrOll.height=600;
+onScrOll.width=300;
+onScrOll.reload=false;
+onScrOll.marginTop=10;
+onScrOll.iframe=false;
+onScrOll.refreshTime=30;
+onScrOll.onPageLoad=false;
+</script>
+<script src="http://cdn.onscroll.com/onscroll.refresh.ms.js"></script>
+<!-- End of tag - -->
+        
+	   
+        
+        
+    <div style="clear:both"></div>
+    
+          
+    
+   <!-- OnScroll - NewStatesman - Double MPU (right navi) [Dec2013] -->
+<!--  NSDS-403 End of tag - -->
+
+                
+            </div> 
+		
+       
+        	<!-- sidebar second start and first end -->
+		
+        
+        	 <div  class="custom-sidebarsecond" >
+              <div class="region-sidebar-second-custom">       
+           <div class="region region-sidebar-second sidebar"><div class="region-inner clearfix"><section id="block-views-subscriber-image-block-1" class="block block-views odd first block-count-11 block-region-sidebar-second block-subscriber-image-block-1" ><div class="block-inner clearfix">  
+      <h2 class="block-title">Purchase today</h2>
+  
+  <div class="block-content content"><div class="view view-subscriber-image view-id-subscriber_image view-display-id-block_1 subscriber-image view-dom-id-bdd62d223b2f6f0c6206e5cffc7237c3">
+        
+  
+  
+      <div class="view-content">
+        <div>
+    
+           <a href="/subscribe"><img typeof="foaf:Image" class="image-style-magazine-thumb-image" src="http://www.newstatesman.com/sites/default/files/styles/magazine_thumb_image/public/articles_2014/2014%2B16easterdouble_small.jpg?itok=HMGuCqMD" width="163" height="212" alt="" /></a>    
+  
+
+
+
+
+
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></div>
+  </div></section><section id="block-views-subscriber-image-block-2" class="block block-views even block-count-12 block-region-sidebar-second block-subscriber-image-block-2" ><div class="block-inner clearfix">  
+      <h2 class="block-title">Out now</h2>
+  
+  <div class="block-content content"><div class="view view-subscriber-image view-id-subscriber_image view-display-id-block_2 subscriber-image view-dom-id-c6ae705679eb482dbb79a2387649cea1">
+        
+  
+  
+      <div class="view-content">
+        <div>
+    
+           <a href="/century"><img typeof="foaf:Image" class="image-style-magazine-thumb-image" src="http://www.newstatesman.com/sites/default/files/styles/magazine_thumb_image/public/century_cover.jpg?itok=3XezsKuM" width="163" height="212" alt="New Statesman" title="New Statesman" /></a>    
+  
+
+
+
+
+
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></div>
+  </div></section><section id="block-simplenews-7961" class="block block-simplenews odd block-count-13 block-region-sidebar-second block-7961" ><div class="block-inner clearfix">  
+      <h2 class="block-title">Newsletter</h2>
+  
+  <div class="block-content content">      <p>Enter your email address here to receive updates from the team.</p>
+  
+      <form class="simplenews-subscribe" action="/2013/09/rage-twitter-machine-great-hater-and-miliband-slowman" method="post" id="simplenews-block-form-7961" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-mail">
+  <label for="edit-mail">E-mail <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-mail" name="mail" value="" size="20" maxlength="128" class="form-text required" />
+</div>
+<input type="hidden" name="form_build_id" value="form-dzr6ED46yPSxKiOEbd2_vqVqFtn13kxdjeuigR3Zha0" />
+<input type="hidden" name="form_id" value="simplenews_block_form_7961" />
+<div class="form-item form-type-textfield form-item-country">
+  <label for="edit-country">Country <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-country" name="country" value="" size="20" maxlength="128" class="form-text required" />
+</div>
+<input type="submit" id="edit-submit" name="op" value="Subscribe" class="form-submit" /></div></form>  
+  
+  
+  </div>
+  </div></section><section id="block-user-login" class="block block-user even last block-count-14 block-region-sidebar-second block-login"  role="form"><div class="block-inner clearfix">  
+      <h2 class="block-title">User login</h2>
+  
+  <div class="block-content content"><form action="/2013/09/rage-twitter-machine-great-hater-and-miliband-slowman?destination=node/197936" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Username or e-mail <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div>
+<div class="item-list"><ul><li class="even first"><a href="/user/register" title="Create a new user account.">Create new account</a></li><li class="odd last"><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li></ul></div><input type="hidden" name="form_build_id" value="form-1yNQzHgv7wzvxkQQ62lh09cR4WrCyA5YqbgpyuvKoPo" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit--2" name="op" value="Log in" class="form-submit" /></div></div></form></div>
+  </div></section></div></div>           <!-- Test_NS_Minister_widesky NSDS 376 -->
+<div id="div-gpt-ad-1357235299034-0" style="width:120px; text-align:center;  height:600px; margin:10px 0 10px 0px; float:left">
+	<script type='text/javascript'>
+googletag.cmd.push(function()
+{ googletag.display('div-gpt-ad-1357235299034-0'); }
+
+);
+</script></div>
+<div style="clear:both"></div> 
+ 
+
+<!-- OnScroll - NewStatesman - NS SkyScraper [Oct2013] -->
+<script>
+var onScrOll=new Object();
+onScrOll.code="PCEtLSBNZXRyaWMgU2NpZW5jZSAtIE5ld1N0YXRlc21hbiAtIE5TIFNreVNjcmFwZXIgW09jdDIwMTNdIC0tPgo8ZGl2Pgo8IS0tIHN0YXJ0IG9mIGNyZWF0aXZlIGNvbnRlbnQgLS0+CjwhLS0gQkVHSU4gSlMgVEFHIC0gTlMgU2t5U2NyYXBlciA8IC0gRE8gTk9UIE1PRElGWSAtLT4NCjxTQ1JJUFQgU1JDPSJodHRwOi8vYWQubmV0Y29tbXVuaXRpZXMuY29tL3R0aj9pZD0xODM2MzY2IiBUWVBFPSJ0ZXh0L2phdmFzY3JpcHQiPjwvU0NSSVBUPg0KPCEtLSBFTkQgVEFHIC0tPg0KCjwhLS0gZW5kIG9mIGNyZWF0aXZlIGNvbnRlbnQgLS0+CjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij4KKHdpbmRvdy5fdHJhY2tlciA9ICh3aW5kb3cuX3RyYWNrZXIgfHwgW10pKS5wdXNoKHsKICBjYW1wYWlnbklkOiAnNTFmZjdlNjk3OGVjYzhlODc2MDAwMDJhJywKICBjcmVhdGl2ZUlkOiAnNTI0ZThjZDExNjk1OTFkNzIzMDAwMDA2JywKICBhY2NvdW50SWQ6ICc1MWZmN2U0Yjc4ZWNjOGU4NzYwMDAwMjknCn0pOwo8L3NjcmlwdD4KPHNjcmlwdCBzcmM9Imh0dHA6Ly9jZG4ub25zY3JvbGwuY29tL21zLm9zLmpzIj48L3NjcmlwdD4KPC9kaXY+CjwhLS0gRW5kIG9mIHRhZyAtIC0tPg==";
+onScrOll.margin=880;
+onScrOll.mode="sticky";
+onScrOll.height=600;
+onScrOll.width=160;
+onScrOll.reload=false;
+onScrOll.marginTop=10;
+onScrOll.iframe=false;
+onScrOll.refreshTime=30;
+onScrOll.onPageLoad=false;
+</script>
+<script src="http://cdn.onscroll.com/onscroll.refresh.ms.js"></script>
+<!-- End of tag - -->
+ 
+
+
+            </div> </div>         
+            <!-- sidebar second end -->        
+
+        </div>
+      </div>  
+    </div>
+
+    
+    
+          <div id="morenewstatesman_main">
+        <div class="container clearfix">
+          <footer class="clearfix" role="contentinfo">
+            <div class="region region-footer"><div class="region-inner clearfix"><div id="block-block-1" class="block block-block no-title odd first last block-count-15 block-region-footer block-1" ><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><div class="morenewstatesman font-times">
+<h2>More from the New Statesman</h2>
+<div class="morecol6">
+<dl>
+<dt>Sponsored Links:  </dt>
+<dd></dd>
+<dd></dd>
+<h4 style="color:#CB3848;"><b>Latitude Festival</b></h4>
+
+<dd>The Black Keys, Damon Albarn, Two Door Cinema Club, Dara O Briain, Al Murray, RSC, Roger McGough and many more confirmed for <a href="http://latitudefestival.seetickets.com/tour/latitude-festival-2014?src=lat2014MK64">Latitude Festival this July</a>.</dd>
+
+<h4 style="color:#CB3848;"><b>The Energy Debate</b></h4>
+<dd>Find out all you need to know about energy at the New Statesman’s brand new energy hub. 
+<a href="/energy">Click here to find out more</a></dd>
+</div>
+<div class="morecol1">
+<dl>
+<dt>New Statesman team: </dt>
+<dd ><a href="/writers/jason_cowley">Jason Cowley</a></dd>
+<dd ><a href="/writers/helen_lewis">Helen Lewis</a></dd>
+<dd ><a href="/writers/rafael_behr">Rafael Behr</a></dd>
+<dd ><a href="/writers/john_gray">John Gray</a></dd>
+<dd ><a href="/writers/kate_mossman">Kate Mossman</a></dd>
+<dd ><a href="/writers/peter_wilby">Peter Wilby</a></dd>
+<dd ><a href="/writers/jemima_khan">Jemima Khan</a></dd>
+<dd ><a href="/writers/37980">Thomas Calvocoressi</a></dd>
+<dd ><a href="/writers/tom_gatti">Tom Gatti</a></dd>
+<dd ><a href="/laurie-penny">Laurie Penny</a></dd>
+<dd ><a href="/writers/george_eaton">George Eaton</a></dd>
+<dd ><a href="/writers/caroline_crampton">Caroline Crampton</a></dd>
+<dd ><a href="/writers/sophie_mcbain">Sophie McBain</a></dd>
+<dd ><a href="/writers/philip_maughan">Philip Maughan</a></dd>
+<dd ><a href="/writers/ian_steadman">Ian Steadman</a></dd>
+<dd ><a href="/writers/michael_prodger">Michael Prodger</a></dd>
+</dl>
+</div>
+<div class="morecol2">
+<dl>
+<dt>Online writers: </dt>
+<dd><a href="/writers/rhiannon_and_holly">Rhiannon and Holly</a></dd>
+<dd><a href="/writers/alan_white">Alan White</a></dd>
+<dd><a href="/writers/glosswitch">Glosswitch</a></dd>
+<dd><a href="/writers/nelson_jones">Nelson Jones</a></dd>
+<dd><a href="/writers/bim_adewunmi">Bim Adewunmi</a></dd>
+<dd><a href="/writers/martha_gill">Martha Gill</a></dd>
+<dd><a href="/writers/juliet_jacques">Juliet Jacques</a></dd>
+<dd><a href="/writers/david_banks">David Banks</a></dd>
+<dd><a href="/writers/samira_shackle">Samira Shackle</a></dd>
+<dd><a href="/writers/nicky_woolf">Nicky Woolf</a></dd>
+<dd><a href="/writers/frances_ryan">Frances Ryan</a></dd>
+<dd><a href="/writers/jonn_elledge">Jonn Elledge</a></dd>
+<dd><a href="/writers/sarah_ditum">Sarah Ditum</a></dd>
+<dd><a href="/writers/martin_robbins">Martin Robbins</a></dd>
+<dd><a href="/media-mole">Media Mole</a></dd>
+<dd><a href="/writers/phil_hartup">Phil Hartup</a></dd>
+
+</dl>
+</div>
+
+<div class="morecol3">
+<dl>
+<dt>Columnists:  </dt>
+<dd ><a href="/writers/michael_brooks">Michael Brooks</a></dd>
+
+<dd ><a href="/writers/eleanor_margolis">Eleanor Margolis</a></dd>
+<dd ><a href="/writers/hunter_davies">Hunter Davies</a></dd>
+
+<dd ><a href="/writers/alice_o'keeffe">Alice O'Keeffe</a></dd>
+<dd ><a href="/writers/ed_smith">Ed Smith</a></dd>
+
+<dd ><a href="/writers/nina_caplan">Nina Caplan</a></dd>
+<dd ><a href="/writers/nicholas_lezard">Nicholas Lezard</a></dd>
+
+<dd ><a href="/writers/kevin_maguire">Kevin Maguire</a></dd>
+
+<dd ><a href="/writers/felicity_cloake">Felicity Cloake</a></dd>
+<dd ><a href="/writers/john_pilger">John Pilger</a></dd>
+
+<dd ><a href="/writers/mehdi_hasan">Mehdi Hasan</a></dd>
+
+<dd ><a href="/writers/will_self">Will Self</a></dd>
+<dd ><a href="/writers/felix_martin">Felix Martin</a></dd>
+
+<dd ><a href="/writers/john_burnside">John Burnside</a></dd>
+
+<dd ><a href="/writers/ruth_padel">Ruth Padel</a></dd>
+
+<dd ><a href="/writers/stephen_brasher">Stephen Brasher</a></dd>
+
+</dl>
+</div>
+
+<div class="morecol4">
+<dl>
+<dt>Critics:  </dt>
+
+<dd ><a href="/writers/leo_robson">Leo Robson</a></dd>
+<dd ><a href="/writers/craig_raine">Craig Raine</a></dd>
+<dd ><a href="/writers/rachel_cooke">Rachel Cooke</a></dd>
+<dd ><a href="/writers/ryan_gilbey">Ryan Gilbey</a></dd>
+<dd ><a href="/writers/antonia_quirke">Antonia Quirke</a></dd>
+<dd ><a href="/writers/jane_shilling">Jane Shilling</a></dd>
+<dd ><a href="/writers/alexandra_coghlan">Alexandra Coghlan</a></dd>
+<dd ><a href="/writers/stuart_maconie ">Stuart Maconie</a></dd>
+<dd ><a href="/writers/olivia_laing">Olivia Laing</a></dd>
+<dd ><a href="/writers/frances_wilson">Frances Wilson</a></dd>
+<dd ><a href="/writers/sarah_churchwell">Sarah Churchwell</a></dd>
+<dd ><a href="/writers/andrew_billen">Andrew Billen</a></dd>
+<dd ><a href="/writers/adam_kirsch">Adam Kirsch</a></dd>
+<dd ><a href="/writers/tom_watson">Tom Watson</a></dd>
+<dd ><a href="/writers/steven_poole">Steven Poole</a></dd>
+<dd ><a href="/writers/andrew_harrison">Andrew Harrison</a></dd>
+
+</div>
+
+
+<div class="morecol5">
+<dl>
+<dt> Services: </dt>
+<dd><a href="/subscribe" rel="nofollow" >Subscribe</a></dd>
+<dd><a href="/page/rss" rel="nofollow" >RSS feeds</a></dd>
+<dd><a href="/archive" rel="nofollow" >Archive</a></dd>
+<dd></dd>
+<dd><a href="/magazine" rel="nofollow" >This week's magazine</a></dd>
+<dd><a href="/new-statesman-pdf-edition" rel="nofollow" >PDF edition</a></dd>
+
+<dd><a href="/page/advertising" rel="nofollow" >Advertising</a></dd>
+<dd><a href="/page/supplements" rel="nofollow" >Special supplements</a></dd>
+<dd><a href="/subjects/advertorial" rel="nofollow" >Sponsored advertorial</a></dd>
+<dd><a href="/stockists" rel="nofollow" >Stockists</a></dd>
+<dd><a href="http://www.facebook.com/NewStatesman">Facebook </a></dd>
+<dd><a href="https://twitter.com/NewStatesman">Twitter</a></dd>
+<dd><a href="http://www.newstatesman.tumblr.com" rel="nofollow" >Tumblr</a></dd>
+<dd><a href="https://plus.google.com/+newstatesman/posts" rel="nofollow" >Google+</a></dd>
+<dd><a href="http://pinterest.com/newstatesman/" rel="nofollow" >Pinterest</a></dd>
+<dd><a href="http://itunes.apple.com/us/app/new-statesman/id400878915?mt=8&ls=1
+" rel="nofollow" >iPad app</a></dd>
+<dd><a href="http://www.newstatesman.com/podcast" rel="nofollow" >Podcast</a></dd>
+
+</dl>
+</div>
+
+
+</div></div>
+  </div></div></div></div>          </footer>
+        </div>
+      </div>
+        <div class="clear"></div>
+          <div id="footer_menu">
+        <div class="container clearfix">
+          <footer class="clearfix footer_menu" role="contentinfo">
+           &copy; New Statesman 1913 - 2014 <br /><div class="region region-footer-menu"><div class="region-inner clearfix"><div id="block-menu-menu-footer-menu" class="block block-menu no-title odd first last block-count-16 block-region-footer-menu block-menu-footer-menu"  role="navigation"><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><ul class="menu clearfix"><li class="first leaf menu-depth-1 menu-item-932"><a href="/history" title="">History</a></li><li class="leaf menu-depth-1 menu-item-933"><a href="/about-new-statesman" title="">About us</a></li><li class="leaf menu-depth-1 menu-item-934"><a href="/subscribe" title="">Subscribe</a></li><li class="leaf menu-depth-1 menu-item-935"><a href="/page/advertising" title="">Advertising</a></li><li class="leaf menu-depth-1 menu-item-936"><a href="/page/rss" title="">RSS feeds</a></li><li class="leaf menu-depth-1 menu-item-937"><a href="/privacy-policy" title="">Privacy policy</a></li><li class="leaf menu-depth-1 menu-item-938"><a href="/new-statesman-terms-and-conditions" title="">Terms and conditions</a></li><li class="last leaf menu-depth-1 menu-item-939"><a href="/contact-new-statesman" title="">Contact us</a></li></ul></div>
+  </div></div></div></div>          </footer>
+       <div class="footer_ad"> 
+      <div id='div-gpt-ad-1320926772906-0' style='width:728px; height:90px;'> 
+            <script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1320926772906-0'); });
+</script> 
+       
+       </div>
+        </div>
+      </div>
+    
+  </div>
+</div>
+
+<script type="text/javascript" src="http://www.newstatesman.com/1.4_new.js">
+</script> 
+<script type="text/javascript">
+    // The position of the disclosure ('top' or 'bottom')
+    // Number of times to display disclosure. Enter 0 to show it forever!!!!
+    // The URI of your privacy policy
+    cookiesDirective('top',3,'privacy-policy');
+</script> 
+  
+<script type="text/javascript">
+    function cookiesDirectiveScriptWrapper(){
+        // Cookie creating scripts etc here....
+     
+    }
+</script> 
+
+<script type="text/javascript">
+    // The position of the disclosure ('top' or 'bottom')
+    // Number of times to display disclosure. Enter 0 to show it forever!!!!
+    // The URI of your privacy policy
+    cookiesDirective('top',3,'privacy-policy');
+</script> 
+
+
+
+
+
+<!-- Slingpic NSDS-279 -->
+
+<script src="http://cdn.slingpic.com/js/slingpic.plugin.js"></script> 
+<script src="http://cdn.slingpic.com/ad/newstatesman.js"></script>
+<!-- Slingpic NSDS-279 END-->
+
+
+
+
+
+
+<!--saradhi-->
+
+<!--NSDS-364 START-->
+<!--NSDS-364 END-->
+
+<!-- PG-65 start-->
+<script type="text/javascript">
+	var _ttf = _ttf || [];
+	_ttf.push({
+		pid: 19701
+		,lang: 'en'
+		,slot:   '#page p'
+		,format: 'inread'
+		,minSlot: 5
+	       ,components: { mute: { delay: 0} ,skip: {delay: 0} }
+	});
+	(function(d){
+		var js, s = d.getElementsByTagName('script')[0];
+		js = d.createElement('script'); js.async = true;
+		js.src = "//cdn.teads.tv/js/all-v1.js";
+		s.parentNode.insertBefore(js, s);
+	})(window.document);
+</script>
+
+<!-- PG-65 END-->
+
+
+<!-- NSDS-404 -->
+<!-- NSDS-404 END-->
+
+<!-- Google Code for Remarketing Tag --> 
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1057685842;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1057685842/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+<!-- Google Code for Remarketing Tag end --> 
+
+</body>
+<!-- Section: politics  ##  node/197936/-->
+</html>
+
+

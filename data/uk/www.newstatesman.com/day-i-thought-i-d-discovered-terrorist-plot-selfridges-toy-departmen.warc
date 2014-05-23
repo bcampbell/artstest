@@ -1,0 +1,1174 @@
+WARC/1.0
+Content-Length: 79557
+Content-Type: application/http; msgtype=response
+Warc-Date: 2014-05-09T16:57:39Z
+Warc-Record-Id: urn:X-scrapeomat:1399654660441385148
+Warc-Target-Uri: http://www.newstatesman.com/culture/2014/05/day-i-thought-i-d-discovered-terrorist-plot-selfridges-toy-departmen
+Warc-Type: response
+X-Scrapeomat-Srcurl: http://www.newstatesman.com/culture/2014/05/day-i-thought-i-d-discovered-terrorist-plot-selfridges-toy-departmen
+
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Age: 11567
+Cache-Control: public, max-age=86400
+Connection: keep-alive
+Content-Language: en
+Content-Type: text/html; charset=utf-8
+Date: Fri, 09 May 2014 16:57:40 GMT
+Etag: "1399643090-1"
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Last-Modified: Fri, 09 May 2014 13:44:50 +0000
+Link: <http://www.newstatesman.com>; rel="publisher",<http://www.newstatesman.com/node/201772>; rel="shortlink",<http://www.newstatesman.com/culture/2014/05/day-i-thought-i-d-discovered-terrorist-plot-selfridges-toy-departmen>; rel="canonical"
+Server: nginx
+Vary: Cookie,Accept-Encoding
+Via: 1.1 varnish
+X-Ah-Environment: prod
+X-Cache: HIT
+X-Cache-Hits: 1025
+X-Drupal-Cache: MISS
+X-Generator: Drupal 7 (http://drupal.org)
+X-Varnish: 743043452 742352089
+
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7" lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7" lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8" lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9" lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]--><head>
+<meta charset="utf-8" />
+<meta property="twitter:site" content="@NewStatesman" />
+<meta property="twitter:card" content="summary" />
+<link rel="publisher" href="http://www.newstatesman.com" />
+<meta property="twitter:creator" content="@NewStatesman" />
+<meta property="twitter:creator:id" content="19906615" />
+<link rel="apple-touch-icon-precomposed" href="http://www.newstatesman.com/sites/default/files/ap-1024.png" type="image/png" />
+<link rel="apple-touch-icon" href="http://www.newstatesman.com/sites/default/files/ap-1024_0.png" type="image/png" />
+<link rel="shortcut icon" href="http://www.newstatesman.com/sites/default/files/favicon_0.ico" type="image/vnd.microsoft.icon" />
+<meta property="twitter:url" content="http://www.newstatesman.com/culture/2014/05/day-i-thought-i-d-discovered-terrorist-plot-selfridges-toy-departmen" />
+<link rel="shortlink" href="http://www.newstatesman.com/node/201772" />
+<link rel="canonical" href="http://www.newstatesman.com/culture/2014/05/day-i-thought-i-d-discovered-terrorist-plot-selfridges-toy-departmen" />
+<meta name="abstract" content="Property field_subheadline" />
+<meta name="description" content="Property field_subheadline" />
+<meta content="The day I thought I’d discovered a terrorist plot in Selfridges toy department" about="/culture/2014/05/day-i-thought-i-d-discovered-terrorist-plot-selfridges-toy-departmen" property="dc:title" />
+<meta property="twitter:title" content="The day I thought I’d discovered a terrorist plot in Selfridges toy department" />
+<meta name="keywords" content="New Statesman magazine, International Politics, British Politics, Britain, UK, Tony Blair, Gordon Brown, Geoffrey Robinson, David Cameron, Sir Menzies Campbell, Labour, Conservative, Liberal Democrat, UK Politics, House of Commons, House of Lords, Legislation, politics magazine" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<meta name="news_keywords" content="New Statesman magazine, International Politics, British Politics, Britain, UK, Tony Blair, Gordon Brown, Geoffrey Robinson, David Cameron, Sir Menzies Campbell, Labour, Conservative, Liberal Democrat, UK Politics, House of Commons, House of Lords, Legislation, politics magazin" />
+<meta name="robots" content="follow, index" />
+<meta name="copyright" content="New Statesman Ltd" />
+
+
+<meta name="DCSext.WebsiteName" content="www.newstatesman.com" />
+<title>New Statesman | The day I thought I’d discovered a terrorist plot in Selfridges toy department</title>
+<link type="text/css" rel="stylesheet" href="http://www.newstatesman.com/sites/default/files/css/css_BAvlU_nkLjx_N2ceUN6wjSpt73HFLirIRHRDFKsgW_o.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.newstatesman.com/sites/default/files/css/css_V2zp5fAS37Y54wkxBwtmDW3UKLB3tUqUjrEMnTvP_50.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.newstatesman.com/sites/default/files/css/css_7AKKtsueJ-MKD2KSTVgxxugxr-5wNe06wODzMl5HxA0.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.newstatesman.com/sites/default/files/css/css_smWejqFexB_rDFKKSWlAeBFeL0wXW7QAXc0ERqON49Y.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="http://www.newstatesman.com/sites/default/files/css/css_IaxkhIbdt-vYHNMXAV3Ou7tZmHi1UbEP3BmJyEULXNk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.newstatesman.com/sites/default/files/css/css_5_EBsvYf_U3gqgv1Idal1sImw7zcXB1kaIR6NOugp8o.css" media="print" />
+<link type="text/css" rel="stylesheet" href="http://www.newstatesman.com/sites/default/files/css/css_bendyGXujRFZK9vQplMVes3fsFYItbuNN5pPKBpbzLs.css" media="screen" />
+
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="http://www.newstatesman.com/sites/default/files/css/css_wil2VZHAky4m54MyLVpgiMX_IQ_4jrIPsVv8FFt_U9I.css" media="screen" />
+<![endif]-->
+<script src="http://www.newstatesman.com/sites/default/files/js/js_zzcIWOou_jnX0ZWAIA4sb6Xy_p5a8FZNA0GySvuWjPU.js"></script>
+<script src="http://www.newstatesman.com/sites/default/files/js/js_IMl3smh3e0caGFTkhRI1O9RGs11TsaavUtoyNsCHKk0.js"></script>
+<script src="http://www.newstatesman.com/sites/default/files/js/js__Ykllv-Bix22cXxD2KNPgq9D65eoyq6z3-Ddfodxtx4.js"></script>
+<script>var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-121540-1"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();</script>
+<script src="http://www.newstatesman.com/sites/default/files/js/js_5BKK24BqsPkntUceojxWXXmdI7oI7B6LiEAE1p-pd7A.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"corolla","theme_token":"A1YDrygvUW47c5wIc5KSyuI6vi5S3yd6v7h8K4aJNUs","css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/simplenews\/simplenews.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/google_cse\/google_cse.css":1,"sites\/all\/modules\/logintoboggan\/logintoboggan.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/views_slideshow\/views_slideshow.css":1,"sites\/all\/modules\/widgets\/widgets.css":1,"sites\/all\/modules\/flag\/theme\/flag.css":1,"sites\/all\/modules\/quicktabs\/css\/quicktabs.css":1,"sites\/all\/modules\/quicktabs\/quicktabs_tabstyles\/tabstyles\/basic\/basic.css":1,"sites\/all\/modules\/ajaxblocks\/ajaxblocks.css":1,"sites\/all\/themes\/adaptivetheme\/at_core\/css\/at.layout.css":1,"sites\/all\/themes\/corolla\/css\/NSstyles.css":1,"sites\/all\/themes\/corolla\/css\/print.css":1,"sites\/all\/themes\/corolla\/generated_files\/corolla.default.layout.css":1,"sites\/all\/themes\/corolla\/css\/ie-lte-9.css":1},"js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.5\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/modules\/google_cse\/google_cse.js":1,"misc\/progress.js":1,"sites\/all\/modules\/views_slideshow\/js\/views_slideshow.js":1,"sites\/all\/modules\/service_links\/js\/facebook_like.js":1,"sites\/all\/modules\/service_links\/js\/google_plus_one.js":1,"sites\/all\/modules\/service_links\/js\/twitter_button.js":1,"sites\/all\/modules\/flag\/theme\/flag.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/modules\/quicktabs\/js\/quicktabs.js":1,"sites\/all\/modules\/ajaxblocks\/ajaxblocks.js":1,"1":1}},"googleCSE":{"cx":"014587529549946006773:q0ke2unon2y","language":"en","resultsWidth":820,"domain":"www.google.com"},"jcarousel":{"ajaxPath":"\/jcarousel\/ajax\/views"},"ws_fl":{"width":90,"height":21},"ws_gpo":{"size":"","annotation":"","lang":"","callback":"","width":120},"flag":{"anonymous":true,"templates":{"bookmarks_201772":"\u003Cspan class=\u0022flag-wrapper flag-bookmarks flag-bookmarks-201772\u0022\u003E\n      \u003Ca href=\u0022\/flag\/unflag\/bookmarks\/201772?destination=node\/201772\u0026amp;token=e647f8748b48a67f2582410ee6b5ed6c\u0022 title=\u0022Remove this post from your bookmarks\u0022 class=\u0022flag unflag-action flag-link-toggle\u0022 rel=\u0022nofollow\u0022\u003E\u003Cspan class=\u0022i a2a_i_unlibrary\u0022\u003E\u0026nbsp;\u003C\/span\u003E\u003C\/a\u003E\u003Cspan class=\u0022flag-throbber\u0022\u003E\u0026nbsp;\u003C\/span\u003E\n    \u003C\/span\u003E\n"}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"quicktabs":{"qt_most_read_and_most_commented":{"name":"most_read_and_most_commented","tabs":[{"bid":"views_delta_gas-block_1","hide_title":1},{"bid":"disqus_delta_disqus_popular_threads","hide_title":1}],"flag":{"templates":{"bookmarks_201772":"\u003Cspan class=\u0022flag-wrapper flag-bookmarks flag-bookmarks-201772\u0022\u003E\n      \u003Ca href=\u0022\/flag\/unflag\/bookmarks\/201772?destination=node\/201772\u0026amp;token=e647f8748b48a67f2582410ee6b5ed6c\u0022 title=\u0022Remove this post from your bookmarks\u0022 class=\u0022flag unflag-action flag-link-toggle\u0022 rel=\u0022nofollow\u0022\u003E\u003Cspan class=\u0022i a2a_i_unlibrary\u0022\u003E\u0026nbsp;\u003C\/span\u003E\u003C\/a\u003E\u003Cspan class=\u0022flag-throbber\u0022\u003E\u0026nbsp;\u003C\/span\u003E\n    \u003C\/span\u003E\n"}}}},"ajaxblocks":"blocks=views-home_sponsored_articles-block\/views-sidebar_first-block\u0026path=node\/201772","ajaxblocks_delay":1});</script>
+<!--[if lt IE 9]>
+<script src="http://www.newstatesman.com/sites/all/themes/adaptivetheme/at_core/scripts/html5.js?n58wlt"></script>
+<![endif]-->
+<!--<script type="text/javascript">
+jQuery(document).ready(function($) {								
+//
+//								
+//jQuery("ul.nice-menu").click(function(){														
+//jQuery("ul.nice-menu a+ul").class("visibility","visible");			
+//
+//
+    //	});							   
+});
+</script>-->
+
+
+
+
+<meta name="google-site-verification" content="GfOJMinBD7e8A_EFHIWacMNjU-AM1WaPrpnAVzwr7-4"/>
+<meta name="DCSext.WebsiteName" content="www.newstatesman.com" />
+<!-- Google Analytics End -->
+
+<!-- JIRA -->
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function()
+ { var gads = document.createElement('script'); gads.async = true; gads.type = 'text/javascript'; var useSSL = 'https:' == document.location.protocol; gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js'; var node = document.getElementsByTagName('script')[0]; node.parentNode.insertBefore(gads, node); }
+
+)();
+</script>
+<!-- JIRA End-->
+
+<!--nsds 376 Test_NS_Minister_widesky-->
+<script type='text/javascript'>
+googletag.cmd.push(function()
+{ googletag.defineSlot('/5269235/Test_NS_Minister_widesky', [160, 600], 'div-gpt-ad-1357235299034-0').addService(googletag.pubads()); googletag.pubads().enableSingleRequest(); googletag.enableServices(); }
+
+);
+</script>
+<!-- nsds end 376 Test_NS_Minister_widesky -->
+
+<script>googletag.cmd.push(function() {
+googletag.defineSlot('/5269235/NS_Home_Exp_5', [[4, 4], [975, 250]], 'div-gpt-ad-1366822588103-0').addService(googletag.pubads());			
+googletag.defineSlot('/5269235/Dynamic_NS_MPU_From_Mar13', [[300, 250], [300, 600]], 'div-gpt-ad-1363178482999-0').addService(googletag.pubads());
+googletag.defineSlot('/5269235/NS_Wide_Oct', [160, 600], 'div-gpt-ad-1349424233006-0').addService(googletag.pubads());
+googletag.defineSlot('/5269235/NewStatesman_Bottom_MPU', [300, 250], 'div-gpt-ad-1320926772906-1').addService(googletag.pubads()); 
+googletag.defineSlot('/5269235/NewStatesman_Top_Leader', [728, 90], 'div-gpt-ad-1320926772906-5').addService(googletag.pubads());
+googletag.defineSlot('/5269235/NewStatesman_Bottom_Leader', [728, 90], 'div-gpt-ad-1320926772906-0').addService(googletag.pubads()); 
+googletag.defineSlot('/5269235/Dynamic_MPU_Portrait', [[300, 250], [300, 1050]], 'div-gpt-ad-1372771363914-0').addService(googletag.pubads()); 
+googletag.pubads().setTargeting("Section", "culture");googletag.pubads().enableSingleRequest(); googletag.enableServices(); });</script>
+
+<!-- Begin comScore Tag -->
+<script>
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "14601216" });
+(function() { var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true; s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js"; el.parentNode.insertBefore(s, el); })();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&c2=14601216&cv=2.0&cj=1" />
+</noscript>
+
+<!-- End comScore Tag -->
+
+
+    <script>
+    jQuery(document).ready(function($) {	
+        jQuery("img.image-style-fullnode-image").addClass("kalooga_11440");
+      (function()
+      { var d=document,k="kalooga",s="script",n=d.createElement(s),f=d.getElementsByTagName(s)[0]; n.async=true;n.type="text/java"+s;n.src="http://publishing.kalooga.com/acct/3312.js"; f.parentNode.insertBefore(n,f); }
+
+    );
+    });
+  </script>
+
+
+
+  
+<!-- NSDS-311 -->
+<!-- NSDS-311 -->
+
+<!--NSDS-309 -->
+<script type="text/javascript" language="javascript">
+  window.onload = function() {
+    var rand = Math.floor(Math.random() * 10000);
+    document.getElementById('rand_lnk').href += rand+'?';
+    document.getElementById('rand_img').src += rand+'?';   
+  }
+</script>
+<!--NSDS-309 -->
+</head>
+
+    <body class="html not-front not-logged-in two-sidebars page-node page-node- page-node-201772 node-type-blogs site-name-hidden lang-en site-name-new-statesman section-culture corolla bs-n bb-n mb-dd rc-6 rct-6" >
+
+
+
+
+    <!-- NSDS-428 -->
+
+<!-- NSDS-428 END-->
+
+
+<!-- NSDS-380 start-->
+
+<!-- NSDS-380 END-->
+
+    
+            <script type="text/javascript">
+            (function(){
+                var d=document,k="kalooga",s="script",n=d.createElement(s),f=d.getElementsByTagName(s)[0];
+                n.async=true;n.type="text/java"+s;n.src="http://publishing.kalooga.com/acct/3312.js";
+                f.parentNode.insertBefore(n,f);
+            })();
+        </script>
+    
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+
+
+<!-- NSDS-428 -->
+
+<!-- NSDS-428 END--> 
+
+<div style="position:relative;margin:auto; width:1280px;">
+<!-- Skin - 1280x2000 --> 
+
+<script type='text/javascript'>
+var page_count = "off";
+if (typeof OAS_rdl == "undefined") {
+document.write("<scr" + "ipt type='text/javascript' src='http://oasc12.247realmedia.com/Scripts/oas_analytics.js'></scr" + "ipt>");
+page_count = "on";}
+var MMI_ClickURL = "";
+var OAS_searchterms = "";
+var OAS_taxonomy ="muid=0";
+var MMI_RNS =  (new String(Math.random())).substring(2, 11);
+var MMI_URL="http://msite.martiniadnetwork.com/index/?pid=8594805505097f43e7fffb&sid=20749256550991d31090ce&loc="+ encodeURIComponent(window.location.toString()) + "&rnd=" + MMI_RNS;
+MMI_ClickURL += ((MMI_ClickURL.split("/").length - 1) % 2 )? "/": "";
+if (document.referrer != "") MMI_URL += "&ref=" + encodeURIComponent(document.referrer.substring(0,255));
+document.write("<script type='text/javascript' src='" + MMI_URL + "'></scr" + "ipt>");
+if(typeof(OAS_pubclick) == "undefined")
+var OAS_pubclick = 'http://msite.martiniadnetwork.com/action/track/type/0/pid/8594805505097f43e7fffb/sid/20749256550991d31090ce/loc/' + encodeURIComponent(window.location.toString().substring(0,255)) + '/pubclick/' + MMI_ClickURL;
+var OAS_sitepage = "newstatesman.com/ROS";
+var OAS_pos = "x04";
+var OAS_RNS = (new String(Math.random())).substring(2, 11);
+OAS_searchterms == "" ? OAS_searchterms = "" : OAS_searchterms += "&";
+if (page_count != "on") {OAS_taxonomy += "&oas_pv=no_analytics&";}
+if (typeof OAS_rdl == "undefined") { var OAS_rdl = ""; var OAS_CA = "";}
+OAS_query = "_RM_HTML_CLICK_=" + OAS_pubclick + "&" + OAS_searchterms + "XE&" + OAS_taxonomy + "&" + OAS_rdl + "&if_nt_CookieAccept=" + OAS_CA + "&XE";
+document.write("<scr" + "ipt type='text/javascript' src='http://oasc12.247realmedia.com/RealMedia/ads/adstream_jx.ads/" + OAS_sitepage + "/1" + OAS_RNS + "@" + OAS_pos + "?" + OAS_query + "'></scr" + "ipt>");
+</script>
+
+
+
+
+    
+
+
+<div id="page-wrapper">
+
+  <div id="page" class="page">  
+         <div id="aboveheader">
+     
+             <!-- NS_Home_Exp_5 -->
+        <div id='div-gpt-ad-1366822588103-0' style="float:left;"> 
+          <script type='text/javascript'>
+googletag.display('div-gpt-ad-1366822588103-0');
+</script> 
+        </div>
+        
+      
+        <div class="search_bg">
+          <div class="region region-above-header"><div class="region-inner clearfix"><div id="block-search-form" class="block block-search no-title odd first last block-count-1 block-region-above-header block-form"  role="search"><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><form class="google-cse" action="/culture/2014/05/day-i-thought-i-d-discovered-terrorist-plot-selfridges-toy-departmen" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="search" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions--2"><input type="submit" id="edit-submit--3" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-ozLOHV175vBPQoVOnEAKJf_cqR9IORafKw2mt-6g6rE" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form></div>
+  </div></div></div></div>        </div>
+      </div>
+        
+    <div id="header-wrapper">
+      <div class="container clearfix">
+        
+        <header class="clearfix with-logo" role="banner">
+       
+         
+                      <div id="branding" class="branding-elements clearfix">
+           
+          
+     
+<script type='text/javascript'>
+var page_count = "off";
+if (typeof OAS_rdl == "undefined") {
+document.write("<scr" + "ipt type='text/javascript' src='http://oasc12.247realmedia.com/Scripts/oas_analytics.js'></scr" + "ipt>");
+page_count = "on";}
+var MMI_ClickURL = "";
+var OAS_searchterms = "";
+var OAS_taxonomy ="muid=0";
+var MMI_RNS =  (new String(Math.random())).substring(2, 11);
+var MMI_URL="http://msite.martiniadnetwork.com/index/?pid=8594805505097f43e7fffb&sid=20749256550991d31090ce&loc="+ encodeURIComponent(window.location.toString()) + "&rnd=" + MMI_RNS;
+MMI_ClickURL += ((MMI_ClickURL.split("/").length - 1) % 2 )? "/": "";
+if (document.referrer != "") MMI_URL += "&ref=" + encodeURIComponent(document.referrer.substring(0,255));
+document.write("<script type='text/javascript' src='" + MMI_URL + "'></scr" + "ipt>");
+if(typeof(OAS_pubclick) == "undefined")
+var OAS_pubclick = 'http://msite.martiniadnetwork.com/action/track/type/0/pid/8594805505097f43e7fffb/sid/20749256550991d31090ce/loc/' + encodeURIComponent(window.location.toString().substring(0,255)) + '/pubclick/' + MMI_ClickURL;
+var OAS_sitepage = "newstatesman.com/ROS";
+var OAS_pos = "Top";
+var OAS_RNS = (new String(Math.random())).substring(2, 11);
+OAS_searchterms == "" ? OAS_searchterms = "" : OAS_searchterms += "&";
+if (page_count != "on") {OAS_taxonomy += "&oas_pv=no_analytics&";}
+if (typeof OAS_rdl == "undefined") { var OAS_rdl = ""; var OAS_CA = "";}
+OAS_query = "_RM_HTML_CLICK_=" + OAS_pubclick + "&" + OAS_searchterms + "XE&" + OAS_taxonomy + "&" + OAS_rdl + "&if_nt_CookieAccept=" + OAS_CA + "&XE";
+document.write("<scr" + "ipt type='text/javascript' src='http://oasc12.247realmedia.com/RealMedia/ads/adstream_jx.ads/" + OAS_sitepage + "/1" + OAS_RNS + "@" + OAS_pos + "?" + OAS_query + "'></scr" + "ipt>");
+</script> 
+           
+             
+                              <div id="logo">
+                  <a href="/" title="Home page"><img class="site-logo image-style-none" typeof="foaf:Image" src="http://www.newstatesman.com/sites/default/files/newstatesmanlogo.jpg" alt="New Statesman" /></a>                                 </div>
+              
+                              <hgroup id="name-and-slogan" class="element-invisible" id="name-and-slogan">
+
+                                      <h1 id="site-name" class="element-invisible" id="site-name"><a href="/" title="Home page">New Statesman</a></h1>
+                  
+                  
+                </hgroup>
+              
+            </div>
+                    
+          <div id="header-new" class="clear-blockwith-blocks">
+                           
+          <div style="float:right" > <a href="http://www.newstatesman.com/subscribe"><img src="http://www.newstatesman.com/sites/all/themes/corolla/images/NSadbox.png"  alt="New Statesman Week subscription offers"  title="New Statesman Week subscription offers"/></a></div>
+                   
+        </div>
+
+          
+        </header>
+      </div>
+    </div>
+
+      <div id="menu-bar-wrapper" >
+        <div class="container clearfix">
+          <div id="menu-bar" class="nav clearfix"><nav id="block-system-main-menu" class="block block-system block-menu menu-wrapper menu-bar-wrapper clearfix odd first last block-count-2 block-region-menu-bar block-main-menu"  role="navigation">  
+      <h2 class="element-invisible block-title element-invisible">Main menu</h2>
+  
+  <ul class="menu clearfix"><li class="first expanded menu-depth-1 menu-item-679"><a href="/" title="">﻿Home</a><ul class="menu clearfix"><li class="first leaf menu-depth-2 menu-item-1931"><a href="/gibraltar" title="">Gibraltar</a></li><li class="leaf menu-depth-2 menu-item-1892"><a href="/subjects/ukraine" title="">Ukraine</a></li><li class="leaf menu-depth-2 menu-item-1750"><a href="/subjects/Scottish%20independence" title="">Scottish Independence</a></li><li class="leaf menu-depth-2 menu-item-1893"><a href="/subjects/education" title="">Education</a></li><li class="leaf menu-depth-2 menu-item-1751"><a href="/subjects/Feminism" title="">Feminism</a></li><li class="leaf menu-depth-2 menu-item-684"><a href="/subjects/Syria" title="">Syria</a></li><li class="last leaf menu-depth-2 menu-item-755"><a href="/subjects/advertorial" title="">Sponsored Advertorial</a></li></ul></li><li class="leaf menu-depth-1 menu-item-783"><a href="/the-staggers" title="">The Staggers</a></li><li class="collapsed menu-depth-1 menu-item-784"><a href="/politics" title="">Politics</a></li><li class="collapsed menu-depth-1 menu-item-785"><a href="/business" title="">Business &amp; Economics</a></li><li class="collapsed menu-depth-1 menu-item-786"><a href="/culture" title="">Culture</a></li><li class="expanded active-trail menu-depth-1 menu-item-1642"><a href="/blogs" title="" class="active-trail">Blogs</a><ul class="menu clearfix"><li class="first leaf menu-depth-2 menu-item-757"><a href="/the-staggers" title="">The Staggers</a></li><li class="leaf active-trail menu-depth-2 menu-item-758"><a href="/cultural-capital" class="active-trail">Cultural Capital</a></li><li class="leaf menu-depth-2 menu-item-759"><a href="/mehdi-hasan">Mehdi Hasan</a></li><li class="leaf menu-depth-2 menu-item-760"><a href="/laurie-penny">Laurie Penny</a></li><li class="leaf menu-depth-2 menu-item-761"><a href="/helen-lewis">Helen Lewis</a></li><li class="leaf menu-depth-2 menu-item-1832"><a href="/rafael-behr" title="">Rafael Behr</a></li><li class="leaf menu-depth-2 menu-item-1833"><a href="/musa-okwonga" title="">Musa Okwonga</a></li><li class="leaf menu-depth-2 menu-item-776"><a href="/juliet-jacques">Juliet Jacques</a></li><li class="leaf menu-depth-2 menu-item-1834"><a href="/ian-leslie" title="">Ian Leslie</a></li><li class="leaf menu-depth-2 menu-item-782"><a href="/frances-ryan">Frances Ryan</a></li><li class="leaf menu-depth-2 menu-item-781"><a href="/killing-time" title="">Killing Time</a></li><li class="leaf menu-depth-2 menu-item-1835"><a href="/lez-miserable" title="">Lez Miserable</a></li><li class="leaf menu-depth-2 menu-item-779"><a href="/glosswitch" title="">Glosswitch</a></li><li class="leaf menu-depth-2 menu-item-1836"><a href="/future-proof" title="">Future Proof</a></li><li class="leaf menu-depth-2 menu-item-1837"><a href="/sarah-ditum" title="">Sarah Ditum</a></li><li class="leaf menu-depth-2 menu-item-1838"><a href="/jonn-elledge" title="">Jonn Elledge</a></li><li class="last leaf menu-depth-2 menu-item-2342"><a href="/myriam-francois-cerrah" title="">Myriam Francois-Cerrah</a></li></ul></li><li class="leaf menu-depth-1 menu-item-1595"><a href="/energy">Energy</a></li><li class="leaf menu-depth-1 menu-item-522"><a href="/events" title="">Events</a></li><li class="leaf menu-depth-1 menu-item-1153"><a href="/podcast">Podcast</a></li><li class="leaf menu-depth-1 menu-item-1748"><a href="/magazine">Magazine</a></li><li class="last collapsed menu-depth-1 menu-item-546"><a href="/archive" title="">Archive</a></li></ul>
+  </nav></div>        </div>
+      </div>
+        
+   
+
+    
+    
+    <div id="content-wrapper">
+      <div class="container">
+
+        <div id="columns">
+          <div class="columns-inner clearfix">
+
+	
+            <div id="content-column">
+              <div class="content-inner">
+
+                
+                <section id="main-content" role="main">
+
+                  
+                  <div class="content-margin">
+                    <div class="content-style">
+
+                                                                    <div id="breadcrumb" class="clearfix"><nav class="breadcrumb-wrapper clearfix" role="navigation"><h2 class="element-invisible">You are here</h2><span>Return to: </span><ul id="crumbs" class="clearfix"><li class="crumb crumb-first"><a href="/blogs" title="">Blogs</a></li><li class="crumb crumb-last"><span class="crumb-sepreator"> | </span><a href="/cultural-capital">Cultural Capital</a></li></ul></nav></div>                                            
+                    
+                      
+                      
+                      <div id="content">                     
+                        <div id="block-views-header-node-header" class="block block-views no-title odd first block-count-3 block-region-content block-header-node-header" >  
+  
+  <div class="view view-header view-id-header view-display-id-node_header blogers-list view-dom-id-2049b8ec19bb06e14bbf2a567194a166">
+        
+  
+  
+      <div class="view-content">
+        <div>
+    
+    <div class="views-field views-field-field-term-image">       <div class="field-content"><a href="/cultural-capital"><img typeof="foaf:Image" class="image-style-thumbnail" src="http://www.newstatesman.com/sites/default/files/styles/thumbnail/public/blogimages/blog-culture-capital.jpg?itok=nIYD0MsX" width="100" height="100" alt="" /></a></div>    
+  </div>    <div>       <h1><a href="/cultural-capital">Cultural Capital</a></h1>    
+  </div>    <div class="views-field views-field-description">       <div class="field-content">The latest on books and the arts</div>    
+  </div>    <div class="views-field views-field-php">       <span class="field-content"> <p>
+ <a href="http://www.newstatesman.com/taxonomy/term/feed/7728"><img width="16" height="16" src="http://www.newstatesman.com/misc/feed.png" >RSS</a></p></span>    
+  </div>
+
+
+
+
+
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+  </div><div id="block-system-main" class="block block-system no-title even last block-count-4 block-region-content block-main" >  
+  
+   
+
+
+<article id="node-201772" class="node node-blogs article odd node-full clearfix" about="/culture/2014/05/day-i-thought-i-d-discovered-terrorist-plot-selfridges-toy-departmen" typeof="sioc:Item foaf:Document" role="article">
+
+  <div class="node-inner">
+
+    
+              <header class="node-header">
+
+                  <h1 property="dc:title" datatype="" class="node-title" rel="nofollow">
+                          The day I thought I’d discovered a terrorist plot in Selfridges toy department                      </h1>
+              
+      <h1 class="subheadline"><div class="field field-name-field-subheadline field-type-text-long field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even"> <p>
+	This isn’t really a story about international terrorism; it’s a story about someone having an anxiety attack.</p>
+ </div></div></div></h1>
+         
+      <span class="submitted">
+      
+                  <p class="submitted"><span property="dc:date dc:created" content="2014-05-08T18:00:42+01:00" datatype="xsd:dateTime" rel="sioc:has_creator">by <a href="/writers/71729" title="View user profile." class="username" xml:lang="" about="/users/tracey-thorn" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tracey Thorn</a> <span class="published_date">Published <time datetime="2014-05-08T18:00:42+0100" pubdate="pubdate">8 May, 2014 - 18:00</time></span></span></p>
+         
+		
+		      <nav class="clearfix"><ul class="links inline"><li class="widgets_service_links-default first"><span><a href="http://www.stumbleupon.com/submit?url=http%3A//www.newstatesman.com/culture/2014/05/day-i-thought-i-d-discovered-terrorist-plot-selfridges-toy-departmen&amp;title=The%20day%20I%20thought%20I%E2%80%99d%20discovered%20a%20terrorist%20plot%20in%20Selfridges%20toy%20department&amp;text=" title="Thumb this up at StumbleUpon" class="service-links-stumbleupon" rel="nofollow" target="_blank"><img typeof="foaf:Image" class="image-style-none" src="http://www.newstatesman.com/sites/all/modules/service_links/images/stumbleit.png" alt="StumbleUpon logo" /></a><a href="http://reddit.com/submit?url=http%3A//www.newstatesman.com/culture/2014/05/day-i-thought-i-d-discovered-terrorist-plot-selfridges-toy-departmen&amp;title=The%20day%20I%20thought%20I%E2%80%99d%20discovered%20a%20terrorist%20plot%20in%20Selfridges%20toy%20department&amp;text=" title="Submit this post on reddit.com" class="service-links-reddit" rel="nofollow" target="_blank"><img typeof="foaf:Image" class="image-style-none" src="http://www.newstatesman.com/sites/all/modules/service_links/images/reddit.png" alt="Reddit logo" /></a><a href="http://www.newstatesman.com/print/node/201772?title=&amp;text=" title="Printable version" class="service-links-print" rel="nofollow" target="_blank"><img typeof="foaf:Image" class="image-style-none" src="http://www.newstatesman.com/sites/all/modules/service_links/images/print.png" alt="Print HTML logo" /></a><a href="http://www.facebook.com/plugins/like.php?href=http%3A//www.newstatesman.com/culture/2014/05/day-i-thought-i-d-discovered-terrorist-plot-selfridges-toy-departmen&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;width=90&amp;height=21&amp;font=&amp;locale=&amp;title=&amp;text=" title="I Like it" class="service-links-facebook-like" rel="nofollow" target="_blank"><span class="element-invisible">Facebook Like</span></a><a href="http://www.newstatesman.com/culture/2014/05/day-i-thought-i-d-discovered-terrorist-plot-selfridges-toy-departmen?title=&amp;text=" title="Plus it" class="service-links-google-plus-one" rel="nofollow" target="_blank"><span class="element-invisible">Google Plus One</span></a><a href="http://twitter.com/share?url=http%3A//www.newstatesman.com/culture/2014/05/day-i-thought-i-d-discovered-terrorist-plot-selfridges-toy-departmen&amp;count=horizontal&amp;via=&amp;text=The%20day%20I%20thought%20I%E2%80%99d%20discovered%20a%20terrorist%20plot%20in%20Selfridges%20toy%20department&amp;counturl=http%3A//www.newstatesman.com/culture/2014/05/day-i-thought-i-d-discovered-terrorist-plot-selfridges-toy-departmen&amp;title=" class="twitter-share-button service-links-twitter-widget" title="Tweet This" rel="nofollow" target="_blank"><span class="element-invisible">Tweet Widget</span></a></span></li><li class="flag-bookmarks last"><span><a href="http://www.newstatesman.com/user"><span class="i a2a_i_library">&nbsp;</span></a></span></li></ul><a title="Share via e-mail program" href="mailto:?subject=The day I thought I’d discovered a terrorist plot in Selfridges toy department&body=http://www.newstatesman.com/culture/2014/05/day-i-thought-i-d-discovered-terrorist-plot-selfridges-toy-departmen" class="a2a_i_email" id="addtoany_email_program"><span>&nbsp;</span></a></nav>
+          </span>
+      </header>      
+        
+      
+        
+    <div class="node-content">
+        <span class="print-link"></span><div class="field field-name-field-node-image field-type-image field-label-hidden view-mode-full"><div class="field-items"><figure class="clearfix field-item even"><img typeof="foaf:Image" class="image-style-fullnode-image" src="http://www.newstatesman.com/sites/default/files/styles/fullnode_image/public/blogs_2014/05/78930200.jpg?itok=_s63xN6z" width="510" height="348" alt="The way we played: a girl plays with Lego in Selfridges, 1962. Photo: Getty" title="The way we played: a girl plays with Lego in Selfridges, 1962. Photo: Getty" /></figure></div></div><div class="field field-name-field-nodeimage-title field-type-text field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even">The way we played: a girl plays with Lego in Selfridges, 1962. Photo: Getty</div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even" property="content:encoded"> <p>
+	Did I ever tell you about the time I tried to get Selfridges closed down on Christmas Eve? No? Well, let me share with you the most embarrassing day of my life.</p>
+<p>
+	Cast your mind back to the weeks and months after 9/11 when, in a state of understandable susceptibility, we became possessed by the idea that the next and imminent terrorist attack would be biological or chemical in nature. It wasn’t that we made this up out of thin air, more that we all read some very convincing alarmist articles in the newspapers, drawing our attention to the fact that someone in the US had been putting anthrax in the post and saying there was every likelihood this kind of thing would soon be coming to a letter box near you.</p>
+<p>
+	There was a flurry of panics, in which a sprinkling of white powder would be found, a person would overreact, the area would be sealed and the biohazard suits would move in, followed by a declaration later that day that it was talcum powder, self-raising flour, or bath salts. And we’d all watch the news and laugh – hahaha, look at those idiots making a fuss about nothing, letting the terrorists win with their silly scaremongering, I’m glad it wasn’t me.</p>
+<p>
+	And then it <em>was</em> me. I was in Selfridges, the day before Christmas Eve 2001, when in the toy department I picked up a doll and on the shelf behind it was, yep, you guessed it, a little heap of white powder. As a calm, rational person, who’d seen enough of those news stories to know there was no likelihood of this being anything dangerous, I responded appropriately – spending the rest of the day arguing with security staff, telling them they needed to evacuate the department immediately if not shut down the whole store, then getting my nose swabbed for anthrax, before returning home in a near-fatal state of panic, having let my adrenalin-levels remain at life-threatening point for several hours.</p>
+<p>
+	Days later, telling the story to friends, it had become funny. Plus, it had a happy ending. Staff from Selfridges had called me – on Christmas Eve, bless them – to confirm that they’d “tested” the powder and it was nothing. My doctor called with the news that the anthrax swab was negative. The incident could slip safely into being hilarious, because, of course, this isn’t really a story about international terrorism; it’s a story about someone having an anxiety attack, and anxiety is inherently amusing.</p>
+<p>
+	As a mental health issue, anxiety is having a moment. It seems to have overtaken depression as the problem to own up to, and in recent months books and articles galore have appeared about panic attacks, hypochondria and generalised anxiety – including this magazine’s cover story of 11 April. As a sufferer myself, who is only now, at the age of 51, beginning to confront a condition that has plagued me for much of my adult life, I am grateful that it is becoming easier and less shameful to talk about.</p>
+<p>
+	And it <em>is</em> shameful; that is part of its power. We’re all getting better at acknowledging the seriousness of psychological issues but anxiety has one big problem in this respect, which is that we see it as funny. Depression isn’t funny, and though not always easy to own up to, it does at least nowadays have the advantage of seeming real, weighty and debilitating.</p>
+<p>
+	Anxiety, on the other hand – and I should stress that I speak as a sufferer, and this is often how we talk about our problem – is just silly. It’s worrying about nothing. Making a fuss, being a bore. It’s the opposite of cool. If the ultimate modern pose is the teenage lack of affect, then anxiety is its antithesis, and saddles you with the niggly, nagging behaviour of an overprotective mum, seeing danger everywhere, catastrophising, avoiding risk, clinging to safety like a piece of floating wreckage. It makes us do things that feel foolish even while we are doing them.</p>
+<p>
+	Afterwards we try to laugh, to shake it off, reduce the size of its terrifying shadow and prove that we, too, can see the joke. I’m only just beginning to learn that while laughing is mostly a good thing, sometimes we also have to take ourselves seriously, and forgive the dumb things our brains make us do.</p>
+ </div></div></div>    </div>
+    
+      
+     <span class="submitted">
+       <nav class="clearfix"><ul class="links inline"><li class="widgets_service_links-default first"><span><a href="http://www.stumbleupon.com/submit?url=http%3A//www.newstatesman.com/culture/2014/05/day-i-thought-i-d-discovered-terrorist-plot-selfridges-toy-departmen&amp;title=The%20day%20I%20thought%20I%E2%80%99d%20discovered%20a%20terrorist%20plot%20in%20Selfridges%20toy%20department&amp;text=" title="Thumb this up at StumbleUpon" class="service-links-stumbleupon" rel="nofollow" target="_blank"><img typeof="foaf:Image" class="image-style-none" src="http://www.newstatesman.com/sites/all/modules/service_links/images/stumbleit.png" alt="StumbleUpon logo" /></a><a href="http://reddit.com/submit?url=http%3A//www.newstatesman.com/culture/2014/05/day-i-thought-i-d-discovered-terrorist-plot-selfridges-toy-departmen&amp;title=The%20day%20I%20thought%20I%E2%80%99d%20discovered%20a%20terrorist%20plot%20in%20Selfridges%20toy%20department&amp;text=" title="Submit this post on reddit.com" class="service-links-reddit" rel="nofollow" target="_blank"><img typeof="foaf:Image" class="image-style-none" src="http://www.newstatesman.com/sites/all/modules/service_links/images/reddit.png" alt="Reddit logo" /></a><a href="http://www.newstatesman.com/print/node/201772?title=&amp;text=" title="Printable version" class="service-links-print" rel="nofollow" target="_blank"><img typeof="foaf:Image" class="image-style-none" src="http://www.newstatesman.com/sites/all/modules/service_links/images/print.png" alt="Print HTML logo" /></a><a href="http://www.facebook.com/plugins/like.php?href=http%3A//www.newstatesman.com/culture/2014/05/day-i-thought-i-d-discovered-terrorist-plot-selfridges-toy-departmen&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;width=90&amp;height=21&amp;font=&amp;locale=&amp;title=&amp;text=" title="I Like it" class="service-links-facebook-like" rel="nofollow" target="_blank"><span class="element-invisible">Facebook Like</span></a><a href="http://www.newstatesman.com/culture/2014/05/day-i-thought-i-d-discovered-terrorist-plot-selfridges-toy-departmen?title=&amp;text=" title="Plus it" class="service-links-google-plus-one" rel="nofollow" target="_blank"><span class="element-invisible">Google Plus One</span></a><a href="http://twitter.com/share?url=http%3A//www.newstatesman.com/culture/2014/05/day-i-thought-i-d-discovered-terrorist-plot-selfridges-toy-departmen&amp;count=horizontal&amp;via=&amp;text=The%20day%20I%20thought%20I%E2%80%99d%20discovered%20a%20terrorist%20plot%20in%20Selfridges%20toy%20department&amp;counturl=http%3A//www.newstatesman.com/culture/2014/05/day-i-thought-i-d-discovered-terrorist-plot-selfridges-toy-departmen&amp;title=" class="twitter-share-button service-links-twitter-widget" title="Tweet This" rel="nofollow" target="_blank"><span class="element-invisible">Tweet Widget</span></a></span></li><li class="flag-bookmarks last"><span><a href="http://www.newstatesman.com/user"><span class="i a2a_i_library">&nbsp;</span></a></span></li></ul><a title="Share via e-mail program" href="mailto:?subject=The day I thought I’d discovered a terrorist plot in Selfridges toy department&body=http://www.newstatesman.com/culture/2014/05/day-i-thought-i-d-discovered-terrorist-plot-selfridges-toy-departmen" class="a2a_i_email" id="addtoany_email_program"><span>&nbsp;</span></a></nav>
+    </span>
+    
+  </div>
+</article>
+
+
+
+<div id="contentclick529"></div>
+<script type="text/javascript">
+    (function() {
+        var data =
+        {
+            pub_id: "269",w_id: "529",pw: "a98a47124bbb74", cbust: (new Date()).getTime()
+        };
+        var u="";
+        for(var key in data){u+=key+"="+data[key]+"&"}
+        u=u.substring(0,u.length-1);		
+        var a = document.createElement("script");
+        a.type= 'text/javascript';
+        a.src = "https://api.contentclick.co.uk/pub_serve.php?" + u;
+        a.async = true;		
+        document.getElementById("contentclick529").appendChild(a);
+    })();		
+</script>
+
+
+
+
+
+
+  </div>                                             
+                                                      <div class="clear"></div>
+                                         
+                 
+                      </div>
+
+                      
+                    </div>
+                  </div>
+
+                </section>
+
+                
+
+<!-- OnScroll - NewStatesman - NS MPU (left navi) [Oct2013] -->
+<script>
+var onScrOll=new Object();
+onScrOll.code="PCEtLSBNZXRyaWMgU2NpZW5jZSAtIE5ld1N0YXRlc21hbiAtIE5TIE1QVSAobGVmdCBuYXZpKSBbT2N0MjAxM10gLS0+CjxkaXY+CjwhLS0gc3RhcnQgb2YgY3JlYXRpdmUgY29udGVudCAtLT4KPCEtLSBCRUdJTiBKUyBUQUcgLSBOUyBNUFUgKGxlZnQgbmF2aSkgPCAtIERPIE5PVCBNT0RJRlkgLS0+DQo8U0NSSVBUIFNSQz0iaHR0cDovL2FkLm5ldGNvbW11bml0aWVzLmNvbS90dGo/aWQ9MTgzNjM2NSIgVFlQRT0idGV4dC9qYXZhc2NyaXB0Ij48L1NDUklQVD4NCjwhLS0gRU5EIFRBRyAtLT4KPCEtLSBlbmQgb2YgY3JlYXRpdmUgY29udGVudCAtLT4KPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPgood2luZG93Ll90cmFja2VyID0gKHdpbmRvdy5fdHJhY2tlciB8fCBbXSkpLnB1c2goewogIGNhbXBhaWduSWQ6ICc1MWZmN2U2OTc4ZWNjOGU4NzYwMDAwMmEnLAogIGNyZWF0aXZlSWQ6ICc1MjRlOGNhZjE2OTU5MWQ3MjMwMDAwMDUnLAogIGFjY291bnRJZDogJzUxZmY3ZTRiNzhlY2M4ZTg3NjAwMDAyOScKfSk7Cjwvc2NyaXB0Pgo8c2NyaXB0IHNyYz0iaHR0cDovL2Nkbi5vbnNjcm9sbC5jb20vbXMub3MuanMiPjwvc2NyaXB0Pgo8L2Rpdj4KPCEtLSBFbmQgb2YgdGFnIC0gLS0+";
+onScrOll.margin=880;
+onScrOll.mode="sticky";
+onScrOll.height=250;
+onScrOll.width=300;
+onScrOll.reload=false;
+onScrOll.marginTop=10;
+onScrOll.iframe=false;
+onScrOll.refreshTime=30;
+onScrOll.onPageLoad=false;
+</script>
+<script src="http://cdn.onscroll.com/onscroll.refresh.ms.js"></script>
+<!-- End of tag - -->
+    
+       
+              </div>
+            </div>
+          
+            
+ 	<!--sidebar first --> 
+	
+     <div class="region custom-sidebar-first sidebar" >
+      
+            <div class="region region-sidebar-first-top sidebar"><div class="region-inner clearfix"><div id="block-quicktabs-most-read-and-most-commented" class="block block-quicktabs no-title odd first block-count-7 block-region-sidebar-first-top block-most-read-and-most-commented">
+  <div class="block-inner clearfix">
+    <div  id="quicktabs-most_read_and_most_commented" class="quicktabs-wrapper quicktabs-style-basic"><div class="item-list"><ul class="quicktabs-tabs quicktabs-style-basic"><li class="active even first"><a href="/culture/2014/05/day-i-thought-i-d-discovered-terrorist-plot-selfridges-toy-departmen?qt-most_read_and_most_commented=0#qt-most_read_and_most_commented" id="quicktabs-tab-most_read_and_most_commented-0" class="active">Most read</a></li><li class="odd last"><a href="/culture/2014/05/day-i-thought-i-d-discovered-terrorist-plot-selfridges-toy-departmen?qt-most_read_and_most_commented=1#qt-most_read_and_most_commented" id="quicktabs-tab-most_read_and_most_commented-1" class="active">Most commented</a></li></ul></div><div id="quicktabs-container-most_read_and_most_commented" class="quicktabs_main quicktabs-style-basic"><div  id="quicktabs-tabpage-most_read_and_most_commented-0" class="quicktabs-tabpage "><div id="block-views-gas-block-1" class="block block-views no-title odd first block-count-5 block-region-quicktabs-tabpage block-gas-block-1" ><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><div class="view view-gas view-id-gas view-display-id-block_1 view-dom-id-ff254825895ac0424316862000884664">
+        
+  
+  
+      <div class="view-content">
+        <div class="arrow-list">
+    
+    <div class="views-field views-field-title">       <span class="field-content"><a href="/politics/politics/2012/05/halal-hysteria">Halal hysteria</a></span>    
+  </div>    <div class="views-field views-field-name">       <span class="field-content">Mehdi Hasan</span>    
+  </div>
+
+
+
+
+
+  </div>
+  <div class="arrow-list">
+    
+    <div class="views-field views-field-title">       <span class="field-content"><a href="/2014/04/challenge-islam">David Selbourne: The challenge of Islam</a></span>    
+  </div>    <div class="views-field views-field-name">       <span class="field-content">David Selbourne</span>    
+  </div>
+
+
+
+
+
+  </div>
+  <div class="arrow-list">
+    
+    <div class="views-field views-field-title">       <span class="field-content"><a href="/media/2014/05/n-word-jeremy-clarkson-has-finally-urinated-live-rail-racism">The N-word: Jeremy Clarkson has finally urinated on the live rail of racism </a></span>    
+  </div>    <div class="views-field views-field-name">       <span class="field-content">Musa Okwonga</span>    
+  </div>
+
+
+
+
+
+  </div>
+  <div class="arrow-list">
+    
+    <div class="views-field views-field-title">       <span class="field-content"><a href="/2014/04/arabisation-islam">“The battle is among Muslims themselves – a battle for the very soul of Islam”</a></span>    
+  </div>    <div class="views-field views-field-name">       <span class="field-content">Mona Siddiqui</span>    
+  </div>
+
+
+
+
+
+  </div>
+  <div class="arrow-list">
+    
+    <div class="views-field views-field-title">       <span class="field-content"><a href="/culture/2014/05/importance-being-lonely">The importance of being lonely</a></span>    
+  </div>    <div class="views-field views-field-name">       <span class="field-content">Ruth Thomas</span>    
+  </div>
+
+
+
+
+
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></div>
+  </div></div></div><div  id="quicktabs-tabpage-most_read_and_most_commented-1" class="quicktabs-tabpage quicktabs-hide"><div id="block-disqus-disqus-popular-threads" class="block block-disqus no-title even block-count-6 block-region-quicktabs-tabpage block-disqus-popular-threads" ><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><div id="dsq-popthreads" class="dsq-widget"><script type="text/javascript" src="http://disqus.com/forums/newstatesman1913/popular_threads_widget.js?num_items=5"></script></div></div>
+  </div></div></div></div></div>  </div>
+</div>
+<div id="block-views-home-sponsored-articles-block" class="block block-views no-title even last block-count-8 block-region-sidebar-first-top block-home-sponsored-articles-block" ><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><div id="block-views-home_sponsored_articles-block-ajax-content" class="ajaxblocks-wrapper-8"><script type="text/javascript"></script><noscript><div class="view view-home-sponsored-articles view-id-home_sponsored_articles view-display-id-block view-dom-id-173076e954d72b91b9e41fb0bd7db87e">
+        
+  
+  
+      <div class="view-content">
+        <div class="arrow-list">
+    
+   <div class="sponsored-list">
+    <div class="views-field views-field-title">       <span class="field-content"><a href="/politics/2014/04/mend-gap-what-one-thing-would-you-do-close-skills-gap-2025">Mend the gap: What one thing would you do to close the skills gap by 2025?</a></span>      </div>    <div class="views-field views-field-field-sponsored">       <div class="field-content">on</div>      </div>    <span class="views-field views-field-field-select-type">       <span class="field-content">Sponsored by</span>      </span>    <span class="views-field views-field-field-sponsored-by">       <span class="field-content">City &amp; Guilds</span>      </span></div> 
+
+
+
+
+
+
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></noscript></div></div>
+  </div></div></div></div> <div id='div-gpt-ad-1363178482999-0' style='width:300px; height:auto; float:left;  margin-bottom:10px;'>
+			<script type='text/javascript'>
+			googletag.cmd.push(function()
+			{ googletag.display('div-gpt-ad-1363178482999-0'); }			
+			);
+			</script>
+			</div>
+		<div class="region region-sidebar-first sidebar"><div class="region-inner clearfix"><div id="block-views-about-author-block" class="block block-views no-title odd first block-count-9 block-region-sidebar-first block-about-author-block" ><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><div class="view view-about-author view-id-about_author view-display-id-block about-author view-dom-id-09cfdc921cc0293e70de3c56368673b9">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+    
+    <div class="views-field views-field-name">       <span class="field-content">About Tracey Thorn</span>    
+  </div>    <div class="views-field views-field-picture">       <div class="field-content"><a href="/writers/71729"><img typeof="foaf:Image" class="image-style-thumbnail" src="http://www.newstatesman.com/sites/default/files/styles/thumbnail/public/pictures/picture-71729-1396520744.png?itok=GgCDoJW3" alt="" /></a></div>    
+  </div>    <div class="views-field views-field-field-userbiography">       <div class="field-content"> <p>
+	Tracey Thorn is a musician and writer, best known as one half of Everything but the Girl. Her memoir, <em>Bedsit Disco Queen, </em>was published by Virago in 2013. She writes a fortnightly column for the <em>New Statesman.</em></p>
+ </div>    
+  </div>
+
+
+
+
+
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></div>
+  </div></div><section id="block-views-sidebar-first-block" class="block block-views even last block-count-10 block-region-sidebar-first block-sidebar-first-block" ><div class="block-inner clearfix">  
+      <h2 class="block-title"><a href="/magazine" class="block-title-link">From the magazine</a></h2>
+  
+  <div class="block-content content"><div id="block-views-sidebar_first-block-ajax-content" class="ajaxblocks-wrapper-8"><script type="text/javascript"></script><noscript><div class="view view-sidebar-first view-id-sidebar_first view-display-id-block  from-the-magazine view-dom-id-28cbf555f44aa5e22474ce47576c741b">
+        
+  
+  
+      <div class="view-content">
+      <div class="view-item">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">
+    <div class="views-field views-field-field-node-image">       <div class="field-content"><a href="/2014/04/it-took-me-years-get-know-manchester-now-i-miss-feeling-being-lost-there"><img typeof="foaf:Image" class="image-style-magazine-big-thumb-image" src="http://www.newstatesman.com/sites/default/files/styles/magazine_big_thumb_image/public/blogs_2014/05/2014%2B17jackson%20NEW.jpg?itok=iF3QBb7o" width="300" height="202" alt="Illustration: Jackson Rees" title="Illustration: Jackson Rees" /></a></div>    
+  </div>    <div class="views-field views-field-field-promo-title">       <div class="field-content"><a href="/2014/04/it-took-me-years-get-know-manchester-now-i-miss-feeling-being-lost-there">It took me years to get to know Manchester – now I miss the feeling of being lost there</a></div>    
+  </div>    <div class="views-field views-field-name">       <span class="field-content"><a href="/writers/will_self">Will Self</a></span>    
+  </div>
+
+
+
+
+
+</li>
+          <li class="views-row views-row-2 views-row-even">
+    <div class="views-field views-field-field-node-image">       <div class="field-content"><a href="/2014/04/ian-hislop-once-told-me-name-droppers-have-distorted-sense-their-own-importance"><img typeof="foaf:Image" class="image-style-magazine-big-thumb-image" src="http://www.newstatesman.com/sites/default/files/styles/magazine_big_thumb_image/public/blogs_2014/05/74183647.jpg?itok=2XP83f3v" width="300" height="202" alt="Pants man: Yul Brynner and Virginia McKenna in the 1979 London stage version of The King and I. Photo: Getty" title="Pants man: Yul Brynner and Virginia McKenna in the 1979 London stage version of The King and I. Photo: Getty" /></a></div>    
+  </div>    <div class="views-field views-field-field-promo-title">       <div class="field-content"><a href="/2014/04/ian-hislop-once-told-me-name-droppers-have-distorted-sense-their-own-importance">As Ian Hislop once told me, name-droppers have a distorted sense of their own importance</a></div>    
+  </div>    <div class="views-field views-field-name">       <span class="field-content"><a href="/writers/nicholas_lezard">Nicholas Lezard</a></span>    
+  </div>
+
+
+
+
+
+</li>
+          <li class="views-row views-row-3 views-row-odd">
+    <div class="views-field views-field-field-node-image">       <div class="field-content"><a href="/culture/2014/05/why-arnold-swarzenegger-still-allowed-make-films-david-ayers-sabotage"><img typeof="foaf:Image" class="image-style-magazine-big-thumb-image" src="http://www.newstatesman.com/sites/default/files/styles/magazine_big_thumb_image/public/blogs_2014/05/2014%2B18arnie.jpg?itok=cx0eJ6qL" width="300" height="202" alt="Arnie." title="Arnie." /></a></div>    
+  </div>    <div class="views-field views-field-field-promo-title">       <div class="field-content"><a href="/culture/2014/05/why-arnold-swarzenegger-still-allowed-make-films-david-ayers-sabotage">Why is Arnold Swarzenegger still allowed to make films?</a></div>    
+  </div>    <div class="views-field views-field-name">       <span class="field-content"><a href="/writers/ryan_gilbey">Ryan Gilbey</a></span>    
+  </div>
+
+
+
+
+
+</li>
+          <li class="views-row views-row-4 views-row-even">
+    <div class="views-field views-field-field-node-image">       <div class="field-content"><a href="/2014/04/old-men-around-town"><img typeof="foaf:Image" class="image-style-magazine-big-thumb-image" src="http://www.newstatesman.com/sites/default/files/styles/magazine_big_thumb_image/public/blogs_2014/05/2014%2B17gentleman.jpg?itok=GO6FkeCY" width="300" height="202" alt="Photo: Thomas Dworzak/Magnum Photos" title="Photo: Thomas Dworzak/Magnum Photos" /></a></div>    
+  </div>    <div class="views-field views-field-field-promo-title">       <div class="field-content"><a href="/2014/04/old-men-around-town">Fiction: Old Men Around Town by Lydia Davis</a></div>    
+  </div>    <div class="views-field views-field-name">       <span class="field-content"><a href="/writers/112608">Lydia Davis</a></span>    
+  </div>
+
+
+
+
+
+</li>
+          <li class="views-row views-row-5 views-row-odd">
+    <div class="views-field views-field-field-node-image">       <div class="field-content"><a href="/2014/04/tears-clown"><img typeof="foaf:Image" class="image-style-magazine-big-thumb-image" src="http://www.newstatesman.com/sites/default/files/styles/magazine_big_thumb_image/public/blogs_2014/05/2014%2B17chaplin2.jpg?itok=Hj_LnXGf" width="300" height="202" alt="Comic timings: Chaplin as Calvero in the 1952 film Limelight. Photo: Magnum" title="Comic timings: Chaplin as Calvero in the 1952 film Limelight. Photo: Magnum" /></a></div>    
+  </div>    <div class="views-field views-field-field-promo-title">       <div class="field-content"><a href="/2014/04/tears-clown">Tears of a clown: Peter Ackroyd’s biography of Charlie Chaplin</a></div>    
+  </div>    <div class="views-field views-field-name">       <span class="field-content"><a href="/writers/124282">Tom Shone</a></span>    
+  </div>
+
+
+
+
+
+</li>
+          <li class="views-row views-row-6 views-row-even">
+    <div class="views-field views-field-field-node-image">       <div class="field-content"><a href="/2014/04/what-s-name"><img typeof="foaf:Image" class="image-style-magazine-big-thumb-image" src="http://www.newstatesman.com/sites/default/files/styles/magazine_big_thumb_image/public/blogs_2014/05/117487868.jpg?itok=3Pz7esMR" width="300" height="202" alt="Rising up: a jellyfish in sea of the Farne Islands, England. Photo: Getty" title="Rising up: a jellyfish in sea of the Farne Islands, England. Photo: Getty" /></a></div>    
+  </div>    <div class="views-field views-field-field-promo-title">       <div class="field-content"><a href="/2014/04/what-s-name">Jellyfish McSaveloy and the social mobility of surnames</a></div>    
+  </div>    <div class="views-field views-field-name">       <span class="field-content"><a href="/writers/sophie_mcbain">Sophie McBain</a></span>    
+  </div>
+
+
+
+
+
+</li>
+          <li class="views-row views-row-7 views-row-odd views-row-last">
+    <div class="views-field views-field-field-node-image">       <div class="field-content"><a href="/2014/04/judging-john-updike"><img typeof="foaf:Image" class="image-style-magazine-big-thumb-image" src="http://www.newstatesman.com/sites/default/files/styles/magazine_big_thumb_image/public/blogs_2014/05/2014%2B17updike.jpg?itok=XBzKaPHg" width="300" height="202" alt="" /></a></div>    
+  </div>    <div class="views-field views-field-field-promo-title">       <div class="field-content"><a href="/2014/04/judging-john-updike">Judging John Updike: tedious suburbanite or literary great?</a></div>    
+  </div>    <div class="views-field views-field-name">       <span class="field-content"><a href="/writers/124543">David Baddiel and Jeffrey Meyers</a></span>    
+  </div>
+
+
+
+
+
+</li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div></noscript></div></div>
+  </div></section></div></div>	
+         
+         <div id='div-gpt-ad-1372771363914-0' style='width:300px; height:auto; float:left; margin-bottom:10px;'>
+		<script type='text/javascript'>	googletag.cmd.push(function() { googletag.display('div-gpt-ad-1372771363914-0'); } 		);
+		</script>
+		</div>
+        
+        <!-- OnScroll - NewStatesman - Double MPU (right navi) [Dec2013] -->
+<script>
+var onScrOll=new Object();
+onScrOll.code="PCEtLSBNZXRyaWMgU2NpZW5jZSAtIE5ld1N0YXRlc21hbiAtIERvdWJsZSBNUFUgKHJpZ2h0IG5hdmkpIFtEZWMyMDEzXSAtLT4KPGRpdj4KPCEtLSBzdGFydCBvZiBjcmVhdGl2ZSBjb250ZW50IC0tPgo8IS0tIEJFR0lOIEpTIFRBRyAtIE5TIERvdWJsZSBNUFUgKHJpZ2h0IG5hdmkpIDwgLSBETyBOT1QgTU9ESUZZIC0tPg0KPFNDUklQVCBTUkM9Imh0dHA6Ly9hZC5uZXRjb21tdW5pdGllcy5jb20vdHRqP2lkPTIwMzMzMTQmc2l6ZT0zMDB4NjAwJnByb21vX3NpemVzPTMwMHgyNTAiIFRZUEU9InRleHQvamF2YXNjcmlwdCI+PC9TQ1JJUFQ+DQo8IS0tIEVORCBUQUcgLS0+CjwhLS0gZW5kIG9mIGNyZWF0aXZlIGNvbnRlbnQgLS0+CjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij4KKHdpbmRvdy5fdHJhY2tlciA9ICh3aW5kb3cuX3RyYWNrZXIgfHwgW10pKS5wdXNoKHsKICBjYW1wYWlnbklkOiAnNTFmZjdlNjk3OGVjYzhlODc2MDAwMDJhJywKICBjcmVhdGl2ZUlkOiAnNTI5ZjI1ODQxY2VkZDJlOTc4MDAwMDA5JywKICBhY2NvdW50SWQ6ICc1MWZmN2U0Yjc4ZWNjOGU4NzYwMDAwMjknCn0pOwo8L3NjcmlwdD4KPHNjcmlwdCBzcmM9Imh0dHA6Ly9jZG4ub25zY3JvbGwuY29tL21zLm9zLmpzIj48L3NjcmlwdD4KPC9kaXY+CjwhLS0gRW5kIG9mIHRhZyAtIC0tPg==";
+onScrOll.margin=880;
+onScrOll.mode="sticky";
+onScrOll.height=600;
+onScrOll.width=300;
+onScrOll.reload=false;
+onScrOll.marginTop=10;
+onScrOll.iframe=false;
+onScrOll.refreshTime=30;
+onScrOll.onPageLoad=false;
+</script>
+<script src="http://cdn.onscroll.com/onscroll.refresh.ms.js"></script>
+<!-- End of tag - -->
+        
+	   
+        
+        
+    <div style="clear:both"></div>
+    
+          
+    
+   <!-- OnScroll - NewStatesman - Double MPU (right navi) [Dec2013] -->
+<!--  NSDS-403 End of tag - -->
+
+                
+            </div> 
+		
+       
+        	<!-- sidebar second start and first end -->
+		
+        
+        	 <div  class="custom-sidebarsecond" >
+              <div class="region-sidebar-second-custom">       
+           <div class="region region-sidebar-second sidebar"><div class="region-inner clearfix"><section id="block-views-subscriber-image-block-1" class="block block-views odd first block-count-11 block-region-sidebar-second block-subscriber-image-block-1" ><div class="block-inner clearfix">  
+      <h2 class="block-title">Purchase today</h2>
+  
+  <div class="block-content content"><div class="view view-subscriber-image view-id-subscriber_image view-display-id-block_1 subscriber-image view-dom-id-2e422463509b3d961f5fe49929f12679">
+        
+  
+  
+      <div class="view-content">
+        <div>
+    
+           <a href="/subscribe"><img typeof="foaf:Image" class="image-style-magazine-thumb-image" src="http://www.newstatesman.com/sites/default/files/styles/magazine_thumb_image/public/articles_2014/2014%2B18web.jpg?itok=CtdllHHw" width="163" height="212" alt="" /></a>    
+  
+
+
+
+
+
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></div>
+  </div></section><section id="block-views-subscriber-image-block-2" class="block block-views even block-count-12 block-region-sidebar-second block-subscriber-image-block-2" ><div class="block-inner clearfix">  
+      <h2 class="block-title">Out now</h2>
+  
+  <div class="block-content content"><div class="view view-subscriber-image view-id-subscriber_image view-display-id-block_2 subscriber-image view-dom-id-49c4359a82e65c6cc0b0bfa651782952">
+        
+  
+  
+      <div class="view-content">
+        <div>
+    
+           <a href="/century"><img typeof="foaf:Image" class="image-style-magazine-thumb-image" src="http://www.newstatesman.com/sites/default/files/styles/magazine_thumb_image/public/century_cover.jpg?itok=3XezsKuM" width="163" height="212" alt="New Statesman" title="New Statesman" /></a>    
+  
+
+
+
+
+
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></div>
+  </div></section><section id="block-simplenews-7961" class="block block-simplenews odd block-count-13 block-region-sidebar-second block-7961" ><div class="block-inner clearfix">  
+      <h2 class="block-title">Newsletter</h2>
+  
+  <div class="block-content content">      <p>Enter your email address here to receive updates from the team.</p>
+  
+      <form class="simplenews-subscribe" action="/culture/2014/05/day-i-thought-i-d-discovered-terrorist-plot-selfridges-toy-departmen" method="post" id="simplenews-block-form-7961" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-mail">
+  <label for="edit-mail">E-mail <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-mail" name="mail" value="" size="20" maxlength="128" class="form-text required" />
+</div>
+<input type="hidden" name="form_build_id" value="form-f45IGFFSmSDiG7dHdoLY5T3mWINSRnaa8Kyzpe6WHfA" />
+<input type="hidden" name="form_id" value="simplenews_block_form_7961" />
+<div class="form-item form-type-textfield form-item-country">
+  <label for="edit-country">Country <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-country" name="country" value="" size="20" maxlength="128" class="form-text required" />
+</div>
+<input type="submit" id="edit-submit" name="op" value="Subscribe" class="form-submit" /></div></form>  
+  
+  
+  </div>
+  </div></section><section id="block-user-login" class="block block-user even last block-count-14 block-region-sidebar-second block-login"  role="form"><div class="block-inner clearfix">  
+      <h2 class="block-title">User login</h2>
+  
+  <div class="block-content content"><form action="/culture/2014/05/day-i-thought-i-d-discovered-terrorist-plot-selfridges-toy-departmen?destination=node/201772" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Username or e-mail <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div>
+<div class="item-list"><ul><li class="even first"><a href="/user/register" title="Create a new user account.">Create new account</a></li><li class="odd last"><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li></ul></div><input type="hidden" name="form_build_id" value="form-qgKONPqbC_e130pek825Mg-d8PWaZN8AJHtKPzSTSK8" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit--2" name="op" value="Log in" class="form-submit" /></div></div></form></div>
+  </div></section></div></div>           <!-- Test_NS_Minister_widesky NSDS 376 -->
+<div id="div-gpt-ad-1357235299034-0" style="width:120px; text-align:center;  height:600px; margin:10px 0 10px 0px; float:left">
+	<script type='text/javascript'>
+googletag.cmd.push(function()
+{ googletag.display('div-gpt-ad-1357235299034-0'); }
+
+);
+</script></div>
+<div style="clear:both"></div> 
+ 
+
+<!-- OnScroll - NewStatesman - NS SkyScraper [Oct2013] -->
+<script>
+var onScrOll=new Object();
+onScrOll.code="PCEtLSBNZXRyaWMgU2NpZW5jZSAtIE5ld1N0YXRlc21hbiAtIE5TIFNreVNjcmFwZXIgW09jdDIwMTNdIC0tPgo8ZGl2Pgo8IS0tIHN0YXJ0IG9mIGNyZWF0aXZlIGNvbnRlbnQgLS0+CjwhLS0gQkVHSU4gSlMgVEFHIC0gTlMgU2t5U2NyYXBlciA8IC0gRE8gTk9UIE1PRElGWSAtLT4NCjxTQ1JJUFQgU1JDPSJodHRwOi8vYWQubmV0Y29tbXVuaXRpZXMuY29tL3R0aj9pZD0xODM2MzY2IiBUWVBFPSJ0ZXh0L2phdmFzY3JpcHQiPjwvU0NSSVBUPg0KPCEtLSBFTkQgVEFHIC0tPg0KCjwhLS0gZW5kIG9mIGNyZWF0aXZlIGNvbnRlbnQgLS0+CjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij4KKHdpbmRvdy5fdHJhY2tlciA9ICh3aW5kb3cuX3RyYWNrZXIgfHwgW10pKS5wdXNoKHsKICBjYW1wYWlnbklkOiAnNTFmZjdlNjk3OGVjYzhlODc2MDAwMDJhJywKICBjcmVhdGl2ZUlkOiAnNTI0ZThjZDExNjk1OTFkNzIzMDAwMDA2JywKICBhY2NvdW50SWQ6ICc1MWZmN2U0Yjc4ZWNjOGU4NzYwMDAwMjknCn0pOwo8L3NjcmlwdD4KPHNjcmlwdCBzcmM9Imh0dHA6Ly9jZG4ub25zY3JvbGwuY29tL21zLm9zLmpzIj48L3NjcmlwdD4KPC9kaXY+CjwhLS0gRW5kIG9mIHRhZyAtIC0tPg==";
+onScrOll.margin=880;
+onScrOll.mode="sticky";
+onScrOll.height=600;
+onScrOll.width=160;
+onScrOll.reload=false;
+onScrOll.marginTop=10;
+onScrOll.iframe=false;
+onScrOll.refreshTime=30;
+onScrOll.onPageLoad=false;
+</script>
+<script src="http://cdn.onscroll.com/onscroll.refresh.ms.js"></script>
+<!-- End of tag - -->
+ 
+
+
+            </div> </div>         
+            <!-- sidebar second end -->        
+
+        </div>
+      </div>  
+    </div>
+
+    
+    
+          <div id="morenewstatesman_main">
+        <div class="container clearfix">
+          <footer class="clearfix" role="contentinfo">
+            <div class="region region-footer"><div class="region-inner clearfix"><div id="block-block-1" class="block block-block no-title odd first last block-count-15 block-region-footer block-1" ><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><div class="morenewstatesman font-times">
+<h2>More from the New Statesman</h2>
+<div class="morecol6">
+<dl>
+<dt>Sponsored Links:  </dt>
+<dd></dd>
+<dd></dd>
+<h4 style="color:#CB3848;"><b>Latitude Festival</b></h4>
+
+<dd>The Black Keys, Damon Albarn, Two Door Cinema Club, Dara O Briain, Al Murray, RSC, Roger McGough and many more confirmed for <a href="http://latitudefestival.seetickets.com/tour/latitude-festival-2014?src=lat2014MK64">Latitude Festival this July</a>.</dd>
+
+<h4 style="color:#CB3848;"><b>The Energy Debate</b></h4>
+<dd>Find out all you need to know about energy at the New Statesman’s brand new energy hub. 
+<a href="/energy">Click here to find out more</a></dd>
+</div>
+<div class="morecol1">
+<dl>
+<dt>New Statesman team: </dt>
+<dd ><a href="/writers/jason_cowley">Jason Cowley</a></dd>
+<dd ><a href="/writers/helen_lewis">Helen Lewis</a></dd>
+<dd ><a href="/writers/rafael_behr">Rafael Behr</a></dd>
+<dd ><a href="/writers/john_gray">John Gray</a></dd>
+<dd ><a href="/writers/kate_mossman">Kate Mossman</a></dd>
+<dd ><a href="/writers/peter_wilby">Peter Wilby</a></dd>
+<dd ><a href="/writers/jemima_khan">Jemima Khan</a></dd>
+<dd ><a href="/writers/37980">Thomas Calvocoressi</a></dd>
+<dd ><a href="/writers/117477">Tom Gatti</a></dd>
+<dd ><a href="/laurie-penny">Laurie Penny</a></dd>
+<dd ><a href="/writers/george_eaton">George Eaton</a></dd>
+<dd ><a href="/writers/caroline_crampton">Caroline Crampton</a></dd>
+<dd ><a href="/writers/sophie_mcbain">Sophie McBain</a></dd>
+<dd ><a href="/writers/philip_maughan">Philip Maughan</a></dd>
+<dd ><a href="/writers/ian_steadman">Ian Steadman</a></dd>
+<dd ><a href="/writers/michael_prodger">Michael Prodger</a></dd>
+</dl>
+</div>
+<div class="morecol2">
+<dl>
+<dt>Online writers: </dt>
+<dd><a href="/writers/rhiannon_and_holly">Rhiannon and Holly</a></dd>
+<dd><a href="/writers/alan_white">Alan White</a></dd>
+<dd><a href="/writers/glosswitch">Glosswitch</a></dd>
+<dd><a href="/writers/nelson_jones">Nelson Jones</a></dd>
+<dd><a href="/writers/bim_adewunmi">Bim Adewunmi</a></dd>
+<dd><a href="/writers/martha_gill">Martha Gill</a></dd>
+<dd><a href="/writers/juliet_jacques">Juliet Jacques</a></dd>
+<dd><a href="/writers/david_banks">David Banks</a></dd>
+<dd><a href="/writers/samira_shackle">Samira Shackle</a></dd>
+<dd><a href="/writers/nicky_woolf">Nicky Woolf</a></dd>
+<dd><a href="/writers/frances_ryan">Frances Ryan</a></dd>
+<dd><a href="/writers/jonn_elledge">Jonn Elledge</a></dd>
+<dd><a href="/writers/sarah_ditum">Sarah Ditum</a></dd>
+<dd><a href="/writers/martin_robbins">Martin Robbins</a></dd>
+<dd><a href="/media-mole">Media Mole</a></dd>
+<dd><a href="/writers/phil_hartup">Phil Hartup</a></dd>
+
+</dl>
+</div>
+
+<div class="morecol3">
+<dl>
+<dt>Columnists:  </dt>
+<dd ><a href="/writers/michael_brooks">Michael Brooks</a></dd>
+
+<dd ><a href="/writers/eleanor_margolis">Eleanor Margolis</a></dd>
+<dd ><a href="/writers/hunter_davies">Hunter Davies</a></dd>
+
+<dd ><a href="/writers/alice_o'keeffe">Alice O'Keeffe</a></dd>
+<dd ><a href="/writers/ed_smith">Ed Smith</a></dd>
+
+<dd ><a href="/writers/nina_caplan">Nina Caplan</a></dd>
+<dd ><a href="/writers/nicholas_lezard">Nicholas Lezard</a></dd>
+
+<dd ><a href="/writers/kevin_maguire">Kevin Maguire</a></dd>
+
+<dd ><a href="/writers/felicity_cloake">Felicity Cloake</a></dd>
+<dd ><a href="/writers/john_pilger">John Pilger</a></dd>
+
+<dd ><a href="/writers/mehdi_hasan">Mehdi Hasan</a></dd>
+
+<dd ><a href="/writers/will_self">Will Self</a></dd>
+<dd ><a href="/writers/felix_martin">Felix Martin</a></dd>
+
+<dd ><a href="/writers/john_burnside">John Burnside</a></dd>
+
+<dd ><a href="/writers/ruth_padel">Ruth Padel</a></dd>
+
+<dd ><a href="/writers/stephen_brasher">Stephen Brasher</a></dd>
+
+</dl>
+</div>
+
+<div class="morecol4">
+<dl>
+<dt>Critics:  </dt>
+
+<dd ><a href="/writers/leo_robson">Leo Robson</a></dd>
+<dd ><a href="/writers/craig_raine">Craig Raine</a></dd>
+<dd ><a href="/writers/rachel_cooke">Rachel Cooke</a></dd>
+<dd ><a href="/writers/ryan_gilbey">Ryan Gilbey</a></dd>
+<dd ><a href="/writers/antonia_quirke">Antonia Quirke</a></dd>
+<dd ><a href="/writers/jane_shilling">Jane Shilling</a></dd>
+<dd ><a href="/writers/alexandra_coghlan">Alexandra Coghlan</a></dd>
+<dd ><a href="/writers/stuart_maconie ">Stuart Maconie</a></dd>
+<dd ><a href="/writers/olivia_laing">Olivia Laing</a></dd>
+<dd ><a href="/writers/frances_wilson">Frances Wilson</a></dd>
+<dd ><a href="/writers/sarah_churchwell">Sarah Churchwell</a></dd>
+<dd ><a href="/writers/andrew_billen">Andrew Billen</a></dd>
+<dd ><a href="/writers/adam_kirsch">Adam Kirsch</a></dd>
+<dd ><a href="/writers/tom_watson">Tom Watson</a></dd>
+<dd ><a href="/writers/steven_poole">Steven Poole</a></dd>
+<dd ><a href="/writers/andrew_harrison">Andrew Harrison</a></dd>
+
+</div>
+
+
+<div class="morecol5">
+<dl>
+<dt> Services: </dt>
+<dd><a href="/subscribe" rel="nofollow" >Subscribe</a></dd>
+<dd><a href="/page/rss" rel="nofollow" >RSS feeds</a></dd>
+<dd><a href="/archive" rel="nofollow" >Archive</a></dd>
+<dd></dd>
+<dd><a href="/magazine" rel="nofollow" >This week's magazine</a></dd>
+<dd><a href="/new-statesman-pdf-edition" rel="nofollow" >PDF edition</a></dd>
+
+<dd><a href="/page/advertising" rel="nofollow" >Advertising</a></dd>
+<dd><a href="/page/supplements" rel="nofollow" >Special supplements</a></dd>
+<dd><a href="/subjects/advertorial" rel="nofollow" >Sponsored advertorial</a></dd>
+<dd><a href="/stockists" rel="nofollow" >Stockists</a></dd>
+<dd><a href="http://www.facebook.com/NewStatesman">Facebook </a></dd>
+<dd><a href="https://twitter.com/NewStatesman">Twitter</a></dd>
+<dd><a href="http://www.newstatesman.tumblr.com" rel="nofollow" >Tumblr</a></dd>
+<dd><a href="https://plus.google.com/+newstatesman/posts" rel="nofollow" >Google+</a></dd>
+<dd><a href="http://pinterest.com/newstatesman/" rel="nofollow" >Pinterest</a></dd>
+<dd><a href="http://itunes.apple.com/us/app/new-statesman/id400878915?mt=8&ls=1
+" rel="nofollow" >iPad app</a></dd>
+<dd><a href="http://www.newstatesman.com/podcast" rel="nofollow" >Podcast</a></dd>
+
+</dl>
+</div>
+
+
+</div></div>
+  </div></div></div></div>          </footer>
+        </div>
+      </div>
+        <div class="clear"></div>
+          <div id="footer_menu">
+        <div class="container clearfix">
+          <footer class="clearfix footer_menu" role="contentinfo">
+           &copy; New Statesman 1913 - 2014 <br /><div class="region region-footer-menu"><div class="region-inner clearfix"><div id="block-menu-menu-footer-menu" class="block block-menu no-title odd first last block-count-16 block-region-footer-menu block-menu-footer-menu"  role="navigation"><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><ul class="menu clearfix"><li class="first leaf menu-depth-1 menu-item-932"><a href="/history" title="">History</a></li><li class="leaf menu-depth-1 menu-item-933"><a href="/about-new-statesman" title="">About us</a></li><li class="leaf menu-depth-1 menu-item-934"><a href="/subscribe" title="">Subscribe</a></li><li class="leaf menu-depth-1 menu-item-935"><a href="/page/advertising" title="">Advertising</a></li><li class="leaf menu-depth-1 menu-item-936"><a href="/page/rss" title="">RSS feeds</a></li><li class="leaf menu-depth-1 menu-item-937"><a href="/privacy-policy" title="">Privacy policy</a></li><li class="leaf menu-depth-1 menu-item-938"><a href="/new-statesman-terms-and-conditions" title="">Terms and conditions</a></li><li class="last leaf menu-depth-1 menu-item-939"><a href="/contact-new-statesman" title="">Contact us</a></li></ul></div>
+  </div></div></div></div>          </footer>
+       <div class="footer_ad"> 
+      <div id='div-gpt-ad-1320926772906-0' style='width:728px; height:90px;'> 
+            <script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1320926772906-0'); });
+</script> 
+       
+       </div>
+        </div>
+      </div>
+    
+  </div>
+</div>
+
+<script type="text/javascript" src="http://www.newstatesman.com/1.4_new.js">
+</script> 
+<script type="text/javascript">
+    // The position of the disclosure ('top' or 'bottom')
+    // Number of times to display disclosure. Enter 0 to show it forever!!!!
+    // The URI of your privacy policy
+    cookiesDirective('top',3,'privacy-policy');
+</script> 
+  
+<script type="text/javascript">
+    function cookiesDirectiveScriptWrapper(){
+        // Cookie creating scripts etc here....
+     
+    }
+</script> 
+
+<script type="text/javascript">
+    // The position of the disclosure ('top' or 'bottom')
+    // Number of times to display disclosure. Enter 0 to show it forever!!!!
+    // The URI of your privacy policy
+    cookiesDirective('top',3,'privacy-policy');
+</script> 
+
+
+
+
+
+<!-- Slingpic NSDS-279 -->
+
+<!-- Slingpic NSDS-279 END-->
+
+
+
+
+
+
+<!--saradhi-->
+
+<!--NSDS-364 START-->
+<!--NSDS-364 END-->
+
+<!-- PG-65 start-->
+<script type="text/javascript">
+	var _ttf = _ttf || [];
+	_ttf.push({
+		pid: 19701
+		,lang: 'en'
+		,slot:   '#page p'
+		,format: 'inread'
+		,minSlot: 5
+	       ,components: { mute: { delay: 0} ,skip: {delay: 0} }
+	});
+	(function(d){
+		var js, s = d.getElementsByTagName('script')[0];
+		js = d.createElement('script'); js.async = true;
+		js.src = "//cdn.teads.tv/js/all-v1.js";
+		s.parentNode.insertBefore(js, s);
+	})(window.document);
+</script>
+
+<!-- PG-65 END-->
+
+
+<!-- NSDS-404 -->
+<!-- NSDS-404 END-->
+
+<!-- Google Code for Remarketing Tag --> 
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1057685842;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1057685842/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+<!-- Google Code for Remarketing Tag end --> 
+
+</body>
+<!-- Section: culture  ##  node/201772/-->
+</html>
+
+
