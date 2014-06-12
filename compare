@@ -23,10 +23,18 @@ import lxml.etree
 
 splitter = re.compile(r'---(.*?)---\s*(.*)$',re.DOTALL)
 
+ALL_CHECKS = ['headline','urls','dates','content','authors']
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('got', help='file containing scraped data')
     parser.add_argument('expected', help='file containing expected data')
+
+
+    parser.add_argument('-c', '--check',
+        action='append',
+        help="only check specified fields",
+        choices=ALL_CHECKS)
 #    parser.add_argument("-v", "--verbose", help="increase output verbosity",
 #                    action="store_true")
     args = parser.parse_args()
@@ -37,7 +45,12 @@ def main():
         art_got = Article(args.got)
         art_expected = Article(args.expected)
 
-        errs = art_got.compare(art_expected)
+
+        checks = ALL_CHECKS
+        if args.check:
+            checks = args.check
+
+        errs = art_got.compare(art_expected, checks)
         if len(errs)>0:
             [print("  %s" % (err.encode('utf-8'),), file=sys.stdout) for err in errs]
 
@@ -59,19 +72,20 @@ class Article:
             data = f.read()
             # split yaml front matter from content block
             m = splitter.match(data)
+            assert(m)
             meta = yaml.load(m.group(1))
-            for f in ("headline","published","updated","authors","canonical_url","alternate_urls"):
+            for f in ("headline","published","updated","authors","canonical_url","urls"):
                 if f in meta:
                     self.__dict__[f] = meta[f]
                 else:
-                    if f in ("authors","alternate_urls"):
+                    if f in ("authors","urls"):
                         self.__dict__[f] = []
                     else:
                         self.__dict__[f] = None
 
             # some patchups
-            if self.alternate_urls is None:
-                self.alternate_urls = []
+            if self.urls is None:
+                self.urls = []
 
             self.content = m.group(2)
 
@@ -84,33 +98,38 @@ class Article:
         print("------")
         print(self.content)
 
-    def compare(self,expected):
+    def compare(self,expected, checks=ALL_CHECKS):
+
         errs = []
 
         # check urls
-        if self.canonical_url != expected.canonical_url:
-            errs.append("canonical_url: expected '%s', got '%s'" %(expected.canonical_url,self.canonical_url))
-        if sorted(self.alternate_urls) != sorted(expected.alternate_urls):
-            errs.append("alternate_urls: expected '%s', got '%s'" %(expected.alternate_urls,self.alternate_urls))
+        if 'urls' in checks:
+            if self.canonical_url != expected.canonical_url:
+                errs.append("canonical_url: expected '%s', got '%s'" %(expected.canonical_url,self.canonical_url))
+            if sorted(self.urls) != sorted(expected.urls):
+                errs.append("urls: expected '%s', got '%s'" %(expected.urls,self.urls))
 
         # check headline
-        if self.headline != expected.headline:
-            errs.append("Headline: expected '%s', got '%s'" %(expected.headline,self.headline))
+        if 'headline' in checks:
+            if self.headline != expected.headline:
+                errs.append("Headline: expected '%s', got '%s'" %(expected.headline,self.headline))
 
         # check authors
-        for author in expected.authors:
-            if self.find_author(author) is None:
-                errs.append("missing author: '%s'" % (author['name'],))
-        for author in self.authors:
-            if expected.find_author(author) is None:
-                errs.append("extra author: '%s'" % (author['name'],))
+        if 'authors' in checks:
+            for author in expected.authors:
+                if self.find_author(author) is None:
+                    errs.append("missing author: '%s'" % (author['name'],))
+            for author in self.authors:
+                if expected.find_author(author) is None:
+                    errs.append("extra author: '%s'" % (author['name'],))
 
         # check content
-        txt1 = html_to_text(self.content)
-        txt2 = html_to_text(expected.content)
+        if 'content' in checks:
+            txt1 = html_to_text(self.content)
+            txt2 = html_to_text(expected.content)
 
-        if txt1 != txt2:
-            errs.append("content mismatch")
+            if txt1 != txt2:
+                errs.append("content mismatch")
 
         # TODO: everything else :-)
 
