@@ -1,0 +1,937 @@
+WARC/1.0
+Content-Length: 52191
+Content-Type: application/http; msgtype=response
+Warc-Date: 2014-04-24T02:45:10Z
+Warc-Record-Id: urn:X-scrapeomat:1398307511296832501
+Warc-Target-Uri: http://labourlist.org/2014/04/dennis-skinner-attacks-government-over-pit-closures/
+Warc-Type: response
+X-Scrapeomat-Srcurl: http://labourlist.org/2014/04/dennis-skinner-attacks-government-over-pit-closures/
+
+HTTP/1.1 200 OK
+Content-Length: 51847
+Accept-Ranges: bytes
+Cache-Control: max-age=3, must-revalidate
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+Date: Thu, 24 Apr 2014 02:45:10 GMT
+Expires: Thu, 24 Apr 2014 02:45:13 GMT
+Last-Modified: Tue, 22 Apr 2014 01:57:51 GMT
+Server: Apache/2.2
+Vary: Accept-Encoding,Cookie
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+<head profile="http://gmpg.org/xfn/11">
+<title>Dennis Skinner attacks government over pit closures | LabourList</title>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta name="description" content="Today it was announced that UK Coal plans to close two pits at Kellingley, North Yorkshire, and Thoresby, Nottinghamshire. Former miner and Bolsover MP Dennis Skinner took the government to tai over their handling of pit closures in the chamber this morning: Related posts: This year&#8217;s Dennis Skinner comment on Queen&#8217;s Speech day Dennis Skinner, Clegg and a horse PMQs Verdict: Whilst Dave and Ed shadow-boxed, Dennis stole the show Skinner vs Clegg on party funding Cameron&#8217;s crass ageist attack [&hellip;]" />
+<meta name="keywords" content="Colliery,Dennis Skinner,Mine,Pit,Pit Closure," /><meta name="robots" content="index, follow" />
+
+<link rel="alternate" type="application/rss+xml" title="LabourList RSS Feed" href="http://labourlist.org/feed/" />
+<link rel="pingback" href="http://labourlist.org/xmlrpc.php" />
+<link rel="stylesheet" type="text/css" href="http://labourlist.org/wp-content/themes/labourlist/style.css" media="screen" />
+<link rel="stylesheet" href="http://labourlist.org/wp-content/themes/tribune/css/dropdown.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://labourlist.org/wp-content/themes/tribune/custom.css" type="text/css" media="screen" />
+<!--[if IE 6]><link rel="stylesheet" type="text/css" href="http://labourlist.org/wp-content/themes/tribune/css/ie6.css" /><![endif]-->
+<!--[if IE 7 ]><link rel="stylesheet" type="text/css" href="http://labourlist.org/wp-content/themes/tribune/css/ie7.css" /><![endif]-->
+<link rel="shortcut icon" href="http://labourlist.org/favicon.png" type="image/x-icon" /> 
+
+	
+<link rel="alternate" type="application/rss+xml" title="LabourList &raquo; Dennis Skinner attacks government over pit closures Comments Feed" href="http://labourlist.org/2014/04/dennis-skinner-attacks-government-over-pit-closures/feed/" />
+<link rel='stylesheet' id='login-with-ajax-css'  href='http://labourlist.org/wp-content/plugins/login-with-ajax/widget/widget.css?ver=3.9' type='text/css' media='all' />
+<link rel='stylesheet' id='flick-css'  href='http://labourlist.org/wp-content/plugins/mailchimp//css/flick/flick.css?ver=3.9' type='text/css' media='all' />
+<link rel='stylesheet' id='mailchimpSF_main_css-css'  href='http://labourlist.org/?mcsf_action=main_css&#038;ver=3.9' type='text/css' media='all' />
+<!--[if IE]>
+<link rel='stylesheet' id='mailchimpSF_ie_css-css'  href='http://labourlist.org/wp-content/plugins/mailchimp/css/ie.css?ver=3.9' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='jetpack-subscriptions-css'  href='http://labourlist.org/wp-content/plugins/jetpack/modules/subscriptions/subscriptions.css?ver=3.9' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://labourlist.org/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='wpt-twitter-feed-css'  href='http://labourlist.org/wp-content/plugins/wp-to-twitter/css/twitter-feed.css?ver=3.9' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack-widgets-css'  href='http://labourlist.org/wp-content/plugins/jetpack/modules/widgets/widgets.css?ver=20121003' type='text/css' media='all' />
+<link rel='stylesheet' id='tabbed-widgets-css'  href='http://labourlist.org/wp-content/plugins/tabbed-widgets/css/tabbed-widgets.css?ver=3.9' type='text/css' media='all' />
+<script type='text/javascript' src='http://labourlist.org/wp-content/themes/tribune/js/jquery.js?ver=3.9'></script>
+<script type='text/javascript' src='http://labourlist.org/wp-includes/js/json2.min.js?ver=2011-02-23'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var live_blogging = {"ajaxurl":"http:\/\/labourlist.org\/wp-admin\/admin-ajax.php","update_effect":"top"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://labourlist.org/wp-content/plugins/live-blogging/live-blogging.min.js?ver=3.9'></script>
+<script type='text/javascript' src='http://labourlist.org/wp-content/plugins/login-with-ajax/widget/login-with-ajax.js?ver=3.9'></script>
+<script type='text/javascript' src='http://labourlist.org/wp-content/plugins/mailchimp/js/scrollTo.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://labourlist.org/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.50.0-2014.02.05'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mailchimpSF = {"ajax_url":"http:\/\/labourlist.org\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://labourlist.org/wp-content/plugins/mailchimp/js/mailchimp.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://labourlist.org/wp-includes/js/jquery/ui/jquery.ui.core.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://labourlist.org/wp-content/plugins/mailchimp//js/datepicker.js?ver=3.9'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://labourlist.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://labourlist.org/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Can we have a sensible debate about immigration?' href='http://labourlist.org/2014/04/can-we-have-a-sensible-debate-about-immigration/' />
+<link rel='next' title='The London Marathon shows the best of politics' href='http://labourlist.org/2014/04/the-london-marathon-shows-the-best-of-politics/' />
+<meta name="generator" content="WordPress 3.9" />
+<link rel='shortlink' href='http://wp.me/p3MWhS-duS' />
+<style type="text/css">
+    .calnk a:hover {
+        background-position:0 0;
+        text-decoration:none;  
+        color:#000000;
+        border-bottom:1px dotted #000000;
+     }
+    .calnk a:visited {
+        text-decoration:none;
+        color:#000000;
+        border-bottom:1px dotted #000000;
+    }
+    .calnk a {
+        text-decoration:none; 
+        color:#000000; 
+        border-bottom:1px dotted #000000;
+    }
+    .calnk a span { 
+        display:none; 
+    }
+    .calnk a:hover span {
+        color:#333333; 
+        background:#F6F79B; 
+        display:block;
+        position:absolute; 
+        margin-top:1px; 
+        padding:5px; 
+        width:150px; 
+        z-index:100;
+        line-height:1.2em;
+    }
+    .calendar-table {
+        border:0 !important;
+        width:100% !important;
+        border-collapse:separate !important;
+        border-spacing:2px !important;
+    }
+    .calendar-heading {
+        height:25px;
+        text-align:center;
+        border:1px solid #D6DED5;
+        background-color:#E4EBE3;
+    }
+    .calendar-next {
+        width:25%;
+        text-align:center;
+    }
+    .calendar-prev {
+        width:25%;
+        text-align:center;
+    }
+    .calendar-month {
+        width:50%;
+        text-align:center;
+        font-weight:bold;
+    }
+    .normal-day-heading {
+        text-align:center;
+        width:25px;
+        height:25px;
+        font-size:0.8em;
+        border:1px solid #DFE6DE;
+        background-color:#EBF2EA;
+    }
+    .weekend-heading {
+        text-align:center;
+        width:25px;
+        height:25px;
+        font-size:0.8em;
+        border:1px solid #DFE6DE;
+        background-color:#EBF2EA;
+        color:#FF0000;
+    }
+    .day-with-date {
+        vertical-align:text-top;
+        text-align:left;
+        width:60px;
+        height:60px;
+        border:1px solid #DFE6DE;
+    }
+    .no-events {
+
+    }
+    .day-without-date {
+        width:60px;
+        height:60px;
+        border:1px solid #E9F0E8;
+    }
+    span.weekend {
+        color:#FF0000;
+    }
+    .current-day {
+        vertical-align:text-top;
+        text-align:left;
+        width:60px;
+        height:60px;
+        border:1px solid #BFBFBF;
+        background-color:#E4EBE3;
+    }
+    span.event {
+        font-size:0.75em;
+    }
+    .kjo-link {
+        font-size:0.75em;
+        text-align:center;
+    }
+    .calendar-date-switcher {
+        height:25px;
+        text-align:center;
+        border:1px solid #D6DED5;
+        background-color:#E4EBE3;
+    }
+    .calendar-date-switcher form {
+        margin:2px;
+    }
+    .calendar-date-switcher input {
+        border:1px #D6DED5 solid;
+        margin:0;
+    }
+    .calendar-date-switcher select {
+        border:1px #D6DED5 solid;
+        margin:0;
+    }
+    .calnk a:hover span span.event-title {
+        padding:0;
+        text-align:center;
+        font-weight:bold;
+        font-size:1.2em;
+        margin-left:0px;
+    }
+    .calnk a:hover span span.event-title-break {
+        width:96%;
+        text-align:center;
+        height:1px;
+        margin-top:5px;
+        margin-right:2%;
+        padding:0;
+        background-color:#000000;
+        margin-left:0px;
+    }
+    .calnk a:hover span span.event-content-break {
+        width:96%;
+        text-align:center;
+        height:1px;
+        margin-top:5px;
+        margin-right:2%;
+        padding:0;
+        background-color:#000000;
+        margin-left:0px;
+    }
+    .page-upcoming-events {
+        font-size:80%;
+    }
+    .page-todays-events {
+        font-size:80%;
+    }
+    .calendar-table table,tbody,tr,td {
+        margin:0 !important;
+        padding:0 !important;
+    }
+    table.calendar-table {
+        margin-bottom:5px !important;
+    }
+    .cat-key {
+        width:100%;
+        margin-top:30px;
+        padding:5px;
+        border:0 !important;
+    }
+    .cal-separate {
+       border:0 !important;
+       margin-top:10px;
+    }
+    table.cat-key {
+       margin-top:5px !important;
+       border:1px solid #DFE6DE !important;
+       border-collapse:separate !important;
+       border-spacing:4px !important;
+       margin-left:2px !important;
+       width:99.5% !important;
+       margin-bottom:5px !important;
+    }
+    .cat-key td {
+       border:0 !important;
+    }
+</style>
+	<script type="text/javascript">
+		jQuery(function($) {
+			$('.date-pick').each(function() {
+				var format = $(this).data('format') || 'mm/dd/yyyy';
+				format = format.replace(/yyyy/i, 'yy');
+				$(this).datepicker({
+					autoFocusNextInput: true,
+					constrainInput: false,
+					changeMonth: true,
+					changeYear: true,
+					beforeShow: function(input, inst) { $('#ui-datepicker-div').addClass('show'); },
+					dateFormat: format.toLowerCase(),
+				});
+			});
+			d = new Date();
+			$('.birthdate-pick').each(function() {
+				var format = $(this).data('format') || 'mm/dd';
+				format = format.replace(/yyyy/i, 'yy');
+				$(this).datepicker({
+					autoFocusNextInput: true,
+					constrainInput: false,
+					changeMonth: true,
+					changeYear: false,
+					minDate: new Date(d.getFullYear(), 1-1, 1),
+					maxDate: new Date(d.getFullYear(), 12-1, 31),
+					beforeShow: function(input, inst) { $('#ui-datepicker-div').removeClass('show'); },
+					dateFormat: format.toLowerCase(),
+				});
+
+			});
+
+		});
+	</script>
+	<meta property="og:image" content="http://labourlist.org/wp-content/uploads/2014/04/image_update_img.jpg"/>
+
+<script type="text/javascript">
+sas_tmstp=Math.round(Math.random()*10000000000);sas_masterflag=1;
+function SmartAdServer(sas_pageid,sas_formatid,sas_target) {
+if (sas_masterflag==1) {sas_masterflag=0;sas_master='M';} else {sas_master='S';};
+document.write('<scr'+'ipt src="http://www6.smartadserver.com/call/pubj/' + sas_pageid + '/' + sas_formatid + '/' + sas_master + '/' + sas_tmstp + '/' + escape(sas_target) + '?"></scr'+'ipt>');
+}
+</script>
+
+
+<!-- All in One SEO Pack 2.1.5 by Michael Torbert of Semper Fi Web Design[221,281] -->
+<meta name="description" content="Today it was announced that UK Coal plans to close two pits at Kellingley, North Yorkshire, and Thoresby, Nottinghamshire. Former miner and Bolsover MP" />
+
+<meta name="keywords" content="colliery,dennis skinner,mine,pit,pit closure" />
+
+<link rel="canonical" href="http://labourlist.org/2014/04/dennis-skinner-attacks-government-over-pit-closures/" />
+		<script type="text/javascript">
+		  var _gaq = _gaq || [];
+		  _gaq.push(['_setAccount', 'UA-6924530-1']);
+		  _gaq.push(['_trackPageview']);
+		  (function() {
+		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+		</script>
+<!-- /all in one seo pack -->
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #a1a1a1; }
+</style>
+<script type="text/javascript" src="http://labourlist.org/wp-content/themes/tribune/js/tools.js"></script>
+<script type="text/javascript" src="http://labourlist.org/wp-content/themes/tribune/js/dropdown.js"></script>
+<script type="text/javascript" src="http://labourlist.org/wp-content/themes/tribune/js/tooltip.js"></script>
+<script type="text/javascript" src="http://labourlist.org/wp-content/themes/tribune/js/autocolumn.js"></script>
+<script type="text/javascript" src="http://labourlist.org/wp-content/themes/tribune/js/util.js"></script>
+
+</head>
+
+<body onload="fix()">
+<div id="wrapper">
+<div id="inner-wrapper">
+	<div id="header">
+
+		<div id="head-bar">
+
+<div id="messagespace-head">
+
+</div>
+
+						<div id="date">
+				<strong>Tuesday</strong>, April 22nd 
+			</div>
+			 			
+			<div id="navigation" class="dropdown">
+				 <ul id="menu-top-menu" class=""><li id="menu-item-28587" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28587"><a href="http://labourlist.org/write-for-labourlist/">Write for LabourList</a></li>
+<li id="menu-item-22497" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22497"><a href="http://labourlist.org/donate/">Donate</a></li>
+<li id="menu-item-22498" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22498"><a href="http://labourlist.org/contact/">Contact</a></li>
+<li id="menu-item-22496" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22496"><a href="http://labourlist.org/about/">About Us</a></li>
+</ul> 			</div>
+		</div><!-- /#header-bar -->
+			
+		<div id="inner">
+			<!-- Logo -->
+			<div id="logo">
+				<a href="http://labourlist.org/">
+											<img src="http://labourlist.org/wp-content/uploads/2013/10/Not-beta.png" alt="LabourList" />
+									</a>
+			</div> 
+			<div id="head_banner">
+									 <script type="text/javascript">
+sas_pageid='55084/431395';	// Page : labourlist/ros
+sas_formatid=20458;	 // Format : leaderboard 728x90
+sas_target='';	 // Targeting
+SmartAdServer(sas_pageid,sas_formatid,sas_target);
+</script>
+<noscript>
+<a href="http://www6.smartadserver.com/call/pubjumpi/55084/431395/20458/S/[timestamp]/?" target="_blank">
+<img src="http://www6.smartadserver.com/call/pubi/55084/431395/20458/S/[timestamp]/?" border="0" alt="" /></a>
+</noscript> 
+								 
+			</div>
+			
+			<div id="right">
+				<div id="social">
+					<ul>
+												
+												
+												
+  					</ul>
+				</div>
+				
+				
+			</div><!-- /#right -->
+			
+		</div><!-- /#inner -->
+				
+		<!-- Main Menu -->
+		<div id="menu" class="dropdown">
+				<ul id="menu-categories" class=""><li id="menu-item-22162" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22162"><a href="http://labourlist.org/category/news/">News</a></li>
+<li id="menu-item-22160" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22160"><a href="http://labourlist.org/category/comment/">Comment</a></li>
+<li id="menu-item-23881" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-23881"><a href="http://labourlist.org/category/video/">Video</a></li>
+<li id="menu-item-22164" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22164"><a href="http://labourlist.org/category/seats-selections/">Seats &#038; Selections</a></li>
+<li id="menu-item-22161" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22161"><a href="http://labourlist.org/category/localgov/">Local Government</a></li>
+<li id="menu-item-22163" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22163"><a href="http://labourlist.org/category/scotland/">Scotland</a></li>
+<li id="menu-item-22166" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22166"><a href="http://labourlist.org/category/wales/">Wales</a></li>
+<li id="menu-item-22165" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22165"><a href="http://labourlist.org/category/unions/">Unions</a></li>
+<li id="menu-item-47375" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47375"><a href="http://labourlist.org/events/">Events</a></li>
+</ul>		</div> <!-- /#menu -->
+		
+		
+		 
+		
+	</div><!-- /#header -->
+	
+	<div id="content">
+
+	
+<div id="sidebar">
+ 
+	 
+	<div id="text-6" class="widget widget_text">			<div class="textwidget"><!-- BEGIN MESSAGESPACE 300x250 CODE BLOCK -->
+<script type="text/javascript">
+sas_pageid='55084/431395';	// Page : labourlist/ros
+sas_formatid=23713;	 // Format : halfpage 300x600
+sas_target='';	 // Targeting
+SmartAdServer(sas_pageid,sas_formatid,sas_target);
+</script>
+<noscript>
+<a href="http://www6.smartadserver.com/call/pubjumpi/55084/431395/23713/M/[timestamp]/?" target="_blank">
+<img src="http://www6.smartadserver.com/call/pubi/55084/431395/23713/M/[timestamp]/?" border="0" alt="" /></a>
+</noscript>
+<!-- END MESSAGESPACE 300x250 CODE BLOCK --></div>
+		</div><div id="text-8" class="widget widget_text"><h3>Proudly sponsored by</h3>			<div class="textwidget"><p align="center" margin-bottom="-10px">
+
+<a href="http://www.gmb.org.uk/gmb_campaigns/other_campaigns/save_remploy_factories.aspx" target="_blank"><img src="http://cdn.cloudleft.org/remploy_2012_03_final.gif" alt="" width="92" height="92" style="margin:5px;" /></a>
+
+<a href="http://www.unison.org.uk/" target="_blank"><img style="width: 92px; height: 92px; margin:5px;" src="http://labourlist.org/wp-content/uploads/2014/02/unisonspeakingupgreen-e1391958724780.jpg" /></a>
+
+<a href="http://www.unitetheunion.org/" target="_blank"><img style="width: 92px; height: 92px; margin:5px;" src="http://labourlist.org/wp-content/uploads/2011/10/UniteLList2.gif" alt="unison speaking up" style="" /></a>
+
+<a href="http://cwu.org" target="_blank"><img style="width: 109px; height: 74px; margin:5px;" src="http://labourlist.org/wp-content/uploads/2012/01/CWU-logo-e1326368978941.jpg" /></a>
+</p></div>
+		</div><div id="text-7" class="widget widget_text"><h3>Sign up to receive our daily email</h3>			<div class="textwidget"><form name="signup" action="http://my.labourlist.org/page/s/sign-up-to-our-daily-email" method="post" id="signup">
+<table>
+ <tr>
+  <td>Email*</td>
+  <td><input type="email" class="text" size="25" id="email" name="email"></td>
+ </tr>
+ <tr>
+  <td>Forename</td>
+  <td><input size="20" id="firstname" name="firstname" type="text"></td>
+ </tr>
+ <tr>
+  <td>Surname</td>
+  <td><input size="20" id="lastname" name="lastname" type="text"></td>
+ </tr>
+</table>
+<div style="font-size:10px;">* denotes required field</div>
+<input style="margin-top:5px;" name="submit-btn" value="Subscribe" type="submit">
+<input name="redirect_url" type="hidden" value="">
+</form></div>
+		</div>	
+		
+</div> <!-- end sidebar -->
+ 		
+	<div id="main">
+	
+				 
+		<div class="post">
+			 
+			<div class="breadcrumbs">You are here: <a href="http://labourlist.org">Home</a> &raquo; <a href="http://labourlist.org/category/video/" title="View all posts in Video">Video</a> &raquo; <span class="current"></span></div>			 
+ 			<h1> <a href="http://labourlist.org/2014/04/dennis-skinner-attacks-government-over-pit-closures/" rel="bookmark" title="Permanent Link to Dennis Skinner attacks government over pit closures">Dennis Skinner attacks government over pit closures</a> </h1>
+			
+			<div class="meta">
+ 				<span class="date">April 10, 2014 3:34 pm</span> 															</div> 
+			
+			
+						<div class="meta_box">
+
+    
+ 			<h4>Tags:</h4><span class="tag-links"><a href="http://labourlist.org/tag/colliery/" rel="tag">Colliery</a>  <a href="http://labourlist.org/tag/dennis-skinner/" rel="tag">Dennis Skinner</a>  <a href="http://labourlist.org/tag/mine/" rel="tag">Mine</a>  <a href="http://labourlist.org/tag/pit/" rel="tag">Pit</a>  <a href="http://labourlist.org/tag/pit-closure/" rel="tag">Pit Closure</a></span><div class="hr"></div>
+
+				<h4>Share this Article</h4>
+				
+				<ul>
+					<li><a href="http://twitter.com/home?status=Dennis Skinner attacks government over pit closures http://labourlist.org/?p=51886"><img src="http://labourlist.org/wp-content/themes/tribune/images/icons/small/twitter.png" alt="Twitter" />Twitter</a></li>
+					 
+					<li><a href="http://www.facebook.com/sharer.php?u=http://labourlist.org/2014/04/dennis-skinner-attacks-government-over-pit-closures/&t=Dennis Skinner attacks government over pit closures"><img src="http://labourlist.org/wp-content/themes/tribune/images/icons/small/facebook.png" alt="Facebook" />Facebook</a></li>
+					 
+					<li><a href="http://del.icio.us/post?url=http://labourlist.org/2014/04/dennis-skinner-attacks-government-over-pit-closures/&amp;title=Dennis Skinner attacks government over pit closures"><img src="http://labourlist.org/wp-content/themes/tribune/images/icons/small/delicious.png" alt="Delicious" />Delicious</a></li>
+					<li><a href="http://digg.com/submit?phase=2&url=http://labourlist.org/2014/04/dennis-skinner-attacks-government-over-pit-closures/&title=Dennis Skinner attacks government over pit closures"><img src="http://labourlist.org/wp-content/themes/tribune/images/icons/small/digg.png" alt="Digg" />Digg</a></li>
+					<li><a href="http://www.stumbleupon.com/submit?url=http://labourlist.org/2014/04/dennis-skinner-attacks-government-over-pit-closures/"><img src="http://labourlist.org/wp-content/themes/tribune/images/icons/small/stumble.png" alt="Stumbleupon" />Stumble</a></li>
+					<li><a href="http://reddit.com/submit?url=http://labourlist.org/2014/04/dennis-skinner-attacks-government-over-pit-closures/"><img src="http://labourlist.org/wp-content/themes/tribune/images/icons/small/reddit.png" alt="Reddit" />Reddit</a></li>
+ 				</ul>
+ 					
+			</div><!-- /.meta_box -->
+				
+			
+					
+			<div class="entry">
+ 				<p>Today it was announced that UK Coal plans to close two pits at Kellingley, North Yorkshire, and Thoresby, Nottinghamshire.</p>
+<p style="text-align: center;"><img class="aligncenter  wp-image-51888" alt="image_update_img" src="http://labourlist.org/wp-content/uploads/2014/04/image_update_img-500x281.jpg" width="350" height="200" /></p>
+<p>Former miner and Bolsover MP Dennis Skinner took the government to tai over their handling of pit closures in the chamber this morning:</p>
+<p><object width="450" height="253" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="//www.youtube.com/v/DGSSdWITFV4?version=3&amp;hl=en_US&amp;rel=0" /><param name="allowfullscreen" value="true" /><embed width="450" height="253" type="application/x-shockwave-flash" src="//www.youtube.com/v/DGSSdWITFV4?version=3&amp;hl=en_US&amp;rel=0" allowFullScreen="true" allowscriptaccess="always" allowfullscreen="true" /></object></p>
+<script type="text/javascript" src="http://labourlist.org/wp-content/plugins/top-10/top-10-addcount.js.php?top_ten_id=51886&amp;activate_counter=11"></script><div class='yarpp-related'>
+<p>Related posts:</p><ol>
+<li><a href='http://labourlist.org/2013/05/this-years-dennis-skinner-comment-on-queens-speech-day/' rel='bookmark' title='This year&#8217;s Dennis Skinner comment on Queen&#8217;s Speech day'>This year&#8217;s Dennis Skinner comment on Queen&#8217;s Speech day</a></li>
+<li><a href='http://labourlist.org/2012/03/dennis-skinner-clegg-and-a-horse/' rel='bookmark' title='Dennis Skinner, Clegg and a horse'>Dennis Skinner, Clegg and a horse</a></li>
+<li><a href='http://labourlist.org/2013/10/pmqs-verdict-whilst-dave-and-ed-shadow-boxed-dennis-stole-the-show/' rel='bookmark' title='PMQs Verdict: Whilst Dave and Ed shadow-boxed, Dennis stole the show'>PMQs Verdict: Whilst Dave and Ed shadow-boxed, Dennis stole the show</a></li>
+<li><a href='http://labourlist.org/2011/11/skinner-vs-clegg-on-party-funding/' rel='bookmark' title='Skinner vs Clegg on party funding'>Skinner vs Clegg on party funding</a></li>
+<li><a href='http://labourlist.org/2012/04/camerons-crass-ageist-attack-on-dennis-skinner/' rel='bookmark' title='Cameron&#8217;s crass ageist attack on Dennis Skinner'>Cameron&#8217;s crass ageist attack on Dennis Skinner</a></li>
+</ol>
+<img src="http://yarpp.org/pixels/54d54564ab79a3c8aafb44e3926a5bec" alt="YARPP"/>
+</div>
+   			</div>
+ 			
+				 
+		</div> <!-- /.post -->
+
+  <div id="ad_below_post">
+   <!-- BEGIN MESSAGESPACE 300x250 CODE BLOCK -->
+<center>
+<script type="text/javascript">
+sas_pageid='55084/431395';	// Page : labourlist/ros
+sas_formatid=24083;	 // Format : rectangle 300x250
+sas_target='';	 // Targeting
+SmartAdServer(sas_pageid,sas_formatid,sas_target);
+</script>
+<noscript>
+<a href="http://www6.smartadserver.com/call/pubjumpi/55084/431395/24083/S/[timestamp]/?" target="_blank">
+<img src="http://www6.smartadserver.com/call/pubi/55084/431395/24083/S/[timestamp]/?" border="0" alt="" /></a>
+</noscript>
+</center>
+   <!-- END MESSAGESPACE 300x250 CODE BLOCK -->
+  </div>
+ 
+		<div id="comments">
+			
+<div id="disqus_thread">
+                    <div id="dsq-content">
+
+
+            <ul id="dsq-comments">
+                    <li class="comment even thread-even depth-1" id="dsq-comment-96036">
+        <div id="dsq-comment-header-96036" class="dsq-comment-header">
+            <cite id="dsq-cite-96036">
+                <span id="dsq-author-user-96036">toptophat</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-96036" class="dsq-comment-body">
+            <div id="dsq-comment-message-96036" class="dsq-comment-message"><p>Interesting that Germany is opening at least five new open cast LIGNITE ie &#8216;brown coal&#8217; mines while we are closing deep coal pits? How is that sensible?<br />
+One rule for our German overlords&#8230;?</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment odd alt depth-2" id="dsq-comment-96166">
+        <div id="dsq-comment-header-96166" class="dsq-comment-header">
+            <cite id="dsq-cite-96166">
+                <span id="dsq-author-user-96166">gunnerbear</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-96166" class="dsq-comment-body">
+            <div id="dsq-comment-message-96166" class="dsq-comment-message"><p>Nah&#8230;it&#8217;s much simpler than that&#8230;.almost basic physics&#8230;&#8230;&#8230;</p>
+<p>&#8230;..the German Greens demanded that the German N-Power programme be shut down right away.  Right this minute&#8230;.the professionals said, &#8220;Fair enough, but people want juice&#8230;..you know to keep Dads oven going and Mums laptop&#8230;.&#8221;  The Greens / Hippy F**kwitz, said &#8220;No&#8230;now&#8230;.now&#8230;.&#8221; and lo and behold&#8230;&#8230;</p>
+<p>&#8230;..the wind / hippy powered grid couldn&#8217;t cope without the security of proper, grownup &#8216;standby / on at the press of a button&#8217; power stations&#8230;..</p>
+<p>&#8230;.so the German government went, &#8220;Hmm&#8230;well the Hippies have forced us to do this&#8230;..shut the plants down&#8230;.&#8221; and then the rest of the sensible population went, &#8220;Hey, f**k that&#8230;.we need juice for everything&#8230;.never mind those posh hypocritical tools who decry everything the modern world can provide but immediately demand to use the very same technology should a little s**t fall into their valley of Greenness&#8230;&#8221;</p>
+<p>So the German government said to EOn et al., &#8220;Right make it so&#8230;.more juice&#8230;.&#8221;  and of course the firm obliged by digging what amounts to wet peat out of the ground &#8211; the (in)famous Brown Coal that all the residents of certain parts of Germany are familiar with and when the Greens in the EU went, &#8220;Err&#8230;.Err&#8230;&#8221; the German government gave them a very two fingered response.</p>
+<p>Net effect &#8211; the Germans kept the lights on, massive amounts of very low calorific value &#8216;coal&#8217; was dug out of the ground and the lights stayed on&#8230;even as the Greens went, &#8220;Err&#8230;.yeah&#8230;like wow&#8230;.like umm&#8230;..yeah&#8230;.we never thought about the consequences of what we wanted?&#8221; and so they all jumped on their PCs and other electronic toys to complain that that the World was .&#8221;..like really, mean and that they were like just sooooo annoyed by the grown-ups who had to keep the lights on&#8230;&#8230;..&#8221;</p>
+<p>&#8230;..forgetting of course that all those nice electronic toys use raw materials that are extracted and refined in inherently dirty processes.</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment even depth-3" id="dsq-comment-96221">
+        <div id="dsq-comment-header-96221" class="dsq-comment-header">
+            <cite id="dsq-cite-96221">
+                <span id="dsq-author-user-96221">toptophat</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-96221" class="dsq-comment-body">
+            <div id="dsq-comment-message-96221" class="dsq-comment-message"><p>Actually&#8230;that sounds completely plausible, especially the &#8216;unforeseen consequences&#8217; bit</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+    <li class="comment odd alt thread-odd thread-alt depth-1" id="dsq-comment-96037">
+        <div id="dsq-comment-header-96037" class="dsq-comment-header">
+            <cite id="dsq-cite-96037">
+                <span id="dsq-author-user-96037">toptophat</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-96037" class="dsq-comment-body">
+            <div id="dsq-comment-message-96037" class="dsq-comment-message"><p>Well, as labourlist seems to object to posting links, the stories are both on the BBC and reputable news sources everywhere&#8230;</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even thread-even depth-1" id="dsq-comment-96205">
+        <div id="dsq-comment-header-96205" class="dsq-comment-header">
+            <cite id="dsq-cite-96205">
+                <span id="dsq-author-user-96205">treborc1</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-96205" class="dsq-comment-body">
+            <div id="dsq-comment-message-96205" class="dsq-comment-message"><p>t Always more to a story if you look a little deeper Germany Wind turbines are paid for out of a type of private PFI with supposed profits of 20% on your money, but Germany is turning over at the moment and gas powered stations are filling the gap with old shale gas station being kept open for longer..</p>
+<p>While Merkel says reducing the cost of the subsidy for renewables is the<br />
+ first priority of her new government, she has yet to give more details.<br />
+ Expanding renewables has also made the energy mix dirtier. E.ON and RWE<br />
+ are shuttering natural gas power plants and relying more on cheaper but<br />
+ dirtier coal plants. Germany’s air pollution is set to worsen for a<br />
+second year, the first back-to-back increase since at least the 1980s.</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment odd alt depth-2" id="dsq-comment-96222">
+        <div id="dsq-comment-header-96222" class="dsq-comment-header">
+            <cite id="dsq-cite-96222">
+                <span id="dsq-author-user-96222">toptophat</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-96222" class="dsq-comment-body">
+            <div id="dsq-comment-message-96222" class="dsq-comment-message"><p>If they&#8217;re building 5+ new power stations they are in it long term, not just a temporary quick fix to make it through the current downturn &#8211; maybe they can get lignite re-classified as a renewable&#8230;</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment even depth-3" id="dsq-comment-96235">
+        <div id="dsq-comment-header-96235" class="dsq-comment-header">
+            <cite id="dsq-cite-96235">
+                <span id="dsq-author-user-96235">gunnerbear</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-96235" class="dsq-comment-body">
+            <div id="dsq-comment-message-96235" class="dsq-comment-message"><p>Tell you what&#8230;.if I were a German power station&#8230;.I&#8217;d be going down that route and making just such a demand&#8230;.</p>
+<p>&#8230;.I mean lignite is basically just wet moss&#8230;..and most people don&#8217;t know the difference between &#8216;nice&#8217; wet moss and filthy &#8216;Lignite&#8217; or even &#8216;worse&#8217; in terms of how the Greens think&#8230;.</p>
+<p>&#8230;.good ol&#8217; fashioned hard, black coal.  It would be better if the German coal was actually the hard black stuff as then they wouldn&#8217;t need to take so much out.  Still that&#8217;s the Greens for you&#8230;.shouting about stuff and not thinking it through.</p>
+<p>Most Greens are nice people, it&#8217;s just that they want all the modern day toys and stuff that makes up the modern world but can&#8217;t seem to grasp the idea that stuff like that is made in huge industrial processes.  </p>
+<p>I mean Greens think the Prius is green&#8230;..when it is anything but&#8230;.after all the even extracting the materials for the battery alone is a dirty, filthy, industrial process.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+            </ul>
+
+
+        </div>
+
+    </div>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+    var disqus_url = 'http://labourlist.org/2014/04/dennis-skinner-attacks-government-over-pit-closures/';
+    var disqus_identifier = '51886 http://labourlist.org/?p=51886';
+    var disqus_container_id = 'disqus_thread';
+    var disqus_domain = 'disqus.com';
+    var disqus_shortname = 'labourlist';
+    var disqus_title = "Dennis Skinner attacks government over pit closures";
+        var disqus_config = function () {
+        var config = this; // Access to the config object
+        config.language = '';
+
+        /*
+           All currently supported events:
+            * preData — fires just before we request for initial data
+            * preInit - fires after we get initial data but before we load any dependencies
+            * onInit  - fires when all dependencies are resolved but before dtpl template is rendered
+            * afterRender - fires when template is rendered but before we show it
+            * onReady - everything is done
+         */
+
+        config.callbacks.preData.push(function() {
+            // clear out the container (its filled for SEO/legacy purposes)
+            document.getElementById(disqus_container_id).innerHTML = '';
+        });
+                config.callbacks.onReady.push(function() {
+            // sync comments in the background so we don't block the page
+            var script = document.createElement('script');
+            script.async = true;
+            script.src = '?cf_action=sync_comments&post_id=51886';
+
+            var firstScript = document.getElementsByTagName( "script" )[0];
+            firstScript.parentNode.insertBefore(script, firstScript);
+        });
+                    };
+/* ]]> */
+</script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+    var DsqLocal = {
+        'trackbacks': [
+        ],
+        'trackback_url': "http:\/\/labourlist.org\/2014\/04\/dennis-skinner-attacks-government-over-pit-closures\/trackback\/"    };
+/* ]]> */
+</script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+(function() {
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript';
+    dsq.async = true;
+    dsq.src = '//' + disqus_shortname + '.' + 'disqus.com' + '/embed.js?pname=wordpress&pver=2.74';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+/* ]]> */
+</script>
+		</div> <!-- end #comments -->
+		
+	</div> <!-- /#main -->
+		
+		
+   	  
+
+
+<div id="departments">
+	<h4>Latest</h4>
+ 
+ 	<div class="items-out">
+		<ul class="items">
+		
+							
+		
+		
+			<li class="item">
+			   <span class="category"><a href="http://labourlist.org/category/featured/" title="View all posts in Featured" rel="category tag">Featured</a></span>
+  									<a href="http://labourlist.org/2014/04/axelrod-thats-what-i-call-a-reality-check/" rel="bookmark" title="Axelrod – that’s what I call a reality check"><img src="http://labourlist.org/wp-content/themes/tribune/scripts/timthumb.php?src=http://labourlist.org/wp-content/uploads/2014/04/images.jpg&amp;w=180&amp;h=115&amp;zc=1" alt="Axelrod – that’s what I call a reality check" /></a>	
+				<h3><a href="http://labourlist.org/2014/04/axelrod-thats-what-i-call-a-reality-check/" rel="bookmark" title="Permanent Link to Axelrod – that’s what I call a reality check">Axelrod – that’s what I call a reality check</a></h3>
+
+       <p class="byline">By Stefan Stern</p>
+   
+				<p>“It will be me.” That was Hillary Clinton, at the end of November 2007, expressing her confidence to CBS’s Katie Couric that the Democratic Party’s nomination for President was as good as hers. Hillary was the “inevitable” candidate for 2008. The race was going to be over very soon. Nobody stood a chance against her. And almost everyone agreed. The fact that history turned out differently tells you at least two different things. First, that the Obama campaign (for the [&hellip;]</p>
+				<a href="http://labourlist.org/2014/04/axelrod-thats-what-i-call-a-reality-check/" class="more" title="Axelrod – that’s what I call a reality check">Read more &rarr;</a>
+			</li>
+			 
+			
+		
+		
+			<li class="item">
+			   <span class="category"><a href="http://labourlist.org/category/featured/" title="View all posts in Featured" rel="category tag">Featured</a> <a href="http://labourlist.org/category/news/" title="View all posts in News" rel="category tag">News</a></span>
+  									<a href="http://labourlist.org/2014/04/is-the-labour-party-campaigning-hard-enough-for-the-european-elections/" rel="bookmark" title="Is the Labour Party campaigning hard enough for the European elections?"><img src="http://labourlist.org/wp-content/themes/tribune/scripts/timthumb.php?src=http://labourlist.org/wp-content/uploads/2011/10/door1.jpg&amp;w=180&amp;h=115&amp;zc=1" alt="Is the Labour Party campaigning hard enough for the European elections?" /></a>	
+				<h3><a href="http://labourlist.org/2014/04/is-the-labour-party-campaigning-hard-enough-for-the-european-elections/" rel="bookmark" title="Permanent Link to Is the Labour Party campaigning hard enough for the European elections?">Is the Labour Party campaigning hard enough for the European elections?</a></h3>
+
+   
+				<p>In a week that supposedly signalled an end of the Cost of Living Crisis as wages begin to rise faster than inflation, Ed Miliband and Ed Balls will feel vindicated to learn that as far as LabourList readers are concerned, at least, it&#8217;s not over yet. An overwhelming 94% of those who responded to our survey this week believe the Cost of Living Crisis continues. That will certainly give new strategist David Axelrod something to work with, if activists are convinced [&hellip;]</p>
+				<a href="http://labourlist.org/2014/04/is-the-labour-party-campaigning-hard-enough-for-the-european-elections/" class="more" title="Is the Labour Party campaigning hard enough for the European elections?">Read more &rarr;</a>
+			</li>
+			 
+			
+		
+		
+			<li class="item">
+			   <span class="category"><a href="http://labourlist.org/category/news/" title="View all posts in News" rel="category tag">News</a></span>
+  									<a href="http://labourlist.org/2014/04/anyone-for-an-easter-clegg/" rel="bookmark" title="Anyone for an Easter (Cl)Egg?"><img src="http://labourlist.org/wp-content/themes/tribune/scripts/timthumb.php?src=http://labourlist.org/wp-content/uploads/2014/04/Nick-Clegg-chocolate-easter-egg-3433623.jpg&amp;w=180&amp;h=115&amp;zc=1" alt="Anyone for an Easter (Cl)Egg?" /></a>	
+				<h3><a href="http://labourlist.org/2014/04/anyone-for-an-easter-clegg/" rel="bookmark" title="Permanent Link to Anyone for an Easter (Cl)Egg?">Anyone for an Easter (Cl)Egg?</a></h3>
+
+   
+				<p>The Mirror today have a story about a Labour attack on Nick Clegg &#8211; a chocolate &#8220;Easter Clegg&#8221;. It&#8217;s &#8216;completely hollow, melts under pressure and leaves bad taste in mouth&#8221;. The box also contains a &#8220;free mug&#8221;. Here&#8217;s a photo: Seemingly the Easter Clegg is &#8220;100% Authentically Conservative&#8221; and should be stored in David Cameron&#8217;s pocket. Meanwhile, both The Sun and The Telegraph claim this morning that Miliband would be happy to appoint Nick Clegg as Deputy PM in the event [&hellip;]</p>
+				<a href="http://labourlist.org/2014/04/anyone-for-an-easter-clegg/" class="more" title="Anyone for an Easter (Cl)Egg?">Read more &rarr;</a>
+			</li>
+			 
+			
+		
+		
+			<li class="item">
+			   <span class="category"><a href="http://labourlist.org/category/news/" title="View all posts in News" rel="category tag">News</a></span>
+  									<a href="http://labourlist.org/2014/04/ed-milibands-easter-message/" rel="bookmark" title="Ed Miliband&#8217;s Easter Message"><img src="http://labourlist.org/wp-content/themes/tribune/scripts/timthumb.php?src=http://labourlist.org/wp-content/uploads/2014/04/Ed-Miliband-Secretary-of-001.jpg&amp;w=180&amp;h=115&amp;zc=1" alt="Ed Miliband&#8217;s Easter Message" /></a>	
+				<h3><a href="http://labourlist.org/2014/04/ed-milibands-easter-message/" rel="bookmark" title="Permanent Link to Ed Miliband&#8217;s Easter Message">Ed Miliband&#8217;s Easter Message</a></h3>
+
+   
+				<p>Here&#8217;s Ed Miliband&#8217;s Easter Message &#8211; touching on his recent trip to the Holy Land, and the work Christians do in their communities across Britain: &#8220;As Christians across Great Britain and the rest of the world gather to celebrate the most important event in the Christian faith, I would like to wish you all a happy Easter. &#8220;It was a privilege for me to visit the Holy Land in the lead up to Easter this year. I will be thinking [&hellip;]</p>
+				<a href="http://labourlist.org/2014/04/ed-milibands-easter-message/" class="more" title="Ed Miliband&#8217;s Easter Message">Read more &rarr;</a>
+			</li>
+			 
+			
+		
+		
+			<li class="item">
+			   <span class="category"><a href="http://labourlist.org/category/comment/" title="View all posts in Comment" rel="category tag">Comment</a></span>
+  									<a href="http://labourlist.org/2014/04/ukips-attitude-to-accountability-should-worry-us-all/" rel="bookmark" title="UKIP&#8217;s attitude to accountability should worry us all"><img src="http://labourlist.org/wp-content/themes/tribune/scripts/timthumb.php?src=http://labourlist.org/wp-content/uploads/2011/10/farage1.jpg&amp;w=180&amp;h=115&amp;zc=1" alt="UKIP&#8217;s attitude to accountability should worry us all" /></a>	
+				<h3><a href="http://labourlist.org/2014/04/ukips-attitude-to-accountability-should-worry-us-all/" rel="bookmark" title="Permanent Link to UKIP&#8217;s attitude to accountability should worry us all">UKIP&#8217;s attitude to accountability should worry us all</a></h3>
+
+       <p class="byline">By Conor Pope</p>
+   
+				<p>UKIP&#8217;s reaction to the allegations over the use of the party&#8217;s EU funding has been telling. It tells us that they are not yet ready to take the step up from a being an assortment of oddballs and cranks to a serious political party. After The Times ran their front page on Tuesday, UKIP&#8217;s immediate reaction was to denounce the paper as a mouthpiece for the establishment, rather than bother to refute what they felt was incorrect about the article. [&hellip;]</p>
+				<a href="http://labourlist.org/2014/04/ukips-attitude-to-accountability-should-worry-us-all/" class="more" title="UKIP&#8217;s attitude to accountability should worry us all">Read more &rarr;</a>
+			</li>
+			 
+			 
+		  		</ul>
+	</div>
+	
+	<div class="nav">
+		<a href="#" class="prev">&larr; previous</a>
+		<a href="#" class="next">next &rarr;</a>
+	</div>
+</div>
+ 
+ 
+</div> <!-- /#content -->
+</div> <!-- /#inner-wrap -->
+</div> <!-- /#wrapper -->
+
+
+<div id="footer-wrap">
+	<div id="footer">
+  		<div id="left">
+			<div class="logo">
+				<a href="http://labourlist.org/">
+											<img src="http://labourlist.org/wp-content/themes/labourlist/images/labourlist_twin_l_logo.png" alt="LabourList" />
+									</a>
+			</div>
+			 
+						 
+		</div>
+			
+		<div id="footer_right">
+ 			 
+ 			<div class="menu-footer"><ul id="menu-footer" class="menu"><li id="menu-item-22499" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-22499"><a href="http://labourlist.org/">Home</a></li>
+<li id="menu-item-22500" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22500"><a href="http://labourlist.org/about/">About</a></li>
+<li id="menu-item-22501" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22501"><a href="http://labourlist.org/comments/">Comments policy</a></li>
+<li id="menu-item-22502" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22502"><a href="http://labourlist.org/contact/">Contact</a></li>
+<li id="menu-item-22503" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22503"><a href="http://labourlist.org/donate/">Donate</a></li>
+<li id="menu-item-22505" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22505"><a href="http://labourlist.org/legal/">Legal</a></li>
+</ul></div>			
+			<div id="footer_search">
+				<strong>search:</strong>
+				<form method="get" id="searchform" action="http://labourlist.org/">
+ 
+	<input type="text" onblur="if (this.value == '') {this.value = 'search...';}" onfocus="if (this.value == 'search...') {this.value = '';}" value="search..." name="s" id="s" /><input type="submit" id="searchsubmit" value="Go" />
+</form>
+			</div>
+				
+ 			<span class="copyright">&copy; All content is the copyright of LabourList but we give permission for its use, unless otherwise stated. The views expressed are those of the individual contributors and not necessarily those of LabourList.</span>
+ 			<span class="designed"></span>
+		</div><!-- /#right -->
+ 	</div> <!-- /#footer -->
+</div> <!-- /#footer_wrap -->
+ 
+ 
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-6924530-1']);
+  _gaq.push(['_trackPageview']);
+
+  _gaq.push(['b._setAccount', 'UA-33225098-1']);
+  _gaq.push(['b._setDomainName','labourlist.org']);
+  _gaq.push(['b._setAllowLinker', true]);
+  _gaq.push(['b._trackPageview']);
+
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> 
+
+ 
+    <script type="text/javascript">
+    // <![CDATA[
+        var disqus_shortname = 'labourlist';
+        (function () {
+            var nodes = document.getElementsByTagName('span');
+            for (var i = 0, url; i < nodes.length; i++) {
+                if (nodes[i].className.indexOf('dsq-postid') != -1) {
+                    nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('rel'));
+                    url = nodes[i].parentNode.href.split('#', 1);
+                    if (url.length == 1) url = url[0];
+                    else url = url[1]
+                    nodes[i].parentNode.href = url + '#disqus_thread';
+                }
+            }
+            var s = document.createElement('script'); s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + 'disqus.com/forums/' + disqus_shortname + '/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+    //]]>
+    </script>
+<script type="text/javascript">var $rotateoptions = new Array();
+$rotateoptions[2] = new Array();
+$rotateoptions[2]["style"] = "";
+$rotateoptions[2]["rotate"] = 0;
+$rotateoptions[2]["random_start"] = 0;
+$rotateoptions[2]["start_tab"] = 0;
+$rotateoptions[2]["interval"] = 10000;
+$rotateoptions[3] = new Array();
+$rotateoptions[3]["style"] = "tabs";
+$rotateoptions[3]["rotate"] = 0;
+$rotateoptions[3]["random_start"] = 0;
+$rotateoptions[3]["start_tab"] = 0;
+$rotateoptions[3]["interval"] = 10000;
+</script>
+<script type="text/javascript" src="http://labourlist.org/wp-content/plugins/tabbed-widgets/js/init-plugin.js"></script>
+<!-- Powered by WPtouch: 3.2.2 -->	<div style="display:none">
+	</div>
+<script type='text/javascript' src='http://labourlist.org/wp-includes/js/comment-reply.min.js?ver=3.9'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/labourlist.org\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://labourlist.org/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.8'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201417'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2014Apraa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://labourlist.org/wp-content/plugins/jetpack/modules/wpgroho.js?ver=3.9'></script>
+<script type='text/javascript' src='http://labourlist.org/wp-includes/js/jquery/ui/jquery.ui.widget.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://labourlist.org/wp-includes/js/jquery/ui/jquery.ui.accordion.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://labourlist.org/wp-content/plugins/tabbed-widgets/js/jquery-cookie.min.js?ver=3.9'></script>
+
+	<script src="http://stats.wordpress.com/e-201417.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	st_go({v:'ext',j:'1:2.9.3',blog:'55992812',post:'51886',tz:'1'});
+	var load_cmc = function(){linktracker_init(55992812,51886,2);};
+	if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
+	else load_cmc();
+	</script></body>
+</html>
+<!-- Dynamic page generated in 1.452 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2014-04-22 02:57:51 -->
+
+<!-- super cache -->
+

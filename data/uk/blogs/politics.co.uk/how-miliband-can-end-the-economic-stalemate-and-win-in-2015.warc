@@ -1,0 +1,648 @@
+WARC/1.0
+Content-Length: 37576
+Content-Type: application/http; msgtype=response
+Warc-Date: 2014-04-24T02:51:09Z
+Warc-Record-Id: urn:X-scrapeomat:1398307870300511563
+Warc-Target-Uri: http://politics.co.uk/comment-analysis/2014/03/28/how-miliband-can-end-the-economic-stalemate-and-win-in-2015
+Warc-Type: response
+X-Scrapeomat-Srcurl: http://politics.co.uk/comment-analysis/2014/03/28/how-miliband-can-end-the-economic-stalemate-and-win-in-2015
+
+HTTP/1.1 200 OK
+Cache-Control: public, max-age=30
+Connection: keep-alive
+Content-Type: text/html; charset=utf-8
+Date: Thu, 24 Apr 2014 02:51:09 GMT
+Expires: Thu, 24 Apr 2014 02:51:39 GMT
+Last-Modified: Thu, 24 Apr 2014 02:51:09 GMT
+Server: Microsoft-IIS/7.0
+Vary: Accept-Encoding
+X-Aspnet-Version: 4.0.30319
+X-Aspnetmvc-Version: 4.0
+X-Powered-By: ASP.NET
+
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class="no-js" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:g="http://base.google.com/ns/1.0"><!--<![endif]-->
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+        <title>How Miliband can end the economic stalemate – and win in 2015 </title>
+        <meta name="description" content="Labour might have found a way to wriggle out of the straitjacket of spending cuts" />
+        <meta name="title" content="How Miliband can end the economic stalemate – and win in 2015 " />
+        <meta name="keywords" content="austerity-britain,ed-miliband,labour-party" />
+        <meta property="fb:app_id" content="117633821654643" />
+        <link rel="canonical" href="http://www.politics.co.uk/comment-analysis/2014/03/28/how-miliband-can-end-the-economic-stalemate-and-win-in-2015"/>
+        <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+        
+
+        <link href="/Content/css/app.css" rel="stylesheet"/>
+
+
+                
+        <!--[if lt IE 9]>
+            <script src="/Content/javascripts/vendor/custom.modernizr.js"></script>
+<script src="/Content/javascripts/media-testing.js"></script>
+
+        <![endif]-->
+
+        <script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()])</script>
+
+
+    <meta property="og:title" content="How Miliband can end the economic stalemate – and win in 2015 " />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="http://www.politics.co.uk/comment-analysis/2014/03/28/how-miliband-can-end-the-economic-stalemate-and-win-in-2015" />
+    <meta property="og:image" content="http://p0.politics.co.uk/full-photos/ed-miliband-s-party-can-unlock-a-lot-of-cash.21397008.jpg" />
+    <meta property="og:site_name" content="politics.co.uk" />
+    <meta property="og:description" content="Labour might have found a way to wriggle out of the straitjacket of spending cuts" />
+    <meta property="og:created_time" content="3/28/2014 8:21:00 AM" />
+    <meta property="og:updated_time" content="3/28/2014 8:21:03 AM" />
+    
+    <meta property="og:tags" content="austerity-britain,ed-miliband,labour-party" />
+    <meta property="og:section" content="Comment &amp; Analysis" />
+    <meta property="og:language" content="en">
+        <meta name="author" content="Alex Stevenson" />
+        <meta property="article:author" content="http://www.politics.co.uk/author/alex-stevenson"/>
+    <meta name="image" content="http://p0.politics.co.uk/thumbXL/ed-miliband-s-party-can-unlock-a-lot-of-cash.21397008.jpg" />
+    <link rel="image_src" href="http://p0.politics.co.uk/full-photos/ed-miliband-s-party-can-unlock-a-lot-of-cash.21397008.jpg" />
+    <meta name="publish_date" content="3/28/2014 8:15:47 AM" />
+    <meta name="category" content="Comment &amp; Analysis" />
+    <meta name="original-source" content="http://www.politics.co.uk/comment-analysis/2014/03/28/how-miliband-can-end-the-economic-stalemate-and-win-in-2015" />
+    <script type="text/javascript">
+        var disqus_identifier = 21397008;
+        var disqus_developer = 1;
+    </script>
+    </head>
+        <body>
+            <div class="row">
+                <div id="top" class="large-12 columns">
+<div id="leaderboard">
+</div>                </div>
+            </div>
+     
+            <div class="row row-logo">
+                <div class="small-8 large-6 columns logo">
+                    <a href="/">
+                        <img id="Img2" src="/Content/images/politics-logo-flat.gif" alt="Politics.co.uk" /></a>
+                </div>
+                <div class="show-for-small small-4 columns follow-profile-btn"><a class="button" href="#">Follow</a></div>
+                <div class="hide-for-small large-6 columns social-profile-icons">
+            
+                    <ul class="inline-list">
+                        <li><a class="icon-youtube" title="You Tube" href="http://www.youtube.com/user/politicscouk/"></a></li>
+                        <li><a class="icon-twitter" title="Twitter" href="http://www.twitter.com/politics_co_uk" data-app="twitter://user?screen_name=politics_co_uk"></a></li>
+                        <li><a class="icon-facebook" title="Facebook" href="http://www.facebook.com/pages/Politicscouk/124189634323190" data-app="fb://profile/124189634323190"></a></li>
+                        <li><a class="icon-google-plus" title="Google Plus" href="https://plus.google.com/u/0/b/102716629977595967150/102716629977595967150/posts"></a></li>
+                        <li><a class="icon-linkedin" title="LinkedIn" href="http://www.linkedin.com/company/politics-co-uk"></a></li>
+                    </ul>
+            
+                    <form action="/search/" method="get" class="g-website-search">    
+                        <input class="top-search radius search-input" type='text' name='keyword' id="keyword2" onkeydown="if((event.which == 13) || ( event.keyCode == 13)){ document.getElementById('SearchButton2').click();return false;}"
+                               size="35" />
+                        <button type="submit" class="small button radius top-search-btn icon-search" name="action"></button>                  
+                    </form>
+                </div>
+            </div>
+    
+            <div class="row top-nav-wrapper">
+                <div class="large-12 columns">
+                    <nav class="top-nav">
+                        <section class="top-nav-section">
+                            <ul>
+                                <li ><a id="home" class="icon-home-mobile" href="/"><span>Home</span></a></li>
+                                <li ><a id="news" href="/news/">News</a></li>
+                            </ul>
+
+                            <ul class="middle-nav">
+                                <li class=active><a id="comment_analysis" href="/comment-analysis/">Comment
+                                                                                                & Analysis</a></li>
+                                <li ><a id="opinion_formers" href="/opinion-formers/">Opinion
+                                                                                              Formers</a></li>
+                                
+                                <li ><a id="reference" href="/reference/">Reference</a></li>
+                                
+                                <li ><a id="video" href="/video/">Video</a></li>
+                            </ul>
+
+                            <ul class="has-form search-box">
+                                <li>
+                                    <form id="searchForm" action="/search/" method="get" class="g-website-search">    
+                                        <input class="search radius search-input" type='text' name='keyword' id="keyword" onkeydown="if((event.which == 13) || ( event.keyCode == 13)){ document.getElementById('SearchButton2').click();return false;}"
+                                               size="35" />
+                                        <button type="submit" class="small button radius search-btn icon-search" name="action"></button>
+                                  
+                                    </form>
+                                </li>
+                            </ul>
+                    
+                        </section>
+                        <a class="pull-menu" href="#"></a>
+                    </nav>
+        
+                </div>
+
+            </div>
+
+            <div class="row hide-for-medium-small-below">
+                <div class="large-12 columns sub-nav">
+
+
+<ul>
+        <li><a href="/comment-analysis/comment">Comment</a> </li>
+        <li><a href="/comment-analysis/analysis">Analysis</a> </li>
+        <li><a href="/comment-analysis/sketches">Sketches</a> </li>
+        <li><a href="/comment-analysis/features">Features</a> </li>
+        <li><a href="/comment-analysis/interviews">Interviews</a> </li>
+        <li><a href="/comment-analysis/reviews">Reviews</a> </li>
+</ul>                </div>
+            </div>
+
+            <div class="row">
+        
+                <div class="small-12 large-12 columns">
+                    
+<ul id="pseudo_breadcrumbs" class="breadcrumbs">
+                <li><a href="/">Home</a></li>
+                <li><a href="/comment-analysis/">Comment &amp; Analysis</a></li>
+                <li><a href="/comment-analysis/analysis">Analysis</a></li>
+                <li>How Miliband can end the economic stalemate – and win in 2015  </li>
+</ul>
+
+                    <div class="row">
+            
+                        
+    <div id="main_column" class="large-8 columns full_item">
+        <article>
+            <header>
+                <h1>How Miliband can end the economic stalemate – and win in 2015 </h1>
+            </header>
+            
+            
+<div class="author-time">
+        <span class="author">
+            By <a rel="author" href="/author/alex-stevenson">Alex Stevenson</a>
+                    <a href="http://twitter.com/alex__stevenson" class="twitter-ico-link">
+                        <span class="icon-twitter"></span>
+                    </a>
+        </span>
+            
+    <time datetime="2014-03-28 08:15:47" class="date">
+        Friday, 28 March 2014
+        8:15 AM
+    </time>
+         
+        <span class="comments">
+            <a href="#comments">
+                <span class="icon-bubble"></span>
+                <fb:comments-count href="http://www.politics.co.uk/comment-analysis/2014/03/28/how-miliband-can-end-the-economic-stalemate-and-win-in-2015"></fb:comments-count>
+            </a>
+        </span>
+            
+</div>
+            
+            <figure class="article-image defer-image image-ratio:183x80 is-loading">
+                <noscript>
+                    <img src="http://p0.politics.co.uk/rwd-full-photos/ed-miliband-s-party-can-unlock-a-lot-of-cash.21397008.jpg" alt="Ed Miliband&#39;s party can unlock a lot of cash - if it has the courage to be bold" title="Ed Miliband&#39;s party can unlock a lot of cash - if it has the courage to be bold" />
+                </noscript>
+                
+                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="http://p0.politics.co.uk/rwd-full-photos/ed-miliband-s-party-can-unlock-a-lot-of-cash.21397008.jpg" alt="Ed Miliband&#39;s party can unlock a lot of cash - if it has the courage to be bold" title="Ed Miliband&#39;s party can unlock a lot of cash - if it has the courage to be bold" />
+                <figcaption class="caption"><em>Ed Miliband&#39;s party can unlock a lot of cash - if it has the courage to be bold</em></figcaption>
+            </figure>
+            
+            
+<div class="SocialMediaH">
+    <div class="site-buttons">
+        <a href="http://twitter.com/share" class="twitter-share-button" data-via="politics_co_uk" data-url="http://www.politics.co.uk/comment-analysis/2014/03/28/how-miliband-can-end-the-economic-stalemate-and-win-in-2015">
+            Tweet</a>
+        <g:plusone size="medium" href="http://www.politics.co.uk/comment-analysis/2014/03/28/how-miliband-can-end-the-economic-stalemate-and-win-in-2015"></g:plusone>
+        <fb:like send="false" show_faces="false" layout="button_count"  width="60" font="verdana" href="http://www.politics.co.uk/comment-analysis/2014/03/28/how-miliband-can-end-the-economic-stalemate-and-win-in-2015" ref="facebook_referrals"></fb:like>
+    </div>
+    <div class="icon-social-buttons">
+        <a class="mobile-comments-btn" href="#comments" title="Comments"><span class="icon-bubble"></span></a>
+        <a href="//twitter.com/intent/tweet?text=http://www.politics.co.uk/comment-analysis/2014/03/28/how-miliband-can-end-the-economic-stalemate-and-win-in-2015" title="Tweet" target="_blank" rel="nofollow" class="icon-twitter"></a>
+        <a href="//www.facebook.com/sharer/sharer.php?u=http://www.politics.co.uk/comment-analysis/2014/03/28/how-miliband-can-end-the-economic-stalemate-and-win-in-2015" title="Facebook Share" target="_blank" rel="nofollow" class="icon-facebook"></a>
+        <a href="//plus.google.com/share?url=http://www.politics.co.uk/comment-analysis/2014/03/28/how-miliband-can-end-the-economic-stalemate-and-win-in-2015" title="Google Plus Share" target="_blank" rel="nofollow" class="icon-google-plus"></a>
+    </div>
+</div>
+
+
+            <div class="articleContent">
+                
+<p>
+	Labour might have found a way to wriggle out of the straitjacket of spending cuts - but it&#39;s going to have to overcome its natural urge to cling to power to achieve it.</p>
+<p>
+	The story of the next general election campaign, it&#39;s understood in Westminster, has been locked in stone for months. Ed Miliband will talk about living standards. And David Cameron will reply by rubbishing Labour&#39;s economic credibility.</p>
+<p>
+	So in order to win in 2015, Labour must break the great economic stalemate of this parliament. The problem is it doesn&#39;t look like the big economic picture is going to change any time soon; Miliband and co have known for a long time the next parliament isn&#39;t going to be fun for whichever government gets in power. One shadow minister privately predicts 2016 will be the year when councils finally break under the strain of the remorseless spending cuts being imposed from Whitehall.</p>
+<p>
+	Now a picture is emerging of what Labour might actually do in government to escape this bind. Miliband&#39;s &#39;blank sheet of paper&#39;, so lovingly mocked by the Tories, has finally been filled in. Getting this far has taken three-and-a-half years of headscratching and an almost impenetrable policy review. At last we&#39;re starting to get an idea about what Labour might do to beat the Tories on the economy.</p>                        <div class="left-mid-box">
+                            <div class="listing-box with-bottom-divider">
+                                
+<h3><a href="/opinion-former/press-releases-articles/">Opinion Former News</a></h3>        <ul>
+                <li>
+                    <h3>    <a href="/opinion-formers/unite-the-union-t-g-section/article/mccluskey-ed-miliband-can-make-labour-the-political-party-pe">
+        McCluskey: Ed Miliband can make Labour the political party people need 
+    </a>
+</h3>
+                </li>
+                <li>
+                    <h3>    <a href="/opinion-formers/unite-the-union-t-g-section/article/unite-ed-miliband-delivers-on-your-side-speech">
+        Unite: Ed Miliband delivers &#39;on your side speech&#39;
+    </a>
+</h3>
+                </li>
+                <li>
+                    <h3>    <a href="/opinion-formers/association-of-british-insurers-abi/article/abi-labour-pension-reform-policy-has-back-of-an-envelope-fee">
+        ABI: Labour pension reform policy has &quot;back of an envelope feel about it&quot;
+    </a>
+</h3>
+                </li>
+        </ul>
+
+
+
+                            </div>
+                        
+                            <div id="embededVideoSlider" class="listing-box">
+    <h3 class="related_video"><a href="/video/opinion-former-videos/">Opinion Former Video</a></h3>
+        
+    <ul class="bjqs">
+            <li>
+                <h3 class="of vid-headline">
+                    <a href="/opinion-formers/bakers-food-and-allied-workers-union/article/bfawu-video-why-join-our-trade-union">
+                        BFAWU video: Why join our trade union?
+                    </a></h3>
+                
+                <a href="/opinion-formers/bakers-food-and-allied-workers-union/article/bfawu-video-why-join-our-trade-union">
+                    <img src="http://p3.politics.co.uk/video-rotator-listing/bfawu-logo.21392615.jpg" 
+                        alt="BFAWU logo"  />
+                </a>
+            </li>
+    </ul>
+</div>
+
+                            
+                            <div id="midArticleAd"></div>
+                        </div>
+                        <br class="midArticleClear"/>
+
+<p>
+	Put bluntly, the answer is to make our public services more human. This involves, in the cringeworthy technical jargon of the public sector, looking after the &quot;whole person&quot;: accepting that you have to view their skills and their health and their education and their social care together, not separately. As the only people who can really do this work for local authorities, a big devolution of power out from Whitehall is required to achieve it.</p>
+<p>
+	This is Labour&#39;s big challenge: being prepared to relinquish control in order to win it. It&#39;s a drive towards localism, but it&#39;s bigger than that. A recent speech from Jon Cruddas deliberately mentioned the word &#39;power&#39; 34 times. This is as much about Miliband&#39;s drive to take on the banks and other big power sources as it is about the economy.</p>
+<p>
+	Still, it&#39;s hoped, stripping more power from central government will enable improvements in public services which far outstrip the downsides of cutting departmental spending. As Rick Muir, whose research at the IPPR think-tank has closely influenced Labour&#39;s policy development, puts it: &quot;Instead of these budgets being salami-sliced at the centre, you pool the budget down to the local level and then they can make more rational sense of it.&quot;</p>
+<p>
+	It sounds so simple, doesn&#39;t it? You&#39;d think these basic ideas would have become reality long ago. But successive governments have been unwilling to sacrifice power. Instead of services being decimated locally, by combining budgets, making them five years long and handing them to local authorities you suddenly find you can do a lot more than you&#39;d thought.</p>
+<p>
+	It&#39;s been a long time coming. Critics of New Labour say part of the reason Gordon Brown&#39;s government felt so rudderless was because it had an ill-defined public service reform agenda; supporters say the party was trying out these new methods but didn&#39;t have time to get beyond the piloting stage. &quot;This is not a Damascene conversion &ndash; this is the direction of travel for all parties, and we really want to put rocket boosters under it,&quot; one Labour party insider says. Either way, some deep thinking in opposition has led to a firm conviction that designing services around people in a more holistic way is the way forward.</p>
+<p>
+	The idea that the state could have a decent relationship with the individual doesn&#39;t sound like it should be revolutionary. But it is. New parents want to spend time with other new parents; the state should help them do so. Elderly people in their home want to see the same care worker each time and develop a relationship with them; they don&#39;t at the moment.&nbsp; People with chronic illnesses want to talk to others suffering from the same ailment; why not help them get in touch, raising their morale and making them feel less isolated?</p>
+<p>
+	&quot;Contrary to a 1980s view of self-interested individualism, people by instinct want to help each other,&quot; Miliband declared earlier this year.</p>
+<p>
+	&quot;That means if we care about giving power away, there will be someone to give it to.&quot;</p>
+<p>
+	Now the 2015 election is just over a year away, we know the political context in which it can be deployed: the &#39;good society&#39; breaks the economic deadlock by opening up a way to spend money better, and fits in with Miliband&#39;s broader &#39;One Nation&#39; dialogue about helping the little people deal with the faceless monolithic institutions of the private &ndash; and now, the public &ndash; sectors.</p>
+<p>
+	Ed Miliband joins a long line of politicians who have talked the talk on localism, but ultimately refused to let go when they entered power. Labour prime ministers seem to suffer from an almost uncontrollable urge to use the levers of the state to fight social injustice. The question that overhangs this whole debate now is: would Miliband really be able to let go?</p>
+                
+            </div>
+
+        </article>
+        
+        <ul class="tagList">
+            <li><a href='/tag/austerity-britain'>austerity britain</a></li><li><a href='/tag/ed-miliband'>ed miliband</a></li><li><a href='/tag/labour-party'>labour party</a></li>
+        </ul>
+
+        <div id="belowArticleAd">
+        </div>
+                
+        <div class="listing-box with-bottom-divider">
+            <h3>More on this story</h3>
+            <ul>
+    <li>
+    <h3>
+        <a href="/comment-analysis/2013/09/24/sketch-miliband-s-new-erk-face">Sketch: Miliband&#39;s new &#39;erk&#39; face </a> </h3>
+    </li>
+    <li>
+    <h3>
+        <a href="/comment-analysis/2013/09/10/ed-miliband-s-tuc-speech-in-full">Ed Miliband&#39;s TUC speech in full</a> </h3>
+    </li>
+    <li>
+    <h3>
+        <a href="/comment-analysis/2013/07/09/comment-miliband-s-great-gamble-will-fail-either-way">Comment: Miliband&#39;s great gamble will fail either way </a> </h3>
+    </li>
+</ul>
+            <ul>
+    <li>
+    <h3>
+        <a href="/news/2014/03/24/miliband-in-crisis-again-as-left-reveals-frustration-with-la">Miliband in crisis again as left reveals frustration with Labour leader </a> </h3>
+    </li>
+    <li>
+    <h3>
+        <a href="/news/2014/02/03/it-s-not-what-you-know-ed-miliband-misses-out-on-most-connec">It&#39;s not what you know… Ed Miliband misses out on &#39;most connected&#39; list </a> </h3>
+    </li>
+    <li>
+    <h3>
+        <a href="/news/2013/09/09/miliband-unmoving-as-union-funding-clash-nears">Miliband unmoving as union funding clash nears </a> </h3>
+    </li>
+</ul>
+        </div>
+
+        
+        <div>
+            <h4 id="comments" class="comments"><span class="icon-bubble"></span> Comments</h4>
+            <a href="#" class="small-fb-load-btn button expand">Load in comments</a>
+<fb:comments class="fb-comments" href="http://www.politics.co.uk/comment-analysis/2014/03/28/how-miliband-can-end-the-economic-stalemate-and-win-in-2015" num_posts="10"></fb:comments>
+
+        </div>
+    </div>
+
+
+
+    <div id="second_column" class="large-4 columns">
+    <div id="mpu">
+</div>
+
+    
+    <hr class="h-rule"/>
+    <div class="listing-box">
+        <ul>
+            <li>
+                <h3><a href="http://blog.politics.co.uk/2013/09/a-more-user-friendly-politicscouk.html">New Politics.co.uk design explained</a></h3>   
+            </li>
+        </ul>
+    </div>
+
+    <div class="basicNewsletterForm opinionFormersList colspan_2 omega">
+    <h3 class="newsHeading vo_heading">Politics Newsletter</h3>
+    <p id="feedbackMsg"></p>
+
+    <form action="/Newsletters/AddSubscriber" method="post" id="newsletterSignup">
+        <input type="text" name="name" id="news-name" spellcheck="false" placeholder="Name" />
+        <input type="text" name="emailAddress" id="news-emailAddress" placeholder="Email" spellcheck="false" />
+        
+        <input type="hidden" name="Subscriptions" value="Daily Newsletter" />
+        <input type="hidden" name="Subscriptions" value="Weekly Newsletter" />
+
+        <input type="submit" name="SignUpNewsletter" value="Subscribe" class="small button">
+    </form>
+</div>
+
+    
+    <div class="listing-box headline-image-listing">
+        <h3><a href="/news/">Latest News</a></h3>
+        <ul>
+    <li>
+    <h4>
+        <a href="/news/2014/04/23/in-prison-books-become-the-air-pussy-riot-joins-campaign-aga">&#39;In prison books become the air&#39;: Pussy Riot joins campaign against prisoner book ban </a> </h4>
+        
+            <a class="defer-image image-ratio:313x89 is-loading" href="/news/2014/04/23/in-prison-books-become-the-air-pussy-riot-joins-campaign-aga">
+                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" 
+                     data-src="http://p2.politics.co.uk/right-col-headline-list/pussy-riot-on-trial.21397110.jpg" 
+                     alt="Pussy Riot on trial" />
+            </a>
+    </li>
+    <li>
+    <h4>
+        <a href="/news/2014/04/23/the-battle-of-st-george-s-day">The battle for St George&#39;s Day </a> </h4>
+        
+            <a class="defer-image image-ratio:313x89 is-loading" href="/news/2014/04/23/the-battle-of-st-george-s-day">
+                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" 
+                     data-src="http://p1.politics.co.uk/right-col-headline-list/the-battle-for-st-george-s-day.21397109.jpg" 
+                     alt="The battle for St George&#39;s Day " />
+            </a>
+    </li>
+    <li>
+    <h4>
+        <a href="/news/2014/04/22/standing-up-to-the-bear-ukraine-crisis-weans-europe-off-russ">Standing up to the bear: Ukraine crisis weans Europe off Russian gas </a> </h4>
+        
+            <a class="defer-image image-ratio:313x89 is-loading" href="/news/2014/04/22/standing-up-to-the-bear-ukraine-crisis-weans-europe-off-russ">
+                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" 
+                     data-src="http://p0.politics.co.uk/right-col-headline-list/putin-focused-on-using-energy-advantage-in-ph.21397108.jpg" 
+                     alt="Putin: Focused on using energy advantage in PHD " />
+            </a>
+    </li>
+    <li>
+    <h4>
+        <a href="/news/2014/04/22/racist-ukip-posters-church-and-political-leaders-hit-back">&#39;Racist&#39; Ukip posters: The backlash</a> </h4>
+        
+            <a class="defer-image image-ratio:313x89 is-loading" href="/news/2014/04/22/racist-ukip-posters-church-and-political-leaders-hit-back">
+                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" 
+                     data-src="http://p2.politics.co.uk/right-col-headline-list/farage-at-a-basingstoke-meeting-recently-the.21397106.jpg" 
+                     alt="Farage at a Basingstoke meeting recently. The party&#39;s posters have been branded divisive and racist. " />
+            </a>
+    </li>
+    <li>
+    <h4>
+        <a href="/news/2014/04/17/food-banks-are-profiteering-government-claims">Food banks are &#39;profiteering&#39;, government claims </a> </h4>
+        
+            <a class="defer-image image-ratio:313x89 is-loading" href="/news/2014/04/17/food-banks-are-profiteering-government-claims">
+                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" 
+                     data-src="http://p2.politics.co.uk/right-col-headline-list/food-banks-guilty-of-emotionally-manipulative.21397102.jpg" 
+                     alt="Food banks guilty of &quot;emotionally manipulative publicity-seeking&quot;." />
+            </a>
+    </li>
+</ul>
+    </div>
+
+    <div id="wideSkyScraper">
+</div>
+    
+    <div id="jobslist" class="listing-box">
+<h3><a href="/jobs/">Jobs</a></h3>
+        <ul class="img-right">
+                <li>
+                        <a class="defer-image image-fixed:140x100 is-loading" href="/jobs/ahrc-scholarships">
+                            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                                 data-src="http://p2.politics.co.uk/jobs-list/21389698" 
+                                 alt="UEA logo"
+                                 title="UEA logo" /> 
+                        </a>
+
+                    <h4><a href="/jobs/ahrc-scholarships">AHRC Scholarships - UEA </a></h4>
+                    
+                </li>
+                <li>
+                        <a class="defer-image image-fixed:140x100 is-loading" href="/jobs/master-s-scholarships-school-of-political-social-and-interna">
+                            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                                 data-src="http://p0.politics.co.uk/jobs-list/21389688" 
+                                 alt="UEA logo"
+                                 title="UEA logo" /> 
+                        </a>
+
+                    <h4><a href="/jobs/master-s-scholarships-school-of-political-social-and-interna">Master’s Scholarships: School of Political, Social and International Studies </a></h4>
+                    
+                </li>
+        </ul>
+    <p><a href="/information/advertise-your-job-vacancies">Advertise your job vacancies here</a></p>
+</div>
+
+</div>
+
+                    </div>
+        
+                </div>
+
+        
+            </div>
+    
+            <div class="row">
+                <div class="footer">
+                    <div class="small-6 large-3 columns">
+                        <h5>News</h5>
+                        
+<ul>
+        <li><a href="/news/westminster">Westminster</a> </li>
+        <li><a href="/news/home-affairs">Home Affairs</a> </li>
+        <li><a href="/news/foreign-affairs">Foreign Affairs</a> </li>
+        <li><a href="/news/economy">Economy</a> </li>
+        <li><a href="/news/health">Health</a> </li>
+        <li><a href="/news/education">Education</a> </li>
+        <li><a href="/news/environment">Environment</a> </li>
+        <li><a href="/news/local">Local</a> </li>
+</ul>
+                    </div>
+
+                    <div class="hide-for-small large-3 columns">
+                        <h5>Comment &amp; Analysis</h5>
+                        
+<ul>
+        <li><a href="/comment-analysis/comment">Comment</a> </li>
+        <li><a href="/comment-analysis/analysis">Analysis</a> </li>
+        <li><a href="/comment-analysis/sketches">Sketches</a> </li>
+        <li><a href="/comment-analysis/features">Features</a> </li>
+        <li><a href="/comment-analysis/interviews">Interviews</a> </li>
+        <li><a href="/comment-analysis/reviews">Reviews</a> </li>
+</ul>
+                    </div>
+
+                    <div class="hide-for-small large-3 columns">
+                        <h5>Opinion Formers</h5>
+                        <ul>
+                            <li><a href="/video/opinion-former-videos/">Videos</a></li>
+                            <li><a href="/opinion-former/press-releases-articles/" class="selected">Press Releases &amp; Articles</a></li>
+                            <li><a href="/opinion-former/events/">Events</a></li>
+                            <li><a href="/opinion-former/of-comments/">Comments</a></li>
+                            <li><a href="/opinion-former/opinion-formers-az/">A-Z Directory</a></li>
+                            <li><a href="/information/become-an-opinion-former">Join Opinion Formers</a></li>
+                        </ul>
+                    </div>
+
+                    <div class="small-6 large-3 columns">
+                        <h5>About</h5>
+                        <ul>
+                                <li><a href="/information/about-voiceover">About VoiceOver</a> </li>
+    <li><a href="/information/advertise-on-politics-co-uk">Advertise on Politics.co.uk</a> </li>
+    <li><a href="/information/about-politics-co-uk">About Politics.co.uk</a> </li>
+    <li><a href="/information/advertise-your-job-vacancies">Advertise your job vacancies</a> </li>
+    <li><a href="/information/editorial-contacts">Editorial Contacts</a> </li>
+    <li><a href="/information/become-an-opinion-former">About Opinion Formers</a> </li>
+    <li><a href="/information/privacy">Privacy</a> </li>
+    <li><a href="/information/cookies">Cookies</a> </li>
+    <li><a href="/information/terms-of-use">Terms of use</a> </li>
+
+                            <li><a href="http://blog.politics.co.uk/">Politics.co.uk blog</a></li>
+                        </ul>
+                    </div>
+            
+                    <p class="copyright">
+                        <img id="footer_logo" src="/Content/images/politics-logo-flat-foot.gif" alt="Politics.co.uk" />
+                        &copy; 2004-2014
+                    </p>
+                </div>
+            </div>
+            <span id="EnergyTakeOver"></span>
+            <span id="MobileOverlay"></span>
+
+            
+
+
+<script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-48230403-1']);
+    _gaq.push(['_setDomainName', 'politics.co.uk']);
+    if (document.location.href.search("fb_ref=") != -1) {
+        // Track traffic from Facebook Like & Send as Campaign traffic
+        _gaq.push(['_setCampMediumKey', 'fb_ref'], ['_setCampSourceKey', 'fb_ref'], ['_setCampNameKey', 'fb_ref'], ['_setCampContentKey', 'fb_source']);
+    } else if (document.location.href.search("fb_comment_id=") != -1) {
+        // Track traffic from Facebook Comments as Campaign traffic
+        _gaq.push(['_setCampMediumKey', 'fb_comment_id'], ['_setCampSourceKey', 'fb_comment_id'], ['_setCampNameKey', 'fb_comment_id'], ['_setCampContentKey', 'fb_comment_id']);
+    }
+    _gaq.push(['_setAllowLinker', true]);
+    _gaq.push(['_trackPageview']);
+
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+</script>
+
+
+<script type="text/javascript" language="javascript">
+    var sc_project = 1704631;
+    var sc_invisible = 1;
+    var sc_partition = 16;
+    var sc_security = "69114f49"; 
+</script>
+<noscript>
+    <a href="http://www.statcounter.com/" target="_blank">
+        <img src="http://c17.statcounter.com/counter.php?sc_project=1704631&amp;java=0&amp;security=69114f49&amp;invisible=1"
+            alt="website page counter" border="0"></a>
+</noscript>
+ 
+            <link href="/Content/css/pagination.css" rel="stylesheet"/>
+<link href="/Content/css/jquery.ennui.contentslider.css" rel="stylesheet"/>
+<link href="/Scripts/dialog/css/basic.css" rel="stylesheet"/>
+<link href="/Scripts/basic-slider/bjqs.css" rel="stylesheet"/>
+<link href="/Content/css/app-secondary-includes.css" rel="stylesheet"/>
+
+            <script src="/Content/javascripts/vendor/custom.modernizr.js"></script>
+<script src="/Content/javascripts/media-testing.js"></script>
+<script src="/Scripts/jquery-1.8.3.min.js"></script>
+<script src="/Scripts/basic-slider/bjqs-1.3.min.js"></script>
+<script src="/Content/javascripts/vendor/jquery.unveil.js"></script>
+<script src="/Content/javascripts/foundation/foundation.js"></script>
+<script src="/Scripts/jquery.easing.1.3.js"></script>
+<script src="/Scripts/jquery.color.js"></script>
+<script src="/Scripts/jquery.ennui.contentslider.js"></script>
+<script src="/Scripts/jquery.pagination.js"></script>
+<script src="/Scripts/dialog/basic.js"></script>
+<script src="/Scripts/ga_social_tracking.js"></script>
+<script src="/Scripts/jquery.CookieManager.js"></script>
+<script src="/Scripts/politics.js"></script>
+<script src="/Content/javascripts/rwd-politics.js"></script>
+<script src="/Content/javascripts/load-social-media.js"></script>
+<script src="/Content/javascripts/third-party-widgets.js"></script>
+<script src="/Scripts/jquery.homepagetakeover.js"></script>
+<script src="/Content/javascripts/advert-inject.js"></script>
+
+            <script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script>
+
+            
+                
+                
+            
+            
+            
+            <script type="text/javascript">if (!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-6.newrelic.com","6b30b15004",1080278,"NQMGZUJRXBBYWxJfVgxJIF5EflcXelcIQksNCghUQh9zEU1RBVpcEUklQ0RZUQ9c",0,171,new Date().getTime()])</script>
+    
+            <script type="text/javascript">
+                setTimeout(function () {
+                    var a = document.createElement("script");
+                    var b = document.getElementsByTagName("script")[0];
+                    a.src = document.location.protocol + "//dnn506yrbagrg.cloudfront.net/pages/scripts/0017/4263.js?" + Math.floor(new Date().getTime() / 3600000);
+                    a.async = true; a.type = "text/javascript"; b.parentNode.insertBefore(a, b)
+                }, 1);
+            </script>
+
+        </body>
+</html>
+
+

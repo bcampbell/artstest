@@ -1,0 +1,677 @@
+WARC/1.0
+Content-Length: 37110
+Content-Type: application/http; msgtype=response
+Warc-Date: 2014-04-24T02:49:14Z
+Warc-Record-Id: urn:X-scrapeomat:1398307755342694853
+Warc-Target-Uri: http://politics.co.uk/news/2014/04/09/maria-miller-resigns-i-ve-become-a-distraction
+Warc-Type: response
+X-Scrapeomat-Srcurl: http://politics.co.uk/news/2014/04/09/maria-miller-resigns-i-ve-become-a-distraction
+
+HTTP/1.1 200 OK
+Cache-Control: public, max-age=30
+Connection: keep-alive
+Content-Type: text/html; charset=utf-8
+Date: Thu, 24 Apr 2014 02:49:15 GMT
+Expires: Thu, 24 Apr 2014 02:49:45 GMT
+Last-Modified: Thu, 24 Apr 2014 02:49:15 GMT
+Server: Microsoft-IIS/7.0
+Vary: Accept-Encoding
+X-Aspnet-Version: 4.0.30319
+X-Aspnetmvc-Version: 4.0
+X-Powered-By: ASP.NET
+
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class="no-js" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:g="http://base.google.com/ns/1.0"><!--<![endif]-->
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+        <title>Maria Miller resigns: &#39;I&#39;ve become a distraction&#39; </title>
+        <meta name="description" content="Maria Miller resigns from the Cabinet after seven days of hostile headlines over her expenses" />
+        <meta name="title" content="Maria Miller resigns: &#39;I&#39;ve become a distraction&#39; " />
+        <meta name="keywords" content="expenses-scandal,maria-miller,scandal" />
+        <meta property="fb:app_id" content="117633821654643" />
+        <link rel="canonical" href="http://www.politics.co.uk/news/2014/04/09/maria-miller-resigns-i-ve-become-a-distraction"/>
+        <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+        
+
+        <link href="/Content/css/app.css" rel="stylesheet"/>
+
+
+                
+        <!--[if lt IE 9]>
+            <script src="/Content/javascripts/vendor/custom.modernizr.js"></script>
+<script src="/Content/javascripts/media-testing.js"></script>
+
+        <![endif]-->
+
+        <script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()])</script>
+
+
+    <meta property="og:title" content="Maria Miller resigns: &#39;I&#39;ve become a distraction&#39; " />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="http://www.politics.co.uk/news/2014/04/09/maria-miller-resigns-i-ve-become-a-distraction" />
+    <meta property="og:image" content="http://p2.politics.co.uk/full-photos/maria-miller-arriving-at-no-10-on-tuesday-for.21397062.jpg" />
+    <meta property="og:site_name" content="politics.co.uk" />
+    <meta property="og:description" content="Maria Miller resigns from the Cabinet after seven days of hostile headlines over her expenses" />
+    <meta property="og:created_time" content="4/9/2014 6:35:16 AM" />
+    <meta property="og:updated_time" content="4/9/2014 10:42:15 AM" />
+    
+    <meta property="og:tags" content="expenses-scandal,maria-miller,scandal" />
+    <meta property="og:section" content="News" />
+    <meta property="og:language" content="en">
+        <meta name="author" content="Alex Stevenson" />
+        <meta property="article:author" content="http://www.politics.co.uk/author/alex-stevenson"/>
+    <meta name="image" content="http://p2.politics.co.uk/thumbXL/maria-miller-arriving-at-no-10-on-tuesday-for.21397062.jpg" />
+    <link rel="image_src" href="http://p2.politics.co.uk/full-photos/maria-miller-arriving-at-no-10-on-tuesday-for.21397062.jpg" />
+    <meta name="publish_date" content="4/9/2014 6:30:10 AM" />
+    <meta name="category" content="News" />
+    <meta name="original-source" content="http://www.politics.co.uk/news/2014/04/09/maria-miller-resigns-i-ve-become-a-distraction" />
+    <script type="text/javascript">
+        var disqus_identifier = 21397062;
+        var disqus_developer = 1;
+    </script>
+    </head>
+        <body>
+            <div class="row">
+                <div id="top" class="large-12 columns">
+<div id="leaderboard">
+</div>                </div>
+            </div>
+     
+            <div class="row row-logo">
+                <div class="small-8 large-6 columns logo">
+                    <a href="/">
+                        <img id="Img2" src="/Content/images/politics-logo-flat.gif" alt="Politics.co.uk" /></a>
+                </div>
+                <div class="show-for-small small-4 columns follow-profile-btn"><a class="button" href="#">Follow</a></div>
+                <div class="hide-for-small large-6 columns social-profile-icons">
+            
+                    <ul class="inline-list">
+                        <li><a class="icon-youtube" title="You Tube" href="http://www.youtube.com/user/politicscouk/"></a></li>
+                        <li><a class="icon-twitter" title="Twitter" href="http://www.twitter.com/politics_co_uk" data-app="twitter://user?screen_name=politics_co_uk"></a></li>
+                        <li><a class="icon-facebook" title="Facebook" href="http://www.facebook.com/pages/Politicscouk/124189634323190" data-app="fb://profile/124189634323190"></a></li>
+                        <li><a class="icon-google-plus" title="Google Plus" href="https://plus.google.com/u/0/b/102716629977595967150/102716629977595967150/posts"></a></li>
+                        <li><a class="icon-linkedin" title="LinkedIn" href="http://www.linkedin.com/company/politics-co-uk"></a></li>
+                    </ul>
+            
+                    <form action="/search/" method="get" class="g-website-search">    
+                        <input class="top-search radius search-input" type='text' name='keyword' id="keyword2" onkeydown="if((event.which == 13) || ( event.keyCode == 13)){ document.getElementById('SearchButton2').click();return false;}"
+                               size="35" />
+                        <button type="submit" class="small button radius top-search-btn icon-search" name="action"></button>                  
+                    </form>
+                </div>
+            </div>
+    
+            <div class="row top-nav-wrapper">
+                <div class="large-12 columns">
+                    <nav class="top-nav">
+                        <section class="top-nav-section">
+                            <ul>
+                                <li ><a id="home" class="icon-home-mobile" href="/"><span>Home</span></a></li>
+                                <li class=active><a id="news" href="/news/">News</a></li>
+                            </ul>
+
+                            <ul class="middle-nav">
+                                <li ><a id="comment_analysis" href="/comment-analysis/">Comment
+                                                                                                & Analysis</a></li>
+                                <li ><a id="opinion_formers" href="/opinion-formers/">Opinion
+                                                                                              Formers</a></li>
+                                
+                                <li ><a id="reference" href="/reference/">Reference</a></li>
+                                
+                                <li ><a id="video" href="/video/">Video</a></li>
+                            </ul>
+
+                            <ul class="has-form search-box">
+                                <li>
+                                    <form id="searchForm" action="/search/" method="get" class="g-website-search">    
+                                        <input class="search radius search-input" type='text' name='keyword' id="keyword" onkeydown="if((event.which == 13) || ( event.keyCode == 13)){ document.getElementById('SearchButton2').click();return false;}"
+                                               size="35" />
+                                        <button type="submit" class="small button radius search-btn icon-search" name="action"></button>
+                                  
+                                    </form>
+                                </li>
+                            </ul>
+                    
+                        </section>
+                        <a class="pull-menu" href="#"></a>
+                    </nav>
+        
+                </div>
+
+            </div>
+
+            <div class="row hide-for-medium-small-below">
+                <div class="large-12 columns sub-nav">
+
+
+<ul>
+        <li><a href="/news/westminster">Westminster</a> </li>
+        <li><a href="/news/home-affairs">Home Affairs</a> </li>
+        <li><a href="/news/foreign-affairs">Foreign Affairs</a> </li>
+        <li><a href="/news/economy">Economy</a> </li>
+        <li><a href="/news/health">Health</a> </li>
+        <li><a href="/news/education">Education</a> </li>
+        <li><a href="/news/culture-media-sport">Culture, media &amp; sport</a> </li>
+        <li><a href="/news/environment">Environment</a> </li>
+        <li><a href="/news/local">Local</a> </li>
+</ul>                </div>
+            </div>
+
+            <div class="row">
+        
+                <div class="small-12 large-12 columns">
+                    
+<ul id="pseudo_breadcrumbs" class="breadcrumbs">
+                <li><a href="/">Home</a></li>
+                <li><a href="/news/">News</a></li>
+                <li><a href="/news/westminster">Westminster</a></li>
+                <li>Maria Miller resigns: &#39;I&#39;ve become a distraction&#39;  </li>
+</ul>
+
+                    <div class="row">
+            
+                        
+    <div id="main_column" class="large-8 columns full_item">
+        <article>
+            <header>
+                <h1>Maria Miller resigns: &#39;I&#39;ve become a distraction&#39; </h1>
+            </header>
+            
+            
+<div class="author-time">
+        <span class="author">
+            By <a rel="author" href="/author/alex-stevenson">Alex Stevenson</a>
+                    <a href="http://twitter.com/alex__stevenson" class="twitter-ico-link">
+                        <span class="icon-twitter"></span>
+                    </a>
+        </span>
+            
+    <time datetime="2014-04-09 06:30:10" class="date">
+        Wednesday, 9 April 2014
+        6:30 AM
+    </time>
+         
+        <span class="comments">
+            <a href="#comments">
+                <span class="icon-bubble"></span>
+                <fb:comments-count href="http://www.politics.co.uk/news/2014/04/09/maria-miller-resigns-i-ve-become-a-distraction"></fb:comments-count>
+            </a>
+        </span>
+            
+</div>
+            
+            <figure class="article-image defer-image image-ratio:183x80 is-loading">
+                <noscript>
+                    <img src="http://p2.politics.co.uk/rwd-full-photos/maria-miller-arriving-at-no-10-on-tuesday-for.21397062.jpg" alt="Maria Miller arriving at No 10 on Tuesday for her last Cabinet meeting" title="Maria Miller arriving at No 10 on Tuesday for her last Cabinet meeting" />
+                </noscript>
+                
+                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="http://p2.politics.co.uk/rwd-full-photos/maria-miller-arriving-at-no-10-on-tuesday-for.21397062.jpg" alt="Maria Miller arriving at No 10 on Tuesday for her last Cabinet meeting" title="Maria Miller arriving at No 10 on Tuesday for her last Cabinet meeting" />
+                <figcaption class="caption"><em>Maria Miller arriving at No 10 on Tuesday for her last Cabinet meeting</em></figcaption>
+            </figure>
+            
+            
+<div class="SocialMediaH">
+    <div class="site-buttons">
+        <a href="http://twitter.com/share" class="twitter-share-button" data-via="politics_co_uk" data-url="http://www.politics.co.uk/news/2014/04/09/maria-miller-resigns-i-ve-become-a-distraction">
+            Tweet</a>
+        <g:plusone size="medium" href="http://www.politics.co.uk/news/2014/04/09/maria-miller-resigns-i-ve-become-a-distraction"></g:plusone>
+        <fb:like send="false" show_faces="false" layout="button_count"  width="60" font="verdana" href="http://www.politics.co.uk/news/2014/04/09/maria-miller-resigns-i-ve-become-a-distraction" ref="facebook_referrals"></fb:like>
+    </div>
+    <div class="icon-social-buttons">
+        <a class="mobile-comments-btn" href="#comments" title="Comments"><span class="icon-bubble"></span></a>
+        <a href="//twitter.com/intent/tweet?text=http://www.politics.co.uk/news/2014/04/09/maria-miller-resigns-i-ve-become-a-distraction" title="Tweet" target="_blank" rel="nofollow" class="icon-twitter"></a>
+        <a href="//www.facebook.com/sharer/sharer.php?u=http://www.politics.co.uk/news/2014/04/09/maria-miller-resigns-i-ve-become-a-distraction" title="Facebook Share" target="_blank" rel="nofollow" class="icon-facebook"></a>
+        <a href="//plus.google.com/share?url=http://www.politics.co.uk/news/2014/04/09/maria-miller-resigns-i-ve-become-a-distraction" title="Google Plus Share" target="_blank" rel="nofollow" class="icon-google-plus"></a>
+    </div>
+</div>
+
+
+            <div class="articleContent">
+                
+<p>
+	Maria Miller has resigned from the Cabinet after seven days of hostile headlines over her expenses.</p>
+<p>
+	The culture, media and sport secretary&#39;s departure is a huge setback for David Cameron, who had attempted to save Miller&#39;s career and has now been forced to accept her resignation.</p>
+<p>
+	Miller wrote: &quot;It has become clear to me that the present situation has become a distraction from the vital work this government is doing to turn our country around.&quot;</p>
+<p>
+	Downing Street said the prime minister was sorry to receive her letter - but accepted her resignation.</p>                        <div class="left-mid-box">
+                            <div class="listing-box with-bottom-divider">
+                                
+<h3><a href="/opinion-former/press-releases-articles/">Opinion Former News</a></h3>        <ul>
+                <li>
+                    <h3>    <a href="/opinion-formers/unite-the-union-t-g-section/article/unite-government-shows-a-callous-disregard-for-disabled-work">
+        Unite: Government shows a ‘callous disregard for disabled workers’ as it axes Remploy factories
+    </a>
+</h3>
+                </li>
+                <li>
+                    <h3>    <a href="/opinion-formers/bha-british-humanist-association/article/bha-responds-to-attorney-general-s-comments-following-christ">
+        BHA responds to Attorney General&#39;s comments following &#39;Christian Country&#39; open letter to Prime Minister 
+    </a>
+</h3>
+                </li>
+                <li>
+                    <h3>    <a href="/opinion-formers/nasuwt-the-teachers-union/article/abuse-of-social-media-rife-in-schools">
+        Abuse of social media rife in schools
+    </a>
+</h3>
+                </li>
+        </ul>
+
+
+
+                            </div>
+                        
+                            <div id="embededVideoSlider" class="listing-box">
+    <h3 class="related_video"><a href="/video/opinion-former-videos/">Opinion Former Video</a></h3>
+        
+    <ul class="bjqs">
+            <li>
+                <h3 class="of vid-headline">
+                    <a href="/opinion-formers/child-poverty-action-group/article/people-like-you-lose-their-jobs-become-disabled-get-trapped">
+                        People like you lose their jobs, become disabled, get trapped in low wage jobs
+                    </a></h3>
+                
+                <a href="/opinion-formers/child-poverty-action-group/article/people-like-you-lose-their-jobs-become-disabled-get-trapped">
+                    <img src="http://p2.politics.co.uk/video-rotator-listing/cpag-logo.21392974.jpg" 
+                        alt="CPAG logo"  />
+                </a>
+            </li>
+    </ul>
+</div>
+
+                            
+                            <div id="midArticleAd"></div>
+                        </div>
+                        <br class="midArticleClear"/>
+
+<p>
+	Cameron later took to Twitter to announce Sajid Javid, a Treasury minister, would replace Miller as culture, media and sport secretary. Nicky Morgan becomes financial secretary to the Treasury and the new minister for women.</p>
+<p>
+	The prime minister faces a difficult PMQs where Labour leader Ed Miliband will question his judgement in having chosen to back Miller.</p>
+<p>
+	&quot;Different people took a view about this matter, but I think the prime minister&#39;s attitude throughout has been governed by the basic human decency that is his hallmark,&quot; education secretary Michael Gove told the Today programme.</p>
+<p>
+	&quot;My understanding is this was entirely Maria&#39;s decision. One of the things about the prime minister is - and I&#39;ve known him well before he went into politics - is he&#39;s an instinctively generous and decent-spirited person. He&#39;s loyal to those in his team. And that loyalty, that desire to think the best of those that work with him, is a virtue.&quot;</p>
+<p>
+	Cameron had insisted &quot;what matters is doing the right thing&quot; and had pointed out Miller had been &quot;found innocent&quot; of the original allegations made against her.</p>
+<p>
+	Miller stated in her letter: &quot;I am very grateful to you for your personal support but it has become clear to me that the present situation has become a distraction from the vital work this government is doing to turn our country around.&quot;</p>
+<p>
+	The prime minister referenced both press regulation and equal marriage in his reply to Miller&#39;s letter, which Miller&#39;s parliamentary aide Mary Macleod had claimed were behind the press&#39; &quot;witch-hunt&quot; against the culture secretary.</p>
+<p>
+	&quot;As you leave the government, you should be proud of your service on the frontbench and in opposition,&quot; Cameron wrote.</p>
+<p>
+	&quot;I am personally very grateful for the support you have always given me, and which I am sure that you will continue to give.</p>
+<p>
+	&quot;I hope that you will be able to return to serving the government on the frontbench in due course, and am only sad that you are leaving the government in these circumstances.&quot;</p>
+<p>
+	This morning&#39;s development is a victory for Labour backbencher John Mann, who made the original complaint against Miller.</p>
+<p>
+	&quot;My reaction is &#39;about time too&#39;,&quot; he told the Today programme.</p>
+<p>
+	&quot;Where&#39;s the prime minister been for the last five days not sacking Maria Miller?&quot;</p>
+<p>
+	A Labour party spokesperson said: &quot;It is welcome that Maria Miller has finally done the right thing. By resigning she has recognised that the public expect and deserve the highest standards from politicians.<br />
+	<br />
+	&quot;Labour said all along that you cannot have one rule for a Cabinet minister and one rule for everybody else.</p>
+<p>
+	&quot;That it came to this raises questions for David Cameron whose judgement has been found wanting. Yet again he has shown himself to be out of touch and a prime minister who only stands up for one of his own.&quot;</p>
+<p>
+	Miller&#39;s resignation had become irresistible after she lost widespread support in both the Conservative party and more broadly.</p>
+<p>
+	&quot;I hoped I could stay but it&#39;s become clear to me over the last few days this has been an enormous distraction and it&#39;s not right I&#39;m distracting from the incredible achievements of this government,&quot; she said this morning.</p>
+<p>
+	&quot;I take full responsibility for the situation, I fully accept the findings of the parliamentary standards report. I think it&#39;s important that at this time in resigning I take away this distraction... and I really do want to reiterate my full support for the prime minister.&quot;</p>
+<p>
+	A ComRes poll found three-quarters of members of the public believed she should quit, while 82% of Tory activists believed she needed to go, according to a ConservativeHome poll.</p>
+<p>
+	But it was the withdrawal of support from the 2010 intake of Conservative MPs which many in Westminster believe sealed Miller&#39;s fate.</p>
+<p>
+	Graham Brady, the chair of the 1922 committee, had reportedly met with Cameron making clear Miller needed to resign.</p>
+<p>
+	The prime minister will address the &#39;22 this evening in its end-of-term meeting.</p>
+                
+            </div>
+
+        </article>
+        
+        <ul class="tagList">
+            <li><a href='/tag/expenses-scandal'>expenses scandal</a></li><li><a href='/tag/maria-miller'>maria miller</a></li><li><a href='/tag/scandal'>scandal</a></li>
+        </ul>
+
+        <div id="belowArticleAd">
+        </div>
+                
+        <div class="listing-box with-bottom-divider">
+            <h3>More on this story</h3>
+            <ul>
+    <li>
+    <h3>
+        <a href="/comment-analysis/2014/04/09/maria-miller-s-seven-deadly-errors-a-cabinet-minister-s-case">Maria Miller&#39;s seven deadly errors: A Cabinet minister&#39;s case study in how to lose your job </a> </h3>
+    </li>
+    <li>
+    <h3>
+        <a href="/comment-analysis/2014/04/09/pmqs-as-it-happens-after-the-resignation-the-mauling">PMQs as-it-happened: After the resignation, the mauling </a> </h3>
+    </li>
+    <li>
+    <h3>
+        <a href="/comment-analysis/2014/04/11/the-week-in-politics-good-riddance-to-maria-miller">The Week in Politics: A plague on all their Houses</a> </h3>
+    </li>
+</ul>
+            <ul>
+    <li>
+    <h3>
+        <a href="/news/2014/04/08/team-miller-blames-expenses-uproar-on-press-witch-hunt">Team Miller blames expenses uproar on press &#39;witch-hunt&#39; </a> </h3>
+    </li>
+    <li>
+    <h3>
+        <a href="/news/2014/02/17/maria-miller-s-fate-in-mps-hands-as-expenses-scandal-awaits">Maria Miller&#39;s fate in MPs&#39; hands as expenses scandal awaits next scalp </a> </h3>
+    </li>
+    <li>
+    <h3>
+        <a href="/news/2014/04/04/how-did-maria-miller-keep-her-job">How did Maria Miller keep her job? </a> </h3>
+    </li>
+</ul>
+        </div>
+
+        
+        <div>
+            <h4 id="comments" class="comments"><span class="icon-bubble"></span> Comments</h4>
+            <a href="#" class="small-fb-load-btn button expand">Load in comments</a>
+<fb:comments class="fb-comments" href="http://www.politics.co.uk/news/2014/04/09/maria-miller-resigns-i-ve-become-a-distraction" num_posts="10"></fb:comments>
+
+        </div>
+    </div>
+
+
+
+    <div id="second_column" class="large-4 columns">
+    <div id="mpu">
+</div>
+
+    
+    <hr class="h-rule"/>
+    <div class="listing-box">
+        <ul>
+            <li>
+                <h3><a href="http://blog.politics.co.uk/2013/09/a-more-user-friendly-politicscouk.html">New Politics.co.uk design explained</a></h3>   
+            </li>
+        </ul>
+    </div>
+
+    <div class="basicNewsletterForm opinionFormersList colspan_2 omega">
+    <h3 class="newsHeading vo_heading">Politics Newsletter</h3>
+    <p id="feedbackMsg"></p>
+
+    <form action="/Newsletters/AddSubscriber" method="post" id="newsletterSignup">
+        <input type="text" name="name" id="news-name" spellcheck="false" placeholder="Name" />
+        <input type="text" name="emailAddress" id="news-emailAddress" placeholder="Email" spellcheck="false" />
+        
+        <input type="hidden" name="Subscriptions" value="Daily Newsletter" />
+        <input type="hidden" name="Subscriptions" value="Weekly Newsletter" />
+
+        <input type="submit" name="SignUpNewsletter" value="Subscribe" class="small button">
+    </form>
+</div>
+
+    
+    <div class="listing-box headline-image-listing">
+        <h3><a href="/news/">Latest News</a></h3>
+        <ul>
+    <li>
+    <h4>
+        <a href="/news/2014/04/23/in-prison-books-become-the-air-pussy-riot-joins-campaign-aga">&#39;In prison books become the air&#39;: Pussy Riot joins campaign against prisoner book ban </a> </h4>
+        
+            <a class="defer-image image-ratio:313x89 is-loading" href="/news/2014/04/23/in-prison-books-become-the-air-pussy-riot-joins-campaign-aga">
+                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" 
+                     data-src="http://p2.politics.co.uk/right-col-headline-list/pussy-riot-on-trial.21397110.jpg" 
+                     alt="Pussy Riot on trial" />
+            </a>
+    </li>
+    <li>
+    <h4>
+        <a href="/news/2014/04/23/the-battle-of-st-george-s-day">The battle for St George&#39;s Day </a> </h4>
+        
+            <a class="defer-image image-ratio:313x89 is-loading" href="/news/2014/04/23/the-battle-of-st-george-s-day">
+                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" 
+                     data-src="http://p1.politics.co.uk/right-col-headline-list/the-battle-for-st-george-s-day.21397109.jpg" 
+                     alt="The battle for St George&#39;s Day " />
+            </a>
+    </li>
+    <li>
+    <h4>
+        <a href="/news/2014/04/22/standing-up-to-the-bear-ukraine-crisis-weans-europe-off-russ">Standing up to the bear: Ukraine crisis weans Europe off Russian gas </a> </h4>
+        
+            <a class="defer-image image-ratio:313x89 is-loading" href="/news/2014/04/22/standing-up-to-the-bear-ukraine-crisis-weans-europe-off-russ">
+                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" 
+                     data-src="http://p0.politics.co.uk/right-col-headline-list/putin-focused-on-using-energy-advantage-in-ph.21397108.jpg" 
+                     alt="Putin: Focused on using energy advantage in PHD " />
+            </a>
+    </li>
+    <li>
+    <h4>
+        <a href="/news/2014/04/22/racist-ukip-posters-church-and-political-leaders-hit-back">&#39;Racist&#39; Ukip posters: The backlash</a> </h4>
+        
+            <a class="defer-image image-ratio:313x89 is-loading" href="/news/2014/04/22/racist-ukip-posters-church-and-political-leaders-hit-back">
+                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" 
+                     data-src="http://p2.politics.co.uk/right-col-headline-list/farage-at-a-basingstoke-meeting-recently-the.21397106.jpg" 
+                     alt="Farage at a Basingstoke meeting recently. The party&#39;s posters have been branded divisive and racist. " />
+            </a>
+    </li>
+    <li>
+    <h4>
+        <a href="/news/2014/04/17/food-banks-are-profiteering-government-claims">Food banks are &#39;profiteering&#39;, government claims </a> </h4>
+        
+            <a class="defer-image image-ratio:313x89 is-loading" href="/news/2014/04/17/food-banks-are-profiteering-government-claims">
+                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" 
+                     data-src="http://p2.politics.co.uk/right-col-headline-list/food-banks-guilty-of-emotionally-manipulative.21397102.jpg" 
+                     alt="Food banks guilty of &quot;emotionally manipulative publicity-seeking&quot;." />
+            </a>
+    </li>
+</ul>
+    </div>
+
+    <div id="wideSkyScraper">
+</div>
+    
+    <div id="jobslist" class="listing-box">
+<h3><a href="/jobs/">Jobs</a></h3>
+        <ul class="img-right">
+                <li>
+                        <a class="defer-image image-fixed:140x100 is-loading" href="/jobs/ahrc-scholarships">
+                            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                                 data-src="http://p2.politics.co.uk/jobs-list/21389698" 
+                                 alt="UEA logo"
+                                 title="UEA logo" /> 
+                        </a>
+
+                    <h4><a href="/jobs/ahrc-scholarships">AHRC Scholarships - UEA </a></h4>
+                    
+                </li>
+                <li>
+                        <a class="defer-image image-fixed:140x100 is-loading" href="/jobs/master-s-scholarships-school-of-political-social-and-interna">
+                            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                                 data-src="http://p0.politics.co.uk/jobs-list/21389688" 
+                                 alt="UEA logo"
+                                 title="UEA logo" /> 
+                        </a>
+
+                    <h4><a href="/jobs/master-s-scholarships-school-of-political-social-and-interna">Master’s Scholarships: School of Political, Social and International Studies </a></h4>
+                    
+                </li>
+        </ul>
+    <p><a href="/information/advertise-your-job-vacancies">Advertise your job vacancies here</a></p>
+</div>
+
+</div>
+
+                    </div>
+        
+                </div>
+
+        
+            </div>
+    
+            <div class="row">
+                <div class="footer">
+                    <div class="small-6 large-3 columns">
+                        <h5>News</h5>
+                        
+<ul>
+        <li><a href="/news/westminster">Westminster</a> </li>
+        <li><a href="/news/home-affairs">Home Affairs</a> </li>
+        <li><a href="/news/foreign-affairs">Foreign Affairs</a> </li>
+        <li><a href="/news/economy">Economy</a> </li>
+        <li><a href="/news/health">Health</a> </li>
+        <li><a href="/news/education">Education</a> </li>
+        <li><a href="/news/environment">Environment</a> </li>
+        <li><a href="/news/local">Local</a> </li>
+</ul>
+                    </div>
+
+                    <div class="hide-for-small large-3 columns">
+                        <h5>Comment &amp; Analysis</h5>
+                        
+<ul>
+        <li><a href="/comment-analysis/comment">Comment</a> </li>
+        <li><a href="/comment-analysis/analysis">Analysis</a> </li>
+        <li><a href="/comment-analysis/sketches">Sketches</a> </li>
+        <li><a href="/comment-analysis/features">Features</a> </li>
+        <li><a href="/comment-analysis/interviews">Interviews</a> </li>
+        <li><a href="/comment-analysis/reviews">Reviews</a> </li>
+</ul>
+                    </div>
+
+                    <div class="hide-for-small large-3 columns">
+                        <h5>Opinion Formers</h5>
+                        <ul>
+                            <li><a href="/video/opinion-former-videos/">Videos</a></li>
+                            <li><a href="/opinion-former/press-releases-articles/" class="selected">Press Releases &amp; Articles</a></li>
+                            <li><a href="/opinion-former/events/">Events</a></li>
+                            <li><a href="/opinion-former/of-comments/">Comments</a></li>
+                            <li><a href="/opinion-former/opinion-formers-az/">A-Z Directory</a></li>
+                            <li><a href="/information/become-an-opinion-former">Join Opinion Formers</a></li>
+                        </ul>
+                    </div>
+
+                    <div class="small-6 large-3 columns">
+                        <h5>About</h5>
+                        <ul>
+                                <li><a href="/information/about-voiceover">About VoiceOver</a> </li>
+    <li><a href="/information/advertise-on-politics-co-uk">Advertise on Politics.co.uk</a> </li>
+    <li><a href="/information/about-politics-co-uk">About Politics.co.uk</a> </li>
+    <li><a href="/information/advertise-your-job-vacancies">Advertise your job vacancies</a> </li>
+    <li><a href="/information/editorial-contacts">Editorial Contacts</a> </li>
+    <li><a href="/information/become-an-opinion-former">About Opinion Formers</a> </li>
+    <li><a href="/information/privacy">Privacy</a> </li>
+    <li><a href="/information/cookies">Cookies</a> </li>
+    <li><a href="/information/terms-of-use">Terms of use</a> </li>
+
+                            <li><a href="http://blog.politics.co.uk/">Politics.co.uk blog</a></li>
+                        </ul>
+                    </div>
+            
+                    <p class="copyright">
+                        <img id="footer_logo" src="/Content/images/politics-logo-flat-foot.gif" alt="Politics.co.uk" />
+                        &copy; 2004-2014
+                    </p>
+                </div>
+            </div>
+            <span id="EnergyTakeOver"></span>
+            <span id="MobileOverlay"></span>
+
+            
+
+
+<script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-48230403-1']);
+    _gaq.push(['_setDomainName', 'politics.co.uk']);
+    if (document.location.href.search("fb_ref=") != -1) {
+        // Track traffic from Facebook Like & Send as Campaign traffic
+        _gaq.push(['_setCampMediumKey', 'fb_ref'], ['_setCampSourceKey', 'fb_ref'], ['_setCampNameKey', 'fb_ref'], ['_setCampContentKey', 'fb_source']);
+    } else if (document.location.href.search("fb_comment_id=") != -1) {
+        // Track traffic from Facebook Comments as Campaign traffic
+        _gaq.push(['_setCampMediumKey', 'fb_comment_id'], ['_setCampSourceKey', 'fb_comment_id'], ['_setCampNameKey', 'fb_comment_id'], ['_setCampContentKey', 'fb_comment_id']);
+    }
+    _gaq.push(['_setAllowLinker', true]);
+    _gaq.push(['_trackPageview']);
+
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+</script>
+
+
+<script type="text/javascript" language="javascript">
+    var sc_project = 1704631;
+    var sc_invisible = 1;
+    var sc_partition = 16;
+    var sc_security = "69114f49"; 
+</script>
+<noscript>
+    <a href="http://www.statcounter.com/" target="_blank">
+        <img src="http://c17.statcounter.com/counter.php?sc_project=1704631&amp;java=0&amp;security=69114f49&amp;invisible=1"
+            alt="website page counter" border="0"></a>
+</noscript>
+ 
+            <link href="/Content/css/pagination.css" rel="stylesheet"/>
+<link href="/Content/css/jquery.ennui.contentslider.css" rel="stylesheet"/>
+<link href="/Scripts/dialog/css/basic.css" rel="stylesheet"/>
+<link href="/Scripts/basic-slider/bjqs.css" rel="stylesheet"/>
+<link href="/Content/css/app-secondary-includes.css" rel="stylesheet"/>
+
+            <script src="/Content/javascripts/vendor/custom.modernizr.js"></script>
+<script src="/Content/javascripts/media-testing.js"></script>
+<script src="/Scripts/jquery-1.8.3.min.js"></script>
+<script src="/Scripts/basic-slider/bjqs-1.3.min.js"></script>
+<script src="/Content/javascripts/vendor/jquery.unveil.js"></script>
+<script src="/Content/javascripts/foundation/foundation.js"></script>
+<script src="/Scripts/jquery.easing.1.3.js"></script>
+<script src="/Scripts/jquery.color.js"></script>
+<script src="/Scripts/jquery.ennui.contentslider.js"></script>
+<script src="/Scripts/jquery.pagination.js"></script>
+<script src="/Scripts/dialog/basic.js"></script>
+<script src="/Scripts/ga_social_tracking.js"></script>
+<script src="/Scripts/jquery.CookieManager.js"></script>
+<script src="/Scripts/politics.js"></script>
+<script src="/Content/javascripts/rwd-politics.js"></script>
+<script src="/Content/javascripts/load-social-media.js"></script>
+<script src="/Content/javascripts/third-party-widgets.js"></script>
+<script src="/Scripts/jquery.homepagetakeover.js"></script>
+<script src="/Content/javascripts/advert-inject.js"></script>
+
+            <script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script>
+
+            
+                
+                
+            
+            
+            
+            <script type="text/javascript">if (!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-6.newrelic.com","6b30b15004",1080278,"NQMGZUJRXBBYWxJfVgxJIF5EflcXelcIQksNCghUQh9zEU1RBVpcEUklQ0RZUQ9c",0,140,new Date().getTime()])</script>
+    
+            <script type="text/javascript">
+                setTimeout(function () {
+                    var a = document.createElement("script");
+                    var b = document.getElementsByTagName("script")[0];
+                    a.src = document.location.protocol + "//dnn506yrbagrg.cloudfront.net/pages/scripts/0017/4263.js?" + Math.floor(new Date().getTime() / 3600000);
+                    a.async = true; a.type = "text/javascript"; b.parentNode.insertBefore(a, b)
+                }, 1);
+            </script>
+
+        </body>
+</html>
+
+

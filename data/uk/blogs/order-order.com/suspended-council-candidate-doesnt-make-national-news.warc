@@ -1,0 +1,1681 @@
+WARC/1.0
+Content-Length: 142307
+Content-Type: application/http; msgtype=response
+Warc-Date: 2014-04-30T17:10:04Z
+Warc-Record-Id: urn:X-scrapeomat:1398877805523730330
+Warc-Target-Uri: http://order-order.com/2014/04/30/suspended-council-candidate-doesnt-make-national-news/
+Warc-Type: response
+X-Scrapeomat-Srcurl: http://order-order.com/2014/04/30/suspended-council-candidate-doesnt-make-national-news/
+
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Cache-Control: max-age=248, must-revalidate
+Connection: keep-alive
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 30 Apr 2014 17:10:05 GMT
+Last-Modified: Wed, 30 Apr 2014 17:09:13 GMT
+Link: <http://guyfawk.es/1hWn6gk>; rel=shortlink
+Server: nginx
+Vary: Accept-Encoding
+Vary: Cookie
+X-Hacker: If you're reading this, you should visit automattic.com/jobs and apply to join the fun, mention this header.
+X-Nananana: Batcache
+X-Pingback: http://order-order.com/xmlrpc.php
+
+8000
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml">
+<!--
+	generated 52 seconds ago
+	generated in 0.791 seconds
+	served from batcache in 0.004 seconds
+	expires in 248 seconds
+-->
+<head>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+<link href='http://s0.wp.com/wp-content/themes/vip/orderorder/images/gf_icon.ico?m=1241620963g' rel='shortcut icon'/>
+<title>  Suspended Council Candidate Doesn&#8217;t Make National News - Guy Fawkes' blog</title>
+<link rel="alternate" type="application/rss+xml" title="Guy Fawkes' blog of parliamentary plots, rumours and conspiracy - RSS" href="http://feeds2.feedburner.com/guidofawkes" />
+<link rel="alternate" type="application/rss+xml" title="GuyNews.tv - RSS" href="http://feeds2.feedburner.com/guynewstv" />
+<link rel="pingback" href="http://order-order.com/xmlrpc.php" />
+<link rel="stylesheet" type="text/css" media="screen" href="http://s0.wp.com/wp-content/themes/vip/orderorder/style.css?m=1371386533g">
+<meta name="verify-v1" content="sowedsYuoBIMlT6ovXSxhJMk29Q03uindqxrqj8vfdA=" >
+<meta name="twitter:widgets:csp" content="on">
+		<script src='//r-login.wordpress.com/remote-login.php?action=js&amp;host=order-order.com&amp;id=7515463&amp;t=1398877752&amp;back=http%3A%2F%2Forder-order.com%2F2014%2F04%2F30%2Fsuspended-council-candidate-doesnt-make-national-news%2F%3Futm_source%3DGuy%2BFawkes%2527%2BBlog%2BList%26utm_campaign%3Dc0e09ae7b1-happy%2Bhour%26utm_medium%3Demail%26utm_term%3D0_547885726c-c0e09ae7b1-225758585' type="text/javascript"></script>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+			if ( 'function' === typeof WPRemoteLogin ) {
+				document.cookie = "wordpress_test_cookie=test; path=/";
+				if ( document.cookie.match( /(;|^)\s*wordpress_test_cookie\=/ ) ) {
+					WPRemoteLogin();
+				}
+			}
+		/* ]]> */
+		</script>
+		<link rel="alternate" type="application/rss+xml" title="Guy Fawkes&#039; blog &raquo; Suspended Council Candidate Doesn&#8217;t Make National&nbsp;News Comments Feed" href="http://order-order.com/2014/04/30/suspended-council-candidate-doesnt-make-national-news/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+function addLoadEvent(func){var oldonload=window.onload;if(typeof window.onload!='function'){window.onload=func;}else{window.onload=function(){oldonload();func();}}}
+/* ]]> */
+</script>
+<link rel='stylesheet' id='all-css-0' href='http://s2.wp.com/_static/??-eJx9j1sOwiAQRTckTlqbRj+Ma0EYKe3wCEPTuHtpo0mNhi/uHe6ZByxRqOAz+gxuFpFmYz0DO0v4jCmMqPK3OyrmA/zHyE7IMGKOUk1ic7W4CglL3UWZ14RDbSUSuhKrYS72H2qVQ5lVHZPwTsEUaaCkdrYGxcBZPEjaBDzItMLvt0YZ9Jhs+djLHyAP5UaGoQND4S6p1nGx2mDmbXMTgk4o9dbx5q7N6XJuu65t+vEF1yGrIw==' type='text/css' media='all' />
+<link rel='stylesheet' id='screen-css-0' href='http://s2.wp.com/wp-content/themes/vip/plugins/wp-paginate/wp-paginate.css?m=1292836527g' type='text/css' media='screen' />
+<script type='text/javascript' src='http://s2.wp.com/_static/??-eJyFzcEKwjAMgOEXsutkB+1BfJZa40hc0tq0Dn16O1BQEHYKJB/57ZxMiFJAiiW1HE84gakK2Y9tZ1AusSPd2OZQwlTPoAukW4X8eI9VYBjH7At0jPLBX9UUtTCotuSf628K5Y4wrzKCkny4mgyKz+XrkQ/bwe36vesHRy8peVvb'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var AJAXCommentPreview = {"loading":"Loading\u2026","error":"Prevew error","emptyString":"Click the \"Preview\" button to preview your comment here.","url":"http:\/\/order-order.com\/wp-content\/themes\/vip\/plugins\/ajax-comment-preview\/ajax-comment-preview.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://order-order.com/wp-content/themes/vip/plugins/ajax-comment-preview/ajax-comment-preview.js?m=1229418524g&#038;ver=2.0'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://orderorder.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://orderorder.wordpress.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='UKIP-Home Office Bunfight Over Farage Visit &#8216;Ban&#8217;' href='http://order-order.com/2014/04/30/ukip-home-office-bunfight-over-farage-visit-ban/' />
+<meta name="generator" content="WordPress.com" />
+<link rel='canonical' href='http://order-order.com/2014/04/30/suspended-council-candidate-doesnt-make-national-news/' />
+<link rel='shortlink' href='http://guyfawk.es/1hWn6gk' />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=json&amp;url=http%3A%2F%2Forder-order.com%2F2014%2F04%2F30%2Fsuspended-council-candidate-doesnt-make-national-news%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=xml&amp;url=http%3A%2F%2Forder-order.com%2F2014%2F04%2F30%2Fsuspended-council-candidate-doesnt-make-national-news%2F&amp;for=wpcom-auto-discovery" />
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Suspended Council Candidate Doesn&#039;t Make National News" />
+<meta property="og:url" content="http://order-order.com/2014/04/30/suspended-council-candidate-doesnt-make-national-news/" />
+<meta property="og:description" content="Michael Crick is teasing he has &quot;another astonishing exclusive on UKIP&quot; coming up this evening. You can bet he won&#039;t be giving as much airtime to Labour&#039;s announcement that they have suspended one ..." />
+<meta property="article:published_time" content="2014-04-30T16:35:21+00:00" />
+<meta property="article:modified_time" content="2014-04-30T16:47:37+00:00" />
+<meta property="article:author" content="http://order-order.com/author/alexwickham/" />
+<meta property="og:site_name" content="Guy Fawkes&#039; blog" />
+<meta property="og:image" content="http://orderorder.files.wordpress.com/2014/04/untitled-18.png" />
+<meta property="og:image:secure_url" content="https://orderorder.files.wordpress.com/2014/04/untitled-18.png" />
+<meta name="twitter:site" content="@guidofawkes" />
+<meta name="twitter:image" content="http://orderorder.files.wordpress.com/2014/04/untitled-18.png?w=1400" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:creator" content="@guidofawkes" />
+<meta property="article:publisher" content="https://www.facebook.com/WordPresscom" />
+<link rel='openid.server' href='http://orderorder.wordpress.com/?openidserver=1' />
+<link rel='openid.delegate' href='http://orderorder.wordpress.com/' />
+<link rel="search" type="application/opensearchdescription+xml" href="http://order-order.com/osd.xml" title="Guy Fawkes&#039; blog" />
+<link rel="search" type="application/opensearchdescription+xml" href="http://wordpress.com/opensearch.xml" title="WordPress.com" />
+
+<!-- Start Of Additions Generated By Greg's Threaded Comment Numbering Plugin 1.2.1 -->
+<link rel='stylesheet' id='all-css-0' href='http://s0.wp.com/wp-content/themes/vip/orderorder/plugins/gregs-threaded-comment-numbering/gtcn-css.css?m=1243899296g' type='text/css' media='all' />
+<!-- End Of Additions Generated By Greg's Threaded Comment Numbering Plugin 1.2.1 -->
+<meta name="application-name" content="Guy Fawkes&#039; blog" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="Parliamentary plots and conspiracy" /><meta name="msapplication-task" content="name=Subscribe;action-uri=http://order-order.com/feed/;icon-uri=http://s2.wp.com/i/favicon.ico" /><style type="text/css" id="syntaxhighlighteranchor"></style>
+		<link rel="stylesheet" id="custom-css-css" type="text/css" href="http://order-order.com/?custom-css=1&#038;csblog=vx79&#038;cscache=6&#038;csrev=2" />
+		
+<!-- MessageSpace Ad Code -->
+<script type="text/javascript">
+sas_tmstp=Math.round(Math.random()*10000000000);sas_masterflag=1;
+function SmartAdServer(sas_pageid,sas_formatid,sas_target) {
+ if (sas_masterflag==1) {sas_masterflag=0;sas_master='M';} else {sas_master='S';};
+ document.write('<scr'+'ipt src="http://www6.smartadserver.com/call/pubj/' + sas_pageid + '/' + sas_formatid + '/' + sas_master + '/' + sas_tmstp + '/' + escape(sas_target) + '?"></scr'+'ipt>');
+}
+</script>
+<!-- /MessageSpace -->
+
+<!-- PUT THIS TAG IN THE head SECTION -->
+<link href="http://cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif;  width:200px;}
+</style>
+<!-- END OF TAG FOR head SECTION -->
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-277414-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</head>
+<body>
+
+<div id='gf-page'>
+<div id='gf-container'>
+
+<div id='mg-header'>
+<div id='gf-header-left'>
+<div id='mg-topMenu'>
+<a href='http://www.order-order.com/' id='blog'><i>Order Order</i></a>
+<div class="linkSpacer"></div>
+<a href='http://www.order-order.com/tag/media-guido/' id='media-guido'><i>Media Guido</i></a>
+<div class="linkSpacer"></div>
+<a href='http://www.order-order.com/tag/guynews.tv/' id='guynews'><i>Guy News</i></a>
+<div class="linkSpacer"></div>
+<a href='http://www.order-order.com/2004/01/about-guidos-blog/' id='about'><i>About</i></a>
+</div>
+
+<div id="gf-header-indy">
+<!-- <img src="images/indy-anim.gif" /> -->
+</div>
+
+</div>
+
+<div id='gf-header-right'>
+<div id="mgtwittertimeline">
+<a class="twitter-timeline" width="420" height="170" data-screen-name="mediaguido" data-link-color="#ff6666" data-chrome="noborders noscrollbar noheader nofooter transparent" data-tweet-limit="2" data-related="guidofawkes,mrharrycole,wikiguido" href="https://twitter.com/MediaGuido"  data-widget-id="345884200886468609">Tweets by @MediaGuido</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div>
+
+</div>
+
+</div>
+<div class='section' id='728messagespace'>
+<div id="lead_ad" align="center">
+<!-- BEGIN MESSAGESPACE CODE BLOCK -->
+<script type="text/javascript">
+sas_pageid='54383/431393';	// Page : guidofawkes/ros
+sas_formatid=20458;		// Format : leaderboard 728x90
+sas_target='';			// Targeting
+SmartAdServer(sas_pageid,sas_formatid,sas_target);
+</script>
+<noscript>
+<a href="http://www6.smartadserver.com/call/pubjumpi/54383/431393/20458/S/[timestamp]/?" target="_blank">
+<img src="http://www6.smartadserver.com/call/pubi/54383/431393/20458/S/[timestamp]/?" border="0" alt="" /></a>
+</noscript>
+<!-- END MESSAGESPACE CODE BLOCK -->
+</div>
+</div>
+
+<div id='gf-entries'>
+<div id='gf-entriesTop'></div>
+<div class='section' id='gf-entryBox'>
+
+<div class='widget Blog' id='Blog1'>
+<div class='blog-posts hfeed'>
+<!-- google_ad_section_start -->
+<h2 class='date-header'>April 30th, 2014</h2>
+<div class='post'><a name='165873'></a><h3 class='post-title'><a href='http://order-order.com/2014/04/30/suspended-council-candidate-doesnt-make-national-news/' target='top'>Suspended Council Candidate Doesn&#8217;t Make National&nbsp;News</a>
+</h3>
+<div class='post-header-line-1'></div>
+<div class='post-body'>
+
+<div style="text-align: justify;"><p><img class="aligncenter size-full wp-image-165876" src="http://orderorder.files.wordpress.com/2014/04/untitled-18.png?w=480&#038;h=217" alt="" width="480" height="217" /></p>
+<p>Michael Crick is teasing he has <em>&#8220;another astonishing exclusive on UKIP&#8221; </em>coming up this evening. You can bet he won&#8217;t be giving as much airtime to Labour&#8217;s announcement that they have <a href="http://www.getwestlondon.co.uk/news/local-news/harrow-labour-suspend-fraudster-candidate-7041822">suspended</a> one of their council candidates after he was accused of defrauding his own council. Or LibDem councillor Ajit Atwal, who is still a candidate for May despite being <a href="http://www.bbc.co.uk/news/uk-england-derbyshire-26764022">photographed</a> with an AK47. Or the recent Tory council candidate who was revealed to have been a <a href="http://www.searchlightmagazine.com/blogs/searchlight-blog/conservatives-select-former-bnp-activist-for-safe-seat%20%20">past member of the BNP</a>.</p>
+<p>Guido does feel UKIP overdo it sometimes with the cries of smear and establishment stitch up. <span style="color:#ff0000;"><em>But when these stories rarely make the news bulletins or front pages and equivalent stories about UKIP do, the press is just playing into Farage&#8217;s hands&#8230;</em></span></p>
+<div id="jp-post-flair" class="sharedaddy sd-like-enabled sd-sharing-enabled"><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-official sd-sharing"><div class="sd-content"><ul><li class="share-facebook"><div class="like_button"><iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Forder-order.com%2F2014%2F04%2F30%2Fsuspended-council-candidate-doesnt-make-national-news%2F&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;height=21&amp;locale=en_US&amp;width=90" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:96px; height:21px;" allowTransparency="true"></iframe></div></li><li class="share-twitter"><div class="twitter_button"><iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://platform.twitter.com/widgets/tweet_button.html?url=http%3A%2F%2Fguyfawk.es%2F1hWn6gk&#038;counturl=http%3A%2F%2Forder-order.com%2F2014%2F04%2F30%2Fsuspended-council-candidate-doesnt-make-national-news%2F&#038;count=horizontal&#038;text=Suspended%20Council%20Candidate%20Doesn%27t%20Make%20National%20News%3A&#038;via=guidofawkes&#038;related=wordpressdotcom" style="width:101px; height:20px;"></iframe></div></li><li class="share-linkedin"><div class="linkedin_button"><script type="in/share" data-url="http://order-order.com/2014/04/30/suspended-council-candidate-doesnt-make-national-news/" data-counter="right"></script></div></li><li class="share-email"><a rel="nofollow" class="share-email sd-button" href="http://order-order.com/2014/04/30/suspended-council-candidate-doesnt-make-national-news/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-end"></li></ul></div></div></div></div></div>
+
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<p class='post-footer-line post-footer-line-1'> <span class='post-labels'>Tags: <a href="http://order-order.com/tag/media-guido/" rel="tag">Media Guido</a>, <a href="http://order-order.com/tag/sleaze/" rel="tag">Sleaze</a>, <a href="http://order-order.com/tag/ukip/" rel="tag">UKIP</a> </span> </p>
+<p class='post-footer-line post-footer-line-2'><span class='post-timestamp'> at <a class='timestamp-link' href='http://order-order.com/2014/04/30/suspended-council-candidate-doesnt-make-national-news/' title='permanent link'>April 30, 2014 at 5:35 pm</a>  <a rel="nofollow" class="share-facebook share-icon no-text" href="http://www.facebook.com/sharer.php?u=http://order-order.com/2014/04/30/suspended-council-candidate-doesnt-make-national-news/&t=Suspended Council Candidate Doesn&#8217;t Make National News" target="_blank" title="Share on Facebook"><img style="margin-bottom: -2px;" src="http://orderorder.files.wordpress.com/2011/01/facebook.png"></a> <iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://platform.twitter.com/widgets/tweet_button.html?url=http://order-order.com/2014/04/30/suspended-council-candidate-doesnt-make-national-news/&#038;counturl=http://order-order.com/2014/04/30/suspended-council-candidate-doesnt-make-national-news/&#038;count=horizontal&#038;text=Suspended Council Candidate Doesn&#8217;t Make National News" style="width:97px; height:20px; margin-bottom:-3px;"></iframe></span>
+</p>
+<p class='post-footer-line post-footer-line-3'>&nbsp;</p><br />
+</div>
+</div>
+<br />
+
+
+
+<div align="center">
+
+<script type="text/javascript">
+sas_pageid='54383/431393';	// Page : guidofawkes/ros
+sas_formatid=24083;		// Format : rectangle 300x250
+sas_target='';			// Targeting
+SmartAdServer(sas_pageid,sas_formatid,sas_target);
+</script>
+<noscript>
+<a href="http://www6.smartadserver.com/call/pubjumpi/54383/431393/24083/S/[timestamp]/?" target="_blank">
+<img src="http://www6.smartadserver.com/call/pubi/54383/431393/24083/S/[timestamp]/?" border="0" alt="" /></a>
+</noscript>
+
+
+</div>
+<div class='clear'></div>
+<div class='clear'></div>
+
+
+<div class='comments' id='comments'>
+
+
+
+	<h4 id="comments">29 Comments</h4>
+	<ol class="commentlist">
+	<li class="comment even thread-even depth-1" id="li-comment-2146906">
+<div class="commentnumber">1</div><div id="comment-2146906">
+<div class="comment-author vcard">
+<cite class="fn">applecore</cite> <span class="says">says:</span></div>
+<div class="comment-meta commentmetadata"><a href="http://order-order.com/2014/04/30/suspended-council-candidate-doesnt-make-national-news/#comment-2146906">April 30, 2014 at 5:39 pm</a></div>
+<p>Here&#8217;s a rhyme<br />
+Just in time.<br />
+It&#8217;s not amusing<br />
+and doesn&#8217;t particularly scan very well.</p>
+<div class="reply">
+<a class='comment-reply-link' href='/2014/04/30/suspended-council-candidate-doesnt-make-national-news/?utm_source=Guy+Fawkes%27+Blog+List&#038;utm_campaign=c0e09ae7b1-happy+hour&#038;utm_medium=email&#038;utm_term=0_547885726c-c0e09ae7b1-225758585&#038;replytocom=2146906#respond' onclick='return addComment.moveForm("comment-2146906", "2146906", "respond", "165873")'>Reply</a></div>
+</div>
+<ul class="children">
+<li class="comment odd alt depth-2" id="li-comment-2146967">
+<div class="commentnumber">26</div><div id="comment-2146967">
+<div class="comment-author vcard">
+<cite class="fn">Yogalingam Dayanamby</cite> <span class="says">says:</span></div>
+<div class="comment-meta commentmetadata"><a href="http://order-order.com/2014/04/30/suspended-council-candidate-doesnt-make-national-news/#comment-2146967">April 30, 2014 at 6:05 pm</a></div>
+<p>My name is pronounced Liam Danby</p>
+<div class="reply">
+<a class='comment-reply-link' href='/2014/04/30/suspended-council-candidate-doesnt-make-national-news/?utm_source=Guy+Fawkes%27+Blog+List&#038;utm_campaign=c0e09ae7b1-happy+hour&#038;utm_medium=email&#038;utm_term=0_547885726c-c0e09ae7b1-225758585&#038;replytocom=2146967#respond' onclick='return addComment.moveForm("comment-2146967", "2146967", "respond", "165873")'>Reply</a></div>
+</div>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1" id="li-comment-2146908">
+<div class="commentnumber">2</div><div id="comment-2146908">
+<div class="comment-author vcard">
+<cite class="fn">Calamity Clegg, Chief Cockroach</cite> <span class="says">says:</span></div>
+<div class="comment-meta commentmetadata"><a href="http://order-order.com/2014/04/30/suspended-council-candidate-doesnt-make-national-news/#comment-2146908">April 30, 2014 at 5:40 pm</a></div>
+<p><b>HHEEEEELLLLLPPPPPP  !!!</b></p>
+<div class="reply">
+<a class='comment-reply-link' href='/2014/04/30/suspended-council-candidate-doesnt-make-national-news/?utm_source=Guy+Fawkes%27+Blog+List&#038;utm_campaign=c0e09ae7b1-happy+hour&#038;utm_medium=email&#038;utm_term=0_547885726c-c0e09ae7b1-225758585&#038;replytocom=2146908#respond' onclick='return addComment.moveForm("comment-2146908", "2146908", "respond", "165873")'>Reply</a></div>
+</div>
+<ul class="children">
+<li class="comment odd alt depth-2" id="li-comment-2146918">
+<div class="commentnumber">4</div><div id="comment-2146918">
+<div class="comment-author vcard">
+<cite class="fn">Incapable Vince, deputy Chief Cockroach</cite> <span class="says">says:</span></div>
+<div class="comment-meta commentmetadata"><a href="http://order-order.com/2014/04/30/suspended-council-candidate-doesnt-make-national-news/#comment-2146918">April 30, 2014 at 5:43 pm</a></div>
+<blockquote class='twitter-tweet'><p>UKIP highlight Lib Dem cllr Ajit Atwal who posted a picture of him posing with an AK47, also a candidate for May.&mdash; <br />Ross Hawkins (@rosschawkins) <a href='http://twitter.com/#!/rosschawkins/status/461538979645751298' data-datetime='2014-04-30T16:14:02+00:00'>April 30, 2014</a></p></blockquote>
+<div class="reply">
+<a class='comment-reply-link' href='/2014/04/30/suspended-council-candidate-doesnt-make-national-news/?utm_source=Guy+Fawkes%27+Blog+List&#038;utm_campaign=c0e09ae7b1-happy+hour&#038;utm_medium=email&#038;utm_term=0_547885726c-c0e09ae7b1-225758585&#038;replytocom=2146918#respond' onclick='return addComment.moveForm("comment-2146918", "2146918", "respond", "165873")'>Reply</a></div>
+</div>
+<ul class="children">
+<li class="comment even depth-3" id="li-comment-2146934">
+<div class="commentnumber">10</div><div id="comment-2146934">
+<div class="comment-author vcard">
+<cite class="fn">Jessicacaca Reed, Guardianista, feminst, pre-packaged dopey PC opinions</cite> <span class="says">says:</span></div>
+<div class="comment-meta commentmetadata"><a href="http://order-order.com/2014/04/30/suspended-council-candidate-doesnt-make-national-news/#comment-2146934">April 30, 2014 at 5:51 pm</a></div>
+<p>RACIST</p>
+<p>head &#8211; desk</p>
+<p>Why won&#8217;t you white males modernise?</p>
+<div class="reply">
+<a class='comment-reply-link' href='/2014/04/30/suspended-council-candidate-doesnt-make-national-news/?utm_source=Guy+Fawkes%27+Blog+List&#038;utm_campaign=c0e09ae7b1-happy+hour&#038;utm_medium=email&#038;utm_term=0_547885726c-c0e09ae7b1-225758585&#038;replytocom=2146934#respond' onclick='return addComment.moveForm("comment-2146934", "2146934", "respond", "165873")'>Reply</a></div>
+</div>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1" id="li-comment-2146912">
+<div class="commentnumber">3</div><div id="comment-2146912">
+<div class="comment-author vcard">
+<cite class="fn">Kingbingo</cite> <span class="says">says:</span></div>
+<div class="comment-meta commentmetadata"><a href="http://order-order.com/2014/04/30/suspended-council-candidate-doesnt-make-national-news/#comment-2146912">April 30, 2014 at 5:41 pm</a></div>
+<p>The establishment is running scared and the media is utterly complicit.</p>
+<div class="reply">
+<a class='comment-reply-link' href='/2014/04/30/suspended-council-candidate-doesnt-make-national-news/?utm_source=Guy+Fawkes%27+Blog+List&#038;utm_campaign=c0e09ae7b1-happy+hour&#038;utm_medium=email&#038;utm_term=0_547885726c-c0e09ae7b1-225758585&#038;replytocom=2146912#respond' onclick='return addComment.moveForm("comment-2146912", "2146912", "respond", "165873")'>Reply</a></div>
+</div>
+<ul class="children">
+<li class="comment even depth-2" id="li-comment-2146919">
+<div class="commentnumber">5</div><div id="comment-2146919">
+<div class="comment-author vcard">
+<cite class="fn">Bloomers in rain-soaked Bongo Bongo Land</cite> <span class="says">says:</span></div>
+<div class="comment-meta commentmetadata"><a href="http://order-order.com/2014/04/30/suspended-council-candidate-doesnt-make-national-news/#comment-2146919">April 30, 2014 at 5:44 pm</a></div>
+<p>HEAR ! HEAR !</p>
+<div class="reply">
+<a class='comment-reply-link' href='/2014/04/30/suspended-council-candidate-doesnt-make-national-news/?utm_source=Guy+Fawkes%27+Blog+List&#038;utm_campaign=c0e09ae7b1-happy+hour&#038;utm_medium=email&#038;utm_term=0_547885726c-c0e09ae7b1-225758585&#038;replytocom=2146919#respond' onclick='return addComment.moveForm("comment-2146919", "2146919", "respond", "165873")'>Reply</a></div>
+</div>
+</li><!-- #comment-## -->
+<li class="comment odd alt depth-2" id="li-comment-2146925">
+<div class="commentnumber">8</div><div id="comment-2146925">
+<div class="comment-author vcard">
+<cite class="fn">Nick Robinson</cite> <span class="says">says:</span></div>
+<div class="comment-meta commentmetadata"><a href="http://order-order.com/2014/04/30/suspended-council-candidate-doesnt-make-national-news/#comment-2146925">April 30, 2014 at 5:46 pm</a></div>
+<p>Its just that we know the traditional MPs. They feed us stories. Leak to us. Give us the jolly lobby.<br />
+UKIP are nobodies. We don&#8217;t know them. we don&#8217;t much want them in our club.<br />
+So we will hound them until they give up trying to get in.</p>
+<div class="reply">
+<a class='comment-reply-link' href='/2014/04/30/suspended-council-candidate-doesnt-make-national-news/?utm_source=Guy+Fawkes%27+Blog+List&#038;utm_campaign=c0e09ae7b1-happy+hour&#038;utm_medium=email&#038;utm_term=0_547885726c-c0e09ae7b1-225758585&#038;replytocom=2146925#respond' onclick='return addComment.moveForm("comment-2146925", "2146925", "respond", "165873")'>Reply</a></div>
+</div>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1" id="li-comment-2146921">
+<div class="commentnumber">6</div><div id="comment-2146921">
+<div class="comment-author vcard">
+<cite class="fn">Nigel Coward</cite> <span class="says">says:</span></div>
+<div class="comment-meta commentmetadata"><a href="http://order-order.com/2014/04/30/suspended-council-candidate-doesnt-make-national-news/#comment-2146921">April 30, 2014 at 5:44 pm</a></div>
+<p>Ukip shoot themselves in the foot to get headlines.</p>
+<div class="reply">
+<a class='comment-reply-link' href='/2014/04/30/suspended-council-candidate-doesnt-make-national-news/?utm_source=Guy+Fawkes%27+Blog+List&#038;utm_campaign=c0e09ae7b1-happy+hour&#038;utm_medium=email&#038;utm_term=0_547885726c-c0e09ae7b1-225758585&#038;replytocom=2146921#respond' onclick='return addComment.moveForm("comment-2146921", "2146921", "respond", "165873")'>Reply</a></div>
+</div>
+<ul class="children">
+<li class="comment odd alt depth-2" id="li-comment-2146953">
+<div class="commentnumber">19</div><div id="comment-2146953">
+<div class="comment-author vcard">
+<cite class="fn">@hateliebour</cite> <span class="says">says:</span></div>
+<div class="comment-meta commentmetadata"><a href="http://order-order.com/2014/04/30/suspended-council-candidate-doesnt-make-national-news/#comment-2146953">April 30, 2014 at 5:58 pm</a></div>
+<p>Of course they do, unlike Liebour who get the headlines with 45 mins WMD, gold sold at lowest rate, I saved the world, plastic plod, murderers let loose to murder again, lessons have been learn&#8217;t, headlines that Liebour shot itself in the foot with</p>
+<div class="reply">
+<a class='comment-reply-link' href='/2014/04/30/suspended-council-candidate-doesnt-make-national-news/?utm_source=Guy+Fawkes%27+Blog+List&#038;utm_campaign=c0e09ae7b1-happy+hour&#038;utm_medium=email&#038;utm_term=0_547885726c-c0e09ae7b1-225758585&#038;replytocom=2146953#respond' onclick='return addComment.moveForm("comment-2146953", "2146953", "respond", "165873")'>Reply</a></div>
+</div>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="li-comment-2146924">
+<div class="commentnumber">7</div><div id="comment-2146924">
+<div class="comment-author vcard">
+<cite class="fn">Anonymous</cite> <span class="says">says:</span></div>
+<div class="comment-meta commentmetadata"><a href="http://order-order.com/2014/04/30/suspended-council-candidate-doesnt-make-national-news/#comment-2146924">April 30, 2014 at 5:46 pm</a></div>
+<p>Yeayyyyy! Go Nige!!!!!</p>
+<div class="reply">
+<a class='comment-reply-link' href='/2014/04/30/suspended-council-candidate-doesnt-make-national-news/?utm_source=Guy+Fawkes%27+Blog+List&#038;utm_campaign=c0e09ae7b1-happy+hour&#038;utm_medium=email&#038;utm_term=0_547885726c-c0e09ae7b1-225758585&#038;replytocom=2146924#respond' onclick='return addComment.moveForm("comment-2146924", "2146924", "respond", "165873")'>Reply</a></div>
+</div>
+<ul class="children">
+<li class="comment odd alt depth-2" id="li-comment-2146935">
+<div class="commentnumber">11</div><div id="comment-2146935">
+<div class="comment-author vcard">
+<cite class="fn">Nigel Mirage</cite> <span class="says">says:</span></div>
+<div class="comment-meta commentmetadata"><a href="http://order-order.com/2014/04/30/suspended-council-candidate-doesnt-make-national-news/#comment-2146935">April 30, 2014 at 5:51 pm</a></div>
+<p>Go where ?</p>
+<div class="reply">
+<a class='comment-reply-link' href='/2014/04/30/suspended-council-candidate-doesnt-make-national-news/?utm_source=Guy+Fawkes%27+Blog+List&#038;utm_campaign=c0e09ae7b1-happy+hour&#038;utm_medium=email&#038;utm_term=0_547885726c-c0e09ae7b1-225758585&#038;replytocom=2146935#respond' onclick='return addComment.moveForm("comment-2146935", "2146935", "respond", "165873")'>Reply</a></div>
+</div>
+<ul class="children">
+<li class="comment even depth-3" id="li-comment-2146951">
+<div class="commentnumber">17</div><div id="comment-2146951">
+<div class="comment-author vcard">
+<cite class="fn">Ethelred the Unsteady</cite> <span class="says">says:</span></div>
+<div class="comment-meta commentmetadata"><a href="http://order-order.com/2014/04/30/suspended-council-candidate-doesnt-make-national-news/#comment-2146951">April 30, 2014 at 5:57 pm</a></div>
+<p>No 10 of course!</p>
+<div class="reply">
+<a class='comment-reply-link' href='/2014/04/30/suspended-council-candidate-doesnt-make-national-news/?utm_source=Guy+Fawkes%27+Blog+List&#038;utm_campaign=c0e09ae7b1-happy+hour&#038;utm_medium=email&#038;utm_term=0_547885726c-c0e09ae7b1-225758585&#038;replytocom=2146951#respond' onclick='return addComment.moveForm("comment-2146951", "2146951", "respond", "165873")'>Reply</a></div>
+</div>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-2146932">
+<div class="commentnumber">9</div><div id="comment-2146932">
+<div class="comment-author vcard">
+<cite class="fn">Potty Toynbee</cite> <span class="says">says:</span></div>
+<div class="comment-meta commentmetadata"><a href="http://order-order.com/2014/04/30/suspended-council-candidate-doesnt-make-national-news/#comment-2146932">April 30, 2014 at 5:51 pm</a></div>
+<p><b></p>
+<blockquote class='twitter-tweet'><p>8 factual errors by Polly Toynbee in our debate &#8211; Centre for Policy Studies: <a href="http://www.cps.org.uk/blog/q/date/2014/04/30/8-factual-errors-by-polly-toynbee-in-our-debate/#.U2D5_QMjUts.twitter"> cps.org.uk/blog/q/date/20…</a>&mdash; <br />CPS Think Tank (@CPSThinkTank) <a href='http://twitter.com/#!/CPSThinkTank/status/461517898385604608' data-datetime='2014-04-30T14:50:16+00:00'>April 30, 2014</a></p></blockquote>
+<p></b><b> ONLY EIGHT !             I&#8217;M SLIPPING&#8230;</b></p>
+<div class="reply">
+<a class='comment-reply-link' href='/2014/04/30/suspended-council-candidate-doesnt-make-national-news/?utm_source=Guy+Fawkes%27+Blog+List&#038;utm_campaign=c0e09ae7b1-happy+hour&#038;utm_medium=email&#038;utm_term=0_547885726c-c0e09ae7b1-225758585&#038;replytocom=2146932#respond' onclick='return addComment.moveForm("comment-2146932", "2146932", "respond", "165873")'>Reply</a></div>
+</div>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="li-comment-2146936">
+<div class="commentnumber">12</div><div id="comment-2146936">
+<div class="comment-author vcard">
+<cite class="fn">Old Rat</cite> <span class="says">says:</span></div>
+<div class="comment-meta commentmetadata"><a href="http://order-order.com/2014/04/30/suspended-council-candidate-doesnt-make-national-news/#comment-2146936">April 30, 2014 at 5:51 pm</a></div>
+<p>Don&#8217;t forget the Lib Dem cheat that can&#8217;t be moved</p>
+<p><a href="http://www.exeterexpressandecho.co.uk/New-attack-benefit-cheat-councillor-won-t-stand/story-20667270-detail/story.html" rel="nofollow">http://www.exeterexpressandecho.co.uk/New-attack-benefit-cheat-councillor-won-t-stand/story-20667270-detail/story.html</a></p>
+<div class="reply">
+<a class='comment-reply-link' href='/2014/04/30/suspended-council-candidate-doesnt-make-national-news/?utm_source=Guy+Fawkes%27+Blog+List&#038;utm_campaign=c0e09ae7b1-happy+hour&#038;utm_medium=email&#038;utm_term=0_547885726c-c0e09ae7b1-225758585&#038;replytocom=2146936#respond' onclick='return addComment.moveForm("comment-2146936", "2146936", "res
+8000
+pond", "165873")'>Reply</a></div>
+</div>
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-2146942">
+<div class="commentnumber">13</div><div id="comment-2146942">
+<div class="comment-author vcard">
+<cite class="fn">All at it</cite> <span class="says">says:</span></div>
+<div class="comment-meta commentmetadata"><a href="http://order-order.com/2014/04/30/suspended-council-candidate-doesnt-make-national-news/#comment-2146942">April 30, 2014 at 5:54 pm</a></div>
+<p>I had a DUP canvasser at my door the other night. He had the brass neck to label UKIP racist&#8230;&#8230;didn&#8217;t have much of a comeback when I said &#8216;bollocks, at least they aren&#8217;t sectarian fundamentalist Protestant bigots like your lot&#8217;.</p>
+<div class="reply">
+<a class='comment-reply-link' href='/2014/04/30/suspended-council-candidate-doesnt-make-national-news/?utm_source=Guy+Fawkes%27+Blog+List&#038;utm_campaign=c0e09ae7b1-happy+hour&#038;utm_medium=email&#038;utm_term=0_547885726c-c0e09ae7b1-225758585&#038;replytocom=2146942#respond' onclick='return addComment.moveForm("comment-2146942", "2146942", "respond", "165873")'>Reply</a></div>
+</div>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="li-comment-2146945">
+<div class="commentnumber">14</div><div id="comment-2146945">
+<div class="comment-author vcard">
+<cite class="fn">Ethelred the Unsteady</cite> <span class="says">says:</span></div>
+<div class="comment-meta commentmetadata"><a href="http://order-order.com/2014/04/30/suspended-council-candidate-doesnt-make-national-news/#comment-2146945">April 30, 2014 at 5:56 pm</a></div>
+<p>UKIP is being systematically smeared in the run-up to the Euros by both the Tory print media  and the BBC/Guardian planet Zarg metroplex.<br />
+I don&#8217;t actually support them but I bitterly resent all these clever people trying to manipulate how I think, poor little stupid me.<br />
+The trick is to ignore everyone&#8217;s opinion &#8211; and their agenda &#8211; and go where the common sense lies.<br />
+I think I may vote UKIP just to stick it up Milly Caminickers &#8211; but then, she&#8217;s such a minger&#8230;</p>
+<div class="reply">
+<a class='comment-reply-link' href='/2014/04/30/suspended-council-candidate-doesnt-make-national-news/?utm_source=Guy+Fawkes%27+Blog+List&#038;utm_campaign=c0e09ae7b1-happy+hour&#038;utm_medium=email&#038;utm_term=0_547885726c-c0e09ae7b1-225758585&#038;replytocom=2146945#respond' onclick='return addComment.moveForm("comment-2146945", "2146945", "respond", "165873")'>Reply</a></div>
+</div>
+<ul class="children">
+<li class="comment odd alt depth-2" id="li-comment-2146961">
+<div class="commentnumber">23</div><div id="comment-2146961">
+<div class="comment-author vcard">
+<cite class="fn">@hateliebour</cite> <span class="says">says:</span></div>
+<div class="comment-meta commentmetadata"><a href="http://order-order.com/2014/04/30/suspended-council-candidate-doesnt-make-national-news/#comment-2146961">April 30, 2014 at 6:02 pm</a></div>
+<p>I do and every smear is a winner, the public have now seen through the curtain of rubbish the the media and the LibLabCons are doing and seem to be moving over to UKIP to vote, May 23rd is hopefully going to show the rubbish what people think of them.</p>
+<div class="reply">
+<a class='comment-reply-link' href='/2014/04/30/suspended-council-candidate-doesnt-make-national-news/?utm_source=Guy+Fawkes%27+Blog+List&#038;utm_campaign=c0e09ae7b1-happy+hour&#038;utm_medium=email&#038;utm_term=0_547885726c-c0e09ae7b1-225758585&#038;replytocom=2146961#respond' onclick='return addComment.moveForm("comment-2146961", "2146961", "respond", "165873")'>Reply</a></div>
+</div>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1" id="li-comment-2146947">
+<div class="commentnumber">15</div><div id="comment-2146947">
+<div class="comment-author vcard">
+<cite class="fn">Anonymous</cite> <span class="says">says:</span></div>
+<div class="comment-meta commentmetadata"><a href="http://order-order.com/2014/04/30/suspended-council-candidate-doesnt-make-national-news/#comment-2146947">April 30, 2014 at 5:56 pm</a></div>
+<p>I&#8217;ve just heard on the radio(PM) that all three party leaders have attacked Nigel Farage for not standing as a candidate in the forthcoming Newark election.They are disgusting. Mr.Farage is being attacked  by politicians and media and he is given no respite.Ordinary voters who cannot get their voices heard or their views taken seriously must support Mr. Farage against such onslaught or we will have allowed the &#8216;establishment&#8217; to walk all over us and put us back where they think we belong. I do not want to belong to a political party but today I have joined UKIP in order to show support for a courageous man and a courageous party.</p>
+<div class="reply">
+<a class='comment-reply-link' href='/2014/04/30/suspended-council-candidate-doesnt-make-national-news/?utm_source=Guy+Fawkes%27+Blog+List&#038;utm_campaign=c0e09ae7b1-happy+hour&#038;utm_medium=email&#038;utm_term=0_547885726c-c0e09ae7b1-225758585&#038;replytocom=2146947#respond' onclick='return addComment.moveForm("comment-2146947", "2146947", "respond", "165873")'>Reply</a></div>
+</div>
+<ul class="children">
+<li class="comment odd alt depth-2" id="li-comment-2146960">
+<div class="commentnumber">22</div><div id="comment-2146960">
+<div class="comment-author vcard">
+<cite class="fn">Using their logic all LibDems are kiddy fiddlers</cite> <span class="says">says:</span></div>
+<div class="comment-meta commentmetadata"><a href="http://order-order.com/2014/04/30/suspended-council-candidate-doesnt-make-national-news/#comment-2146960">April 30, 2014 at 6:02 pm</a></div>
+<p>+1000,000</p>
+<div class="reply">
+<a class='comment-reply-link' href='/2014/04/30/suspended-council-candidate-doesnt-make-national-news/?utm_source=Guy+Fawkes%27+Blog+List&#038;utm_campaign=c0e09ae7b1-happy+hour&#038;utm_medium=email&#038;utm_term=0_547885726c-c0e09ae7b1-225758585&#038;replytocom=2146960#respond' onclick='return addComment.moveForm("comment-2146960", "2146960", "respond", "165873")'>Reply</a></div>
+</div>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="li-comment-2146949">
+<div class="commentnumber">16</div><div id="comment-2146949">
+<div class="comment-author vcard">
+<cite class="fn">Anonymous</cite> <span class="says">says:</span></div>
+<div class="comment-meta commentmetadata"><a href="http://order-order.com/2014/04/30/suspended-council-candidate-doesnt-make-national-news/#comment-2146949">April 30, 2014 at 5:57 pm</a></div>
+<p>Just fun kin g vote Ukip. The liblabcon  party have had their time and their lies. Vote Ukip.</p>
+<div class="reply">
+<a class='comment-reply-link' href='/2014/04/30/suspended-council-candidate-doesnt-make-national-news/?utm_source=Guy+Fawkes%27+Blog+List&#038;utm_campaign=c0e09ae7b1-happy+hour&#038;utm_medium=email&#038;utm_term=0_547885726c-c0e09ae7b1-225758585&#038;replytocom=2146949#respond' onclick='return addComment.moveForm("comment-2146949", "2146949", "respond", "165873")'>Reply</a></div>
+</div>
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-2146952">
+<div class="commentnumber">18</div><div id="comment-2146952">
+<div class="comment-author vcard">
+<cite class="fn">Enemies of UKIP are Enemies of England</cite> <span class="says">says:</span></div>
+<div class="comment-meta commentmetadata"><a href="http://order-order.com/2014/04/30/suspended-council-candidate-doesnt-make-national-news/#comment-2146952">April 30, 2014 at 5:58 pm</a></div>
+<p>After regime change they will be hunted down, arrested, and removed from the DNS gene pool, right down to the last foetus.</p>
+<div class="reply">
+<a class='comment-reply-link' href='/2014/04/30/suspended-council-candidate-doesnt-make-national-news/?utm_source=Guy+Fawkes%27+Blog+List&#038;utm_campaign=c0e09ae7b1-happy+hour&#038;utm_medium=email&#038;utm_term=0_547885726c-c0e09ae7b1-225758585&#038;replytocom=2146952#respond' onclick='return addComment.moveForm("comment-2146952", "2146952", "respond", "165873")'>Reply</a></div>
+</div>
+<ul class="children">
+<li class="comment even depth-2" id="li-comment-2146955">
+<div class="commentnumber">20</div><div id="comment-2146955">
+<div class="comment-author vcard">
+<cite class="fn">Enemies of UKIP are Enemies of England</cite> <span class="says">says:</span></div>
+<div class="comment-meta commentmetadata"><a href="http://order-order.com/2014/04/30/suspended-council-candidate-doesnt-make-national-news/#comment-2146955">April 30, 2014 at 5:58 pm</a></div>
+<p>&#8216;DNA&#8217;</p>
+<div class="reply">
+<a class='comment-reply-link' href='/2014/04/30/suspended-council-candidate-doesnt-make-national-news/?utm_source=Guy+Fawkes%27+Blog+List&#038;utm_campaign=c0e09ae7b1-happy+hour&#038;utm_medium=email&#038;utm_term=0_547885726c-c0e09ae7b1-225758585&#038;replytocom=2146955#respond' onclick='return addComment.moveForm("comment-2146955", "2146955", "respond", "165873")'>Reply</a></div>
+</div>
+</li><!-- #comment-## -->
+<li class="comment odd alt depth-2" id="li-comment-2146971">
+<div class="commentnumber">29</div><div id="comment-2146971">
+<div class="comment-author vcard">
+<cite class="fn">@hateliebour</cite> <span class="says">says:</span></div>
+<div class="comment-meta commentmetadata"><a href="http://order-order.com/2014/04/30/suspended-council-candidate-doesnt-make-national-news/#comment-2146971">April 30, 2014 at 6:08 pm</a></div>
+<p>Wind down and sit on your arse, it&#8217;s politics and tribes, trying that disgusting game really needs to be brought to the polices attention, if you belong to UKIP shame, if you belong to the LibLabCon shame .</p>
+<div class="reply">
+<a class='comment-reply-link' href='/2014/04/30/suspended-council-candidate-doesnt-make-national-news/?utm_source=Guy+Fawkes%27+Blog+List&#038;utm_campaign=c0e09ae7b1-happy+hour&#038;utm_medium=email&#038;utm_term=0_547885726c-c0e09ae7b1-225758585&#038;replytocom=2146971#respond' onclick='return addComment.moveForm("comment-2146971", "2146971", "respond", "165873")'>Reply</a></div>
+</div>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="li-comment-2146958">
+<div class="commentnumber">21</div><div id="comment-2146958">
+<div class="comment-author vcard">
+<cite class="fn">Using their logic all LibDems are kiddy fiddlers</cite> <span class="says">says:</span></div>
+<div class="comment-meta commentmetadata"><a href="http://order-order.com/2014/04/30/suspended-council-candidate-doesnt-make-national-news/#comment-2146958">April 30, 2014 at 5:59 pm</a></div>
+<p>The LibLabCons can&#8217;t keep a handle on their own MP&#8217;s deviant activities let alone their thousands of councillors and supporters.<br />
+However my point is it is what a party does when they find out that someone is a bad egg.<br />
+Thus far UKIP have a 100% record of kicking them out the three main parties brush them off then bring the buggers back.</p>
+<div class="reply">
+<a class='comment-reply-link' href='/2014/04/30/suspended-council-candidate-doesnt-make-national-news/?utm_source=Guy+Fawkes%27+Blog+List&#038;utm_campaign=c0e09ae7b1-happy+hour&#038;utm_medium=email&#038;utm_term=0_547885726c-c0e09ae7b1-225758585&#038;replytocom=2146958#respond' onclick='return addComment.moveForm("comment-2146958", "2146958", "respond", "165873")'>Reply</a></div>
+</div>
+<ul class="children">
+<li class="comment odd alt depth-2" id="li-comment-2146964">
+<div class="commentnumber">25</div><div id="comment-2146964">
+<div class="comment-author vcard">
+<cite class="fn">M.Crick</cite> <span class="says">says:</span></div>
+<div class="comment-meta commentmetadata"><a href="http://order-order.com/2014/04/30/suspended-council-candidate-doesnt-make-national-news/#comment-2146964">April 30, 2014 at 6:04 pm</a></div>
+<p>but I&#8217;m not going to report that, my job is to report on the &#8220;outsiders&#8221; and what bad, bad people they are.</p>
+<div class="reply">
+<a class='comment-reply-link' href='/2014/04/30/suspended-council-candidate-doesnt-make-national-news/?utm_source=Guy+Fawkes%27+Blog+List&#038;utm_campaign=c0e09ae7b1-happy+hour&#038;utm_medium=email&#038;utm_term=0_547885726c-c0e09ae7b1-225758585&#038;replytocom=2146964#respond' onclick='return addComment.moveForm("comment-2146964", "2146964", "respond", "165873")'>Reply</a></div>
+</div>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1" id="li-comment-2146963">
+<div class="commentnumber">24</div><div id="comment-2146963">
+<div class="comment-author vcard">
+<cite class="fn">Messenger Shooter</cite> <span class="says">says:</span></div>
+<div class="comment-meta commentmetadata"><a href="http://order-order.com/2014/04/30/suspended-council-candidate-doesnt-make-national-news/#comment-2146963">April 30, 2014 at 6:03 pm</a></div>
+<p>All the main parties have an obvious track record. We&#8217;ve not got much to go on with UKIP apart from several members being ejected, jailed or exposed as bigots.</p>
+<div class="reply">
+<a class='comment-reply-link' href='/2014/04/30/suspended-council-candidate-doesnt-make-national-news/?utm_source=Guy+Fawkes%27+Blog+List&#038;utm_campaign=c0e09ae7b1-happy+hour&#038;utm_medium=email&#038;utm_term=0_547885726c-c0e09ae7b1-225758585&#038;replytocom=2146963#respond' onclick='return addComment.moveForm("comment-2146963", "2146963", "respond", "165873")'>Reply</a></div>
+</div>
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1" id="li-comment-2146968">
+<div class="commentnumber">27</div><div id="comment-2146968">
+<div class="comment-author vcard">
+<cite class="fn">Crisp Ackham</cite> <span class="says">says:</span></div>
+<div class="comment-meta commentmetadata"><a href="http://order-order.com/2014/04/30/suspended-council-candidate-doesnt-make-national-news/#comment-2146968">April 30, 2014 at 6:06 pm</a></div>
+<p>Q: What&#8217;s Farage having for dinner this evening?<br />
+A: Fritters!</p>
+<div class="reply">
+<a class='comment-reply-link' href='/2014/04/30/suspended-council-candidate-doesnt-make-national-news/?utm_source=Guy+Fawkes%27+Blog+List&#038;utm_campaign=c0e09ae7b1-happy+hour&#038;utm_medium=email&#038;utm_term=0_547885726c-c0e09ae7b1-225758585&#038;replytocom=2146968#respond' onclick='return addComment.moveForm("comment-2146968", "2146968", "respond", "165873")'>Reply</a></div>
+</div>
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1" id="li-comment-2146969">
+<div class="commentnumber">28</div><div id="comment-2146969">
+<div class="comment-author vcard">
+<cite class="fn">DerrIn Brown Full Time W@nker for C4 and abusive, criminal creep.</cite> <span class="says">says:</span></div>
+<div class="comment-meta commentmetadata"><a href="http://order-order.com/2014/04/30/suspended-council-candidate-doesnt-make-national-news/#comment-2146969">April 30, 2014 at 6:07 pm</a></div>
+<p>Do people still Crap4 news?</p>
+<div class="reply">
+<a class='comment-reply-link' href='/2014/04/30/suspended-council-candidate-doesnt-make-national-news/?utm_source=Guy+Fawkes%27+Blog+List&#038;utm_campaign=c0e09ae7b1-happy+hour&#038;utm_medium=email&#038;utm_term=0_547885726c-c0e09ae7b1-225758585&#038;replytocom=2146969#respond' onclick='return addComment.moveForm("comment-2146969", "2146969", "respond", "165873")'>Reply</a></div>
+</div>
+</li><!-- #comment-## -->
+	</ol>
+ 
+
+<div id="respond">
+<br /><br />
+<center>
+
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-2030084739045177";
+/* Smart */
+google_ad_slot = "6679339142";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+
+</center>
+<br /><br />
+
+<h3>Leave a Comment</h3>
+<div class="cancel-comment-reply">
+	<small><a rel="nofollow" id="cancel-comment-reply-link" href="/2014/04/30/suspended-council-candidate-doesnt-make-national-news/?utm_source=Guy+Fawkes%27+Blog+List&amp;utm_campaign=c0e09ae7b1-happy+hour&amp;utm_medium=email&amp;utm_term=0_547885726c-c0e09ae7b1-225758585#respond" style="display:none;">Click here to cancel reply.</a></small>
+</div>
+
+	<div id="postcomment"></div>
+	<form action="http://order-order.com/wp-comments-post.php" method="post" id="commentform">
+	<textarea name="comment" rows="10" tabindex="4" id="comment"></textarea>
+			<table id="addcomment_user_fields">
+			<tr>
+				<td><label for="author">Name</label></td>
+				<td><input type="text" name="author" id="author" value="" size="22" class="field" maxlength="100" tabindex="1"  /></td>
+				<td><label for="author">(optional)</label></td>
+			</tr>
+			<tr>
+				<td><label for="email">Email</label></td>
+				<td><input type="text" name="email" id="email" value="" size="22" class="field" maxlength="100" tabindex="2"  /></td>
+				<td><label for="email">(optional)</label></td>
+			</tr>
+			<tr>
+				<td><label for="url">Website</label></td>
+				<td><input type="text" name="url" id="url" value="" size="22" class="field" maxlength="100" tabindex="3" /></td>
+				<td><label for="url">(optional)</label></td>
+			</tr>
+		</table>
+		<!-- <p><small><strong>XHTML:</strong> You can use these tags: <code>&lt;a href=&quot;&quot; title=&quot;&quot; rel=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;pre&gt; &lt;q cite=&quot;&quot;&gt; &lt;strike&gt; &lt;strong&gt; </code></small></p> -->
+
+	<p><input name="submit" type="submit" id="submit" tabindex="5" value="Submit Comment" onclick="javascript: pageTracker._trackPageview('/goal/guidocomment.html');" />
+	<input type='hidden' name='comment_post_ID' value='165873' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+	</p>
+
+	<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="a71e11962f" /></p>
+<input type="hidden" name="genseq" value="1398877752" />
+<p class="post-subscription-form"><input type="checkbox" name="subscribe_blog" id="subscribe_blog" value="subscribe" style="width: auto;" tabindex="6"/> <label class="subscribe-label" id="subscribe-blog-label" for="subscribe_blog"  style="display: inline;">Notify me of new posts via email.</label></p><input name="acp-preview" type="button" id="acp-preview" tabindex="6" value="Preview" /><div id="ajax-comment-preview"></div><script type='text/javascript' src='http://s0.wp.com/wp-content/mu-plugins/akismet-3.0/_inc/form.js?m=1395714917g'></script>
+<p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="67"/></p>	</form>
+
+</div>
+
+
+<div class='blog-pager' id='blog-pager'>
+<span id='blog-pager-newer-link'>
+<a href="http://order-order.com/2014/04/30/ukip-home-office-bunfight-over-farage-visit-ban/" rel="prev">Older Post</a> 
+</span>
+
+<a class='home-link' href='http://order-order.com'>Home</a>
+
+<span id='blog-pager-older-link'>
+  
+</span>
+
+</div>		
+
+</p>
+<div id='backlinks-container'>
+<div id='Blog1_backlinks-container'>
+</div>
+</div>
+</div>
+<!-- google_ad_section_end -->
+
+</div>
+
+<div class='clear'></div>
+<div class='post-feeds'>
+<div class='feed-links'><!-- Subscribe to:  --></div>
+</div>
+</div></div>
+
+<div id='gf-entriesTail'></div>
+</div>
+
+<div id='gf-duoCol'>
+<div id='gf-duoColTop'></div>
+
+<div class='section' id='gf-duoColBox'>
+
+<center>
+
+<!-- BEGIN MESSAGESPACE CODE BLOCK -->
+
+<script type="text/javascript">
+sas_pageid='54383/431393';  // Page : guidofawkes/ros
+sas_formatid=23713;   // Format : halfpage 300x600
+sas_target='';      // Targeting
+SmartAdServer(sas_pageid,sas_formatid,sas_target);
+</script>
+<noscript>
+<a href="http://www6.smartadserver.com/call/pubjumpi/54383/431393/23713/M/[timestamp]/?" target="_blank">
+<img src="http://www6.smartadserver.com/call/pubi/54383/431393/23713/M/[timestamp]/?" border="0" alt="" /></a>
+</noscript>
+
+<!-- END MESSAGESPACE CODE BLOCK -->
+
+</center>
+<br />
+</div>
+<div id='gf-duoColBox2'>
+<div id='gf-duoWhiteCol'>
+<div id='gf-duoWhiteTop'></div>
+<div class='section' id='gf-duoWhiteBox'><div class='widget Text' id='Text1'>
+<div class='widget-content'>
+ 
+<div class='widget-content'>
+
+
+<!-- Media Reader -->
+<img border="0" src="http://orderorder.files.wordpress.com/2012/06/media-reader.jpg" alt="Media Reader" style="margin-bottom: -15px;" /><br/>
+<p>
+	
+  <a href="http://order-order.com/2014/04/29/hacked-off-seek-eu-diktat-to-force-through-new-press-laws-watson-backs-brussels-directive-on-media-ownership/" onClick="recordOutboundLink(this, 'Outbound Links', 'http://order-order.com/2014/04/29/hacked-off-seek-eu-diktat-to-force-through-new-press-laws-watson-backs-brussels-directive-on-media-ownership/');return false;">Hacked Off Seek EU Diktat to Force Through New Press&nbsp;Laws</a> | <em>MG</em><br />
+	
+  <a href="http://www.dailymail.co.uk/debate/article-2615491/DAILY-MAIL-COMMENT-At-minister-values-Press-freedom.html" onClick="recordOutboundLink(this, 'Outbound Links', 'http://www.dailymail.co.uk/debate/article-2615491/DAILY-MAIL-COMMENT-At-minister-values-Press-freedom.html');return false;">Sajid Javid Values Press&nbsp;Freedom</a> | <em>Mail</em><br />
+	
+  <a href="http://www.pressgazette.co.uk/london-live-chief-exec-andrew-mullins-hits-back-over-aggressively-negative-coverage-early-viewing" onClick="recordOutboundLink(this, 'Outbound Links', 'http://www.pressgazette.co.uk/london-live-chief-exec-andrew-mullins-hits-back-over-aggressively-negative-coverage-early-viewing');return false;">London Live Hits&nbsp;Back</a> | <em>Press Gazette</em><br />
+	
+  <a href="http://blogs.spectator.co.uk/steerpike/2014/04/adam-boultons-not-retiring-no-siree/" onClick="recordOutboundLink(this, 'Outbound Links', 'http://blogs.spectator.co.uk/steerpike/2014/04/adam-boultons-not-retiring-no-siree/');return false;">Adam Boulton Not&nbsp;Retiring</a> | <em>Speccie</em><br />
+	
+  <a href="http://www.businessinsider.com/larry-page-the-untold-story-2014-4?page=1" onClick="recordOutboundLink(this, 'Outbound Links', 'http://www.businessinsider.com/larry-page-the-untold-story-2014-4?page=1');return false;">Untold Story Of Larry Page&#8217;s Incredible&nbsp;Comeback</a> | <em>Business Insider</em><br />
+	
+  <a href="http://www.libdemvoice.org/breaking-antidisestablishmentarian-times-and-telegraph-reveal-new-danger-posed-by-150-yearold-liberal-pledge-for-separation-of-church-and-state-39501.html" onClick="recordOutboundLink(this, 'Outbound Links', 'http://www.libdemvoice.org/breaking-antidisestablishmentarian-times-and-telegraph-reveal-new-danger-posed-by-150-yearold-liberal-pledge-for-separation-of-church-and-state-39501.html');return false;"><em>Times</em> and <em>Telegraph</em> 150 Years&nbsp;Behind</a> | <em>LibDem Voice</em><br />
+	
+  <a href="http://www.grimsbytelegraph.co.uk/Piers-Morgan-offered-job-Grimsby-Telegraph-old/story-21006231-detail/story.html" onClick="recordOutboundLink(this, 'Outbound Links', 'http://www.grimsbytelegraph.co.uk/Piers-Morgan-offered-job-Grimsby-Telegraph-old/story-21006231-detail/story.html');return false;">Piers Morgan Offered Job as Trainee&nbsp;Reporter</a> | <em>Grimsby Telegraph</em><br />
+	
+  <a href="http://www.conservativehome.com/thetorydiary/2014/04/whats-wrong-with-political-journalism.html" onClick="recordOutboundLink(this, 'Outbound Links', 'http://www.conservativehome.com/thetorydiary/2014/04/whats-wrong-with-political-journalism.html');return false;">What&#8217;s Wrong With Political&nbsp;Journalism</a> | <em>ConHome</em><br />
+	
+  <a href="http://order-order.com/2014/04/24/jason-groves-new-mail-deputy-pol-ed/" onClick="recordOutboundLink(this, 'Outbound Links', 'http://order-order.com/2014/04/24/jason-groves-new-mail-deputy-pol-ed/');return false;">Jason Groves New Mail Deputy Pol&nbsp;Ed</a> | <em>MediaGuido</em><br />
+	
+  <a href="http://www.forbes.com/sites/neilmidgley/2014/04/24/london-lives-disastrous-ratings-2400-watch-breakfast-show-in-city-of-9million/" onClick="recordOutboundLink(this, 'Outbound Links', 'http://www.forbes.com/sites/neilmidgley/2014/04/24/london-lives-disastrous-ratings-2400-watch-breakfast-show-in-city-of-9million/');return false;"><em>London Live</em> Averaging Just 2,400&nbsp;Viewers</a> | <em>Forbes</em><br />
+	
+  <a href="http://order-order.com/2014/04/23/ex-sun-hack-cleared-after-582-days-on-bail/" onClick="recordOutboundLink(this, 'Outbound Links', 'http://order-order.com/2014/04/23/ex-sun-hack-cleared-after-582-days-on-bail/');return false;">Ex-Sun Hack Cleared After 582 Days on&nbsp;Bail</a> | <em>MediaGuido</em><br />
+</p>
+<!-- /Media Reader -->
+
+
+<!-- Guido's buttons -->
+<img border="0" src="http://orderorder.wordpress.com/files/2009/06/hotbuttons.gif" style="margin-bottom: 1px;" /><br/>
+<table border="0">
+<tbody>
+<tr>
+<td><a href="http://www.plmr.co.uk/"><img class="aligncenter size-full wp-image-164717" src="http://orderorder.files.wordpress.com/2012/05/new-advert.gif?w=125&#038;h=125" alt="new-advert" width="125" height="125" /></a></td>
+<td><a href="http://www.mediafriendly.org/uk-media-training-courses/"><img title="Media-Friendly-125" src="http://orderorder.files.wordpress.com/2012/05/media-friendly-125.gif?w=125&#038;h=125" alt="" width="125" height="125" /></a></td>
+<td><a href="http://mippr.co.uk/"><img class="alignnone" src="http://orderorder.files.wordpress.com/2012/05/mip-hotbutton-version-2.gif?w=125&#038;h=125" alt="" width="125" height="125" /></a></td>
+</tr>
+<tr>
+<td><a href="http://www.messagespace.co.uk/"><img class="aligncenter size-full wp-image-127878" src="http://orderorder.files.wordpress.com/2012/05/65pcmps.gif?w=125&#038;h=125" alt="Guido-hot-button (1)" width="125" height="125" /></a></td>
+<td><img src="http://orderorder.files.wordpress.com/2012/05/gf-app.jpg?w=125&#038;h=125" alt="" width="125" height="125" /></td>
+<td><a href="http://www.messagespace.co.uk/"><img class="aligncenter size-full wp-image-127878" src="http://orderorder.files.wordpress.com/2012/05/guido-hot-button-1.gif?w=125&#038;h=125" alt="Guido-hot-button (1)" width="125" height="125" /></a></td>
+</tr>
+</tbody>
+</table>
+<!-- /Guido's buttons -->
+
+<br />
+
+<!-- Quote of the day -->
+<img border="0" src="http://orderorder.wordpress.com/files/2009/06/qotdtext.png" style="margin-bottom: -15px;" /><br/>
+
+<p><a href="http://www.thesun.co.uk/sol/homepage/news/politics/5598336/Lab-MP-demands-an-end-to-cheap-beer-for-Our-Boys.html">SAS hero Andy McNab</a> on Labour MP Madeleine Moon&#8217;s call to end cheap beer for our boys:</p>
+<p><em>&#8220;It can&#8217;t be one rule for them and one rule for the soldiers.</em></p>
+<p><em>Are you telling me you don&#8217;t have politicians drinking to excess in subsidised bars in the House of Commons?</em></p>
+<p><em>The difference is in the Armed Forces men and women need somewhere to bond and socialise to build the relationships that their lives depend on.</em></p>
+<p><em>And when they go too far, they are punished severely &#8211; more severely than some MPs do for their drunken behaviour.</em></p>
+<p><em>The Armed Forces are tribal and socialising in your own Mess is crucial to cohesion.</em></p>
+<p><em>These MPs would be better off looking at their own drinking culture before looking at others.&#8221;</em></p>
+<!-- /Quote of the day -->
+
+<object id="Player_85d95eb2-7daf-4afa-9250-3b083977a893" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="400" codebase="http://fpdownload.macromedia.com/get/flashplayer/current/swflash.cab" height="150"><param value="10583" name="_cx"/><param value="3969" name="_cy"/><param value="" name="FlashVars"/><param value="http://ws.amazon.co.uk/widgets/q?ServiceVersion=20070822&amp;MarketPlace=GB&amp;ID=V20070822%2FGB%2Fglobalgrowtho-21%2F8010%2F85d95eb2-7daf-4afa-9250-3b083977a893&amp;Operation=GetDisplayTemplate" name="Movie"/><param value="http://ws.amazon.co.uk/widgets/q?ServiceVersion=20070822&amp;MarketPlace=GB&amp;ID=V20070822%2FGB%2Fglobalgrowtho-21%2F8010%2F85d95eb2-7daf-4afa-9250-3b083977a893&amp;Operation=GetDisplayTemplate" name="Src"/><param value="Window" name="WMode"/><param value="-1" name="Play"/><param value="-1" name="Loop"/><param value="High" name="Quality"/><param value="" name="SAlign"/><param value="-1" name="Menu"/><param value="" name="Base"/><param value="always" name="AllowScriptAccess"/><param value="ShowAll" name="Scale"/><param value="0" name="DeviceFont"/><param value="0" name="EmbedMovie"/><param value="FFFFFF" name="BGColor"/><param value="" name="SWRemote"/><param value="" name="MovieData"/><param value="1" name="SeamlessTabbing"/><param value="0" name="Profile"/><param value="" name="ProfileAddress"/><param value="0" name="ProfilePort"/><param value="all" name="AllowNetworking"/><param value="false" name="AllowFullScreen"/><embed quality="high" allowscriptaccess="always" align="middle" type="application/x-shockwave-flash" height="150" src="http://ws.amazon.co.uk/widgets/q?ServiceVersion=20070822&amp;MarketPlace=GB&amp;ID=V20070822%2FGB%2Fglobalgrowtho-21%2F8010%2F85d95eb2-7daf-4afa-9250-3b083977a893&amp;Operation=GetDisplayTemplate" id="Player_85d95eb2-7daf-4afa-9250-3b083977a893" bgcolor="#ffffff" width="400" name="Player_85d95eb2-7daf-4afa-9250-3b083977a893"></embed></object><noscript></noscript>
+
+<br />
+
+
+<!-- Comment of the day  -->
+<img border="0" src="http://orderorder.files.wordpress.com/2011/02/comment-of-the-day.png" style="margin-bottom: -15px;" /><br/>
+<div style="text-align:left;">
+<div id="comment-1852207">
+<div class="comment-author vcard">
+<div class="comment-author vcard">
+<div class="comment-author vcard">
+<div class="comment-author vcard">
+<div class="comment-author vcard" style="font-weight:bold;color:#1b1b1b;">
+<div class="comment-author vcard" style="font-weight:bold;color:#1b1b1b;">
+<div class="comment-author vcard">
+<div class="comment-author vcard"><cite class="fn">BBC 24hr rolling bollocks</cite> <span class="says">says:</span></div>
+<div class="comment-meta commentmetadata"><a style="color:#666666;" href="http://order-order.com/2014/04/28/watch-clifford-creeps-up-on-sky-news-reporter/#comment-2143235">April 28, 2014 at 2:57 pm</a></div>
+<p>It’s ok Max was stood at least four inches away from the reporter so no danger of penetration.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- /Comment of the day -->
+
+<br clear="both">
+
+</div>
+
+
+</div>
+
+</div></div>
+<div id='gf-duoWhiteTail'></div>
+</div>
+</div>
+<div id='gf-duoColTail'></div>
+</div>
+<div id='gf-rightCol'>
+<div id='gf-rightColTop'></div>
+<div class='section' id='MS-sidebar'><div class='widget HTML' id='HTML11'>
+
+  <div align="center">
+<!-- BEGIN MESSAGESPACE CODE BLOCK -->
+<script type="text/javascript">
+sas_pageid='54383/431393';  // Page : guidofawkes/ros
+sas_formatid=20460;   // Format : wideskyscraper 160x600
+sas_target='';      // Targeting
+SmartAdServer(sas_pageid,sas_formatid,sas_target);
+</script>
+<noscript>
+<a href="http://www6.smartadserver.com/call/pubjumpi/54383/431393/20460/S/[timestamp]/?" target="_blank">
+<img src="http://www6.smartadserver.com/call/pubi/54383/431393/20460/S/[timestamp]/?" border="0" alt="" /></a>
+</noscript>
+
+<!-- END MESSAGESPACE CODE BLOCK -->
+</div>
+
+</div></div>
+<div id='gf-rightColBox'><center><a href='mailto: guido.fawkes@order-order.com'><img alt='Tip off Guido' class='contactImage' height='150' src='http://s0.wp.com/wp-content/themes/vip/orderorder/images/405114350_848ad45595_o.gif?m=1286128821g' width='210'/></a></center></div>
+<!-- GOOGLE SEARCH BOX -->
+<div id='gf-google'>
+<div id='gf-googleTop'></div>
+<div id='gf-googleBox'>
+<form action='http://www.google.co.uk/custom' method='get' target='google_window'>
+<table bgcolor='#FFFFFF' border='0'>
+<tbody><tr><td align='center' height='24' nowrap='nowrap' valign='top'>
+<input name='domains' type='hidden' value='order-order.com'/>
+<input maxlength='255' name='q' size='26' type='text' value=''/>
+</td></tr>
+<tr>
+<td nowrap='nowrap'>
+<table align='center'>
+<tbody><tr>
+<td>
+<input name='sitesearch' type='radio' value=''/>
+
+Web</td>
+<td>
+<input checked='checked' name='sitesearch' type='radio' value='order-order.com'/>
+Guido's Archive<font color='#ffffff'></font><font color='#ffffff' size='-1'>s</font></td>
+</tr>
+</tbody></table>
+<div align='right'>
+<input name='client' type='hidden' value='pub-2031261963332537'/>
+<input name='forid' type='hidden' value='1'/>
+<input name='ie' type='hidden' value='ISO-8859-1'/>
+<input name='oe' type='hidden' value='ISO-8
+8000
+859-1'/>
+<input name='cof' type='hidden' value='GALT:#80FF00;GL:1;DIV:#336699;VLC:663399;AH:center;BGC:000000;LBGC:336699;ALC:0000FF;LC:0000FF;T:FFFFFF;GFNT:0000FF;GIMP:0000FF;LH:60;LW:100;L:http://photos1.blogger.com/blogger/1288/553/400/google_guido.jpg;S:http://;LP:1;FORID:1'/>
+<input name='hl' type='hidden' value='en'/>
+<input name='sa' type='submit' value='Google'/>
+</div></td>
+</tr></tbody></table>
+</form>
+<br/>
+<div align="center">
+
+<div class='section' id='gf-rightColBox3'>
+
+<!-- Begin MailChimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+#mc_embed_signup{background:#fff; clear:left; font:10px Helvetica,Arial,sans-serif; }
+#mc_embed_signup label {font-size: 10px; color: #933;}
+#mc_embed_signup input.button { background: none repeat scroll 0 0 #993333; }
+</style>
+<div id="mc_embed_signup">
+<form action="http://order-order.us1.list-manage.com/subscribe/post?u=84f2eb51bf3db29fcbf92aaf0&amp;id=547885726c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+<h2><img src="http://orderorder.wordpress.com/files/2009/10/guidogram.jpg" /></h2>
+<div class="mc-field-group">
+<label for="mce-EMAIL">Email Address</label>
+<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+</div>
+<div class="mc-field-group input-group">
+    <strong>Subscribe me to: </strong>
+    <ul><li><input type="checkbox" value="1" name="group[1][1]" id="mce-group[1]-1-0" checked><label for="mce-group[1]-1-0">Guidogram (weekly)</label></li>
+<li><input type="checkbox" value="2" name="group[1][2]" id="mce-group[1]-1-1" checked><label for="mce-group[1]-1-1">Happy Hour (daily)</label></li>
+</ul>
+</div>
+<div id="mce-responses" class="clear">
+<div class="response" id="mce-error-response" style="display:none"></div>
+<div class="response" id="mce-success-response" style="display:none"></div>
+</div>	<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+</form>
+</div>
+
+<!--End mc_embed_signup-->
+
+<br />
+
+<a href="http://twitter.com/guidofawkes"><img border="0" src="http://s0.wp.com/wp-content/themes/vip/orderorder/images/2313263136_9950d23d11_o.jpg?m=1341373141g" title="Receive Guido's Headlines By Text Message" align="center"/></a><br/><br/>
+
+<a href="http://www.amazon.com/Guido-Fawkes/dp/B001AS5B82/ref=sr_1_3?ie=UTF8&s=books&qid=1260742138&sr=8-3-catcorr"><img border="0" src="http://orderorder.wordpress.com/files/2009/12/gh-kindle.gif" title="Guido on your Amazon Kindle" align="center" /></a><br/><br/>
+
+<center>
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-2030084739045177";
+/* MessageSpace */
+google_ad_slot = "7103343422";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</center>
+
+<br /><a href="http://feeds2.feedburner.com/guidofawkes" title="Subscribe to my feed" rel="alternate" type="application/rss+xml"><img src="http://www.feedburner.com/fb/images/pub/feed-icon32x32.png" alt="RSS" /></a><br />
+<br />
+
+</div></div>
+</div>
+<div id='gf-googleTail'></div>
+</div>
+
+    
+    <div id="googleads2" style="margin-left:45px;font-size:1em;padding:2px;width:160px;"><script type="text/javascript" src="http://s.wordpress.com/wp-content/plugins/adverts/adsense.js?m=1253160243g&amp;1"></script>
+<!--adcode-->
+<div align="center" style="padding-top: 5px; text-align: left;" class="adcode">
+<script type="text/javascript"><!--
+google_ad_client = "pub-3443918307802676";
+google_ad_output = 'js';
+google_feedback = "on";
+google_max_num_ads = "2";
+google_ad_width = 160;
+google_ad_height = 600;
+google_ad_format = "160x600_as";
+google_image_size = "160x600";
+google_ad_type = "text,flash,html";
+google_ad_channel = '7749819197+7401333398+7453468586';
+var color_bg = '223344';
+var color_text = 'ffffff';
+var color_link = 'ff0000';
+var color_border = '223344';
+var color_url = 'ff0000';
+google_analytics_domain_name = 'none';
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+</div>
+<div style="clear: both"><br /></div>
+<!--/adcode-->
+</div><br />
+
+<!-- END OF GOOGLE SEARCH BOX -->
+<div id='gf-rightColBox2'></div>
+
+<!-- OnScroll - Guido Fawkes - OrderOrder.com - Sky - Guido Fawkes - OrderOrder.com -->
+<script>
+var onScrOll=new Object();
+onScrOll.code="PCEtLSBNZXRyaWMgU2NpZW5jZSAtIEd1aWRvIEZhd2tlcyAtIE9yZGVyT3JkZXIuY29tIC0gU2t5IC0gR3VpZG8gRmF3a2VzIC0gT3JkZXJPcmRlci5jb20gLS0+CjxkaXY+CjwhLS0gc3RhcnQgb2YgY3JlYXRpdmUgY29udGVudCAtLT4KPCEtLSBCRUdJTiBKUyBUQUcgLSBTa3kgLSBHdWlkbyBGYXdrZXMgLSBPcmRlck9yZGVyLmNvbSA8IC0gRE8gTk9UIE1PRElGWSAtLT4NCjxTQ1JJUFQgU1JDPSJodHRwOi8vYWQubmV0Y29tbXVuaXRpZXMuY29tL3R0aj9pZD0xNzc4MTM4IiBUWVBFPSJ0ZXh0L2phdmFzY3JpcHQiPjwvU0NSSVBUPg0KPCEtLSBFTkQgVEFHIC0tPg0KCjwhLS0gZW5kIG9mIGNyZWF0aXZlIGNvbnRlbnQgLS0+CjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij4KKHdpbmRvdy5fdHJhY2tlciA9ICh3aW5kb3cuX3RyYWNrZXIgfHwgW10pKS5wdXNoKHsKICBjYW1wYWlnbklkOiAnNTIzYWQwOGY5MWI2ZWZkNDYxMDAwMDFlJywKICBjcmVhdGl2ZUlkOiAnNTIzYWQwYTA5MWI2ZWZkNDYxMDAwMDFmJywKICBhY2NvdW50SWQ6ICc1MjNhZDA2ZDkxYjZlZmQ0NjEwMDAwMWQnCn0pOwo8L3NjcmlwdD4KPHNjcmlwdCBzcmM9Imh0dHA6Ly9jZG4ub25zY3JvbGwuY29tL21zLm9zLmpzIj48L3NjcmlwdD4KPC9kaXY+CjwhLS0gRW5kIG9mIHRhZyAtIC0tPg==";
+onScrOll.margin=320;
+onScrOll.mode="sticky";
+onScrOll.height=600;
+onScrOll.width=160;
+onScrOll.reload=false;
+onScrOll.marginTop=10;
+</script>
+<script src="http://cdn.onscroll.com/onscroll.ms.js"></script>
+<!-- End of tag - -->
+
+<br />
+
+
+    <div id='gf-rightColTail' style="margin-top: -20px;"></div>
+    </div>
+<div id='gf-leftCol'>
+<div id='gf-leftColTop'></div>
+<div id='gf-leftColBox'>
+<div class='section' id='gf-leftColBox0'><div class='widget HTML' id='HTML5'>
+<div class='widget-content'>
+
+  
+
+<div align="center"><!-- AddThis Feed Button BEGIN -->
+<a href="http://www.addthis.com/feed.php?pub=QN5OAYBZ2AAJBX4F&h1=http%3A%2F%2Fwww.order-order.com%2Ffeed%2F" title="Subscribe using any feed reader!"><img border="0" width="125" alt="AddThis Feed Button" src="http://s9.addthis.com/button1-fd.gif" height="16"/></a>
+<!-- AddThis Feed Button END -->
+</div>
+</div>
+
+<div class='clear'></div>
+</div></div>
+<a href="http://www.order-order.com/guido-archive/"><img alt='Archive' height='42' src='http://s0.wp.com/wp-content/themes/vip/orderorder/images/archives.gif?m=1286128821g' width='170' border='0' /></a>
+<div class='section' id='gf-leftColBox1'><div class='widget BlogArchive' id='BlogArchive1'>
+<div class='widget-content'>
+<div id='ArchiveList'>
+<div id='BlogArchive1_ArchiveList'>
+
+<select name="archive-dropdown" onChange='document.location.href=this.options[this.selectedIndex].value;'> 
+  <option value="">Select Month</option> 
+  	<option value='http://order-order.com/2014/04/'> April 2014 &nbsp;(253)</option>
+	<option value='http://order-order.com/2014/03/'> March 2014 &nbsp;(258)</option>
+	<option value='http://order-order.com/2014/02/'> February 2014 &nbsp;(234)</option>
+	<option value='http://order-order.com/2014/01/'> January 2014 &nbsp;(250)</option>
+	<option value='http://order-order.com/2013/12/'> December 2013 &nbsp;(197)</option>
+	<option value='http://order-order.com/2013/11/'> November 2013 &nbsp;(240)</option>
+	<option value='http://order-order.com/2013/10/'> October 2013 &nbsp;(277)</option>
+	<option value='http://order-order.com/2013/09/'> September 2013 &nbsp;(253)</option>
+	<option value='http://order-order.com/2013/08/'> August 2013 &nbsp;(218)</option>
+	<option value='http://order-order.com/2013/07/'> July 2013 &nbsp;(289)</option>
+	<option value='http://order-order.com/2013/06/'> June 2013 &nbsp;(265)</option>
+	<option value='http://order-order.com/2013/05/'> May 2013 &nbsp;(258)</option>
+	<option value='http://order-order.com/2013/04/'> April 2013 &nbsp;(255)</option>
+	<option value='http://order-order.com/2013/03/'> March 2013 &nbsp;(281)</option>
+	<option value='http://order-order.com/2013/02/'> February 2013 &nbsp;(262)</option>
+	<option value='http://order-order.com/2013/01/'> January 2013 &nbsp;(270)</option>
+	<option value='http://order-order.com/2012/12/'> December 2012 &nbsp;(210)</option>
+	<option value='http://order-order.com/2012/11/'> November 2012 &nbsp;(277)</option>
+	<option value='http://order-order.com/2012/10/'> October 2012 &nbsp;(318)</option>
+	<option value='http://order-order.com/2012/09/'> September 2012 &nbsp;(276)</option>
+	<option value='http://order-order.com/2012/08/'> August 2012 &nbsp;(280)</option>
+	<option value='http://order-order.com/2012/07/'> July 2012 &nbsp;(268)</option>
+	<option value='http://order-order.com/2012/06/'> June 2012 &nbsp;(234)</option>
+	<option value='http://order-order.com/2012/05/'> May 2012 &nbsp;(199)</option>
+	<option value='http://order-order.com/2012/04/'> April 2012 &nbsp;(168)</option>
+	<option value='http://order-order.com/2012/03/'> March 2012 &nbsp;(205)</option>
+	<option value='http://order-order.com/2012/02/'> February 2012 &nbsp;(195)</option>
+	<option value='http://order-order.com/2012/01/'> January 2012 &nbsp;(215)</option>
+	<option value='http://order-order.com/2011/12/'> December 2011 &nbsp;(141)</option>
+	<option value='http://order-order.com/2011/11/'> November 2011 &nbsp;(194)</option>
+	<option value='http://order-order.com/2011/10/'> October 2011 &nbsp;(213)</option>
+	<option value='http://order-order.com/2011/09/'> September 2011 &nbsp;(197)</option>
+	<option value='http://order-order.com/2011/08/'> August 2011 &nbsp;(170)</option>
+	<option value='http://order-order.com/2011/07/'> July 2011 &nbsp;(217)</option>
+	<option value='http://order-order.com/2011/06/'> June 2011 &nbsp;(176)</option>
+	<option value='http://order-order.com/2011/05/'> May 2011 &nbsp;(185)</option>
+	<option value='http://order-order.com/2011/04/'> April 2011 &nbsp;(129)</option>
+	<option value='http://order-order.com/2011/03/'> March 2011 &nbsp;(181)</option>
+	<option value='http://order-order.com/2011/02/'> February 2011 &nbsp;(161)</option>
+	<option value='http://order-order.com/2011/01/'> January 2011 &nbsp;(163)</option>
+	<option value='http://order-order.com/2010/12/'> December 2010 &nbsp;(129)</option>
+	<option value='http://order-order.com/2010/11/'> November 2010 &nbsp;(166)</option>
+	<option value='http://order-order.com/2010/10/'> October 2010 &nbsp;(159)</option>
+	<option value='http://order-order.com/2010/09/'> September 2010 &nbsp;(143)</option>
+	<option value='http://order-order.com/2010/08/'> August 2010 &nbsp;(130)</option>
+	<option value='http://order-order.com/2010/07/'> July 2010 &nbsp;(171)</option>
+	<option value='http://order-order.com/2010/06/'> June 2010 &nbsp;(181)</option>
+	<option value='http://order-order.com/2010/05/'> May 2010 &nbsp;(179)</option>
+	<option value='http://order-order.com/2010/04/'> April 2010 &nbsp;(204)</option>
+	<option value='http://order-order.com/2010/03/'> March 2010 &nbsp;(187)</option>
+	<option value='http://order-order.com/2010/02/'> February 2010 &nbsp;(140)</option>
+	<option value='http://order-order.com/2010/01/'> January 2010 &nbsp;(149)</option>
+	<option value='http://order-order.com/2009/12/'> December 2009 &nbsp;(118)</option>
+	<option value='http://order-order.com/2009/11/'> November 2009 &nbsp;(123)</option>
+	<option value='http://order-order.com/2009/10/'> October 2009 &nbsp;(151)</option>
+	<option value='http://order-order.com/2009/09/'> September 2009 &nbsp;(134)</option>
+	<option value='http://order-order.com/2009/08/'> August 2009 &nbsp;(57)</option>
+	<option value='http://order-order.com/2009/07/'> July 2009 &nbsp;(78)</option>
+	<option value='http://order-order.com/2009/06/'> June 2009 &nbsp;(131)</option>
+	<option value='http://order-order.com/2009/05/'> May 2009 &nbsp;(137)</option>
+	<option value='http://order-order.com/2009/04/'> April 2009 &nbsp;(124)</option>
+	<option value='http://order-order.com/2009/03/'> March 2009 &nbsp;(118)</option>
+	<option value='http://order-order.com/2009/02/'> February 2009 &nbsp;(106)</option>
+	<option value='http://order-order.com/2009/01/'> January 2009 &nbsp;(92)</option>
+	<option value='http://order-order.com/2008/12/'> December 2008 &nbsp;(80)</option>
+	<option value='http://order-order.com/2008/11/'> November 2008 &nbsp;(116)</option>
+	<option value='http://order-order.com/2008/10/'> October 2008 &nbsp;(122)</option>
+	<option value='http://order-order.com/2008/09/'> September 2008 &nbsp;(144)</option>
+	<option value='http://order-order.com/2008/08/'> August 2008 &nbsp;(87)</option>
+	<option value='http://order-order.com/2008/07/'> July 2008 &nbsp;(126)</option>
+	<option value='http://order-order.com/2008/06/'> June 2008 &nbsp;(130)</option>
+	<option value='http://order-order.com/2008/05/'> May 2008 &nbsp;(138)</option>
+	<option value='http://order-order.com/2008/04/'> April 2008 &nbsp;(133)</option>
+	<option value='http://order-order.com/2008/03/'> March 2008 &nbsp;(94)</option>
+	<option value='http://order-order.com/2008/02/'> February 2008 &nbsp;(109)</option>
+	<option value='http://order-order.com/2008/01/'> January 2008 &nbsp;(110)</option>
+	<option value='http://order-order.com/2007/12/'> December 2007 &nbsp;(75)</option>
+	<option value='http://order-order.com/2007/11/'> November 2007 &nbsp;(115)</option>
+	<option value='http://order-order.com/2007/10/'> October 2007 &nbsp;(109)</option>
+	<option value='http://order-order.com/2007/09/'> September 2007 &nbsp;(99)</option>
+	<option value='http://order-order.com/2007/08/'> August 2007 &nbsp;(58)</option>
+	<option value='http://order-order.com/2007/07/'> July 2007 &nbsp;(80)</option>
+	<option value='http://order-order.com/2007/06/'> June 2007 &nbsp;(94)</option>
+	<option value='http://order-order.com/2007/05/'> May 2007 &nbsp;(107)</option>
+	<option value='http://order-order.com/2007/04/'> April 2007 &nbsp;(89)</option>
+	<option value='http://order-order.com/2007/03/'> March 2007 &nbsp;(103)</option>
+	<option value='http://order-order.com/2007/02/'> February 2007 &nbsp;(90)</option>
+	<option value='http://order-order.com/2007/01/'> January 2007 &nbsp;(131)</option>
+	<option value='http://order-order.com/2006/12/'> December 2006 &nbsp;(77)</option>
+	<option value='http://order-order.com/2006/11/'> November 2006 &nbsp;(116)</option>
+	<option value='http://order-order.com/2006/10/'> October 2006 &nbsp;(114)</option>
+	<option value='http://order-order.com/2006/09/'> September 2006 &nbsp;(108)</option>
+	<option value='http://order-order.com/2006/08/'> August 2006 &nbsp;(89)</option>
+	<option value='http://order-order.com/2006/07/'> July 2006 &nbsp;(123)</option>
+	<option value='http://order-order.com/2006/06/'> June 2006 &nbsp;(100)</option>
+	<option value='http://order-order.com/2006/05/'> May 2006 &nbsp;(108)</option>
+	<option value='http://order-order.com/2006/04/'> April 2006 &nbsp;(117)</option>
+	<option value='http://order-order.com/2006/03/'> March 2006 &nbsp;(120)</option>
+	<option value='http://order-order.com/2006/02/'> February 2006 &nbsp;(115)</option>
+	<option value='http://order-order.com/2006/01/'> January 2006 &nbsp;(114)</option>
+	<option value='http://order-order.com/2005/12/'> December 2005 &nbsp;(51)</option>
+	<option value='http://order-order.com/2005/11/'> November 2005 &nbsp;(95)</option>
+	<option value='http://order-order.com/2005/10/'> October 2005 &nbsp;(82)</option>
+	<option value='http://order-order.com/2005/09/'> September 2005 &nbsp;(41)</option>
+	<option value='http://order-order.com/2005/08/'> August 2005 &nbsp;(61)</option>
+	<option value='http://order-order.com/2005/07/'> July 2005 &nbsp;(41)</option>
+	<option value='http://order-order.com/2005/06/'> June 2005 &nbsp;(18)</option>
+	<option value='http://order-order.com/2005/05/'> May 2005 &nbsp;(46)</option>
+	<option value='http://order-order.com/2005/04/'> April 2005 &nbsp;(90)</option>
+	<option value='http://order-order.com/2005/03/'> March 2005 &nbsp;(76)</option>
+	<option value='http://order-order.com/2005/02/'> February 2005 &nbsp;(70)</option>
+	<option value='http://order-order.com/2005/01/'> January 2005 &nbsp;(55)</option>
+	<option value='http://order-order.com/2004/12/'> December 2004 &nbsp;(72)</option>
+	<option value='http://order-order.com/2004/11/'> November 2004 &nbsp;(44)</option>
+	<option value='http://order-order.com/2004/10/'> October 2004 &nbsp;(52)</option>
+	<option value='http://order-order.com/2004/09/'> September 2004 &nbsp;(45)</option>
+	<option value='http://order-order.com/2004/01/'> January 2004 &nbsp;(1)</option>
+ </select>
+<br /><br />
+<ul><li><a href="http://www.order-order.com/guido-archive/">View Guido's archive page</a></li></ul>
+
+</div>
+</div>
+<div class='clear'></div>
+</div>
+</div><div class='widget HTML' id='HTML6'>
+<div class='clear'></div>
+</div></div>
+<img alt='Labels' height='42' src='http://s0.wp.com/wp-content/themes/vip/orderorder/images/labels.gif?m=1286128821g' width='170'/>
+<div class='section' id='gf-leftColBox2'><div class='widget Label' id='Label1'>
+<div class='widget-content'>
+<div style="overflow:hidden"><ul class='wp-tag-cloud'>
+	<li><a href='http://order-order.com/tag/alan-johnson/' class='tag-link-778001' title='5 topics' style='font-size: 8pt;'>Alan Johnson</a></li>
+	<li><a href='http://order-order.com/tag/alan-rusbridger/' class='tag-link-1713770' title='12 topics' style='font-size: 8pt;'>Alan Rusbridger</a></li>
+	<li><a href='http://order-order.com/tag/alastair-campbell/' class='tag-link-1376783' title='24 topics' style='font-size: 8pt;'>Alastair Campbell</a></li>
+	<li><a href='http://order-order.com/tag/alistair-darling/' class='tag-link-1164682' title='52 topics' style='font-size: 8pt;'>Alistair Darling</a></li>
+	<li><a href='http://order-order.com/tag/al-jazeera/' class='tag-link-295266' title='1 topic' style='font-size: 8pt;'>Al Jazeera</a></li>
+	<li><a href='http://order-order.com/tag/andrew-mitchell/' class='tag-link-2035147' title='13 topics' style='font-size: 8pt;'>Andrew Mitchell</a></li>
+	<li><a href='http://order-order.com/tag/andrew-pierce/' class='tag-link-1911933' title='7 topics' style='font-size: 8pt;'>Andrew Pierce</a></li>
+	<li><a href='http://order-order.com/tag/android/' class='tag-link-641922' title='1 topic' style='font-size: 8pt;'>Android</a></li>
+	<li><a href='http://order-order.com/tag/anyone-but-gordon/' class='tag-link-503041' title='438 topics' style='font-size: 8pt;'>Anyone But Gordon</a></li>
+	<li><a href='http://order-order.com/tag/aol/' class='tag-link-3622' title='2 topics' style='font-size: 8pt;'>AOL</a></li>
+	<li><a href='http://order-order.com/tag/arnie-graf/' class='tag-link-11350776' title='2 topics' style='font-size: 8pt;'>Arnie Graf</a></li>
+	<li><a href='http://order-order.com/tag/attack-ads/' class='tag-link-344156' title='9 topics' style='font-size: 8pt;'>Attack Ads</a></li>
+	<li><a href='http://order-order.com/tag/av/' class='tag-link-11508' title='14 topics' style='font-size: 8pt;'>AV</a></li>
+	<li><a href='http://order-order.com/tag/b/' class='tag-link-2344' title='50 topics' style='font-size: 8pt;'>B*</a></li>
+	<li><a href='http://order-order.com/tag/balls/' class='tag-link-71266' title='298 topics' style='font-size: 8pt;'>Balls</a></li>
+	<li><a href='http://order-order.com/tag/bank-of-england/' class='tag-link-272030' title='2 topics' style='font-size: 8pt;'>Bank of England</a></li>
+	<li><a href='http://order-order.com/tag/bbc/' class='tag-link-2988' title='318 topics' style='font-size: 8pt;'>BBC</a></li>
+	<li><a href='http://order-order.com/tag/benefits/' class='tag-link-82404' title='3 topics' style='font-size: 8pt;'>Benefits</a></li>
+	<li><a href='http://order-order.com/tag/bercow/' class='tag-link-2630431' title='13 topics' style='font-size: 8pt;'>Bercow</a></li>
+	<li><a href='http://order-order.com/tag/bets/' class='tag-link-103276' title='103 topics' style='font-size: 8pt;'>Bets</a></li>
+	<li><a href='http://order-order.com/tag/big-brother-watch/' class='tag-link-26115832' title='1 topic' style='font-size: 8pt;'>Big Brother Watch</a></li>
+	<li><a href='http://order-order.com/tag/blair/' class='tag-link-28011' title='113 topics' style='font-size: 8pt;'>Blair</a></li>
+	<li><a href='http://order-order.com/tag/blair-foundation/' class='tag-link-665044' title='12 topics' style='font-size: 8pt;'>Blair Foundation</a></li>
+	<li><a href='http://order-order.com/tag/blears/' class='tag-link-6471610' title='10 topics' style='font-size: 8pt;'>Blears</a></li>
+	<li><a href='http://order-order.com/tag/blogging-on-blogging/' class='tag-link-110836' title='417 topics' style='font-size: 8pt;'>Blogging on Blogging</a></li>
+	<li><a href='http://order-order.com/tag/boom-to-bust/' class='tag-link-6474771' title='159 topics' style='font-size: 8pt;'>Boom to Bust</a></li>
+	<li><a href='http://order-order.com/tag/boris/' class='tag-link-220583' title='142 topics' style='font-size: 8pt;'>Boris</a></li>
+	<li><a href='http://order-order.com/tag/boulton/' class='tag-link-6471585' title='7 topics' style='font-size: 8pt;'>Boulton</a></li>
+	<li><a href='http://order-order.com/tag/brillo/' class='tag-link-1853096' title='43 topics' style='font-size: 8pt;'>Brillo</a></li>
+	<li><a href='http://order-order.com/tag/bryant/' class='tag-link-295238' title='1 topic' style='font-size: 8pt;'>Bryant</a></li>
+	<li><a href='http://order-order.com/tag/bureaucracy/' class='tag-link-754' title='8 topics' style='font-size: 8pt;'>Bureaucracy</a></li>
+	<li><a href='http://order-order.com/tag/burnham/' class='tag-link-1821598' title='23 topics' style='font-size: 8pt;'>Burnham</a></li>
+	<li><a href='http://order-order.com/tag/buzzfeed/' class='tag-link-639079' title='2 topics' style='font-size: 8pt;'>BuzzFeed</a></li>
+	<li><a href='http://order-order.com/tag/by-elections/' class='tag-link-463968' title='121 topics' style='font-size: 8pt;'>By-Elections</a></li>
+	<li><a href='http://order-order.com/tag/by-election/' class='tag-link-572525' title='6 topics' style='font-size: 8pt;'>By Election</a></li>
+	<li><a href='http://order-order.com/tag/cabinet/' class='tag-link-368773' title='18 topics' style='font-size: 8pt;'>Cabinet</a></li>
+	<li><a href='http://order-order.com/tag/cabinet-office-spy/' class='tag-link-191550253' title='7 topics' style='font-size: 8pt;'>Cabinet Office Spy</a></li>
+	<li><a href='http://order-order.com/tag/calamity-kenny/' class='tag-link-46506061' title='11 topics' style='font-size: 8pt;'>Calamity Kenny</a></li>
+	<li><a href='http://order-order.com/tag/caption-contest/' class='tag-link-135999' title='361 topics' style='font-size: 8pt;'>Caption Contest</a></li>
+	<li><a href='http://order-order.com/tag/cartoon/' class='tag-link-20587' title='352 topics' style='font-size: 8pt;'>Cartoon</a></li>
+	<li><a href='http://order-order.com/tag/cash/' class='tag-link-92788' title='567 topics' style='font-size: 8pt;'>Cash</a></li>
+	<li><a href='http://order-order.com/tag/cbs/' class='tag-link-137901' title='1 topic' style='font-size: 8pt;'>CBS</a></li>
+	<li><a href='http://order-order.com/tag/cchq/' class='tag-link-838364' title='184 topics' style='font-size: 8pt;'>CCHQ</a></li>
+	<li><a href='http://order-order.com/tag/change/' class='tag-link-14526' title='9 topics' style='font-size: 8pt;'>Change</a></li>
+	<li><a href='http://order-order.com/tag/channel-4/' class='tag-link-89382' title='2 topics' style='font-size: 8pt;'>Channel 4</a></li>
+	<li><a href='http://order-order.com/tag/charlie-whelan/' class='tag-link-10842627' title='4 topics' style='font-size: 8pt;'>Charlie Whelan</a></li>
+	<li><a href='http://order-order.com/tag/cherie/' class='tag-link-830494' title='3 topics' style='font-size: 8pt;'>Cherie</a></li>
+	<li><a href='http://order-order.com/tag/chris-bryant/' class='tag-link-1711996' title='30 topics' style='font-size: 8pt;'>Chris Bryant</a></li>
+	<li><a href='http://order-order.com/tag/chris-huhne/' class='tag-link-1092325' title='1 topic' style='font-size: 8pt;'>Chris Huhne</a></li>
+	<li><a href='http://order-order.com/tag/christine-lagarde/' class='tag-link-1468956' title='1 topic' style='font-size: 8pt;'>Christine Lagarde</a></li>
+	<li><a href='http://order-order.com/tag/chuka-umunna/' class='tag-link-6650883' title='52 topics' style='font-size: 8pt;'>Chuka Umunna</a></li>
+	<li><a href='http://order-order.com/tag/circular-firing-squad/' class='tag-link-5764437' title='7 topics' style='font-size: 8pt;'>Circular Firing Squad</a></li>
+	<li><a href='http://order-order.com/tag/city-am/' class='tag-link-2138021' title='2 topics' style='font-size: 8pt;'>City AM</a></li>
+	<li><a href='http://order-order.com/tag/civil-service/' class='tag-link-461325' title='18 topics' style='font-size: 8pt;'>Civil Service</a></li>
+	<li><a href='http://order-order.com/tag/claire-perry/' class='tag-link-42626971' title='10 topics' style='font-size: 8pt;'>Claire Perry</a></li>
+	<li><a href='http://order-order.com/tag/clegg/' class='tag-link-1992114' title='54 topics' style='font-size: 8pt;'>Clegg</a></li>
+	<li><a href='http://order-order.com/tag/cnn/' class='tag-link-55758' title='1 topic' style='font-size: 8pt;'>CNN</a></li>
+	<li><a href='http://order-order.com/tag/constance-briscoe/' class='tag-link-5107641' title='2 topics' style='font-size: 8pt;'>Constance Briscoe</a></li>
+	<li><a href='http://order-order.com/tag/coulson/' class='tag-link-16021653' title='33 topics' style='font-size: 8pt;'>Coulson</a></li>
+	<li><a href='http://order-order.com/tag/craig-oliver/' class='tag-link-659638' title='1 topic' style='font-size: 8pt;'>Craig Oliver</a></li>
+	<li><a href='http://order-order.com/tag/crick/' class='tag-link-1616529' title='6 topics' style='font-size: 8pt;'>Crick</a></li>
+	<li><a href='http://order-order.com/tag/crime/' class='tag-link-3898' title='180 topics' style='font-size: 8pt;'>Crime</a></li>
+	<li><a href='http://order-order.com/tag/crime-must-not-pay/' class='tag-link-6471337' title='166 topics' style='font-size: 8pt;'>Crime Must Not Pay</a></li>
+	<li><a href='http://order-order.com/tag/cuts/' class='tag-link-246092' title='20 topics' style='font-size: 8pt;'>Cuts</a></li>
+	<li><a href='http://order-order.com/tag/damian-mcbride/' class='tag-link-19048141' title='2 topics' style='font-size: 8pt;'>Damian McBride</a></li>
+	<li><a href='http://order-order.com/tag/danny-alexander/' class='tag-link-8544818' title='3 topics' style='font-size: 8pt;'>Danny Alexander</a></li>
+	<li><a href='http://order-order.com/tag/darling/' class='tag-link-24132' title='3 topics' style='font-size: 8pt;'>Darling</a></li>
+	<li><a href='http://order-order.com/tag/data-journalism/' class='tag-link-22435448' title='7 topics' style='font-size: 8pt;'>Data Journalism</a></li>
+	<li><a href='http://order-order.com/tag/dave/' class='tag-link-56816' title='626 topics' style='font-size: 8pt;'>Dave</a></li>
+	<li><a href='http://order-order.com/tag/david-axelrod/' class='tag-link-2545326' title='2 topics' style='font-size: 8pt;'>David Axelrod</a></li>
+	<li><a href='http://order-order.com/tag/david-davis/' class='tag-link-838399' title='29 topics' style='font-size: 8pt;'>David Davis</a></li>
+	<li><a href='http://order-order.com/tag/david-miliband/' class='tag-link-418745' title='20 topics' style='font-size: 8pt;'>David Miliband</a></li>
+	<li><a href='http://order-order.com/tag/dcms/' class='tag-link-644680' title='1 topic' style='font-size: 8pt;'>DCMS</a></li>
+	<li><a href='http://order-order.com/tag/dead-tree-press/' class='tag-link-6471364' title='638 topics' style='font-size: 8pt;'>Dead Tree Press</a></li>
+	<li><a href='http://order-order.com/tag/dead-tress-press/' class='tag-link-225043945' title='1 topic' style='font-size: 8pt;'>Dead Tress Press</a></li>
+	<li><a href='http://order-order.com/tag/debates/' class='tag-link-6992' title='3 topics' style='font-size: 8pt;'>Debates</a></li>
+	<li><a href='http://order-order.com/tag/deborah-mattinson/' class='tag-link-6471609' title='22 topics' style='font-size: 8pt;'>Deborah Mattinson</a></li>
+	<li><a href='http://order-order.com/tag/debt/' class='tag-link-22790' title='17 topics' style='font-size: 8pt;'>Debt</a></li>
+	<li><a href='http://order-order.com/tag/decc/' class='tag-link-1084071' title='1 topic' style='font-size: 8pt;'>DECC</a></li>
+	<li><a href='http://order-order.com/tag/demos/' class='tag-link-25994' title='20 topics' style='font-size: 8pt;'>Demos</a></li>
+	<li><a href='http://order-order.com/tag/derek-draper/' class='tag-link-2517792' title='64 topics' style='font-size: 8pt;'>Derek Draper</a></li>
+	<li><a href='http://order-order.com/tag/diane-abbott/' class='tag-link-2945065' title='88 topics' style='font-size: 8pt;'>Diane Abbott</a></li>
+	<li><a href='http://order-order.com/tag/disintermediation/' class='tag-link-1010209' title='64 topics' style='font-size: 8pt;'>Disintermediation</a></li>
+	<li><a href='http://order-order.com/tag/dods/' class='tag-link-892297' title='14 topics' style='font-size: 8pt;'>Dods</a></li>
+	<li><a href='http://order-order.com/tag/dont-unseat-ed-miliband-association/' class='tag-link-73881931' title='37 topics' style='font-size: 8pt;'>Don't Unseat Ed Miliband Association</a></li>
+	<li><a href='http://order-order.com/tag/donorgate/' class='tag-link-2959810' title='59 topics' style='font-size: 8pt;'>Donorgate</a></li>
+	<li><a href='http://order-order.com/tag/douglas-alexander/' class='tag-link-1344558' title='18 topics' style='font-size: 8pt;'>Douglas Alexander</a></li>
+	<li><a href='http://order-order.com/tag/douglas-carswell/' class='tag-link-11180562' title='4 topics' style='font-size: 8pt;'>Douglas Carswell</a></li>
+	<li><a href='http://order-order.com/tag/downing-street/' class='tag-link-735922' title='267 topics' style='font-size: 8pt;'>Downing Street</a></li>
+	<li><a href='http://order-order.com/tag/drugs/' class='tag-link-6200' title='63 topics' style='font-size: 8pt;'>Drugs</a></li>
+	<li><a href='http://order-order.com/tag/drunk/' class='tag-link-14748' title='149 topics' style='font-size: 8pt;'>Drunk</a></li>
+	<li><a href='http://order-order.com/tag/dwp/' class='tag-link-467455' title='1 topic' style='font-size: 8pt;'>DWP</a></li>
+	<li><a href='http://order-order.com/tag/early-day-motions/' class='tag-link-4056130' title='1 topic' style='font-size: 8pt;'>Early Day Motions</a></li>
+	<li><a href='http://order-order.com/tag/economist/' class='tag-link-90948' title='1 topic' style='font-size: 8pt;'>Economist</a></li>
+	<li><a href='http://order-order.com/tag/economy/' class='tag-link-8590' title='1 topic' style='font-size: 8pt;'>economy</a></li>
+	<li><a href='http://order-order.com/tag/ed-balls/' class='tag-link-838371' title='13 topics' style='font-size: 8pt;'>Ed Balls</a></li>
+	<li><a href='http://order-order.com/tag/ed-mil/' class='tag-link-196771263' title='1 topic' style='font-size: 8pt;'>ed mil</a></li>
+	<li><a href='http://order-order.com/tag/ed-miliband/' class='tag-link-1346831' title='7 topics' style='font-size: 8pt;'>Ed Miliband</a></li>
+	<li><a href='http://order-order.com/tag/elections/' class='tag-link-31174' title='34 topics' style='font-size: 8pt;'>Elections</a></li>
+	<li><a href='http://order-order.com/tag/emos/' class='tag-link-322800' title='1 topic' style='font-size: 8pt;'>EMOs</a></li>
+	<li><a href='http://order-order.com/tag/energy/' class='tag-link-1212' title='31 topics' style='font-size: 8pt;'>Energy</a></li>
+	<li><a href='http://order-order.com/tag/eu/' class='tag-link-2702' title='324 topics' style='font-size: 8pt;'>EU</a></li>
+	<li><a href='http://order-order.com/tag/evidence-based-blogging/' class='tag-link-24441140' title='97 topics' style='font-size: 8pt;'>Evidence Based Blogging</a></li>
+	<li><a href='http://order-order.com/tag/exception-francaise/' class='tag-link-6471630' title='25 topics' style='font-size: 8pt;'>Exception Française</a></li>
+	<li><a href='http://order-order.com/tag/expenses/' class='tag-link-60787' title='126 topics' style='font-size: 8pt;'>Expenses</a></li>
+	<li><a href='http://order-order.com/tag/express/' class='tag-link-87946' title='7 topics' style='font-size: 8pt;'>Express</a></li>
+	<li><a href='http://order-order.com/tag/farage/' class='tag-link-6430369' title='67 topics' style='font-size: 8pt;'>Farage</a></li>
+	<li><a href='http://order-order.com/tag/fco/' class='tag-link-636973' title='2 topics' style='font-size: 8pt;'>FCO</a></li>
+	<li><a href='http://order-order.com/tag/ferrets-in-a-sack/' class='tag-link-6471614' title='36 topics' style='font-size: 8pt;'>Ferrets-in-a-Sack</a></li>
+	<li><a href='http://order-order.com/tag/financial-times/' class='tag-link-308861' title='10 topics' style='font-size: 8pt;'>Financial Times</a></li>
+	<li><a href='http://order-order.com/tag/foi/' class='tag-link-206185' title='2 topics' style='font-size: 8pt;'>FOI</a></li>
+	<li><a href='http://order-order.com/tag/fox/' class='tag-link-14556' title='1 topic' style='font-size: 8pt;'>
+8000
+Fox</a></li>
+	<li><a href='http://order-order.com/tag/francis-maude/' class='tag-link-6471604' title='6 topics' style='font-size: 8pt;'>Francis Maude</a></li>
+	<li><a href='http://order-order.com/tag/freedom-for-scotland/' class='tag-link-54060606' title='22 topics' style='font-size: 8pt;'>Freedom for Scotland</a></li>
+	<li><a href='http://order-order.com/tag/freedom-for-the-press/' class='tag-link-155927271' title='1 topic' style='font-size: 8pt;'>Freedom for the Press</a></li>
+	<li><a href='http://order-order.com/tag/freedom-of-the-press/' class='tag-link-80722' title='54 topics' style='font-size: 8pt;'>Freedom of the Press</a></li>
+	<li><a href='http://order-order.com/tag/freedom-to-party/' class='tag-link-6471582' title='148 topics' style='font-size: 8pt;'>Freedom to Party</a></li>
+	<li><a href='http://order-order.com/tag/free-scotland/' class='tag-link-12332556' title='28 topics' style='font-size: 8pt;'>Free Scotland</a></li>
+	<li><a href='http://order-order.com/tag/free-speech/' class='tag-link-39274' title='3 topics' style='font-size: 8pt;'>Free Speech</a></li>
+	<li><a href='http://order-order.com/tag/ft/' class='tag-link-8863' title='2 topics' style='font-size: 8pt;'>FT</a></li>
+	<li><a href='http://order-order.com/tag/g20/' class='tag-link-859685' title='2 topics' style='font-size: 8pt;'>G20</a></li>
+	<li><a href='http://order-order.com/tag/gabby-bertin/' class='tag-link-23415559' title='2 topics' style='font-size: 8pt;'>Gabby Bertin</a></li>
+	<li><a href='http://order-order.com/tag/gallery-guido/' class='tag-link-196507153' title='88 topics' style='font-size: 8pt;'>Gallery Guido</a></li>
+	<li><a href='http://order-order.com/tag/gchq/' class='tag-link-989527' title='2 topics' style='font-size: 8pt;'>GCHQ</a></li>
+	<li><a href='http://order-order.com/tag/george-osborne/' class='tag-link-838384' title='201 topics' style='font-size: 8pt;'>George Osborne</a></li>
+	<li><a href='http://order-order.com/tag/god/' class='tag-link-7816' title='7 topics' style='font-size: 8pt;'>God</a></li>
+	<li><a href='http://order-order.com/tag/godfrey-bloom/' class='tag-link-11680688' title='1 topic' style='font-size: 8pt;'>Godfrey Bloom</a></li>
+	<li><a href='http://order-order.com/tag/google/' class='tag-link-81' title='1 topic' style='font-size: 8pt;'>Google</a></li>
+	<li><a href='http://order-order.com/tag/gordon-brown/' class='tag-link-302533' title='254 topics' style='font-size: 8pt;'>Gordon Brown</a></li>
+	<li><a href='http://order-order.com/tag/gove/' class='tag-link-4524719' title='7 topics' style='font-size: 8pt;'>Gove</a></li>
+	<li><a href='http://order-order.com/tag/green-totalitarianism/' class='tag-link-6471627' title='76 topics' style='font-size: 8pt;'>Green Totalitarianism</a></li>
+	<li><a href='http://order-order.com/tag/guardian/' class='tag-link-25718' title='224 topics' style='font-size: 8pt;'>Guardian</a></li>
+	<li><a href='http://order-order.com/tag/guidos-fashion-tips/' class='tag-link-49141244' title='45 topics' style='font-size: 8pt;'>Guido's Fashion Tips</a></li>
+	<li><a href='http://order-order.com/tag/guido-forks/' class='tag-link-157722792' title='1 topic' style='font-size: 8pt;'>Guido Forks</a></li>
+	<li><a href='http://order-order.com/tag/guidogram/' class='tag-link-27664983' title='103 topics' style='font-size: 8pt;'>Guidogram</a></li>
+	<li><a href='http://order-order.com/tag/guynews-tv/' class='tag-link-20535524' title='724 topics' style='font-size: 8pt;'>GuyNews.TV</a></li>
+	<li><a href='http://order-order.com/tag/hacked-off/' class='tag-link-11767858' title='2 topics' style='font-size: 8pt;'>Hacked Off</a></li>
+	<li><a href='http://order-order.com/tag/hague/' class='tag-link-2179672' title='38 topics' style='font-size: 8pt;'>Hague</a></li>
+	<li><a href='http://order-order.com/tag/hammond/' class='tag-link-1254387' title='2 topics' style='font-size: 8pt;'>Hammond</a></li>
+	<li><a href='http://order-order.com/tag/hancock/' class='tag-link-436741' title='69 topics' style='font-size: 8pt;'>Hancock</a></li>
+	<li><a href='http://order-order.com/tag/harman/' class='tag-link-1056221' title='69 topics' style='font-size: 8pt;'>Harman</a></li>
+	<li><a href='http://order-order.com/tag/harriet-harman/' class='tag-link-620184' title='1 topic' style='font-size: 8pt;'>Harriet Harman</a></li>
+	<li><a href='http://order-order.com/tag/heir-to-blair/' class='tag-link-6470981' title='22 topics' style='font-size: 8pt;'>Heir to Blair</a></li>
+	<li><a href='http://order-order.com/tag/hilton/' class='tag-link-111954' title='9 topics' style='font-size: 8pt;'>Hilton</a></li>
+	<li><a href='http://order-order.com/tag/hodge/' class='tag-link-434896' title='21 topics' style='font-size: 8pt;'>Hodge</a></li>
+	<li><a href='http://order-order.com/tag/house-of-lords/' class='tag-link-284412' title='20 topics' style='font-size: 8pt;'>House of Lords</a></li>
+	<li><a href='http://order-order.com/tag/huffington-post/' class='tag-link-250101' title='24 topics' style='font-size: 8pt;'>Huffington Post</a></li>
+	<li><a href='http://order-order.com/tag/huhne/' class='tag-link-2242810' title='188 topics' style='font-size: 8pt;'>Huhne</a></li>
+	<li><a href='http://order-order.com/tag/hunt/' class='tag-link-176265' title='3 topics' style='font-size: 8pt;'>Hunt</a></li>
+	<li><a href='http://order-order.com/tag/icampaign/' class='tag-link-14203961' title='181 topics' style='font-size: 8pt;'>iCampaign</a></li>
+	<li><a href='http://order-order.com/tag/id-cards/' class='tag-link-49422' title='8 topics' style='font-size: 8pt;'>ID cards</a></li>
+	<li><a href='http://order-order.com/tag/ids/' class='tag-link-3088' title='19 topics' style='font-size: 8pt;'>IDS</a></li>
+	<li><a href='http://order-order.com/tag/i-fought-the-law-and-the-law-didnt-win/' class='tag-link-207701535' title='1 topic' style='font-size: 8pt;'>I Fought the Law and the Law Didn't Win</a></li>
+	<li><a href='http://order-order.com/tag/imf/' class='tag-link-32297' title='8 topics' style='font-size: 8pt;'>IMF</a></li>
+	<li><a href='http://order-order.com/tag/independent/' class='tag-link-14376' title='41 topics' style='font-size: 8pt;'>Independent</a></li>
+	<li><a href='http://order-order.com/tag/indy/' class='tag-link-72124' title='22 topics' style='font-size: 8pt;'>Indy</a></li>
+	<li><a href='http://order-order.com/tag/ios/' class='tag-link-324281' title='1 topic' style='font-size: 8pt;'>iOS</a></li>
+	<li><a href='http://order-order.com/tag/ipsa/' class='tag-link-1813' title='10 topics' style='font-size: 8pt;'>IPSA</a></li>
+	<li><a href='http://order-order.com/tag/iran/' class='tag-link-6645' title='4 topics' style='font-size: 8pt;'>Iran</a></li>
+	<li><a href='http://order-order.com/tag/ireland/' class='tag-link-768' title='54 topics' style='font-size: 8pt;'>Ireland</a></li>
+	<li><a href='http://order-order.com/tag/irony/' class='tag-link-6759' title='1 topic' style='font-size: 8pt;'>Irony</a></li>
+	<li><a href='http://order-order.com/tag/itv/' class='tag-link-15893' title='9 topics' style='font-size: 8pt;'>ITV</a></li>
+	<li><a href='http://order-order.com/tag/jack-straw/' class='tag-link-410079' title='2 topics' style='font-size: 8pt;'>Jack Straw</a></li>
+	<li><a href='http://order-order.com/tag/jim-murphy/' class='tag-link-294902' title='2 topics' style='font-size: 8pt;'>Jim Murphy</a></li>
+	<li><a href='http://order-order.com/tag/johann-hari/' class='tag-link-486088' title='23 topics' style='font-size: 8pt;'>Johann Hari</a></li>
+	<li><a href='http://order-order.com/tag/john-rentoul/' class='tag-link-1308899' title='1 topic' style='font-size: 8pt;'>John Rentoul</a></li>
+	<li><a href='http://order-order.com/tag/jon-snow/' class='tag-link-475771' title='2 topics' style='font-size: 8pt;'>Jon Snow</a></li>
+	<li><a href='http://order-order.com/tag/keith-vaz/' class='tag-link-2213514' title='5 topics' style='font-size: 8pt;'>Keith Vaz</a></li>
+	<li><a href='http://order-order.com/tag/kevin-maguire/' class='tag-link-5398131' title='13 topics' style='font-size: 8pt;'>Kevin Maguire</a></li>
+	<li><a href='http://order-order.com/tag/labour/' class='tag-link-11491' title='436 topics' style='font-size: 8pt;'>Labour</a></li>
+	<li><a href='http://order-order.com/tag/labour-leadership/' class='tag-link-375442' title='190 topics' style='font-size: 8pt;'>Labour Leadership</a></li>
+	<li><a href='http://order-order.com/tag/labourlist/' class='tag-link-15588523' title='1 topic' style='font-size: 8pt;'>LabourList</a></li>
+	<li><a href='http://order-order.com/tag/labour-party/' class='tag-link-1954' title='994 topics' style='font-size: 8pt;'>Labour Party</a></li>
+	<li><a href='http://order-order.com/tag/lad-points/' class='tag-link-147769865' title='1 topic' style='font-size: 8pt;'>Lad Points</a></li>
+	<li><a href='http://order-order.com/tag/lasagne/' class='tag-link-316059' title='1 topic' style='font-size: 8pt;'>Lasagne</a></li>
+	<li><a href='http://order-order.com/tag/laurie-penny/' class='tag-link-18309820' title='4 topics' style='font-size: 8pt;'>Laurie Penny</a></li>
+	<li><a href='http://order-order.com/tag/lembit-opik/' class='tag-link-838366' title='1 topic' style='font-size: 8pt;'>Lembit Opik</a></li>
+	<li><a href='http://order-order.com/tag/lets-get-mashed/' class='tag-link-18407766' title='1 topic' style='font-size: 8pt;'>Let's Get Mashed</a></li>
+	<li><a href='http://order-order.com/tag/leveson/' class='tag-link-26674740' title='76 topics' style='font-size: 8pt;'>Leveson</a></li>
+	<li><a href='http://order-order.com/tag/liam-byrne/' class='tag-link-1813139' title='14 topics' style='font-size: 8pt;'>Liam Byrne</a></li>
+	<li><a href='http://order-order.com/tag/liam-fox/' class='tag-link-435791' title='38 topics' style='font-size: 8pt;'>Liam Fox</a></li>
+	<li><a href='http://order-order.com/tag/libdem/' class='tag-link-2158138' title='12 topics' style='font-size: 8pt;'>LibDem</a></li>
+	<li><a href='http://order-order.com/tag/libdem-race/' class='tag-link-6491784' title='20 topics' style='font-size: 8pt;'>LibDem Race</a></li>
+	<li><a href='http://order-order.com/tag/libdems/' class='tag-link-357849' title='722 topics' style='font-size: 8pt;'>LibDems</a></li>
+	<li><a href='http://order-order.com/tag/loans-for-lordships/' class='tag-link-6471289' title='70 topics' style='font-size: 8pt;'>Loans for Lordships</a></li>
+	<li><a href='http://order-order.com/tag/lobby/' class='tag-link-333515' title='51 topics' style='font-size: 8pt;'>Lobby</a></li>
+	<li><a href='http://order-order.com/tag/lobbyists/' class='tag-link-60890' title='100 topics' style='font-size: 8pt;'>Lobbyists</a></li>
+	<li><a href='http://order-order.com/tag/loony-left/' class='tag-link-65028' title='204 topics' style='font-size: 8pt;'>Loony Left</a></li>
+	<li><a href='http://order-order.com/tag/luciana-berger/' class='tag-link-30669330' title='4 topics' style='font-size: 8pt;'>Luciana Berger</a></li>
+	<li><a href='http://order-order.com/tag/lynton-crosby/' class='tag-link-14469967' title='3 topics' style='font-size: 8pt;'>Lynton Crosby</a></li>
+	<li><a href='http://order-order.com/tag/mlearned-friends/' class='tag-link-5441524' title='193 topics' style='font-size: 8pt;'>M&#039;learned Friends</a></li>
+	<li><a href='http://order-order.com/tag/macshame/' class='tag-link-44195256' title='52 topics' style='font-size: 8pt;'>MacShame</a></li>
+	<li><a href='http://order-order.com/tag/maggie-thatcher/' class='tag-link-2563315' title='98 topics' style='font-size: 8pt;'>Maggie Thatcher</a></li>
+	<li><a href='http://order-order.com/tag/mail/' class='tag-link-5653' title='45 topics' style='font-size: 8pt;'>Mail</a></li>
+	<li><a href='http://order-order.com/tag/mandy/' class='tag-link-79856' title='1 topic' style='font-size: 8pt;'>Mandy</a></li>
+	<li><a href='http://order-order.com/tag/manifesto/' class='tag-link-17020' title='7 topics' style='font-size: 8pt;'>Manifesto</a></li>
+	<li><a href='http://order-order.com/tag/market-watch/' class='tag-link-65873' title='161 topics' style='font-size: 8pt;'>Market Watch</a></li>
+	<li><a href='http://order-order.com/tag/marr/' class='tag-link-222233' title='26 topics' style='font-size: 8pt;'>Marr</a></li>
+	<li><a href='http://order-order.com/tag/max-clifford/' class='tag-link-1184615' title='19 topics' style='font-size: 8pt;'>Max Clifford</a></li>
+	<li><a href='http://order-order.com/tag/mayor-of-london/' class='tag-link-1440618' title='225 topics' style='font-size: 8pt;'>Mayor of London</a></li>
+	<li><a href='http://order-order.com/tag/mcbride/' class='tag-link-741195' title='1 topic' style='font-size: 8pt;'>McBride</a></li>
+	<li><a href='http://order-order.com/tag/media-guardian/' class='tag-link-411731' title='7 topics' style='font-size: 8pt;'>Media Guardian</a></li>
+	<li><a href='http://order-order.com/tag/media-guido/' class='tag-link-93946686' title='1,567 topics' style='font-size: 8pt;'>Media Guido</a></li>
+	<li><a href='http://order-order.com/tag/messagespace/' class='tag-link-1157539' title='14 topics' style='font-size: 8pt;'>MessageSpace</a></li>
+	<li><a href='http://order-order.com/tag/michael-dugher/' class='tag-link-46739609' title='1 topic' style='font-size: 8pt;'>Michael Dugher</a></li>
+	<li><a href='http://order-order.com/tag/michael-gove/' class='tag-link-727558' title='30 topics' style='font-size: 8pt;'>Michael Gove</a></li>
+	<li><a href='http://order-order.com/tag/miliband/' class='tag-link-682365' title='538 topics' style='font-size: 8pt;'>Miliband</a></li>
+	<li><a href='http://order-order.com/tag/mirror/' class='tag-link-8593' title='68 topics' style='font-size: 8pt;'>Mirror</a></li>
+	<li><a href='http://order-order.com/tag/mod/' class='tag-link-19652' title='10 topics' style='font-size: 8pt;'>MoD</a></li>
+	<li><a href='http://order-order.com/tag/moonbat/' class='tag-link-526108' title='19 topics' style='font-size: 8pt;'>Moonbat</a></li>
+	<li><a href='http://order-order.com/tag/msnbc/' class='tag-link-153980' title='1 topic' style='font-size: 8pt;'>MSNBC</a></li>
+	<li><a href='http://order-order.com/tag/murdoch/' class='tag-link-45688' title='17 topics' style='font-size: 8pt;'>Murdoch</a></li>
+	<li><a href='http://order-order.com/tag/myners/' class='tag-link-12008048' title='6 topics' style='font-size: 8pt;'>Myners</a></li>
+	<li><a href='http://order-order.com/tag/mystery/' class='tag-link-13078' title='8 topics' style='font-size: 8pt;'>Mystery</a></li>
+	<li><a href='http://order-order.com/tag/nadine-dorries/' class='tag-link-2465738' title='24 topics' style='font-size: 8pt;'>Nadine Dorries</a></li>
+	<li><a href='http://order-order.com/tag/nanny-state/' class='tag-link-17479' title='1 topic' style='font-size: 8pt;'>Nanny State</a></li>
+	<li><a href='http://order-order.com/tag/new-new-labour/' class='tag-link-6471611' title='27 topics' style='font-size: 8pt;'>New New Labour</a></li>
+	<li><a href='http://order-order.com/tag/news-corp/' class='tag-link-292846' title='1 topic' style='font-size: 8pt;'>News Corp</a></li>
+	<li><a href='http://order-order.com/tag/news-international/' class='tag-link-26384' title='8 topics' style='font-size: 8pt;'>News International</a></li>
+	<li><a href='http://order-order.com/tag/newsnight/' class='tag-link-358015' title='83 topics' style='font-size: 8pt;'>Newsnight</a></li>
+	<li><a href='http://order-order.com/tag/news-of-the-world/' class='tag-link-21593' title='11 topics' style='font-size: 8pt;'>News of the World</a></li>
+	<li><a href='http://order-order.com/tag/new-statesman/' class='tag-link-141544' title='65 topics' style='font-size: 8pt;'>New Statesman</a></li>
+	<li><a href='http://order-order.com/tag/new-york-times/' class='tag-link-33609' title='1 topic' style='font-size: 8pt;'>New York Times</a></li>
+	<li><a href='http://order-order.com/tag/nhs/' class='tag-link-13007' title='26 topics' style='font-size: 8pt;'>NHS</a></li>
+	<li><a href='http://order-order.com/tag/nick-clegg/' class='tag-link-838422' title='107 topics' style='font-size: 8pt;'>Nick Clegg</a></li>
+	<li><a href='http://order-order.com/tag/nick-robinson/' class='tag-link-1135188' title='29 topics' style='font-size: 8pt;'>Nick Robinson</a></li>
+	<li><a href='http://order-order.com/tag/nigel-evans/' class='tag-link-12444070' title='3 topics' style='font-size: 8pt;'>Nigel Evans</a></li>
+	<li><a href='http://order-order.com/tag/nimby/' class='tag-link-486300' title='1 topic' style='font-size: 8pt;'>NIMBY</a></li>
+	<li><a href='http://order-order.com/tag/no2av/' class='tag-link-41671609' title='32 topics' style='font-size: 8pt;'>NO2AV</a></li>
+	<li><a href='http://order-order.com/tag/no2id/' class='tag-link-112247' title='9 topics' style='font-size: 8pt;'>NO2ID</a></li>
+	<li><a href='http://order-order.com/tag/nofront/' class='tag-link-95197527' title='20 topics' style='font-size: 8pt;'>NoFront</a></li>
+	<li><a href='http://order-order.com/tag/norman-tebbit/' class='tag-link-4498123' title='2 topics' style='font-size: 8pt;'>Norman Tebbit</a></li>
+	<li><a href='http://order-order.com/tag/nus/' class='tag-link-13729' title='3 topics' style='font-size: 8pt;'>NUS</a></li>
+	<li><a href='http://order-order.com/tag/observer/' class='tag-link-9778' title='8 topics' style='font-size: 8pt;'>Observer</a></li>
+	<li><a href='http://order-order.com/tag/olr/' class='tag-link-1231550' title='12 topics' style='font-size: 8pt;'>OLR</a></li>
+	<li><a href='http://order-order.com/tag/order-of-the-ott/' class='tag-link-92643306' title='13 topics' style='font-size: 8pt;'>Order of the OTT</a></li>
+	<li><a href='http://order-order.com/tag/owen-jones/' class='tag-link-2542638' title='47 topics' style='font-size: 8pt;'>Owen Jones</a></li>
+	<li><a href='http://order-order.com/tag/parliamentary-reform/' class='tag-link-743563' title='19 topics' style='font-size: 8pt;'>Parliamentary Reform</a></li>
+	<li><a href='http://order-order.com/tag/pesto/' class='tag-link-424697' title='3 topics' style='font-size: 8pt;'>Pesto</a></li>
+	<li><a href='http://order-order.com/tag/peter-hain/' class='tag-link-625891' title='68 topics' style='font-size: 8pt;'>Peter Hain</a></li>
+	<li><a href='http://order-order.com/tag/peter-hitchens/' class='tag-link-895343' title='3 topics' style='font-size: 8pt;'>Peter Hitchens</a></li>
+	<li><a href='http://order-order.com/tag/peter-mandelson/' class='tag-link-654917' title='73 topics' style='font-size: 8pt;'>Peter Mandelson</a></li>
+	<li><a href='http://order-order.com/tag/peter-oborne/' class='tag-link-1111396' title='6 topics' style='font-size: 8pt;'>Peter Oborne</a></li>
+	<li><a href='http://order-order.com/tag/pickles/' class='tag-link-32295' title='11 topics' style='font-size: 8pt;'>Pickles</a></li>
+	<li><a href='http://order-order.com/tag/piers-morgan/' class='tag-link-1081126' title='93 topics' style='font-size: 8pt;'>Piers Morgan</a></li>
+	<li><a href='http://order-order.com/tag/pilgrims/' class='tag-link-324960' title='79 topics' style='font-size: 8pt;'>Pilgrims</a></li>
+	<li><a href='http://order-order.com/tag/platforms/' class='tag-link-9552' title='1 topic' style='font-size: 8pt;'>Platforms</a></li>
+	<li><a href='http://order-order.com/tag/pmqs/' class='tag-link-838377' title='235 topics' style='font-size: 8pt;'>PMQs</a></li>
+	<li><a href='http://order-order.com/tag/policy-for-sale/' class='tag-link-40528525' title='4 topics' style='font-size: 8pt;'>Policy for Sale</a></li>
+	<li><a href='http://order-order.com/tag/poll/' class='tag-link-10386' title='2 topics' style='font-size: 8pt;'>Poll</a></li>
+	<li><a href='http://order-order.com/tag/polls/' class='tag-link-1811' title='199 topics' style='font-size: 8pt;'>Polls</a></li>
+	<li><a href='http://order-order.com/tag/polly-toynbee/' class='tag-link-838382' title='41 topics' style='font-size: 8pt;'>Polly Toynbee</a></li>
+	<li><a href='http://order-order.com/tag/prezza/' class='tag-link-967822' title='52 topics' style='font-size: 8pt;'>Prezza</a></li>
+	<li><a href='http://order-order.com/tag/prime-mentalist/' class='tag-link-17586211' title='1 topic' style='font-size: 8pt;'>Prime Mentalist</a></li>
+	<li><a href='http://order-order.com/tag/private-eye/' class='tag-link-75947' title='9 topics' style='font-size: 8pt;'>Private Eye</a></li>
+	<li><a href='http://order-order.com/tag/profundity-of-the-punditry/' class='tag-link-7935969' title='81 topics' style='font-size: 8pt;'>Profundity of the Punditry</a></li>
+	<li><a href='http://order-order.com/tag/quote-of-the-day/' class='tag-link-18129' title='179 topics' style='font-size: 8pt;'>Quote of the Day</a></li>
+	<li><a href='http://order-order.com/tag/raving/' class='tag-link-3715' title='2 topics' style='font-size: 8pt;'>Raving</a></li>
+	<li><a href='http://order-order.com/tag/rebekah-brooks/' class='tag-link-24547091' title='6 topics' style='font-size: 8pt;'>Rebekah Brooks</a></li>
+	<li><a href='http://order-order.com/tag/red-book/' class='tag-link-1667774' title='6 topics' style='font-size: 8pt;'>Red Book</a></li>
+	<li><a href='http://order-order.com/tag/red-ed/' class='tag-link-43042067' title='40 topics' style='font-size: 8pt;'>Red Ed</a></li>
+	<li><a href='http://order-order.com/tag/remember-remember/' class='tag-link-1439130' title='16 topics' style='font-size: 8pt;'>Remember, Remember</a></li>
+	<li><a href='http://order-order.com/tag/rennard/' class='tag-link-39337013' title='63 topics' style='font-size: 8pt;'>Rennard</a></li>
+	<li><a href='http://order-order.com/tag/reshuffle/' class='tag-link-728288' title='1 topic' style='font-size: 8pt;'>Reshuffle</a></li>
+	<li><a href='http://order-order.com/tag/restore/' class='tag-link-135462' title='4 topics' style='font-size: 8pt;'>Restore</a></li>
+	<li><a href='http://order-order.com/tag/rupert-murdoch/' class='tag-link-105392' title='2 topics' style='font-size: 8pt;'>Rupert Murdoch</a></li>
+	<li><a href='http://order-order.com/tag/russia-today/' class='tag-link-4178256' title='1 topic' style='font-size: 8pt;'>Russia Today</a></li>
+	<li><a href='http://order-order.com/tag/sadiq-khan/' class='tag-link-4535236' title='11 topics' style='font-size: 8pt;'>Sadiq Khan</a></li>
+	<li><a href='http://order-order.com/tag/sajid-javid/' class='tag-link-33592118' title='1 topic' style='font-size: 8pt;'>Sajid Javid</a></li>
+	<li><a href='http://order-order.com/tag/samcam/' class='tag-link-2957553' title='7 topics' style='font-size: 8pt;'>SamCam</a></li>
+	<li><a href='http://order-order.com/tag/saturday-seven-up/' class='tag-link-31806067' title='87 topics' style='font-size: 8pt;'>Saturday Seven Up</a></li>
+	<li><a href='http://order-order.com/tag/scilly-season/' class='tag-link-92822319' title='7 topics' style='font-size: 8pt;'>Scilly Season</a></li>
+	<li><a href='http://order-order.com/tag/shac-attack/' class='tag-link-46703308' title='4 topics' style='font-size: 8pt;'>SHAC Attack</a></li>
+	<li><a href='http://order-order.com/tag/shadow-cabinet/' class='tag-link-720224' title='13 topics' style='font-size: 8pt;'>Shadow Cabinet</a></li>
+	<li><a href='http://order-order.com/tag/shaggable/' class='tag-link-1925516' title='3 topics' style='font-size: 8pt;'>Shaggable</a></li>
+	<li><a href='http://order-order.com/tag/sideboob/' class='tag-link-1037198' title='5 topics' style='font-size: 8pt;'>SideBoob</a></li>
+	<li><a href='http://order-order.com/tag/sir-peter-stringfellow/' class='tag-link-6471089' title='9 topics' style='font-size: 8pt;'>Sir Peter Stringfellow</a></li>
+	<li><a href='http://order-order.com/tag/sith/' class='tag-link-108115' title='83 topics' style='font-size: 8pt;'>Sith</a></li>
+	<li><a href='http://order-order.com/tag/sky/' class='tag-link-11200' title='15 topics' style='font-size: 8pt;'>Sky</a></li>
+	<li><a href='http://order-order.com/tag/sky-news/' class='tag-link-253807' title='8 topics' style='font-size: 8pt;'>Sky News</a></li>
+	<li><a href='http://order-order.com/tag/sleaze/' class='tag-link-147290' title='576 topics' style='font-size: 8pt;'>Sleaze</a></li>
+	<li><a href='http://order-order.com/tag/sleazy-levy/' class='tag-link-6471290' title='65 topics' style='font-size: 8pt;'>Sleazy Levy</a></li>
+	<li><a href='http://order-order.com/tag/smeargate/' class='tag-link-19075862' title='26 topics' style='font-size: 8pt;'>Smeargate</a></li>
+	<li><a href='http://order-order.com/tag/smith-institute/' class='tag-link-6471324' title='87 topics' style='font-size: 8pt;'>Smith Institute</a></li>
+	<li><a href='http://order-order.com/tag/snouts-in-the-trough/' class='tag-link-6471044' title='606 topics' style='font-size: 8pt;'>Snouts in the Trough</a></li>
+	<li><a href='http://order-order.com/tag/snouts-in-trough/' class='tag-link-8419781' title='3 topics' style='font-size: 8pt;'>Snouts in Trough</a></li>
+	<li><a href='http://order-order.com/tag/snp/' class='tag-link-317199' title='4 topics' style='font-size: 8pt;'>SNP</a></li>
+	<li><a href='http://order-order.com/tag/spad/' class='tag-link-3289381' title='105 topics' style='font-size: 8pt;'>SpAd</a></li>
+	<li><a href='http://order-order.com/tag/speaker/' class='tag-link-134896' title='86 topics' style='font-size: 8pt;'>Speaker</a></li>
+	<li><a href='http://order-order.com/tag/speccie/' class='tag-link-34397460' title='1 topic' style='font-size: 8pt;'>Speccie</a></li>
+	<li><a href='http://order-order.com/tag/spectator/' class='tag-link-325119' title='3 topics' style='font-size: 8pt;'>Spectator</a></li>
+	<li><a href='http://order-order.com/tag/spelman/' class='tag-link-2567899' title='1 topic' style='font-size: 8pt;'>Spelman</a></li>
+	<li><a href='http://order-order.com/tag/spin/' class='tag-link-53259' title='679 topics' style='font-size: 8pt;'>Spin</a></li>
+	<li><a href='http://order-order.com/tag/spinbusters/' class='tag-link-23407232' title='22 topics' style='font-size: 8pt;'>Spinbusters</a></li>
+	<li><a href='http://order-order.com/tag/spinwatch/' class='tag-link-973541' title='26 topics' style='font-size: 8pt;'>Spinwatch</a></li>
+	<li><a href='http://order-order.com/tag/sponsored/' class='tag-link-158018' title='10 topics' style='font-size: 8pt;'>Sponsored</a></li>
+	<li><a href='http://order-order.com/tag/standard/' class='tag-link-866' title='9 topics' style='font-size: 8pt;'>Standard</a></li>
+	<li><a href='http://order-order.com/tag/star/' class='tag-link-5652' title='52 topics' style='font-size: 8pt;'>Star</a></li>
+	<li><a href='http://order-order.com/tag/statistics/' class='tag-link-5849' title='263 topics' style='font-size: 8pt;'>Statistics</a></li>
+	<li><a href='http://order-order.com/tag/stats/' class='tag-link-7916' title='12 topics' style='font-size: 8pt;'>Stats</a></li>
+	<li><a href='http://order-order.com/tag/stella-creasy/' class='tag-link-2512704' title='3 topics' style='font-size: 8pt;'>Stella Creasy</a></li>
+	<li><a href='http://order-order.com/tag/stewart-wood/' class='tag-link-16440155' title='1 topic' style='font-size: 8pt;'>Stewart Wood</a></li>
+	<li><a href='http://order-order.com/tag/sun/' class='tag-link-429' title='117 topics' style='font-size: 8pt;'>Sun</a></li>
+	<li><a href='http://order-order.com/tag/sunday-sleaze/' class='tag-link-38528847' title='9 topics' style='font-size: 8pt;'>Sunday Sleaze</a></li>
+	<li><a href='http://order-order.com/tag/sunday-times/' class='tag-link-565484' title='1 topic' style='font-size: 8pt;'>Sunday Times</a></li>
+	<li><a href='http://order-order.com/tag/tactical-voting/' class='tag-link-1959017' title='2 topics' style='font-size: 8pt;'>Tactical Voting</a></li>
+	<li><a href='http://order-order.com/tag/tax/' class='tag-link-8862' title='228 topics' style='font-size: 8pt;'>Tax</a></li>
+	<li><a href='http://order-order.com/tag/taxes/' class='tag-link-4517' title='1 topic' style='font-size: 8pt;'>Taxes</a></li>
+	<li><a href='http://order-order.com/tag/tech-guido/' class='tag-link-220553330' title='1 topic' style='font-size: 8pt;'>Tech Guido</a></li>
+	<li><a href='http://order-order.com/tag/telegraph/' class='tag-link-227242' title='78 topics' style='font-size: 8pt;'>Telegraph</a></li>
+	<li><a href='http://order-order.com/tag/tessa-jowell/' class='tag-link-620186' title='1 topic' style='font-size: 8pt;'>Tessa Jowell</a></li>
+	<li><a href='http://order-order.com/tag/the-cuts/' class='tag-link-15438776' title='6 topics' style='font-size: 8pt;'>The Cuts</a></li>
+	<li><a href='http://order-order.com/tag/the-lobby/' class='tag-link-858623' title='2 topics' style='font-size: 8pt;'>The Lobby</a></li>
+	<li><a href='http://order-order.com/tag/the-rehuffle/' class='tag-link-226173764' title='1 topic' style='font-size: 8pt;'>The Rehuffle</a></li>
+	<li><a href='http://order-order.com/tag/the-reshuffle/' class='tag-link-48948381' title='38 topics' style='font-size: 8pt;'>The Reshuffle</a></li>
+	<li><a href='http://order-order.com/tag/thought-crime/' class='tag-link-336495' title='1 topic' style='font-size: 8pt;'>Thought Crime</a></li>
+	<li><a href='http://order-order.com/tag/times/' class='tag-link-44544' title='36 topics' style='font-size: 8pt;'>Times</a></li>
+	<li><a href='http://order-order.com/tag/tim-montgomerie/' class='tag-link-6471603' title='7 topics' style='font-size: 8pt;'>Tim Montgomerie</a></li>
+	<li><a href='http://order-order.com/tag/tim-yeo/' class='tag-link-5238036' title='33 topics' style='font-size: 8pt;'>Tim Yeo</a></li>
+	<li><a href='http://order-order.com/tag/tips/' class='tag-link-1788' title='6 topics' style='font-size: 8pt;'>Tips</a></li>
+	<li><a href='http://order-order.com/tag/toby-helm/' class='tag-link-5682522' title='1 topic' style='font-size: 8pt;'>Toby Helm</a></li>
+	<li><a href='http://order-order.com/tag/tom-baldwin/' class='tag-link-3056432' title='7 topics' style='font-size: 8pt;'>Tom Baldwin</a></li>
+	<li><a href='http://order-order.com/tag/tom-watson/' class='tag-link-1990965' title='130 topics' style='font-size: 8pt;'>Tom Watson</a></li>
+	<li><a href='http://order-order.com/tag/tories/' class='tag-link-62703' title='1,064 topics' style='font-size: 8pt;'>Tories</a></li>
+	<li><a href='http://order-order.com/tag/tory/' class='tag-link-54029' title='5 topics' style='font-size: 8pt;'>Tory</a></li>
+	<li><a href='http://order-order.com/tag/tory-sleaze/' class='tag-link-19079058' title='4 topics' style='font-size: 8pt;'>Tory Sleaze</a></li>
+	<li><a href='http://order-order.com/tag/totty-watch/' class='tag-link-6471139' title='314 topics' style='font-size: 8pt;'>Totty Watch</a></li>
+	<li><a href='http://order-order.com/tag/trending/' class='tag-link-277230' title='3 topics' style='font-size: 8pt;'>Trending</a></li>
+	<li><a href='http://order-order.com/tag/twat-watch/' class='tag-link-6017034' title='317 topics' style='font-size: 8pt;'>Twat Watch</a></li>
+	<li><a href='http://order-order.com/tag/twitter/' class='tag-link-599182' title='48 topics' style='font-size: 8pt;'>Twitter</a></li>
+	<li><a href='http://order-order.com/tag/twittery/' class='tag-link-2453910' title='65 topics' style='font-size: 8pt;'>Twittery</a></li>
+	<li><a href='http://order-order.com/tag/ukip/' class='tag-link-175677' title='199 topics' style='font-size: 8pt;'>UKIP</a></li>
+	<li><a href='http://order-order.com/tag/un/' class='tag-link-700' title='1 topic' style='font-size: 8pt;'>UN</a></li>
+	<li><a href='http://order-order.com/tag/uncle-fester/' class='tag-link-1608627' title='1 topic' style='font-size: 8pt;'>Uncle Fester</a></li>
+	<li><a href='http://order-order.com/tag/unions/' class='tag-link-1332' title='238 topics' style='font-size: 8pt;'>Unions</a></li>
+	<li><a href='http://order-order.com/tag/unite/' class='tag-link-343189' title='9 topics' style='font-size: 8pt;'>Unite</a></li>
+	<li><a href='http://order-order.com/tag/us-politics/' class='tag-link-30647' title='151 topics' style='font-size: 8pt;'>US Politics</a></li>
+	<li><a href='http://order-order.com/tag/vanity-fair/' class='tag-link-143302' title='1 topic' style='font-size: 8pt;'>Vanity Fair</a></li>
+	<li><a href='http://order-order.com/tag/vince-cable/' class='tag-link-411591' title='45 topics' style='font-size: 8pt;'>Vince Cable</a></li>
+	<li><a href='http://order-order.com/tag/wandsworth-cover-up/' class='tag-link-104341177' title='25 topics' style='font-size: 8pt;'>Wandsworth Cover Up</a></li>
+	<li><a href='http://order-order.com/tag/war/' class='tag-link-3934' title='28 topics' style='font-size: 8pt;'>WAR!</a></li>
+	<li><a href='http://order-order.com/tag/webcameron/' class='tag-link-3874533' title='8 topics' style='font-size: 8pt;'>Webcameron</a></li>
+	<li><a href='http://order-order.com/tag/wegg-prosser/' class='tag-link-6471584' title='3 topics' style='font-size: 8pt;'>Wegg-Prosser</a></li>
+	<li><a href='http://order-order.com/tag/wheres-gordon/' class='tag-link-6471650' title='113 topics' style='font-size: 8pt;'>Where&#039;s Gordon?</a></li>
+	<li><a href='http://order-order.com/tag/wheres-gordon-anyone-but-gordon/' class='tag-link-201581174' title='1 topic' style='font-size: 8pt;'>Where's Gordon? Anyone But Gordon</a></li>
+	<li><a href='http://order-order.com/tag/whips/' class='tag-link-614226' title='4 topics' style='font-size: 8pt;'>Whips</a></li>
+	<li><a href='http://order-order.com/tag/whitehall-wars/' class='
+2984
+tag-link-138412499' title='4 topics' style='font-size: 8pt;'>Whitehall Wars</a></li>
+	<li><a href='http://order-order.com/tag/windows/' class='tag-link-800' title='1 topic' style='font-size: 8pt;'>Windows</a></li>
+	<li><a href='http://order-order.com/tag/wingnut/' class='tag-link-654948' title='2 topics' style='font-size: 8pt;'>Wingnut</a></li>
+	<li><a href='http://order-order.com/tag/wont-someone-think-of-the-children/' class='tag-link-8969350' title='1 topic' style='font-size: 8pt;'>Won't Someone Think Of the Children</a></li>
+	<li><a href='http://order-order.com/tag/wonks/' class='tag-link-821654' title='167 topics' style='font-size: 8pt;'>Wonks</a></li>
+	<li><a href='http://order-order.com/tag/wonk-watch/' class='tag-link-53683047' title='28 topics' style='font-size: 8pt;'>Wonk Watch</a></li>
+	<li><a href='http://order-order.com/tag/wsj/' class='tag-link-8865' title='2 topics' style='font-size: 8pt;'>WSJ</a></li>
+</ul>
+</div><div class='clear'></div>
+</div>
+</div></div>
+<img alt='Guido Reads' height='42' src='http://s0.wp.com/wp-content/themes/vip/orderorder/images/guidoreads.gif?m=1286128821g' width='170'/>
+<div class='section' id='gf-leftColBox3'><div class='widget HTML' id='HTML4'>
+<div class='widget-content'>
+<ul><li><a href="http://www.biased-bbc.blogspot.com/">Biased BBC</a></li>
+<li><a href="http://www.bigbrotherwatch.org.uk">Big Brother Watch</a></li>
+<li><a href="http://www.brianmicklethwait.com/">Brian Micklethwait</a></li>
+<li><a href="http://bucf.wordpress.com/">BUCF</a></li>
+<li><a href="http://www.spectator.co.uk/coffeehouse/">Coffee House</a></li>
+<li><a href="http://conservativehome.blogs.com/torydiary/">ConservativeHome</a></li>
+<li><a href="http://www.conservatives.com/">Conservatives</a></li>
+<li><a href="http://dailyreferendum.blogspot.com/">Daily Referendum</a></li>
+<li><a href="http://www.devilskitchen.me.uk/">Devil&#039;s Kitchen</a></li>
+<li><a href="http://www.talkcarswell.com/">Douglas Carswell MP</a></li>
+<li><a href="http://downingstreetsays.org/">Downing Street Says&#8230;</a></li>
+<li><a href="http://www.anenglishmanscastle.com/">Englishman&#8217;s Castle</a></li>
+<li><a href="http://www.order-order.com">Home</a></li>
+<li><a href="http://www.iaindale.com/">Iain Dale’s Diary</a></li>
+<li><a href="http://jag.my" rel="friend met" title="Jag Singh &#8211; web and political strategist, tech expert known for his track record producing successful, innovative online campaigns." target="_blank">Jag Singh</a></li>
+<li><a href="http://www.labour.org.uk/">Labour</a></li>
+<li><a href="http://www.labourlist.org/">LabourList</a></li>
+<li><a href="http://www.libdemvoice.org/">LibDem  Voice</a></li>
+<li><a href="http://www.libdems.org.uk/">Liberal Democrats</a></li>
+<li><a href="http://liberalengland.blogspot.com/">Liberal England</a></li>
+<li><a href="http://messagespace.co.uk/blog">MessageSpace</a></li>
+<li><a href="http://blogs.bbc.co.uk/nickrobinson/">Nick Robinson</a></li>
+<li><a href="http://politicalbetting.com/">PoliticalBetting</a></li>
+<li><a href="http://www.politicshome.com//">PoliticsHome</a></li>
+<li><a href="http://www.ukpollingreport.co.uk/">Polling Report</a></li>
+<li><a href="http://www.publicwhip.org.uk/">Public Whip</a></li>
+<li><a href="http://the-red-rag.blogspot.com/">Red Rag</a></li>
+<li><a href="http://www.samizdata.net/blog/">Samizdata</a></li>
+<li><a href="http://www.sluggerotoole.com/index.php">Slugger O&#8217;Toole</a></li>
+<li><a href="http://www.spectator.co.uk/coffeehouse/">Speccie blog</a></li>
+<li><a href="http://www.spy.org.uk/spyblog">Spy Blog</a></li>
+<li><a href="http://theyworkforyou.com/">TheyWorkForYou.com</a></li>
+<li><a href="http://www.timworstall.com/">Tim Worstall</a></li>
+<li><a href="http://www.torybear.com/" title="Tory Gossip">Tory Bear</a></li>
+</ul>
+</div>
+
+<div class='clear'></div>
+</div><div class='widget HTML' id='HTML8'>
+<div class='clear'></div>
+</div></div>
+</div>
+<div id='gf-leftColTail'></div>
+</div><div id='gf-footer'>
+<div class='gf-footerText' id='gf-footerBox'>Published by Global & General Nominees Limited<br/>
+   &#169; Global & General Nominees Limited 2004 - 2013. Powered by <a class="white" href="http://wordpress.com/vip-hosting/" alt="WordPress.com VIP hosting">WordPress.com VIP</a>. <a class="white" href="http://order-order.com/privacy-policy/">Privacy Policy</a>. All Rights Reserved</div>
+<img alt='DesignBy' border='0' class='DesignByImage' src='http://s0.wp.com/wp-content/themes/vip/orderorder/images/405100714_e0373ba3ba_m.jpg?m=1241620963g'/></div>
+</div>
+</div>
+<!-- Start of StatCounter Code -->
+<script type="text/javascript">
+var sc_project=623009; 
+var sc_invisible=1; 
+var sc_partition=58; 
+var sc_click_stat=1; 
+var sc_security="1d7b36ae"; 
+</script>
+<script type="text/javascript"
+src="http://www.statcounter.com/counter/counter.js"></script><noscript><div
+class="statcounter"><a title="counters for myspace"
+href="http://www.statcounter.com/myspace/"
+target="_blank"><img class="statcounter"
+src="http://c.statcounter.com/623009/0/1d7b36ae/1/"
+alt="counters for myspace" ></a></div></noscript>
+<!-- End of StatCounter Code -->
+
+
+	<div style="display:none">
+	</div>
+
+	<script type="text/javascript">
+		WPCOM_sharing_counts = {"http:\/\/order-order.com\/2014\/04\/30\/suspended-council-candidate-doesnt-make-national-news\/":165873}	</script>
+		<script type="text/javascript">
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-facebook' ).on( 'click', function() {
+				window.open( jQuery(this).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-twitter' ).on( 'click', function() {
+				window.open( jQuery(this).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+				return false;
+			});
+		});
+		</script>
+		<script type="text/javascript">
+			jQuery( document ).ready( function() {
+			    jQuery.getScript( '//platform.linkedin.com/in.js?async=true', function success() {
+			        IN.init();
+			    });
+			});
+			jQuery( document.body ).on( 'post-load', function() {
+				if ( typeof IN != 'undefined' )
+					IN.parse();
+			});
+			</script>	<div id="sharing_email" style="display: none;">
+		<form action="/2014/04/30/suspended-council-candidate-doesnt-make-national-news/?utm_source=Guy+Fawkes%27+Blog+List&#038;utm_campaign=c0e09ae7b1-happy+hour&#038;utm_medium=email&#038;utm_term=0_547885726c-c0e09ae7b1-225758585" method="post">
+			<label for="target_email">Send to Email Address</label>
+			<input type="email" name="target_email" id="target_email" value="" />
+
+			
+				<label for="source_name">Your Name</label>
+				<input type="text" name="source_name" id="source_name" value="" />
+
+				<label for="source_email">Your Email Address</label>
+				<input type="email" name="source_email" id="source_email" value="" />
+
+			
+			<div class="recaptcha" id="sharing_recaptcha"></div><input type="hidden" name="recaptcha_public_key" id="recaptcha_public_key" value="6LcYW8MSAAAAADBAuEH9yaPcF7lWh11Iq62ZKtoo" />
+			<img style="float: right; display: none" class="loading" src="http://s2.wp.com/wp-content/mu-plugins/post-flair/sharing/images/loading.gif?m=1315610318g" alt="loading" width="16" height="16" />
+			<input type="submit" value="Send Email" class="sharing_send" />
+			<a href="#cancel" class="sharing_cancel">Cancel</a>
+
+			<div class="errors errors-1" style="display: none;">
+				Post was not sent - check your email addresses!			</div>
+
+			<div class="errors errors-2" style="display: none;">
+				Email check failed, please try again			</div>
+
+			<div class="errors errors-3" style="display: none;">
+				Sorry, your blog cannot share posts by email.			</div>
+		</form>
+	</div>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var recaptcha_options = {"lang":"en"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://s2.wp.com/_static/??/wp-content/js/devicepx.js,/wp-includes/js/comment-reply.min.js,/wp-content/mu-plugins/post-flair/sharing/sharing.js?m=1394096990j'></script>
+<script type='text/javascript' src='http://platform.twitter.com/widgets.js?ver=20111117'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/mu-plugins/twitter-blackbird-pie/pending.js?m=1392853840g'></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script><script src="http://s.stats.wordpress.com/w.js?21" type="text/javascript"></script>
+<script type="text/javascript">
+st_go({'blog':'7515463','v':'wpcom','tz':'1','user_id':'0','post':'165873','subd':'orderorder'});
+function st_vt() {var x=document.createElement("img");x.src="http://stats.wordpress.com/g.gif?blog=7515463&v=wpcomvt&tz=1&user_id=0&post=165873&subd=orderorder&rand="+Math.random();}
+ex_go({'crypt':'UE40eW5QN0p8M2Y/RE1BNmNJfGhxNCVxUDExYmtib2E/SzdEJm0lUEtbdFU0fFk4cHZvcUFrZT90Tn4yQm1+R3NyNTdmSlhZa3QwaGpTaG5pUEZPXVBKbWZlRnllS054K3x5PzlfRERoUGNZUGFkLDA2dzdYUXRhZ0dEUk5iMjJoeUgzJkVaS2UwVzgmeDh0JnxLX2xEZEkyUkpvOUhLamJTL00vcllta35kYnNTa1JCckdPTV9UZUZNaDglXUV0M2Y0MS8uZGRbSTMyZnQ9cH5TMS9wOXFvcT0wLDRVXzZtPWhVcEIyZ3xFUnx8ajNhc1JQfDR4cGc4dEJoRXFdTFVP'});
+addLoadEvent(function(){linktracker_init('7515463',165873);});
+	</script>
+<noscript><img src="http://stats.wordpress.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//stats.wordpress.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script>
+</body>
+</html>
+0
+
+
+

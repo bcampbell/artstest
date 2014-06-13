@@ -1,0 +1,824 @@
+WARC/1.0
+Content-Length: 43731
+Content-Type: application/http; msgtype=response
+Warc-Date: 2014-05-11T16:56:41Z
+Warc-Record-Id: urn:X-scrapeomat:1399827402754172439
+Warc-Target-Uri: http://labourlist.org/2014/05/this-dodgy-tory-bar-chart-is-spectacular/
+Warc-Type: response
+X-Scrapeomat-Srcurl: http://labourlist.org/2014/05/this-dodgy-tory-bar-chart-is-spectacular/
+
+HTTP/1.1 200 OK
+Content-Length: 43387
+Accept-Ranges: bytes
+Cache-Control: max-age=3, must-revalidate
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+Date: Sun, 11 May 2014 16:56:42 GMT
+Expires: Sun, 11 May 2014 16:56:45 GMT
+Last-Modified: Sun, 11 May 2014 15:55:56 GMT
+Server: Apache/2.2
+Vary: Accept-Encoding,Cookie
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+<head profile="http://gmpg.org/xfn/11">
+<title>This dodgy Tory bar chart is spectacular | LabourList</title>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta name="description" content="Despite Nick Clegg&#8217;s best protestations, it&#8217;s often hard to tell exactly what influence, if any, the Lib Dems have had over their Coalition partners these past four years. Well, now we know: they&#8217;ve passed on the secrets behind the fabled dodgy Lib Dem bar chart. Ian Austin, the MP for Dudley, this afternoon tweeted this offering from his local Conservative Party&#8217;s leaflets: &nbsp; Even the Lib Dems will be impressed by this frankly spectacular effort. Not only are we fairly [&hellip;]" />
+<meta name="keywords" content="bar charts,dodgy bar charts,Ian Austin,Tories," /><meta name="robots" content="index, follow" />
+
+<link rel="alternate" type="application/rss+xml" title="LabourList RSS Feed" href="http://labourlist.org/feed/" />
+<link rel="pingback" href="http://labourlist.org/xmlrpc.php" />
+<link rel="stylesheet" type="text/css" href="http://labourlist.org/wp-content/themes/labourlist/style.css" media="screen" />
+<link rel="stylesheet" href="http://labourlist.org/wp-content/themes/tribune/css/dropdown.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://labourlist.org/wp-content/themes/tribune/custom.css" type="text/css" media="screen" />
+<!--[if IE 6]><link rel="stylesheet" type="text/css" href="http://labourlist.org/wp-content/themes/tribune/css/ie6.css" /><![endif]-->
+<!--[if IE 7 ]><link rel="stylesheet" type="text/css" href="http://labourlist.org/wp-content/themes/tribune/css/ie7.css" /><![endif]-->
+<link rel="shortcut icon" href="http://labourlist.org/favicon.png" type="image/x-icon" /> 
+
+	
+<link rel="alternate" type="application/rss+xml" title="LabourList &raquo; This dodgy Tory bar chart is spectacular Comments Feed" href="http://labourlist.org/2014/05/this-dodgy-tory-bar-chart-is-spectacular/feed/" />
+<link rel='stylesheet' id='yarppWidgetCss-css'  href='http://labourlist.org/wp-content/plugins/yet-another-related-posts-plugin/style/widget.css?ver=3.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='login-with-ajax-css'  href='http://labourlist.org/wp-content/plugins/login-with-ajax/widget/widget.css?ver=3.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='flick-css'  href='http://labourlist.org/wp-content/plugins/mailchimp//css/flick/flick.css?ver=3.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='mailchimpSF_main_css-css'  href='http://labourlist.org/?mcsf_action=main_css&#038;ver=3.9.1' type='text/css' media='all' />
+<!--[if IE]>
+<link rel='stylesheet' id='mailchimpSF_ie_css-css'  href='http://labourlist.org/wp-content/plugins/mailchimp/css/ie.css?ver=3.9.1' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='jetpack-subscriptions-css'  href='http://labourlist.org/wp-content/plugins/jetpack/modules/subscriptions/subscriptions.css?ver=3.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='yarppRelatedCss-css'  href='http://labourlist.org/wp-content/plugins/yet-another-related-posts-plugin/style/related.css?ver=3.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://labourlist.org/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='wpt-twitter-feed-css'  href='http://labourlist.org/wp-content/plugins/wp-to-twitter/css/twitter-feed.css?ver=3.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack-widgets-css'  href='http://labourlist.org/wp-content/plugins/jetpack/modules/widgets/widgets.css?ver=20121003' type='text/css' media='all' />
+<link rel='stylesheet' id='tabbed-widgets-css'  href='http://labourlist.org/wp-content/plugins/tabbed-widgets/css/tabbed-widgets.css?ver=3.9.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://labourlist.org/wp-content/themes/tribune/js/jquery.js?ver=3.9.1'></script>
+<script type='text/javascript' src='http://labourlist.org/wp-includes/js/json2.min.js?ver=2011-02-23'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var live_blogging = {"ajaxurl":"http:\/\/labourlist.org\/wp-admin\/admin-ajax.php","update_effect":"top"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://labourlist.org/wp-content/plugins/live-blogging/live-blogging.min.js?ver=3.9.1'></script>
+<script type='text/javascript' src='http://labourlist.org/wp-content/plugins/login-with-ajax/widget/login-with-ajax.js?ver=3.9.1'></script>
+<script type='text/javascript' src='http://labourlist.org/wp-content/plugins/mailchimp/js/scrollTo.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://labourlist.org/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.50.0-2014.02.05'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mailchimpSF = {"ajax_url":"http:\/\/labourlist.org\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://labourlist.org/wp-content/plugins/mailchimp/js/mailchimp.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://labourlist.org/wp-includes/js/jquery/ui/jquery.ui.core.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://labourlist.org/wp-content/plugins/mailchimp//js/datepicker.js?ver=3.9.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://labourlist.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://labourlist.org/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='In the battle of ideas, the Tories cannot win' href='http://labourlist.org/2014/05/in-the-battle-of-ideas-the-tories-cannot-win/' />
+<meta name="generator" content="WordPress 3.9.1" />
+<link rel='shortlink' href='http://wp.me/p3MWhS-dIQ' />
+<style type="text/css">
+    .calnk a:hover {
+        background-position:0 0;
+        text-decoration:none;  
+        color:#000000;
+        border-bottom:1px dotted #000000;
+     }
+    .calnk a:visited {
+        text-decoration:none;
+        color:#000000;
+        border-bottom:1px dotted #000000;
+    }
+    .calnk a {
+        text-decoration:none; 
+        color:#000000; 
+        border-bottom:1px dotted #000000;
+    }
+    .calnk a span { 
+        display:none; 
+    }
+    .calnk a:hover span {
+        color:#333333; 
+        background:#F6F79B; 
+        display:block;
+        position:absolute; 
+        margin-top:1px; 
+        padding:5px; 
+        width:150px; 
+        z-index:100;
+        line-height:1.2em;
+    }
+    .calendar-table {
+        border:0 !important;
+        width:100% !important;
+        border-collapse:separate !important;
+        border-spacing:2px !important;
+    }
+    .calendar-heading {
+        height:25px;
+        text-align:center;
+        border:1px solid #D6DED5;
+        background-color:#E4EBE3;
+    }
+    .calendar-next {
+        width:25%;
+        text-align:center;
+    }
+    .calendar-prev {
+        width:25%;
+        text-align:center;
+    }
+    .calendar-month {
+        width:50%;
+        text-align:center;
+        font-weight:bold;
+    }
+    .normal-day-heading {
+        text-align:center;
+        width:25px;
+        height:25px;
+        font-size:0.8em;
+        border:1px solid #DFE6DE;
+        background-color:#EBF2EA;
+    }
+    .weekend-heading {
+        text-align:center;
+        width:25px;
+        height:25px;
+        font-size:0.8em;
+        border:1px solid #DFE6DE;
+        background-color:#EBF2EA;
+        color:#FF0000;
+    }
+    .day-with-date {
+        vertical-align:text-top;
+        text-align:left;
+        width:60px;
+        height:60px;
+        border:1px solid #DFE6DE;
+    }
+    .no-events {
+
+    }
+    .day-without-date {
+        width:60px;
+        height:60px;
+        border:1px solid #E9F0E8;
+    }
+    span.weekend {
+        color:#FF0000;
+    }
+    .current-day {
+        vertical-align:text-top;
+        text-align:left;
+        width:60px;
+        height:60px;
+        border:1px solid #BFBFBF;
+        background-color:#E4EBE3;
+    }
+    span.event {
+        font-size:0.75em;
+    }
+    .kjo-link {
+        font-size:0.75em;
+        text-align:center;
+    }
+    .calendar-date-switcher {
+        height:25px;
+        text-align:center;
+        border:1px solid #D6DED5;
+        background-color:#E4EBE3;
+    }
+    .calendar-date-switcher form {
+        margin:2px;
+    }
+    .calendar-date-switcher input {
+        border:1px #D6DED5 solid;
+        margin:0;
+    }
+    .calendar-date-switcher select {
+        border:1px #D6DED5 solid;
+        margin:0;
+    }
+    .calnk a:hover span span.event-title {
+        padding:0;
+        text-align:center;
+        font-weight:bold;
+        font-size:1.2em;
+        margin-left:0px;
+    }
+    .calnk a:hover span span.event-title-break {
+        width:96%;
+        text-align:center;
+        height:1px;
+        margin-top:5px;
+        margin-right:2%;
+        padding:0;
+        background-color:#000000;
+        margin-left:0px;
+    }
+    .calnk a:hover span span.event-content-break {
+        width:96%;
+        text-align:center;
+        height:1px;
+        margin-top:5px;
+        margin-right:2%;
+        padding:0;
+        background-color:#000000;
+        margin-left:0px;
+    }
+    .page-upcoming-events {
+        font-size:80%;
+    }
+    .page-todays-events {
+        font-size:80%;
+    }
+    .calendar-table table,tbody,tr,td {
+        margin:0 !important;
+        padding:0 !important;
+    }
+    table.calendar-table {
+        margin-bottom:5px !important;
+    }
+    .cat-key {
+        width:100%;
+        margin-top:30px;
+        padding:5px;
+        border:0 !important;
+    }
+    .cal-separate {
+       border:0 !important;
+       margin-top:10px;
+    }
+    table.cat-key {
+       margin-top:5px !important;
+       border:1px solid #DFE6DE !important;
+       border-collapse:separate !important;
+       border-spacing:4px !important;
+       margin-left:2px !important;
+       width:99.5% !important;
+       margin-bottom:5px !important;
+    }
+    .cat-key td {
+       border:0 !important;
+    }
+</style>
+	<script type="text/javascript">
+		jQuery(function($) {
+			$('.date-pick').each(function() {
+				var format = $(this).data('format') || 'mm/dd/yyyy';
+				format = format.replace(/yyyy/i, 'yy');
+				$(this).datepicker({
+					autoFocusNextInput: true,
+					constrainInput: false,
+					changeMonth: true,
+					changeYear: true,
+					beforeShow: function(input, inst) { $('#ui-datepicker-div').addClass('show'); },
+					dateFormat: format.toLowerCase(),
+				});
+			});
+			d = new Date();
+			$('.birthdate-pick').each(function() {
+				var format = $(this).data('format') || 'mm/dd';
+				format = format.replace(/yyyy/i, 'yy');
+				$(this).datepicker({
+					autoFocusNextInput: true,
+					constrainInput: false,
+					changeMonth: true,
+					changeYear: false,
+					minDate: new Date(d.getFullYear(), 1-1, 1),
+					maxDate: new Date(d.getFullYear(), 12-1, 31),
+					beforeShow: function(input, inst) { $('#ui-datepicker-div').removeClass('show'); },
+					dateFormat: format.toLowerCase(),
+				});
+
+			});
+
+		});
+	</script>
+	<meta property="og:image" content="http://labourlist.org/wp-content/uploads/2014/05/BnXSlafIcAEK5bM.jpg"/>
+
+<script type="text/javascript">
+sas_tmstp=Math.round(Math.random()*10000000000);sas_masterflag=1;
+function SmartAdServer(sas_pageid,sas_formatid,sas_target) {
+if (sas_masterflag==1) {sas_masterflag=0;sas_master='M';} else {sas_master='S';};
+document.write('<scr'+'ipt src="http://www6.smartadserver.com/call/pubj/' + sas_pageid + '/' + sas_formatid + '/' + sas_master + '/' + sas_tmstp + '/' + escape(sas_target) + '?"></scr'+'ipt>');
+}
+</script>
+
+
+<!-- All in One SEO Pack 2.1.5 by Michael Torbert of Semper Fi Web Design[221,270] -->
+<meta name="description" content="Despite Nick Clegg's best protestations, it's often hard to tell exactly what influence, if any, the Lib Dems have had over their Coalition partners these past" />
+
+<meta name="keywords" content="bar charts,dodgy bar charts,ian austin,tories" />
+
+<link rel="canonical" href="http://labourlist.org/2014/05/this-dodgy-tory-bar-chart-is-spectacular/" />
+		<script type="text/javascript">
+		  var _gaq = _gaq || [];
+		  _gaq.push(['_setAccount', 'UA-6924530-1']);
+		  _gaq.push(['_trackPageview']);
+		  (function() {
+		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+		</script>
+<!-- /all in one seo pack -->
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #a1a1a1; }
+</style>
+<script type="text/javascript" src="http://labourlist.org/wp-content/themes/tribune/js/tools.js"></script>
+<script type="text/javascript" src="http://labourlist.org/wp-content/themes/tribune/js/dropdown.js"></script>
+<script type="text/javascript" src="http://labourlist.org/wp-content/themes/tribune/js/tooltip.js"></script>
+<script type="text/javascript" src="http://labourlist.org/wp-content/themes/tribune/js/autocolumn.js"></script>
+<script type="text/javascript" src="http://labourlist.org/wp-content/themes/tribune/js/util.js"></script>
+
+</head>
+
+<body onload="fix()">
+<div id="wrapper">
+<div id="inner-wrapper">
+	<div id="header">
+
+		<div id="head-bar">
+
+<div id="messagespace-head">
+
+</div>
+
+						<div id="date">
+				<strong>Sunday</strong>, May 11th 
+			</div>
+			 			
+			<div id="navigation" class="dropdown">
+				 <ul id="menu-top-menu" class=""><li id="menu-item-28587" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28587"><a href="http://labourlist.org/write-for-labourlist/">Write for LabourList</a></li>
+<li id="menu-item-22497" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22497"><a href="http://labourlist.org/donate/">Donate</a></li>
+<li id="menu-item-22498" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22498"><a href="http://labourlist.org/contact/">Contact</a></li>
+<li id="menu-item-22496" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22496"><a href="http://labourlist.org/about/">About Us</a></li>
+</ul> 			</div>
+		</div><!-- /#header-bar -->
+			
+		<div id="inner">
+			<!-- Logo -->
+			<div id="logo">
+				<a href="http://labourlist.org/">
+											<img src="http://labourlist.org/wp-content/uploads/2013/10/Not-beta.png" alt="LabourList" />
+									</a>
+			</div> 
+			<div id="head_banner">
+									 <script type="text/javascript">
+sas_pageid='55084/431395';	// Page : labourlist/ros
+sas_formatid=20458;	 // Format : leaderboard 728x90
+sas_target='';	 // Targeting
+SmartAdServer(sas_pageid,sas_formatid,sas_target);
+</script>
+<noscript>
+<a href="http://www6.smartadserver.com/call/pubjumpi/55084/431395/20458/S/[timestamp]/?" target="_blank">
+<img src="http://www6.smartadserver.com/call/pubi/55084/431395/20458/S/[timestamp]/?" border="0" alt="" /></a>
+</noscript> 
+								 
+			</div>
+			
+			<div id="right">
+				<div id="social">
+					<ul>
+												
+												
+												
+  					</ul>
+				</div>
+				
+				
+			</div><!-- /#right -->
+			
+		</div><!-- /#inner -->
+				
+		<!-- Main Menu -->
+		<div id="menu" class="dropdown">
+				<ul id="menu-categories" class=""><li id="menu-item-22162" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-22162"><a href="http://labourlist.org/category/news/">News</a></li>
+<li id="menu-item-22160" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22160"><a href="http://labourlist.org/category/comment/">Comment</a></li>
+<li id="menu-item-23881" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-23881"><a href="http://labourlist.org/category/video/">Video</a></li>
+<li id="menu-item-22164" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22164"><a href="http://labourlist.org/category/seats-selections/">Seats &#038; Selections</a></li>
+<li id="menu-item-22161" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22161"><a href="http://labourlist.org/category/localgov/">Local Government</a></li>
+<li id="menu-item-22163" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22163"><a href="http://labourlist.org/category/scotland/">Scotland</a></li>
+<li id="menu-item-22166" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22166"><a href="http://labourlist.org/category/wales/">Wales</a></li>
+<li id="menu-item-22165" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22165"><a href="http://labourlist.org/category/unions/">Unions</a></li>
+<li id="menu-item-47375" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47375"><a href="http://labourlist.org/events/">Events</a></li>
+</ul>		</div> <!-- /#menu -->
+		
+		
+		 
+		
+	</div><!-- /#header -->
+	
+	<div id="content">
+
+	
+<div id="sidebar">
+ 
+	 
+	<div id="text-6" class="widget widget_text">			<div class="textwidget"><!-- BEGIN MESSAGESPACE 300x250 CODE BLOCK -->
+<script type="text/javascript">
+sas_pageid='55084/431395';	// Page : labourlist/ros
+sas_formatid=23713;	 // Format : halfpage 300x600
+sas_target='';	 // Targeting
+SmartAdServer(sas_pageid,sas_formatid,sas_target);
+</script>
+<noscript>
+<a href="http://www6.smartadserver.com/call/pubjumpi/55084/431395/23713/M/[timestamp]/?" target="_blank">
+<img src="http://www6.smartadserver.com/call/pubi/55084/431395/23713/M/[timestamp]/?" border="0" alt="" /></a>
+</noscript>
+<!-- END MESSAGESPACE 300x250 CODE BLOCK --></div>
+		</div><div id="text-8" class="widget widget_text"><h3>Proudly sponsored by</h3>			<div class="textwidget"><p align="center" margin-bottom="-10px">
+
+<a href="http://www.gmb.org.uk/gmb_campaigns/other_campaigns/save_remploy_factories.aspx" target="_blank"><img src="http://cdn.cloudleft.org/remploy_2012_03_final.gif" alt="" width="92" height="92" style="margin:5px;" /></a>
+
+<a href="http://www.unison.org.uk/" target="_blank"><img style="width: 92px; height: 92px; margin:5px;" src="http://labourlist.org/wp-content/uploads/2014/02/unisonspeakingupgreen-e1391958724780.jpg" /></a>
+
+<a href="http://www.unitetheunion.org/" target="_blank"><img style="width: 92px; height: 92px; margin:5px;" src="http://labourlist.org/wp-content/uploads/2014/04/Unite-Logo-e13984125073421.jpg" alt="unison speaking up" style="" /></a>
+
+<a href="http://cwu.org" target="_blank"><img style="width: 109px; height: 74px; margin:5px;" src="http://labourlist.org/wp-content/uploads/2012/01/CWU-logo-e1326368978941.jpg" /></a>
+</p></div>
+		</div><div id="text-7" class="widget widget_text"><h3>Sign up to receive our daily email</h3>			<div class="textwidget"><form name="signup" action="http://my.labourlist.org/page/s/sign-up-to-our-daily-email" method="post" id="signup">
+<table>
+ <tr>
+  <td>Email*</td>
+  <td><input type="email" class="text" size="25" id="email" name="email"></td>
+ </tr>
+ <tr>
+  <td>Forename</td>
+  <td><input size="20" id="firstname" name="firstname" type="text"></td>
+ </tr>
+ <tr>
+  <td>Surname</td>
+  <td><input size="20" id="lastname" name="lastname" type="text"></td>
+ </tr>
+</table>
+<div style="font-size:10px;">* denotes required field</div>
+<input style="margin-top:5px;" name="submit-btn" value="Subscribe" type="submit">
+<input name="redirect_url" type="hidden" value="">
+</form></div>
+		</div>	
+		
+</div> <!-- end sidebar -->
+ 		
+	<div id="main">
+	
+				 
+		<div class="post">
+			 
+			<div class="breadcrumbs">You are here: <a href="http://labourlist.org">Home</a> &raquo; <a href="http://labourlist.org/category/news/" title="View all posts in News">News</a> &raquo; <span class="current"></span></div>			 
+ 			<h1> <a href="http://labourlist.org/2014/05/this-dodgy-tory-bar-chart-is-spectacular/" rel="bookmark" title="Permanent Link to This dodgy Tory bar chart is spectacular">This dodgy Tory bar chart is spectacular</a> </h1>
+			
+			<div class="meta">
+ 				<span class="date">May 11, 2014 4:55 pm</span> 															</div> 
+			
+			
+						<div class="meta_box">
+
+    
+ 			<h4>Tags:</h4><span class="tag-links"><a href="http://labourlist.org/tag/bar-charts/" rel="tag">bar charts</a>  <a href="http://labourlist.org/tag/dodgy-bar-charts/" rel="tag">dodgy bar charts</a>  <a href="http://labourlist.org/tag/ian-austin/" rel="tag">Ian Austin</a>  <a href="http://labourlist.org/tag/tories/" rel="tag">Tories</a></span><div class="hr"></div>
+
+				<h4>Share this Article</h4>
+				
+				<ul>
+					<li><a href="http://twitter.com/home?status=This dodgy Tory bar chart is spectacular http://labourlist.org/?p=52752"><img src="http://labourlist.org/wp-content/themes/tribune/images/icons/small/twitter.png" alt="Twitter" />Twitter</a></li>
+					 
+					<li><a href="http://www.facebook.com/sharer.php?u=http://labourlist.org/2014/05/this-dodgy-tory-bar-chart-is-spectacular/&t=This dodgy Tory bar chart is spectacular"><img src="http://labourlist.org/wp-content/themes/tribune/images/icons/small/facebook.png" alt="Facebook" />Facebook</a></li>
+					 
+					<li><a href="http://del.icio.us/post?url=http://labourlist.org/2014/05/this-dodgy-tory-bar-chart-is-spectacular/&amp;title=This dodgy Tory bar chart is spectacular"><img src="http://labourlist.org/wp-content/themes/tribune/images/icons/small/delicious.png" alt="Delicious" />Delicious</a></li>
+					<li><a href="http://digg.com/submit?phase=2&url=http://labourlist.org/2014/05/this-dodgy-tory-bar-chart-is-spectacular/&title=This dodgy Tory bar chart is spectacular"><img src="http://labourlist.org/wp-content/themes/tribune/images/icons/small/digg.png" alt="Digg" />Digg</a></li>
+					<li><a href="http://www.stumbleupon.com/submit?url=http://labourlist.org/2014/05/this-dodgy-tory-bar-chart-is-spectacular/"><img src="http://labourlist.org/wp-content/themes/tribune/images/icons/small/stumble.png" alt="Stumbleupon" />Stumble</a></li>
+					<li><a href="http://reddit.com/submit?url=http://labourlist.org/2014/05/this-dodgy-tory-bar-chart-is-spectacular/"><img src="http://labourlist.org/wp-content/themes/tribune/images/icons/small/reddit.png" alt="Reddit" />Reddit</a></li>
+ 				</ul>
+ 					
+			</div><!-- /.meta_box -->
+				
+			
+					
+			<div class="entry">
+ 				<p>Despite Nick Clegg&#8217;s best protestations, it&#8217;s often hard to tell exactly what influence, if any, the Lib Dems have had over their Coalition partners these past four years. Well, now we know: <em>they&#8217;ve passed on the secrets behind the fabled dodgy Lib Dem bar chart.</em></p>
+<p>Ian Austin, the MP for Dudley, this afternoon <a href="https://twitter.com/IanAustinMP/status/465509676877373440">tweeted this offering from his local Conservative Party&#8217;s leaflets</a>:</p>
+<p><a href="http://labourlist.org/wp-content/uploads/2014/05/BnXSlafIcAEK5bM.jpg"><img class="aligncenter size-medium wp-image-52753" src="http://labourlist.org/wp-content/uploads/2014/05/BnXSlafIcAEK5bM-500x375.jpg" alt="dodgy tory bar chart dudley" width="500" height="375" /></a></p>
+<p>&nbsp;</p>
+<p>Even the Lib Dems will be impressed by this frankly spectacular effort. Not only are we fairly sure that 42% is larger than 32%, we&#8217;re not entirely convinced that three weeks of canvass returns is the most scientific basis. It is a thing of rare beauty to find something so wonderfully misleading.</p>
+<p><em>Just who do Dudley Tories think they&#8217;re fooling?</em></p>
+<script type="text/javascript" src="http://labourlist.org/wp-content/plugins/top-10/top-10-addcount.js.php?top_ten_id=52752&amp;activate_counter=11"></script><div class='yarpp-related'>
+<p>Related posts:</p><ol>
+<li><a href="http://labourlist.org/2013/05/a-spectacularly-dishonest-tory-bar-chart/" rel="bookmark" title="A spectacularly dishonest Tory bar chart">A spectacularly dishonest Tory bar chart </a></li>
+<li><a href="http://labourlist.org/2014/02/another-dodgy-lib-dem-leaflet-this-time-using-five-year-old-data/" rel="bookmark" title="Another dodgy Lib Dem leaflet &#8211; this time, using five year old data">Another dodgy Lib Dem leaflet &#8211; this time, using five year old data </a></li>
+<li><a href="http://labourlist.org/2010/02/more-dodgy-tory-stats-eric-pickles-debunked/" rel="bookmark" title="More dodgy Tory stats: Eric Pickles debunked">More dodgy Tory stats: Eric Pickles debunked </a></li>
+<li><a href="http://labourlist.org/2010/02/more-very-dodgy-tory-stats-as-they-say-54-of-under-18s-likely-to-fall-pregnant-in-most-deprived-areas/" rel="bookmark" title="More very dodgy Tory stats as they say 54% of under 18s likely to fall pregnant in most deprived areas">More very dodgy Tory stats as they say 54% of under 18s likely to fall pregnant in most deprived areas </a></li>
+<li><a href="http://labourlist.org/2010/02/stats-watchdog-rebukes-grayling-for-dodgy-crime-figures/" rel="bookmark" title="Stats watchdog rebukes Grayling for dodgy crime figures">Stats watchdog rebukes Grayling for dodgy crime figures </a></li>
+</ol>
+<img src="http://yarpp.org/pixels/54d54564ab79a3c8aafb44e3926a5bec" alt="YARPP"/>
+</div>
+   			</div>
+ 			
+				 
+		</div> <!-- /.post -->
+
+  <div id="ad_below_post">
+   <!-- BEGIN MESSAGESPACE 300x250 CODE BLOCK -->
+<center>
+<script type="text/javascript">
+sas_pageid='55084/431395';	// Page : labourlist/ros
+sas_formatid=24083;	 // Format : rectangle 300x250
+sas_target='';	 // Targeting
+SmartAdServer(sas_pageid,sas_formatid,sas_target);
+</script>
+<noscript>
+<a href="http://www6.smartadserver.com/call/pubjumpi/55084/431395/24083/S/[timestamp]/?" target="_blank">
+<img src="http://www6.smartadserver.com/call/pubi/55084/431395/24083/S/[timestamp]/?" border="0" alt="" /></a>
+</noscript>
+</center>
+   <!-- END MESSAGESPACE 300x250 CODE BLOCK -->
+  </div>
+ 
+		<div id="comments">
+			
+<div id="disqus_thread">
+    </div>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+    var disqus_url = 'http://labourlist.org/2014/05/this-dodgy-tory-bar-chart-is-spectacular/';
+    var disqus_identifier = '52752 http://labourlist.org/?p=52752';
+    var disqus_container_id = 'disqus_thread';
+    var disqus_domain = 'disqus.com';
+    var disqus_shortname = 'labourlist';
+    var disqus_title = "This dodgy Tory bar chart is spectacular";
+        var disqus_config = function () {
+        var config = this; // Access to the config object
+        config.language = '';
+
+        /*
+           All currently supported events:
+            * preData — fires just before we request for initial data
+            * preInit - fires after we get initial data but before we load any dependencies
+            * onInit  - fires when all dependencies are resolved but before dtpl template is rendered
+            * afterRender - fires when template is rendered but before we show it
+            * onReady - everything is done
+         */
+
+        config.callbacks.preData.push(function() {
+            // clear out the container (its filled for SEO/legacy purposes)
+            document.getElementById(disqus_container_id).innerHTML = '';
+        });
+                config.callbacks.onReady.push(function() {
+            // sync comments in the background so we don't block the page
+            var script = document.createElement('script');
+            script.async = true;
+            script.src = '?cf_action=sync_comments&post_id=52752';
+
+            var firstScript = document.getElementsByTagName( "script" )[0];
+            firstScript.parentNode.insertBefore(script, firstScript);
+        });
+                    };
+/* ]]> */
+</script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+    var DsqLocal = {
+        'trackbacks': [
+        ],
+        'trackback_url': "http:\/\/labourlist.org\/2014\/05\/this-dodgy-tory-bar-chart-is-spectacular\/trackback\/"    };
+/* ]]> */
+</script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+(function() {
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript';
+    dsq.async = true;
+    dsq.src = '//' + disqus_shortname + '.' + 'disqus.com' + '/embed.js?pname=wordpress&pver=2.74';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+/* ]]> */
+</script>
+		</div> <!-- end #comments -->
+		
+	</div> <!-- /#main -->
+		
+		
+   	  
+
+
+<div id="departments">
+	<h4>Latest</h4>
+ 
+ 	<div class="items-out">
+		<ul class="items">
+		
+							
+		
+		
+			<li class="item">
+			   <span class="category"><a href="http://labourlist.org/category/news/" title="View all posts in News" rel="category tag">News</a></span>
+  									<a href="http://labourlist.org/2014/05/this-dodgy-tory-bar-chart-is-spectacular/" rel="bookmark" title="This dodgy Tory bar chart is spectacular"><img src="http://labourlist.org/wp-content/themes/tribune/scripts/timthumb.php?src=http://labourlist.org/wp-content/uploads/2014/05/BnXSlafIcAEK5bM.jpg&amp;w=180&amp;h=115&amp;zc=1" alt="This dodgy Tory bar chart is spectacular" /></a>	
+				<h3><a href="http://labourlist.org/2014/05/this-dodgy-tory-bar-chart-is-spectacular/" rel="bookmark" title="Permanent Link to This dodgy Tory bar chart is spectacular">This dodgy Tory bar chart is spectacular</a></h3>
+
+   
+				<p>Despite Nick Clegg&#8217;s best protestations, it&#8217;s often hard to tell exactly what influence, if any, the Lib Dems have had over their Coalition partners these past four years. Well, now we know: they&#8217;ve passed on the secrets behind the fabled dodgy Lib Dem bar chart. Ian Austin, the MP for Dudley, this afternoon tweeted this offering from his local Conservative Party&#8217;s leaflets: &nbsp; Even the Lib Dems will be impressed by this frankly spectacular effort. Not only are we fairly [&hellip;]</p>
+				<a href="http://labourlist.org/2014/05/this-dodgy-tory-bar-chart-is-spectacular/" class="more" title="This dodgy Tory bar chart is spectacular">Read more &rarr;</a>
+			</li>
+			 
+			
+		
+		
+			<li class="item">
+			   <span class="category"><a href="http://labourlist.org/category/featured/" title="View all posts in Featured" rel="category tag">Featured</a></span>
+  									<a href="http://labourlist.org/2014/05/in-the-battle-of-ideas-the-tories-cannot-win/" rel="bookmark" title="In the battle of ideas, the Tories cannot win"><img src="http://labourlist.org/wp-content/themes/tribune/scripts/timthumb.php?src=http://labourlist.org/wp-content/uploads/2013/02/miliband-cameron.png&amp;w=180&amp;h=115&amp;zc=1" alt="In the battle of ideas, the Tories cannot win" /></a>	
+				<h3><a href="http://labourlist.org/2014/05/in-the-battle-of-ideas-the-tories-cannot-win/" rel="bookmark" title="Permanent Link to In the battle of ideas, the Tories cannot win">In the battle of ideas, the Tories cannot win</a></h3>
+
+       <p class="byline">By Owen Smith</p>
+   
+				<p>A year from today we will know whether Labour has succeeded in winning back trust and power in just one term, a task that has eluded opposition parties for over 40 years. Eighteen months ago, shortly after I joined the Shadow Cabinet, Ed Miliband told us that to achieve this goal it would not be enough to just defeat our political enemies in the Tories and Lib Dems. We also have to defeat the enemies of modern politics: apathy, anger and disengagement. [&hellip;]</p>
+				<a href="http://labourlist.org/2014/05/in-the-battle-of-ideas-the-tories-cannot-win/" class="more" title="In the battle of ideas, the Tories cannot win">Read more &rarr;</a>
+			</li>
+			 
+			
+		
+		
+			<li class="item">
+			   <span class="category"><a href="http://labourlist.org/category/featured/" title="View all posts in Featured" rel="category tag">Featured</a></span>
+  									<a href="http://labourlist.org/2014/05/dont-look-back-in-anger/" rel="bookmark" title="Don’t look back in anger"><img src="http://labourlist.org/wp-content/themes/tribune/scripts/timthumb.php?src=http://labourlist.org/wp-content/uploads/2014/05/url.jpg&amp;w=180&amp;h=115&amp;zc=1" alt="Don’t look back in anger" /></a>	
+				<h3><a href="http://labourlist.org/2014/05/dont-look-back-in-anger/" rel="bookmark" title="Permanent Link to Don’t look back in anger">Don’t look back in anger</a></h3>
+
+       <p class="byline">By Lindsey Kell</p>
+   
+				<p>“A new dawn has broken, has it not?” These were the words of Tony Blair, shortly after a Labour majority had flashed across the screens of the nation in 1997. As we stand a year away from what we hope will be another ‘new dawn’ for our party, what can we take from the legacy of the last Labour government? Since the formation of the Coalition, there has been, quite rightly, debate within the Labour party about what mistakes were [&hellip;]</p>
+				<a href="http://labourlist.org/2014/05/dont-look-back-in-anger/" class="more" title="Don’t look back in anger">Read more &rarr;</a>
+			</li>
+			 
+			
+		
+		
+			<li class="item">
+			   <span class="category"><a href="http://labourlist.org/category/comment/" title="View all posts in Comment" rel="category tag">Comment</a></span>
+  									<a href="http://labourlist.org/2014/05/different-messages-same-story/" rel="bookmark" title="Different messages, same story"><img src="http://labourlist.org/wp-content/themes/tribune/scripts/timthumb.php?src=http://labourlist.org/wp-content/uploads/2014/05/images8.jpg&amp;w=180&amp;h=115&amp;zc=1" alt="Different messages, same story" /></a>	
+				<h3><a href="http://labourlist.org/2014/05/different-messages-same-story/" rel="bookmark" title="Permanent Link to Different messages, same story">Different messages, same story</a></h3>
+
+       <p class="byline">By Natan Doron</p>
+   
+				<p>It’s hard trying to win a series of different arguments with different groups of people in different places. But that’s what fighting a national election requires. Where Labour fights UKIP in places like Thurrock the backdrop of fear fuelled by Farage forces Labour to engage with concerns about immigration and unemployment. In other battlegrounds such as Hornsey and Wood Green Labour faces voters who want to hear where the party stands on climate change and international aid. National messaging can [&hellip;]</p>
+				<a href="http://labourlist.org/2014/05/different-messages-same-story/" class="more" title="Different messages, same story">Read more &rarr;</a>
+			</li>
+			 
+			
+		
+		
+			<li class="item">
+			   <span class="category"><a href="http://labourlist.org/category/comment/" title="View all posts in Comment" rel="category tag">Comment</a> <a href="http://labourlist.org/category/featured/" title="View all posts in Featured" rel="category tag">Featured</a></span>
+  									<a href="http://labourlist.org/2014/05/new-labour-obituary-this-is-the-modernisers-clause-four-moment/" rel="bookmark" title="New Labour obituary: this is the modernisers&#8217; Clause Four moment"><img src="http://labourlist.org/wp-content/themes/tribune/scripts/timthumb.php?src=http://labourlist.org/wp-content/uploads/2011/10/blairism.jpg&amp;w=180&amp;h=115&amp;zc=1" alt="New Labour obituary: this is the modernisers&#8217; Clause Four moment" /></a>	
+				<h3><a href="http://labourlist.org/2014/05/new-labour-obituary-this-is-the-modernisers-clause-four-moment/" rel="bookmark" title="Permanent Link to New Labour obituary: this is the modernisers&#8217; Clause Four moment">New Labour obituary: this is the modernisers&#8217; Clause Four moment</a></h3>
+
+       <p class="byline">By Conor Pope</p>
+   
+				<p>Yesterday, it was announced that Progress would be dropping their label as &#8220;the New Labour pressure group&#8221;. This should come as no surprise. New Labour was always, right from the beginning, described as &#8220;a project&#8221;. It is one that has run its course. By this point, we can be confident that it is no longer applicable to the challenges faced by the Labour Party or the country. As Ed Miliband&#8217;s leadership has progressed, there has been an obvious shift away from [&hellip;]</p>
+				<a href="http://labourlist.org/2014/05/new-labour-obituary-this-is-the-modernisers-clause-four-moment/" class="more" title="New Labour obituary: this is the modernisers&#8217; Clause Four moment">Read more &rarr;</a>
+			</li>
+			 
+			 
+		  		</ul>
+	</div>
+	
+	<div class="nav">
+		<a href="#" class="prev">&larr; previous</a>
+		<a href="#" class="next">next &rarr;</a>
+	</div>
+</div>
+ 
+ 
+</div> <!-- /#content -->
+</div> <!-- /#inner-wrap -->
+</div> <!-- /#wrapper -->
+
+
+<div id="footer-wrap">
+	<div id="footer">
+  		<div id="left">
+			<div class="logo">
+				<a href="http://labourlist.org/">
+											<img src="http://labourlist.org/wp-content/themes/labourlist/images/labourlist_twin_l_logo.png" alt="LabourList" />
+									</a>
+			</div>
+			 
+						 
+		</div>
+			
+		<div id="footer_right">
+ 			 
+ 			<div class="menu-footer"><ul id="menu-footer" class="menu"><li id="menu-item-22499" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-22499"><a href="http://labourlist.org/">Home</a></li>
+<li id="menu-item-22500" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22500"><a href="http://labourlist.org/about/">About</a></li>
+<li id="menu-item-22501" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22501"><a href="http://labourlist.org/comments/">Comments policy</a></li>
+<li id="menu-item-22502" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22502"><a href="http://labourlist.org/contact/">Contact</a></li>
+<li id="menu-item-22503" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22503"><a href="http://labourlist.org/donate/">Donate</a></li>
+<li id="menu-item-22505" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22505"><a href="http://labourlist.org/legal/">Legal</a></li>
+</ul></div>			
+			<div id="footer_search">
+				<strong>search:</strong>
+				<form method="get" id="searchform" action="http://labourlist.org/">
+ 
+	<input type="text" onblur="if (this.value == '') {this.value = 'search...';}" onfocus="if (this.value == 'search...') {this.value = '';}" value="search..." name="s" id="s" /><input type="submit" id="searchsubmit" value="Go" />
+</form>
+			</div>
+				
+ 			<span class="copyright">&copy; All content is the copyright of LabourList but we give permission for its use, unless otherwise stated. The views expressed are those of the individual contributors and not necessarily those of LabourList.</span>
+ 			<span class="designed"></span>
+		</div><!-- /#right -->
+ 	</div> <!-- /#footer -->
+</div> <!-- /#footer_wrap -->
+ 
+ 
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-6924530-1']);
+  _gaq.push(['_trackPageview']);
+
+  _gaq.push(['b._setAccount', 'UA-33225098-1']);
+  _gaq.push(['b._setDomainName','labourlist.org']);
+  _gaq.push(['b._setAllowLinker', true]);
+  _gaq.push(['b._trackPageview']);
+
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> 
+
+ 
+    <script type="text/javascript">
+    // <![CDATA[
+        var disqus_shortname = 'labourlist';
+        (function () {
+            var nodes = document.getElementsByTagName('span');
+            for (var i = 0, url; i < nodes.length; i++) {
+                if (nodes[i].className.indexOf('dsq-postid') != -1) {
+                    nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('rel'));
+                    url = nodes[i].parentNode.href.split('#', 1);
+                    if (url.length == 1) url = url[0];
+                    else url = url[1]
+                    nodes[i].parentNode.href = url + '#disqus_thread';
+                }
+            }
+            var s = document.createElement('script'); s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + 'disqus.com/forums/' + disqus_shortname + '/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+    //]]>
+    </script>
+<script type="text/javascript">var $rotateoptions = new Array();
+$rotateoptions[2] = new Array();
+$rotateoptions[2]["style"] = "";
+$rotateoptions[2]["rotate"] = 0;
+$rotateoptions[2]["random_start"] = 0;
+$rotateoptions[2]["start_tab"] = 0;
+$rotateoptions[2]["interval"] = 10000;
+$rotateoptions[3] = new Array();
+$rotateoptions[3]["style"] = "tabs";
+$rotateoptions[3]["rotate"] = 0;
+$rotateoptions[3]["random_start"] = 0;
+$rotateoptions[3]["start_tab"] = 0;
+$rotateoptions[3]["interval"] = 10000;
+</script>
+<script type="text/javascript" src="http://labourlist.org/wp-content/plugins/tabbed-widgets/js/init-plugin.js"></script>
+<!-- Powered by WPtouch: 3.2.4.1 -->	<div style="display:none">
+	</div>
+<script type='text/javascript' src='http://labourlist.org/wp-includes/js/comment-reply.min.js?ver=3.9.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/labourlist.org\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://labourlist.org/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.8'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201419'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2014Mayaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://labourlist.org/wp-content/plugins/jetpack/modules/wpgroho.js?ver=3.9.1'></script>
+<script type='text/javascript' src='http://labourlist.org/wp-includes/js/jquery/ui/jquery.ui.widget.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://labourlist.org/wp-includes/js/jquery/ui/jquery.ui.accordion.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://labourlist.org/wp-content/plugins/tabbed-widgets/js/jquery-cookie.min.js?ver=3.9.1'></script>
+
+	<script src="http://stats.wordpress.com/e-201419.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	st_go({v:'ext',j:'1:2.9.3',blog:'55992812',post:'52752',tz:'1'});
+	var load_cmc = function(){linktracker_init(55992812,52752,2);};
+	if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
+	else load_cmc();
+	</script></body>
+</html>
+<!-- Dynamic page generated in 2.185 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2014-05-11 16:55:56 -->
+
+<!-- super cache -->
+

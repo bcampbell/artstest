@@ -1,0 +1,858 @@
+WARC/1.0
+Content-Length: 46252
+Content-Type: application/http; msgtype=response
+Warc-Date: 2014-04-25T19:19:17Z
+Warc-Record-Id: urn:X-scrapeomat:1398453558139120305
+Warc-Target-Uri: http://labourlist.org/2014/04/three-quarters-of-labour-mps-are-local/
+Warc-Type: response
+X-Scrapeomat-Srcurl: http://labourlist.org/2014/04/three-quarters-of-labour-mps-are-local/
+
+HTTP/1.1 200 OK
+Content-Length: 45908
+Accept-Ranges: bytes
+Cache-Control: max-age=3, must-revalidate
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 25 Apr 2014 19:19:17 GMT
+Expires: Fri, 25 Apr 2014 19:19:20 GMT
+Last-Modified: Fri, 25 Apr 2014 12:42:18 GMT
+Server: Apache/2.2
+Vary: Accept-Encoding,Cookie
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+<head profile="http://gmpg.org/xfn/11">
+<title>Three-quarters of Labour MPs are local | LabourList</title>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta name="description" content="Research carried out by the think-tank Demos has found that voters are more concerned with the representation of &#8220;local&#8221; voices in the House of Commons than they are with greater representation for women or working class MPs. You can read the report here. Demos say that around 63% of MPs are local to the areas they represent, with the 73% of local Labour MPs far outstripping the 51% managed by the Tories, while the Lib Dems have the most with [&hellip;]" />
+<meta name="keywords" content="Demos,Diversity,Local,representation," /><meta name="robots" content="index, follow" />
+
+<link rel="alternate" type="application/rss+xml" title="LabourList RSS Feed" href="http://labourlist.org/feed/" />
+<link rel="pingback" href="http://labourlist.org/xmlrpc.php" />
+<link rel="stylesheet" type="text/css" href="http://labourlist.org/wp-content/themes/labourlist/style.css" media="screen" />
+<link rel="stylesheet" href="http://labourlist.org/wp-content/themes/tribune/css/dropdown.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://labourlist.org/wp-content/themes/tribune/custom.css" type="text/css" media="screen" />
+<!--[if IE 6]><link rel="stylesheet" type="text/css" href="http://labourlist.org/wp-content/themes/tribune/css/ie6.css" /><![endif]-->
+<!--[if IE 7 ]><link rel="stylesheet" type="text/css" href="http://labourlist.org/wp-content/themes/tribune/css/ie7.css" /><![endif]-->
+<link rel="shortcut icon" href="http://labourlist.org/favicon.png" type="image/x-icon" /> 
+
+	
+<link rel="alternate" type="application/rss+xml" title="LabourList &raquo; Three-quarters of Labour MPs are local Comments Feed" href="http://labourlist.org/2014/04/three-quarters-of-labour-mps-are-local/feed/" />
+<link rel='stylesheet' id='login-with-ajax-css'  href='http://labourlist.org/wp-content/plugins/login-with-ajax/widget/widget.css?ver=3.9' type='text/css' media='all' />
+<link rel='stylesheet' id='flick-css'  href='http://labourlist.org/wp-content/plugins/mailchimp//css/flick/flick.css?ver=3.9' type='text/css' media='all' />
+<link rel='stylesheet' id='mailchimpSF_main_css-css'  href='http://labourlist.org/?mcsf_action=main_css&#038;ver=3.9' type='text/css' media='all' />
+<!--[if IE]>
+<link rel='stylesheet' id='mailchimpSF_ie_css-css'  href='http://labourlist.org/wp-content/plugins/mailchimp/css/ie.css?ver=3.9' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='jetpack-subscriptions-css'  href='http://labourlist.org/wp-content/plugins/jetpack/modules/subscriptions/subscriptions.css?ver=3.9' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://labourlist.org/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='wpt-twitter-feed-css'  href='http://labourlist.org/wp-content/plugins/wp-to-twitter/css/twitter-feed.css?ver=3.9' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack-widgets-css'  href='http://labourlist.org/wp-content/plugins/jetpack/modules/widgets/widgets.css?ver=20121003' type='text/css' media='all' />
+<link rel='stylesheet' id='tabbed-widgets-css'  href='http://labourlist.org/wp-content/plugins/tabbed-widgets/css/tabbed-widgets.css?ver=3.9' type='text/css' media='all' />
+<script type='text/javascript' src='http://labourlist.org/wp-content/themes/tribune/js/jquery.js?ver=3.9'></script>
+<script type='text/javascript' src='http://labourlist.org/wp-includes/js/json2.min.js?ver=2011-02-23'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var live_blogging = {"ajaxurl":"http:\/\/labourlist.org\/wp-admin\/admin-ajax.php","update_effect":"top"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://labourlist.org/wp-content/plugins/live-blogging/live-blogging.min.js?ver=3.9'></script>
+<script type='text/javascript' src='http://labourlist.org/wp-content/plugins/login-with-ajax/widget/login-with-ajax.js?ver=3.9'></script>
+<script type='text/javascript' src='http://labourlist.org/wp-content/plugins/mailchimp/js/scrollTo.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://labourlist.org/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.50.0-2014.02.05'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mailchimpSF = {"ajax_url":"http:\/\/labourlist.org\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://labourlist.org/wp-content/plugins/mailchimp/js/mailchimp.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://labourlist.org/wp-includes/js/jquery/ui/jquery.ui.core.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://labourlist.org/wp-content/plugins/mailchimp//js/datepicker.js?ver=3.9'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://labourlist.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://labourlist.org/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Boris is right: we need a Minister for Infrastructure' href='http://labourlist.org/2014/04/boris-is-right-we-need-a-minister-for-infrastructure/' />
+<link rel='next' title='Labour and Tories tied in new poll' href='http://labourlist.org/2014/04/labour-and-tories-tied-in-new-poll/' />
+<meta name="generator" content="WordPress 3.9" />
+<link rel='shortlink' href='http://wp.me/p3MWhS-dBE' />
+<style type="text/css">
+    .calnk a:hover {
+        background-position:0 0;
+        text-decoration:none;  
+        color:#000000;
+        border-bottom:1px dotted #000000;
+     }
+    .calnk a:visited {
+        text-decoration:none;
+        color:#000000;
+        border-bottom:1px dotted #000000;
+    }
+    .calnk a {
+        text-decoration:none; 
+        color:#000000; 
+        border-bottom:1px dotted #000000;
+    }
+    .calnk a span { 
+        display:none; 
+    }
+    .calnk a:hover span {
+        color:#333333; 
+        background:#F6F79B; 
+        display:block;
+        position:absolute; 
+        margin-top:1px; 
+        padding:5px; 
+        width:150px; 
+        z-index:100;
+        line-height:1.2em;
+    }
+    .calendar-table {
+        border:0 !important;
+        width:100% !important;
+        border-collapse:separate !important;
+        border-spacing:2px !important;
+    }
+    .calendar-heading {
+        height:25px;
+        text-align:center;
+        border:1px solid #D6DED5;
+        background-color:#E4EBE3;
+    }
+    .calendar-next {
+        width:25%;
+        text-align:center;
+    }
+    .calendar-prev {
+        width:25%;
+        text-align:center;
+    }
+    .calendar-month {
+        width:50%;
+        text-align:center;
+        font-weight:bold;
+    }
+    .normal-day-heading {
+        text-align:center;
+        width:25px;
+        height:25px;
+        font-size:0.8em;
+        border:1px solid #DFE6DE;
+        background-color:#EBF2EA;
+    }
+    .weekend-heading {
+        text-align:center;
+        width:25px;
+        height:25px;
+        font-size:0.8em;
+        border:1px solid #DFE6DE;
+        background-color:#EBF2EA;
+        color:#FF0000;
+    }
+    .day-with-date {
+        vertical-align:text-top;
+        text-align:left;
+        width:60px;
+        height:60px;
+        border:1px solid #DFE6DE;
+    }
+    .no-events {
+
+    }
+    .day-without-date {
+        width:60px;
+        height:60px;
+        border:1px solid #E9F0E8;
+    }
+    span.weekend {
+        color:#FF0000;
+    }
+    .current-day {
+        vertical-align:text-top;
+        text-align:left;
+        width:60px;
+        height:60px;
+        border:1px solid #BFBFBF;
+        background-color:#E4EBE3;
+    }
+    span.event {
+        font-size:0.75em;
+    }
+    .kjo-link {
+        font-size:0.75em;
+        text-align:center;
+    }
+    .calendar-date-switcher {
+        height:25px;
+        text-align:center;
+        border:1px solid #D6DED5;
+        background-color:#E4EBE3;
+    }
+    .calendar-date-switcher form {
+        margin:2px;
+    }
+    .calendar-date-switcher input {
+        border:1px #D6DED5 solid;
+        margin:0;
+    }
+    .calendar-date-switcher select {
+        border:1px #D6DED5 solid;
+        margin:0;
+    }
+    .calnk a:hover span span.event-title {
+        padding:0;
+        text-align:center;
+        font-weight:bold;
+        font-size:1.2em;
+        margin-left:0px;
+    }
+    .calnk a:hover span span.event-title-break {
+        width:96%;
+        text-align:center;
+        height:1px;
+        margin-top:5px;
+        margin-right:2%;
+        padding:0;
+        background-color:#000000;
+        margin-left:0px;
+    }
+    .calnk a:hover span span.event-content-break {
+        width:96%;
+        text-align:center;
+        height:1px;
+        margin-top:5px;
+        margin-right:2%;
+        padding:0;
+        background-color:#000000;
+        margin-left:0px;
+    }
+    .page-upcoming-events {
+        font-size:80%;
+    }
+    .page-todays-events {
+        font-size:80%;
+    }
+    .calendar-table table,tbody,tr,td {
+        margin:0 !important;
+        padding:0 !important;
+    }
+    table.calendar-table {
+        margin-bottom:5px !important;
+    }
+    .cat-key {
+        width:100%;
+        margin-top:30px;
+        padding:5px;
+        border:0 !important;
+    }
+    .cal-separate {
+       border:0 !important;
+       margin-top:10px;
+    }
+    table.cat-key {
+       margin-top:5px !important;
+       border:1px solid #DFE6DE !important;
+       border-collapse:separate !important;
+       border-spacing:4px !important;
+       margin-left:2px !important;
+       width:99.5% !important;
+       margin-bottom:5px !important;
+    }
+    .cat-key td {
+       border:0 !important;
+    }
+</style>
+	<script type="text/javascript">
+		jQuery(function($) {
+			$('.date-pick').each(function() {
+				var format = $(this).data('format') || 'mm/dd/yyyy';
+				format = format.replace(/yyyy/i, 'yy');
+				$(this).datepicker({
+					autoFocusNextInput: true,
+					constrainInput: false,
+					changeMonth: true,
+					changeYear: true,
+					beforeShow: function(input, inst) { $('#ui-datepicker-div').addClass('show'); },
+					dateFormat: format.toLowerCase(),
+				});
+			});
+			d = new Date();
+			$('.birthdate-pick').each(function() {
+				var format = $(this).data('format') || 'mm/dd';
+				format = format.replace(/yyyy/i, 'yy');
+				$(this).datepicker({
+					autoFocusNextInput: true,
+					constrainInput: false,
+					changeMonth: true,
+					changeYear: false,
+					minDate: new Date(d.getFullYear(), 1-1, 1),
+					maxDate: new Date(d.getFullYear(), 12-1, 31),
+					beforeShow: function(input, inst) { $('#ui-datepicker-div').removeClass('show'); },
+					dateFormat: format.toLowerCase(),
+				});
+
+			});
+
+		});
+	</script>
+	<meta property="og:image" content="http://labourlist.org/wp-content/uploads/2011/10/parliament_front_bench.jpg"/>
+
+<script type="text/javascript">
+sas_tmstp=Math.round(Math.random()*10000000000);sas_masterflag=1;
+function SmartAdServer(sas_pageid,sas_formatid,sas_target) {
+if (sas_masterflag==1) {sas_masterflag=0;sas_master='M';} else {sas_master='S';};
+document.write('<scr'+'ipt src="http://www6.smartadserver.com/call/pubj/' + sas_pageid + '/' + sas_formatid + '/' + sas_master + '/' + sas_tmstp + '/' + escape(sas_target) + '?"></scr'+'ipt>');
+}
+</script>
+
+
+<!-- All in One SEO Pack 2.1.5 by Michael Torbert of Semper Fi Web Design[221,268] -->
+<meta name="description" content="Research carried out by the think-tank Demos has found that voters are more concerned with the representation of &quot;local&quot; voices in the House of Commons than" />
+
+<meta name="keywords" content="demos,diversity,local,representation" />
+
+<link rel="canonical" href="http://labourlist.org/2014/04/three-quarters-of-labour-mps-are-local/" />
+		<script type="text/javascript">
+		  var _gaq = _gaq || [];
+		  _gaq.push(['_setAccount', 'UA-6924530-1']);
+		  _gaq.push(['_trackPageview']);
+		  (function() {
+		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+		</script>
+<!-- /all in one seo pack -->
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #a1a1a1; }
+</style>
+<script type="text/javascript" src="http://labourlist.org/wp-content/themes/tribune/js/tools.js"></script>
+<script type="text/javascript" src="http://labourlist.org/wp-content/themes/tribune/js/dropdown.js"></script>
+<script type="text/javascript" src="http://labourlist.org/wp-content/themes/tribune/js/tooltip.js"></script>
+<script type="text/javascript" src="http://labourlist.org/wp-content/themes/tribune/js/autocolumn.js"></script>
+<script type="text/javascript" src="http://labourlist.org/wp-content/themes/tribune/js/util.js"></script>
+
+</head>
+
+<body onload="fix()">
+<div id="wrapper">
+<div id="inner-wrapper">
+	<div id="header">
+
+		<div id="head-bar">
+
+<div id="messagespace-head">
+
+</div>
+
+						<div id="date">
+				<strong>Friday</strong>, April 25th 
+			</div>
+			 			
+			<div id="navigation" class="dropdown">
+				 <ul id="menu-top-menu" class=""><li id="menu-item-28587" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28587"><a href="http://labourlist.org/write-for-labourlist/">Write for LabourList</a></li>
+<li id="menu-item-22497" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22497"><a href="http://labourlist.org/donate/">Donate</a></li>
+<li id="menu-item-22498" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22498"><a href="http://labourlist.org/contact/">Contact</a></li>
+<li id="menu-item-22496" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22496"><a href="http://labourlist.org/about/">About Us</a></li>
+</ul> 			</div>
+		</div><!-- /#header-bar -->
+			
+		<div id="inner">
+			<!-- Logo -->
+			<div id="logo">
+				<a href="http://labourlist.org/">
+											<img src="http://labourlist.org/wp-content/uploads/2013/10/Not-beta.png" alt="LabourList" />
+									</a>
+			</div> 
+			<div id="head_banner">
+									 <script type="text/javascript">
+sas_pageid='55084/431395';	// Page : labourlist/ros
+sas_formatid=20458;	 // Format : leaderboard 728x90
+sas_target='';	 // Targeting
+SmartAdServer(sas_pageid,sas_formatid,sas_target);
+</script>
+<noscript>
+<a href="http://www6.smartadserver.com/call/pubjumpi/55084/431395/20458/S/[timestamp]/?" target="_blank">
+<img src="http://www6.smartadserver.com/call/pubi/55084/431395/20458/S/[timestamp]/?" border="0" alt="" /></a>
+</noscript> 
+								 
+			</div>
+			
+			<div id="right">
+				<div id="social">
+					<ul>
+												
+												
+												
+  					</ul>
+				</div>
+				
+				
+			</div><!-- /#right -->
+			
+		</div><!-- /#inner -->
+				
+		<!-- Main Menu -->
+		<div id="menu" class="dropdown">
+				<ul id="menu-categories" class=""><li id="menu-item-22162" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-22162"><a href="http://labourlist.org/category/news/">News</a></li>
+<li id="menu-item-22160" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22160"><a href="http://labourlist.org/category/comment/">Comment</a></li>
+<li id="menu-item-23881" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-23881"><a href="http://labourlist.org/category/video/">Video</a></li>
+<li id="menu-item-22164" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22164"><a href="http://labourlist.org/category/seats-selections/">Seats &#038; Selections</a></li>
+<li id="menu-item-22161" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22161"><a href="http://labourlist.org/category/localgov/">Local Government</a></li>
+<li id="menu-item-22163" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22163"><a href="http://labourlist.org/category/scotland/">Scotland</a></li>
+<li id="menu-item-22166" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22166"><a href="http://labourlist.org/category/wales/">Wales</a></li>
+<li id="menu-item-22165" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22165"><a href="http://labourlist.org/category/unions/">Unions</a></li>
+<li id="menu-item-47375" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47375"><a href="http://labourlist.org/events/">Events</a></li>
+</ul>		</div> <!-- /#menu -->
+		
+		
+		 
+		
+	</div><!-- /#header -->
+	
+	<div id="content">
+
+	
+<div id="sidebar">
+ 
+	 
+	<div id="text-6" class="widget widget_text">			<div class="textwidget"><!-- BEGIN MESSAGESPACE 300x250 CODE BLOCK -->
+<script type="text/javascript">
+sas_pageid='55084/431395';	// Page : labourlist/ros
+sas_formatid=23713;	 // Format : halfpage 300x600
+sas_target='';	 // Targeting
+SmartAdServer(sas_pageid,sas_formatid,sas_target);
+</script>
+<noscript>
+<a href="http://www6.smartadserver.com/call/pubjumpi/55084/431395/23713/M/[timestamp]/?" target="_blank">
+<img src="http://www6.smartadserver.com/call/pubi/55084/431395/23713/M/[timestamp]/?" border="0" alt="" /></a>
+</noscript>
+<!-- END MESSAGESPACE 300x250 CODE BLOCK --></div>
+		</div><div id="text-8" class="widget widget_text"><h3>Proudly sponsored by</h3>			<div class="textwidget"><p align="center" margin-bottom="-10px">
+
+<a href="http://www.gmb.org.uk/gmb_campaigns/other_campaigns/save_remploy_factories.aspx" target="_blank"><img src="http://cdn.cloudleft.org/remploy_2012_03_final.gif" alt="" width="92" height="92" style="margin:5px;" /></a>
+
+<a href="http://www.unison.org.uk/" target="_blank"><img style="width: 92px; height: 92px; margin:5px;" src="http://labourlist.org/wp-content/uploads/2014/02/unisonspeakingupgreen-e1391958724780.jpg" /></a>
+
+<a href="http://www.unitetheunion.org/" target="_blank"><img style="width: 92px; height: 92px; margin:5px;" src="http://labourlist.org/wp-content/uploads/2014/04/Unite-Logo-e13984125073421.jpg" alt="unison speaking up" style="" /></a>
+
+<a href="http://cwu.org" target="_blank"><img style="width: 109px; height: 74px; margin:5px;" src="http://labourlist.org/wp-content/uploads/2012/01/CWU-logo-e1326368978941.jpg" /></a>
+</p></div>
+		</div><div id="text-7" class="widget widget_text"><h3>Sign up to receive our daily email</h3>			<div class="textwidget"><form name="signup" action="http://my.labourlist.org/page/s/sign-up-to-our-daily-email" method="post" id="signup">
+<table>
+ <tr>
+  <td>Email*</td>
+  <td><input type="email" class="text" size="25" id="email" name="email"></td>
+ </tr>
+ <tr>
+  <td>Forename</td>
+  <td><input size="20" id="firstname" name="firstname" type="text"></td>
+ </tr>
+ <tr>
+  <td>Surname</td>
+  <td><input size="20" id="lastname" name="lastname" type="text"></td>
+ </tr>
+</table>
+<div style="font-size:10px;">* denotes required field</div>
+<input style="margin-top:5px;" name="submit-btn" value="Subscribe" type="submit">
+<input name="redirect_url" type="hidden" value="">
+</form></div>
+		</div>	
+		
+</div> <!-- end sidebar -->
+ 		
+	<div id="main">
+	
+				 
+		<div class="post">
+			 
+			<div class="breadcrumbs">You are here: <a href="http://labourlist.org">Home</a> &raquo; <a href="http://labourlist.org/category/news/" title="View all posts in News">News</a> &raquo; <span class="current"></span></div>			 
+ 			<h1> <a href="http://labourlist.org/2014/04/three-quarters-of-labour-mps-are-local/" rel="bookmark" title="Permanent Link to Three-quarters of Labour MPs are local">Three-quarters of Labour MPs are local</a> </h1>
+			
+			<div class="meta">
+ 				<span class="date">April 25, 2014 12:11 pm</span> 															</div> 
+			
+			
+						<div class="meta_box">
+
+    
+ 			<h4>Tags:</h4><span class="tag-links"><a href="http://labourlist.org/tag/demos/" rel="tag">Demos</a>  <a href="http://labourlist.org/tag/diversity/" rel="tag">Diversity</a>  <a href="http://labourlist.org/tag/local/" rel="tag">Local</a>  <a href="http://labourlist.org/tag/representation/" rel="tag">representation</a></span><div class="hr"></div>
+
+				<h4>Share this Article</h4>
+				
+				<ul>
+					<li><a href="http://twitter.com/home?status=Three-quarters of Labour MPs are local http://labourlist.org/?p=52306"><img src="http://labourlist.org/wp-content/themes/tribune/images/icons/small/twitter.png" alt="Twitter" />Twitter</a></li>
+					 
+					<li><a href="http://www.facebook.com/sharer.php?u=http://labourlist.org/2014/04/three-quarters-of-labour-mps-are-local/&t=Three-quarters of Labour MPs are local"><img src="http://labourlist.org/wp-content/themes/tribune/images/icons/small/facebook.png" alt="Facebook" />Facebook</a></li>
+					 
+					<li><a href="http://del.icio.us/post?url=http://labourlist.org/2014/04/three-quarters-of-labour-mps-are-local/&amp;title=Three-quarters of Labour MPs are local"><img src="http://labourlist.org/wp-content/themes/tribune/images/icons/small/delicious.png" alt="Delicious" />Delicious</a></li>
+					<li><a href="http://digg.com/submit?phase=2&url=http://labourlist.org/2014/04/three-quarters-of-labour-mps-are-local/&title=Three-quarters of Labour MPs are local"><img src="http://labourlist.org/wp-content/themes/tribune/images/icons/small/digg.png" alt="Digg" />Digg</a></li>
+					<li><a href="http://www.stumbleupon.com/submit?url=http://labourlist.org/2014/04/three-quarters-of-labour-mps-are-local/"><img src="http://labourlist.org/wp-content/themes/tribune/images/icons/small/stumble.png" alt="Stumbleupon" />Stumble</a></li>
+					<li><a href="http://reddit.com/submit?url=http://labourlist.org/2014/04/three-quarters-of-labour-mps-are-local/"><img src="http://labourlist.org/wp-content/themes/tribune/images/icons/small/reddit.png" alt="Reddit" />Reddit</a></li>
+ 				</ul>
+ 					
+			</div><!-- /.meta_box -->
+				
+			
+					
+			<div class="entry">
+ 				<p>Research carried out by the think-tank Demos has found that voters are more concerned with the representation of &#8220;local&#8221; voices in the House of Commons than they are with greater representation for women or working class MPs. You can <a href="http://quarterly.demos.co.uk/article/issue-2/are-you-local/">read the report here</a>.</p>
+<p>Demos say that around 63% of MPs are local to the areas they represent, with the 73% of local Labour MPs far outstripping the 51% managed by the Tories, while the Lib Dems have the most with 82%. This means that Labour has the most local MPs in Parliament.</p>
+<p><a href="http://labourlist.org/wp-content/uploads/2011/10/house_of_commons.jpg"><br />
+</a><a href="http://labourlist.org/wp-content/uploads/2014/04/476_1414_Quarterly2_RalphScott_Fig1-01-1024x784.png"><img class="aligncenter size-medium wp-image-52307" src="http://labourlist.org/wp-content/uploads/2014/04/476_1414_Quarterly2_RalphScott_Fig1-01-1024x784-500x382.png" alt="476_1414_Quarterly2_RalphScott_Fig1-01-1024x784" width="500" height="382" /></a></p>
+<p>To be deemed &#8216;local&#8217;, MPs had to fulfil at least one of three criteria: either being born, going to primary or secondary school, or living for five years prior to seeking election in their constituency &#8211; or within 20km of it.</p>
+<p>Interestingly, the analysis found that 67% of Labour MPs selected through an All Women Shortlist &#8211; which may go some way to dispelling criticism that they are prone to delivering &#8220;parachute&#8221; candidates. While this figure is lower than Labour&#8217;s average, it still remains higher than Parliament as a whole. This seems to indicate Labour are able to offer a greater diversity of representation in the Commons, while not forgoing the electorate&#8217;s desire for a local representative. By contrast, only 40% of women elected for the Conservatives through their party&#8217;s A-List scheme were local candidates.</p>
+<p>However, Ralph Scott from Demos had a word of warning: “The findings raise the question of what people mean when they say ‘local’ – the rise of UKIP and other anti-establishment parties shows that people are looking for something beyond the mainstream. It’s possible that ‘local’ here means social distance: does this person understand my life?”</p>
+<script type="text/javascript" src="http://labourlist.org/wp-content/plugins/top-10/top-10-addcount.js.php?top_ten_id=52306&amp;activate_counter=11"></script><div class='yarpp-related'>
+<p>Related posts:</p><ol>
+<li><a href='http://labourlist.org/2013/03/its-not-just-about-parliament-we-need-women-in-local-government-too/' rel='bookmark' title='It’s not just about Parliament &#8211; we need women in local government too'>It’s not just about Parliament &#8211; we need women in local government too</a></li>
+<li><a href='http://labourlist.org/2013/03/international-womens-day-is-over-but-labour-are-still-showing-our-feminist-values/' rel='bookmark' title='International Women’s Day is over – but Labour are still showing our feminist values'>International Women’s Day is over – but Labour are still showing our feminist values</a></li>
+<li><a href='http://labourlist.org/2010/01/selecting-candidates-who-do-we-want-and-how-do-we-get-them/' rel='bookmark' title='Selecting candidates: who do we want, and how do we get them?'>Selecting candidates: who do we want, and how do we get them?</a></li>
+<li><a href='http://labourlist.org/2010/10/labour-in-local-government-radical-or-conservative/' rel='bookmark' title='Labour in local government: Radical or conservative?'>Labour in local government: Radical or conservative?</a></li>
+<li><a href='http://labourlist.org/2010/07/who-was-the-last-labour-woman-to-win-a-by-election/' rel='bookmark' title='Who was the last Labour woman to win a by-election?'>Who was the last Labour woman to win a by-election?</a></li>
+</ol>
+<img src="http://yarpp.org/pixels/54d54564ab79a3c8aafb44e3926a5bec" alt="YARPP"/>
+</div>
+   			</div>
+ 			
+				 
+		</div> <!-- /.post -->
+
+  <div id="ad_below_post">
+   <!-- BEGIN MESSAGESPACE 300x250 CODE BLOCK -->
+<center>
+<script type="text/javascript">
+sas_pageid='55084/431395';	// Page : labourlist/ros
+sas_formatid=24083;	 // Format : rectangle 300x250
+sas_target='';	 // Targeting
+SmartAdServer(sas_pageid,sas_formatid,sas_target);
+</script>
+<noscript>
+<a href="http://www6.smartadserver.com/call/pubjumpi/55084/431395/24083/S/[timestamp]/?" target="_blank">
+<img src="http://www6.smartadserver.com/call/pubi/55084/431395/24083/S/[timestamp]/?" border="0" alt="" /></a>
+</noscript>
+</center>
+   <!-- END MESSAGESPACE 300x250 CODE BLOCK -->
+  </div>
+ 
+		<div id="comments">
+			
+<div id="disqus_thread">
+                    <div id="dsq-content">
+
+
+            <ul id="dsq-comments">
+                    <li class="comment even thread-even depth-1" id="dsq-comment-97433">
+        <div id="dsq-comment-header-97433" class="dsq-comment-header">
+            <cite id="dsq-cite-97433">
+                <span id="dsq-author-user-97433">EricBC</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-97433" class="dsq-comment-body">
+            <div id="dsq-comment-message-97433" class="dsq-comment-message"><p>Diversity among MP&#8217;s should also mean technologists, engineers, industrialists and scientists. There is more to diversity  of representation than gender, sexuality, race, ethnicity and belief.</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment odd alt depth-2" id="dsq-comment-97443">
+        <div id="dsq-comment-header-97443" class="dsq-comment-header">
+            <cite id="dsq-cite-97443">
+                <span id="dsq-author-user-97443">swatnan</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-97443" class="dsq-comment-body">
+            <div id="dsq-comment-message-97443" class="dsq-comment-message"><p>Agree; put more scientists into the House; and more working class. At the moment we&#8217;ve got too many Spads and career politicians. &#8216;Local&#8217; is not all that important when it comes to MPs; for local councillors its is.<br />
+And remove the all bishops from the HoL, apart from the ABC as the sole rep of the CoE.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+            </ul>
+
+
+        </div>
+
+    </div>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+    var disqus_url = 'http://labourlist.org/2014/04/three-quarters-of-labour-mps-are-local/';
+    var disqus_identifier = '52306 http://labourlist.org/?p=52306';
+    var disqus_container_id = 'disqus_thread';
+    var disqus_domain = 'disqus.com';
+    var disqus_shortname = 'labourlist';
+    var disqus_title = "Three-quarters of Labour MPs are local";
+        var disqus_config = function () {
+        var config = this; // Access to the config object
+        config.language = '';
+
+        /*
+           All currently supported events:
+            * preData — fires just before we request for initial data
+            * preInit - fires after we get initial data but before we load any dependencies
+            * onInit  - fires when all dependencies are resolved but before dtpl template is rendered
+            * afterRender - fires when template is rendered but before we show it
+            * onReady - everything is done
+         */
+
+        config.callbacks.preData.push(function() {
+            // clear out the container (its filled for SEO/legacy purposes)
+            document.getElementById(disqus_container_id).innerHTML = '';
+        });
+                config.callbacks.onReady.push(function() {
+            // sync comments in the background so we don't block the page
+            var script = document.createElement('script');
+            script.async = true;
+            script.src = '?cf_action=sync_comments&post_id=52306';
+
+            var firstScript = document.getElementsByTagName( "script" )[0];
+            firstScript.parentNode.insertBefore(script, firstScript);
+        });
+                    };
+/* ]]> */
+</script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+    var DsqLocal = {
+        'trackbacks': [
+        ],
+        'trackback_url': "http:\/\/labourlist.org\/2014\/04\/three-quarters-of-labour-mps-are-local\/trackback\/"    };
+/* ]]> */
+</script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+(function() {
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript';
+    dsq.async = true;
+    dsq.src = '//' + disqus_shortname + '.' + 'disqus.com' + '/embed.js?pname=wordpress&pver=2.74';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+/* ]]> */
+</script>
+		</div> <!-- end #comments -->
+		
+	</div> <!-- /#main -->
+		
+		
+   	  
+
+
+<div id="departments">
+	<h4>Latest</h4>
+ 
+ 	<div class="items-out">
+		<ul class="items">
+		
+							
+		
+		
+			<li class="item">
+			   <span class="category"><a href="http://labourlist.org/category/comment/" title="View all posts in Comment" rel="category tag">Comment</a></span>
+  									<a href="http://labourlist.org/2014/04/shale-gas-the-reality-behind-this-weeks-tory-rhetoric/" rel="bookmark" title="Shale gas: the reality behind this week’s Tory rhetoric"><img src="http://labourlist.org/wp-content/themes/tribune/scripts/timthumb.php?src=http://labourlist.org/wp-content/uploads/2014/01/Hydraulic-FrackingBarnettShaleDrilling-e1320158260740.jpg&amp;w=180&amp;h=115&amp;zc=1" alt="Shale gas: the reality behind this week’s Tory rhetoric" /></a>	
+				<h3><a href="http://labourlist.org/2014/04/shale-gas-the-reality-behind-this-weeks-tory-rhetoric/" rel="bookmark" title="Permanent Link to Shale gas: the reality behind this week’s Tory rhetoric">Shale gas: the reality behind this week’s Tory rhetoric</a></h3>
+
+       <p class="byline">By Tom Greatrex</p>
+   
+				<p>Fracking is back in the news this week, with a new industry report from EY analysing the potential benefits for the UK. The key word in that sentence is “potential” – as, in what has become a predictable and depressingly familiar sight, the Tories are once more cranking up the hype for shale as a cheap, abundant and immediately available source of gas that will solve all of our energy problems. The reality is that it is much more complicated [&hellip;]</p>
+				<a href="http://labourlist.org/2014/04/shale-gas-the-reality-behind-this-weeks-tory-rhetoric/" class="more" title="Shale gas: the reality behind this week’s Tory rhetoric">Read more &rarr;</a>
+			</li>
+			 
+			
+		
+		
+			<li class="item">
+			   <span class="category"><a href="http://labourlist.org/category/news/" title="View all posts in News" rel="category tag">News</a></span>
+  									<a href="http://labourlist.org/2014/04/labour-and-tories-tied-in-new-poll/" rel="bookmark" title="Labour and Tories tied in new poll"><img src="http://labourlist.org/wp-content/themes/tribune/scripts/timthumb.php?src=http://labourlist.org/wp-content/uploads/2011/10/10_downing_street.jpg&amp;w=180&amp;h=115&amp;zc=1" alt="Labour and Tories tied in new poll" /></a>	
+				<h3><a href="http://labourlist.org/2014/04/labour-and-tories-tied-in-new-poll/" rel="bookmark" title="Permanent Link to Labour and Tories tied in new poll">Labour and Tories tied in new poll</a></h3>
+
+   
+				<p>A Populus poll released today shows the Conservatives are now neck and neck with Labour &#8211; with both parties on 35%. While all the usual disclaimers should be made here (it&#8217;s a single poll and there is always a margin of error, etc.), it does seem to correlate with the trend of the polls narrowing. Over the past six months or so Labour&#8217;s average lead has dropped by a couple of points, and this has been a little more pronounced [&hellip;]</p>
+				<a href="http://labourlist.org/2014/04/labour-and-tories-tied-in-new-poll/" class="more" title="Labour and Tories tied in new poll">Read more &rarr;</a>
+			</li>
+			 
+			
+		
+		
+			<li class="item">
+			   <span class="category"><a href="http://labourlist.org/category/news/" title="View all posts in News" rel="category tag">News</a></span>
+  									<a href="http://labourlist.org/2014/04/three-quarters-of-labour-mps-are-local/" rel="bookmark" title="Three-quarters of Labour MPs are local"><img src="http://labourlist.org/wp-content/themes/tribune/scripts/timthumb.php?src=http://labourlist.org/wp-content/uploads/2011/10/parliament_front_bench.jpg&amp;w=180&amp;h=115&amp;zc=1" alt="Three-quarters of Labour MPs are local" /></a>	
+				<h3><a href="http://labourlist.org/2014/04/three-quarters-of-labour-mps-are-local/" rel="bookmark" title="Permanent Link to Three-quarters of Labour MPs are local">Three-quarters of Labour MPs are local</a></h3>
+
+   
+				<p>Research carried out by the think-tank Demos has found that voters are more concerned with the representation of &#8220;local&#8221; voices in the House of Commons than they are with greater representation for women or working class MPs. You can read the report here. Demos say that around 63% of MPs are local to the areas they represent, with the 73% of local Labour MPs far outstripping the 51% managed by the Tories, while the Lib Dems have the most with [&hellip;]</p>
+				<a href="http://labourlist.org/2014/04/three-quarters-of-labour-mps-are-local/" class="more" title="Three-quarters of Labour MPs are local">Read more &rarr;</a>
+			</li>
+			 
+			
+		
+		
+			<li class="item">
+			   <span class="category"><a href="http://labourlist.org/category/comment/" title="View all posts in Comment" rel="category tag">Comment</a></span>
+  									<a href="http://labourlist.org/2014/04/boris-is-right-we-need-a-minister-for-infrastructure/" rel="bookmark" title="Boris is right: we need a Minister for Infrastructure"><img src="http://labourlist.org/wp-content/themes/tribune/scripts/timthumb.php?src=http://labourlist.org/wp-content/uploads/2011/10/boris2.jpg&amp;w=180&amp;h=115&amp;zc=1" alt="Boris is right: we need a Minister for Infrastructure" /></a>	
+				<h3><a href="http://labourlist.org/2014/04/boris-is-right-we-need-a-minister-for-infrastructure/" rel="bookmark" title="Permanent Link to Boris is right: we need a Minister for Infrastructure">Boris is right: we need a Minister for Infrastructure</a></h3>
+
+       <p class="byline">By Louie Woodall</p>
+   
+				<p>Boris Johnson’s latest gambit on the road to Number 10, if the London Evening Standard is to be believed, is to set up and manage a new Whitehall super-department: a Ministry for Infrastructure.  The idea is to concentrate responsibility for transport, business, and housing in the hands of a single member of the cabinet. Perhaps Boris is concerned he’ll have a wait on his hands post-2015 before one of the Tory backbenchers plunges the knife in the Prime Minister’s back.  [&hellip;]</p>
+				<a href="http://labourlist.org/2014/04/boris-is-right-we-need-a-minister-for-infrastructure/" class="more" title="Boris is right: we need a Minister for Infrastructure">Read more &rarr;</a>
+			</li>
+			 
+			
+		
+		
+			<li class="item">
+			   <span class="category"><a href="http://labourlist.org/category/news/" title="View all posts in News" rel="category tag">News</a></span>
+  									<a href="http://labourlist.org/2014/04/miliband-pledges-to-crack-down-on-worst-of-zero-hours-abuses/" rel="bookmark" title="Miliband pledges to crack down on worst of zero hours abuses"><img src="http://labourlist.org/wp-content/themes/tribune/scripts/timthumb.php?src=http://labourlist.org/wp-content/uploads/2014/04/imgres2.jpg&amp;w=180&amp;h=115&amp;zc=1" alt="Miliband pledges to crack down on worst of zero hours abuses" /></a>	
+				<h3><a href="http://labourlist.org/2014/04/miliband-pledges-to-crack-down-on-worst-of-zero-hours-abuses/" rel="bookmark" title="Permanent Link to Miliband pledges to crack down on worst of zero hours abuses">Miliband pledges to crack down on worst of zero hours abuses</a></h3>
+
+   
+				<p>Ed Miliband will today confirm that a Labour government would crack down on the very work abuses of zero hours contracts &#8211; but will stop short of pledging to ban them. Speaking in Motherwell &#8211; on a day of campaigning in Scotland along with the rest of the Shadow Cabinet &#8211; Miliband will reveal the findings of the &#8220;Pickavance Review&#8221; &#8211; conducted by Norman Pickavance, the former head of HR at Morrisons, the findings of which Labour will implement in [&hellip;]</p>
+				<a href="http://labourlist.org/2014/04/miliband-pledges-to-crack-down-on-worst-of-zero-hours-abuses/" class="more" title="Miliband pledges to crack down on worst of zero hours abuses">Read more &rarr;</a>
+			</li>
+			 
+			 
+		  		</ul>
+	</div>
+	
+	<div class="nav">
+		<a href="#" class="prev">&larr; previous</a>
+		<a href="#" class="next">next &rarr;</a>
+	</div>
+</div>
+ 
+ 
+</div> <!-- /#content -->
+</div> <!-- /#inner-wrap -->
+</div> <!-- /#wrapper -->
+
+
+<div id="footer-wrap">
+	<div id="footer">
+  		<div id="left">
+			<div class="logo">
+				<a href="http://labourlist.org/">
+											<img src="http://labourlist.org/wp-content/themes/labourlist/images/labourlist_twin_l_logo.png" alt="LabourList" />
+									</a>
+			</div>
+			 
+						 
+		</div>
+			
+		<div id="footer_right">
+ 			 
+ 			<div class="menu-footer"><ul id="menu-footer" class="menu"><li id="menu-item-22499" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-22499"><a href="http://labourlist.org/">Home</a></li>
+<li id="menu-item-22500" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22500"><a href="http://labourlist.org/about/">About</a></li>
+<li id="menu-item-22501" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22501"><a href="http://labourlist.org/comments/">Comments policy</a></li>
+<li id="menu-item-22502" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22502"><a href="http://labourlist.org/contact/">Contact</a></li>
+<li id="menu-item-22503" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22503"><a href="http://labourlist.org/donate/">Donate</a></li>
+<li id="menu-item-22505" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22505"><a href="http://labourlist.org/legal/">Legal</a></li>
+</ul></div>			
+			<div id="footer_search">
+				<strong>search:</strong>
+				<form method="get" id="searchform" action="http://labourlist.org/">
+ 
+	<input type="text" onblur="if (this.value == '') {this.value = 'search...';}" onfocus="if (this.value == 'search...') {this.value = '';}" value="search..." name="s" id="s" /><input type="submit" id="searchsubmit" value="Go" />
+</form>
+			</div>
+				
+ 			<span class="copyright">&copy; All content is the copyright of LabourList but we give permission for its use, unless otherwise stated. The views expressed are those of the individual contributors and not necessarily those of LabourList.</span>
+ 			<span class="designed"></span>
+		</div><!-- /#right -->
+ 	</div> <!-- /#footer -->
+</div> <!-- /#footer_wrap -->
+ 
+ 
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-6924530-1']);
+  _gaq.push(['_trackPageview']);
+
+  _gaq.push(['b._setAccount', 'UA-33225098-1']);
+  _gaq.push(['b._setDomainName','labourlist.org']);
+  _gaq.push(['b._setAllowLinker', true]);
+  _gaq.push(['b._trackPageview']);
+
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> 
+
+ 
+    <script type="text/javascript">
+    // <![CDATA[
+        var disqus_shortname = 'labourlist';
+        (function () {
+            var nodes = document.getElementsByTagName('span');
+            for (var i = 0, url; i < nodes.length; i++) {
+                if (nodes[i].className.indexOf('dsq-postid') != -1) {
+                    nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('rel'));
+                    url = nodes[i].parentNode.href.split('#', 1);
+                    if (url.length == 1) url = url[0];
+                    else url = url[1]
+                    nodes[i].parentNode.href = url + '#disqus_thread';
+                }
+            }
+            var s = document.createElement('script'); s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + 'disqus.com/forums/' + disqus_shortname + '/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+    //]]>
+    </script>
+<script type="text/javascript">var $rotateoptions = new Array();
+$rotateoptions[2] = new Array();
+$rotateoptions[2]["style"] = "";
+$rotateoptions[2]["rotate"] = 0;
+$rotateoptions[2]["random_start"] = 0;
+$rotateoptions[2]["start_tab"] = 0;
+$rotateoptions[2]["interval"] = 10000;
+$rotateoptions[3] = new Array();
+$rotateoptions[3]["style"] = "tabs";
+$rotateoptions[3]["rotate"] = 0;
+$rotateoptions[3]["random_start"] = 0;
+$rotateoptions[3]["start_tab"] = 0;
+$rotateoptions[3]["interval"] = 10000;
+</script>
+<script type="text/javascript" src="http://labourlist.org/wp-content/plugins/tabbed-widgets/js/init-plugin.js"></script>
+<!-- Powered by WPtouch: 3.2.2 -->	<div style="display:none">
+	</div>
+<script type='text/javascript' src='http://labourlist.org/wp-includes/js/comment-reply.min.js?ver=3.9'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/labourlist.org\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://labourlist.org/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.8'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201417'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2014Apraa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://labourlist.org/wp-content/plugins/jetpack/modules/wpgroho.js?ver=3.9'></script>
+<script type='text/javascript' src='http://labourlist.org/wp-includes/js/jquery/ui/jquery.ui.widget.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://labourlist.org/wp-includes/js/jquery/ui/jquery.ui.accordion.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://labourlist.org/wp-content/plugins/tabbed-widgets/js/jquery-cookie.min.js?ver=3.9'></script>
+
+	<script src="http://stats.wordpress.com/e-201417.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	st_go({v:'ext',j:'1:2.9.3',blog:'55992812',post:'52306',tz:'1'});
+	var load_cmc = function(){linktracker_init(55992812,52306,2);};
+	if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
+	else load_cmc();
+	</script></body>
+</html>
+<!-- Dynamic page generated in 1.003 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2014-04-25 13:42:18 -->
+
+<!-- super cache -->
+
