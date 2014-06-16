@@ -1,0 +1,705 @@
+WARC/1.0
+Content-Length: 42668
+Content-Type: application/http; msgtype=response
+Warc-Date: 2014-04-24T19:13:56Z
+Warc-Record-Id: urn:X-scrapeomat:1398366837578218598
+Warc-Target-Uri: http://www.leftfootforward.org/2014/04/blair-may-be-toxic-but-arguments-valid/
+Warc-Type: response
+X-Scrapeomat-Srcurl: http://www.leftfootforward.org/2014/04/blair-may-be-toxic-but-arguments-valid/
+
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Cache-Control: max-age=3, must-revalidate
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+Date: Thu, 24 Apr 2014 19:13:57 GMT
+Server: Apache/2.2
+Vary: Accept-Encoding,Cookie
+Wp-Super-Cache: Served supercache file from PHP
+
+8000
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Brand Blair may be considered toxic, but some of his arguments are valid | Left Foot Forward</title>
+<link rel="pingback" href="http://www.leftfootforward.org/xmlrpc.php" />
+<link rel="alternate" type="application/rss+xml" title="Left Foot Forward &raquo; Feed" href="http://www.leftfootforward.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Left Foot Forward &raquo; Comments Feed" href="http://www.leftfootforward.org/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Left Foot Forward &raquo; Brand Blair may be considered toxic, but some of his arguments are valid Comments Feed" href="http://www.leftfootforward.org/2014/04/blair-may-be-toxic-but-arguments-valid/feed/" />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.leftfootforward.org/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='thickbox.css-css'  href='http://www.leftfootforward.org/wp-includes/js/thickbox/thickbox.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://www.leftfootforward.org/wp-includes/css/dashicons.min.css?ver=3.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='thickbox-css'  href='http://www.leftfootforward.org/wp-includes/js/thickbox/thickbox.css?ver=20131201' type='text/css' media='all' />
+<link rel='stylesheet' id='wpt-twitter-feed-css'  href='http://www.leftfootforward.org/wp-content/plugins/wp-to-twitter/css/twitter-feed.css?ver=3.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='thematic_style-css'  href='http://www.leftfootforward.org/wp-content/themes/lff2012/style.css?ver=3.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='blackbirdpie-css-css'  href='http://www.leftfootforward.org/wp-content/plugins/twitter-blackbird-pie/css/blackbirdpie.css?ver=20110416' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.leftfootforward.org/wp-includes/js/jquery/jquery.js?ver=1.10.2'></script>
+<script type='text/javascript' src='http://www.leftfootforward.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.leftfootforward.org/wp-content/plugins/twitter-blackbird-pie/js/blackbirdpie.js?ver=20110404'></script>
+<script type='text/javascript' src='http://www.leftfootforward.org/wp-content/plugins/spider-event-calendar/elements/calendar.js?ver=3.8.3'></script>
+<script type='text/javascript' src='http://www.leftfootforward.org/wp-content/plugins/spider-event-calendar/elements/calendar-setup.js?ver=3.8.3'></script>
+<script type='text/javascript' src='http://www.leftfootforward.org/wp-content/plugins/spider-event-calendar/elements/calendar_function.js?ver=3.8.3'></script>
+<script type='text/javascript' src='http://www.leftfootforward.org/wp-content/plugins/spider-event-calendar/jscolor/jscolor.js?ver=3.8.3'></script>
+<script type='text/javascript' src='http://www.leftfootforward.org/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.4.7.3'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.leftfootforward.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.leftfootforward.org/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='The West’s responsibility for the Ukrainian crisis' href='http://www.leftfootforward.org/2014/04/the-wests-responsibility-for-the-ukrainian-crisis/' />
+<link rel='next' title='Why £9,000 tuition fees have been a moral and economic disaster' href='http://www.leftfootforward.org/2014/04/why-9000-tuition-fees-have-been-a-moral-and-economic-disaster/' />
+
+<link rel='shortlink' href='http://www.leftfootforward.org/?p=83172' />
+<style type="text/css">
+    .calnk a:hover {
+        background-position:0 0;
+        text-decoration:none;  
+        color:#000000;
+        border-bottom:1px dotted #000000;
+     }
+    .calnk a:visited {
+        text-decoration:none;
+        color:#000000;
+        border-bottom:1px dotted #000000;
+    }
+    .calnk a {
+        text-decoration:none; 
+        color:#000000; 
+        border-bottom:1px dotted #000000;
+    }
+    .calnk a span { 
+        display:none; 
+    }
+    .calnk a:hover span {
+        color:#333333; 
+        background:#F6F79B; 
+        display:block;
+        position:absolute; 
+        margin-top:1px; 
+        padding:5px; 
+        width:150px; 
+        z-index:100;
+        line-height:1.2em;
+    }
+    .calendar-table {
+        border:0 !important;
+        width:100% !important;
+        border-collapse:separate !important;
+        border-spacing:2px !important;
+    }
+    .calendar-heading {
+        height:25px;
+        text-align:center;
+        border:1px solid #D6DED5;
+        background-color:#E4EBE3;
+    }
+    .calendar-next {
+        width:25%;
+        text-align:center;
+    }
+    .calendar-prev {
+        width:25%;
+        text-align:center;
+    }
+    .calendar-month {
+        width:50%;
+        text-align:center;
+        font-weight:bold;
+    }
+    .normal-day-heading {
+        text-align:center;
+        width:25px;
+        height:25px;
+        font-size:0.8em;
+        border:1px solid #DFE6DE;
+        background-color:#EBF2EA;
+    }
+    .weekend-heading {
+        text-align:center;
+        width:25px;
+        height:25px;
+        font-size:0.8em;
+        border:1px solid #DFE6DE;
+        background-color:#EBF2EA;
+        color:#FF0000;
+    }
+    .day-with-date {
+        vertical-align:text-top;
+        text-align:left;
+        width:60px;
+        height:60px;
+        border:1px solid #DFE6DE;
+    }
+    .no-events {
+
+    }
+    .day-without-date {
+        width:60px;
+        height:60px;
+        border:1px solid #E9F0E8;
+    }
+    span.weekend {
+        color:#FF0000;
+    }
+    .current-day {
+        vertical-align:text-top;
+        text-align:left;
+        width:60px;
+        height:60px;
+        border:1px solid #BFBFBF;
+        background-color:#E4EBE3;
+    }
+    span.event {
+        font-size:0.75em;
+    }
+    .kjo-link {
+        font-size:0.75em;
+        text-align:center;
+    }
+    .calendar-date-switcher {
+        height:25px;
+        text-align:center;
+        border:1px solid #D6DED5;
+        background-color:#E4EBE3;
+    }
+    .calendar-date-switcher form {
+        margin:2px;
+    }
+    .calendar-date-switcher input {
+        border:1px #D6DED5 solid;
+        margin:0;
+    }
+    .calendar-date-switcher select {
+        border:1px #D6DED5 solid;
+        margin:0;
+    }
+    .calnk a:hover span span.event-title {
+        padding:0;
+        text-align:center;
+        font-weight:bold;
+        font-size:1.2em;
+        margin-left:0px;
+    }
+    .calnk a:hover span span.event-title-break {
+        width:96%;
+        text-align:center;
+        height:1px;
+        margin-top:5px;
+        margin-right:2%;
+        padding:0;
+        background-color:#000000;
+        margin-left:0px;
+    }
+    .calnk a:hover span span.event-content-break {
+        width:96%;
+        text-align:center;
+        height:1px;
+        margin-top:5px;
+        margin-right:2%;
+        padding:0;
+        background-color:#000000;
+        margin-left:0px;
+    }
+    .page-upcoming-events {
+        font-size:80%;
+    }
+    .page-todays-events {
+        font-size:80%;
+    }
+    .calendar-table table,tbody,tr,td {
+        margin:0 !important;
+        padding:0 !important;
+    }
+    table.calendar-table {
+        margin-bottom:5px !important;
+    }
+    .cat-key {
+        width:100%;
+        margin-top:30px;
+        padding:5px;
+        border:0 !important;
+    }
+    .cal-separate {
+       border:0 !important;
+       margin-top:10px;
+    }
+    table.cat-key {
+       margin-top:5px !important;
+       border:1px solid #DFE6DE !important;
+       border-collapse:separate !important;
+       border-spacing:4px !important;
+       margin-left:2px !important;
+       width:99.5% !important;
+       margin-bottom:5px !important;
+    }
+    .cat-key td {
+       border:0 !important;
+    }
+</style>
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="LeftFootFwd">
+<meta name="twitter:title" content="Brand Blair may be considered toxic, but some of his arguments are valid">
+<meta name="twitter:description" content="Crying foul because of the identity of the messenger should not undermine the importance of his message, writes Jonathan Russell.">
+<meta name="twitter:image" content="http://www.leftfootforward.org/images/2014/04/Tony-Blairj-120x120-1398342238.jpg">
+  <script>
+    var xx_cal_xx = '&';
+  </script>
+  <script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+googletag.defineSlot('/9177305/LFF_after_post', [300, 250], 'div-gpt-ad-1366623292126-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
+</script>
+
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+googletag.defineSlot('/9177305/LFF_leaderboard_728x90', [728, 90], 'div-gpt-ad-1366714311428-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
+</script>
+
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+googletag.defineSlot('/9177305/LFF_sidebar_medium_rectangle_300x250', [[300, 250], [300, 600]], 'div-gpt-ad-1366714163683-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
+</script>
+
+<!-- Start Ad Break adserver tag -->
+<script type="text/javascript">
+ADSPANDABLE_PARAMS = {
+     container : ["mt_article_text:id","content:class","#content p.intro:selector"]
+}
+</script>
+<script type="text/javascript" src="http://files.adspdbl.com/publishers/webads/code.js"></script>
+<!-- End Ad Break adserver tag -->
+<!-- Imp Tracker - UK20482 - StatOil LFF Imp tracker - DO NOT MODIFY -->
+<img src="http://ib.adnxs.com/imptr?id=4772&t=2" width="1" height="1" />
+<!-- End of Imp Tracker -->
+
+<!-- All in One SEO Pack 2.1.5 by Michael Torbert of Semper Fi Web Design[289,371] -->
+<meta name="description" content="Crying foul because of the identity of the messenger should not undermine the importance of his message, writes Jonathan Russell." />
+
+<meta name="keywords" content="tony blair, quilliam, islamism, islamic extremism, terrorism, syria, speech, " />
+
+<link rel="canonical" href="http://www.leftfootforward.org/2014/04/blair-may-be-toxic-but-arguments-valid/" />
+<!-- /all in one seo pack -->
+<!-- Google Analytics Tracking by Google Analyticator 6.4.7.3: http://www.videousermanuals.com/google-analyticator/ -->
+<script type="text/javascript">
+                var analyticsFileTypes = [''];
+                            var analyticsSnippet = 'enabled';
+                var analyticsEventTracking = 'enabled';
+            </script>
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+  
+	_gaq.push(['_setAccount', 'UA-10253389-1']);
+    _gaq.push(['_addDevId', 'i9k95']); // Google Analyticator App ID with Google
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+</head>
+
+<body class="single single-post postid-83172 single-format-standard windows unknown-browser">
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1&appId=559419164133831";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+	<div id="wrapper" class="hfeed">
+
+		<div id="header">
+
+        	<div id="lff-top-menu">
+<div class="lff-top-of-site-menu"><ul id="menu-top-of-site-links" class="menu"><li id="menu-item-58997" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58997"><a href="http://www.leftfootforward.org/about/">About</a></li>
+<li id="menu-item-60110" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60110"><a href="http://www.leftfootforward.org/biographies/">Our writers</a></li>
+<li id="menu-item-80348" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-80348"><a href="https://leftfoot.bsd.net/page/contribute/default">Donate</a></li>
+<li id="menu-item-58998" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58998"><a href="http://www.leftfootforward.org/volunteer/">Volunteer</a></li>
+</ul></div></div>
+	<div id="branding">
+<div id="banner_ad" style="clear:both;float:right;width:728px;height:90px;background-color:white;margin:5px 5px 0 0;"><!-- LFF_leaderboard_728x90 -->
+<!-- LFF_leaderboard_728x90 -->
+<div id='div-gpt-ad-1366714311428-0' style='width:728px; height:90px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1366714311428-0'); });
+</script>
+</div>
+</div>
+<div style="top:7px;left:20px;position:relative;width:207px;height:121px;"><a href="/"><div style="width:207px;height:121px;background-color:transparent;"></div></a></div>
+		</div><!--  #branding -->
+    
+    <div id="access">
+    
+    	<div class="skip-link"><a href="#content" title="Skip navigation to the content">Skip to content</a></div><!-- .skip-link -->
+    	
+    	<div class="menu"><ul id="menu-main-navigation-bar" class="sf-menu"><li id="menu-item-58552" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-58552"><a href="http://www.leftfootforward.org/category/sustainable-economy/">The Economy</a></li>
+<li id="menu-item-58554" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-58554"><a href="http://www.leftfootforward.org/category/public-services-for-all/">Public Services</a></li>
+<li id="menu-item-82525" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-82525"><a href="http://www.leftfootforward.org/category/social-justice/">Social Security</a></li>
+<li id="menu-item-82339" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-82339"><a href="http://www.leftfootforward.org/category/a-britain-we-all-call-home/">Immigration</a></li>
+<li id="menu-item-82340" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-82340"><a href="http://www.leftfootforward.org/category/environment-2/">Sustainability</a></li>
+<li id="menu-item-82526" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-82526"><a href="http://www.leftfootforward.org/category/movement-politics/">Europe</a></li>
+<li id="menu-item-81605" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81605"><a href="http://www.leftfootforward.org/events-2/">Events</a></li>
+</ul></div>    	
+    </div><!-- #access -->
+           		
+    	</div><!-- #header-->		        
+    	    	
+	<div id="main">
+
+		<div id="container">
+			
+			<div id="content">
+
+				<div id="nav-above" class="navigation">
+				
+					<div class="nav-previous"><a href="http://www.leftfootforward.org/2014/04/the-wests-responsibility-for-the-ukrainian-crisis/" rel="prev"><span class="meta-nav">&laquo;</span> The West’s responsibility for the Ukrainian crisis</a></div>
+					
+					<div class="nav-next"><a href="http://www.leftfootforward.org/2014/04/why-9000-tuition-fees-have-been-a-moral-and-economic-disaster/" rel="next">Why £9,000 tuition fees have been a moral and economic disaster <span class="meta-nav">&raquo;</span></a></div>
+					
+				</div>
+					
+				<div id="post-83172" class="post-83172 post type-post status-publish format-standard hentry category-multilateral-foreign-policy tag-egypt tag-extremism tag-islamic-extremism tag-islamism tag-liberal-interventionism tag-quilliam tag-terrorism tag-tony-blair" > 
+
+				
+
+					<h1 class="entry-title">Brand Blair may be considered toxic, but some of his arguments are valid</h1>
+
+					<div class="entry-meta">
+
+	<span class="meta-prep meta-prep-author">By </span><span class="author vcard"><a class="url fn n" href="http://www.leftfootforward.org/author/jonathan-russell/" title="View all posts by Jonathan Russell">Jonathan Russell</a></span>
+
+	<span class="meta-sep meta-sep-entry-date"> | </span>
+
+	<span class="meta-prep meta-prep-entry-date">Published: </span><span class="entry-date"><abbr class="published" title="2014-04-24T13:30:51+0100">April 24, 2014</abbr></span>
+
+	
+
+</div><!-- .entry-meta -->
+     				
+					<div class="entry-content">
+					
+						<div class="lff_share_buttons" style="position:absolute;top:30px;left:-70px;"><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.leftfootforward.org/2014/04/blair-may-be-toxic-but-arguments-valid/" data-text="Brand Blair may be considered toxic, but some of his arguments are valid" data-via="LeftFootFwd" data-count="none">Tweet</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script><br/><div style="margin-top:10px;" class="fb-like" data-href="http://www.leftfootforward.org/2014/04/blair-may-be-toxic-but-arguments-valid/" data-width="50" data-layout="box_count" data-action="like" data-show-faces="true" data-share="true"></div></div><p><em><strong>Crying foul because of the identity of the messenger should not undermine the importance of his message, writes <a href="https://twitter.com/JRussellEsq">Jonathan Russell</a></strong></em></p>
+<p><img class=" wp-image-83178 alignright" title="Blair warned yesterday of the need to challenge Islamist narratives" alt="Tony Blairj" src="http://www.leftfootforward.org/images/2014/04/Tony-Blairj-298x300.jpg" width="298" height="300" />Tony Blair’s Bloomberg speech yesterday on the Middle East has been roundly criticised from various commentators, most of whom seemed to have not read or heard the actual speech. Brand Blair is considered toxic because of his legacy in Iraq, but the danger is that his valid arguments about Islamist extremism are lost.</p>
+<p>Blair is correct in his assessment that an extremist and politicised distortion of Islam is one the greatest threats that we face in the 21st century. He is also correct to identify the myriad countries that this challenge directly affects, and explain that although we must not conflate Al Qaeda, Hezbollah and the Muslim Brotherhood, the commonalities between Islamist groups, such as ideologies and narratives, can be tackled with clear and consistent counter-messaging.<span id="more-83172"></span></p>
+<p>He clearly says that there is a “unifying factor based on a particular world view of religion and its place in politics and society”, and it is this narrow Islamist worldview that can be challenged. Religion is not a threat; shutting down pluralism is.</p>
+<p>Likewise, Blair’s points about the British approach to the problem of Islamist extremism are very well made. Widespread weariness following military engagement in Afghanistan and Iraq should not negate the important need for our engagement in the complex debate of ideas in the post-Arab Spring rise of Islamism in the Middle East. Previous attempts to counter extremism have co-opted certain strands of Islamism or have failed to criticise extremists for fear of being called racist or Islamophobic – these strategies also fail to distinguish between religious thought and political exploitation.</p>
+<p>The response to Blair’s comments also risk falling into another trap. Since there is little political capital to be gained by any major party in supporting Blair’s analysis, counter-extremism risks becoming a political football. Instead it must be seen as an essential and effective counter-terrorism tool for all. Similarly, the success of counter-extremism efforts is often unquantifiable and risks being endlessly debated by academics, but this should not be an excuse for inaction.</p>
+<p>British strategic interests are certainly at stake and failure to protect the desire of populations all over the world for universal freedoms could have disastrous consequences, as Islamist rule certainly wouldn’t provide these.</p>
+<p>Indeed, failure to contest the ungoverned space of Islamist narratives will undoubtedly spark a rise in anti-Western rhetoric and promote a narrow worldview that, when violent, will also threaten British national security. Government spending on countering extremism is better value for money that spending on security, defence and counter-terrorism, as it invests in tackling causes of terrorism rather than its symptoms, and, though often unquantifiable, will have longer-lasting and sustainable consequences.</p>
+<p>When it comes to foreign policy, we may well take issue with Blair’s recommendation to engage with President Assad of Syria in order to drive forward negotiations and overcome the current impasse; indeed, we may find the idea of co-opting the Egyptian leader Sisi as abhorrent, given his absolute disregard for due democratic process.</p>
+<p>However, these are not new ideas.</p>
+<p>Their promotion by Blair comes in the framework of identifying that religious extremism is a more substantial and less controllable threat to the UK, and even more so for the inhabitants of the wider Middle East region. Any foreign policy concerning these countries and others will create grievances that extremists will seek to exploit through their narratives.</p>
+<p>There is no perfect solution to these complex problems, but governmental clarity and transparency about its actions will go some way to countering these narratives, and addressing grievances through dialogue and other non-violent methods will undermine the efforts of extremist groups to do so through less savoury means.</p>
+<p>I certainly don’t want to whitewash the failings in Iraq, nor say that his solutions to Middle Eastern problems are infallible, but Blair is correct to think long-term about the Middle East and has identified an important issue that we must all take note of. Even the most committed critic of Blair and his foreign policy would be incredibly naive to consider Islamist extremism as anything other than a defining issue for our time.</p>
+<p>Crying foul because of the identity of the messenger should not undermine the importance of his message. Indeed, through the good work of the Tony Blair Faith Foundation, he is well-positioned to provide practical solutions at a grassroots level, engage in the marketplace of ideas, and deliver serious policy advice to governments.</p>
+<p><em><strong><a href="https://twitter.com/JRussellEsq">Jonathan Russell</a> is political liaison officer for <a href="http://www.quilliamfoundation.org/">Quilliam</a></strong></em></p>
+
+												
+					</div><!-- .entry-content -->
+					
+					<div class="entry-utility">
+
+						<span class="cat-links">This entry was posted in <a href="http://www.leftfootforward.org/category/multilateral-foreign-policy/" title="View all posts in Multilateral Foreign Policy" rel="category tag">Multilateral Foreign Policy</a></span><span class="tag-links"> and tagged  <a href="http://www.leftfootforward.org/tag/egypt/" rel="tag">egypt</a>, <a href="http://www.leftfootforward.org/tag/extremism/" rel="tag">extremism</a>, <a href="http://www.leftfootforward.org/tag/islamic-extremism/" rel="tag">Islamic extremism</a>, <a href="http://www.leftfootforward.org/tag/islamism/" rel="tag">Islamism</a>, <a href="http://www.leftfootforward.org/tag/liberal-interventionism/" rel="tag">liberal interventionism</a>, <a href="http://www.leftfootforward.org/tag/quilliam/" rel="tag">Quilliam</a>, <a href="http://www.leftfootforward.org/tag/terrorism/" rel="tag">Terrorism</a>, <a href="http://www.leftfootforward.org/tag/tony-blair/" rel="tag">Tony Blair</a></span>. Bookmark the <a title="Permalink to Brand Blair may be considered toxic, but some of his arguments are valid" href="http://www.leftfootforward.org/2014/04/blair-may-be-toxic-but-arguments-valid/">permalink</a>. <a class="comment-link" title="Post a comment" href="#respond">Post a comment</a> or leave a trackback: <a class="trackback-link" href="http://www.leftfootforward.org/2014/04/blair-may-be-toxic-but-arguments-valid/trackback/" title ="Trackback URL for your post" rel="trackback">Trackback URL</a>.
+
+					</div><!-- .entry-utility -->
+					
+				</div><!-- #post -->
+		
+		<div id="single-insert" class="aside">
+			<ul class="xoxo">
+
+				<li id="text-16" class="widgetcontainer widget_text">			<div class="textwidget"><!-- LFF_after_post -->
+<center>
+<div id="mt_article_text"></div>
+</center></div>
+		</li>
+				</ul>
+
+		</div><!-- #single-insert .aside -->
+
+
+			<div id="nav-below" class="navigation">
+				<div class="nav-previous"><a href="http://www.leftfootforward.org/2014/04/the-wests-responsibility-for-the-ukrainian-crisis/" rel="prev"><span class="meta-nav">&laquo;</span> The West’s responsibility for the Ukrainian crisis</a></div>
+				<div class="nav-next"><a href="http://www.leftfootforward.org/2014/04/why-9000-tuition-fees-have-been-a-moral-and-economic-disaster/" rel="next">Why £9,000 tuition fees have been a moral and economic disaster <span class="meta-nav">&raquo;</span></a></div>
+			</div>
+
+
+<div id="disqus_thread">
+                    <div id="dsq-content">
+
+
+            <ul id="dsq-comments">
+                    <li class="comment even thread-even depth-1 thm-c-y2014 thm-c-m04 thm-c-d24 thm-c-h14" id="dsq-comment-252333">
+        <div id="dsq-comment-header-252333" class="dsq-comment-header">
+            <cite id="dsq-cite-252333">
+                <span id="dsq-author-user-252333">Same difference</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-252333" class="dsq-comment-body">
+            <div id="dsq-comment-message-252333" class="dsq-comment-message"><p>Quilliam and Blair both spend all their time trying to divide communities by justifying hatred. Luckily, you both have no credibility at all. </p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment odd alt thread-odd thread-alt depth-1 thm-c-y2014 thm-c-m04 thm-c-d24 thm-c-h14" id="dsq-comment-252338">
+        <div id="dsq-comment-header-252338" class="dsq-comment-header">
+            <cite id="dsq-cite-252338">
+                <span id="dsq-author-user-252338">Davo</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-252338" class="dsq-comment-body">
+            <div id="dsq-comment-message-252338" class="dsq-comment-message"><p>Wrong. &#8220;one the greatest threats that we face in the 21st century&#8221; is Tony Blair and his liberal imperialism. This has sharpened up the extremes, led to countless massacres (a new Blackwater trial is just about to start), killed hundreds of thousands in Iraq and Afghanistan. The aim of Blair&#8217;s neo-conservative wars is to enhance extremism, divide and rule, split the world into good (us) and evil (them) and rebuild the conservative hegemony. There are plenty of religious conservative extremists of all hues out there with whom Blair makes common cause. By the way, he&#8217;s responsible for much more killing than the so-called Islamist extremists.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even thread-even depth-1 thm-c-y2014 thm-c-m04 thm-c-d24 thm-c-h15" id="dsq-comment-252376">
+        <div id="dsq-comment-header-252376" class="dsq-comment-header">
+            <cite id="dsq-cite-252376">
+                <span id="dsq-author-user-252376">Wonderwhy</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-252376" class="dsq-comment-body">
+            <div id="dsq-comment-message-252376" class="dsq-comment-message"><p>Always seems strange to me that whenever Iraq is mentioned the name Tony Blair is only a word or two away. Hardly anyone ever mentions Saddam Hussein.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment odd alt thread-odd thread-alt depth-1 thm-c-y2014 thm-c-m04 thm-c-d24 thm-c-h19" id="dsq-comment-252604">
+        <div id="dsq-comment-header-252604" class="dsq-comment-header">
+            <cite id="dsq-cite-252604">
+                <span id="dsq-author-user-252604">Fanoftony</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-252604" class="dsq-comment-body">
+            <div id="dsq-comment-message-252604" class="dsq-comment-message"><p>How he is still allowed to make such statements after his involvement in creating the most divisive war in recent history, based on lies and scaremongering, is beyond belief. Guilty of causing the deaths of thousands and yet able to continue to self-publicise and profit from such behaviour. Middle East envoy? far more realistic title would be Middle East enemy and profiteer!</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+            </ul>
+
+
+        </div>
+
+    </div>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+    var disqus_url = 'http://www.leftfootforward.org/2014/04/blair-may-be-toxic-but-arguments-valid/';
+    var disqus_identifier = '83172 http://www.leftfootforward.org/?p=83172';
+    var disqus_container_id = 'disqus_thread';
+    var disqus_domain = 'disqus.com';
+    var disqus_shortname = 'leftfootfwd';
+    var disqus_title = "Brand Blair may be considered toxic, but some of his arguments are valid";
+        var disqus_config = function () {
+        var config = this; // Access to the config object
+        config.language = '';
+
+        /*
+           All currently supported events:
+            * preData — fires just before we request for initial data
+            * preInit - fires after we get initial data but before we load any dependencies
+            * onInit  - fires when all dependencies are resolved but before dtpl template is rendered
+            * afterRender - fires when template is rendered but before we show it
+            * onReady - everything is done
+         */
+
+        config.callbacks.preData.push(function() {
+            // clear out the container (its filled for SEO/legacy purposes)
+            document.getElementById(disqus_container_id).innerHTML = '';
+        });
+                config.callbacks.onReady.push(function() {
+            // sync comments in the background so we don't block the page
+            var script = document.createElement('script');
+            script.async = true;
+            script.src = '?cf_action=sync_comments&post_id=83172';
+
+            var firstScript = document.getElementsByTagName( "script" )[0];
+            firstScript.parentNode.insertBefore(script, firstScript);
+        });
+                    };
+/* ]]> */
+</script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+    var DsqLocal = {
+        'trackbacks': [
+        ],
+        'trackback_url': "http:\/\/www.leftfootforward.org\/2014\/04\/blair-may-be-toxic-but-arguments-valid\/trackback\/"    };
+/* ]]> */
+</script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+(function() {
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript';
+    dsq.async = true;
+    dsq.src = '//' + disqus_shortname + '.' + 'disqus.com' + '/embed.js?pname=wordpress&pver=2.74';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+/* ]]> */
+</script>
+		
+			</div><!-- #content -->
+			
+			 
+		</div><!-- #container -->
+		
+
+		<div i
+2575
+d="primary" class="aside main-aside">
+
+			<ul class="xoxo">
+
+				<li id="text-14" class="widgetcontainer widget_text">			<div class="textwidget"><div id='div-gpt-ad-1366714163683-0'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1366714163683-0'); });
+</script>
+</div></div>
+		</li><li id="text-10" class="widgetcontainer widget_text"><h3 class="widgettitle">YouGov Tracker</h3>
+			<div class="textwidget"><iframe src="http://widgets.yougov.com/UKWidget/widget-xsmall.html?referral_code=" width="278px" height="172px" frameborder="0" scrolling="no"></iframe></div>
+		</li><li id="text-9" class="widgetcontainer widget_text"><h3 class="widgettitle">Touchstone Economic Tracker</h3>
+			<div class="textwidget"><iframe height="250" width="280" src="http://touchstoneblog.org.uk/economic-dashboard/widget.php?w=280&amp;h=230" scrolling="no" frameborder="0"></iframe></div>
+		</li><li id="text-7" class="widgetcontainer widget_text">			<div class="textwidget"><iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fpages%2FLeft-Foot-Forward%2F119855314479&amp;width=292&amp;height=290&amp;show_faces=true&amp;colorscheme=light&amp;stream=false&amp;border_color&amp;header=true&amp;appId=138959422912841" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:290px;" allowTransparency="true"></iframe></div>
+		</li><li id="execphp-18" class="widgetcontainer widget_execphp"><h3 class="widgettitle">Best of the web</h3>
+			<div class="execphpwidget"></div>
+		</li><li id="archives-3" class="widgetcontainer widget_archive"><h3 class="widgettitle">Archive</h3>
+		<select name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'> <option value="">Select Month</option> 	<option value='http://www.leftfootforward.org/2014/04/'> April 2014 </option>
+	<option value='http://www.leftfootforward.org/2014/03/'> March 2014 </option>
+	<option value='http://www.leftfootforward.org/2014/02/'> February 2014 </option>
+	<option value='http://www.leftfootforward.org/2014/01/'> January 2014 </option>
+	<option value='http://www.leftfootforward.org/2013/12/'> December 2013 </option>
+	<option value='http://www.leftfootforward.org/2013/11/'> November 2013 </option>
+	<option value='http://www.leftfootforward.org/2013/10/'> October 2013 </option>
+	<option value='http://www.leftfootforward.org/2013/09/'> September 2013 </option>
+	<option value='http://www.leftfootforward.org/2013/08/'> August 2013 </option>
+	<option value='http://www.leftfootforward.org/2013/07/'> July 2013 </option>
+	<option value='http://www.leftfootforward.org/2013/06/'> June 2013 </option>
+	<option value='http://www.leftfootforward.org/2013/05/'> May 2013 </option>
+	<option value='http://www.leftfootforward.org/2013/04/'> April 2013 </option>
+	<option value='http://www.leftfootforward.org/2013/03/'> March 2013 </option>
+	<option value='http://www.leftfootforward.org/2013/02/'> February 2013 </option>
+	<option value='http://www.leftfootforward.org/2013/01/'> January 2013 </option>
+	<option value='http://www.leftfootforward.org/2012/12/'> December 2012 </option>
+	<option value='http://www.leftfootforward.org/2012/11/'> November 2012 </option>
+	<option value='http://www.leftfootforward.org/2012/10/'> October 2012 </option>
+	<option value='http://www.leftfootforward.org/2012/09/'> September 2012 </option>
+	<option value='http://www.leftfootforward.org/2012/08/'> August 2012 </option>
+	<option value='http://www.leftfootforward.org/2012/07/'> July 2012 </option>
+	<option value='http://www.leftfootforward.org/2012/06/'> June 2012 </option>
+	<option value='http://www.leftfootforward.org/2012/05/'> May 2012 </option>
+	<option value='http://www.leftfootforward.org/2012/04/'> April 2012 </option>
+	<option value='http://www.leftfootforward.org/2012/03/'> March 2012 </option>
+	<option value='http://www.leftfootforward.org/2012/02/'> February 2012 </option>
+	<option value='http://www.leftfootforward.org/2012/01/'> January 2012 </option>
+	<option value='http://www.leftfootforward.org/2011/12/'> December 2011 </option>
+	<option value='http://www.leftfootforward.org/2011/11/'> November 2011 </option>
+	<option value='http://www.leftfootforward.org/2011/10/'> October 2011 </option>
+	<option value='http://www.leftfootforward.org/2011/09/'> September 2011 </option>
+	<option value='http://www.leftfootforward.org/2011/08/'> August 2011 </option>
+	<option value='http://www.leftfootforward.org/2011/07/'> July 2011 </option>
+	<option value='http://www.leftfootforward.org/2011/06/'> June 2011 </option>
+	<option value='http://www.leftfootforward.org/2011/05/'> May 2011 </option>
+	<option value='http://www.leftfootforward.org/2011/04/'> April 2011 </option>
+	<option value='http://www.leftfootforward.org/2011/03/'> March 2011 </option>
+	<option value='http://www.leftfootforward.org/2011/02/'> February 2011 </option>
+	<option value='http://www.leftfootforward.org/2011/01/'> January 2011 </option>
+	<option value='http://www.leftfootforward.org/2010/12/'> December 2010 </option>
+	<option value='http://www.leftfootforward.org/2010/11/'> November 2010 </option>
+	<option value='http://www.leftfootforward.org/2010/10/'> October 2010 </option>
+	<option value='http://www.leftfootforward.org/2010/09/'> September 2010 </option>
+	<option value='http://www.leftfootforward.org/2010/08/'> August 2010 </option>
+	<option value='http://www.leftfootforward.org/2010/07/'> July 2010 </option>
+	<option value='http://www.leftfootforward.org/2010/06/'> June 2010 </option>
+	<option value='http://www.leftfootforward.org/2010/05/'> May 2010 </option>
+	<option value='http://www.leftfootforward.org/2010/04/'> April 2010 </option>
+	<option value='http://www.leftfootforward.org/2010/03/'> March 2010 </option>
+	<option value='http://www.leftfootforward.org/2010/02/'> February 2010 </option>
+	<option value='http://www.leftfootforward.org/2010/01/'> January 2010 </option>
+	<option value='http://www.leftfootforward.org/2009/12/'> December 2009 </option>
+	<option value='http://www.leftfootforward.org/2009/11/'> November 2009 </option>
+	<option value='http://www.leftfootforward.org/2009/10/'> October 2009 </option>
+	<option value='http://www.leftfootforward.org/2009/09/'> September 2009 </option>
+	<option value='http://www.leftfootforward.org/2009/08/'> August 2009 </option>
+	<option value='http://www.leftfootforward.org/2009/07/'> July 2009 </option>
+	<option value='http://www.leftfootforward.org/2009/05/'> May 2009 </option>
+ </select>
+</li><li id="text-11" class="widgetcontainer widget_text">			<div class="textwidget"><div style="width:300px;height:101px;"><a href="http://twitter.com/leftfootfwd"><img src="http://www.leftfootforward.org/images/2013/10/join-twitter-followers.jpg" /></a></div></div>
+		</li>
+				</ul>
+
+		</div><!-- #primary .aside -->
+
+				
+		</div><!-- #main -->
+    	
+    	<div id="footer">	
+        	
+        	    
+	<div id="siteinfo">        
+
+   			Published by Left Foot Forward Ltd, registered in England and Wales number 06978729. Hosted in Texas, USA by <a href="http://www.rackspace.com/">Rackspace US, Inc</a>.<br />Powered by <a class="wp-link" href="http://WordPress.org/" title="WordPress" rel="generator">WordPress</a>, <a class="theme-link" href="http://thematictheme.com" title="Thematic Theme Framework" rel="home">Thematic Theme Framework</a> and <a href="http://wordpress.org/extend/plugins/w3-total-cache/">W3 Total Cache</a>.
+
+	</div><!-- #siteinfo -->
+	
+   	        	
+		</div><!-- #footer -->
+    	
+	</div><!-- #wrapper .hfeed -->
+<!-- Powered by WPtouch: 3.2.3 --><link rel='stylesheet' id='Css-css'  href='http://www.leftfootforward.org/wp-content/plugins/spider-event-calendar/elements/calendar-jos.css?ver=3.8.3' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.leftfootforward.org/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.50.0-2014.02.05'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/www.leftfootforward.org\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.leftfootforward.org/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.8'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/www.leftfootforward.org\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.leftfootforward.org/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105'></script>
+<script type='text/javascript' src='http://www.leftfootforward.org/wp-includes/js/hoverIntent.js?ver=3.8.3'></script>
+<script type='text/javascript' src='http://www.leftfootforward.org/wp-content/themes/thematic/library/scripts/superfish.js?ver=1.4.8'></script>
+<script type='text/javascript' src='http://www.leftfootforward.org/wp-content/themes/thematic/library/scripts/supersubs.js?ver=0.2b'></script>
+<script type='text/javascript' src='http://www.leftfootforward.org/wp-content/themes/thematic/library/scripts/thematic-dropdowns.js?ver=1.0'></script>
+
+</body>
+</html>
+<!-- Dynamic page generated in 4.353 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2014-04-24 19:20:54 -->
+
+<!-- super cache -->
+0
+
+
+

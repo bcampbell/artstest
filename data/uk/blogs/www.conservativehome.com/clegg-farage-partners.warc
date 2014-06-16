@@ -1,0 +1,766 @@
+WARC/1.0
+Content-Length: 67724
+Content-Type: application/http; msgtype=response
+Warc-Date: 2014-04-24T11:27:01Z
+Warc-Record-Id: urn:X-scrapeomat:1398338822144893616
+Warc-Target-Uri: http://www.conservativehome.com/thetorydiary/2014/04/clegg-farage-partners.html
+Warc-Type: response
+X-Scrapeomat-Srcurl: http://www.conservativehome.com/thetorydiary/2014/04/clegg-farage-partners.html
+
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Content-Type: text/html
+Date: Thu, 24 Apr 2014 11:27:01 GMT
+Expires: Thu, 24 Apr 2014 11:57:02 GMT
+Last-Modified: Thu, 01 Jan 1970 00:00:00 GMT
+Server: Apache
+Vary: 
+X-Powered-By: PHP/5.4.27
+
+8000
+<!doctype html>  
+
+<!--[if IEMobile 7 ]> <html lang="en-US"class="no-js iem7"> <![endif]-->
+<!--[if lt IE 7 ]> <html lang="en-US" class="no-js ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en-US" class="no-js ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en-US" class="no-js ie8"> <![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html lang="en-US" class="no-js"><!--<![endif]-->
+	
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">		
+		<title>Clegg &#038; Farage, partners | Conservative Home</title>				
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">             
+        			<meta http-equiv="refresh" content="1800">  
+		          
+        <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>        
+				
+		<!-- media-queries.js (fallback) -->
+		<!--[if lt IE 9]>
+			<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>			
+		<![endif]-->
+
+		<!-- html5.js -->
+		<!--[if lt IE 9]>
+			<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+		
+  		<link rel="pingback" href="http://www.conservativehome.com/xmlrpc.php">
+
+		<!-- wordpress head functions -->
+		<link rel='stylesheet' id='wpapp-styles-css'  href='http://www.conservativehome.com/wp-content/plugins/wordpress-easy-paypal-payment-or-donation-accept-plugin/wpapp-styles.css?ver=3.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.conservativehome.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.5.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wpt-twitter-feed-css'  href='http://www.conservativehome.com/wp-content/plugins/wp-to-twitter/css/twitter-feed.css?ver=3.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='http://www.conservativehome.com/wp-content/themes/bootstrap-conhome/library/css/bootstrap.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-responsive-css'  href='http://www.conservativehome.com/wp-content/themes/bootstrap-conhome/library/css/responsive.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-bootstrap-css'  href='http://www.conservativehome.com/wp-content/themes/bootstrap-conhome/style.css?ver=1.2' type='text/css' media='all' />
+<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js?ver=1.10.1'></script>
+<script type='text/javascript' src='http://www.conservativehome.com/wp-content/themes/bootstrap-conhome/library/js/bootstrap.min.js?ver=1.2'></script>
+<script type='text/javascript' src='http://www.conservativehome.com/wp-content/themes/bootstrap-conhome/library/js/scripts.js?ver=1.2'></script>
+<script type='text/javascript' src='http://www.conservativehome.com/wp-content/themes/bootstrap-conhome/library/js/modernizr.full.min.js?ver=1.2'></script>
+<script type='text/javascript' src='http://www.conservativehome.com/wp-includes/js/comment-reply.min.js?ver=3.8.3'></script>
+<link rel='shortlink' href='http://www.conservativehome.com/?p=55522' />
+
+<!-- All in One SEO Pack 2.1.4 by Michael Torbert of Semper Fi Web Design[515,570] -->
+<meta name="description" content="The two are co-operating in trying to boost their votes at Cameron's expense." />
+
+<meta name="keywords" content="conservatives,david cameron mp,ed miliband mp,european elections 2014,general election 2015,labour,liberal democrats,nick clegg mp,nigel farage mep,ukip" />
+
+<link rel="canonical" href="http://www.conservativehome.com/thetorydiary/2014/04/clegg-farage-partners.html" />
+<!-- /all in one seo pack -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:url" content="http://www.conservativehome.com/thetorydiary/2014/04/clegg-farage-partners.html">
+<meta name="twitter:title" content="Clegg &amp; Farage, partners">
+<meta name="twitter:description" content="The two are co-operating in trying to boost their votes at Cameron&#039;s expense.">
+<meta name="twitter:image" content="http://www.conservativehome.com/wp-content/uploads/2014/04/Screen-shot-2014-04-24-at-09.50.38.png">
+<meta name="twitter:image:width" content="267">
+<meta name="twitter:image:height" content="222">
+        <meta name="twitter:site" content="@conhome" /> 
+        <meta property="og:type" content="article"/>
+        <meta property="og:site_name" content="Conservative Home"/>
+        <!-- include jQuery + carouFredSel plugin -->
+		<script type="text/javascript" language="javascript" src="http://www.conservativehome.com/wp-content/themes/bootstrap-conhome/library/js/jquery.caroul-packed.js"></script>
+
+		<!-- optionally include helper plugins -->
+		<script type="text/javascript" language="javascript" src="http://www.conservativehome.com/wp-content/themes/bootstrap-conhome/library/js/jquery.mousewheel.min.js"></script>
+		<script type="text/javascript" language="javascript" src="http://www.conservativehome.com/wp-content/themes/bootstrap-conhome/library/js/jquery.touchSwipe.min.js"></script>
+                
+        <!-- fire plugin onDocumentReady -->       
+        <script type="text/javascript" language="javascript">
+			$(function() {
+				//	Scrolled by user interaction
+				$('#foo').carouFredSel({
+					responsive: true,
+					width: "100%",
+					height: "120",
+					prev: '#prev2',
+					next: '#next2',
+					items: {
+					visible: 2
+					},
+					scroll: 1,
+					auto: false,
+					swipe: true,
+					mousewheel: true
+				});						
+			});
+		</script>        
+		<!-- end of wordpress head -->
+
+		<!-- theme options from options panel -->
+		<style>
+        h1, h2, h3, h4, h5, h6{ 
+          font-family: helvetica; 
+          font-weight: normal; 
+          color: #ef047f; 
+        }
+        body{ 
+          font-family: helvetica; 
+          font-weight: normal; 
+          color: #484848; 
+        }
+        a{ 
+          color: #006699; 
+        }
+        a:hover{ 
+          color: #006699; 
+        }
+        a:active{ 
+          color: #006699; 
+        }
+        .navbar{ 
+          position: static; 
+        }
+        body{
+          padding-top: 0;
+        }   		    
+        
+        .navbar-inner, .navbar .fill { 
+          background-color: #eaeaea;
+          background-image: none;
+        }#eaeaea
+        #main article {
+          border-bottom: none;
+        }body, h1, h2, h3, h4, h5 { font-family: 'Open Sans', sans-serif; }
+h1 { font-size: 20px; }
+h3 { font-size: 16px; }
+
+        </style>
+		<!-- typeahead plugin - if top nav search bar enabled -->
+		        
+        <script type="text/javascript">
+sas_tmstp=Math.round(Math.random()*10000000000);sas_masterflag=1;
+function SmartAdServer(sas_pageid,sas_formatid,sas_target) {
+if (sas_masterflag==1) {sas_masterflag=0;sas_master='M';} else {sas_master='S';};
+document.write('<scr'+'ipt src="http://www6.smartadserver.com/call/pubj/' + sas_pageid + '/' + sas_formatid + '/' + sas_master + '/' + sas_tmstp + '/' + escape(sas_target) + '?"></scr'+'ipt>');
+}
+</script>
+		
+        <script type='text/javascript'>
+		googletag.cmd.push(function() {
+		googletag.defineSlot('/32232896/conhome-btn', [210, 89], 'div-gpt-ad-1378212041757-0').addService(googletag.pubads());
+		googletag.pubads().enableSingleRequest();
+		googletag.enableServices();
+		});
+		</script>	
+	</head>
+	
+	<body class="single single-post postid-55522 single-format-standard">
+		<div id="page" class="container-fluid">	
+                	
+		<header role="banner">
+		
+			<div id="inner-header" class="clearfix">
+            
+            <div class="masthead">
+            	<div class="masthead-inner container-fluid">
+                
+            <a class="brand" id="logo" title="Britain&#039;s leading Conservative blog for news, comment, analysis and campaigns, edited by Paul Goodman." href="http://www.conservativehome.com">
+																			<img src="http://www.conservativehome.com/wp-content/uploads/2013/07/conservative-home.png" alt="Britain&#039;s leading Conservative blog for news, comment, analysis and campaigns, edited by Paul Goodman.">
+										</a>
+                                        
+                                        
+                    <img class="shields" src="http://www.conservativehome.com/wp-content/themes/bootstrap-conhome/images/conhome-shields-special.jpg" alt="Conservative Party News" />
+                    
+                    
+                                        <div id="search-header">
+                    <form role="search" method="get" id="searchform" action="http://www.conservativehome.com/" >
+  <div class="input-append">  
+  <input class="span2" type="text" value="" name="s" id="s" placeholder="Search the site" />
+  <input class="btn" type="submit" id="searchsubmit" value="Search" />
+  </div>
+  </form>                    </div>
+                                        
+                </div>
+             </div>
+             
+             
+             <div id="leaderboard-advert" class="row-fluid">
+            	 <div class="span9">
+				 	<div id="text-2" class="adcode widget_text">			<div class="textwidget"><script type="text/javascript">
+sas_pageid='55080/431391'; // Page : conhome/ros
+sas_formatid=20458; // Format : leaderboard 728x90
+sas_target=''; // Targeting
+SmartAdServer(sas_pageid,sas_formatid,sas_target);
+</script>
+<noscript>
+<a href="http://www6.smartadserver.com/call/pubjumpi/55080/431391/20458/S/[timestamp]/?" target="_blank">
+<img src="http://www6.smartadserver.com/call/pubi/55080/431391/20458/S/[timestamp]/?" border="0" alt="" /></a>
+</noscript></div>
+		</div> 
+                 </div>
+                 <div class="span3">               	
+
+<!-- conhome-btn -->
+<div class="conhome-btn" style="width:210px; height:89px;">
+	                      <a href="http://www.conservativehome.com/frontpage/2014/04/newslinks-for-thursday-april-24th-2014.html" rel="bookmark" title="ConservativeHome Newslinks for Thursday April 24th 2014"><img src="http://www.conservativehome.com/wp-content/themes/bootstrap-conhome/images/todays-newslinks.png" alt="ConservativeHome Newslinks for Thursday April 24th 2014" /></a>
+     	
+</div>
+                    
+                    
+             	 </div>
+             </div>
+            
+             
+             
+             
+             
+				
+				<div class="navbar navbar-fixed-top">
+					<div class="navbar-inner">
+						<div class="container-fluid nav-container">
+							<nav role="navigation">	
+								<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+							        <span class="icon-bar"></span>
+							        <span class="icon-bar"></span>
+							        <span class="icon-bar"></span>
+								</a>								
+								<div class="nav-collapse">                                
+                                	<a href="/" class="home"><i class="icon-home"></i></a>
+                                    <ul id="menu-main-navigation" class="nav"><li id="menu-item-41045" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www.conservativehome.com/category/frontpage">Newslinks</a></li><li id="menu-item-3884" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent"><a href="http://www.conservativehome.com/category/thetorydiary">ToryDiary</a></li><li id="menu-item-3874" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www.conservativehome.com/category/thecolumnists">Columnists</a></li><li id="menu-item-3875" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www.conservativehome.com/category/platform">Comment</a></li><li id="menu-item-3883" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www.conservativehome.com/category/parliament">MPs ETC</a></li><li id="menu-item-3877" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www.conservativehome.com/category/localgovernment">Local Government</a></li><li id="menu-item-3880" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www.conservativehome.com/category/the-deep-end">Deep End</a></li><li id="menu-item-38204" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www.conservativehome.com/category/thinktankcentral">ThinkTanks</a></li><li id="menu-item-3878" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www.conservativehome.com/category/majority_conservatism">Majority</a></li><li id="menu-item-3876" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www.conservativehome.com/category/leftwatch">Left Watch</a></li><li id="menu-item-31686" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www.conservativehome.com/category/international">International</a></li><li id="menu-item-31387" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www.conservativehome.com/category/video">Video</a></li></ul> 
+								</div>
+							</nav>	
+							
+						</div> <!-- end .nav-container -->
+					</div> <!-- end .navbar-inner -->
+				</div> <!-- end .navbar -->			
+			</div> <!-- end #inner-header -->
+		
+		</header> <!-- end header -->
+		
+		<div class="">
+			
+			<div id="content" class="clearfix row-fluid">
+			
+				<div id="main" class="span8 clearfix" role="main">
+					
+					                    
+                                        
+                                        <p class="pubdate">Published: <time datetime="2014-04-24" pubdate>44 minutes ago</time></p>
+                    					                    					<article id="post-55522" class="post-55522 post type-post status-publish format-standard hentry category-thetorydiary tag-conservatives tag-david-cameron-mp tag-ed-miliband-mp tag-european-elections-2014 tag-general-election-2015 tag-labour tag-liberal-democrats tag-nick-clegg-mp tag-nigel-farage-mep tag-ukip clearfix" role="article" itemscope itemtype="http://schema.org/BlogPosting">
+						
+						<header>					
+														
+							<div class="page-header"><h1 class="single-title" itemprop="headline">Clegg &#038; Farage, partners</h1>
+                            
+                                                        <div class="author-meta">                            
+                            <img src="http://www.conservativehome.com/wp-content/uploads/userphoto/3.thumbnail.png" alt="Paul Goodman" width="43" height="50" class="photo" />                            <p class="meta">By <a href="http://www.conservativehome.com/author/paul-goodman" title="Posts by Paul Goodman" rel="author">Paul Goodman</a></p>
+                            
+                            								<a href="https://twitter.com/PaulGoodmanCH" class="twitter-follow-button" data-show-count="true" data-size="medium">Follow @PaulGoodmanCH</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+							             
+                            </div>
+                                                        
+                                                                                             
+                            
+                                                            <p class="pubupdate"><i class="icon-time"></i> Last updated: April 24, 2014 at 11:17 am</p>
+                            							
+                            </div> 
+						
+						</header> <!-- end article header -->
+					
+						<section class="post_content clearfix" itemprop="articleBody">
+                             
+                            	                            	<div class="main-image medium">  
+   								<img src="http://www.conservativehome.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://www.conservativehome.com/wp-content/uploads/2014/04/Screen-shot-2014-04-24-at-09.50.38.png" class="attachment-medium wp-post-image" alt="CLEGG &amp; FARAGE together" /><noscript><img src="http://www.conservativehome.com/wp-content/uploads/2014/04/Screen-shot-2014-04-24-at-09.50.38.png" class="attachment-medium wp-post-image" alt="CLEGG &amp; FARAGE together" /></noscript>                                                                </div>
+                                							                           
+                            
+                                                        
+                                                        <script type="text/javascript">
+							$(function() {
+								//1 after 2
+								$(".author-related").each(function() {
+									var item = $(this);
+									item.insertAfter(item.next());
+									
+								});
+							});
+                            $('.author-related').insertAfter('.first-paragraph');
+							</script>
+                                                        <div class="author-related"><h4>Related Articles</h4><ul id="bones-related-posts">	           	<li class="related_post"><a href="http://www.conservativehome.com/thetorydiary/2014/04/big-beasts-for-big-times.html" title="Big beasts for big times">Big beasts for big times</a></li>
+	        	           	<li class="related_post"><a href="http://www.conservativehome.com/video/2014/04/watch-david-camerons-st-georges-day-message.html" title="WATCH: David Cameron&#8217;s St George&#8217;s Day message">WATCH: David Cameron&#8217;s St George&#8217;s Day message</a></li>
+	        	           	<li class="related_post"><a href="http://www.conservativehome.com/platform/2014/04/55431.html" title="James Cleverly: Our values and hard work can win ethnic minority votes">James Cleverly: Our values and hard work can win ethnic minority votes</a></li>
+	        	           	<li class="related_post"><a href="http://www.conservativehome.com/thetorydiary/2014/04/cry-god-for-hari-england-and-st-george.html" title="Cry God for Harri, England and St George!">Cry God for Harri, England and St George!</a></li>
+	        	           	<li class="related_post"><a href="http://www.conservativehome.com/thetorydiary/2014/04/the-case-for-splitting-up-cchq.html" title="The case for splitting up CCHQ">The case for splitting up CCHQ</a></li>
+	        </ul></div>                            
+                            							<p class="first-paragraph">One of the signature tunes of our columnist Stephen Tall, <a href="http://www.libdemvoice.org/" target="_blank">the editor of LibDem Voice</a>, is that Nick Clegg isn&#8217;t preoccupied by what three-quarters of voters think.  <a href="http://www.conservativehome.com/thecolumnists/2013/10/from-stephentall-you-might-not-believe-it-but-some-people-like-the-lib-dems-message-on-europe.html">He is focused on roughly a quarter of them</a> (the Liberal Democrats gained 23 per cent at the last election).  Were the Deputy Prime Minister&#8217;s party to repeat that result next year, another hung Parliament would be certain &#8211; since neither the Conservatives nor Labour would win enough of the remaining 75 per cent to gain a majority.  Clegg would then be in pole position to screw a coalition out of David Cameron or Ed Miliband, and once again take up the chauffeur-and-red-box life of office.  Jobs for the boys; ministerial salaries; seats round the table; second term of government &#8211; mission accomplished.</p>
+<p>UKIP is unlikely to be part of any Coalition Government, since it probably won&#8217;t win any Commons seats at all, but Nigel Farage&#8217;s position is a strange mirror image of Clegg&#8217;s.  Just as Clegg isn&#8217;t bothered by what three-quarters of voters think, so Farage isn&#8217;t worried by what nine in ten of them think.  All UKIP has to do in little more than a year&#8217;s time to achieve the latter&#8217;s strategic purpose is to grab ten per cent of the vote.  Since UKIP is taking more votes from the Conservatives than Labour &#8211; six times as many,  as <a href="http://www1.politicalbetting.com/index.php/archives/2014/04/08/ukip-is-taking-six-times-as-many-votes-from-the-tories-as-it-is-from-labour/" target="_blank">Mike Smithson pointed out to his readers earlier this month</a>, according to one recent estimate &#8211; this would probably do enough to put Miliband into Downing Street.</p>
+<p>Farage would then be poised to wrench a realignment of the right out of the demoralised Tories, given the propensity of the party to swing between complacency and panic.  He would thus have achieved his own strategic aim, which includes an end to his own party &#8211; since he is smart enough to grasp that it has no future as a perpetual party of opposition (its likely destiny under first-past-the-post).  Mission accomplished!</p>
+<p>All this helps to put the recent rows over Farage&#8217;s Euro-allowances and UKIP&#8217;s election posters into context.  What matters for the party is what that ten per cent of voters think.  And since these tend to be anti-immigration, anti-establishment voters, they will like the posters and be indifferent to the Times&#8217;s allowances reports, which a few of them will see as evidence that the paper is a tool of the EUSSR/the LibLabCon/the ZanuLab/<em>fill in here</em>.  By the same token, Nick Robinson&#8217;s aggressive questioning of Farage was more likely to help the latter than otherwise.  <a href="http://www.thesun.co.uk/sol/homepage/news/5586604/ukip-poster-girl-naked-photo-sex-scandal.html" target="_blank">Nor does what the UKIP leader&#8217;s staff get up to matter a jot</a>.  And he has another string to his bow.</p>
+<p>His party may be taking more votes from the Conservatives than Labour, but it is none the less a threat to the latter.  How much so is a matter of dispute, but Farage has an interest in turning up the heat on Miliband, too.  This is not simply because he wants every vote he can get.  The more UKIP can spook Labour, the more pressure there is on Miliband to concede an In/Out referendum.  Were he to do so, CCHQ&#8217;s &#8220;only-the-Conservatives-will-give-you-a-referendum&#8221; argument would be blown to smithereens.  Admittedly, it is not a big gainer of votes for the party.  But it has its place in the Tory armoury, and its loss would be a blow.</p>
+<p><a href="http://www.ukip.org/ukip_party_election_broadcast" target="_blank">Yesterday, UKIP released its Euro-elections broadcast</a>.  <a href="http://www.libdems.org.uk/the_fight_is_on" target="_blank">Today, Clegg launches his party&#8217;s Euro-elections campaign</a>.  The recent debate between them was a reminder that the two men are not so much opponents as partners, united in their goal of tearing slices off Cameron&#8217;s vote.  Success for Clegg would boost Farage&#8217;s strategy, since it would boost Miliband&#8217;s chances of making it to Number 10.  Success for Farage would boost Clegg&#8217;s strategy, since the more votes UKIP takes off the Conservatives, the more likely the LibDems are to hold yellow/blue marginals.  I would call this  alliance a Molotov-Ribbentrop pact <a href="http://www.conservativehome.com/thetorydiary/2013/09/the-molotov-ribbentrop-ed_miliband-nigel_farage-pact.html">were that title not already taken</a>.</p>
+	
+                             
+                            
+                                                                                    						
+												
+						</section> <!-- end article section -->
+						
+						<footer>
+			
+							<p class="tags"><i class="icon-tags"></i> <a href="http://www.conservativehome.com/tag/conservatives" rel="tag">Conservatives</a> <a href="http://www.conservativehome.com/tag/david-cameron-mp" rel="tag">David Cameron MP</a> <a href="http://www.conservativehome.com/tag/ed-miliband-mp" rel="tag">Ed Miliband MP</a> <a href="http://www.conservativehome.com/tag/european-elections-2014" rel="tag">European Elections 2014</a> <a href="http://www.conservativehome.com/tag/general-election-2015" rel="tag">General Election 2015</a> <a href="http://www.conservativehome.com/tag/labour" rel="tag">Labour</a> <a href="http://www.conservativehome.com/tag/liberal-democrats" rel="tag">Liberal Democrats</a> <a href="http://www.conservativehome.com/tag/nick-clegg-mp" rel="tag">Nick Clegg MP</a> <a href="http://www.conservativehome.com/tag/nigel-farage-mep" rel="tag">Nigel Farage MEP</a> <a href="http://www.conservativehome.com/tag/ukip" rel="tag">UKIP</a></p>							
+														
+						</footer> <!-- end article footer -->
+                        
+                        <div>
+                        <a href="/thetorydiary/2014/04/your-chance-to-join-george-osborne-lord-ashcroft-douglas-carswell-timmontgomerie-at-conservativehomes-spring-conference.html"><img src="http://www.conservativehome.com/wp-content/themes/bootstrap-conhome/images/spring-conf-footer.jpg" alt="ConservativeHome Spring Conference - Book Now" /></a>
+                        
+                        </div>
+					
+					</article> <!-- end article -->                 
+
+										
+                  <div id="social-links" class="social-links clearfix">
+                                    <h5>Share this article:</h5>
+                  <div class="fb-like" data-send="false" data-layout="button_count" data-width="200" data-show-faces="false" data-font="lucida grande"></div>
+                  <div class="tw-like"><a href="https://twitter.com/share" class="twitter-share-button">Tweet</a></div>
+                  </div>
+
+
+                  <div class="list_carousel">
+                  <h4>Recent articles</h4>
+                  
+                       <div id="foo">
+					                                <div class="content">
+                             
+        					<a href="http://www.conservativehome.com/thetorydiary/2014/04/clegg-farage-partners.html"><img src="http://www.conservativehome.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://www.conservativehome.com/wp-content/uploads/2014/04/Screen-shot-2014-04-24-at-09.50.38-100x100.png" class="attachment-thumbnail wp-post-image" alt="CLEGG &amp; FARAGE together" /><noscript><img src="http://www.conservativehome.com/wp-content/uploads/2014/04/Screen-shot-2014-04-24-at-09.50.38-100x100.png" class="attachment-thumbnail wp-post-image" alt="CLEGG &amp; FARAGE together" /></noscript></a>
+                                                        <h5><a href="http://www.conservativehome.com/thetorydiary/2014/04/clegg-farage-partners.html">Clegg &#038; Farage, partners</a></h5>
+                        	<p class="pubdate">Published: <time datetime="2014-04-24" pubdate>April 24, 2014</time></p>
+                          </div>                                
+							                          <div class="content">
+                             
+        					<a href="http://www.conservativehome.com/thetorydiary/2014/04/big-beasts-for-big-times.html"><img src="http://www.conservativehome.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://www.conservativehome.com/wp-content/uploads/2013/09/Boris-100x100.jpg" class="attachment-thumbnail wp-post-image" alt="BORIS open mouth" /><noscript><img src="http://www.conservativehome.com/wp-content/uploads/2013/09/Boris-100x100.jpg" class="attachment-thumbnail wp-post-image" alt="BORIS open mouth" /></noscript></a>
+                                                        <h5><a href="http://www.conservativehome.com/thetorydiary/2014/04/big-beasts-for-big-times.html">Big beasts for big times</a></h5>
+                        	<p class="pubdate">Published: <time datetime="2014-04-24" pubdate>April 24, 2014</time></p>
+                          </div>                                
+							                          <div class="content">
+                             
+        					<a href="http://www.conservativehome.com/thetorydiary/2014/04/cry-god-for-hari-england-and-st-george.html"><img src="http://www.conservativehome.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://www.conservativehome.com/wp-content/uploads/2014/01/Screen-shot-2014-01-21-at-08.13.40-100x100.png" class="attachment-thumbnail wp-post-image" alt="BORIS angel devil" /><noscript><img src="http://www.conservativehome.com/wp-content/uploads/2014/01/Screen-shot-2014-01-21-at-08.13.40-100x100.png" class="attachment-thumbnail wp-post-image" alt="BORIS angel devil" /></noscript></a>
+                                                        <h5><a href="http://www.conservativehome.com/thetorydiary/2014/04/cry-god-for-hari-england-and-st-george.html">Cry God for Harri, England and St George!</a></h5>
+                        	<p class="pubdate">Published: <time datetime="2014-04-23" pubdate>April 23, 2014</time></p>
+                          </div>                                
+							                          <div class="content">
+                             
+        					<a href="http://www.conservativehome.com/thetorydiary/2014/04/the-case-for-splitting-up-cchq.html"><img src="http://www.conservativehome.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://www.conservativehome.com/wp-content/uploads/2013/09/Screen-shot-2013-09-29-at-12.48.14-100x100.png" class="attachment-thumbnail wp-post-image" alt="Blue rosette" /><noscript><img src="http://www.conservativehome.com/wp-content/uploads/2013/09/Screen-shot-2013-09-29-at-12.48.14-100x100.png" class="attachment-thumbnail wp-post-image" alt="Blue rosette" /></noscript></a>
+                                                        <h5><a href="http://www.conservativehome.com/thetorydiary/2014/04/the-case-for-splitting-up-cchq.html">The case for splitting up CCHQ</a></h5>
+                        	<p class="pubdate">Published: <time datetime="2014-04-23" pubdate>April 23, 2014</time></p>
+                          </div>                                
+							                          <div class="content">
+                             
+        					<a href="http://www.conservativehome.com/thetorydiary/2014/04/infrastructure-its-complicated.html"><img src="http://www.conservativehome.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://www.conservativehome.com/wp-content/uploads/2013/09/GROWTH-e1398172546679-100x100.jpg" class="attachment-thumbnail wp-post-image" alt="GROWTH Krieg" /><noscript><img src="http://www.conservativehome.com/wp-content/uploads/2013/09/GROWTH-e1398172546679-100x100.jpg" class="attachment-thumbnail wp-post-image" alt="GROWTH Krieg" /></noscript></a>
+                                                        <h5><a href="http://www.conservativehome.com/thetorydiary/2014/04/infrastructure-its-complicated.html">Infrastructure? It’s complicated…</a></h5>
+                        	<p class="pubdate">Published: <time datetime="2014-04-22" pubdate>April 22, 2014</time></p>
+                          </div>                                
+							                          <div class="content">
+                             
+        					<a href="http://www.conservativehome.com/thetorydiary/2014/04/middle-class-ethnic-minority-voters-could-help-tories-win-election.html"><img src="http://www.conservativehome.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://www.conservativehome.com/wp-content/uploads/2013/10/Screen-shot-2013-10-05-at-13.17.53.png" class="attachment-thumbnail wp-post-image" alt="CONSERVATIVE tree red white and blue" /><noscript><img src="http://www.conservativehome.com/wp-content/uploads/2013/10/Screen-shot-2013-10-05-at-13.17.53.png" class="attachment-thumbnail wp-post-image" alt="CONSERVATIVE tree red white and blue" /></noscript></a>
+                                                        <h5><a href="http://www.conservativehome.com/thetorydiary/2014/04/middle-class-ethnic-minority-voters-could-help-tories-win-election.html">&#8220;Middle-class ethnic minority voters could help Tories win election&#8221;</a></h5>
+                        	<p class="pubdate">Published: <time datetime="2014-04-22" pubdate>April 22, 2014</time></p>
+                          </div>                                
+							                          <div class="content">
+                             
+        					<a href="http://www.conservativehome.com/thetorydiary/2014/04/this-call-to-drive-christianity-out-of-public-life-is-absurd.html"><img src="http://www.conservativehome.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://www.conservativehome.com/wp-content
+8000
+/uploads/2014/03/Church-shield-100x100.jpg" class="attachment-thumbnail wp-post-image" alt="Church shield" /><noscript><img src="http://www.conservativehome.com/wp-content/uploads/2014/03/Church-shield-100x100.jpg" class="attachment-thumbnail wp-post-image" alt="Church shield" /></noscript></a>
+                                                        <h5><a href="http://www.conservativehome.com/thetorydiary/2014/04/this-call-to-drive-christianity-out-of-public-life-is-absurd.html">This call to drive Christianity out of public life is absurd</a></h5>
+                        	<p class="pubdate">Published: <time datetime="2014-04-21" pubdate>April 21, 2014</time></p>
+                          </div>                                
+							                          <div class="content">
+                             
+        					<a href="http://www.conservativehome.com/thetorydiary/2014/04/will-scotlands-referendum-really-settle-the-independence-question.html"><img src="http://www.conservativehome.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://www.conservativehome.com/wp-content/uploads/2013/11/Scottish-flag-100x100.jpg" class="attachment-thumbnail wp-post-image" alt="Scottish flag" /><noscript><img src="http://www.conservativehome.com/wp-content/uploads/2013/11/Scottish-flag-100x100.jpg" class="attachment-thumbnail wp-post-image" alt="Scottish flag" /></noscript></a>
+                                                        <h5><a href="http://www.conservativehome.com/thetorydiary/2014/04/will-scotlands-referendum-really-settle-the-independence-question.html">Will Scotland&#8217;s referendum really settle the independence question?</a></h5>
+                        	<p class="pubdate">Published: <time datetime="2014-04-21" pubdate>April 21, 2014</time></p>
+                          </div>                                
+							                          <div class="content">
+                             
+        					<a href="http://www.conservativehome.com/thetorydiary/2014/04/does-the-right-of-the-conservative-party-really-exist.html"><img src="http://www.conservativehome.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://www.conservativehome.com/wp-content/uploads/2013/10/Union-Jack-Tree-Logo-e1385904531993-100x81.jpg" class="attachment-thumbnail wp-post-image" alt="Union Jack Tree Logo" /><noscript><img src="http://www.conservativehome.com/wp-content/uploads/2013/10/Union-Jack-Tree-Logo-e1385904531993-100x81.jpg" class="attachment-thumbnail wp-post-image" alt="Union Jack Tree Logo" /></noscript></a>
+                                                        <h5><a href="http://www.conservativehome.com/thetorydiary/2014/04/does-the-right-of-the-conservative-party-really-exist.html">Does &#8220;the Right&#8221; of the Conservative Party really exist?</a></h5>
+                        	<p class="pubdate">Published: <time datetime="2014-04-20" pubdate>April 20, 2014</time></p>
+                          </div>                                
+							                          <div class="content">
+                             
+        					<a href="http://www.conservativehome.com/thetorydiary/2014/04/meeting-the-needs-of-muslim-pupils.html"><img src="http://www.conservativehome.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://www.conservativehome.com/wp-content/uploads/2014/04/Screen-shot-2014-04-20-at-00.13.02-100x100.png" class="attachment-thumbnail wp-post-image" alt="Screen shot 2014-04-20 at 00.13.02" /><noscript><img src="http://www.conservativehome.com/wp-content/uploads/2014/04/Screen-shot-2014-04-20-at-00.13.02-100x100.png" class="attachment-thumbnail wp-post-image" alt="Screen shot 2014-04-20 at 00.13.02" /></noscript></a>
+                                                        <h5><a href="http://www.conservativehome.com/thetorydiary/2014/04/meeting-the-needs-of-muslim-pupils.html">&#8220;Meeting the needs of Muslim pupils&#8221;</a></h5>
+                        	<p class="pubdate">Published: <time datetime="2014-04-20" pubdate>April 20, 2014</time></p>
+                          </div>                                
+							                        </div>                        
+                            <a id="prev2" class="prev" href="#"><i class="icon-chevron-left"></i></a>
+                            <a id="next2" class="next" href="#"><i class="icon-chevron-right"></i></a>
+                            <div class="clearfix"></div>
+                      </div>
+                         
+					
+					
+					
+						
+                    
+                    	
+					
+					                    
+                    <div class="row-fluid" style="text-align: center; padding: 15px 0; border-top: 1px solid #eeeeee;">                     
+                     <script type="text/javascript">
+						sas_pageid='55080/431391';	// Page : conhome/ros
+						sas_formatid=24083;		// Format : rectangle 300x250
+						sas_target='';			// Targeting
+						SmartAdServer(sas_pageid,sas_formatid,sas_target);
+						</script>
+						<noscript>
+						<a href="http://www6.smartadserver.com/call/pubjumpi/55080/431391/24083/S/[timestamp]/?" target="_blank">
+						<img src="http://www6.smartadserver.com/call/pubi/55080/431391/24083/S/[timestamp]/?" border="0" alt="" /></a>
+						</noscript>                     
+                     </div>   
+                    
+                                        
+                                       
+                    
+                   	<a name="comments"></a>  
+                    	<div id='idc-container'></div>
+	<div id="idc-noscript">
+		
+<!-- You can start editing here. -->
+
+		
+		
+	<nav id="comment-nav">
+		<ul class="clearfix">
+	  		<li></li>
+	  		<li></li>
+		</ul>
+	</nav>
+  
+	
+
+
+<section id="respond" class="respond-form">
+
+	<h3 id="comment-form-title">Leave a Reply</h3>
+
+	<div id="cancel-comment-reply">
+		<p class="small"><a rel="nofollow" id="cancel-comment-reply-link" href="/thetorydiary/2014/04/clegg-farage-partners.html#respond" style="display:none;">Cancel</a></p>
+	</div>
+
+	  	<div class="help">
+  		<p>You must be <a href="http://www.conservativehome.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.conservativehome.com%2Fthetorydiary%2F2014%2F04%2Fclegg-farage-partners.html">logged in</a> to post a comment.</p>
+  	</div>
+	</section>
+
+	</div>
+	<script type="text/javascript">
+	/* <![CDATA[ */
+	function IDC_revert() { document.getElementById('idc-loading-comments').style.display='none'; if ( !document.getElementById('IDCommentsHead') ) { document.getElementById('idc-noscript').style.display='block'; document.getElementById('idc-comment-wrap-js').parentNode.removeChild(document.getElementById('idc-comment-wrap-js')); } else { document.getElementById('idc-noscript').style.display='none'; } }
+	idc_ns = document.getElementById('idc-noscript');
+	idc_ns.style.display='none'; idc_ld = document.createElement('div');
+	idc_ld.id = 'idc-loading-comments'; idc_ld.style.verticalAlign='middle';
+	idc_ld.innerHTML = "<img src='http://www.conservativehome.com/wp-content/plugins/intensedebate/loading.gif' alt='Loading' border='0' align='absmiddle' /> Loading IntenseDebate Comments...";
+	idc_ns.parentNode.insertBefore(idc_ld, idc_ns);
+	setTimeout( IDC_revert, 10000 );
+	/* ]]> */
+	</script>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+		(function() {
+		var s = document.createElement("script"); s.type = "text/javascript"; s.id = 'idc-comment-wrap-js'; s.src = "http://intensedebate.com/js/wordpressTemplateCommentWrapper2.php?acct=bbaafd462bb64e10d3d662bb23e99f38&postid=55522&title=Clegg+%26+Farage%2C+partners&url=http%3A%2F%2Fwww.conservativehome.com%2Fthetorydiary%2F2014%2F04%2Fclegg-farage-partners.html&posttime=2014-04-24+11%3A00%3A51&postauthor=Paul+Goodman&guid=http%3A%2F%2Fwww.conservativehome.com%2F%3Fp%3D55522"; document.getElementsByTagName("head")[0].appendChild(s);
+		}());
+		/* ]]> */
+		</script>
+                    
+                    	
+					
+					                    
+			
+				</div> <!-- end #main -->
+    			
+								
+                
+               
+                
+                <div id="sidebar1" class="fluid-sidebar sidebar span4" role="complementary">
+                
+                <div class="widget">
+                	<script type="text/javascript">
+sas_pageid='55080/431391'; // Page : conhome/ros
+sas_formatid=23713; // Format : halfpage 300x600
+sas_target=''; // Targeting
+SmartAdServer(sas_pageid,sas_formatid,sas_target);
+</script>
+<noscript>
+<a href="http://www6.smartadserver.com/call/pubjumpi/55080/431391/23713/M/[timestamp]/?" target="_blank">
+<img src="http://www6.smartadserver.com/call/pubi/55080/431391/23713/M/[timestamp]/?" border="0" alt="" /></a>
+</noscript>
+				</div>
+                
+                			
+                <ul class="nav nav-tabs" id="myTab">
+              		<li class="active"><a data-toggle="tab" href="#highlights" onclick="_gaq.push(['_trackEvent', 'Tab', 'Click', 'Highlights']);">Highlights</a></li>
+              		<li class=""><a data-toggle="tab" href="#latest" onclick="_gaq.push(['_trackEvent', 'Tab', 'Click', 'Latest Articles']);">Latest</a></li>
+                    <li class=""><a data-toggle="tab" href="#recent-commentes" onclick="_gaq.push(['_trackEvent', 'Tab', 'Click', 'Recent Comments']);">Comments</a></li>                  
+            	</ul>            
+            
+            <div class="tab-content" id="myTabContent">
+              <div id="highlights" class="tab-pane active">
+              	<ul>
+                	                          	<li>                            
+                            <a href="http://www.conservativehome.com/platform/2014/04/mel-stride-mp-stagnation-or-growth-what-is-the-true-picture-on-productivity.html">Mel Stride MP: Stagnation or growth &#8211; what is the true picture on productivity?</a>  
+                            <time pubdate>April 24, 2014</time>             	
+                            </li>                       
+							                          	<li>                            
+                            <a href="http://www.conservativehome.com/thetorydiary/2014/04/the-case-for-splitting-up-cchq.html">The case for splitting up CCHQ</a>  
+                            <time pubdate>April 23, 2014</time>             	
+                            </li>                       
+							                          	<li>                            
+                            <a href="http://www.conservativehome.com/platform/2014/04/from-andrewrosindell-its-time-for-st-georges-day-to-be-a-national-holiday.html">Andrew Rosindell MP: It&#8217;s time for St George&#8217;s Day to be a national holiday</a>  
+                            <time pubdate>April 23, 2014</time>             	
+                            </li>                       
+							                          	<li>                            
+                            <a href="http://www.conservativehome.com/thinktankcentral/2014/04/from-johnson1michael-pensions-the-end-of-tax-relief-and-a-new-beginning.html">Michael Johnson: Pensions &#8211; the end of tax relief, and a new beginning</a>  
+                            <time pubdate>April 23, 2014</time>             	
+                            </li>                       
+							                          	<li>                            
+                            <a href="http://www.conservativehome.com/video/2014/04/watch-the-conservative-european-elections-broadcast.html">WATCH: The Conservative European elections broadcast</a>  
+                            <time pubdate>April 22, 2014</time>             	
+                            </li>                       
+							                  </ul>
+              </div>
+              <div id="latest" class="tab-pane">
+                <ul>
+					                                <li><a href="http://www.conservativehome.com/thetorydiary/2014/04/clegg-farage-partners.html" rel="bookmark" title="Clegg &amp; Farage, partners">Clegg &#038; Farage, partners</a>
+                                <time pubdate>April 24, 2014</time>
+                                </li>
+                                                    <li><a href="http://www.conservativehome.com/platform/2014/04/david-burrowes-mp-prosecutions-an-enquiry-into-the-gmc-action-from-ministers.html" rel="bookmark" title="David Burrowes MP: Prosecutions. An enquiry into the GMC. What must follow the pre-signing abortion scandal.">David Burrowes MP: Prosecutions. An enquiry into the GMC. What must follow the pre-signing abortion scandal.</a>
+                                <time pubdate>April 24, 2014</time>
+                                </li>
+                                                    <li><a href="http://www.conservativehome.com/thetorydiary/2014/04/big-beasts-for-big-times.html" rel="bookmark" title="Big beasts for big times">Big beasts for big times</a>
+                                <time pubdate>April 24, 2014</time>
+                                </li>
+                                                    <li><a href="http://www.conservativehome.com/frontpage/2014/04/newslinks-for-thursday-april-24th-2014.html" rel="bookmark" title="Newslinks for Thursday April 24th 2014">Newslinks for Thursday April 24th 2014</a>
+                                <time pubdate>April 24, 2014</time>
+                                </li>
+                                                    <li><a href="http://www.conservativehome.com/thecolumnists/2014/04/marcus-roberts-get-off-the-doorstep-and-get-gaming.html" rel="bookmark" title="Marcus Roberts: Get off the doorstep and get gaming!">Marcus Roberts: Get off the doorstep and get gaming!</a>
+                                <time pubdate>April 24, 2014</time>
+                                </li>
+                                        </ul>
+              </div>  
+              <div id="recent-commentes" class="tab-pane">
+						<div id="id-recent" class="widget_id_recent_comments"><script type='text/javascript' src='http://www.intensedebate.com/widgets/acctComment/369565/6'></script></div>              </div>             
+          </div>
+          
+                
+					
+						<div id="skyscraper_widget-2" class="widget widget_skyscraper_widget"><script type="text/javascript">
+sas_pageid="55080/431391"; // Page : conhome/ros
+sas_formatid=20460; // Format : wideskyscraper 160x600
+sas_target=""; // Targeting
+SmartAdServer(sas_pageid,sas_formatid,sas_target);
+</script>
+<noscript>
+<a href="http://www6.smartadserver.com/call/pubjumpi/55080/431391/20460/S/[timestamp]/?" target="_blank">
+<img src="http://www6.smartadserver.com/call/pubi/55080/431391/20460/S/[timestamp]/?" border="0" alt="" /></a>
+</noscript></div><div id="text-8" class="widget widget_text">			<div class="textwidget"><a class="twitter-timeline"  href="https://twitter.com/PaulGoodmanCH/news-tweets"  data-widget-id="384583949273427968">Tweets from @PaulGoodmanCH/news-tweets</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div>
+		</div><div id="links_widget-4" class="widget widget_links_widget"><h4 class="widgettitle">Editors Blog List</h4><div class="select"><input type="checkbox" id="toggle" class="toggle"><label for="toggle">Select blog link<li class="icon-chevron-down"></li></label><ul><li><a href="http://www.adamsmith.org/blog">Adam Smith Institute Blog</a></li>
+<li><a href="http://www.cityam.com/news-and-analysis/Allister-Heath/" target="_blank">Allister Heath</a></li>
+<li><a href="http://blogs.news.com.au/heraldsun/andrewbolt/">Andrew Bolt (Australia)</a></li>
+<li><a href="http://votingandboating.blogspot.co.uk/">Andrew Kennedy</a></li>
+<li><a href="http://archbishop-cranmer.blogspot.com/">Archbishop Cranmer</a></li>
+<li><a href="http://australianconservative.com/">Australian Conservative</a></li>
+<li><a href="http://www.economist.com/blogs/bagehot/">Bagehot (Economist)</a></li>
+<li><a href="http://blogs.telegraph.co.uk/news/author/benedictbrogan/" target="_blank">Benedict Brogan (Telegraph)</a></li>
+<li><a href="http://www.bowgroup.org/">Bow Group</a></li>
+<li><a href="http://www.cps.org.uk/blog/">Centre for Policy Studies Blog</a></li>
+<li><a href="http://www.cobdencentre.org/">Cobden Centre</a></li>
+<li><a href="http://www.theguardian.com/uk/commentisfree">Comment is Free</a></li>
+<li><a href="http://www.christian-conservatives.org.uk/">Conservative Christian Fellowship</a></li>
+<li><a href="http://www.conservativefriendsofindia.co.uk/">Conservative Friends of India</a></li>
+<li><a href="http://www2.cfoi.co.uk/">Conservative Friends of Israel</a></li>
+<li><a href="http://www.cfop.org.uk/">Conservative Friends of Pakistan</a></li>
+<li><a href="http://cmec.org.uk/">Conservative Middle East Council</a></li>
+<li><a href="http://www.conservativemuslimforum.com/">Conservative Muslim Forum</a></li>
+<li><a href="http://www.crashbangwallace.com/" target="_blank">Crash Bang (Mark) Wallace</a></li>
+<li><a href="http://blogs.telegraph.co.uk/news/author/danielhannan/" target="_blank">Daniel Hannan MEP</a></li>
+<li><a href="http://www.thedailybeast.com/davidfrum.html">David Frum (The Daily Beast)</a></li>
+<li><a href="http://www.talkcarswell.com/" target="_blank">Douglas Carswell MP</a></li>
+<li><a href="http://toryreformgroup.tumblr.com">Egremont</a></li>
+<li><a href="http://politics.standard.co.uk/" target="_blank">Evening Standard Politics</a></li>
+<li><a href="http://www.foreignaffairs.com">Foreign Affairs</a></li>
+<li><a href="http://blogs.ft.com/westminster/#axzz1aHKcreaz" target="_blank">FT Westminster blog</a></li>
+<li><a href="http://blogs.channel4.com/gary-gibbon-on-politics/" target="_blank">Gary Gibbon (Channel 4)</a></li>
+<li><a href="http://www.order-order.com/" target="_blank">Guido Fawkes</a></li>
+<li><a href="http://hurryupharry.org/">Harry&#039;s Place</a></li>
+<li><a href="http://www.huffingtonpost.co.uk/">Huffington Post</a></li>
+<li><a href="http://www.iaindale.com/" target="_blank">Iain Dale</a></li>
+<li><a href="http://www.iainmartinpolitics.com/" target="_blank">Iain Martin</a></li>
+<li><a href="http://www.iea.org.uk/">Institute for Economic Affairs Blog</a></li>
+<li><a href="http://chapman.dailymail.co.uk/" target="_blank">James Chapman &amp; Mail Political Team</a></li>
+<li><a href="http://www.johnredwoodsdiary.com/" target="_blank">John Redwood MP</a></li>
+<li><a href="http://labour-uncut.co.uk/" target="_blank">Labour Uncut</a></li>
+<li><a href="http://www.labourlist.org/home" target="_blank">LabourList</a></li>
+<li><a href="http://www.leftfootforward.org/">Left Foot Forward</a></li>
+<li><a href="http://www.libdemvoice.org/" target="_blank">LibDemVoice</a></li>
+<li><a href="http://www.liberal-vision.org/">Liberal Vision</a></li>
+<li><a href="http://markreckons.blogspot.co.uk/">Mark Reckons</a></li>
+<li><a href="http://www.nationalreview.com/">National Review Online</a></li>
+<li><a href="http://blogs.telegraph.co.uk/news/normantebbit/" target="_blank">Norman Tebbit</a></li>
+<li><a href="http://www.openunionism.com/">Open Unionism</a></li>
+<li><a href="http://www.platform10.org/" target="_blank">Platform 10</a></li>
+<li><a href="http://www.policyexchange.org.uk/media-centre/blogs">Policy Exchange Blog</a></li>
+<li><a href="http://www.quilliamfoundation.org/">Quilliam Foundation</a></li>
+<li><a href="http://www.dailymail.co.uk/debate/index.html" target="_blank">Right Minds (Daily Mail)</a></li>
+<li><a href="http://www.spectator.co.uk/coffeehouse/" target="_blank">Spectator Coffee House</a></li>
+<li><a href="http://blogs.telegraph.co.uk/">Telegraph Blogs</a></li>
+<li><a href="http://www.theamericanconservative.com/">The American Conservative</a></li>
+<li><a href="http://www.guardian.co.uk/news/datablog" target="_blank">The Guardian&#039;s data blog</a></li>
+<li><a href="http://www.theweek.co.uk/">The Week</a></li>
+<li><a href="http://ukpollingreport.co.uk/blog/index.php" target="_blank">UK Polling Report</a></li>
+<li><a href="http://www.weeklystandard.com/">Weekly Standard</a></li>
+</ul></div></div><div id="reallysimpletwitterwidget-2" class="widget widget_reallysimpletwitterwidget"><h4 class="widgettitle"><a href="http://twitter.com/MustBeRead" class="twitter_title_link"  target="_blank" ><img src="http://www.conservativehome.com/wp-content/plugins/really-simple-twitter-feed-widget/twitter_small.png" alt="Latest Tweets" title="Latest Tweets" /> Latest Tweets</a></h4><script type="text/javascript" src="//platform.twitter.com/widgets.js"></script>
+		<p>A selection of must-read blogs and news stories, chosen by the @ConHome team</p><a href="https://twitter.com/MustBeRead" class="twitter-follow-button" data-show-count="true" data-size="medium">Follow @MustBeRead</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+			<ul class="really_simple_twitter_widget"><li>From <a href="http://twitter.com/davidburrowesmp" class="twitter-user"  target="_blank" >@davidburrowesmp</a>: Prosecutions - &amp; an enquiry into the GMC. What must follow the pre-signing abortion scandal. <a href="http://t.co/q2ihmdK4AV" class="twitter-link"  target="_blank" >http://t.co/q2ihmdK4AV</a><span class="twitter-timestamp" title="2014/04/24 10:40">35 mins ago</span><div class="share-tweet"><a href="https://twitter.com/intent/tweet?in_reply_to=459280818779983872">Reply <i class="icon-share icon-white"></i></a><a href="https://twitter.com/intent/retweet?tweet_id=459280818779983872">Retweet <i class="icon-refresh icon-white"></i></a><a href="https://twitter.com/intent/favorite?tweet_id==459280818779983872">Favorite <i class="icon-heart icon-white"></i></a></div></li><li>Hassan Hassan: Making Qatar an offer it can't refuse. <a href="http://t.co/m8aFOVlSjA" class="twitter-link"  target="_blank" >http://t.co/m8aFOVlSjA</a><span class="twitter-timestamp" title="2014/04/24 10:40">36 mins ago</span><div class="share-tweet"><a href="https://twitter.com/intent/tweet?in_reply_to=459280673413791744">Reply <i class="icon-share icon-white"></i></a><a href="https://twitter.com/intent/retweet?tweet_id=459280673413791744">Retweet <i class="icon-refresh icon-white"></i></a><a href="https://twitter.com/intent/favorite?tweet_id==459280673413791744">Favorite <i class="icon-heart icon-white"></i></a></div></li><li>Kapow! Batman is 75 and as popular as ever says <a href="http://twitter.com/pete_hoskin" class="twitter-user"  target="_blank" >@pete_hoskin</a> in the <a href="http://twitter.com/spectator" class="twitter-user"  target="_blank" >@spectator</a> <a href="http://t.co/fvN4aAAJci" class="twitter-link"  target="_blank" >http://t.co/fvN4aAAJci</a><span class="twitter-timestamp" title="2014/04/24 09:38">2 hours ago</span><div class="share-tweet"><a href="https://twitter.com/intent/tweet?in_reply_to=459265092979535872">Reply <i class="icon-share icon-white"></i></a><a href="https://twitter.com/intent/retweet?tweet_id=459265092979535872">Retweet <i class="icon-refresh icon-white"></i></a><a href="https://twitter.com/intent/favorite?tweet_id==459265092979535872">Favorite <i class="icon-heart icon-white"></i></a></div></li><li>From <a href="http://twitter.com/JustinWelby" class="twitter-user"  target="_blank" >@JustinWelby</a>: This is a Christian country. <a href="http://t.co/YiwnXPawvG" class="twitter-link"  target="_blank" >http://t.co/YiwnXPawvG</a><span class="twitter-timestamp" title="2014/04/24 09:23">2 hours ago</span><div class="share-tweet"><a href="https://twitter.com/intent/tweet?in_reply_to=459261377912504320">Reply <i class="icon-share icon-white"></i></a><a href="https://twitter.com/intent/retweet?tweet_id=459261377912504320">Retweet <i class="icon-refresh icon-white"></i></a><a href="https://twitter.com/intent/favorite?tweet_id==459261377912504320">Favorite <i class="icon-heart icon-white"></i></a></div></li><li>John Redwood: Raising living standards <a href="http://t.co/HRb1U6YpuY" class="twitter-link"  target="_blank" >http://t.co/HRb1U6YpuY</a><span class="twitter-timestamp" title="2014/04/24 08:36">3 hours ago</span><div class="share-tweet"><a href="https://twitter.com/intent/tweet?in_reply_to=459249452583489536">Reply <i class="icon-share icon-white"></i></a><a href="https://twitter.com/intent/retweet?tweet_id=459249452583489536">Retweet <i class="icon-refresh icon-white"></i></a><a href="https://twitter.com/intent/favorite?tweet_id==459249452583489536">Favorite <i class="icon-heart icon-white"></i></a></div></li></ul><div class="rstw_link_user"><a href="http://twitter.com/MustBeRead"  target="_blank" >Join the conversation</a></div></div><div id="tagcloud_widget-2" class="widget widget_tagcloud_widget">				
+                <div class="tagcloud">
+                <h4>Browse by Tag</h4>                
+				<div id="tag-cloud"><a href='http://www.conservativehome.com/tag/foreign-affairs' class='tag-link-112 label tag-foreign-affairs' title='186 topics' style='font-size: 7.75pt;'>Foreign affairs</a>
+<a href='http://www.conservativehome.com/tag/conservative-strategy' class='tag-link-85 label tag-conservative-strategy' title='206 topics' style='font-size: 7.75pt;'>Conservative strategy</a>
+<a href='http://www.conservativehome.com/tag/transport' class='tag-link-105 label tag-transport' title='216 topics' style='font-size: 7.75pt;'>Transport</a>
+<a href='http://www.conservativehome.com/tag/city-hall' class='tag-link-968 label tag-city-hall' title='217 topics' style='font-size: 7.75pt;'>City Hall</a>
+<a href='http://www.conservativehome.com/tag/david-cameron' class='tag-link-81 label tag-david-cameron' title='224 topics' style='font-size: 7.75pt;'>David Cameron</a>
+<a href='http://www.conservativehome.com/tag/andrew-lilico' class='tag-link-219 label tag-andrew-lilico' title='236 topics' style='font-size: 7.75pt;'>Andrew Lilico</a>
+<a href='http://www.conservativehome.com/tag/ed-miliband' class='tag-link-854 label tag-ed-miliband' title='238 topics' style='font-size: 7.75pt;'>Ed Miliband</a>
+<a href='http://www.conservativehome.com/tag/liberal-democrats' class='tag-link-132 label tag-liberal-democrats' title='249 topics' style='font-size: 7.75pt;'>Liberal Democrats</a>
+<a href='http://www.conservativehome.com/tag/environment' class='tag-link-108 label tag-environment' title='250 topics' style='font-size: 7.75pt;'>Environment</a>
+<a href='http://www.conservativehome.com/tag/by-election-results' class='tag-link-965 label tag-by-election-results' title='261 topics' style='font-size: 7.75pt;'>By-election results</a>
+<a href='http://www.conservativehome.com/tag/council-tax' class='tag-link-971 label tag-council-tax' title='269 topics' style='font-size: 7.75pt;'>Council tax</a>
+<a href='http://www.conservativehome.com/tag/george-osborne-mp' class='tag-link-233 label tag-george-osborne-mp' title='285 topics' style='font-size: 7.75pt;'>George Osborne MP</a>
+<a href='http://www.conservativehome.com/tag/tax-and-spending' class='tag-link-99 label tag-tax-and-spending' title='317 topics' style='font-size: 7.75pt;'>Tax and spending</a>
+<a href='http://www.conservativehome.com/tag/local-elections-general' class='tag-link-974 label tag-local-elections-general' title='363 topics' style='font-size: 7.75pt;'>Local Elections (general)</a>
+<a href='http://www.conservativehome.com/tag/economic-policy' class='tag-link-98 label tag-economic-policy' title='371 topics' style='font-size: 7.75pt;'>Economic policy</a>
+<a href='http://www.conservativehome.com/tag/council-finances' class='tag-link-975 label tag-council-finances' title='371 topics' style='font-size: 7.75pt;'>Council finances</a>
+<a href='http://www.conservativehome.com/tag/housing' class='tag-link-141 label tag-housing' title='406 topics' style='font-size: 7.75pt;'>Housing</a>
+<a href='http://www.conservativehome.com/tag/education' class='tag-link-120 label tag-education' title='526 topics' style='font-size: 7.75pt;'>Education</a>
+<a href='http://www.conservativehome.com/tag/europe' class='tag-link-87 label tag-europe' title='534 topics' style='font-size: 7.75pt;'>Europe</a>
+<a href='http://www.conservativehome.com/tag/david-cameron-mp' class='tag-link-230 label tag-david-cameron-mp' title='669 topics' style='font-size: 7.75pt;'>David Cameron MP</a></div>                <p class="show"><a href="/tags">Show all tags <i class="icon-chevron-down"></i></a></p>
+				</div>
+				</div>
+					                    
+                    
+                                       
+                    
+
+				</div>                
+    
+			</div> <!-- end #content -->
+
+		<script type="text/javascript">
+		/* <![CDATA[ */
+		(function() {
+		var s = document.createElement("script"); s.type = "text/javascript"; s.src = "http://intensedebate.com/js/wordpressTemplateLinkWrapper2.php?acct=bbaafd462bb64e10d3d662bb23e99f38"; document.getElementsByTagName("head")[0].appendChild(s);
+		}());
+		/* ]]> */
+		</script>
+			<footer role="contentinfo">			
+				<div id="inner-footer" class="clearfix">		      
+		          <div id="widget-footer" class="clearfix row-fluid">
+		            <div id="text-3" class="widget span4 widget_text">			<div class="textwidget"><img src="/wp-content/themes/bootstrap-conhome/images/conhome-footer.png" />
+
+<p>Britain’s leading Conservative blog for news, comment, analysis and campaigns, edited by Paul Goodman. We are independent of the Conservative Party but supportive of it. </p></div>
+		</div>		            <div id="nav_menu-2" class="widget span4 widget_nav_menu"><h4 class="widgettitle">Site Information</h4><div class="menu-footer-navigation-container"><ul id="menu-footer-navigation" class="menu"><li id="menu-item-22365" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22365"><a href="http://www.conservativehome.com/about">About ConservativeHome</a></li>
+<li id="menu-item-22364" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22364"><a href="http://www.conservativehome.com/advertise">Advertise</a></li>
+<li id="menu-item-22363" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22363"><a href="http://www.conservativehome.com/contact-us">Contact Us</a></li>
+<li id="menu-item-47746" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47746"><a href="http://www.conservativehome.com/comments-policy">Comments Policy</a></li>
+<li id="menu-item-36545" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36545"><a href="http://www.conservativehome.com/conservativehomes-daily-email">ConservativeHome&#8217;s Daily Email</a></li>
+<li id="menu-item-40204" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40204"><a href="http://www.conservativehome.com/news-feeds-from-conservativehome">News feeds from ConservativeHome</a></li>
+</ul></div></div>		            <div id="text-4" class="widget span4 widget_text"><h4 class="widgettitle">What’s happening inside the Conservative Party?</h4>			<div class="textwidget"><a href="www.conservativeintelligence.com" target="_blank">ConservativeIntelligence</a> has the answers. A weekly ‘Intelligence Letter‘, email alerts, high quality events, extended briefings and an online, searchable databank.</div>
+		</div>		          </div>					
+									
+					
+				
+				</div> <!-- end #inner-footer -->	
+                <div id="foot-note">
+                <p class="pull-right"><a href="http://www.tjugotjugo.com" id="" title="">Website by Tjugo Tjugo</a></p>			
+				<p class="attribution">&copy;2014 Conservative Home, All rights reserved</p>
+                </div>			
+			</footer> <!-- end footer -->		
+		</div> <!-- end #container -->
+				
+		<!--[if lt IE 7 ]>
+  			<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+  			<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+		<![endif]-->
+		
+		<script type='text/javascript' src='http://www.conservativehome.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.45.0-2013.10.17'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/www.conservativehome.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.conservativehome.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.5.4'></script>
+<script type='text/javascript' src='http://www.conse
+77b
+rvativehome.com/wp-content/plugins/lazy-load/js/jquery.sonar.min.js?ver=0.5'></script>
+<script type='text/javascript' src='http://www.conservativehome.com/wp-content/plugins/lazy-load/js/lazy-load.js?ver=0.5'></script>
+   
+        <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-18177326-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>  
+<script src="http://www.conservativehome.com/wp-content/themes/bootstrap-conhome/library/js/jquery.scrolldepth.js"></script>
+<script>
+$(function() {
+  $.scrollDepth();
+});
+</script>   
+        <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+		<script src="http://www.conservativehome.com/wp-content/themes/bootstrap-conhome/library/js/jquery.cookie.js"></script>
+        
+        
+        </div>
+	</body>
+
+</html>
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using disk: enhanced
+
+ Served from: conservativehome.com @ 2014-04-24 12:16:01 by W3 Total Cache -->
+0
+
+
+

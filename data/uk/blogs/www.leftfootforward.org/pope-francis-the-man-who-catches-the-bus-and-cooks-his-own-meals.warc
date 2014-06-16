@@ -1,0 +1,686 @@
+WARC/1.0
+Content-Length: 40233
+Content-Type: application/http; msgtype=response
+Warc-Date: 2014-04-24T02:44:58Z
+Warc-Record-Id: urn:X-scrapeomat:1398307499683736741
+Warc-Target-Uri: http://www.leftfootforward.org/2013/03/pope-francis-the-man-who-catches-the-bus-and-cooks-his-own-meals/
+Warc-Type: response
+X-Scrapeomat-Srcurl: http://www.leftfootforward.org/2013/03/pope-francis-the-man-who-catches-the-bus-and-cooks-his-own-meals/
+
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Cache-Control: max-age=3, must-revalidate
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+Date: Thu, 24 Apr 2014 02:44:59 GMT
+Server: Apache/2.2
+Vary: Accept-Encoding,Cookie
+Wp-Super-Cache: Served supercache file from PHP
+
+8000
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Pope Francis: the man who catches the bus and cooks his own meals | Left Foot Forward</title>
+<link rel="pingback" href="http://www.leftfootforward.org/xmlrpc.php" />
+<link rel="alternate" type="application/rss+xml" title="Left Foot Forward &raquo; Feed" href="http://www.leftfootforward.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Left Foot Forward &raquo; Comments Feed" href="http://www.leftfootforward.org/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Left Foot Forward &raquo; Pope Francis: the man who catches the bus and cooks his own meals Comments Feed" href="http://www.leftfootforward.org/2013/03/pope-francis-the-man-who-catches-the-bus-and-cooks-his-own-meals/feed/" />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.leftfootforward.org/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='thickbox.css-css'  href='http://www.leftfootforward.org/wp-includes/js/thickbox/thickbox.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://www.leftfootforward.org/wp-includes/css/dashicons.min.css?ver=3.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='thickbox-css'  href='http://www.leftfootforward.org/wp-includes/js/thickbox/thickbox.css?ver=20131201' type='text/css' media='all' />
+<link rel='stylesheet' id='wpt-twitter-feed-css'  href='http://www.leftfootforward.org/wp-content/plugins/wp-to-twitter/css/twitter-feed.css?ver=3.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='thematic_style-css'  href='http://www.leftfootforward.org/wp-content/themes/lff2012/style.css?ver=3.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='blackbirdpie-css-css'  href='http://www.leftfootforward.org/wp-content/plugins/twitter-blackbird-pie/css/blackbirdpie.css?ver=20110416' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.leftfootforward.org/wp-includes/js/jquery/jquery.js?ver=1.10.2'></script>
+<script type='text/javascript' src='http://www.leftfootforward.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.leftfootforward.org/wp-content/plugins/twitter-blackbird-pie/js/blackbirdpie.js?ver=20110404'></script>
+<script type='text/javascript' src='http://www.leftfootforward.org/wp-content/plugins/spider-event-calendar/elements/calendar.js?ver=3.8.3'></script>
+<script type='text/javascript' src='http://www.leftfootforward.org/wp-content/plugins/spider-event-calendar/elements/calendar-setup.js?ver=3.8.3'></script>
+<script type='text/javascript' src='http://www.leftfootforward.org/wp-content/plugins/spider-event-calendar/elements/calendar_function.js?ver=3.8.3'></script>
+<script type='text/javascript' src='http://www.leftfootforward.org/wp-content/plugins/spider-event-calendar/jscolor/jscolor.js?ver=3.8.3'></script>
+<script type='text/javascript' src='http://www.leftfootforward.org/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.4.7.3'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.leftfootforward.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.leftfootforward.org/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='The Bedroom Tax: let&#8217;s make it Cameron&#8217;s Poll Tax' href='http://www.leftfootforward.org/2013/03/the-bedroom-tax-lets-make-it-camerons-poll-tax/' />
+<link rel='next' title='Look Left going out shortly – sign up to receive it by email' href='http://www.leftfootforward.org/2013/03/look-left-14-03-13-sign-up/' />
+
+<link rel='shortlink' href='http://www.leftfootforward.org/?p=64069' />
+<style type="text/css">
+    .calnk a:hover {
+        background-position:0 0;
+        text-decoration:none;  
+        color:#000000;
+        border-bottom:1px dotted #000000;
+     }
+    .calnk a:visited {
+        text-decoration:none;
+        color:#000000;
+        border-bottom:1px dotted #000000;
+    }
+    .calnk a {
+        text-decoration:none; 
+        color:#000000; 
+        border-bottom:1px dotted #000000;
+    }
+    .calnk a span { 
+        display:none; 
+    }
+    .calnk a:hover span {
+        color:#333333; 
+        background:#F6F79B; 
+        display:block;
+        position:absolute; 
+        margin-top:1px; 
+        padding:5px; 
+        width:150px; 
+        z-index:100;
+        line-height:1.2em;
+    }
+    .calendar-table {
+        border:0 !important;
+        width:100% !important;
+        border-collapse:separate !important;
+        border-spacing:2px !important;
+    }
+    .calendar-heading {
+        height:25px;
+        text-align:center;
+        border:1px solid #D6DED5;
+        background-color:#E4EBE3;
+    }
+    .calendar-next {
+        width:25%;
+        text-align:center;
+    }
+    .calendar-prev {
+        width:25%;
+        text-align:center;
+    }
+    .calendar-month {
+        width:50%;
+        text-align:center;
+        font-weight:bold;
+    }
+    .normal-day-heading {
+        text-align:center;
+        width:25px;
+        height:25px;
+        font-size:0.8em;
+        border:1px solid #DFE6DE;
+        background-color:#EBF2EA;
+    }
+    .weekend-heading {
+        text-align:center;
+        width:25px;
+        height:25px;
+        font-size:0.8em;
+        border:1px solid #DFE6DE;
+        background-color:#EBF2EA;
+        color:#FF0000;
+    }
+    .day-with-date {
+        vertical-align:text-top;
+        text-align:left;
+        width:60px;
+        height:60px;
+        border:1px solid #DFE6DE;
+    }
+    .no-events {
+
+    }
+    .day-without-date {
+        width:60px;
+        height:60px;
+        border:1px solid #E9F0E8;
+    }
+    span.weekend {
+        color:#FF0000;
+    }
+    .current-day {
+        vertical-align:text-top;
+        text-align:left;
+        width:60px;
+        height:60px;
+        border:1px solid #BFBFBF;
+        background-color:#E4EBE3;
+    }
+    span.event {
+        font-size:0.75em;
+    }
+    .kjo-link {
+        font-size:0.75em;
+        text-align:center;
+    }
+    .calendar-date-switcher {
+        height:25px;
+        text-align:center;
+        border:1px solid #D6DED5;
+        background-color:#E4EBE3;
+    }
+    .calendar-date-switcher form {
+        margin:2px;
+    }
+    .calendar-date-switcher input {
+        border:1px #D6DED5 solid;
+        margin:0;
+    }
+    .calendar-date-switcher select {
+        border:1px #D6DED5 solid;
+        margin:0;
+    }
+    .calnk a:hover span span.event-title {
+        padding:0;
+        text-align:center;
+        font-weight:bold;
+        font-size:1.2em;
+        margin-left:0px;
+    }
+    .calnk a:hover span span.event-title-break {
+        width:96%;
+        text-align:center;
+        height:1px;
+        margin-top:5px;
+        margin-right:2%;
+        padding:0;
+        background-color:#000000;
+        margin-left:0px;
+    }
+    .calnk a:hover span span.event-content-break {
+        width:96%;
+        text-align:center;
+        height:1px;
+        margin-top:5px;
+        margin-right:2%;
+        padding:0;
+        background-color:#000000;
+        margin-left:0px;
+    }
+    .page-upcoming-events {
+        font-size:80%;
+    }
+    .page-todays-events {
+        font-size:80%;
+    }
+    .calendar-table table,tbody,tr,td {
+        margin:0 !important;
+        padding:0 !important;
+    }
+    table.calendar-table {
+        margin-bottom:5px !important;
+    }
+    .cat-key {
+        width:100%;
+        margin-top:30px;
+        padding:5px;
+        border:0 !important;
+    }
+    .cal-separate {
+       border:0 !important;
+       margin-top:10px;
+    }
+    table.cat-key {
+       margin-top:5px !important;
+       border:1px solid #DFE6DE !important;
+       border-collapse:separate !important;
+       border-spacing:4px !important;
+       margin-left:2px !important;
+       width:99.5% !important;
+       margin-bottom:5px !important;
+    }
+    .cat-key td {
+       border:0 !important;
+    }
+</style>
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="LeftFootFwd">
+<meta name="twitter:title" content="Pope Francis: the man who catches the bus and cooks his own meals">
+<meta name="twitter:description" content="The optimism invested in Pope Francis, the 266th holder of the office since St. Peter, was apparent on our television screens last night as pilgrims from all corners of the world - Black and White, rich and poor, European, African, Asian, North and South American - crammed into St. Peter’s Square to hear his first words.">
+<meta name="twitter:image" content="">
+  <script>
+    var xx_cal_xx = '&';
+  </script>
+  <script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+googletag.defineSlot('/9177305/LFF_after_post', [300, 250], 'div-gpt-ad-1366623292126-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
+</script>
+
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+googletag.defineSlot('/9177305/LFF_leaderboard_728x90', [728, 90], 'div-gpt-ad-1366714311428-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
+</script>
+
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+googletag.defineSlot('/9177305/LFF_sidebar_medium_rectangle_300x250', [[300, 250], [300, 600]], 'div-gpt-ad-1366714163683-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
+</script>
+
+<!-- Start Ad Break adserver tag -->
+<script type="text/javascript">
+ADSPANDABLE_PARAMS = {
+     container : ["mt_article_text:id","content:class","#content p.intro:selector"]
+}
+</script>
+<script type="text/javascript" src="http://files.adspdbl.com/publishers/webads/code.js"></script>
+<!-- End Ad Break adserver tag -->
+<!-- Imp Tracker - UK20482 - StatOil LFF Imp tracker - DO NOT MODIFY -->
+<img src="http://ib.adnxs.com/imptr?id=4772&t=2" width="1" height="1" />
+<!-- End of Imp Tracker -->
+
+<!-- All in One SEO Pack 2.1.5 by Michael Torbert of Semper Fi Web Design[289,364] -->
+<meta name="description" content="The optimism invested in Pope Francis, the 266th holder of the office since St. Peter, was apparent on our television screens last night as pilgrims from all" />
+
+<meta name="keywords" content="the new pope, cardinal jorge bergoglio, argentina, the vatican" />
+
+<link rel="canonical" href="http://www.leftfootforward.org/2013/03/pope-francis-the-man-who-catches-the-bus-and-cooks-his-own-meals/" />
+<!-- /all in one seo pack -->
+<!-- Google Analytics Tracking by Google Analyticator 6.4.7.3: http://www.videousermanuals.com/google-analyticator/ -->
+<script type="text/javascript">
+                var analyticsFileTypes = [''];
+                            var analyticsSnippet = 'enabled';
+                var analyticsEventTracking = 'enabled';
+            </script>
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+  
+	_gaq.push(['_setAccount', 'UA-10253389-1']);
+    _gaq.push(['_addDevId', 'i9k95']); // Google Analyticator App ID with Google
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+</head>
+
+<body class="single single-post postid-64069 single-format-standard windows msie ie6">
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1&appId=559419164133831";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+	<div id="wrapper" class="hfeed">
+
+		<div id="header">
+
+        	<div id="lff-top-menu">
+<div class="lff-top-of-site-menu"><ul id="menu-top-of-site-links" class="menu"><li id="menu-item-58997" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58997"><a href="http://www.leftfootforward.org/about/">About</a></li>
+<li id="menu-item-60110" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60110"><a href="http://www.leftfootforward.org/biographies/">Our writers</a></li>
+<li id="menu-item-80348" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-80348"><a href="https://leftfoot.bsd.net/page/contribute/default">Donate</a></li>
+<li id="menu-item-58998" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58998"><a href="http://www.leftfootforward.org/volunteer/">Volunteer</a></li>
+</ul></div></div>
+	<div id="branding">
+<div id="banner_ad" style="clear:both;float:right;width:728px;height:90px;background-color:white;margin:5px 5px 0 0;"><!-- LFF_leaderboard_728x90 -->
+<!-- LFF_leaderboard_728x90 -->
+<div id='div-gpt-ad-1366714311428-0' style='width:728px; height:90px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1366714311428-0'); });
+</script>
+</div>
+</div>
+<div style="top:7px;left:20px;position:relative;width:207px;height:121px;"><a href="/"><div style="width:207px;height:121px;background-color:transparent;"></div></a></div>
+		</div><!--  #branding -->
+    
+    <div id="access">
+    
+    	<div class="skip-link"><a href="#content" title="Skip navigation to the content">Skip to content</a></div><!-- .skip-link -->
+    	
+    	<div class="menu"><ul id="menu-main-navigation-bar" class="sf-menu"><li id="menu-item-58552" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-58552"><a href="http://www.leftfootforward.org/category/sustainable-economy/">The Economy</a></li>
+<li id="menu-item-58554" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-58554"><a href="http://www.leftfootforward.org/category/public-services-for-all/">Public Services</a></li>
+<li id="menu-item-82525" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-82525"><a href="http://www.leftfootforward.org/category/social-justice/">Social Security</a></li>
+<li id="menu-item-82339" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-82339"><a href="http://www.leftfootforward.org/category/a-britain-we-all-call-home/">Immigration</a></li>
+<li id="menu-item-82340" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-82340"><a href="http://www.leftfootforward.org/category/environment-2/">Sustainability</a></li>
+<li id="menu-item-82526" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-82526"><a href="http://www.leftfootforward.org/category/movement-politics/">Europe</a></li>
+<li id="menu-item-81605" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81605"><a href="http://www.leftfootforward.org/events-2/">Events</a></li>
+</ul></div>    	
+    </div><!-- #access -->
+           		
+    	</div><!-- #header-->		        
+    	    	
+	<div id="main">
+
+		<div id="container">
+			
+			<div id="content">
+
+				<div id="nav-above" class="navigation">
+				
+					<div class="nav-previous"><a href="http://www.leftfootforward.org/2013/03/the-bedroom-tax-lets-make-it-camerons-poll-tax/" rel="prev"><span class="meta-nav">&laquo;</span> The Bedroom Tax: let&#8217;s make it Cameron&#8217;s Poll Tax</a></div>
+					
+					<div class="nav-next"><a href="http://www.leftfootforward.org/2013/03/look-left-14-03-13-sign-up/" rel="next">Look Left going out shortly – sign up to receive it by email <span class="meta-nav">&raquo;</span></a></div>
+					
+				</div>
+					
+				<div id="post-64069" class="post-64069 post type-post status-publish format-standard hentry category-movement-politics tag-argentina tag-cardinal-jorge-bergoglio tag-the-pope tag-the-vatican" > 
+
+				
+
+					<h1 class="entry-title">Pope Francis: the man who catches the bus and cooks his own meals</h1>
+
+					<div class="entry-meta">
+
+	<span class="meta-prep meta-prep-author">By </span><span class="author vcard"><a class="url fn n" href="http://www.leftfootforward.org/author/kevinmeagher/" title="View all posts by Kevin Meagher">Kevin Meagher</a></span>
+
+	<span class="meta-sep meta-sep-entry-date"> | </span>
+
+	<span class="meta-prep meta-prep-entry-date">Published: </span><span class="entry-date"><abbr class="published" title="2013-03-14T14:33:55+0100">March 14, 2013</abbr></span>
+
+	
+
+</div><!-- .entry-meta -->
+     				
+					<div class="entry-content">
+					
+						<div class="lff_share_buttons" style="position:absolute;top:30px;left:-70px;"><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.leftfootforward.org/2013/03/pope-francis-the-man-who-catches-the-bus-and-cooks-his-own-meals/" data-text="Pope Francis: the man who catches the bus and cooks his own meals" data-via="LeftFootFwd" data-count="none">Tweet</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script><br/><div style="margin-top:10px;" class="fb-like" data-href="http://www.leftfootforward.org/2013/03/pope-francis-the-man-who-catches-the-bus-and-cooks-his-own-meals/" data-width="50" data-layout="box_count" data-action="like" data-show-faces="true" data-share="true"></div></div><p>A priest with <strong>one functioning lung</strong> who cooks his own meals, travels miles by bus to tend to the poor in his diocese and is known simply as “Fr. Jorge” has just been elected as spiritual leader of the world’s 1.2 billion Roman Catholics.</p>
+<p><img class="size-full wp-image-64071 alignright" title="The nationality of the new Pope reflects the declining influence of the Catholic Church in Europe" alt="New Pope" src="http://www.leftfootforward.org/images/2013/03/New-Pope1.png" width="259" height="194" />On this, the day after his election, the papacy of Cardinal Jorge Mario Bergoglio of Buenos Aires &#8211; or Pope Francis I as he is now called &#8211; is already <strong>rich with symbolism</strong>.</p>
+<p>His choice of name is important. The ascetic 13th Century friar St. Francis of Assisi – a champion of the poor – is a <strong>fitting inspiration</strong> for the son of an immigrant railway worker (although it is unclear whether Bergoglio is also named after the missionary St. Francis Xaviar, a 16th Century founder of the Jesuit Order, to which he belongs).</p>
+<p>Catholics will welcome the first-ever South American Pontiff &#8211; a bridge between Europe, where Catholicism has lost its footing in recent years, and the new world where <strong>the faith is flourishing</strong>.</p>
+<p>In terms of his stewardship of the Church, lay Catholics will be hoping Pope Francis can restore its reputation following <strong>a decade of clerical child abuse scandals</strong>.</p>
+<p>The humility and determination of both St. Francis’s will be needed to restore trust with <strong>so many victims</strong> who have reason to be angry at the grievous failures of those priests who have perpetrated such wickedness, tarnishing the church and breaking the hearts of it’s followers in the process.</p>
+<p><span id="more-64069"></span>It is said that St. Francis of Assisi underwent <strong>a mystical vision</strong> while living among the poor in which Christ told him to “go and repair My house which, as you can see, is falling into ruins.&#8221; St. Francis took this to mean <strong>the dilapidated chapel he found himself in at the time</strong>.</p>
+<p>His namesake may take that to suggest a much broader renovation is needed.</p>
+<p>Doctrinally, there will be <strong>no major shift</strong> in established Church social teachings. After all, the Catholic Church famously ‘thinks in centuries’.</p>
+<p>However Pope Francis could do worse that usher in a whole system review of its functioning to bring coherence to the often lacklustre performance of the Vatican’s Curia (civil service) and <strong>restore its organisation and prestige</strong> in Western Europe and North America.</p>
+<p>Here, again, the name is significant. St. Francis built a powerful grassroots Order, the Franciscans, devoted to practical action in carrying out good works. “Preach the Gospel” he is often quoted as saying “and use words if you have too.”</p>
+<p>A humble Pontiff, then, who has tended the diocese of Buenos Aires, one of the largest and poorest flocks in Christendom, is <strong>a good choice</strong> to reflect what Disraeli referred to as “the temper of the times”.</p>
+<p>After all, you can learn a great deal about the plight of ordinary people when you travel on the same bus.</p>
+<p>As the Catholic commentator John Allen <a href="http://ncronline.org/blogs/ncr-today/papabile-day-men-who-could-be-pope-13">says</a> of the new Pope:</p>
+<p>“His <strong>leading role</strong> during the Argentine economic crisis [of the early Noughties] burnished his reputation as a voice of conscience, and made him a potent symbol of the costs globalization can impose on the world&#8217;s poor.”</p>
+<p>Geo-politically, Pope Francis’s election is reflective of the <strong>tilt in global power politics</strong> away from North America and Europe and towards emerging, more self-confident parts of the world like South America.</p>
+<p>An outspoken advocate of the needs of the southern hemisphere, Pope Francis will bring<strong> a first-hand account of the lives of the poor</strong> to his ministry. Argentinian Catholic writer José Mariá Poirier, has <a href="http://www.catholicherald.co.uk/features/2013/03/13/quiet-thunder-in-argentina/">even talked of</a> the new Pontiff’s “constant preoccupation with the poor”.</p>
+<p>Although prior to the conclave there was much talk of an African Pope, it is easy to see that with South America now providing 42 per cent of the world’s Catholics (some 500 million of them) a Pope from this continent was <strong>always going to be a strong contender</strong>.</p>
+<p>So despite its various tribulations, <strong>a new chapter</strong> in the 2,000 year history of the Catholic Church begins.</p>
+<p>The optimism invested in Pope Francis, the 266th holder of the office since St. Peter, was apparent on our television screens last night as pilgrims from all corners of the world &#8211; Black and White, rich and poor, European, African, Asian, North and South American &#8211; <strong>crammed into St. Peter’s Square</strong> to hear his first words. The words of the man who catches the bus and cooks his own meals.</p>
+
+												
+					</div><!-- .entry-content -->
+					
+					<div class="entry-utility">
+
+						<span class="cat-links">This entry was posted in <a href="http://www.leftfootforward.org/category/movement-politics/" title="View all posts in Movement Politics" rel="category tag">Movement Politics</a></span><span class="tag-links"> and tagged  <a href="http://www.leftfootforward.org/tag/argentina/" rel="tag">Argentina</a>, <a href="http://www.leftfootforward.org/tag/cardinal-jorge-bergoglio/" rel="tag">Cardinal Jorge Bergoglio</a>, <a href="http://www.leftfootforward.org/tag/the-pope/" rel="tag">the pope</a>, <a href="http://www.leftfootforward.org/tag/the-vatican/" rel="tag">the vatican</a></span>. Bookmark the <a title="Permalink to Pope Francis: the man who catches the bus and cooks his own meals" href="http://www.leftfootforward.org/2013/03/pope-francis-the-man-who-catches-the-bus-and-cooks-his-own-meals/">permalink</a>. <a class="comment-link" title="Post a comment" href="#respond">Post a comment</a> or leave a trackback: <a class="trackback-link" href="http://www.leftfootforward.org/2013/03/pope-francis-the-man-who-catches-the-bus-and-cooks-his-own-meals/trackback/" title ="Trackback URL for your post" rel="trackback">Trackback URL</a>.
+
+					</div><!-- .entry-utility -->
+					
+				</div><!-- #post -->
+		
+		<div id="single-insert" class="aside">
+			<ul class="xoxo">
+
+				<li id="text-16" class="widgetcontainer widget_text">			<div class="textwidget"><!-- LFF_after_post -->
+<center>
+<div id="mt_article_text"></div>
+</center></div>
+		</li>
+				</ul>
+
+		</div><!-- #single-insert .aside -->
+
+
+			<div id="nav-below" class="navigation">
+				<div class="nav-previous"><a href="http://www.leftfootforward.org/2013/03/the-bedroom-tax-lets-make-it-camerons-poll-tax/" rel="prev"><span class="meta-nav">&laquo;</span> The Bedroom Tax: let&#8217;s make it Cameron&#8217;s Poll Tax</a></div>
+				<div class="nav-next"><a href="http://www.leftfootforward.org/2013/03/look-left-14-03-13-sign-up/" rel="next">Look Left going out shortly – sign up to receive it by email <span class="meta-nav">&raquo;</span></a></div>
+			</div>
+
+
+<div id="disqus_thread">
+                    <div id="dsq-content">
+
+
+            <ul id="dsq-comments">
+                    <li class="comment even thread-even depth-1 thm-c-y2013 thm-c-m03 thm-c-d14 thm-c-h15" id="dsq-comment-200192">
+        <div id="dsq-comment-header-200192" class="dsq-comment-header">
+            <cite id="dsq-cite-200192">
+http://twitter.com/Shinsei1967                <span id="dsq-author-user-200192">Nick Reid</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-200192" class="dsq-comment-body">
+            <div id="dsq-comment-message-200192" class="dsq-comment-message"><p>It&#8217;s all very saintly I&#8217;m sure to do your own cooking and take a bus, but I suspect the sacked chauffeur and cook at the Buenos Aires Bishop&#8217;s Palace aren&#8217;t too chuffed.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment odd alt thread-odd thread-alt depth-1 thm-c-y2013 thm-c-m03 thm-c-d14 thm-c-h16" id="dsq-comment-200195">
+        <div id="dsq-comment-header-200195" class="dsq-comment-header">
+            <cite id="dsq-cite-200195">
+http://www.facebook.com/mattybob                <span id="dsq-author-user-200195">Mat Bob Jeffery</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-200195" class="dsq-comment-body">
+            <div id="dsq-comment-message-200195" class="dsq-comment-message"><p>Yes of course&#8230; and I&#8217;m sure that the same could be said for the cheesed off cooks and chauffers when Hitler killed himself.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+            </ul>
+
+
+        </div>
+
+    </div>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+    var disqus_url = 'http://www.leftfootforward.org/2013/03/pope-francis-the-man-who-catches-the-bus-and-cooks-his-own-meals/';
+    var disqus_identifier = '64069 http://www.leftfootforward.org/?p=64069';
+    var disqus_container_id = 'disqus_thread';
+    var disqus_domain = 'disqus.com';
+    var disqus_shortname = 'leftfootfwd';
+    var disqus_title = "Pope Francis: the man who catches the bus and cooks his own meals";
+        var disqus_config = function () {
+        var config = this; // Access to the config object
+        config.language = '';
+
+        /*
+           All currently supported events:
+            * preData — fires just before we request for initial data
+            * preInit - fires after we get initial data but before we load any dependencies
+            * onInit  - fires when all dependencies are resolved but before dtpl template is rendered
+            * afterRender - fires when template is rendered but before we show it
+            * onReady - everything is done
+         */
+
+        config.callbacks.preData.push(function() {
+            // clear out the container (its filled for SEO/legacy purposes)
+            document.getElementById(disqus_container_id).innerHTML = '';
+        });
+                config.callbacks.onReady.push(function() {
+            // sync comments in the background so we don't block the page
+            var script = document.createElement('script');
+            script.async = true;
+            script.src = '?cf_action=sync_comments&post_id=64069';
+
+            var firstScript = document.getElementsByTagName( "script" )[0];
+            firstScript.parentNode.insertBefore(script, firstScript);
+        });
+                    };
+/* ]]> */
+</script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+    var DsqLocal = {
+        'trackbacks': [
+        ],
+        'trackback_url': "http:\/\/www.leftfootforward.org\/2013\/03\/pope-francis-the-man-who-catches-the-bus-and-cooks-his-own-meals\/trackback\/"    };
+/* ]]> */
+</script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+(function() {
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript';
+    dsq.async = true;
+    dsq.src = '//' + disqus_shortname + '.' + 'disqus.com' + '/embed.js?pname=wordpress&pver=2.74';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+/* ]]> */
+</script>
+		
+			</div><!-- #content -->
+			
+			 
+		</div><!-- #container -->
+		
+
+		<div id="primary" class="aside main-aside">
+
+			<ul class="xoxo">
+
+				<li id="text-14" class="widgetcontainer widget_text">			<div class="textwidget"><div id='div-gpt-ad-1366714163683-0'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1366714163683-0'); });
+</script>
+</div></div>
+		</li><li id="text-10" class="widgetcontainer widget_text"><h3 class="widgettitle">YouGov Tracker</h3>
+			<div class="textwidget"><iframe src="http://widgets.yougov.com/UKWidget/widget-xsmall.html?referral_code=" width="278px" height="172px" frameborder="0" scrolling="no"></iframe></div>
+		</li><li id="text-9" class="widgetcontainer widget_text"><h3 class="widgettitle">Touchstone Economic Tracker</h3>
+			<div class="textwidget"><iframe height="250" width="280" src="http://touchstoneblog.org.uk/economic-dashboard/widget.php?w=280&amp;h=230" scrolling="no" frameborder="0"></iframe></div>
+		</li><li id="text-7" class="widgetcontainer widget_text">			<div class="textwidget"><iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fpages%2FLeft-Foot-Forward%2F119855314479&amp;width=292&amp;height=290&amp;show_faces=true&amp;colorscheme=light&amp;stream=false&amp;border_color&amp;header=true&amp;appId=138959422912841" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:290px;" allowTransparency="true"></iframe></div>
+		</li><li id="execphp-18" class="widgetcontainer widget_execphp"><h3 class="widgettitle">Best of the web</h3>
+			<div class="execphpwidget"></div>
+		</li><li id="archives-3" class="widgetcontainer widget_archive"><h3 class="widgettitle">Archive</h3>
+		<select name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'> <option value="">Select Month</option> 	<option value='http://www.leftfootforward.org/2014/04/'> April 2014 </option>
+	<option value='http://www.leftfootforward.org/2014/03/'> March 2014 </option>
+	<option value='http://www.leftfootforward.org/2014/02/'> February 2014 </option>
+	<option value='http://www.leftfootforward.org/2014/01/'> January 2014 </option>
+	<option value='http://www.leftfootforward.org/2013/12/'> December 2013 </option>
+	<option value='http://www.leftfootforward.org/2013/11/'> November 2013 </option>
+	<option value='http://www.leftfootforward.org/2013/10/'> October 2013 </option>
+	<option value='http://www.leftfootforward.org/
+1bf2
+2013/09/'> September 2013 </option>
+	<option value='http://www.leftfootforward.org/2013/08/'> August 2013 </option>
+	<option value='http://www.leftfootforward.org/2013/07/'> July 2013 </option>
+	<option value='http://www.leftfootforward.org/2013/06/'> June 2013 </option>
+	<option value='http://www.leftfootforward.org/2013/05/'> May 2013 </option>
+	<option value='http://www.leftfootforward.org/2013/04/'> April 2013 </option>
+	<option value='http://www.leftfootforward.org/2013/03/'> March 2013 </option>
+	<option value='http://www.leftfootforward.org/2013/02/'> February 2013 </option>
+	<option value='http://www.leftfootforward.org/2013/01/'> January 2013 </option>
+	<option value='http://www.leftfootforward.org/2012/12/'> December 2012 </option>
+	<option value='http://www.leftfootforward.org/2012/11/'> November 2012 </option>
+	<option value='http://www.leftfootforward.org/2012/10/'> October 2012 </option>
+	<option value='http://www.leftfootforward.org/2012/09/'> September 2012 </option>
+	<option value='http://www.leftfootforward.org/2012/08/'> August 2012 </option>
+	<option value='http://www.leftfootforward.org/2012/07/'> July 2012 </option>
+	<option value='http://www.leftfootforward.org/2012/06/'> June 2012 </option>
+	<option value='http://www.leftfootforward.org/2012/05/'> May 2012 </option>
+	<option value='http://www.leftfootforward.org/2012/04/'> April 2012 </option>
+	<option value='http://www.leftfootforward.org/2012/03/'> March 2012 </option>
+	<option value='http://www.leftfootforward.org/2012/02/'> February 2012 </option>
+	<option value='http://www.leftfootforward.org/2012/01/'> January 2012 </option>
+	<option value='http://www.leftfootforward.org/2011/12/'> December 2011 </option>
+	<option value='http://www.leftfootforward.org/2011/11/'> November 2011 </option>
+	<option value='http://www.leftfootforward.org/2011/10/'> October 2011 </option>
+	<option value='http://www.leftfootforward.org/2011/09/'> September 2011 </option>
+	<option value='http://www.leftfootforward.org/2011/08/'> August 2011 </option>
+	<option value='http://www.leftfootforward.org/2011/07/'> July 2011 </option>
+	<option value='http://www.leftfootforward.org/2011/06/'> June 2011 </option>
+	<option value='http://www.leftfootforward.org/2011/05/'> May 2011 </option>
+	<option value='http://www.leftfootforward.org/2011/04/'> April 2011 </option>
+	<option value='http://www.leftfootforward.org/2011/03/'> March 2011 </option>
+	<option value='http://www.leftfootforward.org/2011/02/'> February 2011 </option>
+	<option value='http://www.leftfootforward.org/2011/01/'> January 2011 </option>
+	<option value='http://www.leftfootforward.org/2010/12/'> December 2010 </option>
+	<option value='http://www.leftfootforward.org/2010/11/'> November 2010 </option>
+	<option value='http://www.leftfootforward.org/2010/10/'> October 2010 </option>
+	<option value='http://www.leftfootforward.org/2010/09/'> September 2010 </option>
+	<option value='http://www.leftfootforward.org/2010/08/'> August 2010 </option>
+	<option value='http://www.leftfootforward.org/2010/07/'> July 2010 </option>
+	<option value='http://www.leftfootforward.org/2010/06/'> June 2010 </option>
+	<option value='http://www.leftfootforward.org/2010/05/'> May 2010 </option>
+	<option value='http://www.leftfootforward.org/2010/04/'> April 2010 </option>
+	<option value='http://www.leftfootforward.org/2010/03/'> March 2010 </option>
+	<option value='http://www.leftfootforward.org/2010/02/'> February 2010 </option>
+	<option value='http://www.leftfootforward.org/2010/01/'> January 2010 </option>
+	<option value='http://www.leftfootforward.org/2009/12/'> December 2009 </option>
+	<option value='http://www.leftfootforward.org/2009/11/'> November 2009 </option>
+	<option value='http://www.leftfootforward.org/2009/10/'> October 2009 </option>
+	<option value='http://www.leftfootforward.org/2009/09/'> September 2009 </option>
+	<option value='http://www.leftfootforward.org/2009/08/'> August 2009 </option>
+	<option value='http://www.leftfootforward.org/2009/07/'> July 2009 </option>
+	<option value='http://www.leftfootforward.org/2009/05/'> May 2009 </option>
+ </select>
+</li><li id="text-11" class="widgetcontainer widget_text">			<div class="textwidget"><div style="width:300px;height:101px;"><a href="http://twitter.com/leftfootfwd"><img src="http://www.leftfootforward.org/images/2013/10/join-twitter-followers.jpg" /></a></div></div>
+		</li>
+				</ul>
+
+		</div><!-- #primary .aside -->
+
+				
+		</div><!-- #main -->
+    	
+    	<div id="footer">	
+        	
+        	    
+	<div id="siteinfo">        
+
+   			Published by Left Foot Forward Ltd, registered in England and Wales number 06978729. Hosted in Texas, USA by <a href="http://www.rackspace.com/">Rackspace US, Inc</a>.<br />Powered by <a class="wp-link" href="http://WordPress.org/" title="WordPress" rel="generator">WordPress</a>, <a class="theme-link" href="http://thematictheme.com" title="Thematic Theme Framework" rel="home">Thematic Theme Framework</a> and <a href="http://wordpress.org/extend/plugins/w3-total-cache/">W3 Total Cache</a>.
+
+	</div><!-- #siteinfo -->
+	
+   	        	
+		</div><!-- #footer -->
+    	
+	</div><!-- #wrapper .hfeed -->
+<!-- Powered by WPtouch: 3.2.3 --><link rel='stylesheet' id='Css-css'  href='http://www.leftfootforward.org/wp-content/plugins/spider-event-calendar/elements/calendar-jos.css?ver=3.8.3' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.leftfootforward.org/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.50.0-2014.02.05'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/www.leftfootforward.org\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.leftfootforward.org/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.8'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/www.leftfootforward.org\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.leftfootforward.org/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105'></script>
+<script type='text/javascript' src='http://www.leftfootforward.org/wp-includes/js/hoverIntent.js?ver=3.8.3'></script>
+<script type='text/javascript' src='http://www.leftfootforward.org/wp-content/themes/thematic/library/scripts/superfish.js?ver=1.4.8'></script>
+<script type='text/javascript' src='http://www.leftfootforward.org/wp-content/themes/thematic/library/scripts/supersubs.js?ver=0.2b'></script>
+<script type='text/javascript' src='http://www.leftfootforward.org/wp-content/themes/thematic/library/scripts/thematic-dropdowns.js?ver=1.0'></script>
+
+</body>
+</html>
+<!-- Dynamic page generated in 3.568 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2014-04-22 01:07:35 -->
+
+<!-- super cache -->
+0
+
+
+

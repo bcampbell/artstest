@@ -1,0 +1,747 @@
+WARC/1.0
+Content-Length: 76996
+Content-Type: application/http; msgtype=response
+Warc-Date: 2014-05-15T23:18:38Z
+Warc-Record-Id: urn:X-scrapeomat:1400195919978426466
+Warc-Target-Uri: http://ukpollingreport.co.uk/blog/archives/8804
+Warc-Type: response
+X-Scrapeomat-Srcurl: http://ukpollingreport.co.uk/blog/archives/8804
+
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Cf-Ray: 12b30e50e19502fd-LHR
+Connection: keep-alive
+Content-Type: text/html; charset=UTF-8
+Date: Thu, 15 May 2014 23:18:39 GMT
+Link: <http://ukpollingreport.co.uk/?p=8804>; rel=shortlink
+Server: cloudflare-nginx
+Vary: Accept-Encoding,Cookie
+X-Cf-Powered-By: WP 1.3.10
+X-Pingback: http://ukpollingreport.co.uk/xmlrpc.php
+X-Powered-By: PHP/5.4.27
+
+8000
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<title>UK Polling Report</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<meta name="generator" content="WordPress 3.9.1"/>  
+<link rel="stylesheet" href="http://ukpollingreport.co.uk/wp-content/themes/UKPR_Blog_v41/style.css" type="text/css" media="screen"/>
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://ukpollingreport.co.uk/feed"/>
+<link rel="alternate" type="text/xml" title="RSS .92" href="http://ukpollingreport.co.uk/feed/rss"/>
+<link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="http://ukpollingreport.co.uk/feed/atom"/>
+<link rel="pingback" href="http://ukpollingreport.co.uk/blog/xmlrpc.php"/>
+<link rel='archives' title='May 2014' href='http://ukpollingreport.co.uk/blog/archives/date/2014/05'/>
+<link rel='archives' title='April 2014' href='http://ukpollingreport.co.uk/blog/archives/date/2014/04'/>
+<link rel='archives' title='March 2014' href='http://ukpollingreport.co.uk/blog/archives/date/2014/03'/>
+<link rel='archives' title='February 2014' href='http://ukpollingreport.co.uk/blog/archives/date/2014/02'/>
+<link rel='archives' title='January 2014' href='http://ukpollingreport.co.uk/blog/archives/date/2014/01'/>
+<link rel='archives' title='December 2013' href='http://ukpollingreport.co.uk/blog/archives/date/2013/12'/>
+<link rel='archives' title='November 2013' href='http://ukpollingreport.co.uk/blog/archives/date/2013/11'/>
+<link rel='archives' title='October 2013' href='http://ukpollingreport.co.uk/blog/archives/date/2013/10'/>
+<link rel='archives' title='September 2013' href='http://ukpollingreport.co.uk/blog/archives/date/2013/09'/>
+<link rel='archives' title='August 2013' href='http://ukpollingreport.co.uk/blog/archives/date/2013/08'/>
+<link rel='archives' title='July 2013' href='http://ukpollingreport.co.uk/blog/archives/date/2013/07'/>
+<link rel='archives' title='June 2013' href='http://ukpollingreport.co.uk/blog/archives/date/2013/06'/>
+<link rel='archives' title='May 2013' href='http://ukpollingreport.co.uk/blog/archives/date/2013/05'/>
+<link rel='archives' title='April 2013' href='http://ukpollingreport.co.uk/blog/archives/date/2013/04'/>
+<link rel='archives' title='March 2013' href='http://ukpollingreport.co.uk/blog/archives/date/2013/03'/>
+<link rel='archives' title='February 2013' href='http://ukpollingreport.co.uk/blog/archives/date/2013/02'/>
+<link rel='archives' title='January 2013' href='http://ukpollingreport.co.uk/blog/archives/date/2013/01'/>
+<link rel='archives' title='December 2012' href='http://ukpollingreport.co.uk/blog/archives/date/2012/12'/>
+<link rel='archives' title='November 2012' href='http://ukpollingreport.co.uk/blog/archives/date/2012/11'/>
+<link rel='archives' title='October 2012' href='http://ukpollingreport.co.uk/blog/archives/date/2012/10'/>
+<link rel='archives' title='September 2012' href='http://ukpollingreport.co.uk/blog/archives/date/2012/09'/>
+<link rel='archives' title='August 2012' href='http://ukpollingreport.co.uk/blog/archives/date/2012/08'/>
+<link rel='archives' title='July 2012' href='http://ukpollingreport.co.uk/blog/archives/date/2012/07'/>
+<link rel='archives' title='June 2012' href='http://ukpollingreport.co.uk/blog/archives/date/2012/06'/>
+<link rel='archives' title='May 2012' href='http://ukpollingreport.co.uk/blog/archives/date/2012/05'/>
+<link rel='archives' title='April 2012' href='http://ukpollingreport.co.uk/blog/archives/date/2012/04'/>
+<link rel='archives' title='March 2012' href='http://ukpollingreport.co.uk/blog/archives/date/2012/03'/>
+<link rel='archives' title='February 2012' href='http://ukpollingreport.co.uk/blog/archives/date/2012/02'/>
+<link rel='archives' title='January 2012' href='http://ukpollingreport.co.uk/blog/archives/date/2012/01'/>
+<link rel='archives' title='December 2011' href='http://ukpollingreport.co.uk/blog/archives/date/2011/12'/>
+<link rel='archives' title='November 2011' href='http://ukpollingreport.co.uk/blog/archives/date/2011/11'/>
+<link rel='archives' title='October 2011' href='http://ukpollingreport.co.uk/blog/archives/date/2011/10'/>
+<link rel='archives' title='September 2011' href='http://ukpollingreport.co.uk/blog/archives/date/2011/09'/>
+<link rel='archives' title='August 2011' href='http://ukpollingreport.co.uk/blog/archives/date/2011/08'/>
+<link rel='archives' title='July 2011' href='http://ukpollingreport.co.uk/blog/archives/date/2011/07'/>
+<link rel='archives' title='June 2011' href='http://ukpollingreport.co.uk/blog/archives/date/2011/06'/>
+<link rel='archives' title='May 2011' href='http://ukpollingreport.co.uk/blog/archives/date/2011/05'/>
+<link rel='archives' title='April 2011' href='http://ukpollingreport.co.uk/blog/archives/date/2011/04'/>
+<link rel='archives' title='March 2011' href='http://ukpollingreport.co.uk/blog/archives/date/2011/03'/>
+<link rel='archives' title='February 2011' href='http://ukpollingreport.co.uk/blog/archives/date/2011/02'/>
+<link rel='archives' title='January 2011' href='http://ukpollingreport.co.uk/blog/archives/date/2011/01'/>
+<link rel='archives' title='December 2010' href='http://ukpollingreport.co.uk/blog/archives/date/2010/12'/>
+<link rel='archives' title='November 2010' href='http://ukpollingreport.co.uk/blog/archives/date/2010/11'/>
+<link rel='archives' title='October 2010' href='http://ukpollingreport.co.uk/blog/archives/date/2010/10'/>
+<link rel='archives' title='September 2010' href='http://ukpollingreport.co.uk/blog/archives/date/2010/09'/>
+<link rel='archives' title='August 2010' href='http://ukpollingreport.co.uk/blog/archives/date/2010/08'/>
+<link rel='archives' title='July 2010' href='http://ukpollingreport.co.uk/blog/archives/date/2010/07'/>
+<link rel='archives' title='June 2010' href='http://ukpollingreport.co.uk/blog/archives/date/2010/06'/>
+<link rel='archives' title='May 2010' href='http://ukpollingreport.co.uk/blog/archives/date/2010/05'/>
+<link rel='archives' title='April 2010' href='http://ukpollingreport.co.uk/blog/archives/date/2010/04'/>
+<link rel='archives' title='March 2010' href='http://ukpollingreport.co.uk/blog/archives/date/2010/03'/>
+<link rel='archives' title='February 2010' href='http://ukpollingreport.co.uk/blog/archives/date/2010/02'/>
+<link rel='archives' title='January 2010' href='http://ukpollingreport.co.uk/blog/archives/date/2010/01'/>
+<link rel='archives' title='December 2009' href='http://ukpollingreport.co.uk/blog/archives/date/2009/12'/>
+<link rel='archives' title='November 2009' href='http://ukpollingreport.co.uk/blog/archives/date/2009/11'/>
+<link rel='archives' title='October 2009' href='http://ukpollingreport.co.uk/blog/archives/date/2009/10'/>
+<link rel='archives' title='September 2009' href='http://ukpollingreport.co.uk/blog/archives/date/2009/09'/>
+<link rel='archives' title='August 2009' href='http://ukpollingreport.co.uk/blog/archives/date/2009/08'/>
+<link rel='archives' title='July 2009' href='http://ukpollingreport.co.uk/blog/archives/date/2009/07'/>
+<link rel='archives' title='June 2009' href='http://ukpollingreport.co.uk/blog/archives/date/2009/06'/>
+<link rel='archives' title='May 2009' href='http://ukpollingreport.co.uk/blog/archives/date/2009/05'/>
+<link rel='archives' title='April 2009' href='http://ukpollingreport.co.uk/blog/archives/date/2009/04'/>
+<link rel='archives' title='March 2009' href='http://ukpollingreport.co.uk/blog/archives/date/2009/03'/>
+<link rel='archives' title='February 2009' href='http://ukpollingreport.co.uk/blog/archives/date/2009/02'/>
+<link rel='archives' title='January 2009' href='http://ukpollingreport.co.uk/blog/archives/date/2009/01'/>
+<link rel='archives' title='December 2008' href='http://ukpollingreport.co.uk/blog/archives/date/2008/12'/>
+<link rel='archives' title='November 2008' href='http://ukpollingreport.co.uk/blog/archives/date/2008/11'/>
+<link rel='archives' title='October 2008' href='http://ukpollingreport.co.uk/blog/archives/date/2008/10'/>
+<link rel='archives' title='September 2008' href='http://ukpollingreport.co.uk/blog/archives/date/2008/09'/>
+<link rel='archives' title='August 2008' href='http://ukpollingreport.co.uk/blog/archives/date/2008/08'/>
+<link rel='archives' title='July 2008' href='http://ukpollingreport.co.uk/blog/archives/date/2008/07'/>
+<link rel='archives' title='June 2008' href='http://ukpollingreport.co.uk/blog/archives/date/2008/06'/>
+<link rel='archives' title='May 2008' href='http://ukpollingreport.co.uk/blog/archives/date/2008/05'/>
+<link rel='archives' title='April 2008' href='http://ukpollingreport.co.uk/blog/archives/date/2008/04'/>
+<link rel='archives' title='March 2008' href='http://ukpollingreport.co.uk/blog/archives/date/2008/03'/>
+<link rel='archives' title='February 2008' href='http://ukpollingreport.co.uk/blog/archives/date/2008/02'/>
+<link rel='archives' title='January 2008' href='http://ukpollingreport.co.uk/blog/archives/date/2008/01'/>
+<link rel='archives' title='December 2007' href='http://ukpollingreport.co.uk/blog/archives/date/2007/12'/>
+<link rel='archives' title='November 2007' href='http://ukpollingreport.co.uk/blog/archives/date/2007/11'/>
+<link rel='archives' title='October 2007' href='http://ukpollingreport.co.uk/blog/archives/date/2007/10'/>
+<link rel='archives' title='September 2007' href='http://ukpollingreport.co.uk/blog/archives/date/2007/09'/>
+<link rel='archives' title='August 2007' href='http://ukpollingreport.co.uk/blog/archives/date/2007/08'/>
+<link rel='archives' title='July 2007' href='http://ukpollingreport.co.uk/blog/archives/date/2007/07'/>
+<link rel='archives' title='June 2007' href='http://ukpollingreport.co.uk/blog/archives/date/2007/06'/>
+<link rel='archives' title='May 2007' href='http://ukpollingreport.co.uk/blog/archives/date/2007/05'/>
+<link rel='archives' title='April 2007' href='http://ukpollingreport.co.uk/blog/archives/date/2007/04'/>
+<link rel='archives' title='March 2007' href='http://ukpollingreport.co.uk/blog/archives/date/2007/03'/>
+<link rel='archives' title='February 2007' href='http://ukpollingreport.co.uk/blog/archives/date/2007/02'/>
+<link rel='archives' title='January 2007' href='http://ukpollingreport.co.uk/blog/archives/date/2007/01'/>
+<link rel='archives' title='December 2006' href='http://ukpollingreport.co.uk/blog/archives/date/2006/12'/>
+<link rel='archives' title='November 2006' href='http://ukpollingreport.co.uk/blog/archives/date/2006/11'/>
+<link rel='archives' title='October 2006' href='http://ukpollingreport.co.uk/blog/archives/date/2006/10'/>
+<link rel='archives' title='September 2006' href='http://ukpollingreport.co.uk/blog/archives/date/2006/09'/>
+<link rel='archives' title='August 2006' href='http://ukpollingreport.co.uk/blog/archives/date/2006/08'/>
+<link rel='archives' title='July 2006' href='http://ukpollingreport.co.uk/blog/archives/date/2006/07'/>
+<link rel='archives' title='June 2006' href='http://ukpollingreport.co.uk/blog/archives/date/2006/06'/>
+<link rel='archives' title='May 2006' href='http://ukpollingreport.co.uk/blog/archives/date/2006/05'/>
+<link rel='archives' title='April 2006' href='http://ukpollingreport.co.uk/blog/archives/date/2006/04'/>
+<link rel='archives' title='March 2006' href='http://ukpollingreport.co.uk/blog/archives/date/2006/03'/>
+<link rel='archives' title='February 2006' href='http://ukpollingreport.co.uk/blog/archives/date/2006/02'/>
+<link rel='archives' title='January 2006' href='http://ukpollingreport.co.uk/blog/archives/date/2006/01'/>
+<link rel='archives' title='December 2005' href='http://ukpollingreport.co.uk/blog/archives/date/2005/12'/>
+<link rel='archives' title='November 2005' href='http://ukpollingreport.co.uk/blog/archives/date/2005/11'/>
+<link rel='archives' title='October 2005' href='http://ukpollingreport.co.uk/blog/archives/date/2005/10'/>
+<link rel='archives' title='September 2005' href='http://ukpollingreport.co.uk/blog/archives/date/2005/09'/>
+<link rel='archives' title='August 2005' href='http://ukpollingreport.co.uk/blog/archives/date/2005/08'/>
+<link rel='archives' title='July 2005' href='http://ukpollingreport.co.uk/blog/archives/date/2005/07'/>
+<link rel='archives' title='June 2005' href='http://ukpollingreport.co.uk/blog/archives/date/2005/06'/>
+<link rel='archives' title='May 2005' href='http://ukpollingreport.co.uk/blog/archives/date/2005/05'/>
+<link rel="alternate" type="application/rss+xml" title="UKPollingReport &raquo; Feed" href="http://ukpollingreport.co.uk/feed"/>
+<link rel="alternate" type="application/rss+xml" title="UKPollingReport &raquo; Comments Feed" href="http://ukpollingreport.co.uk/comments/feed"/>
+<link rel="alternate" type="application/rss+xml" title="UKPollingReport &raquo; Latest European and Scottish polls Comments Feed" href="http://ukpollingreport.co.uk/blog/archives/8804/feed"/>
+<script type='text/javascript' src='http://ukpollingreport.co.uk/wp-includes/js/jquery/jquery.js?ver=1.11.0'></script>
+<script type='text/javascript' src='http://ukpollingreport.co.uk/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://ukpollingreport.co.uk/xmlrpc.php?rsd"/>
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://ukpollingreport.co.uk/wp-includes/wlwmanifest.xml"/>
+<link rel='prev' title='Ipsos MORI/Standard &#8211; CON 31, LAB 34, LD 9, UKIP 11' href='http://ukpollingreport.co.uk/blog/archives/8798'/>
+<meta name="generator" content="WordPress 3.9.1"/>
+<link rel='canonical' href='http://ukpollingreport.co.uk/blog/archives/8804'/>
+<link rel='shortlink' href='http://ukpollingreport.co.uk/?p=8804'/>
+ 
+<meta name="wp_twitter-title" content="Latest European and Scottish polls"/>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+<script type="text/javascript">
+sas_tmstp=Math.round(Math.random()*10000000000);sas_masterflag=1;
+function SmartAdServer(sas_pageid,sas_formatid,sas_target) {
+if (sas_masterflag==1) {sas_masterflag=0;sas_master='M';} else {sas_master='S';};
+document.write('<scr'+'ipt src="http://www6.smartadserver.com/call/pubj/' + sas_pageid + '/' + sas_formatid + '/' + sas_master + '/' + sas_tmstp + '/' + escape(sas_target) + '?"></scr'+'ipt>');
+}
+</script>
+</head>
+<body>
+<div id="container">
+<div id="page">
+<div id="header"><a href="http://ukpollingreport.co.uk" title="UK Polling Report home page"><img align="center" src="http://ukpollingreport.co.uk/images/UKPR_newlogo.jpg" alt="UK POLLING REPORT"></a></div>
+<p align="center">
+ 
+<script type="text/javascript">
+sas_pageid='55098/431403'; // Page : ukpollingreport/ros
+sas_formatid=20458; // Format : leaderboard 728x90
+sas_target=''; // Targeting
+SmartAdServer(sas_pageid,sas_formatid,sas_target);
+</script>
+<noscript>
+<a href="http://www6.smartadserver.com/call/pubjumpi/55098/431403/20458/M/[timestamp]/?" target="_blank">
+<img src="http://www6.smartadserver.com/call/pubi/55098/431403/20458/M/[timestamp]/?" border="0" alt=""/></a>
+</noscript>
+</p>
+<div id="left_sidebar">
+<div class="uprsidebar">
+<div class="uprside_colr">
+ 
+<p align="center">
+<img src="http://ukpollingreport.co.uk/images/theme/190constguide2015.jpg">
+<h3><a href="http://ukpollingreport.co.uk/2015guide">Election Guide</a></h3>
+<img src="http://ukpollingreport.co.uk/images/sidebarshadow.jpg">
+<h2>advertisements</h2>
+ 
+<script type="text/javascript">
+sas_pageid='55098/431403'; // Page : ukpollingreport/ros
+sas_formatid=20460; // Format : wideskyscraper 160x600
+sas_target=''; // Targeting
+SmartAdServer(sas_pageid,sas_formatid,sas_target);
+</script>
+<noscript>
+<a href="http://www6.smartadserver.com/call/pubjumpi/55098/431403/20460/S/[timestamp]/?" target="_blank">
+<img src="http://www6.smartadserver.com/call/pubi/55098/431403/20460/S/[timestamp]/?" border="0" alt=""/></a>
+</noscript>
+</p>
+<p align="center">
+<h2>advertisements</h2>
+<script type="text/javascript"><!--
+google_ad_client = "pub-8803317783246692";
+/* Polling blog, top left sidebar */
+google_ad_slot = "1633145906";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</p>
+<p align="center">
+<h2>Pollsters</h2>
+<div class="sblinks"><a href="http://www.visioncritical.com/what-we-do/practices/angus-reid-public-opinion/">Angus Reid</a></div>
+<div class="sblinks"><a href="http://www.bpix.co.uk" target="_blank">BPIX</a></div>
+<div class="sblinks"><a href="http://bes2009-10.org" target="_blank">British Election Study</a></div>
+<div class="sblinks"><a href="http://www.britishpollingcouncil.org" target="_blank">British Polling Council</a></div>
+<div class="sblinks"><a href="http://www.comres.co.uk" target="_blank">ComRes</a></div>
+<div class="sblinks"><a href="http://www.icmresearch.co.uk" target="_blank">ICM</a></div>
+<div class="sblinks"><a href="http://www.ipsos-mori.com" target="_blank">Ipsos MORI</a></div>
+<div class="sblinks"><a href="http://www.opinium.co.uk/">Opinium</a></div>
+<div class="sblinks"><a href="http://www.populuslimited.com" target="_blank">Populus</a></div>
+<div class="sblinks"><a href="http://www.yougov.com">YouGov</a></div>
+<h2>News</h2>
+<div class="sblinks"><a href="http://news.bbc.co.uk" target="_blank">BBC</a></div>
+<div class="sblinks"><a href="http://www.guardian.co.uk" target="_blank">Guardian</a></div>
+<div class="sblinks"><a href="http://www.independent.co.uk" target="_blank">Independent</a></div>
+<div class="sblinks"><a href="http://politicshome.com">PoliticsHome</a></div>
+<div class="sblinks"><a href="http://www.telegraph.co.uk">Telegraph</a></div>
+<div class="sblinks"><a href="http://www.timesonline.co.uk/tol/news/" target="_blank">Times</a></div>
+<h2>Blogs</h2>
+<div class="sblinks"><a href="http://torytroll.blogspot.com/">Adam Bienkov</a></div>
+<div class="sblinks"><a href="http://yorkshire-ranter.blogspot.com/">Alex Harrowell</a></div>
+<div class="sblinks"><a href="http://by_elections.blogspot.com/">By Elections Blog</a></div>
+<div class="sblinks"><a href="http://conservativehome.blogs.com/">Conservative Home</a></div>
+<div class="sblinks"><a href="http://archbishop-cranmer.blogspot.com/">Cramner</a></div>
+<div class="sblinks"><a href="http://critical-reaction.co.uk/">Critical Reaction</a></div>
+<div class="sblinks"><a href="http://www.thetimes.co.uk/tto/opinion/commentcentral/">Danny Finkelstein (£)</a></div>
+<div class="sblinks"><a href="http://www.guardian.co.uk/uk/davehillblog">Dave Hill</a></div>
+<div class="sblinks"><a href="http://dizzythinks.net/">Dizzy Thinks</a></div>
+<div class="sblinks"><a href="http://www.ElectionLawChannel.com">Election Law Channel</a></div>
+<div class="sblinks"><a href="http://fistfulofeuros.net/">Fistful of Euros</a></div>
+<div class="sblinks"><a href="http://eoin-clarke.blogspot.com/">Green benches</a></div>
+<div class="sblinks"><a href="http://www.order-order.com">Guido Fawkes</a></div>
+<div class="sblinks"><a href="http://hurryupharry.bloghouse.net/">Harry&#8217;s Place</a></div>
+<div class="sblinks"><a href="http://hopisen.wordpress.com/">Hopi Sen</a></div>
+<div class="sblinks"><a href="http://thinkpolitics.co.uk/tpblogs/jerryhayes/">Jerry Hayes</a></div>
+<div class="sblinks"><a href="http://www.johnband.org/blog/">John Band</a></div>
+<div class="sblinks"><a href="http://blogs.mirror.co.uk/maguire/">Kevin Maguire</a></div>
+<div class="sblinks"><a href="http://labour-uncut.co.uk/">Labour Uncut</a></div>
+<div class="sblinks"><a href="http://www.labourlist.org/">LabourList</a></div>
+<div class="sblinks"><a href="http://www.leftfootforward.org/">Left Foot Forward</a></div>
+<div class="sblinks"><a href="http://www.libdemvoice.org/">Lib Dem Voice</a></div>
+<div class="sblinks"><a href="http://www.liberalconspiracy.org/">Liberal Conspiracy</a></div>
+<div class="sblinks"><a href="http://nortonview.wordpress.com/">Lord Norton</a></div>
+<div class="sblinks"><a href="http://lukeakehurst.blogspot.com/">Luke Akehurst</a></div>
+<div class="sblinks"><a href="http://www.huffingtonpost.com/news/pollster/">Mark Blumenthal</a></div>
+<div class="sblinks"><a href="http://www.markpack.org.uk/">Mark Pack</a></div>
+<div class="sblinks"><a href="http://markreckons.blogspot.com/">Mark Reckons</a></div>
+<div class="sblinks"><a href="http://www.mattwardman.com/blog/">Matt Wardman</a></div>
+<div class="sblinks"><a href="http://neilharding.blogspot.com/">Neil Harding</a></div>
+<div class="sblinks"><a href="http://www.newstatesman.com/blogs/">New Statesman</a></div>
+<div class="sblinks"><a href="http://www.nextleft.org/">Next Left</a></div>
+<div class="sblinks"><a href="http://www.nickbarlow.com/blog/">Nick Barlow</a></div>
+<div class="sblinks"><a href="http://norfolkblogger.blogspot.com/">Norfolk Blogger</a></div>
+<div class="sblinks"><a href="http://paullinford.blogspot.com/">Paul Linford</a></div>
+<div class="sblinks"><a href="http://www.politicshome.com/waughroom.html">Paul Waugh</a></div>
+<div class="sblinks"><a href="http://www.platform10.org/">Platform 10</a></div>
+<div class="sblinks"><a href="http://politicalhackuk.blogspot.com/">Political Hack UK</a></div>
+<div class="sblinks"><a href="http://politicalscrapbook.net/">Political Scrapbook</a></div>
+<div class="sblinks"><a href="http://pollingobservatory.wordpress.com/">Polling Observatory</a></div>
+<div class="sblinks"><a href="http://www.revolts.co.uk">Revolts</a></div>
+<div class="sblinks"><a href="http://sluggerotoole.com/">Slugger O&#8217;Toole</a></div>
+<div class="sblinks"><a href="http://www.socialistunity.com/">Socialist Unity</a></div>
+<div class="sblinks"><a href="http://www.spectator.co.uk/coffeehouse/">Spectator Coffee House</a></div>
+<div class="sblinks"><a href="http://www.straightstatistics.org/">Straight Statistics</a></div>
+<div class="sblinks"><a href="http://stumblingandmumbling.typepad.com/">Stumbling &amp; Mumbling</a></div>
+<div class="sblinks"><a href="http://blogs.telegraph.co.uk/go/category/view/Three%20Line%20Whip">Three Line Whip</a></div>
+<div class="sblinks"><a href="http://bigtommygspeaks.blogspot.com/">Tom Greeves</a></div>
+</p>
+<p align="center">
+<h2>advertisements</h2>
+<script type="text/javascript"><!--
+google_ad_client = "pub-8803317783246692";
+/* Polling blog, top left sidebar */
+google_ad_slot = "1633145906";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</p>
+<p align="center">
+<h2>Disclaimer</h2>
+<div class="sblinks2">Copyright Anthony Wells 2004-2013. The views and opinions expressed herein are solely those of the author and in no way reflect the views of YouGov plc. </div>
+<h3><a href="http://ukpollingreport.co.uk/privacy-policy">Privacy Policy</a></h3>
+</p>
+<p align="center">
+<h2>Articles & FAQs</h2>
+<div class="lm_b6">&nbsp;</div><h3><a href="http://ukpollingreport.co.uk/guide/contact">Contact UK Polling Report</a></h3><h3>About UK Polling Report</h3><h3><a href="http://ukpollingreport.co.uk/guide/electoral-bias">Electoral bias</a></h3><h3><a href="http://ukpollingreport.co.uk/blog/faq-sampling">Sampling</a></h3><h3><a href="http://ukpollingreport.co.uk/blog/faq-weighting">Weighting</a></h3><h3><a href="http://ukpollingreport.co.uk/blog/faq-turnout">Likelihood to vote</a></h3><h3><a href="http://ukpollingreport.co.uk/blog/faq-dont-knows">Shy Tories?</a></h3><h3><a href="http://ukpollingreport.co.uk/blog/faq-wording">Wording</a></h3>
+</p>
+<p align="center">
+<h2>Archive</h2>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2014/05'>May 2014</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2014/04'>April 2014</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2014/03'>March 2014</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2014/02'>February 2014</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2014/01'>January 2014</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2013/12'>December 2013</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2013/11'>November 2013</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2013/10'>October 2013</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2013/09'>September 2013</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2013/08'>August 2013</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2013/07'>July 2013</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2013/06'>June 2013</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2013/05'>May 2013</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2013/04'>April 2013</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2013/03'>March 2013</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2013/02'>February 2013</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2013/01'>January 2013</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2012/12'>December 2012</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2012/11'>November 2012</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2012/10'>October 2012</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2012/09'>September 2012</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2012/08'>August 2012</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2012/07'>July 2012</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2012/06'>June 2012</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2012/05'>May 2012</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2012/04'>April 2012</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2012/03'>March 2012</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2012/02'>February 2012</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2012/01'>January 2012</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2011/12'>December 2011</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2011/11'>November 2011</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2011/10'>October 2011</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2011/09'>September 2011</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2011/08'>August 2011</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2011/07'>July 2011</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2011/06'>June 2011</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2011/05'>May 2011</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2011/04'>April 2011</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2011/03'>March 2011</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2011/02'>February 2011</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2011/01'>January 2011</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2010/12'>December 2010</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2010/11'>November 2010</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2010/10'>October 2010</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2010/09'>September 2010</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2010/08'>August 2010</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2010/07'>July 2010</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2010/06'>June 2010</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2010/05'>May 2010</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2010/04'>April 2010</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2010/03'>March 2010</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2010/02'>February 2010</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2010/01'>January 2010</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2009/12'>December 2009</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2009/11'>November 2009</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2009/10'>October 2009</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2009/09'>September 2009</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2009/08'>August 2009</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2009/07'>July 2009</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2009/06'>June 2009</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2009/05'>May 2009</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2009/04'>April 2009</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2009/03'>March 2009</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2009/02'>February 2009</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2009/01'>January 2009</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2008/12'>December 2008</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2008/11'>November 2008</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2008/10'>October 2008</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2008/09'>September 2008</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2008/08'>August 2008</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2008/07'>July 2008</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2008/06'>June 2008</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2008/05'>May 2008</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2008/04'>April 2008</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2008/03'>March 2008</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2008/02'>February 2008</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2008/01'>January 2008</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2007/12'>December 2007</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2007/11'>November 2007</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2007/10'>October 2007</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2007/09'>September 2007</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2007/08'>August 2007</a></div>
+<div class="sblink
+8000
+s"><a href='http://ukpollingreport.co.uk/blog/archives/date/2007/07'>July 2007</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2007/06'>June 2007</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2007/05'>May 2007</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2007/04'>April 2007</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2007/03'>March 2007</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2007/02'>February 2007</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2007/01'>January 2007</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2006/12'>December 2006</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2006/11'>November 2006</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2006/10'>October 2006</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2006/09'>September 2006</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2006/08'>August 2006</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2006/07'>July 2006</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2006/06'>June 2006</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2006/05'>May 2006</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2006/04'>April 2006</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2006/03'>March 2006</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2006/02'>February 2006</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2006/01'>January 2006</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2005/12'>December 2005</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2005/11'>November 2005</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2005/10'>October 2005</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2005/09'>September 2005</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2005/08'>August 2005</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2005/07'>July 2005</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2005/06'>June 2005</a></div>
+<div class="sblinks"><a href='http://ukpollingreport.co.uk/blog/archives/date/2005/05'>May 2005</a></div>
+</p>
+<h2>Stuff</h2>
+<p align="center">
+ 
+<script type="text/javascript">
+sc_project=1333345; 
+sc_invisible=0; 
+sc_partition=12; 
+sc_security="ec3cccfe"; 
+</script>
+<script type="text/javascript" src="http://www.statcounter.com/counter/counter_xhtml.js"></script><noscript><div class="statcounter"><a href="http://www.statcounter.com/free_hit_counter.html" target="_blank"><img class="statcounter" src="http://c13.statcounter.com/1333345/0/ec3cccfe/0/" alt="web counter"></a></div></noscript>
+ 
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-330206-1";
+urchinTracker();
+</script>
+</p>
+<p align="center">
+<a href="http://feeds.feedburner.com/PollingReport" title="Subscribe to my feed" rel="alternate" type="application/rss+xml"><img src="http://www.feedburner.com/fb/images/pub/feed-icon32x32.png" alt="" style="border:0"/></a><br/><a href="http://feeds.feedburner.com/PollingReport" title="Subscribe to my feed" rel="alternate" type="application/rss+xml">Subscribe in a reader</a>
+</p>
+<p align="center"><a href="http://feeds.feedburner.com/PollingReport"><img src="http://feeds.feedburner.com/~fc/PollingReport?bg=dddddd&amp;fg=333333&amp;anim=1" height="26" width="88" style="border:0" alt=""/></a></p>
+</div></div></div> 
+<div class="wide_column_bottom"><div class="wide_column_top">
+<div class="narrow_column">
+<div class="post" id="post-8804">
+<div class="titleblock">
+<div class="titleblocktop"><div class="titleblockbottom">
+<div class="posticon"><img src="http://ukpollingreport.co.uk/images/scoticon.gif"></div>
+<div class="titletext">
+<h2><a href="http://ukpollingreport.co.uk/blog/archives/8804" rel="bookmark">Latest European and Scottish polls</a></h2>
+<div class="postdate">15 May 2014</div>
+</div>
+</div>
+</div>
+</div>
+ 
+<div class="entry">
+<p>There have been a couple of new European and Scottish polls over the last couple of days. Europe first, this morning&#8217;s <a href="http://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/rmxq05w0hg/YG-Archive-Pol-Sun-results-140514-EU.pdf">YouGov/Sun poll</a> had topline figures of CON 22%, LAB 28%, LDEM 10%, UKIP 25%, GRN 10%. Labour are just ahead of UKIP in first place, the Conservatives remain in third, the Greens and Lib Dems equal for fourth place.</p>
+<p>The second was by <a href="http://www.comres.co.uk/polls/C4M_European_Voting_Intention_Poll_15_May_2014.pdf">ComRes</a> who had toplines of CON 22%, LAB 24%, LDEM 8%, UKIP 34%, UKIP 34%, GRN 5%. Much better figures for UKIP there, with Labour and the Conservatives not far apart for second and the Lib Dems holding fourth place. A lot of this apparent difference is down to how they approach turnout &#8211; YouGov&#8217;s topline figures are based on all respondents, if they took only those certain to vote UKIP would be ahead. ComRes&#8217;s figures include only those 10/10 certain to vote, if they included those who say they are 5/10 or more likely to vote UKIP&#8217;s lead over Labour would be a far more modest 2 points.</p>
+<p>Turning to the Scottish polls, there have been two new referendum polls this week, or at least, two newly <i>published</i> Scottish polls. The TNS poll was actually condcted in the last week of April and first couple of days of May. Their topline figures are YES 30%(+1), NO 42%(+1) &#8211; so no change in the lead. Tabs <a href="http://www.tnsglobal.com/sites/default/files/whitepaper/TNSUK_SOM_DataTables2014May14.pdf">here</a>. The second poll is by Survation and much more recent, their topline figures are YES 37%(-1), NO 47%(+1). A minor increase in the NO lead since their last poll, but really it&#8217;s a continuation of a no change trend in Survation&#8217;s Scottish polling: their last five referendum polls have all had figures within 1 point of YES 38%, NO 47%. Details <a href="http://survation.com/new-scotland-referendum-and-voting-intention-poll-by-survation/">here</a>.</p>
+<p>Meanwhile tonight&#8217;s YouGov voting intention figures for the Sun are CON 34%, LAB 36%, LD 8%, UKIP 13%</p>
+<br/>
+<div class="postinfoboxtop">
+<div class="postinfoboxbottom">
+<div style='float: left; margin-left:5px; margin-top: 8px;'> <a href="http://twitter.com/share" class="twitter-share-button" data-count="vertical" data-text="Latest European and Scottish polls" data-via="anthonyjwells" data-url="http://ukpollingreport.co.uk/blog/archives/8804" data-counturl="http://ukpollingreport.co.uk/blog/archives/8804" en>Tweet</a></div><div class="postinfotext"><div class="postinfotextarea">Filed under&#58; <a href="http://ukpollingreport.co.uk/blog/archives/category/communicate" title="View all posts in Communicate" rel="category tag">Communicate</a>, <a href="http://ukpollingreport.co.uk/blog/archives/category/europe" title="View all posts in Europe" rel="category tag">Europe</a>, <a href="http://ukpollingreport.co.uk/blog/archives/category/scotland" title="View all posts in Scotland" rel="category tag">Scotland</a>, <a href="http://ukpollingreport.co.uk/blog/archives/category/survation" title="View all posts in Survation" rel="category tag">Survation</a>, <a href="http://ukpollingreport.co.uk/blog/archives/category/tns" title="View all posts in TNS" rel="category tag">TNS</a>, <a href="http://ukpollingreport.co.uk/blog/archives/category/voting-intention" title="View all posts in Voting Intention" rel="category tag">Voting Intention</a>, <a href="http://ukpollingreport.co.uk/blog/archives/category/yougov" title="View all posts in YouGov" rel="category tag">YouGov</a> </div><div class="commentslink"><a href="http://ukpollingreport.co.uk/blog/archives/8804#comments" title="Comment on Latest European and Scottish polls">16 Comments &#187;</a></div></div>
+</div>
+</div>
+<p>
+<center>
+ 
+<script type="text/javascript">
+sas_pageid='55098/431403'; // Page : ukpollingreport/ros
+sas_formatid=24083; // Format : rectangle 300x250
+sas_target=''; // Targeting
+SmartAdServer(sas_pageid,sas_formatid,sas_target);
+</script>
+<noscript>
+<a href="http://www6.smartadserver.com/call/pubjumpi/55098/431403/24083/S/[timestamp]/?" target="_blank">
+<img src="http://www6.smartadserver.com/call/pubi/55098/431403/24083/S/[timestamp]/?" border="0" alt=""/></a>
+</noscript>
+</center>
+</p>
+ 
+<div class="comments-template">
+ 
+<h3 id="comments">16 Responses to &#8220;Latest European and Scottish polls&#8221;</h3>
+<ol class="commentlist">
+<li class="noncom">
+<div class="commentmetadata">
+<strong>couper2802</strong>
+</div>
+<div class="commenttext"><p>@AW</p>
+<p>Looking at the Survation tables for the referendum &#8211; they seem to weigh according to make up of the population. I am not sure how that works they must be making some assumptions about turnout in the various groups?</p>
+<p><a href="javascript:void(0)" onclick="report_comments_flag(this, '905188', '314ce7b7db')" class="report-comment">Report comment</a></p>
+</div>
+<div class="commentmetadata2"><a href="#comment-905188" title="">May 15th, 2014 at 10:24 pm</a></div>
+</li> 
+<li class="noncom">
+<div class="commentmetadata">
+<strong>Jack R</strong>
+</div>
+<div class="commenttext"><p>I think UKIP are ahead slightly ahead at the minute all things considered in the Euros, although the council elections on the same day will have quite an impact I think.</p>
+<p>I think I may be one of very few who votes for a &#8216;big&#8217; party in the Euros, and a smaller party in the locals, so unimpressed am I at the local council!</p>
+<p><a href="javascript:void(0)" onclick="report_comments_flag(this, '905189', '314ce7b7db')" class="report-comment">Report comment</a></p>
+</div>
+<div class="commentmetadata2"><a href="#comment-905189" title="">May 15th, 2014 at 10:26 pm</a></div>
+</li> 
+<li class="noncom">
+<div class="commentmetadata">
+<strong>Anthony Wells</strong>
+</div>
+<div class="commenttext"><p>Couper &#8211; not sure what you mean. Normal practice is you weight to the known demographics of the adult population, then some companies weight or filter according to how likely people *say* they are to vote. As far as I&#8217;m aware Survation are normal in doing that.</p>
+<p><a href="javascript:void(0)" onclick="report_comments_flag(this, '905190', '314ce7b7db')" class="report-comment">Report comment</a></p>
+</div>
+<div class="commentmetadata2"><a href="#comment-905190" title="">May 15th, 2014 at 10:35 pm</a></div>
+</li> 
+<li class="noncom">
+<div class="commentmetadata">
+<strong>couper2802</strong>
+</div>
+<div class="commenttext"><p>@AW</p>
+<p>I thought they weighed on how folk voted in GE2010 etc<br/>
+Given the referendum is quite party political that sort of weighing should work.</p>
+<p><a href="javascript:void(0)" onclick="report_comments_flag(this, '905192', '314ce7b7db')" class="report-comment">Report comment</a></p>
+</div>
+<div class="commentmetadata2"><a href="#comment-905192" title="">May 15th, 2014 at 10:59 pm</a></div>
+</li> 
+<li class="snpcom">
+<div class="commentmetadata">
+<strong>oldnat</strong>
+</div>
+<div class="commenttext"><p>As always, polling in Scotland on the 2015 and 2016 elections should be thought of as even less of as a predictor than normal. The referendum result is likely to have a significant effect on how people actually vote.</p>
+<p>However, taken as a snapshot of current party support, Scotland Votes gives results on those figures as (previous election in brackets) -</p>
+<p>Westminster &#8211; Lab 31 (42) : SNP 23 (6) : LD 2 (11) : Con 2 (1)</p>
+<p>Holyrood Yes Parties -SNP 60 (69) : Green 10 (2) : Ind 1 (0)<br/>
+No Parties &#8211; Lab 40 (37) : Con 11 (15) : LD 6 (5)</p>
+<p><a href="javascript:void(0)" onclick="report_comments_flag(this, '905193', '314ce7b7db')" class="report-comment">Report comment</a></p>
+</div>
+<div class="commentmetadata2"><a href="#comment-905193" title="">May 15th, 2014 at 11:05 pm</a></div>
+</li> 
+<li class="snpcom">
+<div class="commentmetadata">
+<strong>oldnat</strong>
+</div>
+<div class="commenttext"><p>Correction &#8220;Westminster – Lab 31 (42)&#8221; should have been Westminster – Lab 32 (41)</p>
+<p><a href="javascript:void(0)" onclick="report_comments_flag(this, '905194', '314ce7b7db')" class="report-comment">Report comment</a></p>
+</div>
+<div class="commentmetadata2"><a href="#comment-905194" title="">May 15th, 2014 at 11:08 pm</a></div>
+</li> 
+<li class="noncom">
+<div class="commentmetadata">
+<strong>mrnameless</strong>
+</div>
+<div class="commenttext"><p>If there&#8217;s a no vote and the Scottish seat totals end up like that, there&#8217;s a very real chance of Alex Salmond&#8217;s party having the casting vote in parliament. Wonder what would happen?</p>
+<p><a href="javascript:void(0)" onclick="report_comments_flag(this, '905195', '314ce7b7db')" class="report-comment">Report comment</a></p>
+</div>
+<div class="commentmetadata2"><a href="#comment-905195" title="">May 15th, 2014 at 11:09 pm</a></div>
+</li> 
+<li class="noncom">
+<div class="commentmetadata">
+<strong>james peel</strong>
+</div>
+<div class="commenttext"><p>it seems that the ukip unwind in the next 11 months or so is the most uncertain aspect of the general election. we can expect both main parties to be in the 33-36 range&#8230; in nearly all combinations within these ranges labour come out with the most seats. lib dems will get 10-13%, not much more i think. the ukip vote is utterly unpredictable at this stage&#8230;their range could be anything between 6% and 14%. i&#8217;d expect it at 8% or so.</p>
+<p><a href="javascript:void(0)" onclick="report_comments_flag(this, '905196', '314ce7b7db')" class="report-comment">Report comment</a></p>
+</div>
+<div class="commentmetadata2"><a href="#comment-905196" title="">May 15th, 2014 at 11:13 pm</a></div>
+</li> 
+<li class="snpcom">
+<div class="commentmetadata">
+<strong>oldnat</strong>
+</div>
+<div class="commenttext"><p>Mr Nameless</p>
+<p>If a Westminster vote did actually end up that way, then the leader of the SNP at Westminster, Angus Robertson, could well have an important role in deciding the domestic governance of England!</p>
+<p>That would be a strange effect of Westminster&#8217;s determination to concatenate English and UK government in the same Parliament. :-)</p>
+<p>I would imagine that such a situation would allow Lab or Con to be allowed to govern England, if they legislated for Devo Max (NB &#8220;Max&#8221; not &#8220;Min&#8221;!). If neither was prepared to do so, then the next Westminster Parliament would be &#8220;interesting&#8221; &#8211; a de facto Lab/Con coalition?</p>
+<p><a href="javascript:void(0)" onclick="report_comments_flag(this, '905197', '314ce7b7db')" class="report-comment">Report comment</a></p>
+</div>
+<div class="commentmetadata2"><a href="#comment-905197" title="">May 15th, 2014 at 11:27 pm</a></div>
+</li> 
+<li class="noncom">
+<div class="commentmetadata">
+<strong>Neil A</strong>
+</div>
+<div class="commenttext"><p>First time for seemingly aeons that the UKPR average is in grey and not red.</p>
+<p>No doubt the situation will change within a few months of the Euro elections, but given that any criticism of Miliband&#8217;s leadership to date has been answered with a (slightly complacent, to my mind) shrug of the shoulders and &#8220;the polls still point to a Labour majority&#8221; remark, is he about to face a difficult Summer of criticism and friendly fire?</p>
+<p><a href="javascript:void(0)" onclick="report_comments_flag(this, '905198', '314ce7b7db')" class="report-comment">Report comment</a></p>
+</div>
+<div class="commentmetadata2"><a href="#comment-905198" title="">May 15th, 2014 at 11:33 pm</a></div>
+</li> 
+<li class="noncom">
+<div class="commentmetadata">
+<strong>Number Cruncher</strong>
+</div>
+<div class="commenttext"><p>On YouGov &#8211; After a zero and a load of one- and three-pointers, it&#8217;s about bloody time we got a two!</p>
+<p><a href="javascript:void(0)" onclick="report_comments_flag(this, '905199', '314ce7b7db')" class="report-comment">Report comment</a></p>
+</div>
+<div class="commentmetadata2"><a href="#comment-905199" title="">May 15th, 2014 at 11:34 pm</a></div>
+</li> 
+<li class="noncom">
+<div class="commentmetadata">
+<strong>mrnameless</strong>
+</div>
+<div class="commenttext"><p>Neil,</p>
+<p>Technically (removing SF and adding SDLP MPs) the polls still do point to a Labour majority. But I take your point about not being complacent.</p>
+<p>I recorded our Q&amp;A session with Liam Byrne and Paul Blomfield today and some interesting things were said, but I&#8217;ll transcribe tomorrow.</p>
+<p><a href="javascript:void(0)" onclick="report_comments_flag(this, '905200', '314ce7b7db')" class="report-comment">Report comment</a></p>
+</div>
+<div class="commentmetadata2"><a href="#comment-905200" title="">May 15th, 2014 at 11:39 pm</a></div>
+</li> 
+<li class="noncom">
+<div class="commentmetadata">
+<strong>Allan Christie</strong>
+</div>
+<div class="commenttext"><p>&#8220;The second was by ComRes who had toplines of CON 22%, LAB 24%, LDEM 8%, UKIP 34%, UKIP 34%, GRN 5%. Much better figures for UKIP there, with Labour and the Conservatives not far apart for second and the Lib Dems holding fourth place&#8221;<br/>
+__________</p>
+<p>AW is so excited by the UKIP VI he had to post it twice. ;-) </p>
+<p>That aside, what a shocker for the Lib/Dems slugging it oot with the Greens.</p>
+<p><a href="javascript:void(0)" onclick="report_comments_flag(this, '905201', '314ce7b7db')" class="report-comment">Report comment</a></p>
+</div>
+<div class="commentmetadata2"><a href="#comment-905201" title="">May 15th, 2014 at 11:56 pm</a></div>
+</li> 
+<li class="noncom">
+<div class="commentmetadata">
+<strong>Allan Christie</strong>
+</div>
+<div class="commenttext"><p>OLDNAT</p>
+<p>&#8220;Holyrood Yes Parties -SNP 60 (69) : Green 10 (2) : Ind 1 (0)<br/>
+No Parties – Lab 40 (37) : Con 11 (15) : LD 6 (5)<br/>
+_________</p>
+<p>Harvie would be looking for at least one or two cabinet posts in that parliamentary make up. What post/posts would you give him?</p>
+<p><a href="javascript:void(0)" onclick="report_comments_flag(this, '905203', '314ce7b7db')" class="report-comment">Report comment</a></p>
+</div>
+<div class="commentmetadata2"><a href="#comment-905203" title="">May 16th, 2014 at 12:02 am</a></div>
+</li> 
+<li class="noncom">
+<div class="commentmetadata">
+<strong><a href='http://ozzyscorner.wordpress.com' rel='external nofollow' class='url'>catmanjeff</a></strong>
+</div>
+<div class="commenttext"><p>It&#8217;s interesting that we go into the summer before the election period seriously gets underway with the main parties in poor shape. </p>
+<p>The Lib Dems look like a walking corpse, the Conservatives have never lifted above the low thirties, and Labour are sliding back and have lost all momentum.</p>
+<p>Strategists for them all have much to consider.</p>
+<p><a href="javascript:void(0)" onclick="report_comments_flag(this, '905204', '314ce7b7db')" class="report-comment">Report comment</a></p>
+</div>
+<div class="commentmetadata2"><a href="#comment-905204" title="">May 16th, 2014 at 12:03 am</a></div>
+</li> 
+<li class="labcom">
+<div class="commentmetadata">
+<strong>crossbat11</strong>
+</div>
+<div class="commenttext"><p>@Neil A/Mr Nameless</p>
+<p>&#8220;Complacency&#8221; is in the eye of the beholder, I think, and be careful about creating straw men here. My definition of complacency would be an assumption of victory and an airy dismissal of real difficulties by Labour sympathisers, and I have seen little of any of that, either on these pages or elsewhere.</p>
+<p>However a sense of proportion and a relaxation with inevitable setbacks and reversals from time to time is more like sang-froid to my mind, much different to complacency. Sang-froid can unnerve opponents who&#8217;d much rather see panic in enemy ranks! :-)</p>
+<p><a href="javascript:void(0)" onclick="report_comments_flag(this, '905205', '314ce7b7db')" class="report-comment">Report comment</a></p>
+</div>
+<div class="commentmetadata2"><a href="#comment-905205" title="">May 16th, 2014 at 12:10 am</a></div>
+</li> 
+</ol>
+<h3 id="respond">Leave a Reply</h3>
+<form action="http://ukpollingreport.co.uk/wp-comments-post.php" method="post" id="commentform">
+<p><b>NB:</b> Before commenting please make sure you are familiar with the <a href="http://ukpollingreport.co.uk/blog/comment-policy">Comments Policy</a>. UKPollingReport is a site for <b>non-partisan</b> discussion of polls.</p>
+<p>You are not currently logged into UKPollingReport. Registration is not compulsory, but is strongly encouraged. Either login <a href="http://ukpollingreport.co.uk/blog2/wp-login.php">here</a>, or register <a href="http://ukpollingreport.co.uk/wp-signup.php">here</a> (commenters who have previously registered on the Constituency Guide section of the site *should* be able to use their existing login)</p>
+<p><input type="text" name="author" id="author" value="" size="40" tabindex="1"/>
+<label for="author"><small>Name (required)</small></label></p>
+<p><input type="text" name="email" id="email" value="" size="40" tabindex="2"/>
+<label for="email"><small>Mail (will not be published) (required)</small></label></p>
+<p><input type="text" name="url" id="url" value="" size="40" tabindex="3"/>
+<label for="url"><small>Website</small></label></p>
+ 
+<p><textarea name="930f8-comment" id="comment" cols="60" rows="10" tabindex="4"></textarea><textarea name="comment" style="display:none" rows="1" cols="1"></textarea></p>
+<p><input name="submit" type="submit" id="submit" tabindex="5" value="Submit Comment"/>
+<input type="hidden" name="comment_post_ID" value="8804"/>
+</p>
+</form>
+</div>
+</div> 
+</div> 
+<div class="browse">&laquo; <a href="http://ukpollingreport.co.uk/blog/archives/8798" rel="prev">Ipsos MORI/Standard &#8211; CON 31, LAB 34, LD 9, UKIP 11</a> </div>
+</div> 
+<div class="right_sidebar_container_bottom"><div class="right_sidebar_container_top">
+<div class="right_sidebar_col">
+<p>
+<img src="http://ukpollingreport.co.uk/images/190swingometer2.jpg">
+<h3><a href="http://ukpollingreport.co.uk/swing-calculator">Basic GB swingometer</a></h3><h3><a href="http://ukpollingreport.co.uk/swingometer-provisional-boundaries">Provisional boundaries swingometer</a></h3><h3><a href="http://ukpollingreport.co.uk/blog/swingometer-map">Graphical swingometer</a></h3><h3><a href="http://ukpollingreport.co.uk/blog/voting-intention/advanced-swingometer-map">Advanced swingometer</a></h3><img src='http://ukpollingreport.co.uk/images/sidebarshadow.jpg'><br/>
+<h2>Latest UNS Projection</h2>
+<div class='hungpred'>Labour short by 1</div><a href='http://ukpollingreport.co.uk/blog/ukpr-projection-2'><h3>...More</h3></a><img src='http://ukpollingreport.co.uk/images/sidebarshadow.jpg'></p><p><h2>UKPR Polling Average</h2>
+<div class='pollaverage'>
+<table border='0'>
+<tr><td width='60'>33</td><td width='60'>34</td><td width='60'>9</td></tr>
+</table>
+</div>
+<h3><a href='http://ukpollingreport.co.uk/blog/uk-polling-report-average-2'>...More</a></h3>
+<img src='http://ukpollingreport.co.uk/images/sidebarshadow.jpg'></p><p><h2>Latest Voting Intention</h2><table border='0' rules='none' border-style='none' border-color='#fff' cellspacing='0' cellpadding='0' background='http://ukpollingreport.co.uk/images/theme/tablebackground3.gif'><tr><td align='right' width='22'><img src='http://www.ukpollingreport.co.uk/images/YG_logo.jpg'></td><td align=center width='49'>14 May</td><td align=center width='21'><span class='concol'>32</span></td><td align=center width='21'>35 </td><td align=center width='21'> 10</td><td align=center width='21'> 13</td><td class='lablead' width='55' align=center>Lab +3</td><table border='0' rules='none' border-style='none' border-color='#fff' cellspacing='0' cellpadding='0' background='http://ukpollingreport.co.uk/images/theme/tablebackground3.gif'><tr><td align='right' width='22'><img src='http://www.ukpollingreport.co.uk/images/YG_logo.jpg'></td><td align=center width='49'>13 May</td><td align=center width='21'><span class='concol'>34</span></td><td align=center width='21'>34 </td><td align=center width='21'> 8</td><td align=center width='21'> 15</td><td align=center width='55'> Tie</td><table border='0' rules='none' border-style='none' border-color='#fff' cellspacing='0' cellpadding='0' background='http://ukpollingreport.co.uk/images/theme/tablebackground3.gif'><tr><td align='right' width='22'><img src='http://www.ukpollingreport.co.uk/images/IM_logo.jpg'></td><td align=center width='49'>12 May</td><td align=center width='21'><span class='concol'>31</span></td><td align=center width='21'>34 </td><td align=center width='21'> 9</td><td align=center width='21'> 11</td><td class='lablead' width='55' align=center>Lab +3</td><table border='0' rules='none' border-style='none' border-color='#fff' cellspacing='0' cellpadding='0' background='http://ukpollingreport.co.uk/images/theme/tablebackground3.gif'><tr><td align='right' width='22'><img src='http://www.ukpollingreport.co.uk/images/YG_logo.jpg'></td><td align=center width='49'>12 May</td><td align=center width='21'><span class='concol'>35</span></td><td align=center width='21'>36 </td><td align=center width='21'> 9</td><td align=center width='21'> 14</td><td class='lablead' width='55' align=center>Lab +1</td><table border='0' rules='none' border-style='none' border-color='#fff' cellspacing='0' cellpadding='0' background='http://ukpollingreport.co.uk/images/theme/tablebackground3.gif'><tr><td align='right' width='22'><img src='http://www.ukpollingreport.co.uk/images/I_icon.jpg'></td><td align=center width='49'>11 May</td><td align=center width='21'><span class='concol'>33</span></td><td align=center width='21'>31 </td><td align=center width='21'> 13</td><td align=center width='21'> 15</td><td class='conlead' width='55' align=center>Con +2</td><table border='0' rules='none' border-style='none' border-color='#fff' cellspacing='0' cellpadding='0' background='http://ukpollingreport.co.uk/images/theme/tablebackground3.gif'><tr><td align='right' width='22'><img src='http://www.ukpollingreport.co.uk/images/P_icon.jpg'></td><td align=center width='49'>11 May</td><td align=center width='21'><span class='concol'>35</span></td><td align=center width='21'>36 </td><td align=center width='21'> 8</td><td align=center width='21'> 13</td><td class='lablead' width='55' align=center>Lab +1</td><table border='0' rules='none' border-style='none' border-color='#fff' cellspacing='0' cellpadding='0' background='http://ukpollingreport.co.uk/images/theme/tablebackground3.gif'><tr><td align='right' width='22'><img src='http://www.ukpollingreport.co.uk/images/ASH_icon.jpg'></td><td align=center width='49'>11 May</td><td align=center width='21'><span class='concol'>34</span></td><td align=center width='21'>32 </td><td align=center width='21'> 9</td><td align=center width='21'> 15</td><td class='conlead' width='55' align=center>Con +2</td><table border='0' rules='none' border-style='none' border-color='#fff' cellspacing='0' cellpadding='0' background='http://ukpollingreport.co.uk/images/theme/tablebackground3.gif'><tr><td align='right' width='22'><img src='http://www.ukpollingreport.co.uk/images/Sur_icon.jpg'></td><td align=center width='49'>9 May</td><td align=center width='21'><span class='concol'>28</span></td><td align=center width='21'>34 </td><td align=center width='21'> 10</td><td align=center width='21'> 20</td><td class='lablead' width='55' align=center>Lab +6</td><table border='0' rules='none' border-style='none' border-color='#fff' cellspacing='0' cellpadding='0' background='http://ukpollingreport.co.uk/images/theme/tablebackground3.gif'><tr><td align='right' width='22'><img src='http://www.ukpollingreport.co.uk/images/YG_logo.jpg'></td><td align=center width='49'>9 May</td><td align=center width='21'><span class='concol'>31</span></td><td align=center width='21'>38 </td><td align=center width='21'> 9</td><td align=center width='21'> 13</td><td class='lablead' width='55' align=center>Lab +7</td><table border='0' rules='none' border-style='none' border-color='#fff' cellspacing='0' cellpadding='0' background='http://ukpollingreport.co.uk/images/theme/tablebackground3.gif'><tr><td align='right' width='22'><img src='http://www.ukpollingreport.co.uk/images/OP_logo.jpg'></td><td align=center width='49'>8 May</td><td align=center width='21'><span class='concol'>29</span></td><td align=center width='21'>33 </td><td align=center width='21'> 9</td><td align=center width='21'> 20</td><td class='lablead' width='55' align=center>Lab +4</td><table border='0' rules='none' border-style='none' border-color='#fff' cellspacing='0' cellpadding='0' background='http://ukpollingreport.co.uk/images/theme/tablebackground3.gif'><tr><td align='right' width='22'><img src='http://www.ukpollingreport.co.uk/images/P_icon.jpg'></td><td align=center width='49'>8 May</td><td align=center width='21'><span class='concol'>32</span></td><td align=center width='21'>36 </td><td align=center width='21'> 8</td><td align=center width='21'> 16</td><td class='lablead' width='55' align=center>Lab +4</td><table border='0' rules='none' border-style='none' border-color='#fff' cellspacing='0' cellpadding='0' background='http://ukpollingreport.co.uk/images/theme/tablebackground3.gif'><tr><td align='right' width='22'><img src='http://www.ukpollingreport.co.uk/images/YG_logo.jpg'></td><td align=center width='49'>8 May</td><td align=center width='21'><span class='concol'>34</span></td><td align=center width='21'>35 </td><td align=center width='21'> 8</td><td align=center width='21'> 13</td><td class='lablead' width='55' align=center>Lab +1</td><table border='0' rules='none' border-style='none' border-color='#fff' cellspacing='0' cellpadding='0' background='http://ukpollingreport.co.uk/images/theme/tablebackground3.gif'><tr><td align='right' width='22'><img src='http://www.ukpollingreport.co.uk/images/YG_logo.jpg'></td><td align=center width='49'>7 May</td><td align=center width='21'><span class='concol'>34</span></td><td align=center width='21'>37 </td><td align=center width='21'> 8</td><td align=center width='21'> 13</td><td class='lablead' width='55' align=center>Lab +3</td><table border='0' rules='none' border-style='none' border-color='#fff' cellspacing='0' cellpadding='0' background='http://ukpollingreport.co.uk/images/theme/tablebackground3.gif'><tr><td align='right' width='22'><img src='http://www.ukpollingreport.co.uk/images/YG_logo.jpg'></td><td align=center width='49'>6 May</td><td align=center width='21'><span class='concol'>34</span></td><td align=center width='21'>35 </td><td align=center width='21'> 9</td><td align=center width='21'> 14</td><td class='lablead' width='55' align=center>Lab +1</td><table border='0' rules='none' border-style='none' border-color='#fff' cellspacing='0' cellpadding='0' background='http://ukpollingreport.co.uk/images/theme/tablebackground3.gif'><tr><td align='right' width='22'><img src='http://www.ukpollingreport.co.uk/images/P_icon.jpg'></td><td align=center width='49'>5 May</td><td align=center width='21'><span class='concol'>33</span></td><td align=center width='21'>36 </td><td align=center width='21'> 8</td><td align=center width='21'> 14</td><td class='lablead' width='55' align=center>Lab +3</td><table border='0' rules='none' border-style='none' border-color='#fff' cellspacing='0' cellpadding='0' background='http://ukpollingreport.co.uk/images/theme/tablebackground3.gif'><tr><td align='right' width='22'><img src='http://www.ukpollingreport.co.uk/images/Sur_icon.jpg'></td><td align=center width='49'>3 May</td><td align=center width='21'><span class='concol'>33</span></td><td align=center width='21'>34 </td><td align=center width='21'> 8</td><td align=center width='21'> 18</td><td class='lablead' width='55' align=center>Lab +1</td><table border='0' rules='none' border-style='none' border-color='#fff' cellspacing='0' cellpadding='0' background='http://ukpollingreport.co.uk/images/them
+2b15
+e/tablebackground3.gif'><tr><td align='right' width='22'><img src='http://www.ukpollingreport.co.uk/images/YG_logo.jpg'></td><td align=center width='49'>2 May</td><td align=center width='21'><span class='concol'>33</span></td><td align=center width='21'>36 </td><td align=center width='21'> 9</td><td align=center width='21'> 15</td><td class='lablead' width='55' align=center>Lab +3</td><table border='0' rules='none' border-style='none' border-color='#fff' cellspacing='0' cellpadding='0' background='http://ukpollingreport.co.uk/images/theme/tablebackground3.gif'><tr><td align='right' width='22'><img src='http://www.ukpollingreport.co.uk/images/P_icon.jpg'></td><td align=center width='49'>1 May</td><td align=center width='21'><span class='concol'>34</span></td><td align=center width='21'>35 </td><td align=center width='21'> 9</td><td align=center width='21'> 14</td><td class='lablead' width='55' align=center>Lab +1</td><table border='0' rules='none' border-style='none' border-color='#fff' cellspacing='0' cellpadding='0' background='http://ukpollingreport.co.uk/images/theme/tablebackground3.gif'><tr><td align='right' width='22'><img src='http://www.ukpollingreport.co.uk/images/YG_logo.jpg'></td><td align=center width='49'>1 May</td><td align=center width='21'><span class='concol'>33</span></td><td align=center width='21'>36 </td><td align=center width='21'> 10</td><td align=center width='21'> 15</td><td class='lablead' width='55' align=center>Lab +3</td><table border='0' rules='none' border-style='none' border-color='#fff' cellspacing='0' cellpadding='0' background='http://ukpollingreport.co.uk/images/theme/tablebackground3.gif'><tr><td align='right' width='22'><img src='http://www.ukpollingreport.co.uk/images/YG_logo.jpg'></td><td align=center width='49'>1 May</td><td align=center width='21'><span class='concol'>33</span></td><td align=center width='21'>36 </td><td align=center width='21'> 10</td><td align=center width='21'> 14</td><td class='lablead' width='55' align=center>Lab +3</td><table border='0' rules='none' border-style='none' border-color='#fff' cellspacing='0' cellpadding='0' background='http://ukpollingreport.co.uk/images/theme/tablebackground3.gif'><tr><td align='right' width='22'><img src='http://www.ukpollingreport.co.uk/images/YG_logo.jpg'></td><td align=center width='49'>30 Apr</td><td align=center width='21'><span class='concol'>31</span></td><td align=center width='21'>37 </td><td align=center width='21'> 9</td><td align=center width='21'> 15</td><td class='lablead' width='55' align=center>Lab +6</td><table border='0' rules='none' border-style='none' border-color='#fff' cellspacing='0' cellpadding='0' background='http://ukpollingreport.co.uk/images/theme/tablebackground3.gif'><tr><td align='right' width='22'><img src='http://www.ukpollingreport.co.uk/images/YG_logo.jpg'></td><td align=center width='49'>29 Apr</td><td align=center width='21'><span class='concol'>32</span></td><td align=center width='21'>37 </td><td align=center width='21'> 9</td><td align=center width='21'> 14</td><td class='lablead' width='55' align=center>Lab +5</td><table border='0' rules='none' border-style='none' border-color='#fff' cellspacing='0' cellpadding='0' background='http://ukpollingreport.co.uk/images/theme/tablebackground3.gif'><tr><td align='right' width='22'><img src='http://www.ukpollingreport.co.uk/images/YG_logo.jpg'></td><td align=center width='49'>28 Apr</td><td align=center width='21'><span class='concol'>32</span></td><td align=center width='21'>37 </td><td align=center width='21'> 10</td><td align=center width='21'> 15</td><td class='lablead' width='55' align=center>Lab +5</td><table border='0' rules='none' border-style='none' border-color='#fff' cellspacing='0' cellpadding='0' background='http://ukpollingreport.co.uk/images/theme/tablebackground3.gif'><tr><td align='right' width='22'><img src='http://www.ukpollingreport.co.uk/images/P_icon.jpg'></td><td align=center width='49'>27 Apr</td><td align=center width='21'><span class='concol'>32</span></td><td align=center width='21'>35 </td><td align=center width='21'> 10</td><td align=center width='21'> 15</td><td class='lablead' width='55' align=center>Lab +3</td><table border='0' rules='none' border-style='none' border-color='#fff' cellspacing='0' cellpadding='0' background='http://ukpollingreport.co.uk/images/theme/tablebackground3.gif'><tr><td align='right' width='22'><img src='http://www.ukpollingreport.co.uk/images/OP_logo.jpg'></td><td align=center width='49'>25 Apr</td><td align=center width='21'><span class='concol'>32</span></td><td align=center width='21'>34 </td><td align=center width='21'> 7</td><td align=center width='21'> 18</td><td class='lablead' width='55' align=center>Lab +2</td></table><h3><a href='http://ukpollingreport.co.uk/voting-intention-2'>...More</a></h3></p>
+<br/>
+<br/><h2>Poll Graphs</h2><div class="m_b9">&nbsp;</div><h3><a href="http://ukpollingreport.co.uk/voting-intention-2">All</a></h3><h3><a href="http://ukpollingreport.co.uk/yougov-voting-intention">YouGov</a></h3><h3><a href="http://ukpollingreport.co.uk/blog/voting-intention/icm">ICM</a></h3><h3><a href="http://ukpollingreport.co.uk/blog/voting-intention/populus">Populus</a></h3><h3><a href="http://ukpollingreport.co.uk/blog/voting-intention/mori">Ipsos MORI</a></h3><h3><a href="http://ukpollingreport.co.uk/blog/voting-intention/communicate">ComRes</a></h3><img src='http://ukpollingreport.co.uk/images/sidebarshadow.jpg'><br/>
+<h2>European Election</h2><img src="http://ukpollingreport.co.uk/images/theme/europebanner.jpg"><h3><a href="http://ukpollingreport.co.uk/european-elections">Voting Intention</a></h3><img src='http://ukpollingreport.co.uk/images/sidebarshadow.jpg'><br/>
+<h2>Scottish Polls</h2><div class="m_b7">&nbsp;</div><h3><a href="http://ukpollingreport.co.uk/blog/scottish-voting-intention">Voting Intention</a></h3><h3><a href="http://ukpollingreport.co.uk/blog/scottish-independence">Independence</a></h3><h3><a href="http://ukpollingreport.co.uk/scottish-independence-referendum">2014 Referendum</a></h3><img src='http://ukpollingreport.co.uk/images/sidebarshadow.jpg'><br/>
+<h2>Party Leaders</h2><div class="m_b8">&nbsp;</div><h3><a href="http://ukpollingreport.co.uk/blog/leaders">Best Prime Minister</a></h3><h3><a href="http://ukpollingreport.co.uk/blog/leaders/cameron">David Cameron</a></h3><h3><a href="http://ukpollingreport.co.uk/blog/leaders/brown">Gordon Brown</a></h3><h3><a href="http://ukpollingreport.co.uk/blog/clegg">Nick Clegg</a></h3><h3><a href="http://ukpollingreport.co.uk/blog/leaders/blair">Tony Blair</a></h3><h3><a href="http://ukpollingreport.co.uk/blog/former-conservative-leaders">Former Tory leaders</a></h3><h3><a href="http://ukpollingreport.co.uk/blog/former-lib-dem-leaders">Former Lib Dem Leaders</a></h3><img src='http://ukpollingreport.co.uk/images/sidebarshadow.jpg'><br/>
+<h2>London Polls</h2><div class="m_b6">&nbsp;</div><h3><a href="http://ukpollingreport.co.uk/london-mayor-2012">Mayoral Voting Intention 2012</a></h3><h3><a href="http://ukpollingreport.co.uk/blog/london-mayor">Mayoral Voting Intention 2008</a></h3><img src='http://ukpollingreport.co.uk/images/sidebarshadow.jpg'>
+<p><h2>Historical Polling</h2></p>
+<p><h2><a href="http://ukpollingreport.co.uk/av-referendum">AV Referendum 2011</a></h2><img src="http://ukpollingreport.co.uk/images/theme/190avbannerold.jpg"><img src='http://ukpollingreport.co.uk/images/sidebarshadow.jpg'></p>
+<p><h2><a href="http://ukpollingreport.co.uk/blog/voting-intention-2005-2010">2005-2010</a></h2><img src="http://ukpollingreport.co.uk/images/2010election.jpg"><img src='http://ukpollingreport.co.uk/images/sidebarshadow.jpg'></p>
+<p><h2><a href="http://ukpollingreport.co.uk/blog/historical-polls/voting-intention-2001-2005">2001-2005</a></h2><div class="m_b2">&nbsp;</div><img src='http://ukpollingreport.co.uk/images/sidebarshadow.jpg'></p>
+<p><h2><a href="http://ukpollingreport.co.uk/blog/historical-polls/voting-intention-1997-2001">1997-2001</a></h2><div class="m_b1">&nbsp;</div><img src='http://ukpollingreport.co.uk/images/sidebarshadow.jpg'></p>
+<p><h2><a href="http://ukpollingreport.co.uk/blog/historical-polls/voting-intention-1992-1997">1992-1997</a></h2><div class="m_b3">&nbsp;</div><img src='http://ukpollingreport.co.uk/images/sidebarshadow.jpg'></p>
+<p><h2><a href="http://ukpollingreport.co.uk/blog/historical-polls/voting-intention-1987-1992">1987-1992</a></h2><div class="m_b4">&nbsp;</div><img src='http://ukpollingreport.co.uk/images/sidebarshadow.jpg'></p>
+<p><h2><a href="http://ukpollingreport.co.uk/voting-intention-1983-1987">1983-1987</a></h2><div class="m_b5">&nbsp;</div><img src='http://ukpollingreport.co.uk/images/sidebarshadow.jpg'></p>
+<p><h2><a href="http://ukpollingreport.co.uk/voting-intention-1979-1983">1979-1983</a></h2><img src="http://ukpollingreport.co.uk/images/1983election.jpg"><img src='http://ukpollingreport.co.uk/images/sidebarshadow.jpg'></p>
+<p><h2><a href="http://ukpollingreport.co.uk/voting-intention-1974-1979">1974-1979</a></h2><img src="http://ukpollingreport.co.uk/images/1979election.jpg"><img src='http://ukpollingreport.co.uk/images/sidebarshadow.jpg'></p>
+<p><h2><a href="http://ukpollingreport.co.uk/vote-intention-1970-oct1974">1970-1974</a></h2><img src="http://ukpollingreport.co.uk/images/1974election.jpg"><img src='http://ukpollingreport.co.uk/images/sidebarshadow.jpg'></p>
+<h2>advertisements</h2>
+ 
+<script>
+var onScrOll=new Object();
+onScrOll.code="PCEtLSBNZXRyaWMgU2NpZW5jZSAtIFVLIFBvbGxpbmcgUmVwb3J0IC0gU2t5IC0gVUsgUG9sbGluZyBSZXBvcnQgIC0tPgo8ZGl2Pgo8IS0tIHN0YXJ0IG9mIGNyZWF0aXZlIGNvbnRlbnQgLS0+CjwhLS0gQkVHSU4gSlMgVEFHIC0gU2t5IC0gVUsgUG9sbGluZyBSZXBvcnQgPCAtIERPIE5PVCBNT0RJRlkgLS0+DQo8U0NSSVBUIFNSQz0iaHR0cDovL2FkLm5ldGNvbW11bml0aWVzLmNvbS90dGo/aWQ9MTc3ODE3MyIgVFlQRT0idGV4dC9qYXZhc2NyaXB0Ij48L1NDUklQVD4NCjwhLS0gRU5EIFRBRyAtLT4KPCEtLSBlbmQgb2YgY3JlYXRpdmUgY29udGVudCAtLT4KPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPgood2luZG93Ll90cmFja2VyID0gKHdpbmRvdy5fdHJhY2tlciB8fCBbXSkpLnB1c2goewogIGNhbXBhaWduSWQ6ICc1MjNhZDBmMTkxYjZlZmQ0NjEwMDAwMjMnLAogIGNyZWF0aXZlSWQ6ICc1MjNhZDEyOTkxYjZlZmQ0NjEwMDAwMjYnLAogIGFjY291bnRJZDogJzUyM2FkMDZkOTFiNmVmZDQ2MTAwMDAxZCcKfSk7Cjwvc2NyaXB0Pgo8c2NyaXB0IHNyYz0iaHR0cDovL2Nkbi5vbnNjcm9sbC5jb20vbXMub3MuanMiPjwvc2NyaXB0Pgo8L2Rpdj4KPCEtLSBFbmQgb2YgdGFnIC0gLS0+";
+onScrOll.margin=600;
+onScrOll.mode="basic";
+onScrOll.height=600;
+onScrOll.width=160;
+onScrOll.reload=false;
+</script>
+<script src="http://cdn.onscroll.com/onscroll.ms.js"></script>
+ 
+</div>
+</div>
+</div></div>  </div></div> 
+</div> 
+</div>
+ 
+<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script><script type='text/javascript'>
+/* <![CDATA[ */
+var ReportCommentsJs = {"ajaxurl":"http:\/\/ukpollingreport.co.uk\/wp-admin\/admin-ajax.php","confirm":"Are you sure you want to report this comment"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://ukpollingreport.co.uk/wp-content/plugins/reportcomments/reportcomments.js?ver=1.2'></script>
+</body>
+</html>
+ 
+ 
+ 
+0
+
+
+

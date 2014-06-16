@@ -1,0 +1,1425 @@
+WARC/1.0
+Content-Length: 72509
+Content-Type: application/http; msgtype=response
+Warc-Date: 2014-05-12T16:58:18Z
+Warc-Record-Id: urn:X-scrapeomat:1399913899138008298
+Warc-Target-Uri: http://politicshome.com/uk/article/97829/gmb_protest_at_wiltshire_council_over_balfour_beatty_refusal_to_recognize_gmb_for_300_workers_on_council_contract.html
+Warc-Type: response
+X-Scrapeomat-Srcurl: http://politicshome.com/uk/article/97829/gmb_protest_at_wiltshire_council_over_balfour_beatty_refusal_to_recognize_gmb_for_300_workers_on_council_contract.html
+
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Content-Type: text/html; charset="UTF-8"
+Date: Mon, 12 May 2014 16:58:18 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Last-Modified: Mon, 12 May 2014 16:58:18 GMT
+Pragma: no-cache
+Server: Apache
+Set-Cookie: old_site=0
+Set-Cookie: PHPSESSID=rg6u7hrkskhvicor3opaceeg73; path=/
+X-Powered-By: PHP/5.3.18
+
+8000
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js ie9"> <!--<![endif]-->
+    <head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="viewport" content="width=device-width">
+		
+				
+		<title>	
+				GMB: Protest At Wiltshire Council Over Balfour Beatty Refusal To Recognize GMB For 300 Workers On Council Contract | 				PoliticsHome | Press Release  | PoliticsHome		</title>
+	
+		        		
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	
+			  	<meta name="description" content="PoliticsHome - The latest political news, opinion and press releases live from Westminster"/>	  
+		  
+		<meta name="language" content="English" />
+		<meta name="author" content="Politics Home" />
+		<meta name="copyright" content="Politics Home 2014" />
+		<meta name="robots" content="ALL" />
+		<meta name="author" content="" />
+		
+		<meta name="google-site-verification" content="k7UBIKC7j-CpVZcyQFMqOvSEMX_h1FI6n12C1qKON2Q" />
+	
+		<!-- Facebook stuff - Tells facebook about the page the user is 'liking' -->
+		<meta property="og:title" content="GMB: Protest At Wiltshire Council Over Balfour Beatty Refusal To Recognize GMB For 300 Workers On Council Contract |  "/>
+		<meta property="og:type" content="article"/>
+		<meta property="og:url" content="http://politicshome.com/uk/article/97829/gmb_protest_at_wiltshire_council_over_balfour_beatty_refusal_to_recognize_gmb_for_300_workers_on_council_contract.html"/>
+		<meta property="og:image" content="  "/>  
+		<meta property="fb:admins" content="simonrbowler"/>
+		<!--Facebook stuff ENDS-->
+	
+	
+		<!-- Favion -->
+		<link rel="fav icon" href="/images/favicon.ico" />
+		
+                
+
+		
+	
+	<!--<link rel="stylesheet" type="text/css" href="/css/stylesheet.v1.9.css" />-->
+	<link href="/css/jquery-ui-1.8.6.custom.css" rel="stylesheet" type="text/css" />
+	<link href="/css/jquery.suggest.css" rel="stylesheet" type="text/css" />
+	<link rel="stylesheet" href="/css/datePicker.css" type="text/css" media="screen" title="no title" charset="utf-8" />
+	<link rel="stylesheet" href="/fancybox1.3/jquery.fancybox-1.3.4.css" type="text/css" media="screen" />
+	<!--<link rel="stylesheet" type="text/css" href="/css/sept_2010_styles.v1.8.css" />
+	<link rel="stylesheet" type="text/css" href="/css/mrkng.css" />-->
+
+	<link rel="stylesheet" href="/css/extra.css">
+
+	<link rel="stylesheet" href="/assets/css/main.css">
+	
+	
+	
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+	
+	<script src="/javascript/httprequest.js" type="text/javascript"></script>
+	<script src="/javascript/jquery-ui-1.9.1.custom.min.js" type="text/javascript"></script>
+	<script src="/javascript/jquery.plugins.js" type="text/javascript"></script>
+	<script src="/javascript/jquery_libs/jquery.cycle.all.2.72.js" type="text/javascript"></script>
+	<script src="/javascript/general.js" type="text/javascript"></script>
+	<script type="text/javascript" src="/fancybox1.3/jquery.fancybox-1.3.4.pack.js"></script>
+	<script src="/javascript/jquery.polhome.js" type="text/javascript"></script>
+	
+	<script src="/assets/js/vendor/jquery.contentcarousel.js"></script>
+	<script src="/assets/js/vendor/jquery.easing.1.3.js"></script>
+	<script src="/assets/js/vendor/jquery.mousewheel.js"></script>
+	
+	<!-- Search page -->
+	<script src="/javascript/jquery.suggest.js" type="text/javascript"></script>
+	<!--<script src="/javascript/jquery.dimensions.js" type="text/javascript"></script>-->
+	<script src="/javascript/easyTooltip.js" type="text/javascript"></script>
+	
+	
+	<!-- Page specific -->
+			<script src="/javascript/articles.js" type="text/javascript"></script>
+		
+			<script src="/javascript/article_comments.js"></script>
+		
+	<script src="/javascript/jquery.scrollto.js" type="text/javascript"></script>
+	<script src="/javascript/jquery.scrollto.serialscroll.js" type="text/javascript"></script>
+	
+	
+		
+	
+		
+		
+	<script type="text/javascript">
+	<!--
+	function popitup(url) {
+	newwindow=window.open(url,'name','height=700,width=800,scrollbars=yes');
+	if (window.focus) {newwindow.focus()}
+	return false;
+	}// -->
+	function reloadPage(){
+	window.location.href="/uk/article/97829/gmb_protest_at_wiltshire_council_over_balfour_beatty_refusal_to_recognize_gmb_for_300_workers_on_council_contract.html";
+	}
+	function openDiaryOfTheDay(edition_id, link_id){
+	window.location.href="/dot_commons.html?edition_id="+edition_id+"&link_id="+link_id+"#"+link_id;
+	return false;
+	}
+	</script>
+	
+	
+	
+	
+       
+	<script src="/assets/js/vendor/modernizr-2.6.1-respond-1.1.0.min.js"></script> 
+        
+	<script type="text/javascript">
+          var _gaq = _gaq || [];
+          _gaq.push(['_setAccount', 'UA-4050390-1']);
+          _gaq.push(['_trackPageview']);
+          (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+          })();
+        </script>
+    </head>
+    <body>
+        
+		<!--[if lt IE 7]>
+		<div class="">
+			<div class="">	
+				<p>You seem to be using an out dated version of Internet Explorer which 
+				<a href="http://internet-explorer.uk.msn.com/internet-explorer-8/index.html">Microsoft recommends you upgrade</a>.
+				<br />Alternatively consider <a href="http://browsehappy.com/">upgrading to a different browser</a> or 
+				<a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site at its full potential.</p>
+			</div>
+		</div>
+		<![endif]-->
+		
+		<noscript>
+			<div class="">
+				<div class="">
+					<p>Certain features of this site make use of <a href="http://en.wikipedia.org/wiki/JavaScript">javascript</a>. For maximum benefit it is strongly advised that you 
+					<a href="http://www.activatejavascript.org/">switch on javascript</a> before continuing.</p>
+				</div>
+			</div>
+		</noscript>
+		
+
+<div id="headerx">
+<!-- BOF LOGIN - Contains the Phi Wire-->
+	<div id="loginHolder" style="display: none">									
+  <form action="https://www.politicshome.com/uk/login.html" method="post" >
+    <span id="close">Close</span>
+    <div class="note">
+      <p>This function is only available to subscribers. Find out more <a href="http://www.politicshome.com/uk/sign_up_compare.html">HERE </a> or log in below
+      </p>
+    </div>
+          
+
+<div class="control-group">
+	<label class="control-label" for="user_username"> Username:</label>
+	<div class="controls">
+		<input type="text" size="18" name="user_username" id="user_username" value=""/><div id='error_user_username' style='display:none' class='error'></div>	</div>
+</div>
+
+<div class="control-group">
+	<label class="control-label" for="user_password">Password:</label>
+	<div class="controls">
+	  <input type="password" id="user_password" name="user_password"/>
+	</div>
+</div>
+
+<div class="control-group">
+	<div class="controls">
+		<label class="checkbox" for="remember_login">
+			<input type="checkbox" value="1" name="remember_login"/> Remember Me
+		</label>
+	</div>
+</div>
+
+<div class="form-actions">
+	<input type="submit" class="action proclr btn"  name="login" value="Login"/>
+	<a href="/uk/forgot_password.html">Forgotten details?</a>
+</div>
+ 
+  </form>
+  <p>Dont have an account?<a href="/uk/sign_up_pro.html">Sign up here</a></p>
+</div>
+<div id="topHat">
+	<div class="container">
+		<div class="row">
+			<!-- BOF ACCOUNT - Contains the Account Login functionality, Sign up, RSS and Find Your MP-->	
+			<script type="text/javascript" src="/javascript/wz_tooltip.js"></script>
+<script type="text/javascript">
+var g_LiveWirePartyId=-1;
+var g_LiveWireFeedType="";
+function updateLiveWireFilter(party_id, feed_type){
+    var existing_tab=document.getElementById("livewiretab_"+g_LiveWirePartyId+"_"+g_LiveWireFeedType);
+  if (existing_tab)
+    removeClass(existing_tab, "active");
+  g_LiveWirePartyId=party_id;
+  g_LiveWireFeedType=feed_type;
+  var new_tab=document.getElementById("livewiretab_"+g_LiveWirePartyId+"_"+g_LiveWireFeedType);
+  if (new_tab)
+    addClass(new_tab, "active");
+  updateLiveWire();
+  return false;
+}
+function replaceLinks(t){
+    return t.replace(/[a-z]+:\/\/[a-z0-9-_]+\.[a-z0-9-_:~%&\?\/.=]+[^:\.,\)\s*$]/ig, function(m) {
+        return '<a href="' + m + '">' + ((m.length > 25) ? m.substr(0, 24) + '...' : m) + '</a>';
+    });
+}
+function setBlogWidth(){
+  var num_links=parseInt(document.getElementById("num_feed_links").value);
+  var width=((20+num_links)*240);
+  document.getElementById("phi-wire-content").style.width=width+"px";
+}
+function updateLiveWire(){
+    updatingSectionStarted();
+    new HttpRequest().start("/uk/header/phi-wire-content.html?livewire_party_id="+g_LiveWirePartyId+"&livewire_feed_type="+encodeURIComponent(g_LiveWireFeedType), 
+                            function(responseText){
+                                document.getElementById("phi-wire-content").innerHTML=responseText;
+				setBlogWidth();
+                                updatingSectionFinished();
+                            }
+                           );
+
+}
+</script>
+
+<div id="account" class="span10">
+	<div id="phirewire-controls" class="row">
+		<div class="span6">
+			<h4 class="hide-text">Phi Wire Hand Picked Politics - Live</h4>
+
+	                		        <ul class="unstyled" id="showLoginRest">
+	                  <li><a href="javascript:void(0);">All</a></li>
+	                  <li><a href="javascript:void(0);">Blogs</a></li>
+	                  <li><a href="javascript:void(0);">Twitter</a></li>
+	                  <li><a href="javascript:void(0);">Labour</a></li>
+	                  <li><a href="javascript:void(0);">Con</a></li>
+	                  <li><a href="javascript:void(0);">Lib Dem</a></li>
+	                  <li><a href="javascript:void(0);">No party</a></li>
+	                </ul>
+	                
+		</div>
+		<div id="account-controls" class="span4">
+			<ul class="unstyled login">
+								<li id="showLogin"><a href="/uk/login.html">Log In</a></li>
+				<li><a href="/uk/sign_up_pro.html">Sign Up</a></li>
+								
+				<li><a href="/uk/rssfeeds.html">RSS</a></li>
+				<li id="showMP">
+					<div class="input-prepend">
+					<span class="add-on">Find Your MP</span>
+					<input type="text" class="input-small" id="left_nav_newsmaker_name" placeholder="Start typing"/>
+					</div>
+				</li>
+			</ul>
+		</div>		
+	</div>
+</div>
+			<!-- EOF ACCOUNT -->
+			<!-- BOF PHIWIRE - Contains the Phi Wire-->
+
+
+<div style="width:1200px;;background-color:#FFF;overflow-y: hidden;display: block;">
+							<div class="rightContentWrap">
+								<div class="contentHeader_12255"></div>
+								<div class="contentBody_12255">
+									
+
+
+			<script type="text/javascript" src="/javascript/wz_tooltip.js"></script>
+<script type="text/javascript">
+var g_LiveWirePartyId=-1;
+var g_LiveWireFeedType="";
+function updateLiveWireFilter(party_id, feed_type){
+    var existing_tab=document.getElementById("livewiretab_"+g_LiveWirePartyId+"_"+g_LiveWireFeedType);
+  if (existing_tab)
+    removeClass(existing_tab, "active");
+  g_LiveWirePartyId=party_id;
+  g_LiveWireFeedType=feed_type;
+  var new_tab=document.getElementById("livewiretab_"+g_LiveWirePartyId+"_"+g_LiveWireFeedType);
+  if (new_tab)
+    addClass(new_tab, "active");
+  updateLiveWire();
+  return false;
+}
+function replaceLinks(t){
+    return t.replace(/[a-z]+:\/\/[a-z0-9-_]+\.[a-z0-9-_:~%&\?\/.=]+[^:\.,\)\s*$]/ig, function(m) {
+        return '<a href="' + m + '">' + ((m.length > 25) ? m.substr(0, 24) + '...' : m) + '</a>';
+    });
+}
+function setBlogWidth(){
+  var num_links=parseInt(document.getElementById("num_feed_links").value);
+  var width=((20+num_links)*240);
+  document.getElementById("livewire_content").style.width=width+"px";
+}
+function updateLiveWire(){
+    updatingSectionStarted();
+    new HttpRequest().start("/uk/livewire_content.html?livewire_party_id="+g_LiveWirePartyId+"&livewire_feed_type="+encodeURIComponent(g_LiveWireFeedType), 
+                            function(responseText){
+                                document.getElementById("livewire_content").innerHTML=responseText;
+				setBlogWidth();
+                                updatingSectionFinished();
+                            }
+                           );
+
+}
+</script>
+<div class="postWrap">
+  <!--<div class="postWrapHeader">
+	
+	    <h3 class="png">The Live Wire</h3>    
+		
+			<ul id="showLoginRest">
+	      <li><a>All</a></li>
+	      <li class="push"><span class="png">Just show me</span></li>
+	      <li><a>Blogs</a></li>
+	      <li><a>Twitter</a></li>
+	      <li><a>Labour</a></li>
+	      <li><a>Con</a></li>
+	      <li><a>Lib Dem</a></li>
+	      <li><a>No party</a></li>
+	    </ul>
+	
+  </div>-->
+  <div class="postWrapContainer public ">
+    <div class="postWrapContent" id="livewire_content">
+      <input type="hidden" id="num_feed_links" value="5"/>
+<ul>
+  <li>
+    <div class="post " onClick="window.open('http://www.politicshome.com/link/641545');return false;" onmouseover="Tip('Ashcroft poll show 2% lead for Tories - first lead in two years - but still points to Labour as largest party ',TITLE,'TWITTER: ');" onmouseout="UnTip()" >
+      <p><span class="em">Tony McNulty </span> | Ashcroft poll show 2% lead for Tories - first lead in two years - but still poin... </p>
+      <ul>
+			<li class="postIcon"><span class="png"><img class='thumb' src='http://www.politicshome.com/images/16x16/source_icon_377.jpg' width='16' height='16' border='0' alt='source icon'/><script>_gaq.push(['_trackEvent', 'Twitter', 'Impression', 'Tony McNulty Source Icon']);</script></span></li>
+			<li class="postTime">17:54</li>
+			<li class="liveWireLink">Tony McNulty</li>
+    		      </ul>
+    </div>
+  </li>
+  <li>
+    <div class="post " onClick="window.open('http://www.politicshome.com/link/641544');return false;" onmouseover="Tip('I\&#039;m hoping that big poll news tonight will be a ICM phone Euos poll. Last time it was LAB 36, CON 25, Ukip 20, LD 6. ',TITLE,'TWITTER: ');" onmouseout="UnTip()" >
+      <p><span class="em">Mike Smithson </span> | I&#039;m hoping that big poll news tonight will be a ICM phone Euos poll. Last time i... </p>
+      <ul>
+			<li class="postIcon"><span class="png"><img class='thumb' src='http://www.politicshome.com/images/16x16/source_icon_298.jpg' width='16' height='16' border='0' alt='source icon'/><script>_gaq.push(['_trackEvent', 'Twitter', 'Impression', 'Mike Smithson Source Icon']);</script></span></li>
+			<li class="postTime">17:53</li>
+			<li class="liveWireLink">Mike Smithson</li>
+    		      </ul>
+    </div>
+  </li>
+  <li>
+    <div class="post labour" onClick="window.open('http://www.politicshome.com/link/641541');return false;" onmouseover="Tip('% candidate coverage for May 22nd Council Elections - 98.4% @UKLabour (4195 candidates); 97.3%Tories; 69% Lib Dems; 51.1% UKIP ',TITLE,'TWITTER: ');" onmouseout="UnTip()" >
+      <p><span class="em">Harriet Harman </span> | % candidate coverage for May 22nd Council Elections - 98.4% @UKLabour (4195 cand... </p>
+      <ul>
+			<li class="postIcon"><span class="png"><img class='thumb' src='http://www.politicshome.com/images/16x16/source_icon_325.jpg' width='16' height='16' border='0' alt='source icon'/><script>_gaq.push(['_trackEvent', 'Twitter', 'Impression', 'Harriet Harman Source Icon']);</script></span></li>
+			<li class="postTime">17:50</li>
+			<li class="liveWireLink">Harriet Harman</li>
+    		      </ul>
+    </div>
+  </li>
+  <li>
+    <div class="post " onClick="window.open('http://www.politicshome.com/link/641540');return false;" onmouseover="Tip('A qn to pollsters: if Lab is slipping, where are those votes going? Ukip? ',TITLE,'TWITTER: ');" onmouseout="UnTip()" >
+      <p>A qn to pollsters: if Lab is slipping, where are those votes going? Ukip? </p>
+      <ul>
+			<li class="postIcon"><span class="png"><img class='thumb' src='http://www.politicshome.com/images/16x16/source_icon_1668.jpg' width='16' height='16' border='0' alt='source icon'/><script>_gaq.push(['_trackEvent', 'Twitter', 'Impression', 'Kiran Stacey Source Icon']);</script></span></li>
+			<li class="postTime">17:49</li>
+			<li class="liveWireLink">Kiran Stacey</li>
+    		      </ul>
+    </div>
+  </li>
+  <li>
+    <div class="post " onClick="window.open('http://www.politicshome.com/link/641543');return false;" onmouseover="Tip('Labour is failing to make up any ground on Ukip ahead of next week&rsquo;s European elections. A new poll from Sky News and YouGov today says that Labour&rsquo;s support has&hellip; Continue&nbsp;reading The post Labour fall...',TITLE,'BLOG: ');" onmouseout="UnTip()" >
+      <p><span class="em">Sebastian Payne </span> | Labour falling behind as Ukip leads latest Euro poll </p>
+      <ul>
+			<li class="postIcon"><span class="png"><img class='thumb' src='http://www.politicshome.com/images/16x16/source_icon_153.png' width='16' height='16' border='0' alt='source icon'/><script>_gaq.push(['_trackEvent', 'Blog', 'Impression', 'Coffee House Source Icon']);</script></span></li>
+			<li class="postTime">17:34</li>
+			<li class="liveWireLink">Coffee House</li>
+    		      </ul>
+    </div>
+  </li>
+<li class="PHadvert" >
+    <div class="post" onClick="window.location = '/uk/ph_on_the_go.html';">
+      <p><span class="em">PoliticsHome </span> |	Only the latest five entries on the PhiWire are visible to non-subscribers </p>
+      <ul>
+	<li class="postIcon"><span class="png"><img width="16" height="16" border="0" alt="" src="/images/ph_icon_small.png"></span></li>
+	<li class="postTime"></li>
+	<li class="liveWireLink">Sign up to see last 24 hours</li>
+      </ul>
+    </div>
+</li>
+<li class="PHadvert" >
+    <div class="post" onClick="window.location = '/uk/ph_on_the_go.html';">
+      <p><span class="em">PoliticsHome </span> |	Only the latest five entries on the PhiWire are visible to non-subscribers </p>
+      <ul>
+	<li class="postIcon"><span class="png"><img width="16" height="16" border="0" alt="" src="/images/ph_icon_small.png"></span></li>
+	<li class="postTime"></li>
+	<li class="liveWireLink">Sign up to see last 24 hours</li>
+      </ul>
+    </div>
+</li>
+<li class="PHadvert" >
+    <div class="post" onClick="window.location = '/uk/ph_on_the_go.html';">
+      <p><span class="em">PoliticsHome </span> |	Only the latest five entries on the PhiWire are visible to non-subscribers </p>
+      <ul>
+	<li class="postIcon"><span class="png"><img width="16" height="16" border="0" alt="" src="/images/ph_icon_small.png"></span></li>
+	<li class="postTime"></li>
+	<li class="liveWireLink">Sign up to see last 24 hours</li>
+      </ul>
+    </div>
+</li>
+<li class="PHadvert" >
+    <div class="post" onClick="window.location = '/uk/ph_on_the_go.html';">
+      <p><span class="em">PoliticsHome </span> |	Only the latest five entries on the PhiWire are visible to non-subscribers </p>
+      <ul>
+	<li class="postIcon"><span class="png"><img width="16" height="16" border="0" alt="" src="/images/ph_icon_small.png"></span></li>
+	<li class="postTime"></li>
+	<li class="liveWireLink">Sign up to see last 24 hours</li>
+      </ul>
+    </div>
+</li>
+<li class="PHadvert" >
+    <div class="post" onClick="window.location = '/uk/ph_on_the_go.html';">
+      <p><span class="em">PoliticsHome </span> |	Only the latest five entries on the PhiWire are visible to non-subscribers </p>
+      <ul>
+	<li class="postIcon"><span class="png"><img width="16" height="16" border="0" alt="" src="/images/ph_icon_small.png"></span></li>
+	<li class="postTime"></li>
+	<li class="liveWireLink">Sign up to see last 24 hours</li>
+      </ul>
+    </div>
+</li>
+<li class="PHadvert" >
+    <div class="post" onClick="window.location = '/uk/ph_on_the_go.html';">
+      <p><span class="em">PoliticsHome </span> |	Only the latest five entries on the PhiWire are visible to non-subscribers </p>
+      <ul>
+	<li class="postIcon"><span class="png"><img width="16" height="16" border="0" alt="" src="/images/ph_icon_small.png"></span></li>
+	<li class="postTime"></li>
+	<li class="liveWireLink">Sign up to see last 24 hours</li>
+      </ul>
+    </div>
+</li>
+<li class="PHadvert" >
+    <div class="post" onClick="window.location = '/uk/ph_on_the_go.html';">
+      <p><span class="em">PoliticsHome </span> |	Only the latest five entries on the PhiWire are visible to non-subscribers </p>
+      <ul>
+	<li class="postIcon"><span class="png"><img width="16" height="16" border="0" alt="" src="/images/ph_icon_small.png"></span></li>
+	<li class="postTime"></li>
+	<li class="liveWireLink">Sign up to see last 24 hours</li>
+      </ul>
+    </div>
+</li>
+<li class="PHadvert" >
+    <div class="post" onClick="window.location = '/uk/ph_on_the_go.html';">
+      <p><span class="em">PoliticsHome </span> |	Only the latest five entries on the PhiWire are visible to non-subscribers </p>
+      <ul>
+	<li class="postIcon"><span class="png"><img width="16" height="16" border="0" alt="" src="/images/ph_icon_small.png"></span></li>
+	<li class="postTime"></li>
+	<li class="liveWireLink">Sign up to see last 24 hours</li>
+      </ul>
+    </div>
+</li>
+<li class="PHadvert" >
+    <div class="post" onClick="window.location = '/uk/ph_on_the_go.html';">
+      <p><span class="em">PoliticsHome </span> |	Only the latest five entries on the PhiWire are visible to non-subscribers </p>
+      <ul>
+	<li class="postIcon"><span class="png"><img width="16" height="16" border="0" alt="" src="/images/ph_icon_small.png"></span></li>
+	<li class="postTime"></li>
+	<li class="liveWireLink">Sign up to see last 24 hours</li>
+      </ul>
+    </div>
+</li>
+<li class="PHadvert" >
+    <div class="post" onClick="window.location = '/uk/ph_on_the_go.html';">
+      <p><span class="em">PoliticsHome </span> |	Only the latest five entries on the PhiWire are visible to non-subscribers </p>
+      <ul>
+	<li class="postIcon"><span class="png"><img width="16" height="16" border="0" alt="" src="/images/ph_icon_small.png"></span></li>
+	<li class="postTime"></li>
+	<li class="liveWireLink">Sign up to see last 24 hours</li>
+      </ul>
+    </div>
+</li>
+<li class="PHadvert" >
+    <div class="post" onClick="window.location = '/uk/ph_on_the_go.html';">
+      <p><span class="em">PoliticsHome </span> |	Only the latest five entries on the PhiWire are visible to non-subscribers </p>
+      <ul>
+	<li class="postIcon"><span class="png"><img width="16" height="16" border="0" alt="" src="/images/ph_icon_small.png"></span></li>
+	<li class="postTime"></li>
+	<li class="liveWireLink">Sign up to see last 24 hours</li>
+      </ul>
+    </div>
+</li>
+<li class="PHadvert" >
+    <div class="post" onClick="window.location = '/uk/ph_on_the_go.html';">
+      <p><span class="em">PoliticsHome </span> |	Only the latest five entries on the PhiWire are visible to non-subscribers </p>
+      <ul>
+	<li class="postIcon"><span class="png"><img width="16" height="16" border="0" alt="" src="/images/ph_icon_small.png"></span></li>
+	<li class="postTime"></li>
+	<li class="liveWireLink">Sign up to see last 24 hours</li>
+      </ul>
+    </div>
+</li>
+<li class="PHadvert" >
+    <div class="post" onClick="window.location = '/uk/ph_on_the_go.html';">
+      <p><span class="em">PoliticsHome </span> |	Only the latest five entries on the PhiWire are visible to non-subscribers </p>
+      <ul>
+	<li class="postIcon"><span class="png"><img width="16" height="16" border="0" alt="" src="/images/ph_icon_small.png"></span></li>
+	<li class="postTime"></li>
+	<li class="liveWireLink">Sign up to see last 24 hours</li>
+      </ul>
+    </div>
+</li>
+<li class="PHadvert" >
+    <div class="post" onClick="window.location = '/uk/ph_on_the_go.html';">
+      <p><span class="em">PoliticsHome </span> |	Only the latest five entries on the PhiWire are visible to non-subscribers </p>
+      <ul>
+	<li class="postIcon"><span class="png"><img width="16" height="16" border="0" alt="" src="/images/ph_icon_small.png"></span></li>
+	<li class="postTime"></li>
+	<li class="liveWireLink">Sign up to see last 24 hours</li>
+      </ul>
+    </div>
+</li>
+<li class="PHadvert" >
+    <div class="post" onClick="window.location = '/uk/ph_on_the_go.html';">
+      <p><span class="em">PoliticsHome </span> |	Only the latest five entries on the PhiWire are visible to non-subscribers </p>
+      <ul>
+	<li class="postIcon"><span class="png"><img width="16" height="16" border="0" alt="" src="/images/ph_icon_small.png"></span></li>
+	<li class="postTime"></li>
+	<li class="liveWireLink">Sign up to see last 24 hours</li>
+      </ul>
+    </div>
+</li>
+<li class="PHadvert" >
+    <div class="post" onClick="window.location = '/uk/ph_on_the_go.html';">
+      <p><span class="em">PoliticsHome </span> |	Only the latest five entries on the PhiWire are visible to non-subscribers </p>
+      <ul>
+	<li class="postIcon"><span class="png"><img width="16" height="16" border="0" alt="" src="/images/ph_icon_small.png"></span></li>
+	<li class="postTime"></li>
+	<li class="liveWireLink">Sign up to see last 24 hours</li>
+      </ul>
+    </div>
+</li>
+<li class="PHadvert" >
+    <div class="post" onClick="window.location = '/uk/ph_on_the_go.html';">
+      <p><span class="em">PoliticsHome </span> |	Only the latest five entries on the PhiWire are visible to non-subscribers </p>
+      <ul>
+	<li class="postIcon"><span class="png"><img width="16" height="16" border="0" alt="" src="/images/ph_icon_small.png"></span></li>
+	<li class="postTime"></li>
+	<li class="liveWireLink">Sign up to see last 24 hours</li>
+      </ul>
+    </div>
+</li>
+<li class="PHadvert" >
+    <div class="post" onClick="window.location = '/uk/ph_on_the_go.html';">
+      <p><span class="em">PoliticsHome </span> |	Only the latest five entries on the PhiWire are visible to non-subscribers </p>
+      <ul>
+	<li class="postIcon"><span class="png"><img width="16" height="16" border="0" alt="" src="/images/ph_icon_small.png"></span></li>
+	<li class="postTime"></li>
+	<li class="liveWireLink">Sign up to see last 24 hours</li>
+      </ul>
+    </div>
+</li>
+<li class="PHadvert" >
+    <div class="post" onClick="window.location = '/uk/ph_on_the_go.html';">
+      <p><span class="em">PoliticsHome </span> |	Only the latest five entries on the PhiWire are visible to non-subscribers </p>
+      <ul>
+	<li class="postIcon"><span class="png"><img width="16" height="16" border="0" alt="" src="/images/ph_icon_small.png"></span></li>
+	<li class="postTime"></li>
+	<li class="liveWireLink">Sign up to see last 24 hours</li>
+      </ul>
+    </div>
+</li>
+<li class="PHadvert" >
+    <div class="post" onClick="window.location = '/uk/ph_on_the_go.html';">
+      <p><span class="em">PoliticsHome </span> |	Only the latest five entries on the PhiWire are visible to non-subscribers </p>
+      <ul>
+	<li class="postIcon"><span class="png"><img width="16" height="16" border="0" alt="" src="/images/ph_icon_small.png"></span></li>
+	<li class="postTime"></li>
+	<li class="liveWireLink">Sign up to see last 24 hours</li>
+      </ul>
+    </div>
+</li>
+</ul>
+    </div>
+  </div>
+</div>
+<script type="text/javascript">
+    setBlogWidth();
+</script>
+
+
+
+
+
+</div>
+</div>
+</div>
+</div>
+
+
+
+			<!-- EOF PHIWIRE -->
+		</div>
+	</div>
+</div>
+<!-- EOF LOGIN -->
+
+<!-- BOF BRANDING - Contains the main logo, banner and search-->
+	<div id="branding">
+	<div class="container">
+		<div class="row">
+			<div class="span3 branding">
+				<h2><a href="/front_page.html" class="hide-text">PoliticsHome. All Todays Politics In One Place</a></h2>
+				<!--<h2><a href="uk" class="hide-text">PoliticsHome. All Todays Politics In One Place</a></h2> -->
+			</div>
+			<div class="span4 banner">
+				<!--/* OpenX Javascript Tag v2.6.3 */-->
+
+				<!--/*
+				  * The backup image section of this tag has been generated for use on a
+				  * non-SSL page. If this tag is to be placed on an SSL page, change the
+				  *   'http://ads.dods.co.uk/www/delivery/...'
+				  * to
+				  *   'https://ads.dods.co.uk/www/delivery/...'
+				  *
+				  * This noscript section of this tag only shows image banners. There
+				  * is no width or height in these banners, so if you want these tags to
+				  * allocate space for the ad before it shows, you will need to add this
+				  * information to the <img> tag.
+				  *
+				  * If you do not want to deal with the intricities of the noscript
+				  * section, delete the tag (from <noscript>... to </noscript>). On
+				  * average, the noscript tag is called from less than 1% of internet
+				  * users.
+				  */-->
+				
+				<script type='text/javascript'><!--//<![CDATA[
+				   var m3_u = (location.protocol=='https:'?'https://ads.dods.co.uk/www/delivery/ajs.php':'http://ads.dods.co.uk/www/delivery/ajs.php');
+				   var m3_r = Math.floor(Math.random()*99999999999);
+				   if (!document.MAX_used) document.MAX_used = ',';
+				   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+				   document.write ("?zoneid=164");
+				   document.write ('&amp;cb=' + m3_r);
+				   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+				   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+				   document.write ("&amp;loc=" + escape(window.location));
+				   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+				   if (document.context) document.write ("&context=" + escape(document.context));
+				   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+				   document.write ("'><\/scr"+"ipt>");
+				//]]>--></script><noscript><a href='http://ads.dods.co.uk/www/delivery/ck.php?n=addd4a7d&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.dods.co.uk/www/delivery/avw.php?zoneid=164&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=addd4a7d' border='0' alt='' /></a></noscript>
+
+			</div>
+			<div class="span3 search">
+				<!--Search bar, probably want to move this into a different file down the line to keep the pages clean-->
+				<form class="" method="get" id="search_form" action="/uk/search_results.html">
+					<div class="input-append">
+						<input class="input-large search-text-field" id="appendedInputButton" name="filter_text" type="text" placeholder="Search"><button onclick="document.getElementById('search_form').submit();" class="btn" type="button"><i class="icon-search"></i></button>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- EOF BRANDING -->
+
+<!-- BOF NAVIGATION - Contains the sub navigation-->
+	<!-- Navigation File, TOP LEVEL --> 
+
+<div id="main-navigation" class="navbar">
+	<div class="navbar-inner">
+		<div class="container">
+			<ul class="nav">
+								<li class="" >
+					<a href="/">Home</a>
+				  					</li>
+								<li class="" >
+					<a href="/uk/category-hub/category-hub.html">Category Hub</a>
+				  					</li>
+								<li class="" >
+					<a href="/uk/category/52/Culture_media_%26_sport.html">Culture &amp; Media</a>
+				  					</li>
+								<li class="" >
+					<a href="/uk/category/13/Domestic_Affairs.html">Home Affairs</a>
+				  					</li>
+								<li class="" >
+					<a href="/uk/category/183/Economy_%26_Employment.html">Economy &amp; Work</a>
+				  					</li>
+								<li class="" >
+					<a href="/uk/category/43/Schools_education_%26_training.html">Education</a>
+				  					</li>
+								<li class="" >
+					<a href="/uk/category/45/Environment_energy_%26_climate_change.html">Energy &amp; Environment</a>
+				  					</li>
+								<li class="" >
+					<a href="/uk/category/47/Foreign_affairs_%26_defence.html">Foreign &amp; Defence</a>
+				  					</li>
+								<li class="" >
+					<a href="/uk/category/44/Health_and_Social_Services.html">Health &amp; Care</a>
+				  					</li>
+								<li class="" >
+					<a href="/uk/category/260/Local_and_Regional.html">Local &amp; Regional</a>
+				  					</li>
+								<li class="" >
+					<a href="/uk/category/353/Party_Politics_%26_Reform.html">Party Politics</a>
+				  					</li>
+								<li class="" >
+					<a href="/uk/category/34/Transport.html">Transport</a>
+				  					</li>
+								<li class="" >
+					<a href="/uk/politicshome_pro.html">PH PRO</a>
+				  					</li>
+								<li class="" >
+					<a href="/uk/ph_on_the_go.html">On The GO</a>
+				  					</li>
+								<li class="" >
+					<a href="/uk/about_us.html">About Us</a>
+				  					</li>
+								<li class=""
+8000
+ >
+					<a href="/uk/contact.html">Contact Us/Help</a>
+				  					</li>
+							</ul>
+		</div>
+	</div>
+</div>
+
+
+<div id="secondary-navigation" class="navbar">
+	<div class="navbar-inner">
+		<div class="container">
+			<ul class="nav">
+						<li class=""><a href="http://www.epolitix.com">Central Lobby</a></li>
+						<li class=""><a href="http://www.epolitix.com/member-directory">Member Directory</a></li>
+						<li class=""><a href="/housemag.html">The House Magazine</a></li>
+						<li class=""><a href="/uk/waughroom.html">Waugh Room</a></li>
+						<li class=""><a href="/uk/the_political_pulse.html">Political Pulse</a></li>
+						<li class=""><a href="/uk/storytracker.html">Story Tracker</a></li>
+						<li class=""><a href="/uk/calendar.html">Today&#039;s Events</a></li>
+						<li class=""><a href="/uk/the_green_box.html">The Green Box</a></li>
+						<li class=""><a href="/uk/todays_must_reads.html">Today&#039;s Top Ten</a></li>
+						<li class=""><a href="/uk/latest_frontpage.html">Today&#039;s Front Pages</a></li>
+						<li class=""><a href="/uk/newsmaker_directory.html">Newsmakers</a></li>
+						<li class=""><a href="/uk/dot_commons.html">Dot Commons&#039; Diary</a></li>
+						</ul>
+		</div>
+	</div>
+</div>
+<!-- EOF NAVIGATION -->
+</div>
+<div id="content-container" class="article">
+  <div class="container" id="mrkng">
+    <div class="row" id="contentWrap" >
+      <!--BOF Site Content. This is the main content wrapper-->
+      <div id="site-content" class="span7">
+	<!--BOF Breadcrumbs-->
+	<ul class="breadcrumb">
+	<li>You are here: </li>
+	<li><a href="/uk/front_page.html">News Front Page</a> <span class="divider">/</span></li>
+	     	<li><a href="/uk/pressreleases.html"> Press Releases</a><span class="divider">/</span> </li>
+          	<li><a href="/uk/article/97829/gmb_protest_at_wiltshire_council_over_balfour_beatty_refusal_to_recognize_gmb_for_300_workers_on_council_contract.html"> Article</a><span class="divider">/</span> </li>
+     </ul>
+	<!--EOF Breadcrumbs-->
+	
+	<div class="header clearfix">
+                    <h2>Press Release  </h2>
+          <h3>Press Releases</h3> 
+      	</div>
+	<!--BOF Primary Content-->
+	<div class="primary-content">
+	            
+	  	
+	<p class="articleDate">Monday 12th May 2014 | 16:18</p>
+	
+	  	<h2 class="detail">GMB: Protest At Wiltshire Council Over Balfour Beatty Refusal To Recognize GMB For 300 Workers On Council Contract</h2>
+  	
+  	
+  	        	      	  
+  	
+<div class="socialShare">
+	<!-- Tweet this -->
+	<div class="twitterHold">  
+    <a href="http://twitter.com/share" class="twitter-share-button" data-count="none">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+    
+  </div>
+	<!-- Recommend this -->
+	<script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like layout="button_count" action="like"></fb:like>	
+	
+</div>	  	  <p><strong>GMB press release</strong></p>
+<p>Protest At Wiltshire Council On Tuesday 13th May Over Balfour Beatty<br /> Refusal To Recognize GMB For 300 Workers On Council Contract<br /> <br /> Councillors will be asked to support motion by Councillor Jeff Osborn<br /> as Balfour Beatty has anti- union form being one of the biggest<br /> blacklisters says GMB.<br /> <br /> GMB are staging a protest on Tuesday 13th May outside Wiltshire<br /> Council calling on Balfour Beatty to respect their employee&rsquo;s<br /> rights to be represented by a trade union.<br /> <br /> Balfour Beatty Living Places are refusing to recognise GMB on the<br /> &pound;25m Wiltshire Council contract maintain roads, street cleaning and<br /> lighting and grass cutting across the county.<br /> <br /> 300 staff employed on the contract were TUPE transferred in June 2013<br /> to Balfour Beatty Living Places from  Wiltshire Council and a<br /> previous contractor English Landscapes. There is a base at<br /> Churchfields Industrial Estate in Salisbury and in Wilton.<br /> <br /> On Tuesday 13th May Independent Councillor Jeff Osborn is tabling a<br /> motion to full council which says;<br /> <br /> &ldquo;In the tendering of any future contracts provided by the council a<br /> clear condition should be made that the council will only enter into<br /> a contract with organisations that make a clear and public commitment<br /> that they fully recognise Trade Union rights for their employees and<br /> will continue to do so.&rdquo;<br /> <br /> The details of the protest at County Hall in Trowbridge are as<br /> follows:<br /> <br /> From 10am Tuesday 13 May<br /> <br /> Outside County Hall<br /> <br /> Bythesea Road<br /> <br /> Trowbridge<br /> <br /> Wiltshire<br /> <br /> BA14 8JN<br /> <br /> Last week GMB wrote to National Grid asking questions on a major<br /> investigation into allegations of bullying, mis-reporting, fraud and<br /> corruption in a Gas Distribution Strategic Partnership (GDSP)<br /> covering gas mains replacement work in the West Midlands. Balfour<br /> Beatty runs the GDSP in the West Midlands and North West in a<br /> contract worth about &pound;4 billion over duration of the contract.<br /> <br /> Balfour Beatty were big in the blacklisting which came to light when<br /> in 2009 the ICO seized a Consulting Association database of 3,213<br /> construction workers and environmental activists used by 44 companies<br /> to vet new recruits and keep out of employment trade union and health<br /> and safety activists.<br /> <br /> GMB is currently involved in talks with Balfour Beatty and seven<br /> other blacklisting companies on a Construction Workers Compensation<br /> Scheme to compensate the victims they blacklisted.<br /> <br /> Carole Vallelley, GMB Regional Organiser, said &ldquo;GMB will be handing<br /> out leaflets to councillors explaining the disgraceful anti trade<br /> union behaviour by Balfour Beatty and asking them to support this<br /> motion tabled by Councillor Jeff Osborn.<br /> <br /> Balfour Beatty has form when it comes to being anti- union. They were<br /> one of the biggest blacklisters. The defence on blacklisting filed in<br /> the High Court last autumn by Sir Robert McAlpine shows that Balfour<br /> Beatty placed 302 workers names on the construction blacklist - <br /> 27.3% of the total identified- and refused work to 187 workers -<br /> which was 31.4% of those refused work.<br /> <br /> Balfour Beatty went back on assurances given in pre-contract talks<br /> that collective bargaining rights would continue.  Balfour Beatty is<br /> a &ldquo;middleman&rdquo; working for the council and they must be told to by<br /> the council that this action is simply not acceptable.&rdquo;<br /></p>
+	<!---    		 		
+		
+<div class="adspacetwo cont">	
+
+
+
+	
+	
+</div>	
+
+<div class="comment">
+	<h4>Leave a comment...</h4>
+	<div id="add_articlecomment">
+	<form method="post" action="/add_articlecomment.html" id="articlecomment_form" name="articlecomment_form">
+		<div class="comment">
+		<input type="hidden" name="article_id" value="97829"/>
+		<input type="hidden" name="story_id" value="0"/>
+                <input type="hidden" name="site_id" value="1"/> 
+                
+                <input type="hidden" name="articlecomment_parent_id" id="articlecomment_parent_id" value="0"/>
+		<div xid="add_articlecomment">
+		  <ul>
+		    <li class="pullLeft">
+		      <div>
+			<label for="articlecomment_name">Name</label> <input class="shadow" type="text" name="articlecomment_name" id="articlecomment_name">
+		      </div>
+		    </li>
+		    <li class="pushRight">
+		      <div>
+			<label for="articlecomment_email">Email</label> <input class="shadow" type="text" name="articlecomment_email" id="articlecomment_email">
+		      </div>
+		    </li>
+		    <li class="clear message">
+		      <div>
+			<label for="articlecomment_text">Comment</label> 
+			<textarea class="shadow" name="articlecomment_text" id="articlecomment_text"></textarea>
+		      </div>
+		    </li>
+		    <li class="clear">
+		      <ul>
+			<li>
+			  <img src="/CaptchaSecurityImages.php">
+			</li>
+			<li>
+			  <div>
+			    <label for="captcha_text">Please type the text<br>
+			      shown on the left</label> <input class="shadow size" type="text" size="8" name="captcha_text" id="captcha_text">
+			  </div>
+			</li>
+			<li>
+			  <div>
+			    <input class="submit action" type="button" onClick="return checkCommentForm();" value="Post Comment"/>
+			  </div>
+			</li>
+		   </ul>
+		</div>
+	</form>
+        </div>
+</div>
+
+	      </div>
+
+
+    
+
+ 
+-->
+          
+                        
+                            <div class="related-news related pull-left">
+                              <h3>Related News</h3>
+                              <div class="editorial clearfix"> 
+                                <div class="content clearfix">
+                                 <a target="_blank" href="http://www.epolitix.com/members/member-press/member-press-details/newsarticle/tory-leaders-accused-of-repulsive-double-standards-on-ballots///sites/unite/"><img src="http://www.dodsdata.com/images/25250_ePolitix%20Stakeholder%20icon.gif" class="pull-left" ></a>
+                                 <h3><a target="_blank" href="http://www.epolitix.com/members/member-press/member-press-details/newsarticle/tory-leaders-accused-of-repulsive-double-standards-on-ballots///sites/unite/">Tory leaders accused of repulsive double standards on ballots</a></h3>
+                                </div>
+                              </div>
+                            </div>
+                            <script>_gaq.push(['_trackEvent', 'Stakeholder', 'Impression', 'Unite Source Icon']);</script>
+                    
+                            <div class="related-news related pull-left">
+                              <h3>Related News</h3>
+                              <div class="editorial clearfix"> 
+                                <div class="content clearfix">
+                                 <a target="_blank" href="http://www.epolitix.com/members/member-press/member-press-details/newsarticle/gmb-to-give-evidence-to-bis-parliamentary-committee-on-tuesday-may-13-on-pfizer-bid-for-astrazeneca///sites/gmb/"><img src="http://www.dodsdata.com/images/25189_ePolitix%20Stakeholder%20icon.gif" class="pull-left" ></a>
+                                 <h3><a target="_blank" href="http://www.epolitix.com/members/member-press/member-press-details/newsarticle/gmb-to-give-evidence-to-bis-parliamentary-committee-on-tuesday-may-13-on-pfizer-bid-for-astrazeneca///sites/gmb/">GMB to give evidence to BIS parliamentary committee on Tuesday May 13 on Pfizer bid for AstraZeneca</a></h3>
+                                </div>
+                              </div>
+                            </div>
+                            <script>_gaq.push(['_trackEvent', 'Stakeholder', 'Impression', 'GMB Source Icon']);</script>
+                    
+                            <div class="related-news related pull-left">
+                              <h3>Related News</h3>
+                              <div class="editorial clearfix"> 
+                                <div class="content clearfix">
+                                 <a target="_blank" href="http://www.epolitix.com/members/member-press/member-press-details/newsarticle/response-to-new-study-which-reveals-impact-of-side-effects-of-treatment-on-ability-to-work///sites/macmillan-cancer-support/"><img src="http://www.dodsdata.com/images/35363_ePolitix%20Stakeholder%20icon.png" class="pull-left" ></a>
+                                 <h3><a target="_blank" href="http://www.epolitix.com/members/member-press/member-press-details/newsarticle/response-to-new-study-which-reveals-impact-of-side-effects-of-treatment-on-ability-to-work///sites/macmillan-cancer-support/">Response to new study which reveals impact of side effects of treatment on ability to work</a></h3>
+                                </div>
+                              </div>
+                            </div>
+                            <script>_gaq.push(['_trackEvent', 'Stakeholder', 'Impression', 'Macmillan Cancer Support Source Icon']);</script>
+                    
+                              
+	</div>
+	    </div>	
+      <!--BOF Promotional Content-->
+      <div id="promotional-content" class="span3">
+        <!--BOF MPU Module-->
+<div class="module mpu">
+	<script type='text/javascript'><!--//<![CDATA[
+	   var m3_u = (location.protocol=='https:'?'https://ads.dods.co.uk/www/delivery/ajs.php':'http://ads.dods.co.uk/www/delivery/ajs.php');
+	   var m3_r = Math.floor(Math.random()*99999999999);
+	   if (!document.MAX_used) document.MAX_used = ',';
+	   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+	   document.write ("?zoneid=166");
+	   document.write ('&amp;cb=' + m3_r);
+	   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+	   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+	   document.write ("&amp;loc=" + escape(window.location));
+	   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+	   if (document.context) document.write ("&context=" + escape(document.context));
+	   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+	   document.write ("'><\/scr"+"ipt>");
+	//]]>-->
+		</script><noscript><a href='http://ads.dods.co.uk/www/delivery/ck.php?n=a43ed2d5&amp;cb=71931763039' target='_blank'><img src='http://ads.dods.co.uk/www/delivery/avw.php?zoneid=166&amp;cb=71931763039&amp;n=a43ed2d5' border='0' alt='' /></a></noscript>
+</div>	
+<!--EOF MPU Module-->
+
+<!-- Custom Ad Code 11-Mar-2013 start-->
+<div class="module">
+<img src="/images/advertisment.gif" />
+<div class="lord_ashcroft_polls">
+<!--/* OpenX Javascript Tag v2.8.10 */-->
+
+<!--/*
+  * The backup image section of this tag has been generated for use on a
+  * non-SSL page. If this tag is to be placed on an SSL page, change the
+  *   'http://ads.dods.co.uk/www/delivery/...'
+  * to
+  *   'https://ads.dods.co.uk/www/delivery/...'
+  *
+  * This noscript section of this tag only shows image banners. There
+  * is no width or height in these banners, so if you want these tags to
+  * allocate space for the ad before it shows, you will need to add this
+  * information to the <img> tag.
+  *
+  * If you do not want to deal with the intricities of the noscript
+  * section, delete the tag (from <noscript>... to </noscript>). On
+  * average, the noscript tag is called from less than 1% of internet
+  * users.
+  */-->
+
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://ads.dods.co.uk/www/delivery/ajs.php':'http://ads.dods.co.uk/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=196");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://ads.dods.co.uk/www/delivery/ck.php?n=a78aecb5&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.dods.co.uk/www/delivery/avw.php?zoneid=196&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a78aecb5' border='0' alt='' /></a></noscript>
+</div>
+</div>
+<!-- Custom Ad Code 11-Mar-2013 end-->
+
+<!--BOF CMS Controlled Content-->
+<hr /><hr />    <h3>Latest on Employment</h3>
+<ul class="panelBody linkType unstyled">
+    <li class="linkTypeHover"><h3>Press Release</h3>
+<ul class="unstyled"> 	 	
+	<li class="time">16:18 
+		          <img class='thumb' src='http://www.politicshome.com/images/16x16/breaking_news_sm.png' width='16' height='16' border='0' alt='source icon'/><script>_gaq.push(['_trackEvent', 'PH Content', 'Impression', 'PoliticsHome Source Icon']);</script>			          <img border="0" alt="Recommended link" src="/graphics/new/icons/recommendedIcon.png"/>	  	
+          	</li>
+	<li>			
+          <a href="/uk/article/97829/gmb_protest_at_wiltshire_council_over_balfour_beatty_refusal_to_recognize_gmb_for_300_workers_on_council_contract.html"  >GMB: Protest At Wiltshire Council Over Balfour Beatty Refusal To Recognize GMB For 300 Workers On Council Contract</a>
+           
+          
+	</li>	
+</ul>
+</li>
+    <li class="linkTypeHover"><h3>Twitter</h3>
+<ul class="unstyled"> 	 	
+	<li class="time">10:48 
+		          <img class='thumb' src='http://www.politicshome.com/images/16x16/source_icon_317.jpg' width='16' height='16' border='0' alt='source icon'/><script>_gaq.push(['_trackEvent', 'Twitter', 'Impression', 'Ed Miliband Source Icon']);</script>				</li>
+	<li>			
+          <a href="http://www.politicshome.com/link/641440"  target="_blank"  >A passenger was walking through the train &amp; stopped to ask me what we&#039;re going to do about exploitative zero-hour contracts: we&#039;ll ban them.</a>
+           
+          
+	</li>	
+</ul>
+</li>
+    <li class="linkTypeHover"><h3>News</h3>
+<ul class="unstyled"> 	 	
+	<li class="time">07:00 
+		(&pound;)          <img class='thumb' src='http://www.politicshome.com/images/16x16/source_icon_1557.jpg' width='16' height='16' border='0' alt='source icon'/><script>_gaq.push(['_trackEvent', 'News', 'Impression', 'The Sun Source Icon']);</script>				</li>
+	<li>			
+          <a href="http://www.politicshome.com/link/641360"  target="_blank"  >Women earn 58p for every &pound;1 earned by men</a>
+           
+          
+	</li>	
+</ul>
+</li>
+    <li class="linkTypeHover"><h3>Opinion</h3>
+<ul class="unstyled"> 	 	
+	<li class="time">07:00 
+		          <img class='thumb' src='http://www.politicshome.com/images/16x16/source_icon_59.png' width='16' height='16' border='0' alt='source icon'/><script>_gaq.push(['_trackEvent', 'Opinion', 'Impression', 'The Independent Source Icon']);</script>				</li>
+	<li>			
+          <a href="http://www.politicshome.com/link/641355"  target="_blank"  >Unemployment will scar us for years</a>
+          | David Blanchflower 
+          
+	</li>	
+</ul>
+</li>
+    <li class="linkTypeHover"><h3>Opinion</h3>
+<ul class="unstyled"> 	 	
+	<li class="time">04:59 
+		(&pound;)          <img class='thumb' src='http://www.politicshome.com/images/16x16/source_icon_88.png' width='16' height='16' border='0' alt='source icon'/><script>_gaq.push(['_trackEvent', 'Opinion', 'Impression', 'The Financial Times  Source Icon']);</script>			          <img border="0" alt="Recommended link" src="/graphics/new/icons/recommendedIcon.png"/>	  	
+          	</li>
+	<li>			
+          <a href="http://www.politicshome.com/link/641338"  target="_blank"  >Zero-hours abuses must be stopped</a>
+          | Editorial 
+          
+	</li>	
+</ul>
+</li>
+  </ul>
+<hr />      
+
+<!--EOF CMS Controlled Content-->
+      </div>
+      <!--EOF Promotional Content-->
+  </div>
+</div>
+
+<div id="footer">
+	<div class="container">
+		<div class="row">
+   <ul class="span1 unstyled">
+  <li class="">
+    <h5><a href="/">Home</a></h5>
+        <ul class="span1 unstyled">
+            <li class=""><a href="http://www.epolitix.com">Central Lobby</a></li>
+            <li class=""><a href="http://www.epolitix.com/member-directory">Member Directory</a></li>
+            <li class=""><a href="/housemag.html">The House Magazine</a></li>
+            <li class=""><a href="/uk/waughroom.html">Waugh Room</a></li>
+            <li class=""><a href="/uk/the_political_pulse.html">Political Pulse</a></li>
+            <li class=""><a href="/uk/storytracker.html">Story Tracker</a></li>
+            <li class=""><a href="/uk/calendar.html">Today&#039;s Events</a></li>
+            <li class=""><a href="/uk/the_green_box.html">The Green Box</a></li>
+            <li class=""><a href="/uk/todays_must_reads.html">Today&#039;s Top Ten</a></li>
+            <li class=""><a href="/uk/latest_frontpage.html">Today&#039;s Front Pages</a></li>
+            <li class=""><a href="/uk/newsmaker_directory.html">Newsmakers</a></li>
+            <li class=""><a href="/uk/dot_commons.html">Dot Commons&#039; Diary</a></li>
+          </ul>
+        </li>
+</ul>
+<ul class="span1 unstyled">
+  <li class="">
+    <h5><a href="/uk/category-hub/category-hub.html">Category Hub</a></h5>
+      </li>
+</ul>
+<ul class="span1 unstyled">
+  <li class="">
+    <h5><a href="/uk/category/52/Culture_media_%26_sport.html">Culture &amp; Media</a></h5>
+        <ul class="span1 unstyled">
+            <li class=""><a href="/uk/category/203/Communications.html">Communications</a></li>
+            <li class=""><a href="/uk/category/370/Gambling.html">Gambling</a></li>
+            <li class=""><a href="/uk/category/369/Licensing.html">Licensing</a></li>
+            <li class=""><a href="/uk/category/337/Media_and_phone_hacking.html">Media/Phone hacking</a></li>
+            <li class=""><a href="/uk/category/280/Olympics.html">Olympics</a></li>
+            <li class=""><a href="/uk/category/371/Sport.html">Sport</a></li>
+            <li class=""><a href="/uk/category/282/The_Arts.html">The Arts</a></li>
+          </ul>
+        </li>
+</ul>
+<ul class="span1 unstyled">
+  <li class="">
+    <h5><a href="/uk/category/13/Domestic_Affairs.html">Home Affairs</a></h5>
+        <ul class="span1 unstyled">
+            <li class=""><a href="/uk/category/400/Voluntary_Sector.html">Voluntary Sector</a></li>
+            <li class=""><a href="/uk/category/402/Social_Issues.html">Social Issues</a></li>
+            <li class=""><a href="/uk/category/275/Civil_Liberties_%26_Counter_Terrorism.html">Civil Liberties &amp; Counter Terrorism</a></li>
+            <li class=""><a href="/uk/category/228/Emergency_Services.html">Emergency Services</a></li>
+            <li class=""><a href="/uk/category/347/Equality.html">Equality</a></li>
+            <li class=""><a href="/uk/category/335/Immigration.html">Immigration</a></li>
+            <li class=""><a href="/uk/category/227/Law_Justice_and_Prisons.html">Law, Justice &amp; Prisons</a></li>
+            <li class=""><a href="/uk/category/401/Science_and_Technology.html">Science &amp; Technology</a></li>
+          </ul>
+        </li>
+</ul>
+<ul class="span1 unstyled">
+  <li class="">
+    <h5><a href="/uk/category/183/Economy_%26_Employment.html">Economy &amp; Work</a></h5>
+        <ul class="span1 unstyled">
+            <li class=""><a href="/uk/category/184/British_Business.html">British Business</a></li>
+            <li class=""><a href="/uk/category/375/Construction.html">Construction</a></li>
+            <li class=""><a href="/uk/category/372/Consumers.html">Consumers</a></li>
+            <li class=""><a href="/uk/category/338/Economic_Indicators.html">Indicators</a></li>
+            <li class=""><a href="/uk/category/273/Employment.html">Employment</a></li>
+            <li class=""><a href="/uk/category/194/Financial_Services.html">Financial Services</a></li>
+            <li class=""><a href="/uk/category/377/Food_and_Drink.html">Food &amp; Drink</a></li>
+            <li class=""><a href="/uk/category/378/Insurance.html">Insurance</a></li>
+            <li class=""><a href="/uk/category/376/Manufacturing.html">Manufacturing</a></li>
+            <li class=""><a href="/uk/category/272/Public_Sector_Finances.html">Public Sector Finances</a></li>
+            <li class=""><a href="/uk/category/374/Retail_Sector.html">Retail Sector</a></li>
+            <li class=""><a href="/uk/category/205/Tax.html">Tax</a></li>
+            <li class=""><a href="/uk/category/212/Trade_unions_%26_Industrial_relations.html">Trade unions</a></li>
+            <li class=""><a href="/uk/category/373/Utilities.html">Utilities</a></li>
+            <li class=""><a href="/uk/category/208/Welfare.html">Welfare</a></li>
+          </ul>
+        </li>
+</ul>
+<ul class="span1 unstyled">
+  <li class="">
+    <h5><a href="/uk/category/43/Schools_education_%26_training.html">Education</a></h5>
+        <ul class="span1 unstyled">
+            <li class=""><a href="/uk/category/397/Children.html">Children</a></li>
+            <li class=""><a href="/uk/category/250/Further_and_Higher_Education.html">Further &amp; Higher Education</a></li>
+            <li class=""><a href="/uk/category/247/Schools.html">Schools</a></li>
+            <li class=""><a href="/uk/category/398/Skills_and_Training.html">Skills &amp; Training</a></li>
+          </ul>
+        </li>
+</ul>
+<ul class="span1 unstyled">
+  <li class="">
+    <h5><a href="/uk/category/45/Environment_energy_%26_climate_change.html">Energy &amp; Environment</a></h5>
+        <ul class="span1 unstyled">
+            <li class=""><a href="/uk/category/384/Agriculture.html">Agriculture</a></li>
+            <li class=""><a href="/uk/category/385/Animals.html">Animals</a></li>
+            <li class=""><a href="/uk/category/175/Energy_Policy.html">Energy Policy</a></li>
+            <li class=""><a href="/uk/category/177/Energy_Sources.html">Energy Sources</a></li>
+            <li class=""><a href="/uk/category/170/Environment.html">Environment</a></li>
+          </ul>
+        </li>
+</ul>
+<ul class="span1 unstyled">
+  <li class="">
+    <h5><a href="/uk/category/47/Foreign_affairs_%26_defence.html">Foreign &amp; Defence</a></h5>
+        <ul class="span1 unstyled">
+            <li class=""><a href="/uk/category/238/Iraq.html">Iraq</a></li>
+            <li class=""><a href="/uk/category/165/Middle_East.html">Middle East</a></li>
+            <li class=""><a href="/uk/category/403/The_Americas.html">The Americas</a></li>
+            <li class=""><a href="/uk/category/164/US_News.html">US News</a></li>
+            <li class=""><a href="/uk/category/336/Iran.html">Iran</a></li>
+            <li class=""><a href="/uk/category/361/International_news.html">International news</a></li>
+            <li class=""><a href="/uk/category/237/Afghanistan.html">Afghanistan</a></li>
+            <li class=""><a href="/uk/category/386/Africa.html">Africa</a></li>
+            <li class=""><a href="/uk/category/387/Asia.html">Asia</a></li>
+            <li class=""><a href="/uk/category/240/Defence.html">Defence</a></li>
+            <li class=""><a href="/uk/category/163/Europe_%26_EU.html">Europe &amp; EU</a></li>
+            <li class=""><a href="/uk/category/166/International_development.html">International development</a></li>
+          </ul>
+        </li>
+</ul>
+<ul class="span1 unstyled">
+  <li class="">
+    <h5><a href="/uk/category/44/Health_and_Social_Services.html">Health &amp; Care</a></h5>
+        <ul class="span1 unstyled">
+            <li class=""><a href="/uk/category/388/Disability.html">Disability</a></li>
+            <li class=""><a href="/uk/category/389/Health_Professionals.html">Health Professionals</a></li>
+            <li class=""><a href="/uk/category/244/NHS.html">NHS</a></li>
+            <li class=""><a href="/uk/category/390/Pharmaceuticals.html">Pharmaceuticals</a></li>
+            <li class=""><a href="/uk/category/246/Public_Health.html">Public Health</a></li>
+            <li class=""><a href="/uk/category/215/Social_Care.html">Social Care</a></li>
+          </ul>
+        </li>
+</ul>
+<ul class="span1 unstyled">
+  <li class="">
+    <h5><a href="/uk/category/260/Local_and_Regional.html">Local &amp; Regional</a></h5>
+        <ul class="span1 unstyled">
+            <li class=""><a href="/uk/category/48/Northern_Ireland.html">Northern Ireland</a></li>
+            <li class=""><a href="/uk/category/392/Planning.html">Planning</a></li>
+            <li class=""><a href="/uk/category/51/Scotland.html">Scotland</a></li>
+            <li class=""><a href="/uk/category/50/Wales.html">Wales</a></li>
+            <li class=""><a href="/uk/category/57/London.html">London</a></li>
+            <li class=""><a href="/uk/category/391/Communities.html">Communities</a></li>
+            <li class=""><a href="/uk/category/326/Housing.html">Housing</a></li>
+            <li class=""><a href="/uk/category/262/Local_Government.html">Local Government</a></li>
+          </ul>
+        </li>
+</ul>
+		</div>
+		<div class="row">	
+   <ul class="span1 unstyled">
+  <li class="">
+    <h5><a href="/uk/category/353/Party_Politics_%26_Reform.html">Party Politics</a></h5>
+        <ul class="span1 unstyled">
+            <li class=""><a href="/uk/category/393/Public_Administration.html">Public Administration</a></li>
+            <li class=""><a href="/uk/category/395/SNP.html">SNP</a></li>
+            <li class=""><a href="/uk/category/356/UK_Independence_Party.html">UKIP</a></li>
+            <li class=""><a href="/uk/category/394/Political_System.html">Political System</a></li>
+            <li class=""><a href="/uk/category/54/Political_%26_Constitutional_reform.html">Political &amp; Constitutional reform</a></li>
+            <li class=""><a href="/uk/category/354/BNP.html">BNP</a></li>
+            <li class=""><a href="/uk/category/342/Conservative_Party.html">Conservative Party</a></li>
+            <li class=""><a href="/uk/category/396/Gossip_and_Rumour.html">Gossip &amp; Rumour</a></li>
+            <li class=""><a href="/uk/category/355/Green_Party.html">Green Party</a></li>
+            <li class=""><a href="/uk/category/341/Labour_Party.html">Labour Party</a></li>
+            <li class=""><a href="/uk/category/343/Liberal_Democrats.html">Liberal Democrats</a></li>
+            <li class=""><a href="/uk/category/345/Opinion_Polls.html">Opinion Polls</a></li>
+            <li class=""><a href="/uk/category/256/Parliament.html">Parliament</a></li>
+            <li class=""><a href="/uk/category/399/Plaid_Cymru.html">Plaid Cymru</a></li>
+          </ul>
+        </li>
+</ul>
+<ul class="span1 unstyled">
+  <li class="">
+    <h5><a href="/uk/category/34/Transport.html">Transport</a></h5>
+        <ul class="span1 unstyled">
+            <li class=""><a href="/uk/category/379/Air_Transport.html">Air Transport</a></li>
+            <li class=""><a href="/uk/category/380/Buses.html">Buses</a></li>
+            <li class=""><a href="/uk/category/381/Rail_Transport.html">Rail Transport</a></li>
+            <li class=""><a href="/uk/category/382/Road_Transport.html">Road Transport</a></li>
+            <li class=""><a href="/uk/category/383/Transport_Policy.html">Transport Policy</a></li>
+          </ul>
+        </li>
+</ul>
+<ul class="span1 unstyled">
+  <li class="">
+    <h5><a href="/uk/politicshome_pro.html">PH PRO</a></h5>
+        <ul class="span1 unstyled">
+            <li class=""><a href="/uk/house_of_commons.html">House of Commons</a></li>
+            <li class=""><a href="/uk/lobby_briefings.html">Lobby Briefings</a></li>
+            <li class=""><a href="/uk/pressreleases.html">Press Releases</a></li>
+            <li class=""><a href="/uk/transcripts.html">Transcripts</a></li>
+            <li class=""><a href="/uk/on_air.html">On Air Today</a></li>
+            <li class=""><a href="/uk/account_settings_filters.html">My Settings</a></li>
+            <li class=""><a href="/pro">PH Pro</a></li>
+            <li class=""><a href="/uk/my_dashboard.html">My Dashboard</a></li>
+            <li class=""><a href="/uk/calendar.html">My Calendar</a></li>
+          </ul>
+        </li>
+</ul>
+<ul class="span1 unstyled">
+  <li class="">
+    <h5><a href="/uk/ph_on_the_go.html">On The GO</a></h5>
+        <ul class="span1 unstyled">
+            <li class=""><a href="/uk/account_settings_email.html">Edit my emails</a></li>
+          </ul>
+        </li>
+</ul>
+<ul class="span1 unstyled">
+  <li class="">
+    <h5><a href="/uk/about_us.html">About Us</a></h5>
+        <ul class="span1 unstyled">
+            <li class=""><a href="/uk/our_clients.html">Our Clients</a></li>
+            <li class=""><a href="/uk/opinion_research.html">Opinion Research</a></li>
+            <li class=""><a href="/uk/advertise_with_us.html">Advertising</a></li>
+            <li class=""><a href="/uk/who_we_are.html">Who We Are</a></li>
+            <li class=""><a href="/uk/sign_up_pro.html">Sign Up today!</a></li>
+          </ul>
+        </li>
+</ul>
+<ul class="span1 unstyled">
+  <li class="">
+    <h5><a href="/uk/contact.html">Contact Us/Help</a></h5>
+        <ul class="span1 unstyled">
+            <li class=""><a href="/uk/contact.html">Contact Us</a></li>
+            <li class=""><a href="/uk/help_faqs.html">Help/FAQs</a></li>
+          </ul>
+  
+195c
+      </li>
+</ul>
+		    <ul class="span1 unstyled">
+		      <li class="">
+			<h5><a href="#">Utility</a></h5>
+			<ul class="span1 unstyled">
+			  <li class=""><a href="login.html">Log In</a></li>
+			  <li class=""><a href="sign_up_pro.html">Sign Up</a></li>
+			  <li class=""><a href="rssfeeds.html">RSS</a></li>
+			  <li class=""><a href="m.front_page.html">Mobile</a></li>
+			 
+			</ul>
+		      </li>
+		    </ul>
+			
+			<ul class="span1 unstyled">
+		      <li class="">
+			<h5><a href="#">Archives</a></h5>
+			<ul class="span1 unstyled">
+				<li class=""><a href="http://centrallobby.politicshome.com/member-archive">Central Lobby Members Archive</a></li>
+				<li class=""><a href="http://centrallobby.politicshome.com/mp-archive">MP Articles Archive</a></li>
+				<li class=""><a href="http://centrallobby.politicshome.com/peer-archive">Peer Articles Archive</a></li>
+			</ul>
+		      </li>
+		    </ul>
+			
+			
+		    <ul class="span1 unstyled copyright">
+		      <li class="">
+			<h5>&copy; 2014 PoliticsHome</h5>
+			<ul class="span1 unstyled">
+			  <li class=""><a href="http://twitter.com/politicshomeuk" target="_blank">Twitter</a></li>
+			  <li class=""><a href="newsmaker_directory.html target="_blank"">MP Directory</a></li>
+			  <li class=""><a href="privacy_policy.html" target="_blank">Privacy Policy</a></li>
+			  <li class=""><a href="terms.html" target="_blank">Terms &amp; Conditions</a></li>
+              <li class=""><a href="http://centrallobby.politicshome.com/pages/terms-conditions" target="_blank">Central Lobby Terms &amp; Conditions</a></li>
+			</ul>
+		      </li>
+		    </ul>
+		</div>
+	</div>
+</div>
+		
+		<script src="/assets/js/vendor/bootstrap.min.js"></script>
+		<script src="/assets/js/vendor/selectivizr-min.js"></script>
+        <script src="/assets/js/main.js"></script>
+        
+		<script>
+            var _gaq=[['_setAccount','UA-4050390-1'],['_trackPageview']];
+            (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+            g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+            s.parentNode.insertBefore(g,s)}(document,'script'));
+        </script>
+        
+		<script type="text/javascript">
+var PH_UPDATE_INTERVAL_MS=120000;
+//    var PH_UPDATE_INTERVAL_MS=1000;
+var g_LastUpdateCheck=1399913898;
+function checkForUpdates(){
+    var update_url="/uk/ajax_check_for_updates.html?lastupdatecheck="+g_LastUpdateCheck;
+              if (window.getArticleTypeUpdateCheckParameters){
+            update_url+=getArticleTypeUpdateCheckParameters();
+        }
+    resetUpdatingSectionCount();
+    // check if there are updates, and reload those sections if there are
+    new HttpRequest().start(update_url, 
+                            function(responseText){
+                                var result = eval('('+ responseText +')');
+                                g_LastUpdateCheck=result.lastupdatecheck;
+                                                                if(result.names){
+                                    for(var i=0;i<result.names.length;i++){
+                                        var name=result.names[i];
+                                        switch(name){
+                                        case "livewire":
+                                            updateLiveWire();
+                                            break;
+                                        case "newsticker":
+                                            if(window.updateNewsTicker)
+                                                updateNewsTicker();
+                                            break;
+                                        case "greenbox":
+                                            if(window.updateGreenBox)
+                                                updateGreenBox();
+                                            break;
+                                        case "videos":
+                                            if(window.updateVideos)
+                                                updateVideos();
+                                            break;
+                                        case "announcements":
+                                            if(window.updateAnnouncements)
+                                                updateAnnouncements();
+                                            break;
+                                        case "inbox":
+                                            if(window.reloadInbox)
+                                                reloadInbox();
+                                            break;
+                                        case "filters":
+                                            if(window.reloadFilters)
+                                                reloadFilters();
+                                            break;
+                                        case "election_night":
+                                            if(window.reloadElectionNight)
+                                                reloadElectionNight();
+                                            break;
+                                        case "articletypes":
+                                            if(window.reloadArticleTypes)
+                                                reloadArticleTypes();
+                                            break;
+                                        }
+                                    }
+                                }
+                                                              updatingSectionFinished();
+                            }
+                           );
+    
+}
+// This variable is used to show how many section updates are in progress
+// We don't want to trigger the next update until all the sections have updated,
+// otherwise we might get a race condition where are a section is part-way through reloading 
+// when another update is triggered.
+
+var g_UpdatingSectionCount=0;
+function resetUpdatingSectionCount(){
+    g_UpdatingSectionCount=1;
+}
+function updatingSectionStarted(){
+    g_UpdatingSectionCount++;
+}
+function updatingSectionFinished(){
+    if (g_UpdatingSectionCount>0) g_UpdatingSectionCount--;
+    // if all sections have finished updating - schedule the next update tick
+    if (g_UpdatingSectionCount==0)
+        setTimeout ( "checkForUpdates()", PH_UPDATE_INTERVAL_MS );
+}
+setTimeout ( "checkForUpdates()", PH_UPDATE_INTERVAL_MS );
+</script>
+    
+    </body>
+</html>
+
+0
+
+
+
