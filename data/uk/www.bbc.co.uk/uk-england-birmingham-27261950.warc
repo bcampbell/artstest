@@ -1,0 +1,3357 @@
+WARC/1.0
+Content-Length: 171035
+Content-Type: application/http; msgtype=response
+Warc-Date: 2014-05-02T17:11:23Z
+Warc-Record-Id: urn:X-scrapeomat:1399050684045977334
+Warc-Target-Uri: http://www.bbc.co.uk/news/uk-england-birmingham-27261950
+Warc-Type: response
+X-Scrapeomat-Srcurl: http://www.bbc.co.uk/news/uk-england-birmingham-27261950
+
+HTTP/1.1 200 OK
+Content-Length: 170702
+Cache-Control: private, max-age=0, must-revalidate
+Connection: keep-alive
+Content-Language: en-GB
+Content-Type: text/html
+Date: Fri, 02 May 2014 17:11:24 GMT
+Expires: Fri, 02 May 2014 17:11:23 GMT
+Server: Apache
+Vary: X-CDN
+X-Cache-Action: MISS
+X-Cache-Age: 0
+X-Lb-Nocache: true
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"  xml:lang="en-GB" >
+        
+    
+    
+    
+	
+    
+    
+    
+    
+    
+    
+    
+	
+    
+	
+    
+	
+	
+	
+	
+    
+	
+
+        
+    
+<!-- THIS FILE CONFIGURES SHARED HIGHWEB STATIC ASSETS -->
+
+
+
+
+
+<!-- mapping_news.inc -->
+<!-- THIS FILE CONFIGURES NEWS STATIC ASSETS  -->
+
+
+
+
+<!-- THIS FILE CONFIGURES VOTE 2012 STATIC ASSETS  -->
+
+
+
+
+
+    <!-- hi/shared/head_initial.inc -->
+
+
+	<!-- IGOR News -->
+		
+		
+		
+		
+
+
+
+
+
+
+	
+
+
+	        <head profile="http://dublincore.org/documents/dcq-html/" resource="http://www.bbc.co.uk/news/uk-england-birmingham-27261950" typeof="rnews:NewsItem">
+        <meta http-equiv="X-UA-Compatible" content="IE=8" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>BBC News - Aston Court Nursing Home staff charged with manslaughter</title>
+        <meta name="Description" content="Two care workers appear in court charged with manslaughter after the death of a 91-year-old woman."/>
+        <meta property="rnews:description" content="Two care workers appear in court charged with manslaughter after the death of a 91-year-old woman."/>
+                <meta name="OriginalPublicationDate" content="2014/05/02 16:21:18"/>
+        <meta property="rnews:datePublished" content="2014/05/02 16:21:18"/>
+        <meta name="UKFS_URL" content="/news/uk-england-birmingham-27261950"/>
+                <meta name="THUMBNAIL_URL" content="http://news.bbcimg.co.uk/media/images/74614000/jpg/_74614702_iris.jpg"/>
+        <meta property="rnews:thumbnailUrl" content="http://news.bbcimg.co.uk/media/images/74614000/jpg/_74614702_iris.jpg"/>
+                <meta name="Headline" content="Care staff charged with manslaughter"/>
+        <meta property="rnews:headline" content="Care staff charged with manslaughter"/>
+        <meta name="IFS_URL" content="/news/uk-england-birmingham-27261950"/>
+        <meta name="Section" content="Birmingham &amp; Black Country"/>
+        <meta name="contentFlavor" content="STORY"/>
+		                        <meta name="CPS_ID" content="27261950" />
+        <meta name="CPS_SITE_NAME" content="BBC News" />
+        <meta name="CPS_SECTION_PATH" content="England/Birmingham and Black Country" />
+        <meta name="CPS_ASSET_TYPE" content="STY" />
+        <meta name="CPS_PLATFORM" content="HighWeb" />
+        <meta name="CPS_AUDIENCE" content="Domestic" />
+        <meta property="rnews:creator" content="http://www.bbc.co.uk#org"/>
+
+            		<meta property="og:title" content="Care staff charged with manslaughter"/>
+    		<meta property="og:type" content="article"/>
+    		<meta property="og:url" content="http://www.bbc.co.uk/news/uk-england-birmingham-27261950"/>
+    		<meta property="og:site_name" content="BBC News"/>
+            			<meta property="og:image" content="http://newsimg.bbc.co.uk/media/images/67373000/jpg/_67373987_09f1654a-e583-4b5f-bfc4-f05850c6d3ce.jpg"/>
+											
+				<meta name="bbcsearch_noindex" content="atom"/>
+		
+        
+            <link rel="canonical" href="http://www.bbc.co.uk/news/uk-england-birmingham-27261950" />
+<link rel="alternate" hreflang="en" href="http://www.bbc.com/news/uk-england-birmingham-27261950" />
+<link rel="alternate" hreflang="en-gb" href="http://www.bbc.co.uk/news/uk-england-birmingham-27261950" />
+        
+
+        
+        
+
+        <!-- hi/news/head_first.inc -->
+
+<!-- Chartbeat Web Analytics code - start -->
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+<!-- Chartbeat Web Analytics code - end -->
+
+<meta name="application-name" content="BBC News" />
+<meta name="msapplication-TileImage" content="/img/1_0_3/cream/hi/news/bbc-news-pin.png" />
+<meta name="msapplication-TileColor" content="#CC0101" />
+
+
+<meta name="twitter:card" value="summary" />
+
+        <!-- Project IGOR - Barlesque redirection logic - START -->
+
+
+    <script>
+        /*<![CDATA[*/
+        window.bbcredirection = {
+            
+                device: true,
+                geo: true
+            
+        }
+        /*]]>*/
+    </script>
+
+<!-- Project IGOR - Barlesque redirection logic - END -->
+
+
+<!-- PULSE_ENABLED:yes -->
+
+<!-- vars inc blq_cachebust_journalism 1.21.19 -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+		
+	
+
+
+
+
+
+
+
+
+	
+		
+			
+			
+						
+			
+		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		
+	
+		
+
+
+
+
+
+
+	
+		
+
+    
+   <meta http-equiv="X-UA-Compatible" content="IE=8" />  
+  <link rel="schema.dcterms" href="http://purl.org/dc/terms/" />  <link rel="index" href="http://www.bbc.co.uk/a-z/" title="A to Z" /> <link rel="copyright" href="http://www.bbc.co.uk/terms/" title="Terms of Use" /> <link rel="icon" href="http://www.bbc.co.uk/favicon.ico" type="image/x-icon" />  <meta name="viewport" content="width = 996" /> 
+
+<script type="text/javascript">/*<![CDATA[*/
+window.orb = window.orb || {};
+(function() {
+    'use strict';
+    window.fig = window.fig || {};
+    window.fig.manager = {
+                include: function(w) {
+            w = w || window;
+            var d = w.document,
+                c = d.cookie,
+                f = c.match(/ckns_orb_fig=([^;]+)/);
+
+            if ( !f && c.indexOf('ckns_orb_nofig=1') > -1 ) {
+                this.setFig(w, {no:1});
+            }
+            else {
+                if (f) {
+                    eval('f = ' + decodeURIComponent(RegExp.$1) + ';')
+                    this.setFig(w, f);                  
+                }
+                d.write('<script src="https://ssl.live.bbc.co.uk/frameworks/fig/1/fig.js"><'+'/script>');
+            }         
+  
+        },
+                confirm: function(w) {
+            w = w || window;
+            if (w.orb && w.orb.fig && w.orb.fig('no')) {
+               this.setFigCookie(w);
+            }
+            
+            if (w.orb === undefined || w.orb.fig === undefined) {
+                this.setFig(w, {no:1});
+                this.setFigCookie(w);
+            }
+        },
+                setFigCookie: function(w) {
+            w.document.cookie = 'ckns_orb_nofig=1; expires=' + new Date(new Date().getTime() + 1000 * 60 * 10).toGMTString() + ';';
+        },
+                setFig: function(w, f){
+            (function(){var o=f;w.orb=w.orb||{};w.orb.fig=function(k){return (arguments.length)? o[k]:o};})();
+        }
+    }
+})();
+fig.manager.include();
+/*]]>*/</script>
+<script type="text/javascript"> fig.manager.confirm(); </script>
+
+ <link rel="stylesheet" type="text/css" href="http://static.bbci.co.uk/frameworks/barlesque/2.60.6/desktop/3.5/style/main.css"  />  <script type="text/javascript">/*<![CDATA[*/ (function(undefined){if(!window.bbc){window.bbc={}}var ROLLING_PERIOD_DAYS=30;window.bbc.Mandolin=function(id,segments,opts){var now=new Date().getTime(),storedItem,DEFAULT_START=now,DEFAULT_RATE=1,COOKIE_NAME="ckpf_mandolin";opts=opts||{};this._id=id;this._segmentSet=segments;this._store=new window.window.bbc.Mandolin.Storage(COOKIE_NAME);this._opts=opts;this._rate=(opts.rate!==undefined)?+opts.rate:DEFAULT_RATE;this._startTs=(opts.start!==undefined)?new Date(opts.start).getTime():new Date(DEFAULT_START).getTime();this._endTs=(opts.end!==undefined)?new Date(opts.end).getTime():daysFromNow(ROLLING_PERIOD_DAYS);this._signupEndTs=(opts.signupEnd!==undefined)?new Date(opts.signupEnd).getTime():this._endTs;this._segment=null;if(typeof id!=="string"){throw new Error("Invalid Argument: id must be defined and be a string")}if(Object.prototype.toString.call(segments)!=="[object Array]"){throw new Error("Invalid Argument: Segments are required.")}if(opts.rate!==undefined&&(opts.rate<0||opts.rate>1)){throw new Error("Invalid Argument: Rate must be between 0 and 1.")}if(this._startTs>this._endTs){throw new Error("Invalid Argument: end date must occur after start date.")}if(!(this._startTs<this._signupEndTs&&this._signupEndTs<=this._endTs)){throw new Error("Invalid Argument: SignupEnd must be between start and end date")}removeExpired.call(this,now);if((storedItem=this._store.getItem(this._id))){this._segment=storedItem.segment}else{if(this._startTs<=now&&now<this._signupEndTs&&now<=this._endTs&&this._store.isEnabled()===true){this._segment=pick(segments,this._rate);if(opts.end===undefined){this._store.setItem(this._id,{segment:this._segment})}else{this._store.setItem(this._id,{segment:this._segment,end:this._endTs})}log.call(this,"mandolin_segment")}}log.call(this,"mandolin_view")};window.bbc.Mandolin.prototype.getSegment=function(){return this._segment};function log(actionType,params){var that=this;require(["istats-1"],function(istats){istats.log(actionType,that._id+":"+that._segment,params?params:{})})}function removeExpired(expires){var items=this._store.getItems(),expiresInt=+expires;for(var key in items){if(items[key].end!==undefined&&+items[key].end<expiresInt){this._store.removeItem(key)}}}function getLastExpirationDate(data){var winner=0,rollingExpire=daysFromNow(ROLLING_PERIOD_DAYS);for(var key in data){if(data[key].end===undefined&&rollingExpire>winner){winner=rollingExpire}else{if(+data[key].end>winner){winner=+data[key].end}}}return(winner)?new Date(winner):new Date(rollingExpire)}window.bbc.Mandolin.prototype.log=function(params){log.call(this,"mandolin_log",params)};window.bbc.Mandolin.prototype.convert=function(params){log.call(this,"mandolin_convert",params);this.convert=function(){}};function daysFromNow(n){var endDate;endDate=new Date().getTime()+(n*60*60*24)*1000;return endDate}function pick(segments,rate){var picked,min=0,max=segments.length-1;if(typeof rate==="number"&&Math.random()>rate){return null}do{picked=Math.floor(Math.random()*(max-min+1))+min}while(picked>max);return segments[picked]}window.bbc.Mandolin.Storage=function(name){this._cookieName=name;this._isEnabled=(bbccookies.isAllowed(this._cookieName)===true&&bbccookies.cookiesEnabled()===true)};window.bbc.Mandolin.Storage.prototype.setItem=function(key,value){var storeData=this.getItems();storeData[key]=value;this.save(storeData);return value};window.bbc.Mandolin.Storage.prototype.isEnabled=function(){return this._isEnabled};window.bbc.Mandolin.Storage.prototype.getItem=function(key){var storeData=this.getItems();return storeData[key]};window.bbc.Mandolin.Storage.prototype.removeItem=function(key){var storeData=this.getItems();delete storeData[key];this.save(storeData)};window.bbc.Mandolin.Storage.prototype.getItems=function(){return deserialise(this.readCookie(this._cookieName)||"")};window.bbc.Mandolin.Storage.prototype.save=function(data){window.bbccookies.set(this._cookieName+"="+encodeURIComponent(serialise(data))+"; expires="+getLastExpirationDate(data).toUTCString()+";")};window.bbc.Mandolin.Storage.prototype.readCookie=function(name){var nameEQ=name+"=",ca=window.bbccookies.get().split(";"),i,c;for(i=0;i<ca.length;i++){c=ca[i];while(c.charAt(0)===" "){c=c.substring(1,c.length)}if(c.indexOf(nameEQ)===0){return decodeURIComponent(c.substring(nameEQ.length,c.length))}}return null};function serialise(o){var str="";for(var p in o){if(o.hasOwnProperty(p)){str+='"'+p+'"'+":"+(typeof o[p]==="object"?(o[p]===null?"null":"{"+serialise(o[p])+"}"):'"'+o[p].toString().replace(/"/g,'\\"')+'"')+","}}return str.replace(/,\}/g,"}").replace(/,$/g,"")}function deserialise(str){var o;eval("o = {"+str+"}");return o}})(); /*]]>*/</script>  <script type="text/javascript">/*<![CDATA[*/ if (typeof bbccookies_flag === 'undefined') { bbccookies_flag = 'ON'; } showCTA_flag = true; cta_enabled = (showCTA_flag && (bbccookies_flag === 'ON') ); (function(){var e="ckns_policy",m="Thu, 01 Jan 1970 00:00:00 GMT",k={ads:true,personalisation:true,performance:true,necessary:true};function f(p){if(f.cache[p]){return f.cache[p]}var o=p.split("/"),q=[""];do{q.unshift((o.join("/")||"/"));o.pop()}while(q[0]!=="/");f.cache[p]=q;return q}f.cache={};function a(p){if(a.cache[p]){return a.cache[p]}var q=p.split("."),o=[];while(q.length&&"|co.uk|com|".indexOf("|"+q.join(".")+"|")===-1){if(q.length){o.push(q.join("."))}q.shift()}f.cache[p]=o;return o}a.cache={};function i(o,t,p){var z=[""].concat(a(window.location.hostname)),w=f(window.location.pathname),y="",r,x;for(var s=0,v=z.length;s<v;s++){r=z[s];for(var q=0,u=w.length;q<u;q++){x=w[q];y=o+"="+t+";"+(r?"domain="+r+";":"")+(x?"path="+x+";":"")+(p?"expires="+p+";":"");bbccookies.set(y,true)}}}window.bbccookies={_setEverywhere:i,cookiesEnabled:function(){var o="ckns_testcookie"+Math.floor(Math.random()*100000);this.set(o+"=1");if(this.get().indexOf(o)>-1){g(o);return true}return false},set:function(o){return document.cookie=o},get:function(){return document.cookie},_setPolicy:function(o){return h.apply(this,arguments)},readPolicy:function(o){return b.apply(this,arguments)},_deletePolicy:function(){i(e,"",m)},isAllowed:function(){return true},_isConfirmed:function(){return c()!==null},_acceptsAll:function(){var o=b();return o&&!(j(o).indexOf("0")>-1)},_getCookieName:function(){return d.apply(this,arguments)},_showPrompt:function(){var o=(!this._isConfirmed()&&window.cta_enabled&&this.cookiesEnabled()&&!window.bbccookies_disable);return(window.orb&&window.orb.fig)?o&&(window.orb.fig("no")||window.orb.fig("ck")):o}};bbccookies._getPolicy=bbccookies.readPolicy;function d(p){var o=(""+p).match(/^([^=]+)(?==)/);return(o&&o.length?o[0]:"")}function j(o){return""+(o.ads?1:0)+(o.personalisation?1:0)+(o.performance?1:0)}function h(r){if(typeof r==="undefined"){r=k}if(typeof arguments[0]==="string"){var o=arguments[0],q=arguments[1];if(o==="necessary"){q=true}r=b();r[o]=q}else{if(typeof arguments[0]==="object"){r.necessary=true}}var p=new Date();p.setYear(p.getFullYear()+1);p=p.toUTCString();bbccookies.set(e+"="+j(r)+";domain=bbc.co.uk;path=/;expires="+p+";");bbccookies.set(e+"="+j(r)+";domain=bbc.com;path=/;expires="+p+";");return r}function l(o){if(o===null){return null}var p=o.split("");return{ads:!!+p[0],personalisation:!!+p[1],performance:!!+p[2],necessary:true}}function c(){var o=new RegExp("(?:^|; ?)"+e+"=(\\d\\d\\d)($|;)"),p=document.cookie.match(o);if(!p){return null}return p[1]}function b(o){var p=l(c());if(!p){p=k}if(o){return p[o]}else{return p}}function g(o){return document.cookie=o+"=;expires="+m+";"}function n(){var o='<script type="text/javascript" src="http://static.bbci.co.uk/frameworks/bbccookies/0.6.3/script/bbccookies.js"><\/script>';if(window.bbccookies_flag==="ON"&&!bbccookies._acceptsAll()&&!window.bbccookies_disable){document.write(o)}}n()})(); /*]]>*/</script>      <script type="text/javascript"> if (! window.gloader) { window.gloader = [ "glow", {map: "http://node1.bbcimg.co.uk/glow/glow/map.1.7.7.js"}]; } </script>  <script type="text/javascript" src="http://node1.bbcimg.co.uk/glow/gloader.0.1.6.js"></script>   <script type="text/javascript" src="http://static.bbci.co.uk/frameworks/requirejs/0.13.1/sharedmodules/require.js"></script> <script type="text/javascript">  bbcRequireMap = {"jquery-1":"http://static.bbci.co.uk/frameworks/jquery/0.3.0/sharedmodules/jquery-1.7.2", "jquery-1.4":"http://static.bbci.co.uk/frameworks/jquery/0.3.0/sharedmodules/jquery-1.4", "jquery-1.9":"http://static.bbci.co.uk/frameworks/jquery/0.3.0/sharedmodules/jquery-1.9.1", "swfobject-2":"http://static.bbci.co.uk/frameworks/swfobject/0.1.10/sharedmodules/swfobject-2", "demi-1":"http://static.bbci.co.uk/frameworks/demi/0.10.0/sharedmodules/demi-1", "gelui-1":"http://static.bbci.co.uk/frameworks/gelui/0.9.13/sharedmodules/gelui-1", "cssp!gelui-1/overlay":"http://static.bbci.co.uk/frameworks/gelui/0.9.13/sharedmodules/gelui-1/overlay.css", "istats-1":"http://static.bbci.co.uk/frameworks/istats/0.17.3/modules/istats-1", "relay-1":"http://static.bbci.co.uk/frameworks/relay/0.2.4/sharedmodules/relay-1", "clock-1":"http://static.bbci.co.uk/frameworks/clock/0.1.9/sharedmodules/clock-1", "canvas-clock-1":"http://static.bbci.co.uk/frameworks/clock/0.1.9/sharedmodules/canvas-clock-1", "cssp!clock-1":"http://static.bbci.co.uk/frameworks/clock/0.1.9/sharedmodules/clock-1.css", "jssignals-1":"http://static.bbci.co.uk/frameworks/jssignals/0.3.6/modules/jssignals-1", "jcarousel-1":"http://static.bbci.co.uk/frameworks/jcarousel/0.1.10/modules/jcarousel-1"}; require({ baseUrl: 'http://static.bbci.co.uk/', paths: bbcRequireMap, waitSeconds: 30 }); </script>      <script type="text/javascript" src="http://static.bbci.co.uk/frameworks/barlesque/2.60.6/desktop/3.5/script/barlesque.js"></script>
+  
+<!--[if IE 6]>
+        <script type="text/javascript">
+        try {
+            document.execCommand("BackgroundImageCache",false,true);
+        } catch(e) {}
+    </script>
+        <style type="text/css">
+        /* Use filters for IE6 */
+        #blq-blocks a {
+            background-image: none;
+            filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://static.bbci.co.uk/frameworks/barlesque/2.60.6/desktop/3.5//img/blq-blocks_white_alpha.png', sizingMethod='image');
+        }
+        .blq-masthead-focus #blq-blocks a,
+        .blq-mast-text-dark #blq-blocks a {
+            background-image: none;
+            filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://static.bbci.co.uk/frameworks/barlesque/2.60.6/desktop/3.5//img/blq-blocks_grey_alpha.png', sizingMethod='image');
+        }
+        #blq-nav-search button span {
+            background-image: none;
+            filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://static.bbci.co.uk/frameworks/barlesque/2.60.6/desktop/3.5//img/blq-search_grey_alpha.png', sizingMethod='image');
+        }
+        #blq-nav-search button img {
+            position: absolute;
+            left: -999em;    
+        }
+    </style>
+<![endif]-->
+
+<!--[if (IE 7])|(IE 8)>
+    <style type="text/css">
+        .blq-clearfix {
+            display: inline-block;
+        }
+    </style>
+<![endif]-->
+
+<script type="text/javascript">
+     blq.setEnvironment('live');  if (blq.setLabel) blq.setLabel('searchSuggestion', "Search");  if (! /bbc\.co\.uk$/i.test(window.location.hostname) ) { document.documentElement.className += ' blq-not-bbc-co-uk'; } </script>
+
+  <script type="text/javascript"> /*<![CDATA[*/ function oqsSurveyManager(w, flag) {  var defaultThreshold = 0.7, usePulseThreshold = (flag === 'OFF')? 1 : defaultThreshold, activeThreshold; w.oqs = w.oqs || {}; if ( w.document.cookie.match(/(?:^|; *)ckns_oqs_usePulseThreshold=([\d.]+)/) ) { activeThreshold = RegExp.$1; } else if (typeof w.oqs_usePulseThreshold !== 'undefined') { activeThreshold = w.oqs_usePulseThreshold; } else { activeThreshold = usePulseThreshold; } w.oqs.usePulse = (w.Math.random() < activeThreshold); if (!w.oqs.usePulse) {  w.document.write('<script type="text/javascript" src="http://static.bbci.co.uk/frameworks/barlesque/2.60.6/desktop/3.5/script/vendor/edr.js"><'+'/script>'); } } oqsSurveyManager(window, 'ON'); /*]]>*/ </script> 
+ <script type="text/javascript"> /* <![CDATA[ */ define('id-statusbar-config', { 'translation_signedout': "Sign in", 'translation_signedin': "Your account", 'use_overlay' : false, 'signin_url' : "https://ssl.bbc.co.uk/id/signin?ptrt=http://www.bbc.co.uk/news/uk-england-birmingham-27261950", 'locale' : "en-GB", 'policyname' : "", 'ptrt' : "http://www.bbc.co.uk/news/uk-england-birmingham-27261950" }); /* ]]> */ </script>  <script type="text/javascript"> (function () { if (! window.require) { throw new Error('idcta: could not find require'); } var map = {}; map['idapp-1'] = 'http://static.bbci.co.uk/idapp/0.63.5/modules/idapp/idapp-1'; map['idcta/idcta-1'] = 'http://static.bbci.co.uk/id/0.23.4/modules/idcta/idcta-1'; require({paths: map}); define('id-config', {"idapp":{"version":"0.63.5","hostname":"ssl.bbc.co.uk","insecurehostname":"www.bbc.co.uk","tld":"bbc.co.uk"},"idtranslations":{"version":"0.27.6"},"identity":{"baseUrl":"https:\/\/talkback.live.bbc.co.uk\/identity"},"pathway":{"name":null,"staticAssetUrl":"http:\/\/static.bbci.co.uk\/idapp\/0.63.5\/modules\/idapp\/idapp-1\/View.css"}}); })(); </script>                          
+	
+
+
+
+
+		<!-- shared/head -->
+<meta http-equiv="imagetoolbar" content="no" />
+<!--[if !(lt IE 6)]>
+   	<link rel="stylesheet" type="text/css" href="http://news.bbcimg.co.uk/view/3_0_19/cream/hi/shared/type.css" />
+
+
+		<link rel="stylesheet" type="text/css" media="screen" href="http://news.bbcimg.co.uk/view/3_0_19/cream/hi/shared/global.css" />
+
+
+	<link rel="stylesheet" type="text/css" media="print" href="http://news.bbcimg.co.uk/view/3_0_19/cream/hi/shared/print.css" />
+
+	<link rel="stylesheet" type="text/css" media="screen and (max-device-width: 976px)" href="http://news.bbcimg.co.uk/view/3_0_19/cream/hi/shared/mobile.css" />
+	
+
+
+
+<link rel="stylesheet" type="text/css" href="http://news.bbcimg.co.uk/view/3_0_19/cream/hi/shared/components/components.css" />
+
+<![endif]-->
+<!--[if !IE]>-->
+   	<link rel="stylesheet" type="text/css" href="http://news.bbcimg.co.uk/view/3_0_19/cream/hi/shared/type.css" />
+
+
+		<link rel="stylesheet" type="text/css" media="screen" href="http://news.bbcimg.co.uk/view/3_0_19/cream/hi/shared/global.css" />
+
+
+	<link rel="stylesheet" type="text/css" media="print" href="http://news.bbcimg.co.uk/view/3_0_19/cream/hi/shared/print.css" />
+
+	<link rel="stylesheet" type="text/css" media="screen and (max-device-width: 976px)" href="http://news.bbcimg.co.uk/view/3_0_19/cream/hi/shared/mobile.css" />
+	
+
+
+
+<link rel="stylesheet" type="text/css" href="http://news.bbcimg.co.uk/view/3_0_19/cream/hi/shared/components/components.css" />
+
+<!--<![endif]-->
+<script type="text/javascript">
+/*<![CDATA[*/
+gloader.load(["glow","1","glow.dom"],{onLoad:function(glow){glow.dom.get("html").addClass("blq-js")}});
+gloader.load(["glow","1","glow.dom"],{onLoad:function(glow){glow.ready(function(){if (glow.env.gecko){var gv = glow.env.version.split(".");for (var i=gv.length;i<4;i++){gv[i]=0;}if((gv[0]==1 && gv[1]==9 && gv[2]==0)||(gv[0]==1 && gv[1]<9)||(gv[0]<1)){glow.dom.get("body").addClass("firefox-older-than-3-5");}}});}});
+
+window.disableFacebookSDK=true;
+if (window.location.pathname.indexOf('+')>=0){window.disableFacebookSDK=true;}
+
+/*]]>*/
+</script>
+<script type="text/javascript" src="http://news.bbcimg.co.uk/js/locationservices/locator/v4_0/locator.js"></script>
+
+<script type="text/javascript" src="http://news.bbcimg.co.uk/js/core/3_3_1/bbc_fmtj.js"></script>
+
+<script type="text/javascript">
+<!--
+	bbc.fmtj.page = {
+		serverTime: 1399050683000,
+		editionToServe: 'domestic',
+		queryString: null,
+		section: 'birmingham-and-black-country',
+		sectionPath: '/England/Birmingham and Black Country',
+		siteName: 'BBC News',
+		siteToServe: 'news',
+		siteVersion: 'cream',
+		storyId: '27261950',
+		assetType: 'story',
+		uri: '/news/uk-england-birmingham-27261950',
+		country: 'gb',
+		masthead: false,
+		adKeyword: null,
+		templateVersion: 'v1_0'
+	}
+-->
+</script>
+<script type="text/javascript" src="http://news.bbcimg.co.uk/js/common/3_2_1/bbc_fmtj_common.js"></script>
+
+
+<script type="text/javascript">$useMap({map:"http://news.bbcimg.co.uk/js/map/map_0_0_33.js"});</script>
+<script type="text/javascript">$loadView("0.0",["bbc.fmtj.view"]);</script>
+<script type="text/javascript">$render("livestats-heatmap");</script>
+
+
+<script type="text/javascript" src="http://news.bbcimg.co.uk/js/config/apps/4_7_2/bbc_fmtj_config.js"></script>
+
+
+
+
+<script type="text/javascript">
+    //<![CDATA[
+        require(['jquery-1'], function($){
+            
+            // set up EMP once it's loaded
+            var setUp = function(){
+                // use our own pop out page
+        	    embeddedMedia.setPopoutUrl('/player/emp/2_0_55/popout/pop.stm');
+
+        	    // store EMP's notifyParent function
+        	    var oldNotifyParent = embeddedMedia.console.notifyParent;
+        	    // use our own to add livestats to popout
+        	    embeddedMedia.console.notifyParent = function(childWin){
+        	        oldNotifyParent(childWin);
+        	        // create new live stats url
+                    var liveStatsUrl = bbc.fmtj.av.emp.liveStatsForPopout($('#livestats').attr('src'));
+                    var webBug = $('<img />', {
+                                     id:  'livestats',
+                                     src: liveStatsUrl
+                                 });
+                    // append it to popout
+                    $(childWin.document).find('body').append(webBug);
+                }
+            }
+                
+            // check if console is available to manipulate
+            if(window.embeddedMedia && window.embeddedMedia.console){
+                setUp();
+            }
+            // otherwise emp is still loading, so add event listener
+            else{
+                $(document).bind('empReady', function(){
+                    setUp();
+                });
+            }
+        });
+    //]]>
+</script>
+
+
+		
+	<!-- get BUMP from cdn -->
+    <script type="text/javascript" src="http://emp.bbci.co.uk/emp/bump?emp=worldwide&amp;enableClear=1"></script>
+
+<!-- load glow and required modules -->
+<script type="text/javascript">
+    //<![CDATA[
+        gloader.load(['glow', '1', 'glow.dom']);
+    //]]>
+</script>
+
+
+
+	<!-- pull in our emp code -->
+	<script type="text/javascript" src="http://news.bbcimg.co.uk/js/app/av/emp/2_0_55/emp.js"></script>
+	<!-- pull in compatibility.js -->
+	<script type="text/javascript" src="http://news.bbcimg.co.uk/js/app/av/emp/2_0_55/compatibility.js"></script>
+
+
+<script type="text/javascript">
+	//<![CDATA[
+	    
+	
+	    
+	        
+	    
+	
+	    
+	        
+	    
+	
+	    // set site specific config
+	    
+	        bbc.fmtj.av.emp.configs.push('news');
+	    
+	    
+	    // when page loaded, write all created emps
+	    glow.ready(function(){
+			if(typeof bbcdotcom !== 'undefined' && bbcdotcom.av && bbcdotcom.av.emp){
+				bbcdotcom.av.emp.configureAll();
+			}
+			embeddedMedia.each(function(emp){
+				emp.set('enable3G', true);
+				emp.setMediator('href', '{protocol}://{host}/mediaselector/5/select/version/2.0/mediaset/{mediaset}/vpid/{id}');						
+			});
+			embeddedMedia.writeAll();
+	        // mark the emps as loaded
+	        bbc.fmtj.av.emp.loaded = true;
+			
+			
+	    });
+	//]]>
+</script>
+<!-- Check for advertising testing -->
+
+<meta name="viewport" content="width = 996" />
+
+
+
+        <!-- shared/head_story -->
+<!-- THESE STYLESHEETS VARY ACCORDING TO PAGE CONTENT -->															  
+
+<link rel="stylesheet" type="text/css" media="screen" href="http://news.bbcimg.co.uk/view/3_0_19/cream/hi/shared/layout/story.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="http://news.bbcimg.co.uk/view/3_0_19/cream/hi/shared/story.css" />
+
+
+<!-- js story view -->
+<script type="text/javascript">$loadView("0.0",["bbc.fmtj.view.news.story"]);</script>
+
+<!-- EMP -->
+<script type="text/javascript" src="http://news.bbc.co.uk/js/app/av/emp/compatibility.js"></script>
+<!-- /EMP -->
+
+        
+        <!-- #CREAM hi news domestic head.inc -->
+
+<script type="text/javascript">
+	if(undefined !== bbc && undefined !== bbc.fmtj){
+		bbc.fmtj.makeNewsSurveyConfig = function(surveyId,probabilityRate){	
+			if(surveyId !== undefined){
+				pulse.localSurvey = {
+					'active' : true,
+					'URLFormat' : 'http://ecustomeropinions.com/survey/survey.php?sid='+ surveyId,
+					'probability' : probabilityRate,
+					'translations' : {
+						'intro' : 'We are always looking to improve the site and your opinions count.',
+						'question' : 'Do you have a few minutes to tell us what you think about this site?'
+					}				
+				}
+							
+							
+			}
+		};
+	}
+	</script>
+
+
+
+
+                            <!-- is suitable for ads adding isadvertise ... -->
+			
+
+			 
+
+			
+	
+	
+<script type="text/javascript">/*<![CDATA[*/if(bbcdotcom===undefined){var bbcdotcom={init:function(a){},objects:function(a){return false},domLoaded:false,data:{ads:0,stats:0,statsProvider:null},adverts:{slot:function(b,a){},layout:{reset:function(){}}},config:{isActive:function(a){return false}},addLoadEvent:function(a){var b=window.onload;if(typeof window.onload!="function"){window.onload=a}else{window.onload=function(){if(b){b()}a()}}}}}bbcdotcom.objects=function(d,e,f){var b,c,a;b=d.split(".");if(e===undefined){e="valid"}if(f===undefined){f=window}for(c=0,a=b.length;c<a;c++){if(f[b[c]]===undefined){if(e==="create"){f[b[c]]={}}else{return false}}else{if(typeof f[b[c]]==="function"){if(f[b[c]]()!==undefined){return f[b[c]]()}}}f=f[b[c]]}return f};bbcdotcom.objects("bbcdotcom.config","create");bbcdotcom.config=(function(e,c){var b=e,a=c,d="",f="",g="";return{setAdsEnabled:function(h){b=(b!==0)?h:0},isAdsEnabled:function(){return b},setAnalyticsEnabled:function(h){a=(a!==0)?h:0},isAnalyticsEnabled:function(){return a},setJsPrefix:function(h){d=h},getJsPrefix:function(){return d},setSwfPrefix:function(h){f=h},getSwfPrefix:function(){return f},setCssPrefix:function(h){g=h},getCssPrefix:function(){return g}}}(1,1));bbcdotcom.objects("bbcdotcom.stats","create");if(BBC===undefined){var BBC={}}if(BBC.adverts===undefined){BBC.adverts={setZone:function(){},configure:function(){},write:function(){},show:function(){},isActive:function(){return false},setScriptRoot:function(){},setImgRoot:function(){},getAdvertTag:function(){},getSectionPath:function(){}}};/*]]>*/</script>
+<meta name="application-name" content="BBC"/>
+<meta name="msapplication-tooltip" content="Explore the BBC, for latest news, sport and weather, TV &amp; radio schedules and highlights, with nature, food, comedy, children's programmes and much more"/>
+
+	<meta name="msapplication-starturl" content="http://www.bbc.com/news/?ocid=global-news-pinned-ie9"/>
+
+<meta name="msapplication-window" content="width=1024;height=768"/>
+<meta name="msapplication-task" content="name=BBC Home;action-uri=http://www.bbc.com/?ocid=global-homepage-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico" />
+<meta name="msapplication-task" content="name=BBC News;action-uri=http://www.bbc.com/news/?ocid=global-news-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico" />
+<meta name="msapplication-task" content="name=BBC Sport;action-uri=http://www.bbc.com/sport/0/?ocid=global-sport-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico" />
+<meta name="msapplication-task" content="name=BBC Future;action-uri=http://www.bbc.com/future?ocid=global-future-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico" />
+<meta name="msapplication-task" content="name=BBC Travel;action-uri=http://www.bbc.com/travel?ocid=global-travel-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico" />
+<meta name="msapplication-task" content="name=BBC Weather;action-uri=http://www.bbc.co.uk/weather/?ocid=global-weather-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico" />
+<!-- BBCCOM client-side -->
+
+
+<style type="text/css">.bbccom_display_none{display:none;}</style>
+
+
+<script type="text/javascript">/*<![CDATA[*/
+    if (typeof orb !== 'undefined' && typeof orb.fig === 'function') {
+        bbcdotcom.data = {
+            a: orb.fig('ad')? 1 : 0,
+            b: (0 == orb.fig('uk')) ? 1 : 0,
+            c: orb.fig('ap')
+        };
+    } else {
+        document.write(unescape('%3Cscript type="text/javascript" src="http://tps.bbc.com/wwscripts/data"%3E%3C/script%3E'));
+    }
+/*]]>*/</script>
+<script type="text/javascript">/*<![CDATA[*/
+    if (typeof bbcdotcom.data == 'undefined' || typeof bbcdotcom.data.a == 'undefined' || typeof bbcdotcom.data.b == 'undefined' || typeof bbcdotcom.data.c == 'undefined') {
+        bbcdotcom.data = {a:0,b:0,c:0};
+    }
+    if (bbcdotcom.data.a == 1) {
+        document.write(unescape('%3Clink href="http://news.bbcimg.co.uk/css/screen/shared/0.3.239/3pt_ads.css" rel="stylesheet" type="text/css" /%3E'));
+        
+            document.write(unescape('%3Cscript type="text/javascript" src="http://www.bbc.co.uk/wwscripts/flag"%3E%3C/script%3E'));
+        
+    }
+/*]]>*/</script>
+<script type="text/javascript">/*<![CDATA[*/
+    if (typeof bbcdotcom.flag == 'undefined' || bbcdotcom.flag.a != 1) {
+        bbcdotcom.data.a = 0;
+    }
+    if (bbcdotcom.data.a == 1 || bbcdotcom.data.b == 1) {
+        document.write(unescape('%3Cscript type="text/javascript" src="http://news.bbcimg.co.uk/js/app/bbccom/0.3.239/bbccom.js"%3E%3C/script%3E'));
+    }
+/*]]>*/</script>
+<script type="text/javascript">/*<![CDATA[*/
+    if (bbcdotcom.data.a == 1 || bbcdotcom.data.b == 1) {
+        BBC.adverts.setData(bbcdotcom.data);
+        bbcdotcom.config.setAdsEnabled(bbcdotcom.data.a);
+        bbcdotcom.config.setAnalyticsEnabled(bbcdotcom.data.b);
+        if(typeof bbcdotcom !== 'undefined' && typeof bbcdotcom.survey !== 'undefined' && typeof bbcdotcom.survey.init === 'function') {
+            bbcdotcom.survey.init();
+        }
+    }
+    /*
+     * Native remove content for UK visitors
+     */
+    (function() {
+        if (bbcdotcom.data.b == 0) {
+            var adKeyword = bbcdotcom.objects('bbc.fmtj.page.adKeyword');
+            if(adKeyword && adKeyword !== null && typeof adKeyword === 'string' && adKeyword.indexOf('native-') !== -1) {
+                document.write('<style >' +
+                                    '#storypage-container .story-body {display:none;}' +
+                                    '#native-uk-disclaimer {border: 2px solid;margin: 8px;padding: 16px;}' +
+                                '</style>');
+                require(['jquery-1'], function($) {
+                    $(function(){
+                        /* Native advertising disclaimer */
+                        $( ".story-body" ).html('<div id="native-uk-disclaimer">' +
+                            '<h1>BBC Sport (International version)</h1>' +
+                            'We\'re sorry but this article is not accessible from the UK as it is part of our ' +
+                            'international service and is not funded by the license fee.' +
+                            '</div>');
+                        $( ".story-body" ).show();
+                    });
+                });
+            }
+        }
+    }());
+    bbcdotcom.objects('page', 'create', bbcdotcom);
+    bbcdotcom.page.edition = '(none)';
+    bbcdotcom.page.url = '/news/uk-england-birmingham-27261950';
+    bbcdotcom.page.zoneFile = '3pt_zone_file';
+    bbcdotcom.page.http_host = 'www.bbc.co.uk';
+    
+    
+/*]]>*/</script>
+<script type="text/javascript">/*<![CDATA[*/if(bbcdotcom.data.a == 1){(function(){switch(bbcdotcom.page.url){case"/":case"/default.stm":bbcdotcom.page.url=(bbcdotcom.page.edition==="domestic")?"/1/hi/default.stm":"/2/hi/default.stm";break;case"/sport":case"/sport/":case"/sport/default.stm":bbcdotcom.page.url=(bbcdotcom.page.edition==="domestic")?"/sport1/hi/default.stm":"/sport2/hi/default.stm";break}BBC.adverts.setScriptRoot("http://news.bbcimg.co.uk/js/app/bbccom/0.3.239/");bbcdotcom.config.setJsPrefix("http://news.bbcimg.co.uk/js/app/bbccom/0.3.239");bbcdotcom.config.setSwfPrefix("http://news.bbcimg.co.uk/shared/swf/bbccom/0.3.239");bbcdotcom.config.setCssPrefix("http://news.bbcimg.co.uk/css/screen/shared/0.3.239");BBC.adverts.setImgRoot("http://news.bbcimg.co.uk/shared/img/bbccom/");BBC.adverts.init({domain:bbcdotcom.page.http_host,location:bbcdotcom.page.url,zoneVersion:bbcdotcom.page.zoneFile,zoneReferrer:document.referrer})}());(function(){if(typeof require!=="undefined"){require({paths:{bbcdotcom:"http://news.bbcimg.co.uk/js/app/bbccom/0.3.239"}})}})();if(BBC.adverts.getV6Gvl3()&&"undefined"!==typeof bbcdotcom.page.bddUseLatestFromTest){document.write(unescape('%3Cscript type="text/javascript" src="http://wwwpreview.test.newsonline.tc.nca.bbc.co.uk/js/app/bbccom/'+bbcdotcom.latest_version+'/advert.js"'))}else{if(BBC.adverts.getV6Gvl3()){document.write(unescape('%3Cscript type="text/javascript" src="http://news.bbcimg.co.uk/js/app/bbccom/0.3.239/advert.js"%3E%3C/script%3E'))}}if(/[?|&]metadata=yes(&|$)/.test(window.location.search)){document.write("http://www.test.bbc.com/wwscripts/metadata?bbcdotcom_asset="+window.location.hostname+window.location.pathname)};}/*]]>*/</script>
+<script type="text/javascript">
+    /*<![CDATA[*/
+    if (BBC.adverts.isActive('analytics')) {
+        document.write(unescape('%3Cscript id="gnlAnalyticsEnabled" class="bbccom_display_none"%3E%3C/script%3E'));
+    }
+    /*]]>*/
+</script>
+
+
+    
+        
+
+<script type="text/javascript">
+	if(typeof BBC.adverts != 'undefined' && typeof BBC.adverts.setPageVersion != 'undefined'){
+		BBC.adverts.setPageVersion('(none)');
+	}
+</script>
+
+
+    
+
+        		<!-- hi/news/head_last.inc -->
+
+<script type="text/javascript">
+
+function BetaSite() {
+  function setMobileCookie() {
+    var d = new Date ();
+    d.setDate(d.getDate() + 1);
+    d = d.toUTCString();
+
+    window.bbccookies.set('ckps_d=m;domain=.bbc.co.uk;path=/;expires=' + d );
+    window.bbccookies.set('ckps_d=m;domain=.bbc.com;path=/;expires=' + d );
+  }
+
+  function isValidQueryString() {
+    return (window.location.search.indexOf('view=beta') !== -1);
+  }
+
+  function isClientCapable() {
+    return ('querySelector' in document && 'localStorage' in window && 'addEventListener' in window);
+  }
+
+  if (isClientCapable() && isValidQueryString()) {
+    setMobileCookie();
+
+    window.location.host = 'm.bbc.co.uk';
+  }
+}
+
+BetaSite();
+
+</script>
+
+
+<link rel="stylesheet" type="text/css" media="screen" href="http://news.bbcimg.co.uk/view/1_4_38/cream/hi/news/skin.css" />
+
+
+
+	
+		<script type="text/javascript">
+            if(bbcdotcom.objects('BBC.adverts.getAdvertTag')) {
+                gloader.load(["glow","1","glow.dom"],{onLoad: function(glow){
+                    glow.ready(function(){
+                        if(bbcdotcom.objects('BBC.adverts.getAdvertTag')) {
+                            var adImageUrl = BBC.adverts.getAdvertTag('printableversionsponsorship','','standardUri');
+                            if(adImageUrl) {
+                                if (glow.env.ie ) {
+                                    window.onbeforeprint = function(){
+                                        var printAdvert = glow.dom.get("#print-advert");
+                                        if (printAdvert.get("img").length == 0)
+                                        {
+                                            printAdvert.append('<img src="'+adImageUrl+'" alt="" />');
+                                        }
+                                    };
+                                }else{
+                                    glow.dom.get("head").append('<style type="text/css">#print-advert {display:none};</style><style type="text/css" media="print">#print-advert::after{content:url('+adImageUrl+');} #print-advert{display:block;overflow:hidden;}</style>');
+                                }
+                            }
+                        }
+                    });
+                }});
+            }
+		</script>
+	
+
+
+<link rel="apple-touch-icon" href="http://news.bbcimg.co.uk/img/1_0_3/cream/hi/news/iphone.png"/>
+<script type="text/javascript">
+    bbcRequireMap['module/weather'] = '/inc/specials/cream/hi/news/personalisation/weather';
+    bbcRequireMap['module/local'] = '/inc/specials/cream/hi/news/personalisation';
+    bbcRequireMap['module/localnewsandweather'] = '/inc/specials/cream/hi/news/personalisation/localnewsandweather';
+    bbcRequireMap['translation'] = 'module/translations/en-GB';
+    require({ baseUrl: 'http://static.bbci.co.uk/', paths: bbcRequireMap, waitSeconds: 30 });
+</script>
+<script type="text/javascript">
+
+
+
+require(['jquery-1'], function(jQuery) {
+    jQuery.ajaxSetup({cache: true})
+});
+
+require(["jquery-1", "istats-1"], function ($, istats) {
+    $(function() {
+        istats.track('external', {region: $('.story-body'), linkLocation : 'story-body'});
+        istats.track('external', {region: $('.story-related .related-links'), linkLocation : 'related-links'});
+        istats.track('external', {region: $('.story-related .newstracker-list'), linkLocation : 'newstracker'});
+    });
+});
+
+</script>
+
+
+
+
+
+	
+    		
+		
+	
+    	
+   
+
+<!-- CPS COMMENT STATUS: false -->
+
+
+
+
+
+
+	   <!--Rendered by NOLAPPS202-6001 -->
+	   <link rel="schema.dcterms" href="http://purl.org/dc/terms/" />
+	   <meta name="DCTERMS.created" content="2014-05-02T16:21:18+00:00" />
+	   <meta name="DCTERMS.modified" content="2014-05-02T16:21:18+00:00" />
+    </head>
+
+            <!--[if lte IE 6]><body class="news ie"><![endif]-->
+    <!--[if IE 7]><body class="news ie7"><![endif]-->
+    <!--[if IE 8]><body class="news ie8"><![endif]-->
+    <!--[if !IE]>--><body class="news"><!--<![endif]-->
+	
+
+
+<div class="livestats-web-bug" id="livestats-web-bug-tag"></div>
+
+<script type="text/JavaScript">
+	var referrer = document.referrer;
+
+	var livestatsBug = "<img alt='' id='livestats' src='http://stats.bbc.co.uk/o.gif?~RS~s~RS~News~RS~t~RS~HighWeb_Story~RS~i~RS~27261950~RS~p~RS~99247~RS~a~RS~Domestic~RS~u~RS~/news/uk-england-birmingham-27261950~RS~r~RS~"+referrer+"~RS~q~RS~~RS~z~RS~23~RS~'>";
+
+
+	document.getElementById('livestats-web-bug-tag').innerHTML = livestatsBug;
+</script>
+
+
+<noscript>
+<div class="livestats-web-bug"><img alt="" id="livestats" src="http://stats.bbc.co.uk/o.gif?~RS~s~RS~News~RS~t~RS~HighWeb_Story~RS~i~RS~27261950~RS~p~RS~99247~RS~a~RS~Domestic~RS~u~RS~/news/uk-england-birmingham-27261950~RS~q~RS~~RS~z~RS~23~RS~"/></div>
+</noscript>
+        
+	
+    <!-- BBCDOTCOM body first include -->
+    
+
+<script type="text/javascript">BBC.adverts.write("wallpaper",false);</script>
+<script type="text/javascript">/*<![CDATA[*/BBC.adverts.wallpaperBodyTag=document.getElementsByTagName("body");BBC.adverts.wallpaperATag=document.getElementsByTagName("a");if("undefined"!=typeof BBC.adverts.wallpaperATag&&"undefined"!=typeof BBC.adverts.wallpaperATag[0]&&"undefined"!=typeof BBC.adverts.wallpaperBodyTag&&"undefined"!=typeof BBC.adverts.wallpaperBodyTag[0]&&-1!==BBC.adverts.wallpaperATag[0].href.indexOf("http://ad.doubleclick.net")){BBC.adverts.wallpaperBodyTag[0].removeChild(BBC.adverts.wallpaperATag[0])};/*]]>*/</script>
+
+
+	
+	
+
+    <!-- ISTATS -->
+
+
+
+    
+
+
+
+
+
+
+ <script type="text/javascript">/*<![CDATA[*/ bbcFlagpoles_istats = 'ON'; istatsTrackingUrl = '//sa.bbc.co.uk/bbc/bbc/s?name=news.england.birmingham_and_black_country.story.27261950.page&cps_asset_id=27261950&page_type=story&section=birmingham-and-black-country&app_version=6.2.184-RC2&first_pub=2014-05-02T16:21:18+00:00&last_editorial_update=2014-05-02T16:21:18+00:00&title=Care+staff+charged+with+manslaughter&comments_box=false&cps_media_type=&cps_media_state=&by_nation=&app_type=web&ml_name=SSI&ml_version=0.17.3&language=en-GB'; if (window.istats_countername) { istatsTrackingUrl = istatsTrackingUrl.replace(/([?&]name=)[^&]+/ig, '$1' + istats_countername); } (function() { if ( /\bIDENTITY=/.test(document.cookie) ) { istatsTrackingUrl += '&bbc_identity=1'; } var c = (document.cookie.match(/\bckns_policy=(\d\d\d)/)||[]).pop() || ''; istatsTrackingUrl += '&bbc_mc=' + (c? 'ad'+c.charAt(0)+'ps'+c.charAt(1)+'pf'+c.charAt(2) : 'not_set'); if ( /\bckns_policy=\d\d0/.test(document.cookie) ) { istatsTrackingUrl += '&ns_nc=1'; } var screenWidthAndHeight = 'unavailable'; if (window.screen && screen.width && screen.height) { screenWidthAndHeight = screen.width + 'x' + screen.height; } istatsTrackingUrl += ('&screen_resolution=' + screenWidthAndHeight); istatsTrackingUrl += '&blq_s=3.5&blq_r=3.5&blq_v=journalism-domestic'; })(); /*]]>*/</script>  <!-- Begin iStats 20100118 (UX-CMC 1.1009.3) --> <script type="text/javascript">/*<![CDATA[*/ (function() { window.istats || (istats = {}); var cookieDisabled = (document.cookie.indexOf('NO-SA=') != -1), hasCookieLabels = (document.cookie.indexOf('sa_labels=') != -1), hasClickThrough = /^#sa-(.*?)(?:-sa(.*))?$/.test(document.location.hash), runSitestat = !cookieDisabled && !hasCookieLabels && !hasClickThrough && !istats._linkTracked; if (runSitestat && bbcFlagpoles_istats === 'ON') { sitestat(istatsTrackingUrl); } else { window.ns_pixelUrl = istatsTrackingUrl; /* used by Flash library to track */ } function sitestat(n){var j=document,f=j.location,b="";if(j.cookie.indexOf("st_ux=")!=-1){var k=j.cookie.split(";");var e="st_ux",h=document.domain,a="/";if(typeof ns_!="undefined"&&typeof ns_.ux!="undefined"){e=ns_.ux.cName||e;h=ns_.ux.cDomain||h;a=ns_.ux.cPath||a}for(var g=0,f=k.length;g<f;g++){var m=k[g].indexOf("st_ux=");if(m!=-1){b="&"+unescape(k[g].substring(m+6))}}document.cookie=e+"=; expires="+new Date(new Date().getTime()-60).toGMTString()+"; path="+a+"; domain="+h}ns_pixelUrl=n;n=ns_pixelUrl+"&ns__t="+(new Date().getTime())+"&ns_c="+((j.characterSet)?j.characterSet:j.defaultCharset)+"&ns_ti="+escape(j.title)+b+"&ns_jspageurl="+escape(f&&f.href?f.href:j.URL)+"&ns_referrer="+escape(j.referrer);if(n.length>2000&&n.lastIndexOf("&")){n=n.substring(0,n.lastIndexOf("&")+1)+"ns_cut="+n.substring(n.lastIndexOf("&")+1,n.lastIndexOf("=")).substring(0,40)}(j.images)?new Image().src=n:j.write('<p><i'+'mg src="'+n+'" height="1" width="1" alt="" /></p>')}; })(); /*]]>*/</script> <noscript><p style="position: absolute; top: -999em;"><img src="//sa.bbc.co.uk/bbc/bbc/s?name=news.england.birmingham_and_black_country.story.27261950.page&amp;cps_asset_id=27261950&amp;page_type=story&amp;section=birmingham-and-black-country&amp;app_version=6.2.184-RC2&amp;first_pub=2014-05-02T16:21:18+00:00&amp;last_editorial_update=2014-05-02T16:21:18+00:00&amp;title=Care+staff+charged+with+manslaughter&amp;comments_box=false&amp;cps_media_type=&amp;cps_media_state=&amp;by_nation=&amp;app_type=web&amp;ml_name=SSI&amp;ml_version=0.17.3&amp;language=en-GB&amp;blq_s=3.5&amp;blq_r=3.5&amp;blq_v=journalism-domestic" height="1" width="1" alt="" /></p></noscript> <!-- End iStats (UX-CMC) -->   <div id="blq-global"> <noscript> <div id="blq-no-js-banner"> <p>For a better experience on your device, try our <a href="http://m.bbc.co.uk">mobile site</a>.</p> </div> </noscript> <div id="blq-pre-mast" xml:lang="en-GB"> <!-- Pre mast -->  </div> </div>  <script type="text/html" id="blq-bbccookies-tmpl"><![CDATA[ <div id="bbccookies-prompt" class="bbccookies-d"> <h2> Cookies on the BBC website </h2> <p> We use cookies to ensure that we give you the best experience on our website.<span class="bbccookies-international-message"> We also use cookies to ensure we show you advertising that is relevant to you.</span> If you continue without changing your settings, we'll assume that you are happy to receive all cookies on the BBC website. However, if you would like to, you can <a href="/privacy/cookies/managing/cookie-settings.html">change your cookie settings</a> at any time. </p> <ul> <li id="bbccookies-continue"> <button type="button" id="bbccookies-continue-button">Continue</button> </li> <li id="bbccookies-more"><a href="/privacy/cookies/bbc">Find out more</a></li></ul> </div> ]]></script> <script type="text/javascript">/*<![CDATA[*/ (function(){if(bbccookies._showPrompt()){var i=document,b=i.getElementById("blq-pre-mast"),f=i.getElementById("blq-global"),h=i.getElementById("blq-container"),c=i.getElementById("blq-bbccookies-tmpl"),a,g,e;if(b&&i.createElement){a=i.createElement("div");a.id="bbccookies";e=c.innerHTML;e=e.replace("<"+"![CDATA[","").replace("]]"+">","");a.innerHTML=e;if(f){f.insertBefore(a,b)}else{h.insertBefore(a,b)}g=i.getElementById("bbccookies-continue-button");g.onclick=function(){a.parentNode.removeChild(a);return false};bbccookies._setPolicy()}}})(); /*]]>*/</script>  <div id="blq-masthead" class="blq-clearfix blq-mast-bg-transparent-light blq-lang-en-GB blq-ltr"> <span id="blq-mast-background"><span></span></span>  <div id="blq-mast" class="blq-rst">  <div id="blq-mast-bar" class="blq-masthead-container blq-journalism-domestic"> <div id="blq-blocks"> <a href="http://www.bbc.co.uk/" hreflang="en-GB"> <abbr title="British Broadcasting Corporation" class="blq-home"> <img src="http://static.bbci.co.uk/frameworks/barlesque/2.60.6/desktop/3.5/img/blq-blocks_grey_alpha.png" alt="BBC" width="84" height="24" /> </abbr> </a> </div> <div id="blq-acc-links"> <h2 id="page-top">Accessibility links</h2> <ul>  <li><a href="#main-content">Skip to content</a></li>  <li><a href="#blq-local-nav">Skip to local navigation</a></li>  <li><a href="http://www.bbc.co.uk/accessibility/">Accessibility Help</a></li> </ul> </div> <div id="blq-sign-in" class="blq-gel">   <div id="id-status" class="blq-id-v4"> <div class="id-out id-gel"> <h2 class="blq-hide">BBC iD</h2> <a href="https://ssl.bbc.co.uk/id/status?ptrt=http://www.bbc.co.uk/news/uk-england-birmingham-27261950" id="blq-idstatus-link"> <span class="id-icon"> <span></span> </span> <span id="blq-idstatus-text"> BBC iD </span> <span class="id-spinner"></span> <span class="blq-dropdown-arrow"> <span></span> </span> </a> </div> <div id="id-status-nav" > <div class="id-in blq-rst"> <ul> <li> <a name="idDash" class="blq-nogo has-ptrt idDash" href="https://ssl.bbc.co.uk/id/settings"> Settings </a> </li> <li> <a name="idSignout" class="blq-nogo has-ptrt idSignout" href="https://ssl.bbc.co.uk/id/signout?ptrt=http://www.bbc.co.uk/news/uk-england-birmingham-27261950"> Sign out </a> </li> </ul> </div> </div> </div>          </div> <div id="blq-nav"> <h2>BBC navigation</h2>     <ul id="blq-nav-main">   <li id="blq-nav-news"> <a href="http://www.bbc.co.uk/news/">News</a> </li>    <li id="blq-nav-sport"> <a href="http://www.bbc.co.uk/sport/">Sport</a> </li>    <li id="blq-nav-weather"> <a href="http://www.bbc.co.uk/weather/">Weather</a> </li>    <li id="blq-nav-iplayer"> <a href="http://www.bbc.co.uk/iplayer/">iPlayer</a> </li>    <li id="blq-nav-tv"> <a href="http://www.bbc.co.uk/tv/">TV</a> </li>    <li id="blq-nav-radio"> <a href="http://www.bbc.co.uk/radio/">Radio</a> </li>    <li id="blq-nav-more"> <a href="http://www.bbc.co.uk/a-z/">More&hellip;</a> </li>   </ul>   <div id="blq-nav-search"> <form method="get" action="http://search.bbc.co.uk/search" accept-charset="utf-8" id="blq-search-form"> <div>  <input type="hidden" name="go" value="toolbar" />  <input type="hidden" value="http://www.bbc.co.uk/news/uk-england-birmingham-27261950" name="uri" />    <input type="hidden" name="scope" value="news" />  <label for="blq-search-q" class="blq-hide">Search term:</label> <input id="blq-search-q" type="text" name="q" value="" maxlength="128" /> <button id="blq-search-btn" type="submit"><span><img src="http://static.bbci.co.uk/frameworks/barlesque/2.60.6/desktop/3.5/img/blq-search_grey_alpha.png" width="13" height="13" alt="Search"/></span></button> </div> </form> </div>  </div> </div> </div> </div> <div id="blq-container-outer" class="blq-journalism-domestic blq-ltr" >  <div id="blq-container" class="blq-lang-en-GB"> <div id="blq-container-inner" xml:lang="en-GB">   <div id="blq-main" class="blq-clearfix">   
+	
+
+                        		    	
+		<div class="birmingham-and-black-country  has-no-ticker  main-content-container">
+			<div id="header-wrapper">
+
+			  
+    		      			      				  <h2 id="header">
+    			      	            <a rel="index" href="http://www.bbc.co.uk/news/"><img alt="BBC News" src="http://news.bbcimg.co.uk/img/1_0_3/cream/hi/news/news-blocks.gif" /></a>
+    	                	            	    	            		<span class="section-title">Birmingham &amp; Black Country</span>
+    	            	    	            		   		      				  </h2>
+    			  			  
+			  
+			    <div class="bbccom_advert_placeholder">
+			      <script type="text/javascript">$render("advert","advert-sponsor-section");</script>
+			    </div>
+			    <script type="text/javascript">$render("advert-post-script-load");</script>
+			  
+		        
+
+			  	            <div id="blq-local-nav">
+ 	            <ul id="nav" class="nav">
+                	
+        	        		                	
+        	            	<li class="first-child "><a href="/news/">Home</a></li>
+                            	
+        	        	        	
+        	            	<li><a href="/news/world/">World</a></li>
+                            	
+        	        	        	
+        	            	<li><a href="/news/uk/">UK</a></li>
+                            	
+        	        	        	
+        	        		<li class="selected"><a href="/news/england/">England</a></li>
+        		        		                            	
+        	        	        	
+        	            	<li><a href="/news/northern_ireland/">N. Ireland</a></li>
+                            	
+        	        	        	
+        	            	<li><a href="/news/scotland/">Scotland</a></li>
+                            	
+        	        	        	
+        	            	<li><a href="/news/wales/">Wales</a></li>
+                            	
+        	        	        	
+        	            	<li><a href="/news/business/">Business</a></li>
+                            	
+        	        	        	
+        	            	<li><a href="/news/politics/">Politics</a></li>
+                            	
+        	        	        	
+        	            	<li><a href="/news/health/">Health</a></li>
+                            	
+        	        	        	
+        	            	<li><a href="/news/education/">Education</a></li>
+                            	
+        	        	        	
+        	            	<li><a href="/news/science_and_environment/">Sci/Environment</a></li>
+                            	
+        	        	        	
+        	            	<li><a href="/news/technology/">Technology</a></li>
+                            	
+        	        	        	
+        	            	<li><a href="/news/entertainment_and_arts/">Entertainment &amp; Arts</a></li>
+                            </ul> 
+        
+	    	</div>
+
+			  
+	        </div>
+	        <!-- START CPS_SITE CLASS: domestic -->
+	        <div id="content-wrapper" class="domestic">
+
+					<div class="advert">
+													
+							<div class="bbccom_advert_placeholder">
+								<script type="text/javascript">$render("advert","advert-leaderboard");</script>
+							</div>
+							<script type="text/javascript">$render("advert-post-script-load");</script>
+							
+											</div>
+                                            <div id="bbccom_custom_branding">
+    <script type="text/javascript">
+        /*<![CDATA[*/
+        if(typeof bbcdotcom.objects('bbcdotcom.branding.init') === 'function') {
+            bbcdotcom.branding.init(BBC.adverts.getZoneData().zone, BBC.adverts.getAdKeyword());
+            bbcdotcom.branding.write();
+        }
+        /*]]>*/
+    </script>
+	<div class="bbccom_advert_placeholder">
+    <script type="text/javascript">
+        /*<![CDATA[*/
+        $render("advert","advert-sponsor-subsection");
+        /*]]>*/
+    </script>
+</div>
+</div>
+<script type="text/javascript">
+        /*<![CDATA[*/
+	$render("advert-post-script-load");
+        /*]]>*/
+</script>
+                    
+	            <!-- START CPS_SITE CLASS: story -->
+	            <div id="main-content" class="story blq-clearfix">
+			<!-- No EWA -->
+
+
+
+
+	
+
+<div id="print-advert">
+
+</div>
+
+
+
+
+
+<div class="layout-block-a">
+    <div class="story-body">
+    		  <span class="story-date">
+    <span class="date">2 May 2014</span>
+<span class="time-text">Last updated at </span><span class="time">17:21</span>
+	  
+</span>
+
+	<div id="page-bookmark-links-head" class="share-help">
+  <h3>Share this page</h3>
+  <ul>  	
+    <li class="delicious">
+      <a title="Post this story to Delicious" href="http://del.icio.us/post?url=http://www.bbc.co.uk/news/uk-england-birmingham-27261950&amp;title=BBC+News+-+Aston+Court+Nursing+Home+staff+charged+with+manslaughter">Delicious</a>
+    </li>
+    <li class="digg">
+      <a title="Post this story to Digg" href="http://digg.com/submit?url=http://www.bbc.co.uk/news/uk-england-birmingham-27261950&amp;title=BBC+News+-+Aston+Court+Nursing+Home+staff+charged+with+manslaughter">Digg</a>
+    </li>
+    <li class="facebook">
+      <a title="Post this story to Facebook" href="http://www.facebook.com/sharer.php?u=http://www.bbc.co.uk/news/uk-england-birmingham-27261950&amp;t=BBC+News+-+Aston+Court+Nursing+Home+staff+charged+with+manslaughter">Facebook</a>
+    </li>
+    <li class="reddit">
+      <a title="Post this story to reddit" href="http://reddit.com/submit?url=http://www.bbc.co.uk/news/uk-england-birmingham-27261950&amp;title=BBC+News+-+Aston+Court+Nursing+Home+staff+charged+with+manslaughter">reddit</a>
+    </li>
+    <li class="stumbleupon">
+      <a title="Post this story to StumbleUpon" href="http://www.stumbleupon.com/submit?url=http://www.bbc.co.uk/news/uk-england-birmingham-27261950&amp;title=BBC+News+-+Aston+Court+Nursing+Home+staff+charged+with+manslaughter">StumbleUpon</a>
+    </li>
+    <li class="twitter">
+      <a title="Post this story to Twitter" href="http://twitter.com/home?status=BBC+News+-+Aston+Court+Nursing+Home+staff+charged+with+manslaughter+http://www.bbc.co.uk/news/uk-england-birmingham-27261950">Twitter</a>
+    </li>
+    <li class="email">
+      <a title="Email this story" href="http://newsvote.bbc.co.uk/mpapps/pagetools/email/www.bbc.co.uk/news/uk-england-birmingham-27261950">Email</a>
+    </li>
+    <li class="print">
+      <a title="Print this story" href="?print=true">Print</a>
+    </li>
+  </ul>
+<!--  Social media icons by Paul Annet | http://nicepaul.com/icons  -->
+</div>
+<script type="text/javascript"> 
+<!--
+$render("page-bookmark-links","page-bookmark-links-head",{
+    useForgeShareTools:"true",
+    position:"top",
+    site:'News', 
+    headline:'BBC News - Aston Court Nursing Home staff charged with manslaughter', 
+    storyId:'27261950', 
+    sectionId:'99247', 
+    url:'http://www.bbc.co.uk/news/uk-england-birmingham-27261950', 
+    edition:'Domestic'
+}); 
+-->
+</script>
+
+
+
+
+
+	<h1 class="story-header">Aston Court Nursing Home staff charged with manslaughter</h1>
+
+     
+         
+ 
+    
+    
+		
+        <div class="caption body-width">
+  <img src="http://news.bbcimg.co.uk/media/images/74614000/jpg/_74614035_iris.jpg" width="464" height="261" alt="Iris Teale" />
+
+    <span style="width:464px;">Iris Teale fell and broke her leg at Aston Court Nursing and Residential Home in Little Aston, Birmingham</span>
+  </div>
+                      <p class="introduction">Two care workers have appeared in court charged with manslaughter after the death of a 91-year-old woman.</p>
+        <p>Iris Teale fell and broke her leg at Aston Court Nursing and Residential Home in Little Aston, Birmingham. </p>
+        <p>She was taken to Good Hope Hospital on 8 October 2011 but later died.</p>
+        <p>Santhosh Rajan, 39, of Bentley Lane, Walsall, and Marsha Tulloch, 41, of Browns Green, Birmingham, appeared before Burton magistrates and are due at Stafford Crown Court next Friday.</p>
+        <p>Dementia sufferer Mrs Teale had lived at the care home for several years. </p>
+  
+
+	</div><!-- / story-body -->
+  
+  <div>
+ 	<!--Related hypers and stories -->
+	<div class="story-related">
+	<h2>More on This Story</h2>
+	  
+	
+	<script type="text/javascript">$render("page-newstracker","ID");</script> 
+
+	        
+<div class="related-internet-links">
+	<h3>Related Internet links</h3>
+	<ul class="related-links">
+											
+							    	<li class="column-1  first-child">
+	            <a href="http://www.justice.gov.uk/about/hmcts">HM Courts & Tribunals Service</a>
+	        </li>
+		    </ul>
+</div>
+
+  		
+        <p class="disclaimer">The BBC is not responsible for the content of external Internet sites</p>
+	</div>
+<script type="text/javascript">$render("page-related-items","ID");</script>
+
+  </div>
+
+  
+  <div class="share-body-bottom">
+	<div id="page-bookmark-links-foot" class="share-help">
+  <h3>Share this page</h3>
+  <ul>  	
+    <li class="delicious">
+      <a title="Post this story to Delicious" href="http://del.icio.us/post?url=http://www.bbc.co.uk/news/uk-england-birmingham-27261950&amp;title=BBC+News+-+Aston+Court+Nursing+Home+staff+charged+with+manslaughter">Delicious</a>
+    </li>
+    <li class="digg">
+      <a title="Post this story to Digg" href="http://digg.com/submit?url=http://www.bbc.co.uk/news/uk-england-birmingham-27261950&amp;title=BBC+News+-+Aston+Court+Nursing+Home+staff+charged+with+manslaughter">Digg</a>
+    </li>
+    <li class="facebook">
+      <a title="Post this story to Facebook" href="http://www.facebook.com/sharer.php?u=http://www.bbc.co.uk/news/uk-england-birmingham-27261950&amp;t=BBC+News+-+Aston+Court+Nursing+Home+staff+charged+with+manslaughter">Facebook</a>
+    </li>
+    <li class="reddit">
+      <a title="Post this story to reddit" href="http://reddit.com/submit?url=http://www.bbc.co.uk/news/uk-england-birmingham-27261950&amp;title=BBC+News+-+Aston+Court+Nursing+Home+staff+charged+with+manslaughter">reddit</a>
+    </li>
+    <li class="stumbleupon">
+      <a title="Post this story to StumbleUpon" href="http://www.stumbleupon.com/submit?url=http://www.bbc.co.uk/news/uk-england-birmingham-27261950&amp;title=BBC+News+-+Aston+Court+Nursing+Home+staff+charged+with+manslaughter">StumbleUpon</a>
+    </li>
+    <li class="twitter">
+      <a title="Post this story to Twitter" href="http://twitter.com/home?status=BBC+News+-+Aston+Court+Nursing+Home+staff+charged+with+manslaughter+http://www.bbc.co.uk/news/uk-england-birmingham-27261950">Twitter</a>
+    </li>
+    <li class="email">
+      <a title="Email this story" href="http://newsvote.bbc.co.uk/mpapps/pagetools/email/www.bbc.co.uk/news/uk-england-birmingham-27261950">Email</a>
+    </li>
+    <li class="print">
+      <a title="Print this story" href="?print=true">Print</a>
+    </li>
+  </ul>
+<!--  Social media icons by Paul Annet | http://nicepaul.com/icons  -->
+
+<div class="bbccom_advert_placeholder">
+	<script type="text/javascript">$render("advert","advert-sponsor-module","page-bookmark-links");</script>
+</div>
+<script type="text/javascript">$render("advert-post-script-load");</script>
+  
+</div>
+<script type="text/javascript"> 
+<!--
+$render("page-bookmark-links","page-bookmark-links-foot",{
+    useForgeShareTools:"true",
+    position:"bottom",
+    site:'News', 
+    headline:'BBC News - Aston Court Nursing Home staff charged with manslaughter', 
+    storyId:'27261950', 
+    sectionId:'99247', 
+    url:'http://www.bbc.co.uk/news/uk-england-birmingham-27261950', 
+    edition:'Domestic'
+}); 
+-->
+</script>
+
+ </div>
+
+	
+
+
+
+
+		     <div class="hyperpuff">
+	       	         
+
+<div class="top-section-stories">
+		 	<h2 class="top-section-stories-header"><a href="/news/england/birmingham_and_black_country/">BBC Birmingham & Black Country</a></h2>
+		
+	
+						
+				
+		<!-- Specific version for 27261950 -->
+		
+		<ul>
+																						<li class="first-child medium-image">
+					
+
+
+
+
+	
+
+
+		
+
+
+
+
+<h3>
+	<a class="story" rel="published-1399039657243" href="/news/education-27257077"><img src="http://news.bbcimg.co.uk/media/images/74606000/jpg/_74606516_schools_comp_624.jpg" alt="Park View Academy, Saltley School, Regents Park Community Primary and Adderley Primary School (clockwise from top left)" />Trojan Horse: &#039;Six schools at risk&#039;</a>
+
+					
+	</h3>
+
+											<p>Head teachers believe there were "concerted efforts" to infiltrate and run about six Birmingham schools by hardline Muslims.</p>
+										<hr />
+					</li>
+																<li class="column-1">
+					
+
+
+
+
+	
+
+
+	
+
+
+
+
+<h3>
+	<a class="story" rel="published-1399022206526" href="/news/uk-england-birmingham-27250396">&#039;Cocky&#039; drug dealers pose for photos</a>
+
+					
+	</h3>
+
+					</li>
+									</ul>
+
+						 
+		
+</div>
+		
+	       	         <div class="container-local-weather-and-travel">
+	
+					
+		<div class="travel">
+		
+
+
+<div id="useful-links-1" class="useful-links ">
+		 	<h3 class="useful-links-header"><a href="http://www.bbc.co.uk/travelnews/">Travel News</a></h3>
+		<ul>
+				  	
+												
+									
+												
+			<li class="column-1  first-child column-top">
+
+				
+
+
+
+
+	
+
+
+	
+
+
+
+
+<h4>
+	<a class="story" rel="published-1278503410805" href="http://www.bbc.co.uk/travelnews/local/birmingham.shtml">Latest road incidents, public transport information and live traffic jam cameras near you</a>
+
+		</h4>
+
+			</li>
+	
+			</ul>
+</div>
+
+
+	</div>
+		
+		<div class="weather">
+		
+  <div id="data-feed-now" class="include-only data-feed-now">
+          <h3><a href="http://news.bbc.co.uk/weather">Weather</a></h3>
+        <div class="local-story-weather">
+    
+    <div class="timeslot">
+        
+    <div class="forecast weather-type-0" role="img" aria-labelledby="label-0" title="Clear Sky">
+        <span class="hidden" id="label-0">Clear Sky</span>
+                    <span class="glyph moon-grey">&#xF400;</span>
+            </div>
+
+    </div>
+
+    <div class="weather-info">
+        <h4>Birmingham</h4>
+
+        <div class="timeslot-temperatures">
+            <strong class="timeslot-temperature timeslot-max-temperature">
+                                    Min. Night                            </strong>
+            <span class="timeslot-temperature timeslot-min-temperature">
+                    <span class="temperature temperature-4-6">
+        4        <abbr  title="Degrees celsius">&deg;C</abbr>
+    </span>
+            </span>
+        </div>
+    </div>
+</div>
+<div class="clear"></div>
+
+<style type="text/css" media="screen">
+    #things-to-do #ttd-widget { background-color: white; }
+    #things-to-do #tdd-width .date-block .date { background-color #ededed; }
+    #things-to-do #tdd-width .date-block { background: url(http://news.bbcimg.co.uk/img/1_0_3/cream/hi/news/ttd-widget-date-arrow-g.gif) no-repeat center bottom; }
+    .container-local-weather-and-travel {
+        margin: 20px 0;
+    }
+    .container-local-weather-and-travel, .hyperpuff .useful-links {
+        background-color: white;
+    }
+
+    .container-local-weather-and-travel .travel,  .container-local-weather-and-travel .weather {
+        margin: 0;
+        border-top: none;
+        width: 232px;
+    }
+
+    .local-story-weather {
+        margin-top: 15px;
+        overflow: hidden;
+    }
+    .weather-info {
+        font-family: sans-serif;
+        color: #505050;
+        float: left;
+        width: 160px;
+    }
+
+    .weather-info h4 {
+        margin: 0;
+        padding: 0;
+
+        font-weight: normal;
+        font-size: 13px;
+    }
+
+    .weather-info .timeslot-max-temperature {
+        font-size: 22px;
+    }
+
+    .weather-info .timeslot-max-temperature .min-night {
+        font-size: 16px;
+    }
+
+    .weather-info .timeslot-max-temperature span {
+        line-height: 26px;
+    }
+
+    .timeslot {
+        width: 63px;
+        float: left;
+        margin-right: 8px;
+        text-align: center;
+    }
+    .timeslot + .timeslot {
+        border-left: 1px solid #EDEDED;
+    }
+
+    /* Hide @font-face glyphs */
+    .timeslot .glyph {
+        display: none;
+    }
+
+    .timeslot-time {
+        display: block;
+        margin-bottom: 4px;
+    }
+
+    .timeslot-temperatures {
+        font-size: 14px;
+    }
+        .timeslot-temperatures abbr,
+        .timeslot-temperatures span {
+            line-height: 16px;
+        }
+        .timeslot-temperature {
+            display: block;
+        }
+
+    .timeslot .forecast {
+        display: block;
+        width: 56px;
+        padding-top: 50px;
+        margin: 0 auto 4px;
+        height: 0;
+        overflow: hidden;
+        text-indent: -999em;
+        background: url('http://static.bbci.co.uk/weather/0.5.148/images/icons/weather_types/56_en.png') no-repeat;
+    }
+
+    .timeslot .weather-type-0  { background-position: 0 -200px; }
+    .timeslot .weather-type-1  { background-position: -100px -200px; }
+    .timeslot .weather-type-2  { background-position: -200px -200px; }
+    .timeslot .weather-type-3  { background-position: -300px -200px; }
+    .timeslot .weather-type-4  { background-position: -400px -200px; }
+    .timeslot .weather-type-5  { background-position: -500px -200px; }
+    .timeslot .weather-type-6  { background-position: -600px -200px; }
+    .timeslot .weather-type-7  { background-position: -700px -200px; }
+    .timeslot .weather-type-8  { background-position: -800px -200px; }
+    .timeslot .weather-type-9  { background-position: -900px -200px; }
+    .timeslot .weather-type-10 { background-position: -1000px -200px; }
+    .timeslot .weather-type-11 { background-position: -1100px -200px; }
+    .timeslot .weather-type-12 { background-position: -1200px -200px; }
+    .timeslot .weather-type-13 { background-position: -1300px -200px; }
+    .timeslot .weather-type-14 { background-position: -1400px -200px; }
+    .timeslot .weather-type-15 { background-position: -1500px -200px; }
+    .timeslot .weather-type-16 { background-position: -1600px -200px; }
+    .timeslot .weather-type-17 { background-position: -1700px -200px; }
+    .timeslot .weather-type-18 { background-position: -1800px -200px; }
+    .timeslot .weather-type-19 { background-position: -1900px -200px; }
+    .timeslot .weather-type-20 { background-position: -2000px -200px; }
+    .timeslot .weather-type-21 { background-position: -2100px -200px; }
+    .timeslot .weather-type-22 { background-position: -2200px -200px; }
+    .timeslot .weather-type-23 { background-position: -2300px -200px; }
+    .timeslot .weather-type-24 { background-position: -2400px -200px; }
+    .timeslot .weather-type-25 { background-position: -2500px -200px; }
+    .timeslot .weather-type-26 { background-position: -2600px -200px; }
+    .timeslot .weather-type-27 { background-position: -2700px -200px; }
+    .timeslot .weather-type-28 { background-position: -2800px -200px; }
+    .timeslot .weather-type-29 { background-position: -2900px -200px; }
+    .timeslot .weather-type-30 { background-position: -3000px -200px; }
+    .timeslot .weather-type-31 { background-position: -3100px -200px; }
+    .timeslot .weather-type-32 { background-position: -3200px -200px; }
+    .timeslot .weather-type-na { background-position: -3300px -200px; }
+</style>
+  </div>
+<script type="text/javascript">$render("data-feed-now","data-feed-now");</script> 
+
+	</div>
+	</div>
+
+	       	         
+
+
+			
+	<!-- Non specific version -->
+	
+	
+			<div id="things-to-do" class="hyper-related-assets">
+				
+					
+					
+									
+											
+												
+													
+																					        <link rel="stylesheet" type="text/css" href="http://static.bbci.co.uk/thingstodo/v3/styles/ttd-widget-story.css" /> <!--[if IE 6]> <link rel="stylesheet" type="text/css" href="http://static.bbci.co.uk/thingstodo/v3/styles/ttd-widget-ie6.css" /> <![endif]-->  <div id="ttd-widget"> <div id="ttd-widget-header"> <h2><a href="/thingstodo/region/birmingham">Things To Do</a></h2> <p>RUN BY THE BBC AND PARTNERS</p> <div id="ttd-widget-header-image"></div> </div> <div id="ttd-widget-content"> <ul>  <li> <a href="/thingstodo/activity/birmingham-saturday-skate-school/occurrence/372620" title="Birmingham Saturday Skate School"> <img src="http://ichef.bbci.co.uk/thingstodo/image/80x45/2014/02/20/birmingham-saturday-skate-school_80d5e603.jpg" width="80" height="45" alt="Learning how to skate!" /> </a> <p class="date-block"><span class="date"><span class="dayText">SAT </span><span class="day">3 </span><span class="month">MAY</span></span></p> <h3><a href="/thingstodo/activity/birmingham-saturday-skate-school/occurrence/372620">Birmingham Saturday Skate&hellip;</a></h3>  <p class="partner location">Rolladome Allskate</p>  </li>  <li> <a href="/thingstodo/activity/moorcroft-wildlife-walk/occurrence/405308" title="Moorcroft Wildlife Walk"> <img src="http://ichef.bbci.co.uk/thingstodo/image/80x45/2014/04/23/moorcroft-wildlife-walk_e2202c75.jpg" width="80" height="45" alt="Bluebells spring 2013" /> </a> <p class="date-block"><span class="date"><span class="dayText">SAT </span><span class="day">3 </span><span class="month">MAY</span></span></p> <h3><a href="/thingstodo/activity/moorcroft-wildlife-walk/occurrence/405308">Moorcroft Wildlife Walk</a></h3>  <p class="partner location">The Wildlife Trust for&hellip;</p>  </li>  </ul>  <p class="more"><a href="/thingstodo/region/birmingham" title="B'ham &amp; Black Country ">See B'ham &amp; Black Country Activities &gt;</a></p>  </div> <div id="ttd-widget-footer"> <form action="/thingstodo/activities?max=2&amp;priority[0]=1&amp;priority[1]=2&amp;priority[2]=3&amp;sort[0]=priority&amp;sort[1]=start&amp;order[0]=desc&amp;order[1]=asc&amp;uniqueActivity=true&amp;instanceId=locator_global&amp;from=2014-05-02T23:59:59" method="get"> <div><input type="hidden" name="priority[]" value="1" />
+<input type="hidden" name="priority[]" value="2" />
+<input type="hidden" name="priority[]" value="3" />
+<input type="hidden" name="sort[]" value="priority" />
+<input type="hidden" name="sort[]" value="start" />
+<input type="hidden" name="order[]" value="desc" />
+<input type="hidden" name="order[]" value="asc" />
+<input type="hidden" name="uniqueActivity" value="true" />
+<input type="hidden" name="instanceId" value="locator_global" />
+<input type="hidden" name="from" value="2014-05-02T23:59:59" />
+ <label for="ttd-widget-search">Find activities near you</label> <input id="ttd-widget-search" name="search" type="text" value="Town, city, postcode" onfocus="this.value=''" /> <input id="ttd-widget-search-btn" type="submit" value="Search" /> </div> </form> </div> </div> <!-- Widget assembled at: Fri, 02 May 14 17:59:42 +0100 -->
+																								
+										
+		</div>
+		<script type="text/javascript">$render("hyper-related-assets","things-to-do");</script>
+
+	 
+
+	       	         
+
+
+<div id="useful-links-2" class="useful-links ">
+		<ul>
+				  	
+												
+									
+												
+			<li class="column-1  first-child column-top">
+
+				
+
+
+
+
+		
+
+
+	
+
+
+
+
+<h3 class="has-icon-boxedlive ">
+	<a class="story is-live" rel="published-1278503275048" href="http://www.bbc.co.uk/iplayer/radio/bbc_wm/listenlive">BBC WM<span class="gvl3-icon gvl3-icon-boxedlive"> Live</span></a>
+
+		</h3>
+
+			</li>
+	
+				  	
+									
+												
+												
+			<li class="column-2  column-top">
+
+				
+
+
+
+
+	
+
+
+	
+
+
+
+
+<h3>
+	<a class="story" rel="published-1350306327052" href="http://www.bbc.co.uk/sport/0/13629860">Local Radio sport commentaries</a>
+
+		</h3>
+
+			</li>
+	
+			</ul>
+</div>
+
+
+	       	     </div>
+	
+
+      	
+		<div class="bbccom_advert_placeholder">
+	      	<script type="text/javascript">$render("advert","advert-google-adsense");</script>
+		</div>
+		<script type="text/javascript">$render("advert-post-script-load");</script>
+    	
+
+
+</div><!-- / layout-block-a -->
+
+<div class="layout-block-b">
+			
+
+
+
+
+		     <div class="hyperpuff">
+	       	         
+<div class="bbccom_advert_placeholder">
+	<script type="text/javascript">$render("advert","advert-mpu-high");</script>
+</div>
+<script type="text/javascript">$render("advert-post-script-load");</script>
+
+	       	             <div class="live-text-best-local">
+
+    <div id="live-event-text-commentary" class="live-text-best specials-section">
+              <h2 class="secondary-top-story-heading"><a href="/news/england/birmingham_and_black_country/">BBC Local Live</a></h2>
+                    <noscript>
+        <div class="placeholder">
+          <p>To get live updates you must enable Javascript.<br /></p>
+        </div>
+      </noscript>
+                        <div class="scroll-box">
+        
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+
+  
+  
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+<!--
+LEE_PULSAR_CHANNEL:bbc.cps.asset.27251143_HighWeb
+LEE_PULSAR_START_DATE:
+LEE_PULSAR_END_DATE:
+LEE_PULSAR_TEMPLATE_URL:&amp;template=http%3A%2F%2Fwww.bbc.co.uk%2Finc%2Flive_event_experience%2F1_0_3%2Fmustache%2Fnews%2Fhi.txt
+LEE_PULSAR_TEMPLATE_PATH:/inc/live_event_experience/1_0_3/mustache/news/hi.txt
+LEE_PULSAR_SORT:&amp;sort=date_descending
+LEE_PULSAR_POLLING:1
+LEE_PULSAR_LIMIT:100
+LEE_IS_BEST:1
+-->
+
+
+	
+		<ol class="scroll-box-inner">
+<li class="scroll-box-item class-STANDARD " id="pulsar_27251235_HighWeb" data-datetime="2014-05-02T18:00:18">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<div class="item-info">
+			<span class="sub-heading">goodbye</span>
+			<span class="time">18:00:</span>
+			</div>
+	</div>
+	<div class="description"><p>That&#039;s all from the BBC Local Live team for today. Don&#039;t forget - you can still get in touch via <a href="mailto:locallive@bbc.co.uk" >locallive@bbc.co.uk</a> or tweet us at <a href="http://www.twitter.com/bbcwm" >@bbcwm</a>.</p>
+        <p>The service will resume from 08:00 on Saturday.</p><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-STANDARD " id="pulsar_27262913_HighWeb" data-datetime="2014-05-02T17:53:48">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<div class="item-info">
+			<span class="sub-heading">Watch out for those rogue showers</span>
+			<span class="time">17:53:</span>
+			</div>
+	</div>
+	<div class="description"><p><a href="http://www.bbc.co.uk/weather/2655603" >Perhaps an odd rogue shower at first this evening</a> but by and large staying dry overnight with clear periods developing. Perhaps staying cloudier in the far west of the region. Becoming cold with a local frost developing in some rural areas.</p>
+        <p>Looks like Saturday will be the best day of the bank holiday weekend.</p><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-STANDARD " id="pulsar_27261627_HighWeb" data-datetime="2014-05-02T17:41:12">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<div class="item-info">
+			<span class="sub-heading">Bolton v Birmingham preview</span>
+			<span class="time">17:41:</span>
+			</div>
+	</div>
+	<div class="description"><p><a href="http://www.bbc.co.uk/sport/0/football/27167525" >Birmingham will be relegated to League One</a> if they lose at the Reebok Stadium. </p>
+        <p>The Blues will also go down if they draw and Doncaster avoid defeat; or if they win but Doncaster and Millwall both win and Blackpool avoid defeat.</p>
+        <p>Should Birmingham go down, there are likely to be financial repercussions and the value of the club could be severely affected.</p><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-STANDARD " id="pulsar_27257941_HighWeb" data-datetime="2014-05-02T17:33:42">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<div class="item-info">
+			<span class="sub-heading">Aston Villa team news</span>
+			<span class="time">17:33:</span>
+			</div>
+	</div>
+	<div class="description"><p>Aston Villa defender Joe Bennett is still struggling with an ankle injury and is doubtful for tomorrow&#039;s home match against Hull. </p>
+  <div class="caption body-narrow-width">
+  <img src="http://news.bbcimg.co.uk/media/images/74611000/jpg/_74611708_021798463-1.jpg" width="304" height="171" alt="Joe Bennett" />
+
+  </div>
+      <p>Jores Okore has returned to training after a long-term ligament injury but is not ready to play. </p><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-STANDARD " id="pulsar_27262911_HighWeb" data-datetime="2014-05-02T17:26:17">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<div class="item-info">
+			<span class="sub-heading">Head teachers' fears over six schools</span>
+			<span class="time">17:26:</span>
+			</div>
+	</div>
+	<div class="description"><p><a href="http://www.bbc.co.uk/news/education-27257077" >Head teachers believe there were &quot;concerted efforts&quot;</a> to infiltrate and run about six Birmingham schools in line with hardline Muslim principles. </p><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-TWEET " id="pulsar_27262417_HighWeb" data-datetime="2014-05-02T17:15:02">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<div class="item-info">
+			<span class="sub-heading">Delays across Birmingham city centre</span>
+			<span class="time">17:14:</span>
+			</div>
+	</div>
+	<div class="description"><p>NX West Midlands <a href="https://twitter.com/nxwestmidlands/status/462256912097349632" >tweets</a>: Heavy delays across Birmingham City Centre this evening, please bear with us :)</p><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-STANDARD " id="pulsar_27262411_HighWeb" data-datetime="2014-05-02T17:05:17">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<div class="item-info">
+			<span class="sub-heading">Firefighters' strike ends</span>
+			<span class="time">17:05:</span>
+			</div>
+	</div>
+	<div class="description"><p>The strike by firefighters in England and Wales has now finished, but further walkouts are planned over the weekend from 14:00 tomorrow until 02:00 Sunday, and again between 10:00 and 15:00.</p>
+        <p><a href="http://www.bbc.co.uk/news/uk-27255391" >The Fire Brigades Union opposes plans to increase the retirement age</a> and make changes to pensions.</p>
+        <p>The government said firefighters had &quot;one of the most generous pension schemes in all the public sector&quot;.</p><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-STANDARD " id="pulsar_27262414_HighWeb" data-datetime="2014-05-02T16:58:31">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<img src="http://news.bbcimg.co.uk/media/images/72328000/png/_72328920_wmradio.png" height="40" width="40" alt=" " /><div class="has-image item-info">
+			<span class="sub-heading">News on the hour</span>
+			<span class="time">16:58:</span>
+			<span class="contributor">
+					<span class="contributor-name">BBC WM</span>
+					</span>
+			</div>
+	</div>
+	<div class="description"><p>In the <a href="http://www.bbc.co.uk/wm" >news at 17:00</a> with Alice Rosenthal:</p>
+  <ul>
+    <li> Two carers have been charged with manslaughter after a 91-year-old woman died from injuries she&#039;d received at a care home near Sutton Coldfield</li>
+    <li> Publicist <a href="http://www.bbc.co.uk/news/uk-27259318" >Max Clifford has been sentenced to eight years in prison</a> for a series of indecent assaults on four women</li>
+    <li> It&#039;s emerged that 21 schools have now been inspected over allegations that hard-line Muslims are trying to take over the running of some schools in Birmingham</li>
+  </ul><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-BREAKING " id="pulsar_27262419_HighWeb" data-datetime="2014-05-02T16:55:42">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<img src="http://news.bbcimg.co.uk/media/images/67059000/jpg/_67059551_24ch0113-483.jpg" height="40" width="40" alt=" " /><div class="has-image item-info">
+			<span class="sub-heading">Stephen discharged</span>
+			<span class="time">16:57:</span>
+			<span class="heading">Breaking News</span>
+			<span class="contributor">
+					<span class="contributor-name">Chris Blakemore</span>
+					<span class="contributor-description">News editor, BBC WM</span>
+					</span>
+			</div>
+	</div>
+	<div class="description"><p>Cancer sufferer Stephen Sutton has been discharged from hospital and is now back at home.</p><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-STANDARD " id="pulsar_27257546_HighWeb" data-datetime="2014-05-02T16:49:44">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<div class="item-info">
+			<span class="sub-heading">How to win at rock-paper-scissors</span>
+			<span class="time">16:49:</span>
+			</div>
+	</div>
+	<div class="description"><p>Just in case you find yourself stuck in a traffic jam this bank holiday weekend and someone suggests a game of rock-paper-scissors to pass the time, chances are you could get the upper hand by following hidden patterns... <a href="http://www.bbc.co.uk/news/science-environment-27228416" >Read this handy guide from BBC Science &amp; Environment</a>.</p>
+  <div class="caption body-narrow-width">
+  <img src="http://news.bbcimg.co.uk/media/images/74604000/jpg/_74604778__74580127_162317629(1)-1.jpg" width="304" height="171" alt="rock paper scissors" />
+
+  </div><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-TWEET " id="pulsar_27261629_HighWeb" data-datetime="2014-05-02T16:40:06">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<div class="item-info">
+			<span class="sub-heading">Hollywood star gets behind Blues</span>
+			<span class="time">16:40:</span>
+			</div>
+	</div>
+	<div class="description"><p>Birmingham-born Hollywood star David Harewood <a href="https://twitter.com/DavidHarewood/status/462179432023998464" >tweets</a>: Today. We call on the spirit of Latchford, Francis and Burns. Of Dugarry and all who have worn the Blue and White! Keep Right On Lads!#BCFC</p>
+  <div class="caption">
+  <img src="http://news.bbcimg.co.uk/media/images/74610000/jpg/_74610464__69080789_davidharewood_pa-1.jpg" width="144" height="144" alt="david harqwood" />
+
+  </div><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-STANDARD " id="pulsar_27260583_HighWeb" data-datetime="2014-05-02T16:32:27">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<img src="http://news.bbcimg.co.uk/media/images/67295000/jpg/_67295611_image.jpg" height="40" width="40" alt=" " /><div class="has-image item-info">
+			<span class="sub-heading">Trojan Horse developments</span>
+			<span class="time">16:32:</span>
+			<span class="contributor">
+					<span class="contributor-name">Kath Stanczyszyn</span>
+					<span class="contributor-description">Journalist, BBC WM</span>
+					</span>
+			</div>
+	</div>
+	<div class="description"><p>It&#039;s emerged that 21 schools have now been inspected over allegations hardline Muslims are trying to take over the running of some schools in Birmingham.</p>
+        <p>There are four separate investigations going on following the so-called Trojan Horse letter.</p>
+        <p>Ofsted originally visited 18 schools and it now says inspectors have visited three more in the city - all primary schools - this week.</p>
+        <p>The chief inspector Sir Michael Wilshaw has also asked for more evidence from some schools before it makes its reports - all 21 are expected to be published at the beginning of June.</p><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-STANDARD " id="pulsar_27261625_HighWeb" data-datetime="2014-05-02T16:24:36">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<div class="item-info">
+			<span class="sub-heading">Wolves v Carlisle preview</span>
+			<span class="time">16:24:</span>
+			</div>
+	</div>
+	<div class="description"><p><a href="http://www.bbc.co.uk/sport/0/football/27167811" >Champions Wolves</a> take on relegation-haunted Carlisle United tomorrow looking for the victory that would break the League One record for most points in a season. </p><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-STANDARD " id="pulsar_27258520_HighWeb" data-datetime="2014-05-02T16:16:47">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<img src="http://news.bbcimg.co.uk/media/images/74604000/jpg/_74604784_fwk9pr3s.jpg" height="40" width="40" alt=" " /><div class="has-image item-info">
+			<span class="sub-heading">Hugh Grant and me</span>
+			<span class="time">16:16:</span>
+			<span class="contributor">
+					<span class="contributor-name">Amy Cole</span>
+					<span class="contributor-description">Reporter, Midlands Today</span>
+					</span>
+			</div>
+	</div>
+	<div class="description"><p>It&#039;s not every day you&#039;re able to say this but A-lister Hugh Grant will be on Midlands Today tonight at 18:30. </p>
+  <div class="caption body-narrow-width">
+  <img src="http://news.bbcimg.co.uk/media/images/74610000/jpg/_74610461__69195216_69195211-1.jpg" width="304" height="171" alt="Hugh Grant" />
+
+  </div>
+      <p>I interviewed him earlier today - turns out he&#039;s a born comic! </p><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-BREAKING " id="pulsar_27261624_HighWeb" data-datetime="2014-05-02T16:10:43">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<img src="http://news.bbcimg.co.uk/media/images/67059000/jpg/_67059551_24ch0113-483.jpg" height="40" width="40" alt=" " /><div class="has-image item-info">
+			<span class="sub-heading">Carers in court</span>
+			<span class="time">16:10:</span>
+			<span class="contributor">
+					<span class="contributor-name">Chris Blakemore</span>
+					<span class="contributor-description">News editor, BBC WM</span>
+					</span>
+			</div>
+	</div>
+	<div class="description"><p>Two carers have appeared in court charged with killing a 91-year-old woman at a care home near Sutton Coldfield.</p>
+        <p>Iris Teale was found with a broken leg at the Aston Court nursing Home in Little Aston in October 2011 - she died at Good Hope Hospital just over two weeks later.</p>
+        <p>Two carers, Santhosh Rajan and Marsha Tulloch, have been charged with manslaughter and they&#039;re due back in court later this month.</p><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-STANDARD " id="pulsar_27261621_HighWeb" data-datetime="2014-05-02T15:59:11">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<img src="http://news.bbcimg.co.uk/media/images/72328000/png/_72328920_wmradio.png" height="40" width="40" alt=" " /><div class="has-image item-info">
+			<span class="sub-heading">News on the hour</span>
+			<span class="time">15:59:</span>
+			<span class="contributor">
+					<span class="contributor-name">BBC WM</span>
+					</span>
+			</div>
+	</div>
+	<div class="description"><p>The top news stories coming up this hour with Alice Rosenthal:</p>
+  <ul>
+    <li> The publicist <a href="http://www.bbc.co.uk/news/uk-27259318" >Max Clifford has been sentenced to eight years in prison</a></li>
+    <li> BBC WM&#039;s been told parents are keeping their children out of a Dudley Primary school because of fears over knives</li>
+    <li> <a href="http://www.bbc.co.uk/news/uk-northern-ireland-27249495" >Sinn Féin leader Gerry Adams is still being questioned</a> by Northern Ireland police in connection with the 1972 murder of Jean McConville</li>
+  </ul><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-STANDARD " id="pulsar_27257542_HighWeb" data-datetime="2014-05-02T15:45:08">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<div class="item-info">
+			<span class="sub-heading">Gang jailed after drugs and firearms trial</span>
+			<span class="time">15:45:</span>
+			</div>
+	</div>
+	<div class="description"><p><a href="http://www.west-midlands.police.uk/latest-news/news.aspx?id=787" >Four men have been given sentences of up to 14 years</a> behind bars at Birmingham Crown Court after shotguns and cocaine were recovered from a gang safe house.</p>
+        <p>A shotgun and a large quantity of Class A Cocaine was found at an address in Stockfield Road, Acocks Green which was being used a safe house for the gang. </p>
+        <p>A blank firing pistol was also found in the boot of a car along with a balaclava and gloves. A further live shotgun cartridge was found in another vehicle.</p><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-STANDARD " id="pulsar_27251219_HighWeb" data-datetime="2014-05-02T15:36:04">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<div class="item-info">
+			<span class="sub-heading">World War One At Home Tour</span>
+			<span class="time">15:36:</span>
+			</div>
+	</div>
+	<div class="description"><p><a href="http://www.bbc.co.uk/mediacentre/latestnews/2014/ww1-home-tour" >The BBC World War One At Home Tour</a> is coming to the Midlands, including Wolverhampton.</p>
+  <div class="caption body-narrow-width">
+  <img src="http://news.bbcimg.co.uk/media/images/74569000/jpg/_74569886_c02e00d3-ae1b-4987-91f4-a13d63f977a9.jpg" width="304" height="171" alt="WW1" />
+
+  </div>
+      <p>Actor Larry Lamb is one of the well-known BBC faces who will take part in a number of the events, which will reflect on the dramatic impact the war had on families and communities, as well as helping people to explore their own relatives&#039; links to the war.</p><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-STANDARD " id="pulsar_27256939_HighWeb" data-datetime="2014-05-02T15:26:42">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<img src="http://news.bbcimg.co.uk/media/images/72506000/png/_72506994_birminghampost.png" height="40" width="40" alt=" " /><div class="has-image item-info">
+			<span class="sub-heading">Lord Whitby: New Street cuts 'ruining my dreams'</span>
+			<span class="time">15:26:</span>
+			<span class="contributor">
+					<span class="contributor-name">Birmingham Post</span>
+					</span>
+			</div>
+	</div>
+	<div class="description"><p><a href="http://www.birminghampost.co.uk/" >The former Birmingham City Council leader</a> who launched the £600m revamp of New Street Station has blasted Network Rail for &quot;ruining&quot; his dreams. </p><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-STANDARD " id="pulsar_27256034_HighWeb" data-datetime="2014-05-02T15:15:16">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<img src="http://news.bbcimg.co.uk/media/images/72328000/png/_72328920_wmradio.png" height="40" width="40" alt=" " /><div class="has-image item-info">
+			<span class="sub-heading">Big weekend of football</span>
+			<span class="time">15:15:</span>
+			<span class="contributor">
+					<span class="contributor-name">BBC WM</span>
+					</span>
+			</div>
+	</div>
+	<div class="description"><p>We&#039;ll have all the big football action from 12:00 tomorrow.</p>
+        <p>It&#039;s D-day for Blues when they meet Bolton and a &quot;must-not-lose&quot; day for Villa against Hull City.</p><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-STANDARD " id="pulsar_27253644_HighWeb" data-datetime="2014-05-02T15:07:34">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<div class="item-info">
+			<span class="sub-heading">Snap-happy drug dealers jailed</span>
+			<span class="time">15:07:</span>
+			</div>
+	</div>
+	<div class="description"><p><a href="http://www.bbc.co.uk/news/uk-england-birmingham-27250396" >Four cannabis dealers from Birmingham have been jailed</a>. West Midlands Police seized cannabis with a street value of £1,000, dealer bags, digital scales and mobile phones containing a back catalogue of text conversations between the group discussing drug deals, as well as incriminating photos.</p>
+  <div class="caption body-narrow-width">
+  <img src="http://news.bbcimg.co.uk/media/images/74599000/jpg/_74599538__74596965_e0c12cba-df5b-43af-bf5d-0166e08f1041-1.jpg" width="304" height="304" alt="drug dealers pose" />
+
+  </div><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-STANDARD " id="pulsar_27259819_HighWeb" data-datetime="2014-05-02T14:56:01">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<img src="http://news.bbcimg.co.uk/media/images/72328000/png/_72328920_wmradio.png" height="40" width="40" alt=" " /><div class="has-image item-info">
+			<span class="sub-heading">News headlines</span>
+			<span class="time">14:55:</span>
+			<span class="contributor">
+					<span class="contributor-name">BBC WM</span>
+					</span>
+			</div>
+	</div>
+	<div class="description"><p>The top news stories coming up this hour with Alice Rosenthal:</p>
+  <ul>
+    <li> The publicist <a href="http://www.bbc.co.uk/news/uk-27259318" >Max Clifford has been sentenced to eight years in prison</a></li>
+    <li> BBC WM&#039;s been told parents are keeping their children out of a Dudley Primary school because of fears over knives</li>
+    <li> <a href="http://www.bbc.co.uk/news/uk-northern-ireland-27249495" >Sinn Féin leader Gerry Adams is still being questioned</a> by Northern Ireland police in connection with the 1972 murder of Jean McConville</li>
+  </ul><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-STANDARD " id="pulsar_27259817_HighWeb" data-datetime="2014-05-02T14:45:06">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<div class="item-info">
+			<span class="sub-heading">Prince adds second date</span>
+			<span class="time">14:44:</span>
+			</div>
+	</div>
+	<div class="description"><p>For the first time in 19 years Prince will perform in Birmingham later this month, and tickets went on sale at midday.</p>
+        <p><a href="https://www.theticketfactory.com/default/online/default.asp?doWork::WScontent::loadArticle=Load&amp;BOparam::WScontent::loadArticle::article_id=A98E7FFC-DEAA-4096-8592-BB514BCA6F47" >An extra date has now been added</a> and he is to perform at the LG Arena on 15 May and 19 May.</p><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-STANDARD " id="pulsar_27252413_HighWeb" data-datetime="2014-05-02T14:34:14">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<div class="item-info">
+			<span class="sub-heading">Birmingham City Prayer</span>
+			<span class="time">14:34:</span>
+			</div>
+	</div>
+	<div class="description"><p>Earlier today we brought you an interview with the vicar who&#039;s written a prayer for Blues ahead of their crucial match tomorrow. Here it is in full. </p>
+        <p><strong>THE BLUES PRAYER</strong></p>
+        <p>We have heard with our ears, O God,</p>
+        <p>What our ancestors have told us,</p>
+        <p>What deeds Birmingham City performed in their days,</p>
+        <p>In the days of old.</p>
+        <p>How they swept aside mighty Arsenal,</p>
+        <p>And had a pretty good stab at the play-offs.</p>
+        <p>But we&#039;ve been sheep for the slaughter,</p>
+        <p>A byword among the nations, and a laughing stock among the peoples.</p>
+        <p>Shine the light of your countenance,</p>
+        <p>When Lee Clark knows not what he does;</p>
+        <p>Extend your right hand,</p>
+        <p>When it starts to look like an early Bolton goal.</p>
+        <p>Rise up, and come to our help,</p>
+        <p>For Doncaster never belonged in the Championship anyway.</p>
+        <p>And, Lord - Keep Right On</p><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-STANDARD " id="pulsar_27251523_HighWeb" data-datetime="2014-05-02T14:24:11">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<img src="http://news.bbcimg.co.uk/media/images/72506000/png/_72506994_birminghampost.png" height="40" width="40" alt=" " /><div class="has-image item-info">
+			<span class="sub-heading">Islamic Relief anniversary celebrations</span>
+			<span class="time">14:24:</span>
+			<span class="contributor">
+					<span class="contributor-name">Birmingham Post</span>
+					</span>
+			</div>
+	</div>
+	<div class="description"><p><a href="http://www.birminghampost.co.uk/news/regional-affairs/justine-greening-joins-islamic-relief-7061541" >The MP met staff at the international office</a> and discussed developments in Syria and Afghanistan, where Birmingham-based charity Islamic Relief and the Department for International Development are involved in aid projects.</p><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-STANDARD " id="pulsar_27255216_HighWeb" data-datetime="2014-05-02T14:15:28">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<img src="http://news.bbcimg.co.uk/media/images/72328000/png/_72328920_wmradio.png" height="40" width="40" alt=" " /><div class="has-image item-info">
+			<span class="sub-heading">Always take pride in your work</span>
+			<span class="time">14:15:</span>
+			<span class="contributor">
+					<span class="contributor-name">BBC WM</span>
+					</span>
+			</div>
+	</div>
+	<div class="description"><p>Here&#039;s a picture of our newsreader Jay Vydelingum admiring his handiwork with a less impressed colleague.</p>
+  <div class="caption body-narrow-width">
+  <img src="http://news.bbcimg.co.uk/media/images/74599000/jpg/_74599544_jay2.jpg" width="304" height="171" alt="Jay Vyedelingum" />
+
+  </div>
+      <p>Earlier on this morning he colour-coordinated the West Midlands football teams&#039; names on our screen. </p>
+  <div class="caption body-narrow-width">
+  <img src="http://news.bbcimg.co.uk/media/images/74599000/jpg/_74599546_jay3.jpg" width="304" height="171" alt="screen" />
+
+  </div><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-STANDARD " id="pulsar_27257938_HighWeb" data-datetime="2014-05-02T14:05:14">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<div class="item-info">
+			<span class="sub-heading">PM visits Stephen Sutton</span>
+			<span class="time">14:05:</span>
+			</div>
+	</div>
+	<div class="description"><p>Prime Minister David Cameron, who&#039;s been in the region today, <a href="http://www.telegraph.co.uk/health/healthnews/10803706/David-Cameron-hails-courage-of-cancer-patient-Stephen-Sutton.html" >visited fundraising teenager Stephen Sutton</a> at the QE Hospital. </p>
+        <p>Stephen has raised more than £3m for charity since being diagnosed with terminal cancer in 2012 and his <a href="http://www.bbc.co.uk/news/uk-england-27192089" >fundraising efforts</a> - which originally started out as part of his bucket list - have captured the imagination of celebrities and media outlets around the world. </p>
+  <div class="caption body-narrow-width">
+  <img src="http://news.bbcimg.co.uk/media/images/74604000/jpg/_74604780__74518991_manford-1.jpg" width="304" height="171" alt="manford and sutton" />
+
+  </div>
+      <p>Comedian Jason Manford (pictured) has played a key role in helping Stephen raise money and last weekend put on a night of comedy in Birmingham featuring several top names.</p><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-STANDARD " id="pulsar_27259081_HighWeb" data-datetime="2014-05-02T13:54:05">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<img src="http://news.bbcimg.co.uk/media/images/72328000/png/_72328920_wmradio.png" height="40" width="40" alt=" " /><div class="has-image item-info">
+			<span class="sub-heading">News on the hour</span>
+			<span class="time">13:54:</span>
+			<span class="contributor">
+					<span class="contributor-name">BBC WM</span>
+					</span>
+			</div>
+	</div>
+	<div class="description"><p>The top stories at 14:00 on <a href="http://www.bbc.co.uk/wm" >BBC WM</a> include:</p>
+  <ul>
+    <li> Four Birmingham men have been jailed for a total of more than 36 years after police raided a gang safe house in Acocks Green and found shotguns and cocaine</li>
+    <li> <a href="http://www.bbc.co.uk/news/uk-27250231" >Publicist Max Clifford</a> has refused to apologise to his victims as he arrived at court to be sentenced for a string of indecent assaults</li>
+    <li> The teaching union NAHT says 30 head teachers in Birmingham have raised concerns about alleged hard-line Muslim takeover of schools</li>
+  </ul><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-STANDARD " id="pulsar_27251528_HighWeb" data-datetime="2014-05-02T13:45:30">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<img src="http://news.bbcimg.co.uk/media/images/71091000/png/_71091804_expressandstar.png" height="40" width="40" alt=" " /><div class="has-image item-info">
+			<span class="sub-heading">Inquest opens</span>
+			<span class="time">13:45:</span>
+			<span class="contributor">
+					<span class="contributor-name">Express and Star</span>
+					</span>
+			</div>
+	</div>
+	<div class="description"><p><a href="http://www.expressandstar.com/news/2014/05/01/inquest-opens-into-death-of-wolverhampton-murder-victim/" >An inquest was opened today</a> into a woman allegedly murdered by her estranged husband.</p><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-STANDARD " id="pulsar_27258514_HighWeb" data-datetime="2014-05-02T13:36:33">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<img src="http://news.bbcimg.co.uk/media/images/61683000/jpg/_61683653_lawro_206.jpg" height="40" width="40" alt=" " /><div class="has-image item-info">
+			<span class="sub-heading">Villa v Hull: Lawro's prediction</span>
+			<span class="time">13:36:</span>
+			<span class="contributor">
+					<span class="contributor-name">Mark Lawrenson</span>
+					<span class="contributor-description">Football analyst</span>
+					</span>
+			</div>
+	</div>
+	<div class="description"><p><a href="http://www.bbc.co.uk/sport/0/football/27168599" >Aston Villa manager Paul Lambert</a> has described this game as being like a &quot;cup final&quot; but his future is far from secure even if they win it. </p>
+        <p>Lambert has picked up only one point from the last 18 available and you know you are in trouble when your travelling fans turn on you and your players like Villa&#039;s did in their 4-1 defeat by Swansea last weekend.</p><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-STANDARD " id="pulsar_27256936_HighWeb" data-datetime="2014-05-02T13:22:44">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<div class="item-info">
+			<span class="sub-heading">Your photos: Brum from above</span>
+			<span class="time">13:22:</span>
+			</div>
+	</div>
+	<div class="description"><p>Thanks to Nichole Samuels for sharing this great view of Birmingham, taken from the Alpha Tower.</p>
+  <div class="caption body-narrow-width">
+  <img src="http://news.bbcimg.co.uk/media/images/74603000/jpg/_74603028_6h3kapho.jpg" width="304" height="304" alt="Brum 2014" />
+
+  </div>
+      <p>If you&#039;ve got any pictures that you&#039;d like to share with us you can <a href="mailto:locallive@bbc.co.uk" >email</a> or <a href="http://twitter.com/bbcwm" >tweet</a> us.</p><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-STANDARD " id="pulsar_27253432_HighWeb" data-datetime="2014-05-02T13:13:26">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<div class="item-info">
+			<span class="sub-heading">Scouts numbers up</span>
+			<span class="time">13:13:</span>
+			</div>
+	</div>
+	<div class="description"><p>The Daily Mail reports that <a href="http://www.dailymail.co.uk/news/article-2618281/Girls-fuel-massive-boom-Scouts-Number-children-joined-movement-goes-100-000-ten-years.html" >girls have helped fuel a massive boom</a> for Scouts as numbers have increased by 100,000. </p>
+        <p>Here in Birmingham numbers have increased by 8% with young people and a similar figure for adult volunteers.</p><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-STANDARD " id="pulsar_27257936_HighWeb" data-datetime="2014-05-02T13:03:57">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<img src="http://news.bbcimg.co.uk/media/images/67059000/jpg/_67059551_24ch0113-483.jpg" height="40" width="40" alt=" " /><div class="has-image item-info">
+			<span class="sub-heading">Trojan Horse latest</span>
+			<span class="time">13:03:</span>
+			<span class="contributor">
+					<span class="contributor-name">Chris Blakemore</span>
+					<span class="contributor-description">News editor, BBC WM</span>
+					</span>
+			</div>
+	</div>
+	<div class="description"><p>The<a href="http://www.naht.org.uk/" > National Association of Head Teachers</a> says 30 heads in Birmingham have now raised concerns about an alleged hard-line Muslim takeover of schools in the city.</p>
+        <p>The union is holding its annual conference in the West Midlands this weekend. Eighteen schools are currently being investigated as part of the <a href="http://www.bbc.co.uk/news/uk-27188055" >Trojan Horse allegations</a>.</p><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-STANDARD " id="pulsar_27257884_HighWeb" data-datetime="2014-05-02T12:57:54">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<img src="http://news.bbcimg.co.uk/media/images/72328000/png/_72328920_wmradio.png" height="40" width="40" alt=" " /><div class="has-image item-info">
+			<span class="sub-heading">News on the hour</span>
+			<span class="time">12:57:</span>
+			<span class="contributor">
+					<span class="contributor-name">BBC WM</span>
+					</span>
+			</div>
+	</div>
+	<div class="description"><p>The top stories at 13:00 on <a href="http://www.bbc.co.uk/wm" >BBC WM</a> include:</p>
+  <ul>
+    <li> <a href="http://www.bbc.co.uk/news/uk-27249518" >A proposal to toughen the law on knife crime</a> has prompted a new row within the coalition</li>
+    <li> <a href="http://www.bbc.co.uk/news/uk-27250231" >Publicist Max Clifford</a> has refused to apologise to his victims as he arrived at court to be sentenced for a string of indecent assaults</li>
+    <li> The teaching union NAHT says 30 head teachers in Birmingham have raised concerns about alleged hard-line Muslim takeover of schools</li>
+  </ul><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-STANDARD " id="pulsar_27256036_HighWeb" data-datetime="2014-05-02T12:50:55">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<img src="http://news.bbcimg.co.uk/media/images/72506000/png/_72506995_birminghammail.png" height="40" width="40" alt=" " /><div class="has-image item-info">
+			<span class="sub-heading">PM meets Stephen Sutton</span>
+			<span class="time">12:50:</span>
+			<span class="contributor">
+					<span class="contributor-name">Birmingham Mail</span>
+					</span>
+			</div>
+	</div>
+	<div class="description"><p>Prime Minister David Cameron described teenage cancer patient Stephen Sutton as &#039;amazing&#039; and &#039;inspiration&#039; following a <a href="http://www.birminghammail.co.uk/news/midlands-news/david-cameron-makes-flying-visit-7064175" >bedside visit on Friday</a>.</p><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-STANDARD " id="pulsar_27256933_HighWeb" data-datetime="2014-05-02T12:43:05">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<img src="http://news.bbcimg.co.uk/media/images/69002000/jpg/_69002937_dsc_0140.jpg" height="40" width="40" alt=" " /><div class="has-image item-info">
+			<span class="sub-heading">Taylor on WM's books</span>
+			<span class="time">12:43:</span>
+			<span class="contributor">
+					<span class="contributor-name">Steve Hermon</span>
+					<span class="contributor-description">Journalist, BBC WM</span>
+					</span>
+			</div>
+	</div>
+	<div class="description"><p>Former England, Villa and Wolves boss Graham Taylor will be part of the BBC WM team broadcasting from Villa Park tomorrow. Kick-off&#039;s at 15:00.</p><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-STANDARD " id="pulsar_27257402_HighWeb" data-datetime="2014-05-02T12:35:33">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<div class="item-info">
+			<span class="sub-heading">Pupils off school after alleged knife incident</span>
+			<span class="time">12:35:</span>
+			</div>
+	</div>
+	<div class="description"><p><a href="http://www.bbc.co.uk/news/uk-england-birmingham-27252886" >About 30 children are being kept off school by parents</a> who claim an alleged knife incident was not taken seriously.</p>
+  <div class="caption body-narrow-width">
+  <img src="http://news.bbcimg.co.uk/media/images/74604000/jpg/_74604776__74601132_74599917-1.jpg" width="304" height="171" alt="Coseley school" />
+
+  </div>
+      <p>They believe a pupil brought a knife into Hurst Hill Primary in Coseley, Bilston, West Midlands on Wednesday.</p><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-STANDARD " id="pulsar_27256447_HighWeb" data-datetime="2014-05-02T12:30:27">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<img src="http://news.bbcimg.co.uk/media/images/65368000/jpg/_65368031_joanne_malin.jpg" height="40" width="40" alt=" " /><div class="has-image item-info">
+			<span class="sub-heading">Midlands Today later</span>
+			<span class="time">12:30:</span>
+			<span class="contributor">
+					<span class="contributor-name">Joanne Malin</span>
+					<span class="contributor-description">Presenter, Midlands Today</span>
+					</span>
+			</div>
+	</div>
+	<div class="description"><p>On Midlands Today this lunchtime: why the amount of garden waste being dumped in Birmingham is on the up, and the school children hoping to sing their way into the final of the Songs of Praise Schools Choir competition. </p>
+        <p>Join me at 13:25 on BBC One.</p><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-STANDARD " id="pulsar_27256455_HighWeb" data-datetime="2014-05-02T12:24:05">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<img src="http://news.bbcimg.co.uk/media/images/65210000/jpg/_65210169_dsc_0025.jpg" height="40" width="40" alt=" " /><div class="has-image item-info">
+			<span class="sub-heading">Birmingham meets Bauer</span>
+			<span class="time">12:24:</span>
+			<span class="contributor">
+					<span class="contributor-name">Phil Mackie</span>
+					<span class="contributor-description">Reporter, BBC Radio 5 live</span>
+					</span>
+			</div>
+	</div>
+	<div class="description"><p>This is a first - with a nod to Jack Bauer and the TV series 24, West Midlands Police Counter Terrorism Unit will be tweeting live all day on Tuesday 6 May to give an insight into 24 hours in the life of <a href="http://www.west-midlands.police.uk/latest-news/news.aspx?id=786" >real counter terrorism officers</a>.</p>
+  <div class="caption body-narrow-width">
+  <img src="http://news.bbcimg.co.uk/media/images/74603000/jpg/_74603026_wmctu2.jpg" width="304" height="171" alt="WMCTU" />
+
+  </div>
+      <p>Head of unit, Det Ch Supt Sue Southern, says: &quot;We are often asked whether the TV programme is anything like real life. Now people will be able to judge for themselves as they experience a day behind the scenes with our staff.&quot;</p><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-STANDARD " id="pulsar_27256454_HighWeb" data-datetime="2014-05-02T12:16:24">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<img src="http://news.bbcimg.co.uk/media/images/67059000/jpg/_67059549_24ch0113-603.jpg" height="40" width="40" alt=" " /><div class="has-image item-info">
+			<span class="sub-heading">Everywhere you go ...</span>
+			<span class="time">12:16:</span>
+			<span class="contributor">
+					<span class="contributor-name">Rebecca Wood</span>
+					<span class="contributor-description">BBC Weather</span>
+					</span>
+			</div>
+	</div>
+	<div class="description"><p>...always take the weather with you... Make the most of your Bank Holiday, don&#039;t forget to check the BBC Weather App before you leave the house!</p>
+  <div class="caption body-narrow-width">
+  <img src="http://news.bbcimg.co.uk/media/images/74603000/jpg/_74603024_55bb4ac0-da61-4430-9951-39ddf912717b.jpg" width="304" height="171" alt="weather app" />
+
+  </div><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-STANDARD " id="pulsar_27256934_HighWeb" data-datetime="2014-05-02T12:10:56">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<div class="item-info">
+			<span class="sub-heading">Fire Strike</span>
+			<span class="time">12:10:</span>
+			</div>
+	</div>
+	<div class="description"><p>A reminder that the West Midlands Fire Service teams have started the first of three national strikes. It is due to run until 17:00.</p><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-STANDARD " id="pulsar_27256450_HighWeb" data-datetime="2014-05-02T11:55:05">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<div class="item-info">
+			<span class="sub-heading">News on the hour</span>
+			<span class="time">11:55:</span>
+			</div>
+	</div>
+	<div class="description"><p>The news on the hour from <a href="http://www.bbc.co.uk/wm" >BBC WM</a> includes:</p>
+  <ul>
+    <li> <a href="http://www.bbc.co.uk/news/business-27250795" >The American drugs giant</a> Pfizer has stepped up its attempts to take over the British company AstraZeneca</li>
+    <li> Jeremy Clarkson&#039;s apology for seemingly using &quot;the n-word&quot; has led to calls for him to lose his job as a TV presenter</li>
+    <li> <a href="http://www.bbc.co.uk/news/uk-27249518" >A proposal to toughen the law on knife crime</a> has prompted a new row within the coalition</li>
+  </ul><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-STANDARD " id="pulsar_27256032_HighWeb" data-datetime="2014-05-02T11:50:49">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<div class="item-info">
+			<span class="sub-heading">Train staff going nowhere for charity</span>
+			<span class="time">11:50:</span>
+			</div>
+	</div>
+	<div class="description"><p>Staff from the Birmingham HQ of CrossCountry Trains will be holding a charity static bike ride on 8 May at Birmingham New Street station. </p>
+        <p>The static bike ride will raise money for the Prince&#039;s Trust and will see a number of CrossCountry staff take part in cycling a total of 250 miles (the equivalent of cycling from Birmingham to Glasgow!).</p><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-STANDARD " id="pulsar_27253637_HighWeb" data-datetime="2014-05-02T11:39:55">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<img src="http://news.bbcimg.co.uk/media/images/72506000/png/_72506995_birminghammail.png" height="40" width="40" alt=" " /><div class="has-image item-info">
+			<span class="sub-heading">Cameron's son spurns Villa</span>
+			<span class="time">11:39:</span>
+			<span class="contributor">
+					<span class="contributor-name">Birmingham Mail</span>
+					</span>
+			</div>
+	</div>
+	<div class="description"><p><a href="http://www.birminghammail.co.uk/news/midlands-news/david-cameron-aston-villa-bad-7063087" >Aston Villa are SO bad</a> that the Prime Minister&#039;s son supports Chelsea instead. David Cameron made the revelation during a visit to Birmingham this morning.</p><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-TWEET " id="pulsar_27256028_HighWeb" data-datetime="2014-05-02T11:30:59">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<div class="item-info">
+			<span class="sub-heading">Fire Strike starts at noon</span>
+			<span class="time">11:30:</span>
+			</div>
+	</div>
+	<div class="description"><p>West Midlands Fire Service <a href="https://twitter.com/WestMidsFire/statuses/462171683768778752" >tweets</a>: Please be aware that the firefighters&#039; strike starts at 12. Take extra care. #staysafe <a href="http://bit.ly/1rTtuMR" >http://bit.ly/1rTtuMR </a></p><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-STANDARD " id="pulsar_27251530_HighWeb" data-datetime="2014-05-02T11:24:34">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<img src="http://news.bbcimg.co.uk/media/images/71091000/png/_71091806_dudleynews.png" height="40" width="40" alt=" " /><div class="has-image item-info">
+			<span class="sub-heading">Brierley Hill men jailed after raid on pensioner's home</span>
+			<span class="time">11:24:</span>
+			<span class="contributor">
+					<span class="contributor-name">Dudley News</span>
+					</span>
+			</div>
+	</div>
+	<div class="description"><p>Two Brierley Hill men who raided the home of an 83-year-old widow and stole treasured jewellery valued at £1,200, have both <a href="http://www.dudleynews.co.uk/news/local/11187175.Brierley_Hill_men_jailed_after_raid_on_pensioner_s_home/?ref=var_0" >been jailed for eight months</a>. </p><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-STANDARD " id="pulsar_27252419_HighWeb" data-datetime="2014-05-02T11:13:38">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<div class="item-info">
+			<span class="sub-heading">Fire Service strikes</span>
+			<span class="time">11:13:</span>
+			</div>
+	</div>
+	<div class="description"><p><a href="https://www.wmfs.net/content/firefighters-strikes" >West Midlands Fire Service is urging people</a> to make safety their top priority this Bank Holiday weekend - especially during three strikes being staged by firefighters.</p>
+        <p>The industrial action is planned for today (12:00 to 17:00), Saturday (14:00 to 02:00) and Sunday (10:00 to 15:00).</p>
+        <p>The walkouts are the latest to be called by the Fire Brigades Union in a national dispute over pensions.</p><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-STANDARD " id="pulsar_27255215_HighWeb" data-datetime="2014-05-02T11:04:41">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<img src="http://news.bbcimg.co.uk/media/images/72328000/png/_72328920_wmradio.png" height="40" width="40" alt=" " /><div class="has-image item-info">
+			<span class="sub-heading">Getting behind local teams</span>
+			<span class="time">11:04:</span>
+			<span class="contributor">
+					<span class="contributor-name">BBC WM</span>
+					</span>
+			</div>
+	</div>
+	<div class="description"><p>There&#039;s no end to our dedication to our local football teams here in the BBC WM offices. Newsreader Jay Vydelingum has spent hours this morning adding the appropriate colours to the teams&#039; names.</p>
+        <p>Jay says they&#039;ve taken the decision not to colour opposition team names though as life&#039;s too short.</p>
+  <div class="caption body-narrow-width">
+  <img src="http://news.bbcimg.co.uk/media/images/74599000/jpg/_74599542_jay3.jpg" width="304" height="171" alt="WM talk up" />
+
+  </div>
+      <p>Incidentally, we accept that the precise shades may not be perfect, but it&#039;s the thought that counts and there&#039;s a limit to our computer&#039;s colour palette.</p><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-STANDARD " id="pulsar_27255217_HighWeb" data-datetime="2014-05-02T10:56:44">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<img src="http://news.bbcimg.co.uk/media/images/67059000/jpg/_67059697_24ch0113-744.jpg" height="40" width="40" alt=" " /><div class="has-image item-info">
+			<span class="sub-heading">News on the hour</span>
+			<span class="time">10:56:</span>
+			<span class="contributor">
+					<span class="contributor-name">Jay Vydelingum</span>
+					<span class="contributor-description">Journalist, BBC WM</span>
+					</span>
+			</div>
+	</div>
+	<div class="description"><p>The news on the hour from <a href="http://www.bbc.co.uk/wm" >BBC WM</a> includes:</p>
+  <ul>
+    <li> Jeremy Clarkson&#039;s apology for seemingly using &quot;the n-word&quot; has led to calls for him to lose his job as a TV presenter</li>
+    <li> <a href="http://www.bbc.co.uk/news/uk-27249518" >A proposal to toughen the law on knife crime</a> has prompted a new row within the coalition</li>
+    <li> A Birmingham MP says he&#039;s considering taking the city council to court over the continuing row about green waste collections</li>
+  </ul><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-STANDARD " id="pulsar_27253642_HighWeb" data-datetime="2014-05-02T10:45:09">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<div class="item-info">
+			<span class="sub-heading">'Cocky' cannabis dealers pose for photos</span>
+			<span class="time">10:45:</span>
+			</div>
+	</div>
+	<div class="description"><p><a href="http://www.bbc.co.uk/news/uk-england-birmingham-27250396" >Four cannabis dealers from Kings Norton</a> have been jailed after police uncovered photos of them &quot;cockily&quot; posing with bags of cannabis and bundles of cash.</p>
+  <div class="caption body-narrow-width">
+  <img src="http://news.bbcimg.co.uk/media/images/74596000/jpg/_74596477__74594889_886adcd1-eb62-4d1b-b44a-749e48d28d85-1.jpg" width="304" height="171" alt="drug money" />
+
+  </div><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-STANDARD " id="pulsar_27252059_HighWeb" data-datetime="2014-05-02T10:40:08">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<div class="item-info">
+			<span class="sub-heading">Your views</span>
+			<span class="time">10:40:</span>
+			</div>
+	</div>
+	<div class="description"><p>We&#039;ve introduced BBC Local Live to bring you the latest news, sport, travel and weather all in one place. <a href="http://ecustomeropinions.com/survey/survey.php?sid=553546506&amp;data1=Birmingham" >Tell us what you think</a>.</p><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-STANDARD " id="pulsar_27253428_HighWeb" data-datetime="2014-05-02T10:34:01">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<div class="item-info">
+			<span class="sub-heading">Your pics: Winterbourne Gardens</span>
+			<span class="time">10:33:</span>
+			</div>
+	</div>
+	<div class="description"><p>Many thanks to Peter Leadbetter for sharing this beautiful shot of Winterbourne Gardens in Birmingham. </p>
+  <div class="caption body-narrow-width">
+  <img src="http://news.bbcimg.co.uk/media/images/74596000/jpg/_74596473_fj3u5mfh.jpg" width="304" height="171" alt="winterbourne gardens" />
+
+  </div>
+      <p>If you&#039;ve got any pictures that you&#039;d like to share with us you can <a href="mailto:locallive@bbc.co.uk" >email</a> us or <a href="http://twitter.com/bbcwm" >Tweet</a> us.  </p><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-STANDARD " id="pulsar_27253639_HighWeb" data-datetime="2014-05-02T10:25:35">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<div class="item-info">
+			<span class="sub-heading">Birmingham bin stickers threaten fines over green waste</span>
+			<span class="time">10:25:</span>
+			</div>
+	</div>
+	<div class="description"><p><a href="http://www.bbc.co.uk/news/uk-england-birmingham-27251073" >Birmingham residents dumping garden waste</a> are being warned they could be fined £2,500. Warning stickers have appeared on abandoned bags of green waste and letters are being sent to suspected tippers.</p>
+  <div class="caption">
+  <img src="http://news.bbcimg.co.uk/media/images/74596000/jpg/_74596475__74596360_74596359-1.jpg" width="224" height="299" alt="bin stickers" />
+
+  </div>
+      <p>Previously covered by council tax, the charge followed a £2m reduction in the city&#039;s waste budget as part of a £102m cuts plan.</p><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-STANDARD " id="pulsar_27251441_HighWeb" data-datetime="2014-05-02T10:13:42">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<img src="http://news.bbcimg.co.uk/media/images/72506000/png/_72506994_birminghampost.png" height="40" width="40" alt=" " /><div class="has-image item-info">
+			<span class="sub-heading">MG unveils concept electric vehicle</span>
+			<span class="time">10:13:</span>
+			<span class="contributor">
+					<span class="contributor-name">Birmingham Post</span>
+					</span>
+			</div>
+	</div>
+	<div class="description"><p><a href="http://www.birminghampost.co.uk/business/business-news/mg-unveils-concept-electric-vehicle-7059202" >The Birmingham manufacturer</a> puts &quot;Dynamo&quot; on display as company celebrates 90th anniversary</p><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-STANDARD " id="pulsar_27251434_HighWeb" data-datetime="2014-05-02T10:04:39">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<img src="http://news.bbcimg.co.uk/media/images/74223000/jpg/_74223486_crop-ed.jpg" height="40" width="40" alt=" " /><div class="has-image item-info">
+			<span class="sub-heading">Bears in England squad</span>
+			<span class="time">10:04:</span>
+			<span class="contributor">
+					<span class="contributor-name">Ed Barlow</span>
+					<span class="contributor-description">BBC Local Live</span>
+					</span>
+			</div>
+	</div>
+	<div class="description"><p><a href="http://www.bbc.co.uk/sport/0/cricket/27246874" >Warwickshire stars Ian Bell and Chris Woakes</a> have been named in the England squad to face Scotland in the international season opener in Aberdeen on 9 May. </p>
+        <p>Good news for them - but their county colleagues will be sorry to lose them for the match against Middlesex starting this weekend. Bell especially has been in good nick, as well as standing in as captain. </p><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-STANDARD " id="pulsar_27252421_HighWeb" data-datetime="2014-05-02T09:56:18">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<img src="http://news.bbcimg.co.uk/media/images/67059000/jpg/_67059697_24ch0113-744.jpg" height="40" width="40" alt=" " /><div class="has-image item-info">
+			<span class="sub-heading">News on the hour</span>
+			<span class="time">09:56:</span>
+			<span class="contributor">
+					<span class="contributor-name">Jay Vydelingum</span>
+					<span class="contributor-description">Journalist, BBC WM</span>
+					</span>
+			</div>
+	</div>
+	<div class="description"><p>The news on the hour from <a href="http://www.bbc.co.uk/wm" >BBC WM</a> includes:</p>
+  <ul>
+    <li> <a href="http://www.bbc.co.uk/news/uk-27249518" >A proposal to toughen the law on knife crime</a> has prompted a new row within the coalition</li>
+    <li> <a href="http://www.bbc.co.uk/news/uk-northern-ireland-27249495" >Police in Northern Ireland have held the Sinn Fein leader</a>, Gerry Adams, for a second night, as they continue to investigate the murder of Jean McConville more than 40 years ago</li>
+    <li> A Birmingham MP says he&#039;s considering taking the city council to court over the continuing row about green waste collections</li>
+  </ul><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-STANDARD " id="pulsar_27252104_HighWeb" data-datetime="2014-05-02T09:45:47">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<img src="http://news.bbcimg.co.uk/media/images/73273000/jpg/_73273693_7qwblczf.jpg" height="40" width="40" alt=" " /><div class="has-image item-info">
+			<span class="sub-heading">Vicar pens prayer for Blues</span>
+			<span class="time">09:45:</span>
+			<span class="contributor">
+					<span class="contributor-name">James Bovill</span>
+					<span class="contributor-description">Journalist, BBC WM</span>
+					</span>
+			</div>
+	</div>
+	<div class="description"><p>I&#039;ve been at All Saints Church in Small Heath speaking to the vicar who&#039;s written a prayer for Birmingham City ahead of their weekend match. </p>
+        <p>The church is just half a mile from the Blues&#039; ground and the Reverend Oliver Coss says it&#039;s not uncommon for supporters to come in to the church on a Saturday morning to say a quick prayer.</p>
+  <div class="caption">
+  <img src="http://news.bbcimg.co.uk/media/images/74596000/jpg/_74596469_d9doowjj.jpg" width="224" height="299" alt="Oliver Coss" />
+
+  </div>
+      <p>His prayer is inspired by Psalm 44, which is a national prayer of lament and a prayer for help. </p><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-STANDARD " id="pulsar_27252106_HighWeb" data-datetime="2014-05-02T09:36:30">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<div class="item-info">
+			<span class="sub-heading">Lenny Henry to make Rep debut</span>
+			<span class="time">09:36:</span>
+			</div>
+	</div>
+	<div class="description"><p>Lenny Henry is due to return to the West Midlands to headline Birmingham Repertory Theatre&#039;s Autumn and Winter 2014 season. </p>
+        <p>The Dudley-born comedian and actor will star in the stage premiere of Rudy&#039;s Rare Records from 4-20 September, his first role at the theatre.</p>
+  <div class="caption body-narrow-width">
+  <img src="http://news.bbcimg.co.uk/media/images/74596000/jpg/_74596471_lennyhenry.jpg" width="304" height="171" alt="Lenny Henry" />
+
+  </div>
+      <p>&quot;I&#039;ve performed comedy gigs many times in Birmingham over the years, but this is my first straight acting role in the city and the first time I&#039;ve been on stage at The Rep, which is something I&#039;m really looking forward to,&quot; says Henry.  </p><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-STANDARD " id="pulsar_27251388_HighWeb" data-datetime="2014-05-02T09:25:53">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<div class="item-info">
+			<span class="sub-heading">Firefighters' strike</span>
+			<span class="time">09:25:</span>
+			</div>
+	</div>
+	<div class="description"><p>Firefighters will launch a series of fresh strikes over the bank holiday weekend in a long-running dispute over pensions.</p>
+        <p>Members of the Fire Brigades Union in England and Wales will walk out for five hours from noon, between 14:00 tomorrow and 02:00 on Sunday, and between 10:00 and 15:00 on Sunday, forcing fire authorities to make alternative arrangements for fire cover.</p><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-STANDARD " id="pulsar_27251231_HighWeb" data-datetime="2014-05-02T09:16:07">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<img src="http://news.bbcimg.co.uk/media/images/72506000/png/_72506995_birminghammail.png" height="40" width="40" alt=" " /><div class="has-image item-info">
+			<span class="sub-heading">Cricket: Warks v Middlesex</span>
+			<span class="time">09:16:</span>
+			<span class="contributor">
+					<span class="contributor-name">Birmingham Mail</span>
+					</span>
+			</div>
+	</div>
+	<div class="description"><p>Ahead of this weekend&#039;s clash between Warwickshire and Middlesex, the Birmingham Mail has put together this piece on <a href="http://www.birminghammail.co.uk/sport/cricket/warwickshire-v-middlesex-six-notable-7053637" >notable clashes between the teams</a>.</p><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-STANDARD " id="pulsar_27251660_HighWeb" data-datetime="2014-05-02T09:07:36">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<img src="http://news.bbcimg.co.uk/media/images/73273000/jpg/_73273693_7qwblczf.jpg" height="40" width="40" alt=" " /><div class="has-image item-info">
+			<span class="sub-heading">'Garden Tax'</span>
+			<span class="time">09:07:</span>
+			<span class="contributor">
+					<span class="contributor-name">James Bovill</span>
+					<span class="contributor-description">Journalist, BBC WM</span>
+					</span>
+			</div>
+	</div>
+	<div class="description"><p>I&#039;ve been speaking to the MP for Yardley, John Hemming on <a href="http://bbc.co.uk/wm" >BBC WM</a> this morning. He&#039;s threatened to take Birmingham City Council to court for failing in its duty to pick up green waste.</p>
+  <div class="caption body-narrow-width">
+  <img src="http://news.bbcimg.co.uk/media/images/74596000/jpg/_74596010_e2f069b9-8c07-4134-a79d-19a0d0b9f170.jpg" width="304" height="171" alt="green waste birmingham" />
+
+  </div>
+      <p>It follows the council&#039;s decision to introduce an annual charge to take away garden waste. With very few people signing up to the scheme, it&#039;s led to fly-tipping and piles of green waste building around the city, which the council is refusing to collect.</p><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-BREAKING sticky" id="pulsar_27252414_HighWeb" data-datetime="2014-05-02T08:58:59">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<div class="item-info">
+			<span class="sub-heading">As it happened</span>
+			</div>
+	</div>
+	<div class="description"><ul>
+    <li> News, sport, travel, weather for Fri 2 May</li>
+    <li> More updates from 08:00 on Saturday</li>
+    <li> Listen to <a href="http://www.bbc.co.uk/wm" >BBC WM</a></li>
+  </ul><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-STANDARD " id="pulsar_27252222_HighWeb" data-datetime="2014-05-02T08:56:13">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<img src="http://news.bbcimg.co.uk/media/images/67059000/jpg/_67059697_24ch0113-744.jpg" height="40" width="40" alt=" " /><div class="has-image item-info">
+			<span class="sub-heading">News on the hour</span>
+			<span class="time">08:56:</span>
+			<span class="contributor">
+					<span class="contributor-name">Jay Vydelingum</span>
+					<span class="contributor-description">Journalist, BBC WM</span>
+					</span>
+			</div>
+	</div>
+	<div class="description"><p>The news on the hour from <a href="http://www.bbc.co.uk/wm" >BBC WM</a> includes:</p>
+  <ul>
+    <li> <a href="http://www.bbc.co.uk/news/uk-27249518" >A proposal to toughen the law on knife crime</a> has prompted a new row within the coalition</li>
+    <li> <a href="http://www.bbc.co.uk/news/uk-northern-ireland-27249495" >Police in Northern Ireland have held the Sinn Fein leader</a>, Gerry Adams, for a second night, as they continue to investigate the murder of Jean McConville more than 40 years ago</li>
+    <li> <a href="http://www.bbc.co.uk/news/world-africa-27249097" >A car bomb has killed 19 people</a> in the Nigerian capital Abuja</li>
+  </ul><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-STANDARD " id="pulsar_27251269_HighWeb" data-datetime="2014-05-02T08:50:09">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<div class="item-info">
+			<span class="sub-heading">Man charged over 'slavery'</span>
+			<span class="time">08:50:</span>
+			</div>
+	</div>
+	<div class="description"><p><a href="http://www.bbc.co.uk/news/uk-england-birmingham-27246512" >A second person</a> has been charged in relation to suspected slavery offences in Birmingham, police have said.</p>
+  <div class="caption body-narrow-width">
+  <img src="http://news.bbcimg.co.uk/media/images/74595000/jpg/_74595611__72213304_alumrockhouse-1.jpg" width="304" height="171" alt="slave house alum rock" />
+
+  </div><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-STANDARD " id="pulsar_27251526_HighWeb" data-datetime="2014-05-02T08:40:24">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<img src="http://news.bbcimg.co.uk/media/images/71091000/png/_71091804_expressandstar.png" height="40" width="40" alt=" " /><div class="has-image item-info">
+			<span class="sub-heading">Tornado shock for first-time flyer</span>
+			<span class="time">08:40:</span>
+			<span class="contributor">
+					<span class="contributor-name">Express and Star</span>
+					</span>
+			</div>
+	</div>
+	<div class="description"><p><a href="http://www.expressandstar.com/news/local-news/2014/05/02/tornado-shock-for-first-time-flyer-in-the-midlands/" >A first-time flyer got a bit of a shock</a> when a mini tornado appeared in the skies of the Midlands.</p><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-STANDARD " id="pulsar_27251662_HighWeb" data-datetime="2014-05-02T08:30:16">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<img src="http://news.bbcimg.co.uk/media/images/67295000/jpg/_67295611_image.jpg" height="40" width="40" alt=" " /><div class="has-image item-info">
+			<span class="sub-heading">'Knife taken to primary school'</span>
+			<span class="time">08:30:</span>
+			<span class="contributor">
+					<span class="contributor-name">Kath Stanczyszyn</span>
+					<span class="contributor-description">Journalist, BBC WM</span>
+					</span>
+			</div>
+	</div>
+	<div class="description"><p>Parents at Hurst Hill Primary in Coseley have told me they believe a pupil took a knife to school recently and as a result many are keeping their children at home. </p>
+        <p>Police and the school say there&#039;s no truth whatsoever in the allegations.</p><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-STANDARD " id="pulsar_27251532_HighWeb" data-datetime="2014-05-02T08:23:59">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<img src="http://news.bbcimg.co.uk/media/images/67295000/jpg/_67295611_image.jpg" height="40" width="40" alt=" " /><div class="has-image item-info">
+			<span class="sub-heading">Children taken out of school</span>
+			<span class="time">08:23:</span>
+			<span class="contributor">
+					<span class="contributor-name">Kath Stanczyszyn</span>
+					<span class="contributor-description">Journalist, BBC WM</span>
+					</span>
+			</div>
+	</div>
+	<div class="description"><p>Parents have told the BBC that a Coseley school isn&#039;t taking safety seriously after alleging a child took a knife to school. </p>
+        <p>Some parents have taken their children out of school and say they will continue to do so until leadership accepts there is a problem. </p><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-STANDARD " id="pulsar_27251342_HighWeb" data-datetime="2014-05-02T08:14:35">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<div class="item-info">
+			<span class="sub-heading">Wolves release defender</span>
+			<span class="time">08:14:</span>
+			</div>
+	</div>
+	<div class="description"><p>Wolves defender <a href="http://www.bbc.co.uk/sport/0/football/27237324" >George Elokobi will leave the club</a> at the end of the season after the League One champions said they will not offer him a new contract. </p>
+  <div class="caption body-narrow-width">
+  <img src="http://news.bbcimg.co.uk/media/images/74595000/jpg/_74595619__74580142_pa-10128992-1.jpg" width="304" height="171" alt="George Elokobi" />
+
+  </div><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-STANDARD " id="pulsar_27251264_HighWeb" data-datetime="2014-05-02T08:06:02">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<div class="item-info">
+			<span class="sub-heading">Cloudy and showers</span>
+			<span class="time">08:05:</span>
+			</div>
+	</div>
+	<div class="description"><p><a href="http://www.bbc.co.uk/weather/2655603" >Rather cloudy</a> through the morning with the odd isolated light shower possible. Through the afternoon, sunnier but cooler weather will push south across all areas. Winds staying light throughout.</p><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-STANDARD " id="pulsar_27251267_HighWeb" data-datetime="2014-05-02T08:03:46">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<div class="item-info">
+			<span class="sub-heading">M6 issues</span>
+			<span class="time">08:03:</span>
+			</div>
+	</div>
+	<div class="description"><p>Not a good morning on the M6 unfortunately.</p>
+  <ul>
+    <li> There&#039;s slow traffic on the M6 southbound between J7, A34 (Great Barr) and J6 A38(M) Aston Expressway, because of an earlier broken down vehicle. Congestion to J8 M5</li>
+    <li> There are also delays, and two lanes closed, on the M6 southbound between J3a M6 Toll and Corley Services, because of a broken down lorry. Congestion to J4, M42 (Coleshill)</li>
+    <li> There&#039;s one lane closed on M6 northbound between J10, A454 (Wolverhampton) and J10a M54, because of a broken down vehicle</li>
+  </ul>      <p>Keep in touch with developments at <a href="http://www.bbc.co.uk/travelnews/birmingham" >BBC Travel News</a>.</p><span class="icon-back">&nbsp;</span></div></li>
+<li class="scroll-box-item class-STANDARD " id="pulsar_27251239_HighWeb" data-datetime="2014-05-02T08:00:21">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		<img src="http://news.bbcimg.co.uk/media/images/74223000/jpg/_74223486_crop-ed.jpg" height="40" width="40" alt=" " /><div class="has-image item-info">
+			<span class="sub-heading">Good morning</span>
+			<span class="time">08:00:</span>
+			<span class="contributor">
+					<span class="contributor-name">Ed Barlow</span>
+					<span class="contributor-description">BBC Local Live</span>
+					</span>
+			</div>
+	</div>
+	<div class="description"><p>Morning all, I&#039;ll be bringing you news, sport, travel and weather updates throughout the day.</p>
+        <p>If you&#039;d like to get involved you can get in touch via <a href="mailto:locallive@bbc.co.uk" >email</a>, <a href="http://twitter.com/bbcwm" >Twitter</a> or on our <a href="http://facebook.com/bbcwm" >Facebook </a>page.</p><span class="icon-back">&nbsp;</span></div></li>
+</ol>
+
+		
+			<script type="text/javascript">$loadView("0.0",["bbc.fmtj.view.liveEvent"]);</script>
+		
+		
+			<script type="text/javascript" src="/js/app/live_event_experience/1_0_1/mustache.js"></script>
+			
+				<script type="text/html" id="template-pulsar">
+				/* <![CDATA[ */
+				<ol class="scroll-box-inner">
+{{#assetlist}}{{#assets}}{{#content}}{{#message}}
+<li class="scroll-box-item class-{{type}} {{#isSticky}}sticky{{/isSticky}}" id="pulsar_{{id}}" data-datetime="{{createtime}}">
+	<div class="commentary-title">
+		<span class="icon-front">&nbsp;</span>
+		{{#contributor}}
+			{{#imageref}}<img src="{{uri}}" height="40" width="40" alt=" " />{{/imageref}}
+		{{/contributor}}
+		<div class="{{#contributor}}{{#imageref}}has-image {{/imageref}}{{/contributor}}item-info">
+			{{#subhead}}
+				<span class="sub-heading">{{subhead}}</span>
+			{{/subhead}}
+			{{#time}}
+				<span class="time">{{time}}:</span>
+			{{/time}}
+			{{#head}}
+				<span class="heading">{{head}}</span>
+			{{/head}}
+			{{#contributor}}
+				<span class="contributor">
+					{{#name}}
+						<span class="contributor-name">{{name}}</span>
+					{{/name}}
+					{{#description}}
+						<span class="contributor-description">{{description}}</span>
+					{{/description}}
+				</span>
+			{{/contributor}}
+		</div>
+	</div>
+	{{#text}}<div class="description">{{{text}}}<span class="icon-back">&nbsp;</span></div>{{/text}}
+	{{#host}}<div class="description">{{{host}}}</div>{{/host}}
+</li>
+{{/message}}{{/content}}{{/assets}}{{/assetlist}}
+</ol>
+
+				/* ]]> */
+				</script>
+			
+		
+	
+
+
+  
+
+
+      </div>
+
+                        <div class="live-text-footer"><a href="http://www.bbc.co.uk/news/uk-england-21045859">Live from 08:00 to 18:00 every day</a></div>
+                  </div>
+    
+  </div>
+  <script type="text/javascript">$render("live-event-text-commentary","live-event-text-commentary",{isCommentaryLive:"1",channelName:"bbc.cps.asset.27251143_HighWeb",sortOrder:"date_descending",getDataOnLoad:true});</script>
+  <!-- iStats -->
+
+<script type="text/javascript">
+    require(["jquery-1", "istats-1"], function ($, istats) {        
+        $(function() {
+
+            istats.track('internal', {region: $('#live-event-text-commentary'), linkLocation : 'live_local_news'});
+            istats.track('external', {region: $('#live-event-text-commentary'), linkLocation : 'live_local_news'});
+
+            var scrollBox = $('#live-event-text-commentary .scroll-box');
+
+            scrollBox.scroll(function() {
+                istats.log(
+                    "scroll",
+                    "scrollbar scrolled",
+                    {
+                        "scrollbar" : "scrolled" 
+                    }
+                );
+                scrollBox.unbind();
+            });
+        });
+    });
+</script>
+  
+	       	         <div id="container-social-links-digest" class="social-link-digests">
+	<div class="social-link-digest">
+  	  <h2 class="social-link-header">Get in touch</h2>
+    <ul>
+    				
+
+
+
+
+
+
+
+
+
+
+
+
+<li class=" no-image">
+	<a class="story"  href="https://twitter.com/bbcwm">Tweet @bbcwm</a>
+
+		</li>
+
+    				
+
+
+
+
+
+
+
+
+
+
+
+
+<li class=" no-image">
+	<a class="story"  href="https://www.facebook.com/bbcwm">Find us on Facebook</a>
+
+		</li>
+
+    				
+
+
+
+
+
+
+
+
+
+
+
+
+<li class=" no-image">
+	<a class="story"  href="mailto:locallive@bbc.co.uk">locallive@bbc.co.uk</a>
+
+		</li>
+
+    				
+
+
+
+
+
+
+
+
+
+
+
+
+<li class=" no-image">
+	<a class="story"  href="http://ecustomeropinions.com/survey/survey.php?sid=553546506&data1=Birmingham">Give us feedback on this service</a>
+
+		</li>
+
+      </ul>
+</div>
+
+</div>
+<script type="text/javascript">$render("container-social-link-digests","container-social-links-digest");</script> 
+
+
+	       	         
+<div class="bbccom_advert_placeholder">
+	<script type="text/javascript">$render("advert","advert-mpu-low");</script>
+</div>
+<script type="text/javascript">$render("advert-post-script-load");</script>
+
+	       	         
+
+
+
+<div id="range-top-stories" class="top-stories-range-module">
+
+			<h2 class="top-stories-range-module-header">Top Stories</h2>
+		
+		
+									
+				<!-- Non specific version -->
+				
+	<ul>
+					  				  								
+				
+
+
+
+
+	
+
+
+		
+
+
+
+
+<li class=" first-child medium-image">
+	<a class="story" rel="published-1399037260950" href="/news/uk-27259318"><img src="http://news.bbcimg.co.uk/media/images/74607000/jpg/_74607601_hi022111346.jpg" alt="Max Clifford" />Max Clifford jailed for eight years</a>
+
+		</li>
+
+									 			
+
+
+
+
+	
+
+
+	
+
+
+
+
+<li>
+	<a class="story" rel="published-1399041324039" href="/news/world-europe-27259614">&#039;Many dead&#039; in Ukraine offensive</a>
+
+		</li>
+
+  									 			
+
+
+
+
+	
+
+
+	
+
+
+
+
+<li>
+	<a class="story" rel="published-1399039798065" href="/news/uk-northern-ireland-27260040">NI police &#039;seek Adams extension&#039; </a>
+
+		</li>
+
+  									 			
+
+
+
+
+	
+
+
+	
+
+
+
+
+<li>
+	<a class="story" rel="published-1399043408946" href="/news/uk-wales-27257951">Teens arrested in school murder plot</a>
+
+		</li>
+
+  									 			
+
+
+
+
+	
+
+
+	
+
+
+
+
+<li>
+	<a class="story" rel="published-1399037666418" href="/news/health-27251908">Under-fives death rate &#039;high in UK&#039;</a>
+
+		</li>
+
+  						</ul>
+
+		 
+	
+</div>
+<script type="text/javascript">$render("range-top-stories","range-top-stories");</script>
+      	
+
+	       	         
+
+	<div id="features" class="feature-generic">
+
+			<h2 class="features-header">Features</h2>
+		
+	<ul class="feature-main">
+
+		
+	
+						
+			<!-- Non specific version -->
+			
+			
+							
+		<li class="medium-image">
+
+			
+
+
+
+
+	
+
+
+		
+
+
+
+
+<h3 class=" feature-header">
+	<a class="story" rel="published-1399044681636" href="/news/entertainment-arts-27255690"><img src="http://news.bbcimg.co.uk/media/images/74612000/jpg/_74612084_c984d4b7-9746-4067-86ae-7a5ede307011.jpg" alt="Jeremy Clarkson in 1994" />Car crash TV </a>
+
+		</h3>
+
+			
+							<p>Top Gear&#039;s most controversial moments 	
+				  <span id="dna-comment-count___CPS__27255690" class="gvl3-icon gvl3-icon-comment comment-count"></span></p>
+			
+							<hr />
+					</li>
+			
+							
+		<li class="medium-image">
+
+			
+
+
+
+
+	
+
+
+		
+
+
+
+
+<h3 class=" feature-header">
+	<a class="story" rel="published-1399035082992" href="/news/uk-27235470"><img src="http://news.bbcimg.co.uk/media/images/74596000/jpg/_74596689_74587642.jpg" alt=" Peaches Geldof" />The heroin question</a>
+
+		</h3>
+
+			
+							<p>Does Peaches&#039; death show the UK still has a problem? 	
+				  <span id="dna-comment-count___CPS__27235470" class="gvl3-icon gvl3-icon-comment comment-count"></span></p>
+			
+							<hr />
+					</li>
+			
+							
+		<li class="medium-image">
+
+			
+
+
+
+
+	
+
+
+		
+
+
+
+
+<h3 class=" feature-header">
+	<a class="story" rel="published-1399037824357" href="/news/blogs-magazine-monitor-27255853"><img src="http://news.bbcimg.co.uk/media/images/74609000/jpg/_74609494_74603764.jpg" alt="Tick swollen with blood" />Blood-sucking bites</a>
+
+		</h3>
+
+			
+							<p>How dangerous are ticks when they bite? 	
+				  <span id="dna-comment-count___CPS__27255853" class="gvl3-icon gvl3-icon-comment comment-count"></span></p>
+			
+							<hr />
+					</li>
+			
+							
+		<li class="medium-image">
+
+			
+
+
+
+
+		
+
+
+		
+
+
+
+
+<h3 class=" feature-header">
+	<a class="story" rel="published-1399029332745" href="/news/magazine-27255381"><img src="http://news.bbcimg.co.uk/media/images/74603000/jpg/_74603622_kenyaman.jpg" alt="Eric Omondi" />You’ve been told<span class="gvl3-icon-wrapper"><span class="gvl3-icon gvl3-icon-invert-watch"> Watch</span></span></a>
+
+		</h3>
+
+			
+							<p>Why one country ‘always wins’ its Twitter wars  	
+				  <span id="dna-comment-count___CPS__27255381" class="gvl3-icon gvl3-icon-comment comment-count"></span></p>
+			
+							<hr />
+					</li>
+	
+	 
+	
+	
+	</ul>
+	</div>
+	<script type="text/javascript">$render("feature-generic","features");</script> 
+
+
+	       	         
+<div id="most-popular" class="livestats livestats-tabbed tabbed range-most-popular">
+	
+			<h2 class="livestats-header">Most Popular</h2>
+	
+					
+					<h3 class="tab "><a href="#">Shared</a></h3>
+		
+		<div class="panel ">
+      		<ol>
+	      		<li
+  class="first-child ol1">
+  <a
+    href="http://www.bbc.co.uk/news/uk-27259318"
+    class="story">
+    <span
+      class="livestats-icon livestats-1">1: </span>Max Clifford jailed for eight years</a>
+</li>
+<li
+  class="ol2">
+  <a
+    href="http://www.bbc.co.uk/news/magazine-27186709"
+    class="story">
+    <span
+      class="livestats-icon livestats-2">2: </span>The slow death of purposeless walking</a>
+</li>
+<li
+  class="ol3">
+  <a
+    href="http://www.bbc.co.uk/news/science-environment-27228416"
+    class="story">
+    <span
+      class="livestats-icon livestats-3">3: </span>How to win at rock-paper-scissors</a>
+</li>
+<li
+  class="ol4">
+  <a
+    href="http://www.bbc.co.uk/news/magazine-21353825"
+    class="story">
+    <span
+      class="livestats-icon livestats-4">4: </span>The world's loveliest train station</a>
+</li>
+<li
+  class="ol5">
+  <a
+    href="http://www.bbc.co.uk/news/magazine-27188642"
+    class="story">
+    <span
+      class="livestats-icon livestats-5">5: </span>Longest-separated twins find each other</a>
+</li>
+      		</ol>
+      	</div>
+							
+					<h3 class="tab open"><a href="#">Read</a></h3>
+		
+		<div class="panel open">
+      		<ol>
+	      		<li
+  class="first-child ol1">
+  <a
+    href="http://www.bbc.co.uk/news/uk-27259318"
+    class="story">
+    <span
+      class="livestats-icon livestats-1">1: </span>Max Clifford jailed for eight years</a>
+</li>
+<li
+  class="ol2">
+  <a
+    href="http://www.bbc.co.uk/news/uk-wales-27257951"
+    class="story">
+    <span
+      class="livestats-icon livestats-2">2: </span>Teens arrested in school murder plot</a>
+</li>
+<li
+  class="ol3">
+  <a
+    href="http://www.bbc.co.uk/news/world-europe-27259614"
+    class="story">
+    <span
+      class="livestats-icon livestats-3">3: </span>'Many dead' in Ukraine offensive</a>
+</li>
+<li
+  class="ol4">
+  <a
+    href="http://www.bbc.co.uk/news/entertainment-arts-27255690"
+    class="story">
+    <span
+      class="livestats-icon livestats-4">4: </span>Top Gear: A vehicle for controversy?</a>
+</li>
+<li
+  class="ol5">
+  <a
+    href="http://www.bbc.co.uk/news/science-environment-27228416"
+    class="story">
+    <span
+      class="livestats-icon livestats-5">5: </span>How to win at rock-paper-scissors</a>
+</li>
+<li
+  class="ol6">
+  <a
+    href="http://www.bbc.co.uk/news/entertainment-arts-27253880"
+    class="story">
+    <span
+      class="livestats-icon livestats-6">6: </span>BBC taking Clarkson clip 'seriously'</a>
+</li>
+<li
+  class="ol7">
+  <a
+    href="http://www.bbc.co.uk/news/magazine-21353825"
+    class="story">
+    <span
+      class="livestats-icon livestats-7">7: </span>The world's loveliest train station</a>
+</li>
+<li
+  class="ol8">
+  <a
+    href="http://www.bbc.co.uk/newsbeat/27234842"
+    class="story">
+    <span
+      class="livestats-icon livestats-8">8: </span>Happy was recorded by Cee Lo Green</a>
+</li>
+<li
+  class="ol9">
+  <a
+    href="http://www.bbc.co.uk/news/uk-england-27254375"
+    class="story">
+    <span
+      class="livestats-icon livestats-9">9: </span>Charity cancer teen leaves hospital</a>
+</li>
+<li
+  class="ol10">
+  <a
+    href="http://www.bbc.co.uk/news/blogs-magazine-monitor-27255853"
+    class="story">
+    <span
+      class="livestats-icon livestats-10">10: </span>Who, What, Why: How dangerous are tick bites in the UK?</a>
+</li>
+      		</ol>
+      	</div>
+					
+					<h3 class="tab "><a href="#">Video/Audio</a></h3>
+		
+		<div class="panel ">
+      		<ol>
+	      		<li
+  class="first-child has-icon-watch ol1">
+  <a
+    href="http://www.bbc.co.uk/news/uk-27258923"
+    class="story">
+    <span
+      class="livestats-icon livestats-1">1: </span>Clifford police: Sex abuse claims rise<span
+      class="gvl3-icon gvl3-icon-watch"> Watch</span></a>
+</li>
+<li
+  class="has-icon-watch ol2">
+  <a
+    href="http://www.bbc.co.uk/news/world-us-canada-27250548"
+    class="story">
+    <span
+      class="livestats-icon livestats-2">2: </span>Moment cars plunge into US sinkhole <span
+      class="gvl3-icon gvl3-icon-watch"> Watch</span></a>
+</li>
+<li
+  class="has-icon-watch ol3">
+  <a
+    href="http://www.bbc.co.uk/news/uk-27249038"
+    class="story">
+    <span
+      class="livestats-icon livestats-3">3: </span>Clarkson apology over racist rhyme in full<span
+      class="gvl3-icon gvl3-icon-watch"> Watch</span></a>
+</li>
+<li
+  class="has-icon-watch ol4">
+  <a
+    href="http://www.bbc.co.uk/news/world-europe-27250541"
+    class="story">
+    <span
+      class="livestats-icon livestats-4">4: </span>Ukraine in Sloviansk offensive <span
+      class="gvl3-icon gvl3-icon-watch"> Watch</span></a>
+</li>
+<li
+  class="has-icon-watch ol5">
+  <a
+    href="http://www.bbc.co.uk/news/world-us-canada-27233754"
+    class="story">
+    <span
+      class="livestats-icon livestats-5">5: </span>Sinkhole swallows cars on US street<span
+      class="gvl3-icon gvl3-icon-watch"> Watch</span></a>
+</li>
+<li
+  class="has-icon-watch ol6">
+  <a
+    href="http://www.bbc.co.uk/news/video_and_audio/"
+    class="story">
+    <span
+      class="livestats-icon livestats-6">6: </span>BBC News Channel<span
+      class="gvl3-icon gvl3-icon-watch"> Watch</span></a>
+</li>
+<li
+  class="has-icon-watch ol7">
+  <a
+    href="http://www.bbc.co.uk/news/uk-27239292"
+    class="story">
+    <span
+      class="livestats-icon livestats-7">7: </span>A victim of Max Clifford speaks out<span
+      class="gvl3-icon gvl3-icon-watch"> Watch</span></a>
+</li>
+<li
+  class="has-icon-watch ol8">
+  <a
+    href="http://www.bbc.co.uk/news/world-europe-27261010"
+    class="story">
+    <span
+      class="livestats-icon livestats-8">8: </span>Violent clashes on Odessa streets<span
+      class="gvl3-icon gvl3-icon-watch"> Watch</span></a>
+</li>
+<li
+  class="has-icon-watch ol9">
+  <a
+    href="http://www.bbc.co.uk/news/magazine-27255381"
+    class="story">
+    <span
+      class="livestats-icon livestats-9">9: </span>Why Kenya ‘always wins’ its Twitter wars<span
+      class="gvl3-icon gvl3-icon-watch"> Watch</span></a>
+</li>
+<li
+  class="has-icon-watch ol10">
+  <a
+    href="http://www.bbc.co.uk/news/uk-27255579"
+    class="story">
+    <span
+      class="livestats-icon livestats-10">10: </span>Sinn Féin 'may consider' peace role<span
+      class="gvl3-icon gvl3-icon-watch"> Watch</span></a>
+</li>
+      		</ol>
+      	</div>
+		 
+	<div class="bbccom_advert_placeholder">
+		<script type="text/javascript">$render("advert","advert-sponsor-module","range-most-popular","most-popular");</script>
+	</div>
+	<script type="text/javascript">$render("advert-post-script-load");</script>
+	
+</div>
+
+<script type="text/javascript">$render("most-popular","most-popular");</script>
+
+	       	     </div>
+	
+	
+
+			
+
+
+
+
+  <!-- Empty hyperpuff -->
+
+	
+			
+
+
+
+
+  <!-- Empty hyperpuff -->
+
+	
+	 	
+	<div class="bbccom_advert_placeholder">
+		<script type="text/javascript">$render("advert","advert-native-side");</script>
+	</div>
+	<script type="text/javascript">$render("advert-post-script-load");</script>
+	<div class="bbccom_advert_placeholder">
+		<script type="text/javascript">$render("advert","advert-mpu-bottom");</script>
+	</div>
+	<script type="text/javascript">$render("advert-post-script-load");</script>
+	
+	
+</div>
+
+<!-- OUTBRAIN tracking code-->
+
+<!-- end OUTBRAIN tracking code -->
+
+
+	<!-- END #MAIN-CONTENT & CPS_ASSET_TYPE CLASS: story -->
+	</div>
+<!-- END CPS_AUDIENCE CLASS: domestic -->
+	
+</div> 
+<div id="related-services" class="footer">
+   <div id="news-services">
+      <h2>Services</h2>  
+	   <ul>
+         <li id="service-mobile" class="first-child"><a href="/news/10628994"><span class="gvl3-mobile-icon-large services-icon">&nbsp;</span>Mobile</a></li>
+         <li id="service-feeds"><a href="/news/help-17655000"><span class="gvl3-connected-tv-icon-large services-icon">&nbsp;</span>Connected TV</a></li>
+         <li id="service-podcast"><a href="/news/10628494"><span class="gvl3-feeds-icon-large services-icon">&nbsp;</span>News feeds</a></li>
+         <li id="service-alerts"><a href="/news/10628323"><span class="gvl3-alerts-icon-large services-icon">&nbsp;</span>Alerts</a></li>
+         <li id="service-email-news"><a href="/news/help/16617948"><span class="gvl3-email-icon-large services-icon">&nbsp;</span>E-mail news</a></li>
+      </ul>	  
+   </div>
+   <div id="news-related-sites">
+      <h2><a href="/news/19888761">About BBC News</a></h2>
+      <ul>
+         <li class="column-1"><a href="/news/blogs/the_editors/">Editors' blog</a></li>
+         <li class="column-1"><a href="/journalism/">BBC College of Journalism</a></li>
+         <li class="column-1"><a href="/news/10621655">News sources</a></li>
+         <li class="column-1"><a href="/editorialguidelines/">Editorial Guidelines</a></li>
+      </ul>
+   </div>
+</div>
+</div><!-- close birmingham-and-black-country -->
+
+
+
+	
+	
+
+   </div>   <!--[if IE 6]> <div id="blq-ie6-upgrade"> <p> <span>You're using the Internet Explorer 6 browser to view the BBC website. Our site will work much better if you change to a more modern browser. It's free, quick and easy.</span> <a href="http://www.browserchoice.eu/">Find out more <span>about upgrading your browser</span> here&hellip;</a> </p> </div> <![endif]-->  <div id="blq-foot" xml:lang="en-GB" class="blq-rst blq-clearfix blq-foot-transparent blq-foot-text-dark"> <div id="blq-footlinks"> <h2 class="blq-hide">BBC links</h2>       <ul>                    <li class="blq-footlinks-row"> <ul class="blq-footlinks-row-list"> <li><a href="/news/mobile/" id="blq-footer-mobile">Mobile site</a></li><li><a href="http://www.bbc.co.uk/terms/">Terms of Use</a></li><li><a href="http://www.bbc.co.uk/aboutthebbc/">About the BBC</a></li> </ul> </li>                <li class="blq-footlinks-row"> <ul class="blq-footlinks-row-list"> <li><a href="http://www.bbc.co.uk/privacy/">Privacy</a></li><li><a href="http://www.bbc.co.uk/accessibility/">Accessibility Help</a></li> </ul> </li>                <li class="blq-footlinks-row"> <ul class="blq-footlinks-row-list"> <li><a href="http://www.bbc.co.uk/privacy/bbc-cookies-policy.shtml">Cookies</a></li><li><a href="/news/20039682">Contact the BBC</a></li> </ul> </li>           <li class="blq-footlinks-row"> <ul class="blq-footlinks-row-list"> <li><a href="http://www.bbc.co.uk/guidance/">Parental Guidance</a></li> </ul> </li>             </ul> <script type="text/javascript">/*<![CDATA[*/ (function() { var mLink = document.getElementById('blq-footer-mobile'), stick = function() { var d = new Date (); d.setYear(d.getFullYear() + 1); d = d.toUTCString(); window.bbccookies.set('ckps_d=m;domain=.bbc.co.uk;path=/;expires=' + d ); window.bbccookies.set('ckps_d=m;domain=.bbc.com;path=/;expires=' + d ); }; if (mLink) {  if (mLink.addEventListener) { mLink.addEventListener('click', stick, false); } else if (mLink.attachEvent) { mLink.attachEvent('onclick', stick); } } })(); /*]]>*/</script>  </div>  <div id="blq-foot-blocks" class="blq-footer-image-dark"><img src="http://static.bbci.co.uk/frameworks/barlesque/2.60.6/desktop/3.5/img/blocks/dark.png" width="84" height="24" alt="BBC" /></div>  <p id="blq-disclaim"><span id="blq-copy">BBC &copy; 2014</span> <a href="http://www.bbc.co.uk/help/web/links/">The BBC is not responsible for the content of external sites. Read more.</a></p> <div id="blq-obit"><p><strong>This page is best viewed in an up-to-date web browser with style sheets (CSS) enabled. While you will be able to view the content of this page in your current browser, you will not be able to get the full visual experience. Please consider upgrading your browser software or enabling style sheets (CSS) if you are able to do so.</strong></p></div> </div> </div>  </div> </div>  <script type="text/javascript"> if (typeof require !== 'undefined') { require(['istats-1'], function(istats){ istats.track('external', { region: document.getElementById('blq-main') }); istats.track('download', { region: document.getElementById('blq-main') }); }); } </script>  <script type="text/html" id="blq-panel-template-promo"><![CDATA[ <div id="blq-panel-promo" class="blq-masthead-container"></div> ]]></script> <script type="text/html" id="blq-panel-template-more"><![CDATA[ <div id="blq-panel-more" class="blq-masthead-container  blq-clearfix" xml:lang="en-GB" dir="ltr"> <div class="blq-panel-container panel-paneltype-more"> <div class="panel-header"> <h2> <a href="http://www.bbc.co.uk/a-z/">  More&hellip;  </a> </h2>  <a href="http://www.bbc.co.uk/a-z/" class="panel-header-links panel-header-link">Full A-Z<span class="blq-hide"> of BBC sites</span></a>  </div> <div class="panel-component panel-links">       <ul>   <li> <a href="http://www.bbc.co.uk/cbbc/"  >CBBC</a> </li>    <li> <a href="http://www.bbc.co.uk/cbeebies/"  >CBeebies</a> </li>    <li> <a href="http://www.bbc.co.uk/comedy/"  >Comedy</a> </li>   </ul>  <ul>   <li> <a href="http://www.bbc.co.uk/food/"  >Food</a> </li>    <li> <a href="http://www.bbc.co.uk/history/"  >History</a> </li>    <li> <a href="http://www.bbc.co.uk/learning/"  >Learning</a> </li>   </ul>  <ul>   <li> <a href="http://www.bbc.co.uk/music/"  >Music</a> </li>    <li> <a href="http://www.bbc.co.uk/science/"  >Science</a> </li>    <li> <a href="http://www.bbc.co.uk/nature/"  >Nature</a> </li>   </ul>  <ul>   <li> <a href="http://www.bbc.co.uk/local/"  >Local</a> </li>    <li> <a href="http://www.bbc.co.uk/travelnews/"  >Travel News</a> </li>   </ul>   </div> </div> ]]></script>            
+	
+
+<!-- shared/foot -->
+<script type="text/javascript">
+	bbc.fmtj.common.removeNoScript({});
+	bbc.fmtj.common.tabs.createTabs({});
+</script>
+<!-- hi/news/foot.inc -->
+
+<!-- Chartbeat Web Analytics code - start -->
+<script type="text/javascript">
+var _sf_async_config={};
+/** CONFIGURATION START **/
+_sf_async_config.uid = 50924; /** Chartbeat BBC id **/
+_sf_async_config.domain = "bbc.co.uk";/** BBC domain being tracked **/
+_sf_async_config.sections = "birmingham-and-black-country";
+_sf_async_config.region = "domestic";
+
+  <!-- all multi-edition pages that are not indexes eg. story pages need the title -->
+  var storyTitle = "BBC+News+-+Aston+Court+Nursing+Home+staff+charged+with+manslaughter".replace(new RegExp('\\+', 'gi'),' ');//remove the plus signs
+  storyTitle = decodeURIComponent(storyTitle.replace("BBC News - ",""));//remove the sub-string 'BBC News' and convert utf-8 chars to html
+  _sf_async_config.title = storyTitle;
+
+/** CONFIGURATION END **/
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement("script");
+    e.setAttribute("language", "javascript");
+    e.setAttribute("type", "text/javascript");
+    e.setAttribute('src', '/inc/specials/cream/hi/news/chartbeat/chartbeat.js');
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != "function") ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+</script>
+<!-- Chartbeat Web Analytics code - end -->
+<!-- shared/foot_story -->
+<!-- #CREAM hi news domestic foot.inc -->
+<img src="http://b.scorecardresearch.com/p?c1=2&c2=17986528&cv=2.0&cj=1"/>
+ 
+
+</body>
+</html>
+
+
+
+
