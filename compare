@@ -132,7 +132,15 @@ class Article:
             txt2 = normalise_text(txt2)
 
             if txt1 != txt2:
-                errs.append("content mismatch")
+
+                # is the expected stuff there?
+                parts = txt1.partition(txt2)
+                if len(parts[2])>0:
+                    # yes, expected result is contained
+                    errs.append("content mismatch - %.1f%% cruft (%d before, %d after)" % ((len(parts[0])+len(parts[2]))/float(len(txt1)), len(parts[0]), len(parts[2])))
+                else:
+                    errs.append("content mismatch")
+
 
         # TODO: everything else :-)
 
