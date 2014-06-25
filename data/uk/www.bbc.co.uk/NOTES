@@ -1,0 +1,8 @@
+content ok except for date being included at start:
+
+<span class="story-date">
+    <span class="date">30 April 2014</span>
+<span class="time-text">Last updated at </span><span class="time">00:50</span>
+      
+</span>
+
