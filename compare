@@ -131,6 +131,12 @@ class Article:
             txt1 = normalise_text(txt1)
             txt2 = normalise_text(txt2)
 
+ #           print("-"*20+"got"+"-"*20)
+ #           print(txt1)
+ #           print("-"*20+" expected "+"-"*20)
+ #           print(txt2)
+ #           print("-"*80)
+
             if txt1 != txt2:
 
                 # is the expected stuff there?
