@@ -9,9 +9,9 @@ scrape="scrapetool"
 
 # command to compare scrape output against .expected files
 compare=./compare
-compare_flags=
+# set COMPARE_FLAGS to alter the checks
 # eg for just headlines:
-#compare_flags="-c headline"
+# $ export COMPARE_FLAGS="-c content"
 if [ -z "$1" ]
 then
     # default - scan data dir
@@ -38,7 +38,7 @@ for expected in $inputs; do
     ${scrape} "file://$(pwd)/$srcfile" >$tmpfile
 
     set +e
-    errs=$(${compare} ${compare_flags} $tmpfile $expected)
+    errs=$(${compare} ${COMPARE_FLAGS} $tmpfile $expected)
     result=$?
     if [ $result -eq 0 ]; then
         echo "GOOD: ${srcfile}"
