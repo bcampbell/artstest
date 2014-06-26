@@ -20,35 +20,40 @@ import argparse     # >=python 2.7
 import unicodedata
 import lxml.html
 import lxml.etree
+import distance
 
 splitter = re.compile(r'---(.*?)---\s*(.*)$',re.DOTALL)
 
 ALL_CHECKS = ['headline','urls','dates','content','authors']
 
+OPTS = None
+
 def main():
+    global OPTS
     parser = argparse.ArgumentParser()
     parser.add_argument('got', help='file containing scraped data')
     parser.add_argument('expected', help='file containing expected data')
 
 
+    parser.add_argument('-d', '--debug', action="store_true", help="dump out data to aid debugging")
     parser.add_argument('-c', '--check',
         action='append',
         help="only check specified fields",
         choices=ALL_CHECKS)
 #    parser.add_argument("-v", "--verbose", help="increase output verbosity",
 #                    action="store_true")
-    args = parser.parse_args()
+    OPTS = parser.parse_args()
 
 
     try:
         # load and compare two articles
-        art_got = Article(args.got)
-        art_expected = Article(args.expected)
+        art_got = Article(OPTS.got)
+        art_expected = Article(OPTS.expected)
 
 
         checks = ALL_CHECKS
-        if args.check:
-            checks = args.check
+        if OPTS.check:
+            checks = OPTS.check
 
         errs = art_got.compare(art_expected, checks)
         if len(errs)>0:
@@ -87,7 +92,7 @@ class Article:
             if self.urls is None:
                 self.urls = []
 
-            self.content = m.group(2)
+            self.content = unicode(m.group(2), "utf-8")
 
     def dump(self):
         print("canonical_url: %s" % (self.canonical_url))
@@ -131,21 +136,27 @@ class Article:
             txt1 = normalise_text(txt1)
             txt2 = normalise_text(txt2)
 
- #           print("-"*20+"got"+"-"*20)
- #           print(txt1)
- #           print("-"*20+" expected "+"-"*20)
- #           print(txt2)
- #           print("-"*80)
+            if OPTS.debug:
+                print("-"*20+"got"+"-"*20)
+                print(txt1)
+                print("-"*20+" expected "+"-"*20)
+                print(txt2)
+                print("-"*80)
 
             if txt1 != txt2:
+                # allow a little deviation...
+                d = distance.jaccard(txt1.split(), txt2.split())
+                if d >= 0.05:
+                    errs.append("content mismatch (jaccard dist: %.3f)" % (d,))
+
 
                 # is the expected stuff there?
-                parts = txt1.partition(txt2)
-                if len(parts[2])>0:
+#                parts = txt1.partition(txt2)
+#                if len(parts[2])>0:
                     # yes, expected result is contained
-                    errs.append("content mismatch - %.1f%% cruft (%d before, %d after)" % ((len(parts[0])+len(parts[2]))/float(len(txt1)), len(parts[0]), len(parts[2])))
-                else:
-                    errs.append("content mismatch")
+#                    errs.append("content mismatch - %.1f%% cruft (%d before, %d after)" % ((len(parts[0])+len(parts[2]))/float(len(txt1)), len(parts[0]), len(parts[2])))
+#                else:
+#                    errs.append("content mismatch")
 
 
         # TODO: everything else :-)
@@ -164,8 +175,8 @@ def normalise_text(txt):
     """ return stripped-down, ascii, alphanumeric-only version for comparisons """
     # replace various accented latin chars with rough ascii equivalents
     txt = unicodedata.normalize('NFKD',txt).encode('ascii','ignore')
-    txt = re.sub(u'[^a-zA-Z0-9 ]',u'',txt)
-    txt = u' '.join(txt.split())    # compress spaces
+    txt = re.sub(ur'[^a-zA-Z0-9\s]',u'',txt)
+    txt = u" ".join(re.split(ur'\s+',txt))    # compress spaces
     txt = txt.lower().strip()
     return txt
 
@@ -177,6 +188,8 @@ def uberstrip(s):
 
 
 def html_to_text(html):
+    if html.strip() == "":
+        return u""
     parser = lxml.html.HTMLParser()
     doc = lxml.html.document_fromstring(html, parser)
     return render_text(doc)
