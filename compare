@@ -12,12 +12,14 @@ be passed into this program.
 
 
 from __future__ import print_function
-import yaml
 import re
 import sys
 from pprint import pprint
+import datetime
 import argparse     # >=python 2.7
 import unicodedata
+
+import yaml
 import lxml.html
 import lxml.etree
 import distance
@@ -159,7 +161,14 @@ class Article:
 #                    errs.append("content mismatch")
 
 
-        # TODO: everything else :-)
+        # check dates
+        if 'dates' in checks:
+            pub_err = test_dates(self.published, expected.published)
+            if pub_err is not None:
+                errs.append("published: " + pub_err)
+
+
+        # TODO: anything else :-)
 
         return errs
 
@@ -169,6 +178,44 @@ class Article:
                 return a
         return None
 
+
+
+def test_dates(got,expect):
+    """ compare dates. Any time component is ignored. """
+    if expect is None and got is not None:
+        return "expected none, got %s" % (got)
+    if expect is not None and got is None:
+        return "expected %s, got none" % (expect)
+
+
+    # silly yaml. dates could be strings, dates or datetimes.
+    expect_date = fudge_date(expect)
+    got_date = fudge_date(got)
+
+    if expect_date != got_date:
+        return "expected %s, got %s" % (expect,got)
+    return None
+
+
+datepat = re.compile(r'\d{4}-\d{2}-\d{2}')
+
+def fudge_date(d):
+    """ convert whatever into a yyyy-mm-dd string """
+
+    if d is None:
+        return None
+
+    if type(d) == datetime.date:
+        return d.isoformat()
+
+    if type(d) == datetime.datetime:
+        return d.date().isoformat()
+
+    # assume it's a string
+    m = datepat.search(d)
+    if m is None:
+        return None
+    return m.group(0)
 
 
 def normalise_text(txt):
