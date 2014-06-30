@@ -1,0 +1,1760 @@
+WARC/1.0
+Content-Length: 73705
+Content-Type: application/http; msgtype=response
+Warc-Date: 2014-06-27T13:26:00Z
+Warc-Record-Id: urn:X-scrapeomat:1403875562191348721
+Warc-Target-Uri: http://www.telegraph.co.uk/finance/commodities/10855161/Commodities-Gold-prices-heading-higher-as-Modi-eyes-change-to-Indias-import-rules.html
+Warc-Type: response
+X-Scrapeomat-Srcurl: http://www.telegraph.co.uk/finance/commodities/10855161/Commodities-Gold-prices-heading-higher-as-Modi-eyes-change-to-Indias-import-rules.html
+
+HTTP/1.1 200 OK
+Content-Length: 73026
+Cache-Control: max-age=0, no-cache, no-store
+Connection: keep-alive
+Content-Language: en-GB
+Content-Type: text/html;charset=UTF-8
+Date: Fri, 27 Jun 2014 13:26:02 GMT
+Etag: 10855161-1403875560721
+Expires: Fri, 27 Jun 2014 13:26:02 GMT
+Pragma: no-cache
+Proxy-Connection: keep-alive
+Server: Apache
+Set-Cookie: JSESSIONID=CD443439E1ACEA4BC4DB7089590FE89D; Path=/
+Set-Cookie: tmg_authz_session=d923dcbb-cb1e-4f0a-8b65-4676a169f08f:node2;Version=1;Comment=;Domain=.telegraph.co.uk;Path=/;Max-Age=293638
+Set-Cookie: tmg_web_trends=meter_viewed_count:1,meter_updated:1;Version=1;Comment=;Domain=.telegraph.co.uk;Path=/;Max-Age=3600
+
+<!--[if IE ]>
+<!doctype html> 
+<![endif]-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+ 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/">
+<head>
+
+
+
+<script type="text/javascript">
+           /* EPOCH time at the start of the page */
+           
+           /*As IE8 doest support Date.now() functionality,using the diffrent one*/
+             if (!Date.now) {
+                    Date.now = function now() {
+                      return new Date().getTime();
+                   };
+              }
+           
+              var pageStartTime = Date.now();
+</script>
+
+ <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+
+
+<title>Commodities: Gold prices heading higher as Modi eyes change to India&rsquo;s import rules - Telegraph</title>
+
+
+
+<meta name="description" content="New Indian government to look at relaxing restrictions aimed at curbing volume 
+  of gold the world&#039;s most populous democracy can import" />
+
+<meta name="keywords" content="Commodities,Finance" />
+
+<meta name="tmgads.zone" content="finance.commodities" />
+<meta name="tmgads.channel" content="finance" />
+<meta name="tmgads.section" content="finance-commodities" />
+
+<meta name="tmgads.articleid" content="10855161" />
+<input type="hidden" value="article" id="pageType" name="pageType" />
+<input type="hidden" value="story" id="templateName" name="templateName" />
+<meta name="tmgads.pagetype" content="story" />
+<meta name="tmgads.level" content="3" />
+<meta name="tmgads.otherdata" content="" />
+
+
+
+<meta name="tmgads.geo" content="NZ" />
+
+
+
+
+
+<meta name="DCSext.akamigeo" content="NZ" />
+
+
+
+<meta name="section-id" content="6596" />
+
+<meta name="last-modified" content="2014-05-25" />
+		<meta name="article-id" content="10855161" />
+		<meta name="title" content="Commodities: Gold prices heading higher as Modi eyes change to India&#039;s import rules" />
+		<meta name="GSAMLC" content="finance/commodities" />
+<meta name="GSAChannel" content="finance" />
+
+<meta name="GSAChannelName" content="Finance" />
+
+<meta name="GSACategory" content="commodities" />
+	<meta name="GSASectionUniqueName" content="finance-commodities" />
+
+<meta name="GSAArticleType" content="Story" />
+	<meta name="DC.date.issued" content="2014-05-25" />
+<meta name="robots" content="noarchive,noodp" />
+	<meta property="fb:app_id" content="120118784736295" />
+<meta property="fb:admins" content="686953094,531239902,100002344351237" />
+
+<meta property="og:description" content="New Indian government to look at relaxing restrictions aimed at curbing volume   of gold the world&#039;s most populous democracy can import" />
+<meta property="og:site_name" content="Telegraph.co.uk" />
+<meta property="og:title" content="Commodities: Gold prices heading higher as Modi eyes change to India&#039;s import rules - Telegraph" />
+<meta property="og:url" content="http://www.telegraph.co.uk/finance/commodities/10855161/Commodities-Gold-prices-heading-higher-as-Modi-eyes-change-to-Indias-import-rules.html" />
+
+<meta property="og:image" content="http://i.telegraph.co.uk/multimedia/archive/02098/ist_2098060a.jpg" />
+<meta property="og:type" content="article" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@Telegraph" />
+
+<meta name="twitter:creator" content="@baldersdale" />
+<link rel="canonical" href="http://www.telegraph.co.uk/finance/commodities/10855161/Commodities-Gold-prices-heading-higher-as-Modi-eyes-change-to-Indias-import-rules.html"/>
+
+<!--  Line no 278 normal.jsp where 1st code change should be made -->
+
+
+<link rel="stylesheet" type="text/css" href="/template/ver1-0/css/screen.css" media="screen" />
+
+<link rel="stylesheet" type="text/css" href="/template/ver1-0/css/newscreen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/template/ver1-0/templates/fragments/common/tmglBrandCSS.jsp" media="screen" />
+	<!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="/template/ver1-0/css/ie6.css" media="screen" />
+<![endif]-->
+<!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="/template/ver1-0/css/ie7.css" media="screen" />
+<![endif]-->
+
+<link rel="alternate" type="application/rss+xml" title="RSS Feed for Commodities articles - Telegraph.co.uk" href="http://www.telegraph.co.uk/finance/commodities/rss" />
+
+<script type="text/javascript" src="/template/ver1-0/js/jquery-1.4.2.min.js"></script>
+<script language="Javascript" type="text/javascript" src="/template/ver1-0/js/jquery.cookie.js"></script>
+
+<script src='//d3c3cq33003psk.cloudfront.net/opentag-35657-106653.js'></script>
+		<meta name="DCSext.MLC" content="/finance/commodities" />
+	<meta name="DCSext.Category" content="commodities" />
+							<meta name="WT.cg_s" content="commodities" />
+						<meta name="DCSext.Channel" content="finance" />
+					<meta name="WT.cg_n" content="finance" />
+						<meta name="DCSext.Content_Type" content="Story" />
+    <meta name="DCSext.Level" content="3" />
+	<meta name="DCSext.author" content="Andrew Critchlow" />
+			<meta name="DCSext.articleFirstPublished" content="2014-05-25 13:04" />
+	<meta name="DCSext.articleId" content="10855161" />
+
+	<meta name="DCSext.cmsSect" content="Finance;Gold;Commodities;Andrew_Critchlow" />
+			
+	
+
+
+
+		
+
+		
+		  		
+					
+						
+					
+		  
+		
+
+		
+			<meta name="DCSext.cf" content="1"/>	
+			  	<meta name="DCSext.pd" content="1"/>
+			  
+		
+
+
+		<script src="/template/ver1-0/js/webtrends/WTDcsVid.js" type="text/javascript"></script>
+<script src="/template/ver1-0/js/webtrends/LIVE/WTID.js" type="text/javascript"></script>
+
+<script>
+window.webtrendsAsyncInit=function(){
+    var dcs=new Webtrends.dcs().init({
+        dcsid:"dcsshgbi400000gscd62rrg43_4o2o",
+        domain:"webtrends.telegraph.co.uk",
+        timezone:0,
+        adimpressions:true,
+        adsparam:"WT.ac",
+        offsite:false,
+        download:true,
+        downloadtypes:"xls,doc,pdf,txt,csv,zip,docx,xlsx,rar,gzip",
+        metanames:"DCSext.MLC, DCSext.source, DCSext.Category, DCSext.Genre, DCSext.Channel, DCSext.imageNo, DCSext.GalleryType, DCSext.Content_Type, DCSext.Level, DCSext.author, DCSext.articleFirstPublished, DCSext.articleId, DCSext.productProvider, DCSext.productName, DCSext.EA_Search_Type, DCSext.EA_Search_Engine, DCSext.EA_Search_Phrase, DCSext.oss, DCSext.ossType, DCSext.cf, DCSext.cn, DCSext.cd, DCSext.pd,DCSext.cmsSect",        
+        fpcdom:".telegraph.co.uk",
+        plugins:{
+            hm:{src:"/template/ver1-0/js/asyncwebtrends/webtrends.hm.js",hmurlparams:"frame,image"},
+            qbert: { src:"/template/ver1-0/js/asyncwebtrends/qbert-wtplugin.js" }
+        }
+        });
+    if ($.cookie("tmg_subs") != null){
+    	var ts = $.parseJSON($.cookie("tmg_subs"));
+        dcs.DCSext.location = ts.location;
+    	dcs.DCSext.trialDescription =ts.trialDescription;
+	    dcs.DCSext.subscriptionType = ts.subscriptionType;
+	    dcs.DCSext.flowType = ts.flowType;
+	    dcs.DCSext.productType = ts.productType;
+	    dcs.DCSext.serviceId = ts.serviceId;
+	    dcs.DCSext.servicePriceId = ts.servicePriceId;
+	
+	    dcs.DCSext.discountVoucher = ts.discountVoucher;
+	    dcs.DCSext.partnerName = ts.partnerName;
+	    dcs.DCSext.currentPromoName = ts.currentPromoName;
+	    dcs.DCSext.sourcePromoName = ts.sourcePromoName;
+	    dcs.DCSext.promoType = ts.promoType;
+	    dcs.DCSext.tCode = ts.tCode;
+	    dcs.DCSext.status = ts.status == true  && ts.acquisitionCompleted == true ? 'Active':'Inactive';
+
+   }
+   if( /Android|webOS|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) { dcs.DCSext.platform="tablet";}    
+   dcs.track();
+
+};
+(function(){
+    var s=document.createElement("script"); s.async=true; s.src="/template/ver1-0/js/asyncwebtrends/webtrends.js";
+    var s2=document.getElementsByTagName("script")[0]; s2.parentNode.insertBefore(s,s2);
+}());
+</script>
+
+<noscript>< img alt="dcsimg" id="dcsimg" width="1" height="1" src="//webtrends.telegraph.co.uk/dcsshgbi400000gscd62rrg43_4o2o/njs.gif?MLC=&amp;Channel=&amp;Genre=&amp;Category=&amp;Content_Type=&amp;Level=&amp;source=&amp;dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=10.2.10&amp;dcssip=www.telegraph.co.uk"/></noscript>
+
+<script type="text/javascript" src="http://s.telegraph.co.uk/maxymiser/production/js/mmcore.js"></script>
+<script type="text/javascript"> 
+//Events tracking for Google Analytics 
+function trackGoogle() { 
+try {var pageTracker = _gat._getTracker("UA-7226372-1");pageTracker._trackPageview();} catch(err) {} 
+} 
+
+//External links tracking through Google Analytics 
+function isLinkExternal(link) { 
+    var r = new RegExp('^https?://(?:www.)?' + location.host.replace(/^www./, '')); 
+        return !r.test(link); 
+} 
+$(document).ready(function() { 
+    $(document).bind('click', function(e) { 
+        var target = (window.event) ? e.srcElement : e.target; 
+        while (target) { 
+            if (target.href) break; 
+            target = target.parentNode; 
+        } 
+        if (!target || !isLinkExternal(target.href)) return true; 
+        var link = target.href; 
+        link = '/outgoing/' + link.replace(/:\/\//, '/'); 
+        _gaq.push(['_trackPageview', link]); 
+    }); 
+}); 
+
+  var _gaq = _gaq || []; 
+  _gaq.push(['_setAccount', 'UA-7226372-1']); 
+  _gaq.push(['_setDomainName', 'telegraph.co.uk']); 
+  _gaq.push(['_trackPageview']); 
+
+  (function() { 
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); 
+  })(); 
+
+</script>		
+<script type="text/javascript">
+  var gs_channels="default";
+  // Last-updated: 2014-06-27 14:26:00.784
+gs_channels="outdoor_adventure";
+
+</script>
+<script type="text/javascript">
+    // <![CDATA[
+  var qcSegs = ''; 
+  var qcResults = function(qc){ 
+    for (var i=0;i<=qc.segments.length-1;i++){ 
+      if(qc.segments[i].id != 'D' && qc.segments[i].id != 'T') qcSegs += ';qc='+qc.segments[i].id; 
+    } 
+  }
+    // ]]>
+</script> 
+<script type="text/javascript" src="http://pixel.quantserve.com/api/segments.json?a=p-gyXAHFFgnNQDj&callback=qcResults"></script>
+
+
+		
+			<script language="Javascript" type="text/javascript" src="/template/ver1-0/js/dfp.js"></script>
+		
+	
+<script src="http://s.telegraph.co.uk/toolbar/disqus_parameters_prod.js" type="text/javascript" ></script>
+
+<link rel="stylesheet" type="text/css" href="/template/ver1-0/css/subscriber.css" media="screen" />
+<script src='http://player.ooyala.com/v3/ZTIxYmJjZDM2NWYzZDViZGRiOWJjYzc5?platform=html5-fallback'></script>
+<script src="/template/ver1-0/js/ooyala.js" type="text/javascript"></script>
+
+<script language="Javascript" type="text/javascript" src="/template/ver1-0/js/ajax.js"></script>
+
+<script language="Javascript" type="text/javascript" src="/template/ver1-0/js/commWidget.js"></script>
+
+
+<!-- Begin KRUX Digital Control Tag for The Telegraph -->
+<!-- End KRUX Digital Control Tag for The Telegraph -->
+
+
+		<!-- Begin comScore Tag -->
+<script>
+	var _comscore = _comscore || [];
+	_comscore.push({
+		c1 : "2",
+		c2 : "6035736"
+	});
+	(function() {
+		var s = document.createElement("script"), el = document
+				.getElementsByTagName("script")[0];
+		s.async = true;
+		s.src = (document.location.protocol == "https:" ? "https://sb"
+				: "http://b")
+				+ ".scorecardresearch.com/beacon.js";
+		el.parentNode.insertBefore(s, el);
+	})();
+</script>
+<noscript>
+	<img src="http://b.scorecardresearch.com/p?c1=2&c2=6035736&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<link rel="stylesheet" type="text/css" href="/template/ver1-0/css/majornews.css" media="screen" />
+</head>
+
+<body>
+	<script type="text/javascript">
+		var subsInfo = new Object();
+		subsInfo.channel =  $('meta[name="DCSext.Channel"]').attr("content");
+		if(subsInfo.channel==undefined){subsInfo.channel='';}
+		subsInfo.mlc = $('meta[name="DCSext.MLC"]').attr("content");
+		if(subsInfo.mlc==undefined){subsInfo.mlc='';}
+		subsInfo.category = $('meta[name="DCSext.Category"]').attr("content");
+		if(subsInfo.category==undefined){subsInfo.category='';}
+		subsInfo.level = $('meta[name="DCSext.Level"]').attr("content");
+		if(subsInfo.level==undefined){subsInfo.level='';}
+		subsInfo.author = $('meta[name="DCSext.author"]').attr("content");
+		if(subsInfo.author==undefined){subsInfo.author='';}
+		subsInfo.content_type = $('meta[name="DCSext.Content_Type"]').attr("content");
+		if(subsInfo.content_type==undefined){subsInfo.content_type='';}
+		subsInfo.articleId = $('meta[name="DCSext.articleId"]').attr("content");
+		if(subsInfo.articleId==undefined){subsInfo.articleId='';}
+		var subsJson = JSON.stringify(subsInfo);
+		$.cookie("tmg_subs_referer",subsJson, { path: '/', domain: 'telegraph.co.uk'});
+		var inviteWTUrlSuffix='?channel='+ subsInfo.channel+'&mlc='+subsInfo.mlc+'&category='+ subsInfo.category+'&level='+subsInfo.level+'&author='+subsInfo.author+'&content_type='+subsInfo.content_type+'&articleId='+subsInfo.articleId;
+		
+		
+			
+				
+					var inviteUrl = "/subscriptions/invitation-intl/";
+				
+			
+	
+		
+				
+				
+				
+			
+		var plink = "http://www.telegraph.co.uk/template/ver1-0/templates/fragments/common/toolBar-js.jsp";
+	</script>
+	<script src="" type="text/javascript" ></script>
+	<script src="http://s.telegraph.co.uk/toolbar/js/tmgMenu.js" type="text/javascript" ></script>
+<!--[if lte IE 6]>
+<div id="ieLteSix">
+	<div class="ieLteSixBanner">
+		<table cellspacing="0" cellpadding="0">
+			<tbody>
+				<tr>
+					<td class="ieLteSixLeft">
+						<p class="ieFirstP">We no longer check to see whether Telegraph.co.uk displays properly in Internet Explorer version 6 or earlier.</p>
+						<p class="ieSecondtP">To see our content at its best we recommend <a href="/browser-support/">upgrading if you wish to continue using IE or using another browser such as Firefox, Safari or Google Chrome.</a></p>
+					</td>
+					<td valign="top" class="ieLteSixRight">
+						<a href="#" id="ieX"><img src="/template/ver1-0/i/ieX.gif" width="20" height="20" border="0" alt="Hide this banner"></a>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+</div>
+<script language="Javascript" type="text/javascript" src="/template/ver1-0/js/ieSix.js"></script>
+<![endif]-->
+
+<!-- googleoff: all -->
+<a name="top"></a>
+
+<div class="hidden">
+	<p>Accessibility links</p>
+	<ul>
+	<li><a href="#article">Skip to article</a></li>
+		<li><a href="#mainsections">Skip to navigation</a></li>
+	</ul>
+</div><div id="tmglSite">
+	<div class="printLogo"><img src="/template/ver1-0/i/telegraph_print_190.gif"/></div>
+
+	<div id="tmglHeader" class="">
+	<div id="tmglBannerAd">
+    
+              <script type="text/javascript">
+                  /* EPOCH time at the start of banner Ad */
+                var bannerTimerStart = Date.now();
+              
+            </script>
+		<div class="access">Advertisement</div>
+<div class="adbanner" align="center">
+	<div id="banner" class="InSkinHide">
+		<script type="text/javascript">
+		document.write(tmgAdsBuildAdTag("ban", "940x250,728x90,468x60", "adj", "", 2));
+		</script>
+	</div>
+</div>
+
+
+
+
+
+
+</div>
+	<div id="tmglBrandLarge">
+			<a href="/">
+					<div id="brand">Telegraph.co.uk</div></a>
+			<div id="topBarRightContainer">
+				<div id="searchBar">
+					<div id="searchBlock">
+				<form name="otsn_search" id="otsn_search" method="get" action="/search/">
+					<input type="text" class="searchBox otsn"  value="" size="19" tabindex="1"  />
+					<input type="hidden" id="hiddenQueryText"  name="queryText"  value=""/>
+					<input type="submit" class="formSubmit" tabindex="2" id="go" value="" />
+                                        <div class="searchText  normal">
+                                        Search</div>
+
+				</form>
+				<div class="cl"></div>
+			</div>
+		</div>
+				<div id="tmgTopBar">
+				<div id="tmglTopRight" class="tmgTopBarDate">
+					<div id="tmglLasUpdatedDateFeed">
+	<p>
+		Friday 27 June 2014</p>
+</div>
+
+</div>
+			</div></div>
+			
+			<div class="cl"></div>
+		</div>
+		<div class="cl"></div>
+	</div>
+<script type="text/javaScript">
+/* EPOCH time at the  end of Header */
+var tmgHeaderTimerEnd=Date.now();
+</script>
+<!-- googleon: all -->
+			<!-- googleoff: all -->
+	<div id="tmglMenu">
+	<div id="tmglPriExWrap">
+		<div id="tmglPrimaryNav" class="nonActiveNav">
+			<div class="access"><a name="mainsections"></a></div>
+	<ul class="mainNav">
+		<li class="first styleThree"><a href="http://www.telegraph.co.uk/">Home</a></li>
+							<li class="styleThree"><a href="http://www.telegraph.co.uk/news/">News</a></li>
+							<li class="styleThree"><a href="http://www.telegraph.co.uk/news/worldnews/">World</a></li>
+							<li class="styleThree"><a href="http://www.telegraph.co.uk/sport/">Sport</a></li>
+							<li class="styleThree"><a href="http://www.telegraph.co.uk/sport/football/world-cup/">World Cup</a></li>
+							<li class="selected styleThree" id="menuItemstyleThree"><a href="http://www.telegraph.co.uk/finance/">Finance</a></li>
+							<li class="styleThree"><a href="http://www.telegraph.co.uk/comment/">Comment</a></li>
+							<li class="styleThree"><a href="http://www.telegraph.co.uk/culture/">Culture</a></li>
+							<li class="styleThree"><a href="http://www.telegraph.co.uk/travel/">Travel</a></li>
+							<li class="styleThree"><a href="http://www.telegraph.co.uk/lifestyle/">Life</a></li>
+							<li class="styleThree"><a href="http://www.telegraph.co.uk/women/">Women</a></li>
+							<li class="styleThree"><a href="http://fashion.telegraph.co.uk">Fashion</a></li>
+							<li class="styleThree"><a href="http://www.telegraph.co.uk/luxury/">Luxury</a></li>
+							<li class="styleThree"><a href="http://www.telegraph.co.uk/technology/">Tech</a></li>
+							<li class="styleThree"><a href="http://www.telegraph.co.uk/cars/">Cars</a></li>
+							</ul></div>
+		<div id="tmglExtraNav">
+	<ul class="extraNav">
+		</ul>
+	<div class="cl"></div>
+</div> 
+<div class="cl"></div>
+	</div>
+
+	<div id="tmglSecondNav" class="activeNav styleThree">
+				<ul class="mainNav">
+						<li class="first styleThree"><a href="http://www.telegraph.co.uk/finance/newsbysector/">Companies</a></li>
+									<li class="styleThree"><a href="http://www.telegraph.co.uk/finance/comment/">Comment</a></li>
+									<li class="styleThree"><a href="http://www.telegraph.co.uk/finance/personalfinance/">Personal Finance</a></li>
+									<li class="styleThree"><a href="http://www.telegraph.co.uk/finance/personalfinance/investing/isas">ISAs</a></li>
+									<li class="styleThree"><a href="http://www.telegraph.co.uk/finance/economics/">Economics</a></li>
+									<li class="styleThree"><a href="http://www.telegraph.co.uk/finance/markets/">Markets</a></li>
+									<li class="styleThree"><a href="http://www.telegraph.co.uk/finance/festival-of-business/">Festival of Business</a></li>
+									<li class="styleThree"><a href="http://www.telegraph.co.uk/finance/1000-companies-inspire-britain/">Hot 1000</a></li>
+									<li class="styleThree"><a href="http://www.telegraph.co.uk/finance/businessclub/">Business Club</a></li>
+									<li class="styleThree"><a href="http://www.telegraph.co.uk/financialservices/">Money Deals</a></li></ul>
+					<div class="cl"></div>
+				</div>
+		<div id="tmglCrumbtrail">
+		<ol>
+			<li class="first"><a href="/">Home</a><span>&raquo;</span></li>
+			<li><a href="http://www.telegraph.co.uk/finance/">Finance</a><span>&raquo;</span></li>
+					<li class="styleThree"><a href="http://www.telegraph.co.uk/finance/commodities/">Commodities</a></li></ol>
+		<div class="cl"></div>
+	</div>
+</div>
+
+<!-- googleon: all -->
+<div id="tmglBody" itemscope itemtype="http://schema.org/Article" >
+	<div class="access"><a name="article"></a></div>
+
+	<div class="twoThirdsThird2 gutterUnder">
+		<div class="twoThirds gutter" >
+			<script type="text/javascript" src="/template/ver1-0/js/jquery-ui.js"></script>
+<script type="text/javascript" src="/template/ver1-0/js/jquery.multiselect.js"></script>
+
+<div class="storyHead">
+
+<h1 itemprop="headline name">Commodities: Gold prices heading higher as Modi eyes change to India&rsquo;s import rules</h1>
+			<h2  itemprop="alternativeHeadline description">
+New Indian government to look at relaxing restrictions aimed at curbing volume 
+  of gold the world's most populous democracy can import
+
+</h2>						
+	<!-- Opta Widget start -->
+	<!-- Opta Widget end -->
+	
+	<div class="artIntro">
+					<div id="storyEmbSlide">
+			<div class="slideshow ssIntro">
+				<div class="nextPrevLayer">
+							<div class="ssImg">
+									<img src="http://i.telegraph.co.uk/multimedia/archive/02098/ist_2098060b.jpg" width="620" height="388" alt="Gold jewellery on display" itemprop="image"/>
+									<div class="artImageExtras" >
+									
+										<div class="ingCaptionCredit">
+											<span class="caption">Modi’s new government is expected to act quickly on election promises by cutting duties and reducing the amount of gold that jewelry companies are obliged to sell for re-export.</span>&nbsp;<span class="credit">Photo: REX</span></div>						
+									</div>
+								</div>
+							</div>			
+					</div>
+		</div>
+		
+	</div>	
+			</div>
+<div class="oneHalf gutter">
+						<div class="story">
+		<div class="cl"> </div>
+		<!-- remove the whitespace added by escenic before end of </a> tag -->
+				<div class="bylineComments">
+		<div >
+			
+			<div class="bylineImg">
+						<a href="http://www.telegraph.co.uk/journalists/" ><img src="http://i.telegraph.co.uk/multimedia/archive/02769/andrewcritchlow-60_2769386j.jpg" alt="" border="0" width="60" height="60" ></a>
+					</div>
+				<p class="bylineBody">
+							By <a rel="author" title="Andrew Critchlow" href="http://www.telegraph.co.uk/journalists/andrew-critchlow/" >
+											Andrew Critchlow</a></p>
+					
+					</div>
+		<p class="publishedDate">3:00PM BST 25 May 2014</p>
+		<meta itemprop="datePublished" content="2014-05-25"/><div class="bylineSocialButtons">
+					<a href="https://twitter.com/baldersdale" class="twitter-follow-button" data-screen-name="baldersdale" data-show-count="true" data-show-screen-name="false" data-lang="en">Follow</a> 
+						<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+					</div>
+			<p class="comments">
+				<img src="/template/ver1-0/i/share/comments.gif" alt="Comments" /><a href="http://www.telegraph.co.uk/finance/commodities/10855161/Commodities-Gold-prices-heading-higher-as-Modi-eyes-change-to-Indias-import-rules.html#disqus_thread" dsqid="10855161">Comments</a>
+			</p>
+		<div class="cl"> </div>
+	</div>
+	<div id="mainBodyArea" itemprop="articleBody">
+
+	
+			  	
+					<div class="firstPar"><p>
+Gold has been one of the best performing commodity asset classes this year and 
+  the victory of incoming prime minister Narendra Modi in India&rsquo;s recent 
+  elections is being tipped as a further signal for investors to stock up on 
+  the precious metal.
+</p></div><div class="secondPar">
+<p>
+One of the first economic policies that the new Bharatiya Janata Party (BJP) 
+  government is thought to be considering  would be to relax restrictions 
+  aimed at curbing the volume of gold that the world&rsquo;s most populous democracy 
+  can import under the so called 80:20 rule.
+</p></div><div class="thirdPar">
+<p>
+Introduced last year, the legislation - which increased gold import duties to 
+  10pc and set a  20pc quota on the quantity of imported gold for re-export - 
+  has failed to ease inflation, or significantly cut the the country&rsquo;s budget 
+  deficit. It has also spurred a boom in illegal smuggling of the precious 
+  metal through the &ldquo;hawala&rdquo; black market system.
+</p></div><div class="fourthPar">
+<p>
+But Modi&rsquo;s new government is expected to act quickly on election promises by 
+  cutting duties and reducing the amount of gold that jewelry companies are 
+  obliged to sell for re-export. Some experts expect a full easing of the 
+  unpopular 80:20 rule could be brought into force by the beginning of the 
+  Hindu Diwali religious festival in October, when Indians traditionally 
+  splurge on gold jewelry and gifts.
+</p></div><div class="fifthPar">
+<p>
+&ldquo;It&rsquo;s only a matter of time before these restrictions on gold are removed 
+  completely by the new Indian government,&rdquo; Marcus Grubb, managing director of 
+  investment strategy at the World Gold Council (WGC) told the Telegraph. 
+  Gradually, a number of things are now adding up to make investors more 
+  positive about gold.&rdquo;
+</p></div><div id="tmg-related-links" class="related_links_inline">
+			<div class="headerOne styleThree"><h2><span>Related Articles</span></h2></div>
+	
+			<ul>
+	
+				<li class="bullet">
+													<p>
+                    <a  href="/finance/commodities/10844614/Cable-attacks-Glencores-failure-to-find-a-female-director.html">Glencore blasted over lack of female director</a>
+		</p>
+
+	<span class="relContDate">20 May 2014</span>
+													</li>
+												<li class="bullet">
+													<p>
+                    <a  href="/finance/commodities/10808974/UK-petrol-prices-highest-of-any-major-economy.html">UK petrol prices 'highest of any major economy'</a>
+		</p>
+
+	<span class="relContDate">06 May 2014</span>
+													</li>
+												<li class="bullet">
+													<p>
+                    <a  href="/finance/newsbysector/industry/defence/10831872/US-says-cant-guarantee-security-in-oil-rich-Gulf-states-as-focus-turns-to-China.html">US can't 'guarantee' security in oil-rich Gulf</a>
+		</p>
+
+	<span class="relContDate">15 May 2014</span>
+													</li>
+												<li class="bullet">
+													<p>
+                    <a  href="/finance/commodities/10842010/Europe-agrees-pact-to-avoid-Gordon-Browns-gold-sale-error.html">Europe agrees pact to avoid Brown's gold sale error</a>
+		</p>
+
+	<span class="relContDate">19 May 2014</span>
+													</li>
+												<li class="bullet">
+													<p>
+                    <a  href="/finance/newsbysector/energy/10839701/China-steps-up-speed-of-oil-stockpiling-as-tensions-mount-in-Asia.html">China steps up oil stockpiling as tensions mount</a>
+		</p>
+
+	<span class="relContDate">18 May 2014</span>
+													</li>
+												</ul>
+		</div>
+	<div class="body">
+<p>
+India is the world&rsquo;s second biggest importer of gold and a major driver for 
+  the global market in the yellow metal. India imported around 825 tonnes of 
+  gold last year down from 860 tonnes in 2012, partly due to the increase in 
+  duties and restrictions. At the same time, illegal imports were thought to 
+  account for 200 tonnes of supply.
+</p>
+<p>
+According to the WGC restrictions have hit demand for gold in India as a 
+  conventional financial investment with demand for gold coins and bars 
+  falling 45pc to 45 tonnes in the first quarter. However, the drop in demand 
+  was partly thought to be due to restrictions on the free movement of cash 
+  and other assets, such as gold leading up to the elections this month.
+</p>
+<p>
+Overall, gold is up almost 8pc year-to-date, trading at around $1,300 (&pound;771) 
+  per ounce. However, global demand for gold as a form of investment dipped 
+  slightly in the first quarter to 282 tonnes, compared with 288 tonnes in the 
+  same three-month period last year. Increases in demand for jewelry failed to 
+  compensate for sharp falls in the market for investment bullion in the form 
+  of bars and coins, according to the WGC.
+</p>
+<p>
+Total global jewellery demand climbed 3pc to 571 tonnes in the first quarter 
+  as consumers splashed out across Asia, said the WGC, which monitors the 
+  market.
+</p>
+<p>
+&ldquo;It is clear that the longer term underpinnings of the gold market &ndash; such as 
+  jewellery demand in Asia &ndash; remain firmly in place demonstrating the 
+  continuing resilience of the gold market and the unique nature of gold as an 
+  asset class, rebalancing to reflect demand,&rdquo; said Mr Grubb. He added that 
+  consumers, especially in the jewelry segment in India, have &ldquo;a lot of 
+  confidence&rdquo; to buy gold at the current level of around $1,300 per ounce.
+</p>
+<p>
+While a change in government in Delhi is being viewed as broadly positive for 
+  the market many analysts are surprised that geo-political events have not 
+  played a bigger role in driving up the price of gold in the quarter. 
+  Normally, the metal is viewed by investors as the ultimate hedge against 
+  risk but prices have so far not reacted to Russia&rsquo;s actions in Crimea, or 
+  the military coup in Thailand.
+</p>
+<p>
+&ldquo;Overall I am quite surprised at how gold has not reacted to these political 
+  situations such as Ukraine. However, depending on events this could still 
+  change,&rdquo; said Mr Grubb.
+</p>
+<h3>
+European green laws create US boom from export of wood pellets to UK</h3>
+<p>
+Wood pellets have emerged as a surprise new asset class in the world of 
+  commidities as more power companies convert turbines to burn bio-mass as an 
+  alternative to coal.
+</p>
+<p>
+According to the US government&rsquo;s Energy Information Administration (EIA), 
+  Britain was the biggest overseas market for American wood pellets last year. 
+  Exports of the pellets nearly doubled last year, from 1.6m tonnes, equal to 
+  22 trillion British thermal units of measured energy in 2012, to 3.2m tonnes 
+  in 2013.
+</p>
+<p>
+European Union (EU) legislation to force power plant operators to convert to 
+  biomass fuels are behind the creation of the new export market for the US, 
+  according to the EIA. Up until the introduction of EU regulations to reduce 
+  greenhouse gas emissions by up to 20pc by 2020 from their 1990 levels, the 
+  US consumed the majority of its own domestic wood pellet production.
+</p>
+<p>
+As more of the UK&rsquo;s power plants such as Drax convert to biomass burning 
+  turbines, imports of wood pellets have surged. Last year, Britain imported 
+  more than 3.5m tonnes from all sources, up from virtually no requirement in 
+  2009 and making it the largest market in Europe for imported biomass.
+</p>
+<p>
+Although the majority of Britain&rsquo;s biomass pellets are coming from the US, 
+  other potential suppliers include Canada. 
+</p>
+<h3>
+Kurdish oil leaves port</h3>
+<p>
+Loading started in the Turkish port of Ceyhan last week of 1m barrels of crude 
+  stored for the Kurdistan Regional Government (KRG) in Northern Iraq. Last 
+  month the Telegraph reported that the KRG had launched a tender to load the 
+  oil. Kurdistan currently produces approximately 200,000 barrels per day 
+  (bpd) but it is believed that output can rise to 2m bpd by 2020, and reach 
+  total exports of 1m bpd. However, the KRG in Irbil remains locked in a 
+  dispute with Baghdad over who controls the oil. The central government in 
+  Baghdad, which claims its oil ministry must approve all sales and exports, 
+  has banned shipments to the storage tanks in Turkey
+</p>
+</div>
+			   
+		<div class="cl"></div>
+</div></div><div class="isaSeason">
+			</div></div>
+
+					<div class="oneSixth">
+							<!-- googleoff: all -->
+	<div id="shareSideContainer" class="loading">
+		<div class="print invisible"><a href="javascript:print()" alt="Print" title="Print">&nbsp;</a></div>
+		<div id="shareSide" class="storyFunc nobord"></div>
+		<div class="cl"></div>
+	</div>
+<div class="storyfct">
+			<div id="storyMoreOnFucntion">
+		<div class="secLinks">
+
+			<div class="section">
+				<div class="name">
+					<h2><a href="http://www.telegraph.co.uk/finance/commodities/">Commodities</a></h2>
+				</div>
+				
+				<div class="cl"></div>
+			</div>
+
+			<ul>
+					<li class="first">
+									<h3><a href="http://www.telegraph.co.uk/finance/">Finance &#187;</a></h3>
+								</li>
+								<li>
+									<h3><a href="http://www.telegraph.co.uk/finance/personalfinance/investing/gold/">Gold &#187;</a></h3>
+								</li>
+								<li class="last">
+									<h3><a href="http://www.telegraph.co.uk/journalists/andrew-critchlow/">Andrew Critchlow &#187;</a></h3>
+								</li>
+								</ul>
+				<div class="cl"></div>
+		</div>
+	</div>
+</div>
+	<div class="related_links">
+		<div class="summaryMediumToSmall"><div class="headerOne styleThree">
+				<!-- 9605761 -->
+				<p>
+							<a href="http://www.telegraph.co.uk/finance/"><span>In Finance&#187;</span></a>
+							</p></div>
+		<div class="summary imageCentreHeadline">
+			<div class="summarySmall">
+				<!-- imagePosition: centre, columnContext: oneSixth -->
+<div class="piccentre containerdiv  ">
+		<a  href="http://www.telegraph.co.uk/finance/jobs/9640237/Top-10-coolest-offices-in-UK.html?utm_source=tmg&utm_medium=puff_10coolestOffices&utm_campaign=jobs"><img src="http://i.telegraph.co.uk/multimedia/archive/02383/MindCandy_2383635g.jpg" alt="" border="0" width="140"  height="87" />
+									<span class="cornerimagecentre">&nbsp;</span></a>
+						</div>
+	
+<h3>
+			<a  href="http://www.telegraph.co.uk/finance/jobs/9640237/Top-10-coolest-offices-in-UK.html?utm_source=tmg&utm_medium=puff_10coolestOffices&utm_campaign=jobs">Top 10 coolest offices in the UK</a>
+						</h3>
+	</div>
+		</div>
+	<div class="summary headlineAbstract">
+			<!-- 9280364 -->
+			<div class="labelAbstract">
+</div><div class="cl"></div>
+		</div></div>
+</div>
+
+	<div class="summaryMedium secPuffs">
+			<div class="headerOne styleThree"><p>In Commodities</p></div>
+			<div class="summary imageCentreHeadline">
+			<div class="summarySmall">
+				<!-- imagePosition: centre, columnContext: oneSixth -->
+<div class="piccentre containerdiv  ">
+		<a  href="/finance/personalfinance/investing/10881855/Revealed-The-worlds-cheapest-stock-markets.html"><img src="http://i.telegraph.co.uk/multimedia/archive/02933/focusstocks_2933964g.jpg" alt="" border="0" width="140"  height="72" />
+									<span class="cornerimagecentre">&nbsp;</span></a>
+		</div>
+	
+<h3>
+                    <a  href="/finance/personalfinance/investing/10881855/Revealed-The-worlds-cheapest-stock-markets.html">Revealed: The world's cheapest stock markets</a>
+		</h3>
+
+	</div>
+		</div>
+	<div class="summary imageCentreHeadline">
+			<div class="summarySmall">
+				<!-- imagePosition: centre, columnContext: oneSixth -->
+<div class="piccentre containerdiv  ">
+		<a  href="/finance/personalfinance/investing/isas/10865783/Woodford-Equity-Income-The-cheapest-way-to-buy-Neil-Woodfords-fund.html"><img src="http://i.telegraph.co.uk/multimedia/archive/02899/PX1857896_Commissi_2899253g.jpg" alt="Neil Woodford" border="0" width="140"  height="87" />
+									<span class="cornerimagecentre">&nbsp;</span></a>
+		</div>
+	
+<h3>
+                    <a  href="/finance/personalfinance/investing/isas/10865783/Woodford-Equity-Income-The-cheapest-way-to-buy-Neil-Woodfords-fund.html">The cheapest way to buy Neil Woodford's fund</a>
+		</h3>
+
+	</div>
+		</div>
+	<div class="summary imageCentreHeadline">
+			<div class="summarySmall">
+				<!-- imagePosition: centre, columnContext: oneSixth -->
+<div class="piccentre containerdiv  ">
+		<a  href="/finance/personalfinance/investing/gold/10152645/BlackRock-Gold-and-General-fund-feels-the-hit-as-bullion-price-falls.html"><img src="http://i.telegraph.co.uk/multimedia/archive/02098/ist_2098060g.jpg" alt="Gold jewellery on display" border="0" width="140"  height="87" />
+									<span class="cornerimagecentre">&nbsp;</span></a>
+		</div>
+	
+<h3>
+                    <a  href="/finance/personalfinance/investing/gold/10152645/BlackRock-Gold-and-General-fund-feels-the-hit-as-bullion-price-falls.html">Gold fund still tipped after 51pc fall</a>
+		</h3>
+
+	</div>
+		</div>
+	<div class="summary imageCentreHeadline">
+			<div class="summarySmall">
+				<!-- imagePosition: centre, columnContext: oneSixth -->
+<div class="piccentre containerdiv  ">
+		<a  href="/finance/personalfinance/investing/isas/9966123/How-to-save-on-Isa-investing-costs-with-an-ETF.html"><img src="http://i.telegraph.co.uk/multimedia/archive/01805/gold-front_1805318g.jpg" width="140" alt="Gold bars" border="0"  height="87" />
+									<span class="cornerimagecentre">&nbsp;</span></a>
+		</div>
+	
+<h3>
+                    <a  href="/finance/personalfinance/investing/isas/9966123/How-to-save-on-Isa-investing-costs-with-an-ETF.html">How to save on Isa investing costs with an ETF</a>
+		</h3>
+
+	</div>
+		</div>
+	<div class="summary imageCentreHeadline">
+			<div class="summarySmall">
+				<!-- imagePosition: centre, columnContext: oneSixth -->
+<div class="piccentre containerdiv  ">
+		<a  href="/finance/personalfinance/investing/9166374/Isas-three-best-commodity-funds.html"><img src="http://i.telegraph.co.uk/multimedia/archive/01796/mining_1796733g.jpg" width="140" alt="Why commodity prices matter so much to the FTSE" border="0"  height="87" />
+									<span class="cornerimagecentre">&nbsp;</span></a>
+		</div>
+	
+<h3>
+                    <a  href="/finance/personalfinance/investing/9166374/Isas-three-best-commodity-funds.html">Isas: three best commodity funds</a>
+		</h3>
+
+	</div>
+		</div>
+	</div>
+	<!-- googleon: all --></div>
+					<div class="cl"></div>
+
+			<div class="storyFt">
+				<div class="print hidden"><a href="javascript:print()" title="Print">&nbsp;</a></div>
+			<div id="shareBottom" class="storyFunc"></div>
+			<div class="cl"></div>
+		<div id="outbrain-links">
+						<div class="OUTBRAIN" data-src="http://www.telegraph.co.uk/finance/commodities/10855161/Commodities-Gold-prices-heading-higher-as-Modi-eyes-change-to-Indias-import-rules.html" data-widget-id="AR_16" data-ob-template="telegraph"></div>
+					</div>
+				<div id="outbrain-links">
+						<div class="OUTBRAIN" data-src="http://www.telegraph.co.uk/finance/commodities/10855161/Commodities-Gold-prices-heading-higher-as-Modi-eyes-change-to-Indias-import-rules.html" data-widget-id="AR_4" data-ob-template="telegraph"></div>											
+					</div>				
+				
+	  	
+			<div class="summaryMedium artCommercial">
+				</div>
+		
+	
+
+<!-- googleoff: all -->
+
+	<input type="hidden" name="numofAds" id="numofAds" value="3">
+
+<div class="googleads ">
+		<div class="access">Advertisement</div>
+		
+		<script type="text/javascript">
+		<!--
+			google_ad_client = 'ca-telegraph_uk_300x250';
+			google_ad_channel = 'finance';
+			google_max_num_ads = '3';
+			google_ad_output="js";
+			google_ad_type="text";
+			google_language="en";
+			google_encoding="utf8";
+			google_safe="high";
+			
+			
+			
+							google_hints="commodities";
+												
+		// -->
+		</script>
+		
+		<script type="text/javascript" src="/template/ver1-0/js/googleAds.js"></script>
+		
+	<div id="google-ads-container"></div>
+		<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+		<noscript>
+			
+		</noscript>
+	</div>
+
+<!-- googleon: all -->
+</div>
+
+			<div class="twoThirds btop">
+				<!--comments=disqus<br>
+disqusComments=active<br>
+userCommentsState=sectionProperties<br>
+showComments=true<br>
+article.articleTypeName=tmglstory<br>-->
+
+		
+<a class="moderate" href="http://my.telegraph.co.uk/aboutus/mytelegraph/12/moderation-faqs/" target="_new">How we moderate</a>
+	
+	<div class="gutterUnder fclear">
+	<div class="hide" id="disqusAcc">telegraphuk</div>
+		<div id="disqus_thread"></div>
+		<script type="text/javascript">
+		var disqus_title = "Commodities: Gold prices heading higher as Modi eyes change to India&rsquo;s import rules";
+		var disqus_identifier = "10855161";
+		var disqus_developer = 1;
+		</script>
+		<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript=telegraphuk">comments powered by Disqus.</a></noscript>
+		<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+	</div> 		
+</div>
+			<div class="cl"></div>
+		</div>
+
+		<div class="oneThird">
+			<div class="InSkinHide">
+	<script type="text/javascript">
+		document.write(tmgAdsBuildAdTag("pp", "1x1", "adj", "", 2));
+		</script>
+	</div>
+
+
+
+
+
+<div class="summaryMedium">
+		</div>
+	<div class="summaryPadding"></div>
+<div class="admpu gutterUnder">
+  <script type="text/javascript">
+     /* EPOCH time at the start of MPU Ad */
+     var mpuAdTimerStart = Date.now();
+  </script>
+<div class="access">Advertisement</div>
+<div id="mpu" class="InSkinHide">
+	<script type="text/javascript">
+		document.write(tmgAdsBuildAdTag("mpu", "300x250", "adj", "", 2));
+		</script>
+	</div>
+</div>
+
+<div class="summaryMedium  gutterUnder  tps5">
+				<div class="summary iframeSummary mnIframe">
+							<!-- 10276541 -->
+							<iframe width="300" height="350" marginwidth="0" scrolling="no" src="http://www.smartlinks.dianomi.com/smartads.epl?id=1780" frameborder="0" marginheight="0"></iframe>
+						</div>
+					</div>
+		<div class="summaryMedium gutterUnder">
+						
+                
+                    
+                                <div class="headerOne styleThree">
+				<!-- 9648057 -->
+				<p>
+							<span>More from the web</span>
+							</p></div>
+		<div class="summary iframeSummary mnIframe">
+							<!-- 10729302 -->
+							<iframe width="300" height="400" marginwidth="0" scrolling="no" src="http://s.telegraph.co.uk/international/pricegrabber/PricegrabberUKExpatFinance.html" frameborder="0" marginheight="0"></iframe>
+						</div>
+					
+		</div>
+				<div class="access">Advertisement</div>
+<div id="yell">
+	<div class="adyell InSkinHide">
+		<script type="text/javascript">
+		document.write(tmgAdsBuildAdTag("yell", "300x150", "adj", "", 2));
+		</script>
+	</div>
+</div>
+
+
+
+
+
+
+
+<div class="summaryMedium gutterUnder">
+	
+                
+                    
+                                <div class="headerOne styleThree">
+				<!-- 9648057 -->
+				<p>
+							<span>More from the web</span>
+							</p></div>
+		<div id="configurableTabs" class="configTabs">
+    <div class="topline">
+    	<div class="left"></div>
+    	<div class="right"></div>
+        <div style="clear:both;"></div>
+    </div>
+	
+    <div class="innerPlugin">
+      <div class="loadingMessage">
+            Loading
+        </div>
+        <div class="cl"></div>
+
+		<script type="text/javascript">
+                var puffs_10803682 = new Array();
+                </script>
+                <div id="configurableTab_10803682" class="controlledTab" style="display:none;">
+                	<div class="tools">
+							<a class="prevArrowImage" id="p10803682" href="#"></a>
+							<a class="nextArrowImage" id="n10803682" href="#"></a>
+							<div class="cl"></div>
+						</div>
+					<ul class="configurableWidget ssAds"></ul>
+                    <script type="text/javascript">
+								    var thisLink = "http://featuredadvertising.telegraph.co.uk/c/e5ccf7bb-4cc0-49f4-a5e6-212256a1c64c?WT.ac=10803671";
+								    puffs_10803682.push({'id':'10803671', 'headline':'Skills courses in Business Management', 'bodyText':'Book now for public courses in UK and enquire for in-house delivery worldwide.', 'link':thisLink, 'imageUrl':'http://i.telegraph.co.uk/multimedia/archive/02899/Fotolia_CP_images__2899532a.jpg', 'weight':'3'});
+								    </script>
+
+								    <script type="text/javascript">
+								    var thisLink = "http://featuredadvertising.telegraph.co.uk/c/6910c092-8391-4a5d-88cb-808bd202be12?WT.ac=10803687";
+								    puffs_10803682.push({'id':'10803687', 'headline':'Skills courses in Supply Chain Management', 'bodyText':'Book now for public courses in UK and enquire for in-house delivery worldwide.', 'link':thisLink, 'imageUrl':'http://i.telegraph.co.uk/multimedia/archive/02899/Fotolia_CP_trainin_2899534a.jpg', 'weight':'3'});
+								    </script>
+
+								    <script type="text/javascript">
+								    var thisLink = "http://featuredadvertising.telegraph.co.uk/c/f25bd420-9e17-4042-98d9-4721bd0bff3f?WT.ac=10803691";
+								    puffs_10803682.push({'id':'10803691', 'headline':'Skills courses in Contracts &amp; Procurement', 'bodyText':'Book now for public courses in UK and enquire for in-house delivery worldwide.', 'link':thisLink, 'imageUrl':'http://i.telegraph.co.uk/multimedia/archive/02899/Fotolia_CP_coachin_2899538a.jpg', 'weight':'3'});
+								    </script>
+
+								    <script type="text/javascript">
+								    var thisLink = "http://featuredadvertising.telegraph.co.uk/c/cc5a22c1-6667-4693-9374-5dd70bb40f95?WT.ac=10803693";
+								    puffs_10803682.push({'id':'10803693', 'headline':'Skills courses in Logistics and Transport', 'bodyText':'Book now for public courses in UK and enquire for in-house delivery worldwide.', 'link':thisLink, 'imageUrl':'http://i.telegraph.co.uk/multimedia/archive/02899/Fotolia_CP_trainin_2899541a.jpg', 'weight':'3'});
+								    </script>
+
+								    <script type="text/javascript">
+								    var thisLink = "http://featuredadvertising.telegraph.co.uk/c/53a45b01-d8a5-44cf-aab3-408d5080643d?WT.ac=10803701";
+								    puffs_10803682.push({'id':'10803701', 'headline':'Skills courses in HR Management', 'bodyText':'Book now for public courses in UK and enquire for in-house delivery worldwide.', 'link':thisLink, 'imageUrl':'http://i.telegraph.co.uk/multimedia/archive/02899/Fotolia_CP_4_stude_2899543a.jpg', 'weight':'3'});
+								    </script>
+
+								    </div>
+
+                <script type="text/javascript">
+var noOfPuffs = 10;
+
+	for(var i=0; i < noOfPuffs; i++) {
+		if(i < puffs_10803682.length) {
+			rotateLayoutPuffs(10803682, i, true);
+		}
+    } 		
+
+</script><div class="cl"></div>
+	  </div>
+	<div class="bottomline">
+    	<div class="left"></div>
+    	<div class="right"></div>
+        <div style="clear:both;"></div>
+    </div>
+</div>
+<script language="Javascript" type="text/javascript">
+function onClickedForTabCountZero(tabTitle){
+	if(tabTitle == 'BUY USED')
+	{
+		var head = document.getElementsByTagName('head')[0];
+		var s = document.createElement('script');
+		s.type = 'text/javascript';
+		s.text = "Krux('admEvent', 'IgU1GlWa', { });";
+		head.appendChild(s);
+	}
+	
+};
+function onClickedForTabCountNonZero(tabTitle){
+	if(tabTitle == 'SELL A CAR')
+	{
+		var head = document.getElementsByTagName('head')[0];
+		var s = document.createElement('script');
+		s.type = 'text/javascript';
+		s.text = "Krux('admEvent', 'IgVNad2Z', { });";
+		head.appendChild(s);
+	}
+	else if(tabTitle == 'BUY NEW')
+	{
+	
+		var head = document.getElementsByTagName('head')[0];
+		var s = document.createElement('script');
+		s.type = 'text/javascript';
+		s.text = "Krux('admEvent', 'IgVO4O1d', { });";
+		head.appendChild(s);
+	}
+};
+</script>
+					
+		</div>
+<div class="summaryMedium gutterUnder">
+		<div class="mostPopular"><div id="mostPopular">
+<div class="headerOne styleNine">
+				<p>Finance Most Viewed</p>
+			</div>
+		<div id="mostpop">
+		<div class="tabs">
+				<ul>
+					<li id="TODAY" class="first current" onclick="return false">
+						<a>
+							<span>TODAY</span>
+						</a>
+					</li>
+					<li id="THIS_WEEK" onclick="return false">
+						<a>
+							<span>PAST WEEK</span>
+						</a>
+					</li>
+					<li id="THIS_MONTH" onclick="return false" class="last">
+						<a>
+							<span>PAST MONTH</span>
+						</a>
+					</li>
+				</ul>
+		</div>
+		<div class="cl"></div>
+	
+		<div class="lists">
+			<div id="div-TODAY" class="view-content" style="display: block;">
+				<ol>
+						<li><a href="/finance/personalfinance/consumertips/10925912/The-legal-way-to-avoid-paying-the-TV-licence-fee.html">The legal way to avoid paying the TV licence fee</a></li>
+							
+						<li><a href="/finance/personalfinance/consumertips/tax/10929370/More-than-half-of-homes-take-more-than-they-contribute.html">More than half of homes take more than they contribute</a></li>
+							
+						<li><a href="/finance/personalfinance/interest-rates/10929882/Mark-Carney-new-normal-will-see-rates-go-to-2.5pc-and-stay-there.html">Carney: interest rates to hit 2.5pc and stay there</a></li>
+							
+						<li><a href="/finance/personalfinance/consumertips/10920670/eBay-loophole-how-you-can-exploit-listing-typos-to-find-bargains.html">eBay loophole:  how you can exploit listing typos</a></li>
+							
+						<li><a href="/finance/personalfinance/borrowing/mortgages/10929334/Mortgages-to-be-dependent-on-repayments-under-rates-rise.html">Mortgages to be dependent on repayments under rates rise</a></li>
+							
+						</ol>
+				</div>
+			<div id="div-THIS_WEEK" class="view-content" style="display: none">
+				<ol>
+						<li><a href="/finance/personalfinance/10917197/Revealed-the-biggest-fears-of-the-super-rich.html">Revealed: the biggest fears of the super-rich</a></li>
+							
+						<li><a href="/finance/personalfinance/borrowing/creditcards/10231556/Man-who-created-own-credit-card-sues-bank-for-not-sticking-to-terms.html">Man creates own credit card, sues bank over terms</a></li>
+							
+						<li><a href="/finance/personalfinance/consumertips/10920308/How-to-set-up-a-successful-eBay-business.html">eBay for a living: &#039;Our turnover is now £1.5m&#039;</a></li>
+							
+						<li><a href="/finance/newsbysector/retailandconsumer/10916355/ASOS-fashion-warehouse-badly-damaged-in-fire.html">ASOS warehouse &#039;badly damaged&#039; in fire</a></li>
+							
+						<li><a href="/finance/personalfinance/investing/isas/10913878/Super-Isas-seven-days-to-go-six-crucial-questions.html">Super Isas: six crucial questions</a></li>
+							
+						</ol>
+				</div>
+			<div id="div-THIS_MONTH" class="view-content" style="display: none">
+				<ol>
+						<li><a href="/finance/personalfinance/10917197/Revealed-the-biggest-fears-of-the-super-rich.html">Revealed: the biggest fears of the super-rich</a></li>
+							
+						<li><a href="/finance/comment/ambroseevans_pritchard/10861252/Europe-has-an-even-bigger-crisis-on-its-hands-than-a-British-exit.html">Europe has an even bigger crisis on its hands than a British exit</a></li>
+							
+						<li><a href="/lifestyle/10868367/Kirstie-Allsopp-I-dont-want-the-next-generation-of-women-to-suffer-the-same-heartache.html">Kirstie Allsopp: &#039;I don’t want the next generation of women to suffer the same heartache’</a></li>
+							
+						<li><a href="/finance/personalfinance/borrowing/creditcards/10231556/Man-who-created-own-credit-card-sues-bank-for-not-sticking-to-terms.html">Man creates own credit card, sues bank over terms</a></li>
+							
+						<li><a href="/finance/personalfinance/investing/buy-to-let/10865251/Former-Boots-boss-Buy-to-let-replaced-my-salary-in-four-years.html">&#039;Buy-to-let replaced my salary in four years&#039;</a></li>
+							
+						</ol>
+				</div>
+		</div>
+	
+	</div>
+
+</div>
+</div></div>
+<div class="adarea gutterUnder">
+			<div class="adsky">
+				<script type="text/javascript">
+     /* EPOCH time at the start of skyscraper Ad */
+     var startOfSkyscraper = Date.now();
+  </script>
+<div class="access">Advertisement</div>
+<div class="InSkinHide" align="center">
+	<script type="text/javascript">
+		document.write(tmgAdsBuildAdTag("hpg,sks,skl", "300x600,120x600,160x600", "adj", "", 2));
+		</script>
+	</div></div>
+	
+			<div class="cl"></div>
+		</div>
+		
+	<div class="summaryMedium gutterUnder">
+						
+                
+                    
+                                <div class="headerOne styleThree">
+				<!-- 9648057 -->
+				<p>
+							<span>More from the web</span>
+							</p></div>
+		<div class="summary iframeSummary mnIframe">
+							<!-- 10874723 -->
+							<iframe width="300" height="550" marginwidth="0" scrolling="no" src="http://s.telegraph.co.uk/international/Barnebys/2014/Barnebys_INT_300x550.html" frameborder="0" marginheight="0"></iframe>
+						</div>
+					
+		</div>
+				<div class="OUTBRAIN" data-src="http://www.telegraph.co.uk/finance/commodities/10855161/Commodities-Gold-prices-heading-higher-as-Modi-eyes-change-to-Indias-import-rules.html" data-widget-id="AR_3" data-ob-template="telegraph" ></div>
+<script type="text/javascript"> 
+					(function() { 
+			        var outbrainScriptTag = document.createElement('script'); 
+			        outbrainScriptTag.type = 'text/javascript'; 
+			        outbrainScriptTag.async = true; 
+			        outbrainScriptTag.id = "outbrain"; 
+			        outbrainScriptTag.src = 'http://widgets.outbrain.com/outbrain.js' ; 
+			        var s = document.getElementsByTagName('script')[0]; 
+			        s.parentNode.insertBefore(outbrainScriptTag, s); 
+					})(); 
+					
+</script> 		 	
+<script type="text/javascript">
+                /* EPOCH time at the end of right hand column */
+                 var rightHandTimer=Date.now();
+                </script>
+		</div>
+		<div class="cl"></div>
+
+		<div class="OUTBRAIN" data-src="http://www.telegraph.co.uk/finance/commodities/10855161/Commodities-Gold-prices-heading-higher-as-Modi-eyes-change-to-Indias-import-rules.html" data-widget-id="TR_1" data-ob-template="telegraph" ></div>		
+		</div>
+	
+	<div class="printHide">
+		<div id="trafficDrivers">
+
+	<div class="headerOne styleThree">
+				<!-- 9612843 -->
+				<p>
+							<span>MORE FROM TELEGRAPH.CO.UK</span>
+							</p></div>
+		<div class="gutterUnder">							
+		<div id="tmgPortalRand">
+			
+					
+						
+							<!-- 10920437 -->
+<div class="oneQuarter servicesSmall ">
+	<div class="summarySmall">
+		<div class="headerFive">		
+			<a href="http://www.telegraph.co.uk/financialservices/insurance/car-warranty/?utm_source=tmg&utm_medium=td_warranty&utm_campaign=trafficdrivers"> 
+				Telegraph Car Warranty</a>
+		</div>
+		<!-- imagePosition: centre, columnContext: oneQuarter -->
+<div class="piccentre containerdiv  ">
+		<a  href="http://www.telegraph.co.uk/financialservices/insurance/car-warranty/?utm_source=tmg&utm_medium=td_warranty&utm_campaign=trafficdrivers">
+						<img src="http://i.telegraph.co.uk/multimedia/archive/02722/Warranty_Email_Pic_2722803f.jpg" alt="" border="0" width="220"  height="137" /><span class="imgSlantOverlay">&nbsp;</span>
+						</a>
+					</div>
+	
+<h3>
+			<a  href="http://www.telegraph.co.uk/financialservices/insurance/car-warranty/?utm_source=tmg&utm_medium=td_warranty&utm_campaign=trafficdrivers">
+						Protect yourself from unexpected car repair bills</a>
+					</h3>
+		<div class="traffdrivViewLink">
+			<a  href="http://www.telegraph.co.uk/financialservices/insurance/car-warranty/?utm_source=tmg&utm_medium=td_warranty&utm_campaign=trafficdrivers">
+						View</a>
+					</div>
+
+	</div>
+</div>
+					
+				
+
+			
+					
+						
+							<!-- 10930021 -->
+<div class="oneQuarter servicesSmall ">
+	<div class="summarySmall">
+		<div class="headerFive">		
+			<a href="http://www.telegraph.co.uk/sponsored/sport/inspirational-sports-stories/?WT.mc_id=605801&source=TrafficDriver"> 
+				Inspirational Stories</a>
+		</div>
+		<!-- imagePosition: centre, columnContext: oneQuarter -->
+<div class="piccentre containerdiv  ">
+		<a  href="http://www.telegraph.co.uk/sponsored/sport/inspirational-sports-stories/10865707/arsenal-footballer-alan-smith.html?WT.mc_id=605801&source=TrafficDriver">
+						<img src="http://i.telegraph.co.uk/multimedia/archive/02926/Alan-smith-footbal_2926786f.jpg" alt="Footballer Alan Smith" border="0" width="220"  height="137" /><span class="imgSlantOverlay">&nbsp;</span>
+						</a>
+					</div>
+	
+<h3>
+			<a  href="http://www.telegraph.co.uk/sponsored/sport/inspirational-sports-stories/10865707/arsenal-footballer-alan-smith.html?WT.mc_id=605801&source=TrafficDriver">
+						Who drove footballer Alan Smith to sporting success?</a>
+					</h3>
+		<div class="traffdrivViewLink">
+			<a  href="http://www.telegraph.co.uk/sponsored/sport/inspirational-sports-stories/10865707/arsenal-footballer-alan-smith.html?WT.mc_id=605801&source=TrafficDriver">
+						View</a>
+					</div>
+
+	</div>
+</div>
+					
+				
+
+			
+					
+						
+							<!-- 10920394 -->
+<div class="oneQuarter servicesSmall ">
+	<div class="summarySmall">
+		<div class="headerFive">		
+			<a href="http://www.telegraph.co.uk/luxury/watches/?utm_source=TMG&utm_medium=TD_10920394&utm_campaign=LuxuryTDs"> 
+				WATCHES </a>
+		</div>
+		<!-- imagePosition: centre, columnContext: oneQuarter -->
+<div class="piccentre containerdiv  ">
+		<a  href="http://www.telegraph.co.uk/luxury/watches/36268/going-for-gold.html?utm_source=TMG&utm_medium=TD_10920394&utm_campaign=LuxuryTDs">
+						<img src="http://i.telegraph.co.uk/multimedia/archive/02951/gold-watches_2951835f.jpg" alt="Ben Clymer's 1975 Rolex Daytona and 1957 Amagnetic Patek Philippe" border="0" width="220"  height="137" /><span class="imgSlantOverlay">&nbsp;</span>
+						</a>
+					</div>
+	
+<h3>
+			<a  href="http://www.telegraph.co.uk/luxury/watches/36268/going-for-gold.html?utm_source=TMG&utm_medium=TD_10920394&utm_campaign=LuxuryTDs">
+						Going for gold</a>
+					</h3>
+		<div class="traffdrivViewLink">
+			<a  href="http://www.telegraph.co.uk/luxury/watches/36268/going-for-gold.html?utm_source=TMG&utm_medium=TD_10920394&utm_campaign=LuxuryTDs">
+						View</a>
+					</div>
+
+	</div>
+</div>
+					
+				
+
+			
+					
+						
+							<!-- 10908568 -->
+<div class="oneQuarter servicesSmall last">
+	<div class="summarySmall">
+		<div class="headerFive">		
+			<a href="http://www.telegraph.co.uk/sponsored/sport/ladies_european_masters/?WT.mc_id=605807&source=TrafficDriver"> 
+				LEM</a>
+		</div>
+		<!-- imagePosition: centre, columnContext: oneQuarter -->
+<div class="piccentre containerdiv  ">
+		<a  href="http://www.telegraph.co.uk/sponsored/sport/ladies_european_masters/10872910/meet-anton-du-beke.html?WT.mc_id=605807&source=TrafficDriver">
+						<img src="http://i.telegraph.co.uk/multimedia/archive/02930/Anton_du_Beke_2930719f.jpg" alt="Quickstep to the tented village for 1pm for a Q&A session with Anton du Beke" border="0" width="219"  height="137" /><span class="imgSlantOverlay">&nbsp;</span>
+						</a>
+					</div>
+	
+<h3>
+			<a  href="http://www.telegraph.co.uk/sponsored/sport/ladies_european_masters/10872910/meet-anton-du-beke.html?WT.mc_id=605807&source=TrafficDriver">
+						Meet Anton du Beke at Ladies&rsquo; Day</a>
+					</h3>
+		<div class="traffdrivViewLink">
+			<a  href="http://www.telegraph.co.uk/sponsored/sport/ladies_european_masters/10872910/meet-anton-du-beke.html?WT.mc_id=605807&source=TrafficDriver">
+						View</a>
+					</div>
+
+	</div>
+</div>
+					
+				
+
+			
+					
+						
+							
+					
+				
+
+			
+					
+						
+							
+					
+				
+
+			
+					
+						
+							
+					
+				
+
+			
+					
+						
+							
+					
+				
+
+			
+					
+						
+							
+					
+				
+
+			
+					
+						
+							
+					
+				
+
+			
+					
+						
+							
+					
+				
+
+			
+					
+						
+							
+					
+				
+
+			
+					
+						
+							
+					
+				
+
+			
+					
+						
+							
+					
+				
+
+			
+					
+						
+							
+					
+				
+
+			
+					
+						
+							
+					
+				
+
+			<div class="cl"></div>		
+	</div>					
+</div>
+</div>
+<div class="cl"></div>
+
+		</div>
+	<!-- googleon: all -->
+</div><!-- googleoff: all -->
+			<script type="text/javascript">
+/* EPOCH time at the end of content Area */
+                var contentEndTimer = Date.now();
+            </script>
+<div class="backtotop"><p><a href="#top">Back to top</a></p></div>
+<div id="tmglFooterLarge">
+		<a href="http://www.telegraph.co.uk/" id="footerlogolink" title="Telegraph.co.uk: news, business, sport, the Daily Telegraph newspaper, Sunday Telegraph - Telegraph"></a>
+		<div id="tmglFooterLargeItems">		
+			<div class="footercolumn">									
+				<ul class="menu1"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/?utm_source=TMG&utm_medium=footer_home&utm_campaign=footerhomelink">HOME</a></li>								
+
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/finance/">Finance</a></li>
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/finance/financialcrisis/">Financial Crisis</a></li>
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/finance/debt-crisis-live/">Debt Crisis Live</a></li>
+					</ul>
+					
+					<ul class="menu2"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/finance/markets/">Markets</a></li>								
+
+					</ul>
+					
+					<ul class="menu3"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/finance/newsbysector/banksandfinance/">Banks and Finance</a></li>								
+
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/finance/comment/citydiary/">City Diary</a></li>
+					</ul>
+					
+					</div> <div class="footercolumn">
+						<ul class="menu1"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/finance/economics/">Economics</a></li>								
+
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/finance/newsbysector/transport/">Transport</a></li>
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/finance/newsbysector/mediatechnologyandtelecoms/">Media and Telecoms</a></li>
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/finance/newsbysector/energy/">Energy</a></li>
+					</ul>
+					
+					<ul class="menu2"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/finance/newsbysector/retailandconsumer/">Retail News</a></li>								
+
+					</ul>
+					
+					<ul class="menu3"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/finance/personalfinance/consumertips/">Consumer Tips</a></li>								
+
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/finance/personalfinance/insurance/">Insurance</a></li>
+					</ul>
+					
+					</div> <div class="footercolumn">
+						<ul class="menu1"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/finance/personalfinance/">Personal Finance</a></li>								
+
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/finance/yourbusiness/">Your Business</a></li>
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/finance/personalfinance/investing/">Investing</a></li>
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/finance/personalfinance/savings/">Savings</a></li>
+					</ul>
+					
+					<ul class="menu2"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/education/universityeducation/student-finance/">Student Finance</a></li>								
+
+					</ul>
+					
+					<ul class="menu3"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/finance/jobs/">Jobs</a></li>								
+
+					<li><a  target="_parent" href="http://jobs.telegraph.co.uk">Job Search</a></li>
+					</ul>
+					
+					</div> <div class="footercolumn">
+						<ul class="menu1"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/finance/newsbysector/">Companies</a></li>								
+
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/finance/china-business/">China business</a></li>
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/financialservices/">Money Deals</a></li>
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/financialservices/money-transfer-and-expat/foreign-ex-and-money-transfer/">Money Transfers</a></li>
+					</ul>
+					
+					<ul class="menu2"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/finance/comment/">Comment</a></li>								
+
+					</ul>
+					
+					<ul class="menu3"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/finance/alex/">Alex</a></li>								
+
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/finance/personalfinance/consumertips/3204280/Find-a-financial-adviser.html">Find an IFA</a></li>
+					</ul>
+					
+					</div> <div class="footercolumn">
+						<ul class="menu1"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/topics/about-us/">Contact Us</a></li>								
+
+					<li><a  target="_parent" href="/topics/about-us/3691972/Privacy-and-Cookie-Policy.html">Privacy and Cookies</a></li>
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/advertising/">Advertising</a></li>
+					<li><a  target="_parent" href="http://fantasyfootball.telegraph.co.uk/">Fantasy Football</a></li>
+					</ul>
+					
+					<ul class="menu2"><li class="itemfocus"><a target="_parent" href="http://tickets.telegraph.co.uk/">Tickets</a></li>								
+
+					</ul>
+					
+					<ul>
+					<li><a target="_parent" href="http://announcements.telegraph.co.uk/">Announcements</a></li>
+						<li><a target="_parent" href="http://3276.e-printphoto.co.uk/dailytelegraph/">Reader Prints</a></li>
+						<li><a target="_parent" href=""></a></li>
+						</ul>
+			</div>
+
+			<!-- RSSFeeds Menu-->
+			
+			<div id="footercolumn_last">
+				<ul class="imgBulletList">
+					<li class="footrss"><a target="_parent" href="http://www.telegraph.co.uk/topics/follow-us/">Follow Us</a></li>
+							<li class="footmobile"><a target="_parent" href="http://www.telegraph.co.uk/apps/">Apps</a></li>
+							<li class="footepaper"><a target="_parent" href="http://dailytelegraph.newspaperdirect.com/epaper/viewer.aspx ">Epaper</a></li>
+							<li class=""><a target="_parent" href="http://www.telegraph.co.uk/expat/">Expat</a></li>
+							</ul>
+			
+				<ul class="ullast">
+					<li><a target="_parent" href="http://www.telegraph.co.uk/promotions/">Promotions</a></li>
+						<li><a target="_parent" href="http://subscriber.telegraph.co.uk/loyalty/">Subscriber</a></li>
+						<li><a target="_parent" href="http://www.telegraph.co.uk/topics/syndication-services/">Syndication</a></li>
+						</ul>
+			</div>	
+			<div class="cl"></div>
+		</div> <!-- end of tmglFooterLargeItems div -->
+	
+<div id="footerinfo">
+			<p>&copy; Copyright of Telegraph Media Group Limited 2014</p>
+			<p><a target="_parent" href="http://www.telegraph.co.uk/termsandconditions">Terms and Conditions</a> </p>
+			<p><a target="_parent" href="/archive/2014-6-27.html">Today's News</a></p>
+			<p ><a target="_parent" href="http://www.telegraph.co.uk/archive/">Archive</a></p>
+					<p ><a target="_parent" href="http://www.telegraph.co.uk/topics/about-us/style-book/">Style Book</a></p>
+					<p class="last"><a target="_parent" href="/topics/weather/4142730/Weather-forecast.html">Weather Forecast</a></p>
+					<div class="cl"></div>			
+		</div>
+	</div> <!-- end of tmglFooterLargeNew div -->
+<script type="text/javascript">
+/* EPOCH time at the end of footer */
+                var footerEndTimer = Date.now();
+            </script></div>
+<script type="text/javascript" src="http://js.revsci.net/gateway/gw.js?csid=E06560"></script>
+<script type="text/javascript">
+DM_addToLoc("Site",escape("Telegraph"));
+
+DM_addToLoc("Level1",escape("Finance"));
+	
+DM_addToLoc("Level2",escape("Commodities"));
+	
+DM_tag();
+</script>
+
+<script type="text/javascript" src="/template/ver1-0/js/jquery-ui-1.8.4.custom.min.js"></script>
+<script type="text/javascript" src="/template/ver1-0/js/jquery.tablesorter.js"></script>
+<script type="text/javascript" src="/template/ver1-0/js/jquery.ticker.js"></script>
+
+<script type="text/javascript" src="/template/ver1-0/js/common.js"></script>
+<script type="text/javascript" src="/template/ver1-0/js/viewabilityCode.js"></script>
+<script type="text/javascript" src="/template/ver1-0/js/tmglSlideShow.js"></script>
+<script type="text/javascript" src="/template/ver1-0/js/jquery.cycle.all.js"></script>
+<script type="text/javascript" src="/template/ver1-0/js/supersleight.plugin.js"></script>
+<script type="text/javascript" src="/template/ver1-0/js/tracker.js"></script>
+<link rel="stylesheet" type="text/css" href="/template/ver1-0/css/printArticle.css" media="print" />
+
+	<script type="text/javascript" src="/template/ver1-0/js/liveBloggingArticle.js"> </script>
+<script type="text/javascript">
+			(function() {
+				var links = $("a[href*='disqus_thread']");
+				var query = "";
+				var blogQuery = "";
+				var normal = new Array();
+				var normalCounts = new Array();
+				var blog = new Array();
+				var blogCounts = new Array();
+
+				for(var i = 0; i < links.length; i++) {
+					if (links[i].getAttribute('dsqid')) {
+						var dsqid = links[i].getAttribute('dsqid');
+						if (links[i].className == 'dsqblog') { blogQuery += 'dsqid' + i + '=' + dsqid + '&'; } else { query += 'dsqid' + i + '=' + dsqid + '&'; }
+					}
+				}
+				if (query.length != "" && blogQuery.length != "") {
+					$("a[href*='disqus_thread']") && $("a.dsqblog").each(function(i) {
+						blog[i] = $(this).attr("href");
+						$(this).attr("href","blog_link");
+					});
+					loadScript("http://telegraphuk.disqus.com/get_num_replies_from_dsqid.js?" + query, function() {
+						$("a[href*='disqus_thread']").not(".dsqblog").each(function(i) {
+							normal[i] = $(this).attr("href");
+							normalCounts[i] = $(this).html();
+							$(this).attr("href","normal_link");
+						});
+
+						$("a[href*='blog_link']").each(function(i) { $(this).attr("href",blog[i]); });
+
+						loadScript("http://telegraphblogs.disqus.com/get_num_replies_from_dsqid.js?" + blogQuery, function() {
+							$("a[href*='normal_link']").each(function(i) { $(this).attr("href",normal[i]); });
+						});
+					});
+				} else {
+					document.write('<script charset="utf-8" type="text/javascript" src="http://telegraphuk.disqus.com/get_num_replies_from_dsqid.js?' + query + '"></' + 'script>');
+				}
+			})();
+		</script>
+		<script type="text/javascript" src="/template/ver1-0/js/tmglMultitrackSelector1.js"></script>
+<script type="text/javascript" src="/template/ver1-0/js/popup.js"></script>
+
+<script language="Javascript" type="text/javascript" src="/template/ver1-0/js/poll.js"></script>
+<script type="text/javascript">
+		var _sf_async_config={uid:22437,domain:"telegraph.co.uk"};
+
+		
+			_sf_async_config.sections = "Finance, Gold, Commodities, Andrew Critchlow";
+		
+			_sf_async_config.authors = "Andrew Critchlow";
+		
+
+		(function(){
+			function loadChartbeat() {
+			window._sf_endpt=(new Date()).getTime();
+			var e = document.createElement('script');
+			e.setAttribute('language', 'javascript');
+			e.setAttribute('type', 'text/javascript');
+			e.setAttribute('src',
+			(("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://") +
+			"static.chartbeat.com/js/chartbeat.js"); document.body.appendChild(e);
+		}
+		var oldonload = window.onload;
+		window.onload = (typeof window.onload != 'function') ?
+		loadChartbeat : function() { oldonload(); loadChartbeat(); }; })();
+	</script>
+<script type="text/javascript"> 
+			var skimlinks_script = document.createElement('script'); 
+			    skimlinks_script.type = 'text/javascript'; 
+			    skimlinks_script.async = 'true';
+			    skimlinks_script.src = 'http://s.skimresources.com/js/296X683.skimlinks.js';
+			var skimlinks_script_attach = document.getElementsByTagName('script')[0]; 
+			skimlinks_script_attach.parentNode.insertBefore(skimlinks_script, skimlinks_script_attach.nextSibling); 
+		</script>
+	<!-- START Nielsen Online SiteCensus V6.0 -->
+		<!-- COPYRIGHT 2010 Nielsen Online -->
+		<script type="text/javascript" src="//secure-uk.imrworldwide.com/v60.js">
+		</script>
+		<script type="text/javascript">
+			 var pvar = { cid: "uk-101665h", content: "0", server: "secure-uk" };
+			 var feat = { surveys_enabled: 1 };
+			 var trac = nol_t(pvar, feat);
+			 trac.record().post().do_sample();
+		</script>
+		<noscript>
+		 <div>
+			 
+		 </div>
+		</noscript>
+		<!-- END Nielsen Online SiteCensus V6.0 -->
+	<script type="text/javascript">
+		g_opt_ch = '{}';g_opt_cv = '{}';g_opt_b = true;g_opt_s = true;</script>
+<script type="text/javascript">
+		var s = document.createElement('script');
+		s.type='text/javascript';
+		s.src = "http://cdn.gigya.com/js/socialize.js?apikey=2_ASmwJuFXoCCY8YP8uB6mzZphj_UToZbQkeeM6bMOA8swtMk2P3Rwu2WSger_DOSt";
+		document.getElementsByTagName('head')[0].appendChild(s);
+
+		function onGigyaServiceReady(e) {
+			var s = document.createElement('script');
+			s.type='text/javascript';
+			s.src = "/template/ver1-0/js/shareTools.js";
+			document.getElementsByTagName('head')[0].appendChild(s);
+		}
+	</script>
+<script type="text/javascript">
+		document.write(tmgAdsBuildAdTag("ftr", "1x1", "adj", "", 2));
+		</script>
+	<script type="text/javascript" src='/template/ver1-0/js/aws-sdk-2.0.0-rc9.min.js' async="async"></script> 
+<script type="text/javascript" src='/template/ver1-0/js/hmac-sha256.js' async="async"></script>	
+<script type="text/javascript" src='/template/ver1-0/js/sha256.js' async="async"></script>	
+<script type="text/javascript" src='/template/ver1-0/js/viewability.js' async="async"></script>
+</body>
+</html>
+
+<!-- googleon: all -->
+
+

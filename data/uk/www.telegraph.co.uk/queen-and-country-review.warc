@@ -1,0 +1,2054 @@
+WARC/1.0
+Content-Length: 90540
+Content-Type: application/http; msgtype=response
+Warc-Date: 2014-06-27T19:06:48Z
+Warc-Record-Id: urn:X-scrapeomat:1403896012860761698
+Warc-Target-Uri: http://www.telegraph.co.uk/culture/film/filmreviews/10840901/Queen-and-Country-review.html
+Warc-Type: response
+X-Scrapeomat-Srcurl: http://www.telegraph.co.uk/culture/film/filmreviews/10840901/Queen-and-Country-review.html
+
+HTTP/1.1 200 OK
+Content-Length: 89861
+Cache-Control: max-age=0, no-cache, no-store
+Connection: keep-alive
+Content-Language: en-GB
+Content-Type: text/html;charset=UTF-8
+Date: Fri, 27 Jun 2014 19:06:52 GMT
+Etag: 10840901-1403896009663
+Expires: Fri, 27 Jun 2014 19:06:52 GMT
+Pragma: no-cache
+Proxy-Connection: keep-alive
+Server: Apache
+Set-Cookie: JSESSIONID=4E90C9629482630F6B465624C5FD0912; Path=/
+Set-Cookie: tmg_authz_session=2e1ec8db-fe0c-4a11-8370-e2cd4bcefa92:node4;Version=1;Comment=;Domain=.telegraph.co.uk;Path=/;Max-Age=273187
+Set-Cookie: tmg_web_trends=meter_viewed_count:1,meter_updated:1;Version=1;Comment=;Domain=.telegraph.co.uk;Path=/;Max-Age=3600
+
+<!--[if IE ]>
+<!doctype html> 
+<![endif]-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+ 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/">
+<head>
+
+
+
+<script type="text/javascript">
+           /* EPOCH time at the start of the page */
+           
+           /*As IE8 doest support Date.now() functionality,using the diffrent one*/
+             if (!Date.now) {
+                    Date.now = function now() {
+                      return new Date().getTime();
+                   };
+              }
+           
+              var pageStartTime = Date.now();
+</script>
+
+ <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+
+
+<title>Queen and Country, review - Telegraph</title>
+
+
+
+<meta name="description" content="John Boorman&#039;s Queen and Country, which has premiered at the Cannes Film 
+  Festival, is a no-fuss companion piece to Hope and Glory" />
+
+<meta name="keywords" content="queen and country, review, cannes, movies, john boorman, hope and glory, cinema, Film Reviews,Film,Culture" />
+
+<meta name="news_keywords" content="queen and country, review, cannes, movies, john boorman, hope and glory, cinema"> 
+<meta name="tmgads.zone" content="culture.film.filmreviews" />
+<meta name="tmgads.channel" content="culture" />
+<meta name="tmgads.section" content="culture-film-filmreviews" />
+
+<meta name="tmgads.articleid" content="10840901" />
+<input type="hidden" value="article" id="pageType" name="pageType" />
+<input type="hidden" value="story" id="templateName" name="templateName" />
+<meta name="tmgads.pagetype" content="story" />
+<meta name="tmgads.level" content="4" />
+<meta name="tmgads.otherdata" content="" />
+
+
+
+<meta name="tmgads.geo" content="NZ" />
+
+
+
+
+
+<meta name="DCSext.akamigeo" content="NZ" />
+
+
+
+<meta name="section-id" content="4550" />
+
+<meta name="last-modified" content="2014-05-20" />
+		<meta name="article-id" content="10840901" />
+		<meta name="title" content="Queen and Country, review" />
+		<meta name="GSAMLC" content="culture/film/filmreviews" />
+<meta name="GSAChannel" content="culture" />
+
+<meta name="GSAChannelName" content="Culture" />
+
+<meta name="GSACategory" content="film" />
+	<meta name="GSAGenre" content="filmreviews" />
+	<meta name="GSASectionUniqueName" content="culture-film-film_reviews" />
+
+<meta name="GSAArticleType" content="Story" />
+	<meta name="DC.date.issued" content="2014-05-20" />
+<meta name="robots" content="noarchive,noodp" />
+	<meta property="fb:app_id" content="120118784736295" />
+<meta property="fb:admins" content="686953094,531239902,100002344351237" />
+
+<meta property="og:description" content="John Boorman&#039;s Queen and Country, which has premiered at the Cannes Film   Festival, is a no-fuss companion piece to Hope and Glory" />
+<meta property="og:site_name" content="Telegraph.co.uk" />
+<meta property="og:title" content="Queen and Country, review - Telegraph" />
+<meta property="og:url" content="http://www.telegraph.co.uk/culture/film/filmreviews/10840901/Queen-and-Country-review.html" />
+
+<meta property="og:image" content="http://i.telegraph.co.uk/multimedia/archive/02915/queenandcountry2_2915573k.jpg" />
+<meta property="og:type" content="article" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@Telegraph" />
+
+<meta name="twitter:creator" content="@trim_obey" />
+<link rel="canonical" href="http://www.telegraph.co.uk/culture/film/filmreviews/10840901/Queen-and-Country-review.html"/>
+
+<!--  Line no 278 normal.jsp where 1st code change should be made -->
+
+
+<link rel="stylesheet" type="text/css" href="/template/ver1-0/css/screen.css" media="screen" />
+
+<link rel="stylesheet" type="text/css" href="/template/ver1-0/css/newscreen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/template/ver1-0/templates/fragments/common/tmglBrandCSS.jsp" media="screen" />
+	<!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="/template/ver1-0/css/ie6.css" media="screen" />
+<![endif]-->
+<!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="/template/ver1-0/css/ie7.css" media="screen" />
+<![endif]-->
+
+<link rel="alternate" type="application/rss+xml" title="RSS Feed for Film Reviews articles - Telegraph.co.uk" href="http://www.telegraph.co.uk/culture/film/filmreviews/rss" />
+
+<script type="text/javascript" src="/template/ver1-0/js/jquery-1.4.2.min.js"></script>
+<script language="Javascript" type="text/javascript" src="/template/ver1-0/js/jquery.cookie.js"></script>
+
+<script src='//d3c3cq33003psk.cloudfront.net/opentag-35657-106653.js'></script>
+		<meta name="DCSext.MLC" content="/culture/film/filmreviews" />
+	<meta name="DCSext.Genre" content="filmreviews" />
+								<meta name="DCSext.Category" content="film"/>
+									<meta name="WT.cg_s" content="film"/>
+								<meta name="DCSext.Channel" content="culture" />
+					<meta name="WT.cg_n" content="culture" />
+						<meta name="DCSext.Content_Type" content="Story" />
+    <meta name="DCSext.Level" content="4" />
+	<meta name="DCSext.author" content="Tim Robey" />
+			<meta name="DCSext.articleFirstPublished" content="2014-05-19 13:27" />
+	<meta name="DCSext.articleId" content="10840901" />
+
+	<meta name="DCSext.cmsSect" content="UK_News;Culture;Tim_Robey;Culture_Reviews;Film;Film_Reviews;Cannes_Film_Festival" />
+			
+	
+
+
+
+		
+
+		
+		  		
+					
+						
+					
+		  
+		
+
+		
+			<meta name="DCSext.cf" content="1"/>	
+			  	<meta name="DCSext.pd" content="1"/>
+			  
+		
+
+
+		<script src="/template/ver1-0/js/webtrends/WTDcsVid.js" type="text/javascript"></script>
+<script src="/template/ver1-0/js/webtrends/LIVE/WTID.js" type="text/javascript"></script>
+
+<script>
+window.webtrendsAsyncInit=function(){
+    var dcs=new Webtrends.dcs().init({
+        dcsid:"dcsshgbi400000gscd62rrg43_4o2o",
+        domain:"webtrends.telegraph.co.uk",
+        timezone:0,
+        adimpressions:true,
+        adsparam:"WT.ac",
+        offsite:false,
+        download:true,
+        downloadtypes:"xls,doc,pdf,txt,csv,zip,docx,xlsx,rar,gzip",
+        metanames:"DCSext.MLC, DCSext.source, DCSext.Category, DCSext.Genre, DCSext.Channel, DCSext.imageNo, DCSext.GalleryType, DCSext.Content_Type, DCSext.Level, DCSext.author, DCSext.articleFirstPublished, DCSext.articleId, DCSext.productProvider, DCSext.productName, DCSext.EA_Search_Type, DCSext.EA_Search_Engine, DCSext.EA_Search_Phrase, DCSext.oss, DCSext.ossType, DCSext.cf, DCSext.cn, DCSext.cd, DCSext.pd,DCSext.cmsSect",        
+        fpcdom:".telegraph.co.uk",
+        plugins:{
+            hm:{src:"/template/ver1-0/js/asyncwebtrends/webtrends.hm.js",hmurlparams:"frame,image"},
+            qbert: { src:"/template/ver1-0/js/asyncwebtrends/qbert-wtplugin.js" }
+        }
+        });
+    if ($.cookie("tmg_subs") != null){
+    	var ts = $.parseJSON($.cookie("tmg_subs"));
+        dcs.DCSext.location = ts.location;
+    	dcs.DCSext.trialDescription =ts.trialDescription;
+	    dcs.DCSext.subscriptionType = ts.subscriptionType;
+	    dcs.DCSext.flowType = ts.flowType;
+	    dcs.DCSext.productType = ts.productType;
+	    dcs.DCSext.serviceId = ts.serviceId;
+	    dcs.DCSext.servicePriceId = ts.servicePriceId;
+	
+	    dcs.DCSext.discountVoucher = ts.discountVoucher;
+	    dcs.DCSext.partnerName = ts.partnerName;
+	    dcs.DCSext.currentPromoName = ts.currentPromoName;
+	    dcs.DCSext.sourcePromoName = ts.sourcePromoName;
+	    dcs.DCSext.promoType = ts.promoType;
+	    dcs.DCSext.tCode = ts.tCode;
+	    dcs.DCSext.status = ts.status == true  && ts.acquisitionCompleted == true ? 'Active':'Inactive';
+
+   }
+   if( /Android|webOS|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) { dcs.DCSext.platform="tablet";}    
+   dcs.track();
+
+};
+(function(){
+    var s=document.createElement("script"); s.async=true; s.src="/template/ver1-0/js/asyncwebtrends/webtrends.js";
+    var s2=document.getElementsByTagName("script")[0]; s2.parentNode.insertBefore(s,s2);
+}());
+</script>
+
+<noscript>< img alt="dcsimg" id="dcsimg" width="1" height="1" src="//webtrends.telegraph.co.uk/dcsshgbi400000gscd62rrg43_4o2o/njs.gif?MLC=&amp;Channel=&amp;Genre=&amp;Category=&amp;Content_Type=&amp;Level=&amp;source=&amp;dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=10.2.10&amp;dcssip=www.telegraph.co.uk"/></noscript>
+
+<script type="text/javascript" src="http://s.telegraph.co.uk/maxymiser/production/js/mmcore.js"></script>
+<script type="text/javascript"> 
+//Events tracking for Google Analytics 
+function trackGoogle() { 
+try {var pageTracker = _gat._getTracker("UA-7226372-1");pageTracker._trackPageview();} catch(err) {} 
+} 
+
+//External links tracking through Google Analytics 
+function isLinkExternal(link) { 
+    var r = new RegExp('^https?://(?:www.)?' + location.host.replace(/^www./, '')); 
+        return !r.test(link); 
+} 
+$(document).ready(function() { 
+    $(document).bind('click', function(e) { 
+        var target = (window.event) ? e.srcElement : e.target; 
+        while (target) { 
+            if (target.href) break; 
+            target = target.parentNode; 
+        } 
+        if (!target || !isLinkExternal(target.href)) return true; 
+        var link = target.href; 
+        link = '/outgoing/' + link.replace(/:\/\//, '/'); 
+        _gaq.push(['_trackPageview', link]); 
+    }); 
+}); 
+
+  var _gaq = _gaq || []; 
+  _gaq.push(['_setAccount', 'UA-7226372-1']); 
+  _gaq.push(['_setDomainName', 'telegraph.co.uk']); 
+  _gaq.push(['_trackPageview']); 
+
+  (function() { 
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); 
+  })(); 
+
+</script>		
+<script type="text/javascript">
+  var gs_channels="default";
+  // Last-updated: 2014-06-27 20:06:49.785
+gs_channels="outdoor_adventure";
+
+</script>
+<script type="text/javascript">
+    // <![CDATA[
+  var qcSegs = ''; 
+  var qcResults = function(qc){ 
+    for (var i=0;i<=qc.segments.length-1;i++){ 
+      if(qc.segments[i].id != 'D' && qc.segments[i].id != 'T') qcSegs += ';qc='+qc.segments[i].id; 
+    } 
+  }
+    // ]]>
+</script> 
+<script type="text/javascript" src="http://pixel.quantserve.com/api/segments.json?a=p-gyXAHFFgnNQDj&callback=qcResults"></script>
+
+
+		
+			<script language="Javascript" type="text/javascript" src="/template/ver1-0/js/dfp.js"></script>
+		
+	
+<script src="http://s.telegraph.co.uk/toolbar/disqus_parameters_prod.js" type="text/javascript" ></script>
+
+<link rel="stylesheet" type="text/css" href="/template/ver1-0/css/subscriber.css" media="screen" />
+<script src='http://player.ooyala.com/v3/7dfd98005dba40baacc82277f292e522?platform=html5-fallback'></script>
+<script src="/template/ver1-0/js/ooyala.js" type="text/javascript"></script>
+
+<script language="Javascript" type="text/javascript" src="/template/ver1-0/js/ajax.js"></script>
+
+<script language="Javascript" type="text/javascript" src="/template/ver1-0/js/commWidget.js"></script>
+
+
+<!-- Begin KRUX Digital Control Tag for The Telegraph -->
+<!-- End KRUX Digital Control Tag for The Telegraph -->
+
+
+		<!-- Begin comScore Tag -->
+<script>
+	var _comscore = _comscore || [];
+	_comscore.push({
+		c1 : "2",
+		c2 : "6035736"
+	});
+	(function() {
+		var s = document.createElement("script"), el = document
+				.getElementsByTagName("script")[0];
+		s.async = true;
+		s.src = (document.location.protocol == "https:" ? "https://sb"
+				: "http://b")
+				+ ".scorecardresearch.com/beacon.js";
+		el.parentNode.insertBefore(s, el);
+	})();
+</script>
+<noscript>
+	<img src="http://b.scorecardresearch.com/p?c1=2&c2=6035736&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<link rel="stylesheet" type="text/css" href="/template/ver1-0/css/majornews.css" media="screen" />
+</head>
+
+<body>
+	<script type="text/javascript">
+		var subsInfo = new Object();
+		subsInfo.channel =  $('meta[name="DCSext.Channel"]').attr("content");
+		if(subsInfo.channel==undefined){subsInfo.channel='';}
+		subsInfo.mlc = $('meta[name="DCSext.MLC"]').attr("content");
+		if(subsInfo.mlc==undefined){subsInfo.mlc='';}
+		subsInfo.category = $('meta[name="DCSext.Category"]').attr("content");
+		if(subsInfo.category==undefined){subsInfo.category='';}
+		subsInfo.level = $('meta[name="DCSext.Level"]').attr("content");
+		if(subsInfo.level==undefined){subsInfo.level='';}
+		subsInfo.author = $('meta[name="DCSext.author"]').attr("content");
+		if(subsInfo.author==undefined){subsInfo.author='';}
+		subsInfo.content_type = $('meta[name="DCSext.Content_Type"]').attr("content");
+		if(subsInfo.content_type==undefined){subsInfo.content_type='';}
+		subsInfo.articleId = $('meta[name="DCSext.articleId"]').attr("content");
+		if(subsInfo.articleId==undefined){subsInfo.articleId='';}
+		var subsJson = JSON.stringify(subsInfo);
+		$.cookie("tmg_subs_referer",subsJson, { path: '/', domain: 'telegraph.co.uk'});
+		var inviteWTUrlSuffix='?channel='+ subsInfo.channel+'&mlc='+subsInfo.mlc+'&category='+ subsInfo.category+'&level='+subsInfo.level+'&author='+subsInfo.author+'&content_type='+subsInfo.content_type+'&articleId='+subsInfo.articleId;
+		
+		
+			
+				
+					var inviteUrl = "/subscriptions/invitation-intl/";
+				
+			
+	
+		
+				
+				
+				
+			
+		var plink = "http://www.telegraph.co.uk/template/ver1-0/templates/fragments/common/toolBar-js.jsp";
+	</script>
+	<script src="" type="text/javascript" ></script>
+	<script src="http://s.telegraph.co.uk/toolbar/js/tmgMenu.js" type="text/javascript" ></script>
+<!--[if lte IE 6]>
+<div id="ieLteSix">
+	<div class="ieLteSixBanner">
+		<table cellspacing="0" cellpadding="0">
+			<tbody>
+				<tr>
+					<td class="ieLteSixLeft">
+						<p class="ieFirstP">We no longer check to see whether Telegraph.co.uk displays properly in Internet Explorer version 6 or earlier.</p>
+						<p class="ieSecondtP">To see our content at its best we recommend <a href="/browser-support/">upgrading if you wish to continue using IE or using another browser such as Firefox, Safari or Google Chrome.</a></p>
+					</td>
+					<td valign="top" class="ieLteSixRight">
+						<a href="#" id="ieX"><img src="/template/ver1-0/i/ieX.gif" width="20" height="20" border="0" alt="Hide this banner"></a>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+</div>
+<script language="Javascript" type="text/javascript" src="/template/ver1-0/js/ieSix.js"></script>
+<![endif]-->
+
+<!-- googleoff: all -->
+<a name="top"></a>
+
+<div class="hidden">
+	<p>Accessibility links</p>
+	<ul>
+	<li><a href="#article">Skip to article</a></li>
+		<li><a href="#mainsections">Skip to navigation</a></li>
+	</ul>
+</div><div id="tmglSite">
+	<div class="printLogo"><img src="/template/ver1-0/i/telegraph_print_190.gif"/></div>
+
+	<div id="tmglHeader" class="">
+	<div id="tmglBannerAd">
+    
+              <script type="text/javascript">
+                  /* EPOCH time at the start of banner Ad */
+                var bannerTimerStart = Date.now();
+              
+            </script>
+		<div class="access">Advertisement</div>
+<div class="adbanner" align="center">
+	<div id="banner" class="InSkinHide">
+		<script type="text/javascript">
+		document.write(tmgAdsBuildAdTag("ban", "940x250,728x90,468x60", "adj", "", 2));
+		</script>
+	</div>
+</div>
+
+
+
+
+
+
+</div>
+	<div id="tmglBrandLarge">
+			<a href="/">
+					<div id="brand">Telegraph.co.uk</div></a>
+			<div id="topBarRightContainer">
+				<div id="searchBar">
+					<div id="searchBlock">
+				<form name="otsn_search" id="otsn_search" method="get" action="/search/">
+					<input type="text" class="searchBox otsn"  value="" size="19" tabindex="1"  />
+					<input type="hidden" id="hiddenQueryText"  name="queryText"  value=""/>
+					<input type="submit" class="formSubmit" tabindex="2" id="go" value="" />
+                                        <div class="searchText  normal">
+                                        Search</div>
+
+				</form>
+				<div class="cl"></div>
+			</div>
+		</div>
+				<div id="tmgTopBar">
+				<div id="tmglTopRight" class="tmgTopBarDate">
+					<div id="tmglLasUpdatedDateFeed">
+	<p>
+		Friday 27 June 2014</p>
+</div>
+
+</div>
+			</div></div>
+			
+			<div class="cl"></div>
+		</div>
+		<div class="cl"></div>
+	</div>
+<script type="text/javaScript">
+/* EPOCH time at the  end of Header */
+var tmgHeaderTimerEnd=Date.now();
+</script>
+<!-- googleon: all -->
+			<!-- googleoff: all -->
+	<div id="tmglMenu">
+	<div id="tmglPriExWrap">
+		<div id="tmglPrimaryNav" class="nonActiveNav">
+			<div class="access"><a name="mainsections"></a></div>
+	<ul class="mainNav">
+		<li class="first styleSix"><a href="http://www.telegraph.co.uk/">Home</a></li>
+							<li class="styleSix"><a href="http://www.telegraph.co.uk/news/">News</a></li>
+							<li class="styleSix"><a href="http://www.telegraph.co.uk/news/worldnews/">World</a></li>
+							<li class="styleSix"><a href="http://www.telegraph.co.uk/sport/">Sport</a></li>
+							<li class="styleSix"><a href="http://www.telegraph.co.uk/sport/football/world-cup/">World Cup</a></li>
+							<li class="styleSix"><a href="http://www.telegraph.co.uk/finance/">Finance</a></li>
+							<li class="styleSix"><a href="http://www.telegraph.co.uk/comment/">Comment</a></li>
+							<li class="selected styleSix" id="menuItemstyleSix"><a href="http://www.telegraph.co.uk/culture/">Culture</a></li>
+							<li class="styleSix"><a href="http://www.telegraph.co.uk/travel/">Travel</a></li>
+							<li class="styleSix"><a href="http://www.telegraph.co.uk/lifestyle/">Life</a></li>
+							<li class="styleSix"><a href="http://www.telegraph.co.uk/women/">Women</a></li>
+							<li class="styleSix"><a href="http://fashion.telegraph.co.uk">Fashion</a></li>
+							<li class="styleSix"><a href="http://www.telegraph.co.uk/luxury/">Luxury</a></li>
+							<li class="styleSix"><a href="http://www.telegraph.co.uk/technology/">Tech</a></li>
+							<li class="styleSix"><a href="http://www.telegraph.co.uk/cars/">Cars</a></li>
+							</ul></div>
+		<div id="tmglExtraNav">
+	<ul class="extraNav">
+		</ul>
+	<div class="cl"></div>
+</div> 
+<div class="cl"></div>
+	</div>
+
+	<div id="tmglSecondNav" class="activeNav styleSix">
+				<ul class="mainNav">
+						<li class="first styleSix"><a href="http://www.telegraph.co.uk/culture/glastonbury/">Glastonbury</a></li>
+									<li class="styleSix"><a href="http://www.telegraph.co.uk/culture/tvandradio/">TV and Radio</a></li>
+									<li class="selected styleSix"><a href="http://www.telegraph.co.uk/culture/film/">Film</a></li>
+									<li class="styleSix"><a href="http://www.telegraph.co.uk/culture/books/">Books</a></li>
+									<li class="styleSix"><a href="http://www.telegraph.co.uk/culture/music/">Music</a></li>
+									<li class="styleSix"><a href="http://www.telegraph.co.uk/culture/comedy/">Comedy</a></li>
+									<li class="styleSix"><a href="http://www.telegraph.co.uk/culture/photography/">Photography</a></li>
+									<li class="styleSix"><a href="http://www.telegraph.co.uk/culture/art/">Art</a></li>
+									<li class="styleSix"><a href="http://www.telegraph.co.uk/culture/theatre/">Theatre</a></li>
+									<li class="styleSix"><a href="http://www.telegraph.co.uk/culture/theatre/dance/">Dance</a></li>
+									<li class="styleSix"><a href="http://www.telegraph.co.uk/culture/music/opera/">Opera</a></li></ul>
+					<div class="cl"></div>
+				</div>
+		<div id="tmglThirdNav">
+					<ul class="mainNav">
+						<li class="selected  first "><a href="http://www.telegraph.co.uk/culture/film/filmreviews/">Film Reviews</a></li>
+														<li class=""><a href="http://www.telegraph.co.uk/culture/culturevideo/filmvideo/cinema-trailers/">Cinema Trailers</a></li>
+														<li class=""><a href="/culture/film/7624664/Coming-soon-new-film-releases.html">Coming Soon</a></li>
+														<li class=""><a href="http://www.telegraph.co.uk/culture/film/film-blog/">Talking Movies</a></li>
+														<li class=""><a href="http://www.telegraph.co.uk/culture/film/starsandstories/">Interviews</a></li>
+														<li class=""><a href="http://www.telegraph.co.uk/culture/film/dvd-reviews/">DVDs</a></li>
+														<li class=""><a href="http://www.telegraph.co.uk/culture/film/film-life/">Film Life</a></li>
+														<li class=""><a href="http://www.telegraph.co.uk/culture/culturevideo/filmvideo/">Film Video</a></li>
+														</ul>
+					<div class="cl"></div>
+				</div>
+				<div id="tmglCrumbtrail">
+		<ol>
+			<li class="first"><a href="/">Home</a><span>&raquo;</span></li>
+			<li><a href="http://www.telegraph.co.uk/culture/">Culture</a><span>&raquo;</span></li>
+					<li><a href="http://www.telegraph.co.uk/culture/film/">Film</a><span>&raquo;</span></li>
+					<li class="styleSix"><a href="http://www.telegraph.co.uk/culture/film/filmreviews/">Film Reviews</a></li></ol>
+		<div class="cl"></div>
+	</div>
+</div>
+
+<!-- googleon: all -->
+<div id="tmglBody" itemscope itemtype="http://schema.org/Article" >
+	<div class="access"><a name="article"></a></div>
+
+	<div class="twoThirdsThird2 gutterUnder">
+		<div class="twoThirds gutter"  itemscope itemtype="http://schema.org/Review">
+			<script type="text/javascript" src="/template/ver1-0/js/jquery-ui.js"></script>
+<script type="text/javascript" src="/template/ver1-0/js/jquery.multiselect.js"></script>
+
+<div class="storyHead">
+
+<div itemprop="itemReviewed" itemscope itemtype="http://schema.org/Movie">
+		<h1 itemprop="name">Queen and Country, review</h1>
+			</div><h2 itemprop="description">
+John Boorman's Queen and Country, which has premiered at the Cannes Film 
+  Festival, is a no-fuss companion piece to Hope and Glory
+
+</h2>						
+	<!-- Opta Widget start -->
+	<!-- Opta Widget end -->
+	
+	<div class="rating" itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
+		 	<meta itemprop="worstRating" content = "0.5">
+		 	<meta itemprop="bestRating" content = "5">
+		 	<span itemprop="ratingValue" class="hidden">3</span>
+			<img src="/template/ver1-0/i/ratings/star_3_styleNewPortal.png" width="58" alt="3 out of 5 stars" height="11" />
+		 </div>
+	<div class="artIntro">
+					<div id="storyEmbSlide">
+			<div class="slideshow ssIntro">
+				<div class="nextPrevLayer">
+							<div class="ssImg">
+									<img src="http://i.telegraph.co.uk/multimedia/archive/02915/queenandcountry2_2915573b.jpg" width="620" height="387" alt="Queen and Country is directed by John Boorman" itemprop="image"/>
+									<div class="artImageExtras" >
+									
+										<div class="ingCaptionCredit">
+											<span class="caption">Queen and Country is directed by John Boorman</span>&nbsp;</div>						
+									</div>
+								</div>
+							</div>			
+					</div>
+		</div>
+		
+	</div>	
+			</div>
+<div class="oneHalf gutter">
+						<div class="story">
+		<div class="cl"> </div>
+		<!-- remove the whitespace added by escenic before end of </a> tag -->
+				<div class="bylineComments">
+		<div itemprop="author" itemscope itemtype="http://schema.org/Person">
+			
+			<div class="bylineImg">
+						<a href="http://www.telegraph.co.uk/" ><img src="http://i.telegraph.co.uk/multimedia/archive/02712/Tim_Robey_2712305j.jpg" alt="" border="0" width="60" height="60" itemprop="image"></a>
+					</div>
+				<p class="bylineBody">
+							By <a rel="author" title="Tim Robey" href="http://www.telegraph.co.uk/journalists/tim-robey/" itemprop="url">
+											<span itemprop="name" class="name">Tim Robey</span></a>, <span itemprop="jobTitle">Film Critic</span></p>
+					
+					</div>
+		<p class="publishedDate">10:00AM BST 20 May 2014</p>
+		<meta itemprop="datePublished" content="2014-05-20"/><div class="bylineSocialButtons">
+					<a href="https://twitter.com/trim_obey" class="twitter-follow-button" data-screen-name="trim_obey" data-show-count="true" data-show-screen-name="false" data-lang="en">Follow</a> 
+						<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+					</div>
+			<p class="comments">
+				<img src="/template/ver1-0/i/share/comments.gif" alt="Comments" /><a href="http://www.telegraph.co.uk/culture/film/filmreviews/10840901/Queen-and-Country-review.html#disqus_thread" dsqid="10840901">Comments</a>
+			</p>
+		<div class="cl"> </div>
+	</div>
+	<div id="mainBodyArea" itemprop="reviewBody">
+
+	
+			  	
+					<div class="firstPar"><p>
+<strong>Dir: John Boorman. Starring: Callum Turner, Caleb Landry Jones, Tamsin 
+  Egerton, David Thewlis, Richard E. Grant, Pat Shortt, Br&iacute;an F. O'Byrne, 
+  Sin&eacute;ad Cusack, Julian Wadham, David Hayman. 114 min. </strong>
+</p></div><div class="secondPar">
+<p>
+It is 27 years since Hope and Glory, John Boorman's fond film &agrave; clef about 
+  Blitz survival and wartime British pluck. It may not have felt like a 
+  picture crying out for a sequel, but name one Boorman film that ever has 
+  done. In a radical and shape-shifting 50-year career, the Shepperton-born 
+  director has jumped from hard-boiled revenge thriller (Point Blank) to 
+  absurdist war film (Hell in the Pacific) to primal buddy movie (Deliverance) 
+  to bonkers sci-fi (Zardoz) to Arthurian fantasy (Excalibur) to ecological 
+  adventure (The Emerald Forest) to le Carr&eacute; portraiture (The Tailor of 
+  Panama) &mdash; finding time to make one sequel, to someone else's film, that 
+  could hardly be any less like it (Exorcist II: The Heretic). 
+</p></div><div class="thirdPar">
+<p>
+Queen and Country, which has premiered in the Director's Fortnight strand at 
+  the <a href="http://www.telegraph.co.uk/culture/film/cannes-film-festival/" target="_blank"><strong>Cannes 
+  Film Festival</strong></a>, is a no-fuss companion piece to Hope and Glory, 
+  picking up where that one left off, as if no time had intervened between 
+  them at all. We could have guessed from Boorman that the setting, at least, 
+  would be totally different: not the bombed-out London suburbs, but a 
+  military training base at the start of the Korean War in 1952. The film 
+  rarely leaves these confines, except when 20-year-old Bill Rowan (now played 
+  by the stoically good-looking Callum Turner) pays the odd visit back to his 
+  family, who live, as you may remember, on a quaint little island in the 
+  middle of the River Thames. The wartime dalliance between Bill's mother 
+  (Sin&eacute;ad Cusack) and another local fellow is a thing of the past, though 
+  these former paramours wave to each other silently and daily as he passes 
+  her house, and dad (David Hayman) sits at the table grumbling over the 
+  papers. 
+</p></div><div class="fourthPar">
+<p>
+The film's a gentle pleasure, going nowhere particularly fast. There's an 
+  episode involving cigarettes drowned in strawberry jam. The only pivotal 
+  narrative incident is the carefully plotted heist, for sheer larks, of a 
+  regimental clock in the mess hall. Though we perhaps expect Bill to be 
+  shipped off to Korea, it never happens: he's involved in training corps 
+  cadets with his friend Percy, a roustabout ginger posho in which role the 
+  antic, effortful Texan actor Caleb Landry Jones (Antiviral) is perplexingly 
+  miscast. 
+</p></div><div class="fifthPar">
+<p>
+<image align="left" version="c" refid="2915575" width="460" height="287" caption="Queen and Country stars Tamsin Egerton" declared-caption="" src="http://i.telegraph.co.uk/multimedia/archive/02915/queenandcountry1_2915575c.jpg" photographer="" name="queenandcountry1" alttext="Queen and Country stars Tamsin Egerton"></image>
+ <sup>Queen and Country stars Tamsin Egerton</sup>
+</p></div><div id="tmg-related-links" class="related_links_inline">
+			<div class="headerOne styleSix"><h2><span>Related Articles</span></h2></div>
+	
+			<ul>
+	
+				<li class="bullet">
+													<p>
+                    <a  href="/culture/film/filmreviews/10840257/Cannes-2014-National-Gallery-review-a-great-great-film.html">Cannes 2014: National Gallery, review: 'a great, great film'</a>
+		</p>
+
+	<span class="relContDate">19 May 2014</span>
+													</li>
+												<li class="bullet">
+													<p>
+                    <a  href="/culture/film/cannes-film-festival/10840146/Iranian-actress-in-trouble-over-Cannes-kiss.html">Iranian actress in trouble over Cannes kiss</a>
+		</p>
+
+	<span class="relContDate">19 May 2014</span>
+													</li>
+												</ul>
+		</div>
+	<div class="body">
+<p>
+Luckily, he's the only person in the film who is. The supporting cast is a 
+  trove of pointedly comic character playing: Pat Shortt is a hoot as the 
+  irreverent, cowardly and ageing Private Redmond, Br&iacute;an F. O'Byrne irascible 
+  and equally funny as his pompous RSM, against whom the clock-nicking is 
+  partly targeted. David Thewlis, looking almost eerily like Arthur Lowe in 
+  Dad's Army, is a by-the-book Sergeant Major maddened by war and obsessed 
+  with protocol; Richard E. Grant is the aptly named Major Cross, the weary 
+  bureaucrat in charge of them all; and there's one great scene for Julian 
+  Wadham, as an exasperated court-martial judge who just wants the whole thing 
+  over with. 
+</p>
+<p>
+Boorman has written and cast these roles with a twinkle in his eye, but no one 
+  gets caught playing to the gallery; the film's visually a little pedestrian, 
+  but it's not dull-witted. It takes shape as an institutional comedy in the 
+  boisterous British tradition of Porridge or If..., though its closest filmic 
+  model might be the 1988 Mike Nichols version of Neil Simon's 
+  conscript-training romp Biloxi Blues. 
+</p>
+<p>
+Above all, it's a sincerely personal piece for Boorman, who relishes the 
+  chance to revisit the key moments of his film-buff education, and indeed 
+  life education. When Bill and the girl he's wooing (Tamsin Egerton) emerge 
+  from Kurosawa's Rashomon, she interrupts his geeky enthusiasm for that 
+  film's famous multiple perspectives with the entirely fair comment that, in 
+  every version, "the woman's always raped". There are other, 
+  precise and period-appropriate nods, to Sunset Blvd and Strangers on a 
+  Train. It's almost a given that Boorman will end his film with the shot of a 
+  camera whirring on the Shepperton riverbank, an obsession of his own fast 
+  falling into place. Admittedly modest, but the epitome of jolly, this is 
+  like the companionable second volume of an autobiography in film form &ndash; 
+  you'll whip through it in no time, and come out wanting more. 
+</p>
+<h3></h3>
+<p>
+<a href="http://www.telegraph.co.uk/culture/film/cannes-film-festival/10829998/Cannes-Film-Festival-2014-In-pictures.html" target="_blank"><strong>CANNES 
+  2014 IN PICTURES</strong></a>
+</p>
+</div>
+			   
+		<div class="cl"></div>
+</div></div></div>
+
+					<div class="oneSixth">
+							<!-- googleoff: all -->
+	<div id="shareSideContainer" class="loading">
+		<div class="print invisible"><a href="javascript:print()" alt="Print" title="Print">&nbsp;</a></div>
+		<div id="shareSide" class="storyFunc nobord"></div>
+		<div class="cl"></div>
+	</div>
+<div class="storyfct">
+			<div id="storyMoreOnFucntion">
+		<div class="secLinks">
+
+			<div class="section">
+				<div class="name">
+					<h2><a href="http://www.telegraph.co.uk/culture/film/filmreviews/">Film Reviews</a></h2>
+				</div>
+				
+				<div class="cl"></div>
+			</div>
+
+			<ul>
+					<li class="first">
+									<h3><a href="http://www.telegraph.co.uk/news/uknews/">UK News &#187;</a></h3>
+								</li>
+								<li>
+									<h3><a href="http://www.telegraph.co.uk/culture/">Culture &#187;</a></h3>
+								</li>
+								<li>
+									<h3><a href="http://www.telegraph.co.uk/journalists/tim-robey/">Tim Robey &#187;</a></h3>
+								</li>
+								<li>
+									<h3><a href="http://www.telegraph.co.uk/culture/culturereviews/">Culture Reviews &#187;</a></h3>
+								</li>
+								<li>
+									<h3><a href="http://www.telegraph.co.uk/culture/film/">Film &#187;</a></h3>
+								</li>
+								</ul>
+				<div class="cl"></div>
+		</div>
+	</div>
+</div>
+	<div class="related_links">
+		<div class="summaryMediumToSmall"><div class="summary headlineImageCentre">
+			<!-- 10187773 -->
+			<h3>
+			<a  href="http://tickets.telegraph.co.uk/cinema-tickets/?utm_source=tmg&utm_medium=puff_cinema&utm_campaign=Cinema">Cinema tickets at Telegraph Tickets</a>
+						</h3>
+	<!-- imagePosition: centre, columnContext: oneSixth -->
+<div class="piccentre containerdiv  ">
+		<a  href="http://tickets.telegraph.co.uk/cinema-tickets/?utm_source=tmg&utm_medium=puff_cinema&utm_campaign=Cinema"><img src="http://i.telegraph.co.uk/multimedia/archive/02620/CinemaTickets_2620795g.jpg" alt="" border="0" width="140"  height="87" />
+									<span class="cornerimagecentre">&nbsp;</span></a>
+						</div>
+	
+<div class="cl"></div>
+		</div></div>
+<div id="artComRelLinks" class="summaryMedium gutterUnder">
+		<div class="headerOne styleTen"><p>Related Partners</p></div>
+		<ul>
+		<li>
+			<div class="comLink">
+				<!-- 10185979 -->
+				<p class="comLinkText"><a href="http://tickets.telegraph.co.uk/cinema-tickets/?utm_source=tmg&utm_medium=relatedLink&utm_campaign=Cinema" rel="nofollow">Find and buy cinema tickets online with Telegraph Tickets</a></p>
+			</div>
+		</li>
+	</ul></div>
+</div>
+
+	<div class="summaryMedium secPuffs">
+			<div class="headerOne styleSix"><p>In Film Reviews</p></div>
+			<div class="summary imageCentreHeadline">
+			<div class="summarySmall">
+				<!-- imagePosition: centre, columnContext: oneSixth -->
+<div class="piccentre containerdiv  ">
+		<a  href="/culture/film/filmreviews/10465196/Netflix-30-best-films-on-Netflix.html"><img src="http://i.telegraph.co.uk/multimedia/archive/02741/netflix-summary_2741942g.jpg" alt="Four of the best films available on Netflix (clockwise from top left): Erin Brockovich, Some Like It Hot, Monty Python and the Holy Grail and Bicycle Thieves" border="0" width="140"  height="87" />
+									<span class="cornerimagecentre">&nbsp;</span></a>
+		</div>
+	
+<h3>
+                    <a  href="/culture/film/filmreviews/10465196/Netflix-30-best-films-on-Netflix.html">The 30 best films on Netflix</a>
+		</h3>
+
+	</div>
+		</div>
+	<div class="summary imageCentreHeadline">
+			<div class="summarySmall">
+				<!-- imagePosition: centre, columnContext: oneSixth -->
+<div class="piccentre containerdiv  ">
+		<a  href="/culture/culturepicturegalleries/9848319/The-49-best-British-films-of-all-time.html"><img src="http://i.telegraph.co.uk/multimedia/archive/02470/top-50-british-fil_2470821g.jpg" alt="Bafta special: the 50 greatest British films of all time" border="0" width="140"  height="87" />
+									<span class="cornerimagephotocentre">&nbsp;</span></a>
+		</div>
+	
+<h3>
+                    <a  href="/culture/culturepicturegalleries/9848319/The-49-best-British-films-of-all-time.html">The 49 best British films of all time</a>
+		</h3>
+
+	</div>
+		</div>
+	<div class="summary imageCentreHeadline">
+			<div class="summarySmall">
+				<!-- imagePosition: centre, columnContext: oneSixth -->
+<div class="piccentre containerdiv  ">
+		<a  href="/culture/culturepicturegalleries/9872771/Steven-Spielberg-on-his-28-films-from-Duel-to-Lincoln.html"><img src="http://i.telegraph.co.uk/multimedia/archive/02488/Spielberg_Gallery-_2488468g.jpg" alt="" border="0" width="140"  height="87" />
+									<span class="cornerimagephotocentre">&nbsp;</span></a>
+		</div>
+	
+<h3>
+                    <a  href="/culture/culturepicturegalleries/9872771/Steven-Spielberg-on-his-28-films-from-Duel-to-Lincoln.html">'Jaws was my Vietnam': Steven Spielberg on his 28 films</a>
+		</h3>
+
+	</div>
+		</div>
+	<div class="summary imageCentreHeadline">
+			<div class="summarySmall">
+				<!-- imagePosition: centre, columnContext: oneSixth -->
+<div class="piccentre containerdiv  ">
+		<a  href="/culture/culturepicturegalleries/9594011/30-great-one-liners.html"><img src="http://i.telegraph.co.uk/multimedia/archive/02363/groucho_2363267g.jpg" alt="Groucho Marx in 1933" border="0" width="140"  height="87" />
+									<span class="cornerimagephotocentre">&nbsp;</span></a>
+		</div>
+	
+<h3>
+                    <a  href="/culture/culturepicturegalleries/9594011/30-great-one-liners.html">30 great one-liners</a>
+		</h3>
+
+	</div>
+		</div>
+	<div class="summary imageCentreHeadline">
+			<div class="summarySmall">
+				<!-- imagePosition: centre, columnContext: oneSixth -->
+<div class="piccentre containerdiv  ">
+		<a  href="/culture/comedy/comedy-news/10463680/Monty-Pythons-25-funniest-quotes.html"><img src="http://i.telegraph.co.uk/multimedia/archive/02741/Monty_Python_reuni_2741070g.jpg" alt="Monty Python reunion: And Now For Something Completely Different, 1971: Director Ian Macnaughton with Graham Chapman, John Cleese, Terry Gilliam, Eric Idle" border="0" width="140"  height="87" />
+									<span class="cornerimagephotocentre">&nbsp;</span></a>
+				</div>
+	
+<h3>
+			<a  href="/culture/comedy/comedy-news/10463680/Monty-Pythons-25-funniest-quotes.html">Monty Python's 25 funniest lines</a>
+				</h3>
+	</div>
+		</div>
+	</div>
+	<!-- googleon: all --></div>
+					<div class="cl"></div>
+
+			<div class="storyFt">
+				<div class="print hidden"><a href="javascript:print()" title="Print">&nbsp;</a></div>
+			<div id="shareBottom" class="storyFunc"></div>
+			<div class="cl"></div>
+		<div id="outbrain-links">
+						<div class="OUTBRAIN" data-src="http://www.telegraph.co.uk/culture/film/filmreviews/10840901/Queen-and-Country-review.html" data-widget-id="AR_16" data-ob-template="telegraph"></div>
+					</div>
+				<div id="outbrain-links">
+						<div class="OUTBRAIN" data-src="http://www.telegraph.co.uk/culture/film/filmreviews/10840901/Queen-and-Country-review.html" data-widget-id="AR_4" data-ob-template="telegraph"></div>											
+					</div>				
+				
+	  	
+			<div class="summaryMedium artCommercial">
+				<div class="headerOne styleSix">
+				<!-- 10844410 -->
+				<p>
+							<span>Read more film reviews</span>
+							</p></div>
+		<div class="gutterUnder noSummaryTopBorder">
+	
+			<div class="summary headlineImageLeft">
+			<!-- 10929958 -->
+			<h3>
+                    <a  href="/culture/film/filmreviews/10929958/Mrs-Browns-Boys-DMovie-review-anti-funny.html">Mrs Brown's Boys D'Movie: 'anti-funny'</a>
+		</h3>
+
+	<!-- imagePosition: left, columnContext: twoThirds -->
+<div class="picleft containerdiv  ">
+		<a  href="/culture/film/filmreviews/10929958/Mrs-Browns-Boys-DMovie-review-anti-funny.html"><img src="http://i.telegraph.co.uk/multimedia/archive/02956/Browns_Boys_2956509f.jpg" alt="Brendan O'Carroll's monster hit sitcom hits the big screen" border="0" width="219"  height="137" />
+									<span class="cornerimageleft">&nbsp;</span></a>
+		</div>
+	
+<div class="labelAbstract">
+<span class="labelOnSec"><a href="http://www.telegraph.co.uk/culture/film/"> Film </a></span>	
+<a href= "/culture/film/filmreviews/10929958/Mrs-Browns-Boys-DMovie-review-anti-funny.html" 
+                         	 
+                         >
+							<p>
+Brendan O&rsquo;Carroll's film lacks the charm, warmth and ambition of its source 
+  material. Yes, really, says <strong>Robbie Collin</strong>
+</p></a>
+                </div><div class="review">
+		<img src="/template/ver1-0/i/ratings/star_1_styleNewPortal.png" width="58" alt="1 out of 5 stars" height="11" />
+		</div>
+<span class="comments">
+			            	<a href="/culture/film/filmreviews/10929958/Mrs-Browns-Boys-DMovie-review-anti-funny.html#disqus_thread" dsqid="10929958" class="">Comments</a>
+			            </span>
+					<div class="cl"></div>
+		</div>
+	<div class="summary headlineImageLeft">
+			<!-- 10928593 -->
+			<h3>
+                    <a  href="/culture/film/filmreviews/10928593/The-Golden-Dream-review-poetry-not-prose.html">The Golden Dream: 'poetry, not prose'</a>
+		</h3>
+
+	<!-- imagePosition: left, columnContext: twoThirds -->
+<div class="picleft containerdiv  ">
+		<a  href="/culture/film/filmreviews/10928593/The-Golden-Dream-review-poetry-not-prose.html"><img src="http://i.telegraph.co.uk/multimedia/archive/02955/Golden_Dream_2955953f.jpg" alt="Juan, Samuel, and Sara on the tracks to America in Diego Quemada-Diez's debut, The Golden Dream" border="0" width="219"  height="137" />
+									<span class="cornerimageleft">&nbsp;</span></a>
+		</div>
+	
+<div class="labelAbstract">
+<span class="labelOnSec"><a href="http://www.telegraph.co.uk/culture/film/filmreviews/"> Film review</a></span>	
+<a href= "/culture/film/filmreviews/10928593/The-Golden-Dream-review-poetry-not-prose.html" 
+                         	 
+                         >
+							<p>
+A Mexican drama of lacerating power, says <strong>Tim Robey</strong>
+</p></a>
+                </div><div class="review">
+		<img src="/template/ver1-0/i/ratings/star_4_styleNewPortal.png" width="58" alt="4 out of 5 stars" height="11" />
+		</div>
+<span class="comments">
+			            	<a href="/culture/film/filmreviews/10928593/The-Golden-Dream-review-poetry-not-prose.html#disqus_thread" dsqid="10928593" class="">Comments</a>
+			            </span>
+					<div class="cl"></div>
+		</div>
+	<div class="summary headlineImageLeft">
+			<!-- 10928225 -->
+			<h3>
+                    <a  href="/culture/film/filmreviews/10928225/Mistaken-for-Strangers-review-its-no-Spinal-Tap.html">Mistaken for Strangers, review: 'it's no Spinal Tap'</a>
+		</h3>
+
+	<!-- imagePosition: left, columnContext: twoThirds -->
+<div class="picleft containerdiv  ">
+		<a  href="/culture/film/filmreviews/10928225/Mistaken-for-Strangers-review-its-no-Spinal-Tap.html"><img src="http://i.telegraph.co.uk/multimedia/archive/02955/spinal-pic-spinal_2955892f.jpg" alt="Tom Beringer and Matt Beringer in Mistaken for Strangers" border="0" width="219"  height="137" />
+									<span class="cornerimageleft">&nbsp;</span></a>
+		</div>
+	
+<div class="labelAbstract">
+<span class="labelOnSec"><a href="http://www.telegraph.co.uk/culture/film/"> Film </a></span>	
+<a href= "/culture/film/filmreviews/10928225/Mistaken-for-Strangers-review-its-no-Spinal-Tap.html" 
+                         	 
+                         >
+							<p>
+This rockumentary about Matt Beringer's apparently feckless younger brother 
+  has nothing to say, argues <strong>Robbie Collin </strong>
+</p></a>
+                </div><div class="review">
+		<img src="/template/ver1-0/i/ratings/star_2_styleNewPortal.png" alt="2 out of 5 stars" width="58" height="11" />
+		</div>
+<span class="comments">
+			            	<a href="/culture/film/filmreviews/10928225/Mistaken-for-Strangers-review-its-no-Spinal-Tap.html#disqus_thread" dsqid="10928225" class="">Comments</a>
+			            </span>
+					<div class="cl"></div>
+		</div>
+	<div class="summary headlineImageLeft">
+			<!-- 10927557 -->
+			<h3>
+                    <a  href="/culture/film/filmreviews/10927557/Seve-review-a-blur-of-bad-knitwear.html">Seve, review: 'a blur of bad knitwear'</a>
+		</h3>
+
+	<!-- imagePosition: left, columnContext: twoThirds -->
+<div class="picleft containerdiv  ">
+		<a  href="/culture/film/filmreviews/10927557/Seve-review-a-blur-of-bad-knitwear.html"><img src="http://i.telegraph.co.uk/multimedia/archive/02955/seve4_2955816f.jpg" alt="A scene fromn Seve" border="0" width="219"  height="137" />
+									<span class="cornerimageleft">&nbsp;</span></a>
+		</div>
+	
+<div class="labelAbstract">
+<span class="labelOnSec"><a href="http://www.telegraph.co.uk/culture/film/filmreviews/"> Film review</a></span>	
+<a href= "/culture/film/filmreviews/10927557/Seve-review-a-blur-of-bad-knitwear.html" 
+                         	 
+                         >
+							<p>
+This Severiano Ballasteros documentary feels like it's masterminded by Alan 
+  Partridge, says <strong>Tim Robey </strong>
+</p></a>
+                </div><div class="review">
+		<img src="/template/ver1-0/i/ratings/star_2_styleNewPortal.png" alt="2 out of 5 stars" width="58" height="11" />
+		</div>
+<span class="comments">
+			            	<a href="/culture/film/filmreviews/10927557/Seve-review-a-blur-of-bad-knitwear.html#disqus_thread" dsqid="10927557" class="">Comments</a>
+			            </span>
+					<div class="cl"></div>
+		</div>
+	<div class="summary headlineImageLeft">
+			<!-- 10927953 -->
+			<h3>
+                    <a  href="/culture/film/filmreviews/10927953/Walking-On-Sunshine-review-unselfconsciously-silly.html">Walking On Sunshine, review: 'unselfconsciously silly'</a>
+		</h3>
+
+	<!-- imagePosition: left, columnContext: twoThirds -->
+<div class="picleft containerdiv  ">
+		<a  href="/culture/film/filmreviews/10927953/Walking-On-Sunshine-review-unselfconsciously-silly.html"><img src="http://i.telegraph.co.uk/multimedia/archive/02955/walkingonsunshine_2955607f.jpg" alt="Walking On Sunshine: 'funny'" border="0" width="219"  height="137" />
+									<span class="cornerimageleft">&nbsp;</span></a>
+		</div>
+	
+<div class="labelAbstract">
+<span class="labelOnSec"><a href="http://www.telegraph.co.uk/culture/film/"> Film</a></span>	
+<a href= "/culture/film/filmreviews/10927953/Walking-On-Sunshine-review-unselfconsciously-silly.html" 
+                         	 
+                         >
+							<p>
+This jukebox musical is played entirely for laughs, says <strong>Robbie Collin</strong>
+</p></a>
+                </div><div class="review">
+		<img src="/template/ver1-0/i/ratings/star_3_styleNewPortal.png" width="58" alt="3 out of 5 stars" height="11" />
+		</div>
+<span class="comments">
+			            	<a href="/culture/film/filmreviews/10927953/Walking-On-Sunshine-review-unselfconsciously-silly.html#disqus_thread" dsqid="10927953" class="">Comments</a>
+			            </span>
+					<div class="cl"></div>
+		</div>
+	<div class="summary headlineImageLeft">
+			<!-- 10927679 -->
+			<h3>
+                    <a  href="/culture/film/filmreviews/10927679/Chef-review-charming-but-stale.html">Chef: 'charming, but stale'</a>
+		</h3>
+
+	<!-- imagePosition: left, columnContext: twoThirds -->
+<div class="picleft containerdiv  ">
+		<a  href="/culture/film/filmreviews/10927679/Chef-review-charming-but-stale.html"><img src="http://i.telegraph.co.uk/multimedia/archive/02955/Chef_2955406f.jpg" alt="Jon Favreau and Sofia Vergara in Chef" border="0" width="219"  height="137" />
+									<span class="cornerimageleft">&nbsp;</span></a>
+		</div>
+	
+<div class="labelAbstract">
+<span class="labelOnSec"><a href="http://www.telegraph.co.uk/culture/film/"> Film</a></span>	
+<a href= "/culture/film/filmreviews/10927679/Chef-review-charming-but-stale.html" 
+                         	 
+                         >
+							<p>
+Jon Favreau's genial kitchen comedy could do with a touch more Scarlett 
+  Johansson, says <strong>Tim Robey</strong>
+</p></a>
+                </div><div class="review">
+		<img src="/template/ver1-0/i/ratings/star_3_styleNewPortal.png" width="58" alt="3 out of 5 stars" height="11" />
+		</div>
+<span class="comments">
+			            	<a href="/culture/film/filmreviews/10927679/Chef-review-charming-but-stale.html#disqus_thread" dsqid="10927679" class="">Comments</a>
+			            </span>
+					<div class="cl"></div>
+		</div>
+	<div class="summary headlineImageLeft">
+			<!-- 10927715 -->
+			<h3>
+                    <a  href="/culture/film/filmreviews/10927715/Arthur-and-Mike-review-baleful-quirkiness.html">Arthur &amp; Mike, review, 'baleful quirkiness'</a>
+		</h3>
+
+	<!-- imagePosition: left, columnContext: twoThirds -->
+<div class="picleft containerdiv  ">
+		<a  href="/culture/film/filmreviews/10927715/Arthur-and-Mike-review-baleful-quirkiness.html"><img src="http://i.telegraph.co.uk/multimedia/archive/02955/firth_2955391f.jpg" alt="Colin Firth and Emily Blunt make an unconvincing couple in Arthur and Mike" border="0" width="219"  height="137" />
+									<span class="cornerimageleft">&nbsp;</span></a>
+		</div>
+	
+<div class="labelAbstract">
+<span class="labelOnSec"><a href="http://www.telegraph.co.uk/culture/film/"> Film</a></span>	
+<a href= "/culture/film/filmreviews/10927715/Arthur-and-Mike-review-baleful-quirkiness.html" 
+                         	 
+                         >
+							<p>
+Colin Firth and Emily Blunt star in a romantic caper that fails to entertain
+</p></a>
+                </div><div class="review">
+		<img src="/template/ver1-0/i/ratings/star_1_styleNewPortal.png" width="58" alt="1 out of 5 stars" height="11" />
+		</div>
+<span class="comments">
+			            	<a href="/culture/film/filmreviews/10927715/Arthur-and-Mike-review-baleful-quirkiness.html#disqus_thread" dsqid="10927715" class="">Comments</a>
+			            </span>
+					<div class="cl"></div>
+		</div>
+	<div class="summary headlineImageLeft">
+			<!-- 10927656 -->
+			<h3>
+                    <a  href="/culture/film/filmreviews/10927656/Cold-in-July-review-expert-Southern-Gothic.html">Cold in July: 'expert Southern Gothic'</a>
+		</h3>
+
+	<!-- imagePosition: left, columnContext: twoThirds -->
+<div class="picleft containerdiv  ">
+		<a  href="/culture/film/filmreviews/10927656/Cold-in-July-review-expert-Southern-Gothic.html"><img src="http://i.telegraph.co.uk/multimedia/archive/02955/July_2955353f.jpg" alt="Michael C Hall (left) and Sam Shepard in Cold in July" border="0" width="219"  height="137" />
+									<span class="cornerimageleft">&nbsp;</span></a>
+		</div>
+	
+<div class="labelAbstract">
+<span class="labelOnSec"><a href="http://www.telegraph.co.uk/culture/film/filmreviews/"> Film review</a></span>	
+<a href= "/culture/film/filmreviews/10927656/Cold-in-July-review-expert-Southern-Gothic.html" 
+                         	 
+                         >
+							<p>
+It's genre cinema with a twist, says <strong>Robbie Collin</strong>
+</p></a>
+                </div><div class="review">
+		<img src="/template/ver1-0/i/ratings/star_4_styleNewPortal.png" width="58" alt="4 out of 5 stars" height="11" />
+		</div>
+<span class="comments">
+			            	<a href="/culture/film/filmreviews/10927656/Cold-in-July-review-expert-Southern-Gothic.html#disqus_thread" dsqid="10927656" class="">Comments</a>
+			            </span>
+					<div class="cl"></div>
+		</div>
+	</div>
+	</div>
+		
+	
+
+<!-- googleoff: all -->
+
+	<input type="hidden" name="numofAds" id="numofAds" value="3">
+
+<div class="googleads ">
+		<div class="access">Advertisement</div>
+		
+		<script type="text/javascript">
+		<!--
+			google_ad_client = 'ca-telegraph_uk_300x250';
+			google_ad_channel = 'culture';
+			google_max_num_ads = '3';
+			google_ad_output="js";
+			google_ad_type="text";
+			google_language="en";
+			google_encoding="utf8";
+			google_safe="high";
+			
+			
+			
+							google_hints="film,filmreviews"; 
+												
+		// -->
+		</script>
+		
+		<script type="text/javascript" src="/template/ver1-0/js/googleAds.js"></script>
+		
+	<div id="google-ads-container"></div>
+		<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+		<noscript>
+			
+		</noscript>
+	</div>
+
+<!-- googleon: all -->
+</div>
+
+			<div class="twoThirds btop">
+				<!--comments=disqus<br>
+disqusComments=active<br>
+userCommentsState=sectionProperties<br>
+showComments=true<br>
+article.articleTypeName=tmglstory<br>-->
+
+		
+<a class="moderate" href="http://my.telegraph.co.uk/aboutus/mytelegraph/12/moderation-faqs/" target="_new">How we moderate</a>
+	
+	<div class="gutterUnder fclear">
+	<div class="hide" id="disqusAcc">telegraphuk</div>
+		<div id="disqus_thread"></div>
+		<script type="text/javascript">
+		var disqus_title = "Queen and Country, review";
+		var disqus_identifier = "10840901";
+		var disqus_developer = 1;
+		</script>
+		<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript=telegraphuk">comments powered by Disqus.</a></noscript>
+		<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+	</div> 		
+</div>
+			<div class="cl"></div>
+		</div>
+
+		<div class="oneThird">
+			<div class="InSkinHide">
+	<script type="text/javascript">
+		document.write(tmgAdsBuildAdTag("pp", "1x1", "adj", "", 2));
+		</script>
+	</div>
+
+
+
+
+
+<div class="summaryMedium">
+		</div>
+	<div class="summaryPadding"></div>
+<div class="admpu gutterUnder">
+  <script type="text/javascript">
+     /* EPOCH time at the start of MPU Ad */
+     var mpuAdTimerStart = Date.now();
+  </script>
+<div class="access">Advertisement</div>
+<div id="mpu" class="InSkinHide">
+	<script type="text/javascript">
+		document.write(tmgAdsBuildAdTag("mpu", "300x250", "adj", "", 2));
+		</script>
+	</div>
+</div>
+
+<div class="summaryMedium  gutterUnder  tps5">
+				<div class="summary iframeSummary mnIframe">
+							<!-- 10916099 -->
+							<iframe width="300" height="300" marginwidth="0" scrolling="no" src="http://www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Ftelegraphfilm&width=300&height=258&colorscheme=light&show_faces=true&header=false&stream=false&show_border=true" frameborder="0" marginheight="0"></iframe>
+						</div>
+					<div class="summary iframeSummary mnIframe">
+							<!-- 10874623 -->
+							<iframe width="300" height="350" marginwidth="0" scrolling="no" src="http://s.telegraph.co.uk/international/Barnebys/2014/Barnebys_UK_300x350.html" frameborder="0" marginheight="0"></iframe>
+						</div>
+					</div>
+		<div class="summaryMedium gutterUnder">
+						
+                
+                    
+                                <div class="headerOne styleSix">
+				<!-- 9648057 -->
+				<p>
+							<span>More from the web</span>
+							</p></div>
+		<div class="summary iframeSummary mnIframe">
+							<!-- 10729255 -->
+							<iframe width="300" height="400" marginwidth="0" scrolling="no" src="http://s.telegraph.co.uk/international/pricegrabber/PricegrabberUKExpatCulture.html" frameborder="0" marginheight="0"></iframe>
+						</div>
+					
+		</div>
+				<div class="access">Advertisement</div>
+<div id="yell">
+	<div class="adyell InSkinHide">
+		<script type="text/javascript">
+		document.write(tmgAdsBuildAdTag("yell", "300x150", "adj", "", 2));
+		</script>
+	</div>
+</div>
+
+
+
+
+
+
+
+<div class="summaryMedium gutterUnder">
+	
+                
+                    
+                                <div class="headerOne styleSix">
+				<!-- 9643773 -->
+				<p>
+							<span>More from The Telegraph</span>
+							</p></div>
+		<div id="configurableTabs" class="configTabs">
+    <div class="topline">
+    	<div class="left"></div>
+    	<div class="right"></div>
+        <div style="clear:both;"></div>
+    </div>
+	
+    <div class="innerPlugin">
+      <div class="loadingMessage">
+            Loading
+        </div>
+        <div class="cl"></div>
+
+		<script type="text/javascript">
+                var puffs_10366662 = new Array();
+                </script>
+                <div id="configurableTab_10366662" class="controlledTab" style="display:none;">
+                	<div class="tools">
+							<a class="prevArrowImage" id="p10366662" href="#"></a>
+							<a class="nextArrowImage" id="n10366662" href="#"></a>
+							<div class="cl"></div>
+						</div>
+					<ul class="configurableWidget ssAds"></ul>
+                    <script type="text/javascript">
+								    var thisLink = "http://featuredadvertising.telegraph.co.uk/c/7bbec8a9-f9f2-4998-a243-a25ad837d039?WT.ac=10757807";
+								    puffs_10366662.push({'id':'10757807', 'headline':'A day in a student\'s life', 'bodyText':'Is this how a student\'s day really is?', 'link':thisLink, 'imageUrl':'http://i.telegraph.co.uk/multimedia/archive/02878/Fotolia_Woman_Lyin_2878420a.jpg', 'weight':'3'});
+								    </script>
+
+								    <script type="text/javascript">
+								    var thisLink = "http://featuredadvertising.telegraph.co.uk/c/a6fa49aa-962c-464f-9fa5-d9784f186c41?WT.ac=10826868";
+								    puffs_10366662.push({'id':'10826868', 'headline':'How to fund a Postgraduate Degree Programme', 'bodyText':'Essential advice on postgraduate bursaries, fees and funding options for students.', 'link':thisLink, 'imageUrl':'http://i.telegraph.co.uk/multimedia/archive/02909/PG280bursaries_2909369a.jpg', 'weight':'3'});
+								    </script>
+
+								    <script type="text/javascript">
+								    var thisLink = "http://featuredadvertising.telegraph.co.uk/c/0d7ddcd2-9372-4e5b-9b7e-bbd59c7a5ba7?WT.ac=10826885";
+								    puffs_10366662.push({'id':'10826885', 'headline':'Postgraduate degree programmes in the UK &ndash; enrolling now', 'bodyText':'Search all programmes available in the UK today', 'link':thisLink, 'imageUrl':'http://i.telegraph.co.uk/multimedia/archive/02909/PG280UKUNI_2909380a.jpg', 'weight':'3'});
+								    </script>
+
+								    <script type="text/javascript">
+								    var thisLink = "http://featuredadvertising.telegraph.co.uk/c/c5afa628-08ae-4ac6-a33c-c3d88796c8fa?WT.ac=10826890";
+								    puffs_10366662.push({'id':'10826890', 'headline':'Postgraduate degree programmes in Europe &ndash; enrolling now', 'bodyText':'Search all programmes available in Europe and apply now', 'link':thisLink, 'imageUrl':'http://i.telegraph.co.uk/multimedia/archive/02909/PG280EUUNI_2909391a.jpg', 'weight':'3'});
+								    </script>
+
+								    <script type="text/javascript">
+								    var thisLink = "http://featuredadvertising.telegraph.co.uk/c/82a8ce3c-826c-43ee-8181-306fbe1a1234?WT.ac=10826904";
+								    puffs_10366662.push({'id':'10826904', 'headline':'Postgraduate Course Search', 'bodyText':'Comprehensive guide to all the different postgraduate subjects available at UK institutions', 'link':thisLink, 'imageUrl':'http://i.telegraph.co.uk/multimedia/archive/02909/PG280search_2909400a.jpg', 'weight':'3'});
+								    </script>
+
+								    <script type="text/javascript">
+								    var thisLink = "http://featuredadvertising.telegraph.co.uk/c/5675c2c9-06da-4a0c-bc3a-61fcf70c2cf9?WT.ac=10757802";
+								    puffs_10366662.push({'id':'10757802', 'headline':'Expert help and advice for Postgraduate Study', 'bodyText':'Our advice will help you with every aspect of your postgraduate studies', 'link':thisLink, 'imageUrl':'http://i.telegraph.co.uk/multimedia/archive/02878/Fotolia_Blonde_Wom_2878416a.jpg', 'weight':'3'});
+								    </script>
+
+								    <script type="text/javascript">
+								    var thisLink = "http://featuredadvertising.telegraph.co.uk/c/f98cdbb9-b814-4951-88a1-61c78962b755?WT.ac=10757797";
+								    puffs_10366662.push({'id':'10757797', 'headline':'After your study: Graduation and Beyond', 'bodyText':'Graduation ceremonies, Keeping in touch and Readjusting to life after your course', 'link':thisLink, 'imageUrl':'http://i.telegraph.co.uk/multimedia/archive/02878/Fotolia_5_students_2878419a.jpg', 'weight':'3'});
+								    </script>
+
+								    <script type="text/javascript">
+								    var thisLink = "http://featuredadvertising.telegraph.co.uk/c/ab42f5c8-1940-408b-ad55-d2adff790589?WT.ac=10757808";
+								    puffs_10366662.push({'id':'10757808', 'headline':'English Language Support for International Postgrad students', 'bodyText':'Help and advice for students with English as a second language.', 'link':thisLink, 'imageUrl':'http://i.telegraph.co.uk/multimedia/archive/02878/Fotolia_Woman___bo_2878421a.jpg', 'weight':'3'});
+								    </script>
+
+								    <script type="text/javascript">
+								    var thisLink = "http://www.postgrad.com/editorial/uk_universities/universities/?utm_source=courses.telegraph.co.uk&utm_medium=telegraph&utm_campaign=telegraph+editorial&utm_content=Postgraduate_Study_in_the_UK_for_International_Students&WT.ac=10585189";
+								    puffs_10366662.push({'id':'10585189', 'headline':'Postgraduate Study in the UK', 'bodyText':'Everything you need to know about studing in the UK.', 'link':thisLink, 'imageUrl':'http://i.telegraph.co.uk/multimedia/archive/02836/Postgrad_4_2836423a.jpg', 'weight':'3'});
+								    </script>
+
+								    <script type="text/javascript">
+								    var thisLink = "http://www.postgrad.com/editorial/advice/study_abroad/?utm_source=courses.telegraph.co.uk&utm_medium=telegraph&utm_campaign=telegraph+editorial&utm_content=Studying_Abroad_As_A_Postgraduate_Student&WT.ac=10585196";
+								    puffs_10366662.push({'id':'10585196', 'headline':'Studying abroad as a Postgraduate Student', 'bodyText':'We have lots of great advice to help you with this exciting stage in your life.', 'link':thisLink, 'imageUrl':'http://i.telegraph.co.uk/multimedia/archive/02836/Postgrad_3_2836348a.jpg', 'weight':'3'});
+								    </script>
+
+								    </div>
+
+                <script type="text/javascript">
+var noOfPuffs = 10;
+
+	for(var i=0; i < noOfPuffs; i++) {
+		if(i < puffs_10366662.length) {
+			rotateLayoutPuffs(10366662, i, true);
+		}
+    } 		
+
+</script><div class="cl"></div>
+	  </div>
+	<div class="bottomline">
+    	<div class="left"></div>
+    	<div class="right"></div>
+        <div style="clear:both;"></div>
+    </div>
+</div>
+<script language="Javascript" type="text/javascript">
+function onClickedForTabCountZero(tabTitle){
+	if(tabTitle == 'BUY USED')
+	{
+		var head = document.getElementsByTagName('head')[0];
+		var s = document.createElement('script');
+		s.type = 'text/javascript';
+		s.text = "Krux('admEvent', 'IgU1GlWa', { });";
+		head.appendChild(s);
+	}
+	
+};
+function onClickedForTabCountNonZero(tabTitle){
+	if(tabTitle == 'SELL A CAR')
+	{
+		var head = document.getElementsByTagName('head')[0];
+		var s = document.createElement('script');
+		s.type = 'text/javascript';
+		s.text = "Krux('admEvent', 'IgVNad2Z', { });";
+		head.appendChild(s);
+	}
+	else if(tabTitle == 'BUY NEW')
+	{
+	
+		var head = document.getElementsByTagName('head')[0];
+		var s = document.createElement('script');
+		s.type = 'text/javascript';
+		s.text = "Krux('admEvent', 'IgVO4O1d', { });";
+		head.appendChild(s);
+	}
+};
+</script>
+					
+		</div>
+<div class="summaryMedium gutterUnder">
+		<div class="mostPopular"><div id="mostPopular">
+	<div id="mostviewed">
+
+		<div class="tabs">
+			<ul>
+				<li class="wt_mostViewed"><a href="#div-VIEWED">Most Viewed</a></li>
+				</ul>
+			<div class="cl"></div>
+			<div id="div-VIEWED" class="view-content">
+					<ul>
+				<li class="first-story">
+						<div class="ordinal"><p>1</p></div>
+						<a href="/culture/tvandradio/bbc/10929289/Newsnight-is-made-by-13-year-olds-says-Jeremy-Paxman.html" class="image">
+									<img src="http://i.telegraph.co.uk/multimedia/archive/02947/Jeremy_Paxman_leav_2947227g.jpg" alt="Jeremy Paxman leaves Newsnight" height="87px"width="140px"/>
+								</a>
+							<h3 class="topFiveComment">
+							<a href="/culture/tvandradio/bbc/10929289/Newsnight-is-made-by-13-year-olds-says-Jeremy-Paxman.html">Newsnight 'made by 13-year-olds', says Paxman</a>
+						</h3>
+						<div class="cl"></div>
+					</li>
+				<li class="story2">
+						<div class="ordinal"><p>2</p></div>
+						<a href="/culture/glastonbury/10929109/Glastonbury-2014-live-Friday-Arcade-Fire-Lily-Allen-and-Elbow.html" class="image">
+									<img src="http://i.telegraph.co.uk/multimedia/archive/02956/glastonbury-mud_2956991g.jpg" alt="Muddy waters: Ladies make a splash by the camp site" height="87px"width="140px"/>
+								</a>
+							<h3 class="topFiveComment">
+							<a href="/culture/glastonbury/10929109/Glastonbury-2014-live-Friday-Arcade-Fire-Lily-Allen-and-Elbow.html">Glastonbury 2014, live: Friday – Arcade Fire, Lily Allen and Elbow</a>
+						</h3>
+						<div class="cl"></div>
+					</li>
+				<li class="story3">
+						<div class="ordinal"><p>3</p></div>
+						<a href="/culture/tvandradio/game-of-thrones/10928715/Game-of-Thrones-why-Lady-Stoneheart-was-killed.html" class="image">
+									<img src="http://i.telegraph.co.uk/multimedia/archive/02956/catelynstark2_2956055g.jpg" alt="" height="87px"width="140px"/>
+								</a>
+							<h3 class="topFiveComment">
+							<a href="/culture/tvandradio/game-of-thrones/10928715/Game-of-Thrones-why-Lady-Stoneheart-was-killed.html">Game of Thrones: why Lady Stoneheart was killed</a>
+						</h3>
+						<div class="cl"></div>
+					</li>
+				<li class="story4">
+						<div class="ordinal"><p>4</p></div>
+						<a href="/culture/film/filmreviews/10929958/Mrs-Browns-Boys-DMovie-review-anti-funny.html" class="image">
+									<img src="http://i.telegraph.co.uk/multimedia/archive/02956/Browns_Boys_2956509g.jpg" alt="Brendan O&#039;Carroll&#039;s monster hit sitcom hits the big screen" height="87px"width="140px"/>
+								</a>
+							<h3 class="topFiveComment">
+							<a href="/culture/film/filmreviews/10929958/Mrs-Browns-Boys-DMovie-review-anti-funny.html">Mrs Brown's Boys D'Movie: 'anti-funny'</a>
+						</h3>
+						<div class="cl"></div>
+					</li>
+				<li class="story5">
+						<div class="ordinal"><p>5</p></div>
+						<a href="/culture/glastonbury/10930469/Glastonbury-man-dies-after-suspected-reaction-to-ketamine.html" class="image">
+									<img src="http://i.telegraph.co.uk/multimedia/archive/02956/glastonbury-night-_2956506g.jpg" alt="Glastonbury Festival 2014 at Worthy Farm in Somerset" height="93px"width="140px"/>
+								</a>
+							<h3 class="topFiveComment">
+							<a href="/culture/glastonbury/10930469/Glastonbury-man-dies-after-suspected-reaction-to-ketamine.html">Glastonbury: man dies after suspected reaction to ketamine</a>
+						</h3>
+						<div class="cl"></div>
+					</li>
+				</ul></div>
+			</div>
+	</div>
+
+	<script type="text/javascript">
+		var expandMostCommentedArticles = false;
+		var expandMostSharedArticles = false;
+		var expandMostViewedArticlesTab = true;
+		var mostCommentedAccordionValue = 0;
+		var mostSharedAccordionValue = 1;
+		var mostViewedAccordionValue = 2;
+	</script>
+</div></div></div>
+<div class="summaryMedium gutterUnder">
+		<div class="editorsChoice"><div class="headerOne styleSix">
+				<!-- 8489793 -->
+				<p>
+							<span>EDITOR'S CHOICE</span>
+							</p></div>
+		<div class="summary imageCentreHeadline">
+			<div class="summarySmall">
+				<!-- imagePosition: centre, columnContext: oneThird -->
+<div class="piccentre containerdiv  ">
+		<a  href="/culture/film/10365142/Best-movies-the-best-films-on-release-in-cinemas-now.html"><img src="http://i.telegraph.co.uk/multimedia/archive/02944/fault_2944204e.jpg" alt="Ansel Elgort, left, and Shailene Woodley in The Fault In Our Stars, the film version of John Green's novel" border="0" width="300"  height="187" />
+									<span class="cornerimagecentre">&nbsp;</span></a>
+		</div>
+	
+<h3>
+                    <a  href="/culture/film/10365142/Best-movies-the-best-films-on-release-in-cinemas-now.html">The best films in cinemas now</a>
+		</h3>
+
+	</div>
+		</div>
+	<div class="summary headlineOnly">
+            <!-- 10377204 -->
+            <div class="summaryMediumToSmall">
+                <div class="bullet">
+                            <h3>
+                    <a  href="/culture/art/10377204/best-art-exhibitions-London.html">The best art exhibitions on now</a>
+		</h3>
+
+	</div>
+                    </div>
+		</div>
+	<div class="summary headlineOnly">
+            <!-- 10393799 -->
+            <div class="summaryMediumToSmall">
+                <div class="bullet">
+                            <h3>
+                    <a  href="/culture/theatre/10393799/London-Theatre-The-best-shows-and-plays-on-now.html">The best plays on now in London</a>
+		</h3>
+
+	</div>
+                    </div>
+		</div>
+	<div class="summary headlineOnly">
+            <!-- 10320761 -->
+            <div class="summaryMediumToSmall">
+                <div class="bullet">
+                            <h3>
+                    <a  href="/culture/theatre/theatre-features/10320761/London-West-End-Musicals-On-now.html">The best West End musicals</a>
+		</h3>
+
+	</div>
+                    </div>
+		</div>
+	<div class="summary headlineOnly">
+            <!-- 10124887 -->
+            <div class="summaryMediumToSmall">
+                <div class="bullet">
+                            <h3>
+                    <a  href="/culture/tvandradio/tv-and-radio-reviews/10124887/The-best-comedy-podcasts.html">The best comedy podcasts</a>
+		</h3>
+
+	</div>
+                    </div>
+		</div></div></div>
+<div class="adarea gutterUnder">
+			<div class="adsky">
+				<script type="text/javascript">
+     /* EPOCH time at the start of skyscraper Ad */
+     var startOfSkyscraper = Date.now();
+  </script>
+<div class="access">Advertisement</div>
+<div class="InSkinHide" align="center">
+	<script type="text/javascript">
+		document.write(tmgAdsBuildAdTag("hpg,sks,skl", "300x600,120x600,160x600", "adj", "", 2));
+		</script>
+	</div></div>
+	
+			<div class="cl"></div>
+		</div>
+		
+	<div class="summaryMedium gutterUnder">
+						
+                
+                    
+                                <div class="headerOne styleSix">
+				<!-- 9648057 -->
+				<p>
+							<span>More from the web</span>
+							</p></div>
+		<div class="summary iframeSummary mnIframe">
+							<!-- 10874723 -->
+							<iframe width="300" height="550" marginwidth="0" scrolling="no" src="http://s.telegraph.co.uk/international/Barnebys/2014/Barnebys_INT_300x550.html" frameborder="0" marginheight="0"></iframe>
+						</div>
+					
+		</div>
+				<div class="OUTBRAIN" data-src="http://www.telegraph.co.uk/culture/film/filmreviews/10840901/Queen-and-Country-review.html" data-widget-id="AR_3" data-ob-template="telegraph" ></div>
+<script type="text/javascript"> 
+					(function() { 
+			        var outbrainScriptTag = document.createElement('script'); 
+			        outbrainScriptTag.type = 'text/javascript'; 
+			        outbrainScriptTag.async = true; 
+			        outbrainScriptTag.id = "outbrain"; 
+			        outbrainScriptTag.src = 'http://widgets.outbrain.com/outbrain.js' ; 
+			        var s = document.getElementsByTagName('script')[0]; 
+			        s.parentNode.insertBefore(outbrainScriptTag, s); 
+					})(); 
+					
+</script> 		 	
+<script type="text/javascript">
+                /* EPOCH time at the end of right hand column */
+                 var rightHandTimer=Date.now();
+                </script>
+		</div>
+		<div class="cl"></div>
+
+		<div class="OUTBRAIN" data-src="http://www.telegraph.co.uk/culture/film/filmreviews/10840901/Queen-and-Country-review.html" data-widget-id="TR_1" data-ob-template="telegraph" ></div>		
+		</div>
+	
+	<div class="printHide">
+		<div id="trafficDrivers">
+
+	<div class="headerOne styleSix">
+				<!-- 9612843 -->
+				<p>
+							<span>MORE FROM TELEGRAPH.CO.UK</span>
+							</p></div>
+		<div class="gutterUnder">							
+		<div id="tmgPortalRand">
+			
+					
+						
+							<!-- 10920437 -->
+<div class="oneQuarter servicesSmall ">
+	<div class="summarySmall">
+		<div class="headerFive">		
+			<a href="http://www.telegraph.co.uk/financialservices/insurance/car-warranty/?utm_source=tmg&utm_medium=td_warranty&utm_campaign=trafficdrivers"> 
+				Telegraph Car Warranty</a>
+		</div>
+		<!-- imagePosition: centre, columnContext: oneQuarter -->
+<div class="piccentre containerdiv  ">
+		<a  href="http://www.telegraph.co.uk/financialservices/insurance/car-warranty/?utm_source=tmg&utm_medium=td_warranty&utm_campaign=trafficdrivers">
+						<img src="http://i.telegraph.co.uk/multimedia/archive/02722/Warranty_Email_Pic_2722803f.jpg" alt="" border="0" width="220"  height="137" /><span class="imgSlantOverlay">&nbsp;</span>
+						</a>
+					</div>
+	
+<h3>
+			<a  href="http://www.telegraph.co.uk/financialservices/insurance/car-warranty/?utm_source=tmg&utm_medium=td_warranty&utm_campaign=trafficdrivers">
+						Protect yourself from unexpected car repair bills</a>
+					</h3>
+		<div class="traffdrivViewLink">
+			<a  href="http://www.telegraph.co.uk/financialservices/insurance/car-warranty/?utm_source=tmg&utm_medium=td_warranty&utm_campaign=trafficdrivers">
+						View</a>
+					</div>
+
+	</div>
+</div>
+					
+				
+
+			
+					
+						
+							<!-- 10930021 -->
+<div class="oneQuarter servicesSmall ">
+	<div class="summarySmall">
+		<div class="headerFive">		
+			<a href="http://www.telegraph.co.uk/sponsored/sport/inspirational-sports-stories/?WT.mc_id=605801&source=TrafficDriver"> 
+				Inspirational Stories</a>
+		</div>
+		<!-- imagePosition: centre, columnContext: oneQuarter -->
+<div class="piccentre containerdiv  ">
+		<a  href="http://www.telegraph.co.uk/sponsored/sport/inspirational-sports-stories/10865707/arsenal-footballer-alan-smith.html?WT.mc_id=605801&source=TrafficDriver">
+						<img src="http://i.telegraph.co.uk/multimedia/archive/02926/Alan-smith-footbal_2926786f.jpg" alt="Footballer Alan Smith" border="0" width="220"  height="137" /><span class="imgSlantOverlay">&nbsp;</span>
+						</a>
+					</div>
+	
+<h3>
+			<a  href="http://www.telegraph.co.uk/sponsored/sport/inspirational-sports-stories/10865707/arsenal-footballer-alan-smith.html?WT.mc_id=605801&source=TrafficDriver">
+						Who drove footballer Alan Smith to sporting success?</a>
+					</h3>
+		<div class="traffdrivViewLink">
+			<a  href="http://www.telegraph.co.uk/sponsored/sport/inspirational-sports-stories/10865707/arsenal-footballer-alan-smith.html?WT.mc_id=605801&source=TrafficDriver">
+						View</a>
+					</div>
+
+	</div>
+</div>
+					
+				
+
+			
+					
+						
+							<!-- 10920394 -->
+<div class="oneQuarter servicesSmall ">
+	<div class="summarySmall">
+		<div class="headerFive">		
+			<a href="http://www.telegraph.co.uk/luxury/watches/?utm_source=TMG&utm_medium=TD_10920394&utm_campaign=LuxuryTDs"> 
+				WATCHES </a>
+		</div>
+		<!-- imagePosition: centre, columnContext: oneQuarter -->
+<div class="piccentre containerdiv  ">
+		<a  href="http://www.telegraph.co.uk/luxury/watches/36268/going-for-gold.html?utm_source=TMG&utm_medium=TD_10920394&utm_campaign=LuxuryTDs">
+						<img src="http://i.telegraph.co.uk/multimedia/archive/02951/gold-watches_2951835f.jpg" alt="Ben Clymer's 1975 Rolex Daytona and 1957 Amagnetic Patek Philippe" border="0" width="220"  height="137" /><span class="imgSlantOverlay">&nbsp;</span>
+						</a>
+					</div>
+	
+<h3>
+			<a  href="http://www.telegraph.co.uk/luxury/watches/36268/going-for-gold.html?utm_source=TMG&utm_medium=TD_10920394&utm_campaign=LuxuryTDs">
+						Going for gold</a>
+					</h3>
+		<div class="traffdrivViewLink">
+			<a  href="http://www.telegraph.co.uk/luxury/watches/36268/going-for-gold.html?utm_source=TMG&utm_medium=TD_10920394&utm_campaign=LuxuryTDs">
+						View</a>
+					</div>
+
+	</div>
+</div>
+					
+				
+
+			
+					
+						
+							<!-- 10908568 -->
+<div class="oneQuarter servicesSmall last">
+	<div class="summarySmall">
+		<div class="headerFive">		
+			<a href="http://www.telegraph.co.uk/sponsored/sport/ladies_european_masters/?WT.mc_id=605807&source=TrafficDriver"> 
+				LEM</a>
+		</div>
+		<!-- imagePosition: centre, columnContext: oneQuarter -->
+<div class="piccentre containerdiv  ">
+		<a  href="http://www.telegraph.co.uk/sponsored/sport/ladies_european_masters/10872910/meet-anton-du-beke.html?WT.mc_id=605807&source=TrafficDriver">
+						<img src="http://i.telegraph.co.uk/multimedia/archive/02930/Anton_du_Beke_2930719f.jpg" alt="Quickstep to the tented village for 1pm for a Q&A session with Anton du Beke" border="0" width="219"  height="137" /><span class="imgSlantOverlay">&nbsp;</span>
+						</a>
+					</div>
+	
+<h3>
+			<a  href="http://www.telegraph.co.uk/sponsored/sport/ladies_european_masters/10872910/meet-anton-du-beke.html?WT.mc_id=605807&source=TrafficDriver">
+						Meet Anton du Beke at Ladies&rsquo; Day</a>
+					</h3>
+		<div class="traffdrivViewLink">
+			<a  href="http://www.telegraph.co.uk/sponsored/sport/ladies_european_masters/10872910/meet-anton-du-beke.html?WT.mc_id=605807&source=TrafficDriver">
+						View</a>
+					</div>
+
+	</div>
+</div>
+					
+				
+
+			
+					
+						
+							
+					
+				
+
+			
+					
+						
+							
+					
+				
+
+			
+					
+						
+							
+					
+				
+
+			
+					
+						
+							
+					
+				
+
+			
+					
+						
+							
+					
+				
+
+			
+					
+						
+							
+					
+				
+
+			
+					
+						
+							
+					
+				
+
+			
+					
+						
+							
+					
+				
+
+			
+					
+						
+							
+					
+				
+
+			
+					
+						
+							
+					
+				
+
+			
+					
+						
+							
+					
+				
+
+			
+					
+						
+							
+					
+				
+
+			<div class="cl"></div>		
+	</div>					
+</div>
+</div>
+<div class="cl"></div>
+
+		</div>
+	<!-- googleon: all -->
+</div><!-- googleoff: all -->
+			<script type="text/javascript">
+/* EPOCH time at the end of content Area */
+                var contentEndTimer = Date.now();
+            </script>
+<div class="backtotop"><p><a href="#top">Back to top</a></p></div>
+<div id="tmglFooterLarge">
+		<a href="http://www.telegraph.co.uk/" id="footerlogolink" title="Telegraph.co.uk: news, business, sport, the Daily Telegraph newspaper, Sunday Telegraph - Telegraph"></a>
+		<div id="tmglFooterLargeItems">		
+			<div class="footercolumn">									
+				<ul class="menu1"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/?utm_source=TMG&utm_medium=footer_home&utm_campaign=footerhomelink">HOME</a></li>								
+
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/culture/film/">Film</a></li>
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/culture/film/filmreviews/">Film Reviews</a></li>
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/culture/film/film-news/">Film News</a></li>
+					</ul>
+					
+					<ul class="menu2"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/culture/books/">Books</a></li>								
+
+					</ul>
+					
+					<ul class="menu3"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/culture/books/bookreviews/">Book Reviews</a></li>								
+
+					<li><a  target="_parent" href="http://www.books.telegraph.co.uk">Book Shop</a></li>
+					</ul>
+					
+					</div> <div class="footercolumn">
+						<ul class="menu1"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/culture/music/">Music</a></li>								
+
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/culture/music/rockandpopreviews/">Music Reviews</a></li>
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/culture/music/classicalmusic/">Classical Music</a></li>
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/culture/culturevideo/musicvideo/">Music Video</a></li>
+					</ul>
+					
+					<ul class="menu2"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/culture/music/music-festivals/">Music Festivals</a></li>								
+
+					</ul>
+					
+					<ul class="menu3"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/culture/music/opera/">Opera</a></li>								
+
+					<li><a  target="_parent" href="http://tickets.telegraph.co.uk/">Tickets</a></li>
+					</ul>
+					
+					</div> <div class="footercolumn">
+						<ul class="menu1"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/culture/tvandradio/">TV and Radio</a></li>								
+
+					<li><a  target="_parent" href="http://tvguideuk.telegraph.co.uk">TV Guide</a></li>
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/culture/theatre/">Theatre</a></li>
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/culture/theatre/theatre-reviews/">Theatre Reviews</a></li>
+					</ul>
+					
+					<ul class="menu2"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/culture/art/">Art</a></li>								
+
+					</ul>
+					
+					<ul class="menu3"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/culture/theatre/dance/">Dance</a></li>								
+
+					<li><a  target="_parent" href="http://dating.telegraph.co.uk">Dating</a></li>
+					</ul>
+					
+					</div> <div class="footercolumn">
+						<ul class="menu1"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/culture/culturenews/">Culture News</a></li>								
+
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/culture/culturepicturegalleries/">Picture Galleries</a></li>
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/culture/culturevideo/">Culture Video</a></li>
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/culture/culturecritics/">Culture Critics</a></li>
+					</ul>
+					
+					<ul class="menu2"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/culture/photography/">Photography</a></li>								
+
+					</ul>
+					
+					<ul class="menu3"><li class="itemfocus"><a target="_parent" href="http://puzzles.telegraph.co.uk/">Crossword</a></li>								
+
+					<li><a  target="_parent" href="http://boxoffice.telegraph.co.uk/">Theatre Tickets</a></li>
+					</ul>
+					
+					</div> <div class="footercolumn">
+						<ul class="menu1"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/topics/about-us/">Contact Us</a></li>								
+
+					<li><a  target="_parent" href="/topics/about-us/3691972/Privacy-and-Cookie-Policy.html">Privacy and Cookies</a></li>
+					<li><a  target="_parent" href="http://telegraph.co.uk/advertising/">Advertising</a></li>
+					<li><a  target="_parent" href="http://fantasyfootball.telegraph.co.uk/">Fantasy Football</a></li>
+					</ul>
+					
+					<ul>
+					<li><a target="_parent" href="http://announcements.telegraph.co.uk/">Announcements</a></li>
+						<li><a target="_parent" href="http://3276.e-printphoto.co.uk/dailytelegraph/">Reader Prints</a></li>
+						<li><a target="_parent" href=""></a></li>
+						</ul>
+			</div>
+
+			<!-- RSSFeeds Menu-->
+			
+			<div id="footercolumn_last">
+				<ul class="imgBulletList">
+					<li class="footrss"><a target="_parent" href="http://www.telegraph.co.uk/topics/follow-us/">Follow Us</a></li>
+							<li class="footmobile"><a target="_parent" href="http://www.telegraph.co.uk/apps/">Apps</a></li>
+							<li class="footepaper"><a target="_parent" href="http://dailytelegraph.newspaperdirect.com/epaper/viewer.aspx ">Epaper</a></li>
+							<li class=""><a target="_parent" href="http://www.telegraph.co.uk/expat/">Expat</a></li>
+							</ul>
+			
+				<ul class="ullast">
+					<li><a target="_parent" href="http://www.telegraph.co.uk/promotions/">Promotions</a></li>
+						<li><a target="_parent" href="http://subscriber.telegraph.co.uk/loyalty/">Subscriber</a></li>
+						<li><a target="_parent" href="http://www.telegraph.co.uk/topics/syndication-services/">Syndication</a></li>
+						</ul>
+			</div>	
+			<div class="cl"></div>
+		</div> <!-- end of tmglFooterLargeItems div -->
+	
+<div id="footerinfo">
+			<p>&copy; Copyright of Telegraph Media Group Limited 2014</p>
+			<p><a target="_parent" href="http://www.telegraph.co.uk/termsandconditions">Terms and Conditions</a> </p>
+			<p><a target="_parent" href="/archive/2014-6-27.html">Today's News</a></p>
+			<p ><a target="_parent" href="http://www.telegraph.co.uk/archive/">Archive</a></p>
+					<p ><a target="_parent" href="http://www.telegraph.co.uk/topics/about-us/style-book/">Style Book</a></p>
+					<p class="last"><a target="_parent" href="/topics/weather/4142730/Weather-forecast.html">Weather Forecast</a></p>
+					<div class="cl"></div>			
+		</div>
+	</div> <!-- end of tmglFooterLargeNew div -->
+<script type="text/javascript">
+/* EPOCH time at the end of footer */
+                var footerEndTimer = Date.now();
+            </script></div>
+<script type="text/javascript" src="http://js.revsci.net/gateway/gw.js?csid=E06560"></script>
+<script type="text/javascript">
+DM_addToLoc("Site",escape("Telegraph"));
+
+DM_addToLoc("Level1",escape("Culture"));
+	
+DM_addToLoc("Level2",escape("Film"));
+	
+DM_addToLoc("Level3",escape("Film%20Reviews"));
+	
+DM_tag();
+</script>
+
+<script type="text/javascript" src="/template/ver1-0/js/jquery-ui-1.8.4.custom.min.js"></script>
+<script type="text/javascript" src="/template/ver1-0/js/jquery.tablesorter.js"></script>
+<script type="text/javascript" src="/template/ver1-0/js/jquery.ticker.js"></script>
+
+<script type="text/javascript" src="/template/ver1-0/js/common.js"></script>
+<script type="text/javascript" src="/template/ver1-0/js/viewabilityCode.js"></script>
+<script type="text/javascript" src="/template/ver1-0/js/tmglSlideShow.js"></script>
+<script type="text/javascript" src="/template/ver1-0/js/jquery.cycle.all.js"></script>
+<script type="text/javascript" src="/template/ver1-0/js/supersleight.plugin.js"></script>
+<script type="text/javascript" src="/template/ver1-0/js/tracker.js"></script>
+<link rel="stylesheet" type="text/css" href="/template/ver1-0/css/printArticle.css" media="print" />
+
+	<script type="text/javascript" src="/template/ver1-0/js/liveBloggingArticle.js"> </script>
+<script type="text/javascript">
+			(function() {
+				var links = $("a[href*='disqus_thread']");
+				var query = "";
+				var blogQuery = "";
+				var normal = new Array();
+				var normalCounts = new Array();
+				var blog = new Array();
+				var blogCounts = new Array();
+
+				for(var i = 0; i < links.length; i++) {
+					if (links[i].getAttribute('dsqid')) {
+						var dsqid = links[i].getAttribute('dsqid');
+						if (links[i].className == 'dsqblog') { blogQuery += 'dsqid' + i + '=' + dsqid + '&'; } else { query += 'dsqid' + i + '=' + dsqid + '&'; }
+					}
+				}
+				if (query.length != "" && blogQuery.length != "") {
+					$("a[href*='disqus_thread']") && $("a.dsqblog").each(function(i) {
+						blog[i] = $(this).attr("href");
+						$(this).attr("href","blog_link");
+					});
+					loadScript("http://telegraphuk.disqus.com/get_num_replies_from_dsqid.js?" + query, function() {
+						$("a[href*='disqus_thread']").not(".dsqblog").each(function(i) {
+							normal[i] = $(this).attr("href");
+							normalCounts[i] = $(this).html();
+							$(this).attr("href","normal_link");
+						});
+
+						$("a[href*='blog_link']").each(function(i) { $(this).attr("href",blog[i]); });
+
+						loadScript("http://telegraphblogs.disqus.com/get_num_replies_from_dsqid.js?" + blogQuery, function() {
+							$("a[href*='normal_link']").each(function(i) { $(this).attr("href",normal[i]); });
+						});
+					});
+				} else {
+					document.write('<script charset="utf-8" type="text/javascript" src="http://telegraphuk.disqus.com/get_num_replies_from_dsqid.js?' + query + '"></' + 'script>');
+				}
+			})();
+		</script>
+		<script type="text/javascript" src="/template/ver1-0/js/tmglMultitrackSelector1.js"></script>
+<script type="text/javascript" src="/template/ver1-0/js/popup.js"></script>
+
+<script language="Javascript" type="text/javascript" src="/template/ver1-0/js/poll.js"></script>
+<script type="text/javascript">
+		var _sf_async_config={uid:22437,domain:"telegraph.co.uk"};
+
+		
+			_sf_async_config.sections = "UK News, Culture, Tim Robey, Culture Reviews, Film, Film Reviews, Cannes Film Festival";
+		
+			_sf_async_config.authors = "Tim Robey";
+		
+
+		(function(){
+			function loadChartbeat() {
+			window._sf_endpt=(new Date()).getTime();
+			var e = document.createElement('script');
+			e.setAttribute('language', 'javascript');
+			e.setAttribute('type', 'text/javascript');
+			e.setAttribute('src',
+			(("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://") +
+			"static.chartbeat.com/js/chartbeat.js"); document.body.appendChild(e);
+		}
+		var oldonload = window.onload;
+		window.onload = (typeof window.onload != 'function') ?
+		loadChartbeat : function() { oldonload(); loadChartbeat(); }; })();
+	</script>
+<script type="text/javascript"> 
+			var skimlinks_script = document.createElement('script'); 
+			    skimlinks_script.type = 'text/javascript'; 
+			    skimlinks_script.async = 'true';
+			    skimlinks_script.src = 'http://s.skimresources.com/js/296X678.skimlinks.js';
+			var skimlinks_script_attach = document.getElementsByTagName('script')[0]; 
+			skimlinks_script_attach.parentNode.insertBefore(skimlinks_script, skimlinks_script_attach.nextSibling); 
+		</script>
+	<!-- START Nielsen Online SiteCensus V6.0 -->
+		<!-- COPYRIGHT 2010 Nielsen Online -->
+		<script type="text/javascript" src="//secure-uk.imrworldwide.com/v60.js">
+		</script>
+		<script type="text/javascript">
+			 var pvar = { cid: "uk-101665h", content: "0", server: "secure-uk" };
+			 var feat = { surveys_enabled: 1 };
+			 var trac = nol_t(pvar, feat);
+			 trac.record().post().do_sample();
+		</script>
+		<noscript>
+		 <div>
+			 
+		 </div>
+		</noscript>
+		<!-- END Nielsen Online SiteCensus V6.0 -->
+	<script type="text/javascript">
+		g_opt_ch = '{}';g_opt_cv = '{}';g_opt_b = true;g_opt_s = true;</script>
+<script type="text/javascript">
+		var s = document.createElement('script');
+		s.type='text/javascript';
+		s.src = "http://cdn.gigya.com/js/socialize.js?apikey=2_ASmwJuFXoCCY8YP8uB6mzZphj_UToZbQkeeM6bMOA8swtMk2P3Rwu2WSger_DOSt";
+		document.getElementsByTagName('head')[0].appendChild(s);
+
+		function onGigyaServiceReady(e) {
+			var s = document.createElement('script');
+			s.type='text/javascript';
+			s.src = "/template/ver1-0/js/shareTools.js";
+			document.getElementsByTagName('head')[0].appendChild(s);
+		}
+	</script>
+<script type="text/javascript">
+		document.write(tmgAdsBuildAdTag("ftr", "1x1", "adj", "", 2));
+		</script>
+	<script type="text/javascript" src='/template/ver1-0/js/aws-sdk-2.0.0-rc9.min.js' async="async"></script> 
+<script type="text/javascript" src='/template/ver1-0/js/hmac-sha256.js' async="async"></script>	
+<script type="text/javascript" src='/template/ver1-0/js/sha256.js' async="async"></script>	
+<script type="text/javascript" src='/template/ver1-0/js/viewability.js' async="async"></script>
+</body>
+</html>
+
+<!-- googleon: all -->
+
+

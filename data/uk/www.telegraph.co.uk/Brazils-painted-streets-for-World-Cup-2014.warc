@@ -1,0 +1,2720 @@
+WARC/1.0
+Content-Length: 121489
+Content-Type: application/http; msgtype=response
+Warc-Date: 2014-06-11T17:21:34Z
+Warc-Record-Id: urn:X-scrapeomat:1402507295112355252
+Warc-Target-Uri: http://www.telegraph.co.uk/travel/destinations/southamerica/brazil/10892158/Brazils-painted-streets-for-World-Cup-2014.html
+Warc-Type: response
+X-Scrapeomat-Srcurl: http://www.telegraph.co.uk/travel/destinations/southamerica/brazil/10892158/Brazils-painted-streets-for-World-Cup-2014.html
+
+HTTP/1.1 200 OK
+Content-Length: 121247
+Cache-Control: max-age=748
+Connection: keep-alive
+Content-Language: en-GB
+Content-Type: text/html;charset=UTF-8
+Date: Wed, 11 Jun 2014 17:21:34 GMT
+Etag: 10892158-1402506920160
+Server: Apache
+
+<!--[if IE ]>
+<!doctype html> 
+<![endif]-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+ 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/">
+<head>
+
+
+
+<script type="text/javascript">
+           /* EPOCH time at the start of the page */
+           
+           /*As IE8 doest support Date.now() functionality,using the diffrent one*/
+             if (!Date.now) {
+                    Date.now = function now() {
+                      return new Date().getTime();
+                   };
+              }
+           
+              var pageStartTime = Date.now();
+</script>
+
+<!--[if lte IE 8]>
+<meta name="pageVersion" content="section" />
+<meta name="autoRefreshTrigger" content="300" />
+
+<script>
+function getVideoContent(name) { 
+   var metas = document.getElementsByTagName('meta'); 
+
+   for (i=0; i<metas.length; i++) { 
+      if (metas[i].getAttribute("name") == name) { 
+         return metas[i].getAttribute("content"); 
+      } 
+   } 
+
+    return "";
+} 
+
+window.onload = new function() { 
+
+var ttt = getVideoContent('pageVersion');
+var sss = getVideoContent('autoRefreshTrigger');
+var triggerTime = "";
+if(sss != "" && ttt == 'section'){
+ triggerTime = parseInt(sss)*1000;    
+
+  
+   var pageURL = window.location.href;
+   if(pageURL.indexOf('#source=refresh')!=-1){
+      pageURL = window.location.href;
+   }else{      
+      pageURL = window.location.href+'#source=refresh';
+   } 
+       
+   setTimeout(function(){          
+          window.location.href =pageURL;          
+          window.location.reload(false); 
+       },triggerTime);	
+ 
+ }
+};
+
+</script>
+
+<![endif]-->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+
+
+<title>Brazil's painted streets for World Cup 2014 - Telegraph</title>
+
+
+
+<meta name="description" content="Fans unable to travel to Brazil can now take a virtual tour of street art 
+  painted to celebrate the World Cup, via Google Street View" />
+
+<meta name="keywords" content="Google maps, street view, street art, World Cup 2014, Brazil, Google street view, Brazil street art, Brazil,South America,Destinations,Travel" />
+
+<meta name="news_keywords" content="Google maps, street view, street art, World Cup 2014, Brazil, Google street view, Brazil street art"> 
+<meta name="tmgads.zone" content="travel.destinations.southamerica.brazil" />
+<meta name="tmgads.channel" content="travel" />
+<meta name="tmgads.section" content="travel-destinations-southamerica-brazil" />
+
+<meta name="tmgads.articleid" content="10892158" />
+<input type="hidden" value="article" id="pageType" name="pageType" />
+<input type="hidden" value="story" id="templateName" name="templateName" />
+<meta name="tmgads.pagetype" content="story" />
+<meta name="tmgads.level" content="5" />
+<meta name="tmgads.otherdata" content="" />
+
+
+
+<meta name="tmgads.geo" content="GB" />
+
+
+
+
+
+<meta name="DCSext.akamigeo" content="GB" />
+
+
+
+<meta name="section-id" content="862" />
+
+<meta name="last-modified" content="2014-06-11" />
+		<meta name="article-id" content="10892158" />
+		<meta name="title" content="Brazil's painted streets for World Cup 2014" />
+		<meta name="GSAMLC" content="travel/destinations/southamerica/brazil" />
+<meta name="GSAChannel" content="travel" />
+
+<meta name="GSAChannelName" content="Travel" />
+
+<meta name="GSACategory" content="destinations" />
+	<meta name="GSAGenre" content="southamerica" />
+	<meta name="GSASectionUniqueName" content="travel-destinations-south_america-brazil" />
+
+<meta name="GSAArticleType" content="Story" />
+	<meta name="DC.date.issued" content="2014-06-11" />
+<meta name="robots" content="noarchive,noodp" />
+	<meta property="fb:app_id" content="120118784736295" />
+<meta property="fb:admins" content="686953094,531239902,100002344351237" />
+
+<meta property="og:description" content="Fans unable to travel to Brazil can now take a virtual tour of street art   painted to celebrate the World Cup, via Google Street View" />
+<meta property="og:site_name" content="Telegraph.co.uk" />
+<meta property="og:title" content="Brazil's painted streets for World Cup 2014 - Telegraph" />
+<meta property="og:url" content="http://www.telegraph.co.uk/travel/destinations/southamerica/brazil/10892158/Brazils-painted-streets-for-World-Cup-2014.html" />
+
+<meta property="og:image" content="http://i.telegraph.co.uk/multimedia/archive/02938/brazil-ballers_2938489k.jpg" />
+<meta property="og:type" content="article" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@Telegraph" />
+
+<link rel="canonical" href="http://www.telegraph.co.uk/travel/destinations/southamerica/brazil/10892158/Brazils-painted-streets-for-World-Cup-2014.html"/>
+
+<!--  Line no 278 normal.jsp where 1st code change should be made -->
+
+
+<link rel="stylesheet" type="text/css" href="/template/ver1-0/css/screen.css" media="screen" />
+
+<link rel="stylesheet" type="text/css" href="/template/ver1-0/css/newscreen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/template/ver1-0/css/travel.css" media="screen" />
+	<!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="/template/ver1-0/css/ie6.css" media="screen" />
+<![endif]-->
+<!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="/template/ver1-0/css/ie7.css" media="screen" />
+<![endif]-->
+
+<link rel="alternate" type="application/rss+xml" title="RSS Feed for Brazil articles - Telegraph.co.uk" href="http://www.telegraph.co.uk/travel/destinations/southamerica/brazil/rss" />
+
+<script type="text/javascript" src="/template/ver1-0/js/jquery-1.4.2.min.js"></script>
+<script language="Javascript" type="text/javascript" src="/template/ver1-0/js/jquery.cookie.js"></script>
+
+<script src='//d3c3cq33003psk.cloudfront.net/opentag-35657-106653.js'></script>
+		<meta name="DCSext.MLC" content="/travel/destinations/southamerica/brazil" />
+	<meta name="DCSext.Genre" content="southamerica" />
+								<meta name="DCSext.Category" content="destinations"/>
+									<meta name="WT.cg_s" content="destinations"/>
+								<meta name="DCSext.Channel" content="travel" />
+					<meta name="WT.cg_n" content="travel" />
+						<meta name="DCSext.Content_Type" content="Story" />
+    <meta name="DCSext.Level" content="5" />
+	<meta name="DCSext.author" content="Natalie Paris" />
+			<meta name="DCSext.articleFirstPublished" content="2014-06-11 17:36" />
+	<meta name="DCSext.articleId" content="10892158" />
+
+	<meta name="DCSext.cmsSect" content="Home;Travel;South_America;Brazil;World_Cup;Natalie_Paris" />
+			
+	
+
+
+<meta name="DCSext.cf" content="0"/>
+		<meta name="DCSext.cn" content="0"/>
+		<meta name="DCSext.cd" content="0"/>
+	<script src="/template/ver1-0/js/webtrends/WTDcsVid.js" type="text/javascript"></script>
+<script src="/template/ver1-0/js/webtrends/LIVE/WTID.js" type="text/javascript"></script>
+
+<script src="/template/ver1-0/js/webtrends/travelTracking.js" type="text/javascript"></script>
+<script>
+window.webtrendsAsyncInit=function(){
+    var dcs=new Webtrends.dcs().init({
+        dcsid:"dcsshgbi400000gscd62rrg43_4o2o",
+        domain:"webtrends.telegraph.co.uk",
+        timezone:0,
+        adimpressions:true,
+        adsparam:"WT.ac",
+        offsite:false,
+        download:true,
+        downloadtypes:"xls,doc,pdf,txt,csv,zip,docx,xlsx,rar,gzip",
+        metanames:"DCSext.MLC, DCSext.source, DCSext.Category, DCSext.Genre, DCSext.Channel, DCSext.imageNo, DCSext.GalleryType, DCSext.Content_Type, DCSext.Level, DCSext.author, DCSext.articleFirstPublished, DCSext.articleId, DCSext.productProvider, DCSext.productName, DCSext.EA_Search_Type, DCSext.EA_Search_Engine, DCSext.EA_Search_Phrase, DCSext.oss, DCSext.ossType, DCSext.cf, DCSext.cn, DCSext.cd, DCSext.pd,DCSext.cmsSect",        
+        fpcdom:".telegraph.co.uk",
+        plugins:{
+            hm:{src:"/template/ver1-0/js/asyncwebtrends/webtrends.hm.js",hmurlparams:"frame,image"},
+            qbert: { src:"/template/ver1-0/js/asyncwebtrends/qbert-wtplugin.js" }
+        }
+        });
+    if ($.cookie("tmg_subs") != null){
+    	var ts = $.parseJSON($.cookie("tmg_subs"));
+        dcs.DCSext.location = ts.location;
+    	dcs.DCSext.trialDescription =ts.trialDescription;
+	    dcs.DCSext.subscriptionType = ts.subscriptionType;
+	    dcs.DCSext.flowType = ts.flowType;
+	    dcs.DCSext.productType = ts.productType;
+	    dcs.DCSext.serviceId = ts.serviceId;
+	    dcs.DCSext.servicePriceId = ts.servicePriceId;
+	
+	    dcs.DCSext.discountVoucher = ts.discountVoucher;
+	    dcs.DCSext.partnerName = ts.partnerName;
+	    dcs.DCSext.currentPromoName = ts.currentPromoName;
+	    dcs.DCSext.sourcePromoName = ts.sourcePromoName;
+	    dcs.DCSext.promoType = ts.promoType;
+	    dcs.DCSext.tCode = ts.tCode;
+	    dcs.DCSext.status = ts.status == true  && ts.acquisitionCompleted == true ? 'Active':'Inactive';
+
+   }
+   if( /Android|webOS|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) { dcs.DCSext.platform="tablet";}    
+   dcs.track();
+
+};
+(function(){
+    var s=document.createElement("script"); s.async=true; s.src="/template/ver1-0/js/asyncwebtrends/webtrends.js";
+    var s2=document.getElementsByTagName("script")[0]; s2.parentNode.insertBefore(s,s2);
+}());
+</script>
+
+<noscript>< img alt="dcsimg" id="dcsimg" width="1" height="1" src="//webtrends.telegraph.co.uk/dcsshgbi400000gscd62rrg43_4o2o/njs.gif?MLC=&amp;Channel=&amp;Genre=&amp;Category=&amp;Content_Type=&amp;Level=&amp;source=&amp;dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=10.2.10&amp;dcssip=www.telegraph.co.uk"/></noscript>
+
+<script type="text/javascript" src="http://s.telegraph.co.uk/maxymiser/production/js/mmcore.js"></script>
+<script type="text/javascript"> 
+//Events tracking for Google Analytics 
+function trackGoogle() { 
+try {var pageTracker = _gat._getTracker("UA-7226372-1");pageTracker._trackPageview();} catch(err) {} 
+} 
+
+//External links tracking through Google Analytics 
+function isLinkExternal(link) { 
+    var r = new RegExp('^https?://(?:www.)?' + location.host.replace(/^www./, '')); 
+        return !r.test(link); 
+} 
+$(document).ready(function() { 
+    $(document).bind('click', function(e) { 
+        var target = (window.event) ? e.srcElement : e.target; 
+        while (target) { 
+            if (target.href) break; 
+            target = target.parentNode; 
+        } 
+        if (!target || !isLinkExternal(target.href)) return true; 
+        var link = target.href; 
+        link = '/outgoing/' + link.replace(/:\/\//, '/'); 
+        _gaq.push(['_trackPageview', link]); 
+    }); 
+}); 
+
+  var _gaq = _gaq || []; 
+  _gaq.push(['_setAccount', 'UA-7226372-1']); 
+  _gaq.push(['_setDomainName', 'telegraph.co.uk']); 
+  _gaq.push(['_trackPageview']); 
+
+  (function() { 
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); 
+  })(); 
+
+</script>		
+<script type="text/javascript">
+  var gs_channels="default";
+  // Last-updated: 2014-06-11 18:15:20.238
+gs_channels="snow_and_bad_weather";
+
+</script>
+<script type="text/javascript">
+    // <![CDATA[
+  var qcSegs = ''; 
+  var qcResults = function(qc){ 
+    for (var i=0;i<=qc.segments.length-1;i++){ 
+      if(qc.segments[i].id != 'D' && qc.segments[i].id != 'T') qcSegs += ';qc='+qc.segments[i].id; 
+    } 
+  }
+    // ]]>
+</script> 
+<script type="text/javascript" src="http://pixel.quantserve.com/api/segments.json?a=p-gyXAHFFgnNQDj&callback=qcResults"></script>
+
+
+		
+			<script language="Javascript" type="text/javascript" src="/template/ver1-0/js/dfp.js"></script>
+		
+	
+<script src="http://s.telegraph.co.uk/toolbar/disqus_parameters_prod.js" type="text/javascript" ></script>
+
+<script src='http://player.ooyala.com/v3/7dfd98005dba40baacc82277f292e522?platform=html5-fallback'></script>
+<script src="/template/ver1-0/js/ooyala.js" type="text/javascript"></script>
+
+<script language="Javascript" type="text/javascript" src="/template/ver1-0/js/ajax.js"></script>
+
+<script language="Javascript" type="text/javascript" src="/template/ver1-0/js/commWidget.js"></script>
+
+
+<!-- Begin KRUX Digital Control Tag for The Telegraph -->
+<!-- End KRUX Digital Control Tag for The Telegraph -->
+
+
+		<!-- Begin comScore Tag -->
+<script>
+	var _comscore = _comscore || [];
+	_comscore.push({
+		c1 : "2",
+		c2 : "6035736"
+	});
+	(function() {
+		var s = document.createElement("script"), el = document
+				.getElementsByTagName("script")[0];
+		s.async = true;
+		s.src = (document.location.protocol == "https:" ? "https://sb"
+				: "http://b")
+				+ ".scorecardresearch.com/beacon.js";
+		el.parentNode.insertBefore(s, el);
+	})();
+</script>
+<noscript>
+	<img src="http://b.scorecardresearch.com/p?c1=2&c2=6035736&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<link rel="stylesheet" type="text/css" href="/template/ver1-0/css/majornews.css" media="screen" />
+</head>
+
+<body>
+	<script type="text/javascript">
+		var subsInfo = new Object();
+		subsInfo.channel =  $('meta[name="DCSext.Channel"]').attr("content");
+		if(subsInfo.channel==undefined){subsInfo.channel='';}
+		subsInfo.mlc = $('meta[name="DCSext.MLC"]').attr("content");
+		if(subsInfo.mlc==undefined){subsInfo.mlc='';}
+		subsInfo.category = $('meta[name="DCSext.Category"]').attr("content");
+		if(subsInfo.category==undefined){subsInfo.category='';}
+		subsInfo.level = $('meta[name="DCSext.Level"]').attr("content");
+		if(subsInfo.level==undefined){subsInfo.level='';}
+		subsInfo.author = $('meta[name="DCSext.author"]').attr("content");
+		if(subsInfo.author==undefined){subsInfo.author='';}
+		subsInfo.content_type = $('meta[name="DCSext.Content_Type"]').attr("content");
+		if(subsInfo.content_type==undefined){subsInfo.content_type='';}
+		subsInfo.articleId = $('meta[name="DCSext.articleId"]').attr("content");
+		if(subsInfo.articleId==undefined){subsInfo.articleId='';}
+		var subsJson = JSON.stringify(subsInfo);
+		$.cookie("tmg_subs_referer",subsJson, { path: '/', domain: 'telegraph.co.uk'});
+		var inviteWTUrlSuffix='?channel='+ subsInfo.channel+'&mlc='+subsInfo.mlc+'&category='+ subsInfo.category+'&level='+subsInfo.level+'&author='+subsInfo.author+'&content_type='+subsInfo.content_type+'&articleId='+subsInfo.articleId;
+		
+		
+				
+					var inviteUrl = "/subscriptions/invitation/";
+				
+			
+	
+		
+				
+				
+				
+			
+		var plink = "http://www.telegraph.co.uk/template/ver1-0/templates/fragments/common/toolBar-js.jsp";
+	</script>
+	<script src="" type="text/javascript" ></script>
+	<script src="http://s.telegraph.co.uk/toolbar/js/tmgMenu.js" type="text/javascript" ></script>
+<!--[if lte IE 6]>
+<div id="ieLteSix">
+	<div class="ieLteSixBanner">
+		<table cellspacing="0" cellpadding="0">
+			<tbody>
+				<tr>
+					<td class="ieLteSixLeft">
+						<p class="ieFirstP">We no longer check to see whether Telegraph.co.uk displays properly in Internet Explorer version 6 or earlier.</p>
+						<p class="ieSecondtP">To see our content at its best we recommend <a href="/browser-support/">upgrading if you wish to continue using IE or using another browser such as Firefox, Safari or Google Chrome.</a></p>
+					</td>
+					<td valign="top" class="ieLteSixRight">
+						<a href="#" id="ieX"><img width="20" height="20" border="0" alt="Hide this banner" src="/template/ver1-0/i/ieX.gif"></a>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+</div>
+<script language="Javascript" type="text/javascript" src="/template/ver1-0/js/ieSix.js"></script>
+<![endif]-->
+
+<!-- googleoff: all -->
+<a name="top"></a>
+
+<div class="hidden">
+	<p>Accessibility links</p>
+	<ul>
+	<li><a href="#article">Skip to article</a></li>
+		<li><a href="#mainsections">Skip to navigation</a></li>
+	</ul>
+</div><div id="tmglSite">
+	<div class="printLogo"><img src="/template/ver1-0/i/telegraph_print_190.gif"/></div>
+
+	<div id="tmglHeader" class="">
+	<div id="tmglBannerAd">
+    
+              <script type="text/javascript">
+                  /* EPOCH time at the start of banner Ad */
+                var bannerTimerStart = Date.now();
+              
+            </script>
+		<div class="access">Advertisement</div>
+<div class="adbanner" align="center">
+	<div id="banner" class="InSkinHide">
+		<script type="text/javascript">
+		document.write(tmgAdsBuildAdTag("ban", "940x250,728x90,468x60", "adj", "", 2));
+		</script>
+	</div>
+</div>
+
+
+
+
+
+
+</div>
+	<div id="tmglBrandLarge">
+			<a href="http://www.telegraph.co.uk/travel/">
+					<div id="brand">Telegraph.co.uk</div></a>
+			<div id="topBarRightContainer">
+				<div id="searchBar">
+					<div id="searchBlock">
+  <form name="tg_search" id="tg_search" method="get" action="/search/">
+    <input type="text" class="searchBox google" name="queryText" value="" size="19" tabindex="1"  />
+    <input type="submit" class="formSubmit" tabindex="2" id="go" name="Search" value="" alt="Search" />
+  </form>
+  <div class="cl"></div>
+</div></div>
+				<div id="tmgTopBar">
+				<div id="tmglTopRight" class="tmgTopBarDate">
+					<div id="tmglLasUpdatedDateFeed">
+	<p>
+		Wednesday 11 June 2014</p>
+</div>
+
+</div>
+			</div></div>
+			
+			<div class="cl"></div>
+		</div>
+		<div class="cl"></div>
+	</div>
+<script type="text/javaScript">
+/* EPOCH time at the  end of Header */
+var tmgHeaderTimerEnd=Date.now();
+</script>
+<!-- googleon: all -->
+			<!-- googleoff: all -->
+	<div id="tmglMenu" class="travelNav">
+	<div id="travelPrimaryNav" class="activeNav">
+		<div class="access"><a name="mainsections"></a></div>
+		<ul class="mainNav">
+			<li class="home"><a class="selected" href="http://www.telegraph.co.uk/travel/">Travel</a></li>
+							<li class="first "><a href="http://www.telegraph.co.uk/travel/hotels/">Hotels</a></li>
+								<li class="selected "><a href="http://www.telegraph.co.uk/travel/destinations/">Destinations</a></li>
+								<li class=""><a href="http://www.telegraph.co.uk/travel/cruises/">Cruise</a></li>
+								<li class=""><a href="http://www.telegraph.co.uk/travel/destinations/northamerica/usa/">USA</a></li>
+								<li class=""><a href="http://www.telegraph.co.uk/travel/familyholidays/">Family</a></li>
+								<li class=""><a href="http://www.telegraph.co.uk/travel/journeysbyrail/">Rail</a></li>
+								<li class=""><a href="http://www.telegraph.co.uk/travel/snowandski/">Ski</a></li>
+								<li class=""><a href="http://www.telegraph.co.uk/travel/ultratravel/">Luxury</a></li>
+								<li class=""><a href="http://www.telegraph.co.uk/travel/deal/">Deals</a></li></ul>
+	</div>
+	<script type="text/javascript">
+			$('#travelPrimaryNav ul li.home a').html('&nbsp;Home');
+	</script>
+	<div class="cl"></div>
+</div>
+
+<div id="travelSecondaryNav">
+		<ul class="mainNav">
+			<li class="first "><a href="http://www.telegraph.co.uk/travel/destinations/europe/uk/">UK</a></li>
+											<li class=""><a href="http://www.telegraph.co.uk/travel/destinations/europe/">Europe</a></li>
+											<li class=""><a href="http://www.telegraph.co.uk/travel/destinations/northamerica/">North America</a></li>
+											<li class=""><a href="http://www.telegraph.co.uk/travel/destinations/centralamericaandcaribbean/">Central America/Caribbean</a></li>
+											<li class="selected "><a href="http://www.telegraph.co.uk/travel/destinations/southamerica/">S America</a></li>
+											<li class=""><a href="http://www.telegraph.co.uk/travel/destinations/africaandindianocean/">Africa/Indian Ocean</a></li>
+											<li class=""><a href="http://www.telegraph.co.uk/travel/destinations/asia/">Asia</a></li>
+											<li class=""><a href="http://www.telegraph.co.uk/travel/destinations/australiaandpacific/">Australia/Pacific</a></li>
+											<li class=""><a href="http://www.telegraph.co.uk/travel/destinations/middleeast/">Middle East</a></li>
+											</ul>
+		<div class="cl"></div>
+	</div>
+<div id="tmglCrumbtrail">
+		<ol>
+			<li class="first"><a href="/">Home</a><span>&raquo;</span></li>
+			<li><a href="http://www.telegraph.co.uk/travel/">Travel</a><span>&raquo;</span></li>
+					<li><a href="http://www.telegraph.co.uk/travel/destinations/">Destinations</a><span>&raquo;</span></li>
+					<li><a href="http://www.telegraph.co.uk/travel/destinations/southamerica/">South America</a><span>&raquo;</span></li>
+					<li class="styleFive"><a href="http://www.telegraph.co.uk/travel/destinations/southamerica/brazil/">Brazil</a></li></ol>
+		<div class="cl"></div>
+	</div>
+<!-- googleon: all -->
+<div id="tmglBody" itemscope itemtype="http://schema.org/Article" >
+	<div class="access"><a name="article"></a></div>
+
+	<div class="twoThirdsThird2 gutterUnder">
+		<div class="twoThirds gutter" >
+			<script type="text/javascript" src="/template/ver1-0/js/jquery-ui.js"></script>
+<script type="text/javascript" src="/template/ver1-0/js/jquery.multiselect.js"></script>
+
+<div class="storyHead">
+
+<!-- google_ad_section_start(name=s1, weight=1.0) --><h1 itemprop="headline name">Brazil's painted streets for World Cup 2014</h1>
+			<h2  itemprop="alternativeHeadline description">
+Fans unable to travel to Brazil can now take a virtual tour of street art 
+  painted to celebrate the World Cup, via Google Street View
+
+</h2>						
+	<!-- Opta Widget start -->
+	<!-- Opta Widget end -->
+	
+	<!-- google_ad_section_end(name=s1) --><div class="artIntro">
+					<div id="storyEmbSlide">
+			<div class="slideshow ssIntro">
+				<div class="nextPrevLayer">
+							<div class="ssImg">
+									<img src="http://i.telegraph.co.uk/multimedia/archive/02938/brazil-ballers_2938489b.jpg" width="620" height="387" alt="Brazil's painted streets for World Cup 2014" itemprop="image"/>
+									<div class="artImageExtras" >
+									
+										<div class="ingCaptionCredit">
+											<span class="caption">Brazil’s street art occupies an interesting space somewhere between the underground and the mainstream</span>&nbsp;</div>						
+									</div>
+								</div>
+							</div>			
+					</div>
+		</div>
+		
+	</div>	
+			</div>
+<div class="oneHalf gutter">
+						<div class="story">
+		<div class="cl"> </div>
+		<!-- remove the whitespace added by escenic before end of </a> tag -->
+				<div class="bylineComments">
+		<div >
+			
+			<div class="bylineImg">
+						<a href="http://www.telegraph.co.uk/journalists/natalie-paris/" ><img src="http://i.telegraph.co.uk/multimedia/archive/02288/ME-USE_2288916j.jpg" alt="" border="0" width="60" height="60" ></a>
+					</div>
+				<p class="bylineBody">
+							By <a rel="author" title="Natalie Paris" href="http://www.telegraph.co.uk/journalists/natalie-paris/" >
+											Natalie Paris</a></p>
+					
+					</div>
+		<p class="publishedDate">5:36PM BST 11 Jun 2014</p>
+		<p class="comments">
+				<img src="/template/ver1-0/i/share/comments.gif" alt="Comments" /><a href="http://www.telegraph.co.uk/travel/destinations/southamerica/brazil/10892158/Brazils-painted-streets-for-World-Cup-2014.html#disqus_thread" dsqid="10892158">Comments</a>
+			</p>
+		<div class="cl"> </div>
+	</div>
+	<div id="mainBodyArea" itemprop="articleBody">
+
+	<div class="firstPar"><p>
+Google's camera vans were sent on a special World Cup project to preserve on 
+  film street art painted to welcome the World Cup. 
+</p></div><div class="secondPar">
+<p>
+Brazil's World Cup art is part of a wider project launched by Google to 
+  capture street art across the world, using more than 5,000 sweeping images. 
+</p></div><div class="thirdPar">
+<p>
+As most street art is transient, the World Cup murals will not be around for 
+  ever, but in this way can be viewed long after fans have returned home. 
+</p></div><div class="fourthPar">
+<p>
+Those not able to get to Brazil can click on the link below and be transported 
+  to brightly-painted streets in Rio de Janeiro, Sao Paulo, Belo Horizonte and 
+  other host cities. 
+</p></div><div class="fifthPar">
+<p>
+<strong><a href="https://www.google.com/maps/views/streetview/brazils-painted-streets?gl=br&hl=en-gb" target="_blank">Tour 
+  the streets of Brazil via Google Street View</a></strong>
+</p></div><div id="tmg-related-links" class="related_links_inline">
+			<div class="headerOne styleFive"><h2><span>Related Articles</span></h2></div>
+	
+			<ul>
+	
+				<li class="photo">
+													<p>
+                    <a  href="/fashion/10869956/Brazils-best-models.html">Brazil's best models</a>
+		</p>
+
+	<span class="relContDate">06 Jun 2014</span>
+													</li>
+												<li class="bullet">
+													<p>
+                    <a  href="/fashion/10878722/My-Brazil-native-fashion-designers-share-their-best-places-to-shop-drink-and-do.html">My Brazil: native fashion designers share their best places to shop, drink and do</a>
+		</p>
+
+	<span class="relContDate">06 Jun 2014</span>
+													</li>
+												<li class="bullet">
+													<p>
+                    <a  href="/travel/destinations/southamerica/brazil/10878745/Rio-selfie-an-accident-says-Briton.html">Rio selfie an 'accident', says Briton</a>
+		</p>
+
+	<span class="relContDate">05 Jun 2014</span>
+													</li>
+												<li class="bullet">
+													<p>
+                    <a  href="/travel/destinations/southamerica/brazil/10869341/The-ultimate-travel-selfie-Christ-the-Redeemer-photo-captured-by-Briton.html">The ultimate World Cup selfie?</a>
+		</p>
+
+	<span class="relContDate">02 Jun 2014</span>
+													</li>
+												<li class="photo">
+													<p>
+                    <a  href="/travel/destinations/southamerica/brazil/10870009/Brazils-10-best-beaches.html">Brazil's 10 best beaches</a>
+		</p>
+
+	<span class="relContDate">02 Jun 2014</span>
+													</li>
+												<li class="bullet">
+													<p>
+                    <a  href="/travel/destinations/southamerica/brazil/10836279/Brazil-World-Cup-2014-25-travel-highlights.html">Brazil's great travel experiences</a>
+		</p>
+
+	<span class="relContDate">16 May 2014</span>
+													</li>
+												</ul>
+		</div>
+	<div class="body">
+<p>
+"Brazil&rsquo;s street art occupies an interesting space somewhere between the 
+  underground and the mainstream," said Doug Gray, our Rio travel expert. 
+</p>
+<p>
+<image refid="2938492" version="c" width="460" height="287" caption="Brazil's painted streets for World Cup 2014" declared-caption="" src="http://i.telegraph.co.uk/multimedia/archive/02938/brazil-ticker_2938492c.jpg" photographer="" name="brazil-ticker" alttext="Brazil's painted streets for World Cup 2014"></image></p>
+<p>
+"It is strictly speaking illegal but artists are rarely prevented from 
+  painting in public spaces, and commercial tie-ins are becoming increasingly 
+  commonplace. 
+</p>
+<p>
+"You only have to look at the instantly recognisable work of S&atilde;o Paulo 
+  brothers Os Gemeos adorning the Brazilian team&rsquo;s World Cup aeroplane or 
+  Rio-based Bruno Big&rsquo;s design of the canary on the team shirt for the 
+  evidence," he said. 
+</p>
+<p>
+<sup><image refid="2938642" version="c" width="460" height="287" caption="Brazil's painted streets for World Cup 2014" declared-caption="" src="http://i.telegraph.co.uk/multimedia/archive/02938/brazil-plane_2938642c.jpg" photographer="" name="brazil-plane" alttext="Brazil's painted streets for World Cup 2014"></image>
+junior lago/UOL</sup>
+</p>
+<p>
+"Rarely politicsed, in Rio the bright, childlike colours and designs of 
+  Toz add to the city&rsquo;s vibrance, and can be seen in all their glory on the 
+  north side of the Lagoa Rodrigo de Freitas and along the wall of the Jockey 
+  Club that runs along Rua Jardim Bot&acirc;nico." 
+</p>
+<p>
+<strong><a href="https://itunes.apple.com/us/app/travel-guides-by-telegraph/id793779955?mt=8">Travel 
+  Guides app</a></strong><br>
+<a href="https://itunes.apple.com/us/app/travel-guides-by-telegraph/id793779955?mt=8" target="_blank">Download 
+  the free Telegraph Travel app</a>, featuring expert guides to destinations 
+  including Paris, Rome, New York, Venice and Amsterdam 
+</p>
+<p>
+<strong><a href="https://twitter.com/TelegraphTravel" target="_blank">Follow 
+  Telegraph Travel on Twitter</a><br>
+<a href="https://www.facebook.com/Telegraphtravel" target="_blank">Follow 
+  Telegraph Travel on Facebook</a><br>
+<a href="http://www.pinterest.com/telegraphmedia/" target="_blank">Follow 
+  Telegraph Travel on Pinterest</a><br>
+<a href="https://foursquare.com/telegraph" target="_blank">Follow Telegraph 
+  Travel on FourSquare </a></strong>
+</p>
+</div><div class="cl"></div>
+</div></div></div>
+
+					<div class="oneSixth">
+							<!-- googleoff: all -->
+	<div id="shareSideContainer" class="loading">
+		<div class="print invisible"><a href="javascript:print()" alt="Print" title="Print">&nbsp;</a></div>
+		<div id="shareSide" class="storyFunc nobord"></div>
+		<div class="cl"></div>
+	</div>
+<div class="storyfct">
+			<div id="storyMoreOnFucntion">
+		<div class="secLinks">
+
+			<div class="section">
+				<div class="name">
+					<h2><a href="http://www.telegraph.co.uk/travel/destinations/southamerica/brazil/">Brazil</a></h2>
+				</div>
+				
+				<div class="cl"></div>
+			</div>
+
+			<ul>
+					<li class="first">
+									<h3><a href="http://www.telegraph.co.uk/travel/">Travel &#187;</a></h3>
+								</li>
+								<li>
+									<h3><a href="http://www.telegraph.co.uk/travel/destinations/southamerica/">South America &#187;</a></h3>
+								</li>
+								<li>
+									<h3><a href="http://www.telegraph.co.uk/sport/football/world-cup/">World Cup &#187;</a></h3>
+								</li>
+								<li class="last">
+									<h3><a href="http://www.telegraph.co.uk/journalists/natalie-paris/">Natalie Paris &#187;</a></h3>
+								</li>
+								</ul>
+				<div class="cl"></div>
+		</div>
+	</div>
+</div>
+	<div class="related_links">
+		<div id="artComRelLinks" class="summaryMedium gutterUnder">
+		<div class="headerOne styleTen"><p>Related Partners</p></div>
+		<ul>
+		<li>
+			<div class="comLink">
+				<!-- 9865367 -->
+				<p class="comLinkText"><a href="http://www.hand-picked.telegraph.co.uk/?utm_source=tmg&utm_medium=puff_relpartners&utm_campaign=handpicked" rel="nofollow">Telegraph Travel Hand-picked: Exclusive holiday offers</a></p>
+			</div>
+		</li>
+	</ul></div>
+</div>
+
+	<div class="summaryMedium secPuffs">
+			<div class="headerOne styleFive"><p>In Brazil</p></div>
+			<div class="summary imageCentreHeadline">
+			<div class="summarySmall">
+				<!-- imagePosition: centre, columnContext: oneSixth -->
+<div class="piccentre containerdiv  ">
+		<a  href="/news/picturegalleries/worldnews/10675002/Rio-de-Janeiro-Carnival-in-pictures-Exotic-dancers-parade-through-Sambadrome.html"><img src="http://i.telegraph.co.uk/multimedia/archive/02841/rio-carnival--danc_2841261g.jpg" alt="Carnival parade at the Sambadrome in Rio de Janeiro, Brazil" border="0" width="140"  height="87" />
+									<span class="cornerimagephotocentre">&nbsp;</span></a>
+		</div>
+	
+<h3>
+                    <a  href="/news/picturegalleries/worldnews/10675002/Rio-de-Janeiro-Carnival-in-pictures-Exotic-dancers-parade-through-Sambadrome.html">Carnival time in Rio</a>
+		</h3>
+
+	</div>
+		</div>
+	<div class="summary imageCentreHeadline">
+			<div class="summarySmall">
+				<!-- imagePosition: centre, columnContext: oneSixth -->
+<div class="piccentre containerdiv  ">
+		<a  href="http://www.telegraph.co.uk/travel/destination/brazil/102278/Brazil-a-beginners-guide.html"><img src="http://i.telegraph.co.uk/multimedia/archive/02521/ipanema_2521135g.jpg" alt="Beginner's guide to Brazil" border="0" width="140"  height="87" />
+									<span class="cornerimagecentre">&nbsp;</span></a>
+						</div>
+	
+<h3>
+			<a  href="http://www.telegraph.co.uk/travel/destination/brazil/102278/Brazil-a-beginners-guide.html">An essential guide to Brazil</a>
+						</h3>
+	</div>
+		</div>
+	<div class="summary imageCentreHeadline">
+			<div class="summarySmall">
+				<!-- imagePosition: centre, columnContext: oneSixth -->
+<div class="piccentre containerdiv  ">
+		<a  href="/travel/picturegalleries/9865111/Rio-de-Janeiro-Carnival-2013-the-second-night-of-parades-in-the-Sambadrome.html"><img src="http://i.telegraph.co.uk/multimedia/archive/02478/vila-isabel-flower_2478428g.jpg" alt="A dancer from Rio de Janeiro's samba school Vila Isabel performs in the Sambadrome " border="0" width="140"  height="87" />
+									<span class="cornerimagephotocentre">&nbsp;</span></a>
+		</div>
+	
+<h3>
+                    <a  href="/travel/picturegalleries/9865111/Rio-de-Janeiro-Carnival-2013-the-second-night-of-parades-in-the-Sambadrome.html">Rio Carnival second night</a>
+		</h3>
+
+	</div>
+		</div>
+	<div class="summary imageCentreHeadline">
+			<div class="summarySmall">
+				<!-- imagePosition: centre, columnContext: oneSixth -->
+<div class="piccentre containerdiv  ">
+		<a  href="/travel/picturegalleries/9862582/Rio-de-Janeiro-Carnival-2013-the-first-night-of-parades-in-the-Sambadrome.html"><img src="http://i.telegraph.co.uk/multimedia/archive/02476/portela-rio-head-d_2476926g.jpg" alt="A member of Portela samba school performs during the first night of Carnival parades at the Sambadrome in Rio de Janeiro" border="0" width="140"  height="87" />
+									<span class="cornerimagephotocentre">&nbsp;</span></a>
+		</div>
+	
+<h3>
+                    <a  href="/travel/picturegalleries/9862582/Rio-de-Janeiro-Carnival-2013-the-first-night-of-parades-in-the-Sambadrome.html">Rio Carnival first night</a>
+		</h3>
+
+	</div>
+		</div>
+	<div class="summary imageCentreHeadline">
+			<div class="summarySmall">
+				<!-- imagePosition: centre, columnContext: oneSixth -->
+<div class="piccentre containerdiv  ">
+		<a  href="/news/picturegalleries/worldnews/9506005/Brazils-Yawalapiti-tribe-take-part-in-a-ritual-to-honour-the-dead.html"><img src="http://i.telegraph.co.uk/multimedia/archive/02322/brazil-summary_2322657g.jpg" alt="Brazil's Yawalapiti tribe take part in a ritual to honour the dead" border="0" width="140"  height="87" />
+									<span class="cornerimagephotocentre">&nbsp;</span></a>
+		</div>
+	
+<h3>
+                    <a  href="/news/picturegalleries/worldnews/9506005/Brazils-Yawalapiti-tribe-take-part-in-a-ritual-to-honour-the-dead.html">Celebrating life and death</a>
+		</h3>
+
+	</div>
+		</div>
+	</div>
+	<!-- googleon: all --></div>
+					<div class="cl"></div>
+
+			<div class="storyFt">
+				<div class="print hidden"><a href="javascript:print()" title="Print">&nbsp;</a></div>
+			<div id="shareBottom" class="storyFunc"></div>
+			<div class="cl"></div>
+		<div id="outbrain-links">
+						<div class="OUTBRAIN" data-src="http://www.telegraph.co.uk/travel/destinations/southamerica/brazil/10892158/Brazils-painted-streets-for-World-Cup-2014.html" data-widget-id="AR_1" data-ob-template="telegraph"></div>
+					</div>
+				<div id="outbrain-links">
+						<div class="OUTBRAIN" data-src="http://www.telegraph.co.uk/travel/destinations/southamerica/brazil/10892158/Brazils-painted-streets-for-World-Cup-2014.html" data-widget-id="AR_4" data-ob-template="telegraph"></div>											
+					</div>				
+				
+	  	
+			<div class="summaryMedium artCommercial">
+				</div>
+		
+	
+
+<!-- googleoff: all -->
+
+	<input type="hidden" name="numofAds" id="numofAds" value="3">
+
+<div class="googleads ">
+		<div class="access">Advertisement</div>
+		
+		<script type="text/javascript">
+		<!--
+			google_ad_client = 'ca-telegraph_uk_300x250';
+			google_ad_channel = 'travel';
+			google_max_num_ads = '3';
+			google_ad_output="js";
+			google_ad_type="text";
+			google_language="en";
+			google_encoding="utf8";
+			google_safe="high";
+			
+			
+			
+                google_ad_section="s1";
+            						
+		// -->
+		</script>
+		
+		<script type="text/javascript" src="/template/ver1-0/js/googleAds.js"></script>
+		
+	<div id="google-ads-container"></div>
+		<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+		<noscript>
+			<img height="1" width="1" border="0" src="http://pagead2.googlesyndication.com/pagead/imp.gif?client=ca-telegraph_uk_420x200&amp;event=noscript" alt=""/>
+		</noscript>
+	</div>
+
+<!-- googleon: all -->
+</div>
+
+			<div class="twoThirds btop">
+				<!--comments=disqus<br>
+disqusComments=active<br>
+userCommentsState=sectionProperties<br>
+showComments=true<br>
+article.articleTypeName=tmglstory<br>-->
+
+		
+<a class="moderate" href="http://my.telegraph.co.uk/aboutus/mytelegraph/12/moderation-faqs/" target="_new">How we moderate</a>
+	
+	<div class="gutterUnder fclear">
+	<div class="hide" id="disqusAcc">telegraphuk</div>
+		<div id="disqus_thread"></div>
+		<script type="text/javascript">
+		var disqus_title = "Brazil's painted streets for World Cup 2014";
+		var disqus_identifier = "10892158";
+		var disqus_developer = 1;
+		</script>
+		<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript=telegraphuk">comments powered by Disqus.</a></noscript>
+		<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+	</div> 		
+</div>
+			<div class="cl"></div>
+		</div>
+
+		<div class="oneThird">
+			<div class="InSkinHide">
+	<script type="text/javascript">
+		document.write(tmgAdsBuildAdTag("pp", "1x1", "adj", "", 2));
+		</script>
+	</div>
+
+
+
+
+
+<div class="summaryMedium">
+		</div>
+	<div class="summaryPadding"></div>
+<div class="gutterUnder">
+		<link rel=stylesheet href="http://www.telegraph.co.uk/skins/travel/css/travelnowHotelSearch.css" type="text/css">
+
+<div class="searchWidget">
+	<div class="pictureContainer1">
+		<img src="/template/ver1-0/i/travel/call_widget_homepage.png"
+			alt="Why book with TTravel" title="Why book with TTravel" />
+	</div>
+	<div class="tabbingGroup telegraphTabbingGroup travelRightHandTabs">
+		<!--10892158-->
+		<!--Brazil's painted streets for World Cup 2014-->
+		<!--862-->
+		<!--Brazil-->
+		<div id="tabs-1" class="defaultTab" style="background-color:#ffc600;background-image: none;border:0px;padding-right:2px">
+
+			<ul class="tabs">
+			  	<span id="travelFindTabs">Book</span>
+			  	<li id="tabs-1-1" class="first" >
+			        <a href="#pane-tabs-1-1" class="tabMenuItem"><span style="font-size: 12px;">Hotels</span></a>
+			    </li>
+			    <li id="tabs-1-2" class="">
+			        <a href="#pane-tabs-1-2" class="tabMenuItem"><span style="font-size: 12px;">Cruises</span></a>
+			    </li>
+			    <li id="tabs-1-3" class="">
+			        <a href="#pane-tabs-1-3" class="tabMenuItem"><span style="font-size: 12px;">Cottages</span></a>
+			    </li>
+		    </ul>
+					    
+			    <div class="tabPane " id="pane-tabs-1-1">
+			        <div class="search-widget search-widget-box tabbedContentExistsMarker">
+				        <div class="search-widget-inner">
+				            <div class="destination-block">
+				                <label for="destination">Where (hotel, city, address, landmark or map)</label>
+				                <input type="text" class="textbox hotelAutoComplete" id="destination"/>
+				                <input type="hidden" id="targetId"/>
+				                <div style="display:none;" id="destinationContainer"><!--  --></div>
+				            </div>
+				            <div class="check-in-block">
+				                <label for="check-in">Check in:</label>
+				                <span class="calendar-icon" id="checkinIcon">&nbsp;</span>
+				                <input type="text" class="textbox" id="check-in"/>
+				                <div id="check-inDialogContainer" class="yui-skin-sam">
+				                    <!-- -->
+				                </div>
+				            </div>
+				            <div class="check-out-block">
+				                <label for="check-out">Check out:</label>
+				                <span class="calendar-icon" id="checkoutIcon">&nbsp;</span>
+				                <input type="text" class="textbox" id="check-out"/>
+				                <div id="check-outDialogContainer" class="yui-skin-sam">
+				                    <!-- -->
+				                </div>
+				
+				            </div>
+				            <div class="rooms-block">
+				                <label for="rooms">Rooms:</label>
+				                <select id="rooms">
+				                    <option value="1" selected>1</option>
+				                        <option value="2">2</option>
+				                        <option value="3">3</option>
+				                        <option value="4">4</option>
+				                        <option value="5">5</option>
+				                        <option value="6">6</option>
+				                        <option value="7">7</option>
+				                        <option value="8">8</option>
+				                    <option value="maxcount">9+</option>
+				
+				                </select>
+				            </div>
+				            <div class="adults-block">
+				                <label for="adults" id="adults_label">Guests:</label>
+				                <select id="adults">
+				                        <option value="1">1</option>
+				                        <option value="2" selected="selected">2</option>
+				                        <option value="3">3</option>
+				                        <option value="4">4</option>
+				                </select>
+				            </div>
+				            <div class="button-block">
+				                <button type="button" id="search-btn">Search</button>
+				            </div>
+				        </div>
+				    </div>
+			    <input type="hidden" id="lang" value="en" />
+			    <input type="hidden" id="currency" value="GBP" />
+	
+				<!-- Loads the YUI Loader.  -->
+				
+				<script src="http://www.telegraph.co.uk/resources/yui/build/yuiloader/yuiloader-min.js"><!-- --></script>
+				
+				<!-- Loads the calendar locale. -->
+				<script src="http://www.telegraph.co.uk/resources/js/travel/locale_en.js"><!-- --></script>
+				<script src="/template/ver1-0/js/hotelSearch_E4.js"></script>
+				<script src="/template/ver1-0/js/hotelDefaultView_E4.js"></script>
+				<script type="text/javascript">
+				/*TODO:: Fix this issue properly 
+				DIRTY FIX for using two Expedia Hotel Search YUI widgets on the same page. */
+				//Load YUI and start widget.
+				if (typeof YAHOO == "undefined" || typeof YAHOO.widget == "undefined" || YAHOO.widget.Calendar == "undefined"
+				        || typeof YAHOO.widget.Dialog == "undefined" || typeof YAHOO.util.Date == "undefined")
+				    searchWidgetYahooUIloader.insert();
+				else
+				    SearchWidget.init(YAHOO);
+				
+				</script>
+			</div>
+        
+        	<div class="tabPane ui-tabs-hide" id="pane-tabs-1-2">		
+				<div class="widget cruiseSearch rightHand tabbedContentExistsMarker">
+					<iframe width="298px" height="360px" marginwidth="0" scrolling="no" src="http://cruisebookings.telegraph.co.uk/tmg_snippets/search-panel.php" frameborder="0" marginheight="0" ></iframe>
+				</div>
+			</div>
+			
+			<div class="tabPane ui-tabs-hide" id="pane-tabs-1-3">
+				<div class="cottageBox tabbedContentExistsMarker" >
+				<!-- <div class="cottageBoxHeader">
+					<span>SEARCH TELEGRAPH COTTAGES</span>
+				</div> -->
+					<div class="cottageBoxBody">
+						<div class="cottageBoxSearchDetailsError">
+							<span> * fields are required.</span>
+						</div>
+			    	<div class="thg-quicksearch">
+			       		<ol>
+			                <input type="hidden" name="thg-server" id="thg-server" value="LIVE" />
+			                <input type="hidden" name="thg-partnercode" id="thg-partnercode" value="TEL" />
+			                <form method="get"
+									action="https://www.telegraphcottages.co.uk/TEL/all-regions"
+									name="thg_quicksearch" id="thg_searchform" target="_blank">
+									
+										  <link rel="stylesheet" href="http://code.jquery.com/ui/1.10.0/themes/base/jquery-ui.css" />										  
+										<script language="javascript"  type="text/javascript">
+										  $(function() {
+										    $( "#thg_startdate" ).datepicker();
+										  });
+										  
+										  
+										  $(function() {
+											    $( "#ui-datepicker-div" ).last().removeClass("ui-helper-hidden-accessible");
+											    $( "#ui-datepicker-div" ).last().css("margin-top" , "-68px");
+										});
+										  </script>
+
+									<ul>
+										<li>
+											<div style="margin-left: 10px;">
+												<label for="thg_countrylist">Select Country:</label> </br><select
+													id="thg_countrylist" style="margin-left:2px;"><option value="all-regions">Select
+														a country</option>
+													<option value="england">England</option>
+													<option value="scotland">Scotland</option>
+													<option value="wales">Wales</option>
+													<option value="channel-islands">Channel Islands</option>
+													<option value="france">France</option>
+													<option value="ireland">Ireland</option>
+													<option value="italy">Italy</option></select>
+											</div>
+										</li>
+
+										<li>
+											<div id="thg_regions" style="margin-left: 10px;">
+												<label for="thg_regionlist">Select Region:</label> </br><select
+													id="thg_regionlist" style="margin-left:2px;"><optgroup label="England"
+														id="thg_england">
+														<option value="england/all-regions">All Regions</option>
+														<option value="england/central-england">Central
+															England</option>
+														<option value="england/bedfordshire">Bedfordshire</option>
+														<option value="england/buckinghamshire">Buckinghamshire</option>
+														<option value="england/derbyshire">Derbyshire</option>
+														<option value="england/gloucestershire">Gloucestershire</option>
+														<option value="england/herefordshire">Herefordshire</option>
+														<option value="england/hertfordshire">Hertfordshire</option>
+														<option value="england/leicestershire">Leicestershire</option>
+														<option value="england/lincolnshire">Lincolnshire</option>
+														<option value="england/northamptonshire">Northamptonshire</option>
+														<option value="england/nottinghamshire">Nottinghamshire</option>
+														<option value="england/oxfordshire">Oxfordshire</option>
+														<option value="england/rutland">Rutland</option>
+														<option value="england/shropshire">Shropshire</option>
+														<option value="england/staffordshire">Staffordshire</option>
+														<option value="england/warwickshire">Warwickshire</option>
+														<option value="england/worcestershire">Worcestershire</option>
+														<option value="england/east-anglia">East Anglia</option>
+														<option value="england/cambridgeshire">Cambridgeshire</option>
+														<option value="england/essex">Essex</option>
+														<option value="england/norfolk">Norfolk</option>
+														<option value="england/suffolk">Suffolk</option>
+														<option value="england/north-east-england">North
+															East England</option>
+														<option value="england/county-durham">County
+															Durham</option>
+														<option value="england/northumberland">Northumberland</option>
+														<option value="england/north-west-england">North
+															West England</option>
+														<option value="england/cheshire">Cheshire</option>
+														<option value="england/cumbria">Cumbria</option>
+														<option value="england/lancashire">Lancashire</option>
+														<option value="england/south-west">South West</option>
+														<option value="england/cornwall">Cornwall</option>
+														<option value="england/devon">Devon</option>
+														<option value="england/dorset">Dorset</option>
+														<option value="england/somerset">Somerset</option>
+														<option value="england/southern-england">Southern
+															England</option>
+														<option value="england/berkshire">Berkshire</option>
+														<option value="england/greater-london">Greater
+															London</option>
+														<option value="england/hampshire">Hampshire</option>
+														<option value="england/isle-of-wight">Isle of
+															Wight</option>
+														<option value="england/kent">Kent</option>
+														<option value="england/surrey">Surrey</option>
+														<option value="england/sussex">Sussex</option>
+														<option value="england/wiltshire">Wiltshire</option>
+														<option value="england/yorkshire">Yorkshire</option>
+														<option value="england/yorkshire">Yorkshire</option>
+														<option value="england/brecon-beacons">Brecon
+															Beacons</option>
+														<option value="england/cotswolds">Cotswolds</option>
+														<option value="england/dartmoor">Dartmoor</option>
+														<option value="england/exmoor">Exmoor</option>
+														<option value="england/lake-district">Lake
+															District</option>
+														<option value="england/new-forest">New Forest</option>
+														<option value="england/norfolk-broads">Norfolk
+															Broads</option>
+														<option value="england/northumberland-national-park">Northumberland
+															National Park</option>
+														<option value="england/peak-district">Peak
+															District</option>
+														<option value="england/south-downs">South Downs</option>
+														<option value="england/yorkshire-dales">Yorkshire
+															Dales</option>
+														<option value="england/yorkshire-moors">Yorkshire
+															Moors</option>
+													</optgroup>
+													<optgroup label="Scotland" id="thg_scotland">
+														<option value="scotland/all-regions">All Regions</option>
+														<option value="scotland/central-scotland">Central
+															Scotland</option>
+														<option value="scotland/angus">Angus</option>
+														<option value="scotland/argyll-and-bute">Argyll
+															and Bute</option>
+														<option value="scotland/fife">Fife</option>
+														<option value="scotland/isle-of-mull">Isle of
+															Mull</option>
+														<option value="scotland/perthshire">Perthshire</option>
+														<option value="scotland/stirlingshire">Stirlingshire</option>
+														<option value="scotland/northern-scotland">Northern
+															Scotland</option>
+														<option value="scotland/aberdeenshire">Aberdeenshire</option>
+														<option value="scotland/highlands">Highlands</option>
+														<option value="scotland/isle-of-skye">Isle of
+															Skye</option>
+														<option value="scotland/orkney-islands">Orkney
+															Islands</option>
+														<option value="scotland/outer-hebrides">Outer
+															Hebrides</option>
+														<option value="scotland/southern-scotland">Southern
+															Scotland</option>
+														<option value="scotland/ayrshire">Ayrshire</option>
+														<option value="scotland/dumfries-and-galloway">Dumfries
+															and Galloway</option>
+														<option value="scotland/edinburgh-and-the-lothians">Edinburgh
+															and the Lothians</option>
+														<option value="scotland/glasgow-and-the-clyde-valley">Glasgow
+															and the Clyde Valley</option>
+														<option value="scotland/isle-of-arran">Isle of
+															Arran</option>
+														<option value="scotland/the-scottish-borders">The
+															Scottish Borders</option>
+														<option value="scotland/cairngorms">Cairngorms</option>
+														<option value="scotland/loch-lomond-and-the-trossachs">Loch
+															Lomond and the Trossachs</option>
+													</optgroup>
+													<optgroup label="Wales" id="thg_wales">
+														<option value="wales/all-regions">All Regions</option>
+														<option value="wales/mid-wales">Mid Wales</option>
+														<option value="wales/cardiganceredigion">Cardigan/Ceredigion</option>
+														<option value="wales/powys">Powys</option>
+														<option value="wales/north-wales">North Wales</option>
+														<option value="wales/anglesey">Anglesey</option>
+														<option value="wales/conwy">Conwy</option>
+														<option value="wales/gwynedd">Gwynedd</option>
+														<option value="wales/north-wales-borders">North
+															Wales Borders</option>
+														<option value="wales/south-wales">South Wales</option>
+														<option value="wales/carmarthenshire">Carmarthenshire</option>
+														<option value="wales/glamorgan">Glamorgan</option>
+														<option value="wales/monmouthshire">Monmouthshire</option>
+														<option value="wales/pembrokeshire">Pembrokeshire</option>
+														<option value="wales/brecon-beacons">Brecon
+															Beacons</option>
+														<option value="wales/pembrokeshire-coast">Pembrokeshire
+															Coast</option>
+														<option value="wales/snowdonia">Snowdonia</option>
+													</optgroup>
+													<optgroup label="Channel Islands" id="thg_channel-islands">
+														<option value="channel-islands/all-regions">All
+															Regions</option>
+														<option value="channel-islands/channel-islands">Channel
+															Islands</option>
+														<option value="channel-islands/jersey">Jersey</option>
+													</optgroup>
+													<optgroup label="France" id="thg_france">
+														<option value="france/all-regions">All Regions</option>
+														<option value="france/central-france">Central
+															France</option>
+														<option value="france/auvergne">Auvergne</option>
+														<option value="france/burgundy">Burgundy</option>
+														<option value="france/ile-de-france-and-paris">Ile-de-France
+															and Paris</option>
+														<option value="france/limousin">Limousin</option>
+														<option value="france/loire-valley">Loire Valley</option>
+														<option value="france/eastern-france">Eastern
+															France</option>
+														<option value="france/alps">Alps</option>
+														<option value="france/franche-comte">Franche-Comte</option>
+														<option value="france/north-east-france">North
+															East France</option>
+														<option value="france/alsace">Alsace</option>
+														<option value="france/champagne">Champagne</option>
+														<option value="france/lorraine">Lorraine</option>
+														<option value="france/north-west-france">North
+															West France</option>
+														<option value="france/brittany">Brittany</option>
+														<option value="france/normandy">Normandy</option>
+														<option value="france/pas-de-calais">Pas-de-Calais</option>
+														<option value="france/picardy">Picardy</option>
+														<option value="france/south-east-france">South
+															East France</option>
+														<option value="france/cote-dazur">Cote-d'Azur</option>
+														<option value="france/languedoc-roussillon">Languedoc-Roussillon</option>
+														<option value="france/provence">Provence</option>
+														<option value="france/south-west-france">South
+															West France</option>
+														<option value="france/aquitaine">Aquitaine</option>
+														<option value="france/dordogne-and-lot">Dordogne
+															and Lot</option>
+														<option value="france/midi-pyrenees">Midi-Pyrenees</option>
+														<option value="france/western-france">Western
+															France</option>
+														<option value="france/poitou-charentes">Poitou-Charentes</option>
+														<option value="france/vendee">Vendee</option>
+													</optgroup>
+													<optgroup label="Ireland" id="thg_ireland">
+														<option value="ireland/all-regions">All Regions</option>
+														<option value="ireland/eastern-ireland">Eastern
+															Ireland</option>
+														<option value="ireland/county-cavan">County Cavan</option>
+														<option value="ireland/county-dublin">County
+															Dublin</option>
+														<option value="ireland/county-kildare">County
+															Kildare</option>
+														<option value="ireland/county-laois">County Laois</option>
+														<option value="ireland/county-longford">County
+															Longford</option>
+														<option value="ireland/county-louth">County Louth</option>
+														<option value="ireland/county-meath">County Meath</option>
+														<option value="ireland/county-north-tipperary">County
+															North Tipperary</option>
+														<option value="ireland/county-ofally">County
+															Ofally</option>
+														<option value="ireland/county-westmeath">County
+															Westmeath</option>
+														<option value="ireland/county-wicklow">County
+															Wicklow</option>
+														<option value="ireland/south-east-ireland">South
+															East Ireland</option>
+														<option value="ireland/county-carlow">County
+															Carlow</option>
+														<option value="ireland/county-kilkenny">County
+															Kilkenny</option>
+														<option value="ireland/county-south-tipperary">County
+															South Tipperary</option>
+														<option value="ireland/county-waterford">County
+															Waterford</option>
+														<option value="ireland/county-wexford">County
+															Wexford</option>
+														<option value="ireland/south-west-ireland">South
+															West Ireland</option>
+														<option value="ireland/county-cork">County Cork</option>
+														<option value="ireland/county-kerry">County Kerry</option>
+														<option value="ireland/western-ireland">Western
+															Ireland</option>
+														<option value="ireland/county-clare">County Clare</option>
+														<option value="ireland/county-donegal">County
+															Donegal</option>
+														<option value="ireland/county-galway">County
+															Galway</option>
+														<option value="ireland/county-leitrim">County
+															Leitrim</option>
+														<option value="ireland/county-limerick">County
+															Limerick</option>
+														<option value="ireland/county-mayo">County Mayo</option>
+														<option value="ireland/county-roscommon">County
+															Roscommon</option>
+														<option value="ireland/county-sligo">County Sligo</option>
+													</optgroup>
+													<optgroup label="Italy" id="thg_italy">
+														<option value="italy/all-regions">All Regions</option>
+														<option value="italy/central-italy">Central Italy</option>
+														<option value="italy/lazio">Lazio</option>
+														<option value="italy/tuscany">Tuscany</option>
+														<option value="italy/umbria">Umbria</option>
+														<option value="italy/northern-italy">Northern
+															Italy</option>
+														<option value="italy/liguria">Liguria</option>
+														<option value="italy/lombardy">Lombardy</option>
+														<option value="italy/veneto">Veneto</option>
+														<option value="italy/sardinia">Sardinia</option>
+														<option value="italy/sardinia">Sardinia</option>
+														<option value="italy/sicily">Sicily</option>
+														<option value="italy/sicily">Sicily</option>
+														<option value="italy/southern-italy">Southern
+															Italy</option>
+														<option value="italy/campania">Campania</option>
+														<option value="italy/puglia-apulia">Puglia /
+															Apulia</option>
+													</optgroup></select>
+											</div>
+										</li>
+										<li><label for="thg_adultlist" style="padding-left: 10px;">Adults</label></br> <select
+											name="adult" id="thg_adultlist" style="width:180px;margin-left:12px">
+												<option>1</option>
+												<option selected="selected">2</option>
+												<option>3</option>
+												<option>4</option>
+												<option>5</option>
+												<option>6</option>
+												<option>7</option>
+												<option>8</option>
+												<option>9</option>
+												<option>10</option>
+												<option>11</option>
+												<option>12</option>
+												<option>13</option>
+												<option>14</option>
+												<option>15</option>
+												<option>16</option>
+												<option>17</option>
+												<option>18</option>
+												<option>19</option>
+												<option>20</option>
+												<option>21</option>
+												<option>22</option>
+												<option>23</option>
+												<option>24</option>
+												<option>25</option>
+												<option>26</option>
+												<option>27</option>
+												<option>28</option>
+												<option>29</option>
+												<option>30</option>
+										</select></li>
+										<li>
+											<div>
+												<label for="thg_startdate" style="padding-left: 10px;">Start date</label></br>
+												<input type="text" id="thg_startdate" style="width:175px;margin-left:12px"/>
+											</div>
+										</li>
+									</ul>
+
+									<input id="thg_submit" value=" Search " type="submit" class="button">
+									
+								</form>
+			        
+			    
+			    </div>
+			    <script type="text/javascript" src="/template/ver1-0/js/widget-c.min.js"></script>
+			    <script type="text/javascript">
+			    
+			    /* 	
+				THG function for selection of countries and regions.
+				It sets the form 'action' based on the selected country and/or region.
+				
+			   	This script is optional. Without this script the search will default to 'all-regions' ( all countries and all regions )
+			  	If this script is not used with the quick search widget,
+			   		the 'action can be set manually and  the country and region drop downs can be hidden/removed.
+					
+					When setting a form 'action' manually, the format is /country/region
+					
+			*/
+			document.getElementsByClassName = function(cl) { var retnode = []; var myclass = new RegExp('\\b'+cl+'\\b'); var elem = this.getElementsByTagName('*'); 
+			for (var i = 0; i < elem.length; i++) { var classes = elem[i].className; if (myclass.test(classes)) retnode.push(elem[i]); } return retnode; }; 
+
+			(function() {
+			function thg$(id) { return document.getElementById(id); }
+			var thg_countryselect = thg$("thg_countrylist"),  thg_availregions=thg$("thg_regions").innerHTML, thg_submit = thg$("thg_submit"), 
+			thg_regionselect = thg$("thg_regionlist"), thg_searchform = thg$("thg_searchform");
+				/* listen */
+				thg_countryselect.onchange = function() { 
+				if(thg_regionselect) {
+					thg_regions.innerHTML="";
+					thg_regions.innerHTML=thg_availregions; 
+					var thg_sel = "thg_"+this.options[this.selectedIndex].value.toLowerCase();
+					var regionsToHideArray = new Array();
+					var regionOptgroups = thg$("thg_regionlist").getElementsByTagName("optgroup");
+						for (i=0; i<regionOptgroups.length;i++) { 
+						 var cId = regionOptgroups[i].id; if(cId!=thg_sel) {regionsToHideArray[i]=cId;} }
+						for (ir=0; ir<=regionsToHideArray.length;ir++) { 
+						 if(thg$(regionsToHideArray[ir])) {var no = thg$(regionsToHideArray[ir]); no.parentNode.removeChild(no);} }	
+				}
+				}
+			    /* submit */
+				thg_searchform.onsubmit = function() { 
+				var thg_regionselectn = thg$("thg_regionlist");
+				var selAction = this.action;
+				/* get region or country */ 
+				if(thg_regionselectn) { 
+				var selRegion = thg_regionselectn.options[thg_regionselectn.selectedIndex].value.toLowerCase();
+				selAction = selAction.substring(0,selAction.indexOf("all-regions"))+selRegion; 
+				if(selAction.indexOf("all-regions")>0) {selAction = selAction.substring(0,selAction.indexOf("all-regions")-1); }
+				} else {
+					var thg_countryselectn = thg$("thg_countrylist");
+					if(thg_countryselectn) { 
+					var selCountry = thg_countryselectn.options[thg_countryselectn.selectedIndex].value.toLowerCase(); 
+					selAction = selAction.substring(0,selAction.indexOf("all-regions"))+selCountry; 
+					}
+				}
+				
+
+				/* build query string */
+				
+				var thg_adults = document.getElementById("thg_adultlist").value;
+				var thg_startdate = document.getElementById("thg_startdate").value;
+					if(thg_startdate.length>0) { thg_startdate= "&start="+thg_startdate; }
+
+
+
+				window.open(selAction+"?adults="+thg_adults+thg_startdate);
+				return false;
+				}
+			})();
+
+
+			    </script>
+				</div>
+			</div>
+			</div>		
+
+		</div>
+	</div>
+   <div class="pictureContainer">
+		<img src="/template/ver1-0/i/travel/130108_Widget_TEXT_10277NDR.jpg" alt="Why book with TTravel" title="Why book with TTravel" />
+	 </div>
+</div></div>
+<div class="admpu gutterUnder">
+  <script type="text/javascript">
+     /* EPOCH time at the start of MPU Ad */
+     var mpuAdTimerStart = Date.now();
+  </script>
+<div class="access">Advertisement</div>
+<div id="mpu" class="InSkinHide">
+	<script type="text/javascript">
+		document.write(tmgAdsBuildAdTag("mpu", "300x250", "adj", "", 2));
+		</script>
+	</div>
+</div>
+
+<div class="summaryMedium gutterUnder">
+						
+                    
+                                <div class="headerOne styleFive">
+				<!-- 8122030 -->
+				<p>
+							<a href="http://www.telegraph.co.uk/promotions/?utm_source=tmg&utm_medium=sf&utm_campaign=promotions"><span>promotions&#187;</span></a>
+							</p></div>
+		<div id="configurableTabs" class="configTabs">
+    <div class="topline">
+    	<div class="left"></div>
+    	<div class="right"></div>
+        <div style="clear:both;"></div>
+    </div>
+	
+    <div class="innerPlugin">
+      <div class="loadingMessage">
+            Loading
+        </div>
+        <div class="cl"></div>
+
+		<script type="text/javascript">
+                var puffs_8120939 = new Array();
+                </script>
+                <div id="configurableTab_8120939" class="controlledTab" style="display:none;">
+                	<div class="tools">
+							<a class="prevArrowImage" id="p8120939" href="#"></a>
+							<a class="nextArrowImage" id="n8120939" href="#"></a>
+							<div class="cl"></div>
+						</div>
+					<ul class="configurableWidget ssAds"></ul>
+                    <script type="text/javascript">
+								    var thisLink = "http://www.telegraph.co.uk/sponsored/finance/investment-library/low-risk-investments/10843733/how-bonds-work.html?WT.mc_id=605800&source=SponsoredFeaturePuff&WT.ac=10860037";
+								    puffs_8120939.push({'id':'10860037', 'headline':'What are bonds and how do they work?', 'bodyText':'A bond is a long-term debt sold to investors - often by a corporation or the Government.', 'link':thisLink, 'imageUrl':'http://i.telegraph.co.uk/multimedia/archive/02916/What-is-a-bond_2916740a.jpg', 'weight':'1'});
+								    </script>
+
+								    <script type="text/javascript">
+								    var thisLink = "http://www.telegraph.co.uk/sponsored/property/ask-estate-agent/10851571/can-you-trust-estate-agents.html?WT.mc_id=605757&source=SponsoredFeaturePuff&WT.ac=10864852";
+								    puffs_8120939.push({'id':'10864852', 'headline':'Can you trust estate agents?', 'bodyText':'Sara Walker puts questions to Knight Frank experts to find out', 'link':thisLink, 'imageUrl':'http://i.telegraph.co.uk/multimedia/archive/02925/Knight_Frank_emplo_2925212a.jpg', 'weight':'1'});
+								    </script>
+
+								    <script type="text/javascript">
+								    var thisLink = "http://www.telegraph.co.uk/sponsored/gardening/mandg-chelsea-flower-show/10852601/grow-tree-gardening.html?WT.mc_id=605782&source=SponsoredFeaturePuff&WT.ac=10864913";
+								    puffs_8120939.push({'id':'10864913', 'headline':'How to grow a tree', 'bodyText':'With some careful planning, decades of enjoyment are possible for gardens large and small', 'link':thisLink, 'imageUrl':'http://i.telegraph.co.uk/multimedia/archive/02920/tree_2920849a.jpg', 'weight':'1'});
+								    </script>
+
+								    <script type="text/javascript">
+								    var thisLink = "http://www.telegraph.co.uk/sponsored/business/enterprise-awards/10028084/business-award-winners-wales.html?WT.mc_id=605788&source=SponsoredFeaturePuff&WT.ac=10865303";
+								    puffs_8120939.push({'id':'10865303', 'headline':'Thinking outside the box', 'bodyText':'Talented and enterprising award winners think outside the box', 'link':thisLink, 'imageUrl':'http://i.telegraph.co.uk/multimedia/archive/02423/lloyds-enterprise-_2423645a.jpg', 'weight':'1'});
+								    </script>
+
+								    <script type="text/javascript">
+								    var thisLink = "http://www.telegraph.co.uk/sponsored/motoring/road-to-le-mans/10882283/phil-vickery-audi-r8-challenge.html?WT.mc_id=605805&source=SponsoredFeaturePuff&WT.ac=10889536";
+								    puffs_8120939.push({'id':'10889536', 'headline':'Phil Vickery&rsquo;s Audi R8 Quiz Challenge', 'bodyText':'What happens when you put former England rugby captain Phil Vickery in an Audi R8 at Millbrook?', 'link':thisLink, 'imageUrl':'http://i.telegraph.co.uk/multimedia/archive/02934/phil-vickery-r8-ch_2934143a.jpg', 'weight':'1'});
+								    </script>
+
+								    <script type="text/javascript">
+								    var thisLink = "http://shop.telegraph.co.uk/buy/shorts/pleated-chino-shorts/80/no/94573?utm_source=tmg&utm_medium=sf_news&utm_campaign=ChinoShorts&WT.ac=10766867";
+								    puffs_8120939.push({'id':'10766867', 'headline':'Pleated Chino Shorts', 'bodyText':'Get ready for summer with our luxurious chino shorts - two for &pound;30.', 'link':thisLink, 'imageUrl':'http://i.telegraph.co.uk/multimedia/archive/02882/PleatedChinos_2882576a.jpg', 'weight':'1'});
+								    </script>
+
+								    <script type="text/javascript">
+								    var thisLink = "http://www.hand-picked.telegraph.co.uk/?utm_source=tmg&utm_medium=sf_hotelsandresorts&utm_campaign=sponsoredfeatures&WT.ac=9722034";
+								    puffs_8120939.push({'id':'9722034', 'headline':'Telegraph Travel Hand-picked', 'bodyText':'Save up to 70% on some of the world\'s best hotels and resorts.', 'link':thisLink, 'imageUrl':'http://i.telegraph.co.uk/multimedia/archive/02894/HP_-_Dubai_2894667a.jpg', 'weight':'1'});
+								    </script>
+
+								    <script type="text/javascript">
+								    var thisLink = "http://www.telegraph.co.uk/travel/destinations/asia/china/10745482/China-Tour-Beijing-and-Shanghai-with-Telegraph-correspondents.html?utm_source=tmg&utm_medium=sf_news&utm_campaign=ChinaTour&WT.ac=10754366";
+								    puffs_8120939.push({'id':'10754366', 'headline':'Telegraph China Tour', 'bodyText':'A tour of China with unrivalled insights from our correspondents in Beijing and Shanghai.', 'link':thisLink, 'imageUrl':'http://i.telegraph.co.uk/multimedia/archive/02873/Great-Wall_2873217a.gif', 'weight':'1'});
+								    </script>
+
+								    <script type="text/javascript">
+								    var thisLink = "http://www.telegraph.co.uk/financialservices/money-transfer-and-expat/foreign-ex-and-money-transfer/?utm_source=tmg&utm_medium=sf_news&utm_campaign=sponsoredfeatures&WT.ac=10651060";
+								    puffs_8120939.push({'id':'10651060', 'headline':'The best way to transfer money overseas', 'bodyText':'Open a free Telegraph Money Transfer account online today.', 'link':thisLink, 'imageUrl':'http://i.telegraph.co.uk/multimedia/archive/02662/MT_-_Laptop_2662855a.jpg', 'weight':'1'});
+								    </script>
+
+								    <script type="text/javascript">
+								    var thisLink = "http://shop.telegraph.co.uk/buy/casual-shoes/ladies-claire-shoe/80/no/94538?utm_source=tmg&utm_medium=sf_lifestyly&utm_campaign=LadiesClaireShoe&WT.ac=10767866";
+								    puffs_8120939.push({'id':'10767866', 'headline':'Ladies Claire Shoe', 'bodyText':'Delicate flower detail team up with a durable, flexible sole to make an ultra lightweight shoe.', 'link':thisLink, 'imageUrl':'http://i.telegraph.co.uk/multimedia/archive/02906/Ladies_Claire_Shoe_2906077a.jpg', 'weight':'1'});
+								    </script>
+
+								    </div>
+
+                <script type="text/javascript">
+var noOfPuffs = 10;
+
+	for(var i=0; i < noOfPuffs; i++) {
+		if(i < puffs_8120939.length) {
+			rotateLayoutPuffs(8120939, i, true);
+		}
+    } 		
+
+</script><div class="cl"></div>
+	  </div>
+	<div class="bottomline">
+    	<div class="left"></div>
+    	<div class="right"></div>
+        <div style="clear:both;"></div>
+    </div>
+</div>
+<script language="Javascript" type="text/javascript">
+function onClickedForTabCountZero(tabTitle){
+	if(tabTitle == 'BUY USED')
+	{
+		var head = document.getElementsByTagName('head')[0];
+		var s = document.createElement('script');
+		s.type = 'text/javascript';
+		s.text = "Krux('admEvent', 'IgU1GlWa', { });";
+		head.appendChild(s);
+	}
+	
+};
+function onClickedForTabCountNonZero(tabTitle){
+	if(tabTitle == 'SELL A CAR')
+	{
+		var head = document.getElementsByTagName('head')[0];
+		var s = document.createElement('script');
+		s.type = 'text/javascript';
+		s.text = "Krux('admEvent', 'IgVNad2Z', { });";
+		head.appendChild(s);
+	}
+	else if(tabTitle == 'BUY NEW')
+	{
+	
+		var head = document.getElementsByTagName('head')[0];
+		var s = document.createElement('script');
+		s.type = 'text/javascript';
+		s.text = "Krux('admEvent', 'IgVO4O1d', { });";
+		head.appendChild(s);
+	}
+};
+</script>
+                        
+		</div>
+				<div class="access">Advertisement</div>
+<div id="yell">
+	<div class="adyell InSkinHide">
+		<script type="text/javascript">
+		document.write(tmgAdsBuildAdTag("yell", "300x150", "adj", "", 2));
+		</script>
+	</div>
+</div>
+
+
+
+
+
+
+
+<div class="summaryMedium gutterUnder">
+	
+                    
+                                <script language="Javascript" type="text/javascript">
+function onClickedForTabCountZero(tabTitle){
+	if(tabTitle == 'BUY USED')
+	{
+		var head = document.getElementsByTagName('head')[0];
+		var s = document.createElement('script');
+		s.type = 'text/javascript';
+		s.text = "Krux('admEvent', 'IgU1GlWa', { });";
+		head.appendChild(s);
+	}
+	
+};
+function onClickedForTabCountNonZero(tabTitle){
+	if(tabTitle == 'SELL A CAR')
+	{
+		var head = document.getElementsByTagName('head')[0];
+		var s = document.createElement('script');
+		s.type = 'text/javascript';
+		s.text = "Krux('admEvent', 'IgVNad2Z', { });";
+		head.appendChild(s);
+	}
+	else if(tabTitle == 'BUY NEW')
+	{
+	
+		var head = document.getElementsByTagName('head')[0];
+		var s = document.createElement('script');
+		s.type = 'text/javascript';
+		s.text = "Krux('admEvent', 'IgVO4O1d', { });";
+		head.appendChild(s);
+	}
+};
+</script>
+                        
+		</div>
+<div class="summaryMedium gutterUnder">
+		<div class="mostPopular"><div id="mostPopular">
+<div class="headerOne styleNine">
+				<p>Travel Most Viewed</p>
+			</div>
+		<div id="mostpop">
+		<div class="tabs">
+				<ul>
+					<li id="TODAY" class="first current" onclick="return false">
+						<a>
+							<span>TODAY</span>
+						</a>
+					</li>
+					<li id="THIS_WEEK" onclick="return false">
+						<a>
+							<span>PAST WEEK</span>
+						</a>
+					</li>
+					<li id="THIS_MONTH" onclick="return false" class="last">
+						<a>
+							<span>PAST MONTH</span>
+						</a>
+					</li>
+				</ul>
+		</div>
+		<div class="cl"></div>
+	
+		<div class="lists">
+			<div id="div-TODAY" class="view-content" style="display: block;">
+				<ol>
+						<li><a href="/travel/travelnews/10891447/F-16-pilot-takes-amazing-Dreamliner-selfie.html">Pilot&#039;s amazing Dreamliner selfie</a></li>
+							
+						<li><a href="/travel/destinations/northamerica/usa/10891472/All-By-Myself-stranded-travellers-hilarious-music-video.html">All By Myself: stranded traveller&#039;s hilarious music video</a></li>
+							
+						<li><a href="/travel/destinations/europe/uk/london/10862984/World-Cup-2014-in-London-the-ultimate-pub-crawl.html">The ultimate World Cup pub crawl</a></li>
+							
+						<li><a href="/travel/travelnews/travel-truths/10888562/Can-flying-make-you-ill.html">Can flying make you ill?</a></li>
+							
+						<li><a href="/travel/destinations/europe/france/parisandaround/10888999/Paris-Love-locks-are-vandalism-and-should-be-banned.html">&#039;Love locks are vandalism&#039;</a></li>
+							
+						</ol>
+				</div>
+			<div id="div-THIS_WEEK" class="view-content" style="display: none">
+				<ol>
+						<li><a href="/travel/travelnews/10881437/Legroom-wars-the-device-that-stops-plane-seats-reclining.html">Device stops plane seats reclining</a></li>
+							
+						<li><a href="/travel/travelnews/travel-truths/10881194/Whats-the-best-way-to-sleep-on-a-plane.html">The best way to sleep on a plane</a></li>
+							
+						<li><a href="/travel/destinations/europe/france/10877884/Why-are-the-French-so-obsessed-with-our-Royal-Family.html">Why are the French so obsessed with our Royal Family?</a></li>
+							
+						<li><a href="/travel/destinations/europe/10856750/Europes-best-hidden-beaches-Secret-Seaside.html">Europe&#039;s best hidden beaches</a></li>
+							
+						<li><a href="/travel/travelnews/10877082/Is-7F-the-perfect-plane-seat.html">Is 7F the perfect plane seat?</a></li>
+							
+						</ol>
+				</div>
+			<div id="div-THIS_MONTH" class="view-content" style="display: none">
+				<ol>
+						<li><a href="/travel/travelnews/10881437/Legroom-wars-the-device-that-stops-plane-seats-reclining.html">Device stops plane seats reclining</a></li>
+							
+						<li><a href="/travel/destinations/asia/thailand/10859809/Thailand-Is-the-party-over-for-now-The-effect-of-the-curfew-on-tourism.html">Is the party over in Thailand?</a></li>
+							
+						<li><a href="/travel/ultratravel/9124793/Londons-ten-best-afternoon-teas.html">London&#039;s ten best afternoon teas</a></li>
+							
+						<li><a href="/travel/destinations/northamerica/usa/10864420/Glass-ledge-cracks-at-Chicagos-Willis-Tower.html">Glass ledge cracks at Chicago tower</a></li>
+							
+						<li><a href="/travel/destinations/asia/thailand/10849092/Thailand-coup-tourists-must-abide-by-curfew.html">Thailand tourists confined to hotels</a></li>
+							
+						</ol>
+				</div>
+		</div>
+	
+	</div>
+
+</div>
+</div></div>
+<div class="summaryMedium gutterUnder">
+		<div class="editorsChoice"><div class="headerOne styleFive">
+				<!-- 5445190 -->
+				<p>
+							<span>Travel editor's choice</span>
+							</p></div>
+		<div class="summary imageLeftHeadline">
+			<!-- 10862984 -->
+			<!-- imagePosition: left, columnContext: oneThird -->
+<div class="picleft containerdiv  ">
+		<a  href="/travel/destinations/europe/uk/london/10862984/World-Cup-2014-in-London-the-ultimate-pub-crawl.html"><img src="http://i.telegraph.co.uk/multimedia/archive/02936/worldcup-spain_2936998g.jpg" alt="World Cup 2014 in London: the ultimate pub crawl" border="0" width="140"  height="87" />
+									<span class="cornerimageinteractiveleft">&nbsp;</span></a>
+		</div>
+	
+<h3>
+                    <a  href="/travel/destinations/europe/uk/london/10862984/World-Cup-2014-in-London-the-ultimate-pub-crawl.html">The ultimate World Cup pub crawl</a>
+		</h3>
+
+	<div class="cl"></div>
+		</div>
+	<div class="summaryMediumToSmall">
+            <div class="bullet">
+                        <h3>
+                    <a  href="/travel/travelnews/travel-truths/10888562/Can-flying-make-you-ill.html">Can flying make you ill?</a>
+		</h3>
+
+	</div>
+                </div>
+	<div class="summaryMediumToSmall">
+            <div class="">
+                        <h3>
+			<a  href="http://www.telegraph.co.uk/luxury/travel/35930/dita-von-teeses-spa-secrets.html">Dita Von Teese's spa secrets</a>
+						</h3>
+	</div>
+                </div>
+	<div class="summaryMediumToSmall">
+            <div class="bullet">
+                        <h3>
+                    <a  href="/travel/destinations/europe/france/10887179/Aix-en-Provence-the-dark-side-of-Frances-most-beautiful-town.html">Aix-en-Provence: the dark side of France's most beautiful town</a>
+		</h3>
+
+	</div>
+                </div>
+	<div class="summaryMediumToSmall">
+            <div class="">
+                        <h3>
+			<a  href="http://www.telegraph.co.uk/travel/destination/brazil/133947/Rio-de-Janeiro-city-break-guide.html">Where to party in Rio</a>
+						</h3>
+	</div>
+                </div></div></div>
+<div class="adarea gutterUnder">
+			<div class="adsky">
+				<script type="text/javascript">
+     /* EPOCH time at the start of skyscraper Ad */
+     var startOfSkyscraper = Date.now();
+  </script>
+<div class="access">Advertisement</div>
+<div class="InSkinHide" align="center">
+	<script type="text/javascript">
+		document.write(tmgAdsBuildAdTag("hpg,sks,skl", "300x600,120x600,160x600", "adj", "", 2));
+		</script>
+	</div></div>
+	
+			<div class="cl"></div>
+		</div>
+		
+	<div class="summaryMedium gutterUnder">
+						
+                    
+                                <div class="headerOne styleFive">
+				<!-- 8120735 -->
+				<p>
+							<span>Featured Advertising</span>
+							</p></div>
+		<div id="configurableTabs" class="configTabs">
+    <div class="topline">
+    	<div class="left"></div>
+    	<div class="right"></div>
+        <div style="clear:both;"></div>
+    </div>
+	
+    <div class="innerPlugin">
+      <div class="tabs">
+	            <ul class="mainTabs">
+	                <li class="start"><a id="linktoConfigurableTab_8120632" onclick="onClickedForTabCountZero('World Travel'); return false;" href="#configurableTab_8120632">World Travel</a></li>
+	                        <li><a id="linktoConfigurableTab_8120616" onclick="onClickedForTabCountNonZero('UK Breaks'); return false;" href="#configurableTab_8120616">UK Breaks</a></li>
+	                        <li><a id="linktoConfigurableTab_8120678" onclick="onClickedForTabCountNonZero('Early Deals'); return false;" href="#configurableTab_8120678">Early Deals</a></li>
+	                        <span class="end"></span>
+	            </ul>
+	        </div>
+        <div class="loadingMessage">
+            Loading
+        </div>
+        <div class="cl"></div>
+
+		<script type="text/javascript">
+                var puffs_8120632 = new Array();
+                </script>
+                <div id="configurableTab_8120632" class="controlledTab" style="display:none;">
+                	<ul class="configurableWidget "></ul>
+                    <div class="cl"></div>
+                            <p class="commPuffFooterLink"><a href="http://www.telegraph.co.uk/advertising/9900101/Self-Service-Advertising.html?utm_source=tmg&utm_medium=featuredads&utm_campaign=selfserve" target="_blank">Learn about advertising on Telegraph.co.uk</a></p>
+                        </div>
+
+                <script xmlns:tmg="http://www.telegraph.co.uk/tmgFeedNS" type="text/javascript">		    
+		    var puffArray = eval('puffs_' + '8120632');
+		    var guid = "";
+		    var headline = "Discounts up to 50% at Coconut Bay in St. Lucia"; 
+		    var description = "All-Inclusive Fun in the Sun at Coconut Bay in St Lucia";
+		    
+		    		var link = "http://featuredadvertising.telegraph.co.uk/c/4c5d45d6-40ff-41f8-ae44-33dcffbe9f8c?WT.ac=";
+		    	
+		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/classified-select/images/860a6ede-46df-4efd-94ae-e106683788d1.jpg"; 
+		    var adWeight = "3"; 
+		    
+		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight});
+		    
+		    </script><script type="text/javascript">		    
+		    var puffArray = eval('puffs_' + '8120632');
+		    var guid = "";
+		    var headline = "FREE gold package upgrades on holidays!"; 
+		    var description = "Book your next holiday to Turkey &amp; get a FREE gold package including bar credit, spa therapy, pre-booked flight seats + much more!";
+		    
+		    		var link = "http://featuredadvertising.telegraph.co.uk/c/206161f5-d622-4077-a965-d23816a0be7c?WT.ac=";
+		    	
+		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/classified-select/images/01d45ba4-7fab-4ab0-9059-17020a145090.jpg"; 
+		    var adWeight = "3"; 
+		    
+		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight});
+		    
+		    </script><script type="text/javascript">		    
+		    var puffArray = eval('puffs_' + '8120632');
+		    var guid = "";
+		    var headline = "Win £1000 worth of John Lewis vouchers"; 
+		    var description = "For a fantastic opportunity to win &pound;1000 worth of John Lewis vouchers to spend towards completely kitting yourself out for your next holiday";
+		    
+		    		var link = "http://featuredadvertising.telegraph.co.uk/c/eb14a930-4fbb-4122-9c44-2f9b8bbda4e6?WT.ac=";
+		    	
+		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/classified-select/images/ca7de2a1-3060-42c8-9d3b-5a753b60a02c.jpg"; 
+		    var adWeight = "3"; 
+		    
+		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight});
+		    
+		    </script><script type="text/javascript">		    
+		    var puffArray = eval('puffs_' + '8120632');
+		    var guid = "";
+		    var headline = "Five star hotel from James Bond Skyfall from £599"; 
+		    var description = "Fly from a choice of airports to stay at this stunning boutique hotel";
+		    
+		    		var link = "http://featuredadvertising.telegraph.co.uk/c/3bb0a987-90da-494f-ae27-cd4aecd06853?WT.ac=";
+		    	
+		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/classified-select/images/e5091ae7-fbd8-4fd0-8155-053ba68a35af.jpg"; 
+		    var adWeight = "3"; 
+		    
+		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight});
+		    
+		    </script><script type="text/javascript">		    
+		    var puffArray = eval('puffs_' + '8120632');
+		    var guid = "";
+		    var headline = "Mauritius Luxury Holidays - Coin De Mire Hotel"; 
+		    var description = "A popular Beach retreat, excellent value, 7 Nights stay on Half Board basis in a Superior Room from &pound;998 p/p Valid between 1st June - 10th July";
+		    
+		    		var link = "http://featuredadvertising.telegraph.co.uk/c/72d23aa7-aabb-4b20-953c-ee6d87ff74cf?WT.ac=";
+		    	
+		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/classified-select/images/4ccdc865-f30a-4f13-80e2-b337eaef96a7.jpg"; 
+		    var adWeight = "3"; 
+		    
+		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight});
+		    
+		    </script><script type="text/javascript">		    
+		    var puffArray = eval('puffs_' + '8120632');
+		    var guid = "";
+		    var headline = "Luxury Villa & Spa"; 
+		    var description = "Mas Torroella, Costa Brava, Spain... 10 min from the sea Ideal for Families, Groups of Friends, Corporate events and weddings 00-34-619101194";
+		    
+		    		var link = "http://featuredadvertising.telegraph.co.uk/c/cb53e0cc-6217-417f-8739-e43b031a75b1?WT.ac=";
+		    	
+		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/classified-select/images/7b3c97ff-a5f5-4d8f-a333-d371dd9a0936.jpg"; 
+		    var adWeight = "3"; 
+		    
+		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight});
+		    
+		    </script><script type="text/javascript">		    
+		    var puffArray = eval('puffs_' + '8120632');
+		    var guid = "";
+		    var headline = "Delicious Sea view Terrace on Elba"; 
+		    var description = "Baia Blu - Rent this wonderful flat with a rooftop terrace overlooking a tiny port on the Tuscan island of Elba";
+		    
+		    		var link = "http://featuredadvertising.telegraph.co.uk/c/546769fb-9d64-444c-ad79-b899f52298d5?WT.ac=";
+		    	
+		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/classified-select/images/8e160b39-498a-495d-a796-950b4008d987.jpg"; 
+		    var adWeight = "3"; 
+		    
+		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight});
+		    
+		    </script><script type="text/javascript">		    
+		    var puffArray = eval('puffs_' + '8120632');
+		    var guid = "";
+		    var headline = "D-Day landings with specialist guides"; 
+		    var description = "48 tours: WWI, WWII and other campaigns from &pound;239";
+		    
+		    		var link = "http://featuredadvertising.telegraph.co.uk/c/745948b0-30ef-4ba8-ada2-2fb03484cde8?WT.ac=";
+		    	
+		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/classified-select/images/2ace166e-05b5-4009-ae88-e17ad3522405.gif"; 
+		    var adWeight = "3"; 
+		    
+		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight});
+		    
+		    </script><script type="text/javascript">		    
+		    var puffArray = eval('puffs_' + '8120632');
+		    var guid = "";
+		    var headline = "Win £1000 of Argos Vouchers!!"; 
+		    var description = "Win &pound;1000 worth of Argos vouchers to spend towards your next holiday or short break";
+		    
+		    		var link = "http://featuredadvertising.telegraph.co.uk/c/51830bdf-4d5b-4cb2-8af1-fc9a44908e1f?WT.ac=";
+		    	
+		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/classified-select/images/fbec9aed-3a7f-4ef2-ba3f-a3c2f7fb5b8a.jpg"; 
+		    var adWeight = "3"; 
+		    
+		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight});
+		    
+		    </script><script type="text/javascript">		    
+		    var puffArray = eval('puffs_' + '8120632');
+		    var guid = "";
+		    var headline = "Luxury Villas In Mallorca Available All Season"; 
+		    var description = "High quality properties ranging from 2- 8 bedrooms in Pollenca and Cala d'Or. 50% Discount, prices from only &pound;779 per week.";
+		    
+		    		var link = "http://featuredadvertising.telegraph.co.uk/c/d7276178-6ba8-4c9a-8170-a29a4c7cf47a?WT.ac=";
+		    	
+		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/classified-select/images/dc076a39-20b4-4195-8ff2-c559f3e308df.jpg"; 
+		    var adWeight = "3"; 
+		    
+		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight});
+		    
+		    </script>
+<script type="text/javascript">
+
+var noOfPuffs = 2;
+var lastClass = "";
+
+if(puffs_8120632.length > noOfPuffs) {
+    for(var i=0; i < noOfPuffs; i++) {    
+    	 var randomIndex =  selectRandomPuffIndex(puffs_8120632);         
+         if(i == noOfPuffs-1) { lastClass=" last"; }
+         append2LayoutPuffs(8120632, randomIndex, true);
+         puffs_8120632.splice(randomIndex, randomIndex+1);          
+    }   
+} else {
+    for(var i=0; i<puffs_8120632.length; i++) {
+    	if(i == noOfPuffs-1) { lastClass=" last"; }
+        append2LayoutPuffs(8120632, i, true);
+    }       
+}
+
+
+
+</script><script type="text/javascript">
+                var puffs_8120616 = new Array();
+                </script>
+                <div id="configurableTab_8120616" class="controlledTab" style="display:none;">
+                	<ul class="configurableWidget "></ul>
+                    <div class="cl"></div>
+                            <p class="commPuffFooterLink"><a href="http://www.telegraph.co.uk/advertising/9900101/Self-Service-Advertising.html?utm_source=tmg&utm_medium=featuredads&utm_campaign=selfserve" target="_blank">Learn about advertising on Telegraph.co.uk</a></p>
+                        </div>
+
+                <script xmlns:tmg="http://www.telegraph.co.uk/tmgFeedNS" type="text/javascript">		    
+		    var puffArray = eval('puffs_' + '8120616');
+		    var guid = "";
+		    var headline = "Win £1000 worth of John Lewis vouchers"; 
+		    var description = "For a fantastic opportunity to win &pound;1000 worth of John Lewis vouchers to spend towards completely kitting yourself out for your next holiday";
+		    
+		    		var link = "http://featuredadvertising.telegraph.co.uk/c/3604f8f0-d684-4d25-9b2c-2a49ecc986df?WT.ac=";
+		    	
+		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/classified-select/images/ca7de2a1-3060-42c8-9d3b-5a753b60a02c.jpg"; 
+		    var adWeight = "3"; 
+		    
+		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight});
+		    
+		    </script><script type="text/javascript">		    
+		    var puffArray = eval('puffs_' + '8120616');
+		    var guid = "";
+		    var headline = "Five star hotel from James Bond Skyfall from £599"; 
+		    var description = "Fly from a choice of airports to stay at this stunning boutique hotel";
+		    
+		    		var link = "http://featuredadvertising.telegraph.co.uk/c/03ab12d9-22f0-4b75-8873-5843f7583999?WT.ac=";
+		    	
+		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/classified-select/images/e5091ae7-fbd8-4fd0-8155-053ba68a35af.jpg"; 
+		    var adWeight = "3"; 
+		    
+		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight});
+		    
+		    </script><script type="text/javascript">		    
+		    var puffArray = eval('puffs_' + '8120616');
+		    var guid = "";
+		    var headline = "Luxury Villas In Mallorca Available All Season"; 
+		    var description = "High quality properties ranging from 2- 8 bedrooms in Pollenca and Cala d'Or. 50% Discount, prices from only &pound;779 per week.";
+		    
+		    		var link = "http://featuredadvertising.telegraph.co.uk/c/70d1f2f9-6f83-46eb-9e1e-8192a23879ea?WT.ac=";
+		    	
+		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/classified-select/images/dc076a39-20b4-4195-8ff2-c559f3e308df.jpg"; 
+		    var adWeight = "3"; 
+		    
+		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight});
+		    
+		    </script><script type="text/javascript">		    
+		    var puffArray = eval('puffs_' + '8120616');
+		    var guid = "";
+		    var headline = "This is Cornwall your way"; 
+		    var description = "Imagine owning a different kind of holiday home. Escape to Una St Ives. From &pound;175,000 - &pound;450,000.";
+		    
+		    		var link = "http://featuredadvertising.telegraph.co.uk/c/7a38c22e-32e7-4d04-b1cb-1a9258410242?WT.ac=";
+		    	
+		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/classified-select/images/0f30c72f-33e9-4a9a-b5af-699f5d387b47.jpg"; 
+		    var adWeight = "3"; 
+		    
+		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight});
+		    
+		    </script><script type="text/javascript">		    
+		    var puffArray = eval('puffs_' + '8120616');
+		    var guid = "";
+		    var headline = "Win £1000 of Argos Vouchers!!"; 
+		    var description = "Win &pound;1000 worth of Argos vouchers to spend towards your next holiday or short break";
+		    
+		    		var link = "http://featuredadvertising.telegraph.co.uk/c/244daa06-9435-46e5-acfc-8fe21cf68f70?WT.ac=";
+		    	
+		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/classified-select/images/fbec9aed-3a7f-4ef2-ba3f-a3c2f7fb5b8a.jpg"; 
+		    var adWeight = "3"; 
+		    
+		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight});
+		    
+		    </script>
+<script type="text/javascript">
+
+var noOfPuffs = 2;
+var lastClass = "";
+
+if(puffs_8120616.length > noOfPuffs) {
+    for(var i=0; i < noOfPuffs; i++) {    
+    	 var randomIndex =  selectRandomPuffIndex(puffs_8120616);         
+         if(i == noOfPuffs-1) { lastClass=" last"; }
+         append2LayoutPuffs(8120616, randomIndex, true);
+         puffs_8120616.splice(randomIndex, randomIndex+1);          
+    }   
+} else {
+    for(var i=0; i<puffs_8120616.length; i++) {
+    	if(i == noOfPuffs-1) { lastClass=" last"; }
+        append2LayoutPuffs(8120616, i, true);
+    }       
+}
+
+
+
+</script><script type="text/javascript">
+                var puffs_8120678 = new Array();
+                </script>
+                <div id="configurableTab_8120678" class="controlledTab" style="display:none;">
+                	<ul class="configurableWidget "></ul>
+                    </div>
+
+                <script xmlns:tmg="http://www.telegraph.co.uk/tmgFeedNS" type="text/javascript">		    
+		    var puffArray = eval('puffs_' + '8120678');
+		    var guid = "";
+		    var headline = "Handpicked collection of luxury chalets in Verbier"; 
+		    var description = "Book before April 1 and get 10% off your 2014/15 winter holiday. Be swift and they'll throw in free child care too.";
+		    
+		    		var link = "http://featuredadvertising.telegraph.co.uk/c/ab2f1a49-12ef-4adb-89f2-fda38e56d979?WT.ac=";
+		    	
+		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/classified-select/images/1e79fb7a-6ebb-4b1a-9c80-14686c988021.jpg"; 
+		    var adWeight = "3"; 
+		    
+		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight});
+		    
+		    </script><script type="text/javascript">		    
+		    var puffArray = eval('puffs_' + '8120678');
+		    var guid = "";
+		    var headline = "A top choice of chalets in Meribel & Val d'Isere"; 
+		    var description = "Book before the end of the season and get 10% off a stay at Chalet Les Matines in 2014/15, including champagne reception. From &pound;350 per person";
+		    
+		    		var link = "http://featuredadvertising.telegraph.co.uk/c/472edfb5-76f5-4b63-85ac-3cb1d467fdb1?WT.ac=";
+		    	
+		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/classified-select/images/31f453d7-6ff2-4f7f-96f0-c0494909d33b.jpg"; 
+		    var adWeight = "3"; 
+		    
+		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight});
+		    
+		    </script><script type="text/javascript">		    
+		    var puffArray = eval('puffs_' + '8120678');
+		    var guid = "";
+		    var headline = "Great value ski holidays across European resorts"; 
+		    var description = "Book early to secure Zenith's best prices, and get extras like 2-for-1 lift passes when booking a catered chalet for January &amp; March 2015.";
+		    
+		    		var link = "http://featuredadvertising.telegraph.co.uk/c/b83969ca-0484-4051-bf62-6fafa190845f?WT.ac=";
+		    	
+		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/classified-select/images/d00f8804-5f1f-427f-9649-160d2f5f31ce.jpg"; 
+		    var adWeight = "3"; 
+		    
+		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight});
+		    
+		    </script>
+<script type="text/javascript">
+
+var noOfPuffs = 2;
+var lastClass = "";
+
+if(puffs_8120678.length > noOfPuffs) {
+    for(var i=0; i < noOfPuffs; i++) {    
+    	 var randomIndex =  selectRandomPuffIndex(puffs_8120678);         
+         if(i == noOfPuffs-1) { lastClass=" last"; }
+         append2LayoutPuffs(8120678, randomIndex, true);
+         puffs_8120678.splice(randomIndex, randomIndex+1);          
+    }   
+} else {
+    for(var i=0; i<puffs_8120678.length; i++) {
+    	if(i == noOfPuffs-1) { lastClass=" last"; }
+        append2LayoutPuffs(8120678, i, true);
+    }       
+}
+
+
+
+</script><div class="cl"></div>
+	  </div>
+	<div class="bottomline">
+    	<div class="left"></div>
+    	<div class="right"></div>
+        <div style="clear:both;"></div>
+    </div>
+</div>
+<script language="Javascript" type="text/javascript">
+function onClickedForTabCountZero(tabTitle){
+	if(tabTitle == 'BUY USED')
+	{
+		var head = document.getElementsByTagName('head')[0];
+		var s = document.createElement('script');
+		s.type = 'text/javascript';
+		s.text = "Krux('admEvent', 'IgU1GlWa', { });";
+		head.appendChild(s);
+	}
+	
+};
+function onClickedForTabCountNonZero(tabTitle){
+	if(tabTitle == 'SELL A CAR')
+	{
+		var head = document.getElementsByTagName('head')[0];
+		var s = document.createElement('script');
+		s.type = 'text/javascript';
+		s.text = "Krux('admEvent', 'IgVNad2Z', { });";
+		head.appendChild(s);
+	}
+	else if(tabTitle == 'BUY NEW')
+	{
+	
+		var head = document.getElementsByTagName('head')[0];
+		var s = document.createElement('script');
+		s.type = 'text/javascript';
+		s.text = "Krux('admEvent', 'IgVO4O1d', { });";
+		head.appendChild(s);
+	}
+};
+</script>
+                        
+		</div>
+				<div class="OUTBRAIN" data-src="http://www.telegraph.co.uk/travel/destinations/southamerica/brazil/10892158/Brazils-painted-streets-for-World-Cup-2014.html" data-widget-id="AR_2" data-ob-template="telegraph" ></div>
+<script type="text/javascript"> 
+					(function() { 
+			        var outbrainScriptTag = document.createElement('script'); 
+			        outbrainScriptTag.type = 'text/javascript'; 
+			        outbrainScriptTag.async = true; 
+			        outbrainScriptTag.id = "outbrain"; 
+			        outbrainScriptTag.src = 'http://widgets.outbrain.com/outbrain.js' ; 
+			        var s = document.getElementsByTagName('script')[0]; 
+			        s.parentNode.insertBefore(outbrainScriptTag, s); 
+					})(); 
+					
+</script> 		 	
+<script type="text/javascript">
+                /* EPOCH time at the end of right hand column */
+                 var rightHandTimer=Date.now();
+                </script>
+		</div>
+		<div class="cl"></div>
+
+		<div class="OUTBRAIN" data-src="http://www.telegraph.co.uk/travel/destinations/southamerica/brazil/10892158/Brazils-painted-streets-for-World-Cup-2014.html" data-widget-id="TR_1" data-ob-template="telegraph" ></div>		
+		</div>
+	
+	<div class="printHide">
+		<div id="trafficDrivers">
+
+	<div class="headerOne styleFive">
+				<!-- 9612843 -->
+				<p>
+							<span>MORE FROM TELEGRAPH.CO.UK</span>
+							</p></div>
+		<div class="gutterUnder">							
+		<div id="tmgPortalRand">
+			
+					
+						
+							<!-- 10886509 -->
+<div class="oneQuarter servicesSmall ">
+	<div class="summarySmall">
+		<div class="headerFive">		
+			<a href="http://gardenshop.telegraph.co.uk/_/?utm_source=tmg&utm_medium=td_gardenshop&utm_campaign=PincushionFlower"> 
+				Telegraph Gardenshop</a>
+		</div>
+		<!-- imagePosition: centre, columnContext: oneQuarter -->
+<div class="piccentre containerdiv  ">
+		<a  href="http://gardenshop.telegraph.co.uk/plants/_/perennials/scabiosa-raspberry-sorbet-dessert-series/classid.2000022924/_/?utm_source=tmg&utm_medium=td_gardenshop&utm_campaign=PincushionFlower">
+						<img src="http://i.telegraph.co.uk/multimedia/archive/02935/StrawberrySorbet_2935684f.jpg" alt="" border="0" width="219"  height="137" /><span class="imgSlantOverlay">&nbsp;</span>
+						</a>
+					</div>
+	
+<h3>
+			<a  href="http://gardenshop.telegraph.co.uk/plants/_/perennials/scabiosa-raspberry-sorbet-dessert-series/classid.2000022924/_/?utm_source=tmg&utm_medium=td_gardenshop&utm_campaign=PincushionFlower">
+						Pincushion Flower 'Strawberry Sorbet' - looks wonderful in a sunny border</a>
+					</h3>
+		<div class="traffdrivViewLink">
+			<a  href="http://gardenshop.telegraph.co.uk/plants/_/perennials/scabiosa-raspberry-sorbet-dessert-series/classid.2000022924/_/?utm_source=tmg&utm_medium=td_gardenshop&utm_campaign=PincushionFlower">
+						View</a>
+					</div>
+
+	</div>
+</div>
+					
+				
+
+			
+					
+						
+							<!-- 10888714 -->
+<div class="oneQuarter servicesSmall ">
+	<div class="summarySmall">
+		<div class="headerFive">		
+			<a href="http://www.telegraph.co.uk/sponsored/motoring/road-to-le-mans/?WT.mc_id=605805&source=TrafficDriver"> 
+				Road to Le Mans</a>
+		</div>
+		<!-- imagePosition: centre, columnContext: oneQuarter -->
+<div class="piccentre containerdiv  ">
+		<a  href="http://www.telegraph.co.uk/sponsored/motoring/road-to-le-mans/10882610/allan-mcnish-audi-le-mans.html?WT.mc_id=605805&source=TrafficDriver">
+						<img src="http://i.telegraph.co.uk/multimedia/archive/02935/allan-mcnish_2935718f.jpg" alt="Allan McNish" border="0" width="220"  height="137" /><span class="imgSlantOverlay">&nbsp;</span>
+						</a>
+					</div>
+	
+<h3>
+			<a  href="http://www.telegraph.co.uk/sponsored/motoring/road-to-le-mans/10882610/allan-mcnish-audi-le-mans.html?WT.mc_id=605805&source=TrafficDriver">
+						Allan McNish on Audi&rsquo;s decade of dominance at Le Mans</a>
+					</h3>
+		<div class="traffdrivViewLink">
+			<a  href="http://www.telegraph.co.uk/sponsored/motoring/road-to-le-mans/10882610/allan-mcnish-audi-le-mans.html?WT.mc_id=605805&source=TrafficDriver">
+						View</a>
+					</div>
+
+	</div>
+</div>
+					
+				
+
+			
+					
+						
+							<!-- 10889981 -->
+<div class="oneQuarter servicesSmall ">
+	<div class="summarySmall">
+		<div class="headerFive">		
+			<a href="http://www.telegraph.co.uk/sponsored/motoring/performance-driving/?WT.mc_id=605798&source=TrafficDriver"> 
+				Performance Driving News </a>
+		</div>
+		<!-- imagePosition: centre, columnContext: oneQuarter -->
+<div class="piccentre containerdiv  ">
+		<a  href="http://www.telegraph.co.uk/sponsored/motoring/performance-driving/?WT.mc_id=605798&source=TrafficDriver">
+						<img src="http://i.telegraph.co.uk/multimedia/archive/02916/A_performance_car__2916403f.jpg" alt="A performance car on a racetrack" border="0" width="219"  height="137" /><span class="imgSlantOverlay">&nbsp;</span>
+						</a>
+					</div>
+	
+<h3>
+			<a  href="http://www.telegraph.co.uk/sponsored/motoring/performance-driving/?WT.mc_id=605798&source=TrafficDriver">
+						We Are Racers: episode two</a>
+					</h3>
+		<div class="traffdrivViewLink">
+			<a  href="http://www.telegraph.co.uk/sponsored/motoring/performance-driving/?WT.mc_id=605798&source=TrafficDriver">
+						View</a>
+					</div>
+
+	</div>
+</div>
+					
+				
+
+			
+					
+						
+							<!-- 10891677 -->
+<div class="oneQuarter servicesSmall last">
+	<div class="summarySmall">
+		<div class="headerFive">		
+			<a href="https://fantasyfootball.telegraph.co.uk/dacia?utm_source=tmg&utm_medium=TD_traffidriver&utm_campaign=Hattrick_TDs"> 
+				Brazil Hat-trick</a>
+		</div>
+		<!-- imagePosition: centre, columnContext: oneQuarter -->
+<div class="piccentre containerdiv  ">
+		<a  href="https://fantasyfootball.telegraph.co.uk/dacia?utm_source=tmg&utm_medium=TD_traffidriver&utm_campaign=Hattrick_TDs">
+						<img src="http://i.telegraph.co.uk/multimedia/archive/02352/the-giant-christ-t_2352863f.jpg" alt="The giant Christ the Redeemer statue looks down over Rio de Janeiro" border="0" width="219"  height="137" /><span class="imgSlantOverlay">&nbsp;</span>
+						</a>
+					</div>
+	
+<h3>
+			<a  href="https://fantasyfootball.telegraph.co.uk/dacia?utm_source=tmg&utm_medium=TD_traffidriver&utm_campaign=Hattrick_TDs">
+						Competition: Prizes to be won including a holiday to Brazil and a Dacia Sandero Stepway</a>
+					</h3>
+		<div class="traffdrivViewLink">
+			<a  href="https://fantasyfootball.telegraph.co.uk/dacia?utm_source=tmg&utm_medium=TD_traffidriver&utm_campaign=Hattrick_TDs">
+						View</a>
+					</div>
+
+	</div>
+</div>
+					
+				
+
+			
+					
+						
+							
+					
+				
+
+			
+					
+						
+							
+					
+				
+
+			
+					
+						
+							
+					
+				
+
+			
+					
+						
+							
+					
+				
+
+			
+					
+						
+							
+					
+				
+
+			
+					
+						
+							
+					
+				
+
+			
+					
+						
+							
+					
+				
+
+			
+					
+						
+							
+					
+				
+
+			
+					
+						
+							
+					
+				
+
+			
+					
+						
+							
+					
+				
+
+			
+					
+						
+							
+					
+				
+
+			
+					
+						
+							
+					
+				
+
+			<div class="cl"></div>		
+	</div>					
+</div>
+</div>
+<div class="cl"></div>
+
+		</div>
+	<!-- googleon: all -->
+</div><!-- googleoff: all -->
+			<script type="text/javascript">
+/* EPOCH time at the end of content Area */
+                var contentEndTimer = Date.now();
+            </script>
+<div class="backtotop"><p><a href="#top">Back to top</a></p></div>
+<div id="tmglFooterLarge">
+		<a href="http://www.telegraph.co.uk/" id="footerlogolink" title="Telegraph.co.uk: news, business, sport, the Daily Telegraph newspaper, Sunday Telegraph - Telegraph"></a>
+		<div id="tmglFooterLargeItems">		
+			<div class="footercolumn">									
+				<ul class="menu1"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/?utm_source=TMG&utm_medium=footer_home&utm_campaign=footerhomelink">HOME</a></li>								
+
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/travel/">Travel</a></li>
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/travel/travelnews/">Travel News</a></li>
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/travel/travel-advice/">Travel Advice</a></li>
+					</ul>
+					
+					<ul class="menu2"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/travel/picturegalleries/">Picture Galleries</a></li>								
+
+					</ul>
+					
+					<ul class="menu3"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/travel/ultratravel/">Luxury Travel</a></li>								
+
+					<li><a  target="_parent" href="http://www.hand-picked.telegraph.co.uk">Hand-picked Deals</a></li>
+					</ul>
+					
+					</div> <div class="footercolumn">
+						<ul class="menu1"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/travel/typesoftrips/">Holiday Type</a></li>								
+
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/travel/cruises/">Cruises</a></li>
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/travel/snowandski/">Snow and Ski</a></li>
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/travel/activityandadventure/">Adventure</a></li>
+					</ul>
+					
+					<ul class="menu2"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/travel/bestbeaches/">Best Beaches</a></li>								
+
+					</ul>
+					
+					<ul class="menu3"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/travel/citybreaks/">City Breaks</a></li>								
+
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/travel/familyholidays/">Family Holidays</a></li>
+					</ul>
+					
+					</div> <div class="footercolumn">
+						<ul class="menu1"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/travel/deal">Travel Deals</a></li>								
+
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/travel/hotel/hotel-deals/">Hotel Deals</a></li>
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/travel/cruises/cruise-deals/">Cruise Deals</a></li>
+					<li><a  target="_parent" href="http://travelmoney.telegraph.co.uk">Travel Money</a></li>
+					</ul>
+					
+					<ul class="menu2"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/sponsored/travel/telegraph-cottages/">Cottage Deals</a></li>								
+
+					</ul>
+					
+					<ul class="menu3"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/travel/travel-competitions/">Travel Competitions</a></li>								
+
+					</ul>
+					
+					</div> <div class="footercolumn">
+						<ul class="menu1"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/travel/destinations/">Destinations</a></li>								
+
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/travel/destinations/europe/france/parisandaround/">Paris</a></li>
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/travel/destinations/europe/france/nice/">Nice</a></li>
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/travel/destinations/europe/italy/rome/">Rome</a></li>
+					</ul>
+					
+					<ul class="menu2"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/travel/destinations/northamerica/usa/newyork/">New York</a></li>								
+
+					</ul>
+					
+					<ul class="menu3"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/travel/destinations/centralamericaandcaribbean/saintlucia/">Saint Lucia</a></li>								
+
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/travel/destinations/asia/hongkong/">Hong Kong</a></li>
+					</ul>
+					
+					</div> <div class="footercolumn">
+						<ul class="menu1"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/topics/about-us/">Contact Us</a></li>								
+
+					<li><a  target="_parent" href="/topics/about-us/3691972/Privacy-and-Cookie-Policy.html">Privacy and Cookies</a></li>
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/advertising/">Advertising</a></li>
+					<li><a  target="_parent" href="http://fantasyfootball.telegraph.co.uk/">Fantasy Football</a></li>
+					</ul>
+					
+					<ul class="menu2"><li class="itemfocus"><a target="_parent" href="http://tickets.telegraph.co.uk/">Tickets</a></li>								
+
+					</ul>
+					
+					<ul>
+					<li><a target="_parent" href="http://announcements.telegraph.co.uk/">Announcements</a></li>
+						<li><a target="_parent" href="http://3276.e-printphoto.co.uk/dailytelegraph/">Reader Prints</a></li>
+						<li><a target="_parent" href=""></a></li>
+						</ul>
+			</div>
+
+			<!-- RSSFeeds Menu-->
+			
+			<div id="footercolumn_last">
+				<ul class="imgBulletList">
+					<li class="footrss"><a target="_parent" href="http://www.telegraph.co.uk/topics/follow-us/">Follow Us</a></li>
+							<li class="footmobile"><a target="_parent" href="http://www.telegraph.co.uk/apps/">Apps</a></li>
+							<li class="footepaper"><a target="_parent" href="http://dailytelegraph.newspaperdirect.com/epaper/viewer.aspx ">Epaper</a></li>
+							<li class=""><a target="_parent" href="http://www.telegraph.co.uk/expat/">Expat</a></li>
+							</ul>
+			
+				<ul class="ullast">
+					<li><a target="_parent" href="http://www.telegraph.co.uk/promotions/">Promotions</a></li>
+						<li><a target="_parent" href="http://subscriber.telegraph.co.uk/loyalty/">Subscriber</a></li>
+						<li><a target="_parent" href="http://www.telegraph.co.uk/topics/syndication-services/">Syndication</a></li>
+						</ul>
+			</div>	
+			<div class="cl"></div>
+		</div> <!-- end of tmglFooterLargeItems div -->
+	
+<div id="footerinfo">
+			<p>&copy; Copyright of Telegraph Media Group Limited 2014</p>
+			<p><a target="_parent" href="http://www.telegraph.co.uk/termsandconditions">Terms and Conditions</a> </p>
+			<p><a target="_parent" href="/archive/2014-6-11.html">Today's News</a></p>
+			<p ><a target="_parent" href="http://www.telegraph.co.uk/archive/">Archive</a></p>
+					<p ><a target="_parent" href="http://www.telegraph.co.uk/topics/about-us/style-book/">Style Book</a></p>
+					<p class="last"><a target="_parent" href="/topics/weather/4142730/Weather-forecast.html">Weather Forecast</a></p>
+					<div class="cl"></div>			
+		</div>
+	</div> <!-- end of tmglFooterLargeNew div -->
+<script type="text/javascript">
+/* EPOCH time at the end of footer */
+                var footerEndTimer = Date.now();
+            </script></div>
+<script type="text/javascript" src="http://js.revsci.net/gateway/gw.js?csid=E06560"></script>
+<script type="text/javascript">
+DM_addToLoc("Site",escape("Telegraph"));
+
+DM_addToLoc("Level1",escape("Travel"));
+	
+DM_addToLoc("Level2",escape("Destinations"));
+	
+DM_addToLoc("Level3",escape("South%20America"));
+	
+DM_addToLoc("Level4",escape("Brazil"));
+	
+DM_tag();
+</script>
+
+<script type="text/javascript" src="/template/ver1-0/js/jquery-ui-1.8.4.custom.min.js"></script>
+<script type="text/javascript" src="/template/ver1-0/js/jquery.tablesorter.js"></script>
+<script type="text/javascript" src="/template/ver1-0/js/jquery.ticker.js"></script>
+
+<script type="text/javascript" src="/template/ver1-0/js/common.js"></script>
+<script type="text/javascript" src="/template/ver1-0/js/viewabilityCode.js"></script>
+<script type="text/javascript" src="/template/ver1-0/js/tmglSlideShow.js"></script>
+<script type="text/javascript" src="/template/ver1-0/js/jquery.cycle.all.js"></script>
+<script type="text/javascript" src="/template/ver1-0/js/supersleight.plugin.js"></script>
+<script type="text/javascript" src="/template/ver1-0/js/tracker.js"></script>
+<link rel="stylesheet" type="text/css" href="/template/ver1-0/css/printArticle.css" media="print" />
+
+	<script type="text/javascript" src="/template/ver1-0/js/liveBloggingArticle.js"> </script>
+<script type="text/javascript">
+			(function() {
+				var links = $("a[href*='disqus_thread']");
+				var query = "";
+				var blogQuery = "";
+				var normal = new Array();
+				var normalCounts = new Array();
+				var blog = new Array();
+				var blogCounts = new Array();
+
+				for(var i = 0; i < links.length; i++) {
+					if (links[i].getAttribute('dsqid')) {
+						var dsqid = links[i].getAttribute('dsqid');
+						if (links[i].className == 'dsqblog') { blogQuery += 'dsqid' + i + '=' + dsqid + '&'; } else { query += 'dsqid' + i + '=' + dsqid + '&'; }
+					}
+				}
+				if (query.length != "" && blogQuery.length != "") {
+					$("a[href*='disqus_thread']") && $("a.dsqblog").each(function(i) {
+						blog[i] = $(this).attr("href");
+						$(this).attr("href","blog_link");
+					});
+					loadScript("http://telegraphuk.disqus.com/get_num_replies_from_dsqid.js?" + query, function() {
+						$("a[href*='disqus_thread']").not(".dsqblog").each(function(i) {
+							normal[i] = $(this).attr("href");
+							normalCounts[i] = $(this).html();
+							$(this).attr("href","normal_link");
+						});
+
+						$("a[href*='blog_link']").each(function(i) { $(this).attr("href",blog[i]); });
+
+						loadScript("http://telegraphblogs.disqus.com/get_num_replies_from_dsqid.js?" + blogQuery, function() {
+							$("a[href*='normal_link']").each(function(i) { $(this).attr("href",normal[i]); });
+						});
+					});
+				} else {
+					document.write('<script charset="utf-8" type="text/javascript" src="http://telegraphuk.disqus.com/get_num_replies_from_dsqid.js?' + query + '"></' + 'script>');
+				}
+			})();
+		</script>
+		<script type="text/javascript" src="/template/ver1-0/js/tmglMultitrackSelector1.js"></script>
+<script type="text/javascript" src="/template/ver1-0/js/popup.js"></script>
+
+<script language="Javascript" type="text/javascript" src="/template/ver1-0/js/poll.js"></script>
+<script type="text/javascript">
+		var _sf_async_config={uid:22437,domain:"telegraph.co.uk"};
+
+		
+			_sf_async_config.sections = "Travel, South America, Brazil, World Cup, Natalie Paris";
+		
+			_sf_async_config.authors = "Natalie Paris";
+		
+
+		(function(){
+			function loadChartbeat() {
+			window._sf_endpt=(new Date()).getTime();
+			var e = document.createElement('script');
+			e.setAttribute('language', 'javascript');
+			e.setAttribute('type', 'text/javascript');
+			e.setAttribute('src',
+			(("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://") +
+			"static.chartbeat.com/js/chartbeat.js"); document.body.appendChild(e);
+		}
+		var oldonload = window.onload;
+		window.onload = (typeof window.onload != 'function') ?
+		loadChartbeat : function() { oldonload(); loadChartbeat(); }; })();
+	</script>
+<script type="text/javascript"> 
+			var skimlinks_script = document.createElement('script'); 
+			    skimlinks_script.type = 'text/javascript'; 
+			    skimlinks_script.async = 'true';
+			    skimlinks_script.src = 'http://s.skimresources.com/js/296X674.skimlinks.js';
+			var skimlinks_script_attach = document.getElementsByTagName('script')[0]; 
+			skimlinks_script_attach.parentNode.insertBefore(skimlinks_script, skimlinks_script_attach.nextSibling); 
+		</script>
+	<!-- START Nielsen Online SiteCensus V6.0 -->
+		<!-- COPYRIGHT 2010 Nielsen Online -->
+		<script type="text/javascript" src="//secure-uk.imrworldwide.com/v60.js">
+		</script>
+		<script type="text/javascript">
+			 var pvar = { cid: "uk-101665h", content: "0", server: "secure-uk" };
+			 var feat = { surveys_enabled: 1 };
+			 var trac = nol_t(pvar, feat);
+			 trac.record().post().do_sample();
+		</script>
+		<noscript>
+		 <div>
+			 <img src="//secure-uk.imrworldwide.com/cgi-bin/m?ci=uk-101665h&amp;cg=0&amp;cc=1&amp;ts=noscript"
+			 width="1" height="1" alt="" />
+		 </div>
+		</noscript>
+		<!-- END Nielsen Online SiteCensus V6.0 -->
+	<script type="text/javascript">
+		g_opt_ch = '{}';g_opt_cv = '{}';g_opt_b = true;g_opt_s = true;</script>
+<script type="text/javascript">
+		var s = document.createElement('script');
+		s.type='text/javascript';
+		s.src = "http://cdn.gigya.com/js/socialize.js?apikey=2_ASmwJuFXoCCY8YP8uB6mzZphj_UToZbQkeeM6bMOA8swtMk2P3Rwu2WSger_DOSt";
+		document.getElementsByTagName('head')[0].appendChild(s);
+
+		function onGigyaServiceReady(e) {
+			var s = document.createElement('script');
+			s.type='text/javascript';
+			s.src = "/template/ver1-0/js/shareTools.js";
+			document.getElementsByTagName('head')[0].appendChild(s);
+		}
+	</script>
+<script type="text/javascript">
+		document.write(tmgAdsBuildAdTag("ftr", "1x1", "adj", "", 2));
+		</script>
+	<script type="text/javascript" src='/template/ver1-0/js/aws-sdk-2.0.0-rc9.min.js' async="async"></script> 
+<script type="text/javascript" src='/template/ver1-0/js/hmac-sha256.js' async="async"></script>	
+<script type="text/javascript" src='/template/ver1-0/js/sha256.js' async="async"></script>	
+<script type="text/javascript" src='/template/ver1-0/js/viewability.js' async="async"></script>
+</body>
+</html>
+
+<!-- googleon: all -->
+
+
