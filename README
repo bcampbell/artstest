@@ -69,3 +69,15 @@ something human readable (eg a slug).
 
 
 
+
+Grabbing .warc files using wget
+-------------------------------
+
+wget >=1.14 supports outputing to warc files.
+
+eg:
+
+  $ wget --warc-file moon-made-of-cheese --no-warc-digests --no-warc-keep-log --no-warc-compression http://www.example.com/moon-made-of-cheese.html
+
+
+

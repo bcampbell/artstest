@@ -1,0 +1,787 @@
+WARC/1.0
+Content-Length: 36841
+Content-Type: application/http; msgtype=response
+Warc-Date: 2014-09-01T00:27:42Z
+Warc-Record-Id: urn:X-scrapeomat:1409531264642227003
+Warc-Target-Uri: http://www.eveningtimes.co.uk/entertainment/theatre/dead-good-fun-on-the-city-streets-177056n.25102382
+Warc-Type: response
+X-Scrapeomat-Srcurl: http://www.eveningtimes.co.uk/entertainment/theatre/dead-good-fun-on-the-city-streets-177056n.25102382
+
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Cache-Control: max-age=0
+Content-Type: text/html
+Date: Mon, 01 Sep 2014 00:27:44 GMT
+Etag: "1838343-8eae-501e2de0a31c0"
+Expires: Mon, 01 Sep 2014 00:27:44 GMT
+Last-Modified: Sun, 31 Aug 2014 01:33:03 GMT
+Server: Apache/2.2.22 (Unix)
+Vary: User-Agent,Accept-Encoding
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" xmlns:og="http://ogp.me/ns#">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en" xmlns:og="http://ogp.me/ns#">
+<!--<![endif]-->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=edge; chrome=1"/>
+<meta charset="utf-8"/>
+<meta name="author" content="Evening Times" />
+<title>Dead good fun on the city streets | Evening Times</title>
+<meta property="og:title" content="Dead good fun on the city streets" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.eveningtimes.co.uk/entertainment/theatre/dead-good-fun-on-the-city-streets-177056n.25102382" />
+<meta property="og:site_name" content="Evening Times" />
+<meta property="og:description" content="TERRIFYING zombies will descend on the streets of Glasgow as part of an urban chase game." />
+<meta property="og:image" content="http://www.eveningtimes.co.uk/sites/default/files/2014/8/25108888.jpg" />
+<meta property="og:image" content="http://www.eveningtimes.co.uk/sites/all/themes/custom/eveningtimes/img/fallback/et-opengraph.png" />
+<!-- Stylesheets -->
+<link rel="stylesheet" href="http://www.eveningtimes.co.uk/sites/all/themes/custom/eveningtimes/compressed/eveningtimes-1510.min.css" />
+<!--[if IE 7]>
+<link rel="stylesheet" type="text/css" href="http://www.eveningtimes.co.uk/sites/all/themes/custom/eveningtimes/compressed/ie7.min.css">
+<![endif]-->
+<!-- Google Fonts -->
+<link href='http://fonts.googleapis.com/css?family=Oswald:700' rel='stylesheet' type='text/css'>
+<!-- Fav and touch icons -->
+<link rel="shortcut icon" href="http://www.eveningtimes.co.uk/sites/all/themes/custom/eveningtimes/img/favicon.ico">
+<link rel="apple-touch-icon" sizes="144x144" href="http://www.eveningtimes.co.uk/sites/all/themes/custom/eveningtimes/img/apple/apple-touch-icon-144-precomposed.png">
+<link rel="apple-touch-icon" sizes="114x114" href="http://www.eveningtimes.co.uk/sites/all/themes/custom/eveningtimes/img/apple/apple-touch-icon-114-precomposed.png">
+<link rel="apple-touch-icon" sizes="72x72" href="http://www.eveningtimes.co.uk/sites/all/themes/custom/eveningtimes/img/apple/apple-touch-icon-72-precomposed.png">
+<link rel="apple-touch-icon" href="http://www.eveningtimes.co.uk/sites/all/themes/custom/eveningtimes/img/apple/apple-touch-icon-57-precomposed.png">
+<script type="text/javascript">
+            m__tLogged = "";
+                            /*
+                 * Google Analytics
+                 */
+                var _gaq = _gaq || [];
+                _gaq.push(['_setAccount', 'UA-27067114-1']);
+                _gaq.push(['_setDomainName', 'eveningtimes.co.uk']);
+                _gaq.push(['_setLocalRemoteServerMode']);
+                                    _gaq.push(['_trackPageview']);
+                                
+        
+                (function() {
+                    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+                })();
+                    </script>
+</head>
+<body  class="no-sidebars node-view-page not-front not-logged-in page-node node-type-article no-sidebars">
+<div id="takeover">
+<div id="nqcontainer" class="clearfix">
+<div id="header" class="twelve columns edge">
+<div id="DFP_top_leaderboard"></div>
+</div>
+<div id="logo-area" class="twelve columns edge">
+<div id="logo" class="five columns" itemscope itemtype="http://schema.org/Organisation">
+<a itemprop="url" href="http://www.eveningtimes.co.uk/">
+<span itemprop="name">Evening Times</span>
+</a>
+<a href="http://www.eveningtimes.co.uk/"><p>Nobody Knows Glasgow Better</p></a>
+</div>
+<ul id="login-menu" class="two columns edge">
+<li class="social-icons">
+<div class="facebook-link"><a href="http://www.facebook.com/eveningtimes" target="_blank" class="facebook-icon">Facebook</a></div>
+<div class="twitter-link"><a href="https://twitter.com/TheEveningTimes" target="_blank" class="twitter-icon">Twitter</a></div>
+</li>
+<li class="hello"></li>
+<li class="my-links"></li>
+<li>
+<div id="search_box_top" class="clearfix">
+<form action="http://www.eveningtimes.co.uk/search"  accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="search" class="clearfix"><div class="form-item" id="edit-search-theme-form-1-wrapper">
+<input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-1" size="15" value="" title="Enter the terms you wish to search for." class="form-text" />
+</div>
+<input type="hidden" name="form_build_id" id="form-0039eacc8db4f4180b3da5b52cdf568d" value="form-0039eacc8db4f4180b3da5b52cdf568d"  />
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
+<div id="top-search-button"><input type="submit" name="op" id="" value="&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"  class="form-submit" />
+</div></div>
+</div></form>
+</div>
+</li>
+</ul>
+<div id="weather-box">
+<div id="weather-info">
+<div class="weather-text">
+<div id="header-date"><span>Thursday<br />21 August 2014</span></div>
+<div class="weather-details clearfix">
+<h3 id="weather-location"></h3>
+<h3 id="maxtemp"></h3>
+</div>
+</div>
+<div id="weather-icon">
+<img src="http://www.eveningtimes.co.uk/sites/all/themes/custom/eveningtimes/img/weather/na.png">
+</div>
+</div>
+<a class="change-location" href="/weather" id="change-loc">Change Location</a>
+</div>
+</div><!--/logo-area-->
+<div id="nav" class="twelve columns edge">
+<ul id="primary-links">
+<li class="mini-logo"><a href="http://www.eveningtimes.co.uk/"></a></li>
+<li class="off"><a href="/news">News</a>
+</li>
+<li class="off"><a href="/celtic">Celtic</a>
+<ul id="secondary-links">
+<li ><a href="/celtic/news"><span>News</span></a></li>
+<li ><a href="/celtic/comment"><span>Comment</span></a></li>
+</ul>
+</li>
+<li class="off"><a href="/rangers">Rangers</a>
+<ul id="secondary-links">
+<li ><a href="/rangers/news"><span>News</span></a></li>
+<li ><a href="/rangers/comment"><span>Comment</span></a></li>
+</ul>
+</li>
+<li class="off"><a href="/sport">Sport</a>
+<ul id="secondary-links">
+<li ><a href="/sport/partick-thistle"><span>Partick Thistle</span></a></li>
+<li ><a href="/sport/spfl"><span>SPFL</span></a></li>
+<li ><a href="/sport/juniors"><span>Juniors</span></a></li>
+<li ><a href="/sport/other-football"><span>Other Football</span></a></li>
+<li ><a href="/sport/rugby"><span>Rugby</span></a></li>
+<li ><a href="/sport/boxing"><span>Boxing</span></a></li>
+<li ><a href="/sport/other"><span>Other</span></a></li>
+</ul>
+</li>
+<li class="on"><a href="/entertainment">Entertainment</a>
+<ul id="secondary-links">
+<li ><a href="/entertainment/music"><span>Music</span></a></li>
+<li ><a href="/entertainment/film"><span>Film</span></a></li>
+<li class="selected-sub"><a href="/entertainment/theatre"><span>Theatre</span></a></li>
+<li ><a href="/entertainment/tv-radio"><span>TV and Radio</span></a></li>
+<li ><a href="/entertainment/clubs"><span>Clubs</span></a></li>
+<li ><a href="/entertainment/games"><span>Games</span></a></li>
+</ul>
+</li>
+<li class="off"><a href="/lifestyle">Lifestyle</a>
+<ul id="secondary-links">
+<li ><a href="/lifestyle/active-2014"><span>Active 2014</span></a></li>
+<li ><a href="/lifestyle/fashion"><span>Fashion</span></a></li>
+<li ><a href="/lifestyle/food-drink"><span>Food and Drink</span></a></li>
+<li ><a href="/lifestyle/expert-advice"><span>Expert Advice</span></a></li>
+<li ><a href="/lifestyle/memories"><span>Memories</span></a></li>
+</ul>
+</li>
+<li class="off"><a href="/opinion">Opinion</a>
+<ul id="secondary-links">
+<li ><a href="/opinion/columnists"><span>Columnists</span></a></li>
+<li ><a href="/opinion/et-view"><span>ET View</span></a></li>
+<li ><a href="/opinion/letters"><span>Letters</span></a></li>
+</ul>
+</li>
+<li class="off"><a href="/campaigns">Campaigns</a>
+<ul id="secondary-links">
+<li ><a href="/campaigns/brick-by-brick"><span>Brick by Brick</span></a></li>
+<li ><a href="/campaigns/streets-ahead"><span>Streets Ahead</span></a></li>
+<li ><a href="/campaigns/opt-for-life"><span>Opt for Life</span></a></li>
+<li ><a href="/campaigns/community-champions"><span>Community Champions</span></a></li>
+</ul>
+</li>
+<li class="off"><a href="http://www.timesout.co.uk">Times Out</a>
+</li>
+<li class="scroll-to-top"><a class="scroll-to-top" href="#"></a></li>
+</ul>
+<ul id="tertiary-links"><li class="menu-3458 first"><a href="/services/advertising" title="">Book an ad</a></li>
+<li class="menu-3432"><a href="http://familynotices.eveningtimes.co.uk/" title="">Family Notices</a></li>
+<li class="menu-3457"><a href="http://www.twoscompany.co.uk/eveningtimes/" title="">Dating</a></li>
+<li class="menu-3429"><a href="http://www.heralddrive.co.uk" title="">Herald Drive</a></li>
+<li class="menu-3428"><a href="/services/property" title="">Property</a></li>
+<li class="menu-3459 last"><a href="/services/jobs" title="">Jobs</a></li>
+</ul>
+</div>
+<div id="container" class="twelve columns edge">
+<div id="op-content" class="page eight columns twentytwo-margin">
+<div id="op-content" class="eight columns" itemscope itemtype="http://schema.org/Article"  data-article-source="prestige">
+<div class="next-prev-bar">
+<div class="prev-article">
+<div class="article-horizontal-arrow">
+<a href="#"></a>
+</div>
+<a href="#" class="text-link"></a>
+</div>
+<div class="next-article">
+<div class="article-horizontal-arrow">
+<a href="#"></a>
+</div>
+<a href="#" class="text-link"></a>
+</div>
+</div>
+<h1 class="article-title">
+<span itemprop="headline">Dead good fun on the city streets</span>
+</h1>
+<h2 class="article-abstract"  itemprop="description">
+<p>TERRIFYING zombies will descend on the streets of Glasgow as part of an urban chase game.</p>
+</h2>
+<div class="article-essentials">
+<div class="user-profile">
+<div class="user-image">
+<a href="/rebecca-gray"><img src="/sites/default/files/imagecache/author_photo/Rebecca_Gray_210x210.jpg" alt="Rebecca Gray"></a>
+</div>
+<div class="user-info">
+<span class="user-name" itemprop="author"><a href="/rebecca-gray" rel="author">Rebecca Gray</a></span>
+<span class="user-title">Crime Reporter</span>
+</div>
+</div>
+<div class="article-date">
+<span itemprop="dateCreated">Thursday 21/08/2014</span>
+</div>
+<div class="article-comments">
+<span itemprop="comment"><a href="http://www.eveningtimes.co.uk/entertainment/theatre/dead-good-fun-on-the-city-streets-177056n.25102382#disqus_thread">Loading Comments</a></span>
+</div>
+<div class="article-share">
+<span><a href="http://login.eveningtimes.co.uk/send-to-a-friend.cgi?url=http://www.eveningtimes.co.uk/entertainment/theatre/dead-good-fun-on-the-city-streets-177056n.25102382">Share</a></span>
+</div>
+<div class="article-print">
+<span><a href="#" class="print-icon">Print</a></span>
+</div>
+</div><!--/article-essentials-->
+<div class="article-image">
+<img src="http://www.eveningtimes.co.uk/sites/default/files/imagecache/400xY/2014/8/25108888.jpg" alt="" title=""  class="imagecache imagecache-400xY" / itemprop="image">
+</div>
+<div class="article-content" itemprop="articleBody">
+<p>Hordes of the living dead will stagger across the city during two nights of terror - and people of all ages are desperate to take on the monsters in an adrenaline filled game.</p>
+<p>Almost 2000 people will take part in the game in Glasgow, which was the setting for an undead army when Brad Pitt film World War Z was filmed in George Square.</p>
+<p>A number of roads in Scotland Street industrial estate will close between 6pm and midnight tonight, Friday and Saturday, to allow the action to take place. </p>
+<p>The cult street game 2.8 Hours Later, which also took place over two nights earlier this month, involves participants trying to escape the zombies who are out to get them.</p>
+<p>Decisions are made by players along the way which have repercussions on the route they take, the characters they meet and their chances of success.</p>
+<p>Roads, including Watt Street, Vermont Street, Stanley Street, Scotland Street West, Portman Street, and Admiral Street, will be affected by closures.</p>
+<p>Co-founder Simon Evans said: "We are delighted to be returning to Glasgow for a third year.</p>
+<p>"The game has always been received with enthusiasm, and the city has one of our strongest fan groups and loyal zombies.</p>
+<p>"It is a totally unique activity and a great way to have fun with your friends as you basically become a character in your own horror film or video game."</p>
+<p>rebecca.gray@                             eveningtimes.co.uk</p>
+</div>
+<div id='taboola-autosized-generated-2r'></div>
+<ul id="article-share-bar">
+<li class="facebook-social-button">
+<div class="fb-like" data-send="true" data-layout="button_count" data-width="450" data-show-faces="true" data-action="recommend"></div>
+</li><!--/facebook-share-button-->
+<li class="twitter-social-button">
+<a href="https://twitter.com/share" class="twitter-share-button" data-via="TheEveningTimes">Tweet</a>
+</li><!--/twitter-share-button-->
+<li class="google-social-button">
+<div class="g-plus" data-action="share" data-annotation="bubble"></div>
+</li><!--/google-share-button-->
+<li class="linkedin-social-button">
+<script type="IN/Share" data-counter="right"></script>
+</li><!--/linkedin-share-button-->
+</ul><!--/article-share-bar-->
+<div id="disqus_comments_section" class="disqus-comments sixteen-margin">
+<div class="rules">
+<div class="comment_and_moderation_et_logo">
+<img src="/sites/all/themes/custom/eveningtimes/img/comment_moderation/comment_and_moderation_et_logo.png">
+</div>
+<h3>Commenting &amp; Moderation</h3>
+<p>We moderate all comments on Evening Times on either a pre-moderated or post-moderated basis. If you're a relatively new user then your comments will be reviewed before publication and if we know you well and trust you then your comments will be subject to moderation only if other users or the moderators believe you've broken the rules</p>
+<div class="rules-btn">
+<a href="http://www.eveningtimes.co.uk/misc/comments">Read the new Rules Here</a>
+</div>
+</div>
+<div class="rules-details">
+<p>Moderation is undertaken full-time 9am-6pm on weekdays, and on a part-time basis outwith those hours. Please be patient if your posts are not approved instantly.</p>
+</div>
+</div>
+<div id="disqushold" style="clear:both">
+<div id="disqus_thread" style="clear:both">
+</div>
+</div>
+</div>
+<div class="article-nid">177056</div>
+</div>
+<div id="aside" class="four columns edge">
+<div id="block-block-62" class="block block-block">
+<div class="content">
+<div class="story-blurb sixteen-margin">
+<h3>Have you got a story?</h3>
+<span>Contact the news desk on 0141 302 6520</span>
+<span>or email <a href="mailto:news@eveningtimes.co.uk">news@eveningtimes.co.uk</a></span>
+</div>
+</div>
+</div>
+<div id="block-block-63" class="block block-block">
+<div class="content">
+<div id="DFP_premium_mpu" class="twentytwo-margin"></div>
+</div>
+</div>
+<div id="block-block-10" class="block block-block">
+<div class="content">
+<div id="most-read" class="sixteen-margin">
+<ul class="nav">
+<li class="nav-one"><a href="#most-read" class="current">Most Read</a></li>
+<li class="nav-two"><a href="#most-commented">Most Commented</a></li>
+</ul>
+<div class="list-wrap">
+<ol id="most-read"></ol>
+<ol id="most-commented" class="hide"></ol>
+</div>
+</div>
+</div>
+</div>
+<div id="block-block-69" class="block block-block">
+<div class="content">
+<div class="feature sixteen-margin">
+<a href="/opinion/columnists/gails-gab-water-shortages-and-the-uks-grotesque-wage-gap.1408433235" title="Putting the world to rights"><img src="/sites/default/files/Gail.jpg" alt="Games news:" /></a>
+<div class="aside-feature-info">
+<p>Putting the world to rights</p>
+<h2><a href="/opinion/columnists/gails-gab-water-shortages-and-the-uks-grotesque-wage-gap.1408433235" title="Putting the world to rights">Gail's Gab</a></h2>
+<p>Water shortages and the UK's grotesque wage gap</p>
+</div>
+</div>
+</div>
+</div>
+<div id="block-block-15" class="block block-block">
+<div class="content">
+<div class="marketing-ad sixteen-margin"><a href="http://www.timesout.co.uk" title="Times Out" target="_blank"><img src="/sites/default/files/timesoutpuff.jpg" alt="Times Out" /></a></div>
+</div>
+</div>
+<div id="block-views-nodequeue_101-block_1" class="block block-views">
+<div class="content">
+<div class="view view-nodequeue-101 view-id-nodequeue_101 view-display-id-block_1 view-dom-id-10">
+<div class="view-content">
+<div id="lifestyle" class="sixteen-margin aside-block">
+<h2 class="sixteen-margin"><a href="/entertainment">Entertainment</a></h2>
+<ul>
+<li class="views-row views-row-1 views-row-odd views-row-first clearfix">
+<a href="/entertainment/theatre/review-ant-and-decs-saturday-night-take-away-live-sse-hydro-glasgow.1408486637" class="imagecache imagecache-article_thumbnail imagecache-linked imagecache-article_thumbnail_linked"><img src="http://www.eveningtimes.co.uk/sites/default/files/imagecache/article_thumbnail/ANT_DEC_NP006.jpg" alt="" title="Picture: Nick Ponty"  class="imagecache imagecache-article_thumbnail" width="140" height="93" /></a><div class="aside-article-info">
+<h4><a href="/entertainment/theatre/review-ant-and-decs-saturday-night-take-away-live-sse-hydro-glasgow.1408486637">Review: Ant and Dec&#039;s Saturday Night Takeaway Live, SSE Hydro, Glasgow</a></h4>
+<p>Verdict: Five Stars</p>
+<div class="aside-article-text-fade"></div>
+</div>
+</li>
+<li class="views-row views-row-2 views-row-even clearfix">
+<a href="/entertainment/theatre/joey-essex-leads-ant-and-decs-gang-of-loveable-showbiz-pals-at-glasgow-show.1408522716" class="imagecache imagecache-article_thumbnail imagecache-linked imagecache-article_thumbnail_linked"><img src="http://www.eveningtimes.co.uk/sites/default/files/imagecache/article_thumbnail/2014/8/1408522716-891.jpg" alt="" title=""  class="imagecache imagecache-article_thumbnail" width="140" height="93" /></a><div class="aside-article-info">
+<h4><a href="/entertainment/theatre/joey-essex-leads-ant-and-decs-gang-of-loveable-showbiz-pals-at-glasgow-show.1408522716">Joey Essex leads Ant and Dec&#039;s gang of loveable showbiz pals at Glasgow show</a></h4>
+<p>Ant and Dec aren't short of any celebrity friends which is perhaps why their Saturday Night Takeaway Show Live is bursting with cameos from TV favourites.</p>
+<div class="aside-article-text-fade"></div>
+</div>
+</li>
+<li class="views-row views-row-3 views-row-odd clearfix">
+<a href="/entertainment/music/review-the-killers-bellahouston-park-glasgow.1408510266" class="imagecache imagecache-article_thumbnail imagecache-linked imagecache-article_thumbnail_linked"><img src="http://www.eveningtimes.co.uk/sites/default/files/imagecache/article_thumbnail/2014/8/1408510266-718.jpg" alt="" title=""  class="imagecache imagecache-article_thumbnail" width="140" height="93" /></a><div class="aside-article-info">
+<h4><a href="/entertainment/music/review-the-killers-bellahouston-park-glasgow.1408510266">Review: The Killers, Bellahouston Park, Glasgow</a></h4>
+<p>Lisa-Marie Ferla's verdict: three stars</p>
+<div class="aside-article-text-fade"></div>
+</div>
+</li>
+<li class="views-row views-row-4 views-row-even views-row-last clearfix">
+<a href="/entertainment/theatre/connolly-may-have-been-ill-for-10-years-176918n.25095215" class="imagecache imagecache-article_thumbnail imagecache-linked imagecache-article_thumbnail_linked"><img src="http://www.eveningtimes.co.uk/sites/default/files/imagecache/article_thumbnail/2014/8/25099704.jpg" alt="" title="Pamela Stephenson said Connolly was &#039;his usual curmudgeonly, lovable self&#039;"  class="imagecache imagecache-article_thumbnail" width="140" height="93" /></a><div class="aside-article-info">
+<h4><a href="/entertainment/theatre/connolly-may-have-been-ill-for-10-years-176918n.25095215">Pamela Stephenson: Billy Connolly may have been ill for 10 years</a></h4>
+<p>COMEDY star Billy Connolly could have had Parkinson&#39;s disease for around 10 years before it was diagnosed, his wife has revealed.</p>
+<div class="aside-article-text-fade"></div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="block-block-79" class="block block-block">
+<div class="content">
+<div id="DFP_mini_banner_1"></div>
+<div id="DFP_mini_banner_2"></div>
+<div id="DFP_mini_banner_3"></div>
+<div id="DFP_mini_banner_4"></div>
+</div>
+</div>
+<div id="block-views-nodequeue_100-block_1" class="block block-views">
+<div class="content">
+<div class="view view-nodequeue-100 view-id-nodequeue_100 view-display-id-block_1 view-dom-id-11">
+<div class="view-content">
+<div id="lifestyle" class="sixteen-margin aside-block">
+<h2 class="sixteen-margin"><a href="/lifestyle">Lifestyle</a></h2>
+<ul>
+<li class="views-row views-row-1 views-row-odd views-row-first clearfix">
+<a href="/lifestyle/memories/hospital-treats-from-tuck-trolley-176899n.25092057" class="imagecache imagecache-article_thumbnail imagecache-linked imagecache-article_thumbnail_linked"><img src="http://www.eveningtimes.co.uk/sites/default/files/imagecache/article_thumbnail/2014/8/25093649.jpg" alt="" title=""  class="imagecache imagecache-article_thumbnail" width="140" height="93" /></a><div class="aside-article-info">
+<h4><a href="/lifestyle/memories/hospital-treats-from-tuck-trolley-176899n.25092057">Hospital treats from tuck trolley</a></h4>
+<p>IT'S never much fun being in hospital, but at least these guys at Glasgow's Royal Infirmary had the daily delights of the mobile tuck shop to look forward to.</p>
+<div class="aside-article-text-fade"></div>
+</div>
+</li>
+<li class="views-row views-row-2 views-row-even clearfix">
+<a href="/lifestyle/fashion/t-shirts-prove-perfect-fit-to-boost-charities-176848n.25086984" class="imagecache imagecache-article_thumbnail imagecache-linked imagecache-article_thumbnail_linked"><img src="http://www.eveningtimes.co.uk/sites/default/files/imagecache/article_thumbnail/2014/8/25094296.jpg" alt="" title="Limited edition T-shirts are available from fashion brand Lovelin"  class="imagecache imagecache-article_thumbnail" width="140" height="93" /></a><div class="aside-article-info">
+<h4><a href="/lifestyle/fashion/t-shirts-prove-perfect-fit-to-boost-charities-176848n.25086984">T-shirts prove  perfect fit to boost charities</a></h4>
+<p>THE founders behind a new fashion brand Lovelin, which launched earlier  this month, are  firmly focused on &shy;giving back.</p>
+<div class="aside-article-text-fade"></div>
+</div>
+</li>
+<li class="views-row views-row-3 views-row-odd clearfix"><div class="aside-article-info">
+<h4><a href="/lifestyle/expert-advice/is-ear-wax-making-me-deaf-176837n.25083452">Is ear wax making me deaf?</a></h4>
+<p>I have been experiencing slight hearing loss recently and my husband thinks it could be wax build up.</p>
+<div class="aside-article-text-fade"></div>
+</div>
+</li>
+<li class="views-row views-row-4 views-row-even views-row-last clearfix">
+<a href="/lifestyle/memories/red-crosss-role-in-the-great-war-176656n.24965067" class="imagecache imagecache-article_thumbnail imagecache-linked imagecache-article_thumbnail_linked"><img src="http://www.eveningtimes.co.uk/sites/default/files/imagecache/article_thumbnail/2014/8/25085934.jpg" alt="" title="Stobhill was used as a Red Cross Auxiliary Hospital"  class="imagecache imagecache-article_thumbnail" width="140" height="93" /></a><div class="aside-article-info">
+<h4><a href="/lifestyle/memories/red-crosss-role-in-the-great-war-176656n.24965067">Red Cross&#039;s role in the Great War</a></h4>
+<p>THEY were the unsung heroes of World War One.</p>
+<div class="aside-article-text-fade"></div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="block-block-13" class="block block-block">
+<div class="content">
+<div class="marketing-ad sixteen-margin"><a href=" http://www.eveningtimes.co.uk/article/video-evening-times-launches-tv-advert-new-city-guide-and-times-out-website" title="TV Advert" ><img src="/sites/default/files/eveningtimesadvert.jpg" alt="TV Advert" /></a></div>
+</div>
+</div>
+<div id="block-block-86" class="block block-block">
+<div class="content">
+<div class="regular-content sixteen-margin">
+<a href="/author/you-couldnt-make-this-up" title="Janice Bell"><img src="/sites/default/files/Janice_Sidebar_Block.jpg" alt="Janice Bell" /></a>
+<div class="aside-regular-info">
+<h3><a href="/author/you-couldnt-make-this-up" title="Janice Bell">Janice Bell</a></h3>
+<p>You couldn’t make up half the stuff that happens to PA Janice Bell- some of the jams she gets herself into are worth a story or two.</p>
+</div>
+</div>
+</div>
+</div>
+<div id="block-block-67" class="block block-block">
+<div class="content">
+<div class="feature sixteen-margin">
+<a href="/opinion/columnists/cats-eyes-on-glasgow-charlie-flynn-packs-a-punch-with-his-words-and-i-am-spinning.1407481593" title="Introducing"><img src="/sites/default/files/Cubie.jpg" alt="A weekly round up of social highlights" /></a>
+<div class="aside-feature-info">
+<p>A weekly round up of social highlights</p>
+<h2><a href="/opinion/columnists/cats-eyes-on-glasgow-charlie-flynn-packs-a-punch-with-his-words-and-i-am-spinning.1407481593" title="A weekly round up of social highlights">Cat's Eyes on Glasgow</a></h2>
+<p>Charlie Flynn packs a punch with his words and I am spinning around to Kylie</p>
+</div>
+</div>
+</div>
+</div>
+<div id="block-block-87" class="block block-block">
+<div class="content">
+<div class="regular-content sixteen-margin">
+<a href="/michelle-mcmanus" title="Michelle McManus"><img src="/sites/default/files/michelle-small.jpg" alt="Michelle McManus" /></a>
+<div class="aside-regular-info">
+<h3><a href="/michelle-mcmanus" title="Michelle McManus">Michelle McManus</a></h3>
+<p>Columnist Michelle McManus is Sussed in the City, and loves to chat about anything and everything. </p>
+</div>
+</div>
+</div>
+</div>
+<div id="block-block-14" class="block block-block">
+<div class="content">
+<div id="DFP_standard_mpu_1" class="twentytwo-margin"></div>
+</div>
+</div>
+<div id="block-block-70" class="block block-block">
+<div class="content">
+<div id="traffic-info" class="sixteen-margin">
+<h2><a href="#">Traffic</a></h2>
+<ul>
+<li>
+<a href="http://trafficscotland.org/" id="traffic-car">Car</a>
+</li>
+<li>
+<a href="http://www.firstgroup.com/ukbus/" id="traffic-bus">Bus</a>
+</li>
+<li class="edge">
+<a href="http://www.scotrail.co.uk/" id="traffic-train">Train</a>
+</li>
+<li>
+<a href="http://www.calmac.co.uk/" id="traffic-ship">Ship</a>
+</li>
+<li>
+<a href="http://www.glasgowairport.com/" id="traffic-plane">Plane</a>
+</li>
+<li class="edge">
+<a href="http://www.spt.co.uk/subway/" id="traffic-subway">Subway</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div><!--/container-->
+</div><!--/wrapper-->
+<div id="footer">
+<div id="footer-wrapper">
+<ul>
+<li class="two columns no-border">
+<ul>
+<li class="et-footer-logo">Evening Times</li>
+<li>&copy; Copyright <span class="current-year">2014</span></li>
+<li><a href="/misc/about-hs">Herald &amp; Times Group</a></li>
+<li>All rights reserved</li>
+</ul>
+<ul>
+<li><a href="/misc/terms-and-conditions">Terms &amp; Conditions</a></li>
+<li><a href="/misc/privacy-policy">Privacy Policy</a></li>
+<li><a href="http://www.s1jobs.com/search/results.cgi?corestrict=Herald%20%26%20Times%20Ltd" target="_blank">Employment</a></li>
+</ul>
+</li>
+<li class="two columns">
+<h2>Our News Services</h2>
+<ul>
+<li><a href="/mobile">Mobile</a></li>
+<li><a href="/misc/circulation">Newspaper</a></li>
+<li><a href="http://eveningtimes.newspaperdirect.com/epaper/viewer.aspx" target="_blank">Digital Editions</a></li>
+<li><a href="/misc/back-issues">Back Issues</a></li>
+<li><a href="/services/feeds">Email, Twitter, RSS</a></li>
+<li><a href="/misc/syndication">Syndication</a></li>
+<li><a href="/homedelivery">Home Delivery</a></li>
+</ul>
+</li>
+<li class="two columns">
+<h2>Our Advertising Services</h2>
+<ul>
+<li><a href="http://familynotices.eveningtimes.co.uk/">Family Notices</a></li>
+<li><a href="/services/advertising">Book Your Newspaper Ad online</a></li>
+<li><a href="http://www.heraldandtimesadvertising.co.uk">Contact the Sales Team</a></li>
+<li><a href="/go/advertising-information/advertising-downloads">The Facts and Figures</a></li>
+<li><a href="/services/view-newspaper-ads">View Newspaper Ads</a></li>
+<li><a href="/commercial-features">Commercial Features</a></li>
+</ul>
+</li>
+<li class="two columns">
+<h2>Our Personal Services</h2>
+<ul>
+<li><a href="/evening-times-help-faqs-1.1079307">Help, Feedback &amp; Contact</a></li>
+<li><a href="http://www.twoscompany.co.uk/eveningtimes/">Dating</a></li>
+<li><a target="_blank" href="http://eveningtimes.reader.travel/home.php">Travel Services</a></li>
+<li><a target="_blank" href="http://glasgowheraldandtimes.newsprints.co.uk/">Photo Sales</a></li>
+<li><a href="/sudoku">Sudoku</a></li>
+</ul>
+</li>
+<li class="two columns">
+<h2>Our Colleagues</h2>
+<ul>
+<li><a href="http://www.heraldscotland.com" target="_blank">Herald Scotland</a></li>
+<li><a href="http://www.scotlandshomes.co.uk/" target="_blank">Scotland's Homes</a></li>
+<li><a href="http://www.thescottishfarmer.co.uk/" target="_blank">The Scottish Farmer</a></li>
+<li><a href="http://www.scottishhorse.co.uk/" target="_blank">Scottish Horse</a></li>
+<li><a href="http://www.heralddrive.co.uk/" target="_blank">Herald Drive</a></li>
+<li><a href="http://www.timesout.co.uk/" target="_blank">Times Out</a></li>
+</ul>
+</li>
+<li class="two columns edge our-network" style="border: 0px;">
+<h2>&nbsp;</h2>
+<ul>
+<li><a href="http://www.newsquest.co.uk/" target="_blank">Newsquest Media Group</a></li>
+<li><a href="http://www.scottishnewspaperprinters.co.uk" target="_blank">Scottish Newspaper Printers</a></li>
+<li><a href="http://www.s1homes.com/" target="_blank">s1homes.com</a></li>
+<li><a href="http://www.s1rental.com/" target="_blank">s1rental.com</a></li>
+<li><a href="http://www.s1jobs.com/" target="_blank">s1jobs.com</a></li>
+</ul>
+</li>
+</ul>
+</div><!--/footer wrapper-->
+</div><!--/footer-->
+</div>
+<!--/outer-wrapper-->
+<!--scripts-->
+<script language="javascript">
+var ht__url = function() {
+  return "http://www.eveningtimes.co.uk";  
+}
+
+var ht__urlLogin = function() {
+    var url = ht__url();
+
+    url = "http://login" + url.substring(url.indexOf("."));
+    
+    return url;    
+}
+
+var ht__urlToTheme = function() {
+    return "http://www.eveningtimes.co.uk/sites/all/themes/custom/eveningtimes";  
+}
+</script>
+<script src="http://www.eveningtimes.co.uk/sites/all/themes/custom/eveningtimes/compressed/eveningtimes-1510.min.js"></script>
+<!--linkedin-share-button-->
+<script src="//platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
+<!-- quantcast -->
+<script src="http://edge.quantserve.com/quant.js"></script>
+<script>
+    quantSegs="";
+    
+    function qc_results(result) {
+        for (var i = 0; i < result.segments.length; i++) {
+            quantSegs += result.segments[i].id + "|";
+        }
+    }
+</script>
+<script src="http://pixel.quantserve.com/api/segments.json?a=p-42Bk1WKC7O3WM&callback=qc_results"></script>
+<!-- omniture -->
+<script>  
+    var s_account="newsquesteveningtimesprod,newsquestgroupprod";
+    
+    href = document.location.href;
+    href = href.replace(/\/services\//,"/");
+    path = href.split("/");
+
+    if(path[3] == 'celtic' || path[3] == 'rangers' || path[3] == 'other-football') {
+        path.splice(3,0, 'sport');
+    }
+
+    // Work out the new pathname for Omniture code below
+    // Get a clone of the path array
+    var pathClone = path.slice(0);
+
+    // drop off the base url
+    var ht_NewPathName = '/' + pathClone.splice(3, pathClone.length - 3).join('/');
+    var qPos = ht_NewPathName.indexOf('?');
+    if(qPos > -1) {
+        ht_NewPathName = ht_NewPathName.substr(0, qPos);
+    }
+
+    for (x=4; x<7; x++) {
+        if (typeof path[x] == 'undefined') path[x] = '';
+        if (path[x] == "" || path[x].match(/\.[0-9]+$/) || path[x].indexOf('?') > -1) {
+            path[x] = path[x-1];
+        } else {
+            path[x] = path[x-1] + "/" + path[x];
+        }
+
+        path[x] = path[x].replace(/\/undefined/g,"");
+    }
+
+</script>
+<script src="http://www.eveningtimes.co.uk/sites/all/themes/custom/eveningtimes/compressed/sitecatalyst.min.js"></script>
+<script>
+    if (typeof ht_omniture_prop1 == 'undefined') { ht_omniture_prop1 = ""; }
+    if (typeof ht_omniture_prop2 == 'undefined') { ht_omniture_prop2 = ""; }
+    
+    s.pageName="(www) " + ht_NewPathName;
+    s.server="";
+    s.channel="";
+    s.pageType="";
+    s.prop1=ht_omniture_prop1;
+    s.prop2=ht_omniture_prop2;
+    s.prop3=document.title;
+    var articleId = '';
+    if (document.location.href.match(/\.[0-9]+\?{0,1}(.*)$/)) {
+    	var articleId = document.location.href
+        if(articleId.indexOf('?') >= 0) {
+        	articleId = articleId.substr(0, document.location.href.indexOf('?'));
+        }
+        articleId = articleId.replace(/^.+\.([0-9]+)$/, "$1");
+
+        //s.prop4= document.location.href;
+        s.prop4 = articleId;
+    }
+    s.prop5="";
+
+    if (location.href.match(/\.co\.uk([:0-9]+)?\/$/)) {
+        s.prop6 = 'homepage';
+        s.prop7 = 'homepage';
+        s.prop8 = 'homepage';
+        s.prop9 = 'homepage';
+    } else {
+        if (typeof prop6 == 'undefined') {
+            s.prop6=path[3];
+        } else {
+            s.prop6=prop6;
+        }
+
+        if (typeof prop7 == 'undefined') {
+          s.prop7=path[4];
+        } else {
+          s.prop7=prop7;
+        }
+        
+        if (typeof prop8 == 'undefined') {
+          s.prop8=path[5];
+        } else {
+          s.prop8=prop8;
+        }
+        
+        if (typeof prop9 == 'undefined') {
+          s.prop9=path[6];
+        } else {
+          s.prop9=prop9;
+        }
+    }
+
+    s.prop10="";
+
+    var myAuthor = getArticleAuthor();
+    if (myAuthor && myAuthor.length) {
+        s.prop15 = myAuthor;
+    }
+
+    s.prop16=path[2].toLowerCase();
+    s.prop17="Scotland";
+    s.prop18="Martini";
+
+    var myContext = getContext();
+    if (myContext && myContext.length) {
+        s.prop25 = myContext;
+    }
+
+	s.list3=quantSegs;
+    s.linkInternalFilters="javascript:,eveningtimes.co.uk,et-beta.co.uk,www.et-beta.co.uk" 
+    s.campaign="";
+    s.state="";
+    s.zip="";
+    s.events="";
+
+    if (typeof(m__is_signed_in) != "undefined" && typeof(m__is_comment_detail) != "undefined") {
+        if (m__is_comment_detail) {
+            if (! m__is_signed_in) {
+                if (! $.cookie('ssiw')) {
+                    if (typeof(oo_myEvents) == "undefined") {
+                        oo_myEvents = new Array ();
+                    }
+        
+                    oo_myEvents.push("event5");
+                    $.cookie("ssiw", 1, { path: '/', domain: 'eveningtimes.co.uk' });
+                }
+            }
+        }
+    }
+
+    if (typeof(oo_myEvents) != "undefined" && oo_myEvents.length > 0) {
+        s.events = oo_myEvents.join(",");
+    }
+
+    s.products="";
+    s.purchaseID="";
+    s.eVar14="";
+    s.eVar15="";
+
+    if (typeof(m__tLogged) != "undefined" && m__tLogged.match(/^[a-zA-Z0-9]+$/)) {
+        s.eVar19 = m__tLogged;
+    }
+
+    /* Hierarchy Variables */
+
+    s.hier1="newsquest," + "Scotland" + "," + path[2] + "," + path[6].replace(/\//,",");
+
+    /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+    
+    var s_code=s.t();
+
+    if (s_code) {
+        document.write(s_code);
+    }
+</script>
+<!-- omniture close -->
+<script>
+    function quantcastPropValidator(property) {
+        return (property !='undefined' && typeof(property)=='string' && property.length > 0);
+    }
+
+    function quantcastLabelBuilder(){
+        if (quantcastPropValidator(s.prop6) && quantcastPropValidator(s.prop17)) {
+            return 'Property.' + s.prop17 + '.Site Section.' + s.prop6;
+        }
+    }
+
+    _qoptions={ qacct:"p-42Bk1WKC7O3WM", labels:quantcastLabelBuilder() };
+</script>
+<!-- /quantcast -->
+<script src="http://www.eveningtimes.co.uk/sites/all/themes/custom/eveningtimes/compressed/dfp.min.js"></script>
+<!-- Begin SiteCatalyst code -->
+<!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.19.3. -->
+<script type="text/javascript" src="/sites/all/modules/swftools/onepixelout/onepixelout.js"></script>
+<!-- HT cache at Thu Aug 21 06:55:35 2014 --></body>
+</html>
+

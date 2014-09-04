@@ -1,0 +1,801 @@
+WARC/1.0
+Content-Length: 40742
+Content-Type: application/http; msgtype=response
+Warc-Date: 2014-09-01T00:28:06Z
+Warc-Record-Id: urn:X-scrapeomat:1409531287301753531
+Warc-Target-Uri: http://www.eveningtimes.co.uk/commonwealth-games/cwg-news/its-scotland-the-rave-172868n.24837053
+Warc-Type: response
+X-Scrapeomat-Srcurl: http://www.eveningtimes.co.uk/commonwealth-games/cwg-news/its-scotland-the-rave-172868n.24837053
+
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Cache-Control: max-age=0
+Content-Type: text/html
+Date: Mon, 01 Sep 2014 00:28:06 GMT
+Etag: "183814a-9deb-501c4b14721c0"
+Expires: Mon, 01 Sep 2014 00:28:06 GMT
+Last-Modified: Fri, 29 Aug 2014 13:33:03 GMT
+Server: Apache/2.2.22 (Unix)
+Vary: User-Agent,Accept-Encoding
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" xmlns:og="http://ogp.me/ns#">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en" xmlns:og="http://ogp.me/ns#">
+<!--<![endif]-->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=edge; chrome=1"/>
+<meta charset="utf-8"/>
+<meta name="author" content="Evening Times" />
+<title>It&#039;s Scotland the Rave at the Games opening ceremony | Evening Times</title>
+<meta property="og:title" content="It's Scotland the Rave at the Games opening ceremony" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.eveningtimes.co.uk/commonwealth-games/cwg-news/its-scotland-the-rave-172868n.24837053" />
+<meta property="og:site_name" content="Evening Times" />
+<meta property="og:description" content="THE Commonwealth Games exploded into life as Glasgow invited the world to party." />
+<meta property="og:image" content="http://www.eveningtimes.co.uk/sites/default/files/2014/7/24846248.jpg" />
+<meta property="og:image" content="http://www.eveningtimes.co.uk/sites/default/files/2014/7/24846241.jpg" />
+<meta property="og:image" content="http://www.eveningtimes.co.uk/sites/default/files/2014/7/24846247.jpg" />
+<meta property="og:image" content="http://www.eveningtimes.co.uk/sites/default/files/2014/7/24846246.jpg" />
+<meta property="og:image" content="http://www.eveningtimes.co.uk/sites/default/files/2014/7/24846251.jpg" />
+<meta property="og:image" content="http://www.eveningtimes.co.uk/sites/default/files/2014/7/24846249.jpg" />
+<meta property="og:image" content="http://www.eveningtimes.co.uk/sites/default/files/2014/7/24846250.jpg" />
+<meta property="og:image" content="http://www.eveningtimes.co.uk/sites/default/files/2014/7/24846252.jpg" />
+<meta property="og:image" content="http://www.eveningtimes.co.uk/sites/default/files/2014/7/24846264.jpg" />
+<meta property="og:image" content="http://www.eveningtimes.co.uk/sites/all/themes/custom/eveningtimes/img/fallback/et-opengraph.png" />
+<!-- Stylesheets -->
+<link rel="stylesheet" href="http://www.eveningtimes.co.uk/sites/all/themes/custom/eveningtimes/compressed/eveningtimes-1510.min.css" />
+<!--[if IE 7]>
+<link rel="stylesheet" type="text/css" href="http://www.eveningtimes.co.uk/sites/all/themes/custom/eveningtimes/compressed/ie7.min.css">
+<![endif]-->
+<!-- Google Fonts -->
+<link href='http://fonts.googleapis.com/css?family=Oswald:700' rel='stylesheet' type='text/css'>
+<!-- Fav and touch icons -->
+<link rel="shortcut icon" href="http://www.eveningtimes.co.uk/sites/all/themes/custom/eveningtimes/img/favicon.ico">
+<link rel="apple-touch-icon" sizes="144x144" href="http://www.eveningtimes.co.uk/sites/all/themes/custom/eveningtimes/img/apple/apple-touch-icon-144-precomposed.png">
+<link rel="apple-touch-icon" sizes="114x114" href="http://www.eveningtimes.co.uk/sites/all/themes/custom/eveningtimes/img/apple/apple-touch-icon-114-precomposed.png">
+<link rel="apple-touch-icon" sizes="72x72" href="http://www.eveningtimes.co.uk/sites/all/themes/custom/eveningtimes/img/apple/apple-touch-icon-72-precomposed.png">
+<link rel="apple-touch-icon" href="http://www.eveningtimes.co.uk/sites/all/themes/custom/eveningtimes/img/apple/apple-touch-icon-57-precomposed.png">
+<script type="text/javascript">
+            m__tLogged = "";
+                            /*
+                 * Google Analytics
+                 */
+                var _gaq = _gaq || [];
+                _gaq.push(['_setAccount', 'UA-27067114-1']);
+                _gaq.push(['_setDomainName', 'eveningtimes.co.uk']);
+                _gaq.push(['_setLocalRemoteServerMode']);
+                                    _gaq.push(['_trackPageview']);
+                                
+        
+                (function() {
+                    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+                })();
+                    </script>
+</head>
+<body  class="no-sidebars node-view-page not-front not-logged-in page-node node-type-article no-sidebars commonwealth-games-page">
+<div id="takeover">
+<div id="nqcontainer" class="clearfix">
+<div id="header" class="twelve columns edge">
+<div id="DFP_top_leaderboard"></div>
+</div>
+<div id="logo-area" class="twelve columns edge">
+<div id="logo" class="five columns" itemscope itemtype="http://schema.org/Organisation">
+<a itemprop="url" href="http://www.eveningtimes.co.uk/">
+<span itemprop="name">Evening Times</span>
+</a>
+<a href="http://www.eveningtimes.co.uk/"><p>Nobody Knows Glasgow Better</p></a>
+</div>
+<ul id="login-menu" class="two columns edge">
+<li class="social-icons">
+<div class="facebook-link"><a href="http://www.facebook.com/eveningtimes" target="_blank" class="facebook-icon">Facebook</a></div>
+<div class="twitter-link"><a href="https://twitter.com/TheEveningTimes" target="_blank" class="twitter-icon">Twitter</a></div>
+</li>
+<li class="hello"></li>
+<li class="my-links"></li>
+<li>
+<div id="search_box_top" class="clearfix">
+<form action="http://www.eveningtimes.co.uk/search"  accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="search" class="clearfix"><div class="form-item" id="edit-search-theme-form-1-wrapper">
+<input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-1" size="15" value="" title="Enter the terms you wish to search for." class="form-text" />
+</div>
+<input type="hidden" name="form_build_id" id="form-03e1e70881c8e2fccdb0fc33900814ee" value="form-03e1e70881c8e2fccdb0fc33900814ee"  />
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
+<div id="top-search-button"><input type="submit" name="op" id="" value="&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"  class="form-submit" />
+</div></div>
+</div></form>
+</div>
+</li>
+</ul>
+<div id="weather-box">
+<div id="weather-info">
+<div class="weather-text">
+<div id="header-date"><span>Friday<br />25 July 2014</span></div>
+<div class="weather-details clearfix">
+<h3 id="weather-location"></h3>
+<h3 id="maxtemp"></h3>
+</div>
+</div>
+<div id="weather-icon">
+<img src="http://www.eveningtimes.co.uk/sites/all/themes/custom/eveningtimes/img/weather/na.png">
+</div>
+</div>
+<a class="change-location" href="/weather" id="change-loc">Change Location</a>
+</div>
+</div><!--/logo-area-->
+<div id="nav" class="twelve columns edge">
+<ul id="primary-links">
+<li class="mini-logo"><a href="http://www.eveningtimes.co.uk/"></a></li>
+<li class="off"><a href="/news">News</a>
+</li>
+<li class="off"><a href="/celtic">Celtic</a>
+<ul id="secondary-links">
+<li ><a href="/celtic/news"><span>News</span></a></li>
+<li ><a href="/celtic/comment"><span>Comment</span></a></li>
+</ul>
+</li>
+<li class="off"><a href="/rangers">Rangers</a>
+<ul id="secondary-links">
+<li ><a href="/rangers/news"><span>News</span></a></li>
+<li ><a href="/rangers/comment"><span>Comment</span></a></li>
+</ul>
+</li>
+<li class="off"><a href="/sport">Sport</a>
+<ul id="secondary-links">
+<li ><a href="/sport/partick-thistle"><span>Partick Thistle</span></a></li>
+<li ><a href="/sport/spfl"><span>SPFL</span></a></li>
+<li ><a href="/sport/juniors"><span>Juniors</span></a></li>
+<li ><a href="/sport/other-football"><span>Other Football</span></a></li>
+<li ><a href="/sport/rugby"><span>Rugby</span></a></li>
+<li ><a href="/sport/boxing"><span>Boxing</span></a></li>
+<li ><a href="/sport/other"><span>Other</span></a></li>
+</ul>
+</li>
+<li class="off"><a href="/entertainment">Entertainment</a>
+<ul id="secondary-links">
+<li ><a href="/entertainment/music"><span>Music</span></a></li>
+<li ><a href="/entertainment/film"><span>Film</span></a></li>
+<li ><a href="/entertainment/theatre"><span>Theatre</span></a></li>
+<li ><a href="/entertainment/tv-radio"><span>TV and Radio</span></a></li>
+<li ><a href="/entertainment/clubs"><span>Clubs</span></a></li>
+<li ><a href="/entertainment/games"><span>Games</span></a></li>
+<li ><a href="http://www.timesout.co.uk"><span>Times Out</span></a></li>
+</ul>
+</li>
+<li class="off"><a href="/lifestyle">Lifestyle</a>
+<ul id="secondary-links">
+<li ><a href="/lifestyle/active-2014"><span>Active 2014</span></a></li>
+<li ><a href="/lifestyle/fashion"><span>Fashion</span></a></li>
+<li ><a href="/lifestyle/food-drink"><span>Food and Drink</span></a></li>
+<li ><a href="/lifestyle/expert-advice"><span>Expert Advice</span></a></li>
+<li ><a href="/lifestyle/memories"><span>Memories</span></a></li>
+</ul>
+</li>
+<li class="off"><a href="/opinion">Opinion</a>
+<ul id="secondary-links">
+<li ><a href="/opinion/columnists"><span>Columnists</span></a></li>
+<li ><a href="/opinion/et-view"><span>ET View</span></a></li>
+<li ><a href="/opinion/letters"><span>Letters</span></a></li>
+</ul>
+</li>
+<li class="off"><a href="/campaigns">Campaigns</a>
+<ul id="secondary-links">
+<li ><a href="/campaigns/brick-by-brick"><span>Brick by Brick</span></a></li>
+<li ><a href="/campaigns/streets-ahead"><span>Streets Ahead</span></a></li>
+<li ><a href="/campaigns/opt-for-life"><span>Opt for Life</span></a></li>
+<li ><a href="/campaigns/community-champions"><span>Community Champions</span></a></li>
+</ul>
+</li>
+<li class="on"><a href="/commonwealth-games">Commonwealth Games</a>
+</li>
+<li class="scroll-to-top"><a class="scroll-to-top" href="#"></a></li>
+</ul>
+<ul id="tertiary-links"><li class="menu-3458 first"><a href="/services/advertising" title="">Book an ad</a></li>
+<li class="menu-3432"><a href="http://familynotices.eveningtimes.co.uk/" title="">Family Notices</a></li>
+<li class="menu-3457"><a href="http://www.twoscompany.co.uk/eveningtimes/" title="">Dating</a></li>
+<li class="menu-3429"><a href="http://www.heralddrive.co.uk" title="">Herald Drive</a></li>
+<li class="menu-3428"><a href="/services/property" title="">Property</a></li>
+<li class="menu-3459 last"><a href="/services/jobs" title="">Jobs</a></li>
+</ul>
+</div>
+<div id="container" class="twelve columns edge">
+<div class="cwg-header">
+<div class="cwg-title"><h2><img src="http://www.eveningtimes.co.uk/sites/all/themes/custom/eveningtimes/img/misc/transparent.png" alt="The Commonwealth Games">The Commonwealth Games</h2></div>
+<div class="cwg-logo"><img src="http://www.eveningtimes.co.uk/sites/all/themes/custom/eveningtimes/img/misc/transparent.png" alt="The Commonwealth Games Logo"></div>
+<div class="cwg-header-image"></div>
+<div class="cwg-nav">
+<ul class="links"><li class="menu-30665 first"><a href="/commonwealth-games" title="">Games Home</a></li>
+<li class="menu-24374"><a href="/commonwealth-games/news" title="">News</a></li>
+<li class="menu-24375"><a href="/commonwealth-games/sports" title="">Sports</a></li>
+<li class="menu-24378"><a href="/commonwealth-games/athletes" title="">Athletes</a></li>
+<li class="menu-24379"><a href="/commonwealth-games/venues" title="">Venues</a></li>
+<li class="menu-24380"><a href="/commonwealth-games/volunteers" title="">Volunteers</a></li>
+<li class="menu-24381"><a href="/commonwealth-games/legacy" title="">Legacy</a></li>
+<li class="menu-36063"><a href="/commonwealth-games/baton-relay" title="">Baton</a></li>
+<li class="menu-24829 last"><a href="/commonwealth-games/glasgow-guide" title="">Glasgow Guide</a></li>
+</ul>
+</div>
+</div>
+<div id="op-content" class="page eight columns twentytwo-margin">
+<div id="op-content" class="eight columns" itemscope itemtype="http://schema.org/Article"  data-article-source="prestige">
+<div class="next-prev-bar">
+<div class="prev-article">
+<div class="article-horizontal-arrow">
+<a href="#"></a>
+</div>
+<a href="#" class="text-link"></a>
+</div>
+<div class="next-article">
+<div class="article-horizontal-arrow">
+<a href="#"></a>
+</div>
+<a href="#" class="text-link"></a>
+</div>
+</div>
+<h1 class="article-title">
+<span itemprop="headline">It&#039;s Scotland the Rave at the Games opening ceremony</span>
+</h1>
+<h2 class="article-abstract"  itemprop="description">
+<p>THE Commonwealth Games exploded into life as Glasgow invited the world to party.</p>
+</h2>
+<div class="article-essentials">
+<div class="user-profile">
+<div class="user-image">
+<a href="/vivienne-nicoll"><img src="/sites/default/files/imagecache/author_photo/VivNicoll.jpg" alt="Vivienne Nicoll"></a>
+</div>
+<div class="user-info">
+<span class="user-name" itemprop="author"><a href="/vivienne-nicoll" rel="author">Vivienne Nicoll</a></span>
+<span class="user-title">Local government correspondent</span>
+</div>
+</div>
+<div class="article-date">
+<span itemprop="dateCreated">Thursday 24/07/2014</span>
+</div>
+<div class="article-comments">
+<span itemprop="comment"><a href="http://www.eveningtimes.co.uk/commonwealth-games/cwg-news/its-scotland-the-rave-172868n.24837053#disqus_thread">Loading Comments</a></span>
+</div>
+<div class="article-share">
+<span><a href="http://login.eveningtimes.co.uk/send-to-a-friend.cgi?url=http://www.eveningtimes.co.uk/commonwealth-games/cwg-news/its-scotland-the-rave-172868n.24837053">Share</a></span>
+</div>
+<div class="article-print">
+<span><a href="#" class="print-icon">Print</a></span>
+</div>
+</div><!--/article-essentials-->
+<div class="article-image">
+<div class="slider">
+<div id="slider" class="flexslider">
+<ul class="slides">
+<li>
+<img src="http://www.eveningtimes.co.uk/sites/default/files/imagecache/400xY/2014/7/24846248.jpg" alt="Hoy and mighty: The cycling legend brought in the baton" title="Hoy and mighty: The cycling legend brought in the baton"  class="imagecache imagecache-400xY" width="420" height="280" / itemprop="image">
+<div class="article-image-desc">
+<span>Hoy and mighty: The cycling legend brought in the baton</span>
+</div>
+</li>
+<li>
+<img src="http://www.eveningtimes.co.uk/sites/default/files/imagecache/article_main_image/2014/7/24846241.jpg" alt="" title=""  class="imagecache imagecache-article_main_image imagecache-default imagecache-article_main_image_default" width="420" height="280" / itemprop="image">
+<div class="article-image-desc">
+<span>Hoy and mighty: The cycling legend brought in the baton</span>
+</div>
+</li>
+<li>
+<img src="http://www.eveningtimes.co.uk/sites/default/files/imagecache/article_main_image/2014/7/24846247.jpg" alt="" title=""  class="imagecache imagecache-article_main_image imagecache-default imagecache-article_main_image_default" width="420" height="280" / itemprop="image">
+<div class="article-image-desc">
+<span>Hoy and mighty: The cycling legend brought in the baton</span>
+</div>
+</li>
+<li>
+<img src="http://www.eveningtimes.co.uk/sites/default/files/imagecache/article_main_image/2014/7/24846246.jpg" alt="" title=""  class="imagecache imagecache-article_main_image imagecache-default imagecache-article_main_image_default" width="420" height="280" / itemprop="image">
+<div class="article-image-desc">
+<span>Hoy and mighty: The cycling legend brought in the baton</span>
+</div>
+</li>
+<li>
+<img src="http://www.eveningtimes.co.uk/sites/default/files/imagecache/article_main_image/2014/7/24846251.jpg" alt="" title=""  class="imagecache imagecache-article_main_image imagecache-default imagecache-article_main_image_default" width="420" height="280" / itemprop="image">
+<div class="article-image-desc">
+<span>Hoy and mighty: The cycling legend brought in the baton</span>
+</div>
+</li>
+<li>
+<img src="http://www.eveningtimes.co.uk/sites/default/files/imagecache/article_main_image/2014/7/24846249.jpg" alt="" title=""  class="imagecache imagecache-article_main_image imagecache-default imagecache-article_main_image_default" width="420" height="280" / itemprop="image">
+<div class="article-image-desc">
+<span>Hoy and mighty: The cycling legend brought in the baton</span>
+</div>
+</li>
+<li>
+<img src="http://www.eveningtimes.co.uk/sites/default/files/imagecache/article_main_image/2014/7/24846250.jpg" alt="" title=""  class="imagecache imagecache-article_main_image imagecache-default imagecache-article_main_image_default" width="420" height="280" / itemprop="image">
+<div class="article-image-desc">
+<span>Hoy and mighty: The cycling legend brought in the baton</span>
+</div>
+</li>
+<li>
+<img src="http://www.eveningtimes.co.uk/sites/default/files/imagecache/article_main_image/2014/7/24846252.jpg" alt="" title=""  class="imagecache imagecache-article_main_image imagecache-default imagecache-article_main_image_default" width="420" height="280" / itemprop="image">
+<div class="article-image-desc">
+<span>Hoy and mighty: The cycling legend brought in the baton</span>
+</div>
+</li>
+<li>
+<img src="http://www.eveningtimes.co.uk/sites/default/files/imagecache/article_main_image/2014/7/24846264.jpg" alt="" title=""  class="imagecache imagecache-article_main_image imagecache-default imagecache-article_main_image_default" width="420" height="280" / itemprop="image">
+<div class="article-image-desc">
+<span>Hoy and mighty: The cycling legend brought in the baton</span>
+</div>
+</li>
+</ul>
+</div>
+<div id="carousel" class="flexslider">
+<ul class="slides">
+<li>
+<img src="http://www.eveningtimes.co.uk/sites/default/files/imagecache/400xY/2014/7/24846248.jpg" alt="Hoy and mighty: The cycling legend brought in the baton" title="Hoy and mighty: The cycling legend brought in the baton"  class="imagecache imagecache-400xY" width="420" height="280" / itemprop="image">
+</li>
+<li>
+<img src="http://www.eveningtimes.co.uk/sites/default/files/imagecache/article_main_image/2014/7/24846241.jpg" alt="" title=""  class="imagecache imagecache-article_main_image imagecache-default imagecache-article_main_image_default" width="420" height="280" / itemprop="image">
+</li>
+<li>
+<img src="http://www.eveningtimes.co.uk/sites/default/files/imagecache/article_main_image/2014/7/24846247.jpg" alt="" title=""  class="imagecache imagecache-article_main_image imagecache-default imagecache-article_main_image_default" width="420" height="280" / itemprop="image">
+</li>
+<li>
+<img src="http://www.eveningtimes.co.uk/sites/default/files/imagecache/article_main_image/2014/7/24846246.jpg" alt="" title=""  class="imagecache imagecache-article_main_image imagecache-default imagecache-article_main_image_default" width="420" height="280" / itemprop="image">
+</li>
+<li>
+<img src="http://www.eveningtimes.co.uk/sites/default/files/imagecache/article_main_image/2014/7/24846251.jpg" alt="" title=""  class="imagecache imagecache-article_main_image imagecache-default imagecache-article_main_image_default" width="420" height="280" / itemprop="image">
+</li>
+<li>
+<img src="http://www.eveningtimes.co.uk/sites/default/files/imagecache/article_main_image/2014/7/24846249.jpg" alt="" title=""  class="imagecache imagecache-article_main_image imagecache-default imagecache-article_main_image_default" width="420" height="280" / itemprop="image">
+</li>
+<li>
+<img src="http://www.eveningtimes.co.uk/sites/default/files/imagecache/article_main_image/2014/7/24846250.jpg" alt="" title=""  class="imagecache imagecache-article_main_image imagecache-default imagecache-article_main_image_default" width="420" height="280" / itemprop="image">
+</li>
+<li>
+<img src="http://www.eveningtimes.co.uk/sites/default/files/imagecache/article_main_image/2014/7/24846252.jpg" alt="" title=""  class="imagecache imagecache-article_main_image imagecache-default imagecache-article_main_image_default" width="420" height="280" / itemprop="image">
+</li>
+<li>
+<img src="http://www.eveningtimes.co.uk/sites/default/files/imagecache/article_main_image/2014/7/24846264.jpg" alt="" title=""  class="imagecache imagecache-article_main_image imagecache-default imagecache-article_main_image_default" width="420" height="280" / itemprop="image">
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="article-content" itemprop="articleBody">
+<p>A capacity crowd of 40,000 people were ready, willing and able to join in the fun as the action kicked off at Celtic Park.</p><p>
+	It was an opening ceremony which celebrated Glasgow and Scotland in all its varied glory.</p><p>
+	But it also highlighted the need for compassion with a world first. Hundreds of thousands of pounds were raised after the corwd was asked to donate to Unicef.</p><p>
+	Actor Ewan McGregor appeared on the big screen to welcome more than 1billion TV viewers to Scotland and Glasgow.</p><p>
+	As his face faded, an explosion of colourful streamers soared into the night sky.</p><p>
+	Karen Dunbar burst into song welcoming people from around the globe.</p><p>
+	And John Barrowman, dressed in a purple suit, celebrated the country of his birth from the top of a car.</p><p>
+	It navigated a giant haggis, a massive kilt, dancing teacakes and the Forth Rail Bridge sitting on Irn-Bru cans.<div id="DFP_in_article_mpu"></div></p><p>
+	Statues of Greyfriars Bobby and Donald Dewar sat near Edinburgh&#39;s One o&#39;clock Gun, whisky barrels, a giant Loch Ness Monster, barrels of oil and the Finnieston Crane.</p><p>
+	Barrowman celebrated Gretna Green, the Clyde, the Highlands and Loch Lomond.</p><p>
+	Highland dancers, Andy Stewart, Desperate Dan and Oor Willie, Scottish inventors and the statue of Wellington with his traffic-cone hat all made an appearance.</p><p>
+	It was a scene which was like Glasgow itself - dynamic, funny, vibrant, modern, energetic and colourful.</p><p>
+	As the pitch was cleared, a film of Amy Macdonald singing in George Square was shown just minutes before Rod Stewart led the crowd in his hit Rhythm of My Heart.</p><p>
+	And Susan Boyle was given a rapturous reception as she finished her version of Mull of Kintyre.</p><p>
+	Pipers and drummers from the Scottish Regiments were joined by caber tossers, tug-of-war-teams and dancers from the Braemar Gathering.</p><p>
+	But the people of the city also got the chance to show off their vocal talents in a film recorded in George Square. Robert Lovie led the crowd in the singing of the National Anthem to greet the arrival of the Queen and Prince Philip.</p><p>
+	Christopher Harrison and Sophie Martin from Scottish Ballet were greeted with cheers as their performance on the empty stage ended, as was Scots violinist Nicola Benedetti.</p><p>
+	This year, for the first time, Games organisers have teamed up with charity Unicef to highlight the plight of children across the Commonwealth. And the entertainment was interspersed with short films of the work being done in a bid to make their life better.</p><p>
+	In a historic moment, people watching the opening ceremony around the world were asked to donate &pound;5 to Unicef at exactly the same second, potentially raising millions of pounds.</p><p>
+	Just before the athletes arrived, 1000 volunteer dancers flooded on to the pitch.</p><p>
+	Each of the 71 teams from across the Commonwealth was led in by a Scottie dog.</p><p>
+	Team Scotland, dressed in their much-maligned tartan outfits, were given a rapturous welcome as they entered the stadium.</p><p>
+	Violinist Nicola Benedetti played Loch Lomond as the Commonwealth flag was carried into the stadium and run up the flagpole.</p><p>
+	City council leader Gordon Matheson told the sportsmen and women: &quot;As your host, we&#39;ve been looking forward to this moment. While you&#39;ve been training and qualifying, or saving and making travel plans, Glasgow has been getting ready to welcome you.</p><p>
+	&quot;Everything is in place so that you can perform at your best and have the time of your life in this beautiful and friendly city.</p><p>
+	&quot;And so, we are gathered in this stadium and in front of TV screens across the city and throughout the world.</p><p>
+	&quot;Our time has come. Let Glasgow Flourish. And as for the Games. Bring it on.&quot;</p><p>
+<a href="mailto:vivienne.nicoll@eveningtimes.co.uk">vivienne.nicoll@eveningtimes.co.uk</a></p><p>
+<div class="field field-type-nodereference field-field-related-content">
+<div class="field-label">Related Articles:&nbsp;</div>
+<div class="field-items">
+<div class="field-item odd">
+<a href="/commonwealth-games/cwg-news/let-the-games-begin-opening-ceremony-kicks-off-glasgow-2014.1406145761">Bring it on: Queen delivers baton&#039;s message as she officially opens Glasgow 2014 Games</a>
+</div>
+<div class="field-item even">
+<a href="/commonwealth-games/cwg-news/city-ready-for-party-as-wraps-come-off-fun-festival-167698n.24514764">City ready for party as wraps come off fun festival</a>
+</div>
+<div class="field-item odd">
+<a href="/commonwealth-games/cwg-news/all-light-on-the-night-172212n.24800201">Light show will launch the Games opening ceremony</a>
+</div>
+<div class="field-item even">
+<a href="/news/hollywood-star-backs-events-link-up-to-help-kids-121904n.20872929">Hollywood star backs event&#039;s link-up to help kids</a>
+</div>
+<div class="field-item odd">
+<a href="/entertainment/music/celtic-stars-ready-to-celebrate-139411n.22427937">Celtic stars ready to celebrate</a>
+</div>
+</div>
+</div>
+<div class="field field-type-text field-field-contextual-targeting-label">
+<div class="field-items">
+<div class="field-item odd">
+                    Arts and Entertainment        </div>
+</div>
+</div></p>
+</div>
+<div id='taboola-autosized-generated-2r'></div>
+<ul id="article-share-bar">
+<li class="facebook-social-button">
+<div class="fb-like" data-send="true" data-layout="button_count" data-width="450" data-show-faces="true" data-action="recommend"></div>
+</li><!--/facebook-share-button-->
+<li class="twitter-social-button">
+<a href="https://twitter.com/share" class="twitter-share-button" data-via="TheEveningTimes">Tweet</a>
+</li><!--/twitter-share-button-->
+<li class="google-social-button">
+<div class="g-plus" data-action="share" data-annotation="bubble"></div>
+</li><!--/google-share-button-->
+<li class="linkedin-social-button">
+<script type="IN/Share" data-counter="right"></script>
+</li><!--/linkedin-share-button-->
+</ul><!--/article-share-bar-->
+<div id="disqus_comments_section" class="disqus-comments sixteen-margin">
+<div class="rules">
+<div class="comment_and_moderation_et_logo">
+<img src="/sites/all/themes/custom/eveningtimes/img/comment_moderation/comment_and_moderation_et_logo.png">
+</div>
+<h3>Commenting &amp; Moderation</h3>
+<p>We moderate all comments on Evening Times on either a pre-moderated or post-moderated basis. If you're a relatively new user then your comments will be reviewed before publication and if we know you well and trust you then your comments will be subject to moderation only if other users or the moderators believe you've broken the rules</p>
+<div class="rules-btn">
+<a href="http://www.eveningtimes.co.uk/misc/comments">Read the new Rules Here</a>
+</div>
+</div>
+<div class="rules-details">
+<p>Moderation is undertaken full-time 9am-6pm on weekdays, and on a part-time basis outwith those hours. Please be patient if your posts are not approved instantly.</p>
+</div>
+</div>
+<div id="disqushold" style="clear:both">
+<div id="disqus_thread" style="clear:both">
+</div>
+</div>
+</div>
+<div class="article-nid">172868</div>
+</div>
+<div id="aside" class="four columns edge">
+<div id="block-block-74" class="block block-block">
+<div class="content">
+<div id="DFP_premium_mpu" class="twentytwo-margin"></div>
+</div>
+</div>
+<div id="block-block-75" class="block block-block">
+<div class="content">
+<div class="cwg-feature sixteen-margin">
+<div class="cwg-feature-link">
+<a href="/commonwealth-games/cwg-news/video-watch-the-opening-ceremony-in-just-1-minute-22-seconds.1406189781" title="Become a host city volunteer"><span>time lapse video of opening ceremony</span></a>
+</div>
+<a href="/commonwealth-games/cwg-news/video-watch-the-opening-ceremony-in-just-1-minute-22-seconds.1406189781" title="Become a host city volunteer"><img src="/sites/default/files/163794_0.jpg" alt="Become a host city volunteer" /></a>
+</div>
+<div class="cwg-feature sixteen-margin">
+<div class="cwg-feature-link">
+<a href="/opinion/columnists/the-sun-always-shines-in-glasgow-in-july-honest-172831n.24830756" title="Wanted: Community heroes worthy of free tickets for Games"><span>Clydeside stories</span></a>
+</div>
+<a href="/commonwealth-games/cwg-news/clydeside-stories-taps-affand-hats-aff-to-glasgow.1406186586" title="Wanted: Community heroes worthy of free tickets for Games"><img src="/sites/default/files/the-big-g-(4)-glasgow-city-marketing-bureau.jpg" alt="Wanted: Community heroes worthy of free tickets for Games" /></a>
+</div>
+</div>
+</div>
+<div id="block-block-76" class="block block-block">
+<div class="content">
+<div class="cwg-feature sixteen-margin">
+<div class="cwg-feature-link">
+<a href="/commonwealth-games/cwg-news/in-pictures-commonwealth-games-opening-parties.1406148912" title="Glasgow Guide"><span>Opening parties pictures</span></a>
+</div>
+<a href="/commonwealth-games/cwg-news/in-pictures-commonwealth-games-opening-parties.1406148912"title="Glasgow Guide"><img src="/sites/default/files/1406148911-509-3.jpg" alt="Glasgow Guide" /></a>
+</div>
+<div class="cwg-feature sixteen-margin edge">
+<div class="cwg-feature-link">
+<a href="/commonwealth-games/cwg-news/in-pictures-commonwealth-games-opening-ceremony.1406145576" title="Glasgow Guide"><span>opening ceremony pictures</span></a>
+</div>
+<a href="/commonwealth-games/cwg-news/in-pictures-commonwealth-games-opening-ceremony.1406145576"title="Glasgow Guide"><img src="/sites/default/files/159662_0.jpg" alt="Glasgow Guide" /></a>
+</div>
+</div>
+</div>
+<div id="block-block-77" class="block block-block">
+<div class="content">
+<div class="cwg-feature sixteen-margin">
+<div class="cwg-feature-link">
+<a href="/commonwealth-games/cwg-news/traffic-masterplan-for-games-160839n.24043069" title="Glasgow Guide"><span>Games traffic masterplan</span></a>
+</div>
+<a href="/commonwealth-games/cwg-news/traffic-masterplan-for-games-160839n.24043069"title="Glasgow Guide"><img src="/sites/default/files/24050749.jpg" alt="Glasgow Guide" /></a>
+</div>
+<div class="cwg-feature sixteen-margin">
+<div class="cwg-feature-link">
+<a href="/commonwealth-games/cwg-sports/interview-with-weighlifting-coach-charlie-hamilton.1404288686" title="Transport"><span>WEIGHTLIFTING INTERVIEW</span></a>
+</div>
+<a href="/commonwealth-games/cwg-sports/interview-with-weighlifting-coach-charlie-hamilton.1404288686" title="Transport"><img src="/sites/default/files/1404288686-638.jpg" alt="Transport" /></a>
+</div>
+<div class="cwg-feature sixteen-margin edge">
+<div class="cwg-feature-link">
+<a href="/commonwealth-games/cwg-sports/boxing-scotlands-rival-nations.1403770866" title="Baton Relay"><span>sCOTLAND'S BOXING RIVALS</span></a>
+</div>
+<a href="/commonwealth-games/cwg-sports/boxing-scotlands-rival-nations.1403770866" title="Baton Relay"><img src="/sites/default/files/1403770866-72.jpg" alt="Baton Relay" /></a>
+</div>
+</div>
+</div>
+</div>
+</div><!--/container-->
+</div><!--/wrapper-->
+<div id="footer">
+<div id="footer-wrapper">
+<ul>
+<li class="two columns no-border">
+<ul>
+<li class="et-footer-logo">Evening Times</li>
+<li>&copy; Copyright <span class="current-year">2014</span></li>
+<li><a href="/misc/about-hs">Herald &amp; Times Group</a></li>
+<li>All rights reserved</li>
+</ul>
+<ul>
+<li><a href="/misc/terms-and-conditions">Terms &amp; Conditions</a></li>
+<li><a href="/misc/privacy-policy">Privacy Policy</a></li>
+<li><a href="http://www.s1jobs.com/search/results.cgi?corestrict=Herald%20%26%20Times%20Ltd" target="_blank">Employment</a></li>
+</ul>
+</li>
+<li class="two columns">
+<h2>Our News Services</h2>
+<ul>
+<li><a href="/mobile">Mobile</a></li>
+<li><a href="/misc/circulation">Newspaper</a></li>
+<li><a href="http://eveningtimes.newspaperdirect.com/epaper/viewer.aspx" target="_blank">Digital Editions</a></li>
+<li><a href="/misc/back-issues">Back Issues</a></li>
+<li><a href="/services/feeds">Email, Twitter, RSS</a></li>
+<li><a href="/misc/syndication">Syndication</a></li>
+<li><a href="/homedelivery">Home Delivery</a></li>
+</ul>
+</li>
+<li class="two columns">
+<h2>Our Advertising Services</h2>
+<ul>
+<li><a href="http://familynotices.eveningtimes.co.uk/">Family Notices</a></li>
+<li><a href="/services/advertising">Book Your Newspaper Ad online</a></li>
+<li><a href="http://www.heraldandtimesadvertising.co.uk">Contact the Sales Team</a></li>
+<li><a href="/go/advertising-information/advertising-downloads">The Facts and Figures</a></li>
+<li><a href="/services/view-newspaper-ads">View Newspaper Ads</a></li>
+<li><a href="/commercial-features">Commercial Features</a></li>
+</ul>
+</li>
+<li class="two columns">
+<h2>Our Personal Services</h2>
+<ul>
+<li><a href="/evening-times-help-faqs-1.1079307">Help, Feedback &amp; Contact</a></li>
+<li><a href="http://www.twoscompany.co.uk/eveningtimes/">Dating</a></li>
+<li><a target="_blank" href="http://eveningtimes.reader.travel/home.php">Travel Services</a></li>
+<li><a target="_blank" href="http://glasgowheraldandtimes.newsprints.co.uk/">Photo Sales</a></li>
+<li><a href="/sudoku">Sudoku</a></li>
+</ul>
+</li>
+<li class="two columns">
+<h2>Our Colleagues</h2>
+<ul>
+<li><a href="http://www.heraldscotland.com" target="_blank">Herald Scotland</a></li>
+<li><a href="http://www.scotlandshomes.co.uk/" target="_blank">Scotland's Homes</a></li>
+<li><a href="http://www.thescottishfarmer.co.uk/" target="_blank">The Scottish Farmer</a></li>
+<li><a href="http://www.scottishhorse.co.uk/" target="_blank">Scottish Horse</a></li>
+<li><a href="http://www.heralddrive.co.uk/" target="_blank">Herald Drive</a></li>
+<li><a href="http://www.timesout.co.uk/" target="_blank">Times Out</a></li>
+</ul>
+</li>
+<li class="two columns edge our-network" style="border: 0px;">
+<h2>&nbsp;</h2>
+<ul>
+<li><a href="http://www.newsquest.co.uk/" target="_blank">Newsquest Media Group</a></li>
+<li><a href="http://www.scottishnewspaperprinters.co.uk" target="_blank">Scottish Newspaper Printers</a></li>
+<li><a href="http://www.s1homes.com/" target="_blank">s1homes.com</a></li>
+<li><a href="http://www.s1rental.com/" target="_blank">s1rental.com</a></li>
+<li><a href="http://www.s1jobs.com/" target="_blank">s1jobs.com</a></li>
+</ul>
+</li>
+</ul>
+</div><!--/footer wrapper-->
+</div><!--/footer-->
+</div>
+<!--/outer-wrapper-->
+<!--scripts-->
+<script language="javascript">
+var ht__url = function() {
+  return "http://www.eveningtimes.co.uk";  
+}
+
+var ht__urlLogin = function() {
+    var url = ht__url();
+
+    url = "http://login" + url.substring(url.indexOf("."));
+    
+    return url;    
+}
+
+var ht__urlToTheme = function() {
+    return "http://www.eveningtimes.co.uk/sites/all/themes/custom/eveningtimes";  
+}
+</script>
+<script src="http://www.eveningtimes.co.uk/sites/all/themes/custom/eveningtimes/compressed/eveningtimes-1510.min.js"></script>
+<!--linkedin-share-button-->
+<script src="//platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
+<!-- quantcast -->
+<script src="http://edge.quantserve.com/quant.js"></script>
+<script>
+    quantSegs="";
+    
+    function qc_results(result) {
+        for (var i = 0; i < result.segments.length; i++) {
+            quantSegs += result.segments[i].id + "|";
+        }
+    }
+</script>
+<script src="http://pixel.quantserve.com/api/segments.json?a=p-42Bk1WKC7O3WM&callback=qc_results"></script>
+<!-- omniture -->
+<script>  
+    var s_account="newsquesteveningtimesprod,newsquestgroupprod";
+    
+    href = document.location.href;
+    href = href.replace(/\/services\//,"/");
+    path = href.split("/");
+
+    if(path[3] == 'celtic' || path[3] == 'rangers' || path[3] == 'other-football') {
+        path.splice(3,0, 'sport');
+    }
+
+    // Work out the new pathname for Omniture code below
+    // Get a clone of the path array
+    var pathClone = path.slice(0);
+
+    // drop off the base url
+    var ht_NewPathName = '/' + pathClone.splice(3, pathClone.length - 3).join('/');
+    var qPos = ht_NewPathName.indexOf('?');
+    if(qPos > -1) {
+        ht_NewPathName = ht_NewPathName.substr(0, qPos);
+    }
+
+    for (x=4; x<7; x++) {
+        if (typeof path[x] == 'undefined') path[x] = '';
+        if (path[x] == "" || path[x].match(/\.[0-9]+$/) || path[x].indexOf('?') > -1) {
+            path[x] = path[x-1];
+        } else {
+            path[x] = path[x-1] + "/" + path[x];
+        }
+
+        path[x] = path[x].replace(/\/undefined/g,"");
+    }
+
+</script>
+<script src="http://www.eveningtimes.co.uk/sites/all/themes/custom/eveningtimes/compressed/sitecatalyst.min.js"></script>
+<script>
+    if (typeof ht_omniture_prop1 == 'undefined') { ht_omniture_prop1 = ""; }
+    if (typeof ht_omniture_prop2 == 'undefined') { ht_omniture_prop2 = ""; }
+    
+    s.pageName="(www) " + ht_NewPathName;
+    s.server="";
+    s.channel="";
+    s.pageType="";
+    s.prop1=ht_omniture_prop1;
+    s.prop2=ht_omniture_prop2;
+    s.prop3=document.title;
+    var articleId = '';
+    if (document.location.href.match(/\.[0-9]+\?{0,1}(.*)$/)) {
+    	var articleId = document.location.href
+        if(articleId.indexOf('?') >= 0) {
+        	articleId = articleId.substr(0, document.location.href.indexOf('?'));
+        }
+        articleId = articleId.replace(/^.+\.([0-9]+)$/, "$1");
+
+        //s.prop4= document.location.href;
+        s.prop4 = articleId;
+    }
+    s.prop5="";
+
+    if (location.href.match(/\.co\.uk([:0-9]+)?\/$/)) {
+        s.prop6 = 'homepage';
+        s.prop7 = 'homepage';
+        s.prop8 = 'homepage';
+        s.prop9 = 'homepage';
+    } else {
+        if (typeof prop6 == 'undefined') {
+            s.prop6=path[3];
+        } else {
+            s.prop6=prop6;
+        }
+
+        if (typeof prop7 == 'undefined') {
+          s.prop7=path[4];
+        } else {
+          s.prop7=prop7;
+        }
+        
+        if (typeof prop8 == 'undefined') {
+          s.prop8=path[5];
+        } else {
+          s.prop8=prop8;
+        }
+        
+        if (typeof prop9 == 'undefined') {
+          s.prop9=path[6];
+        } else {
+          s.prop9=prop9;
+        }
+    }
+
+    s.prop10="";
+
+    var myAuthor = getArticleAuthor();
+    if (myAuthor && myAuthor.length) {
+        s.prop15 = myAuthor;
+    }
+
+    s.prop16=path[2].toLowerCase();
+    s.prop17="Scotland";
+    s.prop18="Martini";
+
+    var myContext = getContext();
+    if (myContext && myContext.length) {
+        s.prop25 = myContext;
+    }
+
+	s.list3=quantSegs;
+    s.linkInternalFilters="javascript:,eveningtimes.co.uk,et-beta.co.uk,www.et-beta.co.uk" 
+    s.campaign="";
+    s.state="";
+    s.zip="";
+    s.events="";
+
+    if (typeof(m__is_signed_in) != "undefined" && typeof(m__is_comment_detail) != "undefined") {
+        if (m__is_comment_detail) {
+            if (! m__is_signed_in) {
+                if (! $.cookie('ssiw')) {
+                    if (typeof(oo_myEvents) == "undefined") {
+                        oo_myEvents = new Array ();
+                    }
+        
+                    oo_myEvents.push("event5");
+                    $.cookie("ssiw", 1, { path: '/', domain: 'eveningtimes.co.uk' });
+                }
+            }
+        }
+    }
+
+    if (typeof(oo_myEvents) != "undefined" && oo_myEvents.length > 0) {
+        s.events = oo_myEvents.join(",");
+    }
+
+    s.products="";
+    s.purchaseID="";
+    s.eVar14="";
+    s.eVar15="";
+
+    if (typeof(m__tLogged) != "undefined" && m__tLogged.match(/^[a-zA-Z0-9]+$/)) {
+        s.eVar19 = m__tLogged;
+    }
+
+    /* Hierarchy Variables */
+
+    s.hier1="newsquest," + "Scotland" + "," + path[2] + "," + path[6].replace(/\//,",");
+
+    /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+    
+    var s_code=s.t();
+
+    if (s_code) {
+        document.write(s_code);
+    }
+</script>
+<!-- omniture close -->
+<script>
+    function quantcastPropValidator(property) {
+        return (property !='undefined' && typeof(property)=='string' && property.length > 0);
+    }
+
+    function quantcastLabelBuilder(){
+        if (quantcastPropValidator(s.prop6) && quantcastPropValidator(s.prop17)) {
+            return 'Property.' + s.prop17 + '.Site Section.' + s.prop6;
+        }
+    }
+
+    _qoptions={ qacct:"p-42Bk1WKC7O3WM", labels:quantcastLabelBuilder() };
+</script>
+<!-- /quantcast -->
+<script src="http://www.eveningtimes.co.uk/sites/all/themes/custom/eveningtimes/compressed/dfp.min.js"></script>
+<!-- Begin SiteCatalyst code -->
+<!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.19.3. -->
+<script type="text/javascript" src="/sites/all/modules/swftools/onepixelout/onepixelout.js"></script>
+<!-- HT cache at Fri Jul 25 15:15:11 2014 --></body>
+</html>
+
