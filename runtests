@@ -3,15 +3,20 @@
 # script to run scraper on a set of test articles and check results
 # against expected data
 
+# set COMPARE_FLAGS to alter the checks
+
+# eg to check just headline and dates:
+# $ export COMPARE_FLAGS="-c headline -c dates"
+#
+# possible checks are: headline,urls,dates,content,authors
+
+
 set -e
 # the command to invoke to scrape
 scrape="scrapetool"
 
 # command to compare scrape output against .expected files
 compare=./compare
-# set COMPARE_FLAGS to alter the checks
-# eg for just headlines:
-# $ export COMPARE_FLAGS="-c content"
 if [ -z "$1" ]
 then
     # default - scan data dir
