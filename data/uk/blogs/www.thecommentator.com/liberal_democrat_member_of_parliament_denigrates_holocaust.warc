@@ -1,0 +1,806 @@
+WARC/1.0
+WARC-Type: warcinfo
+Content-Type: application/warc-fields
+WARC-Date: 2014-09-25T04:10:28Z
+WARC-Record-ID: <urn:uuid:a358ba16-f122-4530-9ed7-4a29f4d3b3ab>
+WARC-Filename: liberal_democrat_member_of_parliament_denigrates_holocaust.warc
+Content-Length: 430
+
+software: Wget/1.13.4-2608 (linux-gnu)
+format: WARC File Format 1.0
+conformsTo: http://bibnum.bnf.fr/WARC/WARC_ISO_28500_version1_latestdraft.pdf
+robots: classic
+wget-arguments: "--warc-file" "liberal_democrat_member_of_parliament_denigrates_holocaust" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "http://www.thecommentator.com/article/3957/liberal_democrat_member_of_parliament_denigrates_holocaust" 
+
+
+
+WARC/1.0
+WARC-Type: request
+WARC-Target-URI: http://www.thecommentator.com/article/3957/liberal_democrat_member_of_parliament_denigrates_holocaust
+Content-Type: application/http;msgtype=request
+WARC-Date: 2014-09-25T04:10:28Z
+WARC-Record-ID: <urn:uuid:d60f522b-8384-4403-9a3d-74212e182041>
+WARC-IP-Address: 198.101.247.252
+WARC-Warcinfo-ID: <urn:uuid:a358ba16-f122-4530-9ed7-4a29f4d3b3ab>
+Content-Length: 198
+
+GET /article/3957/liberal_democrat_member_of_parliament_denigrates_holocaust HTTP/1.1
+User-Agent: Wget/1.13.4-2608 (linux-gnu)
+Accept: */*
+Host: www.thecommentator.com
+Connection: Keep-Alive
+
+
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <urn:uuid:b58531db-1fcc-496c-adf4-8571d33178c8>
+WARC-Warcinfo-ID: <urn:uuid:a358ba16-f122-4530-9ed7-4a29f4d3b3ab>
+WARC-Concurrent-To: <urn:uuid:d60f522b-8384-4403-9a3d-74212e182041>
+WARC-Target-URI: http://www.thecommentator.com/article/3957/liberal_democrat_member_of_parliament_denigrates_holocaust
+WARC-Date: 2014-09-25T04:10:28Z
+WARC-IP-Address: 198.101.247.252
+Content-Type: application/http;msgtype=response
+Content-Length: 35083
+
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2014 04:10:29 GMT
+Server: Apache/2.2.22 (Ubuntu)
+X-Powered-By: Phusion Passenger (mod_rails/mod_rack) 3.0.17
+X-UA-Compatible: IE=Edge,chrome=1
+ETag: "fb253d2490737b8274e2cb38b8785ee0"
+Cache-Control: max-age=0, private, must-revalidate
+X-Request-Id: 9e37588ddf0f7fbd2dd66d064bd98a3e
+X-Runtime: 0.010204
+X-Rack-Cache: miss
+Content-Length: 34561
+Status: 200
+Vary: Accept-Encoding
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html; charset=utf-8
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta itemprop="image" content="/favicon.ico">
+	<link rel="shortcut icon" href="/favicon.ico">
+    <title>Liberal Democrat Member of Parliament &quot;denigrates&quot; Holocaust - The Commentator</title>
+    <meta property="fb:admins" content="501412959" />
+    <meta property="og:title" content="Liberal Democrat Member of Parliament &quot;denigrates&quot; Holocaust - The Commentator" />
+    <meta property="og:type" content="website">     
+    <meta property="og:url" content="http://www.thecommentator.com/article/3957/liberal_democrat_member_of_parliament_denigrates_holocaust" />
+    <meta property="og:image" content="http://www.thecommentator.com/system/articles/inner_pictures/000/003/957/original/article_2e29af0cec40c005_1346910315_9j-4aaqsk.jpeg?1373558446" />
+    <meta property="og:description" content="Another Liberal Democrat Member of Parliament has been criticised for &quot;denigrating&quot; the Holocaust by comparing it to the Middle East conflict" />
+    
+
+    <meta content="authenticity_token" name="csrf-param" />
+<meta content="r26pr9VvCnY5YoJMBxd1DLVcmQa61JfFbL4wC4odHBo=" name="csrf-token" />
+
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js" type="text/javascript"></script>
+    <![endif]-->
+
+    <link href="/assets/application/base-96986962375f33078fae433ee5b50523.css" media="all" rel="stylesheet" type="text/css" />
+    
+    <link href="http://www.thecommentator.com" rel="alternate" title="RSS" type="application/rss+xml" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.thecommentator.com/main/rss" />
+  <script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script></head>
+  <body>
+
+  <div class="support_header">
+    The Commentator is supported by our readers!
+
+    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+        <input type="hidden" name="cmd" value="_s-xclick">
+        <input type="hidden" name="hosted_button_id" value="6BWRZQ3GRVXMU">
+        <button class="support_button" type="submit">Support us by clicking here</button>
+        <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+    </form>
+
+</div>
+
+	<div class="wrapper">
+		<div id="topics">
+			Hot Topics:
+			<ul>
+				<li>
+					<a href="http://www.thecommentator.com/articles/tag/muslim_brotherhood/370">Muslim Brotherhood</a>
+				</li>
+				<li>
+					<a href="http://www.thecommentator.com/articles/tag/mps_pay/13740">MPs Salaries</a>
+				</li>
+				<li>
+					<a href="http://www.thecommentator.com/article/3957/liberal_democrat_member_of_parliament_denigrates_holocaust">Holocaust denigration</a>
+				</li>
+				<li>
+					<a href="http://www.thecommentator.com/article/3927/unitemare_dispelling_union_myths">Labour &amp; the unions</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+	
+		<div id="header">
+		<div class="wrapper">
+			<div id="logo">
+				<a href="/" style="margin-top: 15px"><img alt="Logo" src="/assets/logo-8e3ed70320ba70bf41d0354946382866.png" /></a>
+			</div>
+	
+			<div class="banner_header">
+				
+	<!-- BEGIN MESSAGESPACE 728x90 CODE BLOCK -->
+
+<div>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Top next to logo -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-1814300297407853"
+     data-ad-slot="9459361521"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+<!-- END MESSAGESPACE CODE BLOCK -->
+
+
+			</div>
+		</div>
+	</div>
+
+	<div id="nav">
+		<div class="wrapper">
+			<div id="social_icons">
+				<div id="icon_facebook">
+					<iframe src="http://www.facebook.com/plugins/like.php?href=http%3a%2f%2fwww.facebook.com%2fthecommentatorcom&amp;send=false&amp;layout=button_count&amp;width=80&amp;show_faces=false&amp;font=arial&amp;action=like&amp;colorscheme=light&amp;font&amp;height=24" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:88px; height:24px;" allowtransparency="true"></iframe>
+					
+				</div>
+				
+				<div id="icon_twitter">
+					<a href="https://twitter.com/TheCommentator" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @TheCommentator</a>
+				</div>
+			</div>
+
+			<ul id="menu">
+				<li id="menu_home"><a href="/">Home</a></li>
+				<li id="menu_about"><a href="/about">About</a></li>
+				<li id="menu_news"><a href="/articles/news">News</a></li>
+				<li id="menu_commentary"><a href="/articles/commentary">Comment</a></li>
+				<li id="menu_tea_room"><a href="/articles/tea_room">The Tea Room</a></li>
+				<li id="menu_podcast"><a href="http://itunes.apple.com/ie/podcast/we-need-to-talk/id549807532?mt=2" target="_blank">Podcast</a></li>
+				<li id="menu_contact"><a href="/contact">Contact</a></li>
+				<li><a href="/rss.xml" id="icon_rss"></a></li>
+			</ul>	
+			
+			<form accept-charset="UTF-8" action="/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+
+			<div id="search">
+				<input type="text" name="search" />
+				<input type="submit" class="btn btn-mini" name="" value="Search" />	
+			</div>
+			
+</form>
+		</div>
+	</div>
+		
+	<div class="wrapper">
+		<div id="content">
+	
+	    
+
+
+
+
+
+<div id="left_column" class="inner_page">
+
+  <div id="article_content">
+    <a name="article_top"></a>
+
+    <h1 class="h1_news">Liberal Democrat Member of Parliament &quot;denigrates&quot; Holocaust</h1>	
+    <h2>Another Liberal Democrat Member of Parliament has been criticised for &quot;denigrating&quot; the Holocaust by comparing it to the Middle East conflict</h2>
+    <p class="author">by <a href="/author/the_commentator/4">The Commentator</a> on 11 July 2013 16:00</p>
+
+    <img alt="Article_2e29af0cec40c005_1346910315_9j-4aaqsk" class="inner_picture" src="/system/articles/inner_pictures/000/003/957/thumb/article_2e29af0cec40c005_1346910315_9j-4aaqsk.jpeg?1373558446" style="width: 685px; height: 380px; display: block; margin-bottom: 10px; float: none" />
+
+    <div class="share_buttons_article">
+      <div class="fb-like" data-href="http://www.thecommentator.com/article/3957/liberal_democrat_member_of_parliament_denigrates_holocaust" data-layout="button_count" data-action="recommend" data-show-faces="false" data-share="false"></div>
+
+      <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.thecommentator.com/article/3957/liberal_democrat_member_of_parliament_denigrates_holocaust" data-lang="en">Tweet</a>
+
+      <!-- Place this tag where you want the +1 button to render. -->
+      <div class="g-plusone" data-size="medium"></div>
+
+      <!-- Place this tag after the last +1 button tag. -->
+      <script type="text/javascript">
+        (function() {
+          var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+          po.src = 'https://apis.google.com/js/platform.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+        })();
+      </script>
+    </div>
+
+    <div id="article_body">
+
+        <p class="p1">
+	British Liberal Democrat Member of Parliament Sir Bob Russell has landed in hot water after comments this week that &quot;denigrated&quot; the Holocaust, according to critics.</p>
+<p class="p1">
+	Russell, who was speaking at a debate on the national curriculum in the House of Commons on Monday <a href="http://www.publications.parliament.uk/pa/cm201314/cmhansrd/cm130708/debtext/130708-0002.htm#13070810000802">said</a>, &quot;On the assumption that the 20th century will include the Holocaust, will he give me an assurance that the life of Palestinians since 1948 will be given equal attention?&rdquo;</p>
+<p class="p1">
+	The comments have been called &quot;inappropriate&quot; by the Holocaust Educational Trust, and even Russell&#39;s own party members lambasted him for the comment. Gavin Stollar, of<b>&nbsp;</b>Liberal Democrat Friends of Israel, said: &ldquo;Bob Russell is a fringe, marginal voice in the community. All parties have them sadly.&rdquo;</p>
+<p class="p1">
+	Comparison of the conflict in the Middle East to the systematic extermination of 6 million Jews during the Second World War is viewed to be both historically ignorant and offensive to Jewish people. The Palestinian &#39;struggle&#39;, never ignored by the media, is rightly regarded as incomparable to the Holocaust by most historians and scholars.</p>
+<p class="p1">
+	Jeremy Newmark, on Britain&#39;s Jewish Leadership Council said, &ldquo;These remarks are a shocking piece of Holocaust denigration. There is simply no comparison between the two situations. It is worrying that so soon after the David Ward affair another MP thinks it is acceptable to play fast and loose with the language of the Holocaust in this context.&quot;</p>
+<p class="p1">
+	The comments come soon after the Liberal Democrat MP David Ward was&nbsp;<a href="http://www.thecommentator.com/article/2567/british_member_of_parliament_claims_liberated_jews_perpetuate_atrocities_compares_mid_east_conflict_to_holocaust"><span class="s1">sanctioned by his party following his conflation between the Middle East conflict and the Holocaust.</span></a>&nbsp;Ward, who was rebuked by his party leader Nick Clegg, said on the eve of Holocaust Memorial Day, &quot;[I am]&nbsp;saddened that the Jews, who suffered unbelievable levels of persecution during the Holocaust, could within a few years of liberation from the death camps be inflicting atrocities on Palestinians...&quot;</p>
+<p class="p1">
+	The Liberal Democrat party also recently expelled Baroness Jenny Tonge following her anti-Israel remarks in which she asserted that &quot;Israel won&#39;t be there forever&quot;.</p>
+<p class="p1">
+	The Commentator has <strong><a href="http://www.thecommentator.com/article/2728/another_liberal_democrat_shows_his_anti_israel_bias">previously highlighted</a></strong> Sir Bob Russell&#39;s views.&nbsp;Late last year, Russell called for&nbsp;<a href="https://www.google.co.uk/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;ved=0CDQQFjAA&amp;url=http%3A%2F%2Fwww.thejc.com%2Fnews%2Fuk-news%2F89037%2Fliberal-democrat-mp-wants-medicine-israel-labelled&amp;ei=xT8eUdWSEoektAbvv4DgAg&amp;usg=AFQjCNFioeUV6KHG9FS11aZTkpSICJCyCQ&amp;sig2=YdAEgFEFmdv6hq_mjTDh3A&amp;bvm=bv.42553238,d.Yms"><span class="s1">medicines from Israel to be labelled as such</span></a>, drawing criticism from some who claimed the move was similar to the Nazi labelling of Jewish products and businesses. Russell has also recently implied that the &quot;eyes of the world&quot;&nbsp;<a href="http://bobrussell.org.uk/en/article/2012/561940/syria-don-t-forget-israel-says-sir-bob"><span class="s1">view Israel in the same light as Syria.</span></a></p>
+<p class="p1">
+	Deputy Prime Minister and Liberal Democrat leader Nick Clegg said of Russell, upon him receiving his knighthood, that the&nbsp;MP for Colchester was &quot;a unique institution&quot;. He went on: &quot;He says what he feels and if he doesn&#39;t like what I do, or what the party is doing or what the government is doing, he says so. And I think people really, really respect that.&quot;</p>
+<p class="p1">
+	Karen Pollock, Chief Executive of the&nbsp;Holocaust Educational Trust said of Russell&#39;s most recent comments: &ldquo;To try to equate the events of the Holocaust &ndash; the systemised mass murder of 6 million Jews &ndash; with the conflict in the Middle East is simply inaccurate as well as inappropriate.&rdquo;</p>
+
+
+    </div>
+
+      <h5 class="top_divider">Read more on: <a href="/articles/tag/sir_bob_russell_mp/12835">sir bob russell mp</a>, <a href="/articles/tag/israel_/11381">Israel </a>, <a href="/articles/tag/the_shoah/7800">the Shoah</a>, <a href="/articles/tag/holocaust/3082">holocaust</a>, and <a href="/articles/tag/palestinians/361">Palestinians</a></h5>
+
+    <div class="share_bar">
+  <div class="fb-like" data-href="http://www.thecommentator.com/article/3957/liberal_democrat_member_of_parliament_denigrates_holocaust" data-layout="box_count" data-action="like" data-show-faces="false" data-share="false"></div>
+
+  <div><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.thecommentator.com/article/3957/liberal_democrat_member_of_parliament_denigrates_holocaust" data-counturl="http://www.thecommentator.com/article/3957/liberal_democrat_member_of_parliament_denigrates_holocaust" data-lang="en" data-count="vertical">Tweet</a></div>
+
+  <div>
+    <!-- Place this tag where you want the +1 button to render. -->
+    <div class="g-plusone" data-size="tall"></div>
+
+    <!-- Place this tag after the last +1 button tag. -->
+    <script type="text/javascript">
+      (function() {
+        var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+        po.src = 'https://apis.google.com/js/platform.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+      })();
+    </script>
+  </div>
+
+  <div>
+    <script type="text/javascript" src="http://www.reddit.com/static/button/button3.js"></script>
+  </div>
+
+  <div>
+    <script src="//platform.linkedin.com/in.js" type="text/javascript">
+      lang: en_US
+    </script>
+    <script type="IN/Share" data-counter="top"></script>
+  </div>
+
+  <div>
+    <a href="#myModal" role="button" class="btn" data-toggle="modal" style="color: #000;">Email</a>
+  </div>
+
+</div>
+
+<div id="myModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-header">
+    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+    <h3 id="myModalLabel">Share by Email</h3>
+  </div>
+
+  <form accept-charset="UTF-8" action="/article/3957/liberal_democrat_member_of_parliament_denigrates_holocaust/email-share" class="simple_form new_email_share" id="new_email_share" method="post" novalidate="novalidate"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="r26pr9VvCnY5YoJMBxd1DLVcmQa61JfFbL4wC4odHBo=" /></div>
+    <div class="modal-body">
+      <div class="control-group string required"><label class="string required control-label" for="email_share_from"><abbr title="required">*</abbr> From</label><div class="controls"><input class="string required" id="email_share_from" name="email_share[from]" placeholder="user@domain.com" size="50" style="width: 95%" type="text" /></div></div>
+      <div class="control-group string required"><label class="string required control-label" for="email_share_to"><abbr title="required">*</abbr> To</label><div class="controls"><input class="string required" id="email_share_to" name="email_share[to]" placeholder="user@domain.com" size="50" style="width: 95%" type="text" /></div></div>
+      <div class="control-group string required"><label class="string required control-label" for="email_share_subject"><abbr title="required">*</abbr> Subject</label><div class="controls"><input class="string required" id="email_share_subject" name="email_share[subject]" size="50" style="width: 95%" type="text" value="Liberal Democrat Member of Parliament &quot;denigrates&quot; Holocaust" /></div></div>
+      <div class="control-group text required"><label class="text required control-label" for="email_share_body"><abbr title="required">*</abbr> Body</label><div class="controls"><textarea class="text required" cols="40" id="email_share_body" name="email_share[body]" rows="6" style="width: 95%">
+http://www.thecommentator.com/article/3957/liberal_democrat_member_of_parliament_denigrates_holocaust</textarea></div></div>
+    </div>
+
+    <div class="modal-footer">
+      <button class="btn" data-dismiss="modal" aria-hidden="true">Cancel</button>
+      <input class="btn btn btn-primary" name="commit" type="submit" value="Send" />
+    </div>
+</form></div>
+
+    <div id="related_articles" class="box clear" style="width: 100%;">
+	<div class="box_heading">
+		<span></span>
+		Related Articles
+	</div>
+	<div class="box_content">
+				
+		<div style="float: left;">					
+		  <ul id="related_articles_list" class="jcarousel-skin-tango">
+		  	
+				<li>
+					<div>
+						<a href="/article/3712/video_californians_sign_petition_for_holocaust_beach_party"><img alt="Screen_shot_2013-06-05_at_00.12.20" class="ep_image" src="/system/articles/pictures/000/003/712/thumb_170x120/Screen_Shot_2013-06-05_at_00.12.20.png?1370387615" /></a>
+						<p><a href="/article/3712/video_californians_sign_petition_for_holocaust_beach_party">VIDEO: Californians sign petition for “Holocaust Beach Party”</a></p>
+					</div>
+				</li>		
+				<li>
+					<div>
+						<a href="/article/3675/dutch_school_stalls_holocaust_monument_over_vandalism_fears"><img alt="Schilderswijk" class="ep_image" src="/system/articles/pictures/000/003/675/thumb_170x120/Schilderswijk.jpg?1370022760" /></a>
+						<p><a href="/article/3675/dutch_school_stalls_holocaust_monument_over_vandalism_fears">Dutch school stalls Holocaust monument over vandalism fears </a></p>
+					</div>
+				</li>		
+				<li>
+					<div>
+						<a href="/article/3443/in_guardianista_land_you_can_deny_the_holocaust_if_it_hurts_conservatives_right"><img alt="David_stein_republican_party_animals" class="ep_image" src="/system/articles/pictures/000/003/443/thumb_170x120/David_Stein_Republican_Party_Animals.jpg?1367670624" /></a>
+						<p><a href="/article/3443/in_guardianista_land_you_can_deny_the_holocaust_if_it_hurts_conservatives_right">In Guardianista-land, you can deny the Holocaust if it hurts conservatives, right?</a></p>
+					</div>
+				</li>		
+				<li>
+					<div>
+						<a href="/article/3369/oborne_morrison_and_holocaust_denial_denial"><img alt="E689df546e1dcb3c6fdfe9d6312f7cca3f7f11a2" class="ep_image" src="/system/articles/pictures/000/003/369/thumb_170x120/e689df546e1dcb3c6fdfe9d6312f7cca3f7f11a2.jpg?1367014377" /></a>
+						<p><a href="/article/3369/oborne_morrison_and_holocaust_denial_denial">Oborne, Morrison and Holocaust denial denial... </a></p>
+					</div>
+				</li>		
+				<li>
+					<div>
+						<a href="/article/3353/iranian_presidential_hopeful_slams_ahmadinejad_s_holocaust_denial"><img alt="73d312c1-55ff-413a-ae95-f6efb01e62f5_mw1024_n_s" class="ep_image" src="/system/articles/pictures/000/003/353/thumb_170x120/73D312C1-55FF-413A-AE95-F6EFB01E62F5_mw1024_n_s.jpg?1366895506" /></a>
+						<p><a href="/article/3353/iranian_presidential_hopeful_slams_ahmadinejad_s_holocaust_denial">Iranian presidential hopeful slams Ahmadinejad&#x27;s Holocaust denial</a></p>
+					</div>
+				</li>		
+				<li>
+					<div>
+						<a href="/article/2799/ukip_friends_of_palestine_group_loses_the_plot_in_comparing_mideast_conflict_to_holocaust"><img alt="Screen_shot_2013-02-25_at_19.25.09" class="ep_image" src="/system/articles/pictures/000/002/799/thumb_170x120/Screen_Shot_2013-02-25_at_19.25.09.png?1361821066" /></a>
+						<p><a href="/article/2799/ukip_friends_of_palestine_group_loses_the_plot_in_comparing_mideast_conflict_to_holocaust">UKIP Friends of Palestine Group &quot;loses the plot&quot; in comparing MidEast conflict to Holocaust</a></p>
+					</div>
+				</li>		
+
+		  </ul>
+		</div>
+	</div>
+</div>
+
+    
+	<div style="text-align:center;">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Below article -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:468px;height:60px;margin: 10px auto;"
+     data-ad-client="ca-pub-1814300297407853"
+     data-ad-slot="3273227123"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+
+  </div>				
+
+  	<div id="article_comments">
+		<div class="box_heading">
+			<span></span>
+			Comments
+		</div>
+
+		<div id="disqus_thread"></div>
+		<script type="text/javascript">
+			/* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+			var disqus_shortname = 'commentatorintl'; // required: replace example with your forum shortname
+			var disqus_url = 'http://www.thecommentator.com/article/3957/liberal_democrat_member_of_parliament_denigrates_holocaust';
+			var disqus_identifier = '/article/3957/liberal_democrat_member_of_parliament_denigrates_holocaust';
+
+			/* * * DON'T EDIT BELOW THIS LINE * * */
+			(function() {
+				var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+				dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+				(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+			})();
+		</script>
+		<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+		<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>				
+	</div>	
+</div>
+
+<div id="right_column" class="inner_page">
+	<div id="tea_room" class="box clear" style="border: 2px solid #000; padding-top: 3px;">
+		<a href="/articles/tea_room"><img alt="Tearoom_265" src="/assets/tearoom_265-8d45c5f0282a1d96927db77baf1b7922.png" /></a>
+	
+		
+		<h1 class="tea_room">Latest on the blog</h1>
+
+		<ul class="tea_room_front">
+				<li>
+					<h6><a href="/article/5239/loons_in_london_on_climate_change_march_because_the_butterflies_are_in_decline">Loons in London on climate change march because the butterflies are in decline</a></h6>
+				</li>
+				<li>
+					<h6><a href="/article/5122/weird_palestinian_victim_complex_on_show_at_the_guardian">Weird Palestinian victim complex on show at the Guardian</a></h6>
+				</li>
+				<li>
+					<h6><a href="/article/5118/great_moments_or_not_in_government">Great moments (or not) in government</a></h6>
+				</li>
+		</ul>
+
+</div>
+
+		
+    <div id="most_popular" class="box clear">
+      <div class="box_heading">
+        <span></span>
+        Most popular
+      </div>
+      <div class="box_content">
+        <ul class="tabs_nav">
+          <li class="ui-state-active"><a href="#mp_last24">Last 24 hours</a></li>
+          <li><a href="#mp_lastweek">Last week</a></li>
+          <li><a href="#mp_alltime">All time</a></li>
+        </ul>
+        <div id="mp_last24">
+          <ul class="ordered">       
+	            
+					       <li><a href="/article/5247/islamic_state_beheads_mutilates_as_the_koran_instructs">Islamic State beheads, mutilates as the Koran instructs</a></li>
+					  
+					
+	            
+					       <li><a href="/article/5240/north_korea_says_rights_criticism_a_gay_plot_no_gays_in_its_country">North Korea says rights criticism a gay plot; no gays in its country</a></li>
+					  
+					
+	            
+					       <li><a href="/article/5246/labour_s_poverty_pimps_must_learn_welfare_hurts_the_poor">Labour&#x27;s poverty pimps must learn welfare hurts the poor</a></li>
+					  
+					
+	            
+					       <li><a href="/article/5245/waning_interest_in_global_warming_by_world_leaders">Waning interest in global warming by world leaders</a></li>
+					  
+					
+	            
+					       <li><a href="/article/5237/ed_miliband_the_man_who_hated_england">Ed Miliband: The man who hated England</a></li>
+					  
+          </ul>
+        </div>
+        <div id="mp_lastweek" class="ui-tabs-hide">
+          <ul class="ordered">
+	            
+		                    <li><a href="/article/5237/ed_miliband_the_man_who_hated_england">Ed Miliband: The man who hated England</a></li>
+	              
+					  
+	              
+	            
+		                    <li><a href="/article/5247/islamic_state_beheads_mutilates_as_the_koran_instructs">Islamic State beheads, mutilates as the Koran instructs</a></li>
+	              
+					  
+	              
+	            
+		                    <li><a href="/article/5232/islam_beheadings_and_politically_correct_denial">Islam, beheadings and politically correct denial</a></li>
+	              
+					  
+	              
+	            
+		                    <li><a href="/article/5240/north_korea_says_rights_criticism_a_gay_plot_no_gays_in_its_country">North Korea says rights criticism a gay plot; no gays in its country</a></li>
+	              
+					  
+	              
+	            
+		                    <li><a href="/article/5233/in_reality_scotland_independence_vote_wasn_t_even_close">In reality, Scotland independence vote wasn&#x27;t even close</a></li>
+	              
+					  
+          </ul>
+        </div>
+        <div id="mp_alltime" class="ui-tabs-hide">
+          <ul class="ordered">
+	            
+			                  <li><a href="/article/2495/ny_democrat_pleads_with_republican_not_to_share_document_proposing_confiscation_of_guns">NY Democrat pleads with Republican not to share document proposing confiscation of guns</a></li>
+	
+	
+	            
+			                  <li><a href="/article/2577/sunday_times_blood_libel_cartoon_on_holocaust_memorial_day_no_less">Sunday Times blood libel cartoon, on Holocaust Memorial Day no less</a></li>
+	
+	
+	            
+			                  <li><a href="/article/3636/oregon_woman_raped_after_police_refuse_to_send_out_response_unit">Oregon woman raped after police refuse to send out response unit</a></li>
+	
+	
+	            
+			                  <li><a href="/article/3103/palestinian_jailed_for_facebook_like">Palestinian jailed for Facebook like</a></li>
+	
+	
+	            
+			                  <li><a href="/article/2458/_muslim_patrol_vigilantes_attempt_to_control_london_streets">&#x27;Muslim Patrol&#x27; vigilantes attempt to control London streets</a></li>
+	
+          </ul>
+        </div>
+      </div>
+    </div>
+
+
+	<div class="box clear">
+  <div class="box_heading newsletter">
+    <span></span>
+    Support TheCommentator
+  </div>
+  <div class="box_content">
+    <div style="float: left; margin: 10px;">
+	<p>
+		We are wholly dependent on the kindness of our readers for our continued work. We thank you in advance for any support you can offer.</p>
+</div>
+<div style="width: 222px; margin-left: auto; margin-right: auto;">
+	<div style="clear: both">
+		&nbsp;</div>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+	<input name="cmd" type="hidden" value="_s-xclick" /> <input name="hosted_button_id" type="hidden" value="KPAJQ5TNLH4HU" />
+	<table>
+		<tbody>
+			<tr>
+				<td>
+					<input name="on0" type="hidden" value="Options" />Options</td>
+			</tr>
+			<tr>
+				<td>
+					<select name="os0"><option value="Bronze">Bronze : &pound;5,00 GBP - monthly</option><option value="Silver">Silver : &pound;10,00 GBP - monthly</option><option value="Gold">Gold : &pound;20,00 GBP - monthly</option><option value="Platinum">Platinum : &pound;50,00 GBP - monthly</option></select></td>
+			</tr>
+		</tbody>
+	</table>
+	<input name="currency_code" type="hidden" value="GBP" /> <input alt="PayPal – The safer, easier way to pay online." border="0" name="submit" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_subscribeCC_LG.gif" type="image" /> <img alt="" border="0" height="1" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" /></form>
+</div>
+
+  </div>
+</div>
+		
+
+	<div class="right_advert" class="box clear">
+	<div class="box_heading">
+		<span></span>
+		Advertisement
+	</div>
+	<div class="box_content">
+		<div class="square_advert_inner">
+			
+	<div>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Right column 1 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:250px;height:250px"
+     data-ad-client="ca-pub-1814300297407853"
+     data-ad-slot="3412827927"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+
+		</div>
+	</div>
+</div>
+
+	<div id="supporters" class="box clear">
+	<div class="box_heading">
+		<span></span>
+		Supporters
+	</div>
+	<div class="box_content">
+		<div id="supporters_inner">
+			<ul id="supporters_ul">
+				<li class="active">
+					<a href="http://cifwatch.com/" target="_blank" title="CiF Watch"><img alt="Supporter_cifwatch" src="/assets/supporter_cifwatch-e0d9ca9c7949bb949aa1f48565b64d20.png" /></a>
+				</li>
+				<li>
+					<a href="http://henryjacksonsociety.org" target="_blank" title="The Henry Jackson Society"><img alt="Supporter_hjs_new" src="/assets/supporter_hjs_new-8b65d1960aaa8183d3348a99d8dc54f6.jpg" /></a>
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>
+
+
+				<div id="newsletter" class="box clear">
+				<div class="box_heading newsletter">
+					<span></span>
+					Keep in touch
+				</div>
+				<div class="box_content">
+					<div style="float: left; margin-top: 10px;">
+						Enter your e-mail address if you wish to receive our weekly newsletter.
+					</div>
+					<form action="http://visitor.r20.constantcontact.com/d.jsp" method="post" name="ccoptin" target="_blank">
+						<input type="text" name="ea"/>
+						<input type="submit" class="btn" value="Submit" />
+						<input name="llr" type="hidden" value="yr9cqhfab" />
+						<input name="m" type="hidden" value="1105132087864" />
+						<input name="p" type="hidden" value="oi" />
+					</form>
+				</div>
+			</div>
+
+				<div id="facebook_who_is_reading_what" class="box clear">
+				<div class="box_heading">
+					<span></span>
+					Recommended
+				</div>
+				<div class="box_content">
+					<div class="who_is_reading_what_inner">
+						<div class="fb-recommendations" data-site="http://www.thecommentator.com" data-width="265" data-height="380" data-header="false" data-border-color="#ffffff" data-font="arial"></div>
+					</div>
+				</div>
+			</div>
+
+	
+	<div class="right_advert" class="box clear">
+	<div class="box_heading">
+		<span></span>
+		Advertisement
+	</div>
+	<div class="box_content">
+		<div class="skyscrapper_advert_inner">
+			
+	<div>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Right column 2 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:160px;height:600px"
+     data-ad-client="ca-pub-1814300297407853"
+     data-ad-slot="7843027529"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+
+		</div>
+	</div>
+</div>
+	
+	<div class="right_advert" class="box clear">
+	<div class="box_heading">
+		<span></span>
+		Advertisement
+	</div>
+	<div class="box_content">
+		<div class="square_advert_inner">
+			
+	<div style="display: block; width: 250px; margin: 0 auto;">
+
+
+
+</div>
+
+
+		</div>
+	</div>
+</div>
+</div>
+
+<div id="go_to_top"><a href="#article_top" id="anchor_go_to_top"></a></div>
+
+
+
+		</div>
+	</div>	
+	
+	<div id="footer">
+	<div id="menu">
+		<ul id="menu">
+			<li><a href="/">Home</a></li>
+			<li><a href="/about">About</a></li>
+			<li><a href="/articles/news">News</a></li>
+			<li><a href="/articles/commentary">Comment</a></li>
+			<li><a href="/articles/tea_room">The Tea Room</a></li>
+			<li><a href="http://itunes.apple.com/ie/podcast/we-need-to-talk/id549807532?mt=2" target="_blank">Podcast</a></li>
+			<li><a href="/contact">Contact</a></li>
+			<li><a href="/mobile_site">Mobile website</a></li>
+			<li><a href="/privacy_policy">Privacy Policy</a></li>
+		</ul>	
+	</div>
+	
+	<div id="copyright">
+		<p>2014 © Copyright S.M.A.R. s.r.o.</p>
+
+		<p>Website design and development by <a href="http://www.barouhandpartners.com/" target="_blank">Barouh & Partners</a></p>
+	</div>
+</div>
+
+    <!-- Javascripts
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="/assets/application/base-8235b522b225e358180d87a0a4507c73.js" type="text/javascript"></script>
+    
+    
+    <!-- AddThis code -->
+	<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=thecommentator#domready=1"></script>
+	
+    <!-- Facebook code -->
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=454623571228507";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>
+
+
+    <!-- Twitter code -->
+	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+      <script type="text/javascript">
+
+$(document).ready(function() {
+  setCurrentNavMenuTo("news");
+});
+
+</script>
+
+
+	<!-- Google Analytics -->
+	<script type="text/javascript">
+
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-21015353-1']);
+	  _gaq.push(['_trackPageview']);
+
+	  (function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+
+	</script>
+
+  <!-- GoSquared -->
+  <script type="text/javascript">
+    var GoSquared = {};
+    GoSquared.acct = "GSN-710123-J";
+    (function(w){
+      function gs(){
+        w._gstc_lt = +new Date;
+        var d = document, g = d.createElement("script");
+        g.type = "text/javascript";
+        g.src = "//d1l6p2sc9645hc.cloudfront.net/tracker.js";
+        var s = d.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(g, s);
+      }
+      w.addEventListener ?
+        w.addEventListener("load", gs, false) :
+        w.attachEvent("onload", gs);
+    })(window);
+  </script>
+  <script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {
+NREUMQ.push(["load",new Date().getTime()]);
+var e=document.createElement("script");
+e.type="text/javascript";
+e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" +
+  "js-agent.newrelic.com/nr-100.js";
+document.body.appendChild(e);
+if(NREUMQ.a)NREUMQ.a();
+};
+NREUMQ.a=window.onload;window.onload=NREUMQ.f;
+};
+NREUMQ.push(["nrfj","beacon-5.newrelic.com","3c19755cdb",969593,"cQoLRkALW1tdEx1ZFEYMBl5XS0RfVxY=",0,8,new Date().getTime(),"","","","",""]);</script></body>
+</html>
+
+
+WARC/1.0
+WARC-Type: resource
+WARC-Record-ID: <urn:uuid:0d006f46-55d0-443b-8237-fef25e27ec2f>
+WARC-Warcinfo-ID: <urn:uuid:a358ba16-f122-4530-9ed7-4a29f4d3b3ab>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/MANIFEST.txt
+WARC-Date: 2014-09-25T04:10:29Z
+Content-Type: text/plain
+Content-Length: 48
+
+<urn:uuid:a358ba16-f122-4530-9ed7-4a29f4d3b3ab>
+
+
+WARC/1.0
+WARC-Type: resource
+WARC-Record-ID: <urn:uuid:0d006f46-55d0-443b-8237-fef25e27ec2f>
+WARC-Warcinfo-ID: <urn:uuid:a358ba16-f122-4530-9ed7-4a29f4d3b3ab>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/wget_arguments.txt
+WARC-Date: 2014-09-25T04:10:29Z
+Content-Type: text/plain
+Content-Length: 245
+
+"--warc-file" "liberal_democrat_member_of_parliament_denigrates_holocaust" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "http://www.thecommentator.com/article/3957/liberal_democrat_member_of_parliament_denigrates_holocaust" 
+
+

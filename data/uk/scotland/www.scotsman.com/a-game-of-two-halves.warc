@@ -1,0 +1,1735 @@
+WARC/1.0
+WARC-Type: warcinfo
+Content-Type: application/warc-fields
+WARC-Date: 2014-09-25T04:00:35Z
+WARC-Record-ID: <urn:uuid:d4bd8b15-ad93-4b73-9c15-b2b886f1aa0a>
+WARC-Filename: a-game-of-two-halves.warc
+Content-Length: 360
+
+software: Wget/1.13.4-2608 (linux-gnu)
+format: WARC File Format 1.0
+conformsTo: http://bibnum.bnf.fr/WARC/WARC_ISO_28500_version1_latestdraft.pdf
+robots: classic
+wget-arguments: "--warc-file" "a-game-of-two-halves" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "http://www.scotsman.com/motors/reviews/a-game-of-two-halves-1-2657007" 
+
+
+
+WARC/1.0
+WARC-Type: request
+WARC-Target-URI: http://www.scotsman.com/motors/reviews/a-game-of-two-halves-1-2657007
+Content-Type: application/http;msgtype=request
+WARC-Date: 2014-09-25T04:00:35Z
+WARC-Record-ID: <urn:uuid:6f993881-d4e7-46ed-8a4c-80edf65daff0>
+WARC-IP-Address: 117.121.253.254
+WARC-Warcinfo-ID: <urn:uuid:d4bd8b15-ad93-4b73-9c15-b2b886f1aa0a>
+Content-Length: 166
+
+GET /motors/reviews/a-game-of-two-halves-1-2657007 HTTP/1.1
+User-Agent: Wget/1.13.4-2608 (linux-gnu)
+Accept: */*
+Host: www.scotsman.com
+Connection: Keep-Alive
+
+
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <urn:uuid:33a08918-ba72-4332-a154-a721f034bd36>
+WARC-Warcinfo-ID: <urn:uuid:d4bd8b15-ad93-4b73-9c15-b2b886f1aa0a>
+WARC-Concurrent-To: <urn:uuid:6f993881-d4e7-46ed-8a4c-80edf65daff0>
+WARC-Target-URI: http://www.scotsman.com/motors/reviews/a-game-of-two-halves-1-2657007
+WARC-Date: 2014-09-25T04:00:35Z
+WARC-IP-Address: 117.121.253.254
+Content-Type: application/http;msgtype=response
+Content-Length: 88526
+
+HTTP/1.1 200 OK
+Cache-Control: public, max-age=0, s-maxage=0
+Content-Type: text/html;charset=utf-8
+Vary: Accept-Encoding
+X-Cacheable: YES
+Accept-Ranges: bytes
+Date: Thu, 25 Sep 2014 04:00:37 GMT
+X-Varnish: 1245130847
+Age: 0
+Via: 1.1 varnish
+Content-Length: 88226
+Connection: keep-alive
+
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+	<head>
+		<script type='text/javascript'>var _sf_startpt=(new Date()).getTime()</script>
+	<!-- Start LegacyAppFragment name="Head" -->
+		
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+							    <title>A GAME OF TWO HALVES - The Scotsman</title>
+
+		<link rel="stylesheet" href="/assets/css/jp-main-06-min.css?v=143" />
+<link rel="stylesheet" href="/assets/css/jquery-ui-1.8.23.custom.css" />
+<link href="http://cdn2.motors.co.uk/v2live/wl/css/jp.search-panel.css" rel="stylesheet" />
+<link href="http://cdn2.motors.co.uk/v2live/wl/css/jp.wl.jquery-ui.css" rel="stylesheet" />
+<link href="http://cdn2.motors.co.uk/v2live/wl/css/wl_widget.css" rel="stylesheet" />
+<!--[if IE 7]>
+  <link rel="stylesheet" href="/assets/css/ie7.css" />
+<![endif]-->
+<!--[if lt IE 7]>
+  <link rel="stylesheet" href="/assets/css/ie6.css" />
+<![endif]-->
+  <meta name="robots" content="index">
+  <meta name="robots" content="ACAP allow-index">   
+	<meta name="description" content='$article.lead.value.replaceAll("<[^>]*>","")'>
+	<meta property="og:title" content='A GAME OF TWO HALVES'/>
+    <meta property="og:description" content='$article.lead.value.replaceAll("<[^>]*>","")' />
+	 	<link rel="stylesheet" type="text/css" href="/assets/css/print.css?v=143" media="print" />
+  <link rel="canonical" href="http://www.scotsman.com/motors/reviews/a-game-of-two-halves-1-2657007" />
+
+	<script src="http://community.scotsman.com/ver1.0/Content/ua/scripts/pluckApps.js?skipCSS=true"></script>
+	<link rel="stylesheet" href="http://community.scotsman.com/ver1.0/pluck/pluck.css" />
+	<link rel="stylesheet" href="http://community.scotsman.com/ver1.0/pluck/comments/comments.css" />
+			<link rel="stylesheet" href="/assets/css/jp-cmt-min.css?v=143" />
+		<!--[if IE 9]>
+    <link rel="stylesheet" href="/assets/css/jp-comments-theme-ie9.css?v=143" />
+	<![endif]-->
+
+				<meta name="WT.pi" content="Motors|Reviews"/>
+				<meta name="WT.cg_n" content="Article"/>
+    	<meta name="DCSext.sitecode" content="scot" />
+	<meta name="DCS.dcssip" content="www.scotsman.com" />
+
+						<!-- using hardcoded tags -->
+					        	<script language="javascript" src="/js/webtrends/wtinitmotors.js?v=143"></script>
+            <noscript>
+              <div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://statse.webtrendslive.com/dcs7jym2kuz5bdbfqlo298vbo_1i2b/njs.gif?dcsuri=/motors/reviews/a-game-of-two-halves-1-2657007" /></div>
+            </noscript>
+            			<script language="javascript" type="text/javascript" src="/js/webtrends/wtbase.js?v=143"></script>
+
+
+	    <script src="/assets/script/jp-new-min.js?v=143"></script>
+
+
+
+<script type="text/javascript" src="/assets/script/comscore.js?v=143"></script>
+<noscript>
+	<img src="http://b.scorecardresearch.com/p?c1=2&c2=6035892&cv=2.0&cj=1" />
+</noscript>
+<script type="text/javascript">	
+	 var siteKey = 'scot';
+
+
+</script>
+
+<script type="text/javascript">  
+	var gs_topics = "DEFAULT";</script>
+<script type="text/javascript" src="http://johnston.grapeshot.co.uk/topics.cgi?url=http%3A%2F%2Fwww.scotsman.com%2Fmotors%2Freviews"></script>
+				
+																			
+	<script type="text/javascript" src="//libs.de.coremetrics.com/eluminate.js">
+	</script>
+	<script type="text/javascript">
+			cmSetClientID("50630000|SCOT",true,"data.de.coremetrics.com","scotsman.com");
+	</script>
+
+	<script type="text/javascript">
+			cmCreatePageviewTag("SCOT | A GAME OF TWO HALVES 2657007","","");				
+	</script>	
+
+			<script src="http://tags.crwdcntrl.net/c/4810/cc_af.js"></script> 
+			<script type="text/javascript" src="http://ad.crwdcntrl.net/5/c=4299/pe=y/var=ccauds"></script>
+	<script type="text/javascript">
+	    var dartCCKey = "ccaud";
+	    var dartCC = "";
+	    if (typeof(ccauds) != 'undefined')
+	    {
+	        for (var cci = 0; cci < ccauds.Profile.Audiences.Audience.length; cci++)
+	        {
+	            if (cci > 0) dartCC += ";";
+	            dartCC += dartCCKey + "=" + ccauds.Profile.Audiences.Audience[cci].abbr;
+	        }
+	    }
+	</script>
+	
+<!-- End LegacyAppFragment name="Head" -->	
+
+      
+
+      	<link rel="stylesheet" href="/assets/css/motors/widgets.css" type="text/css" />
+	<link rel="stylesheet" href="/assets/css/widgets-pp3.css" type="text/css" />
+			</head>  
+	<body class="national">
+<ul class="offset">
+    <li><a class="cfo_M .cbo_M" href="#content" title="skip to content" tabindex="1" accesskey="1" onclick="$('#content').attr('tabindex',-4).focus();">Jump to Content</a></li>
+    <li><a class="cfo_M .cbo_M" href="#level1nav" title="skip to level 2 navigation" tabindex="2" accesskey="2" onclick="$('#level1nav').attr('tabindex',-1).focus();">Jump to First Navigation</a></li>
+</ul>
+	               	
+                  
+    
+      
+        <ul class="offset">
+	<li><a class="cfo_M .cbo_M" href="#content" title="skip t content" tabindex="1" accesskey="1" onclick="$('#content').attr('tabindex',-4).focus();">Jump to Content</a></li>
+	<li><a class="cfo_M .cbo_M" href="#level1nav" title="skip to level 1 navigation" tabindex="2" accesskey="2" onclick="$('#level1nav').attr('tabindex',-1).focus();">Jump to First Navigation</a></li>
+			<li><a class="cfo_M .cbo_M" href="#navigationTier" title="skip to level 2 navigation" tabindex="3" accesskey="3" onclick="$('#navigationTier').attr('tabindex',-2).focus();">Jump to Second Navigation</a></li>
+		</ul>
+	<ul class="offset">
+	<li><a class="cfo_M .cbo_M" href="#content" title="skip to content" tabindex="1" accesskey="1" onclick="$('#content').attr('tabindex',-4).focus();">Jump to Content</a></li>
+	<li><a class="cfo_M .cbo_M" href="#level1nav" title="skip to level 1 navigation" tabindex="2" accesskey="2" onclick="$('#level1nav').attr('tabindex',-1).focus();">Jump to First Navigation</a></li>
+			<li><a class="cfo_M .cbo_M" href="#navigationTier" title="skip to level 2 navigation" tabindex="3" accesskey="3" onclick="$('#navigationTier').attr('tabindex',-2).focus();">Jump to Second Navigation</a></li>
+		</ul>
+
+    
+
+ 
+  			    
+		<header class="header" role="banner">
+
+										<div class="dc-banner">
+	            	
+                  
+    
+      
+        
+
+<div id="adTag_2" class="adTag">
+	<script type="text/javascript">
+	var ord = window.ord || Math.floor(Math.random() * 1e16);
+	document.write('<script src="http://ad.uk.doubleclick.net/N3948/adj/scotsman.jp/reviews;nav=motors;nav=reviews;pgid=12657007;tile=2;sz=728x90,970x250;;' + (typeof(dartCC) != "undefined" ? dartCC : "") + ';gs_cat='+gs_topics+';postcode=null;distance=null;;weathertoday=cloudy;weathertomorrow=sunnyspells;dcopt=ist;ord=' + ord + '? " type="text/javascript"></scr'+'ipt>');
+	</script>
+	<noscript>
+	  <a href="http://ad.uk.doubleclick.net/jump/scotsman.jp/reviews;nav=motors;nav=reviews;pgid=12657007;tile=1;sz=728x90,970x250;;gs_cat=GS_TOPIC;weathertoday=cloudy;weathertomorrow=sunnyspells;dcopt=ist;ord=[timestamp]?" target="_blank">
+    	<img src="http://ad.uk.doubleclick.net/ad/scotsman.jp/reviews;nav=motors;nav=reviews;pgid=12657007;tile=1;sz=728x90,970x250;;gs_cat=GS_TOPIC;weathertoday=cloudy;weathertomorrow=sunnyspells;dcopt=ist;ord=[timestamp]?" alt="Dynamic Dart Advertisement" />
+	  </a>
+	</noscript>
+</div>
+
+
+      
+  
+      	            </div>
+	        	
+		<nav id="level1navDiv" tabindex="-1" class="nav-l1 bg gradient main" role="navigation" aria-label="main menu">
+			<h1 id="pagePath" style="display:none" class="flt-l">motors/reviews</h1>
+			<ul id="level1nav" class="cld" role="menubar" aria-level="1">
+	<li class="flt-l " role="menuitem">
+		<a class="home active" href="http://www.scotsman.com/"></a>
+	</li>		
+			<li class="flt-l " role="menuitem">
+			<a href="http://www.scotsman.com/news"    >News</a>
+		</li>
+			<li class="flt-l " role="menuitem">
+			<a href="http://www.scotsman.com/sport"    >Sport</a>
+		</li>
+			<li class="flt-l " role="menuitem">
+			<a href="http://www.scotsman.com/business"    >Business</a>
+		</li>
+			<li class="flt-l " role="menuitem">
+			<a href="http://www.scotsman.com/what-s-on"    >What's On</a>
+		</li>
+			<li class="flt-l " role="menuitem">
+			<a href="http://www.scotsman.com/lifestyle"    >Lifestyle</a>
+		</li>
+			<li class="flt-l " role="menuitem">
+			<a href="http://www.scotsman.com/jobs"    >Jobs</a>
+		</li>
+			<li class="flt-l " role="menuitem">
+			<a href="http://www.scotsman.com/findit"    >Directory</a>
+		</li>
+			<li class="flt-l active" role="menuitem">
+			<a href="http://www.scotsman.com/motors"    >Motors</a>
+		</li>
+			<li class="flt-l " role="menuitem">
+			<a href="http://www.scotsman.com/property"    >Property</a>
+		</li>
+			<li class="flt-l " role="menuitem">
+			<a href="http://www.dealmonster.co.uk/deal/edinburgh/"   target='_blank' >Deals</a>
+		</li>
+				<li class="flt-l pos-r" role="menuitem" tabindex="0" aria-haspopup="true" id="js-more-link">
+		<a href='javascript:' id="moreLink" class="more">More</a>
+					<ul role="menu" id="js-more-nav" class="nav-l1-1" aria-hidden="true">
+									<li role="menuitem" class="">																																						    						    																									
+						<a href="http://announce.jpress.co.uk/?source=jpsc_scot"   target='_blank' >Announcements</a>							
+					</li>
+									<li role="menuitem" class="">																																						    						    																									
+						<a href="http://www.scotsman.com/dating"   target='_blank' >Dating</a>							
+					</li>
+									<li role="menuitem" class="">																																						    						    																									
+						<a href="http://archive.scotsman.com"   target='_blank' >Digital Archive</a>							
+					</li>
+									<li role="menuitem" class="">																																						    						    																									
+						<a href="http://edinburghnews.scotsman.com"   target='_blank' >Edinburgh Evening News</a>							
+					</li>
+									<li role="menuitem" class="">																																						    						    																									
+						<a href="http://www.edinburgh-festivals.com/"   target='_blank' >Edinburgh Festival</a>							
+					</li>
+									<li role="menuitem" class="">																																						    						    																									
+						<a href="http://www.scotsman.com/gaelic"    >Gaelic</a>							
+					</li>
+									<li role="menuitem" class="">																																						    						    																									
+						<a href="http://www.scotsman.holidaytoday.co.uk"   target='_blank' >Holidays</a>							
+					</li>
+									<li role="menuitem" class="">																																						    						    																									
+						<a href="http://www.scotsman.com/public-notices"    >Public Notices</a>							
+					</li>
+									<li role="menuitem" class="">																																						    						    																									
+						<a href="http://www.dealmonster.co.uk/shop"   target='_blank' >Shop</a>							
+					</li>
+									<li role="menuitem" class="">																																						    						    																									
+						<a href="http://www.scotsman.com/webchats"    >Webchats</a>							
+					</li>
+									<li role="menuitem" class="">																																						    						    																									
+						<a href="http://www.scotsman.com/world-war-one"    >World War One</a>							
+					</li>
+									<li role="menuitem" class="">																																						    						    																									
+						<a href="http://calendar.scotsman.com"    >Calendars</a>							
+					</li>
+									<li role="menuitem" class="">																																						    						    																									
+						<a href="http://www.scotsman.com/save-money"    >Save Money</a>							
+					</li>
+							</ul>
+				</li>					
+	</ul>						
+                  
+    
+      
+        
+		<form id="searchPanel" class="site-search" role="search" name="site-search" action="http://www.scotsman.com//7.14078" method="get">
+
+            <fieldset class="cld">
+			<input type="hidden" name="submitted" value="true" id="fixForIEBugSlot" />
+            <input type="hidden" name="action" value="search" />
+            <input type="hidden" name="slotSearch" value="true" />
+            <input type="hidden" name="siteId" value="2.6543" />
+            <input id="searchInNav" class="flt-l txt frm-search-term" type="text" name="freeTextQuery" value="Search" placeholder="Search" />
+            <input class="flt-l submit gradient" type="submit"  value=""/>
+            </fieldset>
+        </form>
+        
+        <script type="text/javascript">		
+			$(document).ready(function (){
+				$("input.frm-search-term").each(function() {
+					$(this).val(getQuerystring('freeTextQuery',''));
+				});
+			});
+		</script>
+	
+<script type="text/javascript">
+
+	$(document).ready(function (){
+		searchElem("freeTextQuery");
+	});
+</script>
+      
+  
+      		</nav>
+
+		<div class="content">
+			<div class="main">
+									<a id="publicationLogo" class="logo-holder flt-l" href="http://www.scotsman.com/">
+						
+       
+ <img src="/webimage/7.14068.1374460454!/image/2203368453.png_gen/derivatives/default/2203368453.png" alt="" />
+     
+     					</a>
+												<nav class="user-links flt-r" aria-label="logging in navigation">
+					<ul class="login hidden" role="menu" id="loginRegisterPanel" aria-label="user login/register">
+			<li class="flt-l" role="menuitem"><a id="login" class="ico ico-login" href="/login?referrer=http://www.scotsman.com/motors/reviews/a-game-of-two-halves-1-2657007">Login</a></li>
+	        <li class="flt-l last" role="menuitem"><a href="/register?referrer=http://www.scotsman.com/motors/reviews/a-game-of-two-halves-1-2657007" rel="nofollow">Register</a></li>
+        </ul>
+								<ul class="login hidden" role="menu" id="profileLogoutPanel" aria-label="user login/register">
+		<li class="flt-l" role="menuitem"> <a id="login" class="ico ico-login" href="/profile" rel="nofollow"><span id="username1"></span></a></li>
+		<li class="flt-l last" role="menuitem"><a id="logoutBtn" href="/logout?referrer=http://www.scotsman.com/motors/reviews/a-game-of-two-halves-1-2657007" rel="nofollow">Log out</a></li>
+		</ul>
+				      		<ul class="login hidden" role="menu" id="logoutPanel" aria-label="user login/register">
+        	<li class="flt-l" role="menuitem"><p id="login" class="ico ico-login"><span id="username2"></span></p></li>
+        	<li class="flt-l last" role="menuitem"><a id="logoutBtn" href="/logout?referrer=http://www.scotsman.com/motors/reviews/a-game-of-two-halves-1-2657007" rel="nofollow">Log out</a></li>
+        </ul>
+             <ul class="register login hidden" aria-haspopup="true">
+		<li class="flt-r" role="menuitem"><a id="whyregister-link" href="#">Why Register?</a></li>
+   </ul>
+</nav>
+
+<div id="whyregister-lightbox" class="whyregister-lightbox dis-n">
+	<section id="whyregister" class="whyregister" role="main">
+		<h3>Why register?</h3>
+		
+        <a href="" class="close" title="close">Close<b>X</b></a>
+		<aside>
+        	<p>If you have already registered</p>
+            <button class="whyregister" onClick="location.href = '/login?referrer=http://www.scotsman.com/motors/reviews/a-game-of-two-halves-1-2657007'" title="log in">Log in</button>
+            <span>Forgot your password? <a href="/login?action=forgotpassword" title="forgot password">&nbsp;click here</a></span>
+        </aside>
+        <div>
+        	<p>If you have not signed up previously</p>
+            <button class="whyregister" onClick="location.href = '/register?referrer=http://www.scotsman.com/motors/reviews/a-game-of-two-halves-1-2657007'" title="register now">Register now</button>
+            <span>It's free and only takes a minute!</span>            
+        </div>        
+        <dl role="complementary">
+        	<dt>Benefits to registering with us</dt>
+        	<dd>
+            	<img src="/assets/images/img/comment.png" alt="comment on stories" /><span>Comment on stories</span>
+            </dd>
+        	<dd>
+            	<img src="/assets/images/img/mail.png" alt="Customise daily e-mail newsletters" /><span>Customise daily e-mail newsletters</span>
+            </dd>
+        	<dd>
+            	<img src="/assets/images/img/paper.png" alt="Arrange your newspaper/digital subscriptions online" /><span>Arrange your newspaper/digital subscriptions online</span>
+            </dd>            
+        	<dd>
+            	<img src="/assets/images/img/deal.png" alt="Offers, promotions and deals from partners" /><span>Offers, promotions and deals from partners</span>
+            </dd>
+                    </dl>
+	</section>
+</div>
+<script type="text/javascript">
+	var loginStatusResponse;
+	var loginResponseSet = false;
+	var loginHandlers = new Array();
+
+    function loadLogin(json) {
+		loginStatusResponse = json;
+        if (json.loginStatus.loggedIn) {
+            if (json.loginStatus.accessProfile) {
+                $('#profileLogoutPanel').removeClass("hidden");
+                $('#logoutPanel').addClass("hidden");
+                $('#loginRegisterPanel').addClass("hidden");
+				$('.register').addClass("hidden");
+                $('#username1').text( json.loginStatus.screenname );
+            } else {
+                $('#profileLogoutPanel').addClass("hidden");
+                $('#logoutPanel').removeClass("hidden");
+                $('#loginRegisterPanel').addClass("hidden");
+				$('.register').removeClass("hidden");
+                $('#username2').text( json.loginStatus.screenname );
+            }
+                        $('#subscribeNLWidgetLoggedOut').addClass("hidden");
+            $('#subscribeNLWidgetLoggedIn').removeClass("hidden");
+			
+						if(json.loginStatus.askedCookiePolicy && json.loginStatus.acceptsCookiePolicy){
+				$('#euCookiesQuestion').hide();
+				$("body > header").css('margin', '0px auto 0px');
+			}
+												if(jQuery.cookie('acceptsCookies')=='accepts') {		
+				$('#euCookiesQuestion').hide();
+				$("body > header").css('margin', '0px auto 0px');
+			}
+			
+        } else {
+            $('#loginRegisterPanel').removeClass("hidden");
+			$('.register').removeClass("hidden");
+            $('#logoutPanel').addClass("hidden");
+            $('#profileLogoutPanel').addClass("hidden");
+            $('#subscribeNLWidgetLoggedIn').addClass("hidden");
+            $('#subscribeNLWidgetLoggedOut').removeClass("hidden");
+			
+						if(jQuery.cookie('at')!=null) {		
+				jQuery.cookie("at", null, { 
+				path: '/', 
+				expires: -5, 
+				domain: '.' + location.host.replace('www.','').replace('m.','') });
+				console.info('pluck cookie removed');
+				console.info(jQuery.cookie('at'));
+							}
+									if(jQuery.cookie('acceptsCookies')=='accepts') {		
+				$('#euCookiesQuestion').hide();
+				$("body > header").css('margin', '0px auto 0px');
+			}
+			
+        }
+
+		loginResponseSet = true;
+		$(document).trigger('loginResponse');		
+    }
+    
+    				$(document).ready(function() {
+    	if (($.cookie("sessionKey") == null) && ($.cookie("rememberMe") == null) ) {
+    		loadLogin({loginStatus:{loggedIn:false}});
+    	} else {
+            $.getJSON('/ajax?action=loginStatus', loadLogin);
+    	}
+	});
+    
+																			   $('#whyregister-link').click(function(event){
+   
+   			$('#whyregister-lightbox').lightbox_me({
+				centered: true,
+				closeSelector: ".close",
+				overlayCSS: {background: '#fff',
+				opacity: 0.8}, 
+				closeClick: false,
+				onLoad: function() { 
+					$('#whyregister-lightbox').find('input:first').focus()
+				}
+			});
+			event.preventDefault();
+		});
+</script>
+			 					<div class="dc-half-banner">
+																														</div>
+								
+																
+			    <ul class="info cld flt-l fnt-13" aria-label="social links and weather">
+					<li class="flt-l first" title="Today's date">Thursday 25th September 2014</li>
+																		<li class="flt-l"> 
+								
+
+  	    	      	      	      	   	   	     
+
+					<a  class='ext-link' href="https://www.facebook.com/TheScotsmanNewspaper"  target='_blank'  rel='nofollow'>
+			  
+							<img title="" src="/webimage/1.3008971!/image/3629289794.png_gen/derivatives/landscape_16/3629289794.png" alt=""/>
+					</a> 
+		
+ 							</li>
+													<li class="flt-l"> 
+								
+
+  	    	      	      	      	   	   	     
+
+					<a  class='ext-link' href="https://twitter.com/TheScotsman"  target='_blank'  rel='nofollow'>
+			  
+							<img title="" src="/webimage/1.3008972!/image/1387243349.png_gen/derivatives/landscape_16/1387243349.png" alt=""/>
+					</a> 
+		
+ 							</li>
+																
+                  
+    
+      
+        		<li class="flt-l">
+		<a  class="show-weather-popup" href="#" title="5 day forecast">
+			<img src="/assets/images/icons/img_trans.gif" class='ico-cloudy ico-weather-scotsman' alt="weather-icon" />
+			Cloudy 13&deg;C / 17&deg;C
+		</a>
+	</li>
+	<div id="weather-lightbox" class="whyregister-lightbox dis-n">
+		<section id="weatherpop-up" class="weatherpop-up" role="main">			<div class="localWeather">
+				<h3>Edinburgh 5-day weather forecast</h3>
+				<a href="" class="close" title="close">Close<b>X</b></a>
+			</div>
+							<div class="weatherColLeft">
+					<p class="weekday weekDay flt-l">Thursday 
+						<span class="day-month">25 Sep</span>
+					</p>
+					  <p class="weatherOutlookHeading">Cloudy</p>
+  <div class='wico-weather wico-cloudy'>
+  </div>
+  <p class="weekDay">Temp</p>
+  <p class="greycolor weatherParam">High
+    <span class="day-month">17&deg;c</span>
+  </p> 
+  <p class="greycolor weatherParam">Low
+    <span class="day-month">13&deg;c</span>
+  </p>
+
+  <p class="weekDay">Wind</p>
+  <p class="greycolor weatherParam">From
+    <span class="day-month">South west</span>
+  </p>
+  <p class="greycolor weatherParam">Speed
+    <span class="day-month">16 mph</span>
+  </p>
+
+				</div>
+							<div class="weatherColLeft">
+					<p class="weekday weekDay flt-l">Friday 
+						<span class="day-month">26 Sep</span>
+					</p>
+					  <p class="weatherOutlookHeading">Sunny spells</p>
+  <div class='wico-weather wico-sunny_spells'>
+  </div>
+  <p class="weekDay">Temp</p>
+  <p class="greycolor weatherParam">High
+    <span class="day-month">15&deg;c</span>
+  </p> 
+  <p class="greycolor weatherParam">Low
+    <span class="day-month">8&deg;c</span>
+  </p>
+
+  <p class="weekDay">Wind</p>
+  <p class="greycolor weatherParam">From
+    <span class="day-month">West</span>
+  </p>
+  <p class="greycolor weatherParam">Speed
+    <span class="day-month">18 mph</span>
+  </p>
+
+				</div>
+							<div class="weatherColLeft">
+					<p class="weekday weekDay flt-l">Saturday 
+						<span class="day-month">27 Sep</span>
+					</p>
+					  <p class="weatherOutlookHeading">Sunny spells</p>
+  <div class='wico-weather wico-sunny_spells'>
+  </div>
+  <p class="weekDay">Temp</p>
+  <p class="greycolor weatherParam">High
+    <span class="day-month">15&deg;c</span>
+  </p> 
+  <p class="greycolor weatherParam">Low
+    <span class="day-month">11&deg;c</span>
+  </p>
+
+  <p class="weekDay">Wind</p>
+  <p class="greycolor weatherParam">From
+    <span class="day-month">South west</span>
+  </p>
+  <p class="greycolor weatherParam">Speed
+    <span class="day-month">12 mph</span>
+  </p>
+
+				</div>
+							<div class="weatherColLeft">
+					<p class="weekday weekDay flt-l">Sunday 
+						<span class="day-month">28 Sep</span>
+					</p>
+					  <p class="weatherOutlookHeading">Cloudy</p>
+  <div class='wico-weather wico-cloudy'>
+  </div>
+  <p class="weekDay">Temp</p>
+  <p class="greycolor weatherParam">High
+    <span class="day-month">17&deg;c</span>
+  </p> 
+  <p class="greycolor weatherParam">Low
+    <span class="day-month">10&deg;c</span>
+  </p>
+
+  <p class="weekDay">Wind</p>
+  <p class="greycolor weatherParam">From
+    <span class="day-month">South west</span>
+  </p>
+  <p class="greycolor weatherParam">Speed
+    <span class="day-month">8 mph</span>
+  </p>
+
+				</div>
+							<div class="weatherColLeft">
+					<p class="weekday weekDay flt-l">Monday 
+						<span class="day-month">29 Sep</span>
+					</p>
+					  <p class="weatherOutlookHeading">Cloudy</p>
+  <div class='wico-weather wico-cloudy'>
+  </div>
+  <p class="weekDay">Temp</p>
+  <p class="greycolor weatherParam">High
+    <span class="day-month">16&deg;c</span>
+  </p> 
+  <p class="greycolor weatherParam">Low
+    <span class="day-month">11&deg;c</span>
+  </p>
+
+  <p class="weekDay">Wind</p>
+  <p class="greycolor weatherParam">From
+    <span class="day-month">East</span>
+  </p>
+  <p class="greycolor weatherParam">Speed
+    <span class="day-month">4 mph</span>
+  </p>
+
+				</div>
+					</section>
+	</div>
+	<script type="text/javascript">
+    $('.show-weather-popup').live("click",function(event){
+			$('#weather-lightbox').lightbox_me({
+				centered: true,
+				closeSelector: ".close",
+				overlayCSS: {background: '#fff',
+				opacity: 0.8}, 
+				closeClick: false,
+				onLoad: function() { 
+					$('#weather-lightbox').find('input:first').focus()
+				}
+			});
+			event.preventDefault();
+		});
+	</script>
+
+      
+  
+      			        				</ul>
+			 </div>
+		</div>
+		
+				<div id="navTiers"> 
+					<nav id="navigationTier" tabindex="-2" class="cld nav nav-l2" role="navigation">
+			<ul id="secondMenu" class="cld" role="menubar" aria-label="main menu level 2">			
+																			<li class="flt-l " role="menuitem">						
+						<a href="http://www.scotsman.com/video"    >Video</a>
+					</li>
+																			<li class="flt-l " role="menuitem">						
+						<a href="http://thescotsmanpublications.newsprints.co.uk/banr/SCOT" rel='nofollow'  target='_blank' >Buy A Photo</a>
+					</li>
+																			<li class="flt-l " role="menuitem">						
+						<a href="http://www.scotsman.com/scottish-independence/"    >Scottish independence referendum</a>
+					</li>
+																			<li class="flt-l " role="menuitem">						
+						<a href="http://www.scotsman.com/sport/golf/ryder-cup-2014"    >Ryder Cup 2014</a>
+					</li>
+																			<li class="flt-l last" role="menuitem">						
+						<a href="http://www.edinburghnews.scotsman.com/"    >Edinburgh Evening News</a>
+					</li>
+							</ul>
+	</nav>
+		</div>
+			
+	</header>
+		
+
+
+<script type="text/javascript">
+document.write('<script src="http://ad.doubleclick.net/N3948/adj/scotsman.jp/reviews;pgid=12657007;sz=2x2;' + (typeof(dartCC) != "undefined" ? dartCC : "") + ';ord=151313715188854?" style="text-indent:-9999px;"></scr'+'ipt>');
+</script>			
+<noscript>
+	<a href="http://ad.doubleclick.net/N3948/jump/scotsman.jp/reviews;pgid=12657007;sz=2x2;ord=[timestamp]?">
+		<img src="http://ad.doubleclick.net/N3948/ad/scotsman.jp/reviews;pgid=12657007;sz=2x2;ord=[timestamp]?" width="2" height="2" />
+	</a>
+</noscript>
+
+<script type="text/javascript" src="http://ox-d.johnstonpress.co.uk/w/1.0/jstag"></script>
+
+<script type="text/javascript">
+if(typeof(OX) !== "undefined"){
+    // setup classified ads
+    var OX_50f81df3913c8 = OX();
+    OX_50f81df3913c8.addVariable("gs_cat", gs_topics);
+    //OX_50f81df3913c8.addVariable("jp_page_id", "21806");//  the value needs to translate to the page content id as a variable - currently see doubleclick
+    OX_50f81df3913c8.addVariable("jp_page_id", "12657007");
+	//OX_50f81df3913c8.addVariable("site", "peterborough.jp"); // in the johnston press variables use dartSite not "peterborough.jp" example only
+    OX_50f81df3913c8.addVariable("site", "scotsman.jp");
+        OX_50f81df3913c8.addVariable("siteName", "The Scotsman"); 
+        	OX_50f81df3913c8.addVariable("dealmonster", "http://www.dealmonster.co.uk/deal/edinburgh/");
+ 	    	OX_50f81df3913c8.addVariable("property", "http://www.scotsman.com/property");
+ 	    	OX_50f81df3913c8.addVariable("motors", "http://www.scotsman.com/motors");
+ 	    	OX_50f81df3913c8.addVariable("localbusiness", "http://www.scotsman.com/findit");
+ 	    	OX_50f81df3913c8.addVariable("jobs", "http://www.scotsman.com/jobs");
+ 	    	OX_50f81df3913c8.addVariable("familyannouncements", "http://announce.jpress.co.uk/?source=jpsc_scot");
+ 	    // Obs.: classified ads are not fetched here because they can be reused on the same page (pagination)
+    // end classified
+    
+    // setup enterprise ads
+    var OX_50f7db7d97b3b = OX();
+    OX_50f7db7d97b3b.addAdUnit("338307");
+    OX_50f7db7d97b3b.addVariable("gs_cat", gs_topics);
+    //OX_50f7db7d97b3b.addVariable("jp_page_id", "21806");//  the value needs to translate to the page content id as a variable - currently see doubleclick etc
+    OX_50f7db7d97b3b.addVariable("jp_page_id", "12657007");
+	//OX_50f7db7d97b3b.addVariable("site", "yorkshire.jp");// in the johnston press variables use dartSite not "yorkshire.jp" example only
+    OX_50f7db7d97b3b.addVariable("site", "scotsman.jp");
+       	OX_50f7db7d97b3b.addVariable("siteName", "The Scotsman");
+   		 	OX_50f7db7d97b3b.addVariable("readertravel", "http://www.scotsman.holidaytoday.co.uk");
+ 		 	OX_50f7db7d97b3b.addVariable("bingo", "http://www.scotsman.com/bingo");
+ 		 	OX_50f7db7d97b3b.addVariable("readershop", "http://www.dealmonster.co.uk/shop");
+ 		 	OX_50f7db7d97b3b.addVariable("dating", "http://www.scotsman.com/dating");
+ 		 	OX_50f7db7d97b3b.addVariable("buyaphoto", "http://thescotsmanpublications.newsprints.co.uk/banr/SCOT");
+ 		    OX_50f7db7d97b3b.fetchAds();
+    // end enterprise
+    
+    // setup sky vertical
+    var OX_50f938d6b8286 = OX();
+    OX_50f938d6b8286.addPage("14405");
+    OX_50f938d6b8286.addVariable("gs_cat", gs_topics);
+    //OX_50f938d6b8286.addVariable("jp_page_id", "23929");//  the value needs to translate to the page content id as a variable - currently see doubleclick etc
+    OX_50f938d6b8286.addVariable("jp_page_id", "12657007");
+	//OX_50f938d6b8286.addVariable("site", "portsmouth.jp");// in the johnston press variables use dartSite not "portsmouth.jp" example only
+    OX_50f938d6b8286.addVariable("site", "scotsman.jp");
+    
+    //OX_50f938d6b8286.addAdUnit("338768");
+    //OX_50f938d6b8286.addAdUnit("338769");
+    //OX_50f938d6b8286.addAdUnit("338771");
+    //OX_50f938d6b8286.addAdUnit("338849");
+    //OX_50f938d6b8286.addAdUnit("338850");
+    //OX_50f938d6b8286.addAdUnit("338851");
+    OX_50f938d6b8286.fetchAds();   
+    // end sky vertical
+    
+    // setup horizontal smart
+    var OX_50fd479337e05 = OX();
+    OX_50fd479337e05.addVariable("gs_cat", gs_topics);
+    //OX_50fd479337e05.addVariable("jp_page_id", "23196");//  the value needs to translate to the page content id as a variable - currently see doubleclick etc
+    OX_50fd479337e05.addVariable("jp_page_id", "12657007");
+	//OX_50fd479337e05.addVariable("site", "blackpool.jp");// in the johnston press variables use dartSite not "blackpool.jp" example only
+    OX_50fd479337e05.addVariable("site", "scotsman.jp");
+    // Obs.: horizontal ads are not fetched here because they can be reused on the same page (pagination)
+    // end horizontal smart
+}
+</script>
+      
+  
+                  	<div id="container">
+            <div id="mainContent">
+                <div id="leftContent">
+				                    
+                  
+    
+      
+        <div class="phase3">
+	<a href="http://www.scotsman.com/motors" class="menuLogo">
+		
+	</a>
+    <ul class="menu">
+    		        				<li>
+							<a href="http://www.scotsman.com/motors" >Search</a>
+				</li>
+			        				<li>
+							<a href="http://www.scotsman.com/motors/news">News</a>
+				</li>
+			        				<li class="activePage">
+							<a href="http://www.scotsman.com/motors/reviews">Reviews</a>
+				</li>
+			        				<li>
+							<a href="http://www.selfserviceads.co.uk/Welcome.aspx?REF=SCOT-sellyourcar" target="_blank">Sell your Car</a>
+				</li>
+	    </ul>
+</div>
+
+          
+        <div class="motorsWidget widgetReviewsQuickSearch clearfix" id="widgetReviewsQuickSearch1">
+    <h2 class="toggle">
+        <a href="#" title="">
+            <span class="toggle">A-Z Reviews</span>
+            <strong>
+                Motor Reviews
+            </strong>
+        </a>
+    </h2>
+    <div class="list clearfix" style="display: none;">
+        <ul class="tabs clearfix" style="display: block;">
+            <li class="current"><a href="#" title="by category" class="byCategory">by category</a></li>
+            <li><a href="#" title="by manufacturer" class="byManufacturer">by manufacturer</a></li>
+        </ul>
+        <ul class="categoryLinks clearfix">
+        			                    <li><a href="http://www.scotsman.com/motors/reviews/4x4s" title="4x4s">4x4s</a></li>
+        			                    <li><a href="http://www.scotsman.com/motors/reviews/compact-cars" title="Compact Cars">Compact Cars</a></li>
+        			                    <li><a href="http://www.scotsman.com/motors/reviews/family-cars" title="Family Cars">Family Cars</a></li>
+        			                    <li><a href="http://www.scotsman.com/motors/reviews/luxury-cars" title="Luxury Cars">Luxury Cars</a></li>
+        			                    <li><a href="http://www.scotsman.com/motors/reviews/sporting-cars" title="Sporting Cars">Sporting Cars</a></li>
+        			                    <li><a href="http://www.scotsman.com/motors/reviews/vans-and-pickups" title="Vans and Pickups">Vans and Pickups</a></li>
+                </ul>
+        <ul class="manufacturerLinks clearfix" style="display: none;">
+        			                    <li><a href="http://www.scotsman.com/motors/reviews/alfa-romeo" title="Alfa Romeo">Alfa Romeo</a></li>
+        			                    <li><a href="http://www.scotsman.com/motors/reviews/aston-martin" title="Aston Martin">Aston Martin</a></li>
+        			                    <li><a href="http://www.scotsman.com/motors/reviews/audi" title="Audi">Audi</a></li>
+        			                    <li><a href="http://www.scotsman.com/motors/reviews/bentley" title="Bentley">Bentley</a></li>
+        			                    <li><a href="http://www.scotsman.com/motors/reviews/bmw" title="BMW">BMW</a></li>
+        			                    <li><a href="http://www.scotsman.com/motors/reviews/cadillac" title="Cadillac">Cadillac</a></li>
+        			                    <li><a href="http://www.scotsman.com/motors/reviews/caterham" title="Caterham">Caterham</a></li>
+        			                    <li><a href="http://www.scotsman.com/motors/reviews/chevrolet" title="Chevrolet">Chevrolet</a></li>
+        			                    <li><a href="http://www.scotsman.com/motors/reviews/chrysler" title="Chrysler">Chrysler</a></li>
+        			                    <li><a href="http://www.scotsman.com/motors/reviews/citroen" title="Citroen">Citroen</a></li>
+        			                    <li><a href="http://www.scotsman.com/motors/reviews/daewoo" title="Daewoo">Daewoo</a></li>
+        			                    <li><a href="http://www.scotsman.com/motors/reviews/daihatsu" title="Daihatsu">Daihatsu</a></li>
+        			                    <li><a href="http://www.scotsman.com/motors/reviews/dodge" title="Dodge">Dodge</a></li>
+        			                    <li><a href="http://www.scotsman.com/motors/reviews/ferrari" title="Ferrari">Ferrari</a></li>
+        			                    <li><a href="http://www.scotsman.com/motors/reviews/fiat" title="Fiat">Fiat</a></li>
+        			                    <li><a href="http://www.scotsman.com/motors/reviews/ford" title="Ford">Ford</a></li>
+        			                    <li><a href="http://www.scotsman.com/motors/reviews/honda" title="Honda">Honda</a></li>
+        			                    <li><a href="http://www.scotsman.com/motors/reviews/hummer" title="Hummer">Hummer</a></li>
+        			                    <li><a href="http://www.scotsman.com/motors/reviews/hyundai" title="Hyundai">Hyundai</a></li>
+        			                    <li><a href="http://www.scotsman.com/motors/reviews/isuzu" title="Isuzu">Isuzu</a></li>
+        			                    <li><a href="http://www.scotsman.com/motors/reviews/jaguar" title="Jaguar">Jaguar</a></li>
+        			                    <li><a href="http://www.scotsman.com/motors/reviews/jeep" title="Jeep">Jeep</a></li>
+        			                    <li><a href="http://www.scotsman.com/motors/reviews/kia" title="Kia">Kia</a></li>
+        			                    <li><a href="http://www.scotsman.com/motors/reviews/lada" title="Lada">Lada</a></li>
+        			                    <li><a href="http://www.scotsman.com/motors/reviews/lamborghini" title="Lamborghini">Lamborghini</a></li>
+        			                    <li><a href="http://www.scotsman.com/motors/reviews/lancia" title="Lancia">Lancia</a></li>
+        			                    <li><a href="http://www.scotsman.com/motors/reviews/land-rover" title="Land Rover">Land Rover</a></li>
+        			                    <li><a href="http://www.scotsman.com/motors/reviews/lexus" title="Lexus">Lexus</a></li>
+        			                    <li><a href="http://www.scotsman.com/motors/reviews/lotus" title="Lotus">Lotus</a></li>
+        			                    <li><a href="http://www.scotsman.com/motors/reviews/maserati" title="Maserati">Maserati</a></li>
+        			                    <li><a href="http://www.scotsman.com/motors/reviews/maybach" title="Maybach">Maybach</a></li>
+        			                    <li><a href="http://www.scotsman.com/motors/reviews/mazda" title="Mazda">Mazda</a></li>
+        			                    <li><a href="http://www.scotsman.com/motors/reviews/mercedes-benz" title="Mercedes-Benz">Mercedes-Benz</a></li>
+        			                    <li><a href="http://www.scotsman.com/motors/reviews/mg" title="MG">MG</a></li>
+        			                    <li><a href="http://www.scotsman.com/motors/reviews/mini" title="Mini">Mini</a></li>
+        			                    <li><a href="http://www.scotsman.com/motors/reviews/mitsubishi" title="Mitsubishi">Mitsubishi</a></li>
+        			                    <li><a href="http://www.scotsman.com/motors/reviews/morgan" title="Morgan">Morgan</a></li>
+        			                    <li><a href="http://www.scotsman.com/motors/reviews/nissan" title="Nissan">Nissan</a></li>
+        			                    <li><a href="http://www.scotsman.com/motors/reviews/noble" title="Noble">Noble</a></li>
+        			                    <li><a href="http://www.scotsman.com/motors/reviews/perodua" title="Perodua">Perodua</a></li>
+        			                    <li><a href="http://www.scotsman.com/motors/reviews/peugeot" title="Peugeot">Peugeot</a></li>
+        			                    <li><a href="http://www.scotsman.com/motors/reviews/porsche" title="Porsche">Porsche</a></li>
+        			                    <li><a href="http://www.scotsman.com/motors/reviews/proton" title="Proton">Proton</a></li>
+        			                    <li><a href="http://www.scotsman.com/motors/reviews/renault" title="Renault">Renault</a></li>
+        			                    <li><a href="http://www.scotsman.com/motors/reviews/rolls-royce" title="Rolls-Royce">Rolls-Royce</a></li>
+        			                    <li><a href="http://www.scotsman.com/motors/reviews/rover" title="Rover">Rover</a></li>
+        			                    <li><a href="http://www.scotsman.com/motors/reviews/saab" title="Saab">Saab</a></li>
+        			                    <li><a href="http://www.scotsman.com/motors/reviews/seat" title="SEAT">SEAT</a></li>
+        			                    <li><a href="http://www.scotsman.com/motors/reviews/skoda" title="Skoda">Skoda</a></li>
+        			                    <li><a href="http://www.scotsman.com/motors/reviews/smart" title="Smart">Smart</a></li>
+        			                    <li><a href="http://www.scotsman.com/motors/reviews/ssangyong" title="SsangYong">SsangYong</a></li>
+        			                    <li><a href="http://www.scotsman.com/motors/reviews/subaru" title="Subaru">Subaru</a></li>
+        			                    <li><a href="http://www.scotsman.com/motors/reviews/suzuki" title="Suzuki">Suzuki</a></li>
+        			                    <li><a href="http://www.scotsman.com/motors/reviews/toyota" title="Toyota">Toyota</a></li>
+        			                    <li><a href="http://www.scotsman.com/motors/reviews/tvr" title="TVR">TVR</a></li>
+        			                    <li><a href="http://www.scotsman.com/motors/reviews/vauxhall" title="Vauxhall">Vauxhall</a></li>
+        			                    <li><a href="http://www.scotsman.com/motors/reviews/volkswagen" title="Volkswagen">Volkswagen</a></li>
+        			                    <li><a href="http://www.scotsman.com/motors/reviews/volvo" title="Volvo">Volvo</a></li>
+                </ul>
+    </div>
+</div>
+
+      
+  
+                                      					<div class="essentials main-content">
+						<div id="motorReview">
+    <h1 class="mainHeadline">A GAME OF TWO HALVES</h1>
+    <br />
+	<div>
+		<iframe id="motorsVideoIframe" src="http://www.caranddriving.com/new/player.jsp?w=450&id=9754&cid=motorstoday"></iframe>
+	<br /><br />
+					 														    <img id="largeMotorsArticlePicture" src="http://f2.caranddriving.com/images/new/large/Peugeot508HYbrid4saloon0512(2).jpg" alt="Car Picture"/>
+	<br /><br />
+		Published on Thursday 25 September 2014 04:57
+	<br /><br />
+	<p><b>Ten Second Review</b></p><p>The Peugeot 508 features a diesel engine that powers the front wheels and an electric motor that drives the back wheels. Serving up a combined 200bhp, this HYbrid4 drive system also manages to emit just 95g/km of CO2 in the saloon guise we look at here, with a combined fuel economy figure of 78.5mpg. The fly in the ointment might just be the asking price.</p><br /><p><b>Background</b></p><p>It seems obvious doesn't it? If you're going to build a fuel-efficient hybrid car, why wouldn't you start with a diesel engine and electrically assist it rather than the thirstier petrol units that most other manufacturers have adopted? Although you might suppose the answer is due to some technicality, in fact it's more to do with economics. The expensive part of a petrol-electric hybrid is the electric motor. Likewise a diesel engine is more costly to build and, consequently, to buy than a petrol unit, so for many manufacturers the bottom line was that diesel electric hybrids were just too pricey to build to attract the public's attention. Fortunately Peugeot thinks it has a way around this particular issue, neatly packaged into its 508 HYbrid4.</p><br /><p><b>Driving Experience</b></p><p>Peugeot's solution to many of the headaches that come with packaging and building a hybrid motor is just to build a really small system. Yes, this means that you'll do well to eke more than a couple of kilometres on battery power alone, but it keeps weight down and a whole host of clever regeneration techniques mean that if you drive the car gently, it'll record phenomenal economy figures, especially around town. Up front is a 163bhp 2.0-litre diesel that drives the front wheels, while a 37bhp electric motor provides drive to the rear wheels. Up to 300 Nm of torque is delivered to the front wheels by the HDi diesel unit and up to 200 Nm to the rear wheels with the electric motor. All wheel drive and spirited performance aren't normally what you think of when you think of hybrids but here's one that packs a 200bhp punch.<br />Although the smaller hybrid motor doesn't provide a huge boost to acceleration, it does give the 508 HYbrid4 useful additional grip on loose surfaces such as sand, mud and snow, so this is one hybrid that could easily face the worst that British weather could throw at it. If you want off-tarmac ability though, you will of course need the RXH estate version of this model with its extra 50mm of additional height, enough to cope with most situations outside of serious off-road terrain. Four drive modes (Zero Emission Vehicle, 4WD, Sport, and Auto) give the driver a measure of control over how the power is deployed.</p><br /><p><b>Design and Build</b></p><p>In saloon form, the 508 HYbrid4 looks far more conservative than its RXH estate stablemate - just like any other classy, well-specified 508 in fact. Peugeot reckons that's exactly as most buyers will want it.<br />But under all this frippery, you've a shape that isn't much different to that of any ordinary well specified 508 saloon. Well, it is the same from the B-pillars forwards - and that's what makes this design so darned clever. Hybrid engines, you see, have traditionally been enormously complicated things, designed from scratch, expensive solutions for eco-conscious motorists resulting in stand-alone models like Toyota's Prius. The French PSA Group wanted a simpler, more cost-effective approach and with their HYbrid4 technology, they have it.<br />Here, you keep everything standard at the front end of the car, with an ordinary off-the-shelf engine conventionally driving the front wheels. Then at the back, you simply replace the normal rear axle with one that packages in an electric motor, driving the rear wheels. Front and rear communicate electronically depending on the traction needed and power switches seamlessly between engine and battery as required. A brilliantly straightforward solution that enables Peugeot and its partner Citroen to bolt hybrid technology into just about any model they make.<br />We're also told that the packaging issues have been carefully thought through to ensure that the hybrid system's nickel-metal hydride batteries mounted above the rear axle don't eat too greatly into luggage space. Raise the boot and you'll find that luggage capacity is the same - 473-litres - as in any other 508 saloon. Plus there's plenty of oddments space in the cabin, including door pockets that can hold 1.5-litre bottles. The level of fit and finish is easily on a par with mainstream rivals, even matching the quality of some more expensive premium cars.</p><br /><p><b>Market and Model</b></p><p>The saloon version of this 508 HYbrid4 model costs the best part of &pound;2,500 less than its RXH estate stablemate, but you'll still need to find around &pound;31,500, which pitches it some way above top versions of comparable mid-range diesel models like Ford's Mondeo or Vauxhall's Insignia. But not as far away from them as you might think. Bear in mind too that the difference you do get will quickly be compensated for by lower taxation and running costs.<br />Just one well-equipped model is offered, with features such as 'Open and Go' Stop Start, Colour Head Up Display (that includes the display of the navigation system information), main beam head lamps assistance, automatic electric parking brake, revised telematics, JBL hi-fi stereo, Peugeot Connect SOS and Assistance, and xenon lights all available. That's in addition to features such as quad-zone air conditioning, driver's seat electric lumbar massage, electrically-adjustable driver and passenger seats with adjustable cushion edge and laminated acoustic rear side windows for road noise reduction.</p><br /><p><b>Cost of Ownership</b></p><p>Although other diesel electric models in the Peugeot range will doubtless attract more buyers, the 508 HYbrid4 is a tantalising glimpse of what can be achieved. Its emissions are rated at just 95g/km which is a fantastic figure for a car this big and powerful. Fuel economy is rated at 78.5mpg on the combined cycle but it's worth remembering that in full electric mode it can operate silently with zero tailpipe local emissions.<br />While this all sounds like nirvana for the business buyer looking to keep a cap on his or her tax bill, the fly in the ointment may well be a high asking price that may be surprisingly resistant to negotiation. Plus there's always the issue that a more prosaic diesel model in the range may well work out cheaper to run over three years anyway. We'll reserve judgement until Peugeot deigns to release all the financial figures on this car.</p><br /><p><b>Summary</b></p><p>That the Peugeot 508 HYbrid4 is a stunning technical achievement is beyond doubt. How any car can co-ordinate a diesel engine up front with an electric motor driving the back wheels with no physical drivetrain connection between front and rear is something very special but to be able to do it with the seamless transparency of Peugeot's HYbrid4 system is testament to the ingenuity of the car's design team. With ultra low emissions, excellent economy, decent practicality, superb safety systems, plenty of power and all-weather four-wheel drive capability, this 508 seems like the solution to a wide variety of ownership requirements.<br />Maybe with the exception of one and it comes down to overall running costs. We have a suspicion that corporate bean counters may well turn their backs on this model's elevated asking price and private buyers will realise that they could be in a very nice Audi or BMW for much the same money. As such, it faces a difficult task in convincing many British buyers but as technological showcase, the 508 HYbrid4 is state of the art.</p><br />
+	<br />
+	</div>
+</div>
+					</div>
+                                                                </div>                 <div id="rightContent">
+        
+                  
+    
+      
+        
+<div id="widgetSmallSearch1" class="motorsWidget widgetSmallSearch nobg clearfix">
+    <h2><strong>Used Car Search</strong></h2>
+    <form onsubmit="return $('#widgetSmallSearch1').smallSearch('validate')" action="javascript: $('#widgetSmallSearch1').smallSearch('smallWidgetMotorsSearch')">
+        <fieldset>
+            <div class="branding">
+                <small>in association with</small>
+                <a target="_blank" title="in association with motors.co.uk" href="http://motors.co.uk/">
+                    <img alt="Motors logo" src="/assets/images/motors/motors-logo-small.png">
+                </a>
+            </div>
+            <p>
+                <label for="smallSearchPostcode">Postcode:</label>
+                <input type="text" id="smallSearchPostcode" tabindex="1" maxlength="100" placeholder="(e.g. DE1 2BH)">
+                <span id="smallSearchPostcodeError" class="error">Please enter a Postcode</span>
+            </p>
+            <p>
+                <label for="smallSearchMake">Make:</label>
+
+                <span id="makesList" style="display:none;">
+                                                                        <span>Alfa Romeo</span>
+                                                    <span>Aston Martin</span>
+                                                    <span>Audi</span>
+                                                    <span>Bentley</span>
+                                                    <span>BMW</span>
+                                                    <span>Cadillac</span>
+                                                    <span>Caterham</span>
+                                                    <span>Chevrolet</span>
+                                                    <span>Chrysler</span>
+                                                    <span>Citroen</span>
+                                                    <span>Daewoo</span>
+                                                    <span>Daihatsu</span>
+                                                    <span>Dodge</span>
+                                                    <span>Ferrari</span>
+                                                    <span>Fiat</span>
+                                                    <span>Ford</span>
+                                                    <span>Honda</span>
+                                                    <span>Hummer</span>
+                                                    <span>Hyundai</span>
+                                                    <span>Infiniti</span>
+                                                    <span>Isuzu</span>
+                                                    <span>Iveco</span>
+                                                    <span>Jaguar</span>
+                                                    <span>Jeep</span>
+                                                    <span>Kia</span>
+                                                    <span>Lada</span>
+                                                    <span>Lamborghini</span>
+                                                    <span>Lancia</span>
+                                                    <span>Land Rover</span>
+                                                    <span>Lexus</span>
+                                                    <span>Lotus</span>
+                                                    <span>Maserati</span>
+                                                    <span>Maybach</span>
+                                                    <span>Mazda</span>
+                                                    <span>McLaren</span>
+                                                    <span>Mercedes-Benz</span>
+                                                    <span>MG</span>
+                                                    <span>MINI</span>
+                                                    <span>Mitsubishi</span>
+                                                    <span>Morgan</span>
+                                                    <span>Nissan</span>
+                                                    <span>Noble</span>
+                                                    <span>Perodua</span>
+                                                    <span>Peugeot</span>
+                                                    <span>Porsche</span>
+                                                    <span>Proton</span>
+                                                    <span>Renault</span>
+                                                    <span>Rolls-Royce</span>
+                                                    <span>Rover</span>
+                                                    <span>Saab</span>
+                                                    <span>SEAT</span>
+                                                    <span>Skoda</span>
+                                                    <span>Smart</span>
+                                                    <span>SsangYong</span>
+                                                    <span>Subaru</span>
+                                                    <span>Suzuki</span>
+                                                    <span>Toyota</span>
+                                                    <span>TVR</span>
+                                                    <span>Vauxhall</span>
+                                                    <span>Volkswagen</span>
+                                                    <span>Volvo</span>
+                                                            </span>
+
+                <input type="text" id="smallSearchMake" tabindex="2" maxlength="100" placeholder="(e.g. Volkswagen)">
+            </p>
+            <input type="submit" value="Search" class="btn" tabindex="4">
+            <p class="bottom">
+                <label for="smallSearchModel">Model:</label>
+                <input type="text" id="smallSearchModel" tabindex="3" maxlength="100" placeholder="(e.g. Golf MK3)">
+            </p>
+        </fieldset>
+    </form>
+
+</div>
+      
+  
+                <div class="rightColBanner336x280">
+      
+                  
+    
+      
+        
+
+<div id="adTag_3" class="adTag">
+	<script type="text/javascript">
+	var ord = window.ord || Math.floor(Math.random() * 1e16);
+	document.write('<script src="http://ad.uk.doubleclick.net/N3948/adj/scotsman.jp/reviews;nav=motors;nav=reviews;pgid=12657007;tile=3;sz=300x250,300x600;;pos=0;' + (typeof(dartCC) != "undefined" ? dartCC : "") + ';gs_cat='+gs_topics+';postcode=null;distance=null;;weathertoday=cloudy;weathertomorrow=sunnyspells;ord=' + ord + '? " type="text/javascript"></scr'+'ipt>');
+	</script>
+	<noscript>
+	  <a href="http://ad.uk.doubleclick.net/jump/scotsman.jp/reviews;nav=motors;nav=reviews;pgid=12657007;tile=2;sz=300x250,300x600;;pos=0;gs_cat=GS_TOPIC;weathertoday=cloudy;weathertomorrow=sunnyspells;ord=[timestamp]?" target="_blank">
+    	<img src="http://ad.uk.doubleclick.net/ad/scotsman.jp/reviews;nav=motors;nav=reviews;pgid=12657007;tile=2;sz=300x250,300x600;;pos=0;gs_cat=GS_TOPIC;weathertoday=cloudy;weathertomorrow=sunnyspells;ord=[timestamp]?" alt="Dynamic Dart Advertisement" />
+	  </a>
+	</noscript>
+</div>
+
+
+      
+  
+          </div>
+    
+              
+        
+                  
+    
+  
+  
+          
+        
+                  
+    
+      
+        <div class="motorsWidget carOfTheWeek">
+	<h2>
+		<strong>Used Car Of The Week</strong>
+	</h2>
+	<div class="widget_mpu">
+		<div id="motorsRNGWidget">  <ul id="mycarousel" class="jcarousel-skin-tango">    <li>      <div class="widget_info"><a class="img" href="CarOFTheWeek?rngName=JP Centre&amp;rngSubName=JP Scotland&amp;vehicleId=36159812"><img alt="Car of the week" title="Car of the week" src="http://images.autoexposure.co.uk/AETA11656/AETV39090560_1a.jpg"></a><h3><a href="CarOFTheWeek?rngName=JP Centre&amp;rngSubName=JP Scotland&amp;vehicleId=36159812">Nissan Micra 3dr </a><span class="highlight">£1,350</span></h3>      </div>    </li>    <li>      <div class="widget_info"><a class="img" href="CarOFTheWeek?rngName=JP Centre&amp;rngSubName=JP Scotland&amp;vehicleId=36159810"><img alt="Car of the week" title="Car of the week" src="http://cdn2.motors.co.uk/v2live/images/noimage.jpg"></a><h3><a href="CarOFTheWeek?rngName=JP Centre&amp;rngSubName=JP Scotland&amp;vehicleId=36159810">Ford Escort 5dr SI</a><span class="highlight">£650</span></h3>      </div>    </li>    <li>      <div class="widget_info"><a class="img" href="CarOFTheWeek?rngName=JP Centre&amp;rngSubName=JP Scotland&amp;vehicleId=36159814"><img alt="Car of the week" title="Car of the week" src="http://images.autoexposure.co.uk/AETA11656/AETV29783201_1a.jpg"></a><h3><a href="CarOFTheWeek?rngName=JP Centre&amp;rngSubName=JP Scotland&amp;vehicleId=36159814">Ford Focus 5dr SPORT</a><span class="highlight">£3,775</span></h3>      </div>    </li>    <li>      <div class="widget_info"><a class="img" href="CarOFTheWeek?rngName=JP Centre&amp;rngSubName=JP Scotland&amp;vehicleId=36159811"><img alt="Car of the week" title="Car of the week" src="http://images.autoexposure.co.uk/AETA11656/AETV18412179_1a.jpg"></a><h3><a href="CarOFTheWeek?rngName=JP Centre&amp;rngSubName=JP Scotland&amp;vehicleId=36159811">Jeep Grand Cherokee 5dr VOY...</a><span class="highlight">£5,995</span></h3>      </div>    </li>    <li>      <div class="widget_info"><a class="img" href="CarOFTheWeek?rngName=JP Centre&amp;rngSubName=JP Scotland&amp;vehicleId=36162413"><img alt="Car of the week" title="Car of the week" src="http://images.autoexposure.co.uk/AETA11656/AETV64965591_1a.jpg"></a><h3><a href="CarOFTheWeek?rngName=JP Centre&amp;rngSubName=JP Scotland&amp;vehicleId=36162413">Honda CR-V 5dr SR IVTEC</a><span class="highlight">£22,750</span></h3>      </div>    </li>    <li>      <div class="widget_info"><a class="img" href="CarOFTheWeek?rngName=JP Centre&amp;rngSubName=JP Scotland&amp;vehicleId=36087963"><img alt="Car of the week" title="Car of the week" src="http://images.autoexposure.co.uk/AETA11656/AETV88174694_1a.jpg"></a><h3><a href="CarOFTheWeek?rngName=JP Centre&amp;rngSubName=JP Scotland&amp;vehicleId=36087963">Alfa Romeo Giulietta 5dr VE...</a><span class="highlight">£9,250</span></h3>      </div>    </li>    <li>      <div class="widget_info"><a class="img" href="CarOFTheWeek?rngName=JP Centre&amp;rngSubName=JP Scotland&amp;vehicleId=36087960"><img alt="Car of the week" title="Car of the week" src="http://cdn2.motors.co.uk/v2live/images/noimage.jpg"></a><h3><a href="CarOFTheWeek?rngName=JP Centre&amp;rngSubName=JP Scotland&amp;vehicleId=36087960">Audi A3 3dr 1.6 SPORT</a><span class="highlight">£2,150</span></h3>      </div>    </li>  </ul></div>
+	</div>
+</div>
+
+          
+        <div class="motorsWidget widgetSmallArticleTeasers clearfix">
+	<h2><strong>Latest News</strong></h2>
+			<div class="item clearfix">
+							<div class="thumbnail">
+					<a href="http://www.scotsman.com/motors/news/new-volkswagen-passat-to-set-off-on-nationwide-tour-1-2637332" title="">
+						<img width="104px" height="69px" src="/webimage/1.2637333.1366680430!/image/1262193011.jpg_gen/derivatives/landscape_109/1262193011.jpg" alt="New Volkswagen Passat to set off on nationwide tour" />
+					</a>
+				</div>
+						<div class="details">
+				<h3>
+					<a title="" href="http://www.scotsman.com/motors/news/new-volkswagen-passat-to-set-off-on-nationwide-tour-1-2637332">New Volkswagen Passat to set off on nationwide tour</a>
+				</h3>
+						</div>
+		</div>
+			<div class="item clearfix">
+							<div class="thumbnail">
+					<a href="http://www.scotsman.com/motors/news/kia-picanto-set-to-redefine-its-a-segment-position-1-2637330" title="">
+						<img width="104px" height="69px" src="/webimage/1.2637331.1366680429!/image/2095763266.jpg_gen/derivatives/landscape_109/2095763266.jpg" alt="Kia Picanto set to redefine its A-segment position" />
+					</a>
+				</div>
+						<div class="details">
+				<h3>
+					<a title="" href="http://www.scotsman.com/motors/news/kia-picanto-set-to-redefine-its-a-segment-position-1-2637330">Kia Picanto set to redefine its A-segment position</a>
+				</h3>
+						</div>
+		</div>
+			<div class="item clearfix">
+							<div class="thumbnail">
+					<a href="http://www.scotsman.com/motors/news/infiniti-s-m35h-innovative-hybrid-set-to-impress-1-2637328" title="">
+						<img width="104px" height="69px" src="/webimage/1.2637329.1366680427!/image/3069866259.jpg_gen/derivatives/landscape_109/3069866259.jpg" alt="Infiniti's M35h innovative hybrid set to impress" />
+					</a>
+				</div>
+						<div class="details">
+				<h3>
+					<a title="" href="http://www.scotsman.com/motors/news/infiniti-s-m35h-innovative-hybrid-set-to-impress-1-2637328">Infiniti's M35h innovative hybrid set to impress</a>
+				</h3>
+						</div>
+		</div>
+		<div class="more clearfix">
+		<a href="http://www.scotsman.com/motors/news">See more News</a>
+    </div>
+</div>
+
+          
+        <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<script>
+    window.fbAsyncInit = function () {
+        FB.init({
+            appId:'254586374638534',
+            status:true, // check login status
+			recommandations:true,
+			header:true,
+            cookie:true, // enable cookies to allow the server to access the session
+            xfbml:false  // parse XFBML
+        });
+    };
+</script>
+<div class="fb-activity" site="www.scotsman.com" data-width="300" data-height="250" data-header="true" data-recommendations="true"></div>
+      
+  
+            <div class="cld  m20-b">
+		    		<div class="dc-wide-sky flt-l">
+	    			    			
+                  
+    
+      
+        
+
+<div id="adTag_4" class="adTag">
+	<script type="text/javascript">
+	var ord = window.ord || Math.floor(Math.random() * 1e16);
+	document.write('<script src="http://ad.uk.doubleclick.net/N3948/adj/scotsman.jp/reviews;nav=motors;nav=reviews;pgid=12657007;tile=4;sz=120x600,160x600;;' + (typeof(dartCC) != "undefined" ? dartCC : "") + ';gs_cat='+gs_topics+';postcode=null;distance=null;;weathertoday=cloudy;weathertomorrow=sunnyspells;ord=' + ord + '? " type="text/javascript"></scr'+'ipt>');
+	</script>
+	<noscript>
+	  <a href="http://ad.uk.doubleclick.net/jump/scotsman.jp/reviews;nav=motors;nav=reviews;pgid=12657007;tile=3;sz=120x600,160x600;;gs_cat=GS_TOPIC;weathertoday=cloudy;weathertomorrow=sunnyspells;ord=[timestamp]?" target="_blank">
+    	<img src="http://ad.uk.doubleclick.net/ad/scotsman.jp/reviews;nav=motors;nav=reviews;pgid=12657007;tile=3;sz=120x600,160x600;;gs_cat=GS_TOPIC;weathertoday=cloudy;weathertomorrow=sunnyspells;ord=[timestamp]?" alt="Dynamic Dart Advertisement" />
+	  </a>
+	</noscript>
+</div>
+
+
+      
+  
+      	    		    		</div>
+
+    											
+		<aside class="essentials smartAdV m20-b" aria-atomic="true" aria-busy="true" aria-live="polite">
+	    			    			
+                  
+    
+      
+        	
+      
+  
+      				          	</aside>
+			    	</aside>
+    </div>
+  
+</div>       
+<div class="clearer"></div>
+                
+                <div class="essentials" id="recommends" style="display:inline-block">
+						<div class="clear">&nbsp;</div>
+	<div class="g972">
+				<aside class="enterpriseAd" aria-atomic="true" aria-busy="true" aria-live="polite">
+			          		
+                  
+    
+      
+        <h2>The Scotsman Recommends</h2>
+<div class="section-title-bg cld"></div>
+	<div id="height_test" class="enterprise-ads m20-b">
+        <script type="text/javascript">
+        	if(typeof(OX_50f7db7d97b3b) !== "undefined"){
+            	OX_50f7db7d97b3b.showAdUnit("338307");
+            }
+        </script>		
+    </div>
+    <noscript>
+        <iframe id="50f7db7d97b3b" name="50f7db7d97b3b" src="http://ox-d.johnstonpress.co.uk/w/1.0/afr?auid=338307&cb=643208590" frameborder="0" scrolling="no" width="952" height="86">
+            <a href="http://ox-d.johnstonpress.co.uk/w/1.0/rc?cs=50f7db7d97b3b&cb=643208590" >
+                <img src="http://ox-d.johnstonpress.co.uk/w/1.0/ai?auid=338307&cs=50f7db7d97b3b&cb=643208590" border="0" alt="">
+            </a>
+        </iframe>
+    </noscript>
+<script type="text/javascript">
+	$(function() { 	
+		if($(".enterpriseAd #height_test > div").size() == 0){
+			$(".enterpriseAd").remove();
+		}	 			
+	});
+</script>
+      
+  
+         					</aside>
+				
+				<div class="m20-b GoogleAdSencePanel" aria-live="polite" aria-busy="true" aria-atomic="true">
+			          		
+                  
+    
+      
+        	<script src="/assets/script/adsGooglePP3.js?v=143" type="text/javascript" ></script>
+    <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+    </script>
+
+      
+  
+         					</div>
+			</div>		
+				</div>
+							                
+                <p class="back-to-top"><a href="#">Back to the top of the page</a></p>
+                
+            </div>     	</div> 			
+                  
+                  
+    
+      
+        
+
+  			    
+	<footer class="footer">
+				<div class="KonaBody"></div>
+		<div class="top">
+							<a href="http://www.scotsman.com/" title="" class="logo">
+			     	
+       
+ <img src="/webimage/7.14068.1374460454!/image/2203368453.png_gen/derivatives/default/2203368453.png" alt="" />
+     
+     			    </a>
+						
+                  
+    
+      
+        
+		<form id="searchPanel" class="site-search" role="search" name="site-search" action="http://www.scotsman.com//7.14078" method="get">
+
+            <fieldset class="cld">
+			<input type="hidden" name="submitted" value="true" id="fixForIEBugSlot" />
+            <input type="hidden" name="action" value="search" />
+            <input type="hidden" name="slotSearch" value="true" />
+            <input type="hidden" name="siteId" value="2.6543" />
+            <input id="searchInNav" class="flt-l txt frm-search-term" type="text" name="freeTextQuery" value="Search" placeholder="Search" />
+            <input class="flt-l submit gradient" type="submit"  value=""/>
+            </fieldset>
+        </form>
+        
+        <script type="text/javascript">		
+			$(document).ready(function (){
+				$("input.frm-search-term").each(function() {
+					$(this).val(getQuerystring('freeTextQuery',''));
+				});
+			});
+		</script>
+	
+<script type="text/javascript">
+
+	$(document).ready(function (){
+		searchElem("freeTextQuery");
+	});
+</script>
+      
+  
+      		</div>
+			
+		<div class="mid clearfix">
+			
+			<div class="dividers">
+				<aside class="col-1">
+					<ul class="l1" role="menubar">
+					 								        							<li role="menuitem"><a href="http://www.scotsman.com/news" title="">News</a></li>	
+		 											        							<li role="menuitem"><a href="http://www.scotsman.com/sport" title="">Sport</a></li>	
+		 											        							<li role="menuitem"><a href="http://www.scotsman.com/business" title="">Business</a></li>	
+		 											        							<li role="menuitem"><a href="http://www.scotsman.com/what-s-on" title="">What's On</a></li>	
+		 											        							<li role="menuitem"><a href="http://www.scotsman.com/lifestyle" title="">Lifestyle</a></li>	
+		 																							<li role="menuitem">							
+							  								  		<a class="show-weather-popup" href="#" title="">Weather</a>
+								   							    </li>
+													<li role="menuitem">							
+							  									   	
+
+	 			  
+
+		<a  href="http://www.scotsman.com/advertise-with-us"   >Place your Ad</a>
+														    </li>
+													<li role="menuitem">							
+							  									   	
+
+  	    	     
+
+		<a  href="http://www.localsubsplus.co.uk/"   >Subscribe</a>
+														    </li>
+											</ul>
+									
+					<ul class="l2" role="menu">
+													<li role="menuitem">
+								
+
+  	    	     
+
+		<a  href="http://www.scotsman.com/bingo"   >Bingo</a>
+							</li>
+													<li role="menuitem">
+								
+
+  	    	      	      	      	   	     
+
+		<a  class='ext-link' href="http://thescotsmanpublications.newsprints.co.uk/banr/SCOT"  target='_blank'  >Buy a Photo</a>
+							</li>
+													<li role="menuitem">
+								
+
+  	    	     
+
+		<a  href="http://calendar.scotsman.com"   >Calendars</a>
+							</li>
+													<li role="menuitem">
+								
+
+  	    	     
+
+		<a  href="http://www.scotsmanconferences.com/"   >Conferences</a>
+							</li>
+													<li role="menuitem">
+								
+
+  	    	      	      	      	   	     
+
+		<a  class='ext-link' href="http://www.scotsman.com/dating"  target='_blank'  >Dating</a>
+							</li>
+													<li role="menuitem">
+								
+
+  	    	      	      	      	   	     
+
+		<a  class='ext-link' href="http://www.dealmonster.co.uk/deal/edinburgh"  target='_blank'  >Deals</a>
+							</li>
+													<li role="menuitem">
+								
+
+  	    	      	      	      	   	     
+
+		<a  class='ext-link' href="http://archive.scotsman.com"  target='_blank'  >Digital Archive</a>
+							</li>
+													<li role="menuitem">
+								
+
+  	    	      	      	      	   	     
+
+		<a  class='ext-link' href="http://www.scotsman.holidaytoday.co.uk"  target='_blank'  >Holidays</a>
+							</li>
+													<li role="menuitem">
+								
+
+  	    	     
+
+		<a  href="http://www.scotsman.com/extra/content/promotions"   >Promotions</a>
+							</li>
+													<li role="menuitem">
+								
+
+  	    	      	      	      	   	     
+
+		<a  class='ext-link' href="http://www.dealmonster.co.uk/shop"  target='_blank'  >Shop</a>
+							</li>
+													<li role="menuitem">
+								
+
+	 			  
+
+		<a  href="http://www.scotsman.com/special-features"   >Special Features</a>
+							</li>
+													<li role="menuitem">
+								
+
+  	    	     
+
+		<a  href="http://supplements.scotsman.com/"   >Supplements</a>
+							</li>
+											</ul>
+				</aside>
+					
+									<aside class="col-2">
+						
+                  
+    
+      
+        
+        
+                        			<a href="http://www.subscriptionline.co.uk/SCO" title="" target="_blank" class="footer-widget" title="">
+				<img class="image" src="/webimage/7.45102.1376651785!/Footer_ScotsmanTabletSubscription.png" alt=""/>		
+				<h2>Try The Scotsman app for 30 days free!</h2>
+				<p>View the latest news and sport or download full editions of the newspaper to read offline.</p>
+				<p>Search for Scotsman.com in your Android or iOS app store today. Newspaper subscribers get free unlimited access to the app.</p>
+			</a>
+			
+      
+      
+      
+  
+      	                   </aside>
+								
+				<aside class="col-3">
+											
+                  
+    
+      
+        
+        
+                        			
+			<a href="http://m.scotsman.com" target="_blank" class="footer-widget">
+				<h2>News on the move</h2> 
+				<p>Keep up to date with all the latest local news on your iPhone or Android phone with our mobile site. Visit this website on your mobile to start enjoying it on the move.</p>
+				<img src="/webimage/7.45103.1377167326!/Footer-Mobile-Default.png" alt="" /> 
+			</a>
+			
+      
+      
+      
+  
+      																	
+                                
+                                       								
+							<form id="subscribeNLWidgetLoggedIn" class="hidden" name="subscribeToNewsSportNewsletterFormLI" method="put" action="/profile#newsletterDetails">
+								<input type="hidden" name="referrer" value="http://www.scotsman.com/motors/reviews" class="hide" />
+								<fieldset>
+									<p>Newsletter sign up</p>
+									<input type="submit" value="Sign up" class="submit" />									
+								</fieldset>
+							</form>							
+							<form id="subscribeNLWidgetLoggedOut" class="hidden" name="subscribeToNewsSportNewsletterForm" method="put" action="/register">
+								<input type="hidden" name="referrer" value="http://www.scotsman.com/motors/reviews" class="hide" />
+								<fieldset>
+									<p>Newsletter sign up</p>
+									<input type="text" id="emailNewsletter" name="email" class="txt" placeholder="Your email" />
+									<input type="submit" value="Sign up" class="submit" />
+								</fieldset>
+							</form>
+													 
+      			</aside>	
+					
+					<aside class="col-4">
+													<h2>
+								<a href="/2.6639" title="">Contact us</a>
+							</h2>							
+                                   
+																					<p>If you wish, you can contact us using any of the methods below.</p>
+																						<p>Orchard Brae House</p>
+																						<p>30 Queensferry Road</p>
+																						<p>Edinburgh</p>
+																						<p>Scotland</p>
+																						<p></p>
+																						<p>EH4 2HS</p>
+																
+															<p>Email: <a href="mailto:reception@scotsman.com" title="">reception@scotsman.com</a></p>
+																						<p>Telephone: 0131 620 8620</p>
+																								</aside>
+				</div>
+				
+				<div class="dividers-2">
+					<nav class="footer-nav fnt-uppercase" role="navigation" aria-label="Footer navigation">
+						<ul class="flt-l" role="menubar">
+													    						      							      		<li role="menuitem">	
+						      								        	
+
+	 			  
+
+		<a  href="http://www.scotsman.com/frequently-asked-questions-1-3008964"   >FAQs</a>
+						 		    </li>
+													      							      		<li role="menuitem">	
+						      								        	
+
+  	    	     
+
+		<a  href="http://www.johnstonpress.co.uk/jpplc/termsofaccess"   >Terms and Conditions</a>
+						 		    </li>
+													      							      		<li role="menuitem">	
+						      								        	
+
+  	    	     
+
+		<a  href="http://www.johnstonpress.co.uk/disclaimer"   >Disclaimer</a>
+						 		    </li>
+													      							      		<li class="last" role="menuitem">
+		      												        	
+
+  	    	     
+
+		<a  href="http://www.johnstonpress.co.uk/cookies-policy"   >Cookies Policy</a>
+						 		    </li>
+													</ul>
+						<ul class="flt-r" role="menubar">
+																															<li class="last" role="menuitem">
+		      													 		
+
+  	    	     
+
+		<a  href="http://m.scotsman.com"   >Switch to Mobile Site</a>
+							    	</li>
+													</ul>
+					</nav>
+					<aside class="col-3 fnt-10" role="contentinfo">
+												<p>
+							All rights reserved <br /> &copy <span id="copyDate">2014</span> Johnston Publishing Ltd.
+						</p>
+					</aside>
+							
+				</div>
+				
+				<div class="btm" role="contentinfo">
+									<aside class="col-1">
+    					<img src="/assets/images/publicationLogos/press-complaints.png" alt="Press Complaints Commission" />
+					</aside>
+					<aside class="col-2">
+											 		
+				<p>
+			This website and its associated newspaper adheres to the Independent Press Standards Organisation's Editors' Code of Practice. 
+			If you have a complaint about editorial content which relates to inaccuracy or intrusion, then contact the 
+			Editor by <a href="/contact-us">clicking here</a>.
+				</p>
+				<p>
+			If you remain dissatisfied with the response provided then you can contact the IPSO by 
+					<a href="http://www.ipso.co.uk/">clicking here</a>.
+				</p>
+			
+					 							<p>The Scotsman provides news, events and sport features from the Edinburgh area. For the best up to date information relating to Edinburgh and the surrounding areas visit us at The Scotsman regularly or bookmark this page.</p>
+					</aside>
+				</div>
+				
+		</div>
+		
+	</footer>	
+	
+
+
+<div class="euCookiesQuestion" id="euCookiesQuestion" name="euCookiesQuestion" style="display:none">
+		        <div class="cookieOptIn">
+            <div class="background">
+                <div class="container">
+                    <div class="message">
+                        For you to enjoy all the features of this website The Scotsman requires permission to use cookies.
+                    </div>
+                    <div class="allowButton">
+						<button  class='euAcceptsCookies' id="euCookiesAcceptCookies">Allow Cookies</button> 
+                    </div>
+                    <div class="showMore">
+                        <div class="toggle">
+                            Find Out More <span>&#x25BC;</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        <div class="moreContainer">
+            <div class="moreInfo">
+                <ul class="headers">
+                    
+                                        <li data="C1">
+                        <h3>What is a Cookie?</h3>
+                    </li>
+                    <li data="C2">
+                        <h3>What is a Flash Cookie?</h3>
+                    </li>
+                    <li data="C3">
+                        <h3>Can I opt out of receiving Cookies?</h3>
+                    </li>
+                    <li data="C4">
+                        <h3>About our Cookies</h3>
+                    </li>
+              </ul>
+                <ul class="cookieContent">
+                    <li rel="C1" class="content">
+                        <p>Cookies are small data files which are sent to your browser (Internet Explorer, Firefox, Chrome etc) from a website you visit. They are stored on your electronic device.</p>
+                    </li>
+                    <li rel="C2" class="content">
+                        <p>This is a type of cookie which is collected by Adobe Flash media player (it is also called a Local Shared Object) - a piece of software you may already have on your electronic device to help you watch online videos and listen to podcasts.</p>
+                    </li>
+                    <li rel="C3" class="content">
+                        <p>Yes there are a number of options available, you can set your browser either to reject all cookies, to allow only "trusted" sites to set them, or to only accept them from the site you are currently on.</p>
+                        <p>However, please note - if you block/delete all cookies, some features of our websites, such as remembering your login details, or the site branding for your local newspaper may not function as a result.</p>
+                    </li>
+                    <li rel="C4" class="content">
+                        <p>The types of cookies we, our ad network and technology partners use are listed below:</p>
+                        <ul class="cookieList">
+                            <li>
+                                <h4>Revenue Science <span>&#x25BA;</span></h4>
+                                <p>A tool used by some of our advertisers to target adverts to you based on pages you have visited in the past. To opt out of this type of targeting you can visit the 'Your Online Choices' website by <a href="http://www.youronlinechoices.com/uk/opt-out-help" target="_blank">clicking here.</a></p>
+                            </li>
+                            <li>
+                                <h4>Google Ads <span>&#x25BA;</span></h4>
+                                <p>Our sites contain advertising from Google; these use cookies to ensure you get adverts relevant to you. You can tailor the type of ads you receive by <a href="http://www.google.com/ads/preferences/" target="_blank">visiting here</a> or to opt out of this type of targeting you can visit the 'Your Online Choices' website by <a href="http://www.youronlinechoices.com/uk/opt-out-help" target="_blank">clicking here.</a></p>
+                            </li>
+                            <li>
+                                <h4>Webtrends / Google Analytics <span>&#x25BA;</span></h4>
+                                <p>This is used to help us identify unique visitors to our websites. This data is anonymous and we cannot use this to uniquely identify individuals and their usage of the sites.</p>
+                            </li>
+                            <li>
+                                <h4>Dart for Publishers <span>&#x25BA;</span></h4>
+                                <p>This comes from our ad serving technology and is used to track how many times you have seen a particular ad on our sites, so that you don't just see one advert but an even spread. This information is not used by us for any other type of audience recording or monitoring.</p>
+                            </li>
+                            <li>
+                                <h4>ComScore <span>&#x25BA;</span></h4>
+                                <p>ComScore monitor and externally verify our site traffic data for use within the advertising industry. Any data collected is anonymous statistical data and cannot be traced back to an individual.</p>
+                            </li>
+                            <li>
+                                <h4>Local Targeting <span>&#x25BA;</span></h4>
+                                <p>Our Classified websites (Photos, Motors, Jobs and Property Today) use cookies to ensure you get the correct local newspaper branding and content when you visit them. These cookies store no personally identifiable information.</p>
+                            </li>
+                            <li>
+                                <h4>Grapeshot <span>&#x25BA;</span></h4>
+                                <p>We use Grapeshot as a contextual targeting technology, allowing us to create custom groups of stories outside out of our usual site navigation. Grapeshot stores the categories of story you have been exposed to. Their privacy policy and opt out option can be <a href="http://www.grapeshot.co.uk/privacy.html" target="_blank">accessed here.</a></p>
+                            </li>
+                            <li>
+                                <h4>Subscriptions Online <span>&#x25BA;</span></h4>
+                                <p>Our partner for Newspaper subscriptions online stores data from the forms you complete in these to increase the usability of the site and enhance user experience.</p>
+                            </li>
+                            <li>
+                                <h4>Add This <span>&#x25BA;</span></h4>
+                                <p>Add This provides the social networking widget found in many of our pages. This widget gives you the tools to bookmark our websites, blog, share, tweet and email our content to a friend.</p>
+                            </li>
+                            <li>
+                                <h4>3rd Party Cookies <span>&#x25BA;</span></h4>
+                                <p>We use Advertising agencies to provide us with some of the advertising on our websites. These include (but are not limited to) <a href="http://www.specificmedia.com/lp/ad-option-icon" target="_blank">Specific Media,</a> <a href="http://www.rubiconproject.com/privacy-policy" target="_blank">The Rubicon Project,</a> <a href="http://www.adjug.com/" target="_blank">AdJug,</a> <a href="http://www.adconion.com/us/privacy-policy/the-adconion-cookie.html" target="_blank">AdConion,</a> <a href="http://www.contextweb.com/privacy_policy/opt_out" target="_blank">Context Web.</a> Please click on the provider name to visit their opt-out page.</p>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div> 
+
+
+					<script type="text/javascript"> 
+		$(".smartAd").hide();
+		$(".smartAdV").hide();
+	</script>
+	<script type="text/javascript" src="http://johnston.grapeshot.co.uk/smartad/channels.cgi?p=scotsman.jp&url=http://www.scotsman.com/motors/reviews"></script>
+
+
+
+    
+		<script src="/assets/script/jp-pp3Footer-min.js?v=143"></script>
+
+<script type="text/javascript">
+	$(document).ready(function() {
+		var postcode ='';
+		var distance = '';
+		$("#search-button").click(function() {
+			postcode = 'postcode=' + $('#location-container #location').val().replace(/\ /g,'').toLowerCase() + ';';
+			distance = 'distance=' + $('#distance-container #distance option:selected').text().trim().replace(/\ /g,'').toLowerCase() + ';';
+			document.cookie=postcode;
+			document.cookie=distance;
+		});
+	});
+</script>
+
+      
+  
+                      <div id="popupOverlay"></div>
+
+          
+				
+                  
+    
+      
+        
+        
+                        	
+						
+				<script type="text/javascript" src="http://cdn2.motors.co.uk/v2live/scripts/jquery/jquery.jcarousel.min.js"></script>
+                <script type="text/javascript" src="http://cdn2.motors.co.uk/v2live/wl/js/jp.motors-lib.js"></script>
+				<script type="text/javascript" src="http://cdn2.motors.co.uk/v2live/scripts/jquery/jquery.autocomplete.js"></script>				
+				<script>
+                    jQuery(document).ready(function () {
+                         jQuery('#mycarousel').jcarousel({
+                                    scroll: 1,
+                                    vertical: false
+                        });
+                    });
+                </script>	
+				
+		
+      
+      
+      
+  
+      		
+	    
+				
+						
+																																											
+		
+		<script type='text/javascript'>
+		var _sf_async_config = {};
+		
+		/** CONFIGURATION START * */
+		
+		_sf_async_config.uid = 56174;
+		_sf_async_config.domain = 'scotsman.com';
+		_sf_async_config.path = window.location.pathname;
+		
+		if (true) {
+			_sf_async_config.sections = 'Motors, Reviews';
+			_sf_async_config.authors = '';
+		}
+		
+		/** CONFIGURATION END * */
+		
+		(function() {
+			function loadChartbeat() {
+				window._sf_endpt = (new Date()).getTime();
+				var e = document.createElement('script');
+				e.setAttribute('language', 'javascript');
+				e.setAttribute('type', 'text/javascript');
+				e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+				document.body.appendChild(e);
+			}
+			var oldonload = window.onload;
+			window.onload = (typeof window.onload != 'function') ? loadChartbeat
+					: function() {
+						oldonload();
+						loadChartbeat();
+					};
+		})();
+	</script>
+	</body>
+</html>
+
+WARC/1.0
+WARC-Type: resource
+WARC-Record-ID: <urn:uuid:569d127a-66e1-45f7-a9e7-cafba1669a74>
+WARC-Warcinfo-ID: <urn:uuid:d4bd8b15-ad93-4b73-9c15-b2b886f1aa0a>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/MANIFEST.txt
+WARC-Date: 2014-09-25T04:00:38Z
+Content-Type: text/plain
+Content-Length: 48
+
+<urn:uuid:d4bd8b15-ad93-4b73-9c15-b2b886f1aa0a>
+
+
+WARC/1.0
+WARC-Type: resource
+WARC-Record-ID: <urn:uuid:569d127a-66e1-45f7-a9e7-cafba1669a74>
+WARC-Warcinfo-ID: <urn:uuid:d4bd8b15-ad93-4b73-9c15-b2b886f1aa0a>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/wget_arguments.txt
+WARC-Date: 2014-09-25T04:00:38Z
+Content-Type: text/plain
+Content-Length: 175
+
+"--warc-file" "a-game-of-two-halves" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "http://www.scotsman.com/motors/reviews/a-game-of-two-halves-1-2657007" 
+
+
