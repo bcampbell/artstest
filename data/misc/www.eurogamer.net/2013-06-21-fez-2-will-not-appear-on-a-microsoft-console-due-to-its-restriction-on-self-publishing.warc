@@ -1,0 +1,977 @@
+WARC/1.0
+WARC-Type: warcinfo
+Content-Type: application/warc-fields
+WARC-Date: 2014-11-12T21:32:45Z
+WARC-Record-ID: <urn:uuid:7c1df262-f1e5-41a2-9613-407ab2b67c0b>
+WARC-Filename: 2013-06-21-fez-2-will-not-appear-on-a-microsoft-console-due-to-its-restriction-on-self-publishing.warc
+Content-Length: 521
+
+software: Wget/1.13.4-2608 (linux-gnu)
+format: WARC File Format 1.0
+conformsTo: http://bibnum.bnf.fr/WARC/WARC_ISO_28500_version1_latestdraft.pdf
+robots: classic
+wget-arguments: "--warc-file" "2013-06-21-fez-2-will-not-appear-on-a-microsoft-console-due-to-its-restriction-on-self-publishing" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "-q" "-O" "/dev/null" "http://www.eurogamer.net/articles/2013-06-21-fez-2-will-not-appear-on-a-microsoft-console-due-to-its-restriction-on-self-publishing" 
+
+
+
+WARC/1.0
+WARC-Type: request
+WARC-Target-URI: http://www.eurogamer.net/articles/2013-06-21-fez-2-will-not-appear-on-a-microsoft-console-due-to-its-restriction-on-self-publishing
+Content-Type: application/http;msgtype=request
+WARC-Date: 2014-11-12T21:32:45Z
+WARC-Record-ID: <urn:uuid:b3d252be-9162-43ce-a7e1-70e182ed6877>
+WARC-IP-Address: 94.198.83.18
+WARC-Warcinfo-ID: <urn:uuid:7c1df262-f1e5-41a2-9613-407ab2b67c0b>
+Content-Length: 228
+
+GET /articles/2013-06-21-fez-2-will-not-appear-on-a-microsoft-console-due-to-its-restriction-on-self-publishing HTTP/1.1
+User-Agent: Wget/1.13.4-2608 (linux-gnu)
+Accept: */*
+Host: www.eurogamer.net
+Connection: Keep-Alive
+
+
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <urn:uuid:ed848cd1-0673-44c4-846d-9ce70e92f46d>
+WARC-Warcinfo-ID: <urn:uuid:7c1df262-f1e5-41a2-9613-407ab2b67c0b>
+WARC-Concurrent-To: <urn:uuid:b3d252be-9162-43ce-a7e1-70e182ed6877>
+WARC-Target-URI: http://www.eurogamer.net/articles/2013-06-21-fez-2-will-not-appear-on-a-microsoft-console-due-to-its-restriction-on-self-publishing
+WARC-Date: 2014-11-12T21:32:45Z
+WARC-IP-Address: 94.198.83.18
+Content-Type: application/http;msgtype=response
+Content-Length: 36654
+
+HTTP/1.1 200 OK
+Server: Apache
+X-Powered-By: PHP/5.4.4-14+deb7u12
+Last-Modified: Fri, 21 Jun 2013 01:05:36 GMT
+Vary: Accept-Encoding
+Content-Type: text/html; charset=ISO-8859-1
+cache-control: max-age=60
+Transfer-Encoding: chunked
+Date: Wed, 12 Nov 2014 21:32:46 GMT
+X-Varnish: 1111552106
+Age: 0
+Via: 1.1 varnish
+Connection: keep-alive
+
+008000
+<!DOCTYPE HTML>
+<html xml:lang="en" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml">
+	<head>
+				<base href="http://www.eurogamer.net/" />
+				<title>Fez 2 will not appear on a Microsoft console due to its restriction on self-publishing &bull; Eurogamer.net</title>
+				<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+				
+					<link rel="canonical" href="http://www.eurogamer.net/articles/2013-06-21-fez-2-will-not-appear-on-a-microsoft-console-due-to-its-restriction-on-self-publishing" />
+								
+		<link rel="stylesheet" type="text/css" href="/styles/Eurogamer/Icons.css?v11.12.04" media="screen" />
+<link rel="stylesheet" type="text/css" href="/styles/Eurogamer/tools.css?v11.12.04" media="screen" />
+<link rel="stylesheet" type="text/css" href="/styles/Eurogamer/base.css?v11.12.04" media="screen" />
+<link rel="stylesheet" type="text/css" href="/styles/Eurogamer/hd/hd.css?v11.12.04" media="screen" />
+<link rel="stylesheet" type="text/css" href="/styles/Eurogamer/pager.css?v11.12.04" media="screen" />
+<link rel="stylesheet" type="text/css" href="/styles/Eurogamer/Components/related-games.css?v11.12.04" media="screen" />
+<link rel="stylesheet" type="text/css" href="/styles/Eurogamer/Components/in-article-promos.css?v11.12.04" media="screen" />
+<link rel="stylesheet" type="text/css" href="/styles/Eurogamer/discussable.css?v11.12.04" media="screen" />
+<link rel="stylesheet" type="text/css" href="/styles/Eurogamer/comments.css?v11.12.04" media="screen" />
+<link rel="stylesheet" type="text/css" href="/styles/Eurogamer/hd/comments.css?v11.12.04" media="screen" />
+<link rel="stylesheet" type="text/css" href="/styles/Eurogamer/hd/discussable.css?v11.12.04" media="screen" />
+<link rel="stylesheet" type="text/css" href="/styles/Eurogamer/article.css?v11.12.04" media="screen" />
+<link rel="stylesheet" type="text/css" href="/styles/Eurogamer/hd/article.css?v11.12.04" media="screen" />
+<link rel="stylesheet" type="text/css" href="/styles/Eurogamer/InlineGallery.css?v11.12.04" media="screen" />
+				<meta name="twitter:card" content="summary" />
+							<meta name="twitter:site" content="@eurogamer" />
+							<meta name="twitter:title" content="Fez 2 will not appear on a Microsoft console due to its restriction on self-publishing" />
+							<meta name="twitter:url" content="http://www.eurogamer.net/articles/2013-06-21-fez-2-will-not-appear-on-a-microsoft-console-due-to-its-restriction-on-self-publishing" />
+							<meta name="twitter:description" content="Fez developer Phil Fish has yet to announce which platforms he'll release the recently announced Fez 2 on, but has stated that it won't be on Xbox.The owls&amp;hellip;" />
+							<meta name="twitter:image" content="https://images.eurogamer.net/2013/articles/1/5/9/2/4/9/9/137177245083.jpg" />
+							<meta property="og:site_name" content="Eurogamer.net" />
+							<meta property="fb:admins" content="735015593,630765866,639220390" />
+							<meta property="fb:app_id" content="156247124404264" />
+							<meta property="og:title" content="Fez 2 will not appear on a Microsoft console due to its restriction on self-publishing" />
+							<meta property="og:url" content="http://www.eurogamer.net/articles/2013-06-21-fez-2-will-not-appear-on-a-microsoft-console-due-to-its-restriction-on-self-publishing" />
+							<meta property="og:type" content="article" />
+							<meta property="og:image" content="https://images.eurogamer.net/2013/articles/1/5/9/2/4/9/9/137177245083.jpg" />
+							<meta property="og:description" content="Fez developer Phil Fish has yet to announce which platforms he'll release the recently announced Fez 2 on, but has stated that it won't be on Xbox.The owls&amp;hellip;" />
+							<meta name="description" content="Fez developer Phil Fish has yet to announce which platforms he'll release the recently announced Fez 2 on, but has stated that it won't be on Xbox.The owls&amp;hellip;" />
+						<link rel="apple-touch-icon" href="img/EurogamerPage/apple-touch-icon.png"/>
+					<link rel="shortcut icon" href="http://www.eurogamer.net/favicon.ico" />
+				
+					<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.eurogamer.net/?format=rss"/>
+		
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6/jquery.min.js"></script>
+<script>var j = jQuery.noConflict();</script><script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.6/jquery-ui.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/prototype/1.7.1.0/prototype.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/scriptaculous/1.9.0/scriptaculous.js"></script>
+<script src="/scripts/Eurogamer/Eurogamer.js?v11.12.04"></script>
+<script src="/scripts/Eurogamer/jwplayer/jwplayer.js?v11.12.04"></script>
+<script src="/scripts/Eurogamer/Countdown.js?v11.12.04"></script>
+<script src="/scripts/jquery.jsonp.js?v11.12.04"></script>
+<script src="/scripts/async.dfp.js?v11.12.04"></script>
+<script src="/scripts/Eurogamer/Autogrow.js?v11.12.04"></script>
+<script src="/scripts/Eurogamer/Comments.js?v11.12.04"></script>
+<script src="/scripts/Eurogamer/Popup.js?v11.12.04"></script>
+<script src="/scripts/Eurogamer/InArticlePromo.js?v11.12.04"></script>
+<script src="/scripts/Video.js?v11.12.04"></script>
+<script src="/scripts/Eurogamer/Toolbar.js?v11.12.04"></script>
+<script src="/scripts/Eurogamer/InlineGallery.js?v11.12.04"></script>
+<script src="/scripts/Eurogamer/SocialButtons.js?v11.12.04"></script>
+<!--[if lt IE 9]>
+<script>
+document.createElement('header');
+document.createElement('nav');
+document.createElement('section');
+document.createElement('article');
+document.createElement('aside');
+document.createElement('footer');
+</script>
+<![endif]-->
+	</head>
+		<body id="theTop">		
+		
+						<div id="fb-root"></div>
+			<script>
+			  window.fbAsyncInit = function() {
+			    FB.init({
+			      appId      : '156247124404264',
+			      channelUrl : '/channel.html',
+			      status     : true,
+			      cookie     : true,
+			      xfbml      : true,
+			      oauth      : true
+			    });
+
+			   // Push likes to Google Analytics
+				FB.Event.subscribe('edge.create', function(targetUrl) {
+				  ga('send', 'social', 'facebook', 'like', targetUrl);
+				});			        
+			  };
+			
+			  // Load the SDK Asynchronously
+			  (function(d){
+			     var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+			     if (d.getElementById(id)) {return;}
+			     js = d.createElement('script'); js.id = id; js.async = true;
+			     
+			     			     js.src = "//connect.facebook.net/en_GB/all.js";
+			     ref.parentNode.insertBefore(js, ref);
+			   }(document));			   
+			</script>
+
+			<script type='text/javascript'>var _ox_zones = new Array();_ox_zones[ 'video-preroll-hd' ] = '';</script>
+			<div id="browserMaster" class="hd">
+
+													
+				
+				<div id="header">
+				
+					<div id="header-content">
+						<a href="http://www.eurogamer.net/" id="logo">
+							<img
+								src="/img/EurogamerPage/logo/hd/net.png?v11.12.04"
+								alt="video game reviews, news, previews, forums and videos"
+																	width="300"
+									height="65"
+															/>
+						</a>
+
+												
+													<ul id="promos"> 
+																	<li> 
+										<p>
+											<a href="http://www.eurogamer.net/articles/2014-11-05-destiny-updated-guide?utm_source=eurogamer&utm_medium=header-promo&utm_campaign=Destiny+guide">Destiny guide</a>
+											<span>Our updated guide to Bungie's hit shooter.</span>
+										</p>
+									</li> 
+																	<li> 
+										<p>
+											<a href="http://www.eurogamer.net/articles/2014-11-11-mass-effect-4-everything-we-know-so-far?utm_source=eurogamer&utm_medium=header-promo&utm_campaign=Mass+Effect+4+-+everything+we+know">Mass Effect 4 - everything we know</a>
+											<span>All the latest information from N7 Day 2014.</span>
+										</p>
+									</li> 
+																<li id="boom-box"> <div class='advertContainer' data-dfp-id = 'EGNET_BB' data-dfp-sizes='210x83' id='div-ga-EGNET_BB' ></div> </li>
+							</ul> 
+																				
+							<div id="notifications">
+								<img src="/img/EurogamerPage/popup.png" width="19" height="10" class="arrow" alt=""/>
+								
+								<p class="init">
+									Loading... hold tight!								</p>																			
+							</div>
+						
+									<div id="account" class="out">
+								
+											<div class="buttons">
+							<a href="login.php" onclick="return SignIn();" class="tool"><i class="icon-user"></i> Sign in</a>
+							<a href="register.php" class="tool"><i class="icon-plus"></i> Create an account</a>
+							
+							<div id="fb-login"></div>							
+							<script type="text/javascript">
+								document.observe(
+									"dom:loaded",
+									function()
+									{	
+										var Login = new Facebook(
+											{
+												target: "fb-login",
+												translations: {
+													login: "Login with Facebook",
+													working: "Logging in&hellip;"
+												}
+											}
+										);
+									}
+								);
+							</script>
+						</div>
+										
+								<form id="login" class="login" method="post" action="login.php">
+				<input type="hidden" name="useraction" value="login"/>
+				<fieldset>
+					<label>Username</label>
+					<input id="login-username" name="username"/>
+				</fieldset>
+				
+				<fieldset>										
+					<label>Password</label>
+					<input type="password" name="password"/>
+				</fieldset>
+				
+				<input type="submit" value="Log in"/>										
+				<a href="http://www.eurogamer.net/login.php" class="forgotten" rel="nofollow">Forgotten your details?</a>
+
+									<img class="pop-arrow" src="/img/EurogamerPage/site-arrow-up-dark.png" width="20" height="15"/>
+							</form>
+											
+																	
+							</div>
+		
+								
+						<div id="navigation" class="navigation-block">
+							<ul>
+																											<li>
+											<a href="?type=review" >
+												<span>Reviews</span>
+											</a>
+										</li>
+																																				<li>
+											<a href="?type=news" >
+												<span>News</span>
+											</a>
+										</li>
+																																				<li>
+											<a href="http://www.youtube.com/eurogamer/" >
+												<span>EG on YouTube</span>
+											</a>
+										</li>
+																																				<li>
+											<a href="?topic=digital_foundry" >
+												<span>Digital Foundry</span>
+											</a>
+										</li>
+																																				<li>
+											<a href="releases.php" >
+												<span>Release Dates</span>
+											</a>
+										</li>
+																																				<li>
+											<a href="http://www.egx.net" >
+												<span>EGX</span>
+											</a>
+										</li>
+																																				<li>
+											<a href="http://www.egx.net/rezzed" >
+												<span>EGX Rezzed</span>
+											</a>
+										</li>
+																																				<li>
+											<a href="forum" >
+												<span>Forum</span>
+											</a>
+										</li>
+																								</ul>
+
+														
+						</div>
+
+												
+						
+												
+																				<form action="search.php" id="search" method="post">
+					<input
+						type="text"
+						id="q"
+						name="q"
+						value=""
+						placeholder="Search"
+						x-webkit-speech
+					/>
+					<input type="submit" class="button" value="Go"/>
+				</form>	
+					
+																				
+					</div>				
+				</div>
+
+				<div id="page-wrapper">		
+						
+								<div id="leaderboard" class="advert leaderboard">
+				<div class='advertContainer' data-dfp-id = 'EGNET_LB_1' data-dfp-sizes='728x90, 960x160, 1260x110, 1260x160' id='div-ga-EGNET_LB_1'  data-ghost-zone="3" ></div>			</div>
+						
+					<div id="page">					
+						<div id="content" class="">
+			
+
+			<div>
+				<header>
+												<ul class="breadcrumb">
+					<li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+						<a href="http://www.eurogamer.net/" itemprop="url">
+							<span itemprop="title">Home</span>
+						</a>
+					</li>
+					<li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+						<a href="http://www.eurogamer.net/?type=news" itemprop="url">
+							<span itemprop="title">News</span>
+						</a>
+					</li>
+																	<li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+							<a href="games/fez" itemprop="url">
+								<span itemprop="title">Fez</span>
+							</a>
+						</li>
+									</ul>
+
+				<ul class="breadcrumb">
+										
+						<li>			<span href="http://www.eurogamer.net/?platform=ANDROID" class="tag">Android</span>
+		</li>
+										
+						<li>			<span href="http://www.eurogamer.net/?platform=PC" class="tag">PC</span>
+		</li>
+										
+						<li>			<span href="http://www.eurogamer.net/?platform=XBOX360" class="tag">Xbox 360</span>
+		</li>
+										
+						<li>			<span href="http://www.eurogamer.net/?platform=XBOXONE" class="tag">Xbox One</span>
+		</li>
+									</ul>
+
+					
+							
+					<h1>
+													Fez 2 will not appear on a Microsoft console due to its restriction on self-publishing														
+					</h1>
+
+											<p class="strapline" itemprop="summary">
+							&quot;Fez 2 is to Fez 1 what Zelda 2 was to Zelda 1, but more different.&quot;						</p>
+										
+									</header>
+				
+				<div id="fragment-1">
+					
+					<article class="hd" data-permalink="http://www.eurogamer.net/articles/2013-06-21-fez-2-will-not-appear-on-a-microsoft-console-due-to-its-restriction-on-self-publishing">
+	
+						<div class="social top">
+													
+			<div
+				data-type="social-buttons"
+				data-sites="facebook,twitter,google,reddit"
+				data-url="http://www.eurogamer.net/articles/2013-06-21-fez-2-will-not-appear-on-a-microsoft-console-due-to-its-restriction-on-self-publishing"
+				data-title="Fez 2 will not appear on a Microsoft console due to its restriction on self-publishing"
+				data-lang="Share this:"
+				class="social-buttons"
+			></div>			
+								</div>
+	
+						<p class="byline">			
+							<em>By</em>							
+															<a itemprop="author" itemtype="http://schema.org/Person" href="https://plus.google.com/u/0/116249150220164540326/posts?rel=author">Jeffrey Matulef</a>
+									
+							<em>Published</em>
+							<span itemprop="datePublished" content="2013-06-21">
+								21/06/2013							</span>
+
+													</p>
+						
+						<script>
+							var localisations = {
+								"zoomer-select-a-thumbnail": "Select a thumbnail to launch comparison tool"
+							}
+						</script>
+	
+											
+		
+		
+			<section class=""><p>Fez developer Phil Fish has yet to announce which platforms he'll release the <a href="http://www.eurogamer.net/articles/2013-06-13-polytron-announces-fez-2">recently announced Fez 2</a> on, but has stated that it won't be on Xbox.</p><div class="illustrationPreview  "><img src="//images.eurogamer.net/2013/articles/1/5/9/2/4/9/9/137177234064.jpg/EG11/resize/300x-1/quality/80/format/jpg" data-uri="2013/articles/1/5/9/2/4/9/9/137177234064.jpg" width="300" alt="1" class="preview"/><p class="caption">The owls are not what they seem.</p></div><p>When asked about potential platforms in an interview with <a href="http://www.polygon.com/2013/6/20/4445476/phil-fish-on-fez-2-ambition-and-launch-platforms-not-xbox" target="_blank">Polygon</a>, his answer was short and to the point: "not Xbox."</p><p>His rationale for this is simple: Microsoft won't allow indie developers to self publish on Xbox One. "I would develop for Xbone if they'd let me, but they won't," the developer said on <a href="https://twitter.com/PHIL_FISH/status/347704234646568960" target="_blank">Twitter</a>.</p><p>"I'd love to release my games on every platform, but Microsoft is making it impossible for me to release on theirs. It's a shame," he <a href="https://twitter.com/PHIL_FISH/status/347706077539889154" target="_blank">added</a>.</p><p>When Polygon asked Fish if Microsoft's <a href="http://www.eurogamer.net/articles/2013-06-19-microsoft-restores-game-ownership-and-expects-us-to-smile">recent change of heart about DRM</a> had swayed him, he replied, "I don't think it changes much for me. They didn't change anything about their anti-indie policies."</p><p>Conversely, Fish seems pleased as punch about the PlayStation 4. "PS4 seems to be doing everything right," he said. "It's too early to tell how everything is going to unfold but their heart definitely seems to be in the right place."</p><p>"With Microsoft they've made it painfully clear they don't want my ilk on their platform. I can't even self-publish there. Whereas on PS4, I can. It's that simple."</p>				<div class="video">
+					<div class="container">
+						<iframe width="600" height="338" src="//www.youtube.com/embed/CJFKtj-PWq8" frameborder="0" allowfullscreen></iframe>
+					</div>
+					
+				</div>
+<p>This would not be the first time Fish has spoken out against Microsoft, as he criticised the corporation last year when it <a href="http://www.eurogamer.net/articles/2012-07-19-save-corrupting-fez-patch-back-online">didn't allow him to patch Fez without exorbitant fees</a>. Though Fish has since said on <a href="https://twitter.com/PHIL_FISH/status/347704234646568960" target="_blank">Twitter</a> that the year-old patch ordeal is "irrelevant to the [current] situation."</p><p>I've asked Fish if he would reconsider his stance if Microsoft were to reconsider its self-publishing policies. I'm currently awaiting reply and will update if I hear anything.</p><p>Fez's upcoming sequel is still shrouded in mystery, but Fish stated to Polygon, "Fez 2 is to Fez 1 what Zelda 2 was to Zelda 1, but more different."</p><p>"The biggest reason is that I just wanted to go back to that world. I want to expand on my little world and its mythology. It's not a case of wanting to recycle ideas we didn't get to put in Fez 1. Since the games are going to be so different, there's not a whole lot that could just carry over."</p><p>In other Fez news, Fish <a href="https://twitter.com/PHIL_FISH/status/347769076682203139" target="_blank">tweeted</a> that the Ouya port of the first game is "coming along nicely."</p></section>
+		
+
+	
+														
+	
+											
+							
+						<div class="social bottom">
+													
+			<div
+				data-type="social-buttons"
+				data-sites="facebook,twitter,google,reddit"
+				data-url="http://www.eurogamer.net/articles/2013-06-21-fez-2-will-not-appear-on-a-microsoft-console-due-to-its-restriction-on-self-publishing"
+				data-title="Fez 2 will not appear on a Microsoft console due to its restriction on self-publishing"
+				data-lang="Share this:"
+				class="social-buttons"
+			></div>			
+								</div>
+
+									
+					
+								
+							
+					</article>
+	
+											
+				<ul id="sidebar">	
+					<li class="advert mpu">
+						<div class='advertContainer' data-dfp-id = 'EGNET_MPU_1' data-dfp-sizes='300x250' id='div-ga-EGNET_MPU_1' ></div>					</li>
+
+											<li class="games">
+										<div class="related-games">
+				<h4>Games featured in this article</h4>
+				<ul>
+										
+												
+						<li class="has-packshot">
+	
+																					
+			<a href="games/fez-xbox360">
+				<img src="https://images.eurogamer.net/2012/packshots/9327/1334244733.jpg/EG11/resize/50x-1" alt="Packshot for Fez on Xbox 360" class="packshot "/>
+			</a>
+										
+							<h2>
+								<a href="games/fez-xbox360" >Fez</a>
+							</h2>
+							<p>Xbox 360, PC, iPhone, iPad</p>
+							<p>
+											
+							
+				<a href="follow/game/9327,56063,56075,56076" class="tool follow" rel="nofollow">
+					<i class="icon-plus"></i> 
+					<span>Follow</span>
+											<span>201</span>
+									</a>
+				
+						
+									</p>
+							
+													
+						</li>
+						
+															</ul>
+				<p>Follow the games you're interested in and we'll send you an email the instant we publish new articles about them.</p>
+			</div>
+								</li>
+															
+																	
+																																																	
+										
+				</ul>
+									</div>
+			</div>
+
+							
+				<div id="fragment-2">
+								<div class="article-footer">						
+									<div class="author">
+												
+						<img src="https://images.eurogamer.net/2014/internalforum/users/jeffrey.matulef/1388746102.jpg/EG11/thumbnail/85x85/quality/90/format/jpg" class="picture" alt="Picture of Jeffrey."/>
+						<h3>
+							About <a href="author/647">Jeffrey Matulef</a>
+						</h3>
+						
+													<p>
+								Jeffrey Matulef is a yank, but don't hold that against him. Based in Portland, OR he operates as Eurogamer's US news editor.							</p>
+															<div id="extra-mpu">
+				<div class='advertContainer' data-dfp-id = 'EGNET_MPU_2' data-dfp-sizes='300x250' id='div-ga-EGNET_MPU_2' ></div>			</div>
+							</div>
+						
+							<div class="related">
+			
+				
+									<div class="OUTBRAIN" data-widget-id="AR_1" data-src="http://www.eurogamer.net/articles/2013-06-21-fez-2-will-not-appear-on-a-microsoft-console-due-to-its-restriction-on-self-publishing" data-ob-template="vg247" ></div>
+					<div class="OUTBRAIN" data-widget-id="AR_2" data-src="http://www.eurogamer.net/articles/2013-06-21-fez-2-will-not-appear-on-a-microsoft-console-due-to-its-restriction-on-self-publishing" data-ob-template="vg247" ></div>
+								<script type="text/javascript" src="//widgets.outbrain.com/outbrain.js"></script>
+
+										
+				
+								
+					<a href="newsletters/preferences" class="newsletter-promo">
+						<img
+							src="/img/EurogamerPage/newsletter.png"
+													/>
+						<span>
+							Subscribe to <strong>The Eurogamer.net Daily</strong>.
+							The 10 most popular stories of the day, delivered at 5pm UK time. Never miss a thing.						</span>
+					</a>
+												</div>
+					</div>		
+						</div>
+				
+							<div id="low-leaderboard"> 
+				<div class="low-leaderboard advert">
+					<div class='advertContainer' data-dfp-id = 'EGNET_LB_2' data-dfp-sizes='728x90' id='div-ga-EGNET_LB_2' ></div>				</div> 
+			</div>		
+								
+			<p class="comment-count"> 
+				Comments									(83)
+							</p>			
+
+			<div id="reply-box" class="closed">
+						
+									<p class="closed">
+													Comments for this article are now closed, but please feel free to continue chatting
+<a href="forum_threads.php">on the forum</a>!					
+											</p>
+				
+			</div>
+						
+					
+			<div id="new-comments">
+			
+								
+					<ul id="filters">
+
+										
+						<li>
+										<ul class="horizontal-selector order" data-type="order">
+				<li><strong>Order</strong></li>
+				<li><a href="#" data-value="asc" class="on">Oldest</a></li>
+				<li><a href="#" data-value="desc" >Newest</a></li>			
+				<li><a href="#" data-value="best" >Best</a></li>
+				<li><a href="#" data-value="worst" >Worst</a></li>
+			</ul>		
+								</li>
+				
+						<li>
+							<ul class="horizontal-selector score" data-type="score">
+								<li><strong>Score</strong></li>
+								
+																									<li><a href="#" data-value="-25" >-25</a></li>
+																	<li><a href="#" data-value="-10" class="on">-10</a></li>
+																	<li><a href="#" data-value="-1" >-1</a></li>
+																	<li><a href="#" data-value="0" >0</a></li>
+																	<li><a href="#" data-value="1" >+1</a></li>
+																	<li><a href="#" data-value="10" >+10</a></li>
+																	<li><a href="#" data-value="25" >+25</a></li>
+															</ul>
+						</li>
+
+																		
+																					<li>
+											
+			
+			<a href="http://www.eurogamer.net/articles/2014-06-11-mario-kart-8-guide-tips-tricks-shortcuts?utm_source=eurogamer&utm_medium=in-article-promo&utm_campaign=Mario+Kart+8+guide%3A+tips%2C+tricks+and+shortcuts" class="promotion comments">
+				<span class="details">
+					Mario Kart 8 guide: tips, tricks and shortcuts					<span>
+						All of Mario Kart 8's shortcuts, secrets and speed-boosting tips.					</span>
+				</span>
+				<img src="//images.eurogamer.net/2014/john.bedford/mktips.jpg/EG11/thumbnail/300x300/quality/90/format/jpg" alt="Mario Kart 8 guide: tips, tricks and shortcuts"/>
+			</a>
+			
+											</li>
+														
+												
+					</ul>
+																	
+				<ul id="comments">
+					<li class="loading">
+						<span>Loading... hold tight!</span>
+					</li>
+				</ul>
+			</div>
+
+			<div id="quick-reply" class="popup"></div>
+		
+			<script type="text/javascript">
+				// Global for use in Google Universal Event tracking
+				var article = {
+					"slug": "2013-06-21-fez-2-will-not-appear-on-a-microsoft-console-due-to-its-restriction-on-self-publishing",
+					"type": "news",
+										
+											"platforms": "PC,XBOX360,ANDROID,XBOXONE",
+										"author": "Jeffrey Matulef"
+				};
+
+				document.observe(
+					"dom:loaded",
+					function()
+					{	
+						var comments = new Comments(
+							{
+								'aid': 1592499,
+								'count': 83,
+								'target': "comments",
+								'version': "hd",
+								'start': 0,
+								'limit': 35,
+								'filter': "all",
+								'order': "asc",
+								'avatars': "avatars-on",
+								'score': -10,
+								'isloggedin': "logged-out",
+								'ismoderator': "",
+								'lang': {
+									'none': "There are no comments on this article. Why not post one?",
+									'show': "Show",
+									'reply': "Reply",
+									'edit': "Edit",
+									'hidden': "Low-scoring comment hidden.",
+									'del': "Delete",
+									'loading': "Loading... hold tight!",
+									'error': "Due to an error this content cannot be displayed. Sorry!",
+									'delconfirm': "Are you sure you want to delete this comment?",
+									'thanks': "Thanks!",
+									"moderator": "Moderator",
+									'ban': "Ban"
+								},
+								'article': article	
+							}
+						);
+					}
+				);
+			</script>
+								
+						
+		    <script>
+				document.observe("dom:loaded", function() {	
+					var socialbuttons = new SocialButtons({});
+				});				
+		    </script>
+			
+				
+						</div>
+	
+										<div id="skyscraper" class="advert"><div class='advertContainer' data-dfp-id = 'EGNET_HP' data-dfp-sizes='300x600' id='div-ga-EGNET_HP'  data-ghost-zone="5" ></div></div>
+					
+					</div>
+				</div>
+
+							<div id="footer">
+								
+					<ul>
+						<li class="versions">
+										<form method="post" action="/articles/2013-06-21-fez-2-will-not-appear-on-a-microsoft-console-due-to-its-restriction-on-self-publishing">
+				<ul class="switcher">
+					<li><button type="submit" name="version" value="mobile" >Mobile</button></li>
+					<li><button type="submit" name="version" value="hd" class="on">HD</button></li>
+				</ul>
+			</form>
+							
+						</li>
+						
+						<li class="links">
+															<a href="articles/the-eurogamer-staff" rel="nofollow">Staff</a>
+														<a href="contact.php" rel="nofollow">Contact us</a> 
+							
+										<a href="policies.php">Policy centre</a>		
+		
+							<a href="cookies.php" rel="nofollow">Cookies</a> 
+
+							<a href="http://www.eurogamer.biz" rel="nofollow">Corporate site</a>
+																				</li>						
+												
+						<li class="social">
+															<a href="//www.twitter.com/eurogamer" class="twitter" rel="nofollow"><i class="icon-twitter"></i> Twitter</a>
+														
+															<a href="https://www.facebook.com/Eurogamer" class="facebook" rel="nofollow"><i class="icon-facebook"></i> Facebook</a>
+																					
+														
+							<a href="rss.php" class="rss" rel="nofollow"><i class="icon-rss"></i> RSS</a>
+						</li>
+							
+						<li class="sites"> 
+							<a href="javascript:toggleSites();" class="tool uarrow current-site"><i class="icon-caret-up"></i> Gamer Network</a>
+							<ul id="sites">
+								<li>
+									<ul>
+										<li><a href="http://www.eurogamer.be" class="be">Eurogamer.be</a></li>
+										<li><a href="http://www.eurogamer.cz" class="cz">Eurogamer.cz</a></li>
+										<li><a href="http://www.eurogamer.de" class="de">Eurogamer.de</a></li> 
+										<li><a href="http://www.eurogamer.dk" class="dk">Eurogamer.dk</a></li>
+										<li><a href="http://www.eurogamer.es" class="es">Eurogamer.es</a></li> 
+																				<li><a href="http://www.eurogamer.it" class="it">Eurogamer.it</a></li>
+										<li><a href="http://www.eurogamer.net" class="net">Eurogamer.net</a></li>
+										<li><a href="http://www.eurogamer.nl" class="nl">Eurogamer.nl</a></li>
+										<li><a href="http://www.eurogamer.pl" class="pl">Eurogamer.pl</a></li>
+										<li><a href="http://www.eurogamer.pt" class="pt">Eurogamer.pt</a></li>
+										<li><a href="http://www.brasilgamer.com.br" class="br">Brasilgamer.com.br</a></li>
+									</ul>
+								</li>
+								<li>
+									<ul>
+										<li><a href="http://www.gamesindustry.biz">GamesIndustry.biz</a></li>
+										<li><a href="http://www.rockpapershotgun.com">Rock, Paper, Shotgun</a></li>
+										<li><a href="http://www.vg247.com">VG247.com</a></li>
+										<li><a href="http://www.vg247.it">VG247.it</a></li>
+										<li><a href="http://www.modojo.com">Modojo.com</a></li>
+										<li><a href="http://www.nintendolife.com">NintendoLife.com</a></li>
+										<li><a href="http://www.video-game-wallpapers.com">Video-Game-Wallpapers.com</a></li>
+										<li><a href="http://www.usgamer.net">USgamer.net</a></li>									
+									</ul>
+								</li>
+								<li class="arrow"><img src="/img/EurogamerPage/site-arrow.png" width="20" height="15" alt=""/></li>
+							</ul> 
+						</li>
+							
+													<li class="hosted-by">
+								Hosted by <a href="http://dx.net/" rel="nofollow">dx.net</a>
+							</li>
+											</ul>
+							</div>		
+					</div>
+			
+													
+				<script type="text/javascript">
+					document.observe(
+						"dom:loaded",
+						function()
+						{
+							checkLanguage(
+								{
+									site: 1,
+									sites: {
+																					2: {
+												www: "http://www.eurogamer.de/",
+												exists: "Kennst du Eurogamer.de?",
+												cta: "Hier klicken, um zu Eurogamer.de zu gelangen!"
+											},
+																					4: {
+												www: "http://www.eurogamer.es/",
+												exists: "&iquest;Conoces Eurogamer.es?",
+												cta: "Haz click aqu&iacute; para visitar Eurogamer.es"
+											},
+																					5: {
+												www: "http://www.eurogamer.it/",
+												exists: "Sapevi di Eurogamer.it?",
+												cta: "Clicca qu&igrave; per visitare Eurogamer.it!"
+											},
+																					10: {
+												www: "http://www.eurogamer.cz/",
+												exists: "V&iacute;te o Eurogamer.cz?",
+												cta: "Klikn&#283;te zde pro n&aacute;v&scaron;t&#283;vu Eurogamer.cz!"
+											},
+																					12: {
+												www: "http://www.eurogamer.dk/",
+												exists: "Kender du Eurogamer.dk?",
+												cta: "Klik her for at bes&oslash;ge Eurogamer.dk!"
+											},
+																					13: {
+												www: "http://www.eurogamer.pl/",
+												exists: "Czy wiesz, &#380;e Eurogamer jest dost&#281;pny po polsku?",
+												cta: "Kliknij tutaj, by przej&#347;&#263; na Eurogamer.pl!"
+											},
+																					6: {
+												www: "http://www.eurogamer.se/",
+												exists: "Visste du att Eurogamer finns i Sverige?",
+												cta: "Bes&ouml;k Eurogamer.se genom att klicka h&auml;r!"
+											},
+																					7: {
+												www: "http://www.eurogamer.nl/",
+												exists: "Had je al gehoord van Eurogamer.nl?",
+												cta: "Klik hier om Eurogamer.nl te bezoeken!"
+											},
+																				15: {
+											www: "http://www.usgamer.net",
+											exists: "Have you heard about USgamer.net? It covers the best in video gaming from an American perspective.",
+											cta: "Click here to visit!"
+										}
+									}
+								}
+							)
+						}
+					);
+				</script>
+								
+						
+				<script>
+					(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+					(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+					m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+					})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+					// Rollup tracker
+					ga('create', 'UA-44691239-1', '.eurogamer.net', {'sampleRate': 10});
+										
+					// New tracker
+					ga('create', 'UA-12091157-1', '.eurogamer.net', {'name': 'local'});
+
+					// Demographics & remarketing
+					ga('require', 'displayfeatures');
+					ga('local.require', 'linkid', 'linkid.js');
+					ga('local.require', 'displayfeatures');
+					
+					// Dimensions
+											ga('local.set', "dimension1", "news");
+													ga('set', "dimension1", "news");
+													ga('local.set', "dimension3", "PC,XBOX360,ANDROID,XBOXONE");
+												ga('local.set', "dimension4", "Jeffrey Matulef");
+												ga('local.set', "dimension5", "0");
+												ga('local.set', "dimension7", "hd");
+						
+					// Send pageview for rollup
+					ga('send', 'pageview');
+
+					// Send pageview for local
+					ga('local.send', 'pageview
+00db8
+');
+					
+					// Adjusted bounce rate tracker
+					// ----------------------------					
+					function noBounceInit()
+					{
+						if(ga)
+						{
+							setTimeout("sendNoBounce()", bounceTimeout);
+						}
+					}
+										 
+					function sendNoBounce()
+					{
+						bounceCount++;
+						ga('send', 'event', 'Site', 'noBounce', 'No bounce', bounceCount);
+						setTimeout("sendNoBounce()", bounceTimeout);
+					}
+
+					var bounceCount = 0;
+					var bounceTimeout = 20 * 1000; // 20 seconds
+					noBounceInit();					
+				</script>
+			<div class='advertContainer' data-dfp-id = 'EGNET_POPUP' data-dfp-sizes='1x1' id='div-ga-EGNET_POPUP' ></div><script type='text/javascript'>
+						j(document).ready(function() {
+					var custom_variables = {};
+					custom_variables['source'] = 'article';
+					custom_variables['version'] = 'hd';
+					custom_variables['url'] = '/articles/2013-06-21-fez-2-will-not-app';
+					custom_variables['tags'] = ["xboxone","pc","xbox360","android","news"];
+				j('.advertContainer').getDFPads({'custom_variables' : custom_variables, 'acceptable_ads_show' : true});});
+					</script>
+					
+						
+				<script type="text/javascript">
+					document.observe("dom:loaded", function() {
+						var LazyHeadlines = new LazyLoad(
+							{
+								target: "#content div.content img.headline",
+								placeholder: "img/padding.gif"
+							}
+						);
+
+						var LazyAvatars = new LazyLoad(
+							{
+								target: "img.avatar",
+								placeholder: "img/EurogamerPage/who.png"
+							}
+						);
+	
+						var LazyPackshots = new LazyLoad(
+							{
+								target: "img.packshot",
+								placeholder: "img/EurogamerPage/packshot.png"
+							}
+						);
+					});			
+				</script>
+						
+						<script type="text/javascript">
+				document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+			</script>
+			<script type="text/javascript">
+				COMSCORE.beacon({ c1:2, c2:8045775, c3:"", c4:"", c5:"", c6:"", c15:"" });
+			</script>
+			<noscript>
+				<img src="//b.scorecardresearch.com/p?c1=2&c2=8045775&c3=&c4=&c5=&c6=&c15=&cj=1" />
+			</noscript>
+
+			<script type="text/javascript" src="//platform.twitter.com/widgets.js"></script>
+			<script>
+				// Push Twitter shares to Google Analytics
+				function trackTwitter(intent_event)
+				{
+					if(intent_event)
+					{		
+						var opt_pagePath;
+						if (intent_event.target && intent_event.target.nodeName == 'IFRAME')
+						{
+							opt_target = extractParamFromUri(intent_event.target.src, 'url');
+						}
+						ga('send', 'social', 'twitter', 'tweet', opt_pagePath);
+					}
+				}
+
+				function extractParamFromUri(uri, paramName) {
+				  if (!uri) {
+				    return;
+				  }
+				  var regex = new RegExp('[\\?&#]' + paramName + '=([^&#]*)');
+				  var params = regex.exec(uri);
+				  if (params != null) {
+				    return unescape(params[1]);
+				  }
+				  return;
+				}
+
+				twttr.ready(
+					function (twttr)
+					{
+						//event bindings
+						twttr.events.bind('tweet', trackTwitter);
+					}
+				);
+			</script>
+			
+										<script type="text/javascript">
+				setTimeout(function(){var a=document.createElement("script");
+				var b=document.getElementsByTagName("script")[0];
+				a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0022/6012.js?"+Math.floor(new Date().getTime()/3600000);
+				a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+				</script>
+						
+				</body>
+</html>
+		
+0
+
+
+
+WARC/1.0
+WARC-Type: resource
+WARC-Record-ID: <urn:uuid:e97e853b-8026-4395-9d5c-237945f6b500>
+WARC-Warcinfo-ID: <urn:uuid:7c1df262-f1e5-41a2-9613-407ab2b67c0b>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/MANIFEST.txt
+WARC-Date: 2014-11-12T21:32:47Z
+Content-Type: text/plain
+Content-Length: 48
+
+<urn:uuid:7c1df262-f1e5-41a2-9613-407ab2b67c0b>
+
+
+WARC/1.0
+WARC-Type: resource
+WARC-Record-ID: <urn:uuid:e97e853b-8026-4395-9d5c-237945f6b500>
+WARC-Warcinfo-ID: <urn:uuid:7c1df262-f1e5-41a2-9613-407ab2b67c0b>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/wget_arguments.txt
+WARC-Date: 2014-11-12T21:32:47Z
+Content-Type: text/plain
+Content-Length: 336
+
+"--warc-file" "2013-06-21-fez-2-will-not-appear-on-a-microsoft-console-due-to-its-restriction-on-self-publishing" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "-q" "-O" "/dev/null" "http://www.eurogamer.net/articles/2013-06-21-fez-2-will-not-appear-on-a-microsoft-console-due-to-its-restriction-on-self-publishing" 
+
+

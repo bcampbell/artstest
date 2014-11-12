@@ -1,0 +1,2426 @@
+WARC/1.0
+WARC-Type: warcinfo
+Content-Type: application/warc-fields
+WARC-Date: 2014-11-12T21:46:31Z
+WARC-Record-ID: <urn:uuid:ac0b383f-d517-43de-9fa2-b1df02351ac6>
+WARC-Filename: dear-american-consumers-please-dont-start-eating-healthfully-sincerely-the-food-industry.warc
+Content-Length: 528
+
+software: Wget/1.13.4-2608 (linux-gnu)
+format: WARC File Format 1.0
+conformsTo: http://bibnum.bnf.fr/WARC/WARC_ISO_28500_version1_latestdraft.pdf
+robots: classic
+wget-arguments: "--warc-file" "dear-american-consumers-please-dont-start-eating-healthfully-sincerely-the-food-industry" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "-q" "-O" "/dev/null" "http://blogs.scientificamerican.com/guest-blog/2013/05/19/dear-american-consumers-please-dont-start-eating-healthfully-sincerely-the-food-industry/" 
+
+
+
+WARC/1.0
+WARC-Type: request
+WARC-Target-URI: http://blogs.scientificamerican.com/guest-blog/2013/05/19/dear-american-consumers-please-dont-start-eating-healthfully-sincerely-the-food-industry/
+Content-Type: application/http;msgtype=request
+WARC-Date: 2014-11-12T21:46:32Z
+WARC-Record-ID: <urn:uuid:6c494d72-25e6-44be-b111-2250888d1c01>
+WARC-IP-Address: 199.168.13.60
+WARC-Warcinfo-ID: <urn:uuid:ac0b383f-d517-43de-9fa2-b1df02351ac6>
+Content-Length: 244
+
+GET /guest-blog/2013/05/19/dear-american-consumers-please-dont-start-eating-healthfully-sincerely-the-food-industry/ HTTP/1.1
+User-Agent: Wget/1.13.4-2608 (linux-gnu)
+Accept: */*
+Host: blogs.scientificamerican.com
+Connection: Keep-Alive
+
+
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <urn:uuid:9e14745e-935c-43c9-ac06-73f5fe9bdb48>
+WARC-Warcinfo-ID: <urn:uuid:ac0b383f-d517-43de-9fa2-b1df02351ac6>
+WARC-Concurrent-To: <urn:uuid:6c494d72-25e6-44be-b111-2250888d1c01>
+WARC-Target-URI: http://blogs.scientificamerican.com/guest-blog/2013/05/19/dear-american-consumers-please-dont-start-eating-healthfully-sincerely-the-food-industry/
+WARC-Date: 2014-11-12T21:46:32Z
+WARC-IP-Address: 199.168.13.60
+Content-Type: application/http;msgtype=response
+Content-Length: 179879
+
+HTTP/1.1 200 OK
+Server: Apache/2.2.3 (Red Hat)
+Set-Cookie: MOBILEFORMAT=false; expires=Sat, 07-Nov-2015 21:46:32 GMT; path=/; domain=.scientificamerican.com
+X-XRDS-Location: http://blogs.scientificamerican.com/guest-blog/?xrds
+X-Yadis-Location: http://blogs.scientificamerican.com/guest-blog/?xrds
+X-Pingback: http://blogs.scientificamerican.com/guest-blog/xmlrpc.php
+Link: <http://blogs.scientificamerican.com/guest-blog/?p=7219>; rel=shortlink
+Vary: Accept-Encoding
+Content-Type: text/html; charset=UTF-8
+Content-Length: 179276
+Date: Wed, 12 Nov 2014 21:46:32 GMT
+Connection: keep-alive
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>Dear American Consumers: Please Don’t Start Eating Healthfully. Sincerely, the Food Industry | Guest Blog, Scientific American Blog Network</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Dear Consumers: A disturbing trend has come to our attention. You, the people, are thinking more about health, and you’re starting to do something about it. ..." />
+<meta name="keywords" content=", Energy & Sustainability,Evolution,Health,Mind & Brain,More Science,Technology, Scientific American Blog Network" />
+<link rel="stylesheet" href="http://www.scientificamerican.com/sciam/includes/themes/sciam/compiled/theme.min.4687955700814F19106CE1F8639602DE.css" media="all" />
+<link rel="shortcut icon" href="http://www.scientificamerican.com/sciam/includes/themes/sciam/images/ico/favicon.ico">
+<link rel="alternate" type="application/rss+xml" title="Scientific American - Global RSS Feed" href="http://rss.sciam.com/ScientificAmerican-Global">
+<link rel="stylesheet" type="text/css" href="http://www.scientificamerican.com/sciam/includes/themes/sciam/assets/mejs/mediaelementplayer.min.css">
+<script src="http://www.scientificamerican.com/sciam/jquery/jquery.js"></script>
+<!--[if lt IE 9]>
+<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<link rel="stylesheet" type="text/css" href="http://www.scientificamerican.com/sciam/includes/themes/sciam/css/theme/webfonts.css">
+<link rel="stylesheet" type="text/css" href="http://www.scientificamerican.com/sciam/includes/themes/sciam/css/theme/elusive-webfonts.css">
+<![endif]-->
+<meta name="google-site-verification" content="cDwbrdn8RhmAHrXPmkrv_Vknai9yXuYdvHSKGI32QdA" />
+<script type="text/javascript">
+var dtExample="11/10/2018";
+var dtCh="/";
+var dtFormat =[0,1,2];
+var dtLocale="en-US";
+</script>
+<script type="text/javascript" src="http://www.scientificamerican.com/sciam/js/global.min.js"></script>
+<script type="text/javascript">
+var loginURL="?display=login";
+var siteid="sciam";
+var siteID="sciam";
+var context="";
+var jslib="jquery";
+var assetpath="/sciam";
+var themepath="/sciam/includes/themes/sciam";
+var htmlEditorType="";
+var rb="en";
+</script><meta property="og:title" content="Dear American Consumers: Please Don’t Start Eating Healthfully. Sincerely, the Food Industry | Guest Blog, Scientific American Blog Network" />
+			<meta property="og:description" content="Dear Consumers: A disturbing trend has come to our attention. You, the people, are thinking more about health, and you’re starting to do something about it. ..." />
+			<meta property="og:image" content="http://blogs.scientificamerican.com/guest-blog/files/2013/05/Aisle.jpg" />
+			<link rel="canonical" href="http://blogs.scientificamerican.com/guest-blog/2013/05/19/dear-american-consumers-please-dont-start-eating-healthfully-sincerely-the-food-industry/"/>
+			<meta name="news_keywords" content="">
+			
+	<script>
+		OAS_url = "http://oascentral.scientificamerican.com/RealMedia/ads/";
+		OAS_sitepage = "sciam.com/blogs/guest-blog";
+		sitepage = "sciam.com/blogs/guest-blog";
+		OAS_query = "energy-and-sustainability&evolution&health&mind-and-brain&more-science&technology&dear-american-consumers-please-dont-start-eating-healthfully-sincerely-the-food-industry&referrer=" + document.referrer; 
+		OAS_listpos = "Top,Right1,Right2";
+
+		
+		OAS_rn = new String (Math.random()); OAS_rns = OAS_rn.substring (2, 11);
+		function OAS_NORMAL(e){
+			document.write('<A HREF="'+OAS_url+"click_nx.ads/"+OAS_sitepage+"/1"+OAS_rns+"@"+OAS_listpos+"!"+e+"?"+OAS_query+'" TARGET='+OAS_target+">");document.write('<IMG SRC="'+OAS_url+"adstream_nx.ads/"+OAS_sitepage+"/1"+OAS_rns+"@"+OAS_listpos+"!"+e+"?"+OAS_query+'" BORDER=0></A>');
+		}
+
+		OAS_version = 11;
+		if (navigator.userAgent.indexOf('Mozilla/3') != -1 || navigator.userAgent.indexOf('Mozilla/4.0 WebTV') != -1)
+		  OAS_version = 10;
+		if (OAS_version >= 11)
+		  document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/SCRIPT>');
+
+		document.write('');
+		function OAS_AD(pos) {
+			if (OAS_version >= 11) 
+				OAS_RICH(pos); 
+			else 
+				OAS_NORMAL(pos); 
+		}
+	</script>
+	</head>
+<body onload="init();">
+<section id="bannerContain">
+<div class="bannerAd">
+<div class="text">ADVERTISEMENT</div>
+<div class="adSpace">
+<script type="text/javascript">OAS_AD("Top");</script>
+</div>
+</div>
+</section>
+<header id="site-header">
+<div id="headerLogo" style="float:left;">
+<a href="http://www.scientificamerican.com/">
+<img src="http://www.scientificamerican.com/sciam/includes/themes/sciam/images/logo.jpg" alt="Scientific American">
+</a>
+</div>
+<ul id="header-nav">
+<esi:remove>
+<li>
+<div class="myProfile">
+<div id="myProfileContainer">
+<span class="myProfileLinks">
+<ul>
+<li><a href="http://www.scientificamerican.com/my-account/login/" title="Sign In">Sign In</a> | <a href="http://www.scientificamerican.com/my-account/register/" title="Register">Register</a></li>
+</ul>
+</span>
+</div>
+</div>
+</li>
+</esi:remove>
+<!--esi
+<esi:include src="http://www.scientificamerican.com/sciam/esi_header-user.cfm" />
+-->
+</ul>
+<div id="mainSearch">
+<form action="http://www.scientificamerican.com/search/" onsubmit="return checkSiteSearch(this)" id="searchForm">
+<div id="input-border">
+<input name="q" type="text" id="textfield" placeholder="Search ScientificAmerican.com" onfocus="this.style.color='#222222';" maxlength="200"/>
+</div>
+<div id="sbmt-border">
+<input id="searchButton" type="image" src="http://www.scientificamerican.com/sciam/includes/themes/sciam/images/global/icon_search.png" alt="Search" width="17" height="17" />
+</div>
+<input type="hidden" name="display" value="search"/>
+</form>
+</div>
+<div id="subscriptionCenter">
+<h3>Subscription Center</h3>
+<div class="subCenterRollover" id="hover1" style="display:none;">Every Issue. Every Year. 1845-Present. <img alt="" src="http://www.scientificamerican.com/sciam/includes/themes/sciam/images/global/subunits/subcenter-arrow.png" /></div>
+<div class="subCenterRollover" id="hover2" style="display:none;">Save up to 65% when you subscribe today. <img alt="" src="http://www.scientificamerican.com/sciam/includes/themes/sciam/images/global/subunits/subcenter-arrow.png" /></div>
+<div class="subCenterRollover" id="hover3" style="display:none;">The perfect gift for any holiday or occasion. <img alt="" src="http://www.scientificamerican.com/sciam/includes/themes/sciam/images/global/subunits/subcenter-arrow.png" /></div>
+<!---<div id="hover4" style="display:none;" class="subCenterRollover">Best deal on print subscription plus Tablet Edition for iPad <img src="http://www.scientificamerican.com/sciam/includes/themes/sciam/images/global/subunits/subcenter-arrow.png" /></div>--->
+<ul>
+<li><a href="https://www.scientificamerican.com/store/subscribe/scientific-american-all-access/?WT.mc_id=SA_Webstore_SCA_AllAccess_SubCenter&amp;responseKey=W3S03RD00" target="_blank">Subscribe to All Access <span class="red">&raquo;</span></a></li>
+<li><a href="https://w1.buysub.com/pubs/SC/SCA/google-SCA-2497.jsp?cds_page_id=143556&amp;cds_mag_code=SCA&amp;id=1380649392936&amp;lsid=32741241109018790&amp;vid=2&amp;cds_response_key=I3S00R002" target="_blank">Subscribe to Print <span class="red">&raquo;</span></a></li>
+<li><a href="https://w1.buysub.com/servlet/ConvertibleGateway?cds_mag_code=SCA&cds_page_id=173750&cds_response_key=I4S03X000" target="_blank">Give a Gift <span class="red">&raquo;</span></a></li>
+<li><a href="http://www.scientificamerican.com/magazine/sa/current">View the Latest Issue <span class="red">&raquo;</span></a></li>
+</ul>
+<div id="cover-ipad"><img alt="" src="http://www.scientificamerican.com/media/cover/current.jpg" /></div>
+<img alt="" id="cover-print" src="http://www.scientificamerican.com/media/cover/current.jpg" /></div>
+<nav class="navbar navbar-inverse span12">
+<div class="navbar-inner">
+<div>
+<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</a>
+<div class="nav-collapse collapse">
+<nav class="navbar navbar-inverse span12">
+<ul id="navPrimary" class="nav">
+<li id="navSubscribe">
+<a href="http://www.scientificamerican.com/subscribe/" target="_blank">Subscribe</a>
+</li>
+<li id="stickyNavHome"><a href="http://www.scientificamerican.com/"><img src="http://www.scientificamerican.com/sciam/includes/themes/sciam/images/global/stickyNavHome.jpg"></a></li>
+<li id="navsection" class="dropdown">
+<a href="http://www.scientificamerican.com/" class="dropdown-toggle">News & Features</a>
+<ul class="dropdown-menu" style="display:none;">
+<li id="navlateststories" class="first"><a href="http://www.scientificamerican.com/section/lateststories/">Latest Stories</a></li>
+<li id="navask-the-experts" ><a href="http://www.scientificamerican.com/section/ask-the-experts/">Ask the Experts</a></li>
+<li id="navfact-or-fiction" ><a href="http://www.scientificamerican.com/section/fact-or-fiction/">Fact or Fiction</a></li>
+<li id="navextreme-tech" ><a href="http://www.scientificamerican.com/section/extreme-tech/">Extreme Tech</a></li>
+<li id="navweb-features" ><a href="http://www.scientificamerican.com/section/web-features/">Features</a></li>
+<li id="navonline-forum" ><a href="http://www.scientificamerican.com/section/online-forum/">Forum</a></li>
+<li id="navin-depth-reports" ><a href="http://www.scientificamerican.com/section/in-depth-reports/">In-Depth Reports</a></li>
+<li id="navinteractive-features" ><a href="http://www.scientificamerican.com/section/interactive-features/">Interactive Features</a></li>
+<li id="navmind-matters" ><a href="http://www.scientificamerican.com/section/mind-matters/">Mind Matters</a></li>
+<li id="navnews" ><a href="http://www.scientificamerican.com/section/news/">News</a></li>
+<li id="navscience-images" ><a href="http://www.scientificamerican.com/section/science-images/">Science Images</a></li>
+<li id="navslideshow" ><a href="http://www.scientificamerican.com/section/slideshow/">Slide shows</a></li>
+</ul>
+</li>
+<li id="navTopics" class="dropdown">
+<a href="http://www.scientificamerican.com/topics/" class="dropdown-toggle">Topics</a>
+<ul class="dropdown-menu" style="display:none;">
+<li id="navenergy-and-sustainability" class="first"><a href="http://www.scientificamerican.com/energy-and-sustainability/">Energy & Sustainability</a></li>
+<li id="navevolution" ><a href="http://www.scientificamerican.com/evolution/">Evolution</a></li>
+<li id="navhealth-and-medicine" ><a href="http://www.scientificamerican.com/health-and-medicine/">Health</a></li>
+<li id="navmind-and-brain" ><a href="http://www.scientificamerican.com/mind-and-brain/">Mind & Brain</a></li>
+<li id="navspace" ><a href="http://www.scientificamerican.com/space/">Space</a></li>
+<li id="navtechnology" ><a href="http://www.scientificamerican.com/technology/">Technology</a></li>
+<li id="navbasic-science" ><a href="http://www.scientificamerican.com/basic-science/">More Science</a></li>
+<li id="navBiology" class="subNavItem"><a href="http://www.scientificamerican.com/biology/">Biology</a></li>
+<li id="navChemistry" class="subNavItem"><a href="http://www.scientificamerican.com/chemistry/">Chemistry</a></li>
+<li id="navPhysics" class="subNavItem"><a href="http://www.scientificamerican.com/physics/">Physics</a></li>
+<li id="navAllTopics" class="allTopics"><a href="http://www.scientificamerican.com/topics/">All topics</a></li>
+</ul>
+</li>
+<li id="navBlogs" class="dropdown">
+<a href="http://blogs.scientificamerican.com/" class="dropdown-toggle">Blogs</a>
+<ul class="dropdown-menu" style="display: none;">
+<li class="first"><a href="http://blogs.scientificamerican.com/staff">Staff Blogs</a></li>
+<li><a href="http://blogs.scientificamerican.com/mind">MIND Blog Network</a></li>
+<li><a href="http://blogs.scientificamerican.com/">From Our Network</a></li>
+</ul>
+</li>
+<li id="navmultimedia" class="dropdown">
+<a href="http://www.scientificamerican.com/multimedia/" class="dropdown-toggle">Videos & Podcasts</a>
+<ul class="dropdown-menu" style="display:none;">
+<li id="navvideo" class="first"><a href="http://www.scientificamerican.com/video/">Video</a></li>
+<li id="navsas-the-countdown" ><a href="http://www.scientificamerican.com/multimedia/sas-the-countdown/">SA's The Countdown</a></li>
+<li id="nav60-second-science" ><a href="http://www.scientificamerican.com/podcast/60-second-science/">60-Second Science Podcast</a></li>
+<li id="nav60-second-earth" ><a href="http://www.scientificamerican.com/podcast/60-second-earth/">60-Second Earth Podcast</a></li>
+<li id="nav60-second-health" ><a href="http://www.scientificamerican.com/podcast/60-second-health/">60-Second Health Podcast</a></li>
+<li id="nav60-second-mind" ><a href="http://www.scientificamerican.com/podcast/60-second-mind/">60-Second Mind Podcast</a></li>
+<li id="nav60-second-space" ><a href="http://www.scientificamerican.com/podcast/60-second-space/">60-Second Space Podcast</a></li>
+<li id="nav60-second-tech" ><a href="http://www.scientificamerican.com/podcast/60-second-tech/">60-Second Tech Podcast</a></li>
+<li id="navscience-talk" ><a href="http://www.scientificamerican.com/podcast/science-talk/">Science Talk Podcast</a></li>
+</ul>
+</li>
+<li id="naveducation" class="dropdown">
+<a href="http://www.scientificamerican.com/education/" class="dropdown-toggle">Education</a>
+<ul class="dropdown-menu" style="display:none;">
+<li id="navscience-in-action" class="first"><a href="http://www.scientificamerican.com/education/science-in-action/">Science in Action Award</a></li>
+<li id="navbring-science-home" ><a href="http://www.scientificamerican.com/education/bring-science-home/">Bring Science Home</a></li>
+<li id="navcitizen-science-link" ><a href="http://www.scientificamerican.com/education/citizen-science-link/">Citizen Science</a></li>
+<li id="navdigital-education-report" ><a href="http://www.scientificamerican.com/education/digital-education-report/">Digital Education Report</a></li>
+<li id="navprofessional-learning" ><a href="http://www.scientificamerican.com/education/professional-learning/">Professional Learning</a></li>
+<li id="nav1000-scientists-in-1000-days" ><a href="http://www.scientificamerican.com/education/1000-scientists-in-1000-days/">1,000 Scientists in 1,000 Days</a></li>
+<li id="navsearch-for-scientistseducators" class="subNavItem"><a href="http://www.scientificamerican.com/education/1000-scientists-in-1000-days/search-for-scientistseducators/">Search for Scientists/Educators</a></li>
+<li id="navscientist-sign-up" class="subNavItem"><a href="http://www.scientificamerican.com/education/1000-scientists-in-1000-days/scientist-sign-up/">Scientist Sign Up</a></li>
+<li id="naveducator-sign-up" class="subNavItem"><a href="http://www.scientificamerican.com/education/1000-scientists-in-1000-days/educator-sign-up/">Educator Sign Up</a></li>
+<li id="navparticipant-dashboard" class="subNavItem"><a href="http://www.scientificamerican.com/education/1000-scientists-in-1000-days/participant-dashboard/">Participant Dashboard</a></li>
+<li id="naveducation-resources" ><a href="http://www.scientificamerican.com/education/education-resources/">Education Resources</a></li>
+</ul>
+</li>
+<li id="navcitizen-science" class="dropdown">
+<a href="http://www.scientificamerican.com/citizen-science/" class="dropdown-toggle">Citizen Science</a>
+<ul class="dropdown-menu" style="display: none;">
+<li id="navwhale-song-project" class="first"><a href="http://www.scientificamerican.com/citizen-science/whale-song-project/">Whale-Song Project</a></li>
+<li id="navsolve-innovation-challenges"><a href="http://www.scientificamerican.com/citizen-science/solve-innovation-challenges/">Solve Innovation Challenges</a></li>
+</ul>
+</li>
+<li id="navsa" class="dropdown">
+<a href="http://www.scientificamerican.com/magazine/sa/" class="dropdown-toggle">SA Magazine</a>
+<ul class="dropdown-menu" style="display:none;">
+<li class="coverButton">
+<a href="http://www.scientificamerican.com/magazine/sa/2014/11-01/">
+<img src="http://www.scientificamerican.com/media/cover/current.jpg?s=full" alt="cover image" width="192" height="254">
+</a>
+<div class="magLinks">
+<a href="http://www.scientificamerican.com/store/subscribe/scientific-american-magazine/?WT.mc_id=SA_Webstore_SCA_MultiControl_Nav_Self" target="_blank" class="redLink">Subscribe</a>
+<a href="https://w1.buysub.com/servlet/ConvertibleGateway?cds_mag_code=SCA&cds_page_id=173750&cds_response_key=I4S04X000" target="_blank" class="redLink">Give as a Gift</a>
+<a href="http://www.scientificamerican.com/magazine/sa/?WT.mc_id=SA_Webstore_SCA_Nav_BuySingleIssue" target="_blank" class="greyLink">Buy Single Issues</a>
+</div>
+</li>
+<li class="magNav first">
+<b><a class="first" href="http://www.scientificamerican.com/magazine/sa/2014/11-01/">Inside the Latest Issue</a></b>
+<ul id="SAMagUL">
+<li><a href="http://www.scientificamerican.com/department/feature-articles/">Features</a></li>
+<li><a href="http://www.scientificamerican.com/department/advances/">Advances</a></li>
+<li><a href="http://www.scientificamerican.com/department/50-100-and-150-years-ago/">50, 100 & 150 Years Ago</a></li>
+<li><a href="http://www.scientificamerican.com/department/antigravity/">Anti Gravity</a></li>
+<li><a href="http://www.scientificamerican.com/department/forum/">Forum</a></li>
+<li><a href="http://www.scientificamerican.com/department/graphic-science/">Graphic Science</a></li>
+<li><a href="http://www.scientificamerican.com/department/the-science-agenda/">The Science Agenda</a></li>
+<li><a href="http://www.scientificamerican.com/department/the-science-of-health/">The Science of Health</a></li>
+<li><a href="http://www.scientificamerican.com/department/skeptic/">Skeptic</a></li>
+<li><a href="http://www.scientificamerican.com/department/technofiles/">TechnoFiles</a></li>
+<li><a href="http://www.scientificamerican.com/department/recommendations/">Recommended</a></li>
+<li><a href="http://www.scientificamerican.com/magazine/sa/">Archive</a></li>
+<li><a href="http://www.scientificamerican.com/magazine/special-editions/">Special Editions</a></li>
+</ul>
+</li>
+<li class="magExtras">
+<span class="moreFromSA">
+More from SA:
+</span>
+<ul>
+<li>
+<a href="http://www.scientificamerican.com/magazine/sa-classics/">
+<img src="http://www.scientificamerican.com/sciam/cache/file/B2040AE5-7083-4AD2-AE6E1C995968D2EA_W76_H100.jpg" class="magCover">
+<span class="title">
+Classics
+</span>
+</a>
+</li>
+<li>
+<a href="http://www.scientificamerican.com/store/subscribe/briefings/briefings-overview/">
+<img src="http://www.scientificamerican.com/sciam/cache/file/7206F498-FE61-4CFC-92B6435CE56D2E79_W76_H100.jpg" class="magCover">
+<span class="title">
+Briefings
+</span>
+</a>
+</li>
+<li>
+<a href="http://www.scientificamerican.com/page/mobile/">
+<img src="http://www.scientificamerican.com/sciam/includes/themes/sciam/images/global/saMagNavMobile.jpg">
+<span class="title">
+Mobile
+</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li id="navmind" class="dropdown">
+<a href="http://www.scientificamerican.com/magazine/mind/" class="dropdown-toggle">SA Mind</a>
+<ul class="dropdown-menu" style="display:none;">
+<li class="coverButton">
+<a href="http://www.scientificamerican.com/magazine/mind/2014/11-01/">
+<img src="http://www.scientificamerican.com/media/cover/current.jpg?s=full&mag=mind" alt="cover image" width="192" height="254">
+</a>
+<div class="magLinks">
+<a href="http://www.scientificamerican.com/store/subscribe/scientific-american-mind-magazine/?WT.mc_id=SA_Webstore_MND_MultiControl_Nav_Self" target="_blank" class="redLink">Subscribe</a>
+<a href="https://w1.buysub.com/servlet/ConvertibleGateway?cds_mag_code=MND&cds_page_id=173753&cds_response_key=I4M04X000" target="_blank" class="redLink">Give as a Gift</a>
+<a href="http://www.scientificamerican.com/magazine/mind/?WT.mc_id=SA_Webstore_MND_Nav_BuySingleIssue" target="_blank" class="greyLink">Buy Single Issues</a>
+</div>
+</li>
+<li class="magNav first">
+<b><a class="first" href="http://www.scientificamerican.com/magazine/mind/home/">SA Mind Home Page</a></b>
+<b><a href="http://blogs.scientificamerican.com/mind">SA Mind Blog Network</a></b>
+<b><a href="http://www.scientificamerican.com/magazine/mind/2014/11-01/">Inside the Latest Issue</a></b>
+<ul id="SAMindUL">
+<li><a href="http://www.scientificamerican.com/department/feature-articles/">Features</a></li>
+<li><a href="http://www.scientificamerican.com/department/head-lines/">Head Lines</a></li>
+<li><a href="http://www.scientificamerican.com/department/ask-the-brains/">Ask the Brains</a></li>
+<li><a href="http://www.scientificamerican.com/department/consciousness-redux/">Consciousness Redux</a></li>
+<li><a href="http://www.scientificamerican.com/department/facts-and-fictions-in-mental-health/">Facts and Fictions in Mental Health</a></li>
+<li><a href="http://www.scientificamerican.com/department/illusions/">Illusions</a></li>
+<li><a href="http://www.scientificamerican.com/department/mind-in-pictures/">Mind in Pictures</a></li>
+<li><a href="http://www.scientificamerican.com/department/perspectives/">Perspectives</a></li>
+<li><a href="http://www.scientificamerican.com/department/were-only-human/">We're Only Human</a></li>
+<li><a href="http://www.scientificamerican.com/department/mind-reviews/">Reviews and Recommendations</a></li>
+<li><a href="http://www.scientificamerican.com/magazine/mind/">Archive</a></li>
+<li><a href="http://www.scientificamerican.com/magazine/special-editions/">Special Editions</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li id="navbooks" class="dropdown">
+<a href="http://books.scientificamerican.com/sa-ebooks/landing/" class="dropdown-toggle">Books</a>
+<ul class="dropdown-menu" style="display:none;">
+<li id="navsafsg-books" class="first"><a href="http://www.scientificamerican.com/books/safsg-books/">SA/FSG Books</a></li>
+<li id="navscientific-american-ebooks" ><a href="http://www.scientificamerican.com/books/scientific-american-ebooks/">Scientific American eBooks</a></li>
+</ul>
+</li>
+<li id="navEspanol" class="dropdown">
+<a href="http://www.scientificamerican.com/espanol/">
+SA en español
+</a>
+</li>
+<li id="stickyNavSearch">
+<img src="http://www.scientificamerican.com/sciam/includes/themes/sciam/images/global/stickyNavSearch.jpg">
+</li>
+<div id="stickySearchDrop">
+<img src="http://www.scientificamerican.com/sciam/includes/themes/sciam/images/global/search-arrow.png">
+<form action="/search/" onsubmit="return checkSiteSearch(this)">
+<input name="q" type="text" id="textfield" value="Enter search term(s)..." onfocus="this.value=''; this.style.color='#222222';" maxlength="200"/>
+<input type="image" src="http://www.scientificamerican.com/sciam/includes/themes/sciam/images/global/stickyNavSearchButton.jpg" alt="Search" width="26" height="26" id="searchbtn" />
+</form>
+</div>
+</ul>
+</nav>
+</div><!--/.nav-collapse -->
+</div><!-- .container -->
+</div><!-- /.navbar-inner -->
+</nav><!-- /.navbar -->
+</header>
+	<link rel="stylesheet" href="/wp-content/themes/sciam/style.css?v=1"/>
+	<!--[if IE]>
+	<link rel="stylesheet" href="/wp-content/themes/sciam/ie.css" />
+	<![endif]-->
+
+	<link href="/wp-includes/css/jquery-ui.css" rel="stylesheet" type="text/css"/>
+	<script src="/wp-includes/js/jquery-ui-dialog.min.js"></script>
+	<script type="text/javascript" src="/wordpress/wp-includes/js/customjs.js?v=1"></script>
+
+	<script type="text/javascript">
+		updateUserHeader();
+	</script>
+
+
+
+
+<div id="columnHolder">
+	<div id="blogHeadDiv">
+		<label id="blogHead" class="blogHead"><a style="color:#222222" href="/">Blogs</a></label> &nbsp;<label><a href="http://rss.sciam.com/all-blogs/feed"><img title="RSS feeds for Scientific American Blog Network" src="/wp-includes/images/rss.png" style="vertical-align:super;"></a></label> <span style="float:right; margin-top:10px; display:inline;"><a class="aboutSABlogs" href="http://blogs.scientificamerican.com/about-the-scientific-american-blog-network/">About the SA Blog Network</a><select id="select_blog" onchange="onBlogChange()" data-role="none" ><option value="0">Choose a blog....</option><optgroup label="Scientific American Staff"><option value="http://blogs.scientificamerican.com/anecdotes-from-the-archive">Anecdotes from the Archive</option><option value="http://blogs.scientificamerican.com/at-scientific-american">@ScientificAmerican</option><option value="http://blogs.scientificamerican.com/brainwaves">Brainwaves</option><option value="http://blogs.scientificamerican.com/dark-star-diaries">Dark Star Diaries</option><option value="http://blogs.scientificamerican.com/network-central">The Network Central</option><option value="http://blogs.scientificamerican.com/observations">Observations</option><option value="http://blogs.scientificamerican.com/sa-visual">SA Visual</option><option value="http://blogs.scientificamerican.com/streams-of-consciousness">Streams of Consciousness</option><option value="http://blogs.scientificamerican.com/talking-back">Talking back</option></optgroup><optgroup label="MIND Blogs"><option value="http://blogs.scientificamerican.com/beautiful-minds">Beautiful Minds</option><option value="http://blogs.scientificamerican.com/bering-in-mind">Bering in Mind</option><option value="http://blogs.scientificamerican.com/cargo-cult-contrarian">Cargo Cult Contrarian</option><option value="http://blogs.scientificamerican.com/dog-spies">Dog Spies</option><option value="http://blogs.scientificamerican.com/illusion-chasers">Illusion Chasers</option><option value="http://blogs.scientificamerican.com/mind-guest-blog">MIND Guest Blog</option><option value="http://blogs.scientificamerican.com/moral-universe">The Moral Universe</option><option value="http://blogs.scientificamerican.com/not-bad-science">Not bad science</option><option value="http://blogs.scientificamerican.com/psysociety">PsySociety</option><option value="http://blogs.scientificamerican.com/science-with-moxie">Science with Moxie</option><option value="http://blogs.scientificamerican.com/white-noise">The White Noise</option></optgroup><optgroup label="From Our Network"><option value="http://blogs.scientificamerican.com/absolutely-maybe">Absolutely Maybe</option><option value="http://blogs.scientificamerican.com/anthropology-in-practice">Anthropology in Practice</option><option value="http://blogs.scientificamerican.com/artful-amoeba">The Artful Amoeba</option><option value="http://blogs.scientificamerican.com/assignment-impossible">Assignment: Impossible</option><option value="http://blogs.scientificamerican.com/budding-scientist">Budding Scientist</option><option value="http://blogs.scientificamerican.com/but-seriously">But Seriously...</option><option value="http://blogs.scientificamerican.com/cocktail-party-physics">Cocktail Party Physics</option><option value="http://blogs.scientificamerican.com/compound-eye">Compound Eye</option><option value="http://blogs.scientificamerican.com/critical-opalescence">Critical Opalescence</option><option value="http://blogs.scientificamerican.com/cross-check">Cross-Check</option><option value="http://blogs.scientificamerican.com/culturing-science">Culturing Science</option><option value="http://blogs.scientificamerican.com/doing-good-science">Doing Good Science</option><option value="http://blogs.scientificamerican.com/expeditions">Expeditions</option><option value="http://blogs.scientificamerican.com/extinction-countdown">Extinction Countdown</option><option value="http://blogs.scientificamerican.com/food-matters">Food Matters</option><option value="http://blogs.scientificamerican.com/guest-blog">Guest Blog</option><option value="http://blogs.scientificamerican.com/history-of-geology">History of Geology</option><option value="http://blogs.scientificamerican.com/information-culture">Information Culture</option><option value="http://blogs.scientificamerican.com/lab-rat">Lab Rat</option><option value="http://blogs.scientificamerican.com/life-unbounded">Life, Unbounded</option><option value="http://blogs.scientificamerican.com/molecules-to-medicine">Molecules to Medicine</option><option value="http://blogs.scientificamerican.com/ocelloid">The Ocelloid</option><option value="http://blogs.scientificamerican.com/octopus-chronicles">Octopus Chronicles</option><option value="http://blogs.scientificamerican.com/oscillator">Oscillator</option><option value="http://blogs.scientificamerican.com/plugged-in">Plugged In</option><option value="http://blogs.scientificamerican.com/primate-diaries">The Primate Diaries</option><option value="http://blogs.scientificamerican.com/psi-vid">PsiVid</option><option value="http://blogs.scientificamerican.com/roots-of-unity">Roots of Unity</option><option value="http://blogs.scientificamerican.com/rosetta-stones">Rosetta Stones</option><option value="http://blogs.scientificamerican.com/running-ponies">Running Ponies</option><option value="http://blogs.scientificamerican.com/symbiartic">Symbiartic</option><option value="http://blogs.scientificamerican.com/tetrapod-zoology">Tetrapod Zoology</option><option value="http://blogs.scientificamerican.com/this-may-hurt-a-bit">This May Hurt a Bit</option><option value="http://blogs.scientificamerican.com/thoughtomics">Thoughtomics</option><option value="http://blogs.scientificamerican.com/unofficial-prognosis">Unofficial Prognosis</option><option value="http://blogs.scientificamerican.com/urban-scientist">The Urban Scientist</option><option value="http://blogs.scientificamerican.com/voices">Voices</option></optgroup></select></span>
+		<hr class="headHLine" noshade="noshade"  />
+	</div>
+
+	<div id="mainCol2" class="blogIndex">
+	<script type="text/javascript">
+	$(document).ready(function () {
+	
+		if ($(window).width() < 1000) {
+			$("#shareNarrow").css( 'display', 'block' );
+			$("#shareFloat").css( 'display', 'none' );
+		}
+		else {
+			$("#shareFloat").css( 'display', 'inline' );
+		};
+
+		$(window).bind("resize", resizeWindow);
+
+		function resizeWindow( e ) {
+			var newWindowWidth = $(window).width();
+
+			if ($(window).width() < 1000) {
+				$("#shareNarrow").css( 'display', 'block' );
+				$("#shareFloat").css( 'display', 'none' );
+				$("#horTwitter").css( 'margin-left', '20px' );
+			}
+			else {
+				$("#shareNarrow").css( 'display', 'none' );
+				$("#shareFloat").css( 'display', 'inline' );
+			};
+
+		}		
+
+
+	});
+</script>
+
+
+<script type="text/javascript">
+    $(function() {
+        var offset = $("#shareFloat").offset();
+        var topPadding = 60;
+        $(window).scroll(function() {
+            if ($(window).scrollTop() > (offset.top - '30')) {
+                
+                $('#shareFloat').css('top', $(window).scrollTop() - offset.top + topPadding);
+                
+            } else {
+                
+                $('#shareFloat').css('top','20px').css('left','-88px');
+                
+            };
+        });
+    });
+</script>
+
+<div id="shareFloat">
+	<!---<div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js##appId=117455088338175&amp;xfbml=1"></script><fb:like href="#thisURL#&WT.mc_id=SA_sharetool_Facebook" send="false" layout="box_count" show_faces="false" action="share" font=""></fb:like>--->
+			<iframe src="//www.facebook.com/plugins/like.php?href=http://blogs.scientificamerican.com/guest-blog/2013/05/19/dear-american-consumers-please-dont-start-eating-healthfully-sincerely-the-food-industry/?WT.mc_id=SA_sharetool_Facebook&amp;send=false&amp;layout=box_count&amp;width=55&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=65" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:55px; height:65px; margin-left:8px; padding-bottom:0px;" allowTransparency="true"></iframe>
+
+	<br /><br />
+	<div style="position:relative; left:5px;">
+	<a href="http://twitter.com/share" class="twitter-share-button" data-count="vertical" data-via="sciam" data-related="sciam/sciam-contributors-2:sciammind" data-url="http://blogs.scientificamerican.com/guest-blog/2013/05/19/dear-american-consumers-please-dont-start-eating-healthfully-sincerely-the-food-industry/?WT.mc_id=SA_sharetool_Twitter">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script> 
+	</div>
+	<br /><br />
+	<br /><br />
+	
+	 <script type="text/javascript" src="https://apis.google.com/js/plusone.js">
+	  {"parsetags": "explicit"}
+	</script>
+	<div id="content2">
+	  <br />
+	  <g:plusone size="tall"  href="http://blogs.scientificamerican.com/guest-blog/2013/05/19/dear-american-consumers-please-dont-start-eating-healthfully-sincerely-the-food-industry/"></g:plusone>
+	  <br />
+	</div>
+	<script type="text/javascript">
+	  gapi.plusone.go("content2");
+	</script>
+	<br />
+	
+	<script type="text/javascript" src="http://platform.linkedin.com/in.js"></script><script type="in/share" data-url="http://blogs.scientificamerican.com/guest-blog/2013/05/19/dear-american-consumers-please-dont-start-eating-healthfully-sincerely-the-food-industry/" data-counter="top"></script>
+	<br /><br />
+	
+	<script type="text/javascript">reddit_url='http://blogs.scientificamerican.com/guest-blog/2013/05/19/dear-american-consumers-please-dont-start-eating-healthfully-sincerely-the-food-industry/'</script><!--- &WT.mc_id=SA_sharetool_Reddit --->
+	<script type="text/javascript" src="http://www.reddit.com/static/button/button2.js?newwindow=1"></script>
+	<br /><br />
+	
+	<script type="text/javascript" language="JavaScript">stumble_url = 'http://blogs.scientificamerican.com/guest-blog/2013/05/19/dear-american-consumers-please-dont-start-eating-healthfully-sincerely-the-food-industry/?WT.mc_id=SA_sharetool_StumbleUpon';</script>
+	<script src="http://www.stumbleupon.com/hostedbadge.php?s=5"></script>
+
+</div>
+
+<div id="shareNarrow" class="shareNarrow" style="display: none;">
+	<div id="shareNarrowSocial">
+		<div class="viralBadge">
+			<!---<div id="fb-root"></div>
+			<fb:like href="http://blogs.scientificamerican.com/guest-blog/2013/05/19/dear-american-consumers-please-dont-start-eating-healthfully-sincerely-the-food-industry/&WT.mc_id=SA_sharetool_Facebook" send="false" layout="button_count" show_faces="false" action="share" font=""></fb:like>--->
+						<iframe src="//www.facebook.com/plugins/like.php?href=http://blogs.scientificamerican.com/guest-blog/2013/05/19/dear-american-consumers-please-dont-start-eating-healthfully-sincerely-the-food-industry/?WT.mc_id=SA_sharetool_Facebook&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowTransparency="true"></iframe>
+
+		</div>
+		<div class="viralBadge" id="horTwitter">
+			<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="sciam" data-related="sciam/sciam-contributors-2:sciammind" data-url="http://blogs.scientificamerican.com/guest-blog/2013/05/19/dear-american-consumers-please-dont-start-eating-healthfully-sincerely-the-food-industry/?WT.mc_id=SA_sharetool_Twitter">Tweet</a>
+		</div>
+		<div class="viralBadge" style="position:relative; left:-10px;">
+			<div id="content3">
+			  <g:plusone size="medium" annotation="bubble" href="http://blogs.scientificamerican.com/guest-blog/2013/05/19/dear-american-consumers-please-dont-start-eating-healthfully-sincerely-the-food-industry/"></g:plusone>
+			</div>
+			<script type="text/javascript">
+			  gapi.plusone.go("content3");
+			</script>
+		</div>
+		<div class="viralBadge" style="position:relative; left:-10px;">
+			<script type="IN/Share" data-url="http://blogs.scientificamerican.com/guest-blog/2013/05/19/dear-american-consumers-please-dont-start-eating-healthfully-sincerely-the-food-industry/" data-counter="right"></script>
+		</div>
+		<div class="viralBadge" style="margin-left: 15px;">
+			<script type="text/javascript">stumble_url = 'http://blogs.scientificamerican.com/guest-blog/2013/05/19/dear-american-consumers-please-dont-start-eating-healthfully-sincerely-the-food-industry/?WT.mc_id=SA_sharetool_StumbleUpon';</script>
+			<script src="http://www.stumbleupon.com/hostedbadge.php?s=1"></script>
+		</div>
+		<div class="viralBadge" style="margin-left: 30px;">
+			<script type="text/javascript">reddit_url='http://blogs.scientificamerican.com/guest-blog/2013/05/19/dear-american-consumers-please-dont-start-eating-healthfully-sincerely-the-food-industry/'</script><!--- &WT.mc_id=SA_sharetool_Reddit --->
+		<a href="http://www.reddit.com/submit" target="_blank" onclick="window.location = 'http://www.reddit.com/submit?url=' + encodeURIComponent(window.location); return false"> <img src="http://www.reddit.com/static/spreddit7.gif" alt="submit to reddit" border="0" /> </a>
+		</div>
+	</div>	
+</div>		<div class="colInfoHeader1">
+			<img style=" position:absoulte;" name="blogImage" src="/wp-content/themes/default-enhanced/images/guest-blog.jpg" alt="Guest Blog" />
+	
+			<div style="padding-top:7px;" >
+				<table>
+					<tr>
+						<td style="padding-right:10px;"><a href="http://blogs.scientificamerican.com/guest-blog"><h3>Guest Blog </h3></a></td>
+						<td style=" margin-left:10px; vertical-align:top;"><a href="http://rss.sciam.com/guest-blog/feed"><img id="rssicon" src="/wp-includes/images/rss.png" title="RSS feeds for Guest Blog"/></a></td>
+					</tr>
+				</table>
+			</div>
+			<hr/>
+			<div class="blogDesc">
+				Commentary invited by editors of Scientific American			</div>			
+			<span style="position:absoulte;"><a href="http://blogs.scientificamerican.com/guest-blog" style="padding-right:9px">Guest Blog Home</a><span class="aboutcontact"><a id="auth7219" href="javaScript:void(0)" onclick="openDialog(this,4)">About</a></span><span class="aboutcontact"><a id="auth7219" href="javaScript:void(0)" onclick="openDialog(this)">Contact</a></span></span>
+		</div>
+			<div id="7219" class="blogPost2 singlePost">
+			<h1 id="postTitle2" class="postTitle">Dear American Consumers: Please Don’t Start Eating Healthfully. Sincerely, the Food Industry</h1>
+			<p class="articleInfo2">
+				<span class="byline">
+										By <a id="author592" href="javaScript:void(0)" onclick="openDialog(this,1)">Patrick Mustain</a>&nbsp;|
+					
+									</span>
+				<span class="datestamp">May 19, 2013</span>
+									<span>|&nbsp;&nbsp;<a href="http://blogs.scientificamerican.com/guest-blog/2013/05/19/dear-american-consumers-please-dont-start-eating-healthfully-sincerely-the-food-industry/#respond" title="Comment on Dear American Consumers: Please Don’t Start Eating Healthfully. Sincerely, the Food Industry"><img class="iconComment" src="/wp-content/themes/sciam/images/icon_comment_small.gif" alt="Comments" />66</a></span>
+			</p>
+			<p style="overflow:hidden; display:block; clear:both; padding-top:15px; font-size: 12px;"><i>The views expressed are those of the author and are not necessarily those of</i> Scientific American.</p>
+
+
+			<p id="flairBar">
+				<br>
+				<span id="emailThis"> 
+					<a href="#" class="overlay-controller" id="emailForm" data-title="Dear American Consumers: Please Don’t Start Eating Healthfully. Sincerely, the Food Industry" data-url="http://blogs.scientificamerican.com/guest-blog/2013/05/19/dear-american-consumers-please-dont-start-eating-healthfully-sincerely-the-food-industry/" data-summary="Dear Consumers: A disturbing trend has come to our attention. You, the people, are thinking more about health, and you’re starting to do something about it. This cannot continue. Sure, there’s always been talk of health in America. We often encourage it. The thing is, we only want you to think about and talk about [...]">Email</a>
+				</span> &nbsp;
+				<a  href="http://blogs.scientificamerican.com/guest-blog/2013/05/19/dear-american-consumers-please-dont-start-eating-healthfully-sincerely-the-food-industry/?print=true"><img src="/wp-content/themes/sciam/images/print.gif" alt="Print" style="margin-right:5px;"/>Print</a>
+			</p>
+			<hr class="sciamdottedhr"/>
+			<br>
+		
+							<div style="display:none;" id="divAuthorInfo" title="About Guest Blog" class="popup">
+					<p>The editors of <em>Scientific American</em> regularly encounter perspectives on science and technology that we believe  	our readers would find thought-provoking, fascinating, debatable and challenging.  	The guest blog is a forum for such opinions. The views expressed belong to the author and are not necessarily  	shared by <em>Scientific American</em>.</p>						<p class="moreLink" style="color:#19437C">
+							<a href="blogabout.php?blog=49">
+								<strong>More&nbsp;<span class="linkArrow">&raquo;</span></strong>
+							</a>
+						</p>
+				</div>
+						
+			<div id="about592" title="About Patrick Mustain" class="popup">
+				<span id="authorImage"><a href="http://blogs.scientificamerican.com/guest-blog/about.php?author=592"><img src="/wp-content/uploads/userphoto/592.thumbnail.jpg" alt="Patrick Mustain" width="60" height="60" class="photo" /></a></span>
+				Patrick Mustain is a Communications Manager at the Yale Rudd Center for Food Policy and Obesity. He is interested in how environmental factors (built, social, media, economic, etc.) affect health behaviors and outcomes, especially those places where media and public health intersect. You can find more of his work at his website, <a href="http://patrickmustain.com" target="_blank" title="">patrickmustain.com</a>. Follow on Twitter <a href="http://twitter.com/patrickmustain">@patrickmustain</a>.				<p class="moreLink" style="color:#19437C">
+					<a href="http://blogs.scientificamerican.com/guest-blog/about.php?author=592">
+						<strong style="color:#19437C">More&nbsp;<span class="linkArrow">&raquo;</span></strong>
+					</a>
+				</p>
+			</div>
+		
+			<div id="contact7219" title="Contact Patrick Mustain" class="popup">
+				Contact Patrick Mustain via <a href="mailto:patrickmustain@gmail.com">email</a>.
+				<br>Follow Patrick Mustain on Twitter as <a href="http://twitter.com/patrickmustain">@patrickmustain</a>. Or visit their <a href="http://patrickmustain.com">website</a>.			</div>
+		
+					
+		
+			<div id="singleBlogPost">
+				<p>Dear Consumers: A disturbing trend has come to our attention. You, the people, are thinking more about health, and you’re starting to do something about it. This cannot continue.</p>
+<p><a href="http://blogs.scientificamerican.com/guest-blog/files/2013/05/Aisle.jpg"><img class="alignright size-full wp-image-7221" title="Aisle" src="http://blogs.scientificamerican.com/guest-blog/files/2013/05/Aisle.jpg" alt="" width="448" height="336" /></a>Sure, there’s always been talk of health in America. We often encourage it. The thing is, we only want you to think about and talk about health in a certain way—equating health with how you look, instead of outcomes like quality of life and reduced disease risk. Your superficial understanding of health has a great influence over your purchasing decisions, and we’re ready for it, whether you choose to go low-calorie, low-fat, gluten-free or inevitably give up and accept the fact that you can’t resist our Little Debbie snacks, potato chips and ice cream novelties.</p>
+<p>Whatever the current health trend, we respond by developing and marketing new products. We can also show you how great some of our current products are and always have been. For example, when things were not looking so good for fat, our friends at Welch’s were able to point out that their chewy fruit snacks were a fat free option. Low fat! Healthy! Then the tide turned against carbohydrates. Our friends in meat and dairy were happy to show that their steaks, meats and cheeses were low-carb choices. Low carbs! Healthy!</p>
+<p>But we’re getting uneasy.</p>
+<p>In 2009, Congress commissioned the <a href="http://ftc.gov/os/2011/04/110428foodmarketproposedguide.pdf" target="_blank">Inter-agency Working Group</a> (IWG) to develop standards for advertising foods to children. The IWG included the Federal Trade Commission (FTC), the Centers for Disease Control and Prevention (CDC), the Food and Drug Administration (FDA) and the United States Department of Agriculture (USDA).</p>
+<p>Congress identified these organizations as having “expertise and experience in child nutrition, child health, psychology, education, marketing and other fields relevant to food and beverage marketing and child nutrition standards.”</p>
+<p>We were dismayed when the IWG released its report in 2011. The guidelines said that foods advertised to children must provide “a meaningful contribution to a healthful diet.” For example, any food marketed to children must “contain at least 50% by weight one or more of the following: fruit; vegetable; whole grain; fat-free or low-fat milk or yogurt; fish; extra lean meat or poultry; eggs; nuts and seeds; or beans.”</p>
+<p>This report was potentially devastating. These organizations, experts in nutrition, were officially outlining what constituted “a meaningful contribution to a healthful diet.” Thankfully, we have a ton of money and were able to use it to get the IWG to withdraw the guidelines.</p>
+<p>In a <a href="http://ftc.gov/os/comments/foodmarketedchildren/07787-79967.pdf" target="_blank">public comment</a> posted <a href="http://ftc.gov/os/comments/foodmarketedchildren/" target="_blank">on the FTC website</a>, our friends at General Mills pointed out that under the IWG guidelines, the most commonly consumed foods in the US would be considered unhealthy. Specifically, according to General Mills, “of the 100 most commonly consumed foods and beverages in America, 88 would fail the IWG’s proposed standards.” So you see? If you people start eating the way the nutrition experts at the CDC and USDA recommend that you eat, that would delegitimize almost 90 percent of the products we produce!  Do you realize how much money that would cost us?</p>
+<p>According to the General Mills letter, if everyone in the US started eating healthfully, it would cost us $503 billion per year! That might affect our ability to pay CEOs like General Mills’ Ken Powell annual compensations of <a href="http://www.bizjournals.com/twincities/news/2012/08/09/ceo-pay-general-mills-ken-powell.html" target="_blank">more than $12 million</a>.</p>
+<p><a href="http://blogs.scientificamerican.com/guest-blog/files/2013/05/megan-picking-cereal.jpg"><img class="alignleft size-full wp-image-7223" title="megan picking cereal" src="http://blogs.scientificamerican.com/guest-blog/files/2013/05/megan-picking-cereal.jpg" alt="" width="448" height="252" /></a>But revamping the food environment will also cost you money. The General Mills letter stated “a shift by the average American to the IWG diet would conservatively increase the individual’s annual food spending by $1,632.” Sure, we’ve heard talk about costs to the individual that arise from being obese. <a href="http://sphhs.gwu.edu/departments/healthpolicy/dhp_publications/pub_uploads/dhpPublication_35308C47-5056-9D20-3DB157B39AC53093.pdf" target="_blank">One 2010 paper</a> from the George Washington University School of Public Health and Health Services estimated that the annual costs to an individual for being obese can be upwards of $8,000. We like to think of this as a small price to pay for consumer freedom.</p>
+<p>Of course, we don’t necessarily want you to be unhealthy. It’s just that it’s so much more profitable to provide <a href="http://www.nytimes.com/2013/02/24/magazine/the-extraordinary-science-of-junk-food.html?pagewanted=all" target="_blank">foods that happen to be unhealthy</a>. We’ve been able to industrialize the food system so that we can produce massive amounts of the cheapest ingredients available, in the cheapest, most efficient way possible.</p>
+<p>On top of that, we understand human biology. Humans evolved in situations in which <a href="http://blogs.scientificamerican.com/guest-blog/2013/03/05/the-decline-and-fall-of-food-how-our-greatest-fuel-source-became-our-greatest-health-threat-podcast/" target="_blank">food was scarce</a>. This led to an evolutionary adaptation that causes you to crave salty, sugary and fatty foods. Consuming foods with these characteristics actually lights up the same pleasure centers in the brain as cocaine. Who wouldn’t play upon that biological craving to increase profits? If one company didn’t, their competitors would, so we all kind of have to do it.</p>
+<p>We are also able to provide you with perceived value. Because it doesn’t cost us that much more to make a soda, say, 42 ounces instead of 22, we can almost double the size of a beverage and <a href="http://makinghealtheasier.org/newabnormal" target="_blank">only charge you 20 percent more</a>. How could you resist a deal like that? You can’t. Trust us, we know.</p>
+<p>So you see, dear consumer, everything is fine. We’ve got a good thing going here. There’s no need for you to start worrying about the industrial food system. If you do start thinking about your weight, check out our line of Healthy Choice frozen meals. If that doesn’t work, our friends over in the pharmaceutical industry, the health and fitness industry and the healthcare industry will be happy to help you to continue to fulfill your role as an American Consumer.</p>
+<p><strong>Images:</strong> by the author</p>
+<p>&nbsp;</p>
+			</div>
+	
+		</div>
+	
+					<div id="aboutAuthorDiv">
+				<span id="authorImage"><img src="/wp-content/uploads/userphoto/592.thumbnail.jpg" alt="Patrick Mustain" width="60" height="60" class="photo" /></span>
+				<strong>About the Author:</strong> Patrick Mustain is a Communications Manager at the Yale Rudd Center for Food Policy and Obesity. He is interested in how environmental factors (built, social, media, economic, etc.) affect health behaviors and outcomes, especially those places where media and public health intersect. You can find more of his work at his website, <a href="http://patrickmustain.com" target="_blank" title="">patrickmustain.com</a>. Follow on Twitter <a href="http://twitter.com/patrickmustain">@patrickmustain</a>.				<p class="moreLink mobileHide">
+					<a href="http://blogs.scientificamerican.com/guest-blog/about.php?author=592">
+						<strong style="color:#19437C">More&nbsp;<span class="linkArrow">&raquo;</strong>
+					</a>
+				</p> 
+				<br>
+				<p style="overflow:hidden; display:block; clear:both; padding-top:15px;"><i>The views expressed are those of the author and are not necessarily those of</i> Scientific American.</p>
+			</div>
+		
+
+					<p id="postInfo">
+							</p>
+				
+		<div id="articleBottom2">
+			<div style="display:block; position:relative;">
+			<br><br>
+			<table id="postNextPrevious">
+				<tr>
+				<td style="width:208px;  text-align:right; padding-right:10px; vertical-align:middle;">Previous: <a href="http://blogs.scientificamerican.com/guest-blog/2013/05/17/is-it-quantum-computing-or-not/">Is It Quantum Computing or Not?</a></td>
+				<td style="width:189px;  text-align:center; overflow:hidden; padding-left:5px; padding-right:5px; vertical-align:middle; background: url('/wp-includes/images/morePosts.png'); background-repeat:no-repeat; background-position:center; font-size:13px;">More<br><span style="padding-left:15px; width:165px; display:block;">Guest Blog</span></td>
+				<td style="width:208px;  text-align:left; padding-left:10px; vertical-align:middle;">Next: <a href="http://blogs.scientificamerican.com/guest-blog/2013/05/20/sharing-science-research-in-the-age-of-social-media/">Sharing Science Research in the Age of Social Media</a></td>
+				</tr>
+			</table>
+			</div>
+		</div>
+
+		<hr class="invisible"><br><br>
+		<hr class="invisible"><br><br>
+        
+    	           
+		<div class="shareNarrow">
+	<div id="viralLinks">
+		<div class="viralBadge" style="margin-right: 25px;">
+			<div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#appId=117455088338175&amp;xfbml=1"></script><fb:like href="http://blogs.scientificamerican.com/guest-blog/2013/05/19/dear-american-consumers-please-dont-start-eating-healthfully-sincerely-the-food-industry/?WT.mc_id=SA_sharetool_Facebook" send="false" layout="button_count" width="80" height="21" show_faces="false" font=""></fb:like>
+		</div>
+		
+		<div class="viralBadge" style="margin-right: 0;">
+			<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="sciam" data-related="sciam/sciam-contributors-2:sciammind" data-url="http://blogs.scientificamerican.com/guest-blog/2013/05/19/dear-american-consumers-please-dont-start-eating-healthfully-sincerely-the-food-industry/?WT.mc_id=SA_sharetool_Twitter">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script> 
+		</div>
+		
+		<div class="viralBadge" style="margin-right: 0;">
+		    <script type="text/javascript" src="https://apis.google.com/js/plusone.js">
+		      {"parsetags": "explicit"}
+		    </script>
+		    <div id="content">
+		      <g:plusone size="medium"  href="http://blogs.scientificamerican.com/guest-blog/2013/05/19/dear-american-consumers-please-dont-start-eating-healthfully-sincerely-the-food-industry/"></g:plusone>
+		    </div>
+		    <script type="text/javascript">
+		      gapi.plusone.go("content");
+		    </script>
+		</div>
+		
+		<div class="viralBadge" style="margin-right: 5px;">
+			<script type="text/javascript" src="http://platform.linkedin.com/in.js"></script><script type="in/share" data-url="http://blogs.scientificamerican.com/guest-blog/2013/05/19/dear-american-consumers-please-dont-start-eating-healthfully-sincerely-the-food-industry/" data-counter="right"></script>
+		</div>
+		
+		<div class="viralBadge" style="margin-left: 10px;">
+			<script type="text/javascript" language="JavaScript">stumble_url = 'http://blogs.scientificamerican.com/guest-blog/2013/05/19/dear-american-consumers-please-dont-start-eating-healthfully-sincerely-the-food-industry/?WT.mc_id=SA_sharetool_StumbleUpon';</script>
+			<script src="http://www.stumbleupon.com/hostedbadge.php?s=1"></script>
+		</div>
+				
+		<div class="viralBadge" style="margin-left: 10px;">
+			<script type="text/javascript">reddit_url='http://blogs.scientificamerican.com/guest-blog/2013/05/19/dear-american-consumers-please-dont-start-eating-healthfully-sincerely-the-food-industry/'</script><!--- &WT.mc_id=SA_sharetool_Reddit --->
+			<a href="http://www.reddit.com/submit" onclick="window.location = 'http://www.reddit.com/submit?url=' + encodeURIComponent(window.location); return false"> <img src="http://www.reddit.com/static/spreddit7.gif" alt="submit to reddit" border="0" /> </a>
+		</div>
+
+	</div>
+
+</div>		
+		<div>
+			<A name="respond"></A>
+			<br>
+
+<div id="comments2">
+		
+	<div><h3 id="commentsTitle"><img class="iconComment" src="/wp-content/themes/sciam/images/icon_comment_small.gif" alt="Comments" /> 66 Comments</h3>
+	<a href="#add-comment" id="addCommentLink">Add Comment</a></div>
+
+	 		<div class="commentsNav"></div> 
+	
+		<ol id="commentlist2">
+																				<li id="comment-8547" class="comment comment-01 odd">
+				<dl>
+					<dt>
+						<a href="#comment-8547" title="">1</a>. vince52												<span class="datestamp">2:42 pm 05/19/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>Our opinions on many public policy issues are often informed by our understanding of the conclusions of scientific studies.<br />
+Does that make our opinions on such public policy issues &#8220;scientific&#8221;?  I think not. I think we select the scientific findings that fit our sense of the way the world works and string together the facts that reinforce our biases?<br />
+I find that many of my views make sense to me because of the accidents of how I was &#8220;imprinted&#8221;, as if I were one of Tinburgen&#8217;s ducklings.</p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-8547">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-8551" class="comment comment-01 even">
+				<dl>
+					<dt>
+						<a href="#comment-8551" title="">2</a>. singing flea												<span class="datestamp">3:51 pm 05/19/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>I see no problem with the way that the food industry exploits the masses by profiting on obesity and poor nutrition. Imagine how much worse things will get if everyone lived twice as long and collected social security for most of their lives.</p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-8551">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-8555" class="comment comment-01 odd">
+				<dl>
+					<dt>
+						<a href="#comment-8555" title="">3</a>. tomgarven												<span class="datestamp">4:38 pm 05/19/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>Many years ago I watch the History Channel program entitled the &#8220;Human Footprint&#8221;.  I recently revisited this program and find it to be more applicable today than it was years ago.  Here is a link to the program.<br />
+  <a href="http://channel.nationalgeographic.com/channel/videos/human-footprint/" rel="nofollow">http://channel.nationalgeographic.com/channel/videos/human-footprint/</a></p>
+<p>After viewing the program it made we think; just how much longer can 7 billion people continue to use the planets resources at the current rate?</p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-8555">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-8557" class="comment comment-01 even">
+				<dl>
+					<dt>
+						<a href="#comment-8557" title="">4</a>. Percival												<span class="datestamp">4:45 pm 05/19/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>On one hand we have the example of the British East India Company (working hand-in-glove with British industrialists) allegedly promoting tea consumption in order to get Englishmen addicted to sugar so as to get more work out of them, on the other hand we have the constant contradictory refrain of &#8220;meat is bad/good for you, eggs are bad/good for you&#8221; and so on.</p>
+<p>It would be nice if we could all cook our meals from fresh locally grown ingredients, but then the ecologistas would try to tell us what plants we &#8220;should be allowed to&#8221; grow in a given locale lest we support &#8220;invasive species&#8221;. Well, sometimes I like redneck comfort food, sometimes Sonoran cuisine, Vietnamese, and so on. Sometimes you just have to open the (salted, sulfited, preserved, genericized) box and hope for the best.</p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-8557">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-8559" class="comment comment-01 odd">
+				<dl>
+					<dt>
+						<a href="#comment-8559" title="">5</a>. John A.												<span class="datestamp">4:59 pm 05/19/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>The industrial food system is what allows us to feed seven billion people. It is what makes food cheap and accessible for even the poorest of people. It is one of the main drivers of our modern prosperity, allowing us to have money to spend on everything else. The downside of this is that food has become so cheap to produce that (some) people eat too much of it. However for every person who doesn&#8217;t know how to take care of their bodies there is four of us who do, and we don&#8217;t want to go back to the pre-industrial, labor intensive, government controlled, or whatever other alternative there is to the &#8220;industrial food system.&#8221;</p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-8559">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-8565" class="comment comment-01 even">
+				<dl>
+					<dt>
+						<a href="#comment-8565" title="">6</a>. Tanmay												<span class="datestamp">5:53 pm 05/19/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>No, in India, the industrial food system has been absent till now. We even had very very inefficient substinence farmers feeding the entire country of 1.2 Bn so far.</p>
+<p>So, if we could improve on the poor substinence farmers and bring techniques upto western standards, I think India can comfortably feed itself far into the future.</p>
+<p>Do you know why ? Because 85% of indians are vegitarian. That is changing now with people becoming richer. But meat consumption per capita is probably 1/20th that in the US.</p>
+<p>So, even with really bad farming we didn&#8217;t need industrial scale agriculture.</p>
+<p>There is a lesson here. Cut back on meat, your health issues will drop, you will save more money, and you won&#8217;t need to bother with industrial agriculture.</p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-8565">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-8567" class="comment comment-01 odd">
+				<dl>
+					<dt>
+						<a href="#comment-8567" title="">7</a>. extramsg												<span class="datestamp">6:10 pm 05/19/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>Yes, yes, the pleasure centers of our brain, as with cocaine, love fat and sugar. Anyone whose mind is blown by this fact must have a very small mind.</p>
+<p>Know what also triggers these pleasure centers? Love, exercise, and sex.  Ban them!</p>
+<p>What&#8217;s goofy is that while mocking General Mills&#8217;s letter, you ignore its valid concerns.  I knew reading your piece (of&#8230;) that you must be mis-characterizing the letter. So I read it.  And they go on to point out that obesity rates have been going up despite these ads disappearing.  And I know, eg, that soda drinking rates have been going down as well. Your prejudices against business get in the way of actually recommending anything effective.  Instead you just limit people&#8217;s freedom of choice and the ability of businesses to compete with each other.</p>
+<p>Shame on Scientific American for publishing this very unscientific unamerican propaganda.</p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-8567">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-8569" class="comment comment-01 even">
+				<dl>
+					<dt>
+						<a href="#comment-8569" title="">8</a>. ndoris												<span class="datestamp">6:27 pm 05/19/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>Dear author,<br />
+you are doing it wrong:</p>
+<p>&#8220;I read Scientific American for the well written and unbiased articles about advancements in science.&#8221;</p>
+<p>That is what an insincere yet poignant message should look like. I don&#8217;t particularly appreciate the blatant push of your political agenda, but I really don&#8217;t appreciate this mockery of an article that is reminiscent of something I may have read in my high school paper. I guess you just don&#8217;t think your audience is intelligent/mature enough to be able to interpret the severity of this issue when only provided with an objective article that is unladen with sarcasm.</p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-8569">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-8571" class="comment comment-01 odd">
+				<dl>
+					<dt>
+						<a href="#comment-8571" title="">9</a>. frankblank												<span class="datestamp">6:51 pm 05/19/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>This article (a blog, deep thinkers) sure brought out the apologists for stupidity. The article, guys, is satire.  Although not particularly witty, it already satirizes your responses.</p>
+<p>Here&#8217;s the straight skinny: eat whatever you want. I did. If you get old (I did) take your blood pressure pills and start eating sensibly.</p>
+<p>Specifically for the dimwit who thinks the artcke is an anti-business screed: please eat lead-based paint chips regularly.  They make you stronger. And the industry has known they make you stronger since the 1920s.</p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-8571">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-8573" class="comment comment-01 even">
+				<dl>
+					<dt>
+						<a href="#comment-8573" title="">10</a>. singing flea												<span class="datestamp">7:26 pm 05/19/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>frankblank, I like your advice. Any Limbaugh educated conservative knows that the lead paint argument was an attempt by communist environmentalists to destroy the honest industrialists in the chemical industry who have proven time and again how they made life better for us all with products like DDT, napalm and lead in our paint and gasoline. Now these horrible people are going after our Twinkies and Cokes! God knows conservatives work hard without complaint to pay the highest medical costs in the world. Do you see any of them complaining about the taxes these corporations pay to support their darling weapons industry? Besides, why worry about eroding health if we can afford the doctors in the first place? We can all agree that if we just let the poor die from cheap nutrition less cheap food then we can spend more on wars to kill off the rest of societies deadbeats.</p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-8573">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-8575" class="comment comment-01 odd">
+				<dl>
+					<dt>
+						<a href="#comment-8575" title="">11</a>. extramsg												<span class="datestamp">7:47 pm 05/19/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>Yes, lead paint chips are exactly the same as Cheerios.  I dub thee Fallacio.  </p>
+<p>The author makes no attempt to engage General Mills&#8217;s arguments or counter its facts.  Instead, it misrepresents them under the guise of satire.  But the use of satire is only there to mask the weakness of the case being made and house the fallacious reasoning.</p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-8575">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-8577" class="comment comment-01 even">
+				<dl>
+					<dt>
+						<a href="#comment-8577" title="">12</a>. Csensis												<span class="datestamp">7:49 pm 05/19/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>We are living in Aldous Huxley&#8217;s dystopia.</p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-8577">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-8579" class="comment comment-01 odd">
+				<dl>
+					<dt>
+						<a href="#comment-8579" title="">13</a>. pmustain												<span class="datestamp">7:53 pm 05/19/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>John A: Sure, the industrial food system has virtually eliminated starvation as a major public health issue in the developed world (though in some cases, when we send our industrially produced food aid to 3rd world countries it can have devastating effects on the local food economy, but that’s another story. We also still have hunger in America as well).  We enjoy easy access to a greater variety and volume of food than has ever before been seen in human history. That’s awesome. I try to remember that every time I walk into a grocery store. </p>
+<p>This satire was not demanding a return to a pre-industrial food system, and especially not advocating government control (love thos Soviet bread lines, right?). I merely try to point out in a hopefully interesting way, that things have gone a bit too far. </p>
+<p>The fact is, we have a problem with obesity. The overwhelming evidence points to the industrialized food system as one of the primary drivers of obesity and its costly related health effects (google: Lancet Obesity Series). The obesity problem is not a result of two-thirds (not one-fifth as your comment indicated) of the population becoming less personally responsible over the last several decades. People are acting like people have always acted: We like to eat, we like a good deal, and we don’t really like to move all that much unless there’s a really good reason to. </p>
+<p>What’s changed is our environment. I think it’s reasonable to ask the food industry to take a bit more responsibility for how it has changed the food environment for most Americans. The food industry is well aware of how its practices are affecting health and yet it continues to push mostly food that is incredibly unhealthy, even though it has the capability of producing healthier food on a large scale. The bottom line is that the healthiest foods are not as profitable as the foods that are engineered to push our pleasure buttons. For more I point you to Michael Moss’s article in the New York Times: The Extraordinary Science of Addictive Junk Food. </p>
+<p>Thanks for weighing in.</p>
+<p>With respect, </p>
+<p>Mustain</p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-8579">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-8581" class="comment comment-01 even">
+				<dl>
+					<dt>
+						<a href="#comment-8581" title="">14</a>. Doctor B												<span class="datestamp">8:00 pm 05/19/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>It is a myth that industrial ag is what makes it possible to feed the billions, and that without it we would all starve.  Truth: industrial ag is NOT the most efficient way to grow food, is only the most efficient way to grow dollars.  You can grow far more food per acre using intensive growing practices than you can using mono-cultures and chemical inputs, it merely requires more people to do the farming.  Which means more employment.  Which is not a bad thing at all.</p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-8581">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-8583" class="comment comment-01 odd">
+				<dl>
+					<dt>
+						<a href="#comment-8583" title="">15</a>. pmustain												<span class="datestamp">8:27 pm 05/19/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>Extramsg,</p>
+<p>How exactly did I misrepresent General Mills’ arguments? If anything, General Mills takes an even more dire stance in their comment and my interpretation is tame (and more light-hearted) by comparison. However, since you bring it up, the link below will take you to a paper that explores not only General Mills arguments, but also arguments from four other fortune 500 food companies that reject the proposed guidelines for self-regulation of marketing aimed at children. </p>
+<p><a href="http://pmustain.webfactional.com/wp-content/uploads/2012/11/Mustain-Feb-2012-Food-Industry-Response-to-Proposed-Guidelines-for-Self-Regulation-of-Food-Marketing-Aimed-at-Children.pdf" rel="nofollow">http://pmustain.webfactional.com/wp-content/uploads/2012/11/Mustain-Feb-2012-Food-Industry-Response-to-Proposed-Guidelines-for-Self-Regulation-of-Food-Marketing-Aimed-at-Children.pdf</a></p>
+<p>Most of the economic figures cited by General Mills in their comment came from a study that was performed by the Georgetown Economic Services, an economic consulting firm that provides support to organizations facing challenges in the areas of international trade, antitrust, environmental regulation, and commercial litigation. The research cited by General Mills was sponsored by the Grocery Manufacturers Association and the Association of National Advertisers.</p>
+<p>With respect,</p>
+<p>Mustain</p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-8583">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-8585" class="comment comment-01 even">
+				<dl>
+					<dt>
+						<a href="#comment-8585" title="">16</a>. jerryhamilt@yahoo.com												<span class="datestamp">8:32 pm 05/19/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>I&#8217;m sorry but I don&#8217;t let my child do my shopping for me, we go out to eat once every 2 weeks or so and when they beg for McDonalds just because they saw one, I say no.<br />
+My children don&#8217;t dictate to me what they will eat or be served, when America grows up it will be too late for many.</p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-8585">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-8587" class="comment comment-01 odd">
+				<dl>
+					<dt>
+						<a href="#comment-8587" title="">17</a>. pmustain												<span class="datestamp">8:36 pm 05/19/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>frankblank, I appreciate the sentiment, but let&#8217;s keep it classy, yea? And c&#8217;mon, it was kinda witty&#8230;</p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-8587">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-8589" class="comment comment-01 even">
+				<dl>
+					<dt>
+						<a href="#comment-8589" title="">18</a>. Vincentrj												<span class="datestamp">9:43 pm 05/19/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>What an interesting piece of satire. Unfortunately there are some serious issues here which are very difficult to address.<br />
+Obesity is not simply due to food being relatively cheap. It&#8217;s due to the excessive sugar additives in processed food, mainly fructose, which interfere with the brain processes that inform the body it is full or satiated. When this sensation of fullness is damaged or removed, and the food is tasty, and a person is perhaps sexually frustrated or lonely, then the pleasure of eating just for the taste gratification can become addictive.<br />
+Combine this eating behaviour with a lack of exercise, then we have predictable trouble and health problems which could have been avoided with better education. It&#8217;s very sad really. Not only do we have a significant wastage of food as a result of, say, one quarter of the world population overeating, but we have the consequent massive increase in medical expenses due to the effects of the obesity, whilst another quarter of the world population suffers from a lack of food and a lack of medical services.<br />
+If only there was a way of transferring that overeating and overuse of medical services to the starving and undernourished portion of the world population. We&#8217;d all be better off.</p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-8589">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-8591" class="comment comment-01 odd">
+				<dl>
+					<dt>
+						<a href="#comment-8591" title="">19</a>. Scienceisnotagenda												<span class="datestamp">12:28 am 05/20/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>We all know what foods are best to eat&#8230;.but most choose  to eat processed foods. Each to their own.</p>
+<p>I&#8217;ve never heard anyone say a bag of chips is healthier than an orange. Individuals are not stupid. &#8216;Blaming&#8217; the food industry is just another cop out.</p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-8591">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-8593" class="comment comment-01 even">
+				<dl>
+					<dt>
+						<a href="#comment-8593" title="">20</a>. justin ou												<span class="datestamp">1:55 am 05/20/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>Nowadays people have become more aware of what they eat. The statement is correct, however, people have become less aware  of the content of the food they consume.<br />
+The benefits of industrialized food production are clear, companies make food cheaper, diversified, tasty and meet every demand. But they come at a price as well. The ingredients, manufacturing processes and packaging have getting complicated and should have been regulated.<br />
+But in most cases it&#8217;s difficult for bureaucracy to pace with the development of food industry. Thus can lead to serious and dangerous problems.<br />
+Overall, government should impose stricter laws on food industry to ensure the safety of the food. If more people maintain a healthier diet and have access to natural and nutrient food we should save a lot of money on health care costs. In addition, with a healthier population, we can enjoy a higher productivity and efficiency at work and school, and save tens of thousands of people die from cardiovascular diseases every day.</p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-8593">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-8595" class="comment comment-01 odd">
+				<dl>
+					<dt>
+						<a href="#comment-8595" title="">21</a>. AvangionQ												<span class="datestamp">8:19 am 05/20/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>&#8220;This report was potentially devastating. These organizations, experts in nutrition, were officially outlining what constituted &#8220;a meaningful contribution to a healthful diet.&#8221; Thankfully, we have a ton of money and were able to use it to get the IWG to withdraw the guidelines.&#8221; &#8230; was there any evidence of bribery of public officials?</p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-8595">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-8597" class="comment comment-01 even">
+				<dl>
+					<dt>
+						<a href="#comment-8597" title="">22</a>. #2change2morrow												<span class="datestamp">8:46 am 05/20/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>To feed the world, or for that matter, to feed a country, it is a daunting task. The unfortunate thing is, we, as a people, have become self-induldging, undisciplined people, as a mass. (no, not all, but many) What do we stand for? Do we know? The Food Industry has been tasked with keeping up with our awful eating habits and has learned to cut costs in order to do it quickly and easily. </p>
+<p>With that said, maybe we, as a people have been brought down this path because what has been put in front of us was addictive, cancer causing additives, preservatives, GMO&#8217;s, etc. I don&#8217;t know which came first, but what I do know&#8230;is that we, as a people, need to put discipline back into our health care (as in our own personal health care&#8230;not the system&#8217;s health care) and we also need to stand up for what we believe in.</p>
+<p>Kudo&#8217;s to those who have entered this industry, as entrepreneurs, to create food that they believe in. I am thankful to them. I have food allergies and it is their food products that I buy. Thank you to all those who are taking a STAND and are taking ACTION! </p>
+<p>We, as a people, need to take responsibility for our actions, as marketers, as industry leaders and as consumers. DON&#8217;T buy it. Then they will be forced to kill something that doesn&#8217;t make a profit.</p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-8597">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-8599" class="comment comment-01 odd">
+				<dl>
+					<dt>
+						<a href="#comment-8599" title="">23</a>. killingmesoftly												<span class="datestamp">8:51 am 05/20/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>Monsanto and General Mills are here to stay. Let uneducated people and people with no self control eat thier crap and die early. what did Dad say? the world needs ditch diggers too&#8230; you my friend, should avoid processed foods eat healthy and buy these companies stocks. doesn&#8217;t sound like they are going to fold anytime soon. WINNING!</p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-8599">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-8601" class="comment comment-01 even">
+				<dl>
+					<dt>
+						<a href="#comment-8601" title="">24</a>. Jerzy v. 3.0.												<span class="datestamp">9:12 am 05/20/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>Dear Fallacious American,</p>
+<p>What I fear is not Big Business promoting unhealthy food, because everybody is aware that promoting healthy food is also Big Business. </p>
+<p>I am afraid of Robber State and Robber Organizations, usurping my freedom, supposedly for my own good and Poor Children. And they don&#8217;t do it for free. </p>
+<p>I can decide myself what my children can eat, thank you.</p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-8601">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-8603" class="comment comment-01 odd">
+				<dl>
+					<dt>
+						<a href="#comment-8603" title="">25</a>. Stagnaro												<span class="datestamp">9:32 am 05/20/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>&#8220;Congress commissioned the Inter-agency Working Group (IWG) to develop standards for advertising foods to children. The IWG included the Federal Trade Commission (FTC), the Centers for Disease Control and Prevention (CDC), the Food and Drug Administration (FDA) and the United States Department of Agriculture (USDA)&#8221;. With all this, what happened? So far no improvement. I mean that none of these authorities in the field of nutrition know the quantum-biophysical-semeiotic constitutions-dependent, inherited real risk, bedside recognized with a sethoscope, and removed by quantum therapy. In my opinion, this is the fundamental bias in every researches around the world, aiming to prevent common and dangerous disorders, like CVD, T2DM, and Cancer, today&#8217;s growing epidemics. As a matter of facts, neither mice nor humen are created equal: Stagnaro Sergio.  Not all mice are created equal! BioMedCentral Physiology, 3 December, 2009. <a href="http://www.biomedcentral.com/1472-6793/9/21/comments#384660" rel="nofollow">http://www.biomedcentral.com/1472-6793/9/21/comments#384660</a></p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-8603">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-8607" class="comment comment-01 even">
+				<dl>
+					<dt>
+						<a href="#comment-8607" title="">26</a>. GuyNoire												<span class="datestamp">10:05 am 05/20/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>The Magazine&#8217;s name is Scientific American, yet this piece is no more than ideological exposition.</p>
+<p>This is where our modern scientific community is moving these days, unfortunately, a la climatology.  When scientists become advocates, they cease to be scientists.</p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-8607">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-8609" class="comment comment-01 odd">
+				<dl>
+					<dt>
+						<a href="#comment-8609" title="">27</a>. rodrigobernardo												<span class="datestamp">10:27 am 05/20/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>This article is just so logical and clear. Reading the comments I see how people want to even justify their lousy eating habits  under freedom of choice. They are so immersed in the supermarket furore that they cannot see that there is only induction, not choice, to their thinking.</p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-8609">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-8611" class="comment comment-01 even">
+				<dl>
+					<dt>
+						<a href="#comment-8611" title="">28</a>. Scienceisnotagenda												<span class="datestamp">10:40 am 05/20/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>Guy Noire&#8230;..agreed.</p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-8611">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-8613" class="comment comment-01 odd">
+				<dl>
+					<dt>
+						<a href="#comment-8613" title="">29</a>. bentheguy												<span class="datestamp">12:02 pm 05/20/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>There&#8217;s a serious flaw in your logic. You&#8217;re assuming the IWG&#8217;s suggestions are good ones. They seem remarkably similar to the old four balanced food groups model. Wanna know what happened when the government began pushing the four food groups and old food pyramid paradigm? We got an obesity epidemic!</p>
+<p>I&#8217;m not saying General Mills is correct, either. They have even less incentive to give good food advice.</p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-8613">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-8615" class="comment comment-01 even">
+				<dl>
+					<dt>
+						<a href="#comment-8615" title="">30</a>. Scottilla												<span class="datestamp">12:24 pm 05/20/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>Over and over, we read how the food industry is just giving us what we want.  Whether is be 11 ounce pounds, 14 ounce pints, 28 ounce quarts, 56 ounce half gallons, it&#8217;s always because it&#8217;s what we asked for.<br />
+I have yet to find a packaged food that is what it purports to be.  Everything in the supermarket has added ingredients, tea with vitamin C added, Bread with flaxseed added, now Ice cream with cream removed.  I was in the supermarket yesterday looking for jelly, specifically Polaner All Fruit, because it&#8217;s mostly fruit, and lo and behold, All Fruit is now All Fruit plus maltodextrin.  Why?  I guess because that&#8217;s what we asked for.  Can&#8217;t get enough of that maltodextrin!</p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-8615">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-8617" class="comment comment-01 odd">
+				<dl>
+					<dt>
+						<a href="#comment-8617" title="">31</a>. rogern1967												<span class="datestamp">12:28 pm 05/20/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>Nothing &#8220;Scientific&#8221; about this story.  It is simply a leftist rumination about how Big Food is conspiring to kill granny and the kids.  I especially love the expressed frustrations about how much Kellog CEO earned.  This stuff is so tired, so predictable, so nauseating.</p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-8617">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-8619" class="comment comment-01 even">
+				<dl>
+					<dt>
+						<a href="#comment-8619" title="">32</a>. Maureenataba												<span class="datestamp">1:07 pm 05/20/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>If we want to get serious about healthy eating and obesity prevention, we need to focus on education, not government regulation.  Bans, taxes, and other restrictions do nothing to teach people about healthy lifestyle habits.  People are—and always will be—able to decide for themselves what they eat and drink.</p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-8619">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-8621" class="comment comment-01 odd">
+				<dl>
+					<dt>
+						<a href="#comment-8621" title="">33</a>. kefcorp												<span class="datestamp">1:22 pm 05/20/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>Companies tend to change their tack when they realize their current approach isn&#8217;t profitable.  I buy local and cook most of my meals from scratch, but I fully support another person&#8217;s right to do the opposite if they so choose, as well as these big corporations&#8217; right to sell whatever they want.  I&#8217;m not rich, and I&#8217;m not particularly educated, but that hasn&#8217;t kept me from prioritizing my own health.  I think others are capable of the same &#8211; at least I&#8217;d like to think that.</p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-8621">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-8623" class="comment comment-01 even">
+				<dl>
+					<dt>
+						<a href="#comment-8623" title="">34</a>. Steve D												<span class="datestamp">1:22 pm 05/20/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>With all the research that&#8217;s been done on why people crave certain foods, you&#8217;d think advocates of healthy eating could come up with foods that taste as good as or batter than the processed, manufactured stuff. The food industry knows exactly what works and it&#8217;s openly available. Yet instead of applying that information, healthy food advocates keep pushing stuff that tastes like lawn clippings.</p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-8623">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-8625" class="comment comment-01 odd">
+				<dl>
+					<dt>
+						<a href="#comment-8625" title="">35</a>. wilder125												<span class="datestamp">1:31 pm 05/20/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>*shrug* When I was a kid in the 70s and 80s, vegetables were my choice over candy.  Cake was something I reserved for my birthday or a wedding.  Candy was halloween.  Forget Kool-aid.  It sucked.  I was eating healthy before the health trend got big.  </p>
+<p>Why do I care if you want me to be a fatty</p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-8625">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-8627" class="comment comment-01 even">
+				<dl>
+					<dt>
+						<a href="#comment-8627" title="">36</a>. Breeves002												<span class="datestamp">1:43 pm 05/20/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>There is nothing worse than the smug technocrat who KNOWS The Answer and is eager to use the guns and shackles of the state to shove said answer down everyone else&#8217;s throats for fun and profit.  </p>
+<p>Of course in a few years The Answer will have changed and with no trace of irony the smug technocrat will demand that he be allowed to shove THAT reform to end all reforms down people&#8217;s throats.  It&#8217;s science, you see, and science is always right.  Until it&#8217;s not, that is.</p>
+<p>The average citizen is far wiser on what to do with their own lives than the smug technocrat could ever be, if only because they retain humility.</p>
+<p>So mister Technocrat: if you feel the irresistible urge to dominate and push others around, please stick to your own family.  And leave the rest of us the hell alone.</p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-8627">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-8629" class="comment comment-01 odd">
+				<dl>
+					<dt>
+						<a href="#comment-8629" title="">37</a>. Steve D												<span class="datestamp">1:46 pm 05/20/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>By the way, the food industry adds two completely unregulated ingredients to everything. Hydrogen hydroxide is one. Hydroxide is what makes lye caustic. Then there&#8217;s dihydrogen monoxide. Monoxide is what kills people with faulty furnaces.</p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-8629">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-8631" class="comment comment-01 even">
+				<dl>
+					<dt>
+						<a href="#comment-8631" title="">38</a>. Steve D												<span class="datestamp">1:48 pm 05/20/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>wilder125 illustrates the problem perfectly. HE likes veggies more than candy, and once everyone adopts HIS tastes then everything will be just fine.</p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-8631">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-8633" class="comment comment-01 odd">
+				<dl>
+					<dt>
+						<a href="#comment-8633" title="">39</a>. daylily2005												<span class="datestamp">2:39 pm 05/20/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>In a perfect world, people could eat what they wanted and get fat and incur health problems and die, and that&#8217;s just a part of life. That&#8217;s what several comments say. Personally, I agree. You are responsible for your actions. That&#8217;s what we&#8217;re all taught as children, right? </p>
+<p>Wait. Maybe not. Everyone wasn&#8217;t raised the way you and I were. Everyone in the U.S., or let&#8217;s say the world, does not naturally take responsibility. What does that leave us? A number of people who eat horrible foods, develop chronic health problems, and want someone to pay for medicine and healthcare. I&#8217;m not saying pay for all of it, but at least help out. </p>
+<p>That&#8217;s the world we live in. It&#8217;s not idealistic, it&#8217;s not over exaggerated. It is. </p>
+<p>Given that it is, shouldn&#8217;t we mitigate the damage that can be caused as much as we can? If you make the conscious decision to eat foods that are potentially hurting your body, that is your choice. If you were never educated beyond the government&#8217;s food pyramid, you don&#8217;t completely understand nutrition, and you go by the labels, advertisements, and Dr. Oz to make &#8220;educated&#8221; food choices&#8230;well, I&#8217;d like to think that anything I can do to help those people be a little bit healthier is worth it.</p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-8633">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-8635" class="comment comment-01 even">
+				<dl>
+					<dt>
+						<a href="#comment-8635" title="">40</a>. larkalt												<span class="datestamp">2:46 pm 05/20/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>The foodpolitics.com blog by Marion Nestle has a lot of information on how the food industry affects health.<br />
+The economic pressures on food co.&#8217;s result in cheap food that is intended to push our buttons, with a lot of sugar, salt and fat.  Fruits and vegetables are more expensive.<br />
+You can&#8217;t expect the food co.&#8217;s to &#8220;take responsibility&#8221;.  We can perhaps legislate to improve the quality of food, for example the FDA may set a ceiling on the salt content in processed food, which gradually decreases over time.<br />
+The mentality of &#8220;personal responsibility&#8221; gets in the way of taking legislative action.  Yes, individuals can control their own food intake &#8211; but on a large scale, people are seduced into unhealthy food habits by advertising and cheap junk food.</p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-8635">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-8639" class="comment comment-01 odd">
+				<dl>
+					<dt>
+						<a href="#comment-8639" title="">41</a>. mbpodcast												<span class="datestamp">3:19 pm 05/20/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>The USDA and the FDA and NOT your friends. They are there for the benefit of Big Agro and Food Corp. by providing some cleanliness and product safety guidelines that, if these minimum requirements are met, protect said Big Agro and Food Corp. from lawsuits.</p>
+<p>As for nutrition and sustainability, that&#8217;s subjective isn&#8217;t it. &#8220;One man&#8217;s meat is another man&#8217;s poison&#8221; and all that.</p>
+<p>If its not covered in actuarial tables, the companies are blind to it.</p>
+<p>So you end up eating crap and living shorter and more debilitated lives? Tough&#8230;</p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-8639">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-8641" class="comment comment-01 even">
+				<dl>
+					<dt>
+						<a href="#comment-8641" title="">42</a>. Jerzy v. 3.0.												<span class="datestamp">3:23 pm 05/20/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>@dailylily2005<br />
+If you want to legislate how average American spends money on food, why stop at food? All the other life choices should be taken away, logically. </p>
+<p>There is a word for such mindset and such governments. </p>
+<p>Go, emigrate to North Korea, there government micromanages people&#8217;s lives. You will be happy, North Korea has no obesity epidemics.</p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-8641">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-8643" class="comment comment-01 odd">
+				<dl>
+					<dt>
+						<a href="#comment-8643" title="">43</a>. daylily2005												<span class="datestamp">3:36 pm 05/20/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>@Jerzy</p>
+<p>I&#8217;m not advocating legislating how Americans spend money. That was quite the logical leap you made&#8211;and it was the wrong one. I&#8217;m saying that it&#8217;s better to face reality and the effects of Big Food (a la Big Pharma) than to ignore it and act like there is nothing wrong. There is. I&#8217;m just advocating not turning a blind eye.</p>
+<p>I&#8217;m not saying that companies shouldn&#8217;t aim to make profits&#8211;after all, we are in America. That&#8217;s part of the foundation of our economic system. What I&#8217;m saying is that as a society we should be advocating that people have the option to make better choices without consequence (like spending however much more a year on healthier food options).</p>
+<p>Don&#8217;t pretend to know my entire ideological and social stance from one post, and I will return you the same courtesy.</p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-8643">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-8647" class="comment comment-01 even">
+				<dl>
+					<dt>
+						<a href="#comment-8647" title="">44</a>. doctordawg												<span class="datestamp">4:24 pm 05/20/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>@singing flea Funny, but also tragic that MANY people believe that the best way to balance Social Security and Medicare is to kill Americans before they retire. Not many will say it out loud, but that&#8217;s the agenda.</p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-8647">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-8649" class="comment comment-01 odd">
+				<dl>
+					<dt>
+						<a href="#comment-8649" title="">45</a>. doctordawg												<span class="datestamp">4:27 pm 05/20/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>@Jerzy v. 3.0. Since when is forcing food manufacturers to fully disclose everything they know about the food they&#8217;re selling us, including the bad stuff, how is that &#8220;forcing consumers to buy&#8221; anything?  Food hawkers should NOT be allowed to lie blatantly about what we&#8217;re buying and what we&#8217;re eating.</p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-8649">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-8651" class="comment comment-01 even">
+				<dl>
+					<dt>
+						<a href="#comment-8651" title="">46</a>. JohnSmith57												<span class="datestamp">5:04 pm 05/20/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>No one knows what causes the increase in the number of fat people. Scientists studying the problem have not been able to formulate theories that stand up to scrutiny. </p>
+<p>The idea that food companies are the villains is nothing more than scapegoating. There&#8217;s no solid evidence that their advertising is a factor. We buy what we want to eat. The problem is us, not them. </p>
+<p>The federal government has not helped. As Nassim Taleb points out in his book Antifragile, the whole idea of a recommended daily allowance in foods makes no sense. We don&#8217;t need vitamins and minerals daily &#8212; just occasionally. Periodic fasting seems to be of more benefit than trying to limit calories and take vitamins and minerals on a daily basis. </p>
+<p>We see the same sort of overconsumption with medicine as with food. Antidepressants, statins, vitamin supplements, and most other drugs seem from studies to do little if anything for our mental and physical health. But people take them more and more. </p>
+<p>We waste money on food and medicine intended to make us feel better and all it does is make our health worse. How ironic, and how sad.</p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-8651">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-8653" class="comment comment-01 odd">
+				<dl>
+					<dt>
+						<a href="#comment-8653" title="">47</a>. larkalt												<span class="datestamp">6:11 pm 05/20/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>&#8220;No one knows what causes the increase in the number of fat people. Scientists studying the problem have not been able to formulate theories that stand up to scrutiny.&#8221;<br />
+Not true &#8211; there are correlations observed between density of fast food outlets in a neighborhood and obesity, etc. etc.  There is a lot known about the causes.  What is not clear is what to do about it.  The causes are deeply rooted in our society.<br />
+For example, people would be healthier if they used cars less, and walked or biked more.  But, our entire society is molded around car transportation.  People say their afraid to bike places &#8230; because of the cars.  People live a long ways from their jobs, so they can&#8217;t just decide to quit driving to work &#8230; And so on.  It isn&#8217;t an easy problem.  </p>
+<p>&#8220;The idea that food companies are the villains is nothing more than scapegoating. There’s no solid evidence that their advertising is a factor. We buy what we want to eat.&#8221;<br />
+So why then, would food companies spend billions on advertising &#8230; if people aren&#8217;t influenced???<br />
+Of COURSE people are influenced by advertising!  Advertising CREATES wishes.  Advertising influences what people want.  That&#8217;s the whole point of advertising!<br />
+Obesity has been increasing.  Basic human nature hasn&#8217;t changed.  So it&#8217;s the changing environment that is causing the increase in obesity:  the decline in relatively healthy home-cooked meals, people eating fast food, food co.&#8217;s pushing unhealthy food to kids on TV, an environment that isn&#8217;t conducive to exercising, etc. etc.</p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-8653">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-8655" class="comment comment-01 even">
+				<dl>
+					<dt>
+						<a href="#comment-8655" title="">48</a>. Jerzy v. 3.0.												<span class="datestamp">7:05 pm 05/20/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>@daylily2005, larkalt<br />
+Your views are maybe well-meaning, but you propose a cure worse than disease.</p>
+<p>First, fighting obesity is just another big business. NGO organizations, companies producing healthier types of food and government bureaucrats have budgets with millions of bucks, too. And who pays for it? Consumer.</p>
+<p>Worse, these campaigns and bureaucrats quickly grow out of proportion. You wake up in with an monster like EU nanny-state, looking all the time to regulate more trivia for bigger taxes. </p>
+<p>Third, these pro-health campaigns and laws are notoriously inefficient. Govt and people spend really big money, but rarely anybody evaluates the benefit. We witnessed dozens of health plans and campaigns already, did they work? Anybody was put to responsibility for health education which failed so far? </p>
+<p>I lived in nanny state for years, and no, don&#8217;t want more of it.</p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-8655">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-8665" class="comment comment-01 odd">
+				<dl>
+					<dt>
+						<a href="#comment-8665" title="">49</a>. bobmathews												<span class="datestamp">12:32 pm 05/21/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>Patrick &#8211; great article.  I could write a lengthy comment on &#8216;You are what you eat&#8217;, but enough has been said already.  Thank you.</p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-8665">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-8667" class="comment comment-01 even">
+				<dl>
+					<dt>
+						<a href="#comment-8667" title="">50</a>. El3737												<span class="datestamp">1:12 pm 05/21/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>Thank you Patrick Mustain and Scientific American for addressing the elephant in our national living room. Don&#8217;t be surprised if Monsanto and/or Big Food tries to replace your editor with a more suitable lackey from the  biotech or food industries. Mustn&#8217;t have paying consumers thinking about the lack of actual nutrition in the American diet. Trouble is, Monsanto, they already are.</p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-8667">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-8669" class="comment comment-01 odd">
+				<dl>
+					<dt>
+						<a href="#comment-8669" title="">51</a>. Jmitchell												<span class="datestamp">2:05 pm 05/21/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>Wake up America.  The FDA is ran by Michael Taylor ex Monsanto employee.  The FDA was created in 1913 following by the American cancer assc. All natural cures to cancer were illegal only chemo and radiation were allowable treatments.  Big Pharma wants us sick taking their blood pressure and diabetic meds! Stop eating fast food and processed food and grow some  food that is LOL</p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-8669">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-8673" class="comment comment-01 even">
+				<dl>
+					<dt>
+						<a href="#comment-8673" title="">52</a>. msbook												<span class="datestamp">3:23 pm 05/21/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>The comments don&#8217;t seem to reflect what might be the most important factor in food costs and food &#8220;popularity&#8221;, and the article misses it as well. We subsidize very specific crops (corn, wheat, milk etc.) that are those most used in consumer foods. They are, therefore cheaper for companies like General Mills, who make food, and for others who sell food as a commodity. It&#8217;s not all about evil companies or irresponsible citizens, or you versus me. If we could agree to subsidize those things that make us healthy, and stop subsidies on the others, we might make a major step toward matching what we sell with what&#8217;s good for us to eat. Arguing is a sport; let&#8217;s take some meaningful action instead.</p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-8673">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-8677" class="comment comment-01 odd">
+				<dl>
+					<dt>
+						<a href="#comment-8677" title="">53</a>. ktribe1												<span class="datestamp">3:40 pm 05/21/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>Now imagine the impact of all the Americans who are learning of the dangers of GMOs! Unless the food industry wises up, I foresee lots of people doing what I am doing &#8211; buying organic, locally-produced food and increasing the amount of food I grow myself. My goal is that within five years I will be producing the majority of my own food and trips to supermarket will be to only purchase items like detergents and trash bags!</p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-8677">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-8693" class="comment comment-01 even">
+				<dl>
+					<dt>
+						<a href="#comment-8693" title="">54</a>. maco1												<span class="datestamp">11:38 pm 05/21/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>For some reason, you can get coupons and see advertisements for the processed junk these companies sell, but try finding a coupon for bell peppers or turnips. Then take a look at what kind of crops the government insists on subsidizing. The corn lobby comes to mind. </p>
+<p>That&#8217;s the problem the article is talking about. All economic incentives for agriculture and shoppers point to producing and eating processed food instead of fresh produce.</p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-8693">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-8699" class="comment comment-01 odd">
+				<dl>
+					<dt>
+						<a href="#comment-8699" title="">55</a>. rwscid												<span class="datestamp">11:52 am 05/22/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>&gt; We&#8217;ve been able to industrialize the food system so that we can produce massive amounts of the cheapest ingredients available, in the cheapest, most efficient way possible.</p>
+<p>But let&#8217;s not forget (not denying a single point of the article) they are also able to provide healthy food in the cheapest, most efficient way possible. Today.</p>
+<p>One can eat extremely well, eating only healthy foods, for very little money (perhaps $120 per month per person) by shopping at WalMart today.</p>
+<p>The reason why people do not do this mystifies me, but I am reluctant to blame &#8216;the giant food industry&#8217; instead of &#8216;willfully ignorant and/or self hating consumers.&#8217;</p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-8699">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-8701" class="comment comment-01 even">
+				<dl>
+					<dt>
+						<a href="#comment-8701" title="">56</a>. whealthy												<span class="datestamp">12:09 pm 05/22/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>It is all about supply and demand. The best way to increase the supply for healthy foods and beverages is actually by increasing the demand for these items. I know that for people who want to eat healthily, the label information on nutrients and ingredients can be confusing and overwhelming. Fortunately, there are mobile apps, such as FoodSmart <a href="https://itunes.apple.com/us/app/foodsmart/id566513855" rel="nofollow">https://itunes.apple.com/us/app/foodsmart/id566513855</a> or <a href="https://play.google.com/store/apps/details?id=com.sa.foodsmart" rel="nofollow">https://play.google.com/store/apps/details?id=com.sa.foodsmart</a> which can help simplify the process of identifying and shopping for healthy food items. Other suggestions are: 1. don’t shop on an empty stomach &#8211; eating or snacking before I shop helps me avoid buying more than I need and shop unhealthily. 2. Shop with a list, so you can buy what you need as opposed to what you desire. Digital shopping lists in apps such as FoodSmart can help you with this as well.</p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-8701">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-8709" class="comment comment-01 odd">
+				<dl>
+					<dt>
+						<a href="#comment-8709" title="">57</a>. kelsaurus												<span class="datestamp">3:16 pm 05/22/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>interesting that in the photo of the cereal aisle, the sugarier cereals are placed lower &#8211; at kids&#8217; eye level.</p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-8709">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-8723" class="comment comment-01 even">
+				<dl>
+					<dt>
+						<a href="#comment-8723" title="">58</a>. pmustain												<span class="datestamp">7:10 pm 05/22/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>Hi everyone!</p>
+<p>Thanks for the conversation this has generated, both here, on Twitter, on my website, and all over the web. Pretty overwhelming. </p>
+<p>I want to address something that I think is really important, but first let me get a couple other things out of the way.</p>
+<p>First, AvangionQ brought up a legitimate concern, asking if there was any evidence of bribery to public officials. This commenter was referring to this passage:</p>
+<p>“Thankfully, we have a ton of money and were able to use it to get the IWG to withdraw the guidelines.” </p>
+<p>I haven’t heard of any illegal bribes, but most corporations these days have no need for bribes, since they have at their disposal a well-funded army of lobbyists. </p>
+<p>Marion Nestle pointed reported in a 2011 post that there was more than $37 million spent by companies lobbying against federal attempts to set nutritional standards for foods marketed to children. Of that, General Mills contributed $660,000.  </p>
+<p>So I suppose no bribery per se, but call it what you want.  </p>
+<p>Here’s a link to the Nestle post: </p>
+<p><a href="http://www.foodpolitics.com/2011/12/update-on-marketing-to-kids/" rel="nofollow">http://www.foodpolitics.com/2011/12/update-on-marketing-to-kids/</a></p>
+<p>Second, a number of readers object to Scientific American posting this obviously opinionated piece. Keep in mind this work was posted on the Guest Blog, and I refer you to its description on the website: </p>
+<p>“The editors of Scientific American regularly encounter perspectives on science and technology that we believe our readers would find thought-provoking, fascinating, debatable and challenging. The guest blog is a forum for such opinions. The views expressed belong to the author and are not necessarily shared by Scientific American.”</p>
+<p>There you go. </p>
+<p>Third, there’s a lot of the inevitable “Keep-your-nanny-state-away-from-my-food-I-eat-what-I-want-It’s-the-parents-fault-stop-blaming-businesses-for-people-who-make-bad-decisions-stop-trying-to-take-away-freedon-of-choice” comments.</p>
+<p>Opponents of public health efforts often claim that the reasons that the &#8220;nanny state technocrats&#8221;, or &#8220;bureaucrats&#8221; (or other bad names), try to implement policy-level health initiatives is because they LOVE telling us normal Americans what to do, and that they hate freedom, and they think that they know better than everyone else. </p>
+<p>Those claims are absurd, but they are to be expected anytime any government action is discussed on the Internet, especially involving the topic of food. I would like to remind the readers that in this case, the government action was simply recommendations for SELF-regulation. The IWG’s guidelines were not taking away anyone’s freedom. Those who post such comments are not going to have their minds changed by anything that I write here, so I’ll just leave it at this reminder: In spite of government’s very real problems, by it’s very nature, it is not out to get you. It is specifically working (however often poorly) FOR YOU. However, by their very nature, businesses are NOT working for you. They are working expressly for the bottom line. Often this results in great things for the public. But often this also results in terrible things for the public. When that happens, we as a democratic people need to step in and limit those harms. The government is our tool for doing this. It may be unwieldy. It might be slow. But it’s ours. </p>
+<p>Ok, now to the thing I really wanted to get at. </p>
+<p>There were many commenters and tweeters who gave this piece a great reception. I’m blown away by the response and the support and I thank you for it. </p>
+<p>However, as awful as some of the actions of the food industry are, I think it’s important to take a measured, thoughtful, and sometimes even unemotional approach to these issues. </p>
+<p>The more we say the that food industry “sucks,” that they’re “criminals,” that they produce “poison,” then the more we turn off the average Joe who wants to enjoy his cheeseburger and fries in peace without having those health freaks trying to shove broccoli down his throat. And how can you blame him? We’re building fences when we should be opening gates and inviting people into the garden.</p>
+<p>I agree with a lot of what you say, but keep in mind, in the system we&#8217;ve set up, the actions of the food and industry are not necessarily &#8220;criminal.&#8221; That doesn&#8217;t mean those actions aren&#8217;t wrong. We can demand better, but we have to remind ourselves that just as a population responds to overabundance by over-consuming, a business will respond to a consumer desire by meeting it and encouraging it. We have to understand WHY corporations push fatty, sugary foods. Are they intentionally trying to make us unhealthy for the sake of making us unhealthy? No. Are they negligent? Probably. Are they responding naturally to their environment? Absolutely. </p>
+<p>We have to help change that consumer environment that the food industry is responding to, just as they have changed the food environment that consumers are responding to. In order to do that, we need Joe with his burger and fries, and we’re not going to win him over by drawing a line in the sand. I don’t necessarily have an answer about how to win those folks over, but we can start by not alienating them. </p>
+<p>Thanks so much for the conversation, and keep supporting change in the way we talk about and pursue health!</p>
+<p>pmustain</p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-8723">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-8749" class="comment comment-01 odd">
+				<dl>
+					<dt>
+						<a href="#comment-8749" title="">59</a>. sunnystrobe												<span class="datestamp">7:16 am 05/24/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>Wonderful satire! And, yes, it fits into a scientific journal beautifully; after all, what&#8217;s more scientific than promoting the scientifically proven, species-specific nutrition for our own kind?<br />
+Obesity is now clearly revealed as an industrial disease, caused by the &#8216;food&#8217; industry- which profits most unethically from exploiting our dependency on their highly addictive- and highly unhealthy merchandise.<br />
+Food Inc. are just as devious as Big Tobacco has been, if not even more so; because &#8216;super&#8217;markets (super being short for:superfluous) peddle so-called &#8216;food&#8217; -which isn&#8217;t really food any more, but a virtual-reality, depleted delusion thereof.<br />
+We voted with our feet years ago,here in Western Australia, buying fresh produce from farmers&#8217; markets, and eating preservative-free- which meant ousting sugar, salt, and suet;<br />
+and have never felt better in our lives.<br />
+Youthevity.com</p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-8749">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-8767" class="comment comment-01 even">
+				<dl>
+					<dt>
+						<a href="#comment-8767" title="">60</a>. Jerzy v. 3.0.												<span class="datestamp">9:17 am 05/26/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>You can eat healthy meal at KFC, if you take double chicken, leave 2/3 of chips and take green (leafy) salat. At Mc&#8217;Donalds the same. Every supermarket has vegetables and fruit. This is all there. </p>
+<p>It is nonsense that Americans are somehow kept in the dark about healthy food. How many fitness magazines are in average press stall? Dieting and nutrition craze are how old &#8211; 60 years? More? </p>
+<p>What I find spooky is the underlying belief that general population is stupid and needs to be forced to live better lives. If you cannot accept that people take care themselves about their lunch, why not just enslave them? Worst things in history started with enlightened people forcing others for their own good.</p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-8767">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-8771" class="comment comment-01 odd">
+				<dl>
+					<dt>
+						<a href="#comment-8771" title="">61</a>. name99												<span class="datestamp">5:42 pm 05/26/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>There&#8217;s an awful lot of ignorance and foolishness in this piece; but it performs the annual ritual of blaming the food industry and these cultish obeisances are important to many of the chattering classes. </p>
+<p>Where to start?<br />
+(a) The &#8220;thrifty gene&#8221; hypothesis: &#8220;On top of that, we understand human biology. Humans evolved in situations in which food was scarce. This led to an evolutionary adaptation that causes you to crave salty, sugary and fatty foods.&#8221; Uhh, no. The very ORIGINATOR of this hypothesis, James Neel, has, in fact, abandoned the hypothesis, considering it incompatible with most of the data he has accumulated since he first propounded it. </p>
+<p>(b) The origin of our problems is NOT the food industry, it is the McGovern commission and its completely unfounded claims (based on the bogus science of Ansel Keys) which told Americans to eat less fat and more carbohydrates. This led to a pull-demand from the public for low-fat (ie high carbohydrate foods) which gets us to the mess we are in today. </p>
+<p>(c) The food industry doesn&#8217;t give a damn about low vs high carbs or low vs high fat; they can create delicious items either way, and charge people for them. There is not intrinsically higher profit in creating a low-fat version of ice-cream (high on extra sugar) vs a low-carb version (with no sugar, and using splenda for sweetening). It is SOCIETY and the US GOVERNMENT which has directed the choice towards creating primarily the high sugar low fat options and not the low sugar high fat options. </p>
+<p>(d) If you want to eat healthy today, while still enjoying the convenience and taste of packaged foods, there is not some conspiracy out there thwarting you. It&#8217;s quite simple. On packaging look at two numbers: sugars and carbohydrates. Keep sugars below 30g/day and carbohydrates below 130g/day. This means eat a whole lot more fat and a whole lot less grain. Simple as that. </p>
+<p>For an article that claims to be all about the science of healthy eating, what we&#8217;re actually getting is very little science, rather just a huge helping of the pseudoscientific prejudices of our time.</p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-8771">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-8773" class="comment comment-01 even">
+				<dl>
+					<dt>
+						<a href="#comment-8773" title="">62</a>. name99												<span class="datestamp">5:59 pm 05/26/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>&#8220;The fact is, we have a problem with obesity. The overwhelming evidence points to the industrialized food system as one of the primary drivers of obesity and its costly related health effects (google: Lancet Obesity Series). The obesity problem is not a result of two-thirds (not one-fifth as your comment indicated) of the population becoming less personally responsible over the last several decades. People are acting like people have always acted: We like to eat, we like a good deal, and we don’t really like to move all that much unless there’s a really good reason to.&#8221;</p>
+<p>This is what makes your claims so infuriating, this trotting out of incorrect statements as supposedly established science.<br />
+There is a massive body of work (both physiological and epidemiological) showing the problems with carbohydrate rich diets.<br />
+The epidemiological work covers a large range of space and time involving many societies who were and are not eating primarily packaged food.<br />
+The physiological work shows the nature of the different harms incurred by carbohydrate metabolism. (Primarily<br />
+(1) from the transport OUT of the liver of fats manufactured in the liver; this is physiologically different from transport around the body of fats that are ingested<br />
+(2) from poisoning of the liver by the metabolization of excess fructose<br />
+(3) from the way that a spike of insulin leads to subsequent hunger, meaning that a carb-rich diet requires eating substantially more calories than a fat rich diet in order to feel full).</p>
+<p>Gary Taubes and Mary Enig have covered this material in great detail. But you don&#8217;t have to listen to them, you can experiment on your own body. Switch to a high fat low carb diet for just a few days and track how much you need to eat to not feel hungry. Then, before you go to sleep at night, give yourself an insulin spike, by eating a candy bar or two. You will wake up ravenous the next day. And if you try to reduce the hunger by eating more carbs, you&#8217;ll need a whole lot more calories than you did on your low-carb days.</p>
+<p>That&#8217;s what&#8217;s happening with most obese people &#8212; they&#8217;re constantly hungry because of insulin spikes, but, because they have been told not to eat fat (in the US) or cannot afford anything but carbs (in poor countries) what they eat is mainly carbs which just (two hours later) makes them even hungrier.</p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-8773">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-8805" class="comment comment-01 odd">
+				<dl>
+					<dt>
+						<a href="#comment-8805" title="">63</a>. karl												<span class="datestamp">8:28 pm 05/28/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>Buisness is about making profit, so making one change (like the article says, asking for a minimum quota of nutrients instead of starch and salt) that implies a reduction in profits is bad and must be dealt with, so industrial food ltd will never accept such a recomendation.<br />
+An example from another place:<br />
+in Mexico the government passed a law to limit the amount of calories that food in schools had to have, because junk food is usually calorie rich, what did the industry did? make smaller packages and sell them a little cheaper, that way the kid buys three instead of one, pays a little more and everyone is happy.<br />
+Finally lobbyists from every major buisness will defend their commercial intrests (and the people that lives from such industries) because that is what they are paid to do, (CARB vs the automakers, CDC and USFDA vs foodco&#8230;), and change is made more difficult because this guys have dug a deep trench by boasting what was low hanging fruit of their field tasty is easier to market than healthy, if you offer boiled broccoli and the other guy offers potato chips, who has the market?</p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-8805">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-8983" class="comment comment-01 even">
+				<dl>
+					<dt>
+						<a href="#comment-8983" title="">64</a>. Quinn the Eskimo												<span class="datestamp">5:04 pm 06/2/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>Yes indeed! Mmmmmm! Doritos.</p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-8983">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-9715" class="comment comment-01 odd">
+				<dl>
+					<dt>
+						<a href="#comment-9715" title="">65</a>. mjserver												<span class="datestamp">11:07 am 07/22/2013</span>
+					</dt>
+					<dd class="commentBody">
+						<p>I love seeing when people realize the USDA and FDA people are not really there to help us, just like anyone else they are out to make money, even if that means harming our bodies. Thankfully, my doctor, Pompa, healed me from the inside out with the Cellular Healing Diet, which anti-ages you, and helps you lose weight and feel great all in one. I&#8217;d recommend it to anyone, from all the crap we put in our bodies, we need to have our cells cleaned out. That&#8217;s the only way we&#8217;ll be truly healed again.<br />
+<a href="http://cellularhealingdiet.com/" rel="nofollow">http://cellularhealingdiet.com/</a></p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-9715">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+														<li id="comment-12831" class="comment comment-01 even">
+				<dl>
+					<dt>
+						<a href="#comment-12831" title="">66</a>. tina66												<span class="datestamp">11:16 pm 04/1/2014</span>
+					</dt>
+					<dd class="commentBody">
+						<p>In short, the key to your success with drop shipping is to find products like wholesale candles.<br />
+<a href="https://sites.google.com/site/bathmatepump/bathmate-coupon-code-25-discount-bathmate-review" rel="nofollow">bathmate</a></p>
+						<span class="commentTools">
+							<a title="Link to this comment" href="#comment-12831">Link to this</a>
+						</span>
+					</dd>
+				</dl>
+			</li>
+						<!-- 
+												</small>
+			 -->
+			
+		</ol>
+	
+	 
+
+			<A name="add-comment"></A>
+			 
+
+		<p id="add-comment2" style="padding-left:10px;">
+			<span style=" font-size:18px; font-weight:bold; color:black;">Add a Comment</span>
+			<br>You must <a href="http://www.scientificamerican.com/my-account/login/">sign in</a> or <a href="http://www.scientificamerican.com/my-account/register/">register</a> as a ScientificAmerican.com member to submit a comment.<br>
+		</p>
+					
+		
+	</div>		</div>
+	
+			
+		
+		</div>
+		
+<div id="subCol2">
+
+
+<div id="shopCenter">
+<h3 id="shopSA">More from Scientific American</h3>
+<div id="shopSlider">
+<div id="shopContainer">
+<div id="mind" class="subUnits">
+<a target="_blank" href="http://www.scientificamerican.com/store/subscribe/scientific-american-mind-magazine/?WT.mc_id=SA_Webstore_MND_MultiControl_Carousel">
+<img class="logo" src="http://www.scientificamerican.com/sciam/includes/themes/sciam/images/global/subunits/mind-subunit-logo.png">
+<img class="cover" src="http://www.scientificamerican.com/media/cover/current.jpg?mag=mind">
+</a>
+</div>
+<div id="classics" class="subUnits">
+<a target="_blank" href="http://www.scientificamerican.com/magazine/sa-classics/?WT.mc_id=SA_Webstore_SAClassics_Carousel">
+<img class="logo" src="http://www.scientificamerican.com/sciam/includes/themes/sciam/images/global/subunits/classics-subunit-logo.png">
+<img class="cover" src="http://www.scientificamerican.com/sciam/cache/file/B2040AE5-7083-4AD2-AE6E1C995968D2EA_W76_H100.jpg" >
+</a>
+</div>
+<div id="digital" class="subUnits">
+<a target="_blank" href="http://www.scientificamerican.com/store/subscribe/scientific-american-digital/?WT.mc_id=SA_Webstore_SAD_Carousel&responseKey=W3D07RE00">
+<img class="logo" src="http://www.scientificamerican.com/sciam/includes/themes/sciam/images/global/subunits/digital-subunit-logo.png">
+<img src="http://www.scientificamerican.com/sciam/includes/themes/sciam/images/global/subunits/subunit-digital.png">
+<img class="burst" src="http://www.scientificamerican.com/sciam/includes/themes/sciam/images/global/subunits/digital-burst.png">
+</a>
+</div>
+</div>
+</div>
+</div>
+		
+		<div class="execphpwidget" id="featuredSmall" >
+			<h6></h6>
+			<ul><div id="sideList3" class="sideList3" style="padding-top: 0"><div id="suppMaterialSlider" class="thumbSlider3" style="width: 336px;" data-vr-zone="Sidebar - Blog Network Highlights"><h2>Blog Network Highlights</h2><ul class="sliderItems"><li data-vr-contentbox=""><a class="blogname" href="http://blogs.scientificamerican.com/tetrapod-zoology">Tetrapod Zoology<span class="featuredLinkArrow">&raquo;</span></a><a href="http://blogs.scientificamerican.com/tetrapod-zoology/2014/11/08/phytosaurs-part-ii/"onclick="dcsMultiTrack('DCS.dcssip','blogs.scientificamerican.com','DCS.dcsuri','http://blogs.scientificamerican.com/tetrapod-zoology/2014/11/08/phytosaurs-part-ii/','WT.action','RightNav: Blog Network Hightlights article clicks','WT.destination','link: Terrestriality, high-walking and dimorphic snout crests: phytosaurs part II','WT.dl','1','WT.ndl','1');"><img width="350" height="313" src="http://blogs.scientificamerican.com/tetrapod-zoology/wp-content/blogs.dir/33/files/2014/11/Rutiodon-model-Patrick-Murphy-350-px-tiny-Nov-2014-Tetrapod-Zoology.jpg" class="attachment-post-thumbnail wp-post-image" alt="Life-size model of the phytosaur Rutiodon at Dinosaur State Park, Connecticut. Image by Patrick Murphy, used with permission." title="Rutiodon-model-Patrick-Murphy-350-px-tiny-Nov-2014-Tetrapod-Zoology" /></a><a href="http://blogs.scientificamerican.com/tetrapod-zoology/2014/11/08/phytosaurs-part-ii/" class="title"onclick="dcsMultiTrack('DCS.dcssip','blogs.scientificamerican.com','DCS.dcsuri','http://blogs.scientificamerican.com/tetrapod-zoology/2014/11/08/phytosaurs-part-ii/','WT.action','RightNav: Blog Network Hightlights article clicks','WT.destination','link: Terrestriality, high-walking and dimorphic snout crests: phytosaurs part II','WT.dl','1','WT.ndl','1');">Terrestriality, high-walking and dimorphic snout crests: phytosaurs part II</a></li><li data-vr-contentbox=""><a class="blogname" href="http://blogs.scientificamerican.com/beautiful-minds">Beautiful Minds<span class="featuredLinkArrow">&raquo;</span></a><a href="http://blogs.scientificamerican.com/beautiful-minds/2014/11/11/resources-to-help-your-child-with-adhd-flourish/"onclick="dcsMultiTrack('DCS.dcssip','blogs.scientificamerican.com','DCS.dcsuri','http://blogs.scientificamerican.com/beautiful-minds/2014/11/11/resources-to-help-your-child-with-adhd-flourish/','WT.action','RightNav: Blog Network Hightlights article clicks','WT.destination','link: Resources to help your child with ADHD flourish','WT.dl','1','WT.ndl','1');"><img width="849" height="565" src="http://blogs.scientificamerican.com/beautiful-minds/wp-content/blogs.dir/79/files/2014/11/iStock_000012862966Small.jpg" class="attachment-post-thumbnail wp-post-image" alt="iStock_000012862966Small" title="iStock_000012862966Small" /></a><a href="http://blogs.scientificamerican.com/beautiful-minds/2014/11/11/resources-to-help-your-child-with-adhd-flourish/" class="title"onclick="dcsMultiTrack('DCS.dcssip','blogs.scientificamerican.com','DCS.dcsuri','http://blogs.scientificamerican.com/beautiful-minds/2014/11/11/resources-to-help-your-child-with-adhd-flourish/','WT.action','RightNav: Blog Network Hightlights article clicks','WT.destination','link: Resources to help your child with ADHD flourish','WT.dl','1','WT.ndl','1');">Resources to help your child with ADHD flourish</a></li><li data-vr-contentbox=""><a class="blogname" href="http://blogs.scientificamerican.com/observations">Observations<span class="featuredLinkArrow">&raquo;</span></a><a href="http://blogs.scientificamerican.com/observations/2014/11/11/mind-blowing-fossil-preserves-tiny-horse-carrying-unborn-foal/"onclick="dcsMultiTrack('DCS.dcssip','blogs.scientificamerican.com','DCS.dcsuri','http://blogs.scientificamerican.com/observations/2014/11/11/mind-blowing-fossil-preserves-tiny-horse-carrying-unborn-foal/','WT.action','RightNav: Blog Network Hightlights article clicks','WT.destination','link: Mind-Blowing Fossil Preserves Tiny Horse Carrying Unborn Foal','WT.dl','1','WT.ndl','1');"><img  title="Eurohippus mare and foal" src="http://blogs.scientificamerican.com/observations/files/2014/11/Eurohippus-mare-and-foal.jpg" alt="Fossil mare and unborn foal from Messel, Germany"  /></a><a href="http://blogs.scientificamerican.com/observations/2014/11/11/mind-blowing-fossil-preserves-tiny-horse-carrying-unborn-foal/" class="title"onclick="dcsMultiTrack('DCS.dcssip','blogs.scientificamerican.com','DCS.dcsuri','http://blogs.scientificamerican.com/observations/2014/11/11/mind-blowing-fossil-preserves-tiny-horse-carrying-unborn-foal/','WT.action','RightNav: Blog Network Hightlights article clicks','WT.destination','link: Mind-Blowing Fossil Preserves Tiny Horse Carrying Unborn Foal','WT.dl','1','WT.ndl','1');">Mind-Blowing Fossil Preserves Tiny Horse Carrying Unborn Foal</a></li><li data-vr-contentbox=""><a class="blogname" href="http://blogs.scientificamerican.com/cocktail-party-physics">Cocktail Party Physics<span class="featuredLinkArrow">&raquo;</span></a><a href="http://blogs.scientificamerican.com/cocktail-party-physics/2014/11/10/nobel-vintage-fundamental-physics-prize-co-winner-sells-no-wine-before-its-time/"onclick="dcsMultiTrack('DCS.dcssip','blogs.scientificamerican.com','DCS.dcsuri','http://blogs.scientificamerican.com/cocktail-party-physics/2014/11/10/nobel-vintage-fundamental-physics-prize-co-winner-sells-no-wine-before-its-time/','WT.action','RightNav: Blog Network Hightlights article clicks','WT.destination','link: Nobel Vintage: Fundamental Physics Prize Co-Winner Sells No Wine Before Its Time','WT.dl','1','WT.ndl','1');"><img width="703" height="960" src="http://blogs.scientificamerican.com/cocktail-party-physics/wp-content/blogs.dir/10/files/2014/11/brian1.jpg" class="attachment-post-thumbnail wp-post-image" alt="Nobel laureate Brian Schmidt checks the status of his fermenting grapes." title="brian1" /></a><a href="http://blogs.scientificamerican.com/cocktail-party-physics/2014/11/10/nobel-vintage-fundamental-physics-prize-co-winner-sells-no-wine-before-its-time/" class="title"onclick="dcsMultiTrack('DCS.dcssip','blogs.scientificamerican.com','DCS.dcsuri','http://blogs.scientificamerican.com/cocktail-party-physics/2014/11/10/nobel-vintage-fundamental-physics-prize-co-winner-sells-no-wine-before-its-time/','WT.action','RightNav: Blog Network Hightlights article clicks','WT.destination','link: Nobel Vintage: Fundamental Physics Prize Co-Winner Sells No Wine Before Its Time','WT.dl','1','WT.ndl','1');">Nobel Vintage: Fundamental Physics Prize Co-Winner Sells No Wine Before Its Time</a></li><li data-vr-contentbox=""><a class="blogname" href="http://blogs.scientificamerican.com/food-matters">Food Matters<span class="featuredLinkArrow">&raquo;</span></a><a href="http://blogs.scientificamerican.com/food-matters/2014/11/11/my-new-fermentation-obsession/"onclick="dcsMultiTrack('DCS.dcssip','blogs.scientificamerican.com','DCS.dcsuri','http://blogs.scientificamerican.com/food-matters/2014/11/11/my-new-fermentation-obsession/','WT.action','RightNav: Blog Network Hightlights article clicks','WT.destination','link: My New Fermentation Obsession','WT.dl','1','WT.ndl','1');"><img width="1718" height="1288" src="http://blogs.scientificamerican.com/food-matters/wp-content/blogs.dir/89/files/2014/11/Kraut-batch-2-ingredients.jpg" class="attachment-post-thumbnail wp-post-image" alt="Kraut-batch-2-ingredients" title="Kraut-batch-2-ingredients" /></a><a href="http://blogs.scientificamerican.com/food-matters/2014/11/11/my-new-fermentation-obsession/" class="title"onclick="dcsMultiTrack('DCS.dcssip','blogs.scientificamerican.com','DCS.dcsuri','http://blogs.scientificamerican.com/food-matters/2014/11/11/my-new-fermentation-obsession/','WT.action','RightNav: Blog Network Hightlights article clicks','WT.destination','link: My New Fermentation Obsession','WT.dl','1','WT.ndl','1');">My New Fermentation Obsession</a></li><li data-vr-contentbox=""><a class="blogname" href="http://blogs.scientificamerican.com/plugged-in">Plugged In<span class="featuredLinkArrow">&raquo;</span></a><a href="http://blogs.scientificamerican.com/plugged-in/2014/11/11/how-green-is-green-energy/"onclick="dcsMultiTrack('DCS.dcssip','blogs.scientificamerican.com','DCS.dcsuri','http://blogs.scientificamerican.com/plugged-in/2014/11/11/how-green-is-green-energy/','WT.action','RightNav: Blog Network Hightlights article clicks','WT.destination','link: How Green Is Green Energy?','WT.dl','1','WT.ndl','1');"><img width="640" height="427" src="http://blogs.scientificamerican.com/plugged-in/wp-content/blogs.dir/26/files/2014/11/Woz.jpg" class="attachment-post-thumbnail wp-post-image" alt="Woz" title="Woz" /></a><a href="http://blogs.scientificamerican.com/plugged-in/2014/11/11/how-green-is-green-energy/" class="title"onclick="dcsMultiTrack('DCS.dcssip','blogs.scientificamerican.com','DCS.dcsuri','http://blogs.scientificamerican.com/plugged-in/2014/11/11/how-green-is-green-energy/','WT.action','RightNav: Blog Network Hightlights article clicks','WT.destination','link: How Green Is Green Energy?','WT.dl','1','WT.ndl','1');">How Green Is Green Energy?</a></li></ul><span class="slideButton3 leftButton3"></span><span class="slideButton3 rightButton3"></span></div></div>		</div>
+		
+	<ul>
+		<li id="" class="widget widget_execphp"> 
+			<div class="execphpwidget">
+			<div class="bannerAd">advertisement
+			<script type="text/javascript">OAS_AD("Right1");</script> 
+			</div></div>
+		</li>
+		
+		<li id="" class="widget widget_execphp"><h2 class="widgettitle" style="margin-bottom:-15px">  </h2>
+			<div class="execphpwidget">
+				<div class="genericTabRowContainer">
+					<table class="genericTabRow">
+						<tr >
+							<td class="default" style="">
+								<a href="?tab=read-posts" name="read-posts">Most Read Posts</a>
+								&nbsp;<img src="/wp-content/themes/sciam/images/arrow_slider_down.png" alt="tab arrow" />
+							</td>
+							<td style="">
+								<a href="?tab=most-commented-posts" name="latest-posts">Latest Posts</a>
+								&nbsp;<img src="/wp-content/themes/sciam/images/arrow_slider_down.png" alt="tab arrow" />
+							</td>
+						</tr>
+					</table>
+	
+				</div>
+				<div id="read-posts" class="TabContent spacedCopy" data-vr-zone="Sidebar - Most Read Blog Posts">
+					<div>
+						<ul id="tabs21">
+							<ul><li data-vr-contentbox=''><a id='blogNameTitleSide' title='The Artful Amoeba' href='http://blogs.scientificamerican.com/artful-amoeba'>The Artful Amoeba</a><br><a id='blogTextLinkSide' title='Origin of Mysterious Portuguese Mathematical and Geographical Tiles Revealed' href='http://blogs.scientificamerican.com/artful-amoeba/?p=8325'>Origin of Mysterious Portuguese Mathematical and Geographical Tiles Revealed</a> </li><li data-vr-contentbox=''><a id='blogNameTitleSide' title='Cocktail Party Physics' href='http://blogs.scientificamerican.com/cocktail-party-physics'>Cocktail Party Physics</a><br><a id='blogTextLinkSide' title='Nobel Vintage: Fundamental Physics Prize Co-Winner Sells No Wine Before Its Time' href='http://blogs.scientificamerican.com/cocktail-party-physics/?p=14945'>Nobel Vintage: Fundamental Physics Prize Co-Winner Sells No Wine Before Its Time</a> </li><li data-vr-contentbox=''><a id='blogNameTitleSide' title='Observations' href='http://blogs.scientificamerican.com/observations'>Observations</a><br><a id='blogTextLinkSide' title='Mind-Blowing Fossil Preserves Tiny Horse Carrying Unborn Foal' href='http://blogs.scientificamerican.com/observations/?p=22131'>Mind-Blowing Fossil Preserves Tiny Horse Carrying Unborn Foal</a> </li><li data-vr-contentbox=''><a id='blogNameTitleSide' title='Guest Blog' href='http://blogs.scientificamerican.com/guest-blog'>Guest Blog</a><br><a id='blogTextLinkSide' title='Technology Revitalizes Hands-On Education in Classrooms' href='http://blogs.scientificamerican.com/guest-blog/?p=15879'>Technology Revitalizes Hands-On Education in Classrooms</a> </li><li data-vr-contentbox=''><a id='blogNameTitleSide' title='Extinction Countdown' href='http://blogs.scientificamerican.com/extinction-countdown'>Extinction Countdown</a><br><a id='blogTextLinkSide' title='Canine Distemper Could Wipe Out Siberian Tigers' href='http://blogs.scientificamerican.com/extinction-countdown/?p=6019'>Canine Distemper Could Wipe Out Siberian Tigers</a> </li></ul>						</ul>
+					</div> 
+				</div>
+				<div id="latest-posts" class="TabContent spacedCopy" style="display:none;" data-vr-zone="Sidebar - Latest Blog Posts">
+					<div>
+						<ul id="tabs22">
+							<div id="latestEditors"><ul><li data-vr-contentbox="" style="background-color:#ffffff !important"><a id="blogNameTitleSide" href="http://blogs.scientificamerican.com/observations">Observations</a><br><a id="blogTextLink" rel="bookmark" href="http://blogs.scientificamerican.com/observations/2014/11/12/stephen-hawking-and-the-theory-of-everything/"><strong class="title">The Human Cost of Science: Stephen Hawking and The Theory of Everything</strong></a></li><li data-vr-contentbox="" style="background-color:#ffffff !important"><a id="blogNameTitleSide" href="http://blogs.scientificamerican.com/extinction-countdown">Extinction Countdown</a><br><a id="blogTextLink" rel="bookmark" href="http://blogs.scientificamerican.com/extinction-countdown/2014/11/12/mapping-mistake-threatens-chimpanzees/"><strong class="title">Mapping Mistake Threatens 1,400 Chimpanzees and Newly Discovered Endangered Plant</strong></a></li><li data-vr-contentbox="" style="background-color:#ffffff !important"><a id="blogNameTitleSide" href="http://blogs.scientificamerican.com/observations">Observations</a><br><a id="blogTextLink" rel="bookmark" href="http://blogs.scientificamerican.com/observations/2014/11/12/what-interstellar-gets-wrong-about-interstellar-travel/"><strong class="title">What "Interstellar" Gets Wrong about Interstellar Travel</strong></a></li><li data-vr-contentbox="" style="background-color:#ffffff !important"><a id="blogNameTitleSide" href="http://blogs.scientificamerican.com/tetrapod-zoology">Tetrapod Zoology</a><br><a id="blogTextLink" rel="bookmark" href="http://blogs.scientificamerican.com/tetrapod-zoology/2014/11/12/cartorhynchus-and-fish-lizard-beginnings/"><strong class="title">Short-snouted, suction-feeding ‘proto-ichthyosaur’ sheds light on fish-lizard beginnings</strong></a></li><li data-vr-contentbox="" style="background-color:#ffffff !important"><a id="blogNameTitleSide" href="http://blogs.scientificamerican.com/plugged-in">Plugged In</a><br><a id="blogTextLink" rel="bookmark" href="http://blogs.scientificamerican.com/plugged-in/2014/11/12/on-competitiveness-and-innovation-u-s-falling-behind/"><strong class="title">On Competitiveness and Innovation, U.S. Falling Behind</strong></a></li></ul></div> 
+						</ul>
+					</div> 
+				</div>
+			</div>
+		</li>
+				
+		<li id="followListContainer" class="">
+			<div class="execphpwidget">
+				<div class="sciamFollowList">
+					<h3>Follow Us:</h3>
+					<ul id="chicletLinks">
+						<li class="facebook">
+							<a href="http://www.facebook.com/scientificamerican" title="Facebook" target="_blank" onclick="dcsMultiTrack('DCS.dcssip','blogs.scientificamerican.com','DCS.dcsuri','http://www.facebook.com/scientificamerican','WT.action','RightNav: Follow Us Image Click','WT.destination','link: Facebook','WT.dl','1','WT.ndl','1');">
+								<i class="icon-facebook icon-2x"></i>
+							</a>
+						</li>
+						<li class="twitter">
+							<a href="http://www.twitter.com/sciam" title="Twitter" target="_blank" onclick="dcsMultiTrack('DCS.dcssip','blogs.scientificamerican.com','DCS.dcsuri','http://www.twitter.com/sciam','WT.action','RightNav: Follow Us Image Click','WT.destination','link: Twitter','WT.dl','1','WT.ndl','1');">
+								<i class="icon-twitter icon-2x"></i>
+							</a>
+						</li>
+						<li class="googlePlus">
+							<a href="https://plus.google.com/107538622122068192565/posts" title="Google+" onclick="dcsMultiTrack('DCS.dcssip','blogs.scientificamerican.com','DCS.dcsuri','https://plus.google.com/107538622122068192565/posts','WT.action','RightNav: Follow Us Image Click','WT.destination','link: Google+','WT.dl','1','WT.ndl','1');">
+							<i class="icon-googleplus icon-2x"></i>
+							</a>
+						</li>
+						<li class="youtube">
+							<a href="http://www.youtube.com/sciamerican" title="YouTube" target="_blank" onclick="dcsMultiTrack('DCS.dcssip','blogs.scientificamerican.com','DCS.dcsuri','http://www.youtube.com/sciamerican','WT.action','RightNav: Follow Us Image Click','WT.destination','link: Youtube','WT.dl','1','WT.ndl','1');">
+								<i class="icon-youtube icon-2x"></i>
+							</a>
+						</li>
+						<li class="rss">
+							<a href="http://www.scientificamerican.com/sitemap/" title="RSS" onclick="dcsMultiTrack('DCS.dcssip','blogs.scientificamerican.com','DCS.dcsuri','http://www.scientificamerican.com/sitemap/','WT.action','RightNav: Follow Us Image Click','WT.destination','link: RSS','WT.dl','1','WT.ndl','1');">
+							<i class="icon-rss icon-2x"></i>
+							</a>
+						</li>
+					</ul>
+				</div>
+
+							<div class="topBorder sciamTwitter">
+<div class="sciamTwitterHeader">
+<img src="http://www.scientificamerican.com/sciam/includes/themes/sciam/images/global/twitterbirdNew.png">
+See what we're tweeting about<br>
+<h3 class="rightNavTitle">Scientific American Contributors</h3>
+</div>
+<ul class="sciamTweets">
+<li class="tweet first">
+<a href="http://twitter.com/williaqj" target="_blank"><img src="http://pbs.twimg.com/profile_images/2166422229/Photo_on_2011-11-02_at_21.12__3_normal.jpg"></a> <a href="http://twitter.com/williaqj" target="_blank">williaqj</a> RT <a href="http://twitter.com/bmahersciwriter" target="_blank">@bmahersciwriter</a>: Check out this great feature on cognitive behavioural therapy for depression by <a href="http://twitter.com/EmilyAnthes" target="_blank">@EmilyAnthes</a> <a href="http://t.co/gjTCUgjBlo" target="_blank">http://t.co/gjTCUgjBlo</a><br>
+<small>0 minute ago &middot; <a href="http://twitter.com/intent/tweet?in_reply_to=532649659991613442" target="_blank">reply</a> &middot; <a href="http://twitter.com/intent/retweet?tweet_id=532649659991613442" target="_blank">retweet</a> &middot; <a href="http://twitter.com/intent/favorite?tweet_id=532649659991613442" target="_blank">favorite</a></small>
+</li>
+<li class="tweet ">
+<a href="http://twitter.com/sciam" target="_blank"><img src="http://pbs.twimg.com/profile_images/344513261578131564/b10c9510902473620c17c10b827f8a4f_normal.png"></a> <a href="http://twitter.com/sciam" target="_blank">sciam</a> New Amazon Carbon Maps Could Slow Deforestation <a href="http://t.co/K3FCN3RwH2" target="_blank">http://t.co/K3FCN3RwH2</a><br>
+<small>6 minutes ago &middot; <a href="http://twitter.com/intent/tweet?in_reply_to=532648264152018944" target="_blank">reply</a> &middot; <a href="http://twitter.com/intent/retweet?tweet_id=532648264152018944" target="_blank">retweet</a> &middot; <a href="http://twitter.com/intent/favorite?tweet_id=532648264152018944" target="_blank">favorite</a></small>
+</li>
+<li class="tweet ">
+<a href="http://twitter.com/dbiello" target="_blank"><img src="http://pbs.twimg.com/profile_images/3087026630/0cc73ba487d2cd84f554ed3bc6a7beec_normal.jpeg"></a> <a href="http://twitter.com/dbiello" target="_blank">dbiello</a> so many more <a href="http://t.co/BbeoO9T3G0" target="_blank">http://t.co/BbeoO9T3G0</a> MT <a href="http://twitter.com/ToThePoint_KCRW" target="_blank">@ToThePoint_KCRW</a>: More nukes, dams, wind &amp; solar needed in China for new pact <a href="http://t.co/N261wAPyg6" target="_blank">http://t.co/N261wAPyg6</a><br>
+<small>9 minutes ago &middot; <a href="http://twitter.com/intent/tweet?in_reply_to=532647302746603521" target="_blank">reply</a> &middot; <a href="http://twitter.com/intent/retweet?tweet_id=532647302746603521" target="_blank">retweet</a> &middot; <a href="http://twitter.com/intent/favorite?tweet_id=532647302746603521" target="_blank">favorite</a></small>
+</li>
+<a href="https://twitter.com/sciam/lists/sciam-contributors-2" class="moreLink" target="_blank">More <span class="linkArrow">»</span></a>
+</ul>
+</div><!--CACHE:HIT-->
+			</div>
+		</li>
+		
+		<li id="" class="widget widget_execphp" style="margin-top:10px;"> 
+			<div class="execphpwidget">
+				<div class="bannerAd">&nbsp;
+					<a href="https://www.scientificamerican.com/store/subscribe/scientific-american-print-digital/?WT.mc_id=SA_Webstore_SCA_PrintDigital_300x100_Mid&responseKey=W4S13RB01" target="_blank"><img src="http://www.scientificamerican.com/sciam/assets/File/SCA_printPlusDigi_300x100.jpg"></a>
+				</div>		
+			</div>
+		</li>
+	
+		<li id="rssSide" class="widget widget_execphp" style="background-color:#f1f1f1 !important;">
+			<script type="text/javascript">
+			$(document).ready(function(){
+			$('#latestHeadlinesOnSciAm ul li').attr('data-vr-contentbox', '');
+		});
+			</script> 
+			<div id="latestHeadlinesOnSciAm" class="execphpwidget" data-vr-zone="Latest Headlines on ScientificAmerican.com"><h2 class="widgettitle">Latest Headlines on ScientificAmerican.com</h2>
+				<ul><li><a class='rsswidget' href='http://www.scientificamerican.com/article/everything-you-need-to-know-about-the-u-s-china-climate-change-agreement/' title='A turning point has been reached in the world&#039;s bid to curb global warming -- Read more on ScientificAmerican.com [&hellip;]' target="_blank">Everything You Need to Know about the U.S.-China Climate Change Agreement</a></li><li><a class='rsswidget' href='http://www.scientificamerican.com/article/first-view-of-mars-was-a-paint-by-numbers/' title='We&#039;ve come a long way since NASA&#039;s Mariner 4  -- Read more on ScientificAmerican.com [&hellip;]' target="_blank">First View of Mars Was a Paint-by-Numbers</a></li><li><a class='rsswidget' href='http://www.scientificamerican.com/article/seven-images-that-tell-the-story-of-frigid-weather-in-the-u-s/' title='Unseasonably cold temperatures can be traced back to a typhoon that eventually struck Alaska -- Read more on ScientificAmerican.com [&hellip;]' target="_blank">Seven Images That Tell the Story of Frigid Weather in the U.S.</a></li><li><a class='rsswidget' href='http://www.scientificamerican.com/article/5-hard-questions-about-emerging-technologies-we-can-t-afford-not-to-ask/' title='In the near future access to information and new technology may make profits and privacy obsolete, and force us to redefine the boundaries between humanity and machines -- Read more on ScientificAmerican.com [&hellip;]' target="_blank">5 Hard Questions about Emerging Technologies We Can’t Afford Not to Ask</a></li><li><a class='rsswidget' href='http://www.scientificamerican.com/podcast/episode/we-are-on-the-comet/' title='Some sounds from the Rosetta Mission team today after they succeeded in landing on Comet 67P/Churyumov-Gerasimenko. Steve Mirsky reports   -- Read more on ScientificAmerican.com [&hellip;]' target="_blank">&quot;We Are on the Comet!&quot;</a></li></ul>			</div>
+		</li>
+		<li id="" class="widget widget_execphp rssSide" style="background-color:#f1f1f1 !important;">
+			<div id="latestHeadlinesOnSciLogs" class="execphpwidget" data-vr-zone="Latest from SciLogs.com">
+				<h2 class="widgettitle">Latest from <a href="http://www.scilogs.com/" target="_blank"><img src="/wp-includes/images/SciLogsWidget_logo.png"></a></h2>
+				<ul><li><a class='rsswidget' href='http://www.scilogs.com/lindaunobel/new-topic-cluster-nuclear-magnetic-resonance/' title='The Lindau Mediatheque published its newest immersive topic cluster today dedicated to NMR, ‘the music of matter’. “Each atom is like a subtle and refined instrument, playing its own faint, magnetic melody, inaudible to human ears. By your methods, this music has been made perceptible, and the characteristic melody of an atom can be used […] [&hellip;]' target="_blank">New Topic Cluster: Nuclear Magnetic Resonance</a></li><li><a class='rsswidget' href='http://www.scilogs.com/endless_forms/2014/11/11/common-disinfectants-impair-mouse-fertility/' title='Hey everyone, I recently wrote an article on a new toxicology study for The Conversation, and they have kindly allowed me to repost the piece on SciLogs in its entirety. Read on to find out about how two research labs that shared an annoying mouse attrition problem joined forces to make an important discovery about chemicals found in nearly every home in the [&hellip;]' target="_blank">Common disinfectants impair mouse fertility</a></li><li><a class='rsswidget' href='http://www.scilogs.com/from_the_lab_bench/365-days-a-year-a-science-blogging-project-part-ii/' title='In this post, I interview Sarah Keenihan, a freelance science writer based in Adelaide, South Australia. I interview Sarah as a follow-up to my interview with Signe Cane, another blogger who recently started ‘A Common Year – a Daily blog of 365 science stories’ after being inspired by Sarah&#039;s blog &#039;Science For Life. 365.&#039; Since I’ve been inter [&hellip;]' target="_blank">365 Days a Year – A Science Blogging Project Part II</a></li><li><a class='rsswidget' href='http://www.scilogs.com/jid/controversy-a-lot-in-storrs-for-you/' title='by guest blogger Sancy Leachman, M.D., Ph.D., Oregon Health &amp; Science University   This year’s Storrs Lectureship is undoubtedly one of the most unusual meetings I have ever attended.  I don’t want you to interpret “unusual” as a code word for “bad,” but you can interpret it as “unconventional.” The typical didactic format was abandoned in favor of short [&hellip;]' target="_blank">Controversy: A Dermatology TED Conference: A Lot in Storrs for You</a></li><li><a class='rsswidget' href='http://www.scilogs.com/from_the_lab_bench/365-days-a-year-a-science-blogging-project/' title=' In this post, I interview Signe Cane, a Sydney-based freelance science writer and journalist who recently started ‘A Common Year – a Daily blog of 365 science stories’. Since I’ve been interested, through my Ph.D. research, in understanding how and why science bloggers do what they do, I decided to ask Signe about her blogging project and her motivations to [&hellip;]' target="_blank">365 Days a Year – A Science Blogging Project</a></li></ul>				<a href="http://www.scilogs.com/" class="twitterMore" target="_blank">More <span class="linkArrow">&raquo;</span></a>
+			</div>
+		</li>
+		
+		<li id="" class="widget widget_execphp" style="margin-top:10px;"> 
+			<div class="execphpwidget">
+				<div class="bannerAd">advertisement
+					<script type="text/javascript">OAS_AD("Right2");</script> 
+				</div>
+			</div>
+		</li>
+	
+				<li id="" class="widget widget_execphp"> 
+			<div class="execphpwidget">
+				<div class="imageWeek" data-vr-zone="Sidebar Video of the Week">
+					<h6></h6>
+					<span class="title18">Video of the Week</span>
+					<div id="videoImg" data-vr-contentbox=""><a href="http://blogs.scientificamerican.com/video-of-the-week/2014/11/06/sparks-from-falling-water-kelvins-thuderstorm/"onclick="dcsMultiTrack('DCS.dcssip','blogs.scientificamerican.com','DCS.dcsuri','http://blogs.scientificamerican.com/video-of-the-week/2014/11/06/sparks-from-falling-water-kelvins-thuderstorm/','WT.action','RightNav: Video of Week article clicks','WT.destination','link: Sparks From Falling Water:  Kelvin's Thuderstorm','WT.dl','1','WT.ndl','1');"><img src ="http://img.youtube.com/vi/rv4MjaF_wow/0.jpg"/></a></div><a class="imageWeektitle" href="http://blogs.scientificamerican.com/video-of-the-week/2014/11/06/sparks-from-falling-water-kelvins-thuderstorm/"onclick="dcsMultiTrack('DCS.dcssip','blogs.scientificamerican.com','DCS.dcsuri','http://blogs.scientificamerican.com/video-of-the-week/2014/11/06/sparks-from-falling-water-kelvins-thuderstorm/','WT.action','RightNav: Video of Week article clicks','WT.destination','link: Sparks From Falling Water:  Kelvin's Thuderstorm','WT.dl','1','WT.ndl','1');">Sparks From Falling Water:  Kelvin's Thuderstorm</a>				</div>
+			</div>
+		</li>
+		
+		<li id="" class="widget widget_execphp"> 			
+			<div class="execphpwidget">
+				<div class="imageWeek" data-vr-zone="Sidebar Image of the Week">
+					<h6></h6>
+					<span class="title18">Image of the Week</span>
+					<div id="imgWeek" data-vr-contentbox=""><a href="http://blogs.scientificamerican.com/image-of-the-week/2014/11/04/triple-star-system/"onclick="dcsMultiTrack('DCS.dcssip','blogs.scientificamerican.com','DCS.dcsuri','http://blogs.scientificamerican.com/image-of-the-week/2014/11/04/triple-star-system/','WT.action','RightNav: Image of Week article clicks','WT.destination','link: Painting Across Astronomical Units','WT.dl','1','WT.ndl','1');"><img   src="http://blogs.scientificamerican.com/image-of-the-week/files/2014/11/triplestarsystem_600.jpg" alt=""  /></a><a class="imageWeektitle" href="http://blogs.scientificamerican.com/image-of-the-week/2014/11/04/triple-star-system/"onclick="dcsMultiTrack('DCS.dcssip','blogs.scientificamerican.com','DCS.dcsuri','http://blogs.scientificamerican.com/image-of-the-week/2014/11/04/triple-star-system/','WT.action','RightNav: Image of Week article clicks','WT.destination','link: Painting Across Astronomical Units','WT.dl','1','WT.ndl','1');">Painting Across Astronomical Units</a></div>				</div>
+			</div>
+		</li>
+				<li id="" class="widget widget_execphp" style="margin-top:10px;"> 
+			<div class="execphpwidget">
+				<div class="bannerAd">&nbsp;
+					<a href="https://www.scientificamerican.com/store/subscribe/scientific-american-print-digital/?WT.mc_id=SA_Webstore_SCA_PrintDigital_300x100_Low&responseKey=W4S14RB01" target="_blank"><img src="http://www.scientificamerican.com/sciam/assets/File/SCA_printPlusDigi_300x100.jpg"></a>
+				</div>		
+			</div>
+		</li>
+	
+			
+	
+		
+	
+					
+	</ul>
+</div>
+
+
+</div>
+	
+<footer id="site-footer">
+<div class="subOffer">
+<div class="subscriptionForm">
+<img class="title" src="http://www.scientificamerican.com/sciam/includes/themes/sciam/images/global/riskfree_title.gif" alt="risk free title graphic" />
+<p><b>YES!</b> Send me a free issue of Scientific American with no obligation to continue the subscription. If I like it, I will be billed for the one-year subscription.</p>
+<img class="cover" src="http://www.scientificamerican.com/media/cover/current.jpg" alt="cover image" width="90" height="120" />
+<a id="footerSubscribe" href="https://w1.buysub.com/servlet/ConvertibleGateway?cds_mag_code=SCA&cds_page_id=173750&cds_response_key=I4S10X000" target="_blank">Subscribe Now</a>
+</div>
+</div>
+<div id="bottomNav">
+<span id="copyright">Scientific American is a trademark of Scientific American, Inc., used with permission
+<br /><br />
+&copy; 2014 Scientific American, a Division of Nature America, Inc.</span>
+<br /><br />
+<a href="./?mobileFormat=true" rel="nofollow" class="viewMobileSite" style="display: none">View Mobile Site</a>
+<span id="rights">All Rights Reserved.</span>
+<br /><br />
+<div class="footer-links">
+<ul class="footerLinks">
+<li><a href="http://www.scientificamerican.com/mediakit/" rel="nofollow" target="_blank">Advertise</a></li>
+<li><a href="http://www.scientificamerican.com/ad-sections" rel="nofollow" target="_blank">Special Ad Sections</a></li>
+<li><a href="http://www.scientificamerican.com/page/custom-media-and-partnerships/" rel="nofollow" target="_blank">SA Custom Media and Partnerships</a></li>
+<li><a href="http://www.scientificamerican.com/naturejobs/">Science Jobs</a></li>
+<li><a href="http://www.scientificamerican.com/partners/" rel="nofollow">Partner Network</a></li>
+<li><a href="http://www.scientificamerican.com/page/international">International Editions</a></li>
+<li><a href="http://www.scientificamerican.com/travel" target="_blank">Travel</a></li>
+</ul>
+<ul class="footerLinks">
+<li><a href="http://www.scientificamerican.com/pressroom/about-scientific-american/">About Scientific American</a></li>
+<li><a href="http://www.scientificamerican.com/pressroom/" rel="nofollow">Press Room</a></li>
+<li><a href="http://www.scientificamerican.com/sitemap">Site Map</a></li>
+<li><a href="http://www.scientificamerican.com/page/terms-of-use/" rel="nofollow">Terms of Use </a></li>
+<li><a href="http://www.scientificamerican.com/page/privacy-policy/" rel="nofollow">Privacy Policy</a></li>
+<li style="float: right"><a href="http://www.scientificamerican.com/page/use-of-cookies/" rel="nofollow">Use of Cookies</a></li>
+</ul>
+<ul class="footerLinks">
+<li><a href="http://www.scientificamerican.com/store/subscribe/scientific-american-magazine/?WT.mc_id=SA_Webstore_SCA_MultiControl_SAMag_Footer_Self" rel="nofollow" target="_blank">Subscribe</a></li>
+<li><a href="https://w1.buysub.com/servlet/CSGateway?cds_mag_code=SCA" rel="nofollow" target="_blank">Renew Your Print Subscription</a></li>
+<li><a href="https://w1.buysub.com/servlet/CSGateway?cds_mag_code=SCA" rel="nofollow" target="_blank">Print Subscriber Customer Service</a></li>
+<li><a href="http://www.scientificamerican.com/page/buy-back-issues/" rel="nofollow" target="_blank">Buy Back Issues</a></li>
+<li><a href="http://www.scientificamerican.com/page/frequently-asked-questions/">FAQs</a></li>
+<li style="float: right"><a href="http://www.scientificamerican.com/page/contact-us/" rel="nofollow">Contact Us</a></li>
+</ul>
+<style type="text/css">#site-footer #bottomNav{display:inline-block !important;float:none !important;}</style>
+</div>
+</div>
+</footer>
+<div class="toasterAd">
+<div class="magLeft">
+<img src="http://www.scientificamerican.com/sciam/includes/themes/sciam/images/global/staticAds/SCA_toaster_pine_2014.png" alt="Scientific American Holiday Sale" width="118" height="156" />
+</div>
+<div class="magRight">
+<h3>
+Give a Gift &amp;<br> Get a Gift - Free!
+</h3>
+<p>
+Give a 1 year subscription as low as $14.99
+</p>
+<p>
+<a href="https://w1.buysub.com/servlet/ConvertibleGateway?cds_mag_code=SCA&cds_page_id=173750&cds_response_key=I4S08X000" target="_blank">Subscribe Now!</a><span class="red"> &gt; </span>
+</p>
+<span class="closer">X</span>
+</div>
+</div>
+<!-- email overlay -->
+<div id="overlay-emailForm" class="overlay">
+<h3>Email this Article</h3>
+<h4></h4>
+<form id="emailer" link="http://www.scientificamerican.com/sciam/remote/misc.cfc?WSDL&method=sendToFriend&siteId=sciam" action="http://www.scientificamerican.com/sciam/remote/misc.cfc?WSDL&method=sendToFriend&siteId=sciam" class="asyncForm">
+<input type="hidden" name="title" id="emailForm-title" value="">
+<input type="hidden" name="url" id="emailForm-url" value="">
+<input type="hidden" name="summary" id="emailForm-summary" value="">
+<fieldset>
+<label for="your_name">
+Your Name
+<input type="input" id="your_name" name="your_name" value="">
+</label>
+<label for="from_address">
+Your Email Address
+<input type="email" id="from_address" name="from_address" value="">
+</label>
+<label for="to_address">
+Recipient's Email Address (separate multiple addresses with a comma)
+<input type="text" id="to_address" name="to_address" value="">
+</label>
+<label for="comment">
+Comment (optional)
+<textarea id="comment" name="comment"></textarea>
+</label>
+</fieldset>
+<input type="submit" value="Send">
+</form>
+<span class="closer">X</span>
+</div><!--CACHE:HIT-->
+<script type="text/javascript" src="http://www.scientificamerican.com/sciam/includes/themes/sciam/assets/mejs/mediaelement-and-player.min.js"></script>
+<script type="text/javascript" src="http://www.scientificamerican.com/sciam/includes/themes/sciam/compiled/theme.min.6F84E3FD8F56A8CEEFCD8C6450B8CA7D.js"></script><!--CACHE:HIT-->
+<script type="text/javascript">(function( $ ){$.slatwall = new Hibachi({"timeFormat":"hh:mm tt","dateFormat":"mmm dd, yyyy","action":"slatAction","baseURL":"\/Slatwall"});})( jQuery );</script>
+<script type="text/javascript" src="http://nexus.ensighten.com/npg/prod-sa/Bootstrap.js"></script>
+</body>
+</html>
+<style>
+	
+div.singlePost {
+	 margin-top: 30px;
+	 margin-bottom:0px;
+	 padding-bottom:0px;
+	 border-bottom:0px !important;
+	 overflow:visible;
+}
+.toasterAd {
+	display: none;
+}
+</style>
+</body>
+<script type="text/javascript"> 
+	var blogdropdown = document.getElementById("select_blog");
+function onBlogChange() {
+	if ( blogdropdown.options[blogdropdown.selectedIndex].value != 0 ) {
+		
+		location.href = blogdropdown.options[blogdropdown.selectedIndex].value;
+	}
+}
+</script> 
+
+
+<!-- START OF SmartSource Data Collector TAG v10.4.1 -->
+<!-- Copyright (c) 2014 Webtrends Inc.  All rights reserved. -->
+<script>
+setTimeout(function() {
+	window.webtrendsAsyncInit=function(){
+	 	var onSiteDomains = 'nature.com,connotea.org,labanimal.com,natureasia.com,naturechina.com.cn,neuroscience-gateway.org,palgrave-connect.com,www.econolog.net,www.palgrave-journals.com,www.rikenresearch.riken.jp,www.scitable.com,www.natureprotocols.com,scientificamerican.com,sciam.com';
+	    window.dcs = new Webtrends.dcs().init({
+	        dcsid:"dcszbiart00000oiar2s6w5ud_4y9j",
+            domain:"statse.webtrendslive.com",
+            timezone:-5,
+            downloadtypes:"xls,doc,pdf,txt,csv,zip,docx,xlsx",
+            navigationtag:"div,table",
+            trackevents:true,
+            enabled:true,
+            i18n:false,
+            offsite: true,
+            paidsearchparams:"gclid",
+            splitvalue:"",
+            preserve:true,
+            cookieTypes:"all",
+            metanames:"Access,citation_authors,citation_title,citation_journal_title,citation_date,citation_volume,citation_issue,citation_doi",
+            onsitedoms: {
+                doms: onSiteDomains,
+                test: function(host) {
+                if (onSiteDomains.length > 0) {
+                  var doms = onSiteDomains.split(",");
+                  var len = doms.length;
+                  var pattern;
+                  for (var i = 0; i < len; i++) {
+                    doms[i] = doms[i].replace(/^\s*/, "").replace(/\s*$/, "");
+                    pattern = new RegExp(doms[i] + '$');
+                    if (host.search(pattern) != -1) {
+                      return true;
+                    }
+                  }
+                }
+                return false;
+              }
+            },
+            fpcdom:".scientificamerican.com",
+            plugins:{
+                hm:{src:"//s.webtrends.com/js/webtrends.hm.js"},
+                WT_Nature_ndl: {
+                    src: function (_window) {
+                        _window = _window || window;
+        
+                        if (!_window.Webtrends)
+                        return;
+        
+                        function doTransform(d, o) {
+                            var e = o.element || {};
+                            var evt = o.event || {};
+                        
+                            var getDl = function() {
+                                if (o && o.argsa) {
+                                    for (var i = 0; i < o.argsa.length - 1; i += 2) {
+                                        if (o.argsa[i] === 'WT.dl') {
+                                            return o.argsa[i + 1];
+                                        }
+                                    }
+                                }
+                                return d.WT.dl;
+                            };
+                        
+                            var _dl = getDl() || '0';
+
+                           // Begin test for offsite.
+                            if (e.hostname && !d.dcsIsOnsite(e.hostname, d._onsitedoms) && !d._isRightClick(evt)) {
+                                _dl = '24';
+                            }
+                            // End test for offsite
+                        
+                            // Start testing for downloads
+                            if ((e.pathname) && d.dcsTypeMatch(e.pathname, d._downloadtypes) && !d._isRightClick(evt)) {
+                                _dl = '20';
+                            }
+                            // End testing for downloads 
+
+                            o.argsa.push("WT.ndl", _dl);
+                        
+                            if (d.DCS.dcsuri.substr(d.DCS.dcsuri.length-4)=='.pdf') {
+                                _dl = '0';
+                            }
+                            d.WT.ndl = _dl;
+                        }
+        
+                        function regTransform() {
+                            _window.Webtrends.addTransform(doTransform, 'all');
+                        }
+                        Webtrends.registerPlugin("WT_Nature_ndl", regTransform);
+                    }
+                }
+            }
+	    });
+		dcs.WT.cg_n = "SA Blogs";
+		dcs.WT.cg_s = "Guest Blog - Blogs - Network";
+		dcs.WT.sa_cat = "Energy & Sustainability";
+		dcs.WT.sa_cattop = "";
+		dcs.WT.sa_author = "Patrick Mustain";
+		dcs.WT.sa_pubdate = "May 19, 2013";
+		dcs.WT.z_css = "desktop";
+	    dcs.track();
+	};
+	(function(){
+	    var s=document.createElement("script"); s.async=true; s.src="http://www.scientificamerican.com/sciam/includes/themes/sciam/js/trackingScripts/WT10/webtrends.js";    
+	    var s2=document.getElementsByTagName("script")[0]; s2.parentNode.insertBefore(s,s2);
+	}());
+}, 2000);	
+</script>
+<noscript><img alt="dcsimg" id="dcsimg" width="1" height="1" src="//statse.webtrendslive.com/dcszbiart00000oiar2s6w5ud_4y9j/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=10.4.1"/></noscript>
+<!-- END OF SmartSource Data Collector TAG v10.4.1 -->
+
+<script type="text/javascript"><!--//--><![CDATA[//><!--
+(function($) {
+	$(function() {
+		var applyParams = function(wt) {
+			var params = [];
+			for (var prop in wt) {
+				params.push(prop);
+				params.push(wt[prop]);
+			}
+			_tag.dcsMultiTrack.apply(_tag, params);
+		};
+
+		$('a[href*="/rss"]').each(function() {
+			if (this.href.match(/\/rss\/?(\?.*)?$/)) {
+				$(this).bind('click', function() {
+					var wt = {};
+					wt['DCS.dcsuri'] = this.pathname ? this.pathname.indexOf('/') !== 0 ? '/' + this.pathname : this.pathname : '/';
+					wt['DCS.dcsqry'] = this.search ? this.search.substring(1) : '';
+					wt['WT.ti'] = 'Download:' + (this.hostname ? this.hostname.split(':')[0] : '') + wt['DCS.dcsuri'] + (wt['DCS.dcsqry'] ? '?' + wt['DCS.dcsqry'] : '');
+					wt['WT.dl'] = '20';
+					applyParams(wt);
+				});
+			}
+		});
+
+		$('div[class*="adunit-"] a').bind('click', function() {
+			var classes = $(this).parents('div[class*="adunit-"]:first').attr('class');
+
+			if (classes) {
+				var match = /(^|\s)adunit-([^\s]+)/.exec(classes);
+				_tag.dcsMultiTrack('WT.ac', (match) ? match[2] : '');
+			}
+		});
+	});
+})(jQuery);
+//--><!]]></script>
+<!-- end webtrends Version: 8.6.0 -->
+
+
+WARC/1.0
+WARC-Type: resource
+WARC-Record-ID: <urn:uuid:66bc5658-89a3-4c2c-86f1-08831b192438>
+WARC-Warcinfo-ID: <urn:uuid:ac0b383f-d517-43de-9fa2-b1df02351ac6>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/MANIFEST.txt
+WARC-Date: 2014-11-12T21:46:34Z
+Content-Type: text/plain
+Content-Length: 48
+
+<urn:uuid:ac0b383f-d517-43de-9fa2-b1df02351ac6>
+
+
+WARC/1.0
+WARC-Type: resource
+WARC-Record-ID: <urn:uuid:66bc5658-89a3-4c2c-86f1-08831b192438>
+WARC-Warcinfo-ID: <urn:uuid:ac0b383f-d517-43de-9fa2-b1df02351ac6>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/wget_arguments.txt
+WARC-Date: 2014-11-12T21:46:34Z
+Content-Type: text/plain
+Content-Length: 343
+
+"--warc-file" "dear-american-consumers-please-dont-start-eating-healthfully-sincerely-the-food-industry" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "-q" "-O" "/dev/null" "http://blogs.scientificamerican.com/guest-blog/2013/05/19/dear-american-consumers-please-dont-start-eating-healthfully-sincerely-the-food-industry/" 
+
+

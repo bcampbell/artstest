@@ -1,0 +1,778 @@
+WARC/1.0
+WARC-Type: warcinfo
+Content-Type: application/warc-fields
+WARC-Date: 2014-11-12T21:06:23Z
+WARC-Record-ID: <urn:uuid:26cde956-ec7c-475c-91c8-612b4d4ce75b>
+WARC-Filename: why-isnt-gatsby-public-domain.warc
+Content-Length: 367
+
+software: Wget/1.13.4-2608 (linux-gnu)
+format: WARC File Format 1.0
+conformsTo: http://bibnum.bnf.fr/WARC/WARC_ISO_28500_version1_latestdraft.pdf
+robots: classic
+wget-arguments: "--warc-file" "why-isnt-gatsby-public-domain" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "https://www.eff.org/deeplinks/2013/05/why-isnt-gatsby-public-domain" 
+
+
+
+WARC/1.0
+WARC-Type: request
+WARC-Target-URI: https://www.eff.org/deeplinks/2013/05/why-isnt-gatsby-public-domain
+Content-Type: application/http;msgtype=request
+WARC-Date: 2014-11-12T21:06:24Z
+WARC-Record-ID: <urn:uuid:0ad99dbb-75ec-4d1e-bbf5-61c848622e5c>
+WARC-IP-Address: 69.50.225.155
+WARC-Warcinfo-ID: <urn:uuid:26cde956-ec7c-475c-91c8-612b4d4ce75b>
+Content-Length: 163
+
+GET /deeplinks/2013/05/why-isnt-gatsby-public-domain HTTP/1.1
+User-Agent: Wget/1.13.4-2608 (linux-gnu)
+Accept: */*
+Host: www.eff.org
+Connection: Keep-Alive
+
+
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <urn:uuid:41545d00-20df-4647-b728-296da3f97ec3>
+WARC-Warcinfo-ID: <urn:uuid:26cde956-ec7c-475c-91c8-612b4d4ce75b>
+WARC-Concurrent-To: <urn:uuid:0ad99dbb-75ec-4d1e-bbf5-61c848622e5c>
+WARC-Target-URI: https://www.eff.org/deeplinks/2013/05/why-isnt-gatsby-public-domain
+WARC-Date: 2014-11-12T21:06:24Z
+WARC-IP-Address: 69.50.225.155
+Content-Type: application/http;msgtype=response
+Content-Length: 50539
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 12 Nov 2014 21:06:24 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/5.4.4-14+deb7u14
+X-Drupal-Cache: MISS
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Last-Modified: Wed, 12 Nov 2014 21:05:19 +0000
+Cache-Control: public, max-age=1800
+ETag: "1415826319-1"
+Content-Language: en
+X-Generator: Drupal 7 (http://drupal.org)
+Link: <https://www.eff.org/files/2014/10/14/eff-og-1b.jpg>; rel="image_src",<https://www.eff.org/deeplinks/2013/05/why-isnt-gatsby-public-domain>; rel="canonical",<https://www.eff.org/node/74115>; rel="shortlink",<https://www.eff.org/>; rel="publisher"
+Vary: Cookie,Accept-Encoding
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+X-Varnish: 1803604868 1803596426
+Age: 64
+Via: 1.1 varnish
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+X-Frame-Options: SAMEORIGIN
+
+1cc6
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:fb="http://ogp.me/ns/fb#"
+  itemscope itemtype= "http://schema.org/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:article="http://ogp.me/ns/article#"
+  xmlns:book="http://ogp.me/ns/book#"
+  xmlns:profile="http://ogp.me/ns/profile#"
+  xmlns:video="http://ogp.me/ns/video#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.eff.org/ru/deeplinks/2013/05/why-isnt-gatsby-public-domain" rel="alternate" hreflang="ru" />
+<link href="https://www.eff.org/pt-br/deeplinks/2013/05/why-isnt-gatsby-public-domain" rel="alternate" hreflang="pt-br" />
+<link href="https://www.eff.org/sh/deeplinks/2013/05/why-isnt-gatsby-public-domain" rel="alternate" hreflang="sh" />
+<link href="https://www.eff.org/vi/deeplinks/2013/05/why-isnt-gatsby-public-domain" rel="alternate" hreflang="vi" />
+<link rel="shortcut icon" href="https://www.eff.org/sites/all/themes/frontier/favicon.ico" type="image/vnd.microsoft.icon" />
+<link href="https://www.eff.org/fa/deeplinks/2013/05/why-isnt-gatsby-public-domain" rel="alternate" hreflang="fa" />
+<link href="https://www.eff.org/es/deeplinks/2013/05/why-isnt-gatsby-public-domain" rel="alternate" hreflang="es" />
+<link href="https://www.eff.org/sv/deeplinks/2013/05/why-isnt-gatsby-public-domain" rel="alternate" hreflang="sv" />
+<link href="https://www.eff.org/ar/deeplinks/2013/05/why-isnt-gatsby-public-domain" rel="alternate" hreflang="ar" />
+<link href="https://www.eff.org/ja/deeplinks/2013/05/why-isnt-gatsby-public-domain" rel="alternate" hreflang="ja" />
+<link href="https://www.eff.org/am/deeplinks/2013/05/why-isnt-gatsby-public-domain" rel="alternate" hreflang="am" />
+<link href="https://www.eff.org/zh-hans/deeplinks/2013/05/why-isnt-gatsby-public-domain" rel="alternate" hreflang="zh-hans" />
+<link href="https://www.eff.org/my/deeplinks/2013/05/why-isnt-gatsby-public-domain" rel="alternate" hreflang="my" />
+<link href="https://www.eff.org/de/deeplinks/2013/05/why-isnt-gatsby-public-domain" rel="alternate" hreflang="de" />
+<link href="https://www.eff.org/fr/deeplinks/2013/05/why-isnt-gatsby-public-domain" rel="alternate" hreflang="fr" />
+<link href="https://www.eff.org/deeplinks/2013/05/why-isnt-gatsby-public-domain" rel="alternate" hreflang="en" />
+<meta name="description" content="When The Great Gatsby rolls out to theaters across the country this weekend, it will bring to the screen a story familiar to millions from a literary classic that&#039;s often dubbed the proverbial &quot;Great American Novel.&quot; Here’s what many folks don’t know: even though the book was published nearly 90 years ago and is a long-established part of our shared cultural heritage, it has not yet entered the public domain." />
+<meta name="keywords" content="Innovation, Fair Use and Intellectual Property: Defending the Balance" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<meta name="rights" content="https://www.eff.org/copyright" />
+<link rel="image_src" href="https://www.eff.org/files/2014/10/14/eff-og-1b.jpg" />
+<link rel="canonical" href="https://www.eff.org/deeplinks/2013/05/why-isnt-gatsby-public-domain" />
+<link rel="shortlink" href="https://www.eff.org/node/74115" />
+<link rel="publisher" href="https://www.eff.org/" />
+<meta property="og:site_name" content="Electronic Frontier Foundation" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.eff.org/deeplinks/2013/05/why-isnt-gatsby-public-domain" />
+<meta property="og:title" content="Why Isn&#039;t Gatsby in the Public Domain?" />
+<meta property="og:description" content="When The Great Gatsby rolls out to theaters across the country this weekend, it will bring to the screen a story familiar to millions from a literary classic that&#039;s often dubbed the proverbial &quot;Great American Novel.&quot; Here’s what many folks don’t know: even though the book was published nearly 90 years ago and is a long-established part of our shared cultural heritage, it has not yet entered the public domain." />
+<meta property="og:updated_time" content="2013-05-07T13:40:00-07:00" />
+<meta property="og:image" content="https://www.eff.org/files/images_insert/fscott-and-zelda.png" />
+<meta property="og:image:secure_url" content="https://www.eff.org/files/images_insert/fscott-and-zelda.png" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@eff" />
+<meta name="twitter:image:src" content="https://www.eff.org/files/images_insert/fscott-and-zelda.png" />
+<meta property="article:publisher" content="https://www.facebook.com/eff" />
+<meta property="article:published_time" content="2013-05-07T12:46:37-07:00" />
+<meta property="article:modified_time" content="2013-05-07T13:40:00-07:00" />
+<meta itemprop="name" content="Why Isn&#039;t Gatsby in the Public Domain?" />
+<meta itemprop="description" content="When The Great Gatsby rolls out to theaters across the country this weekend, it will bring to the screen a story familiar to millions from a literary classic that&#039;s often dubbed the proverbial &quot;Great American Novel.&quot; Here’s what many folks don’t know: even though the book was published nearly 90 years ago and is a long-established part of our shared cultural heritage, it has not yet entered the public domain." />
+  <title>Why Isn't Gatsby in the Public Domain? | Electronic Frontier Foundation</title>
+  <link type="text/css" rel="stylesheet" href="https://www.eff.org/files/css/css_r7mP1rcWJQ63n8Fdr5p_bAp2cVsr4IDoQbtzGzliANo.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.eff.org/files/css/css_pbm0lsQQJ7A7WCCIMgxLho6mI_kBNgznNUWmTWcnfoE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.eff.org/files/css/css_2WDS6rAKK7kwjEKZtVIbWvbcKp7kyhaaJDneFaYyT34.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.eff.org/files/css/css_f5-AdChCxg-hr6fH70YSdXbnn6hle43HAZDU32S_35Y.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.eff.org/files/css/css_CyXYe5BLQ6-hUtpOiLIdxmuNeImGYENTtHbR3UUadlc.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.eff.org/files/css/css_tac-6FWJqlYSecIaWzTPfIMPkxVjs1ZZA9xM8tIgXBk.css" media="print" />
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+/**
+ * @licstart The following is the entire license notice for the JavaScript
+ * code in this page.
+ *
+ * Copyright (C) 2014  Electronic Frontier Foundation.
+ *
+ * The JavaScript code in this page is free software: you can redistribute
+ * it and/or modify it under the terms of the GNU General Public License
+ * (GNU GPL) as published by the Free Software Foundation, either version 3
+ * of the License, or (at your option) any later version.  The code is
+ * distributed WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU GPL
+ * for more details.
+ *
+ * As additional permission
+2000
+ under GNU GPL version 3 section 7, you may
+ * distribute non-source (e.g., minimized or compacted) forms of that code
+ * without the copy of the GNU GPL normally required by section 4, provided
+ * you include this license notice and a URL through which recipients can
+ * access the Corresponding Source.
+ *
+ * @licend The above is the entire license notice for the JavaScript code
+ * in this page.
+ */
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.eff.org/files/js/js_0gj6QcpfRH2jzTbCQqf7kEkm4MXY0UA_sRhwPc8jC1o.js"></script>
+<script type="text/javascript" src="https://www.eff.org/files/js/js_BREHwrtOflVeor_1Bh1zMpVZ9rRox5vxpovPrJhY2UI.js"></script>
+<script type="text/javascript" src="https://www.eff.org/files/js/js_LakOVyAVjkEPbb_v5Fr9hgMGXkg51zVtGiGo1YwLN44.js"></script>
+<script type="text/javascript" src="https://www.eff.org/files/js/js_aRe4mjwNkRq0UugCuQDnvErzl6bmOFX_DLCke_FfyYc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"frontier","theme_token":"RN5BY_daYK7ct7fjNrBmVeLLlDS8c1a_N7T_U7K8pJ0","js":{"0":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/modules\/custom\/eff_whyb\/js\/whyb.js":1,"sites\/all\/modules\/caption_filter\/js\/caption-filter.js":1,"sites\/all\/modules\/mytube\/mytube.js":1,"sites\/all\/modules\/lightbox2\/js\/lightbox.js":1,"sites\/all\/themes\/frontier\/deeplinks_share\/deeplinks_share.js":1,"sites\/all\/themes\/frontier\/js\/no_has_js.js":1,"sites\/all\/themes\/frontier\/js\/jquery.mailcheck.min.js":1,"sites\/all\/themes\/frontier\/js\/do_mailcheck.js":1,"sites\/all\/themes\/frontier\/js\/placeholder.js":1},"css":{"sites\/all\/themes\/frontier\/css\/reset.css":1,"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/footnotes\/footnotes.css":1,"modules\/book\/book.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/mytube\/mytube.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/video_filter\/video_filter.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/caption_filter\/caption-filter.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/lexicon\/css\/lexicon.css":1,"sites\/all\/modules\/lightbox2\/css\/lightbox.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/wysiwyg_linebreaks\/wysiwyg_linebreaks.css":1,"sites\/all\/modules\/panels\/plugins\/layouts\/twocol_bricks\/twocol_bricks.css":1,"sites\/all\/modules\/custom\/eff_library\/plugins\/layouts\/eff_site_layout\/eff-site-layout.css":1,"sites\/all\/themes\/frontier\/deeplinks_share\/deeplinks_share.css":1,"sites\/all\/themes\/frontier\/css\/layout.css":1,"sites\/all\/themes\/frontier\/css\/html-elements.css":1,"sites\/all\/themes\/frontier\/css\/frontier.css":1,"sites\/all\/themes\/frontier\/css\/wysiwyg.css":1,"sites\/all\/themes\/frontier\/timeline\/css\/style.css":1,"sites\/all\/themes\/frontier\/css\/print.css":1}},"lightbox2":{"rtl":"0","file_path":"\/(\\w\\w\/)public:\/","default_image":"\/sites\/all\/modules\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":true,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":false,"disable_resize":false,"disable_zoom":false,"force_show_nav":false,"show_caption":true,"loop_items":false,"node_link_text":"View Image Details","node_link_target":false,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003Ca href=\u0022#\u0022 onclick=\u0022hideLightbox(); return FALSE;\u0022\u003E\u003Ckbd\u003Ex\u003C\/kbd\u003E\u003C\/a\u003E to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":600,"iframe_height":400,"iframe_border":1,"enable_video":false}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-74115 node-type-blog" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="page">
+  <div id="container-wrapper">
+    <div id="container">
+      <div id="header-wrapper">
+        <div class="header-content">
+          <div class="panel-pane pane-pane-header"  >
+  
+      
+  
+  <div class="pane-content">
+    <div id="header">
+  <div class="section clearfix">
+    <div id="logo-title">
+
+              <a href="/" title="Home" rel="home" id="logo">
+          <img src="https://www.eff.org/sites/all/themes/frontier/images/logo_full.png" alt="Home" />
+        </a>
+      
+      <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/" title="Home" rel="home"><span>Electronic Frontier Foundation</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Defending your rights in the digital world</div>
+              </div> <!-- /name-and-slogan -->
+    </div> <!-- /logo-title -->
+
+      </div> <!-- /section -->
+</div> <!-- /header -->
+  </div>
+
+  
+  </div>
+        </div>
+        <div class="search-box">
+          <div class="panel-pane pane-block pane-search-form"  >
+  
+      
+  
+  <div class="pane-content">
+    <form action="/deeplinks/2013/05/why-isnt-gatsby-public-domain" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-4Z4ue1pxxz3Vqf2pUHCHBPoLOHA2zteeUBJH514QLAo" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+
+  
+  </div>
+        </div>  
+      </div>
+      <div id="main-menu-nav" class="navigation">
+          <div class="panel-pane pane-pane-navigation"  >
+  
+      
+  
+  <div class="pane-content">
+    <div id="navigation" class="menu withprimary ">
+      <div id="primary" class="clear-block">
+      <h2>Main menu</h2><ul id="main-menu" class="links clearfix inline"><li class="menu-925 first"><a href="/" title="">Home</a></li>
+<li class="menu-1746"><a href="/about">About</a></li>
+<li class="menu-689"><a href="/issues">Our Work</a></li>
+<li class="menu-301 active-trail"><a href="/deeplinks" class="active-trail">Deeplinks Blog</a></li
+2000
+>
+<li class="menu-302"><a href="/press">Press Room</a></li>
+<li class="menu-303"><a href="/action" title="">Take Action</a></li>
+<li class="menu-926 last"><a href="https://supporters.eff.org/shop" title="">Shop</a></li>
+</ul>    </div>
+  
+</div> <!-- /navigation -->
+  </div>
+
+  
+  </div>
+      </div>
+      <div id="breadcrumb">
+                </div>
+      <div id="main">
+        <div class="layout-main-content">
+          <div class="panel-pane pane-pane-messages"  >
+  
+      
+  
+  <div class="pane-content">
+      <div class="tabs"></div>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-page-content"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="panel-display panel-2col-bricks clearfix" >
+  <div class="panel-panel panel-col-top">
+    <div class="inside"><div class="panel-pane pane-eff-share-blog"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="share-links"><a class="share-twitter" href="https://twitter.com/home?status=Why%20Isn%27t%20Gatsby%20in%20the%20Public%20Domain%3F%20https%3A//www.eff.org/deeplinks/2013/05/why-isnt-gatsby-public-domain%20via%20%40EFF" target="_blank"><img src="/sites/all/themes/frontier/images/share/twitter16.png" alt="Share on Twitter" /></a><a class="share-facebook" href="https://www.facebook.com/share.php?u=https%3A//www.eff.org/deeplinks/2013/05/why-isnt-gatsby-public-domain&title=Why%20Isn%27t%20Gatsby%20in%20the%20Public%20Domain%3F" target="_blank"><img src="/sites/all/themes/frontier/images/share/facebook.gif" alt="Share on Facebook" /></a><a class="share-google" href="https://plus.google.com/share?url=https%3A//www.eff.org/deeplinks/2013/05/why-isnt-gatsby-public-domain" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="/sites/all/themes/frontier/images/share/gplus-16.png" alt="Share on Google+"/></a><a class="share-diaspora" href="http://sharetodiaspora.github.com/?title=Why%20Isn%27t%20Gatsby%20in%20the%20Public%20Domain%3F&url=https%3A//www.eff.org/deeplinks/2013/05/why-isnt-gatsby-public-domain" target="_blank"><img src="/sites/all/themes/frontier/images/share/diaspora-16.png" alt="Share on Diaspora" /></a><a class="share-print" href="javascript:window.print()"><img src="/sites/all/themes/frontier/images/share/print.png" width="16" height="16" alt="Print" /></a><a class="share-email" href="mailto:?subject=Why%20Isn%27t%20Gatsby%20in%20the%20Public%20Domain%3F&body=When%20The%20Great%20Gatsby%20rolls%20out%20to%20theaters%20across%20the%20country%20this%20weekend%2C%20it%20will%20bring%20to%20the%20screen%20a%20story%20familiar%20to%20millions%20from%20a%20literary%20classic%20that%27s%20often%20dubbed%20the%20proverbial%20%22Great%20American%20Novel.%22%20Here%E2%80%99s%20what%20many%20folks%20don%E2%80%99t%20know%3A%20even...%0A%0Ahttps%3A//www.eff.org/deeplinks/2013/05/why-isnt-gatsby-public-domain%0A" target="_blank"><img src="/sites/all/themes/frontier/images/share/email.gif" alt="Email This" /></a></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-eff-author"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="dateauthor">May 7, 2013 | By <a href="/about/staff/parker-higgins">Parker Higgins</a> </div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-eff-node-title"  >
+  
+      
+  
+  <div class="pane-content">
+    <h2 class="node-title">Why Isn&#039;t Gatsby in the Public Domain?</h2>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-entity-field pane-node-body"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>When <i>The Great Gatsby </i>rolls out to theaters across the country this weekend, it will bring to the screen a story familiar to millions from a literary classic that's often dubbed the proverbial "Great American Novel." Here’s what many folks don’t know: even though the book was published nearly 90 years ago and is a long-established part of our shared cultural heritage, it has not yet entered the public domain.</p>
+<p>Yes, even though F. Scott Fitzgerald died 73 years ago (and is therefore unlikely to be incentivized to produce more work), <i>The Great Gatsby </i>is <a href="https://blogs.library.duke.edu/scholcomm/2011/01/04/curb-your-enthusiasm/">still restricted by copyright</a>.</p>
+<div class="align-right">
+<p></p><div class="caption caption-center"><div class="caption-inner"><img src="https://www.eff.org/files/images_insert/fscott-and-zelda.png" alt="" height="377" width="256" />F. Scott and Zelda Fitzgerald</div></div>
+</div>
+<p>In fact, it won't be truly free to the American public until January 1, 2021 — and even then only if copyright terms aren't extended <i>again</i>. Thanks to the 1998 Sonny Bono <a href="https://en.wikipedia.org/wiki/Copyright_Term_Extension_Act">Copyright Term Extension Act</a>, <i>no</i> published US works will enter the public domain until 2019.<a class="see-footnote" id="footnoteref1_nouak9k" title="That is, no published works will enter the public domain through copyright expiration. However, works by the U.S. federal government, for example, are never subject to copyright restrictions, and the authors of some private works like the animated film &quot;Sita Sings the Blues&quot; have waived all copyright obligations." href="#footnote1_nouak9k">1</a> Some countries have slightly saner copyright terms, but the U.S. Trade Rep is working diligently to use <a href="https://www.eff.org/issues/tpp">international agreements like the TPP</a> to ratchet up terms around the world.</p>
+<p>Still worse, <a href="https://www.eff.org/deeplinks/2012/01/supreme-court-gets-it-wrong-golan-v-holder-public-domain-mourns">a tragic 2012 Supreme Court decision</a> declared that even once in the public domain, works can be yanked back out by Congressional action. Between excessively long copyright terms and the uncertainty of public domain status, creating new works that depend on the commons has become difficult and dangerous.</p>
+<p>We feel the pernicious practical effects of lengthy copyright terms every day. For example, a study last year of books on Amazon showed that books published after the critical public domain cut-off date of 1923 are available at a dramatically lower rate than books from even an entire century before. The result is <a href="http://www.theatlantic.com/technology/archive/2012/03/the-missing-20th-century-how-copyright-protection-makes-books-vanish/255282/">a "missing 20th century" in the history of books</a>.</p>
+<p>Nor is the problem confined to books. Another study by an MIT economist examined <a href="http://www.theatlantic.com/technology/archive/2012/07/mit-economist-heres-how-copyright-laws-impoverish-wikipedia/259970/">an archive of baseball magazines</a> that included some issues in the public domain and some still burdened by copyright. By contrast, images from the public domain issues can be digitized and redistributed, and so their availability has greatly improved the quality—and thus increased the readership and editing engagement—of Wikipedia articles on baseball players from that era.</p>
+<p>You may or may not care about particular baseball players from the 1960s, but the situation repeats itself over and over again across different fields. In the name of preserving profits for a handful of rightsholders, our cultural history is left to decay in legally imposed obscurity.</p>
+<p>A diminished public domain doesn't just rob us of past works, but of the future works that could rely on an expanded public domain. Rightsholders have the power to veto derivative works simply by refusing to license the  works. And if <a href="https://www.eff.org/deeplinks/2013/02/orphan-works-problem-time-fix-it">the rightsholder can't be tracked down or confirmed</a> — a real possibility when we’re talking about works that are nearly a hundred years old — the difficulty of getting a license can halt production altogether.</p>
+<p>Ir
+64d9
+onically, this hurts the same studios that pushed the Copyright Term Extension Act in the first place. Adapting well-known works is a powerful way to reach an audience familiar with the characters and story, and a strong public domain provides fertile grounds for new works. For example, Disney’s early films mined the public domain freely, leading to classic versions of well-known fairy tales, but its lobbying for expanded copyright restrictions has deprived others — and the public — of the same possibilities.</p>
+<p><i>Gatsby</i> director Baz Luhrmann himself took advantage of the public domain with his 1996 film <i>Romeo + Juliet.</i> The movie was, of course, a heavily modernized and modified version of Shakespeare's classic play—exactly the kind of thing that a rightsholder might veto for "artistic integrity," if there were a Shakespeare "estate" that were as good at lobbying as Disney and the MPAA.</p>
+<p>But it was also a critical and popular success, racking up nearly $150 million at the box office, and the world of film would be a poorer place without it. It should be obvious to Hollywood the value of the public domain as a critical component of a thriving creative culture—both in artistic terms and economic ones. Bloating the copyright term may have seemed like a fine way to protect that year's profits, but ultimately it comes at a great cost to both Hollywood and the public interest.</p>
+<div></div>
+
+<ul class="footnotes"><li class="footnote" id="footnote1_nouak9k"><a class="footnote-label" href="#footnoteref1_nouak9k">1.</a> That is, no published works will enter the public domain through copyright expiration. However, works by the U.S. federal government, for example, are never subject to copyright restrictions, and the authors of some private works like the animated film "<a href="http://www.sitasingstheblues.com/">Sita Sings the Blues</a>" have waived all copyright obligations.</li>
+</ul></div></div></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-entity-field pane-node-field-issue"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="field field-name-field-issue field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/issues/innovation">Innovation</a></div><div class="field-item odd"><a href="/issues/intellectual-property">Fair Use and Intellectual Property: Defending the Balance</a></div></div></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-custom pane-1"  >
+  
+      
+  
+  <div class="pane-content">
+    <br clear="all">
+
+  </div>
+
+  
+  </div>
+</div>
+  </div>
+  <div class="center-wrapper">
+    <div class="panel-panel panel-col-first">
+      <div class="inside"><div class="panel-pane pane-views-panes pane-blog-related-posts-panel-pane-1"  >
+  
+        <h2 class="pane-title">More DeepLinks Posts Like This</h2>
+    
+  
+  <div class="pane-content">
+    <div class="view view-blog-related-posts view-id-blog_related_posts view-display-id-panel_pane_1 view-dom-id-19fc3dab15ab7f033e84efb911726b24">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field views-field-created">        <span class="field-content">January 2014</span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/deeplinks/2014/01/wikipedia-shows-value-vibrant-public-domain">Wikipedia Shows the Value of a Vibrant Public Domain</a></span>  </div></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field views-field-created">        <span class="field-content">August 2012</span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/deeplinks/2012/08/all-nations-lose-tpps-expansion-copyright-terms">All Nations Lose with TPP&#039;s Expansion of Copyright Terms</a></span>  </div></li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <div class="views-field views-field-created">        <span class="field-content">October 2008</span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/deeplinks/2008/10/google-books-settlement-readers-guide">Google Book Search Settlement: A Reader&#039;s Guide</a></span>  </div></li>
+          <li class="views-row views-row-4 views-row-even">  
+  <div class="views-field views-field-created">        <span class="field-content">January 2012</span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/deeplinks/2012/01/supreme-court-gets-it-wrong-golan-v-holder-public-domain-mourns">Supreme Court Gets It Wrong in Golan v. Holder, Public Domain Mourns</a></span>  </div></li>
+          <li class="views-row views-row-5 views-row-odd views-row-last">  
+  <div class="views-field views-field-created">        <span class="field-content">June 2006</span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/deeplinks/2006/06/copyfraud"> Copyfraud</a></span>  </div></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+</div>
+    </div>
+
+    <div class="panel-panel panel-col-last">
+      <div class="inside"><div class="panel-pane pane-views-panes pane-blog-recent-five-panel-pane-1"  >
+  
+        <h2 class="pane-title">Recent DeepLinks Posts</h2>
+    
+  
+  <div class="pane-content">
+    <div class="view view-blog-recent-five- view-id-blog_recent_five_ view-display-id-panel_pane_1 view-dom-id-176264e2232b9b16bb1380717e26a4f3">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field views-field-created">        <span class="field-content">Nov 12, 2014</span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/deeplinks/2014/11/fbis-suicide-letter-dr-martin-luther-king-jr-and-dangers-unchecked-surveillance">FBI&#039;s &quot;Suicide Letter&quot; to Dr. Martin Luther King, Jr., and the Dangers of Unchecked Surveillance</a></span>  </div></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field views-field-created">        <span class="field-content">Nov 11, 2014</span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/deeplinks/2014/11/americans-want-more-privacy-companies-and-government">Americans Want More Privacy from Companies and Government</a></span>  </div></li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <div class="views-field views-field-created">        <span class="field-content">Nov 11, 2014</span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/deeplinks/2014/11/starttls-downgrade-attacks">ISPs Removing Their Customers&#039; Email Encryption</a></span>  </div></li>
+          <li class="views-row views-row-4 views-row-even">  
+  <div class="views-field views-field-created">        <span class="field-content">Nov 10, 2014</span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/es/deeplinks/2014/11/la-retencion-de-datos-de-trafico-en-paraguay-es-espionaje-masivo-e">La Retención de Datos de Tráfico en Paraguay Es Espionaje Masivo e Inconstitucional</a></span>  </div></li>
+          <li class="views-row views-row-5 views-row-odd views-row-last">  
+  <div class="views-field views-field-created">        <span class="field-content">Nov 10, 2014</span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/deeplinks/2014/11/scorecard-update-we-cannot-credit-skype-end-end-encryption">Scorecard Update: We Cannot Credit Skype For End-to-end Encryption</a></span>  </div></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+</div>
+    </div>
+  </div>
+  <div class="panel-panel panel-col-middle">
+    <div class="inside"><div class="panel-pane pane-views-panes pane-all-blog-categories-panel-pane-1"  >
+  
+        <h2 class="pane-title">Deeplinks Topics</h2>
+    
+  
+  <div class="pane-content">
+    <div class="view view-all-blog-categories view-id-all_blog_categories view-display-id-panel_pane_1 view-dom-id-23e479bbaa25c47cee1b5271530908f9">
+        
+  
+  
+      <div class="view-content">
+      
+<div class='column archives-column-0'><ul class='archives-group'><li>  
+          <a href="/deeplinks/abortion-reporting">Abortion Reporting</a>  </li><li>  
+          <a href="/deeplinks/analog-hole">Analog Hole</a>  </li><li>  
+          <a href="/deeplinks/anonymity">Anonymity</a>  </li><li>  
+          <a href="/deeplinks/anti-counterfeiting-trade-agreement">Anti-Counterfeiting Trade Agreement</a>  </li><li>  
+          <a href="/deeplinks/biometrics">Biometrics</a>  </li><li>  
+          <a href="/deeplinks/bloggers%27-rights">Bloggers&#039; Rights</a>  </li><li>  
+          <a href="/deeplinks/broadcast-flag">Broadcast Flag</a>  </li><li>  
+          <a href="/deeplinks/broadcasting-treaty">Broadcasting Treaty</a>  </li><li>  
+          <a href="/deeplinks/calea">CALEA</a>  </li><li>  
+          <a href="/deeplinks/cell-tracking">Cell Tracking</a>  </li><li>  
+          <a href="/deeplinks/coders%27-rights-project">Coders&#039; Rights Project</a>  </li><li>  
+          <a href="/deeplinks/computer-fraud-and-abuse-act-reform">Computer Fraud And Abuse Act Reform</a>  </li><li>  
+          <a href="/deeplinks/content-blocking">Content Blocking</a>  </li><li>  
+          <a href="/deeplinks/copyright-trolls">Copyright Trolls</a>  </li><li>  
+          <a href="/deeplinks/council-of-europe">Council of Europe</a>  </li><li>  
+          <a href="/deeplinks/cyber-security-legislation">Cyber Security Legislation</a>  </li><li>  
+          <a href="/deeplinks/cyberslapp">CyberSLAPP</a>  </li><li>  
+          <a href="/deeplinks/defend-your-right-to-repair%21">Defend Your Right to Repair!</a>  </li><li>  
+          <a href="/deeplinks/defending-digital-voices">Defending Digital Voices</a>  </li><li>  
+          <a href="/deeplinks/development-agenda">Development Agenda</a>  </li><li>  
+          <a href="/deeplinks/digital-books">Digital Books</a>  </li><li>  
+          <a href="/deeplinks/digital-radio">Digital Radio</a>  </li><li>  
+          <a href="/deeplinks/digital-video">Digital Video</a>  </li><li>  
+          <a href="/deeplinks/dmca">DMCA</a>  </li><li>  
+          <a href="/deeplinks/dmca-rulemaking">DMCA Rulemaking</a>  </li><li>  
+          <a href="/deeplinks/do-not-track">Do Not Track</a>  </li><li>  
+          <a href="/deeplinks/drm">DRM</a>  </li><li>  
+          <a href="/deeplinks/e-voting-rights">E-Voting Rights</a>  </li><li>  
+          <a href="/deeplinks/eff-europe">EFF Europe</a>  </li><li>  
+          <a href="/deeplinks/encrypting-the-web">Encrypting the Web</a>  </li><li>  
+          <a href="/deeplinks/export-controls">Export Controls</a>  </li><li>  
+          <a href="/deeplinks/fair-use-and-intellectual-property%3A-defending-the-balance">Fair Use and Intellectual Property: Defending the Balance</a>  </li><li>  
+          <a href="/deeplinks/faqs-for-lodsys-targets">FAQs for Lodsys Targets</a>  </li></div><div class='column archives-column-1'><ul class='archives-group'><li>  
+          <a href="/deeplinks/file-sharing">File Sharing</a>  </li><li>  
+          <a href="/deeplinks/fixing-copyright?-the-2013-2014-copyright-review-process=">Fixing Copyright? The 2013-2014 Copyright Review Process</a>  </li><li>  
+          <a href="/deeplinks/free-speech">Free Speech</a>  </li><li>  
+          <a href="/deeplinks/ftaa">FTAA</a>  </li><li>  
+          <a href="/deeplinks/genetic-information-privacy">Genetic Information Privacy</a>  </li><li>  
+          <a href="/deeplinks/hollywood-v.-dvd">Hollywood v. DVD</a>  </li><li>  
+          <a href="/deeplinks/how-patents-hinder-innovation-%28graphic%29">How Patents Hinder Innovation (Graphic)</a>  </li><li>  
+          <a href="/deeplinks/innovation">Innovation</a>  </li><li>  
+          <a href="/deeplinks/international">International</a>  </li><li>  
+          <a href="/deeplinks/international-privacy-standards">International Privacy Standards</a>  </li><li>  
+          <a href="/deeplinks/internet-governance-forum">Internet Governance Forum</a>  </li><li>  
+          <a href="/deeplinks/know-your-rights">Know Your Rights</a>  </li><li>  
+          <a href="/deeplinks/law-enforcement-access">Law Enforcement Access</a>  </li><li>  
+          <a href="/deeplinks/legislative-solutions-for-patent-reform">Legislative Solutions for Patent Reform</a>  </li><li>  
+          <a href="/deeplinks/locational-privacy">Locational Privacy</a>  </li><li>  
+          <a href="/deeplinks/mandatory-data-retention">Mandatory Data Retention</a>  </li><li>  
+          <a href="/deeplinks/mandatory-national-ids-and-biometric-databases">Mandatory National IDs and Biometric Databases</a>  </li><li>  
+          <a href="/deeplinks/mass-surveillance-technologies">Mass Surveillance Technologies</a>  </li><li>  
+          <a href="/deeplinks/medical-privacy">Medical Privacy</a>  </li><li>  
+          <a href="/deeplinks/national-security-and-medical-information">National Security and Medical Information</a>  </li><li>  
+          <a href="/deeplinks/national-security-letters">National Security Letters</a>  </li><li>  
+          <a href="/deeplinks/net-neutrality">Net Neutrality</a>  </li><li>  
+          <a href="/deeplinks/no-downtime-for-free-speech">No Downtime for Free Speech</a>  </li><li>  
+          <a href="/deeplinks/nsa-spying">NSA Spying</a>  </li><li>  
+          <a href="/deeplinks/oecd">OECD</a>  </li><li>  
+          <a href="/deeplinks/online-behavioral-tracking">Online Behavioral Tracking</a>  </li><li>  
+          <a href="/deeplinks/open-access">Open Access</a>  </li><li>  
+          <a href="/deeplinks/open-wireless">Open Wireless</a>  </li><li>  
+          <a href="/deeplinks/patent-busting-project">Patent Busting Project</a>  </li><li>  
+          <a href="/deeplinks/patent-trolls">Patent Trolls</a>  </li><li>  
+          <a href="/deeplinks/patents">Patents</a>  </li><li>  
+          <a href="/deeplinks/patriot-act">PATRIOT Act</a>  </li><li>  
+          <a href="/deeplinks/pen-trap">Pen Trap</a>  </li></div><div class='column archives-column-2'><ul class='archives-group'><li>  
+          <a href="/deeplinks/policy-analysis">Policy Analysis</a>  </li><li>  
+          <a href="/deeplinks/printers">Printers</a>  </li><li>  
+          <a href="/deeplinks/privacy">Privacy</a>  </li><li>  
+          <a href="/deeplinks/public-health-reporting-and-hospital-discharge-data">Public Health Reporting and Hospital Discharge Data</a>  </li><li>  
+          <a href="/deeplinks/reading-accessibility">Reading Accessibility</a>  </li><li>  
+          <a href="/deeplinks/real-id">Real ID</a>  </li><li>  
+          <a href="/deeplinks/rfid">RFID</a>  </li><li>  
+          <a href="/deeplinks/search-engines">Search Engines</a>  </li><li>  
+          <a href="/deeplinks/search-incident-to-arrest">Search Incident to Arrest</a>  </li><li>  
+          <a href="/deeplinks/section-230-of-the-communications-decency-act">Section 230 of the Communications Decency Act</a>  </li><li>  
+          <a href="/deeplinks/security">Security</a>  </li><li>  
+          <a href="/deeplinks/social-networks">Social Networks</a>  </li><li>  
+          <a href="/deeplinks/sopa/pipa%3A-internet-blacklist-legislation">SOPA/PIPA: Internet Blacklist Legislation</a>  </li><li>  
+          <a href="/deeplinks/state-sponsored-malware">State-Sponsored Malware</a>  </li><li>  
+          <a href="/deeplinks/student-and-community-organizing">Student and Community Organizing</a>  </li><li>  
+          <a href="/deeplinks/surveillance-and-human-rights">Surveillance and Human Rights</a>  </li><li>  
+          <a href="/deeplinks/surveillance-drones">Surveillance Drones</a>  </li><li>  
+          <a href="/deeplinks/terms-of-%28ab%29use">Terms Of (Ab)Use</a>  </li><li>  
+          <a href="/deeplinks/test-your-isp">Test Your ISP</a>  </li><li>  
+          <a href="/deeplinks/the-%22six-strikes%22-copyright-surveillance-machine">The &quot;Six Strikes&quot; Copyright Surveillance Machine</a>  </li><li>  
+          <a href="/deeplinks/the-global-network-initiative">The Global Network Initiative</a>  </li><li>  
+          <a href="/deeplinks/the-law-and-medical-privacy">The Law and Medical Privacy</a>  </li><li>  
+          <a href="/deeplinks/trans-pacific-partnership-agreement">Trans-Pacific Partnership Agreement</a>  </li><li>  
+          <a href="/deeplinks/transparency">Transparency</a>  </li><li>  
+          <a href="/deeplinks/travel-screening">Travel Screening</a>  </li><li>  
+          <a href="/deeplinks/trips">TRIPS</a>  </li><li>  
+          <a href="/deeplinks/trusted-computing">Trusted Computing</a>  </li><li>  
+          <a href="/deeplinks/uncategorized">Uncategorized</a>  </li><li>  
+          <a href="/deeplinks/video-games">Video Games</a>  </li><li>  
+          <a href="/deeplinks/wikileaks">Wikileaks</a>  </li><li>  
+          <a href="/deeplinks/wipo">WIPO</a>  </li></ul></div><div class="clear-block"></div>    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      &nbsp;
+
+    </div>
+  
+  
+</div>  </div>
+
+  
+  </div>
+</div>
+  </div>
+  <div class="center-wrapper">
+    <div class="panel-panel panel-col-first">
+      <div class="inside"></div>
+    </div>
+
+    <div class="panel-panel panel-col-last">
+      <div class="inside"></div>
+    </div>
+  </div>
+  <div class="panel-panel panel-col-bottom">
+    <div class="inside"></div>
+  </div>
+</div>
+  </div>
+
+  
+  </div>
+        </div>
+                <div class="layout-right-sidebar">
+          <div class="panel-pane pane-sidebar-button"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="sidebar-big-button donate"><a href="https://supporters.eff.org/donate">Donate to EFF</a></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-sidebar-newsletter"  >
+  
+        <h2 class="pane-title">Stay in Touch</h2>
+    
+  
+  <div class="pane-content">
+    <form action="https://supporters.eff.org/subscribe" method="post" class="newsletter-form" accept-charset="UTF-8">
+<div class="form-item form-type-textfield form-item-email-address">
+  <label for="edit-email" style="display:none">Email Address</label>
+  <input placeholder="Email Address" type="text" style="margin-bottom:5px" name="email" value="" size="30" maxlength="128" class="form-text" />
+</div>
+<div class="form-item form-type-textfield form-item-postal-code">
+  <label for="edit-postal-code" style="display:none">Postal Code (optional) </label>
+  <input placeholder="Postal Code (optional)" type="text" name="postal_code" value="" size="30" maxlength="128" class="form-text" />
+</div>
+<input type="submit" name="op" value="Sign Up Now" class="form-submit" />
+<input type="hidden" name="form_id" value="eff_supporters_library_subscribe_form" />
+</form>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-nsa-spying"  >
+  
+        <h2 class="pane-title">NSA Spying</h2>
+    
+  
+  <div class="pane-content">
+    <div>
+  <div>
+    <p><a style="display:block; height:50px; background-color:#ffffff; padding:5px; border-radius:20px;" href="/nsa-spying">
+      <img style="float:left; margin-right:10px;" width="50" height="50" src="/sites/all/modules/custom/eff_library/images/NSA-small.png" title="NSA Spying" />
+      <strong style="float:left; height:50px; line-height:50px; font-family: Arial">eff.org/nsa-spying</strong>
+    </a></p>
+  </div>
+  <p style="font-size:0.8em; line-height:150%; color:#666666;">EFF is leading the fight against the NSA's illegal mass surveillance program. <a href="/nsa-spying">Learn more</a> about what the program is, how it works, and what you can do.</p>
+</div>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-views-panes pane-twitterator-follow-eff-panel-pane-1"  >
+  
+        <h2 class="pane-title">Follow EFF</h2>
+    
+  
+  <div class="pane-content">
+    <div class="view view-twitterator-follow-eff view-id-twitterator_follow_eff view-display-id-panel_pane_1 view-dom-id-a2c348e6d608a96975aabf66651997db">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-field-tweet">        <div class="field-content"><p>What a recently discovered, unredacted version of FBI&#039;s &quot;suicide letter&quot; to Dr. Martin Luther King, Jr. teaches us: <a href="https://eff.org/r.6g6i">https://eff.org/r.6g6i</a></p>
+</div>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">Nov 12 @ 12:51pm</span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-field-tweet">        <div class="field-content"><p>Hey @LISAconference, we&#039;re in the 3rd floor expo hall today! And don&#039;t miss our Ask the EFF BOF tonight. <a href="https://eff.org/r.rgl7">https://eff.org/r.rgl7</a> #lisa14</p>
+</div>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">Nov 12 @ 12:11pm</span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-field-tweet">        <div class="field-content"><p>How @derechosdigital successfully challenged privacy-invasive police requests for IP addresses in Chile: <a href="https://eff.org/r.lvx2">https://eff.org/r.lvx2</a></p>
+</div>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">Nov 12 @ 11:17am</span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <ul id="social-networks">
+<li><a href="https://twitter.com/eff">Twitter</a></li>
+<li><a href="https://www.facebook.com/eff">Facebook</a></li>
+<li><a href="https://identi.ca/eff">Identi.ca</a></li>
+</ul>
+
+    </div>
+  
+  
+</div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-menu-menu-projects"  id="projects-menu" >
+  
+        <h2 class="pane-title">Projects</h2>
+    
+  
+  <div class="pane-content">
+    <ul class="menu"><li class="first leaf"><a href="/bloggers" title="">Bloggers&#039; Rights</a></li>
+<li class="leaf"><a href="/issues/coders" title="">Coders&#039; Rights</a></li>
+<li class="leaf"><a href="/social-networks" title="">Follow EFF</a></li>
+<li class="leaf"><a href="/free-speech-weak-link" title="">Free Speech Weak Links</a></li>
+<li class="leaf"><a href="https://globalchokepoints.org/" title="">Global Chokepoints</a></li>
+<li class="leaf"><a href="/https-everywhere" title="">HTTPS Everywhere</a></li>
+<li class="leaf"><a href="https://www.eff.org/issues/medical-privacy" title="">Medical Privacy Project</a></li>
+<li class="leaf"><a href="https://openwireless.org" title="">Open Wireless Movement</a></li>
+<li class="leaf"><a href="https://w2.eff.org/patent/" title="">Patent Busting</a></li>
+<li class="leaf"><a href="https://www.eff.org/fight" title="">Student Activism </a></li>
+<li class="leaf"><a href="https://ssd.eff.org" title="">Surveillance Self-Defense</a></li>
+<li class="leaf"><a href="/takedowns" title="">Takedown Hall of Shame</a></li>
+<li class="leaf"><a href="http://www.teachingcopyright.org/" title="">Teaching Copyright</a></li>
+<li class="leaf"><a href="https://www.eff.org/issues/transparency" title="">Transparency Project</a></li>
+<li class="leaf"><a href="https://trollingeffects.org" title="">Trolling Effects</a></li>
+<li class="last leaf"><a href="/helpout" title="">Ways To Help</a></li>
+</ul>  </div>
+
+  
+  </div>
+        </div>
+              </div>
+    </div>
+  </div>
+</div>
+<div id="footer-wrapper">
+  <div id="footer">
+    <div id="footerleft">
+      <div class="panel-pane pane-footer-elements"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="cc"><a href="https://www.eff.org/copyright"><img src="https://www.eff.org/sites/all/themes/frontier/images/cc-by-logo.png" alt="Creative Commons Licensed" /></a></div>  </div>
+
+  
+  </div>
+    </div>
+    <div id="footerright">
+      <div class="panel-pane pane-block pane-menu-menu-footer-menu"  >
+  
+      
+  
+  <div class="pane-content">
+    <ul class="menu"><li class="first leaf"><a href="/thanks" title="">Thanks</a></li>
+<li class="leaf"><a href="/rss" title="">RSS Feeds</a></li>
+<li class="leaf"><a href="/copyright" title="">Copyright Policy</a></li>
+<li class="leaf"><a href="/policy" title="">Privacy Policy</a></li>
+<li class="last leaf"><a href="/about/contact" title="">Contact EFF</a></li>
+</ul>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-custom pane-2"  >
+  
+      
+  
+  <div class="pane-content">
+    <noscript><img src="https://anon-stats.eff.org/piwik.php?idsite=1&amp;rec=1&amp;action_name=Why%20Isn%26%23039%3Bt%20Gatsby%20in%20the%20Public%20Domain%3F" style="border:0" alt="" /></noscript>
+<div id="anon-stats"></div><script>document.getElementById('anon-stats').innerHTML = '<img src="https://anon-stats.eff.org/piwik.php?idsite=1&amp;rec=1&amp;urlref='+encodeURIComponent(document.referrer)+'&amp;action_name=Why%20Isn%26%23039%3Bt%20Gatsby%20in%20the%20Public%20Domain%3F" style="border:0" alt="" />';</script>  </div>
+
+  
+  </div>
+    </div>
+  </div>
+</div>  <a href="/librejs/jslicense" rel="jslicense" style="display: none">JavaScript license information</a></body>
+</html>
+
+0
+
+
+
+WARC/1.0
+WARC-Type: resource
+WARC-Record-ID: <urn:uuid:66d81dfc-9089-48c3-b36c-3b5b00d66427>
+WARC-Warcinfo-ID: <urn:uuid:26cde956-ec7c-475c-91c8-612b4d4ce75b>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/MANIFEST.txt
+WARC-Date: 2014-11-12T21:06:25Z
+Content-Type: text/plain
+Content-Length: 48
+
+<urn:uuid:26cde956-ec7c-475c-91c8-612b4d4ce75b>
+
+
+WARC/1.0
+WARC-Type: resource
+WARC-Record-ID: <urn:uuid:66d81dfc-9089-48c3-b36c-3b5b00d66427>
+WARC-Warcinfo-ID: <urn:uuid:26cde956-ec7c-475c-91c8-612b4d4ce75b>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/wget_arguments.txt
+WARC-Date: 2014-11-12T21:06:25Z
+Content-Type: text/plain
+Content-Length: 182
+
+"--warc-file" "why-isnt-gatsby-public-domain" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "https://www.eff.org/deeplinks/2013/05/why-isnt-gatsby-public-domain" 
+
+

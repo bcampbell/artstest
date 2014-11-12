@@ -1,0 +1,2207 @@
+WARC/1.0
+WARC-Type: warcinfo
+Content-Type: application/warc-fields
+WARC-Date: 2014-11-12T21:36:37Z
+WARC-Record-ID: <urn:uuid:943ddc63-f19a-458a-8fba-ead34ae42857>
+WARC-Filename: phil-fish-on-fez-2-ambition-and-launch-platforms-not-xbox.warc
+Content-Length: 448
+
+software: Wget/1.13.4-2608 (linux-gnu)
+format: WARC File Format 1.0
+conformsTo: http://bibnum.bnf.fr/WARC/WARC_ISO_28500_version1_latestdraft.pdf
+robots: classic
+wget-arguments: "--warc-file" "phil-fish-on-fez-2-ambition-and-launch-platforms-not-xbox" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "-q" "-O" "/dev/null" "http://www.polygon.com/2013/6/20/4445476/phil-fish-on-fez-2-ambition-and-launch-platforms-not-xbox" 
+
+
+
+WARC/1.0
+WARC-Type: request
+WARC-Target-URI: http://www.polygon.com/2013/6/20/4445476/phil-fish-on-fez-2-ambition-and-launch-platforms-not-xbox
+Content-Type: application/http;msgtype=request
+WARC-Date: 2014-11-12T21:36:37Z
+WARC-Record-ID: <urn:uuid:7a402217-9f85-4930-90a7-256855081c22>
+WARC-IP-Address: 192.5.151.4
+WARC-Warcinfo-ID: <urn:uuid:943ddc63-f19a-458a-8fba-ead34ae42857>
+Content-Length: 195
+
+GET /2013/6/20/4445476/phil-fish-on-fez-2-ambition-and-launch-platforms-not-xbox HTTP/1.1
+User-Agent: Wget/1.13.4-2608 (linux-gnu)
+Accept: */*
+Host: www.polygon.com
+Connection: Keep-Alive
+
+
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <urn:uuid:206d6c4f-0a5b-410b-9cd2-8840f0eebd7a>
+WARC-Warcinfo-ID: <urn:uuid:943ddc63-f19a-458a-8fba-ead34ae42857>
+WARC-Concurrent-To: <urn:uuid:7a402217-9f85-4930-90a7-256855081c22>
+WARC-Target-URI: http://www.polygon.com/2013/6/20/4445476/phil-fish-on-fez-2-ambition-and-launch-platforms-not-xbox
+WARC-Date: 2014-11-12T21:36:37Z
+WARC-IP-Address: 192.5.151.4
+Content-Type: application/http;msgtype=response
+Content-Length: 109181
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 12 Nov 2014 21:36:24 GMT
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+Status: 200 OK
+Cache-Control: max-age=0,must-revalidate
+X-UA-Compatible: IE=Edge,chrome=1
+X-Request-Id: 0f17226c1617262fcd75c33ddcb7172d
+X-Runtime: 0.568913
+P3P: CP="CAO DSP COR CURa ADMa DEVa PSAa PSDa CONi OUR IND PHY ONL UNI COM NAV INT CNT STA"
+X-Varnish: 111861291 128984613
+Age: 14
+Via: 1.1 varnish-v4
+Transfer-Encoding: chunked
+Connection: keep-alive
+Accept-Ranges: bytes
+
+008000
+<!doctype html>
+<!--
+===================================================================
+== lovingly brought to you by... ==================================
+===================================================================
+ ______     __  __     ______     ______     __  __     ______     
+/\  ___\   /\ \_\ \   /\  __ \   /\  == \   /\ \/\ \   /\  ___\    
+\ \ \____  \ \  __ \  \ \ \/\ \  \ \  __<   \ \ \_\ \  \ \___  \   
+ \ \_____\  \ \_\ \_\  \ \_____\  \ \_\ \_\  \ \_____\  \/\_____\  
+  \/_____/   \/_/\/_/   \/_____/   \/_/ /_/   \/_____/   \/_____/  
+                                                                   
+===================================================================
+===================================== http://jobs.voxmedia.com/ ===
+===================================================================
+-->
+
+<!--[if IE 8]> <html class="ie8 desktop" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="desktop no-js" lang="en"> <!--<![endif]-->
+
+<head data-network="polygon">
+  
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"e425f33c7f","applicationID":"754272","transactionName":"IVtWTBAMDVlXQh9BCg5NX1cMPARbRkJZVBZNR1BXFQ==","queueTime":1,"applicationTime":449,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-476.min.js"}</script>
+<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=u(e),f=c.length,s=i(a,o,r),p=0;f>p;p++)c[p].apply(s,n);return s}function a(t,e){f[t]=u(t).concat(e)}function u(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:u,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=l.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),u=window,c=u.document,f="addEventListener",s="attachEvent",p=(""+location).split("?")[0],l=e.exports={offset:i(),origin:p,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),u[f]("load",n,!1)):(c[s]("onreadystatechange",r),u[s]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}]},{},["G9z0Bl"]);</script>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=yes" />
+  <meta content="authenticity_token" name="csrf-param" />
+<meta name="csrf-token" />
+  <meta name="google-site-verification" content="CnLXCOg6Ct5ZAIeerPaoiwUyNLxqH8mlf485KlnoR3I" />
+<meta name="google-site-verification" content="E5eVkwtJ1OiwliJbNByRHHMJslBj5DTuA9NChJMwKUg" />
+<meta name="google-site-verification" content="NbOCUEKpvYt-gd7VQDLO9PbO90qnUyCkevJVi-d2iDY" />
+
+
+<meta property="og:description" content="Phil Fish won&#x27;t say a lot about Fez 2, the sequel to his widely acclaimed debut game. But he&#x27;s pretty clear about one thing: Where it won&#x27;t be showing up.
+When I asked him this week what platforms..." />
+<meta property="fb:app_id" content="400103126722312" />
+<meta property="og:image" content="http://cdn1.vox-cdn.com/thumbor/wsVSSrxNKLDIGiHbwTtQvGLOuJk=/0x0:1100x619/1280x720/cdn0.vox-cdn.com/uploads/chorus_image/image/15053997/indiegamethemovie_philfish2_byindiegamethemovie.0.jpg" />
+<meta property="og:site_name" content="Polygon" />
+<meta property="og:title" content="Phil Fish on Fez 2 ambition and launch platforms: &#x27;Not Xbox&#x27;" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://www.polygon.com/2013/6/20/4445476/phil-fish-on-fez-2-ambition-and-launch-platforms-not-xbox" />
+
+  <meta name="description" content="Phil Fish won&#x27;t say a lot about Fez 2, the sequel to his widely acclaimed debut game. But he&#x27;s pretty clear about one thing: Where it won&#x27;t be showing up.
+When I asked him this week what platforms..." />
+
+ 
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:url" content="http://www.polygon.com/2013/6/20/4445476/phil-fish-on-fez-2-ambition-and-launch-platforms-not-xbox" />
+        <meta name="twitter:title" content="Phil Fish on Fez 2 ambition and launch platforms: &#x27;Not Xbox&#x27;" />
+        <meta name="twitter:description" content="Phil Fish won't say a lot about Fez 2, the sequel to his widely acclaimed debut game. But he's pretty clear about one thing: Where it won't be showing up.
+When I asked him this week what platforms..." />
+        <meta name="twitter:image:src" content="//cdn2.vox-cdn.com/thumbor/Htc01JZWIanwqql4lYojnQ4z0XU=/0x0:1100x619/400x225/cdn0.vox-cdn.com/uploads/chorus_image/image/15053997/indiegamethemovie_philfish2_byindiegamethemovie.0.jpg" />
+        <meta name="twitter:site" content="polygon" />
+        <meta name="twitter:creator" content="crecenteb" />
+      
+
+<link rel="canonical" href="http://www.polygon.com/2013/6/20/4445476/phil-fish-on-fez-2-ambition-and-launch-platforms-not-xbox" />
+
+  <link rel="shortcut icon" href="http:&#x2F;&#x2F;cdn1.vox-cdn.com&#x2F;community_logos&#x2F;42931&#x2F;favicon.ico" />
+
+<link rel="apple-touch-icon" href="/images/polygon/apple-touch-icon.png" />
+  <link href="http:&#x2F;&#x2F;cdn2.vox-cdn.com&#x2F;uploads&#x2F;hub&#x2F;sbnu_logo_minimal&#x2F;405&#x2F;touch_icon_ipad_retina_1000x1000.7014.png" rel="apple-touch-icon-precomposed" sizes="144x144" type="image/png"/>
+  <link href="http:&#x2F;&#x2F;cdn1.vox-cdn.com&#x2F;uploads&#x2F;hub&#x2F;sbnu_logo_minimal&#x2F;405&#x2F;touch_icon_iphone_retina_1000x1000.7014.png" rel="apple-touch-icon-precomposed" sizes="114x114" type="image/png"/>
+  <link href="http:&#x2F;&#x2F;cdn2.vox-cdn.com&#x2F;uploads&#x2F;hub&#x2F;sbnu_logo_minimal&#x2F;405&#x2F;touch_icon_ipad_retina_1000x1000.7014.png" rel="apple-touch-icon-precomposed" sizes="72x72" type="image/png"/>
+  <link href="http:&#x2F;&#x2F;cdn1.vox-cdn.com&#x2F;uploads&#x2F;hub&#x2F;sbnu_logo_minimal&#x2F;405&#x2F;touch_icon_iphone_retina_1000x1000.7014.png" rel="apple-touch-icon-precomposed" type="image/png"/>
+
+
+  <title>Phil Fish on Fez 2 ambition and launch platforms: &#x27;Not Xbox&#x27; | Polygon</title>
+  <link rel="alternate" type="application/rss+xml" title="Polygon" href="/rss/index.xml" />
+
+  <link rel="stylesheet" href="http://cloud.typography.com/706184/753582/css/fonts.css" type="text/css" />
+
+<link href="http://cdn3.vox-cdn.com/stylesheets/vox_universal.vdd86859680c5fba7.css" media="all" rel="stylesheet" type="text&#x2F;css" />
+<link href="http://cdn0.vox-cdn.com/stylesheets/polygon_a.v70e0dfb5e8e5a4e9.css" media="screen" rel="stylesheet" type="text&#x2F;css" />
+<link href="http://cdn1.vox-cdn.com/stylesheets/polygon_b.vcdf8e9b47213dccd.css" media="screen" rel="stylesheet" type="text&#x2F;css" />
+
+<!--[if lte IE 9]>
+  <script src="http://cdn1.vox-cdn.com/javascripts/polygon_ie.vc9988abf0c401394.js" type="text&#x2F;javascript"></script>
+  <link href="http://cdn1.vox-cdn.com/stylesheets/polygon_ie9.vbd870b98c35abf43.css" media="screen" rel="stylesheet" type="text&#x2F;css" />
+<![endif]-->
+<!--[if lte IE 8]>
+  <link href="http://cdn2.vox-cdn.com/stylesheets/polygon_ie8.vc90ebd70ad32de32.css" media="screen" rel="stylesheet" type="text&#x2F;css" />
+<![endif]-->
+
+
+  <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script type="text/javascript">window.jQuery || document.write('<script src="http://cdn3.vox-cdn.com/javascripts/vendor/jquery-1.10.2.min.vda41706.js"><\/script>');</script>
+
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.5.2/underscore-min.js"></script>
+<script type="text/javascript">window._ || document.write('<script src="http://cdn0.vox-cdn.com/javascripts/vendor/underscore-1.5.2.min.vd22f881.js"><\/script>');</script>
+
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/backbone.js/1.0.0/backbone-min.js"></script>
+<script type="text/javascript">window.Backbone || document.write('<script src="http://cdn3.vox-cdn.com/javascripts/vendor/backbone-1.0.0.min.v3541019.js"><\/script>');</script>
+
+
+
+  <script src="http://cdn3.vox-cdn.com/javascripts/polygon_head.v1981962b6610a29c.js" type="text&#x2F;javascript"></script>
+  <script src="http://cdn3.vox-cdn.com/javascripts/lib/advertisement.v6fdc11c.js" type="text&#x2F;javascript"></script>
+  <!-- Google Analytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-29192711-1', 'auto');
+
+    ga('set', 'dimension1', 'Polygon Entry Page')
+
+    ga('set', 'dimension2', 'article')
+
+  ga('set', 'dimension3', 'Logged Out')
+
+    ga('set', 'dimension4', 'Brian Crecente')
+    ga('set', 'dimension5', '2013-06-20 07:30')
+  
+  ga('set', 'dimension6', typeof adblockJsFile === 'undefined' ? 'Adblock' : 'No Adblock');
+  ga('send', 'pageview');
+
+</script>
+<!-- End Google Analytics -->
+
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+<script type="text/javascript">
+if (Math.random() <= 0.0005 ){
+  jQuery(function($) {
+    $.scrollDepth && $.scrollDepth({ elements: ["#review-body","#review-wrapup","#comments","#article-body","#feature-body"] });
+  });
+}
+</script>
+  <script class="kxct" data-id="JImcqyW7" data-timing="async" data-version="1.9" type="text/javascript">
+    window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
+    (function(){
+      var k=document.createElement('script');k.type='text/javascript';k.async=true;
+      var m,src=(m=location.href.match(/\bkxsrc=([^&]+)/))&&decodeURIComponent(m[1]);
+      k.src = /^https?:\/\/([a-z0-9_\-\.]+\.)?krxd\.net(:\d{1,5})?\//i.test(src) ? src : src === "disable" ? "" :
+        (location.protocol==="https:"?"https:":"http:")+"//cdn.krxd.net/controltag?confid=JImcqyW7";
+      var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);
+    })();
+  </script>
+
+  <script class="kxint" type="text/javascript">
+    window.Krux||((Krux=function(){Krux.q.push(arguments);}).q=[]);
+    (function(){
+      function retrieve(n){
+        var m, k='kx'+n;
+        if (window.localStorage) {
+          return window.localStorage[k] || "";
+        } else if (navigator.cookieEnabled) {
+          m = document.cookie.match(k+'=([^;]*)'); return (m && unescape(m[1])) || "";
+        } else {
+          return '';
+        }
+      }
+      Krux.user = retrieve('user');
+      Krux.segments = retrieve('segs') && retrieve('segs').split(',') || [];
+    })();
+  </script>
+
+<script type="text/javascript">
+window._umbel = window._umbel || [];
+(function() {
+var u = document.createElement('script'); u.type = 'text/javascript'; u.async = true;
+u.src = document.location.protocol + '//tags.api.umbel.com/lcojgvtzjxmbjdgh/w.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(u, s);
+var d = new Date();
+d.setDate(d.getDate() + 365);
+document.cookie = "umbel_api_key=lcojgvtzjxmbjdgh; expires=" + d.toUTCString();
+if (document.location.href.indexOf('utm_source=umbel') !== -1) {
+if (typeof Chorus !== 'undefined' && typeof Chorus.Video !== 'undefined') {
+Chorus.Video.autoplay = true;
+jQuery(document).ready(function(){
+document.location.hash = jQuery('.chorus-video-embed').first().attr('id');
+});
+}
+}
+})();
+</script>
+
+
+
+
+<!--Kargo Ad Serving Tag 3.0 - Start - Polygon - Top Banner-->
+<script type='text/javascript' src='http://storage.cloud.kargo.com/ad/network/tag/v3/_jLC5oqeVzw1IWgPvblAv0b.js'></script>
+
+  <script type="text&#x2F;javascript">
+//<![CDATA[
+
+        (function() {
+          var useSSL = 'https:' == document.location.protocol;
+          var src = (useSSL ? 'https:' : 'http:') +
+            '//www.googletagservices.com/tag/js/gpt.js';
+          document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+        })();
+      
+//]]>
+</script><script type="text&#x2F;javascript">
+//<![CDATA[
+
+        var SBN = SBN || {};
+        if (typeof(googletag) != "undefined") {
+          SBN.Ads = new AH(); // Ads helper/wrapper
+          
+          
+        SBN.Ads.setAdUnitScopes({"half_page":{"browser_width":["large","xlarge","xxlarge"],"device_type":["desktop"]},"half_page_variable":{"browser_width":["large","xlarge","xxlarge"],"device_type":["desktop"]},"leaderboard":{"browser_width":["large","xlarge","xxlarge"],"device_type":["desktop"]},"btf_leaderboard":{"browser_width":["large","xlarge","xxlarge"],"device_type":["desktop"]},"high_impact":{"browser_width":["large","xlarge","xxlarge"],"device_type":["desktop"]},"context_header_logo":{"browser_width":["large","xlarge","xxlarge"],"device_type":["desktop"]},"medium_rectangle":{"browser_width":["large","xlarge","xxlarge"],"device_type":["desktop"]},"mobile_leaderboard":{"browser_width":["xsmall","small","medium"],"device_type":["mobile"]},"mobile_article_body":{"browser_width":["xsmall","small"],"device_type":["mobile"]},"mobile_footer":{"browser_width":["xsmall","small"],"device_type":["mobile"]},"tablet_half_page":{"browser_width":["medium","large","xlarge","xxlarge"],"device_type":["tablet"]},"tablet_medium_rectangle":{"browser_width":["medium","large","xlarge","xxlarge"],"device_type":["tablet"]},"tablet_high_impact":{"browser_width":["medium","large","xlarge","xxlarge"],"device_type":["tablet"]},"tablet_btf_leaderboard":{"browser_width":["medium","large","xlarge","xxlarge"],"device_type":["tablet"]},"reskin":{"browser_width":["large","xlarge","xxlarge"],"device_type":["desktop"]}});
+        if (typeof Util === 'object' && Util.UserAgentProfiler) {
+          SBN.Ads.setPageScope({
+            browser_width: Util.UserAgentProfiler.browserWidthForAds(),
+            device_type:   Util.UserAgentProfiler.deviceTypeForAds()
+          });
+        }
+      
+           SBN.Ads.addVariable("network", ["polygon"]);
+ SBN.Ads.addVariable("affiliation", ["general"]);
+ SBN.Ads.addVariable("entry_id", [4209517]);
+ SBN.Ads.addVariable("entry_type", ["article"]);
+ SBN.Ads.addVariable("entry_group", ["front-page","playstation","pc","vita","windows","mac","ps3","xbox-360","news","ps4","xbox-one","xbox"]);
+ SBN.Ads.addVariable("polygon_platform", ["playstation","pc","xbox"]);
+ SBN.Ads.addVariable("hub_page", ["playstation","pc","vita","windows","mac","ps3","xbox-360","ps4","xbox-one","xbox"]);
+ SBN.Ads.addVariable("page_type", ["interior_page"]);
+ SBN.Ads.addVariable("forum", ["fez-2"]);
+ SBN.Ads.addVariable("polygon_game", [13722]);
+ SBN.Ads.addVariable("keywords", "phil fish on fez ambition and launch platforms not xbox polygon"); 
+          
+        SBN.Ads.recordSlot('/172968584/polygon/news', 'reskin', [[2,2]]);
+      
+
+        SBN.Ads.recordSlot('/172968584/polygon/news', 'athena_prelude', [[1400,600]]);
+      
+
+        SBN.Ads.recordSlot('/172968584/polygon/news', 'high_impact', [[970,90],[728,90],[970,250],[1020,90]]);
+      
+
+        SBN.Ads.recordSlot('/172968584/polygon/news', 'tablet_high_impact', [[728,90],[1020,90]]);
+      
+
+        SBN.Ads.recordSlot('/172968584/polygon/news', 'mobile_leaderboard', [[320,50],[300,250],[1030,590]]);
+      
+
+        SBN.Ads.recordSlot('/172968584/polygon/news', 'mobile_article_body', [[300,250],[1030,590]]);
+      
+
+        SBN.Ads.recordSlot('/172968584/polygon/news', 'half_page_variable', [[300,250],[300,600]]);
+      
+
+        SBN.Ads.recordSlot('/172968584/polygon/news', 'tablet_medium_rectangle', [[300,600],[300,250]]);
+      
+
+        SBN.Ads.recordSlot('/172968584/polygon/news', 'athena', [[1030,590],[970,250]]);
+      
+
+        SBN.Ads.recordSlot('/172968584/polygon/news', 'btf_medium_rectangle', [[300,600],[300,250]]);
+      
+
+        SBN.Ads.recordSlot('/172968584/polygon/news', 'btf_leaderboard', [[728,90],[1020,90]]);
+      
+
+        SBN.Ads.recordSlot('/172968584/polygon/news', 'tablet_btf_leaderboard', [[728,90],[1020,90]]);
+      
+
+        SBN.Ads.recordSlot('/172968584/polygon/news', 'mobile_footer', [[320,50],[300,250]]);
+      
+
+        SBN.Ads.setAdUnitsOnPage(["reskin","athena_prelude","high_impact","tablet_high_impact","mobile_leaderboard","mobile_article_body","half_page_variable","tablet_medium_rectangle","athena","btf_medium_rectangle","btf_leaderboard","tablet_btf_leaderboard","mobile_footer"]);
+        SBN.Ads.fetchAds();
+      
+        } else {
+          if (console && console.log) {
+            console.log("Warning: Ads did not load! Trying to fail gracefully.");
+          }
+          SBN.Ads = {};
+          SBN.Ads.showAd = function(id) {
+            if (console && console.log) {
+              console.log("Ads did not load so we cannot render ad " + id + ".");
+            }
+          };
+        }
+      
+//]]>
+</script>
+  <script type="text/javascript">
+  window.Chorus = window.Chorus || {};
+  window.Chorus.Context = {
+      logged_in   : false
+    , user_id     : 0
+    , network_domain : "polygon.com"
+    , network_slug : "polygon"
+    , community_id : 405
+    , entry_id : 4209517
+    , is_preview: false
+    , short_url : "http://sbn.to/194yBE9"
+    , emc_admin : false
+
+  };
+  if (!window.Vox && window.Chorus) {
+    Vox = {
+      Video: Chorus.Video
+    }
+  }
+</script>
+
+  <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+<meta name="google-site-verification" content="z3yEZeXcpcypG8--dIMIB9YSWbuTHS0mLyMkj_rhDp0" />
+
+<meta name="google-site-verification" content="5kyTj32sfWKxDJSmLzSehLP-USWxo10RMQSvE_vwppg" />
+  <!-- ad hoc -->
+  
+  <!-- helios -->
+  
+  
+
+    <meta property="article:published_time" content="2013-06-20T11:30:03Z" />
+
+</head>
+
+<body class="polygon theme-default article template_article" data-entry-type="article">
+  <div id="body-wrapper" class="l-inner-wrap">
+  <div id="fb-root"></div>
+<script type="text/javascript">
+  if (typeof(SBN) != "undefined") {
+    SBN.Facebook.SDK.init(400103126722312);
+  }
+</script>
+
+  
+  
+          <div id='div-gpt-ad-reskin' class="dfp_ad" data-cb-ad-id="Reskin" data-cb-dfp-id="unit=reskin">
+            <script type='text/javascript'>
+              SBN.Ads.showAd("reskin");
+            </script>
+          </div>
+
+  
+          <div id='div-gpt-ad-athena_prelude' class="dfp_ad" data-cb-ad-id="Athena prelude" data-cb-dfp-id="unit=athena_prelude">
+            <script type='text/javascript'>
+              SBN.Ads.showAd("athena_prelude");
+            </script>
+          </div>
+
+
+    
+
+      <script type="text/javascript">
+  jQuery(function($) {
+    $('#nav_search').live_search(
+      {
+        callback : function(result){
+          window.location = $(result).attr('href');
+        }
+      }
+    );
+  });
+</script>
+<script type="text/template" id="search_results_template">
+<div class="m-site-nav__search-results-list">
+  [% if (data.results.length > 0) { %]
+    <a id="view_all_results" href="#" class="m-site-nav__all-search-results-link all_results_link">All Results &rsaquo;</a>
+    <ul class="m-site-nav__search-results-game-list searched_games">
+      [% _.each(data.results, function(result, index) { %]
+        <li class="m-site-nav__search-result-item result_item">
+          <a class="m-site-nav__search-results-link result_link" data-title="[%= result.title %]"  href="[%= result.url %]">
+            [% if (result.image) { %]
+              <div class="m-site-nav__search-results-image image_container" style="background-image: url([%= result.image %])"></div>
+            [% } %]
+            <p>[%= result.title %]</p>
+          </a>
+        </li>
+      [% }); %]
+    </ul>
+  [% } else { %]
+    <p class="results_title">No games found</p>
+  [% } %]
+</div>
+</script>
+
+<div class="m-site-nav  ">
+  <nav class="m-site-nav__polybar sticky_nav" id="polybar">
+    <div class="m-site-nav__wrapper super">
+      <div class="m-site-nav__item nav-toggle">
+        <a href="#" id="mobile-nav-toggle" class="m-site-nav__mobile-slideout-button">Menu</a>
+      </div>
+      <div id="nav_logo" class="m-site-nav__item logo">
+          <a href="/" class="m-site-nav__logo-link">Polygon</a>
+      </div>
+      <ul class="m-site-nav__list">
+        <li class="m-site-nav__item lazy" id="pane-news" data-pane="news">
+          <a class="m-site-nav__primary-link" href="/news">News</a>
+          <div class="m-site-nav__shelf news">
+            <div class="m-site-nav__sub-menu news">
+              <ul class="m-site-nav__group-selector">
+                <li class="group sub-report" data-slug="report">
+                  <a href="/report">Reports</a>
+                </li>
+                <li class="group sub-culture" data-slug="culture">
+                  <a href="/culture">Culture</a>
+                </li>
+                <li class="group sub-news active" data-slug="news">
+                  <a href="/news">Recent</a>
+                </li>
+                <li class="m-site-nav__group-selector-more-link">
+                  <a href="/news">All News</a>
+                </li>
+              </ul>
+              <div class="m-site-nav__shelf-container"></div>
+            </div>
+          </div>
+        </li>
+        <li class="m-site-nav__item lazy" id="pane-reviews" data-pane="reviews">
+          <a class="m-site-nav__primary-link" href="/games/reviewed">Reviews</a>
+          <div class="m-site-nav__shelf reviews">
+            <div class="m-site-nav__sub-menu reviews">
+              <ul class="m-site-nav__group-selector">
+                <li class="group sub-recent active" data-slug="recent">
+                  <a href="/games/reviewed">Recent</a>
+                </li>
+                <li class="group sub-nintendo" data-slug="nintendo">
+                  <a href="/games/nintendo/reviewed">Nintendo</a>
+                </li>
+                <li class="group sub-playstation" data-slug="playstation">
+                  <a href="/games/playstation/reviewed">Playstation</a>
+                </li>
+                <li class="group sub-xbox" data-slug="xbox">
+                  <a href="/games/xbox/reviewed">Xbox</a>
+                </li>
+                <li class="group sub-mobile" data-slug="mobile">
+                  <a href="/games/mobile/reviewed">Mobile</a>
+                </li>
+                <li class="group sub-pc" data-slug="pc">
+                  <a href="/games/pc/reviewed">PC</a>
+                </li>
+                <li class="m-site-nav__group-selector-more-link">
+                  <a href="/games/reviewed">All Reviews</a>
+                </li>
+              </ul>
+              <div class="m-site-nav__shelf-container"></div>
+            </div>
+          </div>
+        </li>
+        <li class="m-site-nav__item lazy" id="pane-features" data-pane="features">
+          <a class="m-site-nav__primary-link" href="/features">Features</a>
+          <div class="m-site-nav__shelf features">
+            <div class="m-site-nav__sub-menu features">
+              <ul class="m-site-nav__group-selector">
+                <li class="group sub-this-week active" data-slug="this-week">
+                  <a href="/features">This Week</a>
+                </li>
+                <li class="group sub-last-week" data-slug="last-week">
+                  <a href="/features">Last Week</a>
+                </li>
+                <li class="group sub-human-angle" data-slug="human-angle">
+                  <a href="/human-angle">Human Angle</a>
+                </li>
+
+                <li class="m-site-nav__group-selector-more-link">
+                  <a href="/features">All Features</a>
+                </li>
+              </ul>
+              <div class="m-site-nav__shelf-container"></div>
+            </div>
+          </div>
+        </li>
+        <li class="m-site-nav__item video lazy" id="pane-videos" data-pane="videos">
+          <a class="m-site-nav__primary-link" href="/videos">Videos</a>
+          <div class="m-site-nav__shelf videos">
+            <div class="m-site-nav__sub-menu videos">
+              <ul class="m-site-nav__group-selector">
+
+                <li class="group sub-recent active" data-slug="recent">
+                  <a href="/videos">Recent</a>
+                </li>
+                <li class="group sub-overview" data-slug="overview">
+                  <a href="/overview">Overview</a>
+                </li>
+                <li class="group sub-human-angle" data-slug="human-angle">
+                  <a href="/human-angle">Human Angle</a>
+                </li>
+                <li class="m-site-nav__group-selector-more-link">
+                  <a href="/videos">All Videos</a>
+                </li>
+              </ul>
+              <div class="m-site-nav__shelf-container"></div>
+            </div>
+          </div>
+        </li>
+        <li class="m-site-nav__item lazy" id="pane-forums" data-pane="forums">
+          <a class="m-site-nav__primary-link" href="/forums">Forums</a>
+          <div class="m-site-nav__shelf forums">
+            <div class="m-site-nav__sub-menu forums">
+              <ul class="m-site-nav__group-selector">
+                <li class="group sub-recent active" data-slug="recent">
+                  <a href="/forums">Recent</a>
+                </li>
+                <li class="group sub-polynauts" data-slug="polynauts">
+                  <a href="/forums/polynauts">Polynauts</a>
+                </li>
+                <li class="group sub-off-topic" data-slug="off-topic">
+                  <a href="/forums/off-topic">Off-Topic</a>
+                </li>
+                <li class="group sub-ps4" data-slug="ps4">
+                  <a href="/forums/ps4">Playstation 4</a>
+                </li>
+                <li class="group sub-xb1" data-slug="xb1">
+                  <a href="/forums/xbox-one">Xbox One</a>
+                </li>
+                <li class="group sub-wiiu" data-slug="wiiu">
+                  <a href="/forums/wii-u">Wii U</a>
+                </li>
+                <li class="group sub-meta" data-slug="meta">
+                  <a href="/forums/meta">Meta</a>
+                </li>
+                <li class="m-site-nav__group-selector-more-link">
+                  <a href="/forums">All Forums</a>
+                </li>
+              </ul>
+              <div class="m-site-nav__shelf-container"></div>
+            </div>
+          </div>
+        </li>
+        <li class="m-site-nav__item lazy" id="pane-opinion" data-pane="opinion">
+          <a class="m-site-nav__primary-link" href="/opinion">Opinion</a>
+          <div class="m-site-nav__shelf news">
+            <div class="m-site-nav__sub-menu opinion">
+              <ul class="m-site-nav__group-selector">
+                <li class="group sub-opinion active" data-slug="opinion">
+                  <a href="/opinion">Opinion</a>
+                </li>
+                <li class="group sub-quality-control" data-slug="quality-control">
+                  <a href="/quality-control">Quality Control</a>
+                </li>
+                <li class="m-site-nav__group-selector-more-link">
+                  <a href="/opinion">All Opinion</a>
+                </li>
+              </ul>
+              <div class="m-site-nav__shelf-container"></div>
+            </div>
+          </div>
+        </li>
+        <li class="m-site-nav__item platforms">
+          <a class="m-site-nav__primary-link" href="/games">Platforms</a>
+          <div class="m-site-nav__shelf platforms">
+            <div class="m-site-nav__sub-menu platforms">
+              <ul class="m-site-nav__shelf-entries platforms">
+                <li class="m-site-nav__entry platforms">
+                  <ul class="m-site-nav__platform-list">
+                    <li class="m-site-nav__platform-group"><a href="/nintendo">Nintendo</a></li>
+                    <li class="m-site-nav__platform"><a href="/wii-u">Wii U</a></li>
+                    <li class="m-site-nav__platform"><a href="/wii">Wii</a></li>
+                    <li class="m-site-nav__platform"><a href="/3ds">3DS</a></li>
+                  </ul>
+                </li>
+                <li class="m-site-nav__entry platforms">
+                  <ul class="m-site-nav__platform-list">
+                    <li class="m-site-nav__platform-group"><a href="/playstation">Playstation</a></li>
+                    <li class="m-site-nav__platform"><a href="/ps4">Playstation 4</a></li>
+                    <li class="m-site-nav__platform"><a href="/ps3">Playstation 3</a></li>
+                    <li class="m-site-nav__platform"><a href="/vita">Playstation Vita</a></li>
+                  </ul>
+                </li>
+                <li class="m-site-nav__entry platforms">
+                  <ul class="m-site-nav__platform-list">
+                    <li class="m-site-nav__platform-group"><a href="/xbox">Xbox</a></li>
+                    <li class="m-site-nav__platform"><a href="/xbox-one">Xbox One</a></li>
+                    <li class="m-site-nav__platform"><a href="/xbox-360">Xbox 360</a></li>
+                  </ul>
+                </li>
+                <li class="m-site-nav__entry platforms">
+                  <ul class="m-site-nav__platform-list">
+                    <li class="m-site-nav__platform-group"><a href="/mobile">Mobile</a></li>
+                    <li class="m-site-nav__platform"><a href="/ios">iOS</a></li>
+                    <li class="m-site-nav__platform"><a href="/android">Android</a></li>
+                  </ul>
+                </li>
+                <li class="m-site-nav__entry platforms">
+                  <ul class="m-site-nav__platform-list">
+                    <li class="m-site-nav__platform-group"><a href="/pc">PC</a></li>
+                    <li class="m-site-nav__platform"><a href="/windows">Windows</a></li>
+                    <li class="m-site-nav__platform"><a href="/mac">Mac</a></li>
+                    <li class="m-site-nav__platform"><a href="/linux">Linux</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="m-site-nav__item more">
+          <a class="m-site-nav__primary-link" href="#">More</a>
+          <div class="m-site-nav__shelf more">
+            <div class="m-site-nav__sub-menu more">
+              <ul class="m-site-nav__shelf-entries more">
+                <li class="m-site-nav__entry more platforms">
+                  <ul class="m-site-nav__more-list">
+                    <li class="m-site-nav__more-header">Platforms</li>
+                    <li class="m-site-nav__more-item"><a href="/nintendo">Nintendo</a></li>
+                    <li class="m-site-nav__more-item"><a href="/playstation">Playstation</a></li>
+                    <li class="m-site-nav__more-item"><a href="/xbox">Xbox</a></li>
+                    <li class="m-site-nav__more-item"><a href="/mobile">Mobile</a></li>
+                    <li class="m-site-nav__more-item"><a href="/pc">PC</a></li>
+                  </ul>
+                </li>
+                <li class="m-site-nav__entry more rss">
+                  <ul class="m-site-nav__more-list">
+                    <li class="m-site-nav__more-header">RSS Feeds</li>
+                    <li class="m-site-nav__more-item"><a href="/rss/index.xml">All</a></li>
+                    <li class="m-site-nav__more-item"><a href="/rss/group/news/index.xml">News</a
+008000
+></li>
+                    <li class="m-site-nav__more-item"><a href="/rss/group/reviews/index.xml">Reviews</a></li>
+                    <li class="m-site-nav__more-item"><a href="/rss/group/features/index.xml">Features</a></li>
+                  </ul>
+                </li>
+                <li class="m-site-nav__entry more">
+                  <ul class="m-site-nav__more-list">
+                    <li class="m-site-nav__more-item"><a href="/pages/about">Who We Are</a></li>
+                    <li class="m-site-nav__more-item"><a href="http://jobs.voxmedia.com">Jobs</a></li>
+                    <li class="m-site-nav__more-item"><a href='/pages/write-a-feature-article-for-polygon'>Pitch a Story</a></li>
+                    <li class="m-site-nav__more-item"><a href="/pages/contact">Tip Us</a></li>
+                    <li class="m-site-nav__more-item"><a href="/pages/contact">Contact Us</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        </ul>
+        <div class="m-site-nav__search-container no-touch" id="nav_search">
+          <form action="/search" method="get" id="live_search_form" class="m-site-nav__search-form">
+            <input name="q" id="nav_search_input" class="m-site-nav__search-input  mousetrap" type="text" placeholder="Search Games & Reviews" autocomplete="off" />
+            <input id="nav_search_submit" type="submit" value="search" class="m-site-nav__search-submit submit" />
+            <div id="nav_search_loader" class="m-site-nav__search-loader loader"></div>
+            <a href="#" id="close_search_results_btn" class="search_results_close">Close</a>
+          </form>
+          <div id="nav_search_results" class="m-site-nav__search-results results">
+          </div>
+        </div>
+
+        <div class="m-site-nav__user-container no-touch">
+  <a href="http://www.polygon.com/login?return_to=http%3A%2F%2Fwww.polygon.com%2F2013%2F6%2F20%2F4445476%2Fphil-fish-on-fez-2-ambition-and-launch-platforms-not-xbox" class="m-site-nav__login-button" data-chorus-auth="login">Login</a>
+</div>
+
+
+      </ul>
+      <ul class="m-site-nav__left-side">
+        <li class="m-site-nav__left-side__item">
+          <a class="m-site-nav__left-side__link" href="/news">News</a>
+          <ul class="m-site-nav__left-side__sub-list">
+            <li class="m-site-nav__left-side__sub-list-item">
+              <a class="m-site-nav__left-side__sub-list-link" href='/report'>Reports</a>
+            </li>
+            <li class="m-site-nav__left-side__sub-list-item">
+              <a class="m-site-nav__left-side__sub-list-link" href='/culture'>Culture</a>
+            </li>
+            <li class="m-site-nav__left-side__sub-list-item">
+              <a class="m-site-nav__left-side__sub-list-link" href='/news'>News</a>
+            </li>
+          </ul>
+        </li>
+        <li class="m-site-nav__left-side__item"><a class="m-site-nav__left-side__link" href="/forums">Forums</a></li>
+        <li class="m-site-nav__left-side__item"><a class="m-site-nav__left-side__link" href="/games/reviewed">Reviews</a></li>
+        <li class="m-site-nav__left-side__item"><a class="m-site-nav__left-side__link" href="/opinion">Opinion</a></li>
+        <li class="m-site-nav__left-side__item"><a class="m-site-nav__left-side__link" href="/features">Features</a></li>
+        <li class="m-site-nav__left-side__item"><a class="m-site-nav__left-side__link" href="/videos">Videos</a>
+        <ul class="m-site-nav__left-side__sub-list">
+            <li class="m-site-nav__left-side__sub-list-item">
+              <a class="m-site-nav__left-side__sub-list-link" href='/videos'>All Videos</a>
+            </li>
+            <li class="m-site-nav__left-side__sub-list-item">
+              <a class="m-site-nav__left-side__sub-list-link" href='/overview'>Overview</a>
+            </li>
+            <li class="m-site-nav__left-side__sub-list-item">
+              <a class="m-site-nav__left-side__sub-list-link" href='/human-angle'>Human Angle</a>
+            </li>
+          </ul></li>
+        <li class="m-site-nav__left-side__item"><a class="m-site-nav__left-side__link" href="/">More</a>
+          <ul class="m-site-nav__left-side__sub-list">
+            <li class="m-site-nav__left-side__sub-list-item">
+              <a class="m-site-nav__left-side__sub-list-link" href='/pages/about'>Who We Are</a>
+            </li>
+            <li class="m-site-nav__left-side__sub-list-item">
+              <a class="m-site-nav__left-side__sub-list-link" href='http://jobs.voxmedia.com'>Jobs</a>
+            </li>
+            <li class="m-site-nav__left-side__sub-list-item">
+              <a class="m-site-nav__left-side__sub-list-link" href='/pages/write-a-feature-article-for-polygon'>Pitch a Story</a>
+            </li>
+            <li class="m-site-nav__left-side__sub-list-item">
+              <a class="m-site-nav__left-side__sub-list-link" href='/pages/contact'>Contact Us</a>
+            </li>
+          </ul>
+        </li>
+      </ul>
+  </div>
+  </nav>
+  <div class="m-user-msg__root">
+  
+  
+  
+</div>
+</div>
+
+<div id="polybar_spacer"></div>
+
+<div class="m-event-widget__container">
+<div class="chorus-emc__content" data-emc-slug="PolygonEventWidgetCell">
+    
+
+</div>
+</div>
+
+<div id="nav_leaderboard"></div>
+
+<div class="ad_slidedown m-ad m-ad__leaderboard">
+  <div class="ad dfp_ad">
+      
+          <div id='div-gpt-ad-high_impact' class="dfp_ad" data-cb-ad-id="High impact" data-cb-dfp-id="unit=high_impact">
+            <script type='text/javascript'>
+              SBN.Ads.showAd("high_impact");
+            </script>
+          </div>
+      
+          <div id='div-gpt-ad-tablet_high_impact' class="dfp_ad" data-cb-ad-id="Tablet high impact" data-cb-dfp-id="unit=tablet_high_impact">
+            <script type='text/javascript'>
+              SBN.Ads.showAd("tablet_high_impact");
+            </script>
+          </div>
+      
+          <div id='div-gpt-ad-mobile_leaderboard' class="dfp_ad" data-cb-ad-id="Mobile leaderboard" data-cb-dfp-id="unit=mobile_leaderboard">
+            <script type='text/javascript'>
+              SBN.Ads.showAd("mobile_leaderboard");
+            </script>
+          </div>
+  </div>
+</div>
+
+<div class="m-ad m-ad__billboard">
+</div>
+<div class="super">
+  <div class="content">
+    <div class="l-container">
+      <div class="l-chunk has-rail">
+        <article class="m-entry article" id="article-wrapper">
+  <div id="article-content">
+    <style type="text/css">
+     
+    </style>
+    <header class="m-entry__header">
+  
+  <h2 class="m-entry__title" data-remote-headline-edit="title" data-remote-admin-entry-id="4209517">Phil Fish on Fez 2 ambition and launch platforms: 'Not&nbsp;Xbox'</h2>
+    <p class="m-entry__byline">
+      By <a href="http://www.polygon.com/users/crecente">Brian Crecente</a>
+        on Jun 20, 2013
+        at 7:30a
+           <a href='http://twitter.com/crecenteb' class="twitter">@crecenteb</a>
+      <span class="m-entry-admin-button " data-remote-admin-entry-type="button" data-remote-admin-entry-id="4209517"></span>
+
+    </p>
+  <div class="m-share-buttons">
+
+  <div class="m-share-buttons__inner-wrapper">
+
+    <div class="p-button social facebook">
+      <a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent('http:&#x2F;&#x2F;www.polygon.com&#x2F;2013&#x2F;6&#x2F;20&#x2F;4445476&#x2F;phil-fish-on-fez-2-ambition-and-launch-platforms-not-xbox'), 'height=279, width=575'); return false;">Share</a>
+    </div>
+
+    <div class="p-button social twitter">
+        <a href="https://twitter.com/intent/tweet?text=Phil+Fish+on+Fez+2+ambition+and+launch+platforms%3A+%27Not+Xbox%27&url=http%3A%2F%2Fwww.polygon.com%2F2013%2F6%2F20%2F4445476%2Fphil-fish-on-fez-2-ambition-and-launch-platforms-not-xbox&via=Polygon">Tweet</a>
+    </div>
+
+
+  </div>
+
+</div>
+
+</header>
+
+    <div class="m-entry__wrapper">
+      <div class="l-main">
+        <div class="m-entry__content">
+            <div class="m-entry__image ">
+                <img alt="" class=" vox-lazy-load" data-imgkey="15053997:cinema:0" data-original="//cdn1.vox-cdn.com/thumbor/Fn5SeJwRinqN04V3axsypKRg-oU=/0x0:1100x619/640x360/cdn0.vox-cdn.com/uploads/chorus_image/image/15053997/indiegamethemovie_philfish2_byindiegamethemovie.0.jpg" data-ratio="1.7777777777777777" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+<noscript><img src="//cdn1.vox-cdn.com/thumbor/Fn5SeJwRinqN04V3axsypKRg-oU=/0x0:1100x619/640x360/cdn0.vox-cdn.com/uploads/chorus_image/image/15053997/indiegamethemovie_philfish2_byindiegamethemovie.0.jpg" alt=""/></noscript>
+
+                <div class="m-entry-admin-pane" data-remote-admin-entry-type="pane" data-remote-admin-entry-id="4209517"></div>
+
+            </div>
+          <div class="m-follow-bar" id="follow-bar">
+  <span class="m-follow-bar__highlighted">Stay Connected.</span>
+  <span class="m-follow-bar__cta_text"> Follow Polygon Now!</span>
+  <div id="follow-bar-buttons" class="m-follow-bar__buttons">
+    <a href='https://plus.google.com/+Polygon/posts'>
+    <span class="google-socialbar">
+      <span class="g-icon"></span>
+    </span>
+  </a>
+    <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Ffacebook.com%2Fpolygon&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;font&amp;colorscheme=light&amp;action=like&amp;height=21&amp;appId=249141081161" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowTransparency="true"></iframe>
+    <iframe allowtransparency="true" frameborder="0" scrolling="no" src="//platform.twitter.com/widgets/follow_button.html?count=none&screen_name=polygon&show_screen_name=false" style="width:60px; height:20px;"></iframe>
+  </div>
+  <a href="#" id="close-follow-bar" class="m-follow-bar__close">&times;</a>
+</div>
+          <div class="m-entry__body" id="article-body">
+            <p>Phil Fish won't say a lot about<i> Fez 2</i>, the sequel to his widely acclaimed debut game. But he's pretty clear about one thing: Where it <i>won't </i>be showing up.</p>
+<p>When I asked him this week what platforms he's considering for the sequel, this is what he had to say:</p>
+<div class="m-ad m-ad__article-body">
+  
+  <div id="div-gpt-ad-mobile_article_body" class="dfp_ad" data-cb-ad-id="Mobile article body" data-cb-dfp-id="unit=mobile_article_body">
+    <script type="text/javascript">
+      SBN.Ads.showAd("mobile_article_body");
+    </script>
+  </div>
+</div>
+
+<p>"Not Xbox."</p>
+<p>That shouldn't come as a surprise to anyone who knows, or has been following along with Fish, <i>Fez </i>and its journey to the Xbox 360.</p>
+<p>Shortly after the game's release in 2012, developer Polytron pushed a patch out to fix some bugs in the game. The patch, in turn, corrupted some save files. It was pulled by Microsoft. Faced with paying a second time for certification to fix the patch or just pushing it back up as is, Fish decided to leave it as is, saying that the recertification <a style="line-height: 16px;" href="http://www.polygon.com/gaming/2012/7/18/3168486/fez-developer-reposts-kinda-broken-patch-with-no-plans-to-fix" target="_blank">was too expensive.</a></p>
+<p>"It's a shitty numbers game to be playing for sure," the developer wrote on his blog at the time, "but as a small independent, paying so much money for patches makes NO SENSE AT ALL." Polytron added that if <i>Fez</i> had been released on Valve's Steam service "the game would have been fixed two weeks after release, at no cost to us." In a follow-up tweet, Polytron wrote "HEY! only a few months left to our XBLA exclusivity!"</p>
+<p><img src="http://assets.sbnation.com/assets/2810595/WTF06.jpg" class="photo" alt="Wtf06"><br id="1371665789323"></p>
+<p>The relationship between Microsoft and Polytron never really recovered. And the Xbox One, so recently bathed in criticism about everything from the price to privacy concerns to its approach to used games, hasn't helped.</p>
+<p>I asked Fish about his thoughts on the Xbox One earlier this week, hours before Microsoft announced their sudden policy change.</p>
+<p>"I<span style="line-height: 16px;"> hope it's a joke," he told me in the email interview. "I hope Microsoft is pulling a New Coke on us, announcing a shit console nobody wants, only to eventually announce the Xbox Classic and winning back everybody's hearts. Microsoft is making a console for itself. Not for gamers. Not for developers. Just for its own, greedy little Orwellian self. I'm not interested."</span></p>
+<p>After the news hit of Microsoft's flip on their online and used game policies, I emailed Fish to see if he had changed his mind.</p>
+<p>"Nah," he wrote, "I don't think it changes much for me. They didn't change anything about their anti-indie policies."</p>
+<p>On the other hand, Fish seems quite taken with the PlayStation 4.</p>
+<p>"<span style="line-height: 16px;">PS4 seems to be doing everything right," he wrote, when asked about the console. "It's too early to tell how everything is going to unfold but their heart definitely seems to be in the right place. Which is a weird thing to say when talking about giant monolithic corporation, but there's a handful of people working at Sony today who are really trying to do some good. And whether or not I would develop for it comes down to how the platform holder treats me. With Microsoft they've made it painfully clear they don't want my ilk on their platform. I can't even self-publish there. Whereas on PS4, I can. It's that simple. Microsoft won't let me develop for their console. But Sony will."</span></p>
+<p><q class="center">"O<span style="line-height: 16px;">ne is having a big love-in orgy and the other is doing yet another fucking <i>Minecraft </i>port."</span></q></p>
+<p>At E3 last week, Microsoft spent little time discussing indie titles while Sony brought indie developers and their games into their booth, setting them up along side AAA titles for the PlayStation 3, PlayStation Vita and PlayStation 4.</p>
+<p>There is a stark difference between how the two companies approach indies, Fish said.</p>
+<p>"O<span style="line-height: 16px;">ne is having a big love-in orgy and the other is doing yet another fucking <i>Minecraft </i>port," he wrote.</span></p>
+<p>The relationship both companies have with indies is becoming an important element of the lead up to launch. Ironically, this increased focus on indie developers and their games comes at a time when the very label may no longer serve a purpose, Fish said.</p>
+<p>"I think it's starting to get more detrimental than anything else," he said of the value of identifying a game as an indie. "It served a purpose at some point, but I think we've outgrown the term. Games are games are games. I don't want people to judge my games based on team size or budget. That shouldn't matter to the player."</p>
+<p>And this was the year that indies got their own E3 of sorts. <a href="http://www.polygon.com/2013/6/18/4442806/horizon-offered-a-quieter-conversational-e3-press-conference" target="_blank">Horizon</a>, an indie-centric press conference put on during E3 by Venus Patrol and MOCAtv, was packed with news from indies, including<a href="http://www.polygon.com/2013/6/13/4427198/fez-2-announced" target="_blank"> <i>Fez 2's</i> announcement</a>.</p>
+<div class="video-wrap p-scalable-video"><div data-chorus-video-id="25331" class="chorus-video-embed" id="chorus-video-25331"></div></div>
+<p>So what can Fish tell us now about his next game?</p>
+<p>"It exists," he said, "and Rich Vreeland is doing the music. That's pretty much it."</p>
+<p>Well, not exactly. When I ask him why he's making a sequel as opposed to an entirely new game, Fish had a bit more to say about <i>Fez 2</i>.</p>
+<p>"I<span style="line-height: 16px;">t is an entirely new game!" he wrote. "<i>FEZ 2 </i>is to <i>FEZ 1 </i>what Zelda 2 was to Zelda 1, but more different.</span></p>
+<p>"The biggest reason is that I just wanted to go back to that world. I want to expand on my little world and its mythology.<span style="line-height: 9px;"> I</span>t's not a case of wanting to recycle ideas we didn't get to put in <i>FEZ I</i>. Since the games are going to be so different, there's not a whole lot that could just carry over."</p>
+
+          </div>
+          <footer class="m-entry__attribution">
+  <ul class="source">
+    <li>Image Source</li>
+      <li><a href="http:&#x2F;&#x2F;buy.indiegamethemovie.com&#x2F;?referrer=http%3A%2F%2Fwww.indiegamethemovie.com%2Fpress-material%2Fhigh-res-press-stills%2F%3FSSScrollPosition%3D0">Indie Game The Movie</a></li>
+  </ul>
+</footer>
+
+          <div class="m-share-buttons">
+
+  <div class="m-share-buttons__inner-wrapper">
+
+    <div class="p-button social facebook">
+      <a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent('http:&#x2F;&#x2F;www.polygon.com&#x2F;2013&#x2F;6&#x2F;20&#x2F;4445476&#x2F;phil-fish-on-fez-2-ambition-and-launch-platforms-not-xbox'), 'height=279, width=575'); return false;">Share</a>
+    </div>
+
+    <div class="p-button social twitter">
+        <a href="https://twitter.com/intent/tweet?text=Phil+Fish+on+Fez+2+ambition+and+launch+platforms%3A+%27Not+Xbox%27&url=http%3A%2F%2Fwww.polygon.com%2F2013%2F6%2F20%2F4445476%2Fphil-fish-on-fez-2-ambition-and-launch-platforms-not-xbox&via=Polygon">Tweet</a>
+    </div>
+
+
+  </div>
+
+</div>
+
+        </div>
+      </div>
+      <div class="l-rail">
+        <div class="l-rail__component-wrapper">
+            <div class="m-ad m-ad__medrec ">
+    
+          <div id='div-gpt-ad-half_page_variable' class="dfp_ad" data-cb-ad-id="Half page variable" data-cb-dfp-id="unit=half_page_variable">
+            <script type='text/javascript'>
+              SBN.Ads.showAd("half_page_variable");
+            </script>
+          </div>
+    
+          <div id='div-gpt-ad-tablet_medium_rectangle' class="dfp_ad" data-cb-ad-id="Tablet medium rectangle" data-cb-dfp-id="unit=tablet_medium_rectangle">
+            <script type='text/javascript'>
+              SBN.Ads.showAd("tablet_medium_rectangle");
+            </script>
+          </div>
+</div>
+
+
+<!-- Wordcount here is 1134 -->
+
+  <section class="m-rail-component">
+  <h2 class="m-rail-component__header">Top Stories</h2>
+  <ul class="m-rail-component__list">
+
+      <li class="m-rail-component__list__item odd">
+        <a class="m-rail-component__link" href="http:&#x2F;&#x2F;www.polygon.com&#x2F;2014&#x2F;11&#x2F;12&#x2F;7209001&#x2F;peta-opens-headquarters-in-minecraft-creates-animal-utopia">PETA opens headquarters in Minecraft, creates animal&nbsp;utopia</a>
+        <p class="m-rail-component__byline">
+          By <a href="http://www.polygon.com/users/crecente">Brian Crecente</a> on Nov 12, 2014
+        </p>
+    </li>
+      <li class="m-rail-component__list__item  harmony-12594 harmony-sponsorship even" style="border-top: 3px solid #80c142; border-bottom: 3px solid #80c142">
+      <a class="m-rail-component__link" href="http://f.curbed.cc/f/BP_TheNextMile_Polygon_VR_111214_use">
+        <div data-parent-moat-ad-id='harmony-latest-headlines' style='display:none;'></div><script type='text/javascript'>SBN.Campaigns.loadMoatForHarmonyContent('bp','bp-2014-the-next-mile','11-12-latest-headlines-polygon-taking-virtual-reality-farther','harmony-latest-headlines');</script>
+        <img alt="Adserver" height="1" src="http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=tf&c=19&mc=imp&pli=10523087&PluID=0&ord={random}&rtu=-1" style="position:absolute; top:-1px; left:-1px;" width="1" />
+        <div class="harmony-sponsorship-block">
+          <span class="harmony-sponsorship-disclaimer">From Our Sponsor</span>
+          <img class='harmony-sponsorship-stb' src='http://cdn3.vox-cdn.com/campaigns_images/32778/clone422727831_707904253_bp_invigorate_logos_color.png' />        </div>
+        <div class="harmony-entry-title">Taking Virtual Reality Farther</div>
+      </a>
+
+    </li>
+
+      <li class="m-rail-component__list__item odd">
+        <a class="m-rail-component__link" href="http:&#x2F;&#x2F;www.polygon.com&#x2F;2014&#x2F;11&#x2F;12&#x2F;7204429&#x2F;assassins-creed-unity-launch-driveclub">The relief of big games failing at&nbsp;launch</a>
+        <p class="m-rail-component__byline">
+          By <a href="http://www.polygon.com/users/Ben%20Kuchera">Ben Kuchera</a> on Nov 12, 2014
+        </p>
+    </li>
+
+      <li class="m-rail-component__list__item even">
+        <a class="m-rail-component__link" href="http:&#x2F;&#x2F;www.polygon.com&#x2F;2014&#x2F;11&#x2F;12&#x2F;7209995&#x2F;pax-east-2015-tickets-on-sale-now">PAX East 2015 tickets on sale&nbsp;now</a>
+        <p class="m-rail-component__byline">
+          By <a href="http://www.polygon.com/users/mikemcwhertor">Michael McWhertor</a> on Nov 12, 2014
+        </p>
+    </li>
+
+      <li class="m-rail-component__list__item odd">
+        <a class="m-rail-component__link" href="http:&#x2F;&#x2F;www.polygon.com&#x2F;2014&#x2F;11&#x2F;11&#x2F;7192467&#x2F;assassins-creed-unity-review-xbox-one-PS4-PC">Assassin's Creed Unity review: Paris&nbsp;burning</a>
+        <p class="m-rail-component__byline">
+          By <a href="http://www.polygon.com/users/aegies">Arthur Gies</a> on Nov 11, 2014
+        </p>
+    </li>
+
+      <li class="m-rail-component__list__item even">
+        <a class="m-rail-component__link" href="http:&#x2F;&#x2F;www.polygon.com&#x2F;2014&#x2F;11&#x2F;12&#x2F;7205891&#x2F;mount-and-blade-free-gog-com-pc-deals">GOG.com is giving away Mount & Blade for free as part of its big PC game&nbsp;sale</a>
+        <p class="m-rail-component__byline">
+          By <a href="http://www.polygon.com/users/mikemcwhertor">Michael McWhertor</a> on Nov 12, 2014
+        </p>
+    </li>
+
+      <li class="m-rail-component__list__item odd">
+        <a class="m-rail-component__link" href="http:&#x2F;&#x2F;www.polygon.com&#x2F;2014&#x2F;11&#x2F;12&#x2F;7204963&#x2F;monument-valley-expansion-forgotten-shores">Monument Valley is nearly twice as large with a new expansion available&nbsp;now</a>
+        <p class="m-rail-component__byline">
+          By <a href="http://www.polygon.com/users/Megan%20Farokhmanesh">Megan Farokhmanesh</a> on Nov 12, 2014
+        </p>
+    </li>
+
+      <li class="m-rail-component__list__item even">
+        <a class="m-rail-component__link" href="http:&#x2F;&#x2F;www.polygon.com&#x2F;forums&#x2F;off-topic&#x2F;2014&#x2F;11&#x2F;12&#x2F;7202137&#x2F;polygon-daily-off-topic-super-miyamoto-wednesday-nov-12">Polygon Daily Off Topic: Super Miyamoto (Wednesday, Nov.&nbsp;12)</a>
+        <p class="m-rail-component__byline">
+          By <a href="http://www.polygon.com/users/Shaun%20McIlroy">Shaun McIlroy</a> on Nov 12, 2014
+        </p>
+    </li>
+
+      <li class="m-rail-component__list__item odd">
+        <a class="m-rail-component__link" href="http:&#x2F;&#x2F;www.polygon.com&#x2F;2014&#x2F;11&#x2F;12&#x2F;7204207&#x2F;final-fantasy-8-balamb-garden-hd">Final Fantasy 8's Balamb Garden looks amazing in this fan-made HD&nbsp;makeover</a>
+        <p class="m-rail-component__byline">
+          By <a href="http://www.polygon.com/users/Megan%20Farokhmanesh">Megan Farokhmanesh</a> on Nov 12, 2014
+        </p>
+    </li>
+
+      <li class="m-rail-component__list__item even">
+        <a class="m-rail-component__link" href="http:&#x2F;&#x2F;www.polygon.com&#x2F;2014&#x2F;11&#x2F;12&#x2F;7204725&#x2F;five-nights-at-freddys-2-overview-gameplay">In which we play Five Nights at Freddy's 2 without learning the rules, and die&nbsp;horribly</a>
+        <p class="m-rail-component__byline">
+          By <a href="http://www.polygon.com/users/griffinmcelroy">Griffin McElroy</a> on Nov 12, 2014
+        </p>
+    </li>
+  </ul>
+</section>
+
+
+  <div class="YAD"></div>
+<script>
+ (function(a,b,c,d,e,f){a[d]||(a[d]=
+ function(){(a[d].q=a[d].q||[]).push([arguments,+new Date])});
+ e=b.createElement(c);f=b.getElementsByTagName(c)[0];
+ e.src='https://s.yimg.com/uq/syndication/yad.js';e.async=true;
+ f.parentNode.insertBefore(e,f)}(window,document,'script','yad'));
+ yad('e642e6d0-44d3-3807-bec9-bb63c995a2b2');
+</script>
+<!-- BEGIN SNIPPET -->
+<div class="YAD-738704ff-e27a-399a-bcd3-86b651784b91"></div>
+<script>
+    (function(a,b,c,d,e,f){a[d]||(a[d]=
+    function(){(a[d].q=a[d].q||[]).push([arguments,+new Date])});
+    e=b.createElement(c);f=b.getElementsByTagName(c)[0];
+    e.src='https://s.yimg.com/uq/syndication/yad.js';e.async=true;
+    f.parentNode.insertBefore(e,f)}(window,document,'script','yad'));
+    yad('738704ff-e27a-399a-bcd3-86b651784b91');
+</script>
+<!-- END SNIPPET -->
+
+        </div>
+      </div>
+    </div>
+    <div>
+      <h2 class="m-entry__lower-next-clicks__title">More from Polygon</h2>
+      <div class="m-video-browser__container article">
+<div class="chorus-emc__content" data-emc-slug="PolygonVideoBrowserCell">
+    <div class="m-video-browser">
+
+  <div class="m-video-browser__player browser-video" id="video_browser" data-chorus-video-id = "59074" data-video-title = "How Dragon Age: Inquisition uses the best parts of BioWare&#x27;s best games">
+
+    <a class="m-video-browser__player-image vox-lazy-load" data-imgkey="43922608:cinema:0" data-original="//cdn2.vox-cdn.com/thumbor/hpql1LyZm5u90B7T6UDfmlUaSPA=/0x38:2550x1472/640x360/cdn0.vox-cdn.com/uploads/chorus_image/image/43922608/Screen_Shot_2014-11-10_at_4.24.31_PM.0.0.png" data-ratio="1.7777777777777777" href="http:&#x2F;&#x2F;www.polygon.com&#x2F;2014&#x2F;11&#x2F;11&#x2F;7193243&#x2F;dragon-age-inquisition-overview-gameplay-video"></a>
+
+    <div id="video-browser-meta" class="m-video-browser__meta">
+
+      <h2 class="m-video-browser__player-title">
+        Dragon Age: Inquisition Overview
+      </h2>
+      <p class="m-video-browser__byline">
+        By <a href="http://www.polygon.com/users/griffinmcelroy">Griffin McElroy</a>
+        <span class="long_date">
+            on Nov 11, 2014
+        </span>
+        <span class="short_date">
+          11.11.14
+        </span>
+      </p>
+    </div>
+    <a href="http:&#x2F;&#x2F;www.polygon.com&#x2F;2014&#x2F;11&#x2F;11&#x2F;7193243&#x2F;dragon-age-inquisition-overview-gameplay-video" class="m-video-browser__full_link"></a>
+  </div>
+
+  <div class="m-video-browser__menu pane">
+    <ul class="m-video-browser__thumb-container">
+        <li class="m-video-browser__selector-thumb browser-video  harmony-12592 harmony-sponsorship" data-playlist-placement = "1" data-chorus-video-id = "harmony-12592" data-video-title = "Taking Virtual Reality Farther">
+          <a class="m-video-browser__thumb-image vox-lazy-load" data-original="http://cdn2.vox-cdn.com/campaigns_images/32776/183633489_Polygon-VR.0.png"></a>
+            <div class="harmony-sponsorship-block">
+              <span  style=color:#80c142; class='harmony-sponsorship-disclaimer'>From Our Sponsor</span>              <img class='harmony-sponsorship-stb' src='http://cdn0.vox-cdn.com/campaigns_images/32770/clone413158025_732985688_bp_invigorate_logos_white.png' />              <svg version="1.1" class="harmony-polygon-play" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 174.7 183.7" enable-background="new 0 0 174.7 183.7" xml:space="preserve">
+<polygon class="harmony-polygon-shape"  fill="#ffffff" points="0,63.5 33.4,17.5 87.4,0 141.3,17.5 174.7,63.5 174.7,120.2 141.3,166.2 87.4,183.7 33.4,166.2 0,120.2 "/>
+<polygon class="harmony-polygon-play-arrow"  fill="#80c142" points="61.4,43.8 143,90.9 61.4,138 "/>
+</svg>
+<style type="text/css">
+    .harmony-sponsorship:hover .harmony-sponsorship-block .harmony-polygon-play .harmony-polygon-shape {
+      fill: #80c142;
+    }
+    .harmony-sponsorship:hover .harmony-sponsorship-block .harmony-polygon-play .harmony-polygon-play-arrow {
+      fill: #ffffff;
+    }
+</style>
+            </div>
+            <div data-parent-moat-ad-id='harmony-video-playlist' style='display:none;'></div><script type='text/javascript'>SBN.Campaigns.loadMoatForHarmonyContent('bp','bp-2014-the-next-mile','11-12-video-polygon-taking-virtual-reality-farther','harmony-video-playlist');</script>            <img alt="Adserver" height="1" src="http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=tf&c=19&mc=imp&pli=10523086&PluID=0&ord={random}&rtu=-1" style="position:absolute; top:-1px; left:-1px;" width="1" />          <h3>
+            Taking Virtual Reality Farther
+          </h3>
+        </li>
+        <li class="m-video-browser__selector-thumb browser-video " data-playlist-placement = "2" data-chorus-video-id = "59172" data-video-title = "Making sense of Assassin&#x27;s Creed Unity&#x27;s four different currencies">
+          <a class="m-video-browser__thumb-image vox-lazy-load" data-imgkey="43954406:portrait:0" data-original="//cdn3.vox-cdn.com/thumbor/2ECs2fxtEL7NcxZQkf8uRFZGlyQ=/876x0:1926x1575/347x520/cdn0.vox-cdn.com/uploads/chorus_image/image/43954406/Screen_Shot_2014-11-11_at_2.58.59_PM.0.0.png" data-ratio="0.6666666666666666"></a>
+          <h3>
+            A guide to Assassin&#x27;s Creed Unity&#x27;s four currencies
+          </h3>
+        </li>
+        <li class="m-video-browser__selector-thumb browser-video " data-playlist-placement = "3" data-chorus-video-id = "59070" data-video-title = "How Halo: The Master Chief Collection adds new ways to play old games">
+          <a class="m-video-browser__thumb-image vox-lazy-load" data-imgkey="43921660:portrait:0" data-original="//cdn1.vox-cdn.com/thumbor/4YonGTu_anw4ulmjsF1gNtpZszs=/755x0:1566x1217/347x520/cdn0.vox-cdn.com/uploads/chorus_image/image/43921660/Screen_Shot_2014-11-11_at_9.18.04_AM.0.0.png" data-ratio="0.6666666666666666"></a>
+          <h3>
+            What&#x27;s in Halo: The Master Chief Collection
+          </h3>
+        </li>
+        <li class="m-video-browser__selector-thumb browser-video " data-playlist-placement = "4" data-chorus-video-id = "59262" data-video-title = "In which we play Five Nights at Freddy&#x27;s 2 without learning the rules, and die horribly">
+          <a class="m-video-browser__thumb-image vox-lazy-load" data-imgkey="44016964:portrait:0" data-original="//cdn3.vox-cdn.com/thumbor/drojdYW1Nin9dwWWmJzn1rAcows=/643x0:1515x1308/347x520/cdn0.vox-cdn.com/uploads/chorus_image/image/44016964/Screen_Shot_2014-11-12_at_10.49.06_AM.0.0.png" data-ratio="0.6666666666666666"></a>
+          <h3>
+            Dying horribly in Five Nights at Freddy&#x27;s 2
+          </h3>
+        </li>
+    </ul>
+  </div>
+
+</div>
+
+
+
+
+<script>
+  Chorus.VideoContext.addVideos([{"id":"harmony-12592","provider_video_type":"ooyala","provider_video_id":"luMGRucTqfNeb0tK4vJPW4K06kuQlQwc","preview_urls":{"large":"http://cdn2.vox-cdn.com/campaigns_images/32776/183633489_Polygon-VR.0.png","medium":"http://cdn2.vox-cdn.com/campaigns_images/32776/183633489_Polygon-VR.0.png","small":"http://cdn2.vox-cdn.com/campaigns_images/32776/183633489_Polygon-VR.0.png"},"title":"Taking Virtual Reality Farther","description":""},{"id":59172,"provider_video_type":"ooyala","provider_video_id":"02eWducTrWPhpJoakNCzhSM4EGm2mO-V","provider_video_data":{},"preview_urls":{},"title":"The Many Currencies of Assassin's Creed Unity","description":""},{"id":59070,"provider_video_type":"ooyala","provider_video_id":"RheHFtcTrsP5Fs3XW6iVu9QRaGOe4skV","provider_video_data":{},"preview_urls":{},"title":"Overview - Halo Master Chief Collection.mp4","description":""},{"id":59262,"provider_video_type":"ooyala","provider_video_id":"RsYTRvcTqHxFqa2Jjk4bkmagSrpE8ZpH","provider_video_data":{},"preview_urls":{},"title":"Overview - Five Nights at Freddy's 2","description":"Nope nope nope nope nope nope nope nope no"},{"id":59074,"provider_video_type":"ooyala","provider_video_id":"JweHJtcTrMnDVySU-RsC9olwiVm9em1B","provider_video_data":{},"preview_urls":{},"title":"Overview - Dragon Age: Inquisition","description":"Hop in the adventure cart with Griffin and Phil, as they discuss Dragon Age: Inquisition."}]);
+</script>
+
+</div>
+</div>
+      <div class="m-link-set article">
+  <ul class="m-link-set__list">
+      <li class="m-link-set__item ">
+        <header class="m-link-set__eyebrow">
+            <h6><a href="http:&#x2F;&#x2F;www.polygon.com&#x2F;reviews">Review</a></h6>
+      </header>
+      <span class="m-link-set__image-wrapper">
+      <a class="m-link-set__image vox-lazy-load" data-imgkey="43884322:cinema:0" data-original="//cdn2.vox-cdn.com/thumbor/CeYJ-_ae1ByXtSs5anBh4-QWLFI=/52x0:1758x960/640x360/cdn0.vox-cdn.com/uploads/chorus_image/image/43884322/dragonageinquisition_review_main_1920.0.0.jpg" data-ratio="1.7777777777777777" href="http:&#x2F;&#x2F;www.polygon.com&#x2F;2014&#x2F;11&#x2F;11&#x2F;7134385&#x2F;dragon-age-inquisition-review-ps4-xbox-one-playstation-4-pc"></a>      </span>
+      <a href="http:&#x2F;&#x2F;www.polygon.com&#x2F;2014&#x2F;11&#x2F;11&#x
+008000
+2F;7134385&#x2F;dragon-age-inquisition-review-ps4-xbox-one-playstation-4-pc" class="m-link-set__entry-link">Dragon Age: Inquisition review: by faith&nbsp;alone</a>
+                  
+      </li>
+      <li class="m-link-set__item ">
+        <header class="m-link-set__eyebrow">
+            <h6><a href="http:&#x2F;&#x2F;www.polygon.com&#x2F;reviews">Review</a></h6>
+      </header>
+      <span class="m-link-set__image-wrapper">
+      <a class="m-link-set__image vox-lazy-load" data-imgkey="43925786:cinema:0" data-original="//cdn1.vox-cdn.com/thumbor/hEJrNgccOuGZiD0Azselg2SydgU=/104x0:2028x1082/640x360/cdn0.vox-cdn.com/uploads/chorus_image/image/43925786/unity-review-hero.0.0.jpg" data-ratio="1.7777777777777777" href="http:&#x2F;&#x2F;www.polygon.com&#x2F;2014&#x2F;11&#x2F;11&#x2F;7192467&#x2F;assassins-creed-unity-review-xbox-one-PS4-PC"></a>      </span>
+      <a href="http:&#x2F;&#x2F;www.polygon.com&#x2F;2014&#x2F;11&#x2F;11&#x2F;7192467&#x2F;assassins-creed-unity-review-xbox-one-PS4-PC" class="m-link-set__entry-link">Assassin's Creed Unity review: Paris&nbsp;burning</a>
+                  
+      </li>
+      <li class="m-link-set__item ">
+        <header class="m-link-set__eyebrow">
+            <h6><a href="http:&#x2F;&#x2F;www.polygon.com&#x2F;opinion">Opinion</a></h6>
+      </header>
+      <span class="m-link-set__image-wrapper">
+      <a class="m-link-set__image vox-lazy-load" data-imgkey="43926430:cinema:0" data-original="//cdn2.vox-cdn.com/thumbor/uJM16_LMljz_BioMtE18l-CESUQ=/0x24:1389x805/640x360/cdn0.vox-cdn.com/uploads/chorus_image/image/43926430/elise3.0.0.jpg" data-ratio="1.7777777777777777" href="http:&#x2F;&#x2F;www.polygon.com&#x2F;2014&#x2F;11&#x2F;11&#x2F;7193415&#x2F;assassins-creed-unity-review-embargo"></a>      </span>
+      <a href="http:&#x2F;&#x2F;www.polygon.com&#x2F;2014&#x2F;11&#x2F;11&#x2F;7193415&#x2F;assassins-creed-unity-review-embargo" class="m-link-set__entry-link">How Assassin's Creed Unity weaponized review&nbsp;embargoes</a>
+                  
+      </li>
+  </ul>
+</div>
+
+    </div>
+    <div class="m-ad m-ad__mid-body">
+    <div class="m-ad__desktop-only">
+      
+          <div id='div-gpt-ad-athena' class="dfp_ad" data-cb-ad-id="Athena" data-cb-dfp-id="unit=athena">
+            <script type='text/javascript'>
+              SBN.Ads.showAd("athena");
+            </script>
+          </div>
+    </div>
+</div>
+
+    <div class="m-entry__wrapper" id="article-comments">
+      
+      <div class="l-main">
+        <div class="m-entry__content">
+          <div class="chunk vox-module polygon-comments-without-sidebar">
+  <div class="vox-module vox-comments" id="vox-comments">
+    <div id="comments" class="comments_wrapper "></div>
+
+<script type="script/template" id="comment-account-actions-template">
+    <h2 class="m-comments__logged-out-header">
+  Something to say?
+  <a href="/login?community_id=405&return_to=http%3A%2F%2Fwww.polygon.com%2F2013%2F6%2F20%2F4445476%2Fphil-fish-on-fez-2-ambition-and-launch-platforms-not-xbox%23comments" data-chorus-auth="login">Log in</a> or
+  <a href="/signup?community_id=405&return_to=http%3A%2F%2Fwww.polygon.com%2F2013%2F6%2F20%2F4445476%2Fphil-fish-on-fez-2-ambition-and-launch-platforms-not-xbox%23comments" data-chorus-auth="register">sign up</a>
+</h2>
+</script>
+
+<script type="script/template" id="comment-auto-update-alert-template" class="template">
+  <p class="legend">
+     <strong>Z</strong> key jumps to next.
+     <strong>R</strong> to reply.
+  </p>
+
+  <div class="column grid_1 count">
+    <strong>[%= data.comments.length %]</strong>
+    <em>COMMENT[%= data.comments.length > 1 ? "S" : "" %]</em>
+  </div>
+
+  <div class="column grid_3 meta">
+    [% var len = Math.min(data.comments.length, data.settings.autoUpdateAlertMaxShown) %]
+    [% for (var i = 0; i < len; i++) { %]
+      [% var comment = data.comments[i] %]
+      <p>
+        <a href="#" class="go_to_comment" data-comment-id="[%= comment.id %]">
+          [%= comment.user.display_name %]
+        </a>
+
+        [% if (comment.parent) { %]
+          <span><em>replied to</em> [%= comment.parent.user.display_name %]</span>
+        [% } else { %]
+          <span><em>posted a new comment</em></span>
+        [% } %]
+      </p>
+    [% } %]
+  </div>
+
+  [% if (data.comments.length > data.settings.autoUpdateAlertMaxShown) { %]
+    <p class="additional-comments">
+      and ...[%= data.comments.length - data.settings.autoUpdateAlertMaxShown %] more.
+    </p>
+  [% } %]
+
+  <a href="#" class="close"></a>
+</script>
+
+<script type="script/template" id="comment-template" class="template">
+  <div class="comment comment_inner">
+    [% if (data.comment.id) { %]
+      <a href="#" class="collapse_toggle"></a>
+    [% } %]
+
+    <div class="by">
+      [% if (data.view.hasProfilePicture()) { %]
+        <a href="[%= data.comment.user.profile_url %]" class="profile_image">
+          <img src="[%= data.comment.user.profile_image %]" alt="[%= data.comment.user.display_name %]" />
+        </a>
+      [% } %]
+
+      [% if (data.comment.user.membership && data.comment.user.membership.short_bio) { %]
+        <div class="name_container has_flair">
+      [% } %]
+
+      [% if (data.comment.user.profile_url) { %]
+        <a href="[%= data.comment.user.profile_url %]" class="profile_name">[%= data.comment.user.display_name %]</a>
+      [% } else { %]
+        [%= data.comment.user.display_name %]
+      [% } %]
+
+      [% if (data.comment.user.membership && data.comment.user.membership.short_bio) { %]
+        <p>[%= data.comment.user.membership.short_bio %]</p>
+        </div>
+      [% } %]
+    </div>
+
+    <div class="cbody">
+      [%= data.comment.body %]
+    </div>
+
+    <p class="posted_on">
+      [% if (data.comment.id) { %]
+        <a href="#[%= data.comment.id %]" class="time">[%= data.comment.created_on %]</a>
+
+        [% if (!data.context.comments_closed) { %]
+          <a href="#" class="reply_link">Reply</a>
+        [% } %]
+
+        [% if (data.comment.is_editable) { %]
+          <a href="#" class="edit_link">
+            Edit <span class="countdown_timer"></span>
+          </a>
+        [% } %]
+
+        [% if (data.context.able_to_comment) { %]
+          <span class="cactions [% if (data.context.able_to_moderate) { %] mod [% } %]">
+            [% var rec_class = [] %]
+            [% if (data.comment.is_recommended) { rec_class.push('recommended') } %]
+            [% if (data.comment.is_recommended_by_user) { rec_class.push('user_recommended') } %]
+            [% rec_class = rec_class.join(' ') %]
+
+            [% if (!data.comment.is_flagged_by_user && data.comment.user_id != data.context.user_id) { %]
+              <a href="#" class="rec_link [%= rec_class %]">
+                Rec<span class="full_text">ommend</span>
+                <span class="rec_count">
+                  [% if (data.comment.recommended_flags_count > 0) { %]
+                    ([%= data.comment.recommended_flags_count %])
+                  [% } %]
+                </span>
+              </a>
+            [% } else if (data.comment.recommended_flags_count > 0) { %]
+              <span class="rec_readonly [%= rec_class %]">
+                Rec<span class="full_text">ommend</span>
+                <span class="rec_count">
+                  ([%= data.comment.recommended_flags_count %])
+                </span>
+              </span>
+            [% } %]
+
+            [% if (!data.comment.is_recommended_by_user) { %]
+              <a href="#" class="flag_link [% if (data.comment.is_flagged_by_user) { %] user_flagged [% } %]">
+                [%= data.comment.is_flagged_by_user ? 'Unflag' : 'Flag' %]
+              </a>
+            [% } %]
+
+            [% if (data.context.able_to_moderate) { %]
+              [% if (data.comment.bad_flags_count > 0) { %]
+                <a href="#" class="inspect_flags_link">
+                  <span class="full_text">Inspect</span> Flags ([%= data.comment.bad_flags_count %])
+                </a>
+              [% } %]
+
+              <a href="#" class="actions_toggle">Actions</a>
+              <span class="actions_links">
+                <a href="#" class="block_user_link">Spam <span class="full_text">Ban</span></a>
+                <a href="#" class="delete_link">Delete</a>
+                <a href="#" class="hide_link">[%= data.comment.hidden ? 'Unhide' : 'Hide' %]</a>
+                <a href="#" class="inspect_user_link"><span class="full_text">Inspect</span> User</a>
+              </span>
+            [% } %]
+          </span>
+        [% } %]
+      [% } %]
+    </p>
+
+    [% if (data.comment.is_editable) { %]
+      <div class="countdown_timer_bar"></div>
+    [% } %]
+  </div>
+</script>
+
+<script type="script/template" id="comments-closed-notice-template" class="template">
+  <h4 class="comments-closed">Comments are closed for this post.</h4>
+</script>
+
+<script type="script/template" id="comment-edit-form-template" class="template">
+  <form action="#" method="post" class="edit_form">
+    <textarea autofocus name="body" rows="8" cols="64" class="text-input">[%= data.comment.rawBody || data.comment.body %]</textarea>
+
+    <p class="center submit">
+      <input type="button" value="save" class="post_edit_button" />
+      <input type="button" value="cancel" class="cancel_edit_button" />
+    </p>
+  </div>
+</script>
+
+<script type="script/template" id="comment-flag-dialog-template" class="template">
+  <div id="comment_flag_modal" class="modal flag_modal">
+    <a href="#" class="modal_close" data-chorus-modal-action="cancel"></a>
+    <h3>Flag Comment</h3>
+
+    <form action="#" method="post">
+      <input id="type" name="type" type="hidden" value="Comment">
+      <input id="id" name="id" type="hidden" value="[%= data.comment.id %]">
+
+      <div class="col">
+        <p>
+          <select id="flagging_flag_id" name="flagging[flag_id]">
+            <option value="1">spam</option>
+            <option value="2">troll</option>
+            <option value="4">inappropriate</option>
+          </select>
+        </p>
+
+        <p>
+          <label for="comment">Reason:</label>
+          <textarea cols="40" id="flagging_comment" name="flagging[comment]" rows="20"></textarea>
+        </p>
+
+        <div class="alignC">
+          <input class="submit primary" name="commit" type="submit" value="Submit">
+        </div>
+      </div>
+
+      <div class="col short-note">
+        <p>Your flag will not be visible to anyone but moderators. Please select the reason you are flagging this content: spam, trolling or just inappropriate. Then write us a short note explaining why you flagged it that way.</p>
+      </div>
+    </form>
+  </div>
+</script>
+
+<script type="script/template" id="comments-footer-template" class="template">
+</script>
+
+<script type="script/template" id="comment-formatting-guide-template" class="template">
+  <table>
+    <tr>
+      <th>for this effect</th>
+      <th>type this</th>
+    </tr>
+    <tr>
+      <td>
+        <strong>Bold phrase</strong>
+      </td>
+      <td>
+        *Bold phrase*
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <span style="font-style: italic;">Italic phrase</span>
+      </td>
+      <td>
+        _Italic phrase_
+      </td>
+    </tr>
+      <tr>
+        <td>
+          <del>Striked phrase</del>
+        </td>
+        <td>
+          -Striked phrase-
+        </td>
+      </tr>
+      <tr>
+      <td>
+        <ul>
+          <li>Bulleted list</li>
+          <li>Bulleted list</li>
+        </ul>
+      </td>
+      <td>
+          * Bulleted list<br />
+
+          * Bulleted list
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <ol>
+          <li>Numbered list</li>
+          <li>Numbered list</li>
+
+        </ol>
+      </td>
+      <td>
+          # Numbered list<br />
+          # Numbered list
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <blockquote>Blockquoted paragraph</blockquote>
+      </td>
+      <td>
+          bq. Blockquoted paragraph
+      </td>
+    </tr>
+    <tr>
+      <td>&nbsp;&nbsp;&nbsp;&nbsp;Indented paragraph
+      </td>
+      <td>
+          p(. Indented paragraph
+      </td>
+    </tr>
+    <tr>
+      <td><a href="http://www.google.com">Google</a></td>
+      <td>"Google":http://www.google.com</td>
+    </tr>
+    <tr>
+      <td><img alt="Pic-icon.v2b54954" src="http://cdn0.vox-cdn.com/images/globals/pic-icon.v2b54954.png" /></td>
+      <td>!http://website.com/images/filename.png!</td>
+    </tr>
+  </table>
+</script>
+
+<script type="script/template" id="comments-header-template" class="template">
+  <h2>
+      There are <span class="count">163</span> Comments.
+
+    [% if (!data.context.comments_closed && data.context.able_to_comment) { %]
+      <a href="#main_comment_form" class="add_comment_link">Add yours.</a>
+    [% } %]
+  </h2>
+
+  <a href="#" class="tips_link">Show speed reading tips and settings</a>
+
+  <div class="tips">
+    <p><em>Shortcuts to mastering the comment thread. Use wisely.</em></p>
+
+    <div class="sr-group">
+      <p class="sr-set">
+        <em>C</em> - Next Comment<br>
+        <em>X</em> - Mark as Read<br>
+      </p>
+      <p class="sr-set">
+        <em>R</em> - Reply<br>
+        <em>Z</em> - Mark Read & Next
+      </p>
+      <p class="sr-set">
+        <em>Shift</em> + <em>C</em> - Previous<br>
+        <em>Shift</em> + <em>A</em> - Mark All Read
+      </p>
+    </div>
+
+    <h4>Comment Settings</h4>
+    <label>
+      Live comment alert:
+      <a href="#" class="auto_update_alert_toggle">Hide it!</a>
+    </label>
+  </div>
+
+  [% if (!data.settings.startOnScroll) { %]
+    <a href="#" class="show_comments_link">Load Comments</a>
+  [% } %]
+
+  <div class="show_comments_spinner"></div>
+</script>
+
+<script type="script/template" id="comment-inspect-flags-dialog-template" class="template">
+  <div id="inspect_flags_modal" class="modal flag_modal">
+    <a href="#" class="modal_close" data-chorus-modal-action="cancel"></a>
+    <h3>Flags For</h3>
+
+    [%= data.comment.title %]
+
+    <table>
+      <tr>
+        <th>Type</th>
+        <th>Date/Time</th>
+        <th>Member</th>
+        <th>Reason</th>
+      </tr>
+      [% _.each(data.flaggings, function(flagging) { %]
+        <tr>
+         <td class="type">[%= flagging.flag_name %]</td>
+         <td class="date">[%= flagging.created_on %]</td>
+         <td class="user">
+            <a href="[%= flagging.user.profile_url %]">
+              [%= flagging.user.display_name %]
+            </a>
+         </td>
+         <td class="reason">[%= flagging.comment %]</td>
+        </tr>
+      [% }) %]
+    </table>
+  </div>
+</script>
+
+<script type="script/template" id="comment-main-form-template" class="template">
+  <form action="#" method="post" class="post_form">
+    <h3 class="clearfix formtitle" id="add-comment">Post a New Comment</h3>
+    <h5 class="message">Message</h5>
+    <div class="editor">
+      <span id="formatting_guide_links">
+        <a href="#">Show Formatting Guide &darr;</a>
+        <a href="#" style="display:none">Hide Formatting Guide &uarr;</a>
+      </span>
+      <textarea name="body" rows="8" cols="64"></textarea>
+    </div>
+    <p class="center submit">
+      <input type="button" value="post" class="primary post post_comment_button" />
+      <input type="button" value="preview" class="preview preview_comment_button" />
+    </p>
+  </form>
+</script>
+
+<script type="script/template" id="comment-reply-form-template" class="template">
+  <form action="#" method="post" class="reply_form">
+    <input type="hidden" name="parent_id" value="[%= data.comment.id %]" />
+
+    <textarea autofocus name="body" rows="8" cols="64" class="text-input"></textarea>
+
+    <p class="center submit">
+      <input type="button" value="post" class="primary post post_comment_button" />
+      <input type="button" value="preview" class="preview preview_comment_button" />
+      <input type="button" value="cancel" class="cancel cancel_comment_button" />
+    </p>
+  </form>
+</script>
+
+<script type="text/template" id="comment-touch-tools-template" class="template">
+  <a href="#" class="refresh"><span class="ss-icon">&#x21BB;</span></a>
+  <a href="#" class="next">Next unread</a>
+  <a href="#" class="mark">Unmark all</a>
+  <a href="#" class="close"><span class="ss-icon">&#x2421;</span></a>
+</script>
+
+
+<script type="text/javascript">
+  jQuery(function($) {
+    Chorus.Comments.initialize(4209517, {"autoUpdateEnabled":false,"flaggedThreshold":5,"recommendedThreshold":5,"showAvatars":true,"showImages":true,"removeImages":false,"showSignatures":true});
+  });
+</script>
+
+  </div>
+</div>
+
+        </div>
+      </div>
+      <div class="l-rail">
+        <div class="m-ad m-ad__medrec m-ad__medrec-btf ">
+    
+          <div id='div-gpt-ad-btf_medium_rectangle' class="dfp_ad" data-cb-ad-id="Btf medium rectangle" data-cb-dfp-id="unit=btf_medium_rectangle">
+            <script type='text/javascript'>
+              SBN.Ads.showAd("btf_medium_rectangle");
+            </script>
+          </div>
+</div>
+
+<section class="m-rail-component">
+  <h2 class="m-rail-component__header">Latest Discussions</h2>
+  <ul class="m-rail-component__list">
+    <li class="m-rail-component__list__item odd">
+      <a href="http:&#x2F;&#x2F;www.polygon.com&#x2F;forums&#x2F;polynauts&#x2F;2014&#x2F;10&#x2F;8&#x2F;6946621&#x2F;poly-ot-gender-sexuality-and-representation-in-gaming-october" class="m-rail-component__link">Poly-OT:  Gender, sexuality and representation in gaming (Part 2)</a>
+      <p class="m-rail-component__byline">
+        <span class="m-rail-component__byline__forum">in <a href="&#x2F;forums&#x2F;polynauts">Polynauts</a></span>
+        by <a href="http://www.polygon.com/users/Shaun%20McIlroy">Shaun McIlroy</a> on Oct 08, 2014</em>
+      </p>
+    </li>
+    <li class="m-rail-component__list__item even">
+      <a href="http:&#x2F;&#x2F;www.polygon.com&#x2F;forums&#x2F;ps4&#x2F;2014&#x2F;11&#x2F;11&#x2F;7194807&#x2F;relaxing-open-world-game-for-ps4" class="m-rail-component__link">Relaxing Open-World game for PS4</a>
+      <p class="m-rail-component__byline">
+        <span class="m-rail-component__byline__forum">in <a href="&#x2F;forums&#x2F;ps4">PlayStation 4</a></span>
+        by <a href="http://www.polygon.com/users/thejellymon">thejellymon</a> on Nov 11, 2014</em>
+      </p>
+    </li>
+    <li class="m-rail-component__list__item odd">
+      <a href="http:&#x2F;&#x2F;www.polygon.com&#x2F;forums&#x2F;off-topic&#x2F;2014&#x2F;11&#x2F;12&#x2F;7202137&#x2F;polygon-daily-off-topic-super-miyamoto-wednesday-nov-12" class="m-rail-component__link">Polygon Daily Off Topic: Super Miyamoto (Wednesday, Nov. 12)</a>
+      <p class="m-rail-component__byline">
+        <span class="m-rail-component__byline__forum">in <a href="&#x2F;forums&#x2F;off-topic">Off-topic</a></span>
+        by <a href="http://www.polygon.com/users/Shaun%20McIlroy">Shaun McIlroy</a> on Nov 12, 2014</em>
+      </p>
+    </li>
+    <li class="m-rail-component__list__item even">
+      <a href="http:&#x2F;&#x2F;www.polygon.com&#x2F;forums&#x2F;ios&#x2F;2014&#x2F;11&#x2F;9&#x2F;7184125&#x2F;ipad-air-2-or-ipad-pro" class="m-rail-component__link">iPad Air 2 or iPad Pro?</a>
+      <p class="m-rail-component__byline">
+        <span class="m-rail-component__byline__forum">in <a href="&#x2F;forums&#x2F;ios">iOS</a></span>
+        by <a href="http://www.polygon.com/users/TheIncarcerator">TheIncarcerator</a> on Nov 09, 2014</em>
+      </p>
+    </li>
+    <li class="m-rail-component__list__item odd">
+      <a href="http:&#x2F;&#x2F;www.polygon.com&#x2F;forums&#x2F;ios&#x2F;2014&#x2F;11&#x2F;11&#x2F;7195395&#x2F;macbook-pro-laptop-vs-imac-with-retina-5k-display" class="m-rail-component__link">MacBook Pro Laptop vs. iMac with Retina 5k Display</a>
+      <p class="m-rail-component__byline">
+        <span class="m-rail-component__byline__forum">in <a href="&#x2F;forums&#x2F;ios">iOS</a></span>
+        by <a href="http://www.polygon.com/users/TheIncarcerator">TheIncarcerator</a> on Nov 11, 2014</em>
+      </p>
+    </li>
+    <li class="m-rail-component__list__item even">
+      <a href="http:&#x2F;&#x2F;www.polygon.com&#x2F;forums&#x2F;destiny&#x2F;2014&#x2F;11&#x2F;5&#x2F;7159921&#x2F;clans-of-polygon-whats-going-on-in-destiny-november" class="m-rail-component__link">Clans of Polygon: What&#x27;s going on in Destiny? (November)</a>
+      <p class="m-rail-component__byline">
+        <span class="m-rail-component__byline__forum">in <a href="&#x2F;forums&#x2F;destiny">Destiny</a></span>
+        by <a href="http://www.polygon.com/users/Shaun%20McIlroy">Shaun McIlroy</a> on Nov 05, 2014</em>
+      </p>
+    </li>
+    <li class="m-rail-component__list__item odd">
+      <a href="http:&#x2F;&#x2F;www.polygon.com&#x2F;forums&#x2F;off-topic&#x2F;2014&#x2F;11&#x2F;8&#x2F;7179347&#x2F;anime-cartoons-comics-plight-vol-3-no-1-4-return-of-the-woady" class="m-rail-component__link">Anime, Cartoons, Comics! Plight Vol 3, No 1.4: Return of the Woady</a>
+      <p class="m-rail-component__byline">
+        <span class="m-rail-component__byline__forum">in <a href="&#x2F;forums&#x2F;off-topic">Off-topic</a></span>
+        by <a href="http://www.polygon.com/users/Woady">Woady</a> on Nov 08, 2014</em>
+      </p>
+    </li>
+    <li class="m-rail-component__list__item even">
+      <a href="http:&#x2F;&#x2F;www.polygon.com&#x2F;forums&#x2F;pokemon-omega-ruby-pokemon-alpha-sapphire&#x2F;2014&#x2F;10&#x2F;29&#x2F;7089627&#x2F;pokemon-discussions-trumpets-in-the-distance" class="m-rail-component__link">Pokémon Discussions - Trumpets in the Distance</a>
+      <p class="m-rail-component__byline">
+        <span class="m-rail-component__byline__forum">in <a href="&#x2F;forums&#x2F;pokemon-omega-ruby-pokemon-alpha-sapphire">Pokemon Omega Ruby&#x2F;Pokemon Alpha Sapphire</a></span>
+        by <a href="http://www.polygon.com/users/KajunBowser">KajunBowser</a> on Oct 29, 2014</em>
+      </p>
+    </li>
+    <li class="m-rail-component__list__item odd">
+      <a href="http:&#x2F;&#x2F;www.polygon.com&#x2F;forums&#x2F;off-topic&#x2F;2014&#x2F;11&#x2F;11&#x2F;7192533&#x2F;polygon-daily-off-topic-a-dragons-age-tuesday-nov-11" class="m-rail-component__link">Polygon Daily Off Topic: A Dragon&#x27;s Age (Tuesday, Nov. 11)</a>
+      <p class="m-rail-component__byline">
+        <span class="m-rail-component__byline__forum">in <a href="&#x2F;forums&#x2F;off-topic">Off-topic</a></span>
+        by <a href="http://www.polygon.com/users/Shaun%20McIlroy">Shaun McIlroy</a> on Nov 11, 2014</em>
+      </p>
+    </li>
+    <li class="m-rail-component__list__item even">
+      <a href="http:&#x2F;&#x2F;www.polygon.com&#x2F;forums&#x2F;xbox-one&#x2F;2014&#x2F;11&#x2F;11&#x2F;7200177&#x2F;release-dates" class="m-rail-component__link">Release dates</a>
+      <p class="m-rail-component__byline">
+        <span class="m-rail-component__byline__forum">in <a href="&#x2F;forums&#x2F;xbox-one">Xbox One</a></span>
+        by <a href="http://www.polygon.com/users/Frenz">Frenz</a> on Nov 11, 2014</em>
+      </p>
+    </li>
+  </ul>
+</section>
+
+
+
+      </div>
+    </div>
+  </div>
+</article>
+
+        <div class="m-ad m-ad__btf_leaderboard">
+    
+          <div id='div-gpt-ad-btf_leaderboard' class="dfp_ad" data-cb-ad-id="Btf leaderboard" data-cb-dfp-id="unit=btf_leaderboard">
+            <script type='text/javascript'>
+              SBN.Ads.showAd("btf_leaderboard");
+            </script>
+          </div>
+    
+          <div id='div-gpt-ad-tablet_btf_leaderboard' class="dfp_ad" data-cb-ad-id="Tablet btf leaderboard" data-cb-dfp-id="unit=tablet_btf_leaderboard">
+            <script type='text/javascript'>
+              SBN.Ads.showAd("tablet_btf_leaderboard");
+            </script>
+          </div>
+</div>
+
+        <div class="m-ad m-ad__mobile-footer">
+  <div class="m-ad__mobile-only">
+    
+          <div id='div-gpt-ad-mobile_footer' class="dfp_ad" data-cb-ad-id="Mobile footer" data-cb-dfp-id="unit=mobile_footer">
+            <script type='text/javascript'>
+              SBN.Ads.showAd("mobile_footer");
+            </script>
+          </div>
+  </div>
+</div>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="super">
+  <footer id="site-footer" class="m-footer ">
+
+<div class="m-footer__meta">
+  Polygon <a href="/pages/version-history" class="version_number">v1.9.2,
+  March 27, 2014</a> &bull;
+  <a href="/pages/about">about</a> &bull;
+  <a href="http://jobs.voxmedia.com">Jobs</a> &bull;
+  <a href="/pages/ethics-statement">Ethics statement</a>  <br />
+  <a href="/pages/community-guidelines">Community Guidelines</a> &bull;
+  <a href="http://www.voxmedia.com/terms-of-use">Terms of use</a> &bull;
+  <a href="http://www.voxmedia.com/privacy-policy">Privacy Policy</a> &bull;
+  <a href="/rss/index.xml">RSS</a>
+
+
+  <p>
+    &copy; 2014 <a href="http://www.voxmedia.com/">Vox Media</a> Inc. all rights reserved &bull;
+    Designed & Developed <a href="http://product.voxmedia.com/">in house</a>
+  </p>
+  <p>Partner site of The Verge</p>
+  <p>
+    <span id="status_io" class="m-footer__bottom__status">
+  All Systems Operational
+  <a href="http://status.voxmedia.com" target="_blank">Check out our status page for more details.</a>
+</span>
+
+  </p>
+
+</div>
+
+<div class="m-footer__mobile-meta">
+  <a class="m-footer__mobile-meta__menu" href="#">Top of Page</a>
+  <a class="m-footer__mobile-meta__menu" href="/">Home</a>
+  <span class="m-footer__copyright">
+    &copy; 2014 <a href="http://www.voxmedia.com/">Vox Media</a> Inc. all rights reserved<br>
+    Designed <a href="http://product.voxmedia.com/">in house</a>
+  </span>
+</div>
+
+<a href="http://voxmedia.com/" class="m-footer__vox-logo"></a>
+
+</footer>
+
+</div>
+
+
+    <script src="http://cdn2.vox-cdn.com/javascripts/polygon_body.va94dfc39c2844b53.js" type="text&#x2F;javascript"></script>
+
+    <!-- analytics footer -->
+      <script type="text/javascript">
+  var _sf_async_config={uid:2724,domain:'polygon.com'};
+  (function(w,d,s){
+    w._sf_endpt=(new Date()).getTime();
+    var e = d.createElement(s), t = d.getElementsByTagName(s)[0];
+    e.type = 'text/javascript';
+    e.async = true;
+    e.src = (('https:' == d.location.protocol) ? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' : 'http://static.chartbeat.com/') + 'js/chartbeat_pub.js';
+    t.parentNode.insertBefore(e, t);
+  })(window,document,'script');
+  </script>
+
+  <span id="displaymarketplace-tracking-pixel">
+    <img src="http://aperture.displaymarketplace.com/audmeasure.gif?liveconclientID=5497559777280&amp;PageID=650423876&amp;EventType=view" style="width:1px; height: 1px; visibility:hidden" />
+  </span>
+
+
+<script type="text&#x2F;javascript">
+//<![CDATA[
+Providence=(function(){var a={};a.contexts=[];a.fire_event=function(d,b,c,e){c=typeof c!=="undefined"?c:{};e=typeof e!=="undefined"?e:Providence.contexts;jQuery.get("http://providence.voxmedia.com/event",{event_name:d,location:b,host:window.location.host,metadata:JSON.stringify(c),contexts:e},function(f){})};a.init=function(d){if(typeof d!=="undefined"){Providence.contexts=d}var b=window.location.host+window.location.pathname;Providence.fire_event("page_view",b,{title:document.title});var c=Providence.contexts.slice();c.push("referrals:"+b);Providence.fire_event("referral",document.referrer.split("/")[2],{},c)};if(typeof Chorus!=="undefined"){if(typeof Chorus.EventDispatcher!=="undefined"){(function(c,b){function d(f){var e=jQuery("#"+f.player.elementId);Providence.fire_event("video_play",f.player.getEmbedCode(),{title:f.player.getCurrentItemTitle()});b.unsubscribe("ooyalaVideoPlay",d)}b.subscribe("ooyalaVideoPlay",d)})(jQuery,Chorus.EventDispatcher)}}return a})();if(typeof jQuery!=="undefined"){jQuery(document).ready(function(a){Providence.init(["network:polygon"])})};
+//]]>
+</script>
+
+<script type="text/javascript">
+  jQuery(document).ready(function($) {
+      if (typeof adblockJsFile == 'undefined') {
+      Providence.fire_event(
+        'adblocked_view',
+        document.location.href
+      );
+    }
+  });
+</script>
+
+<script type="text/javascript">
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7976662" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=7976662&amp;cv=2.0&amp;cj=1" alt=''/>
+</noscript>
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+Util.loadScriptAsync('http://edge.quantserve.com/quant.js', function() {
+  window._qacct="p-d9vfr8QTWnv1E";
+  if (typeof(quantserve) != "undefined") { quantserve(); }
+})
+</script>
+<noscript>
+<a href="http://www.quantcast.com/p-d9vfr8QTWnv1E"
+target="_blank"><img
+src="http://pixel.quantserve.com/pixel/p-d9vfr8QTWnv1E.gif"
+style="display: none;" border="0" height="1" width="1"
+alt="Quantcast"/></a>
+</noscript>
+<!-- End Quantcast tag -->
+
+
+
+    <!-- advertising footer -->
+    
+    <!-- social loader -->
+    <script type='text/javascript'>
+(function(w, d, s) {
+  function go(){
+    var js, fjs = d.getElementsByTagName(s)[0];
+    var load = function(url, id) {
+      if (d.getElementById(id)) {return;}
+      js = d.createElement(s); js.src = url; js.id = id;
+      fjs.parentNode.insertBefore(js, fjs);
+    };
+    if (!Util.UserAgentProfiler.isAndroidLt3()){
+      load('//www.whatsapp-sharing.com/button')
+      load("//connect.facebook.net/en_US/all.js#xfbml=1", 'fbjs');
+      load('https://apis.google.com/js/plusone.js', 'gplus1js');
+      load('//platform.twitter.com/widgets.js', 'tweetjs');
+    }
+  }
+  if (w.addEventListener) {
+    w.addEventListener("load", go, false);
+  }
+  else if (w.attachEvent) {
+    w.attachEvent("onload",go);
+  }
+}(window, document, 'script'));
+</script>
+
+    <script type="text/javascript">
+  var _sf_async_config = { uid: 2724, domain: 'polygon.com' };
+  (function() {
+    function loadChartbeat() {
+      window._sf_endpt = (new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('language', 'javascript');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src',
+        (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+        "js/chartbeat.js");
+      document.body.appendChild(e);
+    };
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != 'function') ?
+      loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  })();
+</script>
+<script type="text/javascript" src="//s.skimresources.com/js/66960X1516586.skimlinks.js"></script>
+    <script>
+  window.ooyala_player_id = '2ff6d6fff2b2457bb9ea2cfcf77dc25b';
+  window.alternate_ooyala_player_id = '';
+  window.ooyala_options = {"tweaks":"android-enable-hls"};
+  Chorus.VideoContext.addVideos([{"id":25331,"provider_video_type":"ooyala","provider_video_id":"x3N3VkYzrii2du-X8aDXOT1nF52RyavZ","provider_video_data":{},"preview_urls":{},"title":"Fez 2 - Teaser Trailer","description":""}]);
+</script>
+  </div>
+  <script type="text/javascript">
+  window.Chorus = window.Chorus || {};
+  window.Chorus.Context = {
+      logged_in   : false
+    , user_id     : 0
+    , network_domain : "polygon.com"
+    , network_slug : "polygon"
+    , community_id : 405
+    , entry_id : 4209517
+    , is_preview: false
+    , short_url : "http://sbn.to/194yBE9"
+    , emc_admin : false
+
+  };
+  if (!window.Vox && window.Chorus) {
+    Vox = {
+      Video: Chorus.Video
+    }
+  }
+</script>
+
+<div class="m-auth-modal__wrapper">
+
+  <div class="m-auth-modal polygon" data-chorus-auth-network-url="https://www.polygon.com">
+    <div class="m-auth-modal__header">
+      <a href="" class="m-auth-modal__close" data-chorus-modal-action="cancel">X</a>
+      <div class="m-auth-modal__logo">
+        <img alt="Eater" src="http://cdn0.vox-cdn.com/images/auth/eater.v8c5ef86.png" />
+        <img alt="The Verge" src="http://cdn2.vox-cdn.com/images/auth/verge.vf8f1c8e.png" />
+        <img alt="Polygon" src="http://cdn1.vox-cdn.com/images/auth/polygon.vdaf8146.png" />
+        <img alt="SB Nation" src="http://cdn0.vox-cdn.com/images/auth/sbn.v50c5f70.png" />
+      </div>
+    </div>
+
+    <div class="m-auth-modal__body" data-chorus-auth-modal="login">
+      <div class="m-auth-modal__tabs">
+        <span>Log In</span>
+        <a href="" data-chorus-auth-goto="register">Sign Up</a>
+      </div>
+      <table class="m-auth-modal__login-table">
+        <tr>
+          <td class="twitter"><a data-chorus-auth-login="twitter" href="">T</a></td>
+          <td class="facebook"><a data-chorus-auth-login="facebook" href="">F</a></td>
+          <td class="gplus">
+            <span id='chorus-auth-gplus-login' data-chorus-auth-login="gplus" style="cursor: pointer;">
+  <a>G</a>
+</span>
+
+          </td>
+        </tr>
+        <tr>
+          <td class="yahoo"><a href="" data-chorus-auth-login="yahoo">Y</a></td>
+
+002843
+          <td class="openid"><a href="" data-chorus-auth-login="openid">O</a></td>
+          <td></td>
+        </tr>
+      </table>
+      <form class='m-auth-modal__form openid'>
+        <input type="text" name="openid" placeholder="OpenID" />
+        <div class="m-auth-modal__form-controls">
+          <input type="submit" value="Open ID Log in" />
+        </div>
+      </form>
+      <form id='chorus-auth-password' class="m-auth-modal__form" method="POST">
+        <p class='error'></p>
+        <fieldset>
+        <input type="text" name="username" placeholder="Username" />
+        <a href="" data-chorus-auth-goto="forgot-username">forgot?</a>
+      </fieldset>
+        <fieldset>
+          <input type="password" name="password" placeholder="Password" />
+          <a href="" data-chorus-auth-goto="forgot">forgot?</a>
+        </fieldset>
+        <div id="chorus-auth-login-recaptcha" class="m-auth-modal__captcha-container"></div>
+        <div class="m-auth-modal__form-controls">
+          <span>
+            <input type="checkbox" name="remember_me" id="remember_me" />
+            <label for="remember_me">Remember me?</label>
+          </span>
+          <input type="submit" value="Log in" />
+        </div>
+    </form>
+    </div>
+
+    <div class="m-auth-modal__body" data-chorus-auth-modal="register">
+      <div class="m-auth-modal__tabs">
+        <a href="" data-chorus-auth-goto="login">Log In</a>
+        <span>Sign Up</span>
+      </div>
+      <table class="m-auth-modal__login-table">
+        <tr>
+          <td class="twitter"><a data-chorus-auth-login="twitter" href="">T</a></td>
+          <td class="facebook"><a data-chorus-auth-login="facebook" href="">F</a></td>
+          <td class="gplus"><span id='chorus-auth-gplus-register' data-chorus-auth-login="gplus" style="cursor: pointer;">
+  <a>G</a>
+</span>
+</td>
+        </tr>
+        <tr>
+          <td class="yahoo"><a href="" data-chorus-auth-login="yahoo">Y</a></td>
+          <td class="openid"><a href="" data-chorus-auth-login="openid">O</a></td>
+          <td></td>
+        </tr>
+      </table>
+      <form class='m-auth-modal__form openid'>
+        <input type="text" name="openid" placeholder="OpenID" />
+        <div class="m-auth-modal__form-controls">
+          <input type="submit" value="Open ID Log in" />
+        </div>
+      </form>
+      <form class="m-auth-modal__form m-auth-modal__register-form" method="POST">
+        <p class='error'></p>
+        <input id="community_id" name="community_id" type="hidden" value="405" />
+        <fieldset data-chorus-auth-validate="true">
+          <input class='register-username' type="text" name="user[username]" placeholder="Username" data-error-msg="The username you provided has already been taken." />
+          <span class="status"></span>
+        </fieldset>
+        <fieldset data-chorus-auth-validate="true">
+          <input type="password" name="user[password]" placeholder="Password" data-error-msg="Passwords must be a minimum of six characters long and contain at least one letter and one number." />
+          <span class="status"></span>
+        </fieldset>
+        <fieldset data-chorus-auth-validate="true">
+          <input class='register-email' type="text" name="user[email]" placeholder="Email" />
+          <span class='status'></span>
+        </fieldset>
+        <div class="m-auth-modal__form-controls">
+          <input type="submit" value="Continue" />
+        </div>
+      </form>
+    </div>
+
+
+    <div class="m-auth-modal__body" data-chorus-auth-modal="forgot">
+      <h3>Forgot password?</h3>
+      <p>We'll email you a reset link.</p>
+      <p>If you signed up using a 3rd party account like Facebook or Twitter, please <a href="" data-chorus-auth-goto="login">login</a> with it instead.</p>
+      <form action="" class="m-auth-modal__form">
+        <input type="text" name="email" placeholder="Email address" />
+        <div class="m-auth-modal__form-controls">
+          <input type="submit" value="Submit" />
+        </div>
+      </form>
+    </div>
+
+    <div class="m-auth-modal__body" data-chorus-auth-modal="forgot-username">
+      <h3>Forgot username?</h3>
+      <p>We'll email it to you.</p>
+      <p>If you signed up using a 3rd party account like Facebook or Twitter, please <a href="" data-chorus-auth-goto="login">login</a> with it instead.</p>
+      <form action="" class="m-auth-modal__form">
+        <input type="text" name="email" placeholder="Email address" />
+        <div class="m-auth-modal__form-controls">
+          <input type="submit" value="Submit" />
+        </div>
+      </form>
+    </div>
+
+    <div class="m-auth-modal__body" data-chorus-auth-modal="forgot-result">
+      <h3>Forgot password?</h3>
+      <p class="error"></p>
+      <p class="success"></p>
+      <p class="third-party">If you signed up using a 3rd party account like Facebook or Twitter, please <a href="" data-chorus-auth-goto="login">login</a> with it instead.</p>
+      <a href="" data-chorus-auth-goto="forgot">Try another email?</a>
+    </div>
+
+    <div class="m-auth-modal__body" data-chorus-auth-modal="forgot-username-result">
+      <h3>Forgot username?</h3>
+      <p class="error"></p>
+      <p class="success"></p>
+      <p class="third-party">If you signed up using a 3rd party account like Facebook or Twitter, please <a href="" data-chorus-auth-goto="login">login</a> with it instead.</p>
+      <a href="" data-chorus-auth-goto="forgot-username">Try another email?</a>
+    </div>
+
+    <div class="m-auth-modal__body" data-chorus-auth-modal="captcha">
+      <h3>Almost done, <span class='username'></span></h3>
+      <p class="error"></p>
+      <form class="m-auth-modal__form">
+        <div id="chorus-auth-register-recaptcha" class="m-auth-modal__captcha-container"></div>
+        <div class="m-auth-modal__agree">
+          By becoming a registered user, you are also agreeing to our
+          <a target="_blank" href="http://www.voxmedia.com/terms-of-use">Terms</a> and confirming that
+          you have read our <a target="_blank" href="http://www.voxmedia.com/privacy-policy">Privacy Policy</a>.
+        </div>
+        <div class="m-auth-modal__form-controls">
+          <input type="submit" value="Register" />
+        </div>
+      </form>
+    </div>
+
+
+
+    <div class="m-auth-modal__body" data-chorus-auth-modal="spinner">
+      <img alt="Spinner.vc97ec6e" class="m-auth-modal__spinner" src="http://cdn0.vox-cdn.com/images/auth/spinner.vc97ec6e.gif" />
+      <h3 id="chorus-auth-loading-message">Authenticating</h3>
+    </div>
+
+    <div class="m-auth-modal__body" data-chorus-auth-modal="third-party-register">
+      <img src="" alt="" class="m-auth-modal__avatar" />
+      <h3>Great!</h3>
+      <p>Choose an available username to complete sign up.</p>
+      <form class="m-auth-modal__form m-auth-modal__third-party-register-form">
+        <input id="community_id" name="community_id" type="hidden" value="405" />
+        <fieldset data-chorus-auth-validate="true">
+          <input id="user_username" name="user[username]" placeholder="Username" type="text" />
+          <span class="status"></span>
+        </fieldset>
+        <div class="m-auth-modal__form-controls">
+          <input type="submit" value="Sign Up" />
+        </div>
+      </form>
+    </div>
+
+    <div class="m-auth-modal__body" data-chorus-auth-modal="umbel-permissions">
+      <div class="m-auth-modal__facebook-icon"></div>
+      <p>In order to provide our users with a better overall experience, we ask for more information from Facebook when using it to login so that we can learn more about our audience and provide you with the best possible experience. We do not store specific user data and the sharing of it is not required to login with Facebook.</p>
+      <form class="m-auth-modal__form">
+        <span>
+          <input checked="checked" id="umbel_accept_yes" name="umbel_accept" type="radio" value="yes" />
+          <label for="umbel_accept_yes">Yes, share my data</label>
+        </span>
+        <span>
+          <input id="umbel_accept_no" name="umbel_accept" type="radio" value="no" />
+          <label for="umbel_accept_no">Please don&#x27;t share my data</label>
+        </span>
+        <div class="m-auth-modal__form-controls">
+          <input type="submit" value="Submit" />
+        </div>
+      </form>
+    </div>
+
+  </div>
+
+  <script type="text&#x2F;javascript">
+//<![CDATA[
+
+  (function () {
+    var po = document.createElement('script');
+    po.type = 'text/javascript';
+    po.async = true;
+    po.src = 'https://plus.google.com/js/client:plusone.js?onload=chorusAuthGPlusRender';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(po, s);
+  })();
+
+  function chorusAuthGPlusRender() {
+    var types = ['chorus-auth-gplus-register', 'chorus-auth-gplus-login'];
+    var length = types.length;
+    for (var i = 0; i < length; i++){
+      gapi.signin.render(types[i], {
+        'callback': 'initiateGPlusLogin',
+        'clientid': '208417962031.apps.googleusercontent.com',
+        'cookiepolicy': 'single_host_origin',
+        'accesstype': 'offline',
+        'requestvisibleactions': 'http://schemas.google.com/AddActivity',
+        'scope': 'https://www.googleapis.com/auth/plus.login https://www.googleapis.com/auth/userinfo.email'
+      });
+    }
+  };
+
+  function initiateGPlusLogin(authResult){
+    Chorus.Auth.actions.login.gplus(authResult);
+  }
+
+//]]>
+</script>
+
+</div>
+
+  <script type="script/template" id="chorus-modal-wrapper-template" class="template">
+  <div class="m-chorus-modal__wrapper m-chorus-modal__root"></div>
+</script>
+<script type="script/template" id="chorus-modal-window-template" class="template">
+  <div class="m-chorus-modal__window">
+    [% if (data.title != "" && false) { %]
+      <div class="m-chorus-modal__head">
+        <div class="m-chorus-modal__title">[%= data.title %]</div>
+        <div class="m-chorus-modal__close-button" data-chorus-modal-action="[% if (data.cancel_confirm === true) { %]cancel_confirm[% } else { %]cancel[% } %]">&#215;</div>
+      </div>
+    [% } %]
+    <div class="m-chorus-modal__body m-chorus-modal__window-root"></div>
+  </div>
+</script>
+
+  <img src="http://ox-d.sbnation.com/w/1.0/rs?as=2982&cb={random}" width="1" height="1" alt="tracking_pixel_5353_tracker" style="position:absolute; top:-1px; left:-1px;" />
+
+</body>
+</html>
+
+0
+
+
+
+WARC/1.0
+WARC-Type: resource
+WARC-Record-ID: <urn:uuid:547ec1c0-a8f9-4bb5-a750-4bf2831275be>
+WARC-Warcinfo-ID: <urn:uuid:943ddc63-f19a-458a-8fba-ead34ae42857>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/MANIFEST.txt
+WARC-Date: 2014-11-12T21:36:38Z
+Content-Type: text/plain
+Content-Length: 48
+
+<urn:uuid:943ddc63-f19a-458a-8fba-ead34ae42857>
+
+
+WARC/1.0
+WARC-Type: resource
+WARC-Record-ID: <urn:uuid:547ec1c0-a8f9-4bb5-a750-4bf2831275be>
+WARC-Warcinfo-ID: <urn:uuid:943ddc63-f19a-458a-8fba-ead34ae42857>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/wget_arguments.txt
+WARC-Date: 2014-11-12T21:36:38Z
+Content-Type: text/plain
+Content-Length: 263
+
+"--warc-file" "phil-fish-on-fez-2-ambition-and-launch-platforms-not-xbox" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "-q" "-O" "/dev/null" "http://www.polygon.com/2013/6/20/4445476/phil-fish-on-fez-2-ambition-and-launch-platforms-not-xbox" 
+
+
