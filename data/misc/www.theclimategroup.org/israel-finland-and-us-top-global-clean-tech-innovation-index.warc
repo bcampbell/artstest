@@ -1,0 +1,528 @@
+WARC/1.0
+WARC-Type: warcinfo
+Content-Type: application/warc-fields
+WARC-Date: 2014-11-12T23:29:40Z
+WARC-Record-ID: <urn:uuid:36437264-3488-4a86-996f-d0093a4ca6e6>
+WARC-Filename: israel-finland-and-us-top-global-clean-tech-innovation-index.warc
+Content-Length: 471
+
+software: Wget/1.13.4-2608 (linux-gnu)
+format: WARC File Format 1.0
+conformsTo: http://bibnum.bnf.fr/WARC/WARC_ISO_28500_version1_latestdraft.pdf
+robots: classic
+wget-arguments: "--warc-file" "israel-finland-and-us-top-global-clean-tech-innovation-index" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "-q" "-O" "/dev/null" "http://www.theclimategroup.org/what-we-do/news-and-blogs/israel-finland-and-us-top-global-clean-tech-innovation-index/" 
+
+
+
+WARC/1.0
+WARC-Type: request
+WARC-Target-URI: http://www.theclimategroup.org/what-we-do/news-and-blogs/israel-finland-and-us-top-global-clean-tech-innovation-index/
+Content-Type: application/http;msgtype=request
+WARC-Date: 2014-11-12T23:29:41Z
+WARC-Record-ID: <urn:uuid:1111ab7e-390f-4aa3-acf7-bb2111a9644f>
+WARC-IP-Address: 87.246.121.113
+WARC-Warcinfo-ID: <urn:uuid:36437264-3488-4a86-996f-d0093a4ca6e6>
+Content-Length: 215
+
+GET /what-we-do/news-and-blogs/israel-finland-and-us-top-global-clean-tech-innovation-index/ HTTP/1.1
+User-Agent: Wget/1.13.4-2608 (linux-gnu)
+Accept: */*
+Host: www.theclimategroup.org
+Connection: Keep-Alive
+
+
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <urn:uuid:ed32fbe0-e298-4436-a648-fc335b5b5038>
+WARC-Warcinfo-ID: <urn:uuid:36437264-3488-4a86-996f-d0093a4ca6e6>
+WARC-Concurrent-To: <urn:uuid:1111ab7e-390f-4aa3-acf7-bb2111a9644f>
+WARC-Target-URI: http://www.theclimategroup.org/what-we-do/news-and-blogs/israel-finland-and-us-top-global-clean-tech-innovation-index/
+WARC-Date: 2014-11-12T23:29:41Z
+WARC-IP-Address: 87.246.121.113
+Content-Type: application/http;msgtype=response
+Content-Length: 27452
+
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: ASP.NET_SessionId=cjoxsfekgrvbbe45v52vgkqt; path=/; HttpOnly
+X-Powered-By: ASP.NET
+Date: Wed, 12 Nov 2014 23:29:37 GMT
+Content-Length: 27212
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml">
+  <head xmlns="">
+    <title>Israel, Finland and US top global clean tech innovation index</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+    <meta name="description" content="Israel, Finland and the US boast the most promising clean technology industries of the future, according to a new global index." />
+    <meta name="keywords" content="Technology" /><link rel="shortcut icon" href="/_favicon/climategroup.ico" /><link rel="stylesheet" href="/_css/font-face.css" type="text/css" media="screen, projection" /><link rel="stylesheet" href="/_css/selectmenu.css" type="text/css" media="screen, projection" /><link rel="stylesheet" href="/_css/forms.css" type="text/css" media="screen, projection" /><link rel="stylesheet" href="/_css/styles.css" type="text/css" media="screen, projection" /><link rel="stylesheet" href="/_css/print.css" type="text/css" media="print" /><link rel="alternate" type="application/rss+xml" title="RSS" href="/NewsArticles/Rss/Rss/" /><link href="/" rel="home" /><script type="text/javascript" src="/_js/jquery-1.6.4.min.js"> </script><script type="text/javascript" src="/_js/jquery.customInput.js"> </script><script type="text/javascript" src="/_js/jquery.ui.selectmenu.js"> </script><script type="text/javascript" src="/_js/jquery.new.twitter.redant.js"> </script><script type="text/javascript" src="/_js/jquery.carouFredSel-5.5.5-packed.js"> </script><script type="text/javascript" src="/_js/javascript.js"> </script><script type="text/javascript" src="/_js/developer.js"> </script><script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5343b8c766888ee7"> </script><script>
+        var addthis_share =	{
+        templates: { twitter: "{{title}} {{url}} via @ClimateGroup" },
+        url_transforms : { shorten: { twitter: 'bitly' } }, shorteners : { bitly : {} }
+        }
+      </script><link rel="stylesheet" href="/_js/pecr/pecr.css" type="text/css" media="screen, projection" /><script type="text/javascript" src="/_js/pecr/jquery.pecr.1.1.0.js"> </script></head>
+  <body class="">
+    <a href="#content" class="skiptocontent">Skip to main Content</a>
+    <div id="pageWrap">
+      <div id="headerWrap">
+        <div id="header" xmlns="">
+          <a id="siteLogo" href="/">
+            <img height="65" width="296" alt="The Climate Group" src="/_images/logos/the-climate-group-10-years.png" />
+          </a>
+          <form id="siteSearch" method="get" action="/search/">
+            <label for="keywords">Search Keyword(s)</label>
+            <input type="hidden" name="t" value="all" />
+            <input class="text" type="text" name="q" value="Enter Keywords" title="Enter Keywords" />
+            <input class="formButton" type="image" src="/_images/buttons/site-search.png" name="Search" value="Search" alt="Search" />
+          </form>
+          <a class="visit" href="http://www.theclimategroup.org.cn/">Visit our China website</a>
+          <a id="socialToggle" href="#">Connect &amp; Share</a>
+          <div id="socialDropdown">
+            <div id="socialWrap">
+              <img class="logo" src="/_images/logos/the-climate-group-white.png" width="284" height="31" alt="The Climate Group" />
+              <div class="social">
+                <div class="column">
+                  <h2>Connect with us on</h2>
+                  <ul class="icons">
+                    <li class="twitter">
+                      <a href="http://twitter.com/#!/climategroup" target="_blank">
+                        <span class="icon"> </span>
+                        <span class="title">
+                      Twitter
+                      <span class="text">Get daily climate policy and clean tech news</span></span>
+                      </a>
+                    </li>
+                    <li class="facebook">
+                      <a href="http://www.facebook.com/TheClimateGroup" target="_blank">
+                        <span class="icon"> </span>
+                        <span class="title">
+                      Facebook
+                      <span class="text">'Like' our page for key updates</span></span>
+                      </a>
+                    </li>
+                    <li class="googleplus">
+                      <a href="https://plus.google.com/b/103306028406708396993/+TheClimateGroup/posts" target="_blank">
+                        <span class="icon"> </span>
+                        <span class="title">
+                      Google+
+                      <span class="text">Explore news and community</span></span>
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+                <div class="column">
+                  <ul class="icons">
+                    <li class="flickr">
+                      <a href="http://www.flickr.com/photos/theclimategroup/" target="_blank">
+                        <span class="icon"> </span>
+                        <span class="title">
+                      Flickr
+                      <span class="text">See photos from our latest events</span></span>
+                      </a>
+                    </li>
+                    <li class="rss">
+                      <a href="/newsarticles/rss/rss/" target="_blank">
+                        <span class="icon"> </span>
+                        <span class="title">
+                      RSS Feed
+                      <span class="text">Receive breaking news automatically</span></span>
+                      </a>
+                    </li>
+                    <li class="youtube">
+                      <a href="http://www.youtube.com/user/TheClimateGroup" target="_blank">
+                        <span class="icon"> </span>
+                        <span class="title">
+                      YouTube
+                      <span class="text">Subscribe to our video feed</span></span>
+                      </a>
+                    </li>
+                    <li class="linkedin">
+                      <a href="http://www.linkedin.com/companies/the-climate-group" target="_blank">
+                        <span class="icon"> </span>
+                        <span class="title">
+                      Linkedin
+                      <span class="text">Network with us</span></span>
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              <form class="newsletter" action="/newsletter/" method="post">
+                <h2>
+              Sign up for our newsletter <span>and get our top stories delivered to your inbox.</span></h2>
+                <p class="required">* required</p>
+                <div class="field text">
+                  <label for="email">Email address:</label>
+                  <input type="text" name="EmailAddress" id="email" value="Email address *" title="Email address *" />
+                </div>
+                <div class="field text">
+                  <label for="first">First name:</label>
+                  <input type="text" name="Name" id="first" value="First name" title="First name" />
+                </div>
+                <div class="field text">
+                  <label for="last">Last name:</label>
+                  <input type="text" name="Surname" id="last" value="Last name" title="Last name" />
+                </div>
+                <div class="field formControls">
+                  <input type="submit" value="Submit" />
+                </div>
+                <input type="hidden" value="true" name="SxForm_Posted_NewsLetterRecipient" />
+              </form>
+            </div>
+            <div class="footer">
+              <div class="social">
+                <p>Share this website on</p>
+                <ul>
+                  <li class="twitter">
+                    <a class="twitter addthis_button_twitter" target="_blank" href="#">
+                  Twitter
+                  <img src="/_images/cleanrevolution/icons/social.png" /></a>
+                  </li>
+                  <li class="google">
+                    <a target="_blank" href="&#xA;                    https://plus.google.com/share?url=http://www.theclimategroup.org/what-we-do/news-and-blogs/israel-finland-and-us-top-global-clean-tech-innovation-index/">Google+
+                </a>
+                  </li>
+                  <li class="linkedin">
+                    <a target="_blank" href="&#xA;                    http://www.linkedin.com/cws/share?url=http://www.theclimategroup.org/what-we-do/news-and-blogs/israel-finland-and-us-top-global-clean-tech-innovation-index/">LinkedIn
+                </a>
+                  </li>
+                  <li class="email">
+                    <a href="/emailshare/?shareURL=/what-we-do/news-and-blogs/">Email</a>
+                  </li>
+                  <li class="more">
+                    <a class="addthis_button" href="">More...</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <a class="close">Close</a>
+          </div>
+          <a class="badge news" href="http://thecleanrevolution.org/"> </a>
+          <div class="clear"> </div>
+        </div><div id="mainNav">
+  <ul class="topnav">
+    <li class="hasDropdown ">
+      <a href="/who-we-are/">Who We Are</a>
+      <div class="dropdown">
+        <ul class="nav">
+          <li>
+            <a href="/who-we-are/about-us/">About Us</a>
+          </li>
+          <li>
+            <a href="/who-we-are/people/">Our People</a>
+          </li>
+          <li>
+            <a href="/who-we-are/offices/">Our Offices</a>
+          </li>
+          <li>
+            <a href="/who-we-are/our-values/">Our Values</a>
+          </li>
+          <li>
+            <a href="/who-we-are/our-members/">Our Partners</a>
+          </li>
+        </ul>
+      </div>
+    </li>
+    <li class="hasDropdown ">
+      <a href="/what-we-do/">What we do</a>
+      <div class="dropdown hasIntros">
+        <div class="intros">
+          <div class="column first">
+            <h3>Thought Leadership</h3>
+            <p>
+								We share clear, pragmatic success-stories in the form of game-changing reports, daily news and insightful blogs.
+							</p>
+          </div>
+          <div class="column">
+            <h3>Transformative Actions</h3>
+            <p>
+								Our influential, global network of government and business leaders drives transformational action on the low carbon economy.
+							</p>
+          </div>
+          <div class="column">
+            <h3>Convening Leaders</h3>
+            <p>
+								We provide global platforms to share bold leadership and vision at our high-level events and through exclusive interviews.
+							</p>
+          </div>
+        </div>
+        <ul class="nav">
+          <li class="first">
+            <a href="/what-we-do/news-and-blogs/">News and Blogs</a>
+          </li>
+          <li>
+            <a href="/what-we-do/programs/">Programs</a>
+          </li>
+          <li>
+            <a href="/what-we-do/events/">Events</a>
+          </li>
+          <li class="first">
+            <a href="/what-we-do/publications/">Publications</a>
+          </li>
+          <li>
+            <a href="/what-we-do/network/">Network</a>
+          </li>
+          <li>
+            <a href="/what-we-do/interviews/">Leading voices</a>
+          </li>
+        </ul>
+      </div>
+    </li>
+    <li>
+      <a href="/the-clean-revolution/">The Clean Revolution</a>
+    </li>
+    <li>
+      <a href="/support-us/">Support Us</a>
+    </li>
+    <li>
+      <a href="/our-achievements/">10 years of...</a>
+    </li>
+  </ul>
+  <div class="clear"> </div>
+</div></div>
+      <div id="contentWrap" xmlns="">
+        <div id="contentContainer"><div id="breadcrumb">
+  <ul>
+    <li class="first">
+      <a href="/">Home</a>
+    </li>
+    <li>
+      <a href="/what-we-do/" title="Thought Leadership">What we do</a>
+    </li>
+    <li>
+      <a href="/what-we-do/news-and-blogs/" title="News and Blogs">News and Blogs</a>
+    </li>
+    <li>Israel, Finland and US top global clean tech innovation index</li>
+  </ul>
+</div><div id="content"><div class="section"><div class="header"><h1>Israel, Finland and US top global clean tech innovation index</h1></div><div class="content"><dl class="articleDetails"><dt>Date</dt><dd>01 July 2014</dd></dl><div class="articleImage"><img src="/_assets/images/cache/newsarticles/newsarticlemain/telaviv.png" alt="Israel, Finland and US top global clean tech innovation index" /></div><p><strong>LONDON:</strong> <strong>Israel, Finland </strong>and the<strong> US</strong> boast the most promising <strong>clean technology industries of the future</strong>, according to a new global index.</p>
+<p>The <a href="http://info.cleantech.com/CleantechIndex2014.html" title="clean tech index" target="_blank">Global Cleantech Innovation Index 2014</a>, which was released by <strong>Cleantech Group</strong> and <strong>WWF</strong>, unveils which countries are most likely to produce entrepreneurial start-ups ripe to commercialize clean tech over the next 10 years.</p>
+<p>Filtering through 40 countries to compare clean-tech business creation and scale-up data, the report reveals Israel comes out on top, thanks to its <strong>high rate of clean tech performance and innovation</strong>, which is all produced from a resource-constrained geography.</p>
+<p>Identifying the planet&rsquo;s emerging clean tech leaders today is critical. The report stresses yearly project finance investment in renewables around the world is forecast to hit <strong>US$400-500 billion by 2020</strong>, with market size projected to <strong>rival the oil and gas equipment market by 2015, at US$330-$390 billion</strong>.</p>
+<p><img alt="wwf cleantech group index innovation" src="/_assets/images/cache/autoxauto/3188.jpg" /></p>
+<p><em>Graph from&nbsp;<a href="http://info.cleantech.com/CleantechIndex2014.html" title="clean tech index" target="_blank">Global Cleantech Innovation Index 2014</a></em></p>
+<p>Israel secured the top spot for its &lsquo;high-impact cleantech start-ups&rsquo;, strong venture capital activity and government support. The report points out: &ldquo;Israel has increased its supportive government policies and has early stage cleantech-oriented funds as well as substantial M&amp;A activity, even while cleantech company revenues remain low.&rdquo;</p>
+<p>However, Finland&rsquo;s second place is earned in respect of the country&rsquo;s unique mobilization of workforce toward low carbon innovation, as well as its work to enter markets in other geographies.</p>
+<p>Explaining the need for industries to collaborate internationally, <strong>Richard Youngman, MD Europe &amp; Asia, Cleantech Group</strong> and <strong>Michele Parad, Senior Analyst, Cleantech Group</strong> write in the report&rsquo;s introduction: &ldquo;The investor community has also been a driving force - <strong>investing over US$41 billion of venture capital into cleantech start-ups</strong> in the last five years &ndash; almost double the amount of the previous five years. However, the next wave of cleantech businesses will require more than just capital and policy backing to grow &ndash; the industry will need to build relationships with local and international partners to bring them to desirable scale.&rdquo;</p>
+<p>In third place, the US is praised for its booming clean tech start-up industry, which attracts the most venture capital overall. But the nation should not rest on its laurels; the Index points out more cleantech funds were set up in China than any other country, with capital inflows expected to soon match the US.</p>
+<p><strong>China, India </strong>and<strong> Brazil</strong> are all marked out as likely to fly up the index soon, as start-up numbers will rise along with the fast-growing economies. The nations are also beginning to react to their soaring levels of pollution with now urgently-needed clean tech innovations.</p>
+<p>At the lower end of the index are several countries with potential that is only just beginning to emerge, such as <strong>Saudi Arabia</strong>. While the country is not yet a clean tech leader, once the supportive policies and investment that are being developed are in place, sustainable innovation will flourish &ndash; especially as oil-reliant countries prepare for a future of limited fossil fuels.</p>
+<p>Authors namecheck successful clean tech innovators which are a result of the ideal conditions listed countries boast: &ldquo;Already, we see evidence of emergent, well-branded, <strong>companies seeking to lock in dominant positions in the changing energy world</strong> &ndash; pioneers today include <strong>Tesla</strong> (the US luxury electric vehicle maker), <strong>Hanergy</strong> (the Chinese developer of hydro, solar and wind power projects) and <strong>Suzlon</strong> (Indian manufacturer of wind power turbines).&rdquo;</p>
+<p><span><strong>Ben Ferrari, Director of Partnerships, The Climate Group</strong>, commented on the new index results: &ldquo;These&nbsp;countries top the index for their success in the development of innovative clean tech start-ups, but they all face barriers when it comes to scaling up. For these countries to steam ahead in the global clean tech leadership race and produce companies like Tesla, Hanergy and Suzlon, the <strong>supportive policy frameworks must be in place to allow for innovation and collaboration</strong>. We need&nbsp;governments and investors to work together to<strong>&nbsp;help business respond to growing demand for low carbon technology</strong> and create the thriving low-carbon economies that we need.&rdquo;</span><span></span></p>
+<p><span>Read&nbsp;<a href="http://info.cleantech.com/CleantechIndex2014.html" title="clean tech index" target="_blank">Global Cleantech Innovation Index 2014</a></span></p>
+<p><strong>Related news:</strong></p>
+<ul>
+<li><a href="http://www.theclimategroup.org/what-we-do/news-and-blogs/34-of-global-plc-companies-now-disclosing-emissions-data-newsweek-green-rankings-reveal/" title="climate green companies" target="">Here are the top 10 green companies in the world</a></li>
+<li><a href="http://www.theclimategroup.org/what-we-do/news-and-blogs/34-of-global-plc-companies-now-disclosing-emissions-data-newsweek-green-rankings-reveal/" title="climate green companies" target=""></a><a href="http://www.theclimategroup.org/what-we-do/news-and-blogs/risky-business-report-urges-america-to-secure-economic-future-by-facing-up-to-climate-change/" title="risky business economy" target="">Risky Business report urges America to secure economic future by facing up to climate change</a></li>
+<li><a href="http://www.theclimategroup.org/what-we-do/news-and-blogs/risky-business-report-urges-america-to-secure-economic-future-by-facing-up-to-climate-change/" title="risky business economy" target=""></a><a href="http://www.theclimategroup.org/what-we-do/news-and-blogs/tesla-opens-up-technology-patents-in-game-changing-move-to-accelerate-ev-revolution/" title="tesla technology green ev patent" target="">Tesla opens up technology patents in game-changing move to accelerate EV revolution</a></li>
+</ul>
+<p><em>Photo of Tel Aviv by <a href="http://he.wikipedia.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Pixie" title="pixie" target="_blank">Pixie</a></em></p>
+<p><em>By Clare Saxon</em></p>
+<p><strong><br /></strong></p><div class="pageOptions"><a class="button prev" href="/what-we-do/news-and-blogs/">Back to Listing</a></div></div></div><div class="footer"><div class="social"><p>Share this page on</p><ul><li class="twitter"><a class="twitter addthis_button_twitter" target="_blank" href="#">
+              Twitter
+              <img src="/_images/cleanrevolution/icons/social.png" /></a></li><li class="google"><a target="_blank" href="&#xA;                https://plus.google.com/share?url=http://www.theclimategroup.org/what-we-do/news-and-blogs/israel-finland-and-us-top-global-clean-tech-innovation-index/">
+              Google+
+            </a></li><li class="linkedin"><a target="_blank" href="&#xA;                http://www.linkedin.com/cws/share?url=http://www.theclimategroup.org/what-we-do/news-and-blogs/israel-finland-and-us-top-global-clean-tech-innovation-index/">
+              linkedin
+            </a></li><li class="email"><a href="&#xA;                /emailshare/?shareURL=http://www.theclimategroup.org/what-we-do/news-and-blogs/israel-finland-and-us-top-global-clean-tech-innovation-index/">
+              Email
+            </a></li><li class="more"><a class="addthis_button" href="">More...</a></li></ul></div></div> </div><div id="sideCol"><div class="section">
+  <div class="header">
+    <h2>Related Tags</h2>
+  </div>
+  <div class="content">
+    <h2>Related Content</h2>
+    <ul class="related articles">
+      <li>
+        <a href="/quickfacts/renewables-provided-13-of-us-electricity-in-2013">Renewables provided 13% of US electricity in 2013</a>
+      </li>
+      <li>
+        <a href="/quickfacts/62-countries-now-have-flaghsip-climate-legislation">62 countries now have "flagship" climate legislation</a>
+      </li>
+      <li>
+        <a href="/quickfacts/us-innovation-program-received-625-million-private-sector-funding">US Innovation Program attracts $625 million private-sector funding</a>
+      </li>
+    </ul>
+    <h2>Sector</h2>
+    <ul class="related">
+      <li>
+        <a href="/search/?tag=Power">Power</a>
+      </li>
+      <li>
+        <a href="/search/?tag=Industry">Industry</a>
+      </li>
+    </ul>
+    <h2>Solution</h2>
+    <ul class="related">
+      <li>
+        <a href="/search/?tag=Technology">Technology</a>
+      </li>
+    </ul> </div>
+</div><div class="section"><div class="header">
+<h2>Latest from Twitter</h2>
+</div>
+<div class="content"><a class="twitter-timeline" href="https://twitter.com/ClimateGroup" data-chrome="noheader noborders nofooter" data-tweet-limit="1" data-widget-id="345139690296459264">Tweets by @ClimateGroup</a>
+<script type="text/javascript">// <![CDATA[
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+// ]]></script>
+<a class="follow" href="http://twitter.com/ClimateGroup/" target="_blank"><span class="text">Follow us on Twitter</span></a></div>
+<p>&nbsp;</p></div> </div><div class="clear"> </div></div>
+      </div><div id="deepLinksWrap">
+  <div id="deepLinks">
+    <div class="column">
+      <h3>What's New</h3>
+      <ul>
+        <li>
+          <a href="/what-we-do/publications/">Reports</a>
+        </li>
+        <li>
+          <a href="/what-we-do/news-and-blogs/">News</a>
+        </li>
+        <li>
+          <a href="/what-we-do/events/">Events</a>
+        </li>
+        <li>
+          <a href="/what-we-do/interviews/">Interviews</a>
+        </li>
+        <li>
+          <a href="/blogs/">Blogs</a>
+        </li>
+      </ul>
+    </div>
+    <div class="column">
+      <h3>More Info</h3>
+      <ul>
+        <li>
+          <a href="/who-we-are/about-us/">About Us</a>
+        </li>
+        <li>
+          <a href="/who-we-are/people/">Our People</a>
+        </li>
+        <li>
+          <a href="/who-we-are/offices/">Our Offices</a>
+        </li>
+        <li>
+          <a href="/who-we-are/our-values/">Our Values</a>
+        </li>
+        <li>
+          <a href="/what-we-do/network/">Our Partners</a>
+        </li>
+      </ul>
+    </div>
+    <div class="column">
+      <h3>Working with us</h3>
+      <ul>
+        <li>
+          <a href="/the-clean-revolution/">The Clean Revolution</a>
+        </li>
+        <li>
+          <a href="/what-we-do/programs/">Our Programs</a>
+        </li>
+        <li>
+          <a href="/what-we-do/network/">Our Partners</a>
+        </li>
+        <li>
+          <a href="/who-we-are/our-members/our-member-principles/">Our Member Principles</a>
+        </li>
+        <li>
+          <a href="/our-achievements/">Our Achievements</a>
+        </li>
+        <li>
+          <a href="/support-us/">Support Us</a>
+        </li>
+      </ul>
+    </div>
+    <div class="column">
+      <h3>Useful links</h3>
+      <ul>
+        <li>
+          <a href="/contact-us/">Contact Us</a>
+        </li>
+        <li>
+          <a href="/who-we-are/governance/">Governance</a>
+        </li>
+        <li>
+          <a href="/careers/">Careers</a>
+        </li>
+        <li>
+          <a href="http://www.climateweeknyc.org/">Climate Week NYC</a>
+        </li>
+        <li>
+          <a href="/Press/">Press</a>
+        </li>
+      </ul>
+    </div>
+    <div class="column">
+      <h3>Connect with us</h3>
+      <ul>
+        <li>
+          <a href="/newsletter/">eNewsletter</a>
+        </li>
+        <li>
+          <a href="https://twitter.com/ClimateGroup/" target="_blank">Twitter</a>
+        </li>
+        <li>
+          <a href="http://www.linkedin.com/company/the-climate-group" target="_blank">LinkedIn</a>
+        </li>
+        <li>
+          <a href="https://plus.google.com/103306028406708396993/posts" target="_blank">Google+</a>
+        </li>
+        <li>
+          <a href="http://www.facebook.com/TheClimateGroup" target="_blank">Facebook</a>
+        </li>
+        <li>
+          <a href="http://www.flickr.com/photos/theclimategroup/">Flickr</a>
+        </li>
+        <li>
+          <a href="/newsarticles/rss/rss/" target="_blank">RSS Feed</a>
+        </li>
+        <li>
+          <a href="http://pinterest.com/theclimategroup/" target="_blank">Pinterest</a>
+        </li>
+        <li>
+          <a href="http://www.youtube.com/user/TheClimateGroup" target="_blank">YouTube</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div><div id="footerWrap" xmlns=""><div id="footer"><ul class="links"><li class="first"><a href="/contact-us/">Contact us</a></li><li><a href="/sitemap/">Sitemap</a></li><li><a href="/terms-and-conditions/">Terms &amp; Conditions</a></li></ul><p class="copy">© 2012 The Climate Group</p></div></div></div><script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1017548-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script><div id="fb-root"> </div></body>
+</html>
+
+WARC/1.0
+WARC-Type: resource
+WARC-Record-ID: <urn:uuid:405081dd-5c57-441f-818b-fe12ef77d36d>
+WARC-Warcinfo-ID: <urn:uuid:36437264-3488-4a86-996f-d0093a4ca6e6>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/MANIFEST.txt
+WARC-Date: 2014-11-12T23:29:43Z
+Content-Type: text/plain
+Content-Length: 48
+
+<urn:uuid:36437264-3488-4a86-996f-d0093a4ca6e6>
+
+
+WARC/1.0
+WARC-Type: resource
+WARC-Record-ID: <urn:uuid:405081dd-5c57-441f-818b-fe12ef77d36d>
+WARC-Warcinfo-ID: <urn:uuid:36437264-3488-4a86-996f-d0093a4ca6e6>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/wget_arguments.txt
+WARC-Date: 2014-11-12T23:29:43Z
+Content-Type: text/plain
+Content-Length: 286
+
+"--warc-file" "israel-finland-and-us-top-global-clean-tech-innovation-index" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "-q" "-O" "/dev/null" "http://www.theclimategroup.org/what-we-do/news-and-blogs/israel-finland-and-us-top-global-clean-tech-innovation-index/" 
+
+

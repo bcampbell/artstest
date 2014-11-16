@@ -1,0 +1,938 @@
+WARC/1.0
+WARC-Type: warcinfo
+Content-Type: application/warc-fields
+WARC-Date: 2014-11-16T21:13:35Z
+WARC-Record-ID: <urn:uuid:44654d28-d8b2-4c8e-9719-68040c45b2cd>
+WARC-Filename: Mark-Howe-Googles-old-dog-new-rules-engagement.warc
+Content-Length: 428
+
+software: Wget/1.13.4-2608 (linux-gnu)
+format: WARC File Format 1.0
+conformsTo: http://bibnum.bnf.fr/WARC/WARC_ISO_28500_version1_latestdraft.pdf
+robots: classic
+wget-arguments: "--warc-file" "Mark-Howe-Googles-old-dog-new-rules-engagement" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "-q" "-O" "/dev/null" "http://www.brandrepublic.com/news/1039460/Mark-Howe-Googles-old-dog-new-rules-engagement/" 
+
+
+
+WARC/1.0
+WARC-Type: request
+WARC-Target-URI: http://www.brandrepublic.com/news/1039460/Mark-Howe-Googles-old-dog-new-rules-engagement/
+Content-Type: application/http;msgtype=request
+WARC-Date: 2014-11-16T21:13:36Z
+WARC-Record-ID: <urn:uuid:ef6d6d84-6523-4a14-809f-0b7c6befc8ab>
+WARC-IP-Address: 78.136.54.242
+WARC-Warcinfo-ID: <urn:uuid:44654d28-d8b2-4c8e-9719-68040c45b2cd>
+Content-Length: 186
+
+GET /news/1039460/Mark-Howe-Googles-old-dog-new-rules-engagement/ HTTP/1.1
+User-Agent: Wget/1.13.4-2608 (linux-gnu)
+Accept: */*
+Host: www.brandrepublic.com
+Connection: Keep-Alive
+
+
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <urn:uuid:73ed76bb-c660-450a-8297-a6c354acbb49>
+WARC-Warcinfo-ID: <urn:uuid:44654d28-d8b2-4c8e-9719-68040c45b2cd>
+WARC-Concurrent-To: <urn:uuid:ef6d6d84-6523-4a14-809f-0b7c6befc8ab>
+WARC-Target-URI: http://www.brandrepublic.com/news/1039460/Mark-Howe-Googles-old-dog-new-rules-engagement/
+WARC-Date: 2014-11-16T21:13:36Z
+WARC-IP-Address: 78.136.54.242
+Content-Type: application/http;msgtype=response
+Content-Length: 61379
+
+HTTP/1.1 200 OK
+Date: Sun, 16 Nov 2014 21:13:36 GMT
+Server: Microsoft-IIS/6.0
+X-HMIO-Server: BDWeb1-Web5HBI
+Etag:
+X-Powered-By: ASP.NET
+X-AspNet-Version: 2.0.50727
+Transfer-Encoding: chunked
+Set-Cookie: CFID=13440; path=/
+Set-Cookie: CFTOKEN=AA882683%2DA515%2D48D6%2D9566A27B26E8F98C; path=/
+Set-Cookie: USERFIRSTNAME=; domain=.brandrepublic.com; expires=Sun, 16-Nov-2014 21:13:36 GMT; path=/
+Set-Cookie: USERLASTNAME=; domain=.brandrepublic.com; expires=Sun, 16-Nov-2014 21:13:36 GMT; path=/
+Set-Cookie: USEREMAIL=; domain=.brandrepublic.com; expires=Sun, 16-Nov-2014 21:13:36 GMT; path=/
+Set-Cookie: USERPREFERENCES=; domain=.brandrepublic.com; expires=Sun, 16-Nov-2014 21:13:36 GMT; path=/
+Set-Cookie: CM_AT=q1R4gixxM2mTjyNxMlECql5f7nChwmxWZLLbmQ1RfdDGzwVsGH%2BaH95YZq18ny3UD0eYGh0uOy9bor3Yg5b2DTe3N7Q6Scpa0oOyRBSpxNI%3D; domain=brandrepublic.com; expires=Mon, 16-Nov-2015 21:13:36 GMT; path=/
+Set-Cookie: POPGROUPS=; domain=.brandrepublic.com; expires=Mon, 16-Nov-2015 21:13:36 GMT; path=/
+Set-Cookie: SUBSCRIPTIONS=; domain=.brandrepublic.com; expires=Mon, 16-Nov-2015 21:13:36 GMT; path=/
+Set-Cookie: SPROP11=; domain=.brandrepublic.com; expires=Sun, 16-Nov-2014 21:13:36 GMT; path=/
+Set-Cookie: SPROP7=; domain=.brandrepublic.com; expires=Sun, 16-Nov-2014 21:13:36 GMT; path=/
+Set-Cookie: SPROP5=; domain=.brandrepublic.com; expires=Sun, 16-Nov-2014 21:13:36 GMT; path=/
+Set-Cookie: SEVAR7=; domain=.brandrepublic.com; expires=Sun, 16-Nov-2014 21:13:36 GMT; path=/
+Cache-Control: private
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: BIGipServerPOOL-brandrepublic3=3405949120.20480.0000; path=/
+
+e955
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>Mark Howe: Google's old dog on the new rules of engagement - Brand Republic News</title>
+<meta name="description" content="As a new trustee for Nabs, Google UK&amp;lsquo;s country sales director Mark Howe talks about engaging with the advertising community, his fascination with Facebook and the company&amp;lsquo;s role in the marketplace. - Brand Republic" />
+<meta name="keywords" content="marketing,advertising,media,pr,online, digital,online marketing,web marketing,search marketing,sem,seo,ppc,news,article,features,research,insight,data,job,jobs,creative,ad,ad agency,media agency,adverts,ads,outdoor,tv ads,tv,radio,online,website,magazine,newspapers,publishing,web marketing" />
+<meta name="robots" content="index,follow" />
+<meta name="rating" content="safe for kids" />
+<meta name="author" content="Haymarket Business Interactive" />
+<meta name="copyright" content="Haymarket Publishing" />
+<meta name="google-site-verification" content="m-vpZZcTbLcGGqcXQqzs1PVe-NgBKZyeX8IMm_3ohHk" />
+<meta http-equiv="content-language" content="en-GB" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<link rel="icon" href="/favicon.ico" type="image/x-icon" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@brandrepublic" />
+<meta name="twitter:url" content="http://www.brandrepublic.com/news/1039460/" />
+<meta name="twitter:description" content=" As a new trustee for Nabs, Google UK's country sales director Mark Howe talks about engaging with the advertising community, his fascination with Facebook and the company's role in the marketplace. " />
+<meta name="twitter:title" content="Mark Howe: Google's old dog on the new rules of engagement" />
+<meta name="twitter:image" content="http://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/73/?sURL=http://offlinehbpl.hbpl.co.uk/news/RB/1BFEFE42-F110-3761-0ED48A940ECCC8AB.jpg" />
+<link href="http://cached.css.brandrepublic.com/_hbi_ui/_css/structure.css" rel="stylesheet" type="text/css" />
+<link href="http://cached.css.brandrepublic.com/_hbi_ui/_css/reset.css" rel="stylesheet" type="text/css" />
+<link href="http://cached.css.brandrepublic.com/_hbi_ui/_BR/_css/common.css" rel="stylesheet" type="text/css" />
+<link href="http://cached.css.brandrepublic.com/_hbi_ui/_BR/_css/header.css" rel="stylesheet" type="text/css" />
+<link href="http://cached.css.brandrepublic.com/_hbi_ui/_BR/_css/footer.css" rel="stylesheet" type="text/css" />
+<link href="http://cached.css.brandrepublic.com/_hbi_ui/_BR/_css/xCol.css" rel="stylesheet" type="text/css" />
+<link href="http://cached.css.brandrepublic.com/_css/print.css" rel="stylesheet" type="text/css" />
+<link href="http://cached.css.brandrepublic.com/_css/article.css" rel="stylesheet" type="text/css" />
+<link href="http://cached.css.brandrepublic.com/_hbi_ui/_BR/_css/articlePromos.css" rel="stylesheet" type="text/css" />
+<link href="http://cached.css.brandrepublic.com/_hbi_ui/_BR/_css/loginRegister.css" rel="stylesheet" type="text/css" />
+<link href="http://cached.css.brandrepublic.com/_css/specialReports.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+div#xcol { width: 315px; }
+div#subcol { width: 0px; }
+div#maincol { width: 639px; }
+div#content { width: 982px; }
+body.col-M div#wrap, body.col-MX div#wrap, body.col-SMX div#wrap { width: 982px; }
+</style>
+<!--[if (IE 5)|(IE 6)|(IE 7)]>
+<link href="/_css/IE/IE5_6_7.css" rel="stylesheet" type="text/css">
+<link href="/_hbi_ui/_BR/_css/IE/IE5_6_7.css" rel="stylesheet" type="text/css">
+<![endif]-->
+<!--[if (lt IE 6)|(IE 6)]>
+<link href="/_css/IE/IE6.css" rel="stylesheet" type="text/css">
+<link href="/_hbi_ui/_BR/_css/IE/IE6.css" rel="stylesheet" type="text/css">
+<![endif]-->
+<!--[if IE 7]>
+<link href="/_css/IE/IE7.css" rel="stylesheet" type="text/css">
+<link href="/_hbi_ui/_BR/_css/IE/IE7.css" rel="stylesheet" type="text/css">
+<![endif]-->
+<script type="text/javascript">
+var disqus_developer = false;
+</script>
+<!--DISQUSSSO-->
+<script src="http://www.google.com/jsapi" type="text/javascript"></script>
+<script type="text/javascript">
+google.load("jquery","1.4.2");
+google.load("jqueryui","1.8.17");
+</script>
+<script src="/_hbi/_lib/HBI.js" type="text/javascript"></script>
+<script src="/_hbi/_lib/jQuery/jquery.cookie.js" type="text/javascript"></script>
+<script src="/_lib/common.js" type="text/javascript"></script>
+<script src="/_hbi/_lib/jQuery/jquery.validate.min-1.5.1.js" type="text/javascript"></script>
+<script src="/_hbi/_lib/articleTools.js" type="text/javascript"></script>
+<script src="/_hbi/_lib/galleryHelper.js" type="text/javascript"></script>
+<script src="/_hbi/_lib/loadAjaxFile.js" type="text/javascript"></script>
+<script type="text/javascript" src="//tags.tiqcdn.com/utag/haymarket/brandrepublic/prod/utag.js"></script>
+<script type="text/javascript" src="http://cached.harvester.hbpl.co.uk/codeinjector/BR/0.0.2/injector.js"></script>
+<script type="text/javascript"><!--document.write('<style type="text/css">.adHide{display:none;}</style>');
+var oHarvester = new Harvester();oHarvester.setAffiliateMetrics({code:''});oHarvester.setContentMetrics({sAuthor:'Daniel Farey-Jones', nId:'1039460', sTitle:'Mark Howe: Googles old dog on the new rules of engagement', sJournalCode:'BR', sKeyword:[], sLanguage:'en-gb', sLocation:'', sType:'article', sArticleType:['1'], sArticleTypes:['News'], sAssets:[], nPage:'1', sRating:'', sDiscipline:['1006','1003'], sSubDiscipline:['3061','3067','2097','3064'], sPrimaryDiscipline:'0', sSector:['12306'], sSubSector:['12309'], sSection:['2000'], sTaggedKeywords:['Video','United Kingdom','Europe','Mobile marketing','Media / Entertainment','Digital','Digital Media','Search marketing','Digital marketing','Media'], sKeywords:'Mark,Howe,Googles,old,dog,new,rules,engagement', nAge:'1469', nDealerId:'', nCategoryId:'', nSubCategoryId:'', nManufacturerId:'', sModelNumber:'', sPremium:'', lstDisciplineText:['Digital marketing',' Web (online only story',' NOT from printed publication)','Media'], lstSubDisciplineText:['Video','Mobile marketing','Digital Media','Search marketing'], lstSectorText:['Media / Entertainment'], lstSubSectorText:['Digital'], lstMiscCats:['2488','3393'], lstMiscCatText:['Europe|United Kingdom']});oHarvester.setNavigationMetrics({sSite:'Brand Republic', sPageName:'ARTICLE:[Object Title]:[Object ID]', sMLC:'BR/UK/NEWS/ARTICLE/1039460', OmniMLC:''});oHarvester.setSearchMetrics({sPhrase:'', sFilters:'', nNumberofResults:'', nCategoryID:'', nSubCategoryID:'', nManufacturerID:'', sModelNumber:'', nLocationID:'', nDealerID:'', nYear:''});oHarvester.setSystemMetrics({sFuseaction:'', sHostName:'www.brandrepublic.com', sID:'', sJrunInstance:'', sServerName:'242261-WEB5HBI', nExecutionTime:'141', sHttpResponse:'', sErrorType:''});oHarvester.setCustomMetrics({});oHarvester.render();	// render advert//--> </script>
+<script type="text/javascript">
+<!--if (oHarvester.debug && window.console && window.console.firebug) {
+console.log('fuseaction = ');
+}
+//--> </script>
+<!--
+SiteCatalyst Code
+Copyright 1997-2006 Omniture, Inc.
+More info available at http://www.omniture.com
+-->
+<script type="text/javascript">
+var s_account="haymarketBrandrepublic,haymarketGlobal";
+</script>
+<script src="/_hbi/_lib/omnitureJs/s_code_v.js" type="text/javascript"></script>
+<script type="text/javascript">
+if (getCookie('SPROP5') != null && getCookie('SPROP5')!="")
+{
+s.prop5	= getCookie('SPROP5');
+}
+else
+{
+s.prop5 = "anon";
+}
+if (getCookie('SPROP7') != null && getCookie('SPROP7')!="")
+{
+s.prop7	= getCookie('SPROP7');
+}
+else
+{
+s.prop7	= "anon";
+}
+if (getCookie('SPROP11') != null && getCookie('SPROP11')!="")
+{
+s.prop11	= getCookie('SPROP11');
+}
+else{
+s.prop11	= "anon";
+}
+if (getCookie('SEVAR7') != null && getCookie('SEVAR7')!="")
+{
+s.eVar7	= getCookie('SEVAR7');
+}
+else{
+s.eVar7	= "anon";
+}
+s.linkInternalFilters="www.brandrepublic.com,javascript:";
+s.pageName="br:news:article:article:article-1039460";s.channel="news";s.hier1="br:news:article:1039460";s.events="event24";s.prop10="";s.prop18="br";s.prop31="brandnetwork";s.prop46="digital marketing, web (online only story, not from printed publication),media";s.prop22="video,mobile marketing,digital media,search marketing";s.prop23="media / entertainment";s.prop24="digital";s.prop6="news";s.prop45="europe|united kingdom";s.prop19="1469";s.prop49="1039460";s.prop50="mark howe: google's old dog on the new rules of engagement";s.prop1="news";s.prop2="news:mark howe: google's old dog on the new rules of engagement";s.prop32="content";s.prop34="false";s.eVar6="news";
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//
+</script>
+<!-- End SiteCatalyst Code -->
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['mainTracker._setAccount', 'UA-9924683-1']);
+_gaq.push(['mainTracker._setDomainName', 'none']);
+_gaq.push(['mainTracker._setAllowLinker', true]);
+_gaq.push(['mainTracker._setAllowHash',false]);
+_gaq.push(['mainTracker._trackPageview']);
+_gaq.push(['rollup._setAccount', 'UA-16452774-1']);
+_gaq.push(['rollup._setDomainName', 'none']);
+_gaq.push(['rollup._setAllowLinker', true]);
+_gaq.push(['rollup._setAllowHash',false]);
+_gaq.push(['rollup._trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+</head>
+<body id="top" class="col-MX article jsDisabled">
+<div class="a11y">
+<ul>
+<li><a href="#mainContent" accesskey="s">Skip to Content</a></li>
+<li><a href="#mainNav" accesskey="1">Skip to Main Navigation</a></li>
+<li><a href="#subNav" accesskey="2">Skip to Channel Navigation</a></li>
+<li><a href="#topNav" accesskey="3">Skip to Information Links</a></li>
+<li><a href="#siteSearch" accesskey="4">Skip to Site Search</a></li>
+<li><a href="#footer" accesskey="4">Skip to Footer</a></li>
+<li><a href="/go/Accessibility/" accesskey="5">Skip to Accessibility Information</a></li>
+</ul>
+</div>
+<div id="wrap">
+<div id="header">
+<div class="bbCompatible">
+<div id="adHeader"><!-- Begin ad tag t101 --><div id="t101Ad" class="adHide"><script language="JavaScript" type="text/javascript">oHarvester.renderAdvert('/news/article', 't101', '970x250,970x66,728x90,468x60');try {if ($('#t101Ad').size()){$(document).ready(function () {$('#t101Ad').show();if($('#t101Ad').parent().hasClass('adHide')){$('#t101Ad').parent().show()}});}}catch (error) {}</script><noscript><a href="http://ad.doubleclick.net/jump/br.main/news/article;di=1006;di=1003;s-di=3061;s-di=3067;s-di=2097;s-di=3064;p-di=0;se=12306;s-se=12309;sdi=3061;sdi=3067;sdi=2097;sdi=3064;pdi=0;sse=12309;auth=false;cid=1039460;cjc=br;loc=;nt=1;sc=2000;kw=mark,howe,googles,old,dog,new,rules,engagement,;p-dl=;p-cat=;p-scat=;p-mf=;lang=en-gb;tile=1;adloc=t101;sz=970x250,970x66,728x90,468x60;ord=1416161723?" target="_blank"><img src="http://ad.doubleclick.net/ad/br.main/news/article;di=1006;di=1003;s-di=3061;s-di=3067;s-di=2097;s-di=3064;p-di=0;se=12306;s-se=12309;sdi=3061;sdi=3067;sdi=2097;sdi=3064;pdi=0;sse=12309;auth=false;cid=1039460;cjc=br;loc=;nt=1;sc=2000;kw=mark,howe,googles,old,dog,new,rules,engagement,;p-dl=;p-cat=;p-scat=;p-mf=;lang=en-gb;tile=1;adloc=t101;sz=970x250,970x66,728x90,468x60;ord=1416161723?" border="0" alt="" /></a></noscript></div><!-- End ad tag t101 -->
+</div>
+<div id="siteLogo">
+<h2><a href="/home" title="Brand Republic: Connecting advertising, marketing, media &amp; PR [H]" accesskey="h"><img src="/_hbi_ui/_BR/_images/logo.png" alt="Brand Republic: Connecting advertising, marketing, media &amp; PR" /></a></h2>
+</div>
+<h2 class="a11y">Minor navigation</h2>
+<ul id="topNav">
+<li class="rss">
+<a href="/go/rss/" title="RSS"><span>RSS</span></a>
+</li>
+<li class="twitter">
+<a href="http://twitter.com/BrandRepublic" title="Twitter"><span>Twitter</span></a>
+</li>
+<li class="linkedin">
+<a href="http://www.linkedin.com/groups?mostPopular=&gid=3194968" title="LinkedIn"><span>LinkedIn</span></a>
+</li>
+<li class="facebook">
+<a href="http://www.facebook.com/BrandRepublicUK" title="Facebook"><span>Facebook</span></a>
+</li>
+<li><a href="/news/1039460/Mark-Howe-Googles-old-dog-new-rules-engagement/?preferredformat=mobile" title="Mobile view">Mobile view</a></li>
+<li class="bulletins"><a href="/go/email_bulletins" title="Bulletins">Bulletins</a></li>
+<li><a href="/go/subscribe" title="Subscribe">Subscribe</a></li>
+<li class="last"><a href="http://users.brandrepublic.com/login/?continue=http%3A%2F%2Fwww%2Ebrandrepublic%2Ecom%2Fnews%2F1039460%2FMark%2DHowe%2DGoogles%2Dold%2Ddog%2Dnew%2Drules%2Dengagement%2F" title="Sign in">Sign in</a></li>
+</ul>
+<div id="siteSearch">
+<form action="/search/" method="get" name="frmNewsSearch" id="frmNewsSearch">
+<label for="frmNewsSearch--sSearchPhrase" class="hide">Search</label>
+<input type="text" name="sSearchPhrase" id="frmNewsSearch--sSearchPhrase" class="textInput" accesskey="4" value="Search"/>
+<input type="hidden" name="sDefaultSearchPhrase" id="frmNewsSearch--sDefaultSearchPhrase" value="Search"/>
+<label for="searchType">in</label>
+<select id="searchType" name="sSearchType" class="dropDown">
+<option id="searchArticles" value="articles">Articles</option>
+<option id="searchJobs" value="jobs">Jobs</option>
+<option id="searchHeadlines" value="headlines">Headlines</option>
+</select>
+<span class="inputButton">
+<input type="submit" value="search" id="searchButton" />
+</span>
+</form>
+</div>
+<div class="clearFloat"></div>
+<h2 class="a11y">Navigation</h2>
+<div class="mainNavOuter">
+<div class="mainNavInner">
+<ul id="mainNav">
+<li class="first">
+<a href="/" title="Home"><span>Home</span></a>
+</li>
+<li class=" selected">
+<a href="/news/" title="News"><span>News</span></a>
+</li>
+<li >
+<a href="http://jobs.brandrepublic.com/" title="Jobs"><span>Jobs</span></a>
+</li>
+<li >
+<a href="/blogs/" title="Blogs"><span>Blogs</span></a>
+</li>
+<li >
+<a href="/go/opinion/" title="Opinion"><span>Opinion</span></a>
+</li>
+<li >
+<a href="/go/data/" title="Data"><span>Data</span></a>
+</li>
+<li >
+<a href="/go/video/" title="Latest ads"><span>Latest ads</span></a>
+</li>
+<li >
+<a href="/events/" title="Events"><span>Events</span></a>
+</li>
+<li class="last">
+<a href="http://wallblog.co.uk/" title="The Wall blog"><span>The Wall blog</span></a>
+</li>
+</ul>
+</div>
+</div>
+<h2 class="a11y">Channel Navigation</h2>
+<div id="subNav">
+<ul>
+<li class="first">
+<a href="/go/advertising/" title="Advertising">Advertising</a>
+</li>
+<li >
+<a href="/go/agency/" title="Agencies">Agencies</a>
+</li>
+<li >
+<a href="/go/digital_marketing/" title="Digital">Digital</a>
+</li>
+<li >
+<a href="/go/direct_marketing/" title="Direct Marketing">Direct Marketing</a>
+</li>
+<li >
+<a href="/go/marketing/" title="Marketing">Marketing</a>
+</li>
+<li >
+<a href="/go/media/" title="Media">Media</a>
+</li>
+<li >
+<a href="/go/global/" title="Global">Global</a>
+</li>
+<li >
+<a href="/go/all_categories" title="All news categories">All news categories</a>
+</li>
+<li class="last">
+<a href="/go/careers" title="Careers">Careers</a>
+</li>
+</ul>
+</div>
+</div>
+<h2 class="a11y">Breadcrumbs</h2>
+<div id="breadcrumbWrapper">
+<ul id="breadcrumb">
+<li><a href="/home/">Home</a> &gt; </li>
+<li><a href="/news/">News</a> &gt; </li>
+<li>Mark Howe: Google's old dog on the new rules of engagement</li>
+</ul>
+</div>
+<div class="clearFloat"></div>
+</div>
+<div id="content">
+<hr class="a11y" />
+<div id="subcol"><!-- start subcol -->
+<h2 class="a11y">Additional Information</h2>
+</div><!-- end subcol -->
+<hr class="a11y" />
+<div id="maincol" class="article"><!-- start maincol -->
+<div id="mainContent">
+<h2 class="a11y">Content</h2>
+<div class="promoBanner"><!-- Begin ad tag c1502 --><div id="c1502Ad" class="adHide"><script language="JavaScript" type="text/javascript">oHarvester.renderAdvert('/news/article', 'c1502', '393x20');try {if ($('#c1502Ad').size()){$(document).ready(function () {$('#c1502Ad').show();if($('#c1502Ad').parent().hasClass('adHide')){$('#c1502Ad').parent().show()}});}}catch (error) {}</script><noscript><a href="http://ad.doubleclick.net/jump/br.main/news/article;di=1006;di=1003;s-di=3061;s-di=3067;s-di=2097;s-di=3064;p-di=0;se=12306;s-se=12309;sdi=3061;sdi=3067;sdi=2097;sdi=3064;pdi=0;sse=12309;auth=false;cid=1039460;cjc=br;loc=;nt=1;sc=2000;kw=mark,howe,googles,old,dog,new,rules,engagement,;p-dl=;p-cat=;p-scat=;p-mf=;lang=en-gb;tile=2;adloc=c1502;sz=393x20;ord=1416161723?" target="_blank"><img src="http://ad.doubleclick.net/ad/br.main/news/article;di=1006;di=1003;s-di=3061;s-di=3067;s-di=2097;s-di=3064;p-di=0;se=12306;s-se=12309;sdi=3061;sdi=3067;sdi=2097;sdi=3064;pdi=0;sse=12309;auth=false;cid=1039460;cjc=br;loc=;nt=1;sc=2000;kw=mark,howe,googles,old,dog,new,rules,engagement,;p-dl=;p-cat=;p-scat=;p-mf=;lang=en-gb;tile=2;adloc=c1502;sz=393x20;ord=1416161723?" border="0" alt="" /></a></noscript></div><!-- End ad tag c1502 -->
+</div>
+<div id="titleArea" class="alt">
+<h1>Mark Howe: Google's old dog on the new rules of engagement</h1>
+<p class="byline">
+Daniel Farey-Jones,
+brandrepublic.com,
+08 November 2010,
+12:00PM
+</p>
+<div class="summary">
+<p>As a new trustee for Nabs, Google UK's country sales director Mark Howe talks about engaging with the advertising community, his fascination with Facebook and the company's role in the marketplace.</p>
+</div>
+</div>
+<div id="articleCol" class="alt">
+<div id="articleColInner">
+<div id="articleImageBlock" class="clearfix">
+<div class="articleImage">
+<img src="http://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/420/?sURL=http://offlinehbpl.hbpl.co.uk/News/RB/1BFEFE42-F110-3761-0ED48A940ECCC8AB.jpg" alt="Mark Howe: country sales director, Google UK" />
+<p>Mark Howe: country sales director, Google UK</p>
+</div>
+<div class="relatedColumn shareTools">
+<div class="header">
+<h3>Share this article</h3>
+</div>
+<div class="toolsRow">
+<div class="tweetShare toolsItem">
+<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-related="brandrepublic: Brand Republic">Tweet</a>
+<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+</div>
+<div class="facebookShare toolsItem">
+<a class="fblike-single" href="http://www.facebook.com/plugins/like.php?href=http://www.brandrepublic.com/news/1039460/Mark-Howe-Googles-old-dog-new-rules-engagement/&layout=button_count&show_faces=false&width=90&action=like&font&colorscheme=light&height=21"></a>
+<script>
+//<![CDATA[
+$(function(){
+$(".fblike-single").each(function(){
+var t = $(this);
+var info = t.attr("href");
+t.replaceWith("<iframe src='" + info + "' scrolling=\"no\" frameborder=\"0\" style=\"border:none; overflow:hidden; width:90px; height:21px;\" allowTransparency=\"true\"></iframe>");
+});
+});
+//]]>
+</script>
+</div>
+<div class="googleplusShare toolsItem">
+<!-- Place this tag where you want the +1 button to render -->
+<g:plusone size="medium"></g:plusone>
+<!-- Place this render call where appropriate -->
+<script type="text/javascript">
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+</div>
+<div class="linkedinShare toolsItem">
+<script type="text/javascript" src="http://platform.linkedin.com/in.js"></script>
+<script type="in/share" data-url="http://www.brandrepublic.com/news/1039460/Mark-Howe-Googles-old-dog-new-rules-engagement/" data-counter="right"></script>
+</div>
+<div id="shareArticle" class="otherShare toolsItem">
+<h3><a href="#bookmarkList" title="Email this article">More sharing options</a></h3>
+<div class="showList" id="bookmarkList">
+<ul>
+<li class="delicious"><a href="http://del.icio.us/post?url=http://www.brandrepublic.com/news/1039460/Mark-Howe-Googles-old-dog-new-rules-engagement/&title=Mark%20Howe%3A%20Google%27s%20old%20dog%20on%20the%20new%20rules%20of%20engagement" title="Delicious">Delicious</a></li>
+<li class="stumble"><a href="http://www.stumbleupon.com/submit?url=http://www.brandrepublic.com/news/1039460/Mark-Howe-Googles-old-dog-new-rules-engagement/&title=Mark%20Howe%3A%20Google%27s%20old%20dog%20on%20the%20new%20rules%20of%20engagement" title="Stumble It!">Stumble It!</a></li>
+<li class="reddit"><a href="http://reddit.com/submit?url=http://www.brandrepublic.com/news/1039460/Mark-Howe-Googles-old-dog-new-rules-engagement/&title=Mark%20Howe%3A%20Google%27s%20old%20dog%20on%20the%20new%20rules%20of%20engagement" title="Reddit">Reddit</a></li>
+<li class="digg"><a href="http://digg.com/submit?phase=2&url=Mark%20Howe%3A%20Google%27s%20old%20dog%20on%20the%20new%20rules%20of%20engagement" title="DIGG">DIGG</a></li>
+<li class="yahoo"><a href="http://myweb2.search.yahoo.com/myresults/bookmarklet?u=http://www.brandrepublic.com/news/1039460/Mark-Howe-Googles-old-dog-new-rules-engagement/&t=Mark%20Howe%3A%20Google%27s%20old%20dog%20on%20the%20new%20rules%20of%20engagement" title="Yahoo">Yahoo</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="newsArticleCommentNumber">
+<p class="articleComments">
+<a class="comments" data-disqus-identifier="1039460" href="#disqus_thread"></a>
+</p>
+</div>
+</div>
+</div>
+<div id="articleBlock">
+<p>Mark Howe is having a flashback.<br /><br />He&rsquo;s in the 1980s watching two kids "battering the hell out of each other" at the Nabs boxing. Then a Tyne Tees TV sales manager, it was Howe&rsquo;s first invite to an event in aid of the National Advertising Benevolent Society (Nabs) , of which he <a href="http://www.brandrepublic.com/news/1028307/Nabs-appoints-trustees-Google-AMV/?DCMP=ILC-SEARCH">became a trustee just a few weeks ago</a>.<br /><div id='mpu'><!--NOAD[pos=C]--></div>
+</p><p>"In those days Nabs was run and co-ordinated by all the big heavies in the TV world," Howe explains, and with a touch of pride, adds: "Getting to go to the Nabs boxing &ndash; you&rsquo;d made it."<br /><br />The boxing may be a throwback (<a href="http://www.campaignlive.co.uk/news/179511/Nabs-scraps-boxing-fundraising-event-wake-revenue-decline/?DCMP=ILC-SEARCH">Nabs ditched the event in 2003</a>), but you wouldn&rsquo;t want to accuse Howe of the same.<br /><br />First, it might hurt. A big man, he looks physically capable of throwing me through the floor-to-ceiling glass partition dividing his office from the sales floor behind me.<br /><br />Second, it wouldn&rsquo;t stick. After the Tyne Tees TV job came Thames TV, then in1990s he went into the multichannel TV industry at Flextech and IDS, before in 2006 he proved his adaptability by passing at least eight interviews to land the top UK sales role at Google.</p>
+<p><strong>Cultural assimilation by planet Google?</strong></p>
+<p>Howe initially disappeared into the Googleplex with no press interviews, leaving a concerned writer to headline his profile piece &lsquo;<a href="http://www.brandrepublic.com/news/538294/Media-Headliner-Mark-Howe-touches-down-planet-Google/?DCMP=ILC-SEARCH">Mark Howe touches down on planet Google</a>&rsquo;.<br /><br />The interplanetary static continued when <a href="http://www.brandrepublic.com/features/773110/Google-scoops-Medium-Year/?DCMP=ILC-SEARCH">Google refused its 2007 Medium of the Year award from Campaign</a>, claiming it was "a search engine, not a medium". That decision was a kick in the teeth for Howe, according to one well-acquainted source, and appeared to underline the alien culture prevailing at the Silicon Valley overlords.</p>
+<p>Fast-forward five years, with the reins of Google&rsquo;s UK operations having passed from Nikesh Arora to Dennis Woodside to Matt Brittin, and the company has moved well-beyond plain search; Howe is now keen to spread a message of harmony and goodwill to all earthlings.<br /><br />"I&rsquo;ve always been a supporter. When I had Stephen [Woodford, the president], Zoe [Osmond, the chief executive] and Nick [Bampton, the chairman] all phoning me up and saying &lsquo;Mark, we really want to modernise Nabs and we want it to be for the whole marketing services industry&rsquo;, I thought &lsquo;Great, let&rsquo;s come aboard&rsquo;.<br /><br />"Nabs does need to change. For the average Googler, Nabs doesn&rsquo;t really mean anything. It&rsquo;s got to be for more than just creative agency folk. We&rsquo;ve got to expand the remit to cover all the digital agencies and digital media owners out there that actually don&rsquo;t have the same learning, development and pastoral support infrastructure that Google has."</p>
+<p><strong>Agencies and media are going to be thinned and skimmed</strong></p>
+<p>Howe wants Nabs to help Google&rsquo;s main customers, the dozens of agencies that are not the known top ten. He says: "It&rsquo;s important that all of those guys have a facility to share, to meet, and I think one of the great things about Nabs is the Nabs events. Just having a networking environment in the industry. Networking in this industry has slimmed down a lot since when I was in telly."</p>
+<p>Howe warns: "A lot of traditional agencies and a lot of traditional media owners are going to be thinned and skimmed in very different ways over the next five years."<br /><br />How much, one wonders, of that 'restructuring' can be directly related to Google itself? Sir Martin Sorrell's 2006 "frenemy" label for the internet giant still rings true for some. <br /><br />The sales director is at pains to point out this is not the Google of old and claims: "I&rsquo;ve helped change Google&rsquo;s attitude towards ad agencies and the ad industry marketplace from a UK point of view and now on a global level.</p>
+<p>"You go talk to Nigel Sharrocks or Mark Cranmer, Mark Craze, or Gerry Boyle, Jed Glanvill, Tom George, Steve Hatch &hellip; they&rsquo;ll have a very different rep on us now than two or three years ago."</p>
+<p>General consenus does seem to be of Howe having helped create a far more open outfit. MEC's Hatch sums it up well when he says: "Between Mark and his team, Google has gone from a company with completely no understanding of agencies and how they work to a brilliantly collaborative one.</p>
+<p>"Of all the media owners in the past few years, Google has moved the most measurably."<br /><br />The straight-talking Howe has also mounted a charm offensive on creative agencies, offering them free data and consumer insight tools showcased to a positive reception at the <a href="http://www.brandrepublic.com/analysis/1013849/Close-Up-Google-shows-adland-new-tools-its-trade/?DCMP=ILC-SEARCH">Google Jam event this year</a>.<br /><br />"The beauty is we&rsquo;re getting in, then getting people like Michael Rebelo at Saatchis, Nigel Bogle at BBH, Stephen Woodford at DDB supporting this and then really driving it through to their teams," says Howe. "That&rsquo;s a big endorsement of what we&rsquo;ve been doing."<br /><br /></p>
+<p><strong>Google forms friends around the park</strong></p>
+<p>There are other important bridges Howe has been helping Google build as it eyes income streams beyond search, in display, video and mobile advertising.</p>
+<p>The company has a newfound sense of responsibility to funding self-regulation, notably <a href="http://www.brandrepublic.com/news/965547/ASA-imposes-paid-search-tax-police-websites/?DCMP=ILC-SEARCH">stepping forward last year to offer initial capital to fund the extension</a> of the Advertising Standards Authority&rsquo;s remit to police advertising to websites.<br /><br />According to one observer, Howe has always known Google needed to have friends "around the park", but it was only after Brittin&rsquo;s instalment as UK chief nearly two years ago the company started to play a supporting role in the industry.<br /><br />Howe joined the board of ASBOF (the Advertising Standards Board of Finance) following Brittin's elevation. He says he is using the chance "to raise the digital agenda and keep some of the older guard in touch with how consumers are changing."<br /><br />It made Google&rsquo;s dominant income stream, paid search, subject to the 0.1% ASBOF levy from 1 May this year &ndash; not before time in the view of many. Google&rsquo;s UK revenues could have produced up to &pound;800,000 via the levy alone between 1 May and 30 September. A sizeable chunk compared to ASBOF&rsquo;s total income of &pound;4.4m for the year to 31 March 2010.<br /><br />Google has also run training programmes for ASA staff on how to use Adwords to get people to the ASA site, in advance of the remit extension in March 2011.<br /><br />"That&rsquo;s a lot more than we were contributing a couple of years ago," Howe says. "It&rsquo;s a considered change of activity and behaviour by us. That is part of saying we recognise our place in the market, we want to support the advertising industry and in that support the advertising agency community, which people didn&rsquo;t always believe was the case."<br /><br />Google&rsquo;s support has also taken the form of a financial contribution to the Advertising Association&rsquo;s Front Foot initiative, intended to provide an academic basis for the advocacy of advertising.<br /><br />The AA&rsquo;s chief executive Tim Lefroy describes Howe as a great supporter. "He&rsquo;s robust, he doesn&rsquo;t hold back from getting involved in debate and he&rsquo;s extremely knowledgeable about the media marketplace."<br /><br /><strong>Change is coming to TV ad sales</strong><br /><br />So does Google&rsquo;s stall say &lsquo;search engine&rsquo; or &lsquo;media company&rsquo; nowadays? In Howe&rsquo;s view, it&rsquo;s neither.<br /><br />"Google is an innovative technology company based on fantastic computer science. I&rsquo;m a media bloke. The team that I run are media-focused people working for a phenomenally innovative technology company. This notion that you&rsquo;re a media owner or you&rsquo;re not &hellip; we&rsquo;re disruptive, it&rsquo;s a change. We&rsquo;re media people talking to media people, selling advertising, from fast and innovative technology solutions."<br /><br />Even as it becomes part of the industry establishment, Howe is unapologetic that Google will continue to disrupt other players. The company is just following technological advances and what the consumer is doing quicker than others, he claims at one point. <br /><br />Given his TV experience, how does Howe think internet-connected television will change the way TV is traded? <br /><br />"The ability to navigate both on- and offline on the same screen is going to change the way that the consumer behaves &hellip; We&rsquo;ve launched Google TV in the US, quite when it will come over to Europe I don&rsquo;t know, but I think it&rsquo;s an exciting space to watch. The advertisers that get in early and test and learn will be the ones that win out."<br /><br />Howe says the technological change will be as disruptive to TV advertising sales teams as Sky and multichannel was through the 90s. He cautions there will only be an effect once it gets to a certain level of penetration, but observes that YouView, Virgin and Sky are also in the space. <br /><br />"I think it makes television quite an exciting vehicle again and an exciting medium to be part of, but [ad sales teams] are just going to have to think about it differently. So the old guard I don&rsquo;t think necessarily will stay with it."<br /><br /><strong>Facebook&rsquo;s a pretty fab company</strong><br /><br />Howe&rsquo;s use of the term old guard shows how much he identifies with the digital insurgents. Asked which company he would want to be at as a young man today, he unhesitatingly answers: "Google. We have this active encouragement for people to move countries and departments. We have a real pastoral care policy &ndash; we feed them morning, noon and night for free. We innovate at speed, so even for an old bloke like me it&rsquo;s still like working for a new company every quarter."<br /><br />"I think Facebook&rsquo;s a pretty fab company as well, but to be honest you&rsquo;ll be hard-pushed to get me to say something apart from Google."<br /><br /><a href="http://www.brandrepublic.com/news/1025118/Google-acquisition-Angstro-adds-Google-speculation/?DCMP=ILC-SEARCH">Rumour has it Google is building its own social network</a>, but Howe simply quips "I never listen to rumours". He says they are certainly not doing it in the London office, there is no secret floor and no-one in Howe&rsquo;s ear or eyeshot is doing it.<br /><br />In terms of future opportunities, Howe believes there&rsquo;s not enough advertisers and agencies focusing on website optimisation while mobile start-ups is where much of the action is. <br /><br />"You&rsquo;re seeing some really bright guys going into the mobile space," he says, naming Simon Andrews, formerly of Mindshare, Mike Anderson, formerly of News International, and Nick Hynes, formerly of The Search Works. <br /><br />Howe was a keen rower in his youth and Simon Shroot, a sales exec at Tyne Tees TV and now founder and managing director of media recruitment agency Sylex, observes Howe "hasn&rsquo;t really changed".<br /><br />"He&rsquo;s charismatic with gravitas, he&rsquo;s always carried that. He strides, you would struggle to keep up with him because he walks very fast. You wanted to follow him. He was challenging but constructive with it. He would challenge up as much as challenge down, more so than other group managers.<br /><br />"With Tyne Tees we had to fight for our right to share. He had great agency relationships, he&rsquo;d already got them eating out of his hand. He was very focused on his career but he would also have a laugh as well. I do remember &ndash; I&rsquo;m sure it was for charity &ndash; he was known for burning the hairs off his chest, that&rsquo;s how hard he was."<br /><br />After more than 20 years in TV, Howe has drawn on his experience to forge a better advertising interface at Google. He is currently rowing very much with the tide. It remains to be seen who Google take along with them and who is left floundering in their wake.</p>
+<p><strong></strong><br /><strong>Career path<br /></strong></p>
+<p>Geography degree, University College London &ndash; 1978 to 1981<br />Client sales executive, Link TV &ndash; 1982 to 1984<br />Sales manager, Tyne Tees TV &ndash; 1985 to 1989<br />Sales manager, Thames TV &ndash; 1989 to 1992<br />Sales controller, UK Gold Broadcasting &ndash; 1993 to 1995<br />Managing director of sales, Flextech Television &ndash; 1998 to 2002<br />Managing director, IDS &ndash; 2002 to 2005<br />Country sales director, Google UK &ndash; January 2006 to present</p>
+<p><strong></strong><strong>Other positions</strong><br /><br />Trustee of National Advertising Benevolent Society<br />Member of the Advertising Association Media Business Course committe<br />Member of the Advertising Standards Board of Finance <br />Mentor at The Marketing Academy</p>
+</div>
+<div class="clearFloat"></div>
+<div id="relatedColumn">
+<div id="supportContent">
+<div class="relatedColumn relatedArticles">
+<h3>Related content</h3>
+<ul class="relatedArticlesWrap">
+<li >
+<a href="/news/1048493/Former-Channel-4-chairman-Johnson-slates-Google/?HAYILC=RELATED">Former Channel 4 chairman Johnson slates Google</a>
+</li>
+<li >
+<a href="/news/1040459/Google-employees-land-10-pay-hike/?HAYILC=RELATED">Google employees land 10% pay hike</a>
+</li>
+<li >
+<a href="/news/1028307/Nabs-appoints-trustees-Google-AMV/?HAYILC=RELATED">Nabs appoints trustees from Google and AMV</a>
+</li>
+<li >
+<a href="/news/915487/Google-wants-friends-agency/?HAYILC=RELATED">Google wants to make friends with your agency</a>
+</li>
+<li class="last">
+<a href="/news/891513/Google-appoints-Brittin-head-UK-Woodside-moves-US/?HAYILC=RELATED">Google appoints Brittin to head UK as Woodside moves to US</a>
+</li>
+</ul>
+</div>
+<div class="relatedColumn tags">
+<h3>More about</h3>
+<ul class="tagsWrap">
+<li><a title="Video" href="/search/articles/phrase/%22Video%22/?HAYILC=TAG">Video</a>,</li>
+<li><a title="United Kingdom" href="/search/articles/phrase/%22United%20Kingdom%22/?HAYILC=TAG">United Kingdom</a>,</li>
+<li><a title="Europe" href="/search/articles/phrase/%22Europe%22/?HAYILC=TAG">Europe</a>,</li>
+<li><a title="Mobile marketing" href="/search/articles/phrase/%22Mobile%20marketing%22/?HAYILC=TAG">Mobile marketing</a>,</li>
+<li><a title="Media / Entertainment" href="/search/articles/phrase/%22Media%20%20Entertainment%22/?HAYILC=TAG">Media / Entertainment</a>,</li>
+<li><a title="Digital" href="/search/articles/phrase/%22Digital%22/?HAYILC=TAG">Digital</a>,</li>
+<li><a title="Digital Media" href="/search/articles/phrase/%22Digital%20Media%22/?HAYILC=TAG">Digital Media</a>,</li>
+<li><a title="Search marketing" href="/search/articles/phrase/%22Search%20marketing%22/?HAYILC=TAG">Search marketing</a>,</li>
+<li><a title="Digital marketing" href="/search/articles/phrase/%22Digital%20marketing%22/?HAYILC=TAG">Digital marketing</a>,</li>
+<li><a title="Media" href="/search/articles/phrase/%22Media%22/?HAYILC=TAG">Media</a></li>
+</ul>
+</div>
+<!--NOPROMO[pos=Sub Col 1]-->
+<!--NOPROMO[pos=Sub Col 2]-->
+</div>
+</div>
+<div class="commentingMessage">
+<p>Before commenting please read our <a target="_blank" href="/go/rulesforcommenting/">rules for commenting on articles</a>.</p>
+</div>
+<div id="disqus_thread"></div>
+<div class="commentingMessage">
+<p>If you see a comment you find offensive, you can flag it as inappropriate. In the top right-hand corner of an individual comment, you will see 'flag as inappropriate'. Clicking this prompts us to review the comment. For further information see our <a target="_blank" href="/go/rulesforcommenting/">rules for commenting on articles</a>.</p>
+</div>
+<script type="text/javascript">
+var disqus_identifier = 1039460; //[Optional but recommended: Define a unique identifier (e.g. post id or slug) for this thread]
+var disqus_title = "Mark Howe: Google\'s old dog on the new rules of engagement";
+var disqus_url = "http://www.brandrepublic.com/news/1039460/Mark-Howe-Googles-old-dog-new-rules-engagement/";
+(function() {
+var dsq = document.createElement('script');
+dsq.type = 'text/javascript';
+dsq.async = true;
+dsq.src = 'http://brandrepublic.disqus.com/embed.js';
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+<script type="text/javascript">
+var disqus_apiKey = "JyJ5Czz1MQbf3gNuoTxAjGiQysBHAdmOwTtl08Rek91zqNnXpZIZe7USXjYf05rx";
+var disqus_accountName = "brandrepublic";
+// Counts the number of Disqus comments on a page
+function countComments() {
+var res;
+$.ajax({
+type: 'GET',
+url: "https://disqus.com/api/3.0/threads/details.jsonp",
+data: { api_key: disqus_apiKey, forum: disqus_accountName, thread:'ident:'+disqus_identifier },
+cache: false,
+dataType: 'jsonp',
+success: function(result) {
+updateComments(result.response.posts);
+}
+});
+}
+// Updates the comment count
+function updateComments(commentCount) {
+if (commentCount != null && typeof(commentCount) != "undefined") {
+var url = "http://api.hbpl.co.uk/" + "ArticleCommentCount/Update/" + "1039460" + "/" + commentCount;
+$.get(url);
+}
+}
+jQuery(document).ready(function () {
+countComments();
+});
+</script>
+<div class="googleAdsContainer" id="googleAd">
+<script type="text/javascript" language="JavaScript">
+<!--
+function google_ad_request_done(google_ads) {
+/*
+* This function is required and is used to display
+* the ads that are returned from the JavaScript
+* request. You should modify the document.write
+* commands so that the HTML they write out fits
+* with your desired ad layout.
+*/
+var s = '';
+var i;
+/*
+* Verify that there are actually ads to display.
+*/
+if (google_ads.length == 0) {
+return;
+}
+/*
+* If an image or Flash ad is returned, display that ad.
+* Otherwise, build a string containing all of the ads and
+* then use a document.write() command to print that string.
+*/
+if (google_ads[0].type == "image") {
+s += '<a href="' + google_ads[0].url +
+'" target="_top" title="go to ' + google_ads[0].visible_url +
+'"><img border="0" src="' + google_ads[0].image_url +
+'"width="' + google_ads[0].image_width +
+'"height="' + google_ads[0].image_height + '"></a>';
+} else if (google_ads[0].type == "flash") {
+s += '<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"' +
+' codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0"' +
+' WIDTH="' + google_ad.image_width +
+'" HEIGHT="' + google_ad.image_height + '">' +
+'<PARAM NAME="movie" VALUE="' + google_ad.image_url + '">' +
+'<PARAM NAME="quality" VALUE="high">' +
+'<PARAM NAME="AllowScriptAccess" VALUE="never">' +
+'<EMBED src="' + google_ad.image_url +
+'" WIDTH="' + google_ad.image_width +
+'" HEIGHT="' + google_ad.image_height +
+'" TYPE="application/x-shockwave-flash"' +
+' AllowScriptAccess="never" ' +
+' PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer"></EMBED></OBJECT>';
+} else if (google_ads[0].type == "text") {
+s += '<a href="' + google_info.feedback_url + '"><h3>Ads by Google</h3></a>';
+if (google_ads.length == 1) {
+/*
+* Partners should adjust text sizes
+* so ads occupy the majority of ad space.
+*/
+s += '<div class="googleAd"><a href="' + google_ads[0].url + '" ' +
+'onmouseout="window.status=\'\'" ' +
+'onmouseover="window.status=\'go to ' + google_ads[0].visible_url + '\'; return true;" ' + 'class="googleAd">' +
+'<span class="googleAdTitle">' + google_ads[0].line1 + '</span></a><br />' +
+'<span class="googleAdContent">' + google_ads[0].line2 + '&nbsp;' +
+google_ads[0].line3 + '</span><br />' +
+'<a href="' + google_ads[0].url + '" ' +
+'onmouseout="window.status=\'\'" ' +
+'onmouseover="window.status=\'go to ' + google_ads[0].visible_url + '\'; return true;">' +
+'<span class="googleAdUrl">' + google_ads[0].visible_url + '</span></a></div>';
+} else if (google_ads.length > 1) {
+/*
+* For text ads, append each ad to the string.
+*/
+for(i=0; i < google_ads.length; ++i) {
+s += '<div class="googleAd"><a href="' + google_ads[i].url + '" ' +
+'onmouseout="window.status=\'\'" ' +
+'onmouseover="window.status=\'go to ' + google_ads[i].visible_url + '\'; return true;" ' + 'class="googleAd">' +
+'<span class="googleAdTitle">' + google_ads[i].line1 + '</span></a><br />' +
+'<span class="googleAdContent">' + google_ads[i].line2 + '&nbsp;' +
+google_ads[i].line3 + '</span><br />' +
+'<a href="' + google_ads[i].url + '" ' +
+'onmouseout="window.status=\'\'" ' +
+'onmouseover="window.status=\'go to ' + google_ads[i].visible_url + '\'; return true;">' +
+'<span class="googleAdUrl">' + google_ads[i].visible_url + '</span></a></div>';
+}
+}
+}
+document.getElementById("googleAd").innerHTML	+= s;
+return;
+}
+google_ad_client = 'ca-haymarketgroup'; // substitute your client_id
+google_ad_channel = 'brandrepublic';
+google_ad_output = 'js';
+google_max_num_ads = '4';
+google_ad_type = 'text';
+google_language = 'en';
+google_encoding = 'utf8';
+google_safe = 'high';
+google_hints = '';
+//-->
+</script>
+<script type="text/javascript" language="JavaScript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+<div class="clearFloat">&nbsp;</div>
+</div>
+</div>
+</div>
+<div class="clearFloat"></div>
+</div><!-- end maincol -->
+</div>
+<hr class="a11y" />
+<div id="xcol"><!-- start xcol -->
+<h2 class="a11y">Additional Information</h2>
+<div id="xcolTopZone">
+<div class="textHtmlModule">
+<div class="wideAds"><!-- Begin ad tag r1301 --><div id="r1301Ad" class="adHide"><script language="JavaScript" type="text/javascript">oHarvester.renderAdvert('/news/article', 'r1301', '300x250');try {if ($('#r1301Ad').size()){$(document).ready(function () {$('#r1301Ad').show();if($('#r1301Ad').parent().hasClass('adHide')){$('#r1301Ad').parent().show()}});}}catch (error) {}</script><noscript><a href="http://ad.doubleclick.net/jump/br.main/news/article;di=1006;di=1003;s-di=3061;s-di=3067;s-di=2097;s-di=3064;p-di=0;se=12306;s-se=12309;sdi=3061;sdi=3067;sdi=2097;sdi=3064;pdi=0;sse=12309;auth=false;cid=1039460;cjc=br;loc=;nt=1;sc=2000;kw=mark,howe,googles,old,dog,new,rules,engagement,;p-dl=;p-cat=;p-scat=;p-mf=;lang=en-gb;adloc=r1301;sz=300x250;ord=1416161723?" target="_blank"><img src="http://ad.doubleclick.net/ad/br.main/news/article;di=1006;di=1003;s-di=3061;s-di=3067;s-di=2097;s-di=3064;p-di=0;se=12306;s-se=12309;sdi=3061;sdi=3067;sdi=2097;sdi=3064;pdi=0;sse=12309;auth=false;cid=1039460;cjc=br;loc=;nt=1;sc=2000;kw=mark,howe,googles,old,dog,new,rules,engagement,;p-dl=;p-cat=;p-scat=;p-mf=;lang=en-gb;adloc=r1301;sz=300x250;ord=1416161723?" border="0" alt="" /></a></noscript></div><!-- End ad tag r1301 -->
+</div>
+</div>
+<div id="jobs">
+<h2>Latest jobs
+<a class="rssFeed" href="http://jobs.brandrepublic.com/jobsrss" title="Jobs web feed" rel="nofollow">Jobs web feed</a>
+</h2>
+<ul class="jobList">
+<li>
+<a title="Business Development Manager" href="http://jobs.brandrepublic.com/job/596290/business-development-manager/?TrackID=36" rel="nofollow">Business Development Manager</a>
+<span>Forster </span><span>c. &pound;40k + benefits, London Bridge Station, London (Greater)</span>
+</li>
+<li>
+<a title="PR Executive - Maternity Contract " href="http://jobs.brandrepublic.com/job/597097/pr-executive-maternity-contract-/?TrackID=36" rel="nofollow">PR Executive - Maternity Contract </a>
+<span>AF Selection </span><span>&pound;24,000 - &pound;30,000, Worcestershire</span>
+</li>
+<li>
+<a title="Communications and Marketing Manager" href="http://jobs.brandrepublic.com/job/596542/communications-and-marketing-manager/?TrackID=36" rel="nofollow">Communications and Marketing Manager</a>
+<span>Orphans In Need </span><span>&pound;25,000 to &pound;33,000, Bradford, West Yorkshire</span>
+</li>
+<li>
+<a title="ACCOUNT DIRECTORS - Integrated/ATL/TTL/BTL/SP/Shopper/Retail - London - up to &pound;45k" href="http://jobs.brandrepublic.com/job/595309/account-directors-integrated-atl-ttl-btl-sp-shopper-retail-london-up-to-45k/?TrackID=36" rel="nofollow">ACCOUNT DIRECTORS - Integrated/ATL/TTL/BTL/SP/Shopper/Retail - London - up to &pound;45k</a>
+<span>Judi Patton </span><span>&pound;40k-&pound;45k plus excellent benefits, London (Central), London (Greater)</span>
+</li>
+<li>
+<a title="CAD Technician - Event Design Agency - Herts - &pound;30k - NP136" href="http://jobs.brandrepublic.com/job/597991/cad-technician-event-design-agency-herts-30k-np136/?TrackID=36" rel="nofollow">CAD Technician - Event Design Agency - Herts - &pound;30k - NP136</a>
+<span>Stonor </span><span>&pound;30k, Hertfordshire</span>
+</li>
+<li>
+<a title="community manager - booze brands" href="http://jobs.brandrepublic.com/job/597990/community-manager-booze-brands/?TrackID=36" rel="nofollow">community manager - booze brands</a>
+<span>Twist Recruitment </span><span>&pound;22000 - &pound;27500 per annum + great benefits, City of London</span>
+</li>
+</ul>
+<div class="buttonType5">
+<a class="rounded button" title="Visit Brand Republic Jobs" href="http://jobs.brandrepublic.com/" rel="nofollow">
+<span class="bg r1">
+<span class="bg r2">
+<span class="bg r3">Visit Brand Republic Jobs</span>
+</span>
+</span>
+</a>
+<div class="clearFloat"> </div>
+</div>
+</div>
+</div>
+<div id="xcolLeftZone">
+</div>
+<div id="xcolRightZone" class="promoItemsArea">
+</div>
+<div id="xcolBottomZone">
+<div class="rss">
+<div class="bgTop">
+<div class="header">
+<h4><strong>FROM THE BLOGS<br /></strong></h4>
+<p><a title="Visit The Wall blog" href="http://wallblog.co.uk/"><img style="margin: 0px;" title="The Wall blogs" src="http://offlineHBPL.hbpl.co.uk/pageCreator/RB/richedit/TheWall-logo8.jpg" alt="The Wall blogs" width="100%" /></a></p>
+</div>
+<div class="moduleContent">
+<div class="rssItem first">
+<h3>
+<a href="http://energisecareer.brandrepublic.com/2014/11/15/hope-is-not-a-strategy-part-2/" title="Hope is not a strategy – part 2" class="title">Hope is not a strategy – part 2</a>
+<a class="external" title="External website" href="http://energisecareer.brandrepublic.com/2014/11/15/hope-is-not-a-strategy-part-2/">External website</a>
+</h3>
+<h4>by Rachel Brushfield, 15/11/2014</h4>
+<div class="clearFloat">&nbsp;</div>
+</div>
+<div class="rssItem">
+<h3>
+<a href="http://dailypoke.brandrepublic.com/2014/11/14/age-it-yourself/" title="Age-It-Yourself" class="title">Age-It-Yourself</a>
+<a class="external" title="External website" href="http://dailypoke.brandrepublic.com/2014/11/14/age-it-yourself/">External website</a>
+</h3>
+<h4>by Greg Taylor, 14/11/2014</h4>
+<div class="clearFloat">&nbsp;</div>
+</div>
+<div class="rssItem">
+<h3>
+<a href="http://wallblog.co.uk/2014/11/14/are-marketers-as-tech-savvy-as-we-think/" title="Are marketers as tech-savvy as we think?" class="title">Are marketers as tech-savvy as we think?</a>
+<a class="external" title="External website" href="http://wallblog.co.uk/2014/11/14/are-marketers-as-tech-savvy-as-we-think/">External website</a>
+</h3>
+<h4>by Nicole McNab, 14/11/2014</h4>
+<div class="clearFloat">&nbsp;</div>
+</div>
+<div class="rssItem last">
+<h3>
+<a href="http://guruinabottle.brandrepublic.com/2014/11/14/instant-death-to-prospect-driven-dm-is-on-the-cards/" title="“Instant death” to prospect-driven DM is on the cards" class="title">“Instant death” to prospect-driven DM is on the cards</a>
+<a class="external" title="External website" href="http://guruinabottle.brandrepublic.com/2014/11/14/instant-death-to-prospect-driven-dm-is-on-the-cards/">External website</a>
+</h3>
+<h4>by Ardi Kolah, 14/11/2014</h4>
+<div class="clearFloat">&nbsp;</div>
+</div>
+</div>
+</div>
+</div>
+<div class="textHtmlModule">
+<div class="wideAds"><!-- Begin ad tag r3304 --><div id="r3304Ad" class="adHide"><script language="JavaScript" type="text/javascript">oHarvester.renderAdvert('/news/article', 'r3304', '300x250,300x600');try {if ($('#r3304Ad').size()){$(document).ready(function () {$('#r3304Ad').show();if($('#r3304Ad').parent().hasClass('adHide')){$('#r3304Ad').parent().show()}});}}catch (error) {}</script><noscript><a href="http://ad.doubleclick.net/jump/br.main/news/article;di=1006;di=1003;s-di=3061;s-di=3067;s-di=2097;s-di=3064;p-di=0;se=12306;s-se=12309;sdi=3061;sdi=3067;sdi=2097;sdi=3064;pdi=0;sse=12309;auth=false;cid=1039460;cjc=br;loc=;nt=1;sc=2000;kw=mark,howe,googles,old,dog,new,rules,engagement,;p-dl=;p-cat=;p-scat=;p-mf=;lang=en-gb;tile=4;adloc=r3304;sz=300x250,300x600;ord=1416161723?" target="_blank"><img src="http://ad.doubleclick.net/ad/br.main/news/article;di=1006;di=1003;s-di=3061;s-di=3067;s-di=2097;s-di=3064;p-di=0;se=12306;s-se=12309;sdi=3061;sdi=3067;sdi=2097;sdi=3064;pdi=0;sse=12309;auth=false;cid=1039460;cjc=br;loc=;nt=1;sc=2000;kw=mark,howe,googles,old,dog,new,rules,engagement,;p-dl=;p-cat=;p-scat=;p-mf=;lang=en-gb;tile=4;adloc=r3304;sz=300x250,300x600;ord=1416161723?" border="0" alt="" /></a></noscript></div><!-- End ad tag r3304 -->
+</div>
+</div>
+</div>
+</div><!-- end xcol -->
+<div class="clearFloat"></div>
+<p class="backToTop"><a href="#top">Back to top ^</a></p>
+</div>
+<hr class="a11y" />
+<div id="footer"><!-- start footer -->
+<div class="clearFloat"></div>
+<div class="footerWrap">
+<div class="footerWrapTop">
+<h2>Brand Republic directory</h2>
+<div class="exploreBR">
+<dl>
+<dt>Help & information</dt>
+<dd>
+<a href="/go/about_brand_republic">About Brand Republic</a>,
+<a href="/go/contacts">Contact us</a>,
+<a href="/go/advertise/">Advertise</a>,
+<a href="/go/faq">Frequently asked questions</a>,
+<a href="/go/terms_conditions">Terms & conditions</a>,
+<a href="/go/privacy">Privacy</a>,
+<a href="/go/safe_senders/">Safe senders</a>,
+<a href="/go/partners">Partners</a>
+</dd>
+</dl>
+</div>
+<div class="exploreBR">
+<dl>
+<dt>News</dt>
+<dd>
+<a href="/go/email_bulletins">Email bulletins</a>,
+<a href="/go/rss">RSS news feeds</a>,
+<a href="/go/advertising">Advertising news</a>,
+<a href="/go/marketing">Marketing news</a>,
+<a href="/go/media">Media news</a>,
+<a href="/go/direct_marketing/">Direct marketing news</a>,
+<a href="http://www.brandrepublic.com/news/archive/">All today's articles</a>,
+<a href="/go/all_categories">All news categories</a>
+</dd>
+</dl>
+</div>
+<div class="exploreBR last">
+<dl>
+<dt>Subscriptions</dt>
+<dd>
+<a href="http://www.brandrepublic.com/go/register/?DCMP=ILC_BRG_RegLandingPage_092014">Register to Brand Republic</a>,
+<a href="http://users.brandrepublic.com/login/">Sign in to Brand Republic</a>,
+<a href="http://www.brandrepublic.com/go/subscribe/">Subscribe to Brand Republic</a>
+</dd>
+</dl>
+</div>
+<div class="exploreBR">
+<dl>
+<dt>Our sites</dt>
+<dd>
+<a href="http://www.campaignlive.co.uk">Campaign</a>,
+<a href="http://www.marketingmagazine.co.uk/">Marketing</a>,
+<a href="http://www.mediaweek.co.uk/">Media Week</a>,
+<a href="http://www.prweek.com/uk/">PRWeek</a>,
+<a href="http://www.wallblog.co.uk/">The Wall</a>,
+<a href="http://www.virtualvenuevisit.com/">Virtual Venue Visit</a>,
+<a href="http://www.brandrepublic.com/digitalbytes">Digital Bytes</a>,
+<a href="http://www.brandrepublicconferences.com/?aid=BRWEB&cid=FOOTER">Brand Republic Conferences</a>
+</dd>
+</dl>
+</div>
+<div class="exploreBR">
+<dl>
+<dt>International sites</dt>
+<dd>
+<a href="http://www.campaignasia.com">Campaign Asia</a>,
+<a href="http://www.campaignindia.in/">Campaign India</a>,
+<a href="http://www.dmnews.com/">DM News</a>,
+<a href="http://www.kress.de/">Kress.de</a>,
+<a href="http://www.prreport.de/">PR Report DE</a>,
+<a href="http://www.prweekus.com/">PRWeek US</a>
+</dd>
+</dl>
+</div>
+<div class="exploreBR last">
+<dl>
+<dt>Events</dt>
+<dd>
+<a href="http://www.media-360.co.uk/book-your-place/?aid=BRWEB&cid=BRWEBFOOTER">Media 360 conference</a>,
+<a href="http://www.brandrepublicconferences.com/conference/older-richer-wiser?aid=BRWEB&cid=FOOTER">Older, Richer, Wiser?</a>,
+<a href="http://www.haymarketevents.com/conferenceDetail/628/crisis-communications?aid=BRWEB&cid=FOOTER">Crisis Communications</a>,
+<a href="http://www.socialmediastrategyevent.com?aid=BRWEB&cid=FOOTER">Social Media Value</a>,
+<a href="http://www.marketingtokidsconference.com">Appeal To Kids & Sell To Parents</a>
+</dd>
+</dl>
+</div>
+<div class="clearFloat"></div>
+</div>
+<div class="footerWrapBottom">&nbsp;</div>
+<div class="copyright">
+<div id="haymarketLogo">
+<a href="http://www.haymarket.com/" title="Haymarket"><img src="/_hbi_ui/_images/haymarket.gif" alt="Haymarket" /></a>
+<p>&copy; Haymarket Media Group Ltd.</p>
+</div>
+<div class="bannerFooter">
+<!-- Begin ad tag f201 --><div id="f201Ad" class="adHide"><script language="JavaScript" type="text/javascript">oHarvester.renderAdvert('/news/article', 'f201', '728x90');try {if ($('#f201Ad').size()){$(document).ready(function () {$('#f201Ad').show();if($('#f201Ad').parent().hasClass('adHide')){$('#f201Ad').parent().show()}});}}catch (error) {}</script><noscript><a href="http://ad.doubleclick.net/jump/br.main/news/article;di=1006;di=1003;s-di=3061;s-di=3067;s-di=2097;s-di=3064;p-di=0;se=12306;s-se=12309;sdi=3061;sdi=3067;sdi=2097;sdi=3064;pdi=0;sse=12309;auth=false;cid=1039460;cjc=br;loc=;nt=1;sc=2000;kw=mark,howe,googles,old,dog,new,rules,engagement,;p-dl=;p-cat=;p-scat=;p-mf=;lang=en-gb;tile=5;adloc=f201;sz=728x90;ord=1416161723?" target="_blank"><img src="http://ad.doubleclick.net/ad/br.main/news/article;di=1006;di=1003;s-di=3061;s-di=3067;s-di=2097;s-di=3064;p-di=0;se=12306;s-se=12309;sdi=3061;sdi=3067;sdi=2097;sdi=3064;pdi=0;sse=12309;auth=false;cid=1039460;cjc=br;loc=;nt=1;sc=2000;kw=mark,howe,googles,old,dog,new,rules,engagement,;p-dl=;p-cat=;p-scat=;p-mf=;lang=en-gb;tile=5;adloc=f201;sz=728x90;ord=1416161723?" border="0" alt="" /></a></noscript></div><!-- End ad tag f201 -->
+</div>
+<div class="clearFloat"></div>
+</div>
+</div>
+<div class="clearFloat"></div>
+<!-- Begin ad tag z601 --><div id="z601Ad" class="adHide"><script language="JavaScript" type="text/javascript">oHarvester.renderAdvert('/news/article', 'z601', '1x1');try {if ($('#z601Ad').size()){$(document).ready(function () {$('#z601Ad').show();if($('#z601Ad').parent().hasClass('adHide')){$('#z601Ad').parent().show()}});}}catch (error) {}</script><noscript><a href="http://ad.doubleclick.net/jump/br.main/news/article;di=1006;di=1003;s-di=3061;s-di=3067;s-di=2097;s-di=3064;p-di=0;se=12306;s-se=12309;sdi=3061;sdi=3067;sdi=2097;sdi=3064;pdi=0;sse=12309;auth=false;cid=1039460;cjc=br;loc=;nt=1;sc=2000;kw=mark,howe,googles,old,dog,new,rules,engagement,;p-dl=;p-cat=;p-scat=;p-mf=;lang=en-gb;tile=6;adloc=z601;sz=1x1;ord=1416161723?" target="_blank"><img src="http://ad.doubleclick.net/ad/br.main/news/article;di=1006;di=1003;s-di=3061;s-di=3067;s-di=2097;s-di=3064;p-di=0;se=12306;s-se=12309;sdi=3061;sdi=3067;sdi=2097;sdi=3064;pdi=0;sse=12309;auth=false;cid=1039460;cjc=br;loc=;nt=1;sc=2000;kw=mark,howe,googles,old,dog,new,rules,engagement,;p-dl=;p-cat=;p-scat=;p-mf=;lang=en-gb;tile=6;adloc=z601;sz=1x1;ord=1416161723?" border="0" alt="" /></a></noscript></div><!-- End ad tag z601 -->
+<!--NOAD[pos=B]-->
+</div><!-- end footer -->
+</div>
+<script type="text/javascript">
+var disqus_shortname = 'brandrepublic';
+(function () {
+var s = document.createElement('script'); s.async = true;
+s.src = 'http://disqus.com/forums/brandrepublic/count.js';
+(document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+}());
+</script>
+<div id="networkBarNav">
+<div id="networkContainer">
+<div id="navContent">
+<div class="showList" id="networkList">
+<ul>
+<li id="brandrepublic">
+<a href="http://www.brandrepublic.com" title="Brand Republic"><img src="http://www.brandrepublic.com/_hbi_ui/_BR/_images/bkg/logobrandrepublic.png" alt="Brand Republic" /></a>
+</li>
+<li id="campaign">
+<a href="http://www.campaignlive.co.uk/" title="Campaign"><img src="http://www.brandrepublic.com/_hbi_ui/_BR/_images/bkg/logocampaign.png" alt="Campaign" /></a>
+</li>
+<li id="marketing">
+<a href="http://www.marketingmagazine.co.uk/" title="Marketing"><img src="http://www.brandrepublic.com/_hbi_ui/_BR/_images/bkg/logomarketing.png" alt="Marketing" /></a>
+</li>
+<li id="mediaweek">
+<a href="http://www.mediaweek.co.uk" title="Media Week"><img src="http://www.brandrepublic.com/_hbi_ui/_BR/_images/bkg/logomediaweek.png" alt="Media Week" /></a>
+</li>
+<li id="prweek">
+<a href="http://www.prweek.com" title="PR Week"><img src="http://www.brandrepublic.com/_hbi_ui/_BR/_images/bkg/logoprweek.png" alt="PR Week" /></a>
+</li>
+</ul>
+</div>
+</div>
+<div class="brGroup"><a href="http://www.brandrepublic.com/go/brandrepublicgroup/" title="The Brand Republic Group">The Brand Republic Group</a></div>
+</div>
+</div>
+<script type="text/javascript" src="//tags.tiqcdn.com/utag/haymarket/brandrepublic/prod/utag.footer.js"></script>
+</body>
+<script type="text/javascript">
+// get the value from the SPROP7 cookie
+var getSubscriptionType = function() {
+return $.cookie('SPROP7');
+};
+var $SAT = $SAT || [];
+$SAT.push(['setContent','subtype',getSubscriptionType()]);
+$SAT.push(['setUser', '']);
+(function() {
+var sa = document.createElement('script'); sa.type = 'text/javascript';
+sa.src = 'http' + ('https:' == document.location.protocol ? 's' : '') + '://scout.scoutanalytics.net/6gkxh/sat.ashx';
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(sa);
+})();
+</script>
+</html>
+<!-- SERVERNAME=242261-WEB5HBI INSTANCENAME= RENDERTIME=297-->
+
+0
+
+
+
+WARC/1.0
+WARC-Type: resource
+WARC-Record-ID: <urn:uuid:994fed08-b533-4d44-8c6a-a18d4ee3a2b4>
+WARC-Warcinfo-ID: <urn:uuid:44654d28-d8b2-4c8e-9719-68040c45b2cd>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/MANIFEST.txt
+WARC-Date: 2014-11-16T21:13:36Z
+Content-Type: text/plain
+Content-Length: 48
+
+<urn:uuid:44654d28-d8b2-4c8e-9719-68040c45b2cd>
+
+
+WARC/1.0
+WARC-Type: resource
+WARC-Record-ID: <urn:uuid:994fed08-b533-4d44-8c6a-a18d4ee3a2b4>
+WARC-Warcinfo-ID: <urn:uuid:44654d28-d8b2-4c8e-9719-68040c45b2cd>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/wget_arguments.txt
+WARC-Date: 2014-11-16T21:13:36Z
+Content-Type: text/plain
+Content-Length: 243
+
+"--warc-file" "Mark-Howe-Googles-old-dog-new-rules-engagement" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "-q" "-O" "/dev/null" "http://www.brandrepublic.com/news/1039460/Mark-Howe-Googles-old-dog-new-rules-engagement/" 
+
+
