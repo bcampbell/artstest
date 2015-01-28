@@ -1,0 +1,1541 @@
+WARC/1.0
+WARC-Type: warcinfo
+Content-Type: application/warc-fields
+WARC-Date: 2015-01-28T01:03:41Z
+WARC-Record-ID: <urn:uuid:e38c813b-81ac-4080-9bfa-ece6de1bb2c7>
+WARC-Filename: business-29641109.warc
+Content-Length: 353
+
+software: Wget/1.13.4-2608 (linux-gnu)
+format: WARC File Format 1.0
+conformsTo: http://bibnum.bnf.fr/WARC/WARC_ISO_28500_version1_latestdraft.pdf
+robots: classic
+wget-arguments: "--warc-file" "business-29641109" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "-q" "-O" "/dev/null" "http://www.bbc.co.uk/news/business-29641109" 
+
+
+
+WARC/1.0
+WARC-Type: request
+WARC-Target-URI: http://www.bbc.co.uk/news/business-29641109
+Content-Type: application/http;msgtype=request
+WARC-Date: 2015-01-28T01:03:41Z
+WARC-Record-ID: <urn:uuid:b5e1d792-f689-4f46-8738-94d413eacb25>
+WARC-IP-Address: 212.58.244.66
+WARC-Warcinfo-ID: <urn:uuid:e38c813b-81ac-4080-9bfa-ece6de1bb2c7>
+Content-Length: 140
+
+GET /news/business-29641109 HTTP/1.1
+User-Agent: Wget/1.13.4-2608 (linux-gnu)
+Accept: */*
+Host: www.bbc.co.uk
+Connection: Keep-Alive
+
+
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <urn:uuid:805378e1-8bb2-4efa-a0af-d6604a670aa9>
+WARC-Warcinfo-ID: <urn:uuid:e38c813b-81ac-4080-9bfa-ece6de1bb2c7>
+WARC-Concurrent-To: <urn:uuid:b5e1d792-f689-4f46-8738-94d413eacb25>
+WARC-Target-URI: http://www.bbc.co.uk/news/business-29641109
+WARC-Date: 2015-01-28T01:03:41Z
+WARC-IP-Address: 212.58.244.66
+Content-Type: application/http;msgtype=response
+Content-Length: 105304
+
+HTTP/1.1 200 OK
+Server: Apache
+Expires: Wed, 28 Jan 2015 01:03:42 GMT
+Content-Language: en-GB
+X-IGOR: True
+Content-Type: text/html
+Content-Length: 104776
+Date: Wed, 28 Jan 2015 01:03:42 GMT
+Connection: keep-alive
+Set-Cookie: BBC-UID=75a45c985395c65e3e8bf5fd11e69f1873544d7d1e18236973e51bdcb8ea8e700Wget/1.13.4-2608%20(linux-gnu); expires=Sun, 27-Jan-19 01:03:42 GMT; path=/; domain=.bbc.co.uk
+X-Cache-Action: MISS
+X-Cache-Age: 0
+Cache-Control: private, max-age=0, must-revalidate
+X-LB-NoCache: true
+Vary: X-CDN
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+
+
+
+
+<!-- contentApiRelativeUrl is '/news/business-29641109' -->
+    
+    
+
+
+
+
+ 
+    
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"  xml:lang="en-GB" >
+        
+    
+    
+    
+	
+    
+    
+    
+    
+    
+    
+    
+	
+    
+	
+    
+	
+	
+	
+	
+    
+	
+    
+
+        
+    
+<!-- THIS FILE CONFIGURES SHARED HIGHWEB STATIC ASSETS -->
+
+
+
+
+
+<!-- mapping_news.inc -->
+<!-- THIS FILE CONFIGURES NEWS STATIC ASSETS  -->
+
+
+
+
+<!-- THIS FILE CONFIGURES VOTE 2012 STATIC ASSETS  -->
+
+
+
+
+
+    <!-- hi/shared/head_initial.inc -->
+
+
+	<!-- IGOR News -->
+		
+		
+		
+	
+
+
+
+
+
+<!-- set CPS_HTTP_HOST_DOMAIN for news and ww1 -->
+
+
+	
+
+
+	        <head profile="http://dublincore.org/documents/dcq-html/" resource="http://www.bbc.co.uk/news/business-29641109" typeof="rnews:NewsItem">
+        <meta http-equiv="X-UA-Compatible" content="IE=8" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>BBC News - Top 1% &#039;own half global wealth&#039; - Credit Suisse report</title>
+        <meta name="Description" content="The richest 1% own nearly half the world&#039;s wealth, a Credit Suisse report estimates - the BBC investigates in 60 seconds."/>
+        <meta property="rnews:description" content="The richest 1% own nearly half the world&#039;s wealth, a Credit Suisse report estimates - the BBC investigates in 60 seconds."/>
+                <meta name="OriginalPublicationDate" content="2014/10/16 12:07:17"/>
+        <meta property="rnews:datePublished" content="2014/10/16 12:07:17"/>
+        <meta name="UKFS_URL" content="/news/business-29641109"/>
+                <meta name="THUMBNAIL_URL" content="http://news.bbcimg.co.uk/media/images/78254000/jpg/_78254083_78254075.jpg"/>
+        <meta property="rnews:thumbnailUrl" content="http://news.bbcimg.co.uk/media/images/78254000/jpg/_78254083_78254075.jpg"/>
+                <meta name="Headline" content="Wealth report - in 60 seconds"/>
+        <meta property="rnews:headline" content="Wealth report - in 60 seconds"/>
+        <meta name="IFS_URL" content="/news/business-29641109"/>
+        <meta name="Section" content="Business"/>
+        <meta name="contentFlavor" content="STORY"/>
+		                        <meta name="CPS_ID" content="29641109" />
+        <meta name="CPS_SITE_NAME" content="BBC News" />
+        <meta name="CPS_SECTION_PATH" content="Business" />
+        <meta name="CPS_ASSET_TYPE" content="MAP" />
+        <meta name="CPS_PLATFORM" content="HighWeb" />
+        <meta name="CPS_AUDIENCE" content="Domestic" />
+        <meta property="rnews:creator" content="http://www.bbc.co.uk#org"/>
+
+            		<meta property="og:title" content="Wealth report - in 60 seconds"/>
+    		<meta property="og:type" content="article"/>
+    		<meta property="og:url" content="http://www.bbc.co.uk/news/business-29641109"/>
+    		<meta property="og:site_name" content="BBC News"/>
+            			<meta property="og:image" content="http://news.bbcimg.co.uk/media/images/78254000/jpg/_78254115_78254075.jpg"/>
+											
+					<meta name="bbcsearch_noindex" content="emp"/>
+            							
+									<meta property="og:video" content="http://www.bbc.co.uk/emp/worldwide/player.swf?playlist=http://playlists.bbc.co.uk/news/business-29641109A/playlist.sxml" />
+					<meta property="og:video:height" content="360" />
+					<meta property="og:video:width" content="640" />
+                                            
+                        
+                        
+                        
+                        
+                        
+                        
+                        <!-- (none)
+<!-- /news/business-29641109 -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- twitter amplify metadata v1 -->
+
+<meta name="twitter:card" content="player">
+<meta name="twitter:creator" content="@BBCWorld">
+<meta name="twitter:site" content="@BBCWorld">
+<meta name="twitter:title" content="BBC News - Top 1% 'own half global wealth' - Credit Suisse report">
+<meta name="twitter:description" content="The richest 1% own nearly half the world's wealth, a Credit Suisse report estimates - the BBC investigates in 60 seconds.">
+<meta name="twitter:image:src" content="http://www.bbc.co.uk/media/images/78254000/jpg/_78254123_78254075.jpg">
+<meta name="twitter:player" content="https://ssl.bbc.co.uk/wwscripts/embed_player#playlist=/news/business-29641109A&poster=/media/images/78254000/jpg/_78254123_78254075.jpg&ad_site=/news/business/&ad_keyword=&source=twitter">
+<meta name="twitter:player:height" content="360">
+<meta name="twitter:player:width" content="640">
+
+
+
+                    															
+		    		
+        
+            <link rel="canonical" href="http://www.bbc.co.uk/news/business-29641109" />
+<link rel="alternate" hreflang="en" href="http://www.bbc.com/news/business-29641109" />
+<link rel="alternate" hreflang="en-gb" href="http://www.bbc.co.uk/news/business-29641109" />
+        
+
+        
+        
+            <link rel="stylesheet" href="http://static.bbci.co.uk/news/1.57.0145/stylesheets/services/journalism/holepunch.css">
+            <!--[if IE]>
+                <link rel="stylesheet" href="http://static.bbci.co.uk/news/1.57.0145/stylesheets/services/journalism/holepunch-ie.css">
+            <![endif]-->
+        
+
+        <!-- hi/news/head_first.inc -->
+
+<!-- Chartbeat Web Analytics code - start -->
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+<!-- Chartbeat Web Analytics code - end -->
+
+<meta name="application-name" content="BBC News" />
+<meta name="msapplication-TileImage" content="/img/1_0_3/cream/hi/news/bbc-news-pin.png" />
+<meta name="msapplication-TileColor" content="#CC0101" />
+
+
+        <!-- Project IGOR - Barlesque redirection logic - START -->
+
+
+    <script>
+        /*<![CDATA[*/
+        window.bbcredirection = {
+            
+                device: true,
+                geo: true
+            
+        }
+        /*]]>*/
+    </script>
+
+<!-- Project IGOR - Barlesque redirection logic - END -->
+
+
+<!-- PULSE_ENABLED:yes -->
+
+<!-- vars inc blq_cachebust_journalism update 1.21.26 -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+		
+	
+
+
+
+
+
+
+
+
+	
+		
+			
+			
+					
+					
+					
+					
+			
+						
+			
+		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		
+	
+		
+
+
+
+
+
+
+	
+		
+
+    
+   <meta http-equiv="X-UA-Compatible" content="IE=8" />  
+  <link rel="schema.dcterms" href="http://purl.org/dc/terms/" />  <link rel="index" href="http://www.bbc.co.uk/a-z/" title="A to Z" /> <link rel="copyright" href="http://www.bbc.co.uk/terms/" title="Terms of Use" /> <link rel="icon" href="http://www.bbc.co.uk/favicon.ico" type="image/x-icon" />  <meta name="viewport" content="width = 996" /> 
+
+<script type="text/javascript">window.orb = window.orb || {};</script>
+<script type="text/javascript">/*<![CDATA[*/
+(function(){window.fig=window.fig||{};window.fig.manager={include:function(a){a=a||window;var e=a.document,g=e.cookie,b=g.match(/(?:^|; ?)ckns_orb_fig=([^;]+)/);if(!b&&g.indexOf("ckns_orb_nofig=1")>-1){this.setFig(a,{no:1})}else{if(b){b=this.deserialise(decodeURIComponent(RegExp.$1));this.setFig(a,b)}e.write('<script src="https://ssl.bbc.co.uk/frameworks/fig/1/fig.js"><'+"/script>")}},confirm:function(a){a=a||window;if(a.orb&&a.orb.fig&&a.orb.fig("no")){this.setNoFigCookie(a)}if(a.orb===undefined||a.orb.fig===undefined){this.setFig(a,{no:1});this.setNoFigCookie(a)}},setNoFigCookie:function(a){a.document.cookie="ckns_orb_nofig=1; expires="+new Date(new Date().getTime()+1000*60*10).toGMTString()+";"},setFig:function(a,b){(function(){var c=b;a.orb=a.orb||{};a.orb.fig=function(d){return(arguments.length)?c[d]:c}})()},deserialise:function(b){var a={};b.replace(/([a-z]{2}):([0-9]+)/g,function(){a[RegExp.$1]=+RegExp.$2});return a}}})();fig.manager.include();/*]]>*/</script>
+<script type="text/javascript"> fig.manager.confirm(); </script>
+
+ <link rel="stylesheet" type="text/css" href="http://static.bbci.co.uk/frameworks/barlesque/2.83.4/desktop/3.5/style/main.css"  />  <script type="text/javascript">/*<![CDATA[*/ (function(undefined){if(!window.bbc){window.bbc={}}var ROLLING_PERIOD_DAYS=30;window.bbc.Mandolin=function(id,segments,opts){var now=new Date().getTime(),storedItem,DEFAULT_START=now,DEFAULT_RATE=1,COOKIE_NAME="ckpf_mandolin";opts=opts||{};this._id=id;this._segmentSet=segments;this._store=new window.window.bbc.Mandolin.Storage(COOKIE_NAME);this._opts=opts;this._rate=(opts.rate!==undefined)?+opts.rate:DEFAULT_RATE;this._startTs=(opts.start!==undefined)?new Date(opts.start).getTime():new Date(DEFAULT_START).getTime();this._endTs=(opts.end!==undefined)?new Date(opts.end).getTime():daysFromNow(ROLLING_PERIOD_DAYS);this._signupEndTs=(opts.signupEnd!==undefined)?new Date(opts.signupEnd).getTime():this._endTs;this._segment=null;if(typeof id!=="string"){throw new Error("Invalid Argument: id must be defined and be a string")}if(Object.prototype.toString.call(segments)!=="[object Array]"){throw new Error("Invalid Argument: Segments are required.")}if(opts.rate!==undefined&&(opts.rate<0||opts.rate>1)){throw new Error("Invalid Argument: Rate must be between 0 and 1.")}if(this._startTs>this._endTs){throw new Error("Invalid Argument: end date must occur after start date.")}if(!(this._startTs<this._signupEndTs&&this._signupEndTs<=this._endTs)){throw new Error("Invalid Argument: SignupEnd must be between start and end date")}removeExpired.call(this,now);var overrides=window.bbccookies.get().match(/ckns_mandolin_setSegments=([^;]+)/);if(overrides!==null){eval("overrides = "+decodeURIComponent(RegExp.$1)+";");if(overrides[this._id]&&this._segmentSet.indexOf(overrides[this._id])==-1){throw new Error("Invalid Override: overridden segment should exist in segments array")}}if(overrides!==null&&overrides[this._id]){this._segment=overrides[this._id]}else{if((storedItem=this._store.getItem(this._id))){this._segment=storedItem.segment}else{if(this._startTs<=now&&now<this._signupEndTs&&now<=this._endTs&&this._store.isEnabled()===true){this._segment=pick(segments,this._rate);if(opts.end===undefined){this._store.setItem(this._id,{segment:this._segment})}else{this._store.setItem(this._id,{segment:this._segment,end:this._endTs})}log.call(this,"mandolin_segment")}}}log.call(this,"mandolin_view")};window.bbc.Mandolin.prototype.getSegment=function(){return this._segment};function log(actionType,params){var that=this;require(["istats-1"],function(istats){istats.log(actionType,that._id+":"+that._segment,params?params:{})})}function removeExpired(expires){var items=this._store.getItems(),expiresInt=+expires;for(var key in items){if(items[key].end!==undefined&&+items[key].end<expiresInt){this._store.removeItem(key)}}}function getLastExpirationDate(data){var winner=0,rollingExpire=daysFromNow(ROLLING_PERIOD_DAYS);for(var key in data){if(data[key].end===undefined&&rollingExpire>winner){winner=rollingExpire}else{if(+data[key].end>winner){winner=+data[key].end}}}return(winner)?new Date(winner):new Date(rollingExpire)}window.bbc.Mandolin.prototype.log=function(params){log.call(this,"mandolin_log",params)};window.bbc.Mandolin.prototype.convert=function(params){log.call(this,"mandolin_convert",params);this.convert=function(){}};function daysFromNow(n){var endDate;endDate=new Date().getTime()+(n*60*60*24)*1000;return endDate}function pick(segments,rate){var picked,min=0,max=segments.length-1;if(typeof rate==="number"&&Math.random()>rate){return null}do{picked=Math.floor(Math.random()*(max-min+1))+min}while(picked>max);return segments[picked]}window.bbc.Mandolin.Storage=function(name){validateCookieName(name);this._cookieName=name;this._isEnabled=(bbccookies.isAllowed(this._cookieName)===true&&bbccookies.cookiesEnabled()===true)};window.bbc.Mandolin.Storage.prototype.setItem=function(key,value){var storeData=this.getItems();storeData[key]=value;this.save(storeData);return value};window.bbc.Mandolin.Storage.prototype.isEnabled=function(){return this._isEnabled};window.bbc.Mandolin.Storage.prototype.getItem=function(key){var storeData=this.getItems();return storeData[key]};window.bbc.Mandolin.Storage.prototype.removeItem=function(key){var storeData=this.getItems();delete storeData[key];this.save(storeData)};window.bbc.Mandolin.Storage.prototype.getItems=function(){return deserialise(this.readCookie(this._cookieName)||"")};window.bbc.Mandolin.Storage.prototype.save=function(data){window.bbccookies.set(this._cookieName+"="+encodeURIComponent(serialise(data))+"; expires="+getLastExpirationDate(data).toUTCString()+";")};window.bbc.Mandolin.Storage.prototype.readCookie=function(name){var nameEq=name+"=",ca=window.bbccookies.get().split("; "),i,c;validateCookieName(name);for(i=0;i<ca.length;i++){c=ca[i];if(c.indexOf(nameEq)===0){return decodeURIComponent(c.substring(nameEq.length,c.length))}}return null};function serialise(o){var str="";for(var p in o){if(o.hasOwnProperty(p)){str+='"'+p+'"'+":"+(typeof o[p]==="object"?(o[p]===null?"null":"{"+serialise(o[p])+"}"):'"'+o[p].toString()+'"')+","}}return str.replace(/,\}/g,"}").replace(/,$/g,"")}function deserialise(str){var o;str="{"+str+"}";if(!validateSerialisation(str)){throw"Invalid input provided for deserialisation."}eval("o = "+str);return o}var validateSerialisation=(function(){var OBJECT_TOKEN="<Object>",ESCAPED_CHAR='"\\n\\r\\u2028\\u2029\\u000A\\u000D\\u005C',ALLOWED_CHAR="([^"+ESCAPED_CHAR+"]|\\\\["+ESCAPED_CHAR+"])",KEY='"'+ALLOWED_CHAR+'+"',VALUE='(null|"'+ALLOWED_CHAR+'*"|'+OBJECT_TOKEN+")",KEY_VALUE=KEY+":"+VALUE,KEY_VALUE_SEQUENCE="("+KEY_VALUE+",)*"+KEY_VALUE,OBJECT_LITERAL="({}|{"+KEY_VALUE_SEQUENCE+"})",objectPattern=new RegExp(OBJECT_LITERAL,"g");return function(str){if(str.indexOf(OBJECT_TOKEN)!==-1){return false}while(str.match(objectPattern)){str=str.replace(objectPattern,OBJECT_TOKEN)}return str===OBJECT_TOKEN}})();function validateCookieName(name){if(name.match(/ ,;/)){throw"Illegal name provided, must be valid in browser cookie."}}})(); /*]]>*/</script>  <script type="text/javascript">/*<![CDATA[*/ if (typeof bbccookies_flag === 'undefined') { bbccookies_flag = 'ON'; } showCTA_flag = false; cta_enabled = (showCTA_flag && (bbccookies_flag === 'ON') ); (function(){var e="ckns_policy",m="Thu, 01 Jan 1970 00:00:00 GMT",k={ads:true,personalisation:true,performance:true,necessary:true};function f(p){if(f.cache[p]){return f.cache[p]}var o=p.split("/"),q=[""];do{q.unshift((o.join("/")||"/"));o.pop()}while(q[0]!=="/");f.cache[p]=q;return q}f.cache={};function a(p){if(a.cache[p]){return a.cache[p]}var q=p.split("."),o=[];while(q.length&&"|co.uk|com|".indexOf("|"+q.join(".")+"|")===-1){if(q.length){o.push(q.join("."))}q.shift()}f.cache[p]=o;return o}a.cache={};function i(o,t,p){var z=[""].concat(a(window.location.hostname)),w=f(window.location.pathname),y="",r,x;for(var s=0,v=z.length;s<v;s++){r=z[s];for(var q=0,u=w.length;q<u;q++){x=w[q];y=o+"="+t+";"+(r?"domain="+r+";":"")+(x?"path="+x+";":"")+(p?"expires="+p+";":"");bbccookies.set(y,true)}}}window.bbccookies={_setEverywhere:i,cookiesEnabled:function(){var o="ckns_testcookie"+Math.floor(Math.random()*100000);this.set(o+"=1");if(this.get().indexOf(o)>-1){g(o);return true}return false},set:function(o){return document.cookie=o},get:function(){return document.cookie},_setPolicy:function(o){return h.apply(this,arguments)},readPolicy:function(o){return b.apply(this,arguments)},_deletePolicy:function(){i(e,"",m)},isAllowed:function(){return true},_isConfirmed:function(){return c()!==null},_acceptsAll:function(){var o=b();return o&&!(j(o).indexOf("0")>-1)},_getCookieName:function(){return d.apply(this,arguments)},_showPrompt:function(){var o=(!this._isConfirmed()&&window.cta_enabled&&this.cookiesEnabled()&&!window.bbccookies_disable);return(window.orb&&window.orb.fig)?o&&(window.orb.fig("no")||window.orb.fig("ck")):o}};bbccookies._getPolicy=bbccookies.readPolicy;function d(p){var o=(""+p).match(/^([^=]+)(?==)/);return(o&&o.length?o[0]:"")}function j(o){return""+(o.ads?1:0)+(o.personalisation?1:0)+(o.performance?1:0)}function h(r){if(typeof r==="undefined"){r=k}if(typeof arguments[0]==="string"){var o=arguments[0],q=arguments[1];if(o==="necessary"){q=true}r=b();r[o]=q}else{if(typeof arguments[0]==="object"){r.necessary=true}}var p=new Date();p.setYear(p.getFullYear()+1);p=p.toUTCString();bbccookies.set(e+"="+j(r)+";domain=bbc.co.uk;path=/;expires="+p+";");bbccookies.set(e+"="+j(r)+";domain=bbc.com;path=/;expires="+p+";");return r}function l(o){if(o===null){return null}var p=o.split("");return{ads:!!+p[0],personalisation:!!+p[1],performance:!!+p[2],necessary:true}}function c(){var o=new RegExp("(?:^|; ?)"+e+"=(\\d\\d\\d)($|;)"),p=document.cookie.match(o);if(!p){return null}return p[1]}function b(o){var p=l(c());if(!p){p=k}if(o){return p[o]}else{return p}}function g(o){return document.cookie=o+"=;expires="+m+";"}function n(){var o='<script type="text/javascript" src="http://static.bbci.co.uk/frameworks/bbccookies/0.6.6/script/bbccookies.js"><\/script>';if(window.bbccookies_flag==="ON"&&!bbccookies._acceptsAll()&&!window.bbccookies_disable){document.write(o)}}n()})(); /*]]>*/</script>      <script type="text/javascript"> if (! window.gloader) { window.gloader = [ "glow", {map: "http://node1.bbcimg.co.uk/glow/glow/map.1.7.7.js"}]; } </script>  <script type="text/javascript" src="http://node1.bbcimg.co.uk/glow/gloader.0.1.6.js"></script>    <!--orb.ws.require.lib--> <script type="text/javascript">/*<![CDATA[*/ if (typeof window.define !== 'function' || typeof window.require !== 'function') { document.write('<script class="js-require-lib" src="http://static.bbci.co.uk/frameworks/requirejs/lib.js"><'+'/script>'); } /*]]>*/</script> <script type="text/javascript">  bbcRequireMap = {"jquery-1":"http://static.bbci.co.uk/frameworks/jquery/0.3.0/sharedmodules/jquery-1.7.2", "jquery-1.4":"http://static.bbci.co.uk/frameworks/jquery/0.3.0/sharedmodules/jquery-1.4", "jquery-1.9":"http://static.bbci.co.uk/frameworks/jquery/0.3.0/sharedmodules/jquery-1.9.1", "swfobject-2":"http://static.bbci.co.uk/frameworks/swfobject/0.1.10/sharedmodules/swfobject-2", "demi-1":"http://static.bbci.co.uk/frameworks/demi/0.10.0/sharedmodules/demi-1", "gelui-1":"http://static.bbci.co.uk/frameworks/gelui/0.9.13/sharedmodules/gelui-1", "cssp!gelui-1/overlay":"http://static.bbci.co.uk/frameworks/gelui/0.9.13/sharedmodules/gelui-1/overlay.css", "istats-1":"http://static.bbci.co.uk/frameworks/istats/0.25.1/modules/istats-1", "relay-1":"http://static.bbci.co.uk/frameworks/relay/0.2.6/sharedmodules/relay-1", "clock-1":"http://static.bbci.co.uk/frameworks/clock/0.1.9/sharedmodules/clock-1", "canvas-clock-1":"http://static.bbci.co.uk/frameworks/clock/0.1.9/sharedmodules/canvas-clock-1", "cssp!clock-1":"http://static.bbci.co.uk/frameworks/clock/0.1.9/sharedmodules/clock-1.css", "jssignals-1":"http://static.bbci.co.uk/frameworks/jssignals/0.3.6/modules/jssignals-1", "jcarousel-1":"http://static.bbci.co.uk/frameworks/jcarousel/0.1.10/modules/jcarousel-1", "bump-3":"//emp.bbci.co.uk/emp/bump-3/bump-3"}; require({ baseUrl: 'http://static.bbci.co.uk/', paths: bbcRequireMap, waitSeconds: 30 }); </script>      <script type="text/javascript" src="http://static.bbci.co.uk/frameworks/barlesque/2.83.4/desktop/3.5/script/barlesque.js"></script>
+  
+<!--[if IE 6]>
+        <script type="text/javascript">
+        try {
+            document.execCommand("BackgroundImageCache",false,true);
+        } catch(e) {}
+    </script>
+        <style type="text/css">
+        /* Use filters for IE6 */
+        #blq-blocks a {
+            background-image: none;
+            filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://static.bbci.co.uk/frameworks/barlesque/2.83.4/desktop/3.5//img/blq-blocks_white_alpha.png', sizingMethod='image');
+        }
+        .blq-masthead-focus #blq-blocks a,
+        .blq-mast-text-dark #blq-blocks a {
+            background-image: none;
+            filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://static.bbci.co.uk/frameworks/barlesque/2.83.4/desktop/3.5//img/blq-blocks_grey_alpha.png', sizingMethod='image');
+        }
+        #blq-nav-search button span {
+            background-image: none;
+            filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://static.bbci.co.uk/frameworks/barlesque/2.83.4/desktop/3.5//img/blq-search_grey_alpha.png', sizingMethod='image');
+        }
+        #blq-nav-search button img {
+            position: absolute;
+            left: -999em;    
+        }
+    </style>
+<![endif]-->
+
+<!--[if (IE 7])|(IE 8)>
+    <style type="text/css">
+        .blq-clearfix {
+            display: inline-block;
+        }
+    </style>
+<![endif]-->
+
+<script type="text/javascript">
+     blq.setEnvironment('live');  if (blq.setLabel) blq.setLabel('searchSuggestion', "Search");  if (! /bbc\.co\.uk$/i.test(window.location.hostname) ) { document.documentElement.className += ' blq-not-bbc-co-uk'; } </script>
+
+  <script type="text/javascript"> /*<![CDATA[*/ function oqsSurveyManager(w, flag) { if (flag !== 'OFF') { w.document.write('<script type="text/javascript" src="http://static.bbci.co.uk/frameworks/barlesque/2.83.4/desktop/3.5/script/vendor/edr.js"><'+'/script>'); } } oqsSurveyManager(window, 'ON'); /*]]>*/ </script> 
+	<link type="text/css" rel="stylesheet" media="screen" href="http://static.bbci.co.uk/modules/identity/statusbar/3.27.2/style/id-gvl-3-5.css" /> <!--[if IE]> <style type="text/css" media="screen"> body .panel-identity .hd h2{ background-image: url(http://static.bbci.co.uk/modules/identity/statusbar/3.27.2/img/panel/logo-bbcid.gif); /* Even 8bit alpha transparent PNGs are no good here */ } .panel-id-hint .panel-bd, .panel-id-hint .panel-hd, .panel-id-hint .panel-ft{ background-image: url(http://static.bbci.co.uk/modules/identity/statusbar/3.27.2/img/panel/bg-hint.gif); } </style> <![endif]--> <!--[if lte IE 6]> <style type="text/css" media="screen"> /* Secure Glow fixes */ div.panel-identity .infoPanel-pointerT { filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.bbc.co.uk/glow/1.0.2/widgets/images/darkpanel/at.png', sizingMethod='crop'); } div.panel-identity .infoPanel-pointerR { filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.bbc.co.uk/glow/1.0.2/widgets/images/darkpanel/ar.png', sizingMethod='crop'); } div.panel-identity .infoPanel-pointerB { filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.bbc.co.uk/glow/1.0.2/widgets/images/darkpanel/ab.png', sizingMethod='crop'); } div.panel-identity .infoPanel-pointerL { filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.bbc.co.uk/glow/1.0.2/widgets/images/darkpanel/al.png', sizingMethod='crop'); } /* min-height fixes */ body .panel-identity .hd h2{ height: 26px; } #blq-main a.id-cta-button{ height: 22px; } #blq-main a.id-cta-button span{ height: 12px; } /* other */ div.panel-identity .c{ zoom: 1; } /* Transparent PNG replacements */ .blq-toolbar-transp #id-status .idUsername{ background-image: url(http://static.bbci.co.uk/modules/identity/statusbar/3.27.2/img/palettes/transp/status-id-logo-noprofile.gif); } .blq-toolbar-transp #id-status .idSignin, .blq-toolbar-transp #id-status .idUsernameWithProfile{ background-image: url(http://static.bbci.co.uk/modules/identity/statusbar/3.27.2/img/palettes/dark/status-id-logo.gif); } </style> <![endif]--> <!--[if lte IE 7]> <style type="text/css" media="screen"> .panel-identity form .text, .panel-identity form .password { zoom: 1; } .panel-identity form .text p { margin: 0; } .panel-identity form .password p { margin: 0 0 18px 0; } .panel-identity p.id-registerlink a.id-register { zoom: 1; padding-top: 3px; padding-bottom: 3px; top: 3px; } </style> <![endif]--> <!--[if lte IE 8]> <style type="text/css" media="screen"> /* Custom PNG corners for lightbox */ div.panel-identity .pc .tr { filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://static.bbci.co.uk/modules/identity/statusbar/3.27.2/img/panel/ctr.png', sizingMethod='crop'); } div.panel-identity .pc .tl { filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://static.bbci.co.uk/modules/identity/statusbar/3.27.2/img/panel/ctl.png', sizingMethod='crop'); } div.panel-identity .pc .bl { filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://static.bbci.co.uk/modules/identity/statusbar/3.27.2/img/panel/cbl.png', sizingMethod='crop'); } div.panel-identity .pc .br { filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://static.bbci.co.uk/modules/identity/statusbar/3.27.2/img/panel/cbr.png', sizingMethod='crop'); } </style> <![endif]--> <script type="text/javascript"> if(typeof identity == 'undefined'){ identity = {}; } idProperties = { 'env': 'live', 'staticServer': 'http://', 'dynamicServer': 'http://id.bbc.co.uk', 'secureServer': 'https://id.bbc.co.uk', 'assetVersion': '3.27.2', 'assetPath': 'http://static.bbci.co.uk/modules/identity/statusbar/3.27.2/' }; </script> <script type="text/javascript" src="http://static.bbci.co.uk/modules/identity/statusbar/3.27.2/script/id-core.js"></script> <script type="text/javascript" src="http://static.bbci.co.uk/modules/identity/statusbar/3.27.2/script/id.js"></script> 	
+ <script type="text/javascript">/*<![CDATA[*/ window.istats = (window.istats || {}); (istats.head = function(w,d) { w.istats._linkTracked = w.istats._trackingCookie = decodeURIComponent( (d.cookie.match(/\bsa_labels=([^;]+)/)||[]).pop() || '' ); var host = w.location.host, m = host.match(/(bbc(?:\.co\.uk|\.com))$/i); d.cookie = 'sa_labels=; expires=Thu, 01 Jan 1970 00:00:01 GMT; domain=' + (m? m[1] : host) + '; path=/'; })(window,document); /*]]>*/</script>  <script type="text/javascript"> /* <![CDATA[ */ define('id-statusbar-config', { 'translation_signedout': "Sign in", 'translation_signedin': "Your account", 'use_overlay' : false, 'signin_url' : "https://ssl.bbc.co.uk/id/signin?ptrt=http://www.bbc.co.uk/news/business-29641109", 'locale' : "en-GB", 'policyname' : "", 'ptrt' : "http://www.bbc.co.uk/news/business-29641109" }); /* ]]> */ </script>  <script type="text/javascript"> (function () { if (! window.require) { throw new Error('idcta: could not find require'); } var map = {}; map['idapp-1'] = 'http://static.bbci.co.uk/idapp/0.63.26/modules/idapp/idapp-1'; map['idcta/idcta-1'] = 'http://static.bbci.co.uk/id/0.24.7/modules/idcta/idcta-1'; map['idcta/idCookie'] = 'http://static.bbci.co.uk/id/0.24.7/modules/idcta/idCookie'; map['idcta/overlayManager'] = 'http://static.bbci.co.uk/id/0.24.7/modules/idcta/overlayManager'; require({paths: map}); define('id-config', {"idapp":{"version":"0.63.26","hostname":"ssl.bbc.co.uk","insecurehostname":"www.bbc.co.uk","tld":"bbc.co.uk"},"idtranslations":{"version":"0.29.1"},"identity":{"baseUrl":"https:\/\/talkback.live.bbc.co.uk\/identity"},"pathway":{"name":null,"staticAssetUrl":"http:\/\/static.bbci.co.uk\/idapp\/0.63.26\/modules\/idapp\/idapp-1\/View.css"}}); })(); </script>           <!-- BBCDOTCOM template: desktop journalismVariant: true ipIsAdvertiseCombined: true adsEnabled: false flagpole: ON -->
+                           
+	
+
+
+
+
+		<!-- shared/head -->
+<meta http-equiv="imagetoolbar" content="no" />
+<!--[if !(lt IE 6)]>
+   	<link rel="stylesheet" type="text/css" href="http://news.bbcimg.co.uk/view/3_0_21/cream/hi/shared/type.css" />
+
+
+		<link rel="stylesheet" type="text/css" media="screen" href="http://news.bbcimg.co.uk/view/3_0_21/cream/hi/shared/global.css" />
+
+
+	<link rel="stylesheet" type="text/css" media="print" href="http://news.bbcimg.co.uk/view/3_0_21/cream/hi/shared/print.css" />
+
+	<link rel="stylesheet" type="text/css" media="screen and (max-device-width: 976px)" href="http://news.bbcimg.co.uk/view/3_0_21/cream/hi/shared/mobile.css" />
+	
+
+
+
+<link rel="stylesheet" type="text/css" href="http://news.bbcimg.co.uk/view/3_0_21/cream/hi/shared/components/components.css" />
+
+<![endif]-->
+<!--[if !IE]>-->
+   	<link rel="stylesheet" type="text/css" href="http://news.bbcimg.co.uk/view/3_0_21/cream/hi/shared/type.css" />
+
+
+		<link rel="stylesheet" type="text/css" media="screen" href="http://news.bbcimg.co.uk/view/3_0_21/cream/hi/shared/global.css" />
+
+
+	<link rel="stylesheet" type="text/css" media="print" href="http://news.bbcimg.co.uk/view/3_0_21/cream/hi/shared/print.css" />
+
+	<link rel="stylesheet" type="text/css" media="screen and (max-device-width: 976px)" href="http://news.bbcimg.co.uk/view/3_0_21/cream/hi/shared/mobile.css" />
+	
+
+
+
+<link rel="stylesheet" type="text/css" href="http://news.bbcimg.co.uk/view/3_0_21/cream/hi/shared/components/components.css" />
+
+<!--<![endif]-->
+<script type="text/javascript">
+/*<![CDATA[*/
+gloader.load(["glow","1","glow.dom"],{onLoad:function(glow){glow.dom.get("html").addClass("blq-js")}});
+gloader.load(["glow","1","glow.dom"],{onLoad:function(glow){glow.ready(function(){if (glow.env.gecko){var gv = glow.env.version.split(".");for (var i=gv.length;i<4;i++){gv[i]=0;}if((gv[0]==1 && gv[1]==9 && gv[2]==0)||(gv[0]==1 && gv[1]<9)||(gv[0]<1)){glow.dom.get("body").addClass("firefox-older-than-3-5");}}});}});
+
+window.disableFacebookSDK=true;
+if (window.location.pathname.indexOf('+')>=0){window.disableFacebookSDK=true;}
+
+/*]]>*/
+</script>
+<script type="text/javascript" src="http://news.bbcimg.co.uk/js/locationservices/locator/v4_0/locator.js"></script>
+
+<script type="text/javascript" src="http://news.bbcimg.co.uk/js/core/3_3_1/bbc_fmtj.js"></script>
+
+<script type="text/javascript">
+<!--
+	bbc.fmtj.page = {
+		serverTime: 1422407022000,
+		editionToServe: 'domestic',
+		queryString: null,
+		section: 'business',
+		sectionPath: '/Business',
+		siteName: 'BBC News',
+		siteToServe: 'news',
+		siteVersion: 'cream',
+		storyId: '29641109',
+		assetType: 'media_asset',
+		uri: '/news/business-29641109',
+		country: 'nz',
+		masthead: false,
+		adKeyword: null,
+		templateVersion: 'v1_0',
+		counterName: 'news.business.media_asset.29641109.page'
+	}
+-->
+</script>
+<script type="text/javascript" src="http://news.bbcimg.co.uk/js/common/3_2_1/bbc_fmtj_common.js"></script>
+
+
+<script type="text/javascript">$useMap({map:"http://news.bbcimg.co.uk/js/map/map_0_0_35.js"});</script>
+<script type="text/javascript">$loadView("0.0",["bbc.fmtj.view"]);</script>
+<script type="text/javascript">$render("livestats-heatmap");</script>
+
+
+<script type="text/javascript" src="http://news.bbcimg.co.uk/js/config/apps/4_7_2/bbc_fmtj_config.js"></script>
+
+
+<!-- add Bump3 to the require map -->
+
+<script type="text/javascript">
+    if (typeof bbcRequireMap !== 'undefined' && bbcRequireMap["jquery-1.9"] === undefined && bbcRequireMap["jquery-1"]) {
+        var jquery19Path = bbcRequireMap["jquery-1"].replace(/0.(1|2).(1|4)/, '0.3.0').replace(/jquery-1.(5|7).(1|2)/, 'jquery-1.9.1');
+        require({
+            paths : {
+                "jquery-1.9": jquery19Path
+            }
+        });
+    }
+    if (typeof bbcRequireMap !== 'undefined' && bbcRequireMap["swfobject-2"]) {
+        require({
+            paths : {
+                "swfobject-2": bbcRequireMap["swfobject-2"].replace('0.1.3', '0.1.10')
+            }
+        });
+    }
+</script>
+
+<script type="text/javascript">
+    require({
+        paths : {
+            "bump-3": "http://emp.bbci.co.uk/emp/bump-3/bump-3"
+        }
+    });
+</script>
+
+
+
+<!-- load glow and required modules -->
+<script type="text/javascript">
+//<![CDATA[
+gloader.load(['glow', '1', 'glow.dom']);
+//]]>
+</script>
+
+
+<!-- pull in our emp code -->
+<script type="text/javascript" src="http://news.bbcimg.co.uk/js/app/av/emp/2_1_8/emp.js"></script>
+<!-- pull in compatibility.js -->
+<script type="text/javascript" src="http://news.bbcimg.co.uk/js/app/av/emp/2_1_8/compatibility.js"></script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+
+
+
+    
+
+
+
+    
+
+
+// set site specific config
+
+bbc.fmtj.av.emp.configs.push('news');
+
+
+require(['jquery-1'], function ($) {
+    $(document).ready(function () {
+        bbc.fmtj.av.emp.loadAll();
+    });
+});
+//]]>
+
+</script>
+<!-- Check for advertising testing -->
+
+<meta name="viewport" content="width = 996" />
+
+
+
+        <!-- shared/head_media_asset -->
+<!-- THESE STYLESHEETS VARY ACCORDING TO PAGE CONTENT -->
+
+<link rel="stylesheet" type="text/css" media="screen" href="http://news.bbcimg.co.uk/view/3_0_21/cream/hi/shared/layout/media_asset.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="http://news.bbcimg.co.uk/view/3_0_21/cream/hi/shared/media_asset.css" />
+
+
+<!-- js mediaAsset view -->
+<script type="text/javascript">$loadView("0.0",["bbc.fmtj.view.news.mediaAsset"]);</script>
+
+<!-- EMP -->
+<script type="text/javascript" src="http://news.bbc.co.uk/js/app/av/emp/compatibility.js"></script>
+<!-- /EMP -->
+
+        
+        <!-- #CREAM hi news domestic head.inc -->
+
+<script type="text/javascript">
+	if(undefined !== bbc && undefined !== bbc.fmtj){
+		bbc.fmtj.makeNewsSurveyConfig = function(surveyId,probabilityRate){	
+			if(surveyId !== undefined){
+				pulse.localSurvey = {
+					'active' : true,
+					'URLFormat' : 'http://ecustomeropinions.com/survey/survey.php?sid='+ surveyId,
+					'probability' : probabilityRate,
+					'translations' : {
+						'intro' : 'We are always looking to improve the site and your opinions count.',
+						'question' : 'Do you have a few minutes to tell us what you think about this site?'
+					}				
+				}
+							
+							
+			}
+		};
+	}
+	</script>
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- MVT ENABLED:no -->
+    
+
+                            <!-- is suitable for ads adding isadvertise ... -->
+			
+
+			 
+
+			
+	<!-- features_enabled.inc -->
+
+	
+	
+<script type="text/javascript">/*<![CDATA[*/if(bbcdotcom===undefined){var bbcdotcom={init:function(a){},objects:function(a){return false},domLoaded:false,data:{ads:0,stats:0,statsProvider:null},adverts:{slot:function(b,a){},layout:{reset:function(){}}},config:{isActive:function(a){return false}},addLoadEvent:function(a){var b=window.onload;if(typeof window.onload!=="function"){window.onload=a}else{window.onload=function(){if(b){b()}a()}}}}}bbcdotcom.objects=function(e,f,g){var d,a,c=arguments,b=e.split(".");if(f===undefined){f="valid"}if(g===undefined){g=window}for(d=0,a=b.length;d<a;d++){if(g[b[d]]===undefined){if(f==="create"){g[b[d]]={}}else{return false}}else{if(typeof g[b[d]]==="function"){if(typeof c[1]!=="undefined"&&c[1]!==null&&g[b[d]](c[1])!==undefined){return g[b[d]](c[1])}else{if(g[b[d]]()!==undefined){return g[b[d]]()}}}}g=g[b[d]]}return g};bbcdotcom.objects("bbcdotcom.stats","create");if(BBC===undefined){var BBC={}}if(BBC.adverts===undefined){BBC.adverts={setZone:function(){},configure:function(){},write:function(){},show:function(){},isActive:function(){return false},setScriptRoot:function(){},setImgRoot:function(){},getAdvertTag:function(){},getSectionPath:function(){}}};/*]]>*/</script>
+<meta name="application-name" content="BBC"/>
+<meta name="msapplication-tooltip" content="Explore the BBC, for latest news, sport and weather, TV &amp; radio schedules and highlights, with nature, food, comedy, children's programmes and much more"/>
+
+	<meta name="msapplication-starturl" content="http://www.bbc.com/news/?ocid=global-news-pinned-ie9"/>
+
+<meta name="msapplication-window" content="width=1024;height=768"/>
+<meta name="msapplication-task" content="name=BBC Home;action-uri=http://www.bbc.com/?ocid=global-homepage-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico" />
+<meta name="msapplication-task" content="name=BBC News;action-uri=http://www.bbc.com/news/?ocid=global-news-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico" />
+<meta name="msapplication-task" content="name=BBC Sport;action-uri=http://www.bbc.com/sport/0/?ocid=global-sport-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico" />
+<meta name="msapplication-task" content="name=BBC Future;action-uri=http://www.bbc.com/future?ocid=global-future-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico" />
+<meta name="msapplication-task" content="name=BBC Travel;action-uri=http://www.bbc.com/travel?ocid=global-travel-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico" />
+<meta name="msapplication-task" content="name=BBC Weather;action-uri=http://www.bbc.co.uk/weather/?ocid=global-weather-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico" />
+
+
+<!-- BBCCOM client-side -->
+
+
+<style type="text/css">.bbccom_display_none{display:none;}</style>
+
+
+<script type="text/javascript">/*<![CDATA[*/
+    if (typeof orb !== 'undefined' && typeof orb.fig === 'function') {
+        bbcdotcom.data = {
+            a: orb.fig('ad')? 1 : 0,
+            b: (0 == orb.fig('uk')) ? 1 : 0,
+            c: orb.fig('ap')
+        };
+    } else {
+        document.write(unescape('%3Cscript type="text/javascript" src="http://tps.bbc.com/wwscripts/data"%3E%3C/script%3E'));
+    }
+/*]]>*/</script>
+<script type="text/javascript">/*<![CDATA[*/
+    if (typeof bbcdotcom.data == 'undefined' || typeof bbcdotcom.data.a == 'undefined' || typeof bbcdotcom.data.b == 'undefined' || typeof bbcdotcom.data.c == 'undefined') {
+        bbcdotcom.data = {a:0,b:0,c:0};
+    }
+    if (bbcdotcom.data.a == 1) {
+        document.write(unescape('%3Clink href="http://news.bbcimg.co.uk/css/screen/shared/0.3.300/3pt_ads.css" rel="stylesheet" type="text/css" /%3E'));
+        
+            document.write(unescape('%3Cscript type="text/javascript" src="http://www.bbc.co.uk/wwscripts/flag"%3E%3C/script%3E'));
+        
+    }
+/*]]>*/</script>
+<script type="text/javascript">/*<![CDATA[*/
+    if (typeof bbcdotcom.flag == 'undefined' || bbcdotcom.flag.a != 1) {
+        bbcdotcom.data.a = 0;
+    }
+/*]]>*/</script>
+
+
+
+
+
+<!-- BEGIN Krux Control Tag for "BBC.com News" -->
+<script class="kxct" data-id="JZTWpGsM" data-timing="async" data-version="1.9" type="text/javascript">
+    /*<![CDATA[*/
+    if (bbcdotcom.data.a == 1 || bbcdotcom.data.b == 1) {
+        window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
+        (function(){
+            var k=document.createElement('script');k.type='text/javascript';k.async=true;
+            var m,src=(m=location.href.match(/\bkxsrc=([^&]+)/))&&decodeURIComponent(m[1]);
+            k.src = /^https?:\/\/([a-z0-9_\-\.]+\.)?krxd\.net(:\d{1,5})?\//i.test(src) ? src : src === "disable" ? "" :
+                (location.protocol==="https:"?"https:":"http:")+"//cdn.krxd.net/controltag?confid=JZTWpGsM"
+            ;
+            var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);
+        }());
+    }
+    /*]]>*/
+</script>
+<!-- END Krux Controltag -->
+<script type="text/javascript">
+    /*<![CDATA[*/
+    if (bbcdotcom.data.a == 1 || bbcdotcom.data.b == 1) {
+        window.Krux||((Krux=function(){Krux.q.push(arguments);}).q=[]);
+        (function(){
+            function  retrieve(n){
+                var  m,  k='kx'+n;
+                if  (window.localStorage)  {
+                    return  window.localStorage[k]  ||  "";
+                }  else  if  (navigator.cookieEnabled)  {
+                    m  =  document.cookie.match(k+'=([^;]*)');
+                    return  (m  &&  unescape(m[1]))  ||  "";
+                }  else  {
+                    return  '';
+                }
+            }
+            Krux.user  =  retrieve('user');
+            Krux.segments  =  retrieve('segs')  ?  retrieve('segs').split(',')  :  [];
+            //  DFP  Premium
+            var  dfpp  =  [];
+            if  (Krux.user)  {
+                dfpp.push('khost='  +  encodeURIComponent(location.hostname));
+                dfpp.push('kuid='  +  Krux.user);
+            }
+            for  (var  i  =  0;  i  <  Krux.segments.length;  i++  )  {
+                dfpp.push('ksg='  +  Krux.segments[i]);
+            }
+            Krux.dfppKeyValues  =  dfpp.length  ?  dfpp.join(';')  +  ';'  :  '';
+        })();
+    }
+    /*]]>*/
+</script>
+
+<script type="text/javascript">/*<![CDATA[*/
+    if (bbcdotcom.data.a == 1 || bbcdotcom.data.b == 1) {
+        
+            document.write(unescape('%3Cscript type="text/javascript" src="http://news.bbcimg.co.uk/js/app/bbccom/0.3.300/bbccom_all.js"%3E%3C/script%3E'));
+        
+    }
+/*]]>*/</script>
+<script type="text/javascript">/*<![CDATA[*/
+    if (bbcdotcom.data.a == 1 || bbcdotcom.data.b == 1) {
+        BBC.adverts.setData(bbcdotcom.data);
+        bbcdotcom.config.setAdsEnabled(bbcdotcom.data.a);
+        bbcdotcom.config.setAnalyticsEnabled(bbcdotcom.data.b);
+        bbcdotcom.dataOrb = {
+            ads: bbcdotcom.data.a,
+            stats: bbcdotcom.data.b,
+            statsProvider: bbcdotcom.data.c
+        };
+        bbcdotcom.config.init(undefined, bbcdotcom.dataOrb, window.location, window.document);
+        if(typeof bbcdotcom !== 'undefined' && typeof bbcdotcom.survey !== 'undefined' && typeof bbcdotcom.survey.init === 'function') {
+            bbcdotcom.survey.init();
+        }
+    }
+    /*
+     * Native remove content for UK visitors
+     */
+    (function() {
+        if (bbcdotcom.data.b == 0) {
+            var adKeyword = bbcdotcom.objects('bbc.fmtj.page.adKeyword');
+            if(adKeyword && adKeyword !== null && typeof adKeyword === 'string' && adKeyword.indexOf('native-') !== -1) {
+                document.write('<style >' +
+                                    '#storypage-container .story-body {display:none;}' +
+                                    '#native-uk-disclaimer {border: 2px solid;margin: 8px;padding: 16px;}' +
+                                '</style>');
+                require(['jquery-1'], function($) {
+                    $(function(){
+                        /* Native advertising disclaimer */
+                        $( ".story-body" ).html('<div id="native-uk-disclaimer">' +
+                            '<h1>BBC Sport (International version)</h1>' +
+                            'We\'re sorry but this article is not accessible from the UK as it is part of our ' +
+                            'international service and is not funded by the license fee.' +
+                            '</div>');
+                        $( ".story-body" ).show();
+                    });
+                });
+            }
+        }
+    }());
+    bbcdotcom.objects('page', 'create', bbcdotcom);
+    bbcdotcom.page.edition = '(none)';
+    bbcdotcom.page.url = '/news/business-29641109';
+    bbcdotcom.page.zoneFile = '3pt_zone_file';
+    bbcdotcom.page.http_host = 'www.bbc.co.uk';
+    
+    
+/*]]>*/</script>
+<script type="text/javascript">/*<![CDATA[*/if(bbcdotcom.data.a == 1){(function(){switch(bbcdotcom.page.url){case"/":case"/default.stm":bbcdotcom.page.url=(bbcdotcom.page.edition==="domestic")?"/1/hi/default.stm":"/2/hi/default.stm";break;case"/sport":case"/sport/":case"/sport/default.stm":bbcdotcom.page.url=(bbcdotcom.page.edition==="domestic")?"/sport1/hi/default.stm":"/sport2/hi/default.stm";break}BBC.adverts.setScriptRoot("http://news.bbcimg.co.uk/js/app/bbccom/0.3.300/");bbcdotcom.config.setJsPrefix("http://news.bbcimg.co.uk/js/app/bbccom/0.3.300");bbcdotcom.config.setSwfPrefix("http://news.bbcimg.co.uk/shared/swf/bbccom/0.3.300");bbcdotcom.config.setCssPrefix("http://news.bbcimg.co.uk/css/screen/shared/0.3.300");BBC.adverts.setImgRoot("http://news.bbcimg.co.uk/shared/img/bbccom/");BBC.adverts.init({domain:bbcdotcom.page.http_host,location:bbcdotcom.page.url,zoneVersion:bbcdotcom.page.zoneFile,zoneReferrer:document.referrer})}());(function(){if(typeof require!=="undefined"){require({paths:{bbcdotcom:"http://news.bbcimg.co.uk/js/app/bbccom/0.3.300"}})}})();if(BBC.adverts.getV6Gvl3()&&"undefined"!==typeof bbcdotcom.page.bddUseLatestFromTest){document.write(unescape('%3Cscript type="text/javascript" src="http://wwwpreview.test.newsonline.tc.nca.bbc.co.uk/js/app/bbccom/'+bbcdotcom.latest_version+'/advert.js"'))}else{if(BBC.adverts.getV6Gvl3()){document.write(unescape('%3Cscript type="text/javascript" src="http://news.bbcimg.co.uk/js/app/bbccom/0.3.300/advert.js"%3E%3C/script%3E'))}}if(/[?|&]metadata=yes(&|$)/.test(window.location.search)){document.write("http://www.test.bbc.com/wwscripts/metadata?bbcdotcom_asset="+window.location.hostname+window.location.pathname)};}/*]]>*/</script>
+<script type="text/javascript">
+    /*<![CDATA[*/
+    if (BBC.adverts.isActive('ads')) {
+        document.write(unescape('%3Cscript id="gnlAdsEnabled" class="bbccom_display_none"%3E%3C/script%3E'));
+    }
+    if (BBC.adverts.isActive('analytics')) {
+        document.write(unescape('%3Cscript id="gnlAnalyticsEnabled" class="bbccom_display_none"%3E%3C/script%3E'));
+    }
+    /*]]>*/
+</script>
+<script type="text/javascript">
+    require({
+        paths:{
+            "bbcdotcom": "http://news.bbcimg.co.uk/js/app/bbccom/0.3.300"
+        }
+    });
+</script>
+
+<script type="text/javascript">
+    /*<![CDATA[*/
+    document.write(unescape('%3Cscript id="continuous-play-enabled" class="bbccom_display_none"%3E%3C/script%3E'));
+    /*]]>*/
+</script>
+
+
+
+    
+        
+
+<script type="text/javascript">
+	if(typeof BBC.adverts != 'undefined' && typeof BBC.adverts.setPageVersion != 'undefined'){
+		BBC.adverts.setPageVersion('(none)');
+	}
+</script>
+
+
+    
+
+        		<!-- hi/news/head_last.inc -->
+
+<script type="text/javascript">
+    (function () {
+        var beta_cookie = {
+            name: "ckps_tablet_beta",
+            urlQueryString: "tablet-beta",
+            optInValue: "i",
+            optOutValue: "o"
+        },
+
+        preference_cookie = {
+            name: "ckps_d",
+            tabletValue: "t"
+        },
+
+        beta_domain = window.location.hostname.match(/com/) ? "http://m.bbc.com" : "http://m.bbc.co.uk",
+
+        redirect_blacklist = [
+            'market_data'
+        ],
+
+        getParameterByName = function (name) {
+            var match = RegExp('[?&]' + name + '=([^&]*)').exec(window.location.search);
+            return match && decodeURIComponent(match[1].replace(/\+/g, ' '));
+        },
+
+        getCookieValue = function (cookie) {
+            var cookies = document.cookie.split(";");
+            var optInCookie;
+            var optInCookieValue;
+            var cookieIndex = cookies.length;
+
+            while(cookieIndex--) {
+                if(cookies[cookieIndex].indexOf(cookie.name) > -1) {
+                    optInCookie = cookies[cookieIndex];
+                    optInCookieValue = optInCookie.split('=').pop();
+
+                    return optInCookieValue;
+                }
+            }
+
+            return "";
+        },
+
+        setCookie = function (cookieToSet, valueToSet, days) {
+            days = days || 120;
+            var path = "/";
+            var domain = window.location.hostname.match(/com/) ? ".bbc.com" : ".bbc.co.uk";
+            var date = new Date();
+            date.setTime(date.getTime() + days*24*60*60*1000);
+            var expires = "; expires=" + date.toGMTString();
+            document.cookie = cookieToSet + "=" + valueToSet + expires + "; path=" + path + "; domain=" + domain;
+        },
+
+        redirectToBetaDomain = function () {
+            window.location = beta_domain + window.location.pathname;
+        },
+
+        instructedToOptOut = function() {
+            return getParameterByName(beta_cookie.urlQueryString) === beta_cookie.optOutValue;
+        },
+
+        isOptedIn = function() {
+            return getCookieValue(beta_cookie).indexOf(beta_cookie.optInValue) > -1;
+        },
+
+        isTabletPreferred = function() {
+            return getCookieValue(preference_cookie).indexOf(preference_cookie.tabletValue) > -1;
+        },
+
+        isStaticDomain = function() {
+            return window.location.host.match(/(nca|www\.int|www\.test|www\.stage|www)\.bbc\.(co\.uk|com)/);
+        },
+
+        isPathRedirectable = function() {
+            var i = redirect_blacklist.length;
+            while(i--) {
+                if (window.location.pathname.indexOf(redirect_blacklist[i]) > -1) {
+                    return false;
+                }
+            }
+            return true;
+        },
+
+        execute = function() {
+            if (instructedToOptOut()) {
+                setCookie(beta_cookie.name, beta_cookie.optOutValue);
+            }
+            if (isOptedIn() && isTabletPreferred() && isStaticDomain() && isPathRedirectable()) {
+                redirectToBetaDomain();
+            }
+        };
+
+        return {
+            execute: execute
+        };
+
+    })().execute();
+</script>
+
+<script type="text/javascript">
+
+function BetaSite() {
+  function setMobileCookie() {
+    var d = new Date ();
+    d.setDate(d.getDate() + 1);
+    d = d.toUTCString();
+
+    window.bbccookies.set('ckps_d=m;domain=.bbc.co.uk;path=/;expires=' + d );
+    window.bbccookies.set('ckps_d=m;domain=.bbc.com;path=/;expires=' + d );
+  }
+
+  function isValidQueryString() {
+    return (window.location.search.indexOf('view=beta') !== -1);
+  }
+
+  function isClientCapable() {
+    return ('querySelector' in document && 'localStorage' in window && 'addEventListener' in window);
+  }
+
+  if (isClientCapable() && isValidQueryString()) {
+    setMobileCookie();
+
+    window.location.host = 'm.bbc.co.uk';
+  }
+}
+
+BetaSite();
+
+</script>
+
+
+<link rel="stylesheet" type="text/css" media="screen" href="http://news.bbcimg.co.uk/view/1_4_38/cream/hi/news/skin.css" />
+
+
+<link rel="apple-touch-icon" href="http://news.bbcimg.co.uk/img/1_0_3/cream/hi/news/iphone.png"/>
+<script type="text/javascript">
+    bbcRequireMap['module/weather'] = '/inc/specials/cream/hi/news/personalisation/weather';
+    bbcRequireMap['module/local'] = '/inc/specials/cream/hi/news/personalisation';
+    bbcRequireMap['module/localnewsandweather'] = '/inc/specials/cream/hi/news/personalisation/localnewsandweather';
+    bbcRequireMap['translation'] = 'module/translations/en-GB';
+    require({ baseUrl: 'http://static.bbci.co.uk/', paths: bbcRequireMap, waitSeconds: 30 });
+</script>
+<script type="text/javascript">
+
+
+
+require(['jquery-1'], function(jQuery) {
+    jQuery.ajaxSetup({cache: true})
+});
+
+require(["jquery-1", "istats-1"], function ($, istats) {
+    $(function() {
+        istats.track('external', {region: $('.story-body'), linkLocation : 'story-body'});
+        istats.track('external', {region: $('.story-related .related-links'), linkLocation : 'related-links'});
+        istats.track('external', {region: $('.story-related .newstracker-list'), linkLocation : 'newstracker'});
+    });
+});
+
+</script>
+
+
+
+
+
+	
+    		
+		
+	
+    	
+   
+
+<!-- CPS COMMENT STATUS: false -->
+
+
+
+
+
+
+        <!--Rendered by NOLAPPS702-6002@2015-01-19T07:30:54+00:00 -->
+
+        <link rel="schema.dcterms" href="http://purl.org/dc/terms/" />
+	   <meta name="DCTERMS.created" content="2014-10-16T10:03:53+00:00" />
+	   <meta name="DCTERMS.modified" content="2014-10-16T12:07:17+00:00" />
+    </head>
+
+        	    <!--[if lte IE 6]><body class="news ie disable-wide-advert"><![endif]-->
+    <!--[if IE 7]><body class="news ie7 disable-wide-advert"><![endif]-->
+    <!--[if IE 8]><body class="news ie8 disable-wide-advert"><![endif]-->
+    <!--[if !IE]>--><body class="news disable-wide-advert"><!--<![endif]-->
+	
+
+
+<div class="livestats-web-bug" id="livestats-web-bug-tag"></div>
+
+<script type="text/JavaScript">
+	var referrer = document.referrer;
+
+	var livestatsBug = "<img alt='' id='livestats' src='http://stats.bbc.co.uk/o.gif?~RS~s~RS~News~RS~t~RS~HighWeb_AV~RS~i~RS~29641109~RS~p~RS~99104~RS~a~RS~Domestic~RS~u~RS~/news/business-29641109~RS~r~RS~"+referrer+"~RS~q~RS~~RS~z~RS~42~RS~'>";
+
+
+	document.getElementById('livestats-web-bug-tag').innerHTML = livestatsBug;
+</script>
+
+
+<noscript>
+<div class="livestats-web-bug"><img alt="" id="livestats" src="http://stats.bbc.co.uk/o.gif?~RS~s~RS~News~RS~t~RS~HighWeb_AV~RS~i~RS~29641109~RS~p~RS~99104~RS~a~RS~Domestic~RS~u~RS~/news/business-29641109~RS~q~RS~~RS~z~RS~42~RS~"/></div>
+</noscript>
+        
+	
+    <!-- BBCDOTCOM body first include -->
+    
+
+<script type="text/javascript">BBC.adverts.write("wallpaper",false);</script>
+<script type="text/javascript">/*<![CDATA[*/BBC.adverts.wallpaperBodyTag=document.getElementsByTagName("body");BBC.adverts.wallpaperATag=document.getElementsByTagName("a");if("undefined"!=typeof BBC.adverts.wallpaperATag&&"undefined"!=typeof BBC.adverts.wallpaperATag[0]&&"undefined"!=typeof BBC.adverts.wallpaperBodyTag&&"undefined"!=typeof BBC.adverts.wallpaperBodyTag[0]&&-1!==BBC.adverts.wallpaperATag[0].href.indexOf("http://ad.doubleclick.net")){BBC.adverts.wallpaperBodyTag[0].removeChild(BBC.adverts.wallpaperATag[0])};/*]]>*/</script>
+
+
+	
+	
+
+       <!-- BBCDOTCOM body first -->
+         <!-- ISTATS -->
+
+
+
+    
+
+
+
+
+
+
+ <script type="text/javascript">/*<![CDATA[*/ bbcFlagpoles_istats = 'ON'; istatsTrackingUrl = '//sa.bbc.co.uk/bbc/bbc/s?name=news.business.media_asset.29641109.page&cps_asset_id=29641109&page_type=media_asset&section=business&app_version=6.2.218-RC1&first_pub=2014-10-16T10:03:53+00:00&last_editorial_update=2014-10-16T12:07:17+00:00&title=Wealth+report+-+in+60+seconds&comments_box=false&cps_media_type=video&cps_media_state=ondemand&by_nation=&app_type=web&ml_name=SSI&ml_version=0.25.1&language=en-GB'; if (window.istats_countername) { istatsTrackingUrl = istatsTrackingUrl.replace(/([?&]name=)[^&]+/ig, '$1' + istats_countername); } (function() { if ( /\bIDENTITY=/.test(document.cookie) ) { istatsTrackingUrl += '&bbc_identity=1'; } var c = (document.cookie.match(/\bckns_policy=(\d\d\d)/)||[]).pop() || ''; istatsTrackingUrl += '&bbc_mc=' + (c? 'ad'+c.charAt(0)+'ps'+c.charAt(1)+'pf'+c.charAt(2) : 'not_set'); if ( /\bckns_policy=\d\d0/.test(document.cookie) ) { istatsTrackingUrl += '&ns_nc=1'; } var screenWidthAndHeight = 'unavailable'; if (window.screen && screen.width && screen.height) { screenWidthAndHeight = screen.width + 'x' + screen.height; } istatsTrackingUrl += ('&screen_resolution=' + screenWidthAndHeight); istatsTrackingUrl += '&blq_s=3.5d&blq_r=3.5&blq_v=journalism-domestic&blq_e=webservice-HTML'; })(); /*]]>*/</script>  <!-- Begin iStats 20100118 (UX-CMC 1.1009.3) --> <script type="text/javascript">/*<![CDATA[*/ (function() { window.istats || (istats = {}); var cookieDisabled = (document.cookie.indexOf('NO-SA=') != -1), hasCookieLabels = (document.cookie.indexOf('sa_labels=') != -1), hasClickThrough = /^#sa-(.*?)(?:-sa(.*))?$/.test(document.location.hash), runSitestat = !cookieDisabled && !hasCookieLabels && !hasClickThrough && !istats._linkTracked; if (runSitestat && bbcFlagpoles_istats === 'ON') { sitestat(istatsTrackingUrl); } else { window.ns_pixelUrl = istatsTrackingUrl; /* used by Flash library to track */ } function sitestat(n){var j=document,f=j.location,b="";if(j.cookie.indexOf("st_ux=")!=-1){var k=j.cookie.split(";");var e="st_ux",h=document.domain,a="/";if(typeof ns_!="undefined"&&typeof ns_.ux!="undefined"){e=ns_.ux.cName||e;h=ns_.ux.cDomain||h;a=ns_.ux.cPath||a}for(var g=0,f=k.length;g<f;g++){var m=k[g].indexOf("st_ux=");if(m!=-1){b="&"+unescape(k[g].substring(m+6))}}document.cookie=e+"=; expires="+new Date(new Date().getTime()-60).toGMTString()+"; path="+a+"; domain="+h}ns_pixelUrl=n;n=ns_pixelUrl+"&ns__t="+(new Date().getTime())+"&ns_c="+((j.characterSet)?j.characterSet:j.defaultCharset)+"&ns_ti="+escape(j.title)+b+"&ns_jspageurl="+escape(f&&f.href?f.href:j.URL)+"&ns_referrer="+escape(j.referrer);if(n.length>2000&&n.lastIndexOf("&")){n=n.substring(0,n.lastIndexOf("&")+1)+"ns_cut="+n.substring(n.lastIndexOf("&")+1,n.lastIndexOf("=")).substring(0,40)}(j.images)?new Image().src=n:j.write('<p><i'+'mg src="'+n+'" height="1" width="1" alt="" /></p>')}; })(); /*]]>*/</script> <noscript><p style="position: absolute; top: -999em;"><img src="//sa.bbc.co.uk/bbc/bbc/s?name=news.business.media_asset.29641109.page&amp;cps_asset_id=29641109&amp;page_type=media_asset&amp;section=business&amp;app_version=6.2.218-RC1&amp;first_pub=2014-10-16T10:03:53+00:00&amp;last_editorial_update=2014-10-16T12:07:17+00:00&amp;title=Wealth+report+-+in+60+seconds&amp;comments_box=false&amp;cps_media_type=video&amp;cps_media_state=ondemand&amp;by_nation=&amp;app_type=web&amp;ml_name=SSI&amp;ml_version=0.25.1&amp;language=en-GB&amp;blq_s=3.5d&amp;blq_r=3.5&amp;blq_v=journalism-domestic&amp;blq_e=webservice-HTML" height="1" width="1" alt="" /></p></noscript> <!-- End iStats (UX-CMC) -->   <div id="blq-global"> <noscript> <div id="blq-no-js-banner"> <p>For a better experience on your device, try our <a href="http://m.bbc.co.uk">mobile site</a>.</p> </div> </noscript> <div id="blq-pre-mast" xml:lang="en-GB"> <!-- Pre mast --> 
+<!-- BBCDOTCOM leaderboard template:client-side journalismVariant: true ipIsAdvertiseCombined: true adsEnabled: false flagpole: ON showAdAboveBlq: true blqLeaderboardAd: true -->
+ </div> </div>  <script type="text/html" id="blq-bbccookies-tmpl"><![CDATA[ <div id="bbccookies-prompt" class="bbccookies-w"> <h2> Cookies on the BBC website </h2> <p> We use cookies to ensure that we give you the best experience on our website.<span class="bbccookies-international-message"> We also use cookies to ensure we show you advertising that is relevant to you.</span> If you continue without changing your settings, we'll assume that you are happy to receive all cookies on the BBC website. However, if you would like to, you can <a href="/privacy/cookies/managing/cookie-settings.html">change your cookie settings</a> at any time. </p> <ul> <li id="bbccookies-continue"> <button type="button" id="bbccookies-continue-button">Continue</button> </li> <li id="bbccookies-more"><a href="/privacy/cookies/bbc">Find out more</a></li></ul> </div> ]]></script> <script type="text/javascript">/*<![CDATA[*/ (function(){if(bbccookies._showPrompt()){var i=document,b=i.getElementById("blq-pre-mast"),f=i.getElementById("blq-global"),h=i.getElementById("blq-container"),c=i.getElementById("blq-bbccookies-tmpl"),a,g,e;if(b&&i.createElement){a=i.createElement("div");a.id="bbccookies";e=c.innerHTML;e=e.replace("<"+"![CDATA[","").replace("]]"+">","");a.innerHTML=e;if(f){f.insertBefore(a,b)}else{h.insertBefore(a,b)}g=i.getElementById("bbccookies-continue-button");g.onclick=function(){a.parentNode.removeChild(a);return false};bbccookies._setPolicy()}}})(); /*]]>*/</script>  <div id="blq-masthead" class="blq-clearfix blq-mast-bg-transparent-light blq-lang-en-GB blq-ltr"> <span id="blq-mast-background"><span></span></span>  <div id="blq-mast" class="blq-rst">  <div id="blq-mast-bar" class="blq-masthead-container blq-journalism-domestic"> <div id="blq-blocks"> <a href="http://www.bbc.co.uk/" hreflang="en-GB"> <abbr title="British Broadcasting Corporation" class="blq-home"> <img src="http://static.bbci.co.uk/frameworks/barlesque/2.83.4/desktop/3.5/img/blq-blocks_grey_alpha.png" alt="BBC" width="84" height="24" /> </abbr> </a> </div> <div id="blq-acc-links"> <h2 id="page-top">Accessibility links</h2> <ul>  <li><a href="#main-content">Skip to content</a></li>  <li><a href="#blq-local-nav">Skip to local navigation</a></li>  <li><a href="http://www.bbc.co.uk/accessibility/">Accessibility Help</a></li> </ul> </div> <div id="blq-sign-in" class="blq-gel">   <div id="id-status" class="blq-id-v4"> <div class="id-out id-gel"> <h2 class="blq-hide">BBC iD</h2> <a href="https://ssl.bbc.co.uk/id/status?ptrt=http://www.bbc.co.uk/news/business-29641109" id="blq-idstatus-link"> <span class="id-icon"> <span></span> </span> <span id="blq-idstatus-text"> BBC iD </span> <span class="id-spinner"></span> <span class="blq-dropdown-arrow"> <span></span> </span> </a> </div> <div id="id-status-nav" > <div class="id-in blq-rst"> <ul> <li> <a name="idDash" class="blq-nogo has-ptrt idDash" href="https://ssl.bbc.co.uk/id/settings"> Settings </a> </li> <li> <a name="idSignout" class="blq-nogo has-ptrt idSignout" href="https://ssl.bbc.co.uk/id/signout?ptrt=http://www.bbc.co.uk/news/business-29641109"> Sign out </a> </li> </ul> </div> </div> </div>          </div> <div id="blq-nav"> <h2>BBC navigation</h2>     <ul id="blq-nav-main">   <li id="blq-nav-news"> <a href="http://www.bbc.co.uk/news/">News</a> </li>    <li id="blq-nav-sport"> <a href="http://www.bbc.co.uk/sport/">Sport</a> </li>    <li id="blq-nav-weather"> <a href="http://www.bbc.co.uk/weather/">Weather</a> </li>    <li id="blq-nav-iplayer"> <a href="http://www.bbc.co.uk/iplayer/">iPlayer</a> </li>    <li id="blq-nav-tv"> <a href="http://www.bbc.co.uk/tv/">TV</a> </li>    <li id="blq-nav-radio"> <a href="http://www.bbc.co.uk/radio/">Radio</a> </li>    <li id="blq-nav-more"> <a href="http://www.bbc.co.uk/a-z/">More&hellip;</a> </li>   </ul>   <div id="blq-nav-search"> <form method="get" action="http://search.bbc.co.uk/search" accept-charset="utf-8" id="blq-search-form"> <div>  <input type="hidden" name="go" value="toolbar" />  <input type="hidden" value="http://www.bbc.co.uk/news/business-29641109" name="uri" />    <input type="hidden" name="scope" value="news" />  <label for="blq-search-q" class="blq-hide">Search term:</label> <input id="blq-search-q" type="text" name="q" value="" maxlength="128" /> <button id="blq-search-btn" type="submit"><span><img src="http://static.bbci.co.uk/frameworks/barlesque/2.83.4/desktop/3.5/img/blq-search_grey_alpha.png" width="13" height="13" alt="Search"/></span></button> </div> </form> </div>  </div> </div> </div> </div> <div id="blq-container-outer" class="blq-journalism-domestic blq-ltr" >  <div id="blq-container" class="blq-lang-en-GB blq-dotcom"> <div id="blq-container-inner" xml:lang="en-GB">   <div id="blq-main" class="blq-clearfix">   
+	
+
+                        		    	
+		<div class="business  has-no-ticker  main-content-container">
+			<div id="header-wrapper">
+
+			  
+    		      			      				  <h2 id="header">
+    			      	            <a rel="index" href="http://www.bbc.co.uk/news/"><img alt="BBC News" src="http://news.bbcimg.co.uk/img/1_0_3/cream/hi/news/news-blocks.gif" /></a>
+    	                	            	    	            		<span class="section-title">Business</span>
+    	            	    	            		   		      				  </h2>
+    			  			  
+			  
+			    <div class="bbccom_advert_placeholder">
+			      <script type="text/javascript">$render("advert","advert-sponsor-section");</script>
+			    </div>
+			    <script type="text/javascript">$render("advert-post-script-load");</script>
+			  
+		        
+
+			  	            <div id="blq-local-nav">
+ 	            <ul id="nav" class="nav">
+                	
+        	        		                	
+        	            	<li class="first-child "><a href="/news/">Home</a></li>
+                            	
+        	        	        	
+        	            	<li><a href="/news/world/">World</a></li>
+                            	
+        	        	        	
+        	            	<li><a href="/news/uk/">UK</a></li>
+                            	
+        	        	        	
+        	            	<li><a href="/news/england/">England</a></li>
+                            	
+        	        	        	
+        	            	<li><a href="/news/northern_ireland/">N. Ireland</a></li>
+                            	
+        	        	        	
+        	            	<li><a href="/news/scotland/">Scotland</a></li>
+                            	
+        	        	        	
+        	            	<li><a href="/news/wales/">Wales</a></li>
+                            	
+        	        	        	
+        	        		<li class="selected"><a href="/news/business/">Business</a></li>
+        		        		                            	
+        	        	        	
+        	            	<li><a href="/news/politics/">Politics</a></li>
+                            	
+        	        	        	
+        	            	<li><a href="/news/health/">Health</a></li>
+                            	
+        	        	        	
+        	            	<li><a href="/news/education/">Education</a></li>
+                            	
+        	        	        	
+        	            	<li><a href="/news/science_and_environment/">Sci/Environment</a></li>
+                            	
+        	        	        	
+        	            	<li><a href="/news/technology/">Technology</a></li>
+                            	
+        	        	        	
+        	            	<li><a href="/news/entertainment_and_arts/">Entertainment &amp; Arts</a></li>
+                            </ul> 
+        
+	    	      <ul id="sub-nav" class="nav"> 
+	        	        			        	        	
+	        		            	<li class="first-child "><a href="/news/business/market_data/">Market Data</a></li>
+	            	        	        		        	
+	        		            	<li><a href="/news/business/your_money/">Your Money</a></li>
+	            	        	        		        	
+	        		            	<li><a href="/news/business/economy/">Economy</a></li>
+	            	        	        		        	
+	        		            	<li><a href="/news/business/companies/">Companies</a></li>
+	            	        	      </ul> 
+	    	</div>
+
+			  
+	        </div>
+	        <!-- START CPS_SITE CLASS: domestic -->
+	        <div id="content-wrapper" class="domestic">
+
+					<div class="advert">
+											</div>
+                                            <div id="bbccom_custom_branding">
+    <script type="text/javascript">
+        /*<![CDATA[*/
+        if(typeof bbcdotcom.objects('bbcdotcom.branding.init') === 'function') {
+            bbcdotcom.branding.init(BBC.adverts.getZoneData().zone, BBC.adverts.getAdKeyword());
+            bbcdotcom.branding.write();
+        }
+        /*]]>*/
+    </script>
+	<div class="bbccom_advert_placeholder">
+    <script type="text/javascript">
+        /*<![CDATA[*/
+        $render("advert","advert-sponsor-subsection");
+        /*]]>*/
+    </script>
+</div>
+</div>
+<script type="text/javascript">
+        /*<![CDATA[*/
+	$render("advert-post-script-load");
+        /*]]>*/
+</script>
+                    
+	            <!-- START CPS_SITE CLASS: media_asset -->
+	            <div id="main-content" class="media-asset blq-clearfix">
+			<!-- No EWA -->
+
+
+    
+
+
+ 
+        <!-- responsive page is /forge-pal/news/ssi/business-29641109 -->
+    
+    
+    <div id="js-holepunched">
+         <script id="news-loader"> if (document.getElementById("responsive-news")) { window.bbcNewsResponsive = true; } var isIE = (function() { var undef, v = 3, div = document.createElement('div'), all = div.getElementsByTagName('i'); while ( div.innerHTML = '<!--[if gt IE ' + (++v) + ']><i></i><![endif]-->', all[0] ); return v > 4 ? v : undef; }()); var modernDevice = 'querySelector' in document && 'localStorage' in window && 'addEventListener' in window, forceCore = document.cookie.indexOf('ckps_force_core') !== -1, holepunched = isIE > 6 && document.getElementById('js-holepunched'); window.cutsTheMustard = (modernDevice && !forceCore) || holepunched; if (window.cutsTheMustard) { document.documentElement.className += ' ctm'; var insertPoint = document.getElementById('news-loader'), config = {"asset":{"asset_id":"29641109","asset_uri":"\/news\/business-29641109","first_created":{"date":"2014-10-16 08:09:21","timezone_type":3,"timezone":"Europe\/London"},"last_updated":{"date":"2014-10-16 13:07:17","timezone_type":3,"timezone":"Europe\/London"},"options":{"allowRightHandSide":true,"allowRelatedStoriesBox":true,"includeComments":false,"isIgorSeoTagsEnabled":false,"hasNewsTracker":false,"allowAdvertising":true,"hasContentWarning":false,"allowDateStamp":true,"allowHeadline":true,"isKeyContent":false,"allowPrintingSharingLinks":true,"isBreakingNews":false,"suitableForSyndication":true},"section":{"name":"Business","id":"99104","uri":"\/news\/business","urlIdentifier":"\/news\/business"},"edition":"Domestic","audience":null,"iStats_counter_name":"news.business.media_asset.29641109.page","type":"MAP","headline":"Top 1% 'own half global wealth' - Credit Suisse report","isLiveAvStream":false,"mediaType":"video"},"smpBrand":null,"staticHost":"http:\/\/static.bbci.co.uk","environment":"live","locatorVersion":"0.46.3","pathPrefix":"\/nfp","jsPath":"http:\/\/static.bbci.co.uk\/news\/1.57.0145\/js","cssPath":"http:\/\/static.bbci.co.uk\/news\/1.57.0145\/stylesheets\/services\/news","cssPostfix":"","dynamic":null,"features":{"localnews":true,"video":true,"liveeventcomponent":true,"mediaassetpage":true,"travel":true,"gallery":true,"rollingnews":true,"rumanalytics":true,"sportstories":true,"radiopromo":true,"fromothernewssites":true,"locallive":true,"weather":true},"features2":{"chartbeat":true,"connected_stream":true,"nav":true,"pulse_survey":false,"correspondents":true,"explainer_banner":false,"tablet_explainer_banner":true,"blogs":true,"follow_us":true,"multi_client_cache":true,"marketdata_markets":true,"marketdata_shares":true,"politics_vote2014":true,"politics_scotref_polltracker":true,"politics_polltracker":true,"politics_scotref_live":true,"politics_scotref_results":true,"politics_scotref":true,"politics_councils":true,"politics_eu_regions":true,"breaking_news":true,"most_popular":true,"most_popular_tabs":true,"most_popular_by_day":true,"routing":true,"beta_label":true,"rum":true,"radiopromonownext":true,"config_based_layout":true,"orb":true,"enhanced_gallery":true,"top_stories_promo":true,"features_and_analysis":true,"section_labels":true,"index_title":true,"share_tools":true,"local_live_promo":true,"adverts":true,"adexpert":true,"igor_geo_redirect":true,"igor_device_redirect":true,"map":true,"live":true,"comscore_mmx":true,"find_local_news":true,"comments":true,"comments_enhanced":true,"browser_notify":true,"stream_grid_promo":true,"top_stories_max_volume":true,"record_livestats":true,"contact_form":true,"channel_page":true,"portlet_global_variants":true,"suppress_lep_timezone":true},"configuration":{"showtimestamp":"1","showweather":"1","showsport":"1","showolympics":"1","showfeaturemain":"1","showsitecatalyst":"1","candyplatform":"EnhancedMobile","showmap":"1","showwatchlisten":"1","showspecialreports":"","videotopiccandyid":"","showvideofeedsections":"1","showmaprelatedmedia":"1","showmapmostwatched":"1","showmaptopstories":"1","showstorytopstories":"","showstoryfeaturesandanalysis":"1","showstorymostpopular":"","showgallery":"1","cms":"cps","channelpagecandyid":"10318089"},"pollingHost":"http:\/\/polling.bbc.co.uk","service":"news","locale":"en-GB","locatorHost":null,"locatorFlagPole":true,"local":{"allowLocationLookup":true},"isWorldService":false,"rumAnalytics":{"server":"http:\/\/ingest.rum.bbc.co.uk","key":"news","url_params":null,"edition":"domestic"},"isChannelPage":false,"suitenameMap":"","languageVariant":"","commentsHost":"http:\/\/feeds.bbci.co.uk"}; config.configuration['get'] = function (key) { return this[key.toLowerCase()]; };  define('config', function () { return config; }); require.config({ baseUrl: 'http://static.bbci.co.uk/news/1.57.0145/js', paths: {"jquery-1.9":"vendor\/jquery-1\/jquery","jquery-1":"http:\/\/static.bbci.co.uk\/frameworks\/jquery\/0.3.0\/sharedmodules\/jquery-1.7.2","demi-1":"http:\/\/static.bbci.co.uk\/frameworks\/demi\/0.10.0\/sharedmodules\/demi-1","swfobject-2":"http:\/\/static.bbci.co.uk\/frameworks\/swfobject\/0.1.10\/sharedmodules\/swfobject-2","jquery":"vendor\/jquery-2\/jquery.min","domReady":"vendor\/require\/domReady","translation":"module\/translations\/en-GB","bump-3":"\/\/emp.bbci.co.uk\/emp\/bump-3\/bump-3"}, map: { '*': { 'jquery': 'jquery-1.9' } } });  } </script>  <script type="text/javascript"> /*<![CDATA[*/ bbcdotcom.init({adsToDisplay:['']}); /*]]>*/ </script>  
+                <div id="page" class="media-asset-page"> <div class="container-width-only column-clearfix" role="main"> <div class="media-asset column--half"> <div class="story-body"> <div class="story-inner" role="main"> <div class="player-wrapper"> <div id="media-asset-page-video" class="media-placeholder" data-asset-id="29641109">  <img id="media-asset-placeholder" class="placeholder" src="http://news.bbcimg.co.uk/media/images/78254000/jpg/_78254123_78254075.jpg" /> <p class="media-message">Media playback is unsupported on your device</p> </div>  </div>  <!-- companion banner -->  <div class="bbccom_advert_placeholder">  <script>$render("advert","advert-companion","78284628");</script> </div> <script id="advert-post-script-load" type="text/javascript">$render("advert-post-script-load");</script>  <!-- END - companion banner -->  <div class="text-wrapper"> <div id="media-asset-page-text">  <h1 class="story-body__h1" data-asset-uri="/news/business-29641109">Top 1% 'own half global wealth' - Credit Suisse report</h1>  <p class="date date--v1" data-seconds="1413461237"><strong>16 October 2014</strong> Last updated at 13:07 BST </p>  <div class="map-body display-feature-phone-only"> <p>The richest 1% of people own nearly half the world's wealth, according to a report out this week.</p><p>With total global wealth more than doubling this century, total household wealth in China is now the third highest in the world, only surpassed by the US and Japan, says the report by banking giant Credit Suisse.</p><p>BBC News investigates its findings - in 60 seconds. </p><p><i>Video produced by Michael Hirst</i></p>
+    </div>  </div> </div> </div> </div> <div class="share-wrapper"> <div class="share share--lightweight  show">
+            <a name="share-tools"></a>
+            <h2 class="share__title share__title--lightweight">
+        Share this story        <a href="http://www.bbc.co.uk/help/web/sharing.shtml">About&nbsp;sharing</a>
+    </h2>
+        <ul class="share__tools share__tools--lightweight">
+                            <li class="share__tool share__tool--email">
+        <a href="mailto:?subject=Shared%20from%20BBC%20News&body=http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fbusiness-29641109" >
+            <span>Email</span>
+        </a>
+    </li>
+                            <li class="share__tool share__tool--facebook">
+        <a href="http://www.facebook.com/dialog/feed?app_id=58567469885&redirect_uri=http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fbusiness-29641109&link=http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fbusiness-29641109%3FSThisFB" >
+            <span>Facebook</span>
+        </a>
+    </li>
+                            <li class="share__tool share__tool--twitter">
+        <a href="https://twitter.com/intent/tweet?text=BBC%20News%20-%20Top%201%25%20%27own%20half%20global%20wealth%27%20-%20Credit%20Suisse%20report&url=http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fbusiness-29641109" class=shortenUrl data-social-url=https://twitter.com/intent/tweet?text=BBC+News+-+Top+1%25+%27own+half+global+wealth%27+-+Credit+Suisse+report&amp;url= data-target-url=http://www.bbc.co.uk/news/business-29641109>
+            <span>Twitter</span>
+        </a>
+    </li>
+                            <li class="share__tool share__tool--whatsapp">
+        <a href="whatsapp://send?text=BBC%20News%20%7C%20Top%201%25%20%27own%20half%20global%20wealth%27%20-%20Credit%20Suisse%20report%20-%20http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fbusiness-29641109%3Focid%3Dwsnews_chatapps_whatsapp_msg_trial_link1" >
+            <span>WhatsApp</span>
+        </a>
+    </li>
+            </ul>
+</div>
+
+ </div> <div class="map-info-wrapper">  </div> </div> <div class="media-feeds column--half">  <!-- mpu -->  <div class="bbccom_advert_placeholder"> <script type="text/javascript">$render("advert","advert-mpu");</script> </div> <script type="text/javascript">$render("advert-post-script-load");</script>     <div class="tabs media-tabs" id="media-tabs"> <ul> <li class="media-tab open" data-event="maprelated"> <a href="/news/business-29641109">Related</a> </li>  <li class="media-tab most-watched" data-event="mapmostwatched" > <a href="/nfp/popular/holepunched/watched.html">Most watched</a> </li>  <li class="media-tab " data-event="maptopstories" data-cps-id="video_and_audio/top_stories"> <a href="/nfp/video_and_audio/top_stories">Top stories</a> </li> </ul> </div> <div class="media-panel"> <div class="HTML5section media-feed primary-feed related-video-audio "> <h2 class="media-feed-title">Related video / audio</h2>    <div class="media-feed-grid">    <div class="HTML5article media-feed-item nth-child-1" data-duration="1:00" data-headline="North Korea and the Kim Jong-un rumour mill in 60 secs" data-date="1413361518" data-uri="/news/world-asia-29620552" data-picture="http://news.bbcimg.co.uk/media/images/78219000/jpg/_78219006_78219005.jpg"> <a href="/news/world-asia-29620552"> <div class="media-thumbnail"> <img src="http://ichef.bbci.co.uk/news/270/media/images/78219000/jpg/_78219006_78219005.jpg" alt="A man walks past an electronic shop in Seoul, South Korea, where TV monitors show images of North Korean leader Kim Jong-un, 14 October 2014" /> <div class="responsive-image__label"> <span class="icon video"></span> <span class="js-media-duration responsive-image__label-text">1:00</span> </div> </div> <span class="cta">Why are there so many North Korea rumours?</span>    <div class="date date--v1" data-seconds="1413361518" data-datetime="15 October 2014">15 October 2014</div>
+ </a> </div>    <div class="HTML5article media-feed-item nth-child-2" data-duration="1:03" data-headline="Ebola outbreak: Could epidemic infect 1.4m people?" data-date="1413213851" data-uri="/news/health-29596421" data-picture="http://news.bbcimg.co.uk/media/images/78188000/jpg/_78188450_78188449.jpg"> <a href="/news/health-29596421"> <div class="media-thumbnail"> <img src="http://ichef.bbci.co.uk/news/270/media/images/78188000/jpg/_78188450_78188449.jpg" alt="A Doctors Without Borders (MSF) health worker in protective clothing carries a child suspected of having Ebola in the MSF treatment centre in Paynesville, Liberia, 5 October 2014" /> <div class="responsive-image__label"> <span class="icon video"></span> <span class="js-media-duration responsive-image__label-text">1:03</span> </div> </div> <span class="cta">Could Ebola outbreak infect 1.4m?</span>    <div class="date date--v1" data-seconds="1413213851" data-datetime="13 October 2014">13 October 2014</div>
+ </a> </div>    <div class="HTML5article media-feed-item nth-child-3" data-duration="1:03" data-headline="How does the ICC work?" data-date="1412751980" data-uri="/news/world-29532406" data-picture="http://news.bbcimg.co.uk/media/images/78077000/jpg/_78077692_78077690.jpg"> <a href="/news/world-29532406"> <div class="media-thumbnail"> <img src="http://ichef.bbci.co.uk/news/270/media/images/78077000/jpg/_78077692_78077690.jpg" alt="Sign outside ICC, The Hague, file pic" /> <div class="responsive-image__label"> <span class="icon video"></span> <span class="js-media-duration responsive-image__label-text">1:03</span> </div> </div> <span class="cta">How does the International Criminal Court work?</span>    <div class="date date--v1" data-seconds="1412751980" data-datetime="8 October 2014">8 October 2014</div>
+ </a> </div>    <div class="HTML5article media-feed-item nth-child-4" data-duration="1:04" data-headline="Hajj in numbers - in 60 seconds" data-date="1412161719" data-uri="/news/world-middle-east-29439590" data-picture="http://news.bbcimg.co.uk/media/images/77931000/jpg/_77931470_77931465.jpg"> <a href="/news/world-middle-east-29439590"> <div class="media-thumbnail"> <img src="http://ichef.bbci.co.uk/news/270/media/images/77931000/jpg/_77931470_77931465.jpg" alt="Muslim pilgrims circumambulate the Kaaba, 30 September 2014" /> <div class="responsive-image__label"> <span class="icon video"></span> <span class="js-media-duration responsive-image__label-text">1:04</span> </div> </div> <span class="cta">Hajj in numbers - in 60 seconds</span>    <div class="date date--v1" data-seconds="1412161719" data-datetime="1 October 2014">1 October 2014</div>
+ </a> </div>    <div class="HTML5article media-feed-item nth-child-5" data-duration="0:39" data-headline="Ebola: How does the virus attack human cells?" data-date="1412242152" data-uri="/news/health-29457668" data-picture="http://news.bbcimg.co.uk/media/images/77959000/jpg/_77959397_77959396.jpg"> <a href="/news/health-29457668"> <div class="media-thumbnail"> <img src="http://ichef.bbci.co.uk/news/270/media/images/77959000/jpg/_77959397_77959396.jpg" alt="Ebola graphic illustration" /> <div class="responsive-image__label"> <span class="icon video"></span> <span class="js-media-duration responsive-image__label-text">0:39</span> </div> </div> <span class="cta">How does Ebola attack human cells?</span>    <div class="date date--v1" data-seconds="1412242152" data-datetime="2 October 2014">2 October 2014</div>
+ </a> </div>    <div class="HTML5article media-feed-item nth-child-6" data-duration="1:02" data-headline="Cern at 60 in 60 seconds" data-date="1411982163" data-uri="/news/science-environment-29316712" data-picture="http://news.bbcimg.co.uk/media/images/77748000/jpg/_77748229_77748226.jpg"> <a href="/news/science-environment-29316712"> <div class="media-thumbnail"> <img src="http://ichef.bbci.co.uk/news/270/media/images/77748000/jpg/_77748229_77748226.jpg" alt="A general view of the A Large Ion Collider Experiment (ALICE) experiment, part of the Large Hadron Collider (LHC) at CERN near Geneva in Switzerland, 23 July 2013" /> <div class="responsive-image__label"> <span class="icon video"></span> <span class="js-media-duration responsive-image__label-text">1:02</span> </div> </div> <span class="cta">Cern at 60 in 60 seconds</span>    <div class="date date--v1" data-seconds="1411982163" data-datetime="29 September 2014">29 September 2014</div>
+ </a> </div>    <div class="HTML5article media-feed-item nth-child-1" data-duration="1:01" data-headline="In 60 seconds: What does Islamic State want?" data-date="1411476040" data-uri="/news/world-middle-east-27905425" data-picture="http://news.bbcimg.co.uk/media/images/75612000/jpg/_75612415_75612414.jpg"> <a href="/news/world-middle-east-27905425"> <div class="media-thumbnail"> <img src="http://ichef.bbci.co.uk/news/270/media/images/75612000/jpg/_75612415_75612414.jpg" alt="Fighters belonging to Sunni-led militant group Isis" /> <div class="responsive-image__label"> <span class="icon video"></span> <span class="js-media-duration responsive-image__label-text">1:01</span> </div> </div> <span class="cta">In 60 seconds: What does IS want?</span>    <div class="date date--v1" data-seconds="1411476040" data-datetime="23 September 2014">23 September 2014</div>
+ </a> </div>    <div class="HTML5article media-feed-item nth-child-2" data-duration="1:02" data-headline="What is Ebola? In 60 seconds" data-date="1415882252" data-uri="/news/health-28105531" data-picture="http://news.bbcimg.co.uk/media/images/75957000/jpg/_75957875_msb8353_medium.jpg"> <a href="/news/health-28105531"> <div class="media-thumbnail"> <img src="http://ichef.bbci.co.uk/news/270/media/images/75957000/jpg/_75957875_msb8353_medium.jpg" alt="A patient is treated" /> <div class="responsive-image__label"> <span class="icon video"></span> <span class="js-media-duration responsive-image__label-text">1:02</span> </div> </div> <span class="cta">In 60 seconds: What is Ebola?</span>    <div class="date date--v1" data-seconds="1415882252" data-datetime="13 November 2014">13 November 2014</div>
+ </a> </div>    <div class="HTML5article media-feed-item nth-child-3" data-duration="1:02" data-headline="Alibaba and Jack Ma - in 60 seconds" data-date="1415707006" data-uri="/news/business-29149086" data-picture="http://news.bbcimg.co.uk/media/images/77537000/jpg/_77537408_mapopgetty.jpg"> <a href="/news/business-29149086"> <div class="media-thumbnail"> <img src="http://ichef.bbci.co.uk/news/270/media/images/77537000/jpg/_77537408_mapopgetty.jpg" alt="Alibaba founder Jack Ma" /> <div class="responsive-image__label"> <span class="icon video"></span> <span class="js-media-duration responsive-image__label-text">1:02</span> </div> </div> <span class="cta">What is Alibaba? In 60 seconds</span>    <div class="date date--v1" data-seconds="1415707006" data-datetime="11 November 2014">11 November 2014</div>
+ </a> </div>   </div>   </div> </div>  <div class="media-panel"> <div class="HTML5section media-feed primary-feed most-watched open showmore loading-after" data-cps-id="most-watched"> <h2 class="media-feed-title">Most watched</h2> <div class="media-feed-placeholder"></div> </div> </div>   <div class="media-panel indexes">  <div class="HTML5section media-feed top_stories showmore js-postload open" data-event="top_stories" data-cps-id="video_and_audio/top_stories"> <h2 class="media-feed-title">  <a href="/nfp/video_and_audio/top_stories">Top stories</a>  </h2> <div class="media-feed-placeholder">  </div> </div>    <div class="HTML5section media-feed world" data-event="world" data-cps-id="video_and_audio/world"> <h2 class="media-feed-title">  <a href="/nfp/video_and_audio/world">World</a>  </h2> <div class="media-feed-placeholder">  </div> </div>   <div class="HTML5section media-feed uk" data-event="uk" data-cps-id="video_and_audio/uk"> <h2 class="media-feed-title">  <a href="/nfp/video_and_audio/uk">UK</a>  </h2> <div class="media-feed-placeholder">  </div> </div>   <div class="HTML5section media-feed business" data-event="business" data-cps-id="video_and_audio/business"> <h2 class="media-feed-title">  <a href="/nfp/video_and_audio/business">Business</a>  </h2> <div class="media-feed-placeholder">  </div> </div>   <div class="HTML5section media-feed politics" data-event="politics" data-cps-id="video_and_audio/politics"> <h2 class="media-feed-title">  <a href="/nfp/video_and_audio/politics">Politics</a>  </h2> <div class="media-feed-placeholder">  </div> </div>   <div class="HTML5section media-feed health" data-event="health" data-cps-id="video_and_audio/health"> <h2 class="media-feed-title">  <a href="/nfp/video_and_audio/health">Health</a>  </h2> <div class="media-feed-placeholder">  </div> </div>   <div class="HTML5section media-feed science" data-event="science" data-cps-id="video_and_audio/science_and_environment"> <h2 class="media-feed-title">  <a href="/nfp/video_and_audio/science_and_environment">Science &amp Environment</a>  </h2> <div class="media-feed-placeholder">  </div> </div>   <div class="HTML5section media-feed technology" data-event="technology" data-cps-id="video_and_audio/technology"> <h2 class="media-feed-title">  <a href="/nfp/video_and_audio/technology">Technology</a>  </h2> <div class="media-feed-placeholder">  </div> </div>   <div class="HTML5section media-feed entertainment" data-event="entertainment" data-cps-id="video_and_audio/entertainment_and_arts"> <h2 class="media-feed-title">  <a href="/nfp/video_and_audio/entertainment_and_arts">Entertainment</a>  </h2> <div class="media-feed-placeholder">  </div> </div>   </div>    </div> </div> </div>  <script> if (('querySelector' in document && 'localStorage' in window && 'addEventListener' in window) || isIE > 6) {  require([ 'module/mediaAssetPage/mediaAssetPage', 'module/stats/statsSubscriber', 'module/stats/statsConfig' ], function( mediaAssetPage, StatsSubscriber, statsConfig ) { new StatsSubscriber(statsConfig); mediaAssetPage.init({"images":{"index":{"78254077":{"height":360,"width":640,"href":"http:\/\/news.bbcimg.co.uk\/media\/images\/78254000\/jpg\/_78254077_78254075.jpg","altText":"A general view shows yachts at Port Hercules during the 24th edition of the International Monaco Yacht Show in Monaco, 25 September 2014","copyrightHolder":"(C) British Broadcasting Corporation","originCode":"mcs"}},"index-thumbnail":{"78254079":{"height":180,"width":320,"href":"http:\/\/news.bbcimg.co.uk\/media\/images\/78254000\/jpg\/_78254079_78254075.jpg","altText":"A general view shows yachts at Port Hercules during the 24th edition of the International Monaco Yacht Show in Monaco, 25 September 2014","copyrightHolder":"(C) British Broadcasting Corporation","originCode":"mcs"}}},"videos":{"primary":{"78284628":{"duration":"PT1M1S","available":true,"mimeType":"application\/xml","image":{"height":360,"width":640,"href":"http:\/\/news.bbcimg.co.uk\/media\/images\/78254000\/jpg\/_78254123_78254075.jpg","altText":"A general view shows yachts at Port Hercules during the 24th edition of the International Monaco Yacht Show in Monaco, 25 September 2014","copyrightHolder":"AFP","originCode":"mcs"},"href":"http:\/\/playlists.bbc.co.uk\/news\/business-29641109A\/playlist.sxml","externalId":"p028s9v0","caption":"The richest one percent of people own nearly half the world's wealth, says Credit Suisse","allowOffSiteEmbedding":true,"live":false,"entityType":"Version","durationInSeconds":61}}}}, "/news/business-29641109"); });  } </script>   
+    </div>
+
+    
+
+<div id="news-banner__outer-container" class="news-banner__outer-container">
+    <div id="news-banner" data-comp-meta={"id":"comp-tablet-explainer-banner","type":"tablet-explainer-banner","handler":"tabletExplainerBanner","deviceGroups":null,"opts":{"requestUri":"\/news\/ssi\/business-29641109"},"template":"tabloid\/tabloid-shared:\/component\/tablet-explainer-banner"} class="HTML5section news-banner {{isExplainerBannerFixed}}">
+        <div class="news-banner__inner">
+            <div class="news-banner__content">
+                <h2 class="news-banner__title">You're looking at our new site.</h2>
+                                <a class="news-banner__bloglink" href="http://www.bbc.co.uk/blogs/internet/posts/news-responsive-design-update">Learn more</a>            </div>
+            <div class="news-banner__options">
+                                <a href="https://ecustomeropinions.com/survey/survey.php?sid=264941693" id="news-banner__survey" class="news-banner__survey {{explainerSurveyDisplay}}">
+                    Tell us what you think                </a>
+                                <a href="http://www.bbc.co.uk/news?tablet-beta=o" id="news-banner__goback" class="news-banner__goback">
+                    Back to current site                </a>
+            </div>
+        </div>
+        <button id="news-banner__dismiss" class="news-banner__dismiss" aria-hidden="true"></button>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<!-- END #MAIN-CONTENT & CPS_ASSET_TYPE CLASS: media_asset -->
+	</div>
+<!-- END CPS_AUDIENCE CLASS: domestic -->
+	
+</div> 
+<div id="related-services" class="footer">
+   <div id="news-services">
+      <h2>Services</h2>  
+	   <ul>
+         <li id="service-mobile" class="first-child"><a href="/news/10628994"><span class="gvl3-mobile-icon-large services-icon">&nbsp;</span>Mobile</a></li>
+         <li id="service-feeds"><a href="/news/help-17655000"><span class="gvl3-connected-tv-icon-large services-icon">&nbsp;</span>Connected TV</a></li>
+         <li id="service-podcast"><a href="/news/10628494"><span class="gvl3-feeds-icon-large services-icon">&nbsp;</span>News feeds</a></li>
+         <li id="service-alerts"><a href="/news/10628323"><span class="gvl3-alerts-icon-large services-icon">&nbsp;</span>Alerts</a></li>
+         <li id="service-email-news"><a href="/news/help/16617948"><span class="gvl3-email-icon-large services-icon">&nbsp;</span>E-mail news</a></li>
+      </ul>	  
+   </div>
+   <div id="news-related-sites">
+      <h2><a href="/news/19888761">About BBC News</a></h2>
+      <ul>
+         <li class="column-1"><a href="/news/blogs/the_editors/">Editors' blog</a></li>
+         <li class="column-1"><a href="/journalism/">BBC College of Journalism</a></li>
+         <li class="column-1"><a href="/news/10621655">News sources</a></li>
+         <li class="column-1"><a href="/editorialguidelines/">Editorial Guidelines</a></li>
+      </ul>
+   </div>
+</div>
+</div><!-- close business -->
+
+
+
+	
+	
+
+   </div>   <!--[if IE 6]> <div id="blq-ie6-upgrade"> <p> <span>You're using the Internet Explorer 6 browser to view the BBC website. Our site will work much better if you change to a more modern browser. It's free, quick and easy.</span> <a href="http://www.browserchoice.eu/">Find out more <span>about upgrading your browser</span> here&hellip;</a> </p> </div> <![endif]-->  <div id="blq-foot" xml:lang="en-GB" class="blq-rst blq-clearfix blq-foot-transparent blq-foot-text-dark"> <div id="blq-footlinks"> <h2 class="blq-hide">BBC links</h2>       <ul>                    <li class="blq-footlinks-row"> <ul class="blq-footlinks-row-list"> <li><a href="/news/mobile/" id="blq-footer-mobile">Mobile site</a></li><li><a href="http://www.bbc.co.uk/terms/">Terms of Use</a></li><li><a href="http://www.bbc.co.uk/aboutthebbc/">About the BBC</a></li> </ul> </li>                <li class="blq-footlinks-row"> <ul class="blq-footlinks-row-list"> <li><a href="http://www.bbc.co.uk/privacy/">Privacy</a></li><li><a href="http://www.bbc.co.uk/accessibility/">Accessibility Help</a></li> </ul> </li>                <li class="blq-footlinks-row"> <ul class="blq-footlinks-row-list"> <li><a href="http://www.bbc.co.uk/privacy/cookies/about">Cookies</a></li><li><a href="/news/20039682">Contact the BBC</a></li> </ul> </li>           <li class="blq-footlinks-row"> <ul class="blq-footlinks-row-list"> <li><a href="http://www.bbc.co.uk/guidance/">Parental Guidance</a></li> </ul> </li>             </ul> <script type="text/javascript">/*<![CDATA[*/ (function() { var mLink = document.getElementById('blq-footer-mobile'), stick = function() { var d = new Date (); d.setYear(d.getFullYear() + 1); d = d.toUTCString(); window.bbccookies.set('ckps_d=m;domain=.bbc.co.uk;path=/;expires=' + d ); window.bbccookies.set('ckps_d=m;domain=.bbc.com;path=/;expires=' + d ); }; if (mLink) {  if (mLink.addEventListener) { mLink.addEventListener('click', stick, false); } else if (mLink.attachEvent) { mLink.attachEvent('onclick', stick); } } })(); /*]]>*/</script>  </div>  <div id="blq-foot-blocks" class="blq-footer-image-dark"><img src="http://static.bbci.co.uk/frameworks/barlesque/2.83.4/desktop/3.5/img/blocks/dark.png" width="84" height="24" alt="BBC" /></div>  <p id="blq-disclaim"><span id="blq-copy">Copyright &copy; 2015 BBC.</span> <a href="http://www.bbc.co.uk/help/web/links/">The BBC is not responsible for the content of external sites. Read more.</a></p> <div id="blq-obit"><p><strong>This page is best viewed in an up-to-date web browser with style sheets (CSS) enabled. While you will be able to view the content of this page in your current browser, you will not be able to get the full visual experience. Please consider upgrading your browser software or enabling style sheets (CSS) if you are able to do so.</strong></p></div> </div> </div> 
+<!-- BBCDOTCOM analytics template:client-side journalismVariant: true ipIsAdvertiseCombined: true adsEnabled: false flagpole: ON -->
+
+            <!-- BBCCOM analytics client-side -->
+<div id="bbccomWebBug" class="bbccomWebBug"></div>
+
+<!-- START: BBCCOM-5908: SiteCatalyst new responsive tag -->
+<script type="text/javascript">
+    /*<![CDATA[*/
+    if (BBC.adverts.isActive('analytics')) {
+        if (bbcdotcom && bbcdotcom.analytics) {
+			bbcdotcom.analytics.init();
+            bbcdotcom.analytics.page();
+        }
+    }
+    /*]]>*/
+</script>
+<!-- END: BBCCOM-5908: SiteCatalyst new responsive tag -->
+
+
+<!-- Start comScore Tag -->
+<script type="text/javascript">
+    /*<![CDATA[*/
+    if (BBC.adverts.isActive('analytics')) {
+        document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+    }
+    /*]]>*/
+</script>
+<script type="text/javascript">
+    /*<![CDATA[*/
+    if (BBC.adverts.isActive('analytics')) {
+        COMSCORE.beacon({
+            c1:2,
+            c2:"6035051",
+            c3:"",
+            c4:"www.bbc.co.uk/news/business-29641109",
+            c5:"",
+            c6:"",
+            c15:""
+        });
+    }
+    /*]]>*/
+</script>
+<!-- End comScore Tag -->
+
+
+<!-- Start Nielsen Online SiteCensus V6.0 -->
+<script type="text/javascript">
+    /*<![CDATA[*/
+    if (BBC.adverts.isActive('nielsen-au')) {
+        <!-- COPYRIGHT 2009 Nielsen Online -->
+        document.write(unescape('%3Cscript type="text/javascript" src="' + ('https:' == document.location.protocol ? 'https:' : 'http:') + '//secure-au.imrworldwide.com/v60.js"%3E%3C/script%3E'));
+    }
+    /*]]>*/
+</script>
+<script type="text/javascript">
+    /*<![CDATA[*/
+    if (BBC.adverts.isActive('nielsen-au')) {
+        <!-- Start Nielsen Online SiteCensus V6.0 Part 2 -->
+        nol_t({cid:"au-bbc",content:"0",server:"secure-au"}).record().post();
+        <!-- End Nielsen Online SiteCensus V6.0 Part 2 -->
+    }
+    /*]]>*/
+</script>
+<!-- End Nielsen Online SiteCensus V6.0 -->
+
+
+<!-- Start Nielsen Online SiteCensus V6.0 -->
+<script type="text/javascript">
+    /*<![CDATA[*/
+    if (BBC.adverts.isActive('nielsen-nz')) {
+        <!-- COPYRIGHT 2009 Nielsen Online -->
+        document.write(unescape('%3Cscript type="text/javascript" src="' + ('https:' == document.location.protocol ? 'https:' : 'http:') + '//secure-nz.imrworldwide.com/v60.js"%3E%3C/script%3E'));
+    }
+    /*]]>*/
+</script>
+<script type="text/javascript">
+    /*<![CDATA[*/
+    if (BBC.adverts.isActive('nielsen-nz')) {
+        nol_t({cid:"nz-bbc",content:"0",server:"secure-nz"}).record().post();
+    }
+    /*]]>*/
+</script>
+<!-- End Nielsen Online SiteCensus V6.0 -->
+
+
+<!-- Start Nielsen Online SiteCensus V6.0 -->
+<script type="text/javascript">
+    /*<![CDATA[*/
+    if (BBC.adverts.isActive('nielsen-us')) {
+        <!-- COPYRIGHT 2010 Nielsen Online -->
+       (function () {
+           var d = new Image(1, 1);
+           d.onerror = d.onload = function () {
+               d.onerror = d.onload = null;
+           };
+           d.src = [('https:' == document.location.protocol ? 'https:' : 'http:') + "//secure-us.imrworldwide.com/cgi-bin/m?ci=us-804789h&amp;cg=0&amp;cc=1&amp;si=", escape(window.location.href), "&amp;rp=",
+           escape(document.referrer), "&amp;ts=compact&amp;rnd=", (new Date()).getTime()].join('');
+        })();
+    }
+    /*]]>*/
+</script>
+<!-- End Nielsen Online SiteCensus V6.0 -->
+
+
+<!-- Effective Measure BBCCOM-1195 -->
+<script type="text/javascript">
+    /*<![CDATA[*/
+    if (BBC.adverts.isActive('analytics')) {
+        (function() {
+            var em = document.createElement('script'); em.type = 'text/javascript'; em.async = true;
+            em.src = ('https:' == document.location.protocol ? 'https://me-ssl' : 'http://me-cdn') + '.effectivemeasure.net/em.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(em, s);
+        })();
+    }
+    /*]]>*/
+</script>
+<!-- End Effective Measure -->
+
+
+<!-- AGOF BBCCOM-1271 -->
+<script type="text/javascript">
+    /*<![CDATA[*/
+    if (BBC.adverts.isActive('agof')) {
+        var ivwcode="default";
+        if(typeof BBC != 'undefined' && typeof BBC.adverts != 'undefined'){
+            ivwcode = BBC.adverts.getSectionPath();
+        }
+        var IVW="http://bbc.ivwbox.de/cgi-bin/ivw/CP/"+ivwcode+";";
+        document.write("<img src=\""+IVW+"?r="+escape(document.referrer)+"&d="+(Math.random()*100000)+"\" width=\"1\" height=\"1\" alt=\"szmtag\" />");
+    }
+    /*]]>*/
+</script>
+<script type="text/javascript">
+    /*<![CDATA[*/
+    if (BBC.adverts.isActive('agof')) {
+        var szmvars="bbc//CP/"+ivwcode;
+        document.write(unescape('%3Cscript src="http://bbc.ivwbox.de/2004/01/survey.js" type="text/javascript"%3E%3C/script%3E'));
+    }
+    /*]]>*/
+</script>
+<!-- End AGOF -->
+
+
+	<!-- BBCCOM-5234 Outbrain Tracking -->
+	
+		<div class="OUTBRAIN" data-src="http://www.bbc.co.uk/news/business-29641109" data-widget-id="TR_1" data-ob-template="BBC.com/News"></div>
+        <script type="text/javascript">
+            /*<![CDATA[*/
+            if (BBC.adverts.isActive('ads') && BBC.adverts.isActive('analytics')) {
+                document.write(unescape('%3Cscript src="http://widgets.outbrain.com/outbrain.js" type="text/javascript"%3E%3C/script%3E'));
+            }
+            /*]]>*/
+        </script>
+	
+
+    
+<!-- BBCDOTCOM Body Last -->
+ </div> </div>  <script type="text/javascript"> if (typeof require !== 'undefined') { require(['istats-1'], function(istats){ istats.track('external', { region: document.getElementById('blq-main') }); istats.track('download', { region: document.getElementById('blq-main') }); }); } </script>  <script type="text/html" id="blq-panel-template-promo"><![CDATA[ <div id="blq-panel-promo" class="blq-masthead-container"></div> ]]></script> <script type="text/html" id="blq-panel-template-more"><![CDATA[ <div id="blq-panel-more" class="blq-masthead-container  blq-clearfix" xml:lang="en-GB" dir="ltr"> <div class="blq-panel-container panel-paneltype-more"> <div class="panel-header"> <h2> <a href="http://www.bbc.co.uk/a-z/">  More&hellip;  </a> </h2>  <a href="http://www.bbc.co.uk/a-z/" class="panel-header-links panel-header-link">Full A-Z<span class="blq-hide"> of BBC sites</span></a>  </div> <div class="panel-component panel-links">       <ul>   <li> <a href="http://www.bbc.co.uk/cbbc/"  >CBBC</a> </li>    <li> <a href="http://www.bbc.co.uk/cbeebies/"  >CBeebies</a> </li>    <li> <a href="http://www.bbc.co.uk/arts/"  >Arts</a> </li>   </ul>  <ul>   <li> <a href="http://www.bbc.co.uk/comedy/"  >Comedy</a> </li>    <li> <a href="http://www.bbc.co.uk/food/"  >Food</a> </li>    <li> <a href="http://www.bbc.co.uk/history/"  >History</a> </li>   </ul>  <ul>   <li> <a href="http://www.bbc.co.uk/learning/"  >Learning</a> </li>    <li> <a href="http://www.bbc.co.uk/music/"  >Music</a> </li>    <li> <a href="http://www.bbc.co.uk/science/"  >Science</a> </li>   </ul>  <ul>   <li> <a href="http://www.bbc.com/earth"  >Earth</a> </li>    <li> <a href="http://www.bbc.co.uk/local/"  >Local</a> </li>    <li> <a href="http://www.bbc.co.uk/travel/"  >Travel</a> </li>   </ul>   </div> </div> ]]></script>            
+	
+
+<!-- shared/foot -->
+<script type="text/javascript">
+	bbc.fmtj.common.removeNoScript({});
+	bbc.fmtj.common.tabs.createTabs({});
+</script>
+<!-- hi/news/foot.inc -->
+
+<!-- Chartbeat Web Analytics code - start -->
+<script type="text/javascript">
+<!-- only run if performance cookie enabled -->
+if (bbccookies && bbccookies.readPolicy('performance')) {
+var _sf_async_config={};
+/** CONFIGURATION START **/
+_sf_async_config.uid = 50924; /** Chartbeat BBC id **/
+_sf_async_config.domain = "bbc.co.uk";/** BBC domain being tracked **/
+_sf_async_config.sections = "news, News - business, News - MAP, News - business - MAP";
+_sf_async_config.region = "domestic";
+
+  <!-- all multi-edition pages that are not indexes eg. story pages need the title -->
+  var storyTitle = "BBC+News+-+Top+1%25+%27own+half+global+wealth%27+-+Credit+Suisse+report".replace(new RegExp('\\+', 'gi'),' ');//remove the plus signs
+  storyTitle = decodeURIComponent(storyTitle.replace("BBC News - ",""));//remove the sub-string 'BBC News' and convert utf-8 chars to html
+  _sf_async_config.title = storyTitle;
+
+/** CONFIGURATION END **/
+(function(){
+  var noCookies = true;
+  if ("object" === typeof bbccookies && typeof bbccookies.readPolicy == 'function') {
+    noCookies = !bbccookies.readPolicy().performance;
+  }
+  _sf_async_config.noCookies = noCookies;
+
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement("script");
+    e.setAttribute("language", "javascript");
+    e.setAttribute("type", "text/javascript");
+    e.setAttribute('src', '/inc/specials/cream/hi/news/chartbeat/chartbeat.js');
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != "function") ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+}<!-- close performance cookie if statement -->
+</script>
+<!-- Chartbeat Web Analytics code - end -->
+
+<!-- shared/foot_media_asset -->
+<!-- #CREAM hi news domestic foot.inc -->
+<script>
+ var _comscore = _comscore || [];
+ _comscore.push({ c1: "2", c2: "17986528"});
+
+ (function() {
+ var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+ s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+ el.parentNode.insertBefore(s, el);
+ })();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&c2=17986528&cv=2.0&cj=1"/>
+</noscript>
+ 
+
+</body>
+</html>
+
+
+
+WARC/1.0
+WARC-Type: resource
+WARC-Record-ID: <urn:uuid:9b5a8ad8-eef6-46f4-b79c-9eaefa0b90d3>
+WARC-Warcinfo-ID: <urn:uuid:e38c813b-81ac-4080-9bfa-ece6de1bb2c7>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/MANIFEST.txt
+WARC-Date: 2015-01-28T01:03:43Z
+Content-Type: text/plain
+Content-Length: 48
+
+<urn:uuid:e38c813b-81ac-4080-9bfa-ece6de1bb2c7>
+
+
+WARC/1.0
+WARC-Type: resource
+WARC-Record-ID: <urn:uuid:9b5a8ad8-eef6-46f4-b79c-9eaefa0b90d3>
+WARC-Warcinfo-ID: <urn:uuid:e38c813b-81ac-4080-9bfa-ece6de1bb2c7>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/wget_arguments.txt
+WARC-Date: 2015-01-28T01:03:43Z
+Content-Type: text/plain
+Content-Length: 168
+
+"--warc-file" "business-29641109" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "-q" "-O" "/dev/null" "http://www.bbc.co.uk/news/business-29641109" 
+
+
