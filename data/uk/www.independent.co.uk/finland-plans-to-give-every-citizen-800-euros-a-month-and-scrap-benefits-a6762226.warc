@@ -1,0 +1,1504 @@
+WARC/1.0
+WARC-Type: warcinfo
+Content-Type: application/warc-fields
+WARC-Date: 2015-12-07T00:08:47Z
+WARC-Record-ID: <urn:uuid:7a9f2394-670e-4987-99c8-dfb5d24bfcd0>
+WARC-Filename: finland-plans-to-give-every-citizen-800-euros-a-month-and-scrap-benefits-a6762226.warc
+Content-Length: 507
+
+software: Wget/1.13.4-2608 (linux-gnu)
+format: WARC File Format 1.0
+conformsTo: http://bibnum.bnf.fr/WARC/WARC_ISO_28500_version1_latestdraft.pdf
+robots: classic
+wget-arguments: "--warc-file" "finland-plans-to-give-every-citizen-800-euros-a-month-and-scrap-benefits-a6762226" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "-q" "-O" "/dev/null" "http://www.independent.co.uk/news/world/europe/finland-plans-to-give-every-citizen-800-euros-a-month-and-scrap-benefits-a6762226.html" 
+
+
+
+WARC/1.0
+WARC-Type: request
+WARC-Target-URI: http://www.independent.co.uk/news/world/europe/finland-plans-to-give-every-citizen-800-euros-a-month-and-scrap-benefits-a6762226.html
+Content-Type: application/http;msgtype=request
+WARC-Date: 2015-12-07T00:08:47Z
+WARC-Record-ID: <urn:uuid:595c2e82-7aa0-49a7-85ba-fdc3eb6cbf93>
+WARC-IP-Address: 103.245.222.249
+WARC-Warcinfo-ID: <urn:uuid:7a9f2394-670e-4987-99c8-dfb5d24bfcd0>
+Content-Length: 230
+
+GET /news/world/europe/finland-plans-to-give-every-citizen-800-euros-a-month-and-scrap-benefits-a6762226.html HTTP/1.1
+User-Agent: Wget/1.13.4-2608 (linux-gnu)
+Accept: */*
+Host: www.independent.co.uk
+Connection: Keep-Alive
+
+
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <urn:uuid:9b33181e-b2cd-4b4b-b813-7fa2a646c530>
+WARC-Warcinfo-ID: <urn:uuid:7a9f2394-670e-4987-99c8-dfb5d24bfcd0>
+WARC-Concurrent-To: <urn:uuid:595c2e82-7aa0-49a7-85ba-fdc3eb6cbf93>
+WARC-Target-URI: http://www.independent.co.uk/news/world/europe/finland-plans-to-give-every-citizen-800-euros-a-month-and-scrap-benefits-a6762226.html
+WARC-Date: 2015-12-07T00:08:47Z
+WARC-IP-Address: 103.245.222.249
+Content-Type: application/http;msgtype=response
+Content-Length: 93001
+
+HTTP/1.1 200 OK
+Server: nginx
+Content-Type: text/html; charset=utf-8
+X-Drupal-Cache: MISS
+X-Content-Type-Options: nosniff
+Etag: "1449427454-1"
+Content-Language: en
+X-Generator: Drupal 7 (http://drupal.org)
+Link: <http://www.independent.co.uk/news/world/europe/finland-plans-to-give-every-citizen-800-euros-a-month-and-scrap-benefits-a6762226.html>; rel="canonical",</sites/all/themes/ines_themes/independent_theme/favicon.ico>; rel="shortcut icon",</sites/all/themes/ines_themes/independent_theme/img/apple-icon-60x60.png>; rel="apple-touch-icon",</sites/all/themes/ines_themes/independent_theme/img/apple-icon-72x72.png>; rel="apple-touch-icon_72x72",</sites/all/themes/ines_themes/independent_theme/img/apple-icon-76x76.png>; rel="apple-touch-icon_76x76",</sites/all/themes/ines_themes/independent_theme/img/apple-icon-114x114.png>; rel="apple-touch-icon_114x114",</sites/all/themes/ines_themes/independent_theme/img/apple-icon-120x120.png>; rel="apple-touch-icon_120x120",</sites/all/themes/ines_themes/independent_theme/img/apple-icon-144x144.png>; rel="apple-touch-icon_144x144",</sites/all/themes/ines_themes/independent_theme/img/apple-icon-152x152.png>; rel="apple-touch-icon_152x152",</sites/all/themes/ines_themes/independent_theme/img/apple-icon-180x180.png>; rel="apple-touch-icon_180x180"
+Last-Modified: Sun, 06 Dec 2015 18:44:14 GMT
+X-Request-ID: v-592245cc-9c49-11e5-871f-22000ac01878
+X-AH-Environment: prod
+Via: 1.1 varnish
+Content-Length: 91156
+Accept-Ranges: bytes
+Date: Mon, 07 Dec 2015 00:08:47 GMT
+Via: 1.1 varnish
+Age: 19472
+Connection: keep-alive
+Cache-control: no-cache, no-store, max-age=0, must-revalidate
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+X-Served-By: cache-wlg7320-WLG
+X-Cache: HIT, HIT
+X-Cache-Hits: 165, 6
+X-Timer: S1449446927.937061,VS0,VE0
+Vary: Cookie,fastly-ssl,Accept-Encoding
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="lt-ie9"><![endif]-->
+<!--[if gt IE 8]><!--><html><!--<![endif]-->
+  <head>
+    <title>Finland plans to give every citizen 800 euros a month and scrap benefits | Europe | News | The Independent</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta property="article:section" content="Europe" />
+<meta rel="dns-prefetch" href="//static.independent.co.uk" />
+<meta name="article:subsection" content="" />
+<script src='//d3c3cq33003psk.cloudfront.net/opentag-76050-687310.js' async defer></script><meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="article:author_name" content="Will Grice" />
+<meta name="article:video_count" content="0" />
+<meta name="article:embed_count" content="0" />
+<meta name="article:image_count" content="1" />
+<meta name="article:word_count" content="168" />
+<meta name="article:content_type" content="story" />
+<meta name="article:internal_link_count" content="4" />
+<meta name="article:external_link_count" content="2" />
+<meta name="description" content="Finland&#039;s government is drawing up plans to give every one of its citizens a basic income of 800 euros (£576) a month and scrap benefits altogether." />
+<meta name="keywords" content="Finland, benefits, Europe, World, News" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="http://www.independent.co.uk/news/world/europe/finland-plans-to-give-every-citizen-800-euros-a-month-and-scrap-benefits-a6762226.html" />
+<meta property="fb:admins" content="729735830" />
+<meta property="fb:app_id" content="235586169789578" />
+<meta property="og:site_name" content="The Independent" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Finland plans to give each of its citizens 800 euros a month" />
+<meta property="og:url" content="http://www.independent.co.uk/news/world/europe/finland-plans-to-give-every-citizen-800-euros-a-month-and-scrap-benefits-a6762226.html" />
+<meta property="og:description" content="Finland&#039;s government is drawing up plans to give every one of its citizens a basic income of 800 euros (£576) a month and scrap benefits altogether." />
+<meta property="og:updated_time" content="2015-12-06T18:44:11+00:00" />
+<meta property="og:image" content="http://static.independent.co.uk/s3fs-public/thumbnails/image/2015/12/06/11/GettyImages-147191248.jpg" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@independent" />
+<meta name="twitter:title" content="Finland plans to give every citizen 800 euros a month and scrap benefits" />
+<meta name="twitter:url" content="http://www.independent.co.uk/news/world/europe/finland-plans-to-give-every-citizen-800-euros-a-month-and-scrap-benefits-a6762226.html" />
+<meta name="twitter:description" content="Finland&#039;s government is drawing up plans to give every one of its citizens a basic income of 800 euros (£576) a month and scrap benefits altogether." />
+<meta property="og:locale" content="en_GB" />
+<meta property="article:tag" content="Finland" />
+<meta property="article:tag" content="benefits" />
+<meta property="article:published_time" content="2015-12-06T11:51:43+00:00" />
+<meta property="article:modified_time" content="2015-12-06T18:44:11+00:00" />
+<link rel="shortcut icon" href="/sites/all/themes/ines_themes/independent_theme/favicon.ico" type="image/ico" />
+<link rel="apple-touch-icon" href="/sites/all/themes/ines_themes/independent_theme/img/apple-icon-60x60.png" />
+<link rel="apple-touch-icon" href="/sites/all/themes/ines_themes/independent_theme/img/apple-icon-72x72.png" sizes="72x72" />
+<link rel="apple-touch-icon" href="/sites/all/themes/ines_themes/independent_theme/img/apple-icon-76x76.png" sizes="76x76" />
+<link rel="apple-touch-icon" href="/sites/all/themes/ines_themes/independent_theme/img/apple-icon-114x114.png" sizes="114x114" />
+<link rel="apple-touch-icon" href="/sites/all/themes/ines_themes/independent_theme/img/apple-icon-120x120.png" sizes="120x120" />
+<link rel="apple-touch-icon" href="/sites/all/themes/ines_themes/independent_theme/img/apple-icon-144x144.png" sizes="144x144" />
+<link rel="apple-touch-icon" href="/sites/all/themes/ines_themes/independent_theme/img/apple-icon-152x152.png" sizes="152x152" />
+<link rel="apple-touch-icon" href="/sites/all/themes/ines_themes/independent_theme/img/apple-icon-180x180.png" sizes="180x180" />
+    <script type="text/javascript" src="http://cdn.gigya.com/JS/gigya.js?apiKey=2_bkQWNsWGVZf-fA4GnOiUOYdGuROCvoMoEN4WMj6_YBq4iecWA-Jp9D2GZCLbzON4">
+  {
+  bypassCookiePolicy: "always"
+  }
+  </script>    <style type="text/css" media="all">
+@import url("http://www.independent.co.uk/modules/system/system.base.css?nysdyd");
+@import url("http://www.independent.co.uk/modules/system/system.menus.css?nysdyd");
+@import url("http://www.independent.co.uk/modules/system/system.messages.css?nysdyd");
+@import url("http://www.independent.co.uk/modules/system/system.theme.css?nysdyd");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.independent.co.uk/sites/all/modules/contrib/date/date_api/date.css?nysdyd");
+@import url("http://www.independent.co.uk/sites/all/modules/contrib/date/date_popup/themes/datepicker.1.7.css?nysdyd");
+@import url("http://www.independent.co.uk/sites/all/modules/contrib/scald/modules/library/dnd/css/editor-global.css?nysdyd");
+@import url("http://www.independent.co.uk/modules/field/theme/field.css?nysdyd");
+@import url("http://www.independent.co.uk/profiles/ines/modules/ines_archive_calendar/ines_archive_calendar.css?nysdyd");
+@import url("http://www.independent.co.uk/modules/node/node.css?nysdyd");
+@import url("http://www.independent.co.uk/sites/all/modules/contrib/scald_file/scald_file.css?nysdyd");
+@import url("http://www.independent.co.uk/modules/user/user.css?nysdyd");
+@import url("http://www.independent.co.uk/sites/all/modules/contrib/views/css/views.css?nysdyd");
+@import url("http://www.independent.co.uk/sites/all/modules/contrib/ckeditor/css/ckeditor.css?nysdyd");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.independent.co.uk/sites/all/modules/contrib/ctools/css/ctools.css?nysdyd");
+</style>
+<link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/qtip2/2.2.1/jquery.qtip.min.css" media="all" />
+<style type="text/css" media="all">
+@import url("http://www.independent.co.uk/sites/all/modules/contrib/qtip/css/qtip.css?nysdyd");
+@import url("http://www.independent.co.uk/sites/all/themes/ines_themes/independent_theme/css/style.css?nysdyd");
+@import url("http://www.independent.co.uk/profiles/ines/modules/ines_hacks/css/admin.css?nysdyd");
+</style>
+
+        <script type="text/javascript">
+      var articleId = '6762226';
+      var pageType = 'image';
+    </script>
+
+
+
+    <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var s_account = "indepdev";
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var gptPath = "-in_news-in_world-in_europe-in_europe_article";
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var topicTags = ["finland","benefits"];
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.independent.co.uk/sites/all/themes/ines_themes/independent_theme/js/adunit_node.js?nysdyd"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window._taboola = window._taboola || [];
+  _taboola.push({article:"auto"});
+  !function (e, f, u) {
+    e.async = 1;
+    e.src = u;
+    f.parentNode.insertBefore(e, f);
+  }(document.createElement("script"),
+  document.getElementsByTagName("script")[0],
+  "http://cdn.taboola.com/libtrc/eslmedia-theindependent/loader.js");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.independent.co.uk/sites/all/themes/ines_themes/ines_theme/js/vendor/jquery-2.1.3.min.js?nysdyd"></script>
+<script type="text/javascript" src="http://www.independent.co.uk/sites/all/themes/ines_themes/ines_theme/js/vendor/jquery.lazyload.min.js?nysdyd"></script>
+<script type="text/javascript" src="http://www.independent.co.uk/sites/all/themes/ines_themes/ines_theme/js/ines-lazy-load.js?nysdyd"></script>
+
+    <!-- BEGIN Krux Control Tag for "Independent" -->
+    <!-- Source: /snippet/controltag?confid=I8gY_o93&site=Independent&edit=1 -->
+    <script class = "kxct"
+            data - id = "I8gY_o93"
+            data - timing = "async"
+            data - version = "1.9"
+            type = "text/javascript" >
+            window.Krux || ((Krux = function() {
+            Krux.q.push(arguments)
+            }).q = []);
+            (function() {
+            var k = document.createElement('script');
+            k.type = 'text/javascript';
+            k.async = true;
+            var m, src = (m = location.href.match(/\bkxsrc=([^&]+)/)) && decodeURIComponent(m[1]);
+            k.src = /^https?:\/\/([^\/]+\.)?krxd\.net(:\d{1,5})?\//i.test(src) ? src : src === "disable" ? "" :
+            (location.protocol === "https:" ? "https:" : "http:") + "//cdn.krxd.net/controltag?confid=I8gY_o93";
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(k, s);
+    }()); </script>
+    <!-- END Krux Controltag -->
+
+    <!-- Sub2 -->
+    <script type="text/javascript" >
+      document.write(unescape("%3Cscript src='" + document.location.protocol + "//webservices.sub2tech.com/CodeBase/LIVE/Min/sub2.js?LICENSEKEY=c64f1815-070b-4957-a2ab-490f8883302b&trackPage=Y' async='true' type='text/javascript'%3E%3C/script%3E"));
+      var __s2tQ = __s2tQ || [];
+    </script>
+    <!-- END Sub2 -->
+
+  </head>
+  <body class="not-front article article-6762226 article-image source-a6762226 inline-gallery inline-gallery-3906401">
+        <header id="masthead">
+  <a href="/" title="Home">
+    <span class="logo"></span>
+  </a>
+  <ul id="dynamic-header">
+    <a href="/" title="Home">
+      <li class="logotype active">
+        <span class="logo-full"></span>
+      </li>
+    </a>
+    <li class="share">
+      <div id="gigya-share-btns-3"></div>
+    </li>
+    <li class="push">
+      <div id="fb-root"></div>
+      <script>(function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.4&appId=235586169789578";
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));</script>
+      <div class="fb-like" data-href="https://www.facebook.com/TheIndependentOnline?fref=ts" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
+      <a class="twitter-follow-button" href="https://twitter.com/IndyWorld" data-show-screen-name="false" data-show-count="false"></a>
+    </li>
+  </ul>
+
+  <nav>
+    <ol><li><a href="/news" title="">News</a><ul><li class="topic"><a href="/topic/refugee-crisis" title="">Refugee crisis</a></li>
+<li><a href="/news/uk" title="">UK</a></li>
+<li><a href="http://www.independent.co.uk/news/world/americas" title="">US</a></li>
+<li><a href="/news/world" title="">World</a></li>
+<li><a href="http://www.independent.co.uk/news/people" title="">People</a></li>
+<li><a href="/news/uk/politics" title="">Politics</a></li>
+<li><a href="/news/business" title="">Business</a></li>
+<li><a href="/news/science" title="">Science</a></li>
+<li><a href="http://www.independent.co.uk/news/media/" title="">Media</a></li>
+<li><a href="http://www.independent.co.uk/news/obituaries" title="">Obituaries</a></li>
+</ul></li>
+<li><a href="/voices" title="">Voices</a><ul><li><a href="http://www.independent.co.uk/voices/campaigns/give-to-gosh" title="">GOSH Appeal</a></li>
+<li><a href="/author/grace-dent" title="">Grace Dent</a></li>
+<li><a href="http://www.independent.co.uk/author/mary-dejevsky" title="">Mary Dejevsky</a></li>
+<li><a href="/author/robert-fisk" title="">Robert Fisk</a></li>
+<li><a href="http://www.independent.co.uk/author/howard-jacobson" title="">Howard Jacobson</a></li>
+<li><a href="/author/john-rentoul" title="">John Rentoul</a></li>
+<li><a href="/author/mark-steel" title="">Mark Steel</a></li>
+<li><a href="/voices/campaigns/voicesindanger" title="">Voices in Danger</a></li>
+</ul></li>
+<li><a href="/arts-entertainment" title="">Culture</a><ul><li><a href="/arts-entertainment/tv" title="">TV + radio</a></li>
+<li><a href="/arts-entertainment/films" title="">Film</a></li>
+<li><a href="/arts-entertainment/music" title="">Music</a></li>
+<li><a href="/arts-entertainment/books" title="">Books</a></li>
+<li><a href="/arts-entertainment/art" title="">Art</a></li>
+<li><a href="/arts-entertainment/theatre-dance" title="">Theatre + dance</a></li>
+</ul></li>
+<li><a href="/life-style" title="">Lifestyle</a><ul><li><a href="/travel" title="">Travel</a></li>
+<li><a href="/life-style/fashion" title="">Fashion + beauty</a></li>
+<li><a href="/life-style/food-and-drink" title="">Food</a></li>
+<li><a href="/life-style/health-and-families" title="">Health</a></li>
+<li><a href="/life-style/love-sex" title="">Love + sex</a></li>
+</ul></li>
+<li><a href="/life-style/gadgets-and-tech" title="">Tech</a><ul><li><a href="/life-style/gadgets-and-tech/news" title="">Tech news</a></li>
+<li><a href="/life-style/gadgets-and-tech/features" title="">Tech culture</a></li>
+<li><a href="/life-style/gadgets-and-tech/gaming" title="">Gaming</a></li>
+</ul></li>
+<li><a href="/sport" title="">Sport</a><ul><li><a href="/sport/football" title="">Football</a></li>
+<li><a href="/sport/rugby/rugby-union" title="">Rugby union</a></li>
+<li><a href="/sport/cricket" title="">Cricket</a></li>
+<li><a href="/sport/tennis" title="">Tennis</a></li>
+<li><a href="/sport/motor-racing" title="">Motor racing</a></li>
+<li><a href="/sport/us-sport" title="">US sport</a></li>
+</ul></li>
+<li><a href="http://www.independent.co.uk/voices/campaigns/give-to-gosh" title="">Appeal</a></li>
+</ol>  </nav>
+  <ol id="meta-nav">
+    <li class="search">
+    <a href="#" class="icon-search dropdown-toggle" title="Search"></a>
+    <form class="search-form search search" action="/news/world/europe/finland-plans-to-give-every-citizen-800-euros-a-month-and-scrap-benefits-a6762226.html" method="post" id="search-form" accept-charset="UTF-8"><div><div class="container-inline search-container search-container form-wrapper" id="edit-basic"><div class="form-item form-type-textfield form-item-keys">
+  <label for="edit-keys"> </label>
+ <input placeholder="Search" autofocus="1" type="text" id="edit-keys" name="keys" value="" size="20" maxlength="255" class="form-text" />
+</div>
+<input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /><input type="hidden" name="get" value="[]" />
+</div><input type="hidden" name="form_build_id" value="form-yPhZpPMJMuIdPnwXuPB8dB5AKjfR2BlfZCGMdfnfI2I" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+</div></form>  </li>
+<!--  <li class="edition">-->
+<!--    <a href="javascript:void(0)" class="icon---><!-- dropdown-toggle" title="Edition"></a>-->
+<!---->
+<!--    <ul class="dropdown-menu">-->
+<!--      <li>-->
+<!--        <a href="javascript:void(0)" data-edition="en_gb">UK Edition --><!--<span class="icon-check"></span>--><!--</a>-->
+<!--      </li>-->
+<!--      <li>-->
+<!--        <a href="javascript:void(0)" data-edition="en_us">US Edition --><!--<span class="icon-check"></span>--><!--</a>-->
+<!--      </li>-->
+<!--    </ul>-->
+<!---->
+<!--  </li>-->
+  <li class="account">
+    <a href="#" class="icon-user dropdown-toggle" title="Account"></a>
+    <ul class="dropdown-menu"><li><a href="/login">Sign in</a></li>
+<li><a href="/register">Register</a></li>
+</ul>  </li>
+  <li class="toggle-menu">
+    <a href="#" class="icon-menu" title="Toggle menu"></a>
+  </li>
+</ol>
+
+<div id="menu">
+  <form class="search-form search search" action="/news/world/europe/finland-plans-to-give-every-citizen-800-euros-a-month-and-scrap-benefits-a6762226.html" method="post" id="search-form" accept-charset="UTF-8"><div><div class="container-inline search-container search-container form-wrapper" id="edit-basic"><div class="form-item form-type-textfield form-item-keys">
+  <label for="edit-keys"> </label>
+ <input placeholder="Search" autofocus="1" type="text" id="edit-keys" name="keys" value="" size="20" maxlength="255" class="form-text" />
+</div>
+<input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /><input type="hidden" name="get" value="[]" />
+</div><input type="hidden" name="form_build_id" value="form-yPhZpPMJMuIdPnwXuPB8dB5AKjfR2BlfZCGMdfnfI2I" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+</div></form>  <ul class="topics"><li><a href="/news" title="">News</a><span class="toggle"><span class="icon-arrow-right"></span></span><ul><li class="hot_topic"><a href="/topic/paris-attacks" title="">Paris attacks</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li class="hot_topic"><a href="/topic/refugee-crisis" title="">Refugee crisis</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li><a href="/news/uk" title="">UK</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li><a href="/news/world/americas" title="">US</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li><a href="/news/world" title="">World</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li><a href="/news/uk/politics" title="">Politics</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li><a href="/news/people" title="">People</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li><a href="/news/science" title="">Science</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li><a href="/news/business" title="">Business</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li><a href="http://www.independent.co.uk/news/media/" title="">Media</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li><a href="http://www.independent.co.uk/news/obituaries" title="">Obituaries</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+</ul></li>
+<li><a href="/voices" title="">Voices</a><span class="toggle"><span class="icon-arrow-right"></span></span><ul><li><a href="http://www.independent.co.uk/voices/campaigns/give-to-gosh" title="">GOSH Appeal</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li><a href="/author/mark-steel" title="">Mark Steel</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li><a href="/author/grace-dent" title="">Grace Dent</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li><a href="/author/robert-fisk" title="">Robert Fisk</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li><a href="/author/holly-baxter" title="">Holly Baxter</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li><a href="/voices/campaigns" title="">Campaigns</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li><a href="/voices/comment" title="">Comment</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li><a href="/voices/editorials" title="">Editorials</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li><a href="/voices/letters" title="">Letters</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li><a href="/voices/campaigns/GiantsClub" title="">Giants Club</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+</ul></li>
+<li><a href="/sport" title="">Sport</a><span class="toggle"><span class="icon-arrow-right"></span></span><ul><li><a href="/sport/football/transfers" title="">Football transfers</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li><a href="/sport/football" title="">Football</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li><a href="/sport/rugby/rugby-union" title="">Rugby union</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li><a href="/sport/cricket" title="">Cricket</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li><a href="/sport/tennis" title="">Tennis</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li><a href="/sport/motor-racing" title="">Motor racing</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li><a href="/sport/us-sport" title="">US sports</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+</ul></li>
+<li><a href="http://www.independent.co.uk/arts-entertainment" title="">Culture</a><span class="toggle"><span class="icon-arrow-right"></span></span><ul><li><a href="/arts-entertainment/books" title="">Books</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li><a href="/arts-entertainment/films" title="">Film</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li><a href="/arts-entertainment/tv" title="">TV</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li><a href="/arts-entertainment/music" title="">Music</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li><a href="/arts-entertainment/art" title="">Art</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li><a href="/arts-entertainment/theatre-dance" title="">Theatre + dance</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li><a href="/arts-entertainment/comedy" title="">Comedy</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li><a href="http://tickets.independent.co.uk?utm_source=nav&amp;utm_medium=Encore" title="">Tickets</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+</ul></li>
+<li><a href="/life-style" title="">Lifestyle</a><span class="toggle"><span class="icon-arrow-right"></span></span><ul><li><a href="/travel" title="">Travel</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li><a href="/life-style/motoring" title="">Motoring</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li><a href="/life-style/food-and-drink" title="">Food + drink</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li><a href="/life-style/health-and-families" title="">Health + families</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li><a href="/life-style/fashion" title="">Fashion + beauty</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li><a href="/student" title="">Student</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li><a href="/life-style/love-sex" title="">Love + sex</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li><a href="http://directory.independent.co.uk/?utm_source=independent&amp;utm_medium=navbar&amp;utm_campaign=touchlocal" title="">Business directory</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li><a href="http://independent.secretescapes.com/instant-access/independent?utm_source=secretescapes&amp;utm_medium=navbar" title="">Secret Escapes</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+</ul></li>
+<li><a href="/life-style/gadgets-and-tech" title="">Tech</a><span class="toggle"><span class="icon-arrow-right"></span></span><ul><li class="hot_topic"><a href="/topic/iphone" title="">iPhone</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li><a href="/life-style/gadgets-and-tech/news" title="">Tech news</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li><a href="/life-style/gadgets-and-tech/features" title="">Tech culture</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li><a href="/life-style/gadgets-and-tech/gaming" title="">Gaming</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+</ul></li>
+<li><a href="/video" title="">Video</a><span class="toggle"><span class="icon-arrow-right"></span></span><ul><li><a href="/video/News" title="">News videos</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li><a href="/video/Explainers" title="">Explainer videos</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li><a href="/video/Sport" title="">Sport videos</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li><a href="/video/People-and-culture" title="">People + culture videos</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+</ul></li>
+<li><a href="/extras/indybest" title="">IndyBest</a><span class="toggle"><span class="icon-arrow-right"></span></span><ul><li><a href="/extras/indybest/fashion-beauty" title="">Fashion + beauty</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li><a href="/extras/indybest/gadgets-tech" title="">Tech</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li><a href="/extras/indybest/house-garden" title="">Homes + design</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li><a href="/extras/indybest/outdoor-activity" title="">Outdoor</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li><a href="/extras/indybest/food-drink" title="">Food + drink</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li><a href="/extras/indybest/arts-books" title="">Culture</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+</ul></li>
+<li><a href="/money" title="">Money</a><span class="toggle"><span class="icon-arrow-right"></span></span><ul><li><a href="/money/mortgages" title="">Mortgages</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li><a href="/money/loans-credit" title="">Loans</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li><a href="/money/spend-save" title="">Savings</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li><a href="/money/pensions" title="">Pensions</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li><a href="http://www.independent.co.uk/money/hifx-international-money-transfers?icn=hifx_nav" title="">Money transfers</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li><a href="http://www.independent.co.uk/money/health-insurance?icn=axa_nav" title="">Health insurance</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li><a href="http://www.independent.co.uk/money/investments/" title="">Investments</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+</ul></li>
+<li><a href="/extras" title="">Extras</a><span class="toggle"><span class="icon-arrow-right"></span></span><ul><li><a href="http://i100.independent.co.uk" title="">i100</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li><a href="http://puzzles.independent.co.uk?utm_campaign=navbar&amp;utm_medium=nav&amp;utm_source=navpuzzles" title="">Puzzles</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li><a href="http://puzzles.independent.co.uk/games/concise-crossword-independent?utm_campaign=navbar&amp;utm_medium=nav&amp;utm_source=navconcise" title="">Concise crossword</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li><a href="http://puzzles.independent.co.uk/games/cryptic-crossword-independent?utm_campaign=navbar&amp;utm_medium=nav&amp;utm_source=navcryptic" title="">Cryptic crossword</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li><a href="/marketing/apps" title="">Apps</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li><a href="/ebooks" title="">Ebooks</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li><a href="http://ijobs.independent.co.uk" title="">iJobs</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li><a href="http://dating.independent.co.uk/?utm_source=dating&amp;utm_campaign=dating&amp;utm_term=independent" title="">Dating</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+<li><a href="http://www.independent.co.uk/competitions/?icn=offfers_nav" title="">Competitions &amp; offers</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
+</ul></li>
+</ul>  <ul class="follow">
+    <li>Follow us:</li>
+    <li>
+      <a href="https://www.facebook.com/TheIndependentOnline" target="_blank" title="Facebook" class="icon-facebook"></a>
+    </li>
+    <li>
+      <a href="https://twitter.com/independent" target="_blank" title="Twitter" class="icon-twitter"></a>
+    </li>
+  </ul>
+</div>
+</header>
+<div id="content">
+  <div id='leaderboard' class="ad-leaderboard" style="margin: 40px auto;">
+    <script>
+      googletag.cmd.push(function() {
+        googletag.display('leaderboard');
+      });
+    </script>
+  </div>
+  <div class="margin" id="cookie-warning">
+    <a href="#" class="close icon-close" title="OK"></a>
+    <p>We use cookies to enhance your visit to our site and to bring you advertisements that might interest you. Read our <a href=" http://www.independent.co.uk/service/privacy-policy-a6184181.html">Privacy</a> and <a href="http://www.independent.co.uk/service/cookie-policy-a6184186.html">Cookies</a> policies to find out more.</p>
+  </div>
+
+  <div class="tabs"></div>      
+    <div class="region region-content">
+    <article class="full-article" itemscope itemtype="http://schema.org/NewsArticle">
+      <header>
+              <ol vocab="http://schema.org/" typeof="BreadcrumbList" class="breadcrumbs clearfix"><li property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" href="http://www.independent.co.uk/news"><span property="name">News</span></a></li><li property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" href="http://www.independent.co.uk/news/world"><span property="name">World</span></a></li><li property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" href="http://www.independent.co.uk/news/world/europe"><span property="name">Europe</span></a></li></ol>        <h1 itemprop="headline" class=" ">Finland plans to give every citizen 800 euros a month and scrap benefits</h1>
+          <div class="intro">
+        A recent poll showed 69% of people agreed with the proposal
+      </div>
+            <ul class="caption meta inline-pipes-list">
+              <li class="author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+          <span itemprop="name"><a href="/author/will-grice" title="Will Grice">Will Grice</a></span>
+                  </li>
+                <li>
+          <a href="https://twitter.com/WillGrice">@WillGrice</a>
+        </li>
+                    <li title="6 December 2015 18:44 London"><time data-microtimes='{"published":"1449405780000","display":"000","changed":"1449427451000"}' datetime="18:44, 6 December 2015"unixtime="1449427451000">Sunday 6 December 2015 18:44 BST</time></li>
+        <script>
+          var updateDate = (function(){
+              var currenttime = new Date().getTime()/1000;
+              var microtimes = JSON.parse($('time').attr('data-microtimes'));
+
+              var m_changed = parseInt(microtimes["changed"]);
+              var m_published = parseInt(microtimes["published"]);
+              var m_display = parseInt(microtimes["display"]);
+
+              var publishtime = m_changed;
+              if (m_published < 1438387200) {
+                publishtime = m_published;
+              }
+              if (m_display > 0) {
+                publishtime = m_display;
+              }
+
+              var weekdays = ["Sunday", "Monday", "Tuesday", "Wednesday",
+                "Thursday", "Friday", "Saturday"];
+
+              var months = ["January", "February", "March", "April",
+                "May", "June", "July", "August", "September", "October",
+                "November", "December"];
+
+              if(currenttime - (publishtime/1000) < 24*60*60) {
+                var timesincevar = timeSince(publishtime);
+                $('time').html(timesincevar + ' ago');
+              }
+              else {
+                var d = new Date(publishtime);
+                var js_date = weekdays[d.getDay()] + " " + d.getDate() + " "
+                  + months[d.getMonth()]  + " " + d.getFullYear();
+                $('time').html(js_date);
+              }
+
+            }
+          );
+
+          function set_plural(i, s) {
+            if (parseInt(i) > 1) {
+              return s + "s&nbsp;";
+            } else {
+              return s + "&nbsp;";
+            }
+          }
+          function timeSince(date) {
+            var seconds = Math.floor((new Date().getTime() - date) / 1000);
+            if (seconds < 0) {
+              seconds = seconds * -1;
+            }
+            var interval = Math.floor(seconds / 31536000);
+            if (interval > 1) {
+              return set_plural(interval, interval + " year");
+            }
+            interval = Math.floor(seconds / 2592000);
+            if (interval > 1) {
+              return set_plural(interval, interval + " month");
+            }
+            interval = Math.floor(seconds / 86400);
+            if (interval > 1) {
+              return set_plural(interval, interval + " day");
+            }
+            interval = Math.floor(seconds / 3600);
+            if (interval >= 1) {
+              interval = Math.round(seconds /  3600);
+              return set_plural(interval, interval + " hour");
+            }
+            interval = Math.floor(seconds / 60);
+            if (interval >= 1) {
+              return set_plural(interval, interval + " minute");
+            }
+            interval = Math.floor(seconds);
+            return set_plural(interval, interval + " second");
+          }
+
+          updateDate();
+
+        </script>
+                    <li class="comments">
+          <a href="#commentsDiv" id="comment-count" class="icon-comment"></a>
+        </li>
+          </ul>
+    <div id="gigya-share-btns-1"></div>
+  </header>
+
+
+        <figure itemprop="associatedMedia image" itemscope itemtype="http://schema.org/ImageObject" class="featured-media medium-width">
+      <meta itemprop="representativeOfPage" content="true">
+            <!-- scald=4071251:article_image --><img itemprop="contentUrl" src="http://static.independent.co.uk/s3fs-public/styles/story_large/public/thumbnails/image/2015/12/06/11/GettyImages-147191248.jpg" width="1368" height="956" alt="Girl holds a Finnish flag at the 2012 European Athletics Championships" /><!-- END scald=4071251 -->          </figure>
+        
+    <div class="article-wrapper clearfix">
+      <div class="main-content-column">
+      <div class="text-wrapper" itemprop="articleBody">
+        <p>Finland's government is drawing up plans to give every one of its citizens a basic income of 800 euros (£576) a month and scrap benefits altogether.</p>
+
+<div class="relatedlinkslist inline-block-related-list inline-block-right">
+<h2 class="box-title">Read more</h2>
+
+<div class="relatedlinkslist-content">
+<ul class="related"><li><a href="/news/world/europe/meet-juuso-the-painting-brown-bear-finlands-next-biggest-export-a6720781.html">Meet Juuso the painting brown bear - Finland's next biggest export</a></li>
+	<li><a href="/news/uk/home-news/food-banks-in-the-uk-volunteers-face-a-growing-battle-as-benefits-crisis-bites-a6762011.html">Food bank volunteers face growing battle as benefits crisis bites</a></li>
+	<li><a href="/news/education/education-news/free-university-tuition-in-scotland-has-not-benefited-the-poor-say-academics-a6757546.html">Free university tuition in Scotland 'has not benefited the poor'</a></li>
+	<li><a href="/news/uk/politics/benefit-sanctions-against-people-with-mental-health-problems-up-by-600-per-cent-a6731971.html">Benefit sanctions against people with mental health issues up by 600%</a></li>
+</ul></div>
+</div>
+
+<p>A poll commissioned by the agency planning the proposal, the Finnish Social Insurance Institute, showed 69% supported the basic income plan.</p>
+
+<p>Prime Minister Juha Sipila was quote by <em><a href="http://qz.com/566702/finland-plans-to-give-every-citizen-a-basic-income-of-800-euros-a-month/" target="_blank">QZ</a> </em>as backing the idea.</p>
+
+<p>“For me, a basic income means simplifying the social security system,” he said.</p>
+
+<p>The proposal would entitle each Finn to 800 euros tax free each month, which according to <a href="http://www.bloombergview.com/articles/2015-11-03/finns-may-get-paid-for-being-finns" target="_blank"><em>Bloomberg</em></a>, would cost the government 52.2 billion euros a year.</p>
+
+<div class="dnd-widget-wrapper context-sdl_editor_representation type-gallery"><div class="dnd-atom-rendered"><!-- scald=3906401:sdl_editor_representation --><div class="image"><div class="container grid-mod-gallery" data-scald-gallery="3906401">
+    <!-- Gallery title -->
+  <h2 class="gallery-title"><span class="media-prefix icon-gallery"></span>World news in pictures</h2>
+    <div class="images">
+    <!-- First four images -->
+    <ul><li class="lazy " data-original="http://www.independent.co.uk/s3/files/styles/story_large/public/thumbnails/image/2015/12/04/14/lenticular-cloud.jpg" style="background-image: url('/sites/all/themes/ines_themes/ines_theme/img/grey.gif');">
+        <a data-gallery-thumb="1" href="#"><span class="pager icon-arrow-left"></span></a>
+        <a data-gallery-thumb="1" href="#"><span class="pager icon-arrow-right"></span></a>
+      </li>
+              <li class="lazy " data-original="http://www.independent.co.uk/s3/files/styles/storylist/public/thumbnails/image/2015/12/04/14/santa-italy.jpg" style="background-image: url('/sites/all/themes/ines_themes/ines_theme/img/blank.gif');">
+          <a data-gallery-thumb="2" href="#"></a>
+        </li>
+              <li class="lazy " data-original="http://www.independent.co.uk/s3/files/styles/storylist/public/thumbnails/image/2015/12/03/14/china-bridge.jpg" style="background-image: url('/sites/all/themes/ines_themes/ines_theme/img/blank.gif');">
+          <a data-gallery-thumb="3" href="#"></a>
+        </li>
+              <li class="lazy " data-original="http://www.independent.co.uk/s3/files/styles/storylist/public/thumbnails/image/2015/12/03/14/Thai-Royal-Guards.jpg" style="background-image: url('/sites/all/themes/ines_themes/ines_theme/img/blank.gif');">
+          <a data-gallery-thumb="4" href="#"></a>
+        </li>
+                  <li>
+        <a class="show-all initial-open" href="#">
+          <span class="additional-photos icon-gallery">30</span>
+          <span class="label">show all</span>
+        </a>
+      </li>
+          </ul></div>
+</div>
+
+<div class="full-gallery">
+  <div class="scroller">
+    <a href="#" class="close icon-close" title="Close gallery"></a>
+        <h2 class="gallery-title"><span class="media-prefix icon-gallery"></span>World news in pictures</h2>
+        <div class="images">
+      <ul><li data-gallery-item="1" data-original="http://www.independent.co.uk/s3/files/styles/story_large/public/thumbnails/image/2015/12/04/14/lenticular-cloud.jpg" style="background-image: url('/sites/all/themes/ines_themes/ines_theme/img/blank.gif');" class=""></li>
+                  <li data-gallery-item="2" data-original="http://www.independent.co.uk/s3/files/styles/story_large/public/thumbnails/image/2015/12/04/14/santa-italy.jpg" style="background-image: url('/sites/all/themes/ines_themes/ines_theme/img/blank.gif');" class=""></li>
+                  <li data-gallery-item="3" data-original="http://www.independent.co.uk/s3/files/styles/story_large/public/thumbnails/image/2015/12/03/14/china-bridge.jpg" style="background-image: url('/sites/all/themes/ines_themes/ines_theme/img/blank.gif');" class=""></li>
+                  <li data-gallery-item="4" data-original="http://www.independent.co.uk/s3/files/styles/story_large/public/thumbnails/image/2015/12/03/14/Thai-Royal-Guards.jpg" style="background-image: url('/sites/all/themes/ines_themes/ines_theme/img/blank.gif');" class=""></li>
+                  <li data-gallery-item="5" data-original="http://www.independent.co.uk/s3/files/styles/story_large/public/thumbnails/image/2015/12/03/14/Imam-Hussein-shrine.jpg" style="background-image: url('/sites/all/themes/ines_themes/ines_theme/img/blank.gif');" class=""></li>
+                  <li data-gallery-item="6" data-original="http://www.independent.co.uk/s3/files/styles/story_large/public/thumbnails/image/2015/12/03/09/San-Bernardino-shooting-6.jpg" style="background-image: url('/sites/all/themes/ines_themes/ines_theme/img/blank.gif');" class=""></li>
+                  <li data-gallery-item="7" data-original="http://www.independent.co.uk/s3/files/styles/story_large/public/thumbnails/image/2015/12/02/15/Indian-naval-band.jpg" style="background-image: url('/sites/all/themes/ines_themes/ines_theme/img/blank.gif');" class=""></li>
+                  <li data-gallery-item="8" data-original="http://www.independent.co.uk/s3/files/styles/story_large/public/thumbnails/image/2015/12/02/16/india-floods.jpg" style="background-image: url('/sites/all/themes/ines_themes/ines_theme/img/blank.gif');" class=""></li>
+                  <li data-gallery-item="9" data-original="http://www.independent.co.uk/s3/files/styles/story_large/public/thumbnails/image/2015/12/02/15/-Christmas-decoration.jpg" style="background-image: url('/sites/all/themes/ines_themes/ines_theme/img/blank.gif');" class=""></li>
+                  <li data-gallery-item="10" data-original="http://www.independent.co.uk/s3/files/styles/story_large/public/thumbnails/image/2015/12/01/15/refugees.jpg" style="background-image: url('/sites/all/themes/ines_themes/ines_theme/img/blank.gif');" class=""></li>
+                  <li data-gallery-item="11" data-original="http://www.independent.co.uk/s3/files/styles/story_large/public/thumbnails/image/2015/11/30/16/aids-day-india.jpg" style="background-image: url('/sites/all/themes/ines_themes/ines_theme/img/blank.gif');" class=""></li>
+                  <li data-gallery-item="12" data-original="http://www.independent.co.uk/s3/files/styles/story_large/public/thumbnails/image/2015/11/30/12/climate-change-melting.jpg" style="background-image: url('/sites/all/themes/ines_themes/ines_theme/img/blank.gif');" class=""></li>
+                  <li data-gallery-item="13" data-original="http://www.independent.co.uk/s3/files/styles/story_large/public/thumbnails/image/2015/11/30/12/demonstrations-paris.jpg" style="background-image: url('/sites/all/themes/ines_themes/ines_theme/img/blank.gif');" class=""></li>
+                  <li data-gallery-item="14" data-original="http://www.independent.co.uk/s3/files/styles/story_large/public/thumbnails/image/2015/11/30/12/prague-christmas-market.jpg" style="background-image: url('/sites/all/themes/ines_themes/ines_theme/img/blank.gif');" class=""></li>
+                  <li data-gallery-item="15" data-original="http://www.independent.co.uk/s3/files/styles/story_large/public/thumbnails/image/2015/11/30/12/refugee.jpg" style="background-image: url('/sites/all/themes/ines_themes/ines_theme/img/blank.gif');" class=""></li>
+                  <li data-gallery-item="16" data-original="http://www.independent.co.uk/s3/files/styles/story_large/public/thumbnails/image/2015/11/30/12/ukraine.jpg" style="background-image: url('/sites/all/themes/ines_themes/ines_theme/img/blank.gif');" class=""></li>
+                  <li data-gallery-item="17" data-original="http://www.independent.co.uk/s3/files/styles/story_large/public/thumbnails/image/2015/11/30/12/panda.jpg" style="background-image: url('/sites/all/themes/ines_themes/ines_theme/img/blank.gif');" class=""></li>
+                  <li data-gallery-item="18" data-original="http://www.independent.co.uk/s3/files/styles/story_large/public/thumbnails/image/2015/11/30/12/france-flag.jpg" style="background-image: url('/sites/all/themes/ines_themes/ines_theme/img/blank.gif');" class=""></li>
+                  <li data-gallery-item="19" data-original="http://www.independent.co.uk/s3/files/styles/story_large/public/thumbnails/image/2015/11/30/12/singapore-christmas-lights.jpg" style="background-image: url('/sites/all/themes/ines_themes/ines_theme/img/blank.gif');" class=""></li>
+                  <li data-gallery-item="20" data-original="http://www.independent.co.uk/s3/files/styles/story_large/public/thumbnails/image/2015/11/26/14/Afghan-boy.jpg" style="background-image: url('/sites/all/themes/ines_themes/ines_theme/img/blank.gif');" class=""></li>
+                  <li data-gallery-item="21" data-original="http://www.independent.co.uk/s3/files/styles/story_large/public/thumbnails/image/2015/11/26/14/Philippines.jpg" style="background-image: url('/sites/all/themes/ines_themes/ines_theme/img/blank.gif');" class=""></li>
+                  <li data-gallery-item="22" data-original="http://www.independent.co.uk/s3/files/styles/story_large/public/thumbnails/image/2015/11/26/14/india.jpg" style="background-image: url('/sites/all/themes/ines_themes/ines_theme/img/blank.gif');" class=""></li>
+                  <li data-gallery-item="23" data-original="http://www.independent.co.uk/s3/files/styles/story_large/public/thumbnails/image/2015/11/25/15/sikh-shrine.jpg" style="background-image: url('/sites/all/themes/ines_themes/ines_theme/img/blank.gif');" class=""></li>
+                  <li data-gallery-item="24" data-original="http://www.independent.co.uk/s3/files/styles/story_large/public/thumbnails/image/2015/11/25/16/pennsylvania-fire.jpg" style="background-image: url('/sites/all/themes/ines_themes/ines_theme/img/blank.gif');" class=""></li>
+                  <li data-gallery-item="25" data-original="http://www.independent.co.uk/s3/files/styles/story_large/public/thumbnails/image/2015/11/25/15/brazil.jpg" style="background-image: url('/sites/all/themes/ines_themes/ines_theme/img/blank.gif');" class=""></li>
+                  <li data-gallery-item="26" data-original="http://www.independent.co.uk/s3/files/styles/story_large/public/thumbnails/image/2015/11/25/15/california-sunset.jpg" style="background-image: url('/sites/all/themes/ines_themes/ines_theme/img/blank.gif');" class=""></li>
+                  <li data-gallery-item="27" data-original="http://www.independent.co.uk/s3/files/styles/story_large/public/thumbnails/image/2015/11/24/14/Tanegashima-Space-Center.jpg" style="background-image: url('/sites/all/themes/ines_themes/ines_theme/img/blank.gif');" class=""></li>
+                  <li data-gallery-item="28" data-original="http://www.independent.co.uk/s3/files/styles/story_large/public/thumbnails/image/2015/11/24/14/indonesia.jpg" style="background-image: url('/sites/all/themes/ines_themes/ines_theme/img/blank.gif');" class=""></li>
+                  <li data-gallery-item="29" data-original="http://www.independent.co.uk/s3/files/styles/story_large/public/thumbnails/image/2015/11/24/14/Kazakh-herdsmen.jpg" style="background-image: url('/sites/all/themes/ines_themes/ines_theme/img/blank.gif');" class=""></li>
+                  <li data-gallery-item="30" data-original="http://www.independent.co.uk/s3/files/styles/story_large/public/thumbnails/image/2015/11/23/15/south-korea.jpg" style="background-image: url('/sites/all/themes/ines_themes/ines_theme/img/blank.gif');" class=""></li>
+              </ul><span class="icon-arrow-left"></span>
+      <span class="icon-arrow-right"></span>
+      <a href="#" class="pager prev" title="Previous photo"></a>
+      <a href="#" class="pager next" title="Next photo"></a>
+    </div>
+
+    <ul class="legends"><li data-gallery-legend="1">
+        <h2>
+          <span class="counter">1/30</span>
+          <!-- Optional photo title -->
+                      4 December 2015                  </h2>
+        <!-- Optional photo caption -->
+                <p>A lenticular cloud forming as white streaks from airplanes mark the blue sky, in a rare atmospheric phenomena above the town of Gevgelija, Macedonia. Lenticular clouds have been regularly confused for UFOs throughout history due to the their smooth, round or oval lens-shaped structure</p>
+                <!-- Optional photo credits -->
+              </li>
+              <li data-gallery-legend="2">
+        <h2>
+          <span class="counter">2/30</span>
+          <!-- Optional photo title -->
+                      4 December 2015                  </h2>
+        <!-- Optional photo caption -->
+                <p>Italian surfer Federico Piccinaglia rides a wave with a stand up paddle (SUP), dressed in a Santa Clause costume, off the coast of Levanto, near La Spezia</p>
+                <!-- Optional photo credits -->
+              </li>
+              <li data-gallery-legend="3">
+        <h2>
+          <span class="counter">3/30</span>
+          <!-- Optional photo title -->
+                      3 December 2015                  </h2>
+        <!-- Optional photo caption -->
+                <p>An aerial view shows fireworks going off to celebrate the completion of the construction of the steel box girder on a glass bridge as it suspends over a canyon in Zhangjiajie National Park, Hunan province, China</p>
+                <!-- Optional photo credits -->
+              </li>
+              <li data-gallery-legend="4">
+        <h2>
+          <span class="counter">4/30</span>
+          <!-- Optional photo title -->
+                      3 December 2015                  </h2>
+        <!-- Optional photo caption -->
+                <p>Thai Royal Guards march in front of the Grand Palace during a military parade as a part of a celebration for the upcoming birthday of King Bhumibol Adulyadej in Bangkok, Thailand. The revered King, the world's longest reigning monarch, will turn 88 on 5 December</p>
+                <!-- Optional photo credits -->
+              </li>
+              <li data-gallery-legend="5">
+        <h2>
+          <span class="counter">5/30</span>
+          <!-- Optional photo title -->
+                      2 December 2015                  </h2>
+        <!-- Optional photo caption -->
+                <p>Shiite pilgrims gathering at the Imam Hussein shrine during ceremonies marking Arbain in the holy city of Karbala, southern Iraq. Iraqi Shiites visit Karbala to perform the religious ceremony of Arbain, on the 40th day after the Shiite holy day of Ashura which commemorates the death of Imam Hussein at the battle of Karbala, which this year will again take place amid high security this year due to the ongoing conflict connected to the military offensive against the group calling themselves the Islamic State</p>
+                <!-- Optional photo credits -->
+              </li>
+              <li data-gallery-legend="6">
+        <h2>
+          <span class="counter">6/30</span>
+          <!-- Optional photo title -->
+                      2 December 2015                  </h2>
+        <!-- Optional photo caption -->
+                <!-- Optional photo credits -->
+              </li>
+              <li data-gallery-legend="7">
+        <h2>
+          <span class="counter">7/30</span>
+          <!-- Optional photo title -->
+                      2 December 2015                  </h2>
+        <!-- Optional photo caption -->
+                <p>An Indian naval band performs during a rehearsal for the forthcoming Navy Day celebrations in front of The Gateway of India in Mumbai. The Indian Navy will celebrate Navy Day on December 4, as a tribute to the maritime operations of the Indian Navy during the 1971 Indo-Pakistan war</p>
+                <!-- Optional photo credits -->
+              </li>
+              <li data-gallery-legend="8">
+        <h2>
+          <span class="counter">8/30</span>
+          <!-- Optional photo title -->
+                      2 December 2015                  </h2>
+        <!-- Optional photo caption -->
+                <p>Rescue workers carry food in a boat to distribute to people trapped in a flooded residential area in Chennai, in the southern Indian state of Tamil Nadu. Weeks of torrential rains have forced the airport in the state capital Chennai to close and have cut off several roads and highways, leaving tens of thousands of people stranded in their homes</p>
+                <!-- Optional photo credits -->
+              </li>
+              <li data-gallery-legend="9">
+        <h2>
+          <span class="counter">9/30</span>
+          <!-- Optional photo title -->
+                      1 December 2015                  </h2>
+        <!-- Optional photo caption -->
+                <p>A Christmas decoration representing a shooting star is pictured under the Dole summit in Cheserex, Switzerland. The installation, 160m wide and 75m high with a linear length of about 800m, is attached every summer to the rocks under the radar station on top of the Dole summit (1677m - 5500 ft) by its instigator Stephane Richard and a team of 20 volunteers. This year marks the 20th anniversary of the installation that can be seen most clearly near Nyon between Lausanne and Geneva, it will be lit until 6 January 2016</p>
+                <!-- Optional photo credits -->
+              </li>
+              <li data-gallery-legend="10">
+        <h2>
+          <span class="counter">10/30</span>
+          <!-- Optional photo title -->
+                      1 December 2015                  </h2>
+        <!-- Optional photo caption -->
+                <p>Refugees protest behind a fence against restrictions limiting passage at the Greek-Macedonian border, near Gevgelija. Since last week, Macedonia has restricted passage to northern Europe to only Syrians, Iraqis and Afghans who are considered war refugees. All other nationalities are deemed economic migrants and told to turn back. Macedonia has finished building a fence on its frontier with Greece becoming the latest country in Europe to build a border barrier aimed at checking the flow of refugees </p>
+                <!-- Optional photo credits -->
+              </li>
+              <li data-gallery-legend="11">
+        <h2>
+          <span class="counter">11/30</span>
+          <!-- Optional photo title -->
+                      30 November 2015                  </h2>
+        <!-- Optional photo caption -->
+                <p>Indian NGO volunteers light candles in the shape of a ribbon during an awareness rally on the eve of World Aids Day in Agartala, the capital of northeastern state of Tripura, India</p>
+                <!-- Optional photo credits -->
+              </li>
+              <li data-gallery-legend="12">
+        <h2>
+          <span class="counter">12/30</span>
+          <!-- Optional photo title -->
+                      29 November 2015                  </h2>
+        <!-- Optional photo caption -->
+                <p>A melting planet in an ice cone is held up during the "Global Climate March" that is organised by environmental NGOs in Berlin on the eve of the official opening of a 195-nation UN climate summit in Paris</p>
+                <!-- Optional photo credits -->
+              </li>
+              <li data-gallery-legend="13">
+        <h2>
+          <span class="counter">13/30</span>
+          <!-- Optional photo title -->
+                      29 November 2015                  </h2>
+        <!-- Optional photo caption -->
+                <p>Demonstrators clash with CRS riot policemen near the Place de la Republique after the cancellation of a planned climate march following shootings in the French capital, ahead of the World Climate Change Conference 2015 (COP21), in Paris, France</p>
+                <!-- Optional photo credits -->
+              </li>
+              <li data-gallery-legend="14">
+        <h2>
+          <span class="counter">14/30</span>
+          <!-- Optional photo title -->
+                      28 November 2015                  </h2>
+        <!-- Optional photo caption -->
+                <p>A Christmas tree is illuminated as the traditional Christmas market opens at the Old Town Square in Prague, Czech Republic</p>
+                <!-- Optional photo credits -->
+              </li>
+              <li data-gallery-legend="15">
+        <h2>
+          <span class="counter">15/30</span>
+          <!-- Optional photo title -->
+                      28 November 2015                  </h2>
+        <!-- Optional photo caption -->
+                <p>A stranded migrant reacts in front of a Macedonian police cordon as they clash after a migrant was electrocuted and badly burned when he climbed on top of a train wagon, near the village of Idomeni, Greece</p>
+                <!-- Optional photo credits -->
+              </li>
+              <li data-gallery-legend="16">
+        <h2>
+          <span class="counter">16/30</span>
+          <!-- Optional photo title -->
+                      28 November 2015                  </h2>
+        <!-- Optional photo caption -->
+                <p>A man attends a commemoration ceremony at a monument for Holodomor victims marking the 82nd anniversary of the famine of 1932-33 in which millions died of hunger in Kiev, Ukraine</p>
+                <!-- Optional photo credits -->
+              </li>
+              <li data-gallery-legend="17">
+        <h2>
+          <span class="counter">17/30</span>
+          <!-- Optional photo title -->
+                      28 November 2015                  </h2>
+        <!-- Optional photo caption -->
+                <p>Giant panda Basi eats a cake given by a keeper to celebrate its 35th birthday, at a giant panda research centre in Fuzhou, Fujian province, China. According to local media, Basi is the eldest giant panda in mainland China</p>
+                <!-- Optional photo credits -->
+              </li>
+              <li data-gallery-legend="18">
+        <h2>
+          <span class="counter">18/30</span>
+          <!-- Optional photo title -->
+                      27 November 2015                  </h2>
+        <!-- Optional photo caption -->
+                <p>French flags hang from windows of a building near the Invalides in Paris. The French President called on all French citizens to hang the tricolour national flag from their windows on Friday to pay tribute to the victims of the Paris attacks during a national day of homage</p>
+                <!-- Optional photo credits -->
+              </li>
+              <li data-gallery-legend="19">
+        <h2>
+          <span class="counter">19/30</span>
+          <!-- Optional photo title -->
+                      27 November 2015                  </h2>
+        <!-- Optional photo caption -->
+                <p>People gather around the Luminarie light sculpture during the Christmas light-up festival at Garden by the Bay in Singapore</p>
+                <!-- Optional photo credits -->
+              </li>
+              <li data-gallery-legend="20">
+        <h2>
+          <span class="counter">20/30</span>
+          <!-- Optional photo title -->
+                      26 November 2015                  </h2>
+        <!-- Optional photo caption -->
+                <p>An Afghan boy plays in the ruins of a house that at one point belonged to the 13th-century Persian poet, Islamic scholar and Sufi mystic Jalal ad-Din Muhammad Rumi on the outskirts of Mazar-i-Sharif </p>
+                <!-- Optional photo credits -->
+              </li>
+              <li data-gallery-legend="21">
+        <h2>
+          <span class="counter">21/30</span>
+          <!-- Optional photo title -->
+                      26 November 2015                  </h2>
+        <!-- Optional photo caption -->
+                <p>People sift through the debris, a day after a huge fire razed an informal settlers' community in suburban Mandaluyong city east of Manila, Philippines. Fire officials say no casualties were reported but about 800 houses were razed and thousands of informal settlers were rendered homeless</p>
+                <!-- Optional photo credits -->
+              </li>
+              <li data-gallery-legend="22">
+        <h2>
+          <span class="counter">22/30</span>
+          <!-- Optional photo title -->
+                  </h2>
+        <!-- Optional photo caption -->
+                <p>Indian policemen light candles at Sangam during the 'Dev Deepawali' festival in Allahabad. 'Dev Deepawali' is observed on the full moon day (Purnima) in the month of Kartika in a traditional Hindu calendar and is the Diwali of the Devas or Gods</p>
+                <!-- Optional photo credits -->
+              </li>
+              <li data-gallery-legend="23">
+        <h2>
+          <span class="counter">23/30</span>
+          <!-- Optional photo title -->
+                      25 November 2015                  </h2>
+        <!-- Optional photo caption -->
+                <p>An Indian Sikh devotee gestures as he stands in the sarovar (water tank) while taking a dip at The Sikh Shrine, The Golden Temple in Amritsar, during a 'Jalau' a splendour show of Sikhism's symbolic items</p>
+                <!-- Optional photo credits -->
+              </li>
+              <li data-gallery-legend="24">
+        <h2>
+          <span class="counter">24/30</span>
+          <!-- Optional photo title -->
+                      25 November 2015                  </h2>
+        <!-- Optional photo caption -->
+                <p>Fire crews from Lebanon and Berks counties battle a two-alarm fire at A &amp; H Industries, Inc. in Myerstown, Pennsylvania, USA</p>
+                <!-- Optional photo credits -->
+              </li>
+              <li data-gallery-legend="25">
+        <h2>
+          <span class="counter">25/30</span>
+          <!-- Optional photo title -->
+                      25 November 2015                  </h2>
+        <!-- Optional photo caption -->
+                <p>An aerial view of the Doce River, which was flooded with toxic lama after a dam owned by Brazilian Vale SA and Australian BHP Billiton Ltd burst early this month, flowing into the Atlantic Ocean in Regencia, Espirito Santo State, Brazil</p>
+                <!-- Optional photo credits -->
+              </li>
+              <li data-gallery-legend="26">
+        <h2>
+          <span class="counter">26/30</span>
+          <!-- Optional photo title -->
+                      25 November 2015                  </h2>
+        <!-- Optional photo caption -->
+                <p>A winter storm clears at sunset over the Interstate 80 near Baxter, California</p>
+                <!-- Optional photo credits -->
+              </li>
+              <li data-gallery-legend="27">
+        <h2>
+          <span class="counter">27/30</span>
+          <!-- Optional photo title -->
+                      24 November 2015                  </h2>
+        <!-- Optional photo caption -->
+                <p>A H-IIA rocket, Telesat's broadcast and telecommunication satellite, lifts off from the launching pad at Tanegashima Space Center on the Japanese southwestern island of Tanegashima, Japan</p>
+                <!-- Optional photo credits -->
+              </li>
+              <li data-gallery-legend="28">
+        <h2>
+          <span class="counter">28/30</span>
+          <!-- Optional photo title -->
+                      24 November 2015                  </h2>
+        <!-- Optional photo caption -->
+                <p>An Indonesian worker dries coloured fabrics on a riverbank in Sukoharjo, Central Java, Indonesia</p>
+                <!-- Optional photo credits -->
+              </li>
+              <li data-gallery-legend="29">
+        <h2>
+          <span class="counter">29/30</span>
+          <!-- Optional photo title -->
+                      24 November 2015                  </h2>
+        <!-- Optional photo caption -->
+                <p>Kazakh herdsmen drive their sheep and goats among snow-covered fields next to a forest at Guozigou valley in Yili, Xinjiang Uighur Autonomous Region, China</p>
+                <!-- Optional photo credits -->
+              </li>
+              <li data-gallery-legend="30">
+        <h2>
+          <span class="counter">30/30</span>
+          <!-- Optional photo title -->
+                      23 November 2015                  </h2>
+        <!-- Optional photo caption -->
+                <p>South Korean marines perform a martial art during a ceremony to commemorate the 5th anniversary of North Korea's shelling of Yeonpyeong Island at the War Memorial in Seoul.  North Korea warned of "merciless" attacks on South Korean border islands if Seoul stages live-fire drills near the maritime border on the fifth anniversary of Pyongyang's deadly shelling attack</p>
+                <!-- Optional photo credits -->
+              </li>
+          </ul><div class="ad-mpu mpu5-container">
+    </div>
+  </div>
+</div>
+</div><!-- END scald=3906401 --></div></div>
+
+<p>The country's government will make a final decision on the plan in November 2016.</p>
+
+<p>The Netherlands has already been trialling a similar proposal, with Utrecht set to undergo a pilot project next year. </p>
+                  <meta itemprop="datePublished" content="2015-12-06T18:44:11+00:00"/>
+                                  <ul class="inline-pipes-list">
+            <li>
+              More about:
+            </li>
+                          <li><a itemprop="keywords" href="/topic/Finland">Finland</a></li>
+                          <li><a itemprop="keywords" href="/topic/benefits">benefits</a></li>
+                      </ul>
+                <div id="gigya-share-btns-2"></div>
+      </div>
+<div class="taboola">
+      <div id="taboola-below-article-thumbnails"></div>
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'thumbnails-d',
+    container: 'taboola-below-article-thumbnails',
+    placement: 'Below Article Thumbnails',
+    target_type: 'mix'
+  });
+</script><div id="taboola-below-article-thumbnails-2nd"></div>
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'organic-thumbnails-d',
+    container: 'taboola-below-article-thumbnails-2nd',
+    placement: 'Below Article Thumbnails 2nd',
+    target_type: 'mix'
+  });
+</script>  </div>
+<div class="partner-slots">
+  <div class="es-partners-slot parter-slot-1">
+    <div id="partner1">
+      <script>
+        googletag.cmd.push(function () {
+          googletag.display('partner1');
+        });
+      </script><div id="google_ads_iframe_/71347885/_main_eveningstandard_10__container__" style="border: 0pt none;"></div>
+    </div>
+  </div>
+  <div class="es-partners-slot parter-slot-2">
+    <div id="partner2">
+      <script>
+        googletag.cmd.push(function () {
+          googletag.display('partner2');
+        });
+      </script>
+      <div id="google_ads_iframe_/71347885/_main_eveningstandard_11__container__" style="border: 0pt none;"></div>
+    </div>
+  </div>
+</div>
+
+<div class="box-comments">
+<a href='/profile?news' class='email-signpost'><img src='/sites/all/themes/ines_themes/independent_theme/img/signposts/news-560x45.jpg' alt='' width='100%' style='max-width:560px'/></a></div>
+
+  <div class="box-comments">
+    <h2 class="box-title">Comments</h2>
+    <div id='commentsDiv'></div>
+    <script type='text/javascript'>
+      function onSiteLoginHandler(event) {
+        var currentUrl = window.location.href;
+        sessionStorage.setItem('indes_SourceURL', currentUrl);
+        sessionStorage.setItem('indes_Type', 'comment');
+        document.location = "/login";
+      }
+      function getLoggedIn(response) {
+        if (response.user.UID === '') {
+          $(window).load(function() {
+            $('.gig-composebox-editor').css('display', 'none');
+            $('.gig-composebox-site-login').text('Log in or register to comment');
+          });
+        }
+      }
+      var params = {
+        categoryID: 'ArticleComments',
+        streamID: 'a6762226',
+        version: 2,
+        containerID: 'commentsDiv',
+        cid:'',
+        enabledShareProviders: 'facebook,twitter,yahoo,linkedin',
+        useSiteLogin: true,
+        onSiteLoginClicked: onSiteLoginHandler // registering to the onSiteLoginClicked event
+      }
+      gigya.comments.showCommentsUI(params);
+      gigya.socialize.getUserInfo({
+        callback: getLoggedIn
+      });
+    </script>
+  </div>
+      </div>
+              <div class="right-hand-column ">
+          <div class="sidebar">
+            <aside class="layout-component layout-component-html" id="html-0">
+        <div id="perform">
+        <script>
+          googletag.cmd.push(function () {
+            googletag.display('perform');
+          });
+        </script>
+      </div></aside>
+<aside class="layout-component layout-component-mpu">
+  <div class="ad-mpu mpu0-container"></aside>
+<aside class="layout-component layout-component-i100" id="i100-0">
+  <div data-feed="http://i100.independent.co.uk/feed">
+    <h3><a href="http://i100.co.uk/?utm_source=indy&utm_medium=top5header&utm_campaign=i100" target="_blank"><img src="http://www.independent.co.uk/profiles/ines/modules/ines_layout_component/assets/i100.png"/></a></h3>
+  <ul class="simple-news-list">
+  </ul></div></aside>
+<aside class="layout-component layout-component-most-popular article-list" id="most_popular-0">
+  <div data-feed="http://www.independent.co.uk/layout_component/api-mmm">
+    <h2 class="box-title">Most Popular</h2>
+  <ul class="simple-news-list">
+  </ul></div></aside>
+<aside class="layout-component layout-component-taboola-single" id="taboola_single-0">
+  <div id="taboola-single-mpu-thumbnails"></div>
+    <script type="text/javascript">
+      window._taboola = window._taboola || [];
+      _taboola.push({
+        mode: "thumbnails-k",
+        container: "taboola-single-mpu-thumbnails",
+        placement: "Right Rail Thumbnails",
+        target_type: "mix"
+      });
+    </script></aside>
+<aside class="layout-component layout-component-mpu">
+  <div class="ad-mpu mpu6-container"></aside>
+<aside class="layout-component layout-component-ines-video-sidebar" id="ines_video_sidebar-0">
+  <div data-feed="http://www.independent.co.uk/layout_component/sidebar-videos">
+    <h2 class="box-title">Video</h2>
+    <ul class="video-sidebar clearfix">
+    </ul></div></aside>
+<aside class="layout-component layout-component-ines-sponsored-features-sidebar article-list" id="ines_sponsored_features_sidebar-0">
+  <div data-feed="http://www.independent.co.uk/layout_component/sponsored-features">
+    <h2 class="box-title">Sponsored Features</h2>
+    <ul class="simple-news-list">
+    </ul></div></aside>
+            <aside class="visible">
+              <div id="onscrollmpu"></div>
+            </aside>
+          </div>
+        </div>
+          </div>
+
+
+  <div id='teads'>
+     <script>
+          googletag.cmd.push(function() {
+            googletag.display('teads');
+          });
+     </script>
+  </div>
+
+</article>  </div>
+
+	<footer id="mastfooter">
+
+		<div class="stamp"></div>
+
+		<ul class="follow">
+			<li>Follow us:</li>
+			<li>
+				<a href="https://www.facebook.com/TheIndependentOnline" target="_blank" title="Facebook" class="icon-facebook"></a>
+			</li>
+			<li>
+				<a href="https://twitter.com/independent" target="_blank" title="Twitter" class="icon-twitter"></a>
+			</li>
+		</ul>
+<ul class="links"><li><a href="/service/user-policies-a6184151.html" title="">User Policies</a></li>
+<li><a href="/service/privacy-policy-a6184181.html" title="">Privacy Policy</a></li>
+<li><a href="/service/cookie-policy-a6184186.html" title="">Cookie Policy</a></li>
+<li><a href="/service/code-of-conduct-a6184241.html" title="">Code of Conduct</a></li>
+<li><a href="/service/complaint-form-a6184246.html" title="">Complaint Form</a></li>
+<li><a href="/service/contact-us-759589.html" title="">Contact Us</a></li>
+<li><a href="http://www.independent.co.uk/service/external-contributors-policy-7905982.html" title="">Contributors</a></li>
+<li><a href="/topics-list" title="">All Topics</a></li>
+<li><a href="http://www.independent.co.uk/archive" title="">Archive</a></li>
+<li><a href="http://www.independent.co.uk/register" title="">Newsletters</a></li>
+<li><a href="http://ijobs.independent.co.uk/" title="">iJobs</a></li>
+<li><a href="https://www.independentsubscriptions.co.uk/" title="">Subscriptions</a></li>
+<li><a href="http://esimedia.co.uk/" title="">Advertising Guide</a></li>
+<li><a href="http://syndication.independent.co.uk" title="">Syndication</a></li>
+<li><a href="http://www.standard.co.uk/" title="">Evening Standard</a></li>
+<li><a href="http://en.novayagazeta.ru/" title="">Novaya Gazeta</a></li>
+<li><a href="http://www.independent.co.uk/marketing/apps/" title="">Install our Apps</a></li>
+</ul>	</footer>
+    <div id='inskin8x8'>
+     <script>
+          googletag.cmd.push(function() {
+            googletag.display('inskin8x8');
+          });
+     </script>
+  </div>
+  <div id='outofpageslot'>
+     <script>
+          googletag.cmd.push(function() {
+            googletag.display('outofpageslot');
+          });
+     </script>
+  </div>
+  <div id='teadsib'>
+     <script>
+          googletag.cmd.push(function() {
+            googletag.display('teadsib');
+          });
+     </script>
+  </div>
+  <div id='znaptag'>
+     <script>
+          googletag.cmd.push(function() {
+            googletag.display('znaptag');
+          });
+     </script>
+  </div>
+  <div id='thirdparty01'>
+     <script>
+          googletag.cmd.push(function() {
+            googletag.display('thirdparty01');
+          });
+     </script>
+  </div>
+  </div>
+      <div class="region region-page-bottom">
+    <!-- SiteCatalyst code version: h.27.5.
+Copyright 1996-2015 Adobe, Inc. -->
+<script type="text/javascript" src="http://www.independent.co.uk/sites/all/libraries/sitecatalyst/ind_s_code.js?nysdyd"></script>
+<script type="text/javascript"><!--
+
+s.events="event7";
+s.prop3="";
+s.prop8="Article";
+s.prop9="";
+s.prop10="12:43 PM";
+s.prop11="Finland plans to give every citizen 800 euros a month and scrap benefits";
+s.prop12="finland-plans-to-give-every-citizen-800-euros-a-month-and-scrap-benefits-a6762226.html";
+s.prop13="Will Grice";
+s.prop15="image";
+s.prop16="Sunday, 6 December 2015";
+s.pageName="news\/world\/europe\/article6762226";
+s.hier1="news,world,europe";
+s.channel="news";
+s.prop1="news:world";
+s.prop2="news:world:europe";
+s.prop18="New Site";
+s.prop6="";
+s.prop7="";
+s.server="www.independent.co.uk";
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script>
+<noscript><img src="http://independent.122.2o7.net/b/ss/indepdev/1/H.27.5--NS/0?[AQB]&amp;cdp=3&amp;[AQE]/5482228" height="1" width="1" alt=""></noscript>
+<!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: h.27.5. -->
+  </div>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window._taboola = window._taboola || [];
+  _taboola.push({flush: true});
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.independent.co.uk/sites/all/themes/ines_themes/independent_theme/js/ines_masthead_tracking.js?nysdyd"></script>
+<script type="text/javascript" src="http://www.independent.co.uk/sites/all/themes/ines_themes/ines_theme/js/main.js?nysdyd"></script>
+
+
+    <!-- Affiliate Window -->
+    
+
+    <script type="text/javascript" src="http://www.independent.co.uk/sites/all/modules/contrib/jquery_update/replace/jquery/1.10/jquery.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="http://www.independent.co.uk/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://www.independent.co.uk/misc/drupal.js?nysdyd"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(document).ready(function () {
+            if (!/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+              $(".mpu0-container").html("<div id='mpu0'></div>");
+              $(".mpu6-container").html("<div id='mpu6'></div>");
+              $(".mpu7-container").html("<div id='mpu7'></div>");
+              googletag.display("mpu0");
+              googletag.display("mpu6");
+              googletag.display("mpu7");
+            }
+          });
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.independent.co.uk/sites/all/libraries/hammerjs/hammer.min.js?nysdyd"></script>
+<script type="text/javascript" src="//cdn.jsdelivr.net/qtip2/2.2.1/jquery.qtip.min.js"></script>
+<script type="text/javascript" src="http://www.independent.co.uk/sites/all/modules/contrib/qtip/js/qtip.js?nysdyd"></script>
+<script type="text/javascript" src="http://www.independent.co.uk/sites/all/modules/contrib/google_analytics/googleanalytics.js?nysdyd"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-27212627-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("set", "dimension1", "Image");ga("set", "dimension2", "News");ga("set", "dimension3", "Europe");ga("set", "dimension4", "Will Grice");ga("set", "dimension5", "6762226");ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.independent.co.uk/profiles/ines/modules/ines_scald_videos_external/ines_scald_videos_external.js?nysdyd"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "themeName": "independent_theme" });
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "s_account": "indepdev" });
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.independent.co.uk/sites/all/themes/ines_themes/ines_theme/js/adunit.js?nysdyd"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window._newsroom = window._newsroom || [];
+      !function (e, f, u) {
+          e.async = 1;
+          e.src = u;
+          f.parentNode.insertBefore(e, f);
+      }(document.createElement('script'),
+              document.getElementsByTagName('script')[0], '//c2.taboola.com/nr/eslmedia-theindependent/newsroom.js');
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "commentsCategoryId": "ArticleComments" });
+//--><!]]>
+</script>
+<script type="text/javascript" src="//s.skimresources.com/js/44681X1528610.skimlinks.js"></script>
+<script type="text/javascript" src="http://www.independent.co.uk/profiles/ines/modules/ines_device/js/ines_device.js?nysdyd"></script>
+<script type="text/javascript" src="http://www.independent.co.uk/profiles/ines/modules/ines_gigya/js/gigya.login.js?nysdyd"></script>
+<script type="text/javascript" src="http://www.independent.co.uk/profiles/ines/modules/ines_hacks/js/admin.js?nysdyd"></script>
+<script type="text/javascript" src="http://www.independent.co.uk/profiles/ines/modules/ines_layout_config/js/layout_grid.feeds.js?nysdyd"></script>
+<script type="text/javascript" src="http://www.independent.co.uk/sites/all/themes/ines_themes/ines_theme/js/gigya.session.js?nysdyd"></script>
+<script type="text/javascript" src="http://cdn.georiot.com/snippet.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+$(document).ready(function() {
+        var tsid = 3658; // Independent
+        Georiot.snippet.convertToGeoRiotLinks(tsid);
+      });
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+ga('send', 'event', 'Replatform', 'pageview', location.href);
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+ga('send', 'event', 'Page Type', pageType, location.href);
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(){var a=document,b=a.createElement("script"),a=a.getElementsByTagName("script")[0];b.type="text/javascript";b.async=!0;b.src="http://s.moatads.com/eveningstandard858kBFE49/moatcontent.js";a.parentNode.insertBefore(b,a)})();
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"independent_theme","theme_token":"J4FuIdZEoXoXYuin34UuxgwzLnTZDq2fMmu5oMu0tm0","js":{"0":1,"sites\/all\/themes\/ines_themes\/independent_theme\/js\/ines_masthead_tracking.js":1,"sites\/all\/themes\/ines_themes\/ines_theme\/js\/main.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"1":1,"sites\/all\/libraries\/hammerjs\/hammer.min.js":1,"\/\/cdn.jsdelivr.net\/qtip2\/2.2.1\/jquery.qtip.min.js":1,"sites\/all\/modules\/contrib\/qtip\/js\/qtip.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"2":1,"profiles\/ines\/modules\/ines_scald_videos_external\/ines_scald_videos_external.js":1,"3":1,"4":1,"sites\/all\/themes\/ines_themes\/ines_theme\/js\/adunit.js":1,"5":1,"6":1,"\/\/s.skimresources.com\/js\/44681X1528610.skimlinks.js":1,"profiles\/ines\/modules\/ines_device\/js\/ines_device.js":1,"profiles\/ines\/modules\/ines_gigya\/js\/gigya.login.js":1,"profiles\/ines\/modules\/ines_hacks\/js\/admin.js":1,"profiles\/ines\/modules\/ines_layout_config\/js\/layout_grid.feeds.js":1,"sites\/all\/themes\/ines_themes\/ines_theme\/js\/gigya.session.js":1,"http:\/\/cdn.georiot.com\/snippet.js":1,"7":1,"8":1,"9":1,"10":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/scald\/modules\/library\/dnd\/css\/editor-global.css":1,"modules\/field\/theme\/field.css":1,"profiles\/ines\/modules\/ines_archive_calendar\/ines_archive_calendar.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/scald_file\/scald_file.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/qtip2\/2.2.1\/jquery.qtip.min.css":1,"sites\/all\/modules\/contrib\/qtip\/css\/qtip.css":1,"sites\/all\/themes\/ines_themes\/ines_theme\/css\/style.css":1,"sites\/all\/themes\/ines_themes\/independent_theme\/css\/style.css":1,"profiles\/ines\/modules\/ines_hacks\/css\/admin.css":1}},"instances":"[]","qtipDebug":"{\u0022leaveElement\u0022:0}","googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/news\/world\/europe\/finland-plans-to-give-every-citizen-800-euros-a-month-and-scrap-benefits-a6762226.html":true},"layoutgridfeeds":[{"url":"http:\/\/i100.independent.co.uk\/feed","root":"articles","title":"headline","image":"thumbnailImage:url","link":"displayURL"},{"url":"http:\/\/www.independent.co.uk\/layout_component\/api-mmm","root":"articles","title":"title","image":"image","link":"link"},{"url":"http:\/\/www.independent.co.uk\/layout_component\/sidebar-videos","root":"articles","title":"title","image":"image","link":"link","type":"video"},{"url":"http:\/\/www.independent.co.uk\/layout_component\/sponsored-features","root":"articles","title":"title","image":"image","link":"link"}]});
+//--><!]]>
+</script>
+
+
+
+    <script>
+      var refreshLeader = function () {
+        googletag.cmd.push(function () {
+          googletag.pubads().refresh([gptAdSlots[0]]);
+        });
+        console.log('refreshing leaderboard');
+      };
+
+      var refreshDmpu = function () {
+        googletag.cmd.push(function () {
+          googletag.pubads().refresh([gptAdSlots[4]]);
+          googletag.pubads().refresh([gptAdSlots[5]]);
+          googletag.pubads().refresh([gptAdSlots[6]]);
+        });
+        console.log('refreshing dmpu');
+      };
+    </script>
+
+    <script>
+
+      function adMappingResize() {
+        // Get the dimensions of the viewport
+        var width = $(window).width(),
+                leaderSlot = $('#leaderboard div iframe').width(),
+                dmpuSlot = $('#dmpu1 div iframe').height();
+        if (leaderSlot == 970 && width < 1050 || leaderSlot != 728 && width > 750 && width < 1050 || leaderSlot != 320 && width < 750) {
+          refreshLeader();
+        }
+        if (dmpuSlot == 600 && width < 620) {
+          refreshDmpu();
+        }
+      }
+      ;
+      $(window).resize(adMappingResize);     // When the browser changes size
+    </script>
+
+    <script type="text/javascript">
+      // function to show the whatsApp icon on compatible devices
+      function hideWA() {
+        if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+          $('.gig-button-container-whatsapp').addClass('gig-button-showmeWA');
+        }
+      }
+      // pass function with argument
+      function loadShareBar(containerID) {
+        var ag = new gigya.socialize.UserAction();
+        // Configure sharebar using the Open Graph meta
+        ag.setTitle($("meta[property='og:title']").attr("content"));
+        ag.setDescription($("meta[property='og:description']").attr("content"));
+
+        ag.addMediaItem({
+          type: 'image',
+          src: $("meta[property='og:image']").attr("content"),
+          href: ag.permalink
+        });
+        var showShareBarUI_params = {
+          userAction: ag,
+          shortURLs: 'never',
+          showTooltips: true,
+          containerID: containerID, // argument with div ID
+          showCounts: 'right',
+          iconsOnly: true,
+          onLoad: hideWA, // function to run when sharebar has loaded, detects device and displays whatsApp share icon
+          deviceType: 'auto',
+          shareButtons: [{
+              provider: 'facebook',
+              tooltip: 'Share on Facebook',
+              enableCount: 'false',
+              iconImgUp: '/sites/all/themes/ines_themes/independent_theme/img/facebook.png'
+            }, {
+              provider: 'Twitter',
+              tooltip: 'Share on Twitter',
+              enableCount: 'false',
+              related: 'independent,thei100,indyusa',
+              via: 'independent',
+              iconImgUp: '/sites/all/themes/ines_themes/independent_theme/img/twitter.png'
+            }, {// only shows on compatible devices
+              provider: 'WhatsApp',
+              tooltip: 'WhatsApp',
+              enableCount: 'false',
+              iconImgUp: '/sites/all/themes/ines_themes/independent_theme/img/whatsapp.png'
+            }, {
+              provider: 'email',
+              tooltip: 'email',
+              enableCount: 'false',
+              iconImgUp: '/sites/all/themes/ines_themes/independent_theme/img/email.png'
+            }, {
+              provider: 'share',
+              tooltip: 'Share',
+              enableCount: true,
+              iconImgUp: '/sites/all/themes/ines_themes/ines_theme/img/blank.gif'
+            }]
+        }
+        gigya.socialize.showShareBarUI(showShareBarUI_params);
+      }
+      ;
+      // call function with element into which share bar appears as argument, can run multiple times
+      loadShareBar('gigya-share-btns-1');
+      loadShareBar('gigya-share-btns-2');
+      loadShareBar('gigya-share-btns-3');
+
+      // Twitter follow button.
+      window.twttr = (function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0],
+                t = window.twttr || {};
+        if (d.getElementById(id))
+          return t;
+        js = d.createElement(s);
+        js.id = id;
+        js.src = "https://platform.twitter.com/widgets.js";
+        fjs.parentNode.insertBefore(js, fjs);
+
+        t._e = [];
+        t.ready = function (f) {
+          t._e.push(f);
+        };
+
+        return t;
+      }(document, "script", "twitter-wjs"));
+
+    </script>
+    <!-- Begin comScore Tag -->
+  <script>
+    var _comscore = _comscore || [];
+    _comscore.push({ c1: "2", c2: "10476312" });
+    (function() {
+      var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+      s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+      el.parentNode.insertBefore(s, el);
+    })();
+  </script>
+  <noscript>
+    <img src="http://b.scorecardresearch.com/p?c1=2&c2=10476312&cv=2.0&cj=1" />
+  </noscript>
+  <!-- End comScore Tag -->    <!-- Sailthru Horizon -->
+  <script type="text/javascript">
+      (function() {
+          function loadHorizon() {
+              var s = document.createElement('script');
+              s.type = 'text/javascript';
+              s.async = true;
+              s.src = location.protocol + '//ak.sail-horizon.com/horizon/v1.js';
+              var x = document.getElementsByTagName('script')[0];
+              x.parentNode.insertBefore(s, x);
+          }
+          loadHorizon();
+          var oldOnLoad = window.onload;
+          window.onload = function() {
+              if (typeof oldOnLoad === 'function') {
+                  oldOnLoad();
+              }
+              Sailthru.setup({
+                  domain: 'horizon.e.independent.co.uk'
+              });
+          };
+      })();
+  </script>    
+    <div id='overlay'>
+      <script>
+        googletag.cmd.push(function () {
+          googletag.display('overlay');
+        });
+      </script>
+    </div>
+
+    <script type='text/javascript'>
+      // googletag.cmd.push(function() {
+      //   sbi_morpheus.callOperator();
+      // });
+    </script>
+
+    <script src="/sites/all/themes/ines_themes/independent_theme/js/ads.js"></script>
+    <script>
+      jQuery(document).ready(checkAds());
+      function checkAds() {
+        if (window.runAds === undefined) {
+          ga('send', 'event', 'Adblock', 'Blocked', location.href);
+        } else {
+          ga('send', 'event', 'Adblock', 'Unblocked', location.href);
+        }
+      }
+      ;
+    </script>
+
+    <!-- combined tracking code -->
+    <script>
+      ga('create', 'UA-69936242-1', 'auto', 'combined');
+      ga('combined.send', 'pageview');
+    </script>
+
+  </body>
+</html>
+
+
+WARC/1.0
+WARC-Type: resource
+WARC-Record-ID: <urn:uuid:556e75b4-72cf-4d2f-9b5e-cd8b4d7a23db>
+WARC-Warcinfo-ID: <urn:uuid:7a9f2394-670e-4987-99c8-dfb5d24bfcd0>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/MANIFEST.txt
+WARC-Date: 2015-12-07T00:08:48Z
+Content-Type: text/plain
+Content-Length: 48
+
+<urn:uuid:7a9f2394-670e-4987-99c8-dfb5d24bfcd0>
+
+
+WARC/1.0
+WARC-Type: resource
+WARC-Record-ID: <urn:uuid:556e75b4-72cf-4d2f-9b5e-cd8b4d7a23db>
+WARC-Warcinfo-ID: <urn:uuid:7a9f2394-670e-4987-99c8-dfb5d24bfcd0>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/wget_arguments.txt
+WARC-Date: 2015-12-07T00:08:48Z
+Content-Type: text/plain
+Content-Length: 322
+
+"--warc-file" "finland-plans-to-give-every-citizen-800-euros-a-month-and-scrap-benefits-a6762226" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "-q" "-O" "/dev/null" "http://www.independent.co.uk/news/world/europe/finland-plans-to-give-every-citizen-800-euros-a-month-and-scrap-benefits-a6762226.html" 
+
+

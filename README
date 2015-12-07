@@ -23,22 +23,24 @@ to only run the tests in data/misc
 
 TEST DATA:
 
-Freeform directory structure. Probably arrange by categories,
-eg country, national papers, local papers, blogs, whatever.
+data/ contains our main test suite. Ideally these should always
+pass (still an aspirational goal ;- )
 
-Each test has two files - one holding source date, the other
+staging/ contains the stuff we want to be able to scrape, but
+aren't quite ready for yet.
+
+Under these top-level directories, the directory structure
+is pretty freeform. Currently organised by country.
+
+Each test has two files - one holding source data, the other
 the expected result.
 
-Source can be either a html file, or a warc file capturing
-the raw http response and (optionally) the request(s) and other
-metadata.
-
-Warc files are preferred, as they provide better opportunity for
-picking up redirects and character encodings.
+The source data is a .warc file capturing the raw http
+response and (optionally) the request(s) and other metadata.
 
 The test framework (runtests) goes like this:
   - for each .expected file
-    - find the coressponding .warc or .html file
+    - find the coressponding .warc file
     - run that though the scraper
     - compare the results against those in the .expected file
 
