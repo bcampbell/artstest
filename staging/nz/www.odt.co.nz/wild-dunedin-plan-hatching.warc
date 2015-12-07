@@ -1,0 +1,868 @@
+WARC/1.0
+WARC-Type: warcinfo
+Content-Type: application/warc-fields
+WARC-Date: 2015-12-07T00:29:49Z
+WARC-Record-ID: <urn:uuid:efcfb2cb-04e4-4ce7-84d3-48218e335de5>
+WARC-Filename: wild-dunedin-plan-hatching.warc
+Content-Length: 386
+
+software: Wget/1.13.4-2608 (linux-gnu)
+format: WARC File Format 1.0
+conformsTo: http://bibnum.bnf.fr/WARC/WARC_ISO_28500_version1_latestdraft.pdf
+robots: classic
+wget-arguments: "--warc-file" "wild-dunedin-plan-hatching" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "-q" "-O" "/dev/null" "http://www.odt.co.nz/news/dunedin/365981/wild-dunedin-plan-hatching" 
+
+
+
+WARC/1.0
+WARC-Type: request
+WARC-Target-URI: http://www.odt.co.nz/news/dunedin/365981/wild-dunedin-plan-hatching
+Content-Type: application/http;msgtype=request
+WARC-Date: 2015-12-07T00:29:49Z
+WARC-Record-ID: <urn:uuid:bc29ada7-caf5-45e1-8512-66916dbc509a>
+WARC-IP-Address: 202.78.240.20
+WARC-Warcinfo-ID: <urn:uuid:efcfb2cb-04e4-4ce7-84d3-48218e335de5>
+Content-Length: 164
+
+GET /news/dunedin/365981/wild-dunedin-plan-hatching HTTP/1.1
+User-Agent: Wget/1.13.4-2608 (linux-gnu)
+Accept: */*
+Host: www.odt.co.nz
+Connection: Keep-Alive
+
+
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <urn:uuid:8a57cca6-21ee-40a4-beba-ed4d38a327a2>
+WARC-Warcinfo-ID: <urn:uuid:efcfb2cb-04e4-4ce7-84d3-48218e335de5>
+WARC-Concurrent-To: <urn:uuid:bc29ada7-caf5-45e1-8512-66916dbc509a>
+WARC-Target-URI: http://www.odt.co.nz/news/dunedin/365981/wild-dunedin-plan-hatching
+WARC-Date: 2015-12-07T00:29:49Z
+WARC-IP-Address: 202.78.240.20
+Content-Type: application/http;msgtype=response
+Content-Length: 58701
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 07 Dec 2015 00:29:49 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 58359
+Last-Modified: Mon, 07 Dec 2015 00:27:19 GMT
+Connection: keep-alive
+Expires: Tue, 22 Sep 1974 08:00:00 GMT
+Cache-Control: must-revalidate, post-check=0, pre-check=0
+X-Header: Boost
+Accept-Ranges: bytes
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>&#039;Wild Dunedin&#039; plan hatching | Otago Daily Times Online News : Otago, South Island, New Zealand &amp; International News</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+      <!-- Additional IE/Win specific style sheet (Conditional Comments) -->
+      <!--[if lte IE 7]>
+      <link rel="stylesheet" href="/sites/all/modules/jstools/tabs/tabs-ie.css" type="text/css" media="projection, screen" />
+      <![endif]-->
+    
+<meta name="copyright" content="Copyright Allied Press Ltd. All rights reserved." />
+<meta name="description" content="[image]A three-day ''Wild Dunedin'' nature festival is being planned for next year and organisers hope it will attract thousands of visitors to the city." />
+<meta name="keywords" content="Dunedin" />
+<meta name="robots" content="index,follow" />
+<script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type='text/javascript'>stLight.options({publisher:'7a6c5be3-650a-42b2-a9c1-31d008f287a3'});</script>
+<link rel="shortcut icon" href="/sites/all/themes/odt/favicon.ico" type="image/x-icon" />
+<script type='text/javascript'><!--// <![CDATA[
+  var OA_zones = {
+'Ad Microsite - Big Banner':13,'Enter Sponsor (410x32)':71,'Directory - Big Banner':15,'Directory - Promo':16,'Directory - Rect':17,'Directory - Super Rect':18,'Directory - Rectangle Lite':19,'Horizontal Sponsor Top Banner':20,'Channel Block Header':21,'Editorial Promo':27,'Site Wide - Big Banner':23,'Site Wide - Rect':24,'Site Wide - Rect Lite':25,'Site Wide - Skyscraper':26,'Channel Block 2':55,'Channel Page Title 3':54,'Channel Page Title':29,'Horizontal Sponsor Banner':57,'Site Wide - Half':60,'ODT Sponsors Advertising - Rectangle':38,'DS Cars Sale (160x600)':30,'DS Cars Sale (300x250)':39,'ODT Sponsors (610x60)':73,'Site Wide - Rect Lite 1':44,'Channel Block 1':45,'Classi-300x100':46,'Classi2-300x100':47,'Channel Page Title 2':53,'Classifieds - rect':49,'Classifieds - big banner':50,'Home - Promo':66,'Classifieds - super rect':52,'Features Rect 1':74  }
+// ]]> --></script>
+<script type='text/javascript' src='http://adserver.alliedpress.co.nz/www/delivery/spcjs.php?id=1&amp;target=_blank'></script>
+<style type="text/css" media="all">@import "/files/css/dc24e55ed37f48cf2ac0ac9f6f4ce645.css";</style>
+<style type="text/css" media="all">@import "/sites/all/themes/odt/style-news.css";</style><!--[if IE 6]>
+<style type="text/css">
+#adSpace0 {overflow: hidden; }
+#adSpace1 {overflow: hidden; }
+#adSpace2 {overflow: hidden; }
+</style>
+<![endif]-->
+<script type="text/javascript" src="/misc/jquery.js"></script>
+<script type="text/javascript" src="/misc/drupal.js"></script>
+<script type="text/javascript" src="/sites/all/modules/apn2/lib/_021_adhub_server.js"></script>
+<script type="text/javascript" src="/sites/all/modules/search_login_block/search-login.js"></script>
+<script type="text/javascript" src="/sites/all/modules/weather_block/weather_block.js"></script>
+<script type="text/javascript" src="/sites/all/modules/jquery_update/compat-1.0.js"></script>
+<script type="text/javascript" src="/sites/all/modules/jstools/jstools.js"></script>
+<script type="text/javascript" src="/sites/all/modules/jstools/collapsiblock/collapsiblock.js"></script>
+<script type="text/javascript" src="/sites/all/modules/jstools/jquery.cookie.js"></script>
+<script type="text/javascript" src="/sites/all/modules/jstools/tabs/jquery.tabs.pack.js"></script>
+<script type="text/javascript" src="/sites/all/modules/jstools/jquery.history_remote.min.js"></script>
+<script type="text/javascript" src="/sites/all/modules/jstools/tabs/tabs.js"></script>
+<script type="text/javascript" src="/sites/all/modules/thickbox/thickbox.js"></script>
+<script type="text/javascript" src="/sites/all/modules/image_popup/disable_rightclick.js"></script>
+<script type="text/javascript" src="/sites/all/modules/image_caption/image_caption.js"></script>
+<script type="text/javascript" src="/sites/all/modules/sharethis/sharethis.js"></script>
+<script type="text/javascript" src="/sites/all/modules/business_dir/side_search.js"></script>
+<script type="text/javascript" src="/sites/all/modules/jquery_update/collapse-fix.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|avi|csv|doc|exe|flv|gif|gz|jpe?g|js|mp(3|4|e?g)|mov|pdf|phps|png|ppt|rar|sit|tar|torrent|txt|wma|wmv|xls|xml|zip", "LegacyVersion": 0 }, "jstools": { "cleanurls": true, "basePath": "/" }, "collapsiblock": { "blocks": { "block-views-block_travel": "2", "block-block-10": "2", "block-block-23": "2", "block-block-24": "2", "block-block-25": "2", "block-block-27": "2", "block-views-block_latest_slideshow": "2", "block-featured_gallery-0": "2", "block-menu-189": "2", "block-views-block_latest_notices": "3", "block-views-block_latest_national": "2", "block-block-47": "2", "block-block-51": "2", "block-block-52": "2", "block-block-53": "2", "block-views-block_slideshow_entertainment": "2", "block-views-block_slideshow_YT_Alexandra": "2", "block-views-block_slideshow_YT_Dunedin": "3", "block-menu-359": "3", "block-block-107": "3", "block-block-111": "3", "block-block-110": "3", "block-block-108": "3", "block-block-109": "3", "block-block-112": "3", "block-block-113": "3", "block-views-block_citizen_news_dunedin": "3", "block-advertiser_block-1": "2", "block-block-188": "3", "block-block-189": "3", "block-block-190": "3", "block-block-192": "3", "block-menu-509": "2", "block-block-235": "3", "block-block-236": "3", "block-openx-15": "3", "block-block-258": "2", "block-block-259": "2", "block-block-285": "2", "block-views-Restaurat_TestCollapse": "3" }, "default_state": "1" }, "tabs": { "slide": true, "fade": true, "speed": "fast", "auto_height": false }, "thickbox": { "close": "Close", "next": "Next \x3e", "prev": "\x3c Prev", "esc_key": "or Esc Key", "next_close": "Next / Close on last", "image_count": "Image !current of !total" } } });</script>
+<script type="text/javascript">                 
+    var siteTarget = "/SITE=ODT/AREA=HOME.HME";
+    var keyword = "";
+    </script>
+<script type="text/javascript" src="/sites/all/themes/odt/includes/js/google_analytics.jquery.js"></script><script type="text/javascript" src="/sites/all/themes/odt/includes/js/jquery.jclock.js"></script>
+<script type="text/javascript">
+    $(document).ready( function () {
+      $(function($) {
+      $('.clock').jclock();
+      });
+    });
+</script>
+
+<script type="text/javascript"></script>
+<!--[if lte IE 7]> <style type="text/css" media="all">@import "/sites/all/themes/odt/ie.css";</style><![endif]-->
+</head>
+
+<body>
+	  <div id="region-top-header">
+    <div id="menu-top">
+  <div class="content"><table><td>
+<ul class="menu">
+<li class="leaf first"><a href="/" title="Otago Daily Times Online news website">ODT</a></li>
+<li class="leaf"><a href="/directory" title="ODT/directory Finda Local Business in Dunedin, Oamaru, Balclutha, Wanaka, Queenstown, Alexandra, Ranfurly">ODT/directory</a></li>
+<li class="leaf"><a href="http://jobs.odt.co.nz" title="Local jobs in Dunedin, Balcultha, Queenstown, Wanaka, Cromwell, Alexandra, Oamaru, Otago">Jobs</a></li>
+<li class="leaf"><a href="http://drivesouth.co.nz" title="Used &amp; New cars for sale in Dunedin, Christchurch, Timaru, Invercargill, Nelson, Greymouth, Oamaru, Marlboroughh">Drivesouth Cars for Sale</a></li>
+<li class="leaf"><a href="http://digital.odt.co.nz" title="Read the paper online as it was printed or visit our archive">ODT Digital Edition</a></li>
+<li class="leaf"><a href="/classifieds" title="Place a Classified Advert in the Otago Daily Times">Classifieds</a></li>
+<li class="leaf"><a href="http://www.ch9.co.nz/" title="Dunedin Television, Dunedin&#039;s local TV channel (Freeview channel 39)">DunedinTV</a></li>
+<li class="leaf"><a href="http://www.odtprint.co.nz" title="ODT Print for commercial printing ">ODT Print</a></li>
+<li class="leaf last"><a href="http://otagoimages.co.nz/" title="Otago images">Otago Images</a></li>
+
+</ul>
+</td></table></div>
+</div>
+  </div>
+	<!-- start main outline -->
+	<div id="main-outline">
+		<!-- Start main container table -->
+		<table width="100%" cellpadding="0" cellspacing="0" border="0">
+                <tr><td>
+		<table border="0" cellpadding="0" cellspacing="0" id="header">
+		<tr>
+		<td colspan='2'>
+		</td>
+		</tr>
+
+        <tr><td colspan='2'><table border="0" cellpadding="0" cellspacing="0" id="acc-area">
+		<tr>
+
+		<td class="acc-login" valign="top"><div class="acc-container">
+		<div class="search-login-container"><div class="search-login-block-link-container"><table class="search-login-block-menu"><tr>    <td class="menu-item search-login-link-search search-login-selected"><a href="#" class="menu-link">Search</a></td>    <td class="menu-item search-login-link-login search-login-deselected"><a href="/user" class="menu-link">Login</a></td></tr></table></div><div class="search-login-block-contents search-login-block-search"><div class="search-login-padding"><form method="post" action="/searchblock/process"><div><input type="text" size="18" name="query" value="Keyword Search . . ."
+        onblur="if(this.value=='') this.value='Keyword Search . . .';" onfocus="if(this.value=='Keyword Search . . .') this.value='';" /><input type="image" class="search-login-submit" value="Go" op="go" src="/sites/all/themes/odt/images/btn_go_login.gif" /><table><tr><td>Search:</td><td><p><input type="radio" name="search" checked="checked" value="site">ODT Online</p><p><input type="radio" name="search" value="directory">ODT /directory</p><p><input type="radio" name="search" value="google">Google</p></td></tr></table></div></form></div></div><div class="search-login-block-contents search-login-block-login"><div class="search-login-padding"><form action="/news/dunedin/365981/wild-dunedin-plan-hatching?destination=node%2F365981"  accept-charset="UTF-8" method="post" id="user-login-form">
+<div><div class="login_form">
+<div class="form-item" id="edit-name-wrapper">
+ <label for="edit-name">Username: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="60" name="name" id="edit-name"  size="15" value="" class="form-text required" />
+</div>
+<div class="form-item" id="edit-pass-wrapper">
+ <label for="edit-pass">Password: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" name="pass" id="edit-pass"  maxlength="60"  size="15"  class="form-text required" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Log in"  class="form-submit" />
+<input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block"  />
+<input id="form-login-go" type="image" src="/sites/all/themes/odt/images/btn_go_login.gif"  name="op" value="login"  class="form-image" /><a class="textlink" href="/user/register">Create an account</a>&nbsp;<a href="/user/register"><i>Why register?</i></a></div>
+</div></form>
+</div></div></div>        </div>
+
+
+		</td>
+		<td class="top-ad"><div class="block block-apn2" id="block-apn2-apn_bigbanner">
+    <div class="content">
+        <div ID="DivBigBanner">
+          &nbsp;
+        </div>
+        </div>
+</div>
+</td>
+		</tr></table></td></tr>
+		<tr>
+			<td id="logo">
+                                            <div class="todays-weather-top-bar">
+                <div class='todays-weather-block-wrapper'>
+        <table class='todays-weather-block' cellpadding='0px'>
+                <tr>
+                <td class='todays-weather-title'>Today's Weather</td>
+                <td colspan='2' class='todays-weather-city'>Dunedin
+    
+                </td>
+                </tr>
+    
+                <tr>
+                <td rowspan='3' class='todays-weather-icon'><img src="/sites/all/modules/weather_block/images/odt_weather_showers.png" alt="Showers" title="Showers" width="64" height="50" /></td>
+                <td class='todays-weather-temperature todays-weather-high'>14</td>
+                <td class='todays-weather-temperature todays-weather-low'>8</td>
+                </tr>
+                <tr>
+                <td class='todays-weather-label todays-weather-high'>High</td>
+                <td class='todays-weather-label todays-weather-low'>Low</td>
+                </tr>
+                <tr>
+                <td colspan='2' class='todays-weather-forecast'><a href="/news/weather?region=Dunedin">Forecast</a></td>
+                </tr>
+        
+            </table>
+            </div>
+    
+        <div class='todays-weather-controls'>
+            <script type='text/javascript'>
+document.write('<a href=\'#\' class=\'todays-weather-change-link\' title=\'Change Location\'><img src="/sites/all/themes/odt/images/down-green.gif" alt="(change)" title="Change Location" width="16" height="16" /></a>');
+            </script>
+            <div class='todays-weather-select-city'>
+            <form action="/index.php?q=news/dunedin/365981/wild-dunedin-plan-hatching"  accept-charset="UTF-8" method="post" id="weather-block-form-city">
+<div><div class="form-item" id="edit-location-wrapper">
+ <select name="location" class="form-select todays-weather-city-selector" id="edit-location" ><option value="Dannevirke">Dannevirke</option><option value="Reefton">Reefton</option><option value="Christchurch">Christchurch</option><option value="Gisborne">Gisborne</option><option value="Dargaville">Dargaville</option><option value="Masterton">Masterton</option><option value="Blenheim">Blenheim</option><option value="Paraparaumu">Paraparaumu</option><option value="Hamilton">Hamilton</option><option value="Rotorua">Rotorua</option><option value="Kaikoura">Kaikoura</option><option value="Thames">Thames</option><option value="Timaru">Timaru</option><option value="Napier">Napier</option><option value="Palmerston_North">Palmerston North</option><option value="New_Plymouth">New Plymouth</option><option value="Westport">Westport</option><option value="Taupo">Taupo</option><option value="Paihia">Paihia</option><option value="Gore">Gore</option><option value="Levin">Levin</option><option value="Motueka">Motueka</option><option value="Tauranga">Tauranga</option><option value="Ashburton">Ashburton</option><option value="Te_Kuiti">Te Kuiti</option><option value="Tokoroa">Tokoroa</option><option value="Wanaka">Wanaka</option><option value="Russell">Russell</option><option value="Hastings">Hastings</option><option value="Wellington">Wellington</option><option value="Nelson">Nelson</option><option value="Whangarei">Whangarei</option><option value="Taumarunui">Taumarunui</option><option value="Greymouth">Greymouth</option><option value="Queenstown">Queenstown</option><option value="Whakatane">Whakatane</option><option value="Auckland">Auckland</option><option value="Oamaru">Oamaru</option><option value="Kaitaia">Kaitaia</option><option value="Alexandra">Alexandra</option><option value="Wanganui">Wanganui</option><option value="Dunedin" selected="selected">Dunedin</option><option value="Invercargill">Invercargill</option><option value="Hokitika">Hokitika</option></select>
+</div>
+<input type="hidden" name="form_id" id="edit-weather-block-form-city" value="weather_block_form_city"  />
+
+</div></form>
+
+            </div>
+        </div>
+                    </div>
+                                <a href="/" title="Home"><!--<img src="/sites/all/themes/odt/logo.png" alt="Home" />--><img src="/sites/all/themes/odt/images/header_logo.gif" alt="Otago Daily Times" border="0" /></a>
+            									<div class="header_date">Online Edition | Monday, 7 December 2015 | <span class="clock">13:27:19</span></div>
+			<div class="header_credits"><div class="block block-openx" id="block-openx-9">
+    <div class="content"><script type='text/javascript'><!--// <![CDATA[
+    OA_show('Editorial Promo');
+// ]]> --></script></div>
+</div>
+</div>
+
+				<div id="menu-header"><div class="block block-menu" id="block-menu-6">
+    <div class="content">
+<ul class="menu">
+<li class="expanded first"><a href="/news" title="Otago Daily Times News: Dunedin, Queenstown, Otago, Canterbury, Farming, Business, World, Politics, Weather &amp; Photo Galleries">News</a>
+<ul class="menu">
+<li class="leaf first"><a href="/news/dunedin" title="Dunedin News: Latest news from Dunedin">Dunedin</a></li>
+<li class="leaf"><a href="/news/queenstown-lakes" title="Queenstown Lakes news: News &amp; Photos from Queenstown, Arrowtown, Wanaka, Glenorchy, Lake Hawea">Queenstown Lakes</a></li>
+<li class="leaf"><a href="/news/regional" title="News from throughout Otago, Southland and the West Coast">Regions</a></li>
+<li class="leaf"><a href="/news/national" title="National News">National</a></li>
+<li class="leaf"><a href="/news/farming" title="The latest farming news">Farming</a></li>
+<li class="leaf"><a href="/news/world" title="World News">World</a></li>
+<li class="leaf"><a href="/news/australia" title="Australian news page">Australia</a></li>
+<li class="leaf"><a href="/news/politics" title="Political News">Political</a></li>
+<li class="leaf"><a href="/world-war-one-commemorations/ww100" title="World War One Commemorations">WW100</a></li>
+<li class="leaf"><a href="/news/business" title="Business News">Business</a></li>
+<li class="leaf"><a href="/news/weather" title="The latest short and long-range weather forecasts.">Weather</a></li>
+<li class="leaf"><a href="/news/technology" title="Catch up with the latest technology news">Technology</a></li>
+<li class="leaf"><a href="/news/galleries" title="Photo Gallery">Galleries</a></li>
+<li class="leaf last"><a href="/news/your-news" title="News submitted by ODT Online readers">Your News</a></li>
+
+</ul>
+</li>
+<li class="collapsed"><a href="/sport" title="Sports News">Sport</a></li>
+<li class="collapsed"><a href="/entertainment" title="Entertainment news">Entertainment</a></li>
+<li class="collapsed"><a href="/lifestyle" title="Lifestyle news">Lifestyle</a></li>
+<li class="leaf"><a href="/christmas-gift-ideas" title="2014 Christmas Gift Ideas">Christmas Gifts</a></li>
+<li class="collapsed"><a href="/campus" title="campus news">On Campus</a></li>
+<li class="collapsed"><a href="/food-and-wine" title="Food &amp; Wine">Food &amp; Wine</a></li>
+<li class="collapsed"><a href="/opinion" title="Opinion">Opinion</a></li>
+<li class="leaf last"><a href="http://jobs.odt.co.nz" title="Jobs">Jobs</a></li>
+
+</ul>
+</div>
+</div>
+</div><div id="menu-sub"><div class="curve">&nbsp;</div></div>
+				<div id="menu-sub-sub"></div>
+				<div class="menu-sub-advanced"><div class="advanced">&nbsp;</div></div>
+				</td>
+		</tr>
+		</table>
+		<!-- End main container table top cell-->
+		</td></tr>
+		<tr><td>
+		<!-- Start main container table bottom cell-->
+						<table border="0" cellpadding="0" cellspacing="0" id="content">
+		<tr>
+						<td valign="top" id="content-main">
+			            			<div id="main" class="node">
+                  <div class="tabs"></div>
+                        						<h1 class="title-node title-node-365981">&#039;Wild Dunedin&#039; plan hatching</h1>				<div class="breadcrumb"><a href="/">Home</a> » <a href="/news" title="Otago Daily Times News: Dunedin, Queenstown, Otago, Canterbury, Farming, Business, World, Politics, Weather &amp; Photo Galleries">News</a> » <a href="/news/dunedin" title="Dunedin News: Latest news from Dunedin">Dunedin</a></div>								                                <div class="node sticky">
+<div class="byline">
+  By <a href="/history/65">Simon Hartley</a> on Mon, 7 Dec 2015<div class="node-terms"><a href="/news/dunedin">News: Dunedin</a></div>  </div>
+  <div class="content"><!-- google_ad_section_start --><div id='sharethis_buttons'>
+<span class='st_facebook_hcount' displayText='Facebook'></span>
+<span class='st_twitter_hcount' displayText='Tweet'></span>
+<span class='st_sharethis' displayText='ShareThis'></span></div>
+    <!--paging_filter-->
+    <div class="image-caption-container" style=
+    "width:200px;float:right">
+      <a href=
+      "http://www.odt.co.nz/files/story/2015/12/neil_harraway_566414bdc5.JPG"
+      title="Neil Harraway" class="thickbox" rel=
+      "image_pop"><img src=
+      "http://www.odt.co.nz/files/imagecache/200x200_scaled_cropped/story/2015/12/neil_harraway_566414bdc5.JPG"
+      alt="Neil Harraway" title="Neil Harraway" class=
+      "imagecache imagecache-200x200_scaled_cropped" /></a>
+      <div class="image-caption">
+        Neil Harraway
+      </div>
+    </div>A three-day ''Wild Dunedin'' nature festival is being
+    planned for next year and organisers hope it will attract
+    thousands of visitors to the city.
+    <p>
+      A foundation group had applied for charitable trust status
+      and was seeking funding for the inaugural event, planned for
+      April, convener Neil Harraway said.
+    </p>
+    <p>
+      The group was still putting together the budget for the
+      event, but it was likely to be ''around'' $50,000, Mr
+      Harraway said when contacted yesterday.
+    </p>
+    <p>
+      ''One event is the focus, then open it up to other
+      organisations to come under the [trust's] umbrella,'' he
+      said.
+    </p>
+    <p>
+      The proposed start day is April 22, which is Earth Day, and
+      because it falls on the long Anzac weekend during the school
+      holidays.
+    </p>
+    <p>
+      ''We bill ourselves as a city of wildlife, heritage and
+      culture, but while there are festivals of heritage and
+      culture, there is no nature festival,'' said Mr Harraway, a
+      Dunedin tourism operator and former wildlife
+      documentary-maker.
+    </p>
+    <p>
+      The Wild Dunedin festival organising committee includes
+      representatives from the University of Otago, Department of
+      Conservation, Otago Museum, Otago Peninsula Trust, Orokonui
+      Ecosanctuary, Dunedin Host with support expressed by Dunedin
+      Airport, Dunedin City Council, NHNZ, the Yellow-eyed Penguin
+      Trust and others.
+    </p>
+    <p>
+      Mr Harraway said the organisers saw an opportunity for
+      Dunedin to celebrate its natural environment.
+    </p>
+    <p>
+      ''The Otago Peninsula is our biggest drawcard but Orokonui
+      Ecosanctuary is making great progress, as we saw with the
+      Prince of Wales' visit, and there are many other wonderful
+      wild places like the Sinclair Wetlands or Silver Peaks for
+      people to explore.''
+    </p>
+    <p>
+      The inaugural festival would have at least one ''key event''
+      and would include activities with a nature focus, a celebrity
+      guest, music, food, and at least 50 stalls for nature-related
+      groups to stage displays, he said.
+    </p>
+    <p>
+      ''Everyone can see multiple benefits. It'll encourage
+      everyone to enjoy the very special nature of our city from
+      the high lands to the high seas - ki uta ki tai.
+    </p>
+    <p>
+      ''It'll help support the great conservation work being done
+      here ... and help stimulate business in Dunedin,'' Mr
+      Harraway said.
+    </p>
+    <p>
+      As well as the festival, Mr Harraway said, for the remainder
+      of the long weekend the trust would act as a co-ordinating
+      and promotional umbrella for organisations wanting to stage
+      an event, at their cost, as the successful Dunedin Heritage
+      Festival had done recently.
+    </p>
+    <p>
+      The Wild Dunedin group is now asking those organisations for
+      expressions of interest.
+    </p>
+    <p>
+      ''Some ideas suggested have been a concert of performers with
+      wild connections, displays or open days at nature
+      organisations, planting days, guided walks, screenings,
+      exhibitions and competitions,'' Mr Harraway said.
+    </p>
+    <p>
+      <i>-simon.hartley@odt.co.nz</i>
+    </p>
+  <!-- google_ad_section_end --></div>
+    <div class="links">&raquo; <ul class="links inline"><li  class="first comment_forbidden"><span class="comment_forbidden"><a href="/user/login?destination=comment/reply/365981%2523comment-form">Login</a> or <a href="/user/register?destination=comment/reply/365981%2523comment-form">register</a> to post comments</span></li>
+<li  class="last print_html"><a href="/print/365981" title="Display a printer-friendly version of this page." class="print-page print_html" rel="nofollow">Printer-friendly version</a></li>
+</ul><div id="comment-message"><p>A name, residential address, and (preferably residential) telephone number is required from readers who comment on ODT Online. These details will not be visible to site visitors.</p></div></div></div> 
+<div id="comments"></div>                <div class="block block-views" id="block-views-dunedin_stories_content_bottom">
+  <h2 class="block-title">More Dunedin News</h2>  <div class="content"><div class='view view-dunedin-stories-content-bottom'><div class='view-content view-content-dunedin-stories-content-bottom'><table class="view-grid view-grid-dunedin_stories_content_bottom"><tr><td class='view-grid-item'><div class='view-item view-item-dunedin_stories_content_bottom'><div class='view-field view-data-imagecache_preset_presetid'><a href="/news/dunedin/365980/cyclist-saved-good-samaritans"><img src="http://www.odt.co.nz/files/imagecache/110x110_Scaled_Cropped/story/2015/12/the_cycleway_in_portsmouth_dr_near_the_harbour_mou_5664146f89.JPG" alt="Cyclist saved by &#039;Good Samaritans&#039;" title="Cyclist saved by &#039;Good Samaritans&#039;"  class="imagecache imagecache-110x110_Scaled_Cropped" /></a></div><div class='view-field view-data-node_title'><a href="/news/dunedin/365980/cyclist-saved-good-samaritans">Cyclist saved by &#039;Good Samaritans&#039;</a></div></div></td>
+<td class='view-grid-item'><div class='view-item view-item-dunedin_stories_content_bottom'><div class='view-field view-data-imagecache_preset_presetid'><a href="/news/dunedin/365982/kaikorai-house-homicide-inquiry"><img src="http://www.odt.co.nz/files/imagecache/110x110_Scaled_Cropped/story/2015/12/a_person_in_forensic_overalls_stands_outside_the_h_566415246c.JPG" alt="Kaikorai house in homicide inquiry" title="Kaikorai house in homicide inquiry"  class="imagecache imagecache-110x110_Scaled_Cropped" /></a></div><div class='view-field view-data-node_title'><a href="/news/dunedin/365982/kaikorai-house-homicide-inquiry">Kaikorai house in homicide inquiry</a></div></div></td>
+<td class='view-grid-item'><div class='view-item view-item-dunedin_stories_content_bottom'><div class='view-field view-data-imagecache_preset_presetid'><a href="/news/dunedin/365981/wild-dunedin-plan-hatching" class="active"><img src="http://www.odt.co.nz/files/imagecache/110x110_Scaled_Cropped/story/2015/12/neil_harraway_566414bdc5.JPG" alt="&#039;Wild Dunedin&#039; plan hatching" title="&#039;Wild Dunedin&#039; plan hatching"  class="imagecache imagecache-110x110_Scaled_Cropped" /></a></div><div class='view-field view-data-node_title'><a href="/news/dunedin/365981/wild-dunedin-plan-hatching" class="active">&#039;Wild Dunedin&#039; plan hatching</a></div></div></td>
+</tr><tr><td class='view-grid-item'><div class='view-item view-item-dunedin_stories_content_bottom'><div class='view-field view-data-imagecache_preset_presetid'><a href="/news/dunedin/365978/costume-shop-hangs-closed-sign"><img src="http://www.odt.co.nz/files/imagecache/110x110_Scaled_Cropped/story/2015/12/dunedin_opera_company_committee_chairman_murray_da_56640e1d21.JPG" alt="Costume shop hangs up &#039;closed&#039; sign" title="Costume shop hangs up &#039;closed&#039; sign"  class="imagecache imagecache-110x110_Scaled_Cropped" /></a></div><div class='view-field view-data-node_title'><a href="/news/dunedin/365978/costume-shop-hangs-closed-sign">Costume shop hangs up &#039;closed&#039; sign</a></div></div></td>
+<td class='view-grid-item'><div class='view-item view-item-dunedin_stories_content_bottom'><div class='view-field view-data-imagecache_preset_presetid'><a href="/news/dunedin/365966/goodwill-shines-parade-video"><img src="http://www.odt.co.nz/files/imagecache/110x110_Scaled_Cropped/story/2015/12/santa_claus_makes_an_early_visit_to_dunedin_for_ye_56640497c9.JPG" alt="Goodwill shines on parade (+ video)" title="Goodwill shines on parade (+ video)"  class="imagecache imagecache-110x110_Scaled_Cropped" /></a></div><div class='view-field view-data-node_title'><a href="/news/dunedin/365966/goodwill-shines-parade-video">Goodwill shines on parade (+ video)</a></div></div></td>
+<td class='view-grid-item last'><div class='view-item view-item-dunedin_stories_content_bottom'><div class='view-field view-data-imagecache_preset_presetid'><a href="/news/dunedin/365963/pod-orcas-attracts-crowd-spectators"><img src="http://www.odt.co.nz/files/imagecache/110x110_Scaled_Cropped/story/2015/12/pod_of_orcas_attracts_crowd_of_spectators_5664025c7f.JPG" alt="Pod of orcas attracts crowd of spectators" title="Pod of orcas attracts crowd of spectators"  class="imagecache imagecache-110x110_Scaled_Cropped" /></a></div><div class='view-field view-data-node_title'><a href="/news/dunedin/365963/pod-orcas-attracts-crowd-spectators">Pod of orcas attracts crowd of spectators</a></div></div></td>
+</tr></table></div><div class='view-footer view-footer-dunedin-stories-content-bottom'>
+    <!--paging_filter-->
+    <div style="text-align: right">
+      <a href="http://www.odt.co.nz/news/dunedin">More Dunedin
+      News...</a>
+    </div>
+  </div>
+</div>
+</div>
+</div>
+<div class="block block-views" id="block-views-odtdirectory_busservic_anon">
+  <h2 class="block-title">ODT/directory - Local Businesses</h2>  <div class="content"><div class='view view-odtdirectory-busservic-anon'><div class='view-content view-content-odtdirectory-busservic-anon'><table>
+ <thead><tr><th class="view-cell-header view-field-node-title">Company</th><th class="view-cell-header view-field-term-node-23-name">Location</th><th class="view-cell-header view-field-term-node-35-name">Business Type</th> </tr></thead>
+<tbody>
+ <tr class="odd"><td class="view-field view-field-node-title"><a href="/directory/outdoor-furniture/classic-outdoor-furniture">Classic Outdoor Furniture</a></td><td class="view-field view-field-term-node-23-name">Mosgiel</td><td class="view-field view-field-term-node-35-name"></td> </tr>
+ <tr class="even"><td class="view-field view-field-node-title"><a href="/directory/attractions-entertainment/cinemas/reading-cinemas">Reading Cinemas</a></td><td class="view-field view-field-term-node-23-name">Queenstown</td><td class="view-field view-field-term-node-35-name">Cinemas</td> </tr>
+ <tr class="odd"><td class="view-field view-field-node-title"><a href="/directory/vehicle-servicing/oil-change-express">The Oil Change Express</a></td><td class="view-field view-field-term-node-23-name">Dunedin</td><td class="view-field view-field-term-node-35-name">Servicing &amp; Mechanics</td> </tr>
+ <tr class="even"><td class="view-field view-field-node-title"><a href="/directory/tradespeople/doors-door-fittings/hylight-aluminium-milton">Hylight Aluminium - Milton</a></td><td class="view-field view-field-term-node-23-name">Milton</td><td class="view-field view-field-term-node-35-name">Doors &amp; Door Fittings</td> </tr>
+</tbody>
+</table>
+</div><div class='view-footer view-footer-odtdirectory-busservic-anon'>
+    <!--paging_filter-->
+    <hr size="2" width="100%" />
+    <p>
+      <a href="/user?destination=/directory/add-listing" title=
+      "Add your business to Southern Snow - keyword tag-Southern Snow">
+      Login</a> or <a href=
+      "/user/register?destination=/directory/add-listing">Register</a>
+      to add your business to the ODT/directory. Quick link to
+      <a href="http://www.odt.co.nz/directory">ODT/directory</a>
+    </p>
+    <hr size="2" width="100%" />
+  </div>
+</div>
+</div>
+</div>
+				
+			</div>
+			</td>
+                            <td id="sidebar-left" >
+                    <div class="block block-views" id="block-views-block_latest_dunedin">
+  <h2 class="block-title">Latest Dunedin News</h2>  <div class="content"><div class='view view-block-latest-dunedin'><div class='view-content view-content-block-latest-dunedin'><table>
+ <thead><tr><th class="view-cell-header view-field-node-teaser-link-teaser-link"></th> </tr></thead>
+<tbody>
+ <tr class="odd"><td class="view-field view-field-node-teaser-link-teaser-link"><a href="/news/dunedin/365980/cyclist-saved-good-samaritans" class="teaser-link" title="A female cyclist was accosted and punched by a man in a random attack in  Portsmouth Dr,  Dunedin, on Saturday. ...">Cyclist saved by &#039;Good Samaritans&#039;</a></td> </tr>
+ <tr class="even"><td class="view-field view-field-node-teaser-link-teaser-link"><a href="/news/dunedin/365982/kaikorai-house-homicide-inquiry" class="teaser-link" title="A house in Kaikorai belonging to a  co-worker of Karin Ann Ross (51), of Green Island,  who was found dead  in Dunedin last week,  has been searched by police as part of a homicide investigation. ...">Kaikorai house in homicide inquiry</a></td> </tr>
+ <tr class="odd"><td class="view-field view-field-node-teaser-link-teaser-link"><a href="/news/dunedin/365981/wild-dunedin-plan-hatching" class="teaser-link active" title="A three-day &#039;&#039;Wild Dunedin&#039;&#039; nature festival is being planned for next year and  organisers hope  it will  attract thousands of visitors to the city. ...">&#039;Wild Dunedin&#039; plan hatching</a></td> </tr>
+ <tr class="even"><td class="view-field view-field-node-teaser-link-teaser-link"><a href="/news/dunedin/365962/warm-fuzzies" class="teaser-link" title="Phil Scorringe, his bearded son-in-law Steve Havard and a hefty group of other bikers gathered up children&#039;s toys for donation and headed to the Octagon on  Saturday for the 32nd annual Bikers Rights Organisation New Zealand (Bronz) Otago toy run. ...">Warm fuzzies</a></td> </tr>
+ <tr class="odd"><td class="view-field view-field-node-teaser-link-teaser-link"><a href="/news/dunedin/365963/pod-orcas-attracts-crowd-spectators" class="teaser-link" title="Charlotte Macshane,  husband Tim Camp and their children Viarnah (13) and Mineeka (6) Macshane-Camp were among  a crowd of amateur whale watchers  who trailed a pod of orcas in Otago Harbour on Saturday. ...">Pod of orcas attracts crowd of spectators</a></td> </tr>
+ <tr class="even"><td class="view-field view-field-node-teaser-link-teaser-link"><a href="/campus/university-otago/365964/power-empathy-noted" class="teaser-link" title="It is critical for doctors and other health professionals to make use of the &#039;&#039;power of empathy&#039;&#039; in dealing with their clients, Highlanders team doctor  Greg Macleod says. ...">Power of empathy noted</a></td> </tr>
+</tbody>
+</table>
+</div><div class='view-footer view-footer-block-latest-dunedin'>
+    <!--paging_filter-->
+    <div style="width: 100%; text-align: right !important">
+      <a href="/news/dunedin" title="more dunedin">more Dunedin
+      &gt;&gt;</a>
+    </div>
+  </div>
+</div>
+</div>
+</div>
+<div class="block block-views" id="block-views-Hillside_Feature_Block">
+    <div class="content"><div class='view view-Hillside-Feature-Block'><div class='view-header view-header-Hillside-Feature-Block'>
+    <!--paging_filter-->
+    <p>
+      <img src="/files/u12027/hillside_header.jpg" width="200"
+      height="86" />
+    </p>
+  </div>
+<div class='view-content view-content-Hillside-Feature-Block'><table>
+ <thead><tr><th class="view-cell-header view-field-imagecache-preset-presetid"></th><th class="view-cell-header view-field-node-title"></th> </tr></thead>
+<tbody>
+ <tr class="odd"><td class="view-field view-field-imagecache-preset-presetid"><a href="/hillside-feature/fast-and-affordable-alterations-christines-alterations"><img src="http://www.odt.co.nz/files/imagecache/100x100_scaled_cropped/advertorial_general/2015/08/canderson_jpg_55cd780dd4.jpg" alt="Fast and affordable alterations - Christine&#039;s Alterations" title="Fast and affordable alterations - Christine&#039;s Alterations"  class="imagecache imagecache-100x100_scaled_cropped" /></a></td><td class="view-field view-field-node-title"><a href="/hillside-feature/fast-and-affordable-alterations-christines-alterations">Fast and affordable alterations - Christine&#039;s Alterations</a></td> </tr>
+ <tr class="even"><td class="view-field view-field-imagecache-preset-presetid"><a href="/hillside-feature/busy-bees-cargill-enterprises-cargill-enterprises"><img src="http://www.odt.co.nz/files/imagecache/100x100_scaled_cropped/advertorial_general/2015/11/cargill_header_jpg_5643f27186.jpg" alt="Busy bees at Cargill Enterprises - Cargill Enterprises" title="Busy bees at Cargill Enterprises - Cargill Enterprises"  class="imagecache imagecache-100x100_scaled_cropped" /></a></td><td class="view-field view-field-node-title"><a href="/hillside-feature/busy-bees-cargill-enterprises-cargill-enterprises">Busy bees at Cargill Enterprises - Cargill Enterprises</a></td> </tr>
+ <tr class="odd"><td class="view-field view-field-imagecache-preset-presetid"><a href="/hillside-feature/bernina-has-exciting-news-bernina-sewing-centre"><img src="http://www.odt.co.nz/files/imagecache/100x100_scaled_cropped/advertorial_general/2015/11/bernina_header_jpg_5643f20620.jpg" alt="Bernina has exciting news - Bernina Sewing Centre" title="Bernina has exciting news - Bernina Sewing Centre"  class="imagecache imagecache-100x100_scaled_cropped" /></a></td><td class="view-field view-field-node-title"><a href="/hillside-feature/bernina-has-exciting-news-bernina-sewing-centre">Bernina has exciting news - Bernina Sewing Centre</a></td> </tr>
+ <tr class="even"><td class="view-field view-field-imagecache-preset-presetid"><a href="/hillside-feature/quality-tools-every-time-toolshed-dunedin2"><img src="http://www.odt.co.nz/files/imagecache/100x100_scaled_cropped/advertorial_general/2015/11/toolshed_header_jpg_5643f1aa19.jpg" alt="Quality tools every time - Toolshed Dunedin" title="Quality tools every time - Toolshed Dunedin"  class="imagecache imagecache-100x100_scaled_cropped" /></a></td><td class="view-field view-field-node-title"><a href="/hillside-feature/quality-tools-every-time-toolshed-dunedin2">Quality tools every time - Toolshed Dunedin</a></td> </tr>
+</tbody>
+</table>
+</div></div>
+</div>
+</div>
+<div class="block block-apn2" id="block-apn2-apn_skyscraper">
+    <div class="content">
+        <div ID="DivSkyScraper">
+          &nbsp;
+        </div>
+        </div>
+</div>
+                </td>
+                                        <td rowspan="2" id="sidebar-right">
+                    <div class="block block-apn2" id="block-apn2-apn_headlinerect">
+    <div class="content">
+        <div ID="DivHeadlineRect">
+          &nbsp;
+        </div>
+        </div>
+</div>
+<div class="block block-views" id="block-views-Christmas_gift_random_RHSB">
+    <div class="content"><div class='view view-Christmas-gift-random-RHSB'><div class='view-header view-header-Christmas-gift-random-RHSB'>
+    <!--paging_filter-->
+    <p>
+      <img src="/files/u12027/christmas_gift_guide-03.jpg" width=
+      "300" height="120" />
+    </p>
+  </div>
+<div class='view-content view-content-Christmas-gift-random-RHSB'><table>
+ <thead><tr><th class="view-cell-header view-field-imagecache-preset-presetid"></th><th class="view-cell-header view-field-node-title"></th><th class="view-cell-header view-field-term-node-48-name"></th> </tr></thead>
+<tbody>
+ <tr class="odd"><td class="view-field view-field-imagecache-preset-presetid"><a href="/christmas-gifts/dunedin-malt-house/363676/malt-house-ginger-beer-making-kit"><img src="http://www.odt.co.nz/files/imagecache/100x100_scaled_cropped/microsites/advertisers/promotions/ginger_beer_0.jpg" alt="Malt House Ginger Beer Making Kit" title="Malt House Ginger Beer Making Kit"  class="imagecache imagecache-100x100_scaled_cropped" /></a></td><td class="view-field view-field-node-title"><a href="/christmas-gifts/dunedin-malt-house/363676/malt-house-ginger-beer-making-kit">Malt House Ginger Beer Making Kit</a></td><td class="view-field view-field-term-node-48-name">Dunedin Malt House</td> </tr>
+ <tr class="even"><td class="view-field view-field-imagecache-preset-presetid"><a href="/christmas-gifts/nichols/364401/spotted-tableware"><img src="http://www.odt.co.nz/files/imagecache/100x100_scaled_cropped/microsites/advertisers/promotions/nic_plate.jpg" alt="Spotted Tableware" title="Spotted Tableware"  class="imagecache imagecache-100x100_scaled_cropped" /></a></td><td class="view-field view-field-node-title"><a href="/christmas-gifts/nichols/364401/spotted-tableware">Spotted Tableware</a></td><td class="view-field view-field-term-node-48-name">Nichols</td> </tr>
+ <tr class="odd"><td class="view-field view-field-imagecache-preset-presetid"><a href="/christmas-gifts/gallery-de-novo/363835/native-aotearoa"><img src="http://www.odt.co.nz/files/imagecache/100x100_scaled_cropped/microsites/advertisers/promotions/gd_8.jpg" alt="Native Aotearoa" title="Native Aotearoa"  class="imagecache imagecache-100x100_scaled_cropped" /></a></td><td class="view-field view-field-node-title"><a href="/christmas-gifts/gallery-de-novo/363835/native-aotearoa">Native Aotearoa</a></td><td class="view-field view-field-term-node-48-name">Gallery de Novo</td> </tr>
+ <tr class="even"><td class="view-field view-field-imagecache-preset-presetid"><a href="/christmas-gifts/doodlefish/363513/handmade-natural-soaps"><img src="http://www.odt.co.nz/files/imagecache/100x100_scaled_cropped/microsites/advertisers/promotions/001_IngaFord-Soaps.jpg" alt="Handmade natural soaps" title="Handmade natural soaps"  class="imagecache imagecache-100x100_scaled_cropped" /></a></td><td class="view-field view-field-node-title"><a href="/christmas-gifts/doodlefish/363513/handmade-natural-soaps">Handmade natural soaps</a></td><td class="view-field view-field-term-node-48-name">Doodlefish</td> </tr>
+</tbody>
+</table>
+</div></div>
+</div>
+</div>
+<div class="block block-views" id="block-views-block_latest_VIDEO_RSB">
+    <div class="content"><div class='view view-block-latest-VIDEO-RSB'><div class='view-header view-header-block-latest-VIDEO-RSB'>
+    <!--paging_filter-->
+    <p>
+      <img src="/files/u111/odt_video.gif" height="20" width="300"
+      title="ODT Videos" alt="ODT Videos" />
+    </p>
+  </div>
+<div class='view-content view-content-block-latest-VIDEO-RSB'><table>
+ <thead><tr><th class="view-cell-header view-field-imagecache-preset-presetid"></th><th class="view-cell-header view-field-node-title"></th> </tr></thead>
+<tbody>
+ <tr class="odd"><td class="view-field view-field-imagecache-preset-presetid"><a href="/news/dunedin/365966/goodwill-shines-parade-video"><img src="http://www.odt.co.nz/files/imagecache/70x70_scaled_cropped/story/2015/12/santa_claus_makes_an_early_visit_to_dunedin_for_ye_56640497c9.JPG" alt="Goodwill shines on parade (+ video)" title="Goodwill shines on parade (+ video)"  class="imagecache imagecache-70x70_scaled_cropped" /></a></td><td class="view-field view-field-node-title"><a href="/news/dunedin/365966/goodwill-shines-parade-video">Goodwill shines on parade (+ video)</a></td> </tr>
+ <tr class="even"><td class="view-field view-field-imagecache-preset-presetid"><a href="/video/news/dunedin/365931/video-big-crowd-santa-parade"><img src="http://www.odt.co.nz/files/imagecache/70x70_scaled_cropped/story/2015/12/2015_santa_01_jpg_5663a6dcba.JPG" alt="Video: Big crowd at Santa Parade" title="Video: Big crowd at Santa Parade"  class="imagecache imagecache-70x70_scaled_cropped" /></a></td><td class="view-field view-field-node-title"><a href="/video/news/dunedin/365931/video-big-crowd-santa-parade">Video: Big crowd at Santa Parade</a></td> </tr>
+ <tr class="odd"><td class="view-field view-field-imagecache-preset-presetid"><a href="/news/dunedin/365870/attack-may-have-been-preplanned"><img src="http://www.odt.co.nz/files/imagecache/70x70_scaled_cropped/story/2015/12/a_mannequin_in_clothing_similar_to_the_attacker_s__56615ab0ed.JPG" alt="Attack may have been &#039;preplanned&#039; (+ video)" title="Attack may have been &#039;preplanned&#039; (+ video)"  class="imagecache imagecache-70x70_scaled_cropped" /></a></td><td class="view-field view-field-node-title"><a href="/news/dunedin/365870/attack-may-have-been-preplanned">Attack may have been &#039;preplanned&#039; (+ video)</a></td> </tr>
+</tbody>
+</table>
+</div><div class='view-footer view-footer-block-latest-VIDEO-RSB'>
+    <!--paging_filter-->
+    <div style="text-align: right">
+      <a href="/news/tags/odtv-video" title="more ODTV Videos">more
+      ODT Videos &gt;&gt;</a>
+    </div>
+  </div>
+</div>
+</div>
+</div>
+<div class="block block-business_dir" id="block-business_dir-directory_side_search">
+    <div class="content">
+        <div id="side-search">
+            <a href="/directory"><div id="side-search-link"></div></a>
+            <form id="directory-side-search" action="/directory/results" method="get">
+                <input type="text" name="filter2" id="directory-side-search-edit-filter2" value="Find a local business..." />
+                <input id="directory-side-search-submit" type="submit" value="  " />                <div class="clearer"></div>
+            </form>
+        </div></div>
+</div>
+<div class="block block-apn2" id="block-apn2-apn_contentrect">
+    <div class="content">
+        <div ID="DivContentRect">
+          &nbsp;
+        </div>
+        </div>
+</div>
+<div class="block block-block" id="block-block-393">
+    <div class="content">
+    <!--paging_filter-->
+    <table border="0" width="300">
+      <tbody>
+        <tr>
+          <td>
+            <img src="/files/u111/DS_hdr_300x50.jpg" height="50"
+            width="300" title=
+            "Drivesouth News, Roadtests, Reviews, Cars for Sale"
+            alt=
+            "Drivesouth News, Roadtests, Reviews, Cars for Sale" />
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <img src=
+            "/files/u111/Toyota_Land_Cruiser_Prado_Roadtest_2015.jpg"
+            align="left" height="78" width="150" title=
+            "Toyota_Land_Cruiser_Prado_Roadtest_2015" alt=
+            "Toyota_Land_Cruiser_Prado_Roadtest_2015" />&nbsp;&nbsp;<a href="http://www.drivesouth.co.nz/news/roadtests/toyota/164956/toyota-prado-at-its-best-when-the-going-gets-tough"
+            target="_blank" title=
+            "Toyota Land Cruiser Prado 2015 Roadtest">Toyota Prado
+            at its &nbsp; &nbsp; &nbsp; best when the going &nbsp;
+            &nbsp; gets tough</a>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <img src="/files/u111/Audi_Q7_Roadtest_2015.jpg" align=
+            "left" height="71" width="150" title=
+            "Audi_Q7_Roadtest_2015_Drivesouth" alt=
+            "Audi_Q7_Roadtest_2015_Drivesouth" />&nbsp;<a href=
+            "http://www.drivesouth.co.nz/news/roadtests/audi/164955/audi-q7-hits-the-mark-again"
+            target="_blank" title="Audi Q7 Roadtest 2015">Audi Q7
+            hits the mark &nbsp;again</a>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <img src="/files/u111/Kia_Sorento_Roadtest_2015.jpg"
+            align="left" height="90" width="150" title=
+            "Kia_Sorento_Roadtest_2015_Drivesouth" alt=
+            "Kia_Sorento_Roadtest_2015_Drivesouth" />&nbsp;<a href=
+            "http://www.drivesouth.co.nz/news/roadtests/kia/163966/kia-takes-strides-with-new-sorento"
+            target="_blank" title=
+            "Kia Sorento Roadtest Drivesouth 2015">Kia takes
+            strides with &nbsp;new Sorento</a>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p style="text-align: right">
+              <a href="http://www.drivesouth.co.nz/news" target=
+              "_blank" title=
+              "Drivesouth Roadtests &amp; Reviews">more roadtests
+              &amp; reviews</a>
+            </p>
+            <p style="text-align: right">
+              <a href="http://www.drivesouth.co.nz/cars-for-sale"
+              target="_blank" title=
+              "Search new and used cars for sale on Drivesouth">search
+              cars for sale</a>
+            </p>
+            <hr />
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+<div class="block block-block" id="block-block-61">
+  <h2 class="block-title">Quick Links</h2>  <div class="content">
+    <!--paging_filter-->
+    <p>
+      Submit <b>your news &amp; photos</b> - <a href=
+      "/user?destination=node/add/citizen-news">Login</a> or
+      <a href=
+      "/user/register?destination=/node/add/citizen-news">Register</a>
+    </p>
+    <p>
+      <b>Opinion?</b> Have your say - <a href=
+      "/user?destination=node/add/your-say">Login</a> or <a href=
+      "/user/register?destination=node/add/your-say">Register</a>
+    </p>
+    <p>
+      <a href="/user/register?destination=node/add/cck_event"
+      title="Submit an event or notice to the ODT">Submit</a> your
+      event or notice
+    </p>
+    <p>
+      <a href="/user/register?destination=node/add/citizen-news"
+      title="Add a photo slideshow to the ODT here">Add</a> a photo
+      slideshow
+    </p>
+    <p>
+      <a href=
+      "javascript:addbookmark('Otago%20Daily%20Times',%20'http://odt.co.nz')"
+      title="bookmark ODT">Bookmark</a> ODT
+    </p>
+    <p>
+      Make ODT <a href="/node/5455" title="more information...">my
+      homepage</a>
+    </p>
+  </div>
+</div>
+                </td>
+            		</tr>
+		</table>
+		
+		</td></tr>
+		</table>
+		<!-- End main container table -->
+	</div>
+
+		<div id="footer">
+<div class="block block-menu" id="block-menu-259">
+    <div class="content">
+<ul class="menu">
+<li class="leaf first"><a href="/" title="ODT Online home page">Home</a></li>
+<li class="leaf"><a href="/news" title="news">News</a></li>
+<li class="leaf"><a href="/sport" title="sport">Sport</a></li>
+<li class="leaf"><a href="http://www.dunedinguide.co.nz" title="Dunedin Visitor Guide &amp; Dunedin Map 2013 / 2014">Dunedin Guide</a></li>
+<li class="leaf"><a href="http://www.drivesouth.co.nz" title="Drivesouth motoring website">DriveSouth</a></li>
+<li class="leaf"><a href="http://drivesouth.co.nz/cars-for-sale" title="Cars for Sales on Drivesouth">Cars for Sale</a></li>
+<li class="leaf"><a href="http://jobs.odt.co.nz" title="jobs">Jobs</a></li>
+<li class="leaf"><a href="http://otagoimages.co.nz" title="Otago Images">Otago Images</a></li>
+<li class="leaf last"><a href="http://otagocancel.co.nz" title="Otago Cancel">Otago Cancel</a></li>
+
+</ul>
+</div>
+</div>
+<div class="block block-menu" id="block-menu-276">
+    <div class="content">
+<ul class="menu">
+<li class="leaf first"><a href="/advertise" title="information for advertisers">Advertise</a></li>
+<li class="leaf"><a href="/classifieds" title="Information on placing a classified advert in the ODT">Classified Advertising</a></li>
+<li class="leaf"><a href="http://www.odt.co.nz/contact-us" title="Contact us">Contact us</a></li>
+<li class="leaf"><a href="http://www.odt.co.nz/classifieds/death-notices" title="Place or view death notices online">Death Notices</a></li>
+<li class="leaf"><a href="/home-delivery" title="Find out more about our ODT print and digital subscriptions">ODT Subscriptions</a></li>
+<li class="leaf"><a href="/page/5778/upload-advertising" title="Upload advertising for Allied Press print publications">Upload advertising</a></li>
+<li class="leaf"><a href="http://host2.piction.com/otago_home/home.html" title="Buy a photo from Allied Press">Buy a photo</a></li>
+<li class="leaf"><a href="/155213/allied-press-corporate-logos" title="Allied Press Corporate Logos">Corporate Logos</a></li>
+<li class="leaf"><a href="/rss.xml" title="subscribe to RSS news feeds">RSS</a></li>
+<li class="leaf"><a href="/wedding-guide" title="A guide to planning weddings, venues, dresses, cars, photographers, Dunedin, Otago, Central Otago ">Wedding Guide</a></li>
+<li class="leaf"><a href="/restaurant-guide-dunedin" title="Get to know our local restaurants">Restaurant Guide</a></li>
+<li class="leaf"><a href="/home-delivery" title="home delivery options">Home delivery</a></li>
+<li class="leaf"><a href="/contact" title="Let us know what you think or if there are any issues with the ODT Online">Site feedback</a></li>
+<li class="leaf"><a href="/privacy-policy" title="privacy policy">Privacy Policy</a></li>
+<li class="leaf"><a href="/allied-press-advertising-terms-conditions" title="Allied Press Advertising Terms and Conditions">Advertising Terms</a></li>
+<li class="leaf"><a href="http://www.odtprint.co.nz" title="ODT Print for commercial printing ">ODT Print</a></li>
+<li class="leaf last"><a href="/sitemenu" title="site map">Site map</a></li>
+
+</ul>
+</div>
+</div>
+<div class="block block-block" id="block-block-69">
+    <div class="content">
+    <!--paging_filter-->
+    <p>
+      &nbsp;
+    </p>
+    <p>
+      Otago Daily Times print and <a href=
+      "http://digital.odt.co.nz" title=
+      "ODT Digital Edition &amp; Archive Login" target=
+      "_blank">digital</a> edition, <a href=
+      "http://www.thestar.co.nz" title=
+      "The Star, Dunedin's community newspaper" target="_blank">The
+      Star</a> - Dunedin, <a href="http://www.thenews.co.nz" title=
+      "The News - Central Otago's community newspaper" target=
+      "_blank">The News</a> - Central Otago, <a href=
+      "http://www.theensign.co.nz" title=
+      "The Ensign - Gore's community newspaper" target="_blank">The
+      Ensign</a> - Gore, <a href=
+      "http://www.southlandexpress.co.nz">Southland Express</a> -
+      Invercargill, Southern Rural Life - Otago and
+      Southland,&nbsp;<a href="http://www.timarucourier.co.nz"
+      title="Timaru Courier - Timaru's community newspaper" target=
+      "_blank">The Courier</a> - Timaru,&nbsp;<a href=
+      "http://digital.couriercountry.co.nz/olive/ode/cc_daily/"
+      target="_blank">Courier Country</a>&nbsp;- Canterbury and
+      West Coast,&nbsp;<a href="http://queenstowntimes.co.nz"
+      title="Queenstown Times News Publication" target=
+      "_blank">Queenstown Times -</a> Queenstown,&nbsp;<a href=
+      "http://www.scene.co.nz" title="Mountain Scene Newspaper"
+      target="_blank">Mountain Scene</a>&nbsp;-
+      Queenstown,&nbsp;<a href="http://www.oamarumail.co.nz/"
+      target="_blank">The Oamaru Mail</a>&nbsp;- Oamaru, The
+      Greymouth Star - Greymouth, Hokitika Guardian - Hokitika,
+      West Coast Messenger - West Coast, The Ashburton Courier -
+      Ashburton, The News - North Canterbury,&nbsp;<a href=
+      "http://www.odt.co.nz/extra">Extra!</a> schools
+      publication,&nbsp;<a href="http://www.propertytimes.co.nz"
+      target="_blank" title=
+      "Property Times - Properties, Homes, Houses, Land, Farms, Lifestyle or Sections for Sale">Property
+      Times</a>&nbsp;South Canterbury
+    </p>
+  </div>
+</div>
+    <div id="footer-legal">
+    &copy; Allied Press Limited 2007. All the material on this page has the protection of international copyright. All rights reserved.
+    </div></div>
+		<div id='banner-bottom'></div>
+<img src="/sessionstart?page=node/365981" alt="" />
+<script type="text/javascript" src="/sites/all/modules/adsense/contrib/adsense_click/adsense_click.js"></script><script type="text/javascript" src="/files/googleanalytics/ga.js"></script>
+<script type="text/javascript" src="/sites/all/modules/google_analytics/googleanalytics.js"></script>
+<script type="text/javascript">
+      $(document).ready(function(){
+        if($("div#DivBigBanner").length > 0){
+          aimRenderAd(760, 120, "760x120","BigBanner","");
+          if(!$.browser.msie){
+            BigBanner_frame = $("#BigBanner")[0];
+            BigBanner_frame.src = BigBanner_frame.src;
+          }
+        }
+        if($("div#DivSkyScraper").length > 0){
+          aimRenderAd(160, 600, "160x600","SkyScraper","");
+          if(!$.browser.msie){
+            SkyScraper_frame = $("#SkyScraper")[0];
+            SkyScraper_frame.src = SkyScraper_frame.src;
+          }
+        }
+        if($("div#DivHeadlineRect").length > 0){
+          aimRenderAd(300, 250, "300x250","HeadlineRect","/SR=0/POS=POS1");
+          if(!$.browser.msie){
+            HeadlineRect_frame = $("#HeadlineRect")[0];
+            HeadlineRect_frame.src = HeadlineRect_frame.src;
+          }
+        }
+        if($("div#DivContentRect").length > 0){
+          aimRenderAd(300, 250, "300x250","ContentRect","/POS=POS2");
+          if(!$.browser.msie){
+            ContentRect_frame = $("#ContentRect")[0];
+            ContentRect_frame.src = ContentRect_frame.src;
+          }
+        }
+        if($("div#DivRectLite1").length > 0){
+          aimRenderAd(300, 100, "300x100","RectLite1","/POS=POS1");
+          if(!$.browser.msie){
+            RectLite1_frame = $("#RectLite1")[0];
+            RectLite1_frame.src = RectLite1_frame.src;
+          }
+        }
+        if($("div#DivRectLite2").length > 0){
+          aimRenderAd(300, 100, "300x100","RectLite2","/POS=POS2");
+          if(!$.browser.msie){
+            RectLite2_frame = $("#RectLite2")[0];
+            RectLite2_frame.src = RectLite2_frame.src;
+          }
+        }
+      });
+    </script>
+<script type="text/javascript">try{var pageTracker = _gat._getTracker("UA-3641995-1");pageTracker._trackPageview();} catch(err) {}</script>
+<script type="text/javascript" src="http://delivery.ctasnet.com/adserver/www/delivery/ajs.php?zoneid=2366&;cb={random}"></script>
+<!-- end main outline -->
+<!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2012 Nielsen Online -->
+<script type="text/javascript" src="//secure-nz.imrworldwide.com/v60.js">
+</script>
+<script type="text/javascript">
+var pvar = { cid: "nz-alliedpress", content: "0", server: "secure-nz" };
+var trac = nol_t(pvar);
+trac.record().post();
+</script>
+<noscript>
+<div>
+<img src="//secure-nz.imrworldwide.com/cgi-bin/m?ci=nz-alliedpress&amp;cg=0&amp;cc=1&amp;ts=noscript"
+width="1" height="1" alt="" />
+</div>
+</noscript>
+<!-- END Nielsen Online SiteCensus V6.0 -->
+</body>
+</html>
+<!-- Page cached by Boost at 2015-12-07 13:27:19, expires at 2015-12-07 13:37:19 -->
+
+
+WARC/1.0
+WARC-Type: resource
+WARC-Record-ID: <urn:uuid:d248b676-4684-4a77-a332-7dd17c673970>
+WARC-Warcinfo-ID: <urn:uuid:efcfb2cb-04e4-4ce7-84d3-48218e335de5>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/MANIFEST.txt
+WARC-Date: 2015-12-07T00:29:49Z
+Content-Type: text/plain
+Content-Length: 48
+
+<urn:uuid:efcfb2cb-04e4-4ce7-84d3-48218e335de5>
+
+
+WARC/1.0
+WARC-Type: resource
+WARC-Record-ID: <urn:uuid:d248b676-4684-4a77-a332-7dd17c673970>
+WARC-Warcinfo-ID: <urn:uuid:efcfb2cb-04e4-4ce7-84d3-48218e335de5>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/wget_arguments.txt
+WARC-Date: 2015-12-07T00:29:49Z
+Content-Type: text/plain
+Content-Length: 201
+
+"--warc-file" "wild-dunedin-plan-hatching" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "-q" "-O" "/dev/null" "http://www.odt.co.nz/news/dunedin/365981/wild-dunedin-plan-hatching" 
+
+
