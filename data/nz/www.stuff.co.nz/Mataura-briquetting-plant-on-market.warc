@@ -1,19 +1,81 @@
+WARC/1.0
+WARC-Type: warcinfo
+Content-Type: application/warc-fields
+WARC-Date: 2015-12-07T01:12:15Z
+WARC-Record-ID: <urn:uuid:06185ebe-37a8-443c-ba39-c244a310bb07>
+WARC-Filename: Mataura-briquetting-plant-on-market.warc
+Content-Length: 419
+
+software: Wget/1.13.4-2608 (linux-gnu)
+format: WARC File Format 1.0
+conformsTo: http://bibnum.bnf.fr/WARC/WARC_ISO_28500_version1_latestdraft.pdf
+robots: classic
+wget-arguments: "--warc-file" "Mataura-briquetting-plant-on-market" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "-q" "-O" "/dev/null" "http://www.stuff.co.nz/southland-times/business/8822601/Mataura-briquetting-plant-on-market" 
+
+
+
+WARC/1.0
+WARC-Type: request
+WARC-Target-URI: http://www.stuff.co.nz/southland-times/business/8822601/Mataura-briquetting-plant-on-market
+Content-Type: application/http;msgtype=request
+WARC-Date: 2015-12-07T01:12:15Z
+WARC-Record-ID: <urn:uuid:ee154671-4c18-4b02-885e-fa572de2d9d0>
+WARC-IP-Address: 23.222.106.112
+WARC-Warcinfo-ID: <urn:uuid:06185ebe-37a8-443c-ba39-c244a310bb07>
+Content-Length: 188
+
+GET /southland-times/business/8822601/Mataura-briquetting-plant-on-market HTTP/1.1
+User-Agent: Wget/1.13.4-2608 (linux-gnu)
+Accept: */*
+Host: www.stuff.co.nz
+Connection: Keep-Alive
+
+
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <urn:uuid:f5520128-3324-4786-8e39-183c37b7df91>
+WARC-Warcinfo-ID: <urn:uuid:06185ebe-37a8-443c-ba39-c244a310bb07>
+WARC-Concurrent-To: <urn:uuid:ee154671-4c18-4b02-885e-fa572de2d9d0>
+WARC-Target-URI: http://www.stuff.co.nz/southland-times/business/8822601/Mataura-briquetting-plant-on-market
+WARC-Date: 2015-12-07T01:12:15Z
+WARC-IP-Address: 23.222.106.112
+Content-Type: application/http;msgtype=response
+Content-Length: 71811
+
+HTTP/1.1 200 OK
+Content-Type: text/html
+Server: CMA
+X-Come-Hack-With-Us: https://technology.fairfaxmedia.co.nz/work-here/
+X-ESI-Enable: 0
+X-FFX-Backend: azinfprp153b
+x-host: www.stuff.co.nz
+x-url: /southland-times/business/8822601/Mataura-briquetting-plant-on-market
+X-Varnish: 911873336 911873337
+Cache-Control: public, max-age=180
+Expires: Mon, 07 Dec 2015 01:15:15 GMT
+Date: Mon, 07 Dec 2015 01:12:15 GMT
+Transfer-Encoding:  chunked
+Connection: keep-alive
+Connection: Transfer-Encoding
+
+00006000
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <!--start of main-->
 <head>
-
-<!-- Page generated: 16:27:56 21-Jun-2013 -->
+<!-- Page generated: 14:12:00 07-Dec-2015 -->
 
   <!--start of components/gigya_headers-->
 
 <!-- socialize.js script should only be included once -->
-<script type="text/javascript" src="http://cdn.gigya.com/js/socialize.js?apiKey=3_9JitkeW_HEZvUcTSahg2tBTNm_psp2j-F58dCHDCilHVDYpGUAnC0vHmZMfro1_V">
+<script type="text/javascript" src="https://cdns.gigya.com/js/socialize.js?apiKey=3_9JitkeW_HEZvUcTSahg2tBTNm_psp2j-F58dCHDCilHVDYpGUAnC0vHmZMfro1_V" >
 {
     siteName: 'stuff.co.nz',
     enabledProviders: 'facebook,yahoo,google,twitter,messenger,linkedin,openid',
-    sessionExpiration: 0
+    sessionExpiration: 0,
+    shortURLs: 'never'
 }
 </script>
 <!--end of components/gigya_headers-->
@@ -22,55 +84,60 @@
 <meta name="verify-v1" content="RazNiYjuvNuEsMeFXxfR9l9cDZIKxcq2VjQZA25CHgM=" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
-<title>Two Te Atatu Primary Schools Awarded Science Grants... | Stuff.co.nz</title>
+<title>Mataura briquetting plant on market | Stuff.co.nz</title>
 <meta name="robots" content="noarchive">
     <!--start of components/fb_common_tags-->
 <meta property="fb:app_id" content="207633159308175" />
 <meta property="og:site_name" content="Stuff" />
 <!--end of components/fb_common_tags-->
 
-            <meta name="description" content="Two Te Atatu primary schools have been awarded grants from the first round of The Bayer Primary School Science Fund.">
+            <meta name="description" content="The $30 million Mataura briquetting plant is for sale but will continue to operate until a new owner is found.">
 
-            <meta property="og:title" content="Science funding 'crucial'" />
+            <meta property="og:title" content="Plant on the market" />
 
         <meta property="og:type" content="article" />
-        <meta property="og:url" content="http://www.stuff.co.nz/auckland/local-news/western-leader/8820291/Science-funding-crucial" />
+        <meta property="og:url" content="http://www.stuff.co.nz/southland-times/business/8822601/Mataura-briquetting-plant-on-market" />
 
-        <meta property="og:description" content="Two Te Atatu primary schools have been awarded grants from the first round of The Bayer Primary School Science Fund." />
+            <meta property="og:image" content="http://static2.stuff.co.nz/1371720558/756/8822756.jpg" />
 
-    <meta name="keywords" content="stuff.co.nz, news, West Auckland News, Western Leader">
+        <meta property="og:description" content="The $30m Mataura briquetting plant is for sale but will continue to operate 'til a new owner is found." />
 
-<link href="http://static2.stuff.co.nz/1371001579/static/css/all.min.css" rel="stylesheet" type="text/css" media="screen" />
-<link href="http://static2.stuff.co.nz/1371001579/static/css/print.min.css" rel="stylesheet" type="text/css" media="print" />
+    <meta name="keywords" content="stuff.co.nz, news, Southland News, The Southland Times">
+
+<link href="http://static2.stuff.co.nz/1446410795/static/css/all.min.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="http://static2.stuff.co.nz/1446410795/static/css/print.min.css" rel="stylesheet" type="text/css" media="print" />
 <!--start of components/header_css-->
 
-<link href="http://static.stuff.co.nz/files/auckland-section.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="http://file.stuff.co.nz/stuff/mastheads/southland/southland-section.css" rel="stylesheet" type="text/css" media="screen" />
 
-<link href="http://static2.stuff.co.nz/files/elections-tab-strapV6.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="http://static2.stuff.co.nz/clientdev/production/refresh/css/blank.css" rel="stylesheet" type="text/css" media="screen" />
 
 <!--end of components/header_css-->
 
-<link rel="apple-touch-icon-precomposed" href="http://static2.stuff.co.nz/1371001579/static/images/apple-touch-icon-precomposed.png" />
+<link rel="apple-touch-icon-precomposed" href="http://static2.stuff.co.nz/1446410795/static/images/apple-touch-icon-precomposed.png" />
 <script type="text/javascript">
     var JavaScriptCSS = document.createElement('link');
-    JavaScriptCSS.setAttribute('href', 'http://static2.stuff.co.nz/1371001579/static/css/javascript.min.css');
+    JavaScriptCSS.setAttribute('href', 'http://static2.stuff.co.nz/1446410795/static/css/javascript.min.css');
     JavaScriptCSS.setAttribute('rel', 'stylesheet');
     JavaScriptCSS.setAttribute('type', 'text/css');
     document.getElementsByTagName('head')[0].appendChild(JavaScriptCSS);
 </script>
 
-<link href="http://static2.stuff.co.nz/1371001579/static/css/business.min.css" rel="stylesheet" type="text/css" />
-
 <!--[if IE]>
-  <link rel="stylesheet" type="text/css" href="http://static2.stuff.co.nz/1371001579/static/css/ie.min.css" />
+  <link rel="stylesheet" type="text/css" href="http://static2.stuff.co.nz/1446410795/static/css/ie.min.css" />
 <![endif]-->
 
-<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=true"></script>
-<script src="http://static2.stuff.co.nz/1371001579/static/js/site-all.min.js" type="text/javascript"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+
+<link rel="stylesheet" type="text/css" media="screen" href="http://cdn-my.stuff.co.nz/css/mystuff-api-styles.min.css">
+<script type="text/javascript">var mystuff_base_url = "http://my.stuff.co.nz"</script>
+<script src="http://cdn-my.stuff.co.nz/api/mystuff-1.0.js" type="text/javascript"></script>
+<script src="http://static2.stuff.co.nz/1446410795/static/js/site-all.min.js" type="text/javascript"></script>
+<script src="//assets.adobedtm.com/10d15a330ba9eec67033fb8a57223f1f239d36eb/satelliteLib-6c8530197cf7248be1c84a572dc745c6ff39c8c7.js"></script>
 
 <!--start of components/section_head_properties-->
 
-    <link rel="shortcut icon" href="http://static.stuff.co.nz/files/AucklandNow_favicon" />
+    <link rel="shortcut icon" href="http://static.stuff.co.nz/1264472751/394/3263394.ico" />
 <style type="text/css">
 #container {
 }
@@ -78,7 +145,7 @@
 
 <!--end of components/section_head_properties-->
 
-<link rel="alternate" type="application/rss+xml" title="Stuff.co.nz - Auckland" href="http://www.stuff.co.nz/rss/auckland/local-news/western-leader" />
+<link rel="alternate" type="application/rss+xml" title="Stuff.co.nz - Southland Times" href="http://www.stuff.co.nz/rss/southland-times/business" />
 <!--end of components/section_header-->
 
       <!--start of components/node_header-->
@@ -86,19 +153,19 @@
 
     <!--start of components/meta_tags-->
 
-    <meta name="source-org" content="western-leader" />
+    <meta name="source-org" content="the-southland-times" />
 <!--end of components/meta_tags-->
 
-    <link rel="image_src" href="http://static2.stuff.co.nz/1234741430/368/1381368.gif" />
-    <link rel="canonical" href="http://www.stuff.co.nz/auckland/local-news/western-leader/8820291/Science-funding-crucial"/>
+    <link rel="image_src" href="http://static2.stuff.co.nz/1371720558/757/8822757.jpg" />
+    <link rel="canonical" href="http://www.stuff.co.nz/southland-times/business/8822601/Mataura-briquetting-plant-on-market"/>
     <script type="text/javascript">
     $(document).ready(function(){
         GigyaStuff.initGigyaShareBarUI( {
-            title: "Science funding \'crucial\'",
-            description: "Two Te Atatu primary schools have been awarded grants from the first round of The Bayer Primary School Science Fund.",
-            canonical_url: "http://www.stuff.co.nz/auckland/local-news/western-leader/8820291/Science-funding-crucial",
-            image_url: "http://static2.stuff.co.nz/1234741430/368/1381368.gif",
-            email_url: "/email_a_friend/22402/8820291"
+            title: "Mataura briquetting plant on market",
+            description: "The $30 million Mataura briquetting plant is for sale but will continue to operate until a new owner is found.",
+            canonical_url: "http://www.stuff.co.nz/southland-times/business/8822601/Mataura-briquetting-plant-on-market",
+            image_url: "http://static2.stuff.co.nz/1371720558/757/8822757.jpg",
+            email_url: "/email_a_friend/6440/8822601"
         } );
         GigyaStuff.displayGigyaShareBarUI("toolbox-gigya");
         GigyaStuff.displayGigyaShareBarUI("sharebox-gigya", "small");
@@ -108,51 +175,55 @@
 <!-- /node_header -->
 <!--end of components/node_header-->
 
+<!--start of components/robots_nofollow_metatag-->
+
+<!--end of components/robots_nofollow_metatag-->
+
 <!--start of components/ad/javascript-->
 
 <script type="text/javascript">//<![CDATA[
 //Doubleclick
-var dartSite = "onl.stuff.auckland";
-var dartSiteMob = "mob.stuff.essentialmums";
-var dartZone = "/localnews/westernleader";
+var dartSite = "onl.stuff.southlandtimes";
+var dartZone = "/business";
 var dartEnv = "prod";
 var dartCtype = "story";
-var dartKeys = "kw=FUNDING;kw=SCIENCE;kw=Te%20Atatu;kw=Primary%20School;kw=round;kw=first;kw=Fund;kw=have;kw=SCHOOL;kw=GRANTS;kw=Society;kw=environmental;kw=world;kw=zealand;kw=New";
+var dartKeys = "kw=Plant;kw=market;kw=Mataura;kw=sale;kw=New;kw=Director;kw=Chief;kw=CHIEF%20EXECUTIVE;kw=JOBS;kw=INTERNATIONAL;kw=Job;kw=Lost;kw=MAYOR;kw=COMPANIES;kw=Future";
 var dartWeatherLoc = $.cookie('weatherSelection') || 33; // 33 is Welly - default location
-var dartPid = "pid=8820291;";
+var dartPid = "pid=8822601;";
 suitableFlash = "false";
 //]]></script>
-<script src="http://static2.stuff.co.nz/1371001579/static/jwplayer/flashDetector.js" type="text/javascript" charset="utf-8"></script>
+<script src="http://static2.stuff.co.nz/1446410795/static/jwplayer/flashDetector.js" type="text/javascript" charset="utf-8"></script>
 <!--end of components/ad/javascript-->
 
+<!--start of components/opta_header-->
+<script>
+d = moment(new Date());
+var timezoneOffset = (d.tz("Europe/London")._offset - d.tz("Pacific/Auckland")._offset)/60;
+var _optaParams = {
+custID:    'f34017e5bc63f671bcc51120f86f69d3',
+timezone: timezoneOffset,
+language:  'en'
+};
+</script>
+<script src="http://widget.cloud.opta.net/2.0/js/widgets.opta.js"></script>
+
+<link rel="stylesheet" href="http://widget.cloud.opta.net/2.0/css/widgets.opta.css" type="text/css">
+<!--[if IE 9]>
+<link rel="stylesheet" type="text/css" href="http://widget.cloud.opta.net/2.0/css/ie9.widgets.opta.css" media="screen" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" type="text/css" href="http://widget.cloud.opta.net/2.0/css/ie8.widgets.opta.css" media="screen" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" type="text/css" href="http://widget.cloud.opta.net/2.0/css/ie7.widgets.opta.css" media="screen" />
+<![endif]-->
+<!--end of components/opta_header-->
+<link rel="alternate" media="only screen and (max-width: 640px)"
+      href="http://i.stuff.co.nz/southland-times/business/8822601/Mataura-briquetting-plant-on-market" />
 </head>
 <body>
+
 <!--start of components/ad/gutter-->
-
-<div id="leftgutter" style="width:160px; height:1500px; border-right:0px solid black; position: fixed; left:-158px; z-index:0; display:none;">
-<div class="right_col_ad" style="width:160px" id="adGUTTERLEFT">
-</div>
-<script language="javascript">
-<!--
-if (!((window.XMLHttpRequest == undefined) && (ActiveXObject != undefined))){
-    PushDartJSAd('GUTTERLEFT', 0, 160, 1500, '160x1500');
-}
-//-->
-</script>
-</div>
-<div id="rightgutter" style="width:160px; height:1500px; border-left:0px solid black; position: fixed; right:-158px; z-index:0; display:none;">
-<div class="right_col_ad" style="width:160px" id="adGUTTERRIGHT">
-</div>
-
-<script language="javascript">
-<!--
-if (!((window.XMLHttpRequest == undefined) && (ActiveXObject != undefined))){
-    PushDartJSAd('GUTTERRIGHT', 0, 160, 1500, '160x1500');
-}
-//-->
-</script>
-</div>
-<!--end of components/ad/gutter-->
 
 <!--start of components/top_strip-->
 
@@ -168,8 +239,8 @@ if (!((window.XMLHttpRequest == undefined) && (ActiveXObject != undefined))){
           <img border="0" class="all_site_nav_dropdown_avatar avatar" /><span class="username"></span></a>
           <div class="all_site_nav_submenu">
           <ul class="all_site_nav_root">
-            <li><a class="profile-link" href="/stuff-nation/public-profile">Profile</a></li>
-            <li><a href="/stuff-nation/settings">Settings</a></li>
+            <li><a class="profile-link">Profile</a></li>
+            <li><a class="settings-link">Settings</a></li>
             <li><a href="#" class="logout">Sign Out</a></li>
           </ul>
           <div class="all_site_nav_dropdown_btm"></div>
@@ -177,27 +248,15 @@ if (!((window.XMLHttpRequest == undefined) && (ActiveXObject != undefined))){
       </div>
     </div>
     <div class="all_site_nav_right guest_only">
-      <div class="all_site_nav_signup_loading"><a class="all_site_nav_signup open-cbox" href="/lightbox/user/register"></a></div>
-      <div class="all_site_nav_login_loading"><a class="all_site_nav_login open-cbox" href="/lightbox/user/login"></a></div>
+      <div class="all_site_nav_signup_loading"><a class="all_site_nav_signup sn_reg_url"></a></div>
+      <div class="all_site_nav_login_loading"><a class="all_site_nav_login sn_login_url"></a></div>
     </div>
   </div>
 
   <div id="trademenav_right">
 <!--start of components/ad/standard-->
 
-  <div class="" style="width:1px;height:1px;" id="adTOPPIXEL">
-
-  </div> 
-  <!--start of components/ad/push-->
-
-<script language="javascript">
-<!--
-
-PushDartJSAd('TOPPIXEL', 1, 1, 1, '1x1');
-
-//-->
-</script>
-<!--end of components/ad/push-->
+  <!-- No ad set up for position TOPPIXEL -->
 
 <!--end of components/ad/standard-->
 
@@ -210,15 +269,6 @@ PushDartJSAd('TOPPIXEL', 1, 1, 1, '1x1');
 <div id="slidedown" style="height:auto;width:950px;margin: 0 auto;">
   <div id ="adPUSHDOWNBANNER">
     <!--start of components/ad/push-->
-
-<script language="javascript">
-<!--
-
-PushDartJSAd('PUSHDOWNBANNER', null, 950, 120, '950x120');
-
-//-->
-</script>
-<!--end of components/ad/push-->
 
   </div>
 </div>
@@ -237,25 +287,17 @@ PushDartJSAd('PUSHDOWNBANNER', null, 950, 120, '950x120');
 
     <div id="logo">
 
-            <a href="http://www.stuff.co.nz/auckland">
-
         <!--start of components/masthead_logo-->
 
-<img src="http://static2.stuff.co.nz/1311232016/273/5322273.gif" alt="Stuff.co.nz" border="0" />
+<img src="http://static2.stuff.co.nz/1234923225/805/1384805.gif" alt="Stuff.co.nz" border="0" />
 <!--end of components/masthead_logo-->
-
-            </a>
 
         <div id ="sectionlogo">
 
-            <a href="http://www.stuff.co.nz/auckland/local-news/western-leader/">
-
         <!--start of components/masthead_logo-->
 
-<img src="http://static2.stuff.co.nz/1233366198/344/944344.jpg" alt="Stuff.co.nz" border="0" />
+<img src="http://static2.stuff.co.nz/1285819661/605/4184605.jpg" alt="Stuff.co.nz" border="0" />
 <!--end of components/masthead_logo-->
-
-            </a>
 
         </div><!-- end sectionlogo-->
 
@@ -281,7 +323,7 @@ PushDartJSAd('PUSHDOWNBANNER', null, 950, 120, '950x120');
 <script language="javascript">
 <!--
 
-PushDartJSAd('TOPBANNER', 1, 760, 120, '760x120');
+PushDartJSAd('TOPBANNER', null, 760, 120, '760x120,728x90');
 
 //-->
 </script>
@@ -297,9 +339,9 @@ PushDartJSAd('TOPBANNER', 1, 760, 120, '760x120');
 
 <!--start of story_landing-->
 
-<!--start of components/nav/section_nav-->
+    <!--start of components/nav/section_nav-->
 
-    <div id="nav" class="nwnnav">
+    <div id="nav" class="sltnav">
       <div id="nav_top">
     <!--start of components/nav/section_nav_part1-->
 
@@ -311,19 +353,13 @@ PushDartJSAd('TOPBANNER', 1, 760, 120, '760x120');
 
         <li class="mid_nav_item">
 
-            <a href="/auckland">Auckland
-
-	</a></li>
-
-        <li class="mid_nav_item">
-
-            <a href="/auckland/local-news">Local&nbsp;News
+            <a href="/southland-times">Southland&nbsp;Times
 
 	</a></li>
 
       <li class="current_nav_item">
 
-          <a href="/auckland/local-news/western-leader">Western&nbsp;Leader</a>
+          <a href="/southland-times/business">Business</a>
 
         <span class="nav_right"></span>
       </li>
@@ -355,33 +391,15 @@ PushDartJSAd('TOPBANNER', 1, 760, 120, '760x120');
 <div id="nav_bottom_left">
   <ul>
 
-          <li><a href="/auckland/local-news/western-leader/directory-classifieds/">Directory&nbsp;-&nbsp;Classifieds</a></li>
+              <li><a href="/southland-times/business/national-business/">National&nbsp;business</a></li>
 
-        <li><a href="http://westernleader.realviewdigital.com">Latest Edition</a></li>
-
-        <li><a href="http://www.stuff.co.nz/auckland/local-news/local-blogs">Local Blogs</a></li>
-
-        <li><a href="http://events.stuff.co.nz/western-leader/events/whatson/auckland">Events</a></li>
-
-          <li><a href="/auckland/local-news/western-leader/about-us/">About&nbsp;Us</a></li>
-
-          <li><a href="/auckland/local-news/western-leader/special-magazines/">Special&nbsp;Magazines</a></li>
-
-          <li><a href="/auckland/local-news/western-leader/western-homes/">Western&nbsp;Homes</a></li>
+              <li><a href="/southland-times/business/businessplus/">BusinessPlus</a></li>
 
   </ul>
 </div>
 <div id="nav_bottom_right">
 
-    <a href="http://www.stuff.co.nz/auckland/2575075/Looking-out-for-the-community?label=The+Trust">The Trust &raquo;</a>
-
-    <a href="http://twitter.com/?label=Follow+us+on+Twitter#!/@WesternLeader">Follow us on Twitter &raquo;</a>
-
-    <a href="http://www.facebook.com/?label='Like'+us+on+Facebook#!/pages/Western-Leader/257427817616189">'Like' us on Facebook &raquo;</a>
-
-    <a href="http://www.stuff.co.nz/about-stuff/2071058/Newspapers?label=Newspapers#auckland">Newspapers &raquo;</a>
-
-    <a href="http://www.stuff.co.nz/auckland/local-news/reviews/entertainment/7560279/Dashboard-August-2012?label=Dash-board+Motoring">Dash-board Motoring &raquo;</a>
+    <a href="http://www.stuff.co.nz/southland-times/search?label=Farm+news&amp;k=farmnews">Farm news &raquo;</a>
 
 </div>
 <!--end of components/nav/section_nav_part2-->
@@ -402,11 +420,11 @@ PushDartJSAd('TOPBANNER', 1, 760, 120, '760x120');
 
     <div id="left_col">
 
-        <!--start of normal_story_landing-->
+        <!--start of landscape_story_landing-->
 
 <div class="story_content_top">
     <!-- google_ad_section_start(name=storyheadline) -->
-    <h1>Science funding 'crucial'
+    <h1>Mataura briquetting plant on market
     <!--start of components/story_attributes-->
 
 <!--end of components/story_attributes-->
@@ -423,6 +441,8 @@ PushDartJSAd('TOPBANNER', 1, 760, 120, '760x120');
 
 <span class="storycredit">
 
+            <a href="mailto:collette.devlin@stl.co.nz?subject=Mataura%20briquetting%20plant%20on%20market">COLLETTE DEVLIN</a>
+
 </span>
 <!--end of components/story/credit-->
 
@@ -437,11 +457,32 @@ PushDartJSAd('TOPBANNER', 1, 760, 120, '760x120');
     <div class="toolbox_date">Last updated 05:00 21/06/2013</div>
     <div style="float:right" id="toolbox-gigya"></div>
 
+        <div class="toolbox_item" id="toolbox_comment_count"><!-- comment count populated by javascript --></div>
+
 </div>
 
 <!--end of components/toolbox-->
 
 </div>
+
+<!--start of components/story_landscape_image-->
+
+<div id="landscapephoto"> 
+    <img src="http://static2.stuff.co.nz/1349213146/628/7762628.jpg" alt="Southland Times photo" />
+
+    <div id="landscapephotocredit">
+        <span class="photocredittext">Robyn Edie/Fairfax NZ</span>
+    </div>
+
+    <div class="landscapeimagecaption">
+        <p>Solid Energy's briquetting plant at Mataura.
+</p>
+    </div>
+</div><!--landscapephoto-->
+
+<div class="hdividier"></div><!--end Landscape Story Template Embed-->
+
+<!--end of components/story_landscape_image-->
 
 <!--start of components/story/show_features-->
 
@@ -459,7 +500,7 @@ PushDartJSAd('TOPBANNER', 1, 760, 120, '760x120');
 <script language="javascript">
 <!--
 
-PushDartIframeAd('RELEVANTOFFER1', 14, 240, 65, '240x45');
+PushDartIframeAd('RELEVANTOFFER1', null, 240, 65, '240x45');
 
 //-->
 </script>
@@ -481,21 +522,31 @@ PushDartIframeAd('RELEVANTOFFER1', 14, 240, 65, '240x45');
 </div>
 <!--end of components/story/show_features-->
 
-<!--end of normal_story_landing-->
+<!--end of landscape_story_landing-->
 
     <!--start of components/story/common_content-->
 
 <!-- FFX analytics stuff -->
 
 <script>
+    var site_name = "southland-times"
+    var name_elements = site_name.split('-');
+    for ( var i = 0; i < name_elements.length; i++ ) {
+        name_elements[i] = name_elements[i].charAt(0).toUpperCase() + name_elements[i].slice(1);
+    }
+    site_name = name_elements.join(' ');
+    if ( site_name === "Life Style" ) {
+        site_name = "LifeStyle";
+    }
+
     var _fmaq = _fmaq || [];
         _fmaq.push(["_trackEvent", [
             ["event",         "view"],
             ["system",        "stuff"],
             ["site",          "stuff+prod"],
-            ["assetCategory", "auckland"],
-            ["asset",         "8820291"],
-            ["title",         "Science funding 'crucial'"],
+            ["assetCategory", site_name],
+            ["asset",         "8822601"],
+            ["title",         "Mataura briquetting plant on market"],
             ["assetType",     "Article"]
         ]]);
 
@@ -503,7 +554,7 @@ PushDartIframeAd('RELEVANTOFFER1', 14, 240, 65, '240x45');
 
     (function () {
         var fma_script = document.createElement('script');
-        fma_script.src = 'http://static2.stuff.co.nz/1371001579/static/js/track.min.js';
+        fma_script.src = 'http://static2.stuff.co.nz/1446410795/static/js/track.min.js';
         fma_script.setAttribute('async', 'true');
         var s = document.getElementsByTagName('script')[0];
         s.parentNode.insertBefore(fma_script, s);
@@ -517,32 +568,107 @@ PushDartIframeAd('RELEVANTOFFER1', 14, 240, 65, '240x45');
 
   <p>
 
-    Two Te Atatu primary schools have been awarded grants from the first round of The Bayer Primary School Science Fund.
+      The $30 million Mataura briquetting plant is for sale but will continue to operate until a new owner is found.
   </p>
 
   <p>
 
-    Tirimoana Primary School will receive $1000 which will go towards science equipment to support their science expo in term 3 and school enviro-a-thon.
+      Solid Energy and Australia-based GTL Energy have been in talks to decide the future of the commercial demonstration plant.
   </p>
 
   <p>
 
-    Peninsula Primary School will receive $1722 which will help with equipment purchases relating to the environmental science topics and sustainability.
+      Solid Energy acting chief executive Garry Diack yesterday announced Solid Energy would not continue with lignite upgrading in the foreseeable future but would continue to mine and market New Vale lignite.
   </p>
 
   <p>
 
-    The fund is administered by the Royal Society of New Zealand and its chief executive Dr Di McCarthy says science support at a primary school level is crucial.
+      In February, Solid Energy said it would take a back seat at the plant when the Australian energy company leased it and took over operations.
   </p>
 
   <p>
 
-    "Primary school science students explore how the natural world works so that they can participate as critical, informed and responsible citizens in a society in which science plays a significant role."
+      Lignite briquettes produced with GTL Energy's technology had good potential but given the current state of Solid Energy, it did not see itself as the long-term owner of the plant, Mr Diack said.
   </p>
 
   <p>
 
-    The Bayer funding allows schools to run a activities such as planting native gardens.
+      "We eventually want it in the hands of someone who can advance the technology to commercial reality and make it a success," Mr Diack said.
+  </p>
+
+  <p>
+
+      The plant would run for an extended period to showcase it to potential buyers, demonstrating the plant's capabilities on a continuous production basis, and to establish the longer-term value of the plant.
+  </p>
+
+  <p>
+
+      Solid Energy spokesman Bryn Somerville said the timeframe would likely be about three or four months.
+  </p>
+
+  <p>
+
+      This would allow GTL Energy to demonstrate production capabilities and its technology, and for product combustion and handling testing in the domestic and international market.
+  </p>
+
+  <p>
+
+      Mr Somerville did not know how much Solid Energy would sell the plant for.
+  </p>
+
+  <p>
+
+      Eight jobs would depend on the sale outcome, he said.
+  </p>
+
+  <p>
+
+      GTL Energy executive director Blake Williams said running the plant was the best way to secure its future.
+  </p>
+
+  <p>
+
+      GTL Energy chief executive Fred Schulte said running the Mataura plant would allow the company to showcase its technologies to develop global operations, particularly in Indonesia.
+  </p>
+
+  <p>
+
+      It would also establish the depth of the market for briquettes in New Zealand, he said.
+  </p>
+
+  <p>
+
+      Gore District Mayor Tracy Hicks said the decision was good in the short term for the staff at the plant and he was hopeful the technology would attract a buyer for the plant.
+  </p>
+
+  <p>
+
+      Southland Chamber of Commerce chief executive Richard Hay said the dream economic bubble had burst.
+  </p>
+
+  <p>
+
+      Many expectations had been placed on the plant, which to date had no economic impact on the regional economy.
+  </p>
+
+  <p>
+
+      If a new buyer was not found, there was nothing for the economy to lose, he said.
+  </p>
+
+  <p>
+
+      A buyer would pick up the plant as a going concern but, even with its technology, it was crucial that markets for the finished products were found, Mr Hay said.
+  </p>
+
+  <p>
+
+      Coal Action Network organiser team member Rosemary Penwarden said both companies should walk away and mothball the plant before anyone else lost money.
+  </p>
+
+  <p>
+
+      "Solid Energy has no money to pay for the at least $1.6m required to get the lignite plant in Southland going and is right to walk away," she said.
   </p>
 
   <!--start of components/ad/story_rectangle-->
@@ -566,7 +692,7 @@ PushDartIframeAd('RELEVANTOFFER1', 14, 240, 65, '240x45');
 <script language="javascript">
 <!--
 
-PushDartJSAd('STORYBODY', 2, 300, 250, '300x250');
+PushDartJSAd('STORYBODY', null, 300, 250, '300x250');
 
 //-->
 </script>
@@ -578,14 +704,14 @@ PushDartJSAd('STORYBODY', 2, 300, 250, '300x250');
 
 <!--start of components/story/publication_source-->
 
-    <p><strong> - &copy; Fairfax NZ News</strong></p>
+    <p><strong> - The Southland Times</strong></p>
 
 <!--end of components/story/publication_source-->
 
 <!--end of components/story_body_manipulated-->
 
 <!--start of components/ad/story_footer-->
-<div style="margin: 10px 0;">
+<div class="story-footer-ad">
 <!--start of components/ad/standard-->
 
   <!-- No ad set up for position STORYFOOTERLEFT -->
@@ -610,48 +736,46 @@ PushDartJSAd('STORYBODY', 2, 300, 250, '300x250');
 </div>
 <!--end of components/sharebox-->
 
-<div id="story_saved" class="hide">
+<div id="story_saved">
     <div class="savebox">
-        <span id="logged_in" class="account_only hide">
-             <input value="Saved" id="saved_story" name="saved_story" type="button" size="31" onClick="remove_saved_story(8820291)" /> | <a href="/stuff-nation/saved-stories">Saved Stories</a>
+        <span id="logged_in" class="account_only">
+             <input value="Saved" id="saved_story" name="saved_story" type="button" size="31" data-node_id="8822601" /> | <a href="/stuff-nation/saved-stories">Saved Stories</a>
         </span>
 
-         <span id="logged_out" class="guest_only hide">
-             <input value="Saved" id="unsaved_story" name="unsaved_story" type="button" size="31" onClick="$.colorbox({href: '/lightbox/user/login'}); $.colorbox.resize();" /> | <a href="/stuff-nation/saved-stories">Saved Stories</a>
+         <span id="logged_out" class="guest_only">
+             <input value="Saved" id="saved_story" name="saved_story" type="button" size="31" onClick="Account.login()" /> | <a href="/stuff-nation/saved-stories">Saved Stories</a>
         </span>
     </div>
 </div>
 
-<div id="story_unsaved" class="hide">
+<div id="story_unsaved">
     <div class="savebox">
-        <span id="logged_in" class="account_only hide">
-             <input value="Save" id="unsaved_story" name="unsaved_story" type="button" size="31" onClick="insert_saved_story(8820291)" /> | <a href="/stuff-nation/saved-stories">Saved Stories</a>
+        <span id="logged_in" class="account_only">
+             <input value="Save" id="unsaved_story" name="unsaved_story" type="button" size="31"  data-node_id="8822601" /> | <a href="/stuff-nation/saved-stories">Saved Stories</a>
         </span>
 
-        <span id="logged_out" class="guest_only hide">
-             <input value="Save" id="unsaved_story" name="unsaved_story" type="button" size="31" onClick="$.colorbox({href: '/lightbox/user/login'}); $.colorbox.resize();" /> | <a href="/stuff-nation/saved-stories">Saved Stories</a>
+        <span id="logged_out" class="guest_only">
+             <input value="Save" id="unsaved_story" name="unsaved_story" type="button" size="31" onClick="Account.login()" /> | <a href="/stuff-nation/saved-stories">Saved Stories</a>
         </span>
     </div>
 </div>
+<span id="save_story_error"><span>
 
 <script type="text/javascript">
-    var saved_stories_json = $.stuffStorage.get_item('saved_stories');
-    if (saved_stories_json){
-        var saved_stories = JSON.parse(saved_stories_json);
+$(function() {
+    var saved_stories = $.stuffStorage.get_item('saved_stories');
+    if (typeof saved_stories === "string") {
+        saved_stories = JSON.parse(saved_stories);
     }
-    if (saved_stories && saved_stories[8820291]){
+    if (saved_stories && saved_stories[8822601]){
         $("#story_saved").show();
+        $("#story_unsaved").hide();
     } else {
+        $("#story_saved").hide();
         $("#story_unsaved").show();
     }
+});
 
-    function insert_saved_story(){
-        add_saved_story(8820291);
-    }
-
-    function remove_saved_story(){
-        delete_saved_story(8820291);
-    }
 </script>
 
 </div>
@@ -661,17 +785,14 @@ PushDartJSAd('STORYBODY', 2, 300, 250, '300x250');
 <div id="related_box">
   <div id="related_box_left">
 
-        <h2 class="title_fullwidth">Next Western Leader story:</h2>
-        <p><a href="/auckland/local-news/western-leader/8820293/Preschool-options-pushed" class="story_icon">Preschool options pushed</a></p>
-
-    <h2><a href="/auckland" id="section_icon">Auckland Homepage</a></h2>
+    <h2><a href="/southland-times" id="section_icon">Southland Times Homepage</a></h2>
   </div>
 </div>
 
 </div>
 
 <!-- google_ad_section_start(name=storybody_below) -->
-    <!--start of components/ad/google-->
+    <!--start of components/ad/google (honeytrap)-->
 
 <script type="text/javascript">
 <!--
@@ -689,22 +810,39 @@ stuff_google_ad_show();
 <!--end of components/ad/google-->
 
     <div id="adsense_belowstory"></div>
-    <!--start of components/ad/google-->
+    <!--start of components/ad/googlelarge-->
 
 <script type="text/javascript">
 <!--
-stuff_ad_structure = '4'; // determines which styling structure to use for the ad
-google_ad_client = 'ca-fairfax-stuff_js';
-google_ad_channel = 'news';
-google_ad_output = 'js';
-google_max_num_ads = '3';
-google_ad_type = 'text';
-google_safe = 'high';
 
-stuff_google_ad_show();
+google_ad_client = 'ca-fairfax-stuff_js';
+google_ad_channel = 'southland-times-news';
+google_language = 'en';
+google_ad_width = '500';
+google_ad_height = '205';
+google_ad_format = '500x205_pas_abgc';
+google_ad_type = 'text';
+google_ad_output = 'html';
+  //google_pag
+0000394E
+e_url = 'http://www.stuff.co.nz';
+google_alternate_ad_url = '';
+google_alternate_color = '';
+google_color_bg = '#FFFFFF'; // Specifies a background color that should be used in the iframe 
+google_color_border = '#E6E6E6'; // Specifies a border color that should be used for the ads
+google_color_line = '00ff00'; // Specifies the color of the one-pixel line that surrounds ads
+google_color_link = '#256091'; // Specifies a color that should be used for ad titles
+google_color_url = '256091' ; // Specifies a color that should be used for the ad's visible URL
+google_color_text = '#333333'; // Specifies a color that should be used for ad text
+google_encoding = 'utf8';
+google_safe = 'high';
+google_ad_section = 'default';
+
 // -->
 </script>
-<!--end of components/ad/google-->
+<script language="JavaScript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<!--end of components/ad/googlelarge-->
 
 <!-- google_ad_section_end(name=storybody_below) -->
 <!--start of components/ad/wide_sponsored_links-->
@@ -718,7 +856,7 @@ stuff_google_ad_show();
 <script language="javascript">
 <!--
 
-PushDartIframeAd('SPONSOREDLINK1', 12, 310, 16, '310x16');
+PushDartIframeAd('SPONSOREDLINK1', null, 310, 16, '310x16');
 
 //-->
 </script>
@@ -783,6 +921,18 @@ PushDartIframeAd('SPONSOREDLINK3', null, 310, 16, '310x16');
 </div>
 <!--end of components/ad/wide_sponsored_links-->
 
+<!--start of components/gigya_comments-->
+<div class="hdividier"></div>
+
+<a name="comments" title="Comments"></a>
+<h2 style="clear:both" class="blog_heading ">Comments</h2>
+
+<div id='commentsDiv'></div>
+<script type="text/javascript">
+showGigyaComments( 'Stuff', 'Mataura briquetting plant on market', 'stuff/southland-times/business/8822601', 'http://static2.stuff.co.nz/1446410795/static/images/snation_comment_logo.gif' );
+</script>
+<!--end of components/gigya_comments-->
+
 <!--end of components/story/common_content-->
 
   </div> <!-- End Left Column -->
@@ -799,7 +949,7 @@ PushDartIframeAd('SPONSOREDLINK3', null, 310, 16, '310x16');
 <script language="javascript">
 <!--
 
-PushDartJSAd('TOPSTRIP', 8, 275, 23, '275x23');
+PushDartJSAd('TOPSTRIP', null, 275, 23, '275x23,300x25');
 
 //-->
 </script>
@@ -822,7 +972,7 @@ PushDartJSAd('TOPSTRIP', 8, 275, 23, '275x23');
 <script language="javascript">
 <!--
 
-PushDartJSAd('TOPSTRIP', 8, 275, 23, '275x23');
+PushDartJSAd('TOPSTRIP', null, 275, 23, '275x23,300x25');
 
 //-->
 </script>
@@ -834,12 +984,55 @@ PushDartJSAd('TOPSTRIP', 8, 275, 23, '275x23');
 
 <!- start components/assignment-button -->
 
+<div class="clearer"></div>
+    <!--start of components/mybd-box-->
+<div id="myBD-box" class="account_only">
+  <div class="hbox_busday_narrow">
+    <div class="hbox_top_busday">
+      <div class="hbox_top_busday_left"></div>
+      <span class="hbox_top_title"><a href="#" class="myBD-slide">My Business Tools</a></span>
+      <div class="hbox_top_busday_right"></div>
+    </div>
+    <div class="clearer"></div>
+    <div id="myBD-content">
+      <!--start of components/load_async-->
+
+  <script>
+    if (!document.async_seq) {
+      document.async_seq = 0;
+    }
+    document.async_seq++;
+    var div_id = 'async' + document.async_seq;
+
+    document.write('<div id="' + div_id + '" class="async_component">&nbsp;</div>');
+
+    Account.do_account(function() {
+
+        var url = '/async_component/mybd-box?section=/';
+
+        url = url + '&session_id=' + Account.session_id;
+
+          $('#' + div_id).load(url, function() {tab_init($('#' + div_id));});
+
+    });
+  </script>
+
+<!--end of components/load_async-->
+
+    </div><!--end my bd content-->
+    <div class="clearer"></div>
+  </div>
+</div><!--end my bd box-->
+<!--end of components/mybd-box-->
+
+<div class="clearer"></div>
+
     <!--start of components/right_col_headlines-->
 
 <div class="hbox_narrow">
   <div class="hbox_top_grey">
       <div class="hbox_top_grey_left"></div>
-      <span class="hbox_top_title headlines_title"><a href="/auckland/local-news/western-leader">Western Leader Headlines</a></span>
+      <span class="hbox_top_title headlines_title"><a href="/southland-times/business">Business Headlines</a></span>
       <div class="hbox_top_grey_right"></div>
       <!--start of components/section/sponsor_hbox-->
 
@@ -849,98 +1042,98 @@ PushDartJSAd('TOPSTRIP', 8, 275, 23, '275x23');
   <div class="hbox_body_left">
   <div class="section_headlines">
 
-      <p class="story_icon_link"><a href="/national/8826109/Kiwi-missionary-remembered-by-mourners">Kiwi missionary remembered by mourners</a>
+      <p class="story_icon_link"><a href="/southland-times/74711149/Marina-Hanger-establishes-accessible-tourism-business-initiative-in-Otago">Marina Hanger establishes accessible tourism business initiative in Otago</a>
       <!--start of components/story_attributes-->
 
 <!--end of components/story_attributes-->
 
       </p>
 
-      <p class="story_icon_link"><a href="/auckland/local-news/western-leader/8820265/Hes-one-for-the-birds">He's one for the birds</a>
+      <p class="story_icon_link"><a href="/southland-times/business/74732475/Fired-because-iHad-an-iPad">Fired because iHad an iPad</a>
       <!--start of components/story_attributes-->
 
 <!--end of components/story_attributes-->
 
       </p>
 
-      <p class="story_icon_link"><a href="/auckland/local-news/western-leader/8820291/Science-funding-crucial">Science funding 'crucial'</a>
+      <p class="story_icon_link"><a href="/southland-times/news/features/74731313/Speed-dating-for-job-seekers">Speed dating for job seekers</a>
       <!--start of components/story_attributes-->
 
 <!--end of components/story_attributes-->
 
       </p>
 
-      <p class="story_icon_link"><a href="/auckland/local-news/western-leader/8820293/Preschool-options-pushed">Preschool options pushed</a>
+      <p class="story_icon_link"><a href="/southland-times/business/74730177/The-associated-person-transactions-party-is-over">The associated person transactions party is over</a>
       <!--start of components/story_attributes-->
 
 <!--end of components/story_attributes-->
 
       </p>
 
-      <p class="story_icon_link"><a href="/auckland/local-news/western-leader/8820292/Rumble-grows-over-Whenuapai">Rumble grows over Whenuapai</a>
+      <p class="story_icon_link"><a href="/southland-times/news/74692760/Charities-missing-out-on-clothing-in-bins-Southland-Waste-Advisory-Group">Charities missing out on clothing in bins - Southland Waste Advisory Group</a>
       <!--start of components/story_attributes-->
 
 <!--end of components/story_attributes-->
 
       </p>
 
-      <p class="story_icon_link"><a href="/auckland/local-news/western-leader/8820264/Proposed-new-tree-rules-unworkable-in-ranges-critics-say">Proposed new tree rules unworkable in ranges, critics say</a>
+      <p class="story_icon_link"><a href="/southland-times/business/74652986/Southland-savoury-yoghurt-a-NZ-first">Southland savoury yoghurt a NZ first</a>
       <!--start of components/story_attributes-->
 
 <!--end of components/story_attributes-->
 
       </p>
 
-      <p class="story_icon_link"><a href="/auckland/local-news/western-leader/8815336/Kids-suffering-as-poverty-strikes-hard">Kids suffering as poverty strikes hard</a>
+      <p class="story_icon_link"><a href="/southland-times/business/74624266/Northlake-sells-45-sections-in-Wanaka-in-three-hours">Northlake sells 45 sections in Wanaka in three hours </a>
       <!--start of components/story_attributes-->
 
 <!--end of components/story_attributes-->
 
       </p>
 
-      <p class="story_icon_link"><a href="/auckland/local-news/western-leader/8815120/Peters-admits-child-sex">Peters admits child sex</a>
+      <p class="story_icon_link"><a href="/southland-times/business/73317801/Gores-Angela-Strang-named-landlord-of-the-year">Gore's Angela Strang named ''landlord of the year''</a>
       <!--start of components/story_attributes-->
 
 <!--end of components/story_attributes-->
 
       </p>
 
-      <p class="story_icon_link"><a href="/auckland/local-news/western-leader/8815118/Plan-threatening-ranges">Plan threatening ranges</a>
+      <p class="story_icon_link"><a href="/southland-times/business/74565815/Custom-Guns-in-Invercargill-opens-with-a-bang">Custom Guns in Invercargill opens with a bang</a>
       <!--start of components/story_attributes-->
 
 <!--end of components/story_attributes-->
 
       </p>
 
-      <p class="story_icon_link"><a href="/auckland/local-news/western-leader/8815235/Balance-in-life-key-to-health">Balance in life key to health</a>
+      <p class="story_icon_link"><a href="/southland-times/business/74554642/New-BurgerFuel-and-McDonalds-outlets-positive-for-Invercargill">New BurgerFuel and McDonald's outlets positive for Invercargill </a>
       <!--start of components/story_attributes-->
 
 <!--end of components/story_attributes-->
 
       </p>
 
-      <p class="story_icon_link"><a href="/auckland/local-news/western-leader/8818874/Hacker-off-on-a-roll-of-golf-courses">Hacker off on a roll of golf courses</a>
+      <p class="story_icon_link"><a href="/southland-times/business/74321812/Award-winning-Wanaka-broker-Jackie-Boyd-followed-her-heart-into-business">Award-winning Wanaka broker Jackie Boyd followed her heart into business</a>
       <!--start of components/story_attributes-->
 
 <!--end of components/story_attributes-->
 
       </p>
 
-      <p class="story_icon_link"><a href="/auckland/local-news/western-leader/8815304/Te-Atatu-library-gets-green-light">Te Atatu library gets green light</a>
+      <p class="story_icon_link"><a href="/southland-times/business/74563051/SBS-Bank-delivers-record-12-month-result">SBS Bank delivers record 12 month result</a>
       <!--start of components/story_attributes-->
 
 <!--end of components/story_attributes-->
 
       </p>
 
-      <p class="story_icon_link"><a href="/auckland/local-news/western-leader/8805430/Violence-sickening">Violence 'sickening'</a>
+      <p class="story_icon_link"><a href="/southland-times/business/74530106/Unemployment-up-average-wage-down-in-Southland">Unemployment up, average wage down in Southland</a>
       <!--start of components/story_attributes-->
 
 <!--end of components/story_attributes-->
 
       </p>
 
-      <p class="story_icon_link"><a href="/auckland/local-news/western-leader/8805417/Wild-weather-slip-forces-family-from-home">Wild weather, slip, forces family from home</a>
+      <p class="story_icon_link"><a href="/southland-times/business/74500450/Expansion-plans-for-Wanaka-backyard-brewer">Expansion plans for Wanaka backyard brewer </a>
       <!--start of components/story_attributes-->
 
 <!--end of components/story_attributes-->
@@ -980,7 +1173,7 @@ PushDartJSAd('TOPSTRIP', 8, 275, 23, '275x23');
 <script language="javascript">
 <!--
 
-PushDartJSAd('SECTIONTOPRIGHT', 2, 300, 600, '300x250,160x600,300x600');
+PushDartJSAd('SECTIONTOPRIGHT', null, 300, 600, '300x250,160x600,300x600');
 
 //-->
 </script>
@@ -995,7 +1188,7 @@ PushDartJSAd('SECTIONTOPRIGHT', 2, 300, 600, '300x250,160x600,300x600');
 <div class="hbox_narrow">
   <div class="hbox_top_grey">
       <div class="hbox_top_grey_left"></div>
-      <span class="hbox_top_title headlines_title"><a href="/auckland/local-news">Local News Headlines</a></span>
+      <span class="hbox_top_title headlines_title"><a href="/southland-times">Southland Times Headlines</a></span>
       <div class="hbox_top_grey_right"></div>
       <!--start of components/section/sponsor_hbox-->
 
@@ -1005,35 +1198,109 @@ PushDartJSAd('SECTIONTOPRIGHT', 2, 300, 600, '300x250,160x600,300x600');
   <div class="hbox_body_left">
   <div class="section_headlines">
 
-        <p class="story_icon_link"><a href="/auckland/local-news/east-bays-courier/8819952/Photographer-seeks-her-bridal-belles">Photographer seeks her bridal belles</a>
+        <p class="story_icon_link"><a href="/southland-times/news/74786127/Jeff-Rooneys-24-hour-bike-slog-buys-bikes-for-Africa">Jeff Rooney's 24-hour bike slog buys bikes for Africa</a>
         <!--start of components/story_attributes-->
 
 <!--end of components/story_attributes-->
 
       </p>
 
-        <p class="story_icon_link"><a href="/auckland/local-news/manukau-courier/8820688/Pope-honours-chaplain">Pope honours chaplain</a>
+        <p class="story_icon_link"><a href="/southland-times/74671228/South-farmers-champion-still-active-at-98">South farmers’ champion still active at 98</a>
         <!--start of components/story_attributes-->
 
 <!--end of components/story_attributes-->
 
       </p>
 
-        <p class="story_icon_link"><a href="/auckland/local-news/north-shore-times/8820263/Young-film-maker-is-fearless">Young film-maker is fearless</a>
+        <p class="story_icon_link"><a href="/southland-times/news/74798571/Invercargill-teenager-remains-in-serious-condition-after-car-crash-in-Queenstown">Invercargill teenager remains in serious condition after car crash in Queenstown</a>
         <!--start of components/story_attributes-->
 
 <!--end of components/story_attributes-->
 
       </p>
 
-        <p class="story_icon_link"><a href="/auckland/local-news/western-leader/8820293/Preschool-options-pushed">Preschool options pushed</a>
+        <p class="story_icon_link"><a href="/southland-times/74813720/Man-escapes-with-minor-injuries-after-car-overturns-on-gravel-road-near-Mossburn">Man escapes with minor injuries after car overturns on gravel road near Mossburn</a>
         <!--start of components/story_attributes-->
 
 <!--end of components/story_attributes-->
 
       </p>
 
-        <p class="story_icon_link"><a href="/auckland/local-news/east-bays-courier/8819951/A-dedicated-rugby-fan-for-80-years">A dedicated rugby fan for 80 years</a>
+        <p class="story_icon_link"><a href="/southland-times/74803383/Car-left-on-railway-tracks-causes-concern-for-Invercargill-police">Car left on railway tracks causes concern for Invercargill police</a>
+        <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+      </p>
+
+        <p class="story_icon_link"><a href="/southland-times/news/67575633/Homeless-shelter-to-open-in-Invercargill">Homeless shelter to open in Invercargill</a>
+        <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+      </p>
+
+        <p class="story_icon_link"><a href="/southland-times/news/67561115/Invercargill-teen-on-star-studded-flag-panel">Invercargill teen on star-studded flag panel</a>
+        <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+      </p>
+
+        <p class="story_icon_link"><a href="/business/farming/sheep/67562597/Meat-company-mergers-could-mean-more-dollars">Meat company mergers could mean more dollars</a>
+        <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+      </p>
+
+        <p class="story_icon_link"><a href="/southland-times/news/67569492/Cue-TV-turns-off-transmissions">Cue TV turns off transmissions </a>
+        <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+      </p>
+
+        <p class="story_icon_link"><a href="/timaru-herald/news/67574756/Hunt-on-for-Twizel-twins">Hunt on for Twizel twins</a>
+        <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+      </p>
+
+        <p class="story_icon_link"><a href="/sport/basketball/67565379/Southland-Sharks-coach-Paul-Henare-wants-to-go-out-with-a-bang">Southland Sharks coach Paul Henare wants to go out with a bang</a>
+        <!--start of components/story_attributes-->
+
+    <img src="http://static2.stuff.co.nz/1446410795/static/images/icon_video.gif" style="float:none; margin-left:5px;" alt="" >
+
+<!--end of components/story_attributes-->
+
+      </p>
+
+        <p class="story_icon_link"><a href="/southland-times/67568954/Exciting-Formula
+00004000
+-One-into-gear-for-raceday-debut">Exciting Formula One into gear for raceday debut</a>
+        <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+      </p>
+
+        <p class="story_icon_link"><a href="/southland-times/news/67520168/Last-remaining-coastwatcher-base-to-be-restored">Last remaining coastwatcher base to be restored</a>
+        <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+      </p>
+
+        <p class="story_icon_link"><a href="/national/education/67499833/Online-early-childhood-survey-released">Online early childhood survey released</a>
+        <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+      </p>
+
+        <p class="story_icon_link"><a href="/business/farming/dairy/67506515/Jono-and-Kellys-win-big-at-dairy-awards">Jono and Kelly's win big at dairy awards</a>
         <!--start of components/story_attributes-->
 
 <!--end of components/story_attributes-->
@@ -1071,7 +1338,7 @@ PushDartJSAd('SECTIONTOPRIGHT', 2, 300, 600, '300x250,160x600,300x600');
 <script language="javascript">
 <!--
 
-PushDartIframeAd('SPECIALOFFER1', 15, 240, 65, '240X45');
+PushDartIframeAd('SPECIALOFFER1', null, 240, 65, '240X45');
 
 //-->
 </script>
@@ -1085,7 +1352,7 @@ PushDartIframeAd('SPECIALOFFER1', 15, 240, 65, '240X45');
 <script language="javascript">
 <!--
 
-PushDartIframeAd('SPECIALOFFER2', 15, 240, 65, '240X45');
+PushDartIframeAd('SPECIALOFFER2', null, 240, 65, '240X45');
 
 //-->
 </script>
@@ -1099,7 +1366,7 @@ PushDartIframeAd('SPECIALOFFER2', 15, 240, 65, '240X45');
 <script language="javascript">
 <!--
 
-PushDartIframeAd('SPECIALOFFER3', 15, 240, 65, '240X45');
+PushDartIframeAd('SPECIALOFFER3', null, 240, 65, '240X45');
 
 //-->
 </script>
@@ -1120,7 +1387,7 @@ PushDartIframeAd('SPECIALOFFER3', 15, 240, 65, '240X45');
 
     <!--start of components/most_popular-->
 
-<!-- start components/most_popular most_popular_section_id=6016 -->
+<!-- start components/most_popular most_popular_section_id=6011 -->
 <div id="most_popular_wrapper">
     <div class="hbox_narrow">
         <div class="hbox_top_grey">
@@ -1138,127 +1405,209 @@ PushDartIframeAd('SPECIALOFFER3', 15, 240, 65, '240X45');
             <div id="viewed">
 
     <p>
+<!--start of components/story_link-->
 
-        <a class="story_icon" href="/national/crime/8821514/Burglars-impersonating-police-in-Auckland">Burglars impersonating police in Auckland</a>
-        <!--start of components/story_attributes-->
+<a class="story_icon" href="/national/74803383/Car-left-on-railway-tracks-causes-concern-for-Invercargill-police">
+
+    Car left on railway tracks causes concern for Invercargill police
+
+</a>
+
+<!--start of components/story_attributes-->
 
 <!--end of components/story_attributes-->
 
-    </p>
+<!--end of components/story_link-->
+</p>
 
     <p>
+<!--start of components/story_link-->
 
-        <a class="story_icon" href="/auckland/local-news/rodney-times/8824036/Lightning-fells-tree">Lightning fells tree</a>
-        <!--start of components/story_attributes-->
+<a class="story_icon" href="/national/74792627/Kade-Phillips-takes-first-steps-since-accident-at-Invercargill-school-report">
 
-    <img src="http://static2.stuff.co.nz/1371001579/static/images/icon_gallery.gif" style="float:none; margin-left:5px;" alt="" >
+    Kade Phillips takes first steps since accident at Invercargill school - report
+
+</a>
+
+<!--start of components/story_attributes-->
 
 <!--end of components/story_attributes-->
 
-    </p>
+<!--end of components/story_link-->
+</p>
 
     <p>
+<!--start of components/story_link-->
 
-        <a class="story_icon" href="/national/8826109/Kiwi-missionary-remembered-by-mourners">Kiwi missionary remembered by mourners</a>
-        <!--start of components/story_attributes-->
+<a class="story_icon" href="/national/crime/74806936/Auckland-teenager-charged-after-fatal-crash-near-Queenstown-in-July">
+
+    Auckland teenager charged after fatal crash near Queenstown in July
+
+</a>
+
+<!--start of components/story_attributes-->
 
 <!--end of components/story_attributes-->
 
-    </p>
+<!--end of components/story_link-->
+</p>
 
     <p>
+<!--start of components/story_link-->
 
-        <a class="story_icon" href="/auckland/local-news/north-shore-times/8820225/In-defence-of-sin-city">In defence of 'sin city'</a>
-        <!--start of components/story_attributes-->
+<a class="story_icon" href="/national/crime/74785421/Invercargill-police-car-rammed-during-pursuit">
+
+    Invercargill police car 'rammed' during pursuit
+
+</a>
+
+<!--start of components/story_attributes-->
 
 <!--end of components/story_attributes-->
 
-    </p>
+<!--end of components/story_link-->
+</p>
 
     <p>
+<!--start of components/story_link-->
 
-        <a class="story_icon" href="/national/crime/8818670/Pregnant-woman-stabbed">Pregnant woman stabbed </a>
-        <!--start of components/story_attributes-->
+<a class="story_icon" href="/southland-times/news/74798571/Invercargill-teenager-remains-in-serious-condition-after-car-crash-in-Queenstown">
+
+    Invercargill teenager remains in serious condition after car crash in Queenstown
+
+</a>
+
+<!--start of components/story_attributes-->
 
 <!--end of components/story_attributes-->
 
-    </p>
+<!--end of components/story_link-->
+</p>
 
     <p>
+<!--start of components/story_link-->
 
-        <a class="story_icon" href="/auckland/local-news/auckland-city-harbour-news/8819452/Bid-to-save-iconic-theatre">Bid to save iconic theatre</a>
-        <!--start of components/story_attributes-->
+<a class="story_icon" href="/business/farming/74671228/South-farmers-champion-still-active-at-98">
+
+    South farmers’ champion still active at 98
+
+</a>
+
+<!--start of components/story_attributes-->
 
 <!--end of components/story_attributes-->
 
-    </p>
+<!--end of components/story_link-->
+</p>
 
     <p>
+<!--start of components/story_link-->
 
-        <a class="story_icon" href="/auckland/local-news/auckland-city-harbour-news/8819454/Open-day-highlights-makeover-plans-for-Myers-Park">Open day highlights makeover plans for Myers Park</a>
-        <!--start of components/story_attributes-->
+<a class="story_icon" href="/sport/netball/74790321/Noeline-Taurua-to-coach-Southern-Steel-for-2016-trans-Tasman-netball-league">
+
+    Noeline Taurua to coach Southern Steel for 2016 trans-Tasman netball league
+
+</a>
+
+<!--start of components/story_attributes-->
 
 <!--end of components/story_attributes-->
 
-    </p>
+<!--end of components/story_link-->
+</p>
 
     <p>
+<!--start of components/story_link-->
 
-        <a class="story_icon" href="/auckland/local-news/auckland-city-harbour-news/8819536/Talent-runs-deep">Talent runs deep</a>
-        <!--start of components/story_attributes-->
+<a class="story_icon" href="/national/74786210/Fatal-fire-in-Southland-hunters-hut-not-suspicious-fire-investigator">
 
-<!--end of components/story_attributes-->
+    Fatal fire in Southland hunter's hut not suspicious - fire investigator
 
-    </p>
+</a>
 
-    <p>
-
-        <a class="story_icon" href="/national/crime/8817127/Arrests-made-after-maiming-at-bar">Arrests made after maiming at bar</a>
-        <!--start of components/story_attributes-->
+<!--start of components/story_attributes-->
 
 <!--end of components/story_attributes-->
 
-    </p>
-
-    <p>
-
-        <a class="story_icon" href="/auckland/local-news/local-blogs/abridged/8820849/Who-wants-to-be-a-politician-anyway">Who wants to be a politician anyway?</a>
-        <!--start of components/story_attributes-->
-
-<!--end of components/story_attributes-->
-
-    </p>
+<!--end of components/story_link-->
+</p>
 
             </div>
             <div id="shared">
 
     <p>
+<!--start of components/story_link-->
 
-        <a class="story_icon" href="/auckland/local-news/auckland-city-harbour-news/8819452/Bid-to-save-iconic-theatre">Bid to save iconic theatre</a>
-        <!--start of components/story_attributes-->
+<a class="story_icon" href="/business/farming/74671228/South-farmers-champion-still-active-at-98">
+
+    South farmers’ champion still active at 98
+
+</a>
+
+<!--start of components/story_attributes-->
 
 <!--end of components/story_attributes-->
 
-    </p>
+<!--end of components/story_link-->
+</p>
 
     <p>
+<!--start of components/story_link-->
 
-        <a class="story_icon" href="/auckland/local-news/central-leader/8819695/Have-your-say-on-Pharmac-drug-funding-decisions"> Have your say on Pharmac drug-funding decisions</a>
-        <!--start of components/story_attributes-->
+<a class="story_icon" href="/environment/74722491/Omaui-Landcare-Trust-has-success-with-first-1080-drop">
+
+    Omaui Landcare Trust has success with first 1080 drop
+
+</a>
+
+<!--start of components/story_attributes-->
 
 <!--end of components/story_attributes-->
 
-    </p>
+<!--end of components/story_link-->
+</p>
+
+    <p>
+<!--start of components/story_link-->
+
+<a class="story_icon" href="/southland-times/74793191/Jordan-Michels-showcases-skills-at-Teretonga-Park-in-Formula-Ford-Championship">
+
+    Jordan Michels showcases skills at Teretonga Park in Formula Ford Championship
+
+</a>
+
+<!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+<!--end of components/story_link-->
+</p>
+
+    <p>
+<!--start of components/story_link-->
+
+<a class="story_icon" href="/environment/74784056/Southland-shark-cage-diving-operators-not-baited-by-latest-controversy">
+
+    Southland shark cage diving operators not baited by latest controversy
+
+</a>
+
+<!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+<!--end of components/story_link-->
+</p>
 
             </div>
             <div id="commented"></div>
 <script type="text/javascript">
 gigya.comments.getTopStreams({
 
-    categoryID: 'Auckland',
+    categoryID: 'Southland Times',
 
     callback:GigyaStuff.updateMostCommented,
-    limit: '10'
+    limit: '8'
 });
 </script>
             <div class="hbox_btm">
@@ -1274,62 +1623,7 @@ gigya.comments.getTopStreams({
 
     <!-- start of components/polls -->
 
-<script type="text/javascript" src="http://static2.stuff.co.nz/1371001579/static/js/polls.min.js"></script>
-
-<div class="hbox_narrow">
-
-    <div class="hbox_top_grey">
-        <div class="hbox_top_grey_left"></div>
-        <span class="hbox_top_title">Opinion poll</span>
-        <div class="hbox_top_grey_right"></div>
-    </div>
-
-    <div class="hbox_body_left">
-
-        <p>
-
-            <img src="http://static2.stuff.co.nz/1371430348/300/8805300.jpg" width="90" height="60" align="right" class="photoborder poll-image" alt="" />
-
-    Do you think it's right for dairies to sell legal highs?
-        </p>
-
-    <!--start of components/poll/submit-form-->
-
-<form id="poll-8805300" action="/do/poll_vote" method="POST">
-    <input name="poll_id" type="hidden" value="8805300" />
-
-    <p>
-        <input name="radiobutton" type="radio" value="radiobutton_8805325" class="poll_option" />
-        Yes
-    </p>
-
-    <p>
-        <input name="radiobutton" type="radio" value="radiobutton_8805326" class="poll_option" />
-        No
-    </p>
-
-    <p>
-        <input name="radiobutton" type="radio" value="radiobutton_8805327" class="poll_option" />
-        Don't Care
-    </p>
-
-    <p class="poll_buttons" id="poll_button_asset">
-        <a onclick="poll_vote(8805300, '/lightbox/auckland/local-news/western-leader/8805300?KeepThis=true&TB_iframe=true&height=500&width=680&msg=voted', 'Results');" class="vote">Vote</a>
-
-        <a title="Results" href="/lightbox/auckland/local-news/western-leader/8805300?KeepThis=true&TB_iframe=true&height=500&width=680" onclick="" class="result thickbox" style="display: inline;">Result</a>
-
-    </p>
-</form>
-<!--end of components/poll/submit-form-->
-
-    </div>
-
-    <div class="hbox_btm">
-        <div class="hbox_btm_left"></div>
-        <div class="hbox_btm_right"></div>
-    </div>
-
-</div>
+<script type="text/javascript" src="http://static2.stuff.co.nz/1446410795/static/js/polls.min.js"></script>
 
 <!--end of components/polls-->
 
@@ -1372,19 +1666,7 @@ gigya.comments.getTopStreams({
 
 <!--start of components/ad/standard-->
 
-  <div class="" style="width:278px; height:auto; float:left;" id="adSPONSOREDCONTENT">
-
-  </div> 
-  <!--start of components/ad/push-->
-
-<script language="javascript">
-<!--
-
-PushDartIframeAd('SPONSOREDCONTENT', null, 278, 200, '278x200');
-
-//-->
-</script>
-<!--end of components/ad/push-->
+  <!-- No ad set up for position SPONSOREDCONTENT -->
 
 <!--end of components/ad/standard-->
 
@@ -1406,37 +1688,14 @@ PushDartIframeAd('SPONSOREDCONTENT', null, 278, 200, '278x200');
     <div class="hbox_top_grey">
         <div class="hbox_top_grey_left"></div>
 
-        <span class="hbox_top_title"><a href="http://www.stuff.co.nz/auckland/advertising-works/">Advertising works<span class="jeremy_ie6">&raquo;</span></a></span>
+        <span class="hbox_top_title"><a href="http://www.stuff.co.nz/southland-times/culture/in-the-south/businessplus">Celebrating success<span class="jeremy_ie6">&raquo;</span></a></span>
 
         <div class="hbox_top_grey_right"></div>
     </div>
 
     <div class="hbox_body_left">
-        <div class="blog_pointer"><a href="http://www.stuff.co.nz/auckland/local-news/north-shore-times/about-us/2767682/The-Mad-Butchers-success-story"><img src="http://static2.stuff.co.nz/1282191736/065/2768065.jpg" alt="Advertising in the Western Leader works for The Mad Butcher" border="0" class="photoborder" /></a>
-            <h2 class="other_headline"><a href="http://www.stuff.co.nz/auckland/local-news/north-shore-times/about-us/2767682/The-Mad-Butchers-success-story"></a></h2>
-            <p>Advertising in the Western Leader works for The Mad Butcher</p>
-        </div>
-    </div>
-
-    <div class="hbox_btm">
-        <div class="hbox_btm_left"></div>
-        <div class="hbox_btm_right"></div>
-    </div>
-</div>
-
-<div class="hbox_narrow">
-
-    <div class="hbox_top_grey">
-        <div class="hbox_top_grey_left"></div>
-
-        <span class="hbox_top_title">Download Western Homes</span>
-
-        <div class="hbox_top_grey_right"></div>
-    </div>
-
-    <div class="hbox_body_left">
-        <div class="blog_pointer"><a href="/auckland/local-news/western-leader/western-homes/"><img src="http://static2.stuff.co.nz/1251425779/043/2808043.jpg" alt="" border="0" class="photoborder" /></a>
-            <h2 class="other_headline"><a href="/auckland/local-news/western-leader/western-homes/">Your essential real estate guide</a></h2>
+        <div class="blog_pointer"><a href="http://www.stuff.co.nz/southland-times/culture/in-the-south/businessplus"><img src="http://static2.stuff.co.nz/1395745739/789/8455789.jpg" alt="BusinessPlus" border="0" class="photoborder" /></a>
+            <h2 class="other_headline"><a href="http://www.stuff.co.nz/southland-times/culture/in-the-south/businessplus"></a></h2>
             <p></p>
         </div>
     </div>
@@ -1447,95 +1706,14 @@ PushDartIframeAd('SPONSOREDCONTENT', null, 278, 200, '278x200');
     </div>
 </div>
 
-<div class="hbox_narrow">
+<!--start of components/pointer/iframe_pointer-->
 
-    <div class="hbox_top_grey">
-        <div class="hbox_top_grey_left"></div>
-
-        <span class="hbox_top_title">Hot deals</span>
-
-        <div class="hbox_top_grey_right"></div>
-    </div>
-
-    <div class="hbox_body_left">
-        <div class="blog_pointer"><a href="http://www.stuff.co.nz/auckland/local-news/western-leader/classifieds?search_request=1&publication=WL&search_type=vo"><img src="http://static2.stuff.co.nz/1246853919/512/2563512.jpg" alt="" border="0" class="photoborder" /></a>
-            <h2 class="other_headline"><a href="http://www.stuff.co.nz/auckland/local-news/western-leader/classifieds?search_request=1&publication=WL&search_type=vo"></a></h2>
-            <p></p>
-        </div>
-    </div>
-
-    <div class="hbox_btm">
-        <div class="hbox_btm_left"></div>
-        <div class="hbox_btm_right"></div>
-    </div>
-</div>
-
-<div class="hbox_narrow">
-
-    <div class="hbox_top_grey">
-        <div class="hbox_top_grey_left"></div>
-
-        <span class="hbox_top_title">Local business directory</span>
-
-        <div class="hbox_top_grey_right"></div>
-    </div>
-
-    <div class="hbox_body_left">
-        <div class="blog_pointer"><a href="http://www.stuff.co.nz/auckland/local-news/western-leader/classifieds?search_request=1&publication=WL&search_type=rd"><img src="http://static2.stuff.co.nz/1246853888/510/2563510.jpg" alt="" border="0" class="photoborder" /></a>
-            <h2 class="other_headline"><a href="http://www.stuff.co.nz/auckland/local-news/western-leader/classifieds?search_request=1&publication=WL&search_type=rd">Your guide to the best local businesses</a></h2>
-            <p></p>
-        </div>
-    </div>
-
-    <div class="poll_bottom_divider"></div>
-
-    <div class="hbox_body_left">
-        <div class="blog_pointer"><a href="http://www.stuff.co.nz/auckland/local-news/north-shore-times/about-us/2767682/The-Mad-Butchers-success-story"><img src="http://static2.stuff.co.nz/1323207473/050/2768050.jpg" alt="Mad Butcher" border="0" class="photoborder" /></a>
-            <h2 class="other_headline"><a href="http://www.stuff.co.nz/auckland/local-news/north-shore-times/about-us/2767682/The-Mad-Butchers-success-story">Advertising in Fairfax Suburban Newspapers works for The Mad Butcher</a></h2>
-            <p></p>
-        </div>
-    </div>
-
-    <div class="hbox_btm">
-        <div class="hbox_btm_left"></div>
-        <div class="hbox_btm_right"></div>
-    </div>
-</div>
-
-    <div class="poll_bottom_divider"></div>
-
-<div class="hbox_narrow">
-
-    <div class="hbox_top_grey">
-        <div class="hbox_top_grey_left"></div>
-        <span class="hbox_top_title">Latest Business Listings</span>
-        <div class="hbox_top_grey_right"></div>
-    </div>
-    <div class="hbox_body_left">
-
-<br/>
-
-    <p><a href="/auckland/local-news/western-leader/classifieds?search_request=1&ffx_id=O155331&publication=WL&search_type=al"><img src="http://static2.stuff.co.nz/1371001579/static/images/classifieds/retail.gif" width="16" height="16" alt="" /> CM Dental, 95 Lincoln Rd</a></p>
-
-    <p><a href="/auckland/local-news/western-leader/classifieds?search_request=1&ffx_id=T992383&publication=WL&search_type=al"><img src="http://static2.stuff.co.nz/1371001579/static/images/classifieds/retail.gif" width="16" height="16" alt="" /> Burgerfuel Henderson, Shop</a></p>
-
-    <p><a href="/auckland/local-news/western-leader/classifieds?search_request=1&ffx_id=T992383&publication=WL&search_type=al"><img src="http://static2.stuff.co.nz/1371001579/static/images/classifieds/retail.gif" width="16" height="16" alt="" /> Burgerfuel Henderson, Shop</a></p>
-
-    <p><a href="/auckland/local-news/western-leader/classifieds?search_request=1&ffx_id=1001085024&publication=WL&search_type=al"><img src="http://static2.stuff.co.nz/1371001579/static/images/classifieds/retail.gif" width="16" height="16" alt="" /> Superior Benchtop Solutions</a></p>
-
-    <p><a href="/auckland/local-news/western-leader/classifieds?search_request=1&ffx_id=O111661&publication=WL&search_type=al"><img src="http://static2.stuff.co.nz/1371001579/static/images/classifieds/retail.gif" width="16" height="16" alt="" /> International College of</a></p>
-
-    <p><a href="/auckland/local-news/western-leader/classifieds?search_request=1&ffx_id=T735772&publication=WL&search_type=al"><img src="http://static2.stuff.co.nz/1371001579/static/images/classifieds/retail.gif" width="16" height="16" alt="" /> Toothcare West, Level 1</a></p>
-
-   <a href="classifieds">Browse all recent classifieds &raquo;</a>
-
-    </div><!--hbox_body_left-->
-
-    <div class="hbox_btm">
-        <div class="hbox_btm_left"></div>
-        <div class="hbox_btm_right"></div>
-    </div>
-</div>
+<!-- start iframe_pointer -->
+<div class="iframe_pointer">
+<iframe scrolling="no" height="200" frameborder="0" width="300" src="https://cdn.neighbourly.co.nz/stuff/neighbourhood/search"></iframe>
+</div> 
+<!-- end iframe_pointer -->
+<!--end of components/pointer/iframe_pointer-->
 
 <!--end of components/pointer/right_col_pointers-->
 
@@ -1545,33 +1723,35 @@ PushDartIframeAd('SPONSOREDCONTENT', null, 278, 200, '278x200');
 </div>
 <!--end of story_landing-->
 
-<img src="/track/view/22402/8820291/?dest=http://static2.stuff.co.nz/1371001579/static/images/1pxwhite.gif" alt="" />
+<img src="/track/view/6440/8822601/?dest=http://static2.stuff.co.nz/1446410795/static/images/1pxwhite.gif" alt="" />
 <!--end of node_landing-->
 
 <!--start of components/footer-->
 
-<div id="footer" class="nwnnav">
+<div id="footer" class="sltnav">
     <div id="footer_top">
 
             <ul>
 
-                        <li><a href="/auckland/local-news/">Local News</a></li>
+                        <li><a href="/southland-times/news/">News</a></li>
 
-                        <li><a href="/auckland/sport/">Sport</a></li>
+                        <li><a href="/southland-times/sport/">Sport</a></li>
 
-                        <li><a href="/auckland/events/">Events</a></li>
+                        <li><a href="/southland-times/farming/">Farming</a></li>
 
-                        <li><a href="/auckland/win/">Win</a></li>
+                        <li><a href="/southland-times/business/">Business</a></li>
 
-                        <li><a href="/auckland/traffic-cameras/">Traffic Cameras</a></li>
+                        <li><a href="/southland-times/opinion/">Opinion</a></li>
 
-                        <li><a href="/auckland/photos/">Photos</a></li>
+                        <li><a href="/southland-times/culture/">Culture</a></li>
 
-                        <li><a href="/auckland/videos/">Videos</a></li>
+                        <li><a href="/southland-times/life-style/">Life & Style</a></li>
 
-                        <li><a href="/auckland/blogs/">Blogs</a></li>
+                        <li><a href="/southland-times/technology/">Technology</a></li>
 
-                        <li><a href="/auckland/classifieds/">Classifieds</a></li>
+                        <li><a href="/southland-times/photos/">Photos</a></li>
+
+                        <li><a href="/southland-times/videos/">Videos</a></li>
 
             </ul>
 
@@ -1581,17 +1761,18 @@ PushDartIframeAd('SPONSOREDCONTENT', null, 278, 200, '278x200');
 
       <div class="footer-bottom-left-row">
 
-        <div class="footer-bottom-left-title">Auckland Now</div>
+        <div class="footer-bottom-left-title">Southland Times</div>
 
         <div class="footer-bottom-left-list">
-    <ul><li><a href="http://www.stuff.co.nz/auckland/contact-us/4324983/Contact-the-Auckland-Stuff-team">Contact Us</a></li></ul>
+    <ul>
+<li><a href="http://www.stuff.co.nz/southland-times/about-us/2634/Contact-The-Southland-Times">Contact Us</a></li><li>|</li><li><a href="http://deaths.southlandtimes.co.nz/obituaries/southland-times-nz/">Death Notices</a></li><li>|</li><li><a href="http://celebrations.southlandtimes.co.nz/celebration/southland-times-nz/">Celebrations</a></li>
+</ul>
         </div>
       </div>
       <div class="clearer"></div>
 
 <!-- TESTING DYNAMIC FOOTER -->
     <div id="footer-bottom-left">
-
     <div class="footer-bottom-left-row">
         <div class="footer-bottom-left-title">Stuff.co.nz</div>
         <div class="footer-bottom-left-list">
@@ -1600,12 +1781,12 @@ PushDartIframeAd('SPONSOREDCONTENT', null, 278, 200, '278x200');
                 <li>|</li>
                 <li><a href="http://www.stuff.co.nz/about-stuff/33785/Contact-Us">Contact Us</a></li>
                 <li>|</li>
-                <li><a href="http://www.stuff.co.nz/about-stuff/2715191/Mobile">Mobile</a></li>
- <li>|</li>
-                <li><a href="http://i.stuff.co.nz/detect/?sv=i">View Smartphone Site</a></li>
- <li>|</li>
-                <li><a href="http://m.stuff.co.nz/detect/?sv=m">View Mobile Light Site</a></li>
-            </ul>
+                <li><a href="http://www.stuff.co.nz/about-stuff/10647720/Stuffs-terms-and-conditions">Terms and conditions</a></li>
+                <li>|</li>
+                <li><a href="http://www.stuff.co.nz/about-stuff/10648385/Privacy-Policy">Privacy Policy</a></li>
+                <li>|</li>
+                               <li><a class="view_smartphone_site"  href="http://i.stuff.co.nz/">View Smartphone Site</a></li>
+             </ul>
         </div>
         <div class="clearer"></div>
     </div>
@@ -1625,7 +1806,7 @@ us on Facebook and Twitter</a></li>
             <li>|</li>
             <!--<li><a href="#">Digital Editions</a></li>
             <li>|</li>-->
-            <li><a href="http://fairfaxmedia.co.nz/subscriptions/newspaper-subscriptions.dot">Newspapers</a></li>
+            <li><a href="http://www.fairfaxmedia.co.nz/portfolio-nz/subscriptions/newspaper-subscriptions">Newspapers</a></li>
             <li>|</li>
             <li><a href="http://www.mags4gifts.co.nz/">Magazine subscriptions</a></li>
             <li>|</li>
@@ -1640,11 +1821,14 @@ us on Facebook and Twitter</a></li>
           <ul>
             <!--<li><a href="#">Competitions</a></li>
             <li>|</li>-->
+<li><a href="http://www.stuff.co.nz/about-stuff/archives/2385092/Fairfax-New-Zealand-Limited-s-online-news-archive-service">Fairfax Archives</a></li><li>|</li>
             <li><a href="http://www.fairfaxnie.co.nz/">Newspapers in Education</a></li>
-            <li>|</li>
+            <li>|</l
+00003CFF
+i>
             <li><a href="http://www.azdirect.co.nz/">A-Z Directories</a></li>
             <li>|</li>
-            <li><a href="/about-stuff/33001/Advertise-Online">Online Advertising</a></li>
+            <li><a href="http://www.stuff.co.nz/about-stuff/advertise-online/online-advertising/33001/Advertise-Online">Online Advertising</a></li>
             <li>|</li>
             <li><a href="http://www.fairfaxmedia.co.nz/ad-centre/advertise-in-newspapers.dot">Print 
 
@@ -1679,45 +1863,33 @@ Advertising</a></li><li>|</li>
         </div><!--end footer bottom left list-->
         <div class="clearer"></div>
       </div><!--end footer bottom left row-->
-      <div class="footer-bottom-left-row">
+            <div class="footer-bottom-left-row">
         <div class="footer-bottom-left-title">Newspapers</div>
         <div class="footer-bottom-left-list">
-           <ul>
-            <li><a href="/dominion-post/">Dominion Post </a></li>
+          <ul>
+            <li><a href="http://www.stuff.co.nz/dominion-post">Dominion Post</a></li>
             <li>|</li>
-            <li><a href="/the-press/">The Press</a></li>
+            <li><a href="http://www.stuff.co.nz/the-press">The Press</a></li>
             <li>|</li>
-            <li><a href="/waikato-times/">Waikato Times</a></li>
+            <li><a href="http://www.stuff.co.nz/waikato-times">Waikato Times</a></li>
             <li>|</li>
-            <li><a href="/auckland/">Auckland Now</a></li>
+            <li><a href="http://www.stuff.co.nz/auckland">Auckland Now</a></li>
+            <li>|</li><li><a href="http://www.stuff.co.nz/taranaki-daily-news">Taranaki Daily News</a></li>
             <li>|</li>
-            <li><a href="/sunday-news/">Sunday News</a></li>
+            <li><a href="http://www.stuff.co.nz/manawatu-standard">Manawatu Standard</a></li>
             <li>|</li>
-            <li><a href="/sunday-star-times/">Sunday Star-Times</a></li>
-          </ul>
-        </div><!--end footer bottom left list-->
-        <div class="clearer"></div>
-        <div class="footer-bottom-left-row">
-        </div><!--end footer bottom left row-->
-        <div class="footer-bottom-left-title"> </div>
-        <div class="footer-bottom-left-list">
-           <ul>
-            <li><a href="/marlborough-express/">Marlborough Express</a></li>
+            <li><a href="http://www.stuff.co.nz/marlborough-express">Marlborough Express</a></li>
+            <li>|</li>  
+            <li><a href="http://www.stuff.co.nz/nelson-mail">Nelson Mail</a></li>
+            <li>|</li>  
+            <li><a href="http://www.stuff.co.nz/timaru-herald">Timaru Herald</a></li>
             <li>|</li>
-            <li><a href="/manawatu-standard/">Manawatu Standard</a></li>
-            <li>|</li>
-            <li><a href="/nelson-mail/">Nelson Mail</a></li>
-            <li>|</li>
-            <li><a href="/southland-times/">Southland Times</a></li>
-            <li>|</li>
-            <li><a href="/taranaki-daily-news/">Taranaki Daily News</a></li>
-            <li>|</li>
-            <li><a href="/timaru-herald/">Timaru Herald</a></li>
-          </ul>
+            <li><a href="http://www.stuff.co.nz/southland-times">Southland Times</a></li>
+           </ul>
         </div><!--end footer bottom left list-->
         <div class="clearer"></div>
       </div><!--end footer bottom left row-->
-      <div class="footer-bottom-left-row">
+            <div class="footer-bottom-left-row">
         <div class="footer-bottom-left-title">Other Sites</div>
         <div class="footer-bottom-left-list">
           <ul>
@@ -1732,12 +1904,7 @@ Advertising</a></li><li>|</li>
             <li><a href="http://www.nzlifeandleisure.co.nz/">NZ Life & Leisure</a></li>
             <li>|</li>
             <li><a href="http://www.nzgardener.co.nz/">NZ Gardener</a></li>
-            <li>|</li>
-            <li><a href="http://www.stuff.co.nz/about-stuff/archives/2385092/Fairfax-New-Zealand-Limited-s-
 
-online-news-archive-service">Fairfax 
-
-Archives</a></li>
             <!-- <li>|</li>
             <li><a href="#">Network Sitemap</a></li> -->
           </ul>
@@ -1749,20 +1916,14 @@ Archives</a></li>
 
     <div id="footer-bottom-right">
 
-      <p class="footer-right-title">Breaking news?</p>
-      <p class="descrip">Send us your photos, videos and tip-offs:</p>
-      <p class="grey"><span class="float-left">Email</span><span><a href="mailto:newstips@stuff.co.nz">newstips@stuff.co.nz</a></span></p>
-      <div class="clearer"></div>
-      <p class="grey"><span class="float-left">Phone</span><span>0800 697 8833</span></p>
-      <div class="clearer"></div>
+    <p class="footer-right-title">Breaking news?</p> <p class="descrip">Send us your photos, videos, and tip-offs.</p> <p class="grey"> <span class="float-left">Email</span> <span> <a href="mailto:news@stl.co.nz">news@stl.co.nz</a> </span> </p> <div class="clearer"></div> <p class="grey"><span class="float-left">Phone</span><span> 03 2111 111</span> </p><div class="clearer"></div> 
 
     </div><!--end footer bottom right-->
     <div class="clearer"></div>
   </div><!--end footer bottom-->
   <div id="ffxcredit">
     <div id="ffxlogo"></div><br/>
-      &copy 2013 <a href="http://www.fairfaxmedia.co.nz">Fairfax New Zealand Limited</a><br/>
-      <a href="/about-stuff/legal/25044/privacy-policy">Privacy</a><!--  |
+      &copy 2014 <a href="http://www.fairfaxmedia.co.nz">Fairfax New Zealand Limited</a><!--  |
       <a href="#">Conditions</a>-->
   </div><!--end fairfax credit-->
   </div><!--end footer-->
@@ -1781,7 +1942,6 @@ Archives</a></li>
 
 <!--end of components/livescoring_footer-->
 
-<!--  -->
 <script language="javascript">
 hideCboxLinks();
 <!--
@@ -2028,47 +2188,64 @@ pageTracker._trackPageview();
 <!--end of components/netratings-->
 
   <!--start of components/omniture-->
-<!-- SiteCatalyst code version: H.21.
-Copyright 1996-2010 Adobe, Inc. All Rights Reserved
-More info available at http://www.omniture.com -->
-<script language="JavaScript" type="text/javascript" src="http://static2.stuff.co.nz/1371001579/static/js/omniture.min.js"></script>
 <script language="JavaScript" type="text/javascript"><!--
 /* You may give each page an identifying name, server, and channel on
 the next lines. */
+var sbak={};
 
-s.events="";
+sbak.events="";
 
-s.prop1="fairfaxnz-stuff-prd";
+sbak.prop1="fairfaxnz-stuff-prd";
 
-s.prop31="";
+sbak.prop31="Collette Devlin";
 
-s.prop32="20 June, 2013";
+sbak.prop32="21 June, 2013";
 
-s.prop5="article page";
+sbak.prop5="article page";
 
-s.prop6="science_funding_crucial";
+sbak.prop6="mataura_briquetting_plant_on_market";
 
-s.prop7="8820291:-Science-funding-8216crucial";
+sbak.prop7="8822601:-Briquetting-plant-on-market";
 
-// get omniture vals from cookie and send them
-if (typeof $ !== 'undefined' && typeof $.cookie !== 'undefined') {
-    var account_cookie_vals = jQuery.parseJSON($.cookie('account'));
-    if (account_cookie_vals) {
-        s.prop14 = s.eVar14 = account_cookie_vals.uid;
-        s.prop50 = s.eVar50 = account_cookie_vals.gender;
-        s.prop51 = s.eVar51 = account_cookie_vals.yob;
-        s.prop52 = s.eVar52 = account_cookie_vals.region_id;
-        if (account_cookie_vals.industry_id !== null) {
-            s.prop53 = s.eVar53 = account_cookie_vals.industry_id;
-        }
-    }
+// get omniture vals from account and send them
+var account = Account.account_details;
+if (account) {
+    sbak.prop14 = sbak.eVar14 = account.uid;
 }
-/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-var s_code=s.t();if(s_code)document.write(s_code)//--></script>
-<!-- End SiteCatalyst code version: H.21. -->
+_satellite.pageBottom();
+//--></script>
 <!--end of components/omniture-->
 
 </body>
 <!--end of main-->
 </html>
+
+
+00000000
+
+
+
+WARC/1.0
+WARC-Type: resource
+WARC-Record-ID: <urn:uuid:c19b5563-3724-4009-9573-235ac0aa863b>
+WARC-Warcinfo-ID: <urn:uuid:06185ebe-37a8-443c-ba39-c244a310bb07>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/MANIFEST.txt
+WARC-Date: 2015-12-07T01:12:15Z
+Content-Type: text/plain
+Content-Length: 48
+
+<urn:uuid:06185ebe-37a8-443c-ba39-c244a310bb07>
+
+
+WARC/1.0
+WARC-Type: resource
+WARC-Record-ID: <urn:uuid:c19b5563-3724-4009-9573-235ac0aa863b>
+WARC-Warcinfo-ID: <urn:uuid:06185ebe-37a8-443c-ba39-c244a310bb07>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/wget_arguments.txt
+WARC-Date: 2015-12-07T01:12:15Z
+Content-Type: text/plain
+Content-Length: 234
+
+"--warc-file" "Mataura-briquetting-plant-on-market" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "-q" "-O" "/dev/null" "http://www.stuff.co.nz/southland-times/business/8822601/Mataura-briquetting-plant-on-market" 
+
 
