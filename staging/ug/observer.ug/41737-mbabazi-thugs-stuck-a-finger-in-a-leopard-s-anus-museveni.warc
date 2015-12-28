@@ -1,0 +1,986 @@
+WARC/1.0
+WARC-Type: warcinfo
+Content-Type: application/warc-fields
+WARC-Date: 2015-12-22T23:02:40Z
+WARC-Record-ID: <urn:uuid:f46082da-d02c-47e7-a6bb-3c9ba21b3266>
+WARC-Filename: 41737-mbabazi-thugs-stuck-a-finger-in-a-leopard-s-anus-museveni.warc
+Content-Length: 453
+
+software: Wget/1.13.4-2608 (linux-gnu)
+format: WARC File Format 1.0
+conformsTo: http://bibnum.bnf.fr/WARC/WARC_ISO_28500_version1_latestdraft.pdf
+robots: classic
+wget-arguments: "--warc-file" "41737-mbabazi-thugs-stuck-a-finger-in-a-leopard-s-anus-museveni" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "-q" "-O" "/dev/null" "http://observer.ug/news-headlines/41737-mbabazi-thugs-stuck-a-finger-in-a-leopard-s-anus-museveni" 
+
+
+
+WARC/1.0
+WARC-Type: request
+WARC-Target-URI: http://observer.ug/news-headlines/41737-mbabazi-thugs-stuck-a-finger-in-a-leopard-s-anus-museveni
+Content-Type: application/http;msgtype=request
+WARC-Date: 2015-12-22T23:02:41Z
+WARC-Record-ID: <urn:uuid:8ace8172-9942-431b-bb2c-79e1f327fa2c>
+WARC-IP-Address: 184.154.145.82
+WARC-Warcinfo-ID: <urn:uuid:f46082da-d02c-47e7-a6bb-3c9ba21b3266>
+Content-Length: 194
+
+GET /news-headlines/41737-mbabazi-thugs-stuck-a-finger-in-a-leopard-s-anus-museveni HTTP/1.1
+User-Agent: Wget/1.13.4-2608 (linux-gnu)
+Accept: */*
+Host: observer.ug
+Connection: Keep-Alive
+
+
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <urn:uuid:7e810709-d572-4c71-93b6-af9845eeca96>
+WARC-Warcinfo-ID: <urn:uuid:f46082da-d02c-47e7-a6bb-3c9ba21b3266>
+WARC-Concurrent-To: <urn:uuid:8ace8172-9942-431b-bb2c-79e1f327fa2c>
+WARC-Target-URI: http://observer.ug/news-headlines/41737-mbabazi-thugs-stuck-a-finger-in-a-leopard-s-anus-museveni
+WARC-Date: 2015-12-22T23:02:41Z
+WARC-IP-Address: 184.154.145.82
+Content-Type: application/http;msgtype=response
+Content-Length: 65666
+
+HTTP/1.1 200 OK
+Date: Tue, 22 Dec 2015 23:09:01 GMT
+Server: Apache/2.2.24 (Unix) mod_hive/5.0 mod_ssl/2.2.24 OpenSSL/1.0.0-fips mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+P3P: CP="NOI ADM DEV PSAi COM NAV OUR OTRo STP IND DEM"
+Expires: Mon, 1 Jan 2001 00:00:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: 2a475613a3300c9a9bf68dfb68c5f474=eoj7fmkmo6sirsa4aia82kqku5; path=/; HttpOnly
+Last-Modified: Tue, 22 Dec 2015 23:09:01 GMT
+Host-Header: 192fc2e7e50945beb8231a492d6a8024
+Host-Header: 192fc2e7e50945beb8231a492d6a8024
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+
+fd8c
+<!DOCTYPE html>
+<!-- jsn_solid_pro 2.0.2 -->
+<html lang="en-gb" dir="ltr">
+<head>
+	  <base href="http://observer.ug/news-headlines/41737-mbabazi-thugs-stuck-a-finger-in-a-leopard-s-anus-museveni" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="keywords" content="Museveni, Ntungamo clashes, violence" />
+  <meta name="author" content="URN" />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>Amama 'thugs' stuck a finger in a leopard’s anus - Museveni</title>
+  <link href="/component/jcomments/feed/com_content/41737" rel="alternate" type="application/rss+xml" title="Amama 'thugs' stuck a finger in a leopard’s anus - Museveni" />
+  <link href="/templates/jsn_solid_pro/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="/components/com_jcomments/tpl/default/style.css?v=3002" type="text/css" />
+  <link rel="stylesheet" href="http://observer.ug/plugins/content/fastsocialshare/style/style.css" type="text/css" />
+  <link rel="stylesheet" href="/media/jui/css/bootstrap.min.css" type="text/css" />
+  <link rel="stylesheet" href="/media/jui/css/bootstrap-responsive.min.css" type="text/css" />
+  <link rel="stylesheet" href="/media/jui/css/bootstrap-extended.css" type="text/css" />
+  <link rel="stylesheet" href="/plugins/system/jsntplframework/assets/3rd-party/bootstrap/css/bootstrap-frontend.min.css" type="text/css" />
+  <link rel="stylesheet" href="/plugins/system/jsntplframework/assets/3rd-party/bootstrap/css/bootstrap-responsive-frontend.min.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/jsn_solid_pro/css/print.css" type="text/css" media="Print" />
+  <link rel="stylesheet" href="/templates/system/css/system.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/system/css/general.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/jsn_solid_pro/css/template.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/jsn_solid_pro/css/template_pro.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/jsn_solid_pro/css/colors/blue.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/jsn_solid_pro/css/styles/business.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/jsn_solid_pro/css/layouts/jsn_mobile.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/jsn_solid_pro/css/observer.css" type="text/css" />
+  <link rel="stylesheet" href="/media/system/css/modal.css" type="text/css" />
+  <link rel="stylesheet" href="http://observer.ug/modules/mod_news_pro_gk5/interface/css/style.css" type="text/css" />
+  <link rel="stylesheet" href="http://observer.ug/modules/mod_socialmedialinksgenius/style.css" type="text/css" />
+  <style type="text/css">
+	div.jsn-modulecontainer ul.menu-mainmenu ul,
+	div.jsn-modulecontainer ul.menu-mainmenu ul li {
+		width: 200px;
+	}
+	div.jsn-modulecontainer ul.menu-mainmenu ul ul {
+		margin-left: 199px;
+	}
+	#jsn-pos-toolbar div.jsn-modulecontainer ul.menu-mainmenu ul ul {
+		margin-right: 199px;
+		margin-left : auto
+	}
+	div.jsn-modulecontainer ul.menu-sidemenu ul,
+	div.jsn-modulecontainer ul.menu-sidemenu ul li {
+		width: 200px;
+	}
+	div.jsn-modulecontainer ul.menu-sidemenu li ul {
+		right: -200px;
+	}
+	body.jsn-direction-rtl div.jsn-modulecontainer ul.menu-sidemenu li ul {
+		left: -200px;
+		right: auto;
+	}
+	div.jsn-modulecontainer ul.menu-sidemenu ul ul {
+		margin-left: 201px;
+	}
+	#jsn-mobileswitch {
+		position: absolute;
+		right: 10px;
+		top: -30px;
+	}
+  </style>
+  <script src="/components/com_jcomments/js/jcomments-v2.3.js?v=12" type="text/javascript"></script>
+  <script src="/components/com_jcomments/libraries/joomlatune/ajax.js?v=4" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+  <script src="/media/jui/js/bootstrap.min.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="/plugins/system/jsntplframework/assets/joomlashine/js/noconflict.js" type="text/javascript"></script>
+  <script src="/plugins/system/jsntplframework/assets/joomlashine/js/utils.js" type="text/javascript"></script>
+  <script src="/templates/jsn_solid_pro/js/jsn_template.js" type="text/javascript"></script>
+  <script src="/media/system/js/modal.js" type="text/javascript"></script>
+  <script src="http://observer.ug/modules/mod_news_pro_gk5/interface/scripts/engine.mootools.js" type="text/javascript"></script>
+  <script type="text/javascript">
+(function($){
+				$('.dropdown-toggle').dropdown();
+				})(jQuery);jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});
+				JSNTemplate.initTemplate({
+					templatePrefix			: "jsn_solid_pro_",
+					templatePath			: "/templates/jsn_solid_pro",
+					enableRTL				: 0,
+					enableGotopLink			: 0,
+					enableMobile			: 1,
+					enableMobileMenuSticky	: 1,
+					enableDesktopMenuSticky	: 0,
+					responsiveLayout		: ["mobile"]
+				});
+			
+		jQuery(function($) {
+			SqueezeBox.initialize({});
+			SqueezeBox.assign($('a.modal').get(), {
+				parse: 'rel'
+			});
+		});
+		function jModalClose() {
+			SqueezeBox.close();
+		}  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function() {
+    var gads = document.createElement('script');
+    gads.async = true;
+    gads.type = 'text/javascript';
+    var useSSL = 'https:' == document.location.protocol;
+    gads.src = (useSSL ? 'https:' : 'http:') +
+      '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/1002759/Observer_728x90', [728, 90], 'div-gpt-ad-1431940415278-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+  </script>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+	<!-- html5.js and respond.min.js for IE less than 9 -->
+	<!--[if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+		<script src="/plugins/system/jsntplframework/assets/3rd-party/respond/respond.min.js"></script>
+	<![endif]-->
+	</head>
+<body id="jsn-master" class="jsn-textstyle-business jsn-color-blue jsn-direction-ltr jsn-responsive jsn-mobile jsn-joomla-30  jsn-com-content jsn-view-article jsn-itemid-257">
+<div id="jsn-master_inner">
+	<a name="top" id="top"></a>
+		<div id="jsn-page" class="container">
+			<div id="jsn-pos-stick-righttop">
+			<div class=" jsn-modulecontainer"><div class="jsn-modulecontainer_inner"><div class="jsn-modulecontent"><div class="bannergroup">
+
+	<div class="banneritem">
+																																																															<a
+							href="/component/banners/click/54" target="_blank"
+							title="Victoria">
+							<img
+								src="http://observer.ug/images/banners/Victoria-Float-160x600.gif"
+								alt="Victoria"
+								width ="150"															/>
+						</a>
+																<div class="clr"></div>
+	</div>
+
+</div>
+</div></div></div>
+		</div>
+			<div id="jsn-header" class="row-fluid">
+			<div id="jsn-logo" class="pull-left">
+			<a href="/index.php" title="The Observer - Taking You Deeper"><img src="/templates/jsn_solid_pro/images/colors/blue/logo.png" alt="The Observer - Taking You Deeper" id="jsn-logo-desktop" /></a>			</div>
+			<div id="jsn-headerright" class="pull-right">
+							<div id="jsn-pos-top" class="pull-left">
+					<div class=" jsn-modulecontainer"><div class="jsn-modulecontainer_inner"><div class="jsn-modulecontent"><div class="bannergroup">
+
+	<div class="banneritem">
+										<!-- /1002759/Observer_728x90 -->
+<div class='hidden-phone'>
+<div id='div-gpt-ad-1431940415278-0' style='height:90px; width:728px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1431940415278-0'); });
+</script>
+</div>
+</div>				<div class="clr"></div>
+	</div>
+
+</div>
+</div></div></div>
+					<div class="clearbreak"></div>
+				</div>
+						</div>
+		</div>
+					<div id="jsn-menu"><div id="jsn-menu_inner"><div id="jsn-menu_inner1">
+							<div id="jsn-pos-mainmenu">
+					<div class=" jsn-modulecontainer"><div class="jsn-modulecontainer_inner"><div class="jsn-modulecontent"><span class="jsn-menu-toggle">Menu</span>
+<ul class="menu-mainmenu menu-iconmenu menu-richmenu">
+<li  class="first jsn-icon-home"><a class="jsn-nodescription" href="/" >
+	<span>
+		News	</span>
+</a></li><li ><a class="jsn-nodescription" href="/business" >
+	<span>
+		Business	</span>
+</a></li><li ><a class="jsn-nodescription" href="/education" >
+	<span>
+		Education	</span>
+</a></li><li ><a class="jsn-nodescription" href="/lifestyle" >
+	<span>
+		Lifestyle	</span>
+</a></li><li ><a class="jsn-nodescription" href="/viewpoint" >
+	<span>
+		View Point	</span>
+</a></li><li ><a class="jsn-nodescription" href="/sports" >
+	<span>
+		Sports	</span>
+</a></li><li ><a class="jsn-nodescription" href="/jobs-and-tenders-sp-618212673" >
+	<span>
+		Jobs & Tenders	</span>
+</a></li><li ><a class="jsn-nodescription" href="/search" >
+	<span>
+		Search	</span>
+</a></li><li ><a class="jsn-nodescription" href="/contact-us-sp-1905313726" >
+	<span>
+		Contacts	</span>
+</a></li><li  class="last"><a class="jsn-nodescription" href="/sign-in" >
+	<span>
+		Sign In	</span>
+</a></li></ul></div></div></div>
+				</div>
+										<div id="jsn-pos-toolbar">
+					<div class="obs-social jsn-modulecontainer"><div class="jsn-modulecontainer_inner"><div class="jsn-modulecontent"><div style=""><div class="bookmark" style="text-align: center "><div> <div style="float: left; z-index:1000;"><a rel="nofollow" href="https://www.facebook.com/ugandaobserver" target="_blank"><img style="opacity:1.0;
+filter:alpha(opacity=100); width: 32px; height: 32px; margin:2px;" src="http://observer.ug/modules/mod_socialmedialinksgenius/icons/facebook.png" alt="Facebook" title="Join us on Facebook" /></a></div><div style="float: left; z-index:1000;"><a rel="nofollow" href="https://www.twitter.com/observerug" target="_blank"><img style="opacity:1.0;
+filter:alpha(opacity=100); width: 32px; height: 32px; margin:2px;" src="http://observer.ug/modules/mod_socialmedialinksgenius/icons/twitter.png" alt="Twitter" title="Join us on Twitter" /></a></div><div style="clear: both;"></div></div></div></div>
+<div class="clr"></div></div></div></div>
+				</div>
+			            <div class="clearbreak"></div>
+			</div></div></div>
+				<div id="jsn-body">
+					<div id="jsn-content" class="jsn-hasright ">
+				<div id="jsn-content_inner" class="row-fluid">
+													<div id="jsn-maincontent" class="span8 order1  row-fluid">
+														<div id="jsn-centercol" class="span12 order1 ">
+															<div id="jsn-mainbody-content" class=" jsn-hasmainbody">
+																	<div id="jsn-mainbody">
+													<div id="system-message-container">
+	</div>
+
+													<div class="item-page">
+	
+		<div class="page-header">
+		<h2>
+															Amama 'thugs' stuck a finger in a leopard’s anus - Museveni									</h2>
+			
+												Written by URN				
+					</div>
+		<div class="jsn-article-toolbar">
+			<div class="article-info muted">
+			<dl class="article-info">
+			<dt class="article-info-term">Details</dt>
+
+						
+			
+																<dd class="create">
+						<span class="icon-calendar"></span> Created: 20 December 2015					</dd>
+				
+										</dl>
+		</div>
+							<div class="btn-group pull-right">
+				<a class="btn dropdown-toggle" data-toggle="dropdown" href="#"> <i class="icon-cog"></i> <span class="caret"></span> </a>
+								<ul class="dropdown-menu actions">
+											<li class="print-icon"> <a href="/news-headlines/41737-mbabazi-thugs-stuck-a-finger-in-a-leopard-s-anus-museveni?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><span class="icon-print"></span>Print</a> </li>
+																<li class="email-icon"> <a href="/component/mailto/?tmpl=component&amp;template=jsn_solid_pro&amp;link=23f06f57cdc265e0ef8a6d51b4af6ac914d65cfe" title="Email" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;" rel="nofollow"><span class="icon-envelope"></span>Email</a> </li>
+														</ul>
+			</div>
+					<div class="clearfix"></div>
+	</div>
+		
+								<figure class="pull-left"><img src="/images/Museveni-addressing-the-media-at-State-House.jpg" alt="" /><figcaption>President Museveni</figcaption></figure>
+<p style="text-align: justify;">President Yoweri Museveni has promised to personally deal with the 'thugs' who beat up his supporters in Ntungamo last Sunday.</p>
+<p style="text-align: justify;">Addressing the press at Mbale State lodge, Museveni said those 'thugs' committed a very grave mistake that they will forever regret. Museveni equated the trouble awaiting the 'thugs' to what would befall "if you put your hands in the anus of a leopard, you are in trouble"</p>
+<p style="text-align: justify;">Last week, violent clashes erupted between independent presidential candidate Amama Mbabazi and pro-Museveni supporters in Ntungamo following confrontations at Kitwe in first Lady Janet Kataaha Museveni's Ruhaama constituency where Mbabazi's supporters vandalised a car pasted with Museveni's campaign posters.</p>
+<p style="text-align: justify;">The occupants of the vehicle, a Land Cruiser UAL 607A were accused of distributing Museveni's T-shirts and money to youths in Ntungamo. NRM supporters had also lined the roads and streets leading Mbabazi's rally venue - an illegality in the campaign rules released by the Electoral Commission.</p>
+<p style="text-align: justify;">Various accounts and witnesses say the fighting started when one of Museveni-pro supporters threw a stone into Mbabazi's convoy leading to a bloody confrontation that left over 12 injured in the fracas.</p>
+<p style="text-align: justify;">Two people have so far been arrested in connection to the clashes and been sent on remand by Ntungamo Magistrate court.<br /><br />The suspects have been identified as Boaz Kumwesiga, a youth councilor in Ntungamo municipality and Sulait Amanya-Kashaija, the chairman of Ntungamo taxi owners and drivers cooperative society. Mbabazi's head of security team Christopher Aine has also been arrested although police said it was in connection to the earlier confrontations he was involved in in Jinja when police dispersed Mbabazi's supporters at a rally.<br /><br />Baker Kawonawo, the Ntungamo District Police Commander earlier said another suspect identified as Apollo Asingwire, the LC V councilor candidate for Ntungamo sub-county has also been arrested and his file is still waiting to be sanctioned by the state. He said more people are still to be arrested.</p>
+<p style="text-align: justify;">A tough-talking and visibly angry Museveni said: "the thugs are being rounded up, they have been arrested. They will pay very dearly. You don’t attack, you have no right even to point a finger at me. Am here, I am a Ugandan, I am a free person - you come and attack me like that. There is even an idiot I saw beating our people with clubs, hooo! he will regret.<br /><br />He will regret, that person. We shall smash all that little nonsense which some people who don’t see far thought it will help them. We are going to round up all these criminals and they are being rounded up. I hear some went into hiding, where will they hide? Unless they go to heaven. We shall get them. So, nothing will disturb Uganda. It was a very big mistake for those people, Museveni angrily said.</p>
+<p style="text-align: justify;">Adding: "...If you go and put your finger in the anus of a leopard. You are in trouble, you are in trouble. Ho! Ho! I cant believe how people could do so. NRM?, you attack NRM people in Uganda here?! If it is in South Sudan or Kenya, yes we may have some problems. But in Uganda here?! Where do go? Where do you go?! So there will be no problem here. Those people made a big mistake, those individuals and those children are going to regret. And whoever sent them will also regret if we come with evidence we shall go for him or her - the one who said ‘you go and beat them’ <br /><br />Beating is a criminal offense but also sending is a criminal offense. ‘You go and beat Ugandans’ Who are you? Why have we not beaten them? They are telling all sorts of lies, they go round with lies, we just leave them. To attack Ugandans with clubs?! We are hunting, the police is hunting for them."<br /><br /></p> <div class="fastsocialshare_container"><div class="fastsocialshare-share-fbl">    					<script>
+							var loadAsyncDeferredFacebook = function() {
+	                    		var d = document;
+	                    		var s = 'script';
+	                    		var id = 'facebook-jssdk';
+				
+								var js, fjs = d.getElementsByTagName(s)[0];
+								if (d.getElementById(id)) return;
+							  	js = d.createElement(s); js.id = id;
+							  	js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1";
+							  	fjs.parentNode.insertBefore(js, fjs);
+						  	};
+					
+						  	if (window.addEventListener)
+								window.addEventListener("load", loadAsyncDeferredFacebook, false);
+							else if (window.attachEvent)
+								window.attachEvent("onload", loadAsyncDeferredFacebook);
+							else
+						  		window.onload = loadAsyncDeferredFacebook;
+                    	</script>
+                <div class="fb-share-button" data-href="http://observer.ug/news-headlines/41737-mbabazi-thugs-stuck-a-finger-in-a-leopard-s-anus-museveni" data-layout="button_count"></div></div>						<div class="fastsocialshare-share-tw">
+						<a href="https://twitter.com/share" class="twitter-share-button" data-text="Amama &#039;thugs&#039; stuck a finger in a leopard&rsquo;s anus - Museveni" data-count="horizontal" data-via="observerug" data-lang="en">Tweet</a>
+						</div>
+						<script>
+							var loadAsyncDeferredTwitter =  function() {
+	            						var d = document;
+	            						var s = 'script';
+	            						var id = 'twitter-wjs';
+					            		var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){
+						        		js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}
+					        		}
+						
+							if (window.addEventListener)
+								window.addEventListener("load", loadAsyncDeferredTwitter, false);
+							else if (window.attachEvent)
+								window.attachEvent("onload", loadAsyncDeferredTwitter);
+							else
+								window.onload = loadAsyncDeferredTwitter;
+						</script>						<div class="fastsocialshare-share-gone">
+						<script type="text/javascript">
+							 window.___gcfg = {
+						        lang: 'en'
+						      };
+							var loadAsyncDeferredGooglePlus =  function() {
+								var po = document.createElement('script'); 
+								po.type = 'text/javascript'; 
+								po.async = true;
+								po.src = 'https://apis.google.com/js/plusone.js';
+								po.innerHTML =  {lang: 'en'};
+								var s = document.getElementsByTagName('script')[0]; 
+								s.parentNode.insertBefore(po, s);
+							};
+			
+							 if (window.addEventListener)
+							  window.addEventListener("load", loadAsyncDeferredGooglePlus, false);
+							else if (window.attachEvent)
+							  window.attachEvent("onload", loadAsyncDeferredGooglePlus);
+							else
+							  window.onload = loadAsyncDeferredGooglePlus;
+						</script>
+						<g:plusone size="medium" href='http://observer.ug/news-headlines/41737-mbabazi-thugs-stuck-a-finger-in-a-leopard-s-anus-museveni'></g:plusone>
+						
+						</div>						<div class="fastsocialshare-share-lin">
+						<script type="text/javascript">
+							var loadAsyncDeferredLinkedin =  function() {
+								var po = document.createElement('script');
+								po.type = 'text/javascript';
+								po.async = true;
+								po.src = 'https://platform.linkedin.com/in.js';
+								po.innerHTML = 'lang: en_GB';
+								var s = document.getElementsByTagName('script')[0];
+								s.parentNode.insertBefore(po, s);
+							};
+		
+							 if (window.addEventListener)
+							  window.addEventListener("load", loadAsyncDeferredLinkedin, false);
+							else if (window.attachEvent)
+							  window.attachEvent("onload", loadAsyncDeferredLinkedin);
+							else
+							  window.onload = loadAsyncDeferredLinkedin;
+						</script>
+						<script type="in/share" data-url="http://observer.ug/news-headlines/41737-mbabazi-thugs-stuck-a-finger-in-a-leopard-s-anus-museveni" data-counter="right"></script>
+						</div><div class="fastsocialshare_clearer"></div></div>
+	
+	
+<ul class="pager pagenav">
+	<li class="previous">
+		<a href="/news-headlines/41766-upc-s-aceng-got-no-money-to-campaign-for-museveni" rel="prev">
+			<span class="icon-chevron-left"></span> Prev		</a>
+	</li>
+	<li class="next">
+		<a href="/news-headlines/41736-jennifer-musisi-on-the-spot-over-fees-on-campaign-posters" rel="next">
+			Next <span class="icon-chevron-right"></span>		</a>
+	</li>
+</ul>
+							
+					<script type="text/javascript">
+<!--
+var jcomments=new JComments(41737, 'com_content','/component/jcomments/');
+jcomments.setList('comments-list');
+//-->
+</script>
+<div id="jc">
+<div id="comments"><h4>Comments <a class="rss" href="/component/jcomments/feed/com_content/41737" title="RSS feed for comments to this post" target="_blank">&nbsp;</a><a class="refresh" href="#" title="Refresh comments list" onclick="jcomments.showPage(41737,'com_content',0);return false;">&nbsp;</a></h4>
+<div id="nav-top"><span onclick="jcomments.showPage(41737, 'com_content', 1);" class="page" onmouseover="this.className='hoverpage';" onmouseout="this.className='page';" >1</span><span onclick="jcomments.showPage(41737, 'com_content', 2);" class="page" onmouseover="this.className='hoverpage';" onmouseout="this.className='page';" >2</span><span class="activepage"><b>3</b></span></div>
+<div id="comments-list" class="comments-list">
+	<div class="even" id="comment-item-134591"><div class="rbox">
+<div class="comment-box">
+<span class="comments-vote">
+	<span id="comment-vote-holder-134591">
+<a href="#" class="vote-good" title="Good comment!" onclick="jcomments.voteComment(134591, 1);return false;"></a><a href="#" class="vote-poor" title="Bad comment!" onclick="jcomments.voteComment(134591, -1);return false;"></a>
+<span class="vote-good">+6</span>
+	</span>
+</span>
+<a class="comment-anchor" href="/news-headlines/41737-mbabazi-thugs-stuck-a-finger-in-a-leopard-s-anus-museveni#comment-134591" id="comment-134591">#41</a>
+<span class="comment-author">ejakait engoraton</span>
+<span class="comment-date">2015-12-21 13:46</span>
+<div class="comment-body" id="comment-body-134591">FAWKES MANDEVU you are a man after my heart.<br /><br />I have always compared this man to ABALIGA. I can not believe that you know this legend of a man.<br /><br />Do you know that his exploits used to be aired on RADIO and do you know who his biggest victims were - The BALAALO.<br /><br />I am "proud" though to have been one of his victims.<br /><br />As a 7 year old I went to school and guess what; I turned up back home shirtless.<br /><br />So they ask me what has happened to my shirt.<br />Abaliga had met me on my way back home alone from school because we in P1 and P2 used to break off at lunchtime and my older relatives used to stay back.<br /><br />So this man meets me and asks if I am so and sos son to which I say yes. Then he says my shirt is dirty and that my father has sent him to get the shirt from me to go and wash it.<br /><br />To which I voluntarily take it off and give it to him.<br />You should have seen how my mother and everybody laughed.<br /><br />He, though was a harmless little idiot who really did no real harm, and most of the harm was ones esteem.</div>
+<span class="comments-buttons">
+<a href="#" onclick="jcomments.quoteComment(134591); return false;">Quote</a>
+ | 
+<a href="#" onclick="jcomments.reportComment(134591); return false;">Report to administrator</a>
+</span>
+</div><div class="clear"></div>
+</div>
+</div>
+	<div class="odd" id="comment-item-134598"><div class="rbox">
+<div class="comment-box">
+<span class="comments-vote">
+	<span id="comment-vote-holder-134598">
+<a href="#" class="vote-good" title="Good comment!" onclick="jcomments.voteComment(134598, 1);return false;"></a><a href="#" class="vote-poor" title="Bad comment!" onclick="jcomments.voteComment(134598, -1);return false;"></a>
+<span class="vote-good">+6</span>
+	</span>
+</span>
+<a class="comment-anchor" href="/news-headlines/41737-mbabazi-thugs-stuck-a-finger-in-a-leopard-s-anus-museveni#comment-134598" id="comment-134598">#42</a>
+<span class="comment-author">ejakait engoraton</span>
+<span class="comment-date">2015-12-21 14:13</span>
+<div class="comment-body" id="comment-body-134598">JIMMY you can not lose what you do not have.<br />As they say M7 struggles to tell the truth, if and when he does it is by accident or under a lot of pain and effort.<br /><br />Likewise if and when he is or tries to be civil, he is making a very big effort.<br /><br />What you see here is the real M7.<br />He is more at ease with words like A**S, we shall crush them, we shall KILL them, they are SWINES etc etc.<br /><br />This is his type of language.</div>
+<span class="comments-buttons">
+<a href="#" onclick="jcomments.quoteComment(134598); return false;">Quote</a>
+ | 
+<a href="#" onclick="jcomments.reportComment(134598); return false;">Report to administrator</a>
+</span>
+</div><div class="clear"></div>
+</div>
+</div>
+	<div class="even" id="comment-item-134599"><div class="rbox">
+<div class="comment-box">
+<span class="comments-vote">
+	<span id="comment-vote-holder-134599">
+<a href="#" class="vote-good" title="Good comment!" onclick="jcomments.voteComment(134599, 1);return false;"></a><a href="#" class="vote-poor" title="Bad comment!" onclick="jcomments.voteComment(134599, -1);return false;"></a>
+<span class="vote-poor">-11</span>
+	</span>
+</span>
+<a class="comment-anchor" href="/news-headlines/41737-mbabazi-thugs-stuck-a-finger-in-a-leopard-s-anus-museveni#comment-134599" id="comment-134599">#43</a>
+<span class="comment-author">Nakasero</span>
+<span class="comment-date">2015-12-21 14:13</span>
+<div class="comment-body" id="comment-body-134599">Liars, saboteurs , thugs, scum of the earth-- are you afraiiiiiiid?<br /><br />Are you shaking??????Ar<span style="font-size:0;padding:0;margin:0;"> </span>e you scareeed???? Someone shyly commented-- we are not in Egypt, we are not in Syria... yes you are in Uganda and Ugana MUST NOT ALLOW EGYP. LYBIA, SYRIA scenarios to happen!<br /><br />1Uganda is not going to hand it over to thugs and criminals to loot it and kill innocent people.!1<br /><br />You buyaye writing from abroad do come to Uganda and protest and try Syria or Egypt!!Do come and try my Dilma!!You will enjoy it!<br /><br />Do try my Dilma!!!!!!!Ho,<span style="font-size:0;padding:0;margin:0;"> </span>ho,ho-- i=give them hiding Mzee, trash their as**s!!!( for those you did not try my Dilma, please write to Nakasero to explain what is Dilma and to send you Dilma).</div>
+<span class="comments-buttons">
+<a href="#" onclick="jcomments.quoteComment(134599); return false;">Quote</a>
+ | 
+<a href="#" onclick="jcomments.reportComment(134599); return false;">Report to administrator</a>
+</span>
+</div><div class="clear"></div>
+</div>
+</div>
+	<div class="odd" id="comment-item-134612"><div class="rbox">
+<div class="comment-box">
+<span class="comments-vote">
+	<span id="comment-vote-holder-134612">
+<a href="#" class="vote-good" title="Good comment!" onclick="jcomments.voteComment(134612, 1);return false;"></a><a href="#" class="vote-poor" title="Bad comment!" onclick="jcomments.voteComment(134612, -1);return false;"></a>
+<span class="vote-good">+7</span>
+	</span>
+</span>
+<a class="comment-anchor" href="/news-headlines/41737-mbabazi-thugs-stuck-a-finger-in-a-leopard-s-anus-museveni#comment-134612" id="comment-134612">#44</a>
+<span class="comment-author">webeshixty</span>
+<span class="comment-date">2015-12-21 16:10</span>
+<div class="comment-body" id="comment-body-134612"><span class="quote">Quoting Nakasero:</span><blockquote><div>Liars, saboteurs , thugs, scum of the earth-- are you afraiiiiiiid?<br /><br />Are you shaking??????Are you scareeed???? Someone shyly commented-- we are not in Egypt, we are not in Syria... yes you are in Uganda and Ugana MUST NOT ALLOW EGYP. LYBIA, SYRIA scenarios to happen!<br /><br />1Uganda is not going to hand it over to thugs and criminals to loot it and kill innocent people.!1<br /><br />You buyaye writing from abroad do come to Uganda and protest and try Syria or Egypt!!Do come and try my Dilma!!You will enjoy it!<br /><br />Do try my Dilma!!!!!!!Ho,ho,ho-- i=give them hiding Mzee, trash their as**s!!!( for those you did not try my Dilma, please write to Nakasero to explain what is Dilma and to send you Dilma).</div></blockquote><br />Absolute trash!</div>
+<span class="comments-buttons">
+<a href="#" onclick="jcomments.quoteComment(134612); return false;">Quote</a>
+ | 
+<a href="#" onclick="jcomments.reportComment(134612); return false;">Report to administrator</a>
+</span>
+</div><div class="clear"></div>
+</div>
+</div>
+	<div class="even" id="comment-item-134613"><div class="rbox">
+<div class="comment-box">
+<span class="comments-vote">
+	<span id="comment-vote-holder-134613">
+<a href="#" class="vote-good" title="Good comment!" onclick="jcomments.voteComment(134613, 1);return false;"></a><a href="#" class="vote-poor" title="Bad comment!" onclick="jcomments.voteComment(134613, -1);return false;"></a>
+<span class="vote-good">+7</span>
+	</span>
+</span>
+<a class="comment-anchor" href="/news-headlines/41737-mbabazi-thugs-stuck-a-finger-in-a-leopard-s-anus-museveni#comment-134613" id="comment-134613">#45</a>
+<span class="comment-author">Augustine</span>
+<span class="comment-date">2015-12-21 16:31</span>
+<div class="comment-body" id="comment-body-134613">So Amama Mbabazi did the unthinkable by dipping his finger into Sevo's a**!!! How painful</div>
+<span class="comments-buttons">
+<a href="#" onclick="jcomments.quoteComment(134613); return false;">Quote</a>
+ | 
+<a href="#" onclick="jcomments.reportComment(134613); return false;">Report to administrator</a>
+</span>
+</div><div class="clear"></div>
+</div>
+</div>
+	<div class="odd" id="comment-item-134614"><div class="rbox">
+<div class="comment-box">
+<span class="comments-vote">
+	<span id="comment-vote-holder-134614">
+<a href="#" class="vote-good" title="Good comment!" onclick="jcomments.voteComment(134614, 1);return false;"></a><a href="#" class="vote-poor" title="Bad comment!" onclick="jcomments.voteComment(134614, -1);return false;"></a>
+<span class="vote-good">+8</span>
+	</span>
+</span>
+<a class="comment-anchor" href="/news-headlines/41737-mbabazi-thugs-stuck-a-finger-in-a-leopard-s-anus-museveni#comment-134614" id="comment-134614">#46</a>
+<span class="comment-author">Augustine</span>
+<span class="comment-date">2015-12-21 16:38</span>
+<div class="comment-body" id="comment-body-134614">Museveni is a real bastard and a liar.<br /><br />Let him taste the feeling other ugandans have gone through. If beating paisn him,why did he use the Kiboko squad in the last elections.<br /><br />There is nothing he will do to those who smashed his supporters. He does not even know one individual apart from the fact that they were JPAM's supporters.<br /><br />He may arrest JPAM but where is the evidenc that JPAM sent them?? The man was in Saudi Arabia and Kalekezi was in Rwakitura milking Sevo's cows while the police at the scene simply looked on and feared for their lives.<br /><br />Those to be arrested should be the police and Sevo's supporters.Why did yellow pigs go to incite JPAM and his supporter in the first place???</div>
+<span class="comments-buttons">
+<a href="#" onclick="jcomments.quoteComment(134614); return false;">Quote</a>
+ | 
+<a href="#" onclick="jcomments.reportComment(134614); return false;">Report to administrator</a>
+</span>
+</div><div class="clear"></div>
+</div>
+</div>
+	<div class="even" id="comment-item-134621"><div class="rbox">
+<div class="comment-box">
+<span class="comments-vote">
+	<span id="comment-vote-holder-134621">
+<a href="#" class="vote-good" title="Good comment!" onclick="jcomments.voteComment(134621, 1);return false;"></a><a href="#" class="vote-poor" title="Bad comment!" onclick="jcomments.voteComment(134621, -1);return false;"></a>
+<span class="vote-good">+7</span>
+	</span>
+</span>
+<a class="comment-anchor" href="/news-headlines/41737-mbabazi-thugs-stuck-a-finger-in-a-leopard-s-anus-museveni#comment-134621" id="comment-134621">#47</a>
+<span class="comment-author">sn</span>
+<span class="comment-date">2015-12-21 17:28</span>
+<div class="comment-body" id="comment-body-134621">This is a declaration of war by Museveni for he never jokes on matters of war-mongering and violence. He is the master.<br /><br />However this time round, things might be different.</div>
+<span class="comments-buttons">
+<a href="#" onclick="jcomments.quoteComment(134621); return false;">Quote</a>
+ | 
+<a href="#" onclick="jcomments.reportComment(134621); return false;">Report to administrator</a>
+</span>
+</div><div class="clear"></div>
+</div>
+</div>
+	<div class="odd" id="comment-item-134622"><div class="rbox">
+<div class="comment-box">
+<span class="comments-vote">
+	<span id="comment-vote-holder-134622">
+<a href="#" class="vote-good" title="Good comment!" onclick="jcomments.voteComment(134622, 1);return false;"></a><a href="#" class="vote-poor" title="Bad comment!" onclick="jcomments.voteComment(134622, -1);return false;"></a>
+<span class="vote-good">+5</span>
+	</span>
+</span>
+<a class="comment-anchor" href="/news-headlines/41737-mbabazi-thugs-stuck-a-finger-in-a-leopard-s-anus-museveni#comment-134622" id="comment-134622">#48</a>
+<span class="comment-author">sn</span>
+<span class="comment-date">2015-12-21 17:34</span>
+<div class="comment-body" id="comment-body-134622"><span class="quote">Quoting Nakasero:</span><blockquote><div>Bravo Mzee!! Enough is enough! I am constantly fighting those liars and cheaters, and now to use force and to stir up trouble, beat and maybe even kill innocent Ugandans -No Pasaran!Get NRM on feet , get all Uganda on feet and trash their asses and kick them out of Uganda.<br /><br />Democracy is not lying , hurting people an showing ugly faces and actions.All along I was countering those liars and thugs on this newspaper, we all know what is truth and what not, but these thugs are going now too far.!!Take action NOW!!!!!!!!</div></blockquote><br /><br />You might be one of the first victims of any correct action taken because you will have no where to hide in this Uganda.</div>
+<span class="comments-buttons">
+<a href="#" onclick="jcomments.quoteComment(134622); return false;">Quote</a>
+ | 
+<a href="#" onclick="jcomments.reportComment(134622); return false;">Report to administrator</a>
+</span>
+</div><div class="clear"></div>
+</div>
+</div>
+	<div class="even" id="comment-item-134624"><div class="rbox">
+<div class="comment-box">
+<span class="comments-vote">
+	<span id="comment-vote-holder-134624">
+<a href="#" class="vote-good" title="Good comment!" onclick="jcomments.voteComment(134624, 1);return false;"></a><a href="#" class="vote-poor" title="Bad comment!" onclick="jcomments.voteComment(134624, -1);return false;"></a>
+<span class="vote-good">+5</span>
+	</span>
+</span>
+<a class="comment-anchor" href="/news-headlines/41737-mbabazi-thugs-stuck-a-finger-in-a-leopard-s-anus-museveni#comment-134624" id="comment-134624">#49</a>
+<span class="comment-author">sn</span>
+<span class="comment-date">2015-12-21 17:40</span>
+<div class="comment-body" id="comment-body-134624"><span class="quote">Quoting KATHERINE:</span><blockquote><div>there goes our uncultured president</div></blockquote><br /><br />He has shown you his true nature and true colours!! Know him if you did not. Time to act is now. This raging must stop.<br /><br />He thinks only him has the right to employ Kakooza Mutale and crime preventers to beat Ugandans,. <br /><br />The war has started. They will receive a bloody nose if they think he will protect them always.</div>
+<span class="comments-buttons">
+<a href="#" onclick="jcomments.quoteComment(134624); return false;">Quote</a>
+ | 
+<a href="#" onclick="jcomments.reportComment(134624); return false;">Report to administrator</a>
+</span>
+</div><div class="clear"></div>
+</div>
+</div>
+	<div class="odd" id="comment-item-134627"><div class="rbox">
+<div class="comment-box">
+<span class="comments-vote">
+	<span id="comment-vote-holder-134627">
+<a href="#" class="vote-good" title="Good comment!" onclick="jcomments.voteComment(134627, 1);return false;"></a><a href="#" class="vote-poor" title="Bad comment!" onclick="jcomments.voteComment(134627, -1);return false;"></a>
+<span class="vote-good">+6</span>
+	</span>
+</span>
+<a class="comment-anchor" href="/news-headlines/41737-mbabazi-thugs-stuck-a-finger-in-a-leopard-s-anus-museveni#comment-134627" id="comment-134627">#50</a>
+<span class="comment-author">sn</span>
+<span class="comment-date">2015-12-21 17:53</span>
+<div class="comment-body" id="comment-body-134627"><span class="quote">Quoting Yumbe:</span><blockquote><div>If Museveni were a lawyer, thanks God he is not, he would lose all cases. He has the poorest sense of judgement. <br /><br />In fact, Ugandans should not be surprised that Museveni has a mental problem. It is clear it was NRM hooligans that provoked Amama's supporters. <br /><br />People arrested are NRM Councillors. What does this tell us? Museveni will again cause genocide in Uganda. <br /><br />Ugandans should watch carefully. He does not have so many relatives around to bother him.</div></blockquote><br /><br />Did you ever stop to think that he was responsible for the genocide in his homeland in 1994? <br /><br />He was together with Kagame when they robbed Kabamba on 6 Feb 1981 to start the war in Luwero. <br /><br />They were together in NRA and UPDF. And UPDF supplied the arms that were used to attack Rwanda in 1990 prior to the genocide.</div>
+<span class="comments-buttons">
+<a href="#" onclick="jcomments.quoteComment(134627); return false;">Quote</a>
+ | 
+<a href="#" onclick="jcomments.reportComment(134627); return false;">Report to administrator</a>
+</span>
+</div><div class="clear"></div>
+</div>
+</div>
+	<div class="even" id="comment-item-134629"><div class="rbox">
+<div class="comment-box">
+<span class="comments-vote">
+	<span id="comment-vote-holder-134629">
+<a href="#" class="vote-good" title="Good comment!" onclick="jcomments.voteComment(134629, 1);return false;"></a><a href="#" class="vote-poor" title="Bad comment!" onclick="jcomments.voteComment(134629, -1);return false;"></a>
+<span class="vote-good">+5</span>
+	</span>
+</span>
+<a class="comment-anchor" href="/news-headlines/41737-mbabazi-thugs-stuck-a-finger-in-a-leopard-s-anus-museveni#comment-134629" id="comment-134629">#51</a>
+<span class="comment-author">sn</span>
+<span class="comment-date">2015-12-21 18:06</span>
+<div class="comment-body" id="comment-body-134629"><span class="quote">Quoting Kabinda:</span><blockquote><div>This man has no shame.All of a sudden the ugly side has emerged.<br /><br />Is he now the police commander? Does Uganda have courts of law?<br /><br />As an interested party in the conflict where his supporters are involved is he speaking objectvely?<br /><br />And what extra judicial action is he threatening to take? Is he suggesting his barbaric supporters must be allowed to engage in thuggery?<br /><br />Is that fountain of honor language...touching the anus of a leopard?And who is the leopard? Who is the anus? This country is gone to the dogs.</div></blockquote><br /><br />The ugly side has always been there, only that somehow you did not see it. <br /><br />Right from the day he said 'if Obote wins', in 1980 'Iwill go to the bush to fight him' later modified to 'If Obote rigs' and finally to 'Obote rigged' yet he was one of the election organisers. He has always been ugly to a critical eye.</div>
+<span class="comments-buttons">
+<a href="#" onclick="jcomments.quoteComment(134629); return false;">Quote</a>
+ | 
+<a href="#" onclick="jcomments.reportComment(134629); return false;">Report to administrator</a>
+</span>
+</div><div class="clear"></div>
+</div>
+</div>
+	<div class="odd" id="comment-item-134636"><div class="rbox">
+<div class="comment-box">
+<span class="comments-vote">
+	<span id="comment-vote-holder-134636">
+<a href="#" class="vote-good" title="Good comment!" onclick="jcomments.voteComment(134636, 1);return false;"></a><a href="#" class="vote-poor" title="Bad comment!" onclick="jcomments.voteComment(134636, -1);return false;"></a>
+<span class="vote-good">+3</span>
+	</span>
+</span>
+<a class="comment-anchor" href="/news-headlines/41737-mbabazi-thugs-stuck-a-finger-in-a-leopard-s-anus-museveni#comment-134636" id="comment-134636">#52</a>
+<span class="comment-author">sn</span>
+<span class="comment-date">2015-12-21 18:50</span>
+<div class="comment-body" id="comment-body-134636"><span class="quote">Quoting doctordre:</span><blockquote><div>If the president wanted to stay in power because of the good job, I would have no issues with him running again in our corrupt democracy. <br /><br />Unfortunately he has turned this country into a few feudal state. His reaction to the so called Mbabazi thugs may be a sign of senility. <br /><br />It is also sad that his RDCs are busy harrassing civil society and opposition instead monitoring development. <br /><br />This country needs change. Remember what President Kagame said to Nkurunziza? If you have ran the country badly and your people do not want you, quit. <br /><br />Unfortunately many rural folks do not see it that way nor urbanites who have been bought off, nor women who have been deceived into thinking he is their saviour.<br /><br />Patricia, Sadam Hussein's had about 75,000 republian guards, about 700,000 regulard and 300,000 poorly trained fedayeen (paramilitary). That said, the soldiers were not enough to stop him from being ousted by American and British Armies.</div></blockquote><br /><br />I have just been to a village where where he had promised to go for a rally at 11 AM so people were told to assemble at 10 AM. They were promised 5,000/= at end of rally if they attended. <br /><br />But once in the rally ground there was no turning back; those who tried for being hungry were beaten. And he arrived at 5 PM. <br /><br />When the rally ended the hungry poor were treated like 'dogs'. Food was thrown at them in polythene bags. <br /><br />No one was allowed to get near the serving table to be served decently. Commotion followed as hungry people struggled to get at least a polythene bag of food!! <br /><br />People were treated like animals!! Then they were not even paid the promised 5,.000/= for attending!! How many of those can vote for him?? He is playing a losing game.</div>
+<span class="comments-buttons">
+<a href="#" onclick="jcomments.quoteComment(134636); return false;">Quote</a>
+ | 
+<a href="#" onclick="jcomments.reportComment(134636); return false;">Report to administrator</a>
+</span>
+</div><div class="clear"></div>
+</div>
+</div>
+	<div class="even" id="comment-item-134637"><div class="rbox">
+<div class="comment-box">
+<span class="comments-vote">
+	<span id="comment-vote-holder-134637">
+<a href="#" class="vote-good" title="Good comment!" onclick="jcomments.voteComment(134637, 1);return false;"></a><a href="#" class="vote-poor" title="Bad comment!" onclick="jcomments.voteComment(134637, -1);return false;"></a>
+<span class="vote-good">+6</span>
+	</span>
+</span>
+<a class="comment-anchor" href="/news-headlines/41737-mbabazi-thugs-stuck-a-finger-in-a-leopard-s-anus-museveni#comment-134637" id="comment-134637">#53</a>
+<span class="comment-author">Francis</span>
+<span class="comment-date">2015-12-21 19:00</span>
+<div class="comment-body" id="comment-body-134637"><span class="quote">Quoting ejakait engoraton:</span><blockquote><div>FRANCIS- the reason they went for his ANUS is because his brains are in his ANUS.<br /><br />To smash his HEAD would be a waste of time.</div></blockquote><br /><br />You're SPOT on! Now i get the missing link.<br />Obote, Amin, Tito, Lakwena, Kony, KB all went after his head. <br /><br />He wasn't concern at all and indeed they all came empty handed. Now the dictator is mad like a little puppy.</div>
+<span class="comments-buttons">
+<a href="#" onclick="jcomments.quoteComment(134637); return false;">Quote</a>
+ | 
+<a href="#" onclick="jcomments.reportComment(134637); return false;">Report to administrator</a>
+</span>
+</div><div class="clear"></div>
+</div>
+</div>
+	<div class="odd" id="comment-item-134661"><div class="rbox">
+<div class="comment-box">
+<span class="comments-vote">
+	<span id="comment-vote-holder-134661">
+<a href="#" class="vote-good" title="Good comment!" onclick="jcomments.voteComment(134661, 1);return false;"></a><a href="#" class="vote-poor" title="Bad comment!" onclick="jcomments.voteComment(134661, -1);return false;"></a>
+<span class="vote-poor">-5</span>
+	</span>
+</span>
+<a class="comment-anchor" href="/news-headlines/41737-mbabazi-thugs-stuck-a-finger-in-a-leopard-s-anus-museveni#comment-134661" id="comment-134661">#54</a>
+<span class="comment-author">Nakasero</span>
+<span class="comment-date">2015-12-21 22:20</span>
+<div class="comment-body" id="comment-body-134661">To all haters spies and liars- my message-- Please come and do try my Dilma!<br /><br />You will like it! NRM please give those thugs Dilma to try it!1Do try my Dilma!You will like it!Forward UPDF!Forward NRM!orward Wanaichi!<br /><br />Froward Uganda Police-do trash their assesses-- GWOK,SN-AKOT,WA<span style="font-size:0;padding:0;margin:0;"> </span>DDA ROGERS, MUBIRU, BETTY LONG CRAP,AUGUSTINE,<span style="font-size:0;padding:0;margin:0;"> </span>EJACAT ENGORATON(erdog<span style="font-size:0;padding:0;margin:0;"> </span>an?)., ALL FEW OTHER DIAHORREA THUGS- MESSAGE- OH, TRY MY DILMA, YOU WILL LIKE IT!!!!TRY IT!!</div>
+<span class="comments-buttons">
+<a href="#" onclick="jcomments.quoteComment(134661); return false;">Quote</a>
+ | 
+<a href="#" onclick="jcomments.reportComment(134661); return false;">Report to administrator</a>
+</span>
+</div><div class="clear"></div>
+</div>
+</div>
+	<div class="even" id="comment-item-134664"><div class="rbox">
+<div class="comment-box">
+<span class="comments-vote">
+	<span id="comment-vote-holder-134664">
+<a href="#" class="vote-good" title="Good comment!" onclick="jcomments.voteComment(134664, 1);return false;"></a><a href="#" class="vote-poor" title="Bad comment!" onclick="jcomments.voteComment(134664, -1);return false;"></a>
+<span class="vote-poor">-5</span>
+	</span>
+</span>
+<a class="comment-anchor" href="/news-headlines/41737-mbabazi-thugs-stuck-a-finger-in-a-leopard-s-anus-museveni#comment-134664" id="comment-134664">#55</a>
+<span class="comment-author">Nakasero</span>
+<span class="comment-date">2015-12-21 22:43</span>
+<div class="comment-body" id="comment-body-134664">Yoweri Kaguta Museveni address -26/1/2014--NRM at 28: Let us Wake Up from the sleep and transform our country"--Apart from stabiloity, the NRM has been able to cause the recovery ofUganda,s economy.Uganda,<span style="font-size:0;padding:0;margin:0;"> </span>s economy in 1986 was a mere 1,5 billions US,.<br /><br />Today, it is 24 US billion or 16 times bigger!THE ECONOMY COULD HAVE EXPANDED MORE IF IT WAS NOT FOR ( buyaye and saboteurs- my supplement- KIZZA EZZA, PINOKIO AND DARLINGS BETTY LONG CRAP, WEBESIXTY, AKOT, GWOK AND OTHER CRAP) FOR THE INTERNAL SABOTAGE = READ THIS THUGS-- WE NORMALLY HAVE TO DEAL WITH, ESPECIALLY THE DELAY OF PROJETS BY THE DIFFERENT POWER CENTERS!!! <br /><br />THIS IS M7 SAYING! I FULLY AGREE WITH MZEE AND ADD- DO COME AND TRY MY DILMA I AM SURE YOU WILL LOVE IT! IF YOU TRY WITH ARMS=WE SHALL SHOW YOU OUR DILMA. DO COME AN TRY US!!!</div>
+<span class="comments-buttons">
+<a href="#" onclick="jcomments.quoteComment(134664); return false;">Quote</a>
+ | 
+<a href="#" onclick="jcomments.reportComment(134664); return false;">Report to administrator</a>
+</span>
+</div><div class="clear"></div>
+</div>
+</div>
+	<div class="odd" id="comment-item-134669"><div class="rbox">
+<div class="comment-box">
+<span class="comments-vote">
+	<span id="comment-vote-holder-134669">
+<a href="#" class="vote-good" title="Good comment!" onclick="jcomments.voteComment(134669, 1);return false;"></a><a href="#" class="vote-poor" title="Bad comment!" onclick="jcomments.voteComment(134669, -1);return false;"></a>
+<span class="vote-poor">-2</span>
+	</span>
+</span>
+<a class="comment-anchor" href="/news-headlines/41737-mbabazi-thugs-stuck-a-finger-in-a-leopard-s-anus-museveni#comment-134669" id="comment-134669">#56</a>
+<span class="comment-author">Mama Mia</span>
+<span class="comment-date">2015-12-21 23:39</span>
+<div class="comment-body" id="comment-body-134669"><span class="quote">Quoting naboma:</span><blockquote><div><span class="quote">Quoting Mama Mia:</span><blockquote><div>Yes Sir, you see when you stick a finger in a leopard's anus it roars like a lion. <br /><br />Anus Mbabazi has run out of money and ideas that's why they have opted for violence. <br /><br />Even Bwanika and Kyalya attract more people than this Mr OPM Scandalous.</div></blockquote><br /><br />just shut up imbecile. We are talking about justice here and you bring in your trash. Amama was attacked, he fired back very very well that the goons like you fled for dear life. <br /><br />Well done Amama. Let the leaopard anus send his goons to KB rally and you see how they will be battered like chapati. <br /><br />We are not threatened-the leopard is way too old to bite anyone but itself as it is doing here with its nauseating, stupid utterances.</div></blockquote><br /><br />Nopama you don't even know what the word word justice means. <br /><br />Watch that video and see who was armed with sticks and manhandling civilians. These aren't those days of panda gali mate.</div>
+<span class="comments-buttons">
+<a href="#" onclick="jcomments.quoteComment(134669); return false;">Quote</a>
+ | 
+<a href="#" onclick="jcomments.reportComment(134669); return false;">Report to administrator</a>
+</span>
+</div><div class="clear"></div>
+</div>
+</div>
+	<div class="even" id="comment-item-134718"><div class="rbox">
+<div class="comment-box">
+<span class="comments-vote">
+	<span id="comment-vote-holder-134718">
+<a href="#" class="vote-good" title="Good comment!" onclick="jcomments.voteComment(134718, 1);return false;"></a><a href="#" class="vote-poor" title="Bad comment!" onclick="jcomments.voteComment(134718, -1);return false;"></a>
+<span class="vote-none">0</span>
+	</span>
+</span>
+<a class="comment-anchor" href="/news-headlines/41737-mbabazi-thugs-stuck-a-finger-in-a-leopard-s-anus-museveni#comment-134718" id="comment-134718">#57</a>
+<span class="comment-author">webeshixty</span>
+<span class="comment-date">2015-12-22 17:23</span>
+<div class="comment-body" id="comment-body-134718"><span class="quote">Quoting sn:</span><blockquote><div><span class="quote">Quoting Yumbe:</span><blockquote><div>If Museveni were a lawyer, thanks God he is not, he would lose all cases. He has the poorest sense of judgement. <br /><br />In fact, Ugandans should not be surprised that Museveni has a mental problem. It is clear it was NRM hooligans that provoked Amama's supporters. <br /><br />People arrested are NRM Councillors. What does this tell us? Museveni will again cause genocide in Uganda. <br /><br />Ugandans should watch carefully. He does not have so many relatives around to bother him.</div></blockquote><br /><br />Did you ever stop to think that he was responsible for the genocide in his homeland in 1994? <br /><br />He was together with Kagame when they robbed Kabamba on 6 Feb 1981 to start the war in Luwero. <br /><br />They were together in NRA and UPDF. And UPDF supplied the arms that were used to attack Rwanda in 1990 prior to the genocide.</div></blockquote><br /><br />That explains why the SRB's think more of Buganda as home! They know what awaits them should they think of heading home to enjoy temp plastic prosperity ushered in by PK, besides, PKMania long washed his blood soaked hands off them when he offered cash inducements for mass relocations northbound. <br /><br />Abyarimaan will be remembered for wisely asking for restraint because Rwanda is too tiny to accommodate all Rwandese on top of having to welcome back warlords on donor ticket. <br />That one fell on blocked rear well hid earlobes!</div>
+<span class="comments-buttons">
+<a href="#" onclick="jcomments.quoteComment(134718); return false;">Quote</a>
+ | 
+<a href="#" onclick="jcomments.reportComment(134718); return false;">Report to administrator</a>
+</span>
+</div><div class="clear"></div>
+</div>
+</div>
+	<div class="odd" id="comment-item-134722"><div class="rbox">
+<div class="comment-box">
+<span class="comments-vote">
+	<span id="comment-vote-holder-134722">
+<a href="#" class="vote-good" title="Good comment!" onclick="jcomments.voteComment(134722, 1);return false;"></a><a href="#" class="vote-poor" title="Bad comment!" onclick="jcomments.voteComment(134722, -1);return false;"></a>
+<span class="vote-none">0</span>
+	</span>
+</span>
+<a class="comment-anchor" href="/news-headlines/41737-mbabazi-thugs-stuck-a-finger-in-a-leopard-s-anus-museveni#comment-134722" id="comment-134722">#58</a>
+<span class="comment-author">Nakasero</span>
+<span class="comment-date">2015-12-22 18:06</span>
+<div class="comment-body" id="comment-body-134722">Helloo thugs and buyayey!! Aw, aw, aw-- dogs , are you still there and barking???Watch out your backs and tongues!<br /><br />Try my Dilma!!Do try it!! Aw,aw,aw....</div>
+<span class="comments-buttons">
+<a href="#" onclick="jcomments.quoteComment(134722); return false;">Quote</a>
+ | 
+<a href="#" onclick="jcomments.reportComment(134722); return false;">Report to administrator</a>
+</span>
+</div><div class="clear"></div>
+</div>
+</div>
+</div>
+<div id="nav-bottom"><span onclick="jcomments.showPage(41737, 'com_content', 1);" class="page" onmouseover="this.className='hoverpage';" onmouseout="this.className='page';" >1</span><span onclick="jcomments.showPage(41737, 'com_content', 2);" class="page" onmouseover="this.className='hoverpage';" onmouseout="this.className='page';" >2</span><span class="activepage"><b>3</b></span></div>
+<div id="comments-list-footer"><a class="refresh" href="#" title="Refresh comments list" onclick="jcomments.showPage(41737,'com_content',0);return false;">Refresh comments list</a><br /><a class="rss" href="/component/jcomments/feed/com_content/41737" title="RSS feed for comments to this post" target="_blank">RSS feed for comments to this post</a></div>
+</div>
+<div id="comments-form-link">
+<a id="addcomments" class="showform" href="#addcomments" onclick="jcomments.showForm(41737,'com_content', 'comments-form-link'); return false;">Add comment</a>
+</div>
+<div id="comments-footer" align="center"><a href="http://www.joomlatune.com" title="JComments" target="_blank">JComments</a></div>
+<script type="text/javascript">
+<!--
+jcomments.setAntiCache(1,0,1);
+//-->
+</script> 
+</div> </div>
+
+												</div>
+																</div>
+														</div> <!-- end centercol -->
+													</div> <!-- end jsn-maincontent -->
+													<div id="jsn-rightsidecontent" class="span4 order2 ">
+									<div id="jsn-rightsidecontent_inner">
+										<div id="jsn-pos-right">
+											<div class=" jsn-modulecontainer"><div class="jsn-modulecontainer_inner"><div class="jsn-modulecontent"><div class="bannergroup">
+
+
+</div>
+</div></div></div><div class="lightbox-2 jsn-modulecontainer"><div class="jsn-modulecontainer_inner"><div class="jsn-modulecontent"><h3 class="jsn-moduletitle">
+
+    <span class="jsn-moduletitle_inner1">
+        <span class="jsn-moduletitle_inner2">
+            <span class="jsn-moduleicon">
+
+                Related Stories
+
+            </span>
+        </span>
+    </span>
+
+</h3>
+	<div class="nspMain lightbox-2" id="nsp-2004" data-config="{
+				'animation_speed': 400,
+				'animation_interval': 5000,
+				'animation_function': 'Fx.Transitions.Expo.easeIn',
+				'news_column': 0,
+				'news_rows': 0,
+				'links_columns_amount': 1,
+				'links_amount': 5
+			}">		
+				<div class="nspLinksWrap bottom" style="width:99.9%;">
+			<div class="nspLinks" style="margin:0;">
+								<div class="nspLinkScroll1">
+					<div class="nspLinkScroll2 nspPages1">
+																				<ul class="nspList active nspCol1">
+														
+							<li class="even"><a href="/news-headlines/41776-nrm-youth-brigade-disrupts-besigye-rally-in-gulu" class="nspImageWrapper" style="margin:5px 0px 5px 0px;" target="_self"><img class="nspImage" src="http://observer.ug/modules/mod_news_pro_gk5/cache/Besigye-supporters-in-Gulu2004_links.jpg" alt="Deputy speaker Oulanyah disrupts Besigye rally in Gulu" style=""  /></a><div><h4><a href="/news-headlines/41776-nrm-youth-brigade-disrupts-besigye-rally-in-gulu" title="Deputy speaker Oulanyah disrupts Besigye rally in Gulu" target="_self">Deputy speaker Oulanyah disrupts Besigye rally in Gulu</a></h4><p>Deputy speaker Jacob Oulanyah was at the epicenter of confrontations between the NRM youth brigade and Forum for Democratic Change&hellip;</p><p class="nspInfo nspInfo2 tleft fleft">2h ago | <a href="/news-headlines/41776-nrm-youth-brigade-disrupts-besigye-rally-in-gulu">2 comments</a></p></div></li>							
+																											
+							<li class="odd"><a href="/viewpoint/41775-the-joy-of-campaigning-for-the-nrm-in-2015" class="nspImageWrapper" style="margin:5px 0px 5px 0px;" target="_self"><img class="nspImage" src="http://observer.ug/modules/mod_news_pro_gk5/cache/President-Museveni-in-Dokolo2004_links.jpg" alt="The Joy of campaigning for the NRM in 2015" style=""  /></a><div><h4><a href="/viewpoint/41775-the-joy-of-campaigning-for-the-nrm-in-2015" title="The Joy of campaigning for the NRM in 2015" target="_self">The Joy of campaigning for the NRM in 2015</a></h4><p>I would like to inform the reader that by today, the 15th December, 2015, I have addressed 104 constituency rallies&hellip;</p><p class="nspInfo nspInfo2 tleft fleft">Yesterday | <a href="/viewpoint/41775-the-joy-of-campaigning-for-the-nrm-in-2015">17 comments</a></p></div></li>							
+																											
+							<li class="even"><a href="/news-headlines/41774-amama-to-museveni-guns-won-t-save-you" class="nspImageWrapper" style="margin:5px 0px 5px 0px;" target="_self"><img class="nspImage" src="http://observer.ug/modules/mod_news_pro_gk5/cache/Police-at-Go-Forward-offices2004_links.jpg" alt="Amama to Museveni: 'Guns won’t save you' " style=""  /></a><div><h4><a href="/news-headlines/41774-amama-to-museveni-guns-won-t-save-you" title="Amama to Museveni: 'Guns won’t save you' " target="_self">Amama to Museveni: 'Guns won’t save you' </a></h4><p>
+Addressing the press shortly after the police raided his home in Kololo and campaign headquarters in Nakasero arresting several members&hellip;</p><p class="nspInfo nspInfo2 tleft fleft">Yesterday | <a href="/news-headlines/41774-amama-to-museveni-guns-won-t-save-you">33 comments</a></p></div></li>							
+																											
+							<li class="odd"><a href="/sports/41773-fifa-president-blatter-banned-from-football-for-8-years" class="nspImageWrapper" style="margin:5px 0px 5px 0px;" target="_self"><img class="nspImage" src="http://observer.ug/modules/mod_news_pro_gk5/cache/Blatter-and-Platini2004_links.jpg" alt="Fifa president Blatter banned from football for 8 years " style=""  /></a><div><h4><a href="/sports/41773-fifa-president-blatter-banned-from-football-for-8-years" title="Fifa president Blatter banned from football for 8 years " target="_self">Fifa president Blatter banned from football for 8 years </a></h4><p>
+Embattled president of the Federation of International Football Associations (FIFA), Sepp Blatter has been banned from all football related activities&hellip;</p><p class="nspInfo nspInfo2 tleft fleft">Yesterday | <a href="/sports/41773-fifa-president-blatter-banned-from-football-for-8-years">1 comments</a></p></div></li>							
+																											
+							<li class="even"><a href="/lifestyle/41772-patoranking-saves-lugogo" class="nspImageWrapper" style="margin:5px 0px 5px 0px;" target="_self"><img class="nspImage" src="http://observer.ug/modules/mod_news_pro_gk5/cache/Gravity-Omutujju-during-his-performance2004_links.jpg" alt="Patoranking saves Lugogo" style=""  /></a><div><h4><a href="/lifestyle/41772-patoranking-saves-lugogo" title="Patoranking saves Lugogo" target="_self">Patoranking saves Lugogo</a></h4><p>There was skepticism ahead of the “Born 2 Win” concert held at Lugogo Cricket Oval last Friday.
+Headlined by Tanzania’s Diamond&hellip;</p><p class="nspInfo nspInfo2 tleft fleft">Yesterday | <a href="/lifestyle/41772-patoranking-saves-lugogo">2 comments</a></p></div></li>							
+														</ul>
+															
+					</div>
+					
+									</div>	
+					
+				
+					
+			</div>
+		</div>
+			</div>
+</div></div></div><div class=" jsn-modulecontainer"><div class="jsn-modulecontainer_inner"><div class="jsn-modulecontent"><div class="bannergroup">
+
+	<div class="banneritem">
+																																																															<a
+							href="/component/banners/click/49" target="_blank"
+							title="Partnerships for Peace">
+							<img
+								src="http://observer.ug/images/banners/Partners-for-Peace.gif"
+								alt="Partnerships for Peace"
+																							/>
+						</a>
+																<div class="clr"></div>
+	</div>
+
+</div>
+</div></div></div><div class=" jsn-modulecontainer"><div class="jsn-modulecontainer_inner"><div class="jsn-modulecontent"><div class="bannergroup">
+
+
+</div>
+</div></div></div><div class=" jsn-modulecontainer"><div class="jsn-modulecontainer_inner"><div class="jsn-modulecontent"><div class="bannergroup">
+
+	<div class="banneritem">
+										<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Observer Responsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1435360256358138"
+     data-ad-slot="9369650192"
+     data-ad-format="rectangle"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>				<div class="clr"></div>
+	</div>
+
+</div>
+</div></div></div><div class=" jsn-modulecontainer"><div class="jsn-modulecontainer_inner"><div class="jsn-modulecontent"><div class="bannergroup">
+
+
+</div>
+</div></div></div><div class=" jsn-modulecontainer"><div class="jsn-modulecontainer_inner"><div class="jsn-modulecontent"><div class="bannergroup">
+
+	<div class="banneritem">
+										<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Observer Responsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1435360256358138"
+     data-ad-slot="9369650192"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>				<div class="clr"></div>
+	</div>
+
+</div>
+</div></div></div>
+										</div>
+									</div>
+								</div>
+									</div>
+			</div>
+		</div>
+							<div id="jsn-footer">
+				<div id="jsn-footermodules" class="jsn-modulescontainer jsn-modulescontainer1 row-fluid">
+												<div id="jsn-pos-footer" class="span12">
+							<div class=" jsn-modulecontainer"><div class="jsn-modulecontainer_inner"><div class="jsn-modulecontent"><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32667704-1', 'auto');
+  ga('send', 'pageview');
+
+</script></div></div></div>
+							</div>
+										<div class="clearbreak"></div>
+				</div>
+			</div>
+			</div>
+	
+</div>
+</body>
+</html>
+
+0
+
+
+
+WARC/1.0
+WARC-Type: resource
+WARC-Record-ID: <urn:uuid:7465ce24-0815-4836-8d5a-26becace01e7>
+WARC-Warcinfo-ID: <urn:uuid:f46082da-d02c-47e7-a6bb-3c9ba21b3266>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/MANIFEST.txt
+WARC-Date: 2015-12-22T23:02:42Z
+Content-Type: text/plain
+Content-Length: 48
+
+<urn:uuid:f46082da-d02c-47e7-a6bb-3c9ba21b3266>
+
+
+WARC/1.0
+WARC-Type: resource
+WARC-Record-ID: <urn:uuid:7465ce24-0815-4836-8d5a-26becace01e7>
+WARC-Warcinfo-ID: <urn:uuid:f46082da-d02c-47e7-a6bb-3c9ba21b3266>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/wget_arguments.txt
+WARC-Date: 2015-12-22T23:02:42Z
+Content-Type: text/plain
+Content-Length: 268
+
+"--warc-file" "41737-mbabazi-thugs-stuck-a-finger-in-a-leopard-s-anus-museveni" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "-q" "-O" "/dev/null" "http://observer.ug/news-headlines/41737-mbabazi-thugs-stuck-a-finger-in-a-leopard-s-anus-museveni" 
+
+

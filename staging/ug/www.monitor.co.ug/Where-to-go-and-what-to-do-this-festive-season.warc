@@ -1,0 +1,952 @@
+WARC/1.0
+WARC-Type: warcinfo
+Content-Type: application/warc-fields
+WARC-Date: 2015-12-22T22:34:34Z
+WARC-Record-ID: <urn:uuid:917d3940-47d1-4445-8798-734456845d87>
+WARC-Filename: Where-to-go-and-what-to-do-this-festive-season.warc
+Content-Length: 464
+
+software: Wget/1.13.4-2608 (linux-gnu)
+format: WARC File Format 1.0
+conformsTo: http://bibnum.bnf.fr/WARC/WARC_ISO_28500_version1_latestdraft.pdf
+robots: classic
+wget-arguments: "--warc-file" "Where-to-go-and-what-to-do-this-festive-season" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "-q" "-O" "/dev/null" "http://www.monitor.co.ug/Magazines/Life/Where-to-go-and-what-to-do-this-festive-season/-/689856/3002744/-/2krjes/-/index.html" 
+
+
+
+WARC/1.0
+WARC-Type: request
+WARC-Target-URI: http://www.monitor.co.ug/Magazines/Life/Where-to-go-and-what-to-do-this-festive-season/-/689856/3002744/-/2krjes/-/index.html
+Content-Type: application/http;msgtype=request
+WARC-Date: 2015-12-22T22:34:34Z
+WARC-Record-ID: <urn:uuid:c23bc79e-198f-46a7-9351-8baccd124b0d>
+WARC-IP-Address: 83.231.191.146
+WARC-Warcinfo-ID: <urn:uuid:917d3940-47d1-4445-8798-734456845d87>
+Content-Length: 222
+
+GET /Magazines/Life/Where-to-go-and-what-to-do-this-festive-season/-/689856/3002744/-/2krjes/-/index.html HTTP/1.1
+User-Agent: Wget/1.13.4-2608 (linux-gnu)
+Accept: */*
+Host: www.monitor.co.ug
+Connection: Keep-Alive
+
+
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <urn:uuid:03a81ddd-1cbc-4bea-8416-d61d4fba4b37>
+WARC-Warcinfo-ID: <urn:uuid:917d3940-47d1-4445-8798-734456845d87>
+WARC-Concurrent-To: <urn:uuid:c23bc79e-198f-46a7-9351-8baccd124b0d>
+WARC-Target-URI: http://www.monitor.co.ug/Magazines/Life/Where-to-go-and-what-to-do-this-festive-season/-/689856/3002744/-/2krjes/-/index.html
+WARC-Date: 2015-12-22T22:34:34Z
+WARC-IP-Address: 83.231.191.146
+Content-Type: application/http;msgtype=response
+Content-Length: 60123
+
+HTTP/1.1 200 OK
+Date: Tue, 22 Dec 2015 22:34:31 GMT
+Set-Cookie: JSESSIONID=E7E7548585150829598FD440C8D2C538.cm6-live-4; Path=/nationmedia/; HttpOnly
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-GB
+Cache-Control: max-age=180
+Expires: Tue, 22 Dec 2015 22:37:31 GMT
+Vary: Accept-Encoding,User-Agent
+Keep-Alive: timeout=1, max=50
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Set-Cookie: NSC_WT-fwb3300082-IUUQ=ffffffff50efd5a745525d5f4f58455e445a4a423660;expires=Tue, 22-Dec-2015 22:36:34 GMT;path=/;httponly
+
+1ff8
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
+<head>
+<title>Where to go and what to do this festive season - Life</title>
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+<meta name="robots" content="index, follow"/>
+<meta property="fb:app_id" content="130334390451559" />
+<meta property="fb:admins" content="1830875453" />
+<meta name="title" content="Where to go and what to do this festive season"/><meta name="description" content="A traveller’s paradise located at Lake Bunyonyi in the southwest of Uganda, it is at the heart of the stunning and serene island-studded lake. It caters" >
+ <meta name="keywords" content="Where to go, what to do, festive, season"/><meta name="email" content="online@ug.nationmedia.com"/><meta name="copyright" content="Monitor Publications Ltd"/><meta property="og:type" content="article" />
+    <meta property="og:author" content="Edgar R. Batte, " />
+    <meta property="og:title" content="Where to go and what to do this festive season" />
+    <meta property="og:description" content="A traveller’s paradise located at Lake Bunyonyi in the southwest of Uganda, it is at the heart of the stunning and serene island-studded lake. It caters for independent and budget travellers looking for relaxation, gorgeous views, unique accommodation and delicious food at the most affordable prices"/>
+	<meta property="og:image" content="/image/view/-/3002764/lowRes/1206574/-/1tc8ha/-/travel01+pic.jpg"/>
+            <meta property="og:url" content="http://www.monitor.co.ug/Magazines/Life/Where-to-go-and-what-to-do-this-festive-season/-/689856/3002744/-/2krjes/-/index.html"/>
+<link rel="canonical" href="http://www.monitor.co.ug/Magazines/Life/Where-to-go-and-what-to-do-this-festive-season/-/689856/3002744/-/2krjes/-/index.html" />
+<link type="application/rss+xml" title="" rel="alternate" href="http://www.monitor.co.ug/Magazines/Life/-/689856/689856/-/view/asFeed/-/s47ns3/-/index.xml"/>
+<link rel="shortcut icon" href="/image/view/-/691150/favicon/259152/-/5uewkhz/-/DailyMonitor.ico" type="image/x-icon"/><link href="/image/view/-/1527956/data/407660/-/vur3inz/-/AppleIcon.png" rel="apple-touch-icon" type="image/png"/>
+<link rel="stylesheet" type="text/css"  href="/code/view/DailyMonitor/-/4/-/sw3ljf/-/base.css" />
+<link rel="stylesheet" type="text/css"  href="/code/view/DailyMonitor/-/16/-/333p3az/-/print_base.css" />
+<!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css"  href="/code/view/DailyMonitor/-/24/-/333p2gz/-/iehacks.css" />
+<![endif]--><link rel="stylesheet" type="text/css"  href="/code/view/DailyMonitor/-/689060/-/ty455c/-/basemod.css" />
+<link rel="stylesheet" type="text/css"  href="/code/view/DailyMonitor/-/689062/-/ty455e/-/basemod_article.css" />
+<link rel="stylesheet" type="text/css"  href="/code/view/DailyMonitor/-/689068/-/ty455k/-/basemod_bloglanding.css" />
+<link rel="stylesheet" type="text/css"  href="/code/view/DailyMonitor/-/689072/-/ty456a/-/basemod_blogpost.css" />
+<link rel="stylesheet" type="text/css"  href="/code/view/DailyMonitor/-/689076/-/ty456e/-/basemod_blogsingle.css" />
+<link rel="stylesheet" type="text/css"  href="/code/view/DailyMonitor/-/689122/-/ty45tb/-/basemod_channel.css" />
+<link rel="stylesheet" type="text/css"  href="/code/view/DailyMonitor/-/689084/-/ty4578/-/basemod_classdetail.css" />
+<link rel="stylesheet" type="text/css"  href="/code/view/DailyMonitor/-/689088/-/ty457c/-/basemod_classifieds.css" />
+<link rel="stylesheet" type="text/css"  href="/code/view/DailyMonitor/-/689092/-/ty4582/-/basemod_classresults.css" />
+<link rel="stylesheet" type="text/css"  href="/code/view/DailyMonitor/-/689080/-/ty4574/-/basemod_front.css" />
+<link rel="stylesheet" type="text/css"  href="/code/view/DailyMonitor/-/689098/-/ty4588/-/basemod_gallery.css" />
+<link rel="stylesheet" type="text/css"  href="/code/view/DailyMonitor/-/689102/-/ty45rj/-/basemod_join.css" />
+<link rel="stylesheet" type="text/css"  href="/code/view/DailyMonitor/-/827128/-/uxj0aq/-/calendar.css" />
+<link rel="stylesheet" type="text/css"  href="/code/view/DailyMonitor/-/689124/-/ty45td/-/basemod_obits.css" />
+<link rel="stylesheet" type="text/css"  href="/code/view/DailyMonitor/-/689106/-/ty45rn/-/basemod_premium.css" />
+<link rel="stylesheet" type="text/css"  href="/code/view/DailyMonitor/-/689110/-/ty45sd/-/basemod_register.css" />
+<link rel="stylesheet" type="text/css"  href="/code/view/DailyMonitor/-/689114/-/ty45sh/-/basemod_search.css" />
+<link rel="stylesheet" type="text/css"  href="/code/view/DailyMonitor/-/689064/-/ty455g/-/content.css" />
+<link rel="stylesheet" type="text/css"  href="/code/view/DailyMonitor/-/689118/-/ty45sl/-/custom.css" />
+<link rel="stylesheet" type="text/css"  href="/code/view/DailyMonitor/-/689120/-/ty45t9/-/patch_generic.css" />
+<link rel="stylesheet" type="text/css"  href="/code/view/DailyMonitor/-/689126/-/ty45tf/-/contentslider.css" />
+<link rel="stylesheet" type="text/css"  href="/code/view/DailyMonitor/-/997276/-/vlwj7i/-/electionstrip.css" />
+<link rel="stylesheet" type="text/css"  href="/code/view/DailyMonitor/-/1334106/-/o5cojo/-/skinCSS.css" />
+<script type="text/javascript" language="javascript" src="/code/view/DailyMonitor/-/1196/-/odr5kiz/-/mootools.js"></script>
+<script type="text/javascript" language="javascript" src="/code/view/DailyMonitor/-/1198/-/odr5kgz/-/plugin.js"></script>
+<script type="text/javascript" language="javascript" src="/code/view/DailyMonitor/-/1200/-/odr517z/-/rating.js"></script>
+<script type="text/javascript" language="javascript" src="/code/view/DailyMonitor/-/1202/-/odr515z/-/sse.js"></script>
+<script type="text/javascript" language="javascript" src="/code/view/DailyMonitor/-/1204/-/odr513z/-/swfobject.js"></script>
+<script type="text/javascript" language="javascript" src="/code/view/DailyMonitor/-/1814/-/odr0agz/-/tinyMCE.js"></script>
+<script type="text/javascript" language="javascript" src="/code/view/DailyMonitor/-/1206/-/odr511z/-/video.js"></script>
+<script type="text/javascript" language="javascript" src="/code/view/DailyMonitor/-/1208/-/odr50yz/-/voting.js"></script>
+<script type="text/javascript" language="javascript" src="/code/view/DailyMonitor/-/688224/-/ty3han/-/utils.js"></script>
+<script type="text/javascript" language="javascript" src="/code/view/DailyMonitor/-/688212/-/ty3h9p/-/echoice.js"></script>
+<script type="text/javascript" language="javascript" src="/code/view/DailyMonitor/-/688210/-/ty3h9n/-/ddtabmenu.js"></script>
+<script type="text/javascript" language="javascript" src="/code/view/DailyMonitor/-/688214/-/ty3h9r/-/functions.js"></script>
+<script type="text/javascript" language="javascript" src="/code/view/DailyMonitor/-/827130/-/uxj0be/-/calendar_us.js"></script>
+<script type="text/javascript" language="javascript" src="/code/view/DailyMonitor/-/688216/-/ty3h9t/-/gallery.js"></script>
+<script type="text/javascript" language="javascript" src="/code/view/DailyMonitor/-/688208/-/ty3h90/-/contentslider.js"></script>
+<script type="text/javascript" language="javascript" src="/code/view/DailyMonitor/-/1384112/-/o8fe21/-/nSoko.js"></script>
+<style type="text/css">
+    #main {
+        padding: 10px 20px;
+    }
+</style>
+<div id="fb-root"></div>
+<script>
+  (function (d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s);
+    js.id = id;
+    js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=130334390451559";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+</script>
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-12497552-1', 'auto');
+  ga('send', 'pageview');
+</script>
+<script async src=
+e0
+"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-0846142691248784",
+    enable_page_level_ads: true
+  });
+</script>
+1ff8
+<meta name="google-site-verification" content="DDGKNbKu5zFTOlquoYGcxrsE2cg7Q8abHwZIUkQssFw">
+<link type="application/rss+xml" title="" rel="alternate"  href="/Magazines/Life/-/689856/689856/-/view/asFeed/-/s47ns3/-/index.xml"/>
+</head>
+<body>
+
+<div id="page_shadows">
+    <div id="page_margins">
+	<analytics:pagecontext object="com.coremedia.starterkit.cae.contentbeans.PageImpl$$@ccfbc1f0" view="DEFAULT">
+        <a href="" target="_blank"><div id="skinleftlink"></div></a>
+		<a href="" target="_blank"><div id="skinrightlink"></div></a> 
+        <div id="page">
+
+            <div id="topnav">
+    <!-- start: skip link navigation -->
+    <a class="skip" href="#navigation" title="skip link">
+    Skip to the navigationchannel.links.navigation.skip.label</a><span class="hideme">.</span>
+    <a class="skip" href="#content" title="skip link">
+    Skip to the content</a><span class="hideme">.</span>
+    <!-- end: skip link navigation -->
+    <a href="/external/691190?url=http%253A%252F%252Fepaper.monitor.co.ug%252Fregistration%252F" target="_blank">
+        e-Paper</a>
+<span>|</span><a href="/external/691172?url=http%253A%252F%252Fwww.kfm.co.ug" target="_blank">
+        93.3 KFM</a>
+<span>|</span><a href="/external/691174?url=http%253A%252F%252Fwww.monitordirectory.co.ug" target="_blank">
+        Business Directory</a>
+<span>|</span><a href="/external/691188?url=http%253A%252F%252Fwww.sqoop.co.ug" target="_blank">
+        Sqoop</a>
+<span>|</span><a href="/external/867066?url=http%253A%252F%252Fdembefm.ug%252F" target="_blank">
+        Dembefm</a>
+<span>|</span><a href="/external/1947640?url=http%253A%252F%252Fblogs.monitor.co.ug%252F" target="_blank">
+        Monitor Blogs</a>
+<span>|</span><a href="/external/691156?url=http%253A%252F%252Fwww.theeastafrican.co.ke" target="_blank">
+        The East African</a>
+<span>|</span><a href="/external/691158?url=http%253A%252F%252Fwww.nation.co.ke" target="_blank">
+        Daily Nation</a>
+<span>|</span><a href="/external/691160?url=http%253A%252F%252Fwww.thecitizen.co.tz" target="_blank">
+        The Citizen</a>
+<span>|</span><a href="/external/691162?url=http%253A%252F%252Fwww.ntv.co.ke" target="_blank">
+        NTV</a>
+<span>|</span><a href="/external/691166?url=http%253A%252F%252Fwww.bdafrica.com" target="_blank">
+        Business Daily</a>
+</div>
+<!-- End topnav -->
+<div id="header">
+    <div id="logo">
+                <a  href="/-/691150/691150/-/b5cpt3/-/index.html"><img 
+        src="/image/view/-/1221096/medRes/1204712/-/maxh/100/-/3tca5y/-/Logo_DailyMonitor.png"
+    alt=""/>
+  </a></div>
+        <div class="date"><b style="{ text-transform: uppercase; }">
+  Wednesday </b><br/>
+December 23,&nbsp;
+2015</div>
+    <div class="halfbanner">
+            <analytics:objectcontext object="com.coremedia.mauritius.cae.contentbeans.MauAdLocationImpl$$[id=688890]" logView="true">
+        <analytics:objectcontext object="com.coremedia.mauritius.cae.contentbeans.MauAdvertisementImpl$$[id=2463628]" logView="true">
+    <analytics:namecontext name="ad_FlyDUbai" logView="true">
+        <a href="http://www.flydubai.com/" target="_blank"><!-- google_ad_section_start -->
+                            <img 
+        src="/image/view/-/2463630/medRes/1197968/-/qb9sjaz/-/flydubai234X60.png"
+    alt="FlyDubai"/>
+  <!-- google_ad_section_end -->
+                        </a>
+                </analytics:namecontext>
+</analytics:objectcontext>
+</analytics:objectcontext>
+</div>
+    </div>
+<!-- End header -->
+
+<!-- begin: main navigation #nav -->
+<div id="nav">
+    <a id="navigation" name="navigation_"></a>
+    <!-- skiplink anchor: navigation -->
+    <div id="nav_main">
+        <div id="ddtabmenu" class="ddcolortabs">
+    <ul>
+      <li >
+            <a  href="/Elections/-/2787154/2787154/-/xp3uehz/-/index.html" rel="ct1">Elections</a></li>
+        <li >
+            <a  href="/News/-/688324/688324/-/b69tvd/-/index.html" rel="ct2">News</a></li>
+        <li >
+            <a  href="/Business/-/688322/688322/-/fh6068z/-/index.html" rel="ct3">Business</a></li>
+        <li >
+            <a  href="/OpEd/-/689356/689356/-/8xgmfez/-/index.html" rel="ct4">OpEd</a></li>
+        <li >
+            <a  href="/SpecialReports/-/688342/688342/-/eduqir/-/index.html" rel="ct5">Special Reports</a></li>
+        <li id="current">
+            <a  href="/Magazines/-/689838/689838/-/ppk38y/-/index.html" rel="ct6">Magazines</a></li>
+        <li >
+            <a  href="/Sports/-/690254/690254/-/14bgu7i/-/index.html" rel="ct7">Sports</a></li>
+        <li >
+            <a  href="/artsculture/-/691192/691192/-/frckjjz/-/index.html" rel="ct8">Other Features</a></li>
+        <li >
+            <a  href="/JobsTenders/-/849346/849346/-/i2es0jz/-/index.html" rel="ct9">Jobs</a></li>
+        </ul>
+  </div>
+<div id="navtools">
+            <div id="search">
+                <form id="searchHeader" name="searchfrm" action="/page/search/DailyMonitor/Magazines/Life/-/689856/689856/-/view/asSearch/-/4egfju/-/index.html" method="post"><input class="textInput" id="searchInput" name="userQuery" type="text" style="width: 140px;"
+                           onkeypress="return entsub(event,this.form)">
+                    <a href="javascript:void(0);" class="btn-black"
+                       onclick="$('searchHeader').submit()"><span>GO</span></a>
+                    <input name="contextsIds" type="hidden" value="691150"/>
+                    <input name="sortBy" type="hidden" value="maupublicationdate"/>
+                    <input name="docTypes" type="hidden" value="&quot;MauArticle,MauGallery,MauVideo,CMDownload&quot;"/>
+                </form></div>
+            </div>
+
+    </div>
+
+    <script type="text/javascript">
+    //ddtabmenu.definemenu("ddtabmenu")
+</script>
+<div class="tabcontainer">
+    <div id="ct1" class="tabcontent">
+                </div>
+            <div id="ct2" class="tabcontent">
+                <a  href="/News/National/-/688334/688334/-/vgpkiq/-/index.html">National</a>|<a  href="/News/Education/-/688336/688336/-/yy2wiu/-/index.html">Education</a>|<a  href="/News/Insight/-/688338/688338/-/6cqcpf/-/index.html">Insight</a>|<a  href="/News/World/-/688340/688340/-/h37441z/-/index.html">World</a>|<a  href="/News/trending/-/2854854/2854854/-/97fj89z/-/index.html">Trending</a></div>
+            <div id="ct3" class="tabcontent">
+                <a  href="/Business/Prosper/-/688616/688616/-/kj7lqbz/-/index.html">Prosper</a>|<a  href="/Business/Commodities/-/688610/688610/-/gff4xn/-/index.html">Commodities</a>|<a  href="/Business/Finance/-/688608/688608/-/i28h5nz/-/index.html">Finance</a>|<a  href="/Business/Markets/-/688606/688606/-/m7qpyg/-/index.html">Markets</a>|<a  href="/Business/Technology/-/688612/688612/-/swdfdg/-/index.html">Technology</a>|<a  href="/Business/Insurance/-/688618/688618/-/mfpqxw/-/index.html">Insurance</a>|<a  href="/Business/Auto/-/688614/688614/-/ht7xblz/-/index.html">Auto</a></div>
+            <div id="ct4" class="tabcontent">
+                <a  href="/OpEd/Editorial/-/689360/689360/-/shdlybz/-/index.html">Editorial</a>|<a  href="/OpEd/OpEdColumnists/-/878516/878516/-/hoif84/-/index.html">OpEd Columnists</a>|<a  href="/OpEd/Commentary/-/689364/689364/-/bk3620z/-/index.html">Commentary</a>|<a  href="/OpEd/Letters/-/806314/806314/-/2y5dbnz/-/index.html">Letters</a>|<a  href="/OpEd/Cartoon/-/689368/689368/-/4yma01z/-/index.html">Cartoon</a></div>
+            <div id="ct5" class="tabcontent">
+                <a  href="/SpecialReports/ugandaat50/-/1370466/1370466/-/ujnthxz/-/index.html">Uganda@50</a>|<a  href="/SpecialReports/Elections/-/859108/859108/-/ba3xkoz/-/index.html">Elections</a>|<a  href="/SpecialReports/success/-/859508/859508/-/yokborz/-/index.html">Project Success</a>|<a  href="/SpecialReports/Amin/-/859112/859112/-/s8xsdmz/-/index.html">Amin</a>|<a  href="/SpecialReports/WarMemories/-/859092/859092/-/4a6suez/-/index.html">War Memories</a>|</div>
+            <div id="ct6" class="tabcontent">
+                <a  href="/Magazines/Full-Woman/-/689842/689842/-/10gpwi4z/-/index.html">FullWoman</a>|<a  href="/Magazines/PeoplePower/-/689844/689844/-/47
+1ff8
+juhn/-/index.html">People &amp; Power</a>|<a  href="/Magazines/Health---Living/-/689846/689846/-/pvcul5/-/index.html">Healthy Living</a>|<a  href="/Magazines/Jobs-Career/-/689848/689848/-/vx8ks7z/-/index.html">Jobs and Career</a>|<a  href="/Magazines/Score/-/689854/689854/-/hjb9vbz/-/index.html">Score</a>|<a  href="/Magazines/Life/-/689856/689856/-/11ch9moz/-/index.html">Life<script type="text/javascript">
+                                    ddtabmenu.definemenu("ddtabmenu", 5)
+                                </script>
+                            </a>|<a  href="/Magazines/HomesandProperty/-/689858/689858/-/9kkv9x/-/index.html">Homes and Property</a>|<a  href="/Magazines/Farming/-/689860/689860/-/vryj74/-/index.html">Farming</a></div>
+            <div id="ct7" class="tabcontent">
+                <a  href="/Sports/Soccer/-/690266/690266/-/15hv46r/-/index.html">Soccer</a>|<a  href="/Sports/Basketball/-/690268/690268/-/tbialkz/-/index.html">Basketball</a>|<a  href="/Sports/Boxing/-/690270/690270/-/27wckuz/-/index.html">Boxing</a>|<a  href="/Sports/Cricket/-/690272/690272/-/9k53dhz/-/index.html">Cricket</a>|<a  href="/Sports/Athletics/-/690274/690274/-/f7oknyz/-/index.html">Athletics</a>|<a  href="/Sports/Rugby/-/690276/690276/-/h2pvlhz/-/index.html">Rugby</a>|<a  href="/Sports/Golf/-/690278/690278/-/hh2ktjz/-/index.html">Golf</a>|<a  href="/Sports/Tennis/-/690280/690280/-/1032q2f/-/index.html">Tennis</a>|<a  href="/Sports/MotorSport/-/690282/690282/-/5gxw1o/-/index.html">Motor Sport</a>|<a  href="/Sports/OtherSport/-/690284/690284/-/japb85z/-/index.html">Other Sport</a>|<a  href="/Sports/SportsColumnists/-/690286/690286/-/ewd5qw/-/index.html">Sports Columnists</a></div>
+            <div id="ct8" class="tabcontent">
+                <a  href="/artsculture/Askthedoctor-/-/691236/691236/-/11y6cgf/-/index.html">Ask The Doctor </a>|<a  href="/artsculture/Dining---Recipes/-/691226/691226/-/aoslsd/-/index.html">Dining &amp; Recipes</a>|<a  href="/artsculture/Entertainment/-/812796/812796/-/bsoq9j/-/index.html">Entertainment</a>|<a  href="/artsculture/Travel/-/691238/691238/-/1nxr7iz/-/index.html">Travel</a>|<a  href="/artsculture/Theatre---Cinema/-/691234/691234/-/vsl1h2/-/index.html">Theatre &amp; Cinema</a>|<a  href="/artsculture/Reviews/-/691232/691232/-/kvjlofz/-/index.html">Reviews &amp; Profiles</a>|<a  href="/artsculture/Religion/-/689744/689744/-/6058hk/-/index.html">Religion</a>|<a  href="/artsculture/Heart-to-Heart/-/691230/691230/-/puojfp/-/index.html">Heart to Heart</a>|<a  href="/artsculture/FashionBeauty/-/691228/691228/-/6yncy6/-/index.html">Fashion &amp; Beauty</a></div>
+            <div id="ct9" class="tabcontent">
+                <a  href="/JobsTenders/supplements/-/1921704/1921704/-/nk15yt/-/index.html">supplements</a>|<a  href="/JobsTenders/jobs/-/1903276/1903276/-/oj0g3cz/-/index.html">Jobs</a>|<a  href="/JobsTenders/bidstenders/-/1903224/1903224/-/108m1kl/-/index.html">Bids and Tenders</a></div>
+            <div id="ct10" class="tabcontent">
+                </div>
+            <div id="ct11" class="tabcontent">
+                <a  href="/blogs/-/689256/689256/-/ff39xoz/-/index.html">Barbs and Bouquet</a>|<a  href="/blogs/-/689264/689264/-/yf7qtmz/-/index.html">Outside the Box</a></div>
+            <div id="ct12" class="tabcontent">
+                </div>
+            <div id="ct9">
+       <script type="text/javascript">
+          ddtabmenu.definemenu("ddtabmenu", 9)
+       </script>
+    </div>
+    </div>
+
+</div>
+<div id="electionds">
+ 			<div class="stripbanner">
+                    <analytics:objectcontext object="com.coremedia.mauritius.cae.contentbeans.MauAdvertisementImpl$$[id=1445286]" logView="true">
+    <analytics:namecontext name="ad_MTN" logView="true">
+        <!-- google_ad_section_start -->
+                    
+
+<script type='text/javascript' src='http://partner.googleadservices.com/gampad/google_service.js'>
+</script>
+<script type='text/javascript'>
+GS_googleAddAdSenseService("ca-pub-0846142691248784");
+GS_googleEnableAllServices();
+</script>
+<script type='text/javascript'>
+GA_googleAddSlot("ca-pub-0846142691248784", "MPL-Home_LStript_950x45html");
+</script>
+<script type='text/javascript'>
+GA_googleFetchAds();
+</script>
+
+<!-- MPL-Home_LStript_950x45html -->
+<script type='text/javascript'>
+GA_googleFillSlot("MPL-Home_LStript_950x45html");
+</script><!-- google_ad_section_end -->
+                </analytics:namecontext>
+</analytics:objectcontext>
+</div>
+					<div class="adspacer"></div>
+                </div>
+ <div id="main" style="width: 950px">
+				<a id="content" name="content_"></a>
+                <!-- Editor's Choice -->
+    <div class="subcolumns" id="editorschoice">
+
+        <div class="c15l">
+            <div id="ec_nav">
+                <h2>Editor's Choice</h2>
+                <p>
+                    <img src="/image/view/-/688892/data/49/-/nj90faz/-/arrow_left.png" id="ec_goprev" alt=""/>
+                    <img src="/image/view/-/688894/data/50/-/al2kpiz/-/arrow_right.png" id="ec_gonext" alt=""/>
+                </p>
+
+                <p>Click to scroll</p>
+            </div>
+            <!-- End ec_nav -->
+        </div>
+        <!-- End c15l -->
+        
+        <div class="c85r">
+            <div id="ec_wrapper">
+                <div id="ec_inner">
+                    <div class="ec_item" id="ec1">
+                                <div class="ec_item_inner">
+  <a  href="/Magazines/Full-Woman/The-Christmas-tree-tradition/-/689842/3002294/-/5m07h1/-/index.html"><img class="photo_small"
+        src="/image/view/-/3002296/lowRes/1206432/-/h/70/w/108/-/diiojdz/-/woman02pix.jpg"
+    alt="Decorated Christmas tree"/>
+  </a><a  href="/Magazines/Full-Woman/The-Christmas-tree-tradition/-/689842/3002294/-/5m07h1/-/index.html">The Christmas tree tradition</a></div></div>
+                        <div class="ec_item" id="ec2">
+                                <div class="ec_item_inner">
+  <a  href="/Magazines/Full-Woman/Winning-the-KFM-talent-search/-/689842/3002300/-/mjh5ssz/-/index.html"><img class="photo_small"
+        src="/image/view/-/3002302/lowRes/1206435/-/h/70/w/108/-/8nowcvz/-/woman03pix.jpg"
+    alt="Philip Akugizibwe"/>
+  </a><a  href="/Magazines/Full-Woman/Winning-the-KFM-talent-search/-/689842/3002300/-/mjh5ssz/-/index.html">Winning the KFM talent search</a></div></div>
+                        <div class="ec_item" id="ec3">
+                                <div class="ec_item_inner">
+  <a  href="/Magazines/Full-Woman/A-snack--Holiday-season-mini-pizzas/-/689842/3002590/-/5yako8/-/index.html"><img class="photo_small"
+        src="/image/view/-/3002594/lowRes/1206447/-/h/70/w/108/-/14atwbhz/-/dinning02pix.jpg"
+    alt=""/>
+  </a><a  href="/Magazines/Full-Woman/A-snack--Holiday-season-mini-pizzas/-/689842/3002590/-/5yako8/-/index.html">A snack: Holiday season mini pizzas</a></div></div>
+                        <div class="ec_item" id="ec4">
+                                <div class="ec_item_inner">
+  <a  href="/Magazines/Score/What-next-for-sacked-Mour-/-/689854/3001828/-/sw08dv/-/index.html"><img class="photo_small"
+        src="/image/view/-/3001874/lowRes/1205963/-/h/70/w/108/-/153s7i2/-/score02+pix.jpg"
+    alt=""/>
+  </a><a  href="/Magazines/Score/What-next-for-sacked-Mour-/-/689854/3001828/-/sw08dv/-/index.html">What next for sacked Mour?</a></div></div>
+                        <div class="ec_item" id="ec5">
+                                <div class="ec_item_inner">
+  <a  href="/Magazines/Score/Visit-of-Barca-legends-was-welcome-idea/-/689854/3001846/-/n0qfrb/-/index.html"><img class="photo_small"
+        src="/image/view/-/3001884/lowRes/1201814/-/h/70/w/108/-/145lky1/-/score05+pix.jpg"
+    alt=""/>
+  </a><a  href="/Magazines/Score/Visit-of-Barca-legends-was-welcome-idea/-/689854/3001846/-/n0qfrb/-/index.html">Visit of Barca legends was welcome idea</a></div></div>
+                        </div>
+            </div>
+            <!-- End ec_wrapper -->
+        </div>
+        <!-- End c85r -->
+    </div>
+<!-- End Editor's Choice --><!-- Article Page Sidebar -->
+                <div style="margin: 5px 10%;">
+                      
+1ff8
+</div>
+                  <div class="subcolumns" id="contentwrapper">
+                    <!-- Aricle Page Content -->
+                    <div class="c65l" id="articlepagecontent">
+                        <div class="subcl">
+                            <div id="articlebody">
+                                <!-- Content + Sidebar -->
+    <!-- Breadcrumbs -->
+  <div class="breadcrumbs">
+      <a  href="/-/691150/691150/-/b5cpt3/-/index.html">Home</a><span><img src="/image/view/-/688896/data/98293/-/h/19/-/74r0qw/-/bread_sep.png" height="19"/></span>
+            <a  href="/Magazines/-/689838/689838/-/ppk38y/-/index.html">Magazines</a><span><img src="/image/view/-/688896/data/98293/-/h/19/-/74r0qw/-/bread_sep.png" height="19"/></span>
+            <a  href="/Magazines/Life/-/689856/689856/-/11ch9moz/-/index.html">Life</a><span><img src="/image/view/-/688898/data/98292/-/h/19/-/nk09lq/-/bread_end.jpg " height="19"/></span>
+            </div>
+  <!-- End Breadcrumbs -->
+<p class="newstype">Life</p>
+
+    <h1>Where to go and what to do this festive season</h1>
+
+    <div id="article_tools">
+    <div id="dropshare">
+            <a href="http://www.monitor.co.ugcom.coremedia.mauritius.cae.contentbeans.MauArticleImpl$$[id=3002744]&amp;title=Where to go and what to do this festive season"
+               title="Submit to Digg">
+                <img src="/image/view/-/688876/data/44/-/9t0mb0/-/digg.gif"/>
+            </a>
+        <a href="http://www.monitor.co.ugcom.coremedia.mauritius.cae.contentbeans.MauArticleImpl$$[id=3002744]&amp;title=Where to go and what to do this festive season"
+               title="Submit to del.icio.us">
+                <img src="/image/view/-/688880/data/46/-/wqh0wxz/-/delicious.gif"/>
+            </a>
+        <a href="http://www.monitor.co.ugcom.coremedia.mauritius.cae.contentbeans.MauArticleImpl$$[id=3002744]&amp;title=Where to go and what to do this festive season"
+               title="Submit to StumbleUpon">
+                <img src="/image/view/-/688882/data/47/-/jsal8rz/-/stumble.gif"/>
+            </a>
+        <a href="http://www.monitor.co.ugcom.coremedia.mauritius.cae.contentbeans.MauArticleImpl$$[id=3002744]&amp;title=Where to go and what to do this festive season"
+               title="Submit to Yahoo Buzz">
+                <img src="/image/view/-/688884/data/48/-/6u46jlz/-/yahoo.gif"/>
+            </a>
+        </div>
+    <span><img src="/image/view/-/688874/data/43/-/345rd6z/-/ico_plus.png"/><a href="javascript:void(0);"
+                                                                    id="share_link">Share</a></span>
+    <span><img src="/image/view/-/688308/data/40/-/pa4kkwz/-/ico_bookmark.png"/><a href="javascript:void(0);"><script type="text/javascript">
+    function CreateBookmarkLink() {
+        var title = "Where to go and what to do this festive season";
+        var url = 'http://www.monitor.co.ug/Magazines/Life/Where-to-go-and-what-to-do-this-festive-season/-/689856/3002744/-/2krjes/-/index.html';
+
+        if (window.sidebar) { // Mozilla Firefox Bookmark
+            window.sidebar.addPanel(title, url, "");
+        } else if (document.all) { // IE Favorite
+            window.external.AddFavorite(url, title);
+        }
+        else if (window.opera) { // Opera Hotlist
+            var elem = document.createElement('a');
+            elem.setAttribute('rel', 'sidebar');
+            elem.setAttribute('href', url);
+            elem.setAttribute('title', title);
+            alert('opera not yet completely supported');
+            elem.click();
+
+        }
+    }
+</script>
+
+<a href="javascript:CreateBookmarkLink()">Bookmark</a></a></span>
+    <span><img src="/image/view/-/688304/data/39/-/uklpqh/-/ico_print.png"/><a  href="/Magazines/Life/Where-to-go-and-what-to-do-this-festive-season/-/689856/3002744/-/view/printVersion/-/vtc2o/-/index.html">Print</a></span>
+    <span id="article_rate">Rating <div id="rating_3002744"><!-- START starRating.tag --><div id="com.nationmedia:cae-base-webapp:war:1.0.13.1-SNAPSHOT"><div class="stars" style="width:60px;height:12px;position:relative;background:url(/image/view/-/688200/lowRes/737/-/28w70m/-/starrow_white.gif);"><div class="currentStars" style="position:absolute;width:0px;height:12px;left:0px;background:url(/image/view/-/688196/lowRes/735/-/nmq93oz/-/starrow.gif)"></div></div></div><!-- END starRating.tag --></div></span>
+    <span><div class="fb-send" data-href="http://www.monitor.co.ug/Magazines/Life/Where-to-go-and-what-to-do-this-festive-season/-/689856/3002744/-/2krjes/-/index.html" data-font="arial"></div></span>
+</div><!-- Video added to the Media Field-->
+    <img class="photo_article"
+        src="/image/view/-/3002764/highRes/1206576/-/maxw/600/-/g1ajln/-/travel01+pic.jpg"
+    alt=""/>
+  <p id="photo_article_caption">
+            
+
+Whether you want to get wild in the wild, or chillax in the city, this festive season is for you to enjoy at different destinations.&nbsp;
+            </p>
+    <div id="articlemeta">
+    By&nbsp;Edgar R. Batte<br></br>Posted&nbsp;
+    Sunday, December 20&nbsp;
+2015&nbsp;at&nbsp;
+02:00</div>
+
+<div id="article_summmary">
+            <p class="newstype">In Summary</p>
+            <div><p>SPREAD THE HOLIDAY CHEER. Whether you want to get wild in the wild, or chillax in the city, this festive season is for you to enjoy at different destinations. Edgar R. Batte makes some recommendations for this festive season.</p><p>Christmas comes knocking and planning is important. We make some recommendations of places you can go to or activities you can opt to engage in this festive season. </p></div></div>
+    <div id="article_related_news">
+        <div class="articleSummary"><div style="margin: 2px; padding: 4px;">
+        <div style="font-weight: 400; color:#999; padding:8px 0px; text-align:center; border-bottom: 1px dotted #444444; border-top: 4px solid #666666; ">SHARE THIS STORY</div>
+        <div style="height:2px;"></div>
+		<span style="margin: 3px;">
+			<div class="fb-like" data-href="http://www.monitor.co.ug/Magazines/Life/Where-to-go-and-what-to-do-this-festive-season/-/689856/3002744/-/2krjes/-/index.html" data-send="false" data-layout="box_count" data-width="40" data-show-faces="false" data-action="recommend" data-font="arial" ></div>
+		</span>
+         <span style="margin: 3px;">
+			 <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.monitor.co.ug/Magazines/Life/Where-to-go-and-what-to-do-this-festive-season/-/689856/3002744/-/2krjes/-/index.html" data-via="dailymonitor" data-text="Where to go and what to do this festive season" data-lang="en" data-related="africareview" data-count="vertical" data-dnt="true">Tweet</a>
+			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+		</span>
+
+                 <span style="margin: 3px;">
+                     	<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+                        <g:plusone size="tall"></g:plusone>
+                </span>
+           <span style="margin: 3px;">
+                  <script src="http://platform.linkedin.com/in.js" type="text/javascript"></script>
+                  <script type="IN/Share" data-url="http://www.monitor.co.ug/Magazines/Life/Where-to-go-and-what-to-do-this-festive-season/-/689856/3002744/-/2krjes/-/index.html" data-counter="top"></script>      
+                </span>
+
+    </div>
+</div>
+        <div class="clear"></div>
+        <div class="articleSummary">
+            <p>
+                <div>
+                    <div class="clear"></div>
+                    </div>
+                </p>
+        </div>
+        <div class="clear"></div>
+
+            <analytics:objectcontext object="com.coremedia.mauritius.cae.contentbeans.MauAdvertisementImpl$$[id=1720728]" logView="true">
+    <analytics:namecontext name="ad_" logView="true">
+        <!-- google_ad_section_start -->
+             
+1ff8
+       
+
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-0846142691248784";
+/* Monitor-300x250 */
+google_ad_slot = "9405892338";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script><!-- google_ad_section_end -->
+                </analytics:namecontext>
+</analytics:objectcontext>
+</div>
+
+
+
+
+    <div id="article_text">
+        <p>
+
+            <div><p><strong>Sheraton Kampala Hotel </strong><br/>The slogan at Sheraton Kampala Hotel this festive season is ‘Special moments are always better when shared’. As you reflect on the year and prepare for the new one, the five-star hotel, is preparing a traditional Christmas Day buffet which will include cold cuts, seafood, cocktails and hot buffet varying from Indian, Ugandan and continental. For the little ones, there will be fries, viennas, chicken drumsticks, beef burgers and more. Each adult will part with Shs200, 000 while a child will part with Shs90, 000. <br/>On Boxing Day, it will be a ‘Mediterranean Fiesta’ with foods from Southern France, Turkey, Spain, Greece and Italy. There will be a band playing in the evening. Adults will part with Shs125, 000 while children will be charged Shs60, 000. </p></div><!--Ads and Related Buttons-->
+                <!-- Ads minus related Buttons -->
+              <div><p/><p><strong>Uwec, aka Zoo</strong><br/>At Uganda Wildlife Education Centre (Uwec), in Entebbe, Christmas will be a treat of both watching animals under guidance and performances from artistes and comedians. Look out for Palaso, Dax Kartel, Barbie Jay, Omulangira Ssuna and King Congo on stage.<br/>Boxing Day has been dubbed ‘Family Fun’ with performance by artistes Zannie Brown, Spice Dianna, Barbie Jay, Omulangira Ssuna and MC Godi Godi.<br/>Look out for Miss Cheetah Walks and experiences, interpretation talks, beach games for families, food and barbeque at Uwec’s restaurant. Entrance is Shs10, 000 for adults and Shs5, 000. There are family packages at Shs250,000. They have two bedrooms, a kitchen and two bathrooms. There are double rooms at Shs90, 000 and singles at Shs70, 000, which caters for bed and breakfast</p></div><!--Ads and Related Buttons-->
+                <!-- Ads minus related Buttons -->
+              <div><p/><p><strong>Jinja Nile Resort </strong><br/>Take an adventure trip to Jinja Nile Resort this festive season where you find a  Christmas Package and a children’s party. Single occupancy at the facility that has the view of River Nile goes for Shs375, 000, double occupancy for Shs425, 000 and triple occupancy is Shs475, 000. Children between six and 12 years, sharing with parents, pay Shs50, 000 each. Lunch and dinner will cost you an extra Shs50, 000. On Christmas day, breakfast will be served between 6am and 10am. There will be traditional dances by Ndere Troupe, between 10pm and midnight. While you are entertained, there will be traditional buffet for you to serve yourself. </p></div><!--Ads and Related Buttons-->
+                <!-- Ads minus related Buttons -->
+              <div><p/><p><strong>Igongo Cultural Centre </strong><br/>Igongo Cultural Centre Biharwe in Mbarara has a special Xmas offer. You can stay over, or classic and deluxe rooms, you will part with Shs300, 000 for single occupancy Shs350, 000 for double occupancy. Executive rooms go for Shs350, 000 for single occupancy and Shs400, 000 for double occupancy. Suites go for Shs400, 000 and Shs500, 000 for double occupancy. Igongo is home to  recreational activities and gardens for your relaxation. There is an art and crafts centre and a  cultural museum where you can learn a lot about Ugandan culture and history. </p></div><!--Ads and Related Buttons-->
+                <!-- Ads minus related Buttons -->
+              <div><p/><p><strong>Uganda Lodges </strong><br/>You have a chance to pay for your holiday in installments thanks to Uganda Lodges. They are in a campaign dubbed ‘Affordable Uganda Holiday; pay in installments, lifetime memories’. The deal is the payment should be received in 15 days before the arrival date. There are two holiday packages.<br/>Simba Safari Camp where you can go with family, explore the beauty and wonder of Uganda in the wild for two nights/three days self-drive. Accommodation, game drives, boat cruise on the popular Kazinga Channel where you get to watch birds, hippos, elephants, lions will be within the package of Shs1.85m  for four people. <br/>Budongo Eco Lodge in Murchison Falls National Park  for three days and two nights. You will be transported in a four wheel drive mini-van, stay in shared dormitory rooms with private beds, meals and complimentary drinks and other beverages. There are thrilling on-foot adventures as well as in vehicles and on a boat. You will part with Shs348,000 as an individual.  </p></div><!--Ads and Related Buttons-->
+                <!-- Ads minus related Buttons -->
+              <div><p/><p><strong>Brovad Sands Lodge</strong><br/>It is never too early or late to start planning your Christmas night out at Brovad Sands Lodge in Kalangala, they are planning to make your Christmas party an occasion to remember.  Their programme is entailed in a three-nights event dubbed ‘Unique 3 night’s getaway offer’<br/>The offer starts on Christmas Eve, with a traditional Christmas Eve dinner, with accommodation therein. Then on Christmas Day, you will be served full continental breakfast, mouth–watering buffet for lunch which will be served  with a soft drink. For dessert, there will be Christmas cake-cutting. There are various activities lined-up, including swimming in the pool, taking a guided forest walk, boat ride and later on in the evening, you will be served tea as you listen and enjoy live band entertainment by a campfire. There will be mouth-watering nyama choma and other bites for you as you take tea or beer. Rates are $100 per person. </p></div><!--Ads and Related Buttons-->
+                <!-- Ads minus related Buttons -->
+              <div><p/><p><strong>Pakuba Safari Lodge </strong><br/>You can choose to make this festive season a memorable one by spending it in the wild. Pakuba is located in Murchison Falls National Park so you can take excursions while there. This is home to a number of animals, including the giraffes, hyenas, elephants, primates and open savannah grasslands. There is a Christmas offer. For three days and two days package, each of two persons sharing will part with US$424 while three people sharing will each pay US$332.<br/>The package includes transport to and from Murchison Falls National Park, with a 4x4, three-guided game drives, accommodation, lunch buffet, dinner buffet and a soft drink per meal.</p></div><!--Ads and Related Buttons-->
+                <!-- Ads minus related Buttons -->
+              <div><p/><p><strong>Munyonyo Commonwealth Resort </strong><br/>Christmas began early at Munyonyo Commonwealth Resort. They have an on-going ‘Festive Season Special Package’ that started on December, 10. You can check in and stay at the facility this festive season. Single deluxe rooms for a person goes for $139, full board which entitles you to breakfast, lunch and dinner, though no drinks. For the amount you also get a 30-minutes boat ride and 10 minutes pony ride for children. You can also access the swimming pool, gymnasium, steam and sauna. Double deluxe rooms for two guests go for $188 which entitles you to the same amenities. </p></div><!--Ads and Related Buttons-->
+                <!-- Ads minus related Buttons -->
+              <div><p/><p><strong>Wild waters lodge</strong><br/>White water rafting might be ideal this festive season. Adrift  is organising a full-day rafting sessions for foreigners at $125, while half-day rafting will cost US$115. Uganda citizens can enjoy a full day rafting session at Shs150, 000 and half day at Shs100, 000, and if you prefer to bungee jump, you will pay Shs100, 000. If you are staying the night, there are safari tents for US$40 for two people or wooden chalets US$50 for two people. Budget US$45 
+1ff8
+for a DVD of your photos. There is more you can indulge in. check out their website or Facebook page.</p></div><!--Ads and Related Buttons-->
+                <!-- Ads minus related Buttons -->
+              <div><p/><p><strong>Fairway Hotel </strong><br/>Two restaurants will be open for your indulgence this Christmas; Tree Top Restaurants and Asian Fusion Restaurant. They will be open for breakfast, lunch and dinner, offering continental and authentic Indian and Chinese cuisine at affordable prices. In the evening, there will be live music performed by a band, starting at 7.30pm. There will be a 10 per cent discount on accommodation. While there, you can visit Ice Lounge where you can enjoy a cocktail and Long Island Iced Tea - a perfect mixture of white rum, triple sec, vodka, tequila, lime juice and coke. On the restaurant side, the price of A’lacarte items off the menu range from Shs17, 500 to Shs35, 000, which can buy you whole fish. You can choose to check into standard rooms. There is a Christmas special discount where standard rooms go for $105, and executive rooms at $149. There are additional discounts available for guests staying seven days and above. The rates are inclusive of a full breakfast, VAT, hotel taxes, complimentary WiFi and access to the pool and gym. </p></div><!--Ads and Related Buttons-->
+                <!-- Ads minus related Buttons -->
+              <div><p/><p><strong>Byoona Amagara Island Retreat</strong><br/>A traveller’s paradise located at Lake Bunyonyi in the southwest of Uganda, it is at the heart of the stunning and serene island-studded lake. It caters for independent and budget travellers looking for relaxation, gorgeous views, unique accommodation and delicious food at the most affordable prices. While tranquillity and relaxation in a beautiful island setting is a main attraction, there is island-hopping by canoe, are other activities such as trekking through the hills and villages around the lake, bird watching the 150 species and hiking at the island itself. You will not be at a loss for a pleasurable activity when you are ready.</p></div><!--Ads and Related Buttons-->
+                <!-- Ads minus related Buttons -->
+              </p>
+    <div class="clear"></div>
+    </div>
+
+
+
+    <div style="margin:5px,10px; ">
+            <div class="clear"></div>
+            <analytics:objectcontext object="com.coremedia.mauritius.cae.contentbeans.MauAdLocationImpl$$[id=1371300]" logView="true">
+        <analytics:objectcontext object="com.coremedia.mauritius.cae.contentbeans.MauAdvertisementImpl$$[id=1187330]" logView="true">
+    <analytics:namecontext name="ad_Google" logView="true">
+        <!-- google_ad_section_start -->
+                    
+
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-0846142691248784";
+/* Monitor-468x60 */
+google_ad_slot = "1206182293";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script><!-- google_ad_section_end -->
+                </analytics:namecontext>
+</analytics:objectcontext>
+</analytics:objectcontext>
+</div>
+    <br />
+    <a id="commentsAnchor"></a>
+    <div class="subcolumns" id="article_comments">
+            <div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'dailymonitor'; // required: replace example with your forum shortname
+
+
+                var strReplaceAll = "Where to go and what to do this festive season";
+		var intIndexOfMatch = strReplaceAll.indexOf( "'" );
+		 
+
+		while (intIndexOfMatch != -1){
+		// Relace out the current instance.
+		strReplaceAll = strReplaceAll.replace( "'", "" )
+		 
+		// Get the index of any next matching substring.
+		intIndexOfMatch = strReplaceAll.indexOf( "'" );
+		}
+	
+	         
+	var disqus_identifier=strReplaceAll;
+	var disqus_developer = 0; // developer mode is off
+	var disqus_url='http://www.monitor.co.ug/Magazines/Life/Where-to-go-and-what-to-do-this-festive-season/-/689856/3002744/-/2krjes/-/index.html';
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script></div>
+    <!-- End Content + Sidebar -->
+
+</div>
+                        </div>
+                    </div>
+                    <!-- Sidebar -->
+<div class="c35r">
+  <!-- MPU Ad -->
+<div class="mpuad">
+    <!-- End MPU Ad -->
+    <analytics:objectcontext object="com.coremedia.mauritius.cae.contentbeans.MauAdLocationImpl$$[id=915582]" logView="true">
+        <analytics:objectcontext object="com.coremedia.mauritius.cae.contentbeans.MauAdvertisementImpl$$[id=2545570]" logView="true">
+    <analytics:namecontext name="ad_" logView="true">
+        <!-- google_ad_section_start -->
+                    
+
+<script type='text/javascript' src='http://partner.googleadservices.com/gampad/google_service.js'>
+</script>
+<script type='text/javascript'>
+GS_googleAddAdSenseService("ca-pub-0846142691248784");
+GS_googleEnableAllServices();
+</script>
+<script type='text/javascript'>
+GA_googleAddSlot("ca-pub-0846142691248784", "mpl-content_TSq_300X250");
+</script>
+<script type='text/javascript'>
+GA_googleFetchAds();
+</script>
+
+<!-- mpl-content_TSq_300X250 -->
+<script type='text/javascript'>
+GA_googleFillSlot("mpl-content_TSq_300X250");
+</script> <!-- google_ad_section_end -->
+                </analytics:namecontext>
+</analytics:objectcontext>
+</analytics:objectcontext>
+</div>
+<!-- End MPU Ad --><!-- Latest News -->
+<div class="newstabs">
+  <div class="newslistcontainer">
+    <ul class="paneltabs">
+      <li><a href="javascript:void(0);" class="selected">LATEST UPDATES</a></li>
+    </ul>
+    <ul class="newslist">
+      <li><a  href="/News/World/Kagame-backs-Museveni-fifth-term/-/688340/3006964/-/jirfwcz/-/index.html">Kagame backs Museveni fifth term</a></li>
+      <li><a  href="/News/National/Mbabazi-unveils-national-campaign-task-force/-/688334/3006336/-/9plfghz/-/index.html">FULL LIST: Mbabazi unveils national campaign task force</a></li>
+      <li><a  href="/News/National/Egypt-research-Uganda-s-dangerous-new-water-weed/-/688334/3006260/-/jsvw73/-/index.html">Egypt in research on Uganda’s dangerous new water weed</a></li>
+      <li><a  href="/News/National/Government-blocks-Kijanangoma-coronation-as-Tooro-king/-/688334/3006148/-/bl53c6/-/index.html">Government blocks Kijjanangoma coronation as Tooro king</a></li>
+      <li><a  href="/News/National/World-Bank-pulls-funding-Uganda-transport-project/-/688334/3005992/-/do3r9y/-/index.html">World Bank cancels funding for Uganda transport project</a></li>
+      <li><a  href="/News/World/Kagame-praises-vote-allowing-extra-terms/-/688340/3005850/-/16b77dz/-/index.html">Kagame praises vote allowing him extra terms</a></li>
+      <li><a  href="/News/World/Burundi-parliament-slams--invasion--AU-peacekeeper-force/-/688340/3005840/-/cimgptz/-/index.html">Burundi rejects AU peacekeeper force</a></li>
+      <li><a  href="/News/World/CAR-votes-for-constitutional-change-to-limit-presidential-terms/-/688340/3005816/-/i0k8wi/-/index.html">CAR votes for constitutional change</a></li>
+      <li><a  href="/News/National/Health-minister-in-Busia-to-assess-cholera-outbreak/-/688334/3005308/-/7b3pa9/-/index.html">Health minister in Busia to assess cholera outbreak</a></li>
+      <li><a  href="/News/National/Government-stops-Baganda-Bus-Park-evictions/-/688334/3005392/-/104m3nfz/-/index.html">Government stops Baganda Bus Park evictions</a></li>
+      </ul>
+  </div>
+</div><!-- MPU Ad -->
+<div class="mpuad">
+    <!-- End MPU Ad -->
+    <analytics:objectcontext object="com.coremedia.mauritius.cae.contentbeans.MauAdLocationImpl$$[id=2082736]" logView="true">
+        <analytics:objectcontext object="com.coremedia.mauritius.cae.contentbeans.MauAdvertis
+1ff8
+ementImpl$$[id=2643722]" logView="true">
+    <analytics:namecontext name="ad_Pepsi" logView="true">
+        <!-- google_ad_section_start -->
+                    
+
+<script type='text/javascript' src='http://partner.googleadservices.com/gampad/google_service.js'>
+</script>
+<script type='text/javascript'>
+GS_googleAddAdSenseService("ca-pub-0846142691248784");
+GS_googleEnableAllServices();
+</script>
+<script type='text/javascript'>
+GA_googleAddSlot("ca-pub-0846142691248784", "MPL_content_MSq_300x250");
+</script>
+<script type='text/javascript'>
+GA_googleFetchAds();
+</script>
+
+<!-- MPL_content_MSq_300x250 -->
+<script type='text/javascript'>
+GA_googleFillSlot("MPL_content_MSq_300x250");
+</script><!-- google_ad_section_end -->
+                </analytics:namecontext>
+</analytics:objectcontext>
+</analytics:objectcontext>
+</div>
+<!-- End MPU Ad --><!-- MPU Ad -->
+<div class="mpuad">
+    <!-- End MPU Ad -->
+    <analytics:objectcontext object="com.coremedia.mauritius.cae.contentbeans.MauAdLocationImpl$$[id=2009780]" logView="true">
+        <analytics:objectcontext object="com.coremedia.mauritius.cae.contentbeans.MauAdvertisementImpl$$[id=2770282]" logView="true">
+    <analytics:namecontext name="ad_YAMAGIN" logView="true">
+        <a href="http://www.yamagin.net/" target="_blank"><!-- google_ad_section_start -->
+                            <img 
+        src="/image/view/-/2770280/medRes/1155360/-/maxh/250/maxw/300/-/onnakuz/-/yamagin300x250.gif"
+    alt="YAMAGIN"/>
+  <!-- google_ad_section_end -->
+                        </a>
+                </analytics:namecontext>
+</analytics:objectcontext>
+</analytics:objectcontext>
+</div>
+<!-- End MPU Ad --><!-- MPU Ad -->
+<div class="mpuad">
+    <!-- End MPU Ad -->
+    <analytics:objectcontext object="com.coremedia.mauritius.cae.contentbeans.MauAdLocationImpl$$[id=1844752]" logView="true">
+        <analytics:objectcontext object="com.coremedia.mauritius.cae.contentbeans.MauAdvertisementImpl$$[id=2776802]" logView="true">
+    <analytics:namecontext name="ad_BetWay" logView="true">
+        <a href="http://www.betway.ug/btag-P54296-PR408-CM19822-TS85300/" target="_blank"><!-- google_ad_section_start -->
+                            <img 
+        src="/image/view/-/2776780/medRes/1198415/-/maxh/250/maxw/300/-/jdxdtg/-/carfromjapan300x250.gif"
+    alt="BetWay"/>
+  <!-- google_ad_section_end -->
+                        </a>
+                </analytics:namecontext>
+</analytics:objectcontext>
+</analytics:objectcontext>
+</div>
+<!-- End MPU Ad --><!-- MPU Ad -->
+<div class="mpuad">
+    <!-- End MPU Ad -->
+    <analytics:objectcontext object="com.coremedia.mauritius.cae.contentbeans.MauAdLocationImpl$$[id=1379198]" logView="true">
+        <analytics:objectcontext object="com.coremedia.mauritius.cae.contentbeans.MauAdvertisementImpl$$[id=1644146]" logView="true">
+    <analytics:namecontext name="ad_Advert" logView="true">
+        <!-- google_ad_section_start -->
+                    
+
+<script type='text/javascript' src='http://partner.googleadservices.com/gampad/google_service.js'>
+</script>
+<script type='text/javascript'>
+GS_googleAddAdSenseService("ca-pub-0846142691248784");
+GS_googleEnableAllServices();
+</script>
+<script type='text/javascript'>
+GA_googleAddSlot("ca-pub-0846142691248784", "Monitor-Home_TSq_300X2502");
+</script>
+<script type='text/javascript'>
+GA_googleFetchAds();
+</script>
+<!-- Monitor-Home_TSq_300X2502 -->
+<script type='text/javascript'>
+GA_googleFillSlot("Monitor-Home_TSq_300X2502");
+</script><!-- google_ad_section_end -->
+                </analytics:namecontext>
+</analytics:objectcontext>
+</analytics:objectcontext>
+</div>
+<!-- End MPU Ad --><!-- MPU Ad -->
+<div class="mpuad">
+    <!-- End MPU Ad -->
+    <analytics:objectcontext object="com.coremedia.mauritius.cae.contentbeans.MauAdLocationImpl$$[id=1379200]" logView="true">
+        <analytics:objectcontext object="com.coremedia.mauritius.cae.contentbeans.MauAdvertisementImpl$$[id=1369948]" logView="true">
+    <analytics:namecontext name="ad_worldremit" logView="true">
+        <!-- google_ad_section_start -->
+                    
+
+<script type='text/javascript' src='http://partner.googleadservices.com/gampad/google_service.js'>
+</script>
+<script type='text/javascript'>
+GS_googleAddAdSenseService("ca-pub-0846142691248784");
+GS_googleEnableAllServices();
+</script>
+<script type='text/javascript'>
+GA_googleAddSlot("ca-pub-0846142691248784", "mpl_news_LSq_300x250_2");
+</script>
+<script type='text/javascript'>
+GA_googleFetchAds();
+</script>
+
+<!-- mpl_news_LSq_300x250_2 -->
+<script type='text/javascript'>
+GA_googleFillSlot("mpl_news_LSq_300x250_2");
+</script><!-- google_ad_section_end -->
+                </analytics:namecontext>
+</analytics:objectcontext>
+</analytics:objectcontext>
+</div>
+<!-- End MPU Ad --><!-- MPU Ad -->
+<div class="mpuad">
+    <!-- End MPU Ad -->
+    <analytics:objectcontext object="com.coremedia.mauritius.cae.contentbeans.MauAdLocationImpl$$[id=1224366]" logView="true">
+        <analytics:objectcontext object="com.coremedia.mauritius.cae.contentbeans.MauAdvertisementImpl$$[id=1397878]" logView="true">
+    <analytics:namecontext name="ad_synergypartners" logView="true">
+        <a href="http://synergypartners.co.ug/" target="_blank"><!-- google_ad_section_start -->
+                            <img 
+        src="/image/view/-/1397880/medRes/1208955/-/maxh/250/maxw/300/-/iy3ia8z/-/synergypartners300X250.gif"
+    alt="synergypartners"/>
+  <!-- google_ad_section_end -->
+                        </a>
+                </analytics:namecontext>
+</analytics:objectcontext>
+</analytics:objectcontext>
+</div>
+<!-- End MPU Ad --><!-- MPU Ad -->
+<div class="mpuad">
+    <!-- End MPU Ad -->
+    <analytics:objectcontext object="com.coremedia.mauritius.cae.contentbeans.MauAdLocationImpl$$[id=2247660]" logView="true">
+        <analytics:objectcontext object="com.coremedia.mauritius.cae.contentbeans.MauAdvertisementImpl$$[id=2838188]" logView="true">
+    <analytics:namecontext name="ad_ms" logView="true">
+        <a href="http://web.monitor.co.ug/brochures/misw16112015.pdf" target="_blank"><!-- google_ad_section_start -->
+                            <img 
+        src="/image/view/-/1922916/medRes/1208954/-/maxh/250/maxw/300/-/me3wyx/-/taata300x250.jpg"
+    alt="taata"/>
+  <!-- google_ad_section_end -->
+                        </a>
+                </analytics:namecontext>
+</analytics:objectcontext>
+</analytics:objectcontext>
+</div>
+<!-- End MPU Ad --></div><div class="fb-recommendations-bar" data-href="/Magazines/Life/Where-to-go-and-what-to-do-this-festive-season/-/689856/3002744/-/2krjes/-/index.html" data-action="recommend"></div>
+                </div>
+                <div class="subcolumns leaderboardad">
+    <div class="subcolumns leaderboardad">
+    <analytics:objectcontext object="com.coremedia.mauritius.cae.contentbeans.MauAdLocationImpl$$[id=688514]" logView="true">
+        <analytics:objectcontext object="com.coremedia.mauritius.cae.contentbeans.MauAdvertisementImpl$$[id=1441984]" logView="true">
+    <analytics:namecontext name="ad_Monitor-Home_728x90-footer" logView="true">
+        <!-- google_ad_section_start -->
+                    
+
+<script type='text/javascript' src='http://partner.googleadservices.com/gampad/google_service.js'>
+</script>
+<script type='text/javascript'>
+GS_googleAddAdSenseService("ca-pub-0846142691248784");
+GS_googleEnableAllServices();
+</script>
+<script type='text/javascript'>
+GA_googleAddSlot("ca-pub-0846142691248784", "Monitor-Home_728x90-footer");
+</script>
+<script type='text/javascript'>
+GA_googleFetchAds();
+</script>
+
+
+
+<!-- Monitor-Home_728x90-footer -->
+<script type='text/javascript'>
+GA_googleFillSlot("Monitor-Home_728x90-footer");
+</script><!-- google_ad_section_end -->
+                </analytics:namecontext>
+</analytics:objectcontext>
+</analytics:objectcontext>
+</div>                                </div>                                </div>
+            <!-- begin: #footer -->
+<div id="footer">
+  <div id="footer_content">
+				<span>
+  <a href="http://www.monitor.co.ug/meta/about-us/-/691198/691168/-/1159r8wz/-/index.html" target="_blank">
+        About us</a>
+<a hr
+7cf
+ef="/external/863746?url=http%253A%252F%252Fwww.africareview.com%252F" target="_blank">
+        Africa Review</a>
+<a href="/external/691154?url=http%253A%252F%252Fwww.nationmedia.com%252F" target="_blank">
+        Nation Media Group</a>
+<a href="/external/943550?url=http%253A%252F%252Fwww.ntv.co.ug%252F" target="_blank">
+        NTV Uganda</a>
+<a href="/external/691164?url=http%253A%252F%252Fwww.mwananchi.co.tz" target="_blank">
+        Mwananchi</a>
+<a href="/external/691178?url=http%253A%252F%252Fugwebmail.ug.nationmedia.com%253A9090%252Fowa" target="_blank">
+        Web Mail</a>
+<a href="/external/691180?url=%2523" target="_blank">
+        Subscriptions</a>
+<a href="/external/691182?url=http%253A%252F%252Fmobile.monitor.co.ug" target="_blank">
+        Monitor Mobile</a>
+<a href="http://www.monitor.co.ug/meta/contact/-/691198/691184/-/119244sz/-/index.html" target="_blank">
+        Contact us</a>
+<a href="http://www.monitor.co.ug/meta/-/691198/691186/-/516mt7z/-/index.html" target="_blank">
+        Advertise with Us</a>
+<a href="http://www.monitor.co.ug/meta/-/691198/691176/-/516mu3z/-/index.html" target="_blank">
+        Terms of Use</a>
+</span>
+    <span>
+            <a  href="/Magazines/Life/Where-to-go-and-what-to-do-this-festive-season/-/689856/3002744/-/view/asFeed/-/ufmaaa/-/index.xml"><img 
+        src="/image/view/-/688194/lowRes/733/-/sjrle4z/-/rss.jpg"
+    alt=""/>
+  RSS</a></span>
+  </div>
+</div>
+<!-- end: #footer --></analytics:pagecontext>  </div>
+    </div>
+</div>
+<script type="text/javascript">
+      var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+      document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+      var pageTracker = _gat._getTracker(UA-12497552-1);
+      pageTracker._initData();
+      pageTracker._trackPageview();
+    </script>
+    </body>
+</html>
+0
+
+
+
+WARC/1.0
+WARC-Type: resource
+WARC-Record-ID: <urn:uuid:ccaf8fdb-b6e1-48d7-ab58-bc2085da4c0d>
+WARC-Warcinfo-ID: <urn:uuid:917d3940-47d1-4445-8798-734456845d87>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/MANIFEST.txt
+WARC-Date: 2015-12-22T22:34:36Z
+Content-Type: text/plain
+Content-Length: 48
+
+<urn:uuid:917d3940-47d1-4445-8798-734456845d87>
+
+
+WARC/1.0
+WARC-Type: resource
+WARC-Record-ID: <urn:uuid:ccaf8fdb-b6e1-48d7-ab58-bc2085da4c0d>
+WARC-Warcinfo-ID: <urn:uuid:917d3940-47d1-4445-8798-734456845d87>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/wget_arguments.txt
+WARC-Date: 2015-12-22T22:34:36Z
+Content-Type: text/plain
+Content-Length: 279
+
+"--warc-file" "Where-to-go-and-what-to-do-this-festive-season" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "-q" "-O" "/dev/null" "http://www.monitor.co.ug/Magazines/Life/Where-to-go-and-what-to-do-this-festive-season/-/689856/3002744/-/2krjes/-/index.html" 
+
+

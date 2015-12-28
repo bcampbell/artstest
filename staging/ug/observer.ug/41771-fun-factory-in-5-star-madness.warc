@@ -1,0 +1,680 @@
+WARC/1.0
+WARC-Type: warcinfo
+Content-Type: application/warc-fields
+WARC-Date: 2015-12-22T23:04:07Z
+WARC-Record-ID: <urn:uuid:5a593686-2a0c-42f2-83fd-8c4ca7488044>
+WARC-Filename: 41771-fun-factory-in-5-star-madness.warc
+Content-Length: 392
+
+software: Wget/1.13.4-2608 (linux-gnu)
+format: WARC File Format 1.0
+conformsTo: http://bibnum.bnf.fr/WARC/WARC_ISO_28500_version1_latestdraft.pdf
+robots: classic
+wget-arguments: "--warc-file" "41771-fun-factory-in-5-star-madness" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "-q" "-O" "/dev/null" "http://observer.ug/lifestyle/41771-fun-factory-in-5-star-madness" 
+
+
+
+WARC/1.0
+WARC-Type: request
+WARC-Target-URI: http://observer.ug/lifestyle/41771-fun-factory-in-5-star-madness
+Content-Type: application/http;msgtype=request
+WARC-Date: 2015-12-22T23:04:07Z
+WARC-Record-ID: <urn:uuid:cd58d19d-ba3d-4704-b02e-16d65edd8388>
+WARC-IP-Address: 184.154.145.82
+WARC-Warcinfo-ID: <urn:uuid:5a593686-2a0c-42f2-83fd-8c4ca7488044>
+Content-Length: 161
+
+GET /lifestyle/41771-fun-factory-in-5-star-madness HTTP/1.1
+User-Agent: Wget/1.13.4-2608 (linux-gnu)
+Accept: */*
+Host: observer.ug
+Connection: Keep-Alive
+
+
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <urn:uuid:3e0b97b0-f5c9-49aa-bd7e-8e309a2a6c1e>
+WARC-Warcinfo-ID: <urn:uuid:5a593686-2a0c-42f2-83fd-8c4ca7488044>
+WARC-Concurrent-To: <urn:uuid:cd58d19d-ba3d-4704-b02e-16d65edd8388>
+WARC-Target-URI: http://observer.ug/lifestyle/41771-fun-factory-in-5-star-madness
+WARC-Date: 2015-12-22T23:04:07Z
+WARC-IP-Address: 184.154.145.82
+Content-Type: application/http;msgtype=response
+Content-Length: 34448
+
+HTTP/1.1 200 OK
+Date: Tue, 22 Dec 2015 23:10:27 GMT
+Server: Apache/2.2.24 (Unix) mod_hive/5.0 mod_ssl/2.2.24 OpenSSL/1.0.0-fips mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+P3P: CP="NOI ADM DEV PSAi COM NAV OUR OTRo STP IND DEM"
+Expires: Mon, 1 Jan 2001 00:00:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: 2a475613a3300c9a9bf68dfb68c5f474=f4vq5ukjtprjfspo40dgbjpfc7; path=/; HttpOnly
+Last-Modified: Tue, 22 Dec 2015 23:10:27 GMT
+Host-Header: 192fc2e7e50945beb8231a492d6a8024
+Host-Header: 192fc2e7e50945beb8231a492d6a8024
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+
+839a
+<!DOCTYPE html>
+<!-- jsn_solid_pro 2.0.2 -->
+<html lang="en-gb" dir="ltr">
+<head>
+	  <base href="http://observer.ug/lifestyle/41771-fun-factory-in-5-star-madness" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="keywords" content="comedy, theatre factory" />
+  <meta name="author" content="Andrew Kaggwa" />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>Fun Factory in 5-star madness</title>
+  <link href="/component/jcomments/feed/com_content/41771" rel="alternate" type="application/rss+xml" title="Fun Factory in 5-star madness" />
+  <link href="/templates/jsn_solid_pro/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="/components/com_jcomments/tpl/default/style.css?v=3002" type="text/css" />
+  <link rel="stylesheet" href="http://observer.ug/plugins/content/fastsocialshare/style/style.css" type="text/css" />
+  <link rel="stylesheet" href="/media/jui/css/bootstrap.min.css" type="text/css" />
+  <link rel="stylesheet" href="/media/jui/css/bootstrap-responsive.min.css" type="text/css" />
+  <link rel="stylesheet" href="/media/jui/css/bootstrap-extended.css" type="text/css" />
+  <link rel="stylesheet" href="/plugins/system/jsntplframework/assets/3rd-party/bootstrap/css/bootstrap-frontend.min.css" type="text/css" />
+  <link rel="stylesheet" href="/plugins/system/jsntplframework/assets/3rd-party/bootstrap/css/bootstrap-responsive-frontend.min.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/jsn_solid_pro/css/print.css" type="text/css" media="Print" />
+  <link rel="stylesheet" href="/templates/system/css/system.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/system/css/general.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/jsn_solid_pro/css/template.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/jsn_solid_pro/css/template_pro.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/jsn_solid_pro/css/colors/blue.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/jsn_solid_pro/css/styles/business.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/jsn_solid_pro/css/layouts/jsn_mobile.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/jsn_solid_pro/css/observer.css" type="text/css" />
+  <link rel="stylesheet" href="/media/system/css/modal.css" type="text/css" />
+  <link rel="stylesheet" href="http://observer.ug/modules/mod_news_pro_gk5/interface/css/style.css" type="text/css" />
+  <link rel="stylesheet" href="http://observer.ug/modules/mod_socialmedialinksgenius/style.css" type="text/css" />
+  <style type="text/css">
+	div.jsn-modulecontainer ul.menu-mainmenu ul,
+	div.jsn-modulecontainer ul.menu-mainmenu ul li {
+		width: 200px;
+	}
+	div.jsn-modulecontainer ul.menu-mainmenu ul ul {
+		margin-left: 199px;
+	}
+	#jsn-pos-toolbar div.jsn-modulecontainer ul.menu-mainmenu ul ul {
+		margin-right: 199px;
+		margin-left : auto
+	}
+	div.jsn-modulecontainer ul.menu-sidemenu ul,
+	div.jsn-modulecontainer ul.menu-sidemenu ul li {
+		width: 200px;
+	}
+	div.jsn-modulecontainer ul.menu-sidemenu li ul {
+		right: -200px;
+	}
+	body.jsn-direction-rtl div.jsn-modulecontainer ul.menu-sidemenu li ul {
+		left: -200px;
+		right: auto;
+	}
+	div.jsn-modulecontainer ul.menu-sidemenu ul ul {
+		margin-left: 201px;
+	}
+	#jsn-mobileswitch {
+		position: absolute;
+		right: 10px;
+		top: -30px;
+	}
+  </style>
+  <script src="/components/com_jcomments/js/jcomments-v2.3.js?v=12" type="text/javascript"></script>
+  <script src="/components/com_jcomments/libraries/joomlatune/ajax.js?v=4" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+  <script src="/media/jui/js/bootstrap.min.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="/plugins/system/jsntplframework/assets/joomlashine/js/noconflict.js" type="text/javascript"></script>
+  <script src="/plugins/system/jsntplframework/assets/joomlashine/js/utils.js" type="text/javascript"></script>
+  <script src="/templates/jsn_solid_pro/js/jsn_template.js" type="text/javascript"></script>
+  <script src="/media/system/js/modal.js" type="text/javascript"></script>
+  <script src="http://observer.ug/modules/mod_news_pro_gk5/interface/scripts/engine.mootools.js" type="text/javascript"></script>
+  <script type="text/javascript">
+(function($){
+				$('.dropdown-toggle').dropdown();
+				})(jQuery);jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});
+				JSNTemplate.initTemplate({
+					templatePrefix			: "jsn_solid_pro_",
+					templatePath			: "/templates/jsn_solid_pro",
+					enableRTL				: 0,
+					enableGotopLink			: 0,
+					enableMobile			: 1,
+					enableMobileMenuSticky	: 1,
+					enableDesktopMenuSticky	: 0,
+					responsiveLayout		: ["mobile"]
+				});
+			
+		jQuery(function($) {
+			SqueezeBox.initialize({});
+			SqueezeBox.assign($('a.modal').get(), {
+				parse: 'rel'
+			});
+		});
+		function jModalClose() {
+			SqueezeBox.close();
+		}  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function() {
+    var gads = document.createElement('script');
+    gads.async = true;
+    gads.type = 'text/javascript';
+    var useSSL = 'https:' == document.location.protocol;
+    gads.src = (useSSL ? 'https:' : 'http:') +
+      '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/1002759/Observer_728x90', [728, 90], 'div-gpt-ad-1431940415278-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+  </script>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+	<!-- html5.js and respond.min.js for IE less than 9 -->
+	<!--[if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+		<script src="/plugins/system/jsntplframework/assets/3rd-party/respond/respond.min.js"></script>
+	<![endif]-->
+	</head>
+<body id="jsn-master" class="jsn-textstyle-business jsn-color-blue jsn-direction-ltr jsn-responsive jsn-mobile jsn-joomla-30  jsn-com-content jsn-view-article jsn-itemid-70">
+<div id="jsn-master_inner">
+	<a name="top" id="top"></a>
+		<div id="jsn-page" class="container">
+			<div id="jsn-pos-stick-righttop">
+			<div class=" jsn-modulecontainer"><div class="jsn-modulecontainer_inner"><div class="jsn-modulecontent"><div class="bannergroup">
+
+	<div class="banneritem">
+																																																															<a
+							href="/component/banners/click/54" target="_blank"
+							title="Victoria">
+							<img
+								src="http://observer.ug/images/banners/Victoria-Float-160x600.gif"
+								alt="Victoria"
+								width ="150"															/>
+						</a>
+																<div class="clr"></div>
+	</div>
+
+</div>
+</div></div></div>
+		</div>
+			<div id="jsn-header" class="row-fluid">
+			<div id="jsn-logo" class="pull-left">
+			<a href="/index.php" title="The Observer - Taking You Deeper"><img src="/templates/jsn_solid_pro/images/colors/blue/logo.png" alt="The Observer - Taking You Deeper" id="jsn-logo-desktop" /></a>			</div>
+			<div id="jsn-headerright" class="pull-right">
+							<div id="jsn-pos-top" class="pull-left">
+					<div class=" jsn-modulecontainer"><div class="jsn-modulecontainer_inner"><div class="jsn-modulecontent"><div class="bannergroup">
+
+	<div class="banneritem">
+										<!-- /1002759/Observer_728x90 -->
+<div class='hidden-phone'>
+<div id='div-gpt-ad-1431940415278-0' style='height:90px; width:728px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1431940415278-0'); });
+</script>
+</div>
+</div>				<div class="clr"></div>
+	</div>
+
+</div>
+</div></div></div>
+					<div class="clearbreak"></div>
+				</div>
+						</div>
+		</div>
+					<div id="jsn-menu"><div id="jsn-menu_inner"><div id="jsn-menu_inner1">
+							<div id="jsn-pos-mainmenu">
+					<div class=" jsn-modulecontainer"><div class="jsn-modulecontainer_inner"><div class="jsn-modulecontent"><span class="jsn-menu-toggle">Menu</span>
+<ul class="menu-mainmenu menu-iconmenu menu-richmenu">
+<li  class="first jsn-icon-home"><a class="jsn-nodescription" href="/" >
+	<span>
+		News	</span>
+</a></li><li ><a class="jsn-nodescription" href="/business" >
+	<span>
+		Business	</span>
+</a></li><li ><a class="jsn-nodescription" href="/education" >
+	<span>
+		Education	</span>
+</a></li><li  class="current active parent"><a class="jsn-nodescription current" href="/lifestyle" >
+	<span>
+		Lifestyle	</span>
+</a><span class="jsn-menu-toggle"></span><ul><li  class="first"><a class="jsn-nodescription" href="/lifestyle/sizzling-faith" >
+	<span>
+		Sizzling Faith	</span>
+</a></li><li ><a class="jsn-nodescription" href="/lifestyle/humour-sp-683169036" >
+	<span>
+		Pablo Humour	</span>
+</a></li><li ><a class="jsn-nodescription" href="/lifestyle/star-strail" >
+	<span>
+		Star Trail	</span>
+</a></li><li ><a class="jsn-nodescription" href="/lifestyle/relationships" >
+	<span>
+		Relationships	</span>
+</a></li><li ><a class="jsn-nodescription" href="/lifestyle/health" >
+	<span>
+		Health & Living	</span>
+</a></li><li ><a class="jsn-nodescription" href="/lifestyle/books-a-art" >
+	<span>
+		Books & Art	</span>
+</a></li><li  class="last"><a class="jsn-nodescription" href="/lifestyle/sex-talk" >
+	<span>
+		SEX TALK	</span>
+</a></li></ul></li><li ><a class="jsn-nodescription" href="/viewpoint" >
+	<span>
+		View Point	</span>
+</a></li><li ><a class="jsn-nodescription" href="/sports" >
+	<span>
+		Sports	</span>
+</a></li><li ><a class="jsn-nodescription" href="/jobs-and-tenders-sp-618212673" >
+	<span>
+		Jobs & Tenders	</span>
+</a></li><li ><a class="jsn-nodescription" href="/search" >
+	<span>
+		Search	</span>
+</a></li><li ><a class="jsn-nodescription" href="/contact-us-sp-1905313726" >
+	<span>
+		Contacts	</span>
+</a></li><li  class="last"><a class="jsn-nodescription" href="/sign-in" >
+	<span>
+		Sign In	</span>
+</a></li></ul></div></div></div>
+				</div>
+										<div id="jsn-pos-toolbar">
+					<div class="obs-social jsn-modulecontainer"><div class="jsn-modulecontainer_inner"><div class="jsn-modulecontent"><div style=""><div class="bookmark" style="text-align: center "><div> <div style="float: left; z-index:1000;"><a rel="nofollow" href="https://www.facebook.com/ugandaobserver" target="_blank"><img style="opacity:1.0;
+filter:alpha(opacity=100); width: 32px; height: 32px; margin:2px;" src="http://observer.ug/modules/mod_socialmedialinksgenius/icons/facebook.png" alt="Facebook" title="Join us on Facebook" /></a></div><div style="float: left; z-index:1000;"><a rel="nofollow" href="https://www.twitter.com/observerug" target="_blank"><img style="opacity:1.0;
+filter:alpha(opacity=100); width: 32px; height: 32px; margin:2px;" src="http://observer.ug/modules/mod_socialmedialinksgenius/icons/twitter.png" alt="Twitter" title="Join us on Twitter" /></a></div><div style="clear: both;"></div></div></div></div>
+<div class="clr"></div></div></div></div>
+				</div>
+			            <div class="clearbreak"></div>
+			</div></div></div>
+				<div id="jsn-body">
+					<div id="jsn-content" class="jsn-hasright ">
+				<div id="jsn-content_inner" class="row-fluid">
+													<div id="jsn-maincontent" class="span8 order1  row-fluid">
+														<div id="jsn-centercol" class="span12 order1 ">
+															<div id="jsn-mainbody-content" class=" jsn-hasmainbody">
+																	<div id="jsn-mainbody">
+													<div id="system-message-container">
+	</div>
+
+													<div class="item-page">
+	
+		<div class="page-header">
+		<h2>
+															Fun Factory in 5-star madness									</h2>
+			
+												Written by Andrew Kaggwa				
+					</div>
+		<div class="jsn-article-toolbar">
+			<div class="article-info muted">
+			<dl class="article-info">
+			<dt class="article-info-term">Details</dt>
+
+						
+			
+																<dd class="create">
+						<span class="icon-calendar"></span> Created: 21 December 2015					</dd>
+				
+										</dl>
+		</div>
+							<div class="btn-group pull-right">
+				<a class="btn dropdown-toggle" data-toggle="dropdown" href="#"> <i class="icon-cog"></i> <span class="caret"></span> </a>
+								<ul class="dropdown-menu actions">
+											<li class="print-icon"> <a href="/lifestyle/41771-fun-factory-in-5-star-madness?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><span class="icon-print"></span>Print</a> </li>
+																<li class="email-icon"> <a href="/component/mailto/?tmpl=component&amp;template=jsn_solid_pro&amp;link=30c1ba89adb9183e6754ddd2341204191057556f" title="Email" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;" rel="nofollow"><span class="icon-envelope"></span>Email</a> </li>
+														</ul>
+			</div>
+					<div class="clearfix"></div>
+	</div>
+		
+								<p style="text-align: justify;">Comedy group Fun Factory wound up the year last Thursday in style, with a one hell of a “5-Star Madness” show at the Kampala Serena hotel.</p>
+<p style="text-align: justify;">It was the second time the group was holding what has become an annual production, which, according to one of the group’s directors Hannington Bugingo, is a highlight of the year’s performances, and also a preview of what the fans should expect the following year.</p>
+<p style="text-align: justify;">Much as comedy continues to deteriorate in terms of material content, it’s good to appreciate that this year, comedians have done their best to attract numbers, both in bars and auditoriums.</p>
+<figure><img src="/images/A-scene-from-comedy-madness.jpg" alt="" /><figcaption>A scene from 5-star madness</figcaption></figure>
+<p style="text-align: justify;">For instance, Fun Factory has sustained its weekly shows at the National theatre, and so have the mushrooming comedy outfits like Comedy Files. Fun Factory is mostly known for sketch comedy – where common life scenarios are given a comedy-twist, forcing the public to laugh at themselves or with the performers. <br />“5-Star Madness” wasn’t any different.</p>
+<p style="text-align: justify;">The group paraded some of the best sketch-works over the year and a few new ones, ensuring that they catered for both their regular patrons and guests who were seeing their craft for the first time.</p>
+<p style="text-align: justify;">According to Bugingo, each member of the group is a writer and, thus, the material showcased at Serena was a collective effort that brought all their different synergies together, allowing them to shine as a team, which was a good thing.</p>
+<figure><img src="/images/Candidates-Kizza-Besigye-Museveni-and-Mbabazi-engage-is-a-public-debate-.jpg" alt="" /><figcaption>L-R: Candidates ‘Kizza Besigye, Museveni and Mbabazi’ engage in a public debate</figcaption></figure>
+<p style="text-align: justify;">It was the kind of show that presented the ordinary side of Anne Kansiime away from her continental fame; a show where we got to appreciate the brilliance of Veronica Tindi both as a comedian and actress. Generally, the amount of teamwork showcased was over the top.</p>
+<p style="text-align: justify;">Unfortunately, though, they could have probably failed to guide themselves while putting the whole thing together. For instance, they were terrible at minimizing the number of skits they showcased, and, thus, prolonging the show past midnight. This was supposed to be a funny, punchy and precise show.</p>
+<p style="text-align: justify;">Thus, some skits, especially the less-funny or obvious ones, could have been thrown out. It was heartbreaking seeing people leave before the show ended because it was getting late.</p>
+<p style="text-align: justify;">But nevertheless, “5-Star Madness” was worth the hype. There were lots of maturity symptoms visible in the entire production. The presidential debate, Salvado’s cameo as Idi Amin and all the humour surrounding politics and the media were spot on.</p>
+<figure><img src="/images/Salvado-as-Idi-Amin.jpg" alt="" /><figcaption>Salvado Idringi as Idi Amin Photos: Samson Baranga<br /></figcaption></figure>
+<p style="text-align: justify;">The group doesn’t qualify to be called ‘very funny’; they are just funny and sometimes not, but what makes them stand out is their ability to know what their loyal fans want and they give them exactly that.</p>
+<p style="text-align: justify;">“These guys never disappoint, and that is the reason I always come for the Thursday shows,” said one Karen Kagisha, who was seated in the VIP section.<br /><br /><span id="cloak38139">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
+ //<!--
+ document.getElementById('cloak38139').innerHTML = '';
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy38139 = 'k&#97;ggw&#97;ndr&#101;' + '&#64;';
+ addy38139 = addy38139 + 'gm&#97;&#105;l' + '&#46;' + 'c&#111;m';
+ document.getElementById('cloak38139').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy38139 + '\'>' +addy38139+'<\/a>';
+ //-->
+ </script><br /><br /></p> <div class="fastsocialshare_container"><div class="fastsocialshare-share-fbl">    					<script>
+							var loadAsyncDeferredFacebook = function() {
+	                    		var d = document;
+	                    		var s = 'script';
+	                    		var id = 'facebook-jssdk';
+				
+								var js, fjs = d.getElementsByTagName(s)[0];
+								if (d.getElementById(id)) return;
+							  	js = d.createElement(s); js.id = id;
+							  	js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1";
+							  	fjs.parentNode.insertBefore(js, fjs);
+						  	};
+					
+						  	if (window.addEventListener)
+								window.addEventListener("load", loadAsyncDeferredFacebook, false);
+							else if (window.attachEvent)
+								window.attachEvent("onload", loadAsyncDeferredFacebook);
+							else
+						  		window.onload = loadAsyncDeferredFacebook;
+                    	</script>
+                <div class="fb-share-button" data-href="http://observer.ug/lifestyle/41771-fun-factory-in-5-star-madness" data-layout="button_count"></div></div>						<div class="fastsocialshare-share-tw">
+						<a href="https://twitter.com/share" class="twitter-share-button" data-text="Fun Factory in 5-star madness" data-count="horizontal" data-via="observerug" data-lang="en">Tweet</a>
+						</div>
+						<script>
+							var loadAsyncDeferredTwitter =  function() {
+	            						var d = document;
+	            						var s = 'script';
+	            						var id = 'twitter-wjs';
+					            		var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){
+						        		js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}
+					        		}
+						
+							if (window.addEventListener)
+								window.addEventListener("load", loadAsyncDeferredTwitter, false);
+							else if (window.attachEvent)
+								window.attachEvent("onload", loadAsyncDeferredTwitter);
+							else
+								window.onload = loadAsyncDeferredTwitter;
+						</script>						<div class="fastsocialshare-share-gone">
+						<script type="text/javascript">
+							 window.___gcfg = {
+						        lang: 'en'
+						      };
+							var loadAsyncDeferredGooglePlus =  function() {
+								var po = document.createElement('script'); 
+								po.type = 'text/javascript'; 
+								po.async = true;
+								po.src = 'https://apis.google.com/js/plusone.js';
+								po.innerHTML =  {lang: 'en'};
+								var s = document.getElementsByTagName('script')[0]; 
+								s.parentNode.insertBefore(po, s);
+							};
+			
+							 if (window.addEventListener)
+							  window.addEventListener("load", loadAsyncDeferredGooglePlus, false);
+							else if (window.attachEvent)
+							  window.attachEvent("onload", loadAsyncDeferredGooglePlus);
+							else
+							  window.onload = loadAsyncDeferredGooglePlus;
+						</script>
+						<g:plusone size="medium" href='http://observer.ug/lifestyle/41771-fun-factory-in-5-star-madness'></g:plusone>
+						
+						</div>						<div class="fastsocialshare-share-lin">
+						<script type="text/javascript">
+							var loadAsyncDeferredLinkedin =  function() {
+								var po = document.createElement('script');
+								po.type = 'text/javascript';
+								po.async = true;
+								po.src = 'https://platform.linkedin.com/in.js';
+								po.innerHTML = 'lang: en_GB';
+								var s = document.getElementsByTagName('script')[0];
+								s.parentNode.insertBefore(po, s);
+							};
+		
+							 if (window.addEventListener)
+							  window.addEventListener("load", loadAsyncDeferredLinkedin, false);
+							else if (window.attachEvent)
+							  window.attachEvent("onload", loadAsyncDeferredLinkedin);
+							else
+							  window.onload = loadAsyncDeferredLinkedin;
+						</script>
+						<script type="in/share" data-url="http://observer.ug/lifestyle/41771-fun-factory-in-5-star-madness" data-counter="right"></script>
+						</div><div class="fastsocialshare_clearer"></div></div>
+	
+	
+<ul class="pager pagenav">
+	<li class="previous">
+		<a href="/lifestyle/41694-o-uganda-you-beautiful-country" rel="prev">
+			<span class="icon-chevron-left"></span> Prev		</a>
+	</li>
+	<li class="next">
+		<a href="/lifestyle/41772-patoranking-saves-lugogo" rel="next">
+			Next <span class="icon-chevron-right"></span>		</a>
+	</li>
+</ul>
+							
+					<script type="text/javascript">
+<!--
+var jcomments=new JComments(41771, 'com_content','/component/jcomments/');
+jcomments.setList('comments-list');
+//-->
+</script>
+<div id="jc">
+<div id="comments"><h4>Comments <a class="rss" href="/component/jcomments/feed/com_content/41771" title="RSS feed for comments to this post" target="_blank">&nbsp;</a><a class="refresh" href="#" title="Refresh comments list" onclick="jcomments.showPage(41771,'com_content',0);return false;">&nbsp;</a></h4>
+<div id="comments-list" class="comments-list">
+	<div class="even" id="comment-item-134735"><div class="rbox">
+<div class="comment-box">
+<span class="comments-vote">
+	<span id="comment-vote-holder-134735">
+<a href="#" class="vote-good" title="Good comment!" onclick="jcomments.voteComment(134735, 1);return false;"></a><a href="#" class="vote-poor" title="Bad comment!" onclick="jcomments.voteComment(134735, -1);return false;"></a>
+<span class="vote-none">0</span>
+	</span>
+</span>
+<a class="comment-anchor" href="/lifestyle/41771-fun-factory-in-5-star-madness#comment-134735" id="comment-134735">#1</a>
+<span class="comment-author">Robert Atuhairwe</span>
+<span class="comment-date">2015-12-22 21:30</span>
+<div class="comment-body" id="comment-body-134735">Too bad we missed. Can imagine the "Presidential debate" Wish the writer quoted some famous lines arising!</div>
+<span class="comments-buttons">
+<a href="#" onclick="jcomments.quoteComment(134735); return false;">Quote</a>
+ | 
+<a href="#" onclick="jcomments.reportComment(134735); return false;">Report to administrator</a>
+</span>
+</div><div class="clear"></div>
+</div>
+</div>
+</div>
+<div id="comments-list-footer"><a class="refresh" href="#" title="Refresh comments list" onclick="jcomments.showPage(41771,'com_content',0);return false;">Refresh comments list</a><br /><a class="rss" href="/component/jcomments/feed/com_content/41771" title="RSS feed for comments to this post" target="_blank">RSS feed for comments to this post</a></div>
+</div>
+<div id="comments-form-link">
+<a id="addcomments" class="showform" href="#addcomments" onclick="jcomments.showForm(41771,'com_content', 'comments-form-link'); return false;">Add comment</a>
+</div>
+<div id="comments-footer" align="center"><a href="http://www.joomlatune.com" title="JComments" target="_blank">JComments</a></div>
+<script type="text/javascript">
+<!--
+jcomments.setAntiCache(1,0,1);
+//-->
+</script> 
+</div> </div>
+
+												</div>
+																</div>
+														</div> <!-- end centercol -->
+													</div> <!-- end jsn-maincontent -->
+													<div id="jsn-rightsidecontent" class="span4 order2 ">
+									<div id="jsn-rightsidecontent_inner">
+										<div id="jsn-pos-right">
+											<div class=" jsn-modulecontainer"><div class="jsn-modulecontainer_inner"><div class="jsn-modulecontent"><div class="bannergroup">
+
+
+</div>
+</div></div></div><div class="lightbox-2 jsn-modulecontainer"><div class="jsn-modulecontainer_inner"><div class="jsn-modulecontent"><h3 class="jsn-moduletitle">
+
+    <span class="jsn-moduletitle_inner1">
+        <span class="jsn-moduletitle_inner2">
+            <span class="jsn-moduleicon">
+
+                Related Stories
+
+            </span>
+        </span>
+    </span>
+
+</h3>
+	<div class="nspMain lightbox-2" id="nsp-2004" data-config="{
+				'animation_speed': 400,
+				'animation_interval': 5000,
+				'animation_function': 'Fx.Transitions.Expo.easeIn',
+				'news_column': 0,
+				'news_rows': 0,
+				'links_columns_amount': 1,
+				'links_amount': 5
+			}">		
+				<div class="nspLinksWrap bottom" style="width:99.9%;">
+			<div class="nspLinks" style="margin:0;">
+								<div class="nspLinkScroll1">
+					<div class="nspLinkScroll2 nspPages1">
+																				<ul class="nspList active nspCol1">
+														
+							<li class="even"><a href="/news-headlines/41776-nrm-youth-brigade-disrupts-besigye-rally-in-gulu" class="nspImageWrapper" style="margin:5px 0px 5px 0px;" target="_self"><img class="nspImage" src="http://observer.ug/modules/mod_news_pro_gk5/cache/Besigye-supporters-in-Gulu2004_links.jpg" alt="Deputy speaker Oulanyah disrupts Besigye rally in Gulu" style=""  /></a><div><h4><a href="/news-headlines/41776-nrm-youth-brigade-disrupts-besigye-rally-in-gulu" title="Deputy speaker Oulanyah disrupts Besigye rally in Gulu" target="_self">Deputy speaker Oulanyah disrupts Besigye rally in Gulu</a></h4><p>Deputy speaker Jacob Oulanyah was at the epicenter of confrontations between the NRM youth brigade and Forum for Democratic Change&hellip;</p><p class="nspInfo nspInfo2 tleft fleft">2h ago | <a href="/news-headlines/41776-nrm-youth-brigade-disrupts-besigye-rally-in-gulu">2 comments</a></p></div></li>							
+																											
+							<li class="odd"><a href="/viewpoint/41775-the-joy-of-campaigning-for-the-nrm-in-2015" class="nspImageWrapper" style="margin:5px 0px 5px 0px;" target="_self"><img class="nspImage" src="http://observer.ug/modules/mod_news_pro_gk5/cache/President-Museveni-in-Dokolo2004_links.jpg" alt="The Joy of campaigning for the NRM in 2015" style=""  /></a><div><h4><a href="/viewpoint/41775-the-joy-of-campaigning-for-the-nrm-in-2015" title="The Joy of campaigning for the NRM in 2015" target="_self">The Joy of campaigning for the NRM in 2015</a></h4><p>I would like to inform the reader that by today, the 15th December, 2015, I have addressed 104 constituency rallies&hellip;</p><p class="nspInfo nspInfo2 tleft fleft">Yesterday | <a href="/viewpoint/41775-the-joy-of-campaigning-for-the-nrm-in-2015">17 comments</a></p></div></li>							
+																											
+							<li class="even"><a href="/news-headlines/41774-amama-to-museveni-guns-won-t-save-you" class="nspImageWrapper" style="margin:5px 0px 5px 0px;" target="_self"><img class="nspImage" src="http://observer.ug/modules/mod_news_pro_gk5/cache/Police-at-Go-Forward-offices2004_links.jpg" alt="Amama to Museveni: 'Guns won’t save you' " style=""  /></a><div><h4><a href="/news-headlines/41774-amama-to-museveni-guns-won-t-save-you" title="Amama to Museveni: 'Guns won’t save you' " target="_self">Amama to Museveni: 'Guns won’t save you' </a></h4><p>
+Addressing the press shortly after the police raided his home in Kololo and campaign headquarters in Nakasero arresting several members&hellip;</p><p class="nspInfo nspInfo2 tleft fleft">Yesterday | <a href="/news-headlines/41774-amama-to-museveni-guns-won-t-save-you">33 comments</a></p></div></li>							
+																											
+							<li class="odd"><a href="/sports/41773-fifa-president-blatter-banned-from-football-for-8-years" class="nspImageWrapper" style="margin:5px 0px 5px 0px;" target="_self"><img class="nspImage" src="http://observer.ug/modules/mod_news_pro_gk5/cache/Blatter-and-Platini2004_links.jpg" alt="Fifa president Blatter banned from football for 8 years " style=""  /></a><div><h4><a href="/sports/41773-fifa-president-blatter-banned-from-football-for-8-years" title="Fifa president Blatter banned from football for 8 years " target="_self">Fifa president Blatter banned from football for 8 years </a></h4><p>
+Embattled president of the Federation of International Football Associations (FIFA), Sepp Blatter has been banned from all football related activities&hellip;</p><p class="nspInfo nspInfo2 tleft fleft">Yesterday | <a href="/sports/41773-fifa-president-blatter-banned-from-football-for-8-years">1 comments</a></p></div></li>							
+																											
+							<li class="even"><a href="/lifestyle/41772-patoranking-saves-lugogo" class="nspImageWrapper" style="margin:5px 0px 5px 0px;" target="_self"><img class="nspImage" src="http://observer.ug/modules/mod_news_pro_gk5/cache/Gravity-Omutujju-during-his-performance2004_links.jpg" alt="Patoranking saves Lugogo" style=""  /></a><div><h4><a href="/lifestyle/41772-patoranking-saves-lugogo" title="Patoranking saves Lugogo" target="_self">Patoranking saves Lugogo</a></h4><p>There was skepticism ahead of the “Born 2 Win” concert held at Lugogo Cricket Oval last Friday.
+Headlined by Tanzania’s Diamond&hellip;</p><p class="nspInfo nspInfo2 tleft fleft">Yesterday | <a href="/lifestyle/41772-patoranking-saves-lugogo">2 comments</a></p></div></li>							
+														</ul>
+															
+					</div>
+					
+									</div>	
+					
+				
+					
+			</div>
+		</div>
+			</div>
+</div></div></div><div class=" jsn-modulecontainer"><div class="jsn-modulecontainer_inner"><div class="jsn-modulecontent"><div class="bannergroup">
+
+	<div class="banneritem">
+																																																															<a
+							href="/component/banners/click/49" target="_blank"
+							title="Partnerships for Peace">
+							<img
+								src="http://observer.ug/images/banners/Partners-for-Peace.gif"
+								alt="Partnerships for Peace"
+																							/>
+						</a>
+																<div class="clr"></div>
+	</div>
+
+</div>
+</div></div></div><div class=" jsn-modulecontainer"><div class="jsn-modulecontainer_inner"><div class="jsn-modulecontent"><div class="bannergroup">
+
+
+</div>
+</div></div></div><div class=" jsn-modulecontainer"><div class="jsn-modulecontainer_inner"><div class="jsn-modulecontent"><div class="bannergroup">
+
+	<div class="banneritem">
+										<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Observer Responsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1435360256358138"
+     data-ad-slot="9369650192"
+     data-ad-format="rectangle"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>				<div class="clr"></div>
+	</div>
+
+</div>
+</div></div></div><div class=" jsn-modulecontainer"><div class="jsn-modulecontainer_inner"><div class="jsn-modulecontent"><div class="bannergroup">
+
+
+</div>
+</div></div></div><div class=" jsn-modulecontainer"><div class="jsn-modulecontainer_inner"><div class="jsn-modulecontent"><div class="bannergroup">
+
+	<div class="banneritem">
+										<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Observer Responsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1435360256358138"
+     data-ad-slot="9369650192"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>				<div class="clr"></div>
+	</div>
+
+</div>
+</div></div></div>
+										</div>
+									</div>
+								</div>
+									</div>
+			</div>
+		</div>
+							<div id="jsn-footer">
+				<div id="jsn-footermodules" class="jsn-modulescontainer jsn-modulescontainer1 row-fluid">
+												<div id="jsn-pos-footer" class="span12">
+							<div class=" jsn-modulecontainer"><div class="jsn-modulecontainer_inner"><div class="jsn-modulecontent"><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32667704-1', 'auto');
+  ga('send', 'pageview');
+
+</script></div></div></div>
+							</div>
+										<div class="clearbreak"></div>
+				</div>
+			</div>
+			</div>
+	
+</div>
+</body>
+</html>
+
+0
+
+
+
+WARC/1.0
+WARC-Type: resource
+WARC-Record-ID: <urn:uuid:392ccff3-c016-4cc8-bd6c-c9cc2eb32d12>
+WARC-Warcinfo-ID: <urn:uuid:5a593686-2a0c-42f2-83fd-8c4ca7488044>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/MANIFEST.txt
+WARC-Date: 2015-12-22T23:04:08Z
+Content-Type: text/plain
+Content-Length: 48
+
+<urn:uuid:5a593686-2a0c-42f2-83fd-8c4ca7488044>
+
+
+WARC/1.0
+WARC-Type: resource
+WARC-Record-ID: <urn:uuid:392ccff3-c016-4cc8-bd6c-c9cc2eb32d12>
+WARC-Warcinfo-ID: <urn:uuid:5a593686-2a0c-42f2-83fd-8c4ca7488044>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/wget_arguments.txt
+WARC-Date: 2015-12-22T23:04:08Z
+Content-Type: text/plain
+Content-Length: 207
+
+"--warc-file" "41771-fun-factory-in-5-star-madness" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "-q" "-O" "/dev/null" "http://observer.ug/lifestyle/41771-fun-factory-in-5-star-madness" 
+
+

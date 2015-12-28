@@ -1,0 +1,1197 @@
+WARC/1.0
+WARC-Type: warcinfo
+Content-Type: application/warc-fields
+WARC-Date: 2015-12-22T22:27:26Z
+WARC-Record-ID: <urn:uuid:61b25dac-b079-46fe-9042-770c50a66087>
+WARC-Filename: 676937-megatone-producer-bruno-feud-over-tindatiine.warc
+Content-Length: 432
+
+software: Wget/1.13.4-2608 (linux-gnu)
+format: WARC File Format 1.0
+conformsTo: http://bibnum.bnf.fr/WARC/WARC_ISO_28500_version1_latestdraft.pdf
+robots: classic
+wget-arguments: "--warc-file" "676937-megatone-producer-bruno-feud-over-tindatiine" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "-q" "-O" "/dev/null" "http://www.newvision.co.ug/news/676937-megatone-producer-bruno-feud-over-tindatiine.html" 
+
+
+
+WARC/1.0
+WARC-Type: request
+WARC-Target-URI: http://www.newvision.co.ug/news/676937-megatone-producer-bruno-feud-over-tindatiine.html
+Content-Type: application/http;msgtype=request
+WARC-Date: 2015-12-22T22:27:27Z
+WARC-Record-ID: <urn:uuid:1e089e4e-0387-4301-a92f-3fb2086bc4c1>
+WARC-IP-Address: 119.82.71.117
+WARC-Warcinfo-ID: <urn:uuid:61b25dac-b079-46fe-9042-770c50a66087>
+Content-Length: 185
+
+GET /news/676937-megatone-producer-bruno-feud-over-tindatiine.html HTTP/1.1
+User-Agent: Wget/1.13.4-2608 (linux-gnu)
+Accept: */*
+Host: www.newvision.co.ug
+Connection: Keep-Alive
+
+
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <urn:uuid:7488d0ec-2d49-4153-bd2f-95bda95a28d4>
+WARC-Warcinfo-ID: <urn:uuid:61b25dac-b079-46fe-9042-770c50a66087>
+WARC-Concurrent-To: <urn:uuid:1e089e4e-0387-4301-a92f-3fb2086bc4c1>
+WARC-Target-URI: http://www.newvision.co.ug/news/676937-megatone-producer-bruno-feud-over-tindatiine.html
+WARC-Date: 2015-12-22T22:27:27Z
+WARC-IP-Address: 119.82.71.117
+Content-Type: application/http;msgtype=response
+Content-Length: 82906
+
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Length: 82610
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/7.0
+X-AspNet-Version: 2.0.50727
+Set-Cookie: ASP.NET_SessionId=3bsqcl55jy13a255ywf3es55; path=/; HttpOnly
+X-Powered-By: ASP.NET
+Date: Tue, 22 Dec 2015 22:26:04 GMT
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	Megatone, producer Bruno feud over Tindatiine
+</title><meta name="keywords" content="Ugandan news, news in Uganda, Kampala, Uganda, breaking news, news, besigye, museveni, yoweri, new vision, vision news, vision" /><meta name="description" content="Ugandan news, news in Uganda, Kampala, Uganda, breaking news, news, besigye, museveni, yoweri, new vision, vision news, vision" /><link href="http://fonts.googleapis.com/css?family=Oswald" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Oswald" rel="stylesheet" type="text/css" /><link href="../CSS/style.css" rel="stylesheet" type="text/css" />
+    <!-- include in head tags -->
+    <style type="text/css">
+        #pageshare
+        {
+            position: fixed;
+            top: 25%;
+            float: left;
+            border: 0px solid black;
+            border-radius: 5px;
+            -moz-border-radius: 5px;
+            -webkit-border-radius: 5px;
+            background-color: #eff3fa;
+            padding: 0 0 2px 0;
+            z-index: 10;
+        }
+        #pageshare .sbutton
+        {
+            float: left;
+            clear: both;
+            margin: 5px 5px 0 5px;
+        }
+        #floating-box-wrapper
+        {
+            margin: 0 auto 0 auto;
+            height: auto;
+            position: relative;
+        }
+        #floating-box-container1
+        {
+            float: left;
+            top: 0px;
+            right: 0px;
+            left: -70px;
+            width: 60px;
+            position: absolute;
+        }
+        #pageshare1
+        {
+            position: fixed;
+            top: 25%;
+            float: left;
+            border: 0px solid black;
+            border-radius: 5px;
+            -moz-border-radius: 5px;
+            -webkit-border-radius: 5px;
+            padding: 0px 0px 0px 0px;
+            z-index: 10;
+        }
+        #pageshare1 .sbutton1
+        {
+            float: left;
+            clear: both;
+            margin: 5px 5px 0 5px;
+        }
+        #floating-box-wrapper1
+        {
+            width: 1000px;
+            margin: 0 auto 0 auto;
+            height: auto;
+            position: relative;
+        }
+        #floating-box-container11
+        {
+            float: right;
+            top: 0px;
+            right: -82px; /*left:0px;*/
+            width: 60px;
+            position: absolute;
+        }
+        #socialbar1
+        {
+            list-style-type: none;
+            margin: 0px;
+            padding: 0px;
+        }
+        #floating-box-wrapperleft
+        {
+            width: 1000px;
+            margin: 0 auto 0 auto;
+            height: auto;
+            position: relative;
+        }
+        #floating-box-containerleft2
+        {
+            float: left;
+            top: 0px; /* right: -82px; */
+            left: -173px;
+            width: 60px;
+            position: absolute;
+        }
+        #pageshareleft
+        {
+            position: fixed;
+            top: 25%;
+            float: left;
+            border: 0px solid black;
+            border-radius: 5px;
+            -moz-border-radius: 5px;
+            -webkit-border-radius: 5px;
+            padding: 0px 0px 0px 0px;
+            z-index: 10;
+        }
+        #pageshareleft .sbuttonleft
+        {
+            float: left;
+            clear: both;
+            margin: 5px 5px 0 5px;
+        }
+        #socialbarleft
+        {
+            list-style-type: none;
+            margin: 0px;
+            padding: 0px;
+        }
+    </style>
+
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-658465-1']);
+        _gaq.push(['_trackPageview']);
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+
+    <script type='text/javascript'>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        (function() {
+            var gads = document.createElement('script');
+            gads.async = true;
+            gads.type = 'text/javascript';
+            var useSSL = 'https:' == document.location.protocol;
+            gads.src = (useSSL ? 'https:' : 'http:') +
+'//www.googletagservices.com/tag/js/gpt.js';
+            var node = document.getElementsByTagName('script')[0];
+            node.parentNode.insertBefore(gads, node);
+        })();
+    </script>
+
+    <script type='text/javascript'>
+        googletag.cmd.push(function() {
+            googletag.defineSlot('/16375024/Leader_Board_Home_ad_Top', [681, 92], 'div-gpt-ad-1340357368431-0').addService(googletag.pubads());
+            googletag.defineSlot('/16375024/Half_Banner_home_ad_A', [300, 90], 'div-gpt-ad-1328525882916-0').addService(googletag.pubads());
+            googletag.defineSlot('/16375024/Half_Banner_Home_ad_toppest', [300, 90], 'div-gpt-ad-1329315127819-0').addService(googletag.pubads());
+            googletag.defineSlot('/16375024/125_Homepage_exclusive_ad_A', [125, 125], 'div-gpt-ad-1327324955015-0').addService(googletag.pubads());
+            googletag.defineSlot('/16375024/125_Homepage_exclusive_ad_B', [125, 125], 'div-gpt-ad-1327329299077-0').addService(googletag.pubads());
+            googletag.defineSlot('/16375024/Leader_board_home_ad_bottom_most', [728, 90], 'div-gpt-ad-1372655516949-0').addService(googletag.pubads());
+            googletag.defineSlot('/16375024/health_lead', [600, 90], 'div-gpt-ad-1373800573916-0').addService(googletag.pubads());
+            googletag.defineSlot('/16375024/Business_lead', [600, 90], 'div-gpt-ad-1374176986891-0').addService(googletag.pubads());
+            googletag.defineSlot('/16375024/SCROLL', [150, 327], 'div-gpt-ad-1403861063349-0').addService(googletag.pubads());
+            googletag.defineSlot('/16375024/TOP_STRIP_1000x45', [1000, 45], 'div-gpt-ad-1408450827127-0').addService(googletag.pubads());
+            googletag.defineSlot('/16375024/BUSINESS_FRONT_340X90', [340, 90], 'div-gpt-ad-1415282765081-0').addService(googletag.pubads());
+            googletag.defineSlot('/16375024/PRINT_AD_150X327', [150, 327], 'div-gpt-ad-1418812383605-0').addService(googletag.pubads());
+            googletag.defineSlot('/16375024/Below_ras', [300, 90], 'div-gpt-ad-1350985773165-0').addService(googletag.pubads());
+            googletag.pubads().enableSingleRequest();
+            googletag.enableServices();
+        });
+    </script>
+
+    <script type="text/javascript">
+        //SYNTAX: ddtabmenu.definemenu("tab_menu_id", integer OR "auto")
+        ddtabmenu.definemenu("ddtabs3", 0) //initialize Tab Menu #1 with 1st tab selected
+    </script>
+
+    <script language="javascript" type="text/javascript">
+        function changeColor(color, ID) {
+            document.getElementById(ID).bgColor = "#" + color;
+        }
+    </script>
+
+    
+    
+<META HTTP-EQUIV="EXPIRES" CONTENT="0" />
+    <meta property="og:image" content="http://www.newvision.co.ug/images/New-Vision.jpg" />
+	<meta property="fb:admins" content="100000822588136" />
+    <link href="../style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+.Fullstory_class
+{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 11pt;
+color: #414141;
+letter-spacing: -0.001em;
+text-transform: none;
+line-height: 1.4em;
+}
+.Fullstory_class p
+{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 11pt;
+color: #414141;
+letter-spacing: -0.001em;
+text-transform: none;
+line-height: 1.4em;
+float:left;
+width:650px;
+margin:3px 0px 3px 0px;
+}
+.Fullstory_class p img
+{
+	max-width:650px; 
+}
+.Fullstory_class p a
+ {
+    color:blue;
+	text-decoration:none;
+ }
+.Fullstory_class p a:hover
+ {
+
+   text-decoration:underline;
+ }
+</style>
+<script type='text/javascript'>
+    googletag.cmd.push(function() {
+    googletag.defineSlot('/16375024/Squarebanner_section_stories', [300, 250], 'div-gpt-ad-1396430311625-0').addService(googletag.pubads());
+    googletag.defineSlot('/16375024/Half_banner_Premium', [300, 90], 'div-gpt-ad-1398416904558-0').addService(googletag.pubads());
+        googletag.pubads().enableSingleRequest();
+        googletag.enableServices();
+    });
+</script>
+    
+<meta property="og:description" content="If you are familiar with the entertainment scene around Mbarara town, then you know who we are talking about." /><meta name="keywords" content="new vision,newvision,newvision.co.ug,uganda news,news in Uganda,museveni,breaking news," /><link href="/css/style.css" rel="stylesheet"  type="text/css" />
+<link href="/css/solidblocksmenu.css" rel="stylesheet"  type="text/css" />
+<link href="/styles/ticker-style.css" rel="stylesheet"  type="text/css" />
+<script src="/javascript/login.js" type="text/javascript"></script>
+<link href="/images/favicon.ico" rel="shortcut icon" />
+<script src="/javascript/menu.js" type="text/javascript"></script>
+<script src="/includes/jquery.min.js" type="text/javascript"></script>
+<script src="/includes/jquery.ticker.js" type="text/javascript"></script>
+<script src="/includes/site.js" type="text/javascript"></script><script src="/javascript/mootools.svn.js" type="text/javascript"></script><script src="/javascript/lofslidernews.mt11.js" type="text/javascript"></script></head>
+
+<script type="text/javascript">
+    $k = jQuery.noConflict();
+    $k(document).ready(function() {
+
+        var first = 0;
+        var speed = 200;
+        var pause = 8000;
+
+        function removeFirst() {
+            first = $k('ul#listticker li:first').html();
+            $k('ul#listticker li:first')
+			.animate({ opacity: 0 }, speed)
+			.fadeOut('slow', function() { $k(this).remove(); });
+            addLast(first);
+        }
+        function addLast(first) {
+            last = '<li style="display:none">' + first + '</li>';
+            $k('ul#listticker').append(last)
+            $k('ul#listticker li:last')
+			.animate({ opacity: 1 }, speed)
+			.fadeIn('slow')
+        }
+
+        interval = setInterval(removeFirst, pause);
+    });
+</script>
+
+<script type='text/javascript' src='http://code.jquery.com/jquery-1.4.4.min.js'></script>
+
+<script type='text/javascript'>    //<![CDATA[
+    $(function() {
+        $('img').bind('contextmenu', function(e) {
+            //alert("For more information on this © Copyrighted image, please contact digital@bukedde.co.ug");
+            return false;
+        });
+    }); //]]>  
+</script>
+
+<link rel="stylesheet" type="text/css" href="rightsidepopup/style.css" />
+
+<script type="text/javascript" src="rightsidepopup/jquery.min.js"></script>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        jQuery(".pull_feedback").toggle(function() {
+            jQuery("#feedback").animate({ right: "0px" });
+            return false;
+        },
+			function() {
+			    jQuery("#feedback").animate({ right: "-150px" });
+			    return false;
+			}
+		);
+    }); 
+</script>
+
+<body id="ctl00_mainbody">
+    
+    
+    
+    <div id="mainContent">
+        <div id="floating-box-wrapper1" style="display: block;">
+            <div id="floating-box-container11">
+                <div id="pageshare1" title="Share This With Your Friends">
+                    <ul id="socialbar1">
+                        <li>
+                            
+                            <!-- RIGHT SCROL BANNER NV -->
+                            <div id='div-gpt-ad-1403861063349-0' style='width: 150px; height: 327px;'>
+
+                                <script type='text/javascript'>
+                                    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1403861063349-0'); });
+                                </script>
+
+                            </div>
+                        </li>
+                    </ul>
+                    
+                    
+                </div>
+            </div>
+        </div>
+        
+        <div id="floating-box-wrapperleft" style="display: block;">
+            <div id="floating-box-containerleft2">
+                <div id="pageshareleft" title="Share This With Your Friends">
+                    <ul id="socialbarleft">
+                        <li>
+                            <!-- PRINT_AD_150X327 -->
+                            <div id='div-gpt-ad-1418812383605-0' style='width: 150px; height: 327px;'>
+
+                                <script type='text/javascript'>
+                                    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1418812383605-0'); });
+                                </script>
+
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div id="blanket" style="display: none;">
+        </div>
+        <div id="popUpDiv" style="display: none;">
+            <table width="600" cellspacing="0" cellpadding="0" align="center">
+                <tr>
+                    <td class="text" valign="middle">
+                        <img src="../images/olympics.gif" width="995" height="100" alt="olympics" />
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center">
+                        <a href="#" onclick="popup('popUpDiv')">close window</a>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </div>
+    <form name="aspnetForm" method="post" action="../article/fullstory.aspx?story_id=676937&amp;catid=397&amp;mid=53" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE3ODQxOTgyNzMPFgQeB3N0b3J5aWQFBjY3NjkzNx4DbWlkBQI1MxYCZg9kFgICAw9kFgICAQ9kFgYCAw9kFgxmDxYCHglpbm5lcmh0bWwFGiB8IExhc3QgVXBkYXRlZCAxIGhvdXIgYWdvZAIBDxYCHwIF+hc8bGk+PGEgaHJlZj0iL0hvbWUuYXNweCIgY2xhc3M9InBhcmVudCI+PHNwYW4+SG9tZTwvc3Bhbj48L2E+PC9saT48bGkgPjxhIGhyZWY9Ii9zZWN0aW9uLzUzLTQzNS10b2RheS1zLVBpY2suaHRtbCIgY2xhc3M9InBhcmVudCI+PHNwYW4+dG9kYXkncyBQaWNrPC9zcGFuPjwvYT48L2xpPjxsaSA+PGEgaHJlZj0iL3NlY3Rpb24vNTMtMS1OYXRpb25hbC5odG1sIiBjbGFzcz0icGFyZW50Ij48c3Bhbj5OYXRpb25hbDwvc3Bhbj48L2E+PGRpdj48dWw+PGxpPjxhIGhyZWY9Ii9zZWN0aW9uLzUzLTQ5OC1DZW5zdXMtMjAxNC5odG1sIj48c3Bhbj5DZW5zdXMgMjAxNDwvc3Bhbj48L2E+PC9saT48bGk+PGEgaHJlZj0iL3NlY3Rpb24vNTMtNDMxLUNvcnBvcmF0ZS1OZXdzLmh0bWwiPjxzcGFuPkNvcnBvcmF0ZSBOZXdzPC9zcGFuPjwvYT48L2xpPjxsaT48YSBocmVmPSIvc2VjdGlvbi81My01MDEtTmF0aW9uYWwtQnVkZ2V0LTIwMTUuaHRtbCI+PHNwYW4+TmF0aW9uYWwgQnVkZ2V0IDIwMTU8L3NwYW4+PC9hPjwvbGk+PGxpPjxhIGhyZWY9Ii9zZWN0aW9uLzUzLTQxOS1QYWthc2EuaHRtbCI+PHNwYW4+UGFrYXNhPC9zcGFuPjwvYT48L2xpPjxsaT48YSBocmVmPSIvc2VjdGlvbi81My01MDItUGFwYWwtVmlzaXQtMjAxNS5odG1sIj48c3Bhbj5QYXBhbCBWaXNpdCAyMDE1PC9zcGFuPjwvYT48L2xpPjxsaT48YSBocmVmPSIvc2VjdGlvbi81My0zODAtUmVnaW9uYWxzLmh0bWwiPjxzcGFuPlJlZ2lvbmFsczwvc3Bhbj48L2E+PC9saT48bGk+PGEgaHJlZj0iL3NlY3Rpb24vNTMtNTAwLVVnYW5kYS1NYXJ0eXJzLS1EYXktMjAxNS5odG1sIj48c3Bhbj5VZ2FuZGEgTWFydHlycycgRGF5IDIwMTU8L3NwYW4+PC9hPjwvbGk+PC91bD48L2Rpdj48L2xpPjxsaSA+PGEgaHJlZj0iL3NlY3Rpb24vNTMtMy1CdXNpbmVzcy5odG1sIiBjbGFzcz0icGFyZW50Ij48c3Bhbj5CdXNpbmVzczwvc3Bhbj48L2E+PC9saT48bGkgPjxhIGhyZWY9Ii9zZWN0aW9uLzUzLTUtU3BvcnQuaHRtbCIgY2xhc3M9InBhcmVudCI+PHNwYW4+U3BvcnQ8L3NwYW4+PC9hPjxkaXY+PHVsPjxsaT48YSBocmVmPSIvc2VjdGlvbi81My00OTYtMjAxNC1Xb3JsZC1DdXAuaHRtbCI+PHNwYW4+MjAxNCBXb3JsZCBDdXA8L3NwYW4+PC9hPjwvbGk+PC91bD48L2Rpdj48L2xpPjxsaSAgID48YSBocmVmPSIvZ2FsbGVyeS9tdWx0aW1lZGlhLmh0bWwiIGNsYXNzPSJwYXJlbnQiPjxzcGFuPk11bHRpbWVkaWE8L3NwYW4+PC9hPjxkaXY+PHVsPjxsaT48YSBocmVmPSIvZ2FsbGVyeS8zMFBIT1RPLmh0bWwiID48c3Bhbj5QaG90bzwvc3Bhbj48L2E+PC9saT48bGk+PGEgaHJlZj0iL2dhbGxlcnkvOFZJREVPLmh0bWwiID48c3Bhbj5WaWRlbzwvc3Bhbj48L2E+PC9saT48L3VsPjwvZGl2PjwvbGk+PGxpIGNsYXNzPSJjdXJyZW50Ij48YSBocmVmPSIvc2VjdGlvbi81My0zOTctRW50ZXJ0YWlubWVudC5odG1sIiBjbGFzcz0icGFyZW50Ij48c3Bhbj5FbnRlcnRhaW5tZW50PC9zcGFuPjwvYT48L2xpPjxsaSA+PGEgaHJlZj0iL3NlY3Rpb24vNTMtMi1Xb3JsZC5odG1sIiBjbGFzcz0icGFyZW50Ij48c3Bhbj5Xb3JsZDwvc3Bhbj48L2E+PC9saT48bGkgPjxhIGhyZWY9Ii9zZWN0aW9uLzUzLTQ4Ni1TY2llbmNlLS0tdGVjaG5vbG9neS5odG1sIiBjbGFzcz0icGFyZW50Ij48c3Bhbj5TY2llbmNlICYgdGVjaG5vbG9neTwvc3Bhbj48L2E+PGRpdj48dWw+PGxpPjxhIGhyZWY9Ii9zZWN0aW9uLzUzLTQ4Ny1PaWwtLS1HYXMuaHRtbCI+PHNwYW4+T2lsICYgR2FzPC9zcGFuPjwvYT48L2xpPjwvdWw+PC9kaXY+PC9saT48bGkgPjxhIGhyZWY9Ii9zZWN0aW9uLzUzLTQxMy1TdXBwbGVtZW50cy5odG1sIiBjbGFzcz0icGFyZW50Ij48c3Bhbj5TdXBwbGVtZW50czwvc3Bhbj48L2E+PGRpdj48dWw+PGxpPjxhIGhyZWY9Imh0dHA6Ly9qb2JzLmNvLnVnLz9wYWdlX2lkPTUiIHRhcmdldD0nX2JsYW5rJyA+PHNwYW4+Sm9iczwvc3Bhbj48L2E+PC9saT48bGk+PGEgaHJlZj0iL3NlY3Rpb24vNTMtNDE0LU5vdGljZXMuaHRtbCI+PHNwYW4+Tm90aWNlczwvc3Bhbj48L2E+PC9saT48bGk+PGEgaHJlZj0iaHR0cDovL3d3dy5uZXd2aXNpb24uY28udWcvc2VjdGlvbi81My00MTMtU3VwcGxlbWVudHMuaHRtbCIgdGFyZ2V0PSdfcGFyZW50JyA+PHNwYW4+U3VwcGxlbWVudHM8L3NwYW4+PC9hPjwvbGk+PGxpPjxhIGhyZWY9Ii9zZWN0aW9uLzUzLTQxNS1UZW5kZXJzLmh0bWwiPjxzcGFuPlRlbmRlcnM8L3NwYW4+PC9hPjwvbGk+PC91bD48L2Rpdj48L2xpPjxsaSA+PGEgaHJlZj0naHR0cDovL2pvYnMuY28udWcvP3BhZ2VfaWQ9NScgdGFyZ2V0PSdfYmxhbmsnIGNsYXNzPSJwYXJlbnQiPjxzcGFuPkpvYnM8L3NwYW4+PC9hPjxsaSA+PGEgaHJlZj0iIyIgY2xhc3M9InBhcmVudCI+PHNwYW4+ZS1QYXBlcjwvc3Bhbj48L2E+PGRpdj48dWw+PGxpPjxhIGhyZWY9Imh0dHA6Ly93d3cuZXRvcC5jby51ZyIgdGFyZ2V0PSdfYmxhbmsnID48c3Bhbj5FdG9wIDwvc3Bhbj48L2E+PC9saT48bGk+PGEgaHJlZj0iaHR0cDovL2VwYXBlci5uZXd2aXNpb24uY28udWcvbG9naW4uYXNweCIgdGFyZ2V0PSdfYmxhbmsnID48c3Bhbj5OZXd2aXNpb24gPC9zcGFuPjwvYT48L2xpPjxsaT48YSBocmVmPSJodHRwOi8vd3d3LnJ1cGlueS5jby51ZyIgdGFyZ2V0PSdfYmxhbmsnID48c3Bhbj5SdXBpbnkgPC9zcGFuPjwvYT48L2xpPjxsaT48YSBocmVmPSJodHRwOi8vd3d3Lm9ydW11cmkuY28udWciIHRhcmdldD0nX2JsYW5rJyA+PHNwYW4+T3J1bXVyaTwvc3Bhbj48L2E+PC9saT48L3VsPjwvZGl2PjwvbGk+PGxpPjxhIGhyZWY9J2h0dHA6Ly93d3cuZWxlY3Rpb25zLmNvLnVnLycgdGFyZ2V0PSJfYmxhbmsiPjxzcGFuPkVsZWN0aW9uczwvc3Bhbj48L2E+PGRpdiBzdHlsZT0nd2lkdGg6IDEyOHB4Oyc+PHVsIHN0eWxlPSd3aWR0aDogMTIwcHg7Jz48bGk+PGEgc3R5bGU9J3dpZHRoOiAxMTBweDsnIGhyZWY9J2h0dHA6Ly93d3cuZWxlY3Rpb25zLmNvLnVnLycgdGFyZ2V0PSJfYmxhbmsiPjxzcGFuPkVsZWN0aW9ucyAyMDE2PC9zcGFuPjwvYT48L2xpPjwvdWw+PC9kaXY+PC9saT5kAgIPFgIfAmVkAgMPFgIfAgWhByA8ZGl2IGNsYXNzPSJoZWFkbGluZXIxIj48YSBzdHlsZT0nY29sb3I6IzExNTE4RjsnIGhyZWY9Ii9uZXdzLzY3NzExNy1idXJ1bmRpLXBhcmxpYW1lbnQtc2xhbXMtaW52YXNpb24tcGVhY2VrZWVwZXItZm9yY2UuaHRtbCI+QnVydW5kaSBwYXJsaWFtZW50IHNsYW1zICdpbnZhc2lvbicgcGVhY2VrZWVwZXIgZm9yY2U8L2E+PGEgc3R5bGU9J2ZvbnQtc2l6ZToxMXB4O2NvbG9yOnJlZDsnIGhyZWY9Ii9uZXdzLzY3NzExNy1idXJ1bmRpLXBhcmxpYW1lbnQtc2xhbXMtaW52YXNpb24tcGVhY2VrZWVwZXItZm9yY2UuaHRtbCI+PC9hPjwvZGl2PiA8ZGl2IGNsYXNzPSJoZWFkbGluZXIyIj48YSBzdHlsZT0nY29sb3I6IzExNTE4RjsnIGhyZWY9Ii9uZXdzLzY3NzEyMC13b3JsZC1iYW5rLWNhbmNlbHMtZnVuZGluZy1mb3ItdWdhbmRhLXRyYW5zcG9ydC1wcm9qZWN0Lmh0bWwiPldvcmxkIEJhbmsgY2FuY2VscyBmdW5kaW5nIGZvciBVZ2FuZGEgdHJhbnNwb3J0IHByb2plY3Q8L2E+PGEgc3R5bGU9J2ZvbnQtc2l6ZToxMXB4O2NvbG9yOnJlZDsnIGhyZWY9Ii9uZXdzLzY3NzEyMC13b3JsZC1iYW5rLWNhbmNlbHMtZnVuZGluZy1mb3ItdWdhbmRhLXRyYW5zcG9ydC1wcm9qZWN0Lmh0bWwiPjwvYT48L2Rpdj4gPGRpdiBjbGFzcz0iaGVhZGxpbmVyMyI+PGEgc3R5bGU9J2NvbG9yOiMxMTUxOEY7JyBocmVmPSIvbmV3cy82NzcxNDEtZHJ1Zy1maXJtLWFubm91bmNlcy1hZHZhbmNlLWluLXF1ZXN0LWZvci1oaXYtY3VyZS5odG1sIj5EcnVnIGZpcm0gYW5ub3VuY2VzIGFkdmFuY2UgaW4gcXVlc3QgZm9yIEhJViBjdXJlPC9hPjxhIHN0eWxlPSdmb250LXNpemU6MTFweDtjb2xvcjpyZWQ7JyBocmVmPSIvbmV3cy82NzcxNDEtZHJ1Zy1maXJtLWFubm91bmNlcy1hZHZhbmNlLWluLXF1ZXN0LWZvci1oaXYtY3VyZS5odG1sIj48L2E+PC9kaXY+ZAIEDxYCHwIFkQE8aW1nIG9uTW91c2VEb3duPSJjbG9zZWltYWdlc2F2aW5nKCk7IiBzcmM9Ii9uZXd2aXNpb25fY21zL2dhbGxfY29udGVudC8yMDE1LzEyLzIwMTVfMTIkdGh1bWJpbWcxMjJfRGVjXzIwMTVfMjAyMDMzOTYzLnBuZyIgIGFsdD0nZXBhcGVyIGltYWdlJy8+ZAIFDxYCHwIF1w88dWwgaWQ9ImpzLW5ld3MiIGNsYXNzPSJqcy1oaWRkZW4iPiA8bGkgY2xhc3M9Im5ld3MtaXRlbSI+PHNwYW4gY2xhc3M9Iml0ZW0iPjxhIHN0eWxlPSdjb2xvcjojNTU3NDgyO3RleHQtZGVjb3JhdGlvbjpub25lOycgaHJlZj0iL25ld3MvNjc3MTQxLWRydWctZmlybS1hbm5vdW5jZXMtYWR2YW5jZS1pbi1xdWVzdC1mb3ItaGl2LWN1cmUuaHRtbCI+RHJ1ZyBmaXJtIGFubm91bmNlcyBhZHZhbmNlIGluIHF1ZXN0IGZvciBISVYgY3VyZS4uLjwvYT48L3NwYW4+PC9saT4gPGxpIGNsYXNzPSJuZXdzLWl0ZW0iPjxhIHN0eWxlPSdjb2xvcjojNTU3NDgyO3RleHQtZGVjb3JhdGlvbjpub25lOycgaHJlZj0iL25ld3MvNjc3MTM4LWh1bWFuLXJpZ2h0cy12aW9sYXRpb25zLWFnYWluc3QtbXBzLW9uLXRoZS1yaXNlLXJlcG9ydC5odG1sIj5IdW1hbiByaWdodHMgdmlvbGF0aW9ucyBhZ2FpbnN0IE1QcyBvbiB0aGUgcmlzZSAtIHJlcG9ydC4uLjwvYT48L2xpPiA8bGkgY2xhc3M9Im5ld3MtaXRlbSI+PGEgc3R5bGU9J2NvbG9yOiM1NTc0ODI7dGV4dC1kZWNvcmF0aW9uOm5vbmU7JyBocmVmPSIvbmV3cy82NzcxMzctaXB1LWNhbGxzLWZvci1kaWFsb2d1ZS1vdmVyLWJ1cnVuZGktY3Jpc2lzLmh0bWwiPklQVSBjYWxscyBmb3IgZGlhbG9ndWUgb3ZlciBCdXJ1bmRpIGNyaXNpcy4uLjwvYT48L2xpPiA8bGkgY2xhc3M9Im5ld3MtaXRlbSI+PGEgc3R5bGU9J2NvbG9yOiM1NTc0ODI7dGV4dC1kZWNvcmF0aW9uOm5vbmU7JyBocmVmPSIvbmV3cy82NzcxMzYtb2lsLXByaWNlcy1yZWNvdmVyLXNsaWdodGx5Lmh0bWwiPk9pbCBwcmljZXMgcmVjb3ZlciBzbGlnaHRseS4uLjwvYT48L2xpPiA8bGkgY2xhc3M9Im5ld3MtaXRlbSI+PGEgc3R5bGU9J2NvbG9yOiM1NTc0ODI7dGV4dC1kZWNvcmF0aW9uOm5vbmU7JyBocmVmPSIvbmV3cy82NzcxMzUtYmVzaWVnZWQtYWZnaGFuLWZvcmNlcy1iYXR0bGUtdG8tZmx1c2gtb3V0LXRhbGliYW4taW4ta2V5LWRpLmh0bWwiPkJlc2llZ2VkIEFmZ2hhbiBmb3JjZXMgYmF0dGxlIHRvIGZsdXNoIG91dCBUYWxpYmFuIGluIGtleSBkaS4uLi4uLjwvYT48L2xpPiA8bGkgY2xhc3M9Im5ld3MtaXRlbSI+PGEgc3R5bGU9J2NvbG9yOiM1NTc0ODI7dGV4dC1kZWNvcmF0aW9uOm5vbmU7JyBocmVmPSIvbmV3cy82NzcxMzQta2l0Z3VtLXJ1Z2J5LXF1ZWVucy1hcmUtbm9ydGhlcm4tY2hhbXBzLmh0bWwiPktpdGd1bSBSdWdieSBRdWVlbnMgYXJlIG5vcnRoZXJuIGNoYW1wcy4uLjwvYT48L2xpPiA8bGkgY2xhc3M9Im5ld3MtaXRlbSI+PGEgc3R5bGU9J2NvbG9yOiM1NTc0ODI7dGV4dC1kZWNvcmF0aW9uOm5vbmU7JyBocmVmPSIvbmV3cy82NzcxMzMtdWdhbmRhLXNldHRsZXMtZm9yLWJyb256ZS1pbi1rZW55YS5odG1sIj5VZ2FuZGEgc2V0dGxlcyBmb3IgQnJvbnplIGluIEtlbnlhLi4uPC9hPjwvbGk+IDxsaSBjbGFzcz0ibmV3cy1pdGVtIj48YSBzdHlsZT0nY29sb3I6IzU1NzQ4Mjt0ZXh0LWRlY29yYXRpb246bm9uZTsnIGhyZWY9Ii9uZXdzLzY3NzEzMi1kbWFyay1yZXRhaW4tY2hlc3MtbGVhZ3VlLWNyb3duLmh0bWwiPkRtYXJrIHJldGFpbiBjaGVzcyBsZWFndWUgY3Jvd24uLi48L2E+PC9saT4gPGxpIGNsYXNzPSJuZXdzLWl0ZW0iPjxhIHN0eWxlPSdjb2xvcjojNTU3NDgyO3RleHQtZGVjb3JhdGlvbjpub25lOycgaHJlZj0iL25ld3MvNjc3MTMxLXBsYXRpbmktY2FsbHMtZmlmYS1iYW4tYS1raWNrLWluLXRoZS10ZWV0aC5odG1sIj5QbGF0aW5pIGNhbGxzIEZJRkEgYmFuIGEgJ2tpY2sgaW4gdGhlIHRlZXRoJy4uLjwvYT48L2xpPiA8bGkgY2xhc3M9Im5ld3MtaXRlbSI+PGEgc3R5bGU9J2NvbG9yOiM1NTc0ODI7dGV4dC1kZWNvcmF0aW9uOm5vbmU7JyBocmVmPSIvbmV3cy82NzcxMzAtc3dlZGlzaC1lcmljc3Nvbi1hbmQtYXBwbGUtc2V0dGxlLXBhdGVudC1kaXNwdXRlcy5odG1sIj5Td2VkaXNoIEVyaWNzc29uIGFuZCBBcHBsZSBzZXR0bGUgcGF0ZW50IGRpc3B1dGVzLi4uPC9hPjwvbGk+PC91bD5kAgUPZBYWZg8WAh8CBQ1FbnRlcnRhaW5tZW50ZAIBDxYCHwIFiQENCiAgICAgICAgICAgICAgDQogICAgICAgICAgICBNZWdhdG9uZSwgcHJvZHVjZXIgQnJ1bm8gZmV1ZCBvdmVyIFRpbmRhdGlpbmU8YnIgLz48c3BhbiBjbGFzcz0idXBkYXRlZDIiPlB1Ymxpc2ggRGF0ZTogRGVjIDE2LCAyMDE1PC9zcGFuPmQCAg8WAh8CBekBPGltZyBvbk1vdXNlRG93bj0iY2xvc2VpbWFnZXNhdmluZygpOyIgc3JjPSIvbmV3dmlzaW9uX2Ntcy9nYWxsX2NvbnRlbnQvMjAxNS8xMi8yMDE1XzEyJGxhcmdlaW1nMjE2X0RlY18yMDE1XzIwNTgwMDcwMy5qcGciICBzdHlsZT0ibWF4LWhlaWdodDozMDNweDttYXgtd2lkdGg6MzgwcHg7IiBhbHQ9Ik1lZ2F0b25lLCBwcm9kdWNlciBCcnVubyBmZXVkIG92ZXIgVGluZGF0aWluZSIgY2xhc3M9ImltZyIgLz5kAgMPFgIfAgUhTWVnYXRvb25lIGFuZCBMYWR5IE1hcmlhbSAoaW5zZXQpZAIEDxYCHgVzdHlsZQUpZGlzcGxheTpibG9jazttYXJnaW4tdG9wOjVweDtoZWlnaHQ6MzVweDtkAgUPFgIfAgUJbmV3dmlzaW9uZAIGDxYCHwMFHmRpc3BsYXk6bm9uZTttYXJnaW4tdG9wOi0yMHB4O2QCBw8WAh8CBfkHDQogICAgICAgICAgICAgDQogICAgICAgICAgICAgICAgPGRpdj48c3BhbiBzdHlsZT0iZmxvYXQ6bGVmdDsiIGNsYXNzPSJGdWxsc3RvcnlfY2xhc3MiPjxwPjxwPjxzdHJvbmc+QnkgRHVuY2FuIEt1c2hhYmE8YnIgLz4NCjxiciAvPg0KSWYgeW91IGFyZSBmYW1pbGlhciB3aXRoIHRoZSBlbnRlcnRhaW5tZW50IHNjZW5lIGFyb3VuZCBNYmFyYXJhIHRvd24sIHRoZW4geW91IGtub3cgd2hvIHdlIGFyZSB0YWxraW5nIGFib3V0Ljwvc3Ryb25nPiA8YnIgLz4NCjxiciAvPg0KTWVnYXRvbmUsIG9uZSBvZiB0aGUgZmFzdGVzdCByaXNpbmcgcmVnZ2FlIGRhbmNlaGFsbCBhbmQgaGlzIG1lbnRvciBCcnVubyB0aGUgcHJvZHVjZXIgd2hvIHB1dCBoaW0gb24gdGhlIE1iYXJhcmEgbXVzaWMgc2NlbmUgYnkgZ2l2aW5nIGhpbSBmcmVlIHJlY29yZGluZyB0aW1lIGluIGhpcyBzdHVkaW8sIEFscGhhIE11c2lrLCBhcmUgZmV1ZGluZyBvdmVyIHNpbmdlciBUaW5kYXRpaW5lLiA8YnIgLz4NCjxiciAvPg0KVGhlIHR3byB3ZW50IGF0IGxvZ2dlcmhlYWRzIHdoZW4gcmVwb3J0cyBlbWVyZ2VkIG9mIE1lZ2F0b25lIHNlY3JldGx5IHNlZWluZyBMYWR5IE1hcmlhbSBvZiB0aGUgVGluZGF0aWluZSBmYW1lIGJlaGluZCBoaXMgbWVudG9yJ3MgYmFjay4gPGJyIC8+DQo8YnIgLz4NClRoZSBydW1vdXIgaGFzIGJlZW4gc3Ryb25nIGFyb3VuZCB0b3duIHRoYXQgTGFkeSBNYXJpYW0gd2FzIGNvemlseSBmcmllbmRseSB0byB0aGUgbXVjaCB5b3VuZ2VyIHNraW5ueSBkYW5jZWhhbGwgYXJ0aXN0ZS4gPGJyIC8+DQo8YnIgLz4NCkl0IGFsbCBzdGFydGVkIHdoZW4gTWVnYXRvbmUgY29sbGFib3JhdGVkIG9uIGEgdmVyeSBtYXNzaXZlIGhpdCBzb25nIGluIE1iYXJhcmEgcmlnaHQgbm93IGNhbGxlZCBOc2hhZ2FyYSB3aGljaCB3YXMgaXJvbmljYWxseSBwcm9kdWNlZCBieSBCcnVubyBhdCBoaXMgc3R1ZGlvcyAtIGZvciBmcmVlLiA8YnIgLz4NCjxiciAvPg0KJm5ic3A7PC9wPjwvcD48L3NwYW4+PC9kaXY+ZAIID2QWAgIBDxYCHwIFsRw8ZGl2IGNsYXNzPSJuZXdzdGl0bGUiPjxhIHN0eWxlPSdjb2xvcjojMTE1MThGO3RleHQtZGVjb3JhdGlvbjpub25lOycgaHJlZj0iL25ld3MvNjc3MTE5LS1zdGFyLXdhcnMtb3ZlcnRha2VzLWp1cmFzc2ljLXdvcmxkLWZvci1iaWdnZXN0LWdsb2JhbC1kZWJ1dC5odG1sIj4nU3RhciBXYXJzJyBvdmVydGFrZXMgJ0p1cmFzc2ljIFdvcmxkJyBmb3IgYmlnZ2VzdCBnbG9iYWwgZGVidXQ8L2E+PC9kaXY+PGRpdj48aW1nIG9uTW91c2VEb3duPSJjbG9zZWltYWdlc2F2aW5nKCk7IiBzcmM9Ii9uZXd2aXNpb25fY21zL2dhbGxfY29udGVudC8yMDE1LzEyLzIwMTVfMTIkdGh1bWJpbWcxMjJfRGVjXzIwMTVfMDkzODE2MTAzLmpwZyIgYWx0PScnU3RhciBXYXJzJyBvdmVydGFrZXMgJ0p1cmFzc2ljIFdvcmxkJyBmb3IgYmlnZ2VzdCBnbG9iYWwgZGVidXQnIHN0eWxlPSdtYXgtaGVpZ2h0OjU1cHg7bWF4LXdpZHRoOjgwcHg7JyBjbGFzcz0ibGlmZWxlZnQiPjxkaXYgIGNsYXNzPSJuZXdzdGV4dCI+VGhlIG5ldyAiU3RhciBXYXJzIiBtb3ZpZSBoYXMgc2V0IGEgZ2xvYmFsIG9wZW5pbmcgd2Vla2VuZCByZWNvcmQsIHNtYXNoaW5nIHBhc3QgdGhlIHByZXZpb3VzIHJlY29yZCBob2xkZXIgIkp1cmFzc2ljIFdvcmxkIiB0byByYWtlIGluICQ1MjkgbWlsbGlvbiwgRGlzbmV5IHNhaWQgb24gTW9uZGF5Li4uLiA8L2Rpdj48L2Rpdj48ZGl2IGNsYXNzPSJuZXdzdGl0bGUiPjxhIHN0eWxlPSdjb2xvcjojMTE1MThGO3RleHQtZGVjb3JhdGlvbjpub25lOycgaHJlZj0iL25ld3MvNjc3MDc0LW1pc3MtcGhpbGlwcGluZXMtY3Jvd25lZC1taXNzLXVuaXZlcnNlLWFmdGVyLWxpdmUtdHYtbWl4dXAuaHRtbCI+TWlzcyBQaGlsaXBwaW5lcyBjcm93bmVkIE1pc3MgVW5pdmVyc2UgYWZ0ZXIgbGl2ZSBUViBtaXh1cDwvYT48L2Rpdj48ZGl2PjxpbWcgb25Nb3VzZURvd249ImNsb3NlaW1hZ2VzYXZpbmcoKTsiIHNyYz0iL25ld3Zpc2lvbl9jbXMvZ2FsbF9jb250ZW50LzIwMTUvMTIvMjAxNV8xMiR0aHVtYmltZzEyMV9EZWNfMjAxNV8wODUyMTkxNjAuanBnIiBhbHQ9J01pc3MgUGhpbGlwcGluZXMgY3Jvd25lZCBNaXNzIFVuaXZlcnNlIGFmdGVyIGxpdmUgVFYgbWl4dXAnIHN0eWxlPSdtYXgtaGVpZ2h0OjU1cHg7bWF4LXdpZHRoOjgwcHg7JyBjbGFzcz0ibGlmZWxlZnQiPjxkaXYgIGNsYXNzPSJuZXdzdGV4dCI+TWlzcyBQaGlsaXBwaW5lcyB3YXMgbmFtZWQgTWlzcyBVbml2ZXJzZSBTdW5kYXkgaW4gYSBkcmFtYS1maWxsZWQgdHVybiB3b3J0aHkgb2YgYSB0ZWxlbm92ZWxhLi4uLiA8L2Rpdj48L2Rpdj48ZGl2IGNsYXNzPSJuZXdzdGl0bGUiPjxhIHN0eWxlPSdjb2xvcjojMTE1MThGO3RleHQtZGVjb3JhdGlvbjpub25lOycgaHJlZj0iL25ld3MvNjc3MDM2LW5ldy1zdGFyLXdhcnMtZmlsbS1zbWFzaGVzLWJveC1vZmZpY2UtcmVjb3JkLmh0bWwiPk5ldyBTdGFyIFdhcnMgZmlsbSBzbWFzaGVzIGJveC1vZmZpY2UgcmVjb3JkPC9hPjwvZGl2PjxkaXY+PGltZyBvbk1vdXNlRG93bj0iY2xvc2VpbWFnZXNhdmluZygpOyIgc3JjPSIvbmV3dmlzaW9uX2Ntcy9nYWxsX2NvbnRlbnQvMjAxNS8xMi8yMDE1XzEyJHRodW1iaW1nMTE5X0RlY18yMDE1XzA2NDczMTEyMC5qcGciIGFsdD0nTmV3IFN0YXIgV2FycyBmaWxtIHNtYXNoZXMgYm94LW9mZmljZSByZWNvcmQnIHN0eWxlPSdtYXgtaGVpZ2h0OjU1cHg7bWF4LXdpZHRoOjgwcHg7JyBjbGFzcz0ibGlmZWxlZnQiPjxkaXYgIGNsYXNzPSJuZXdzdGV4dCI+IlN0YXIgV2FyczogVGhlIEZvcmNlIEF3YWtlbnMiIGhhcyBzbWFzaGVkIHRoZSBvcGVuaW5nIG5pZ2h0IHJlY29yZCBpbiB0aGUgVW5pdGVkIFN0YXRlcyBhbmQgQ2FuYWRhLi4uLiA8L2Rpdj48L2Rpdj48ZGl2IGNsYXNzPSJuZXdzdGl0bGUiPjxhIHN0eWxlPSdjb2xvcjojMTE1MThGO3RleHQtZGVjb3JhdGlvbjpub25lOycgaHJlZj0iL25ld3MvNjc3MDI4LWFuZC10aGUtcGFydHkta2lja3Mtb2ZmLmh0bWwiPkFuZCB0aGUgcGFydHkga2lja3Mgb2ZmLi4uPC9hPjwvZGl2PjxkaXY+PGltZyBvbk1vdXNlRG93bj0iY2xvc2VpbWFnZXNhdmluZygpOyIgc3JjPSIvbmV3dmlzaW9uX2Ntcy9nYWxsX2NvbnRlbnQvMjAxNS8xMi8yMDE1XzEyJHRodW1iaW1nMTE4X0RlY18yMDE1XzE3NTAxNjM3MC5qcGciIGFsdD0nQW5kIHRoZSBwYXJ0eSBraWNrcyBvZmYuLi4nIHN0eWxlPSdtYXgtaGVpZ2h0OjU1cHg7bWF4LXdpZHRoOjgwcHg7JyBjbGFzcz0ibGlmZWxlZnQiPjxkaXYgIGNsYXNzPSJuZXdzdGV4dCI+S2FtcGFsYSEgQSBjaXR5IHNvIGZ1bGwgb2YgbGlmZSwgZGVwZW5kaW5nIG9uIGhvdyB5b3UgdGFrZSBpdCBpbiBzdHJpZGUuIEFtb25nIG90aGVyIHRoaW5ncywgS2FtcGFsYW5zIHBhcnR5IHdoZW4gaXQncyB0aW1lIHRvIHBhcnR5Li4uLiA8L2Rpdj48L2Rpdj48ZGl2IGNsYXNzPSJuZXdzdGl0bGUiPjxhIHN0eWxlPSdjb2xvcjojMTE1MThGO3RleHQtZGVjb3JhdGlvbjpub25lOycgaHJlZj0iL25ld3MvNjc2OTg5LWluYm94LW1lLWlmLXlvdS1uZWVkLWhlbHAtaXZhbi1zZW13YW5nYS5odG1sIj5JbmJveCBtZSBpZiB5b3UgbmVlZCBoZWxwIC0gSXZhbiBTZW13YW5nYTwvYT48L2Rpdj48ZGl2PjxpbWcgb25Nb3VzZURvd249ImNsb3NlaW1hZ2VzYXZpbmcoKTsiIHNyYz0iL25ld3Zpc2lvbl9jbXMvZ2FsbF9jb250ZW50LzIwMTUvMTIvMjAxNV8xMiR0aHVtYmltZzExN19EZWNfMjAxNV8yMDU1NDUyNDcuanBnIiBhbHQ9J0luYm94IG1lIGlmIHlvdSBuZWVkIGhlbHAgLSBJdmFuIFNlbXdhbmdhJyBzdHlsZT0nbWF4LWhlaWdodDo1NXB4O21heC13aWR0aDo4MHB4OycgY2xhc3M9ImxpZmVsZWZ0Ij48ZGl2ICBjbGFzcz0ibmV3c3RleHQiPkl0J3MgdGhhdCB0aW1lIG9mIHRoZSB5ZWFyOyB0aGUgcGFydGllcywgdGhlIHNwZW5kZXJzIGFuZCB0aGVpciBlZ29zLiBUaGUgY29kZW5hbWVkIFJpY2ggR2FuZyBjcmV3IGlzIGluIHRvd24gYWdhaW4gYW5kIGFyZSB0aHJvd2luZyBhbiBlbmQgb2YgeWVhciBwYXJ0eSB0aGVtZWQgIlRoZSBSaWNoIEdhbmcgQmlnIFNwZW5kZXJzIFBhcnR5Li4uIDwvZGl2PjwvZGl2PjxkaXYgY2xhc3M9Im5ld3N0aXRsZSI+PGEgc3R5bGU9J2NvbG9yOiMxMTUxOEY7dGV4dC1kZWNvcmF0aW9uOm5vbmU7JyBocmVmPSIvbmV3cy82NzY5Mzkta2Vuem8tbG9zZXMtY29vbC15ZXQtYWdhaW4uaHRtbCI+S2Vuem8gbG9zZXMgY29vbCDigJMgeWV0IGFnYWluPC9hPjwvZGl2PjxkaXY+PGltZyBvbk1vdXNlRG93bj0iY2xvc2VpbWFnZXNhdmluZygpOyIgc3JjPSIvbmV3dmlzaW9uX2Ntcy9nYWxsX2NvbnRlbnQvMjAxNS8xMi8yMDE1XzEyJHRodW1iaW1nMTE2X0RlY18yMDE1XzIyMzIzMDQ0My5qcGciIGFsdD0nS2Vuem8gbG9zZXMgY29vbCDigJMgeWV0IGFnYWluJyBzdHlsZT0nbWF4LWhlaWdodDo1NXB4O21heC13aWR0aDo4MHB4OycgY2xhc3M9ImxpZmVsZWZ0Ij48ZGl2ICBjbGFzcz0ibmV3c3RleHQiPkVkZHkgS2Vuem8gaXMgbm8gc3RyYW5nZXIgdG8gYnJhd2xzIGFuZCBwZXR0eSBmaWdodHMhIFRoZSBlbWJhcnJhc3Npbmcgc2NlbmUgd2hlbiBoZSBiZWF0IHVwIGEgc2NyaWJlIGF0IGEgcHJlc3MgY29uZmVyZW5jZSBpbiBzdGlsbCBmcmVzaC4uLiA8L2Rpdj48L2Rpdj5kAgsPDxYCHgZtYWluaWQFAzM4NmQWBGYPFgIfAgVlPGRpdiBjbGFzcz0icmhzaGQiPjxhIHN0eWxlPSdjb2xvcjp3aGl0ZTt0ZXh0LWRlY29yYXRpb246bm9uZTsnIGhyZWY9Ii9wcmV2X3BvbGwuYXNweCI+UE9MTDwvYT48L2Rpdj5kAgIPZBYKAgEPFgIfAgVaDQogICAgICAgIEFzIHdlIGNlbGVicmF0ZSBXb3JsZCBIdW1hbiBSaWdodHMgRGF5LCBkbyB5b3UgdGhpbmsgVWdhbmRhbnMga25vdyB0aGVpciByaWdodHM/ZAIDD2QWAgICDxYCHwIFEQ0KICAgICAgICAgICAgWWVzZAIFD2QWAgICDxYCHwIFEA0KICAgICAgICAgICAgTm9kAgcPZBYCAgIPFgIfAgUXDQogICAgICAgICAgICBDYW4ndCBTYXlkAgkPD2QWAh4Hb25jbGljawUfamF2YXNjcmlwdDpyZXR1cm4gY2hlY2tfcG9sbCgpO2QCDA9kFgICAw9kFgICAw8PZBYCHg1PbkNsaWVudENsaWNrBR1qYXZhc2NyaXB0OnJldHVybiBlbWFpbGlkMigpO2QCBw9kFgJmDxYCHwIFsgcgPGxpPjxhIGhyZWY9Ii9Ib21lLmFzcHgiIGNsYXNzPSJwYXJlbnQiPjxzcGFuPkhvbWU8L3NwYW4+PC9hPjwvbGk+PGxpID48YSBocmVmPSIvc2VjdGlvbi81My00MzUtdG9kYXktcy1QaWNrLmh0bWwiIGNsYXNzPSJwYXJlbnQiPjxzcGFuPnRvZGF5J3MgUGljazwvc3Bhbj48L2E+PC9saT48bGkgPjxhIGhyZWY9Ii9zZWN0aW9uLzUzLTEtTmF0aW9uYWwuaHRtbCIgY2xhc3M9InBhcmVudCI+PHNwYW4+TmF0aW9uYWw8L3NwYW4+PC9hPjwvbGk+PGxpID48YSBocmVmPSIvc2VjdGlvbi81My0zLUJ1c2luZXNzLmh0bWwiIGNsYXNzPSJwYXJlbnQiPjxzcGFuPkJ1c2luZXNzPC9zcGFuPjwvYT48L2xpPjxsaSA+PGEgaHJlZj0iL3NlY3Rpb24vNTMtNS1TcG9ydC5odG1sIiBjbGFzcz0icGFyZW50Ij48c3Bhbj5TcG9ydDwvc3Bhbj48L2E+PC9saT48bGkgY2xhc3M9ImN1cnJlbnQiPjxhIGhyZWY9Ii9zZWN0aW9uLzUzLTM5Ny1FbnRlcnRhaW5tZW50Lmh0bWwiIGNsYXNzPSJwYXJlbnQiPjxzcGFuPkVudGVydGFpbm1lbnQ8L3NwYW4+PC9hPjwvbGk+PGxpID48YSBocmVmPSIvc2VjdGlvbi81My0yLVdvcmxkLmh0bWwiIGNsYXNzPSJwYXJlbnQiPjxzcGFuPldvcmxkPC9zcGFuPjwvYT48L2xpPjxsaSA+PGEgaHJlZj0iL3NlY3Rpb24vNTMtNDg2LVNjaWVuY2UtLS10ZWNobm9sb2d5Lmh0bWwiIGNsYXNzPSJwYXJlbnQiPjxzcGFuPlNjaWVuY2UgJiB0ZWNobm9sb2d5PC9zcGFuPjwvYT48L2xpPjxsaSA+PGEgaHJlZj0iL3NlY3Rpb24vNTMtNDEzLVN1cHBsZW1lbnRzLmh0bWwiIGNsYXNzPSJwYXJlbnQiPjxzcGFuPlN1cHBsZW1lbnRzPC9zcGFuPjwvYT48L2xpPjxsaSA+PGEgaHJlZj0iaHR0cDovL2VwYXBlci5uZXd2aXNpb24uY28udWcvbG9naW4uYXNweCIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJwYXJlbnQiPjxzcGFuPmUtUGFwZXI8L3NwYW4+PC9hPjwvbGk+ZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WBgUiY3RsMDAkQ29udGVudFBsYWNlSG9sZGVyMSRwbGwxJHJiMQUiY3RsMDAkQ29udGVudFBsYWNlSG9sZGVyMSRwbGwxJHJiMgUiY3RsMDAkQ29udGVudFBsYWNlSG9sZGVyMSRwbGwxJHJiMwUrY3RsMDAkQ29udGVudFBsYWNlSG9sZGVyMSRwbGwxJEltYWdlQnV0dG9uMQU4Y3RsMDAkQ29udGVudFBsYWNlSG9sZGVyMSRmb2xsb3dfc3Vic2NyaWJlMiRJbWFnZUJ1dHRvbjEFJmN0bDAwJENvbnRlbnRQbGFjZUhvbGRlcjEkSW1hZ2VCdXR0b24xbruO3zT8djMJ38Ij7CjNX1hKkhA=" />
+
+
+<script src="/ScriptResource.axd?d=b7PPqI-JGx-w_N0--m9l3Eo6E7vxcOb3EBUSutpja1e86m7VZuVES5gYQHUdS4t0ulSX8podrevqvKq0_6Nd-iaSp00Ut_SOGN4hz3r8J0d-oqJLXigGu68VrQSTUg3YcCI9yN0KQUhVMXEag42xizUIGFChHqdGycpoENHLMpUgkj7x0&amp;t=7ce2a57e" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="10F67F18" />
+    <div id="page">
+        
+        
+<div id="header">
+    <div class="top">
+        <div class="date">
+            <script type="text/javascript">
+
+                var mydate = new Date()
+                var year = mydate.getYear()
+                if (year < 1000)
+                    year += 1900
+                var day = mydate.getDay()
+                var month = mydate.getMonth()
+                var daym = mydate.getDate()
+                if (daym < 10)
+                    daym = "0" + daym
+                var dayarray = new Array("Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday")
+                var montharray = new Array("January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December")
+                document.write(" <font color='8c9eac' > " + dayarray[day] + ", " + montharray[month] + " " + daym + ", " + year + "</font> ")
+
+            </script>
+        </div>
+        <div id="ctl00_topbar1_divlastupdated" class="updated"> | Last Updated 1 hour ago</div>
+        <div style="width:455px;" class="topmenu" align="right">
+          <a href="../Content_Rights_And_Permission.aspx">Content Rights and Permission</a>|
+            <a href="../rss.aspx" target="_blank" title="RSS">RSS</a>
+            | <a href="http://www.visiongroup.co.ug/advertising-rates.php" target="_blank" title="Advertise">
+                Advertise</a> | <a href="../subscription.aspx" target="_blank"
+                    title="Subscribe">Subscribe</a> | <a href="../feedback.aspx"
+                        target="_blank" title="Feedback">Feedback</a> | <a href="../Archive.aspx"
+                            target="_blank" title="Archive">Archive</a> | <a href="http://www.visiongroup.co.ug"
+                                target="_blank" title="About US">About US</a> | <a href="http://epaper.newvision.co.ug/login.aspx"
+                                    target="_blank" title="e-Paper">e-Paper</a> | <a href="http://www.newvision.co.ug/mobile"
+                                        target="_blank" title="Mobile Application">Mobile</a>
+            | <a href="http://ads.newvision.co.ug/public/public" target="_blank" title="Classified">
+                BOOK ADVERT</a>
+        </div>
+    </div>
+    <div class="header">
+        <div class="logo">
+            <a href="../Home.aspx">
+                <img border="0" src="../images/newvisionlogo.jpg" width="270"
+                    height="74" /></a></div>
+        <div>
+            <div id='div-gpt-ad-1340357368431-0'>
+                <script type='text/javascript'>
+                    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1340357368431-0'); });
+                </script>
+            </div>
+        </div>
+    </div>
+    <div class="menuwrap">
+        <div id="menu">
+            <ul id="ctl00_topbar1_ulmainmenu" class="menu"><li><a href="/Home.aspx" class="parent"><span>Home</span></a></li><li ><a href="/section/53-435-today-s-Pick.html" class="parent"><span>today's Pick</span></a></li><li ><a href="/section/53-1-National.html" class="parent"><span>National</span></a><div><ul><li><a href="/section/53-498-Census-2014.html"><span>Census 2014</span></a></li><li><a href="/section/53-431-Corporate-News.html"><span>Corporate News</span></a></li><li><a href="/section/53-501-National-Budget-2015.html"><span>National Budget 2015</span></a></li><li><a href="/section/53-419-Pakasa.html"><span>Pakasa</span></a></li><li><a href="/section/53-502-Papal-Visit-2015.html"><span>Papal Visit 2015</span></a></li><li><a href="/section/53-380-Regionals.html"><span>Regionals</span></a></li><li><a href="/section/53-500-Uganda-Martyrs--Day-2015.html"><span>Uganda Martyrs' Day 2015</span></a></li></ul></div></li><li ><a href="/section/53-3-Business.html" class="parent"><span>Business</span></a></li><li ><a href="/section/53-5-Sport.html" class="parent"><span>Sport</span></a><div><ul><li><a href="/section/53-496-2014-World-Cup.html"><span>2014 World Cup</span></a></li></ul></div></li><li   ><a href="/gallery/multimedia.html" class="parent"><span>Multimedia</span></a><div><ul><li><a href="/gallery/30PHOTO.html" ><span>Photo</span></a></li><li><a href="/gallery/8VIDEO.html" ><span>Video</span></a></li></ul></div></li><li class="current"><a href="/section/53-397-Entertainment.html" class="parent"><span>Entertainment</span></a></li><li ><a href="/section/53-2-World.html" class="parent"><span>World</span></a></li><li ><a href="/section/53-486-Science---technology.html" class="parent"><span>Science & technology</span></a><div><ul><li><a href="/section/53-487-Oil---Gas.html"><span>Oil & Gas</span></a></li></ul></div></li><li ><a href="/section/53-413-Supplements.html" class="parent"><span>Supplements</span></a><div><ul><li><a href="http://jobs.co.ug/?page_id=5" target='_blank' ><span>Jobs</span></a></li><li><a href="/section/53-414-Notices.html"><span>Notices</span></a></li><li><a href="http://www.newvision.co.ug/section/53-413-Supplements.html" target='_parent' ><span>Supplements</span></a></li><li><a href="/section/53-415-Tenders.html"><span>Tenders</span></a></li></ul></div></li><li ><a href='http://jobs.co.ug/?page_id=5' target='_blank' class="parent"><span>Jobs</span></a><li ><a href="#" class="parent"><span>e-Paper</span></a><div><ul><li><a href="http://www.etop.co.ug" target='_blank' ><span>Etop </span></a></li><li><a href="http://epaper.newvision.co.ug/login.aspx" target='_blank' ><span>Newvision </span></a></li><li><a href="http://www.rupiny.co.ug" target='_blank' ><span>Rupiny </span></a></li><li><a href="http://www.orumuri.co.ug" target='_blank' ><span>Orumuri</span></a></li></ul></div></li><li><a href='http://www.elections.co.ug/' target="_blank"><span>Elections</span></a><div style='width: 128px;'><ul style='width: 120px;'><li><a style='width: 110px;' href='http://www.elections.co.ug/' target="_blank"><span>Elections 2016</span></a></li></ul></div></li></ul>
+        </div>
+    </div>
+    <div class="headline">
+        <div align="left" class="headl">
+            <div id="ctl00_topbar1_divsubmenu" class="smenu"></div>
+            <br />
+            <div id="ctl00_topbar1_top3headline"> <div class="headliner1"><a style='color:#11518F;' href="/news/677117-burundi-parliament-slams-invasion-peacekeeper-force.html">Burundi parliament slams 'invasion' peacekeeper force</a><a style='font-size:11px;color:red;' href="/news/677117-burundi-parliament-slams-invasion-peacekeeper-force.html"></a></div> <div class="headliner2"><a style='color:#11518F;' href="/news/677120-world-bank-cancels-funding-for-uganda-transport-project.html">World Bank cancels funding for Uganda transport project</a><a style='font-size:11px;color:red;' href="/news/677120-world-bank-cancels-funding-for-uganda-transport-project.html"></a></div> <div class="headliner3"><a style='color:#11518F;' href="/news/677141-drug-firm-announces-advance-in-quest-for-hiv-cure.html">Drug firm announces advance in quest for HIV cure</a><a style='font-size:11px;color:red;' href="/news/677141-drug-firm-announces-advance-in-quest-for-hiv-cure.html"></a></div></div>
+        </div>
+        <div id="ctl00_topbar1_top3images" align="right" class="pic"><img onMouseDown="closeimagesaving();" src="/newvision_cms/gall_content/2015/12/2015_12$thumbimg122_Dec_2015_202033963.png"  alt='epaper image'/></div>
+    </div>
+    <div class="news">
+        <div style="float: left; margin: 0px; padding: 0px 0px 5px 0px; width: 100%; height: auto;">
+                       <!-- TOP_STRIP_1000x45 -->
+            <div id='div-gpt-ad-1408450827127-0' style='width:1000px; height:45px;'>
+            <script type='text/javascript'>
+                googletag.cmd.push(function () { googletag.display('div-gpt-ad-1408450827127-0'); });
+            </script>
+            </div>
+        </div>
+        <div class="latestnews">
+            latest news</div>
+        <div id="ctl00_topbar1_tickerdata" class="latestnewstik"><ul id="js-news" class="js-hidden"> <li class="news-item"><span class="item"><a style='color:#557482;text-decoration:none;' href="/news/677141-drug-firm-announces-advance-in-quest-for-hiv-cure.html">Drug firm announces advance in quest for HIV cure...</a></span></li> <li class="news-item"><a style='color:#557482;text-decoration:none;' href="/news/677138-human-rights-violations-against-mps-on-the-rise-report.html">Human rights violations against MPs on the rise - report...</a></li> <li class="news-item"><a style='color:#557482;text-decoration:none;' href="/news/677137-ipu-calls-for-dialogue-over-burundi-crisis.html">IPU calls for dialogue over Burundi crisis...</a></li> <li class="news-item"><a style='color:#557482;text-decoration:none;' href="/news/677136-oil-prices-recover-slightly.html">Oil prices recover slightly...</a></li> <li class="news-item"><a style='color:#557482;text-decoration:none;' href="/news/677135-besieged-afghan-forces-battle-to-flush-out-taliban-in-key-di.html">Besieged Afghan forces battle to flush out Taliban in key di......</a></li> <li class="news-item"><a style='color:#557482;text-decoration:none;' href="/news/677134-kitgum-rugby-queens-are-northern-champs.html">Kitgum Rugby Queens are northern champs...</a></li> <li class="news-item"><a style='color:#557482;text-decoration:none;' href="/news/677133-uganda-settles-for-bronze-in-kenya.html">Uganda settles for Bronze in Kenya...</a></li> <li class="news-item"><a style='color:#557482;text-decoration:none;' href="/news/677132-dmark-retain-chess-league-crown.html">Dmark retain chess league crown...</a></li> <li class="news-item"><a style='color:#557482;text-decoration:none;' href="/news/677131-platini-calls-fifa-ban-a-kick-in-the-teeth.html">Platini calls FIFA ban a 'kick in the teeth'...</a></li> <li class="news-item"><a style='color:#557482;text-decoration:none;' href="/news/677130-swedish-ericsson-and-apple-settle-patent-disputes.html">Swedish Ericsson and Apple settle patent disputes...</a></li></ul></div>
+        <div align="right" style="float:left;">
+            <div id="cse-search-form" style="width: 265px; margin-top: 0px; margin-left: -14px;">
+                Loading</div>
+            <script src="http://www.google.com/jsapi" type="text/javascript"></script>
+            <script type="text/javascript">
+                google.load('search', '1', { language: 'en', style: google.loader.themes.ESPRESSO });
+                google.setOnLoadCallback(function () {
+                    var customSearchControl = new google.search.CustomSearchControl(
+      '016788383194223663450:4ursyw2abq0');
+
+                    customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+                    var options = new google.search.DrawOptions();
+                    options.enableSearchboxOnly("http://www.newvision.co.ug/finalsearch.aspx");
+                    customSearchControl.draw('cse-search-form', options);
+                }, true);
+            </script>
+             </div>
+            <style type="text/css">
+                input.gsc-input
+                {
+                    border-color: #000000;
+                }
+                input.gsc-search-button
+                {
+                    border-color: #333333;
+                    background-color: #461200;
+                }
+                .cse form.gsc-search-box, form.gsc-search-box
+                {
+                    padding: 0px 4px 2px 6px !important;
+                }
+                /* IE ignores styles with [attributes], so it will skip the following. */
+                .trans[class]
+                {
+                    color: white;
+                    text-align: left;
+                    padding-top: 3px;
+                    padding-left: 9px;
+                    bottom: 0px;
+                    padding-bottom: 0px;
+                    background-image: url(images/alpha.png);
+                }
+            </style>
+            
+       
+    </div>
+</div>
+
+        
+    <div id="lhs">
+        <div id="ctl00_ContentPlaceHolder1_mainhd" class="headingmain">Entertainment</div>
+        <div id="wrapmain">
+            <div id="ctl00_ContentPlaceHolder1_main_head" class="sectiontitle">
+              
+            Megatone, producer Bruno feud over Tindatiine<br /><span class="updated2">Publish Date: Dec 16, 2015</span></div>
+            <div id="containerinside">
+                <div id="leftinside">
+                    <div id="ctl00_ContentPlaceHolder1_maiming" class="list"><img onMouseDown="closeimagesaving();" src="/newvision_cms/gall_content/2015/12/2015_12$largeimg216_Dec_2015_205800703.jpg"  style="max-height:303px;max-width:380px;" alt="Megatone, producer Bruno feud over Tindatiine" class="img" /></div>
+                </div>
+                <div id="rightinside_ad">
+                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" type="text/javascript"></script>
+                    <!-- newvision 240x290 articles -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:240px;height:290px"
+                         data-ad-client="ca-pub-9128472770397497"
+                         data-ad-slot="6985662534"></ins>
+                    <script type="text/javascript">
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                </div>
+
+               
+                  <div id="ctl00_ContentPlaceHolder1_divimgcap" class="detail">Megatoone and Lady Mariam (inset)</div>
+
+
+                      <div id="rightinside" style="display:block; float:left;">
+                    <div id="ctl00_ContentPlaceHolder1_verticaltop" class="detail_tool2" style="display:block;margin-top:5px;height:35px;">
+                        <ul>
+                            <li><a href="https://twitter.com/share" class="twitter-share-button" data-via="newvisionwire">
+                                Tweet</a>
+
+                                <script type="text/javascript">                                    !function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = "//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } } (document, "script", "twitter-wjs");</script>
+
+                            </li>
+                            <li style="display:none;">
+                             <iframe src="http://www.facebook.com/plugins/like.php?href=http://www.newvision.co.ug/news/676937-megatone-producer-bruno-feud-over-tindatiine.html"
+                            scrolling="no" frameborder="0" style="border: none; width: 186px; height: 80px">
+                        </iframe>
+                                
+                            </li>
+                            <li class="tweter">
+                                <!-- Place this tag where you want the +1 button to render -->
+                                <g:plusone></g:plusone>
+                                <!-- Place this render call where appropriate -->
+                            </li>
+                            <li>
+
+                                <script type="text/javascript">
+
+                                    (function () {
+
+                                        var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+
+                                        po.src = 'https://apis.google.com/js/plusone.js';
+
+                                        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+
+                                    })();
+
+                                </script>
+
+                            </li>
+                            <li><a onclick="printatory();" style="cursor: pointer;">
+                                <img onclick="printatory();" src="../images/print.jpg" style="border: solid 0px red;" /></a></li>
+                            <li class="addthis_default_style">
+
+                                
+
+                                <a class="addthis_button_email">
+                                    <img border='0' src="../images/mail.jpg" alt="mail" style="padding: 2px 0px 2px 0px;
+                                        cursor: pointer" />
+                                </a></li>
+                            <li>
+                                     <div id="fb-root">
+                                    </div>
+
+                                    <script> (function(d, s, id) {
+                                    var js, fjs = d.getElementsByTagName(s)[0];
+                                    if (d.getElementById(id)) return;
+                                    js = d.createElement(s); js.id = id;
+                                    js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";
+                                    fjs.parentNode.insertBefore(js, fjs);
+                                    } (document, 'script', 'facebook-jssdk'));</script>
+
+                                    <div class="fb-share-button" data-href="http://www.newvision.co.ug//news/676937-megatone-producer-bruno-feud-over-tindatiine.html"
+                                    data-layout="button_count">
+                                    </div>
+                            </li>
+                            <li style="display:none;">
+
+                                <script type="text/javascript">                                    addthis_pub = 'admin@newvision.co.ug'; addthis_language = 'eng';</script>
+
+                                <a href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')"
+                                    onmouseout="addthis_close()" onclick="return addthis_sendto()">
+                                    <img border='0' src="../images/f-share.jpg" style="border: solid 0px red;" alt="img" /></a>
+
+                                <script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
+
+                            </li>
+                        </ul>
+                    </div>
+                  
+                </div>
+
+
+                    <div id="ctl00_ContentPlaceHolder1_divauthor" class="author">newvision</div>
+                <div class="clear">
+                </div>
+                <div id="ctl00_ContentPlaceHolder1_verticalbottom" class="getsharevertical" style="display:none;margin-top:-20px;">  <div class="detail_tool2">
+                    <ul>
+                        <li><a href="https://twitter.com/share" class="twitter-share-button" data-via="newvisionwire">
+                            Tweet</a>
+
+                            <script>                                !function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = "//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } } (document, "script", "twitter-wjs");</script>
+
+                        </li>
+                        <li>
+                        
+                         <iframe src="http://www.facebook.com/plugins/like.php?href=http://www.newvision.co.ug/news/676937-megatone-producer-bruno-feud-over-tindatiine.html"
+                            scrolling="no" frameborder="0" style="border: none; width: 186px; height: 80px">
+                        </iframe>
+                            
+                        </li>
+                        <li class="tweter">
+                            <!-- Place this tag where you want the +1 button to render -->
+                            <g:plusone></g:plusone>
+                            <!-- Place this render call where appropriate -->
+                        </li>
+                        <li>
+
+                            <script type="text/javascript">
+
+                                (function() {
+
+                                    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+
+                                    po.src = 'https://apis.google.com/js/plusone.js';
+
+                                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+
+                                })();
+
+                            </script>
+
+                        </li>
+                        <li><a onclick="printatory();" style="cursor: pointer;">
+                            <img onclick="printatory();" src="../images/print.jpg" style="border: solid 0px red;" /></a></li>
+                        <li class="addthis_default_style">
+
+                            
+
+                            <a class="addthis_button_email">
+                                <img border='0' src="../images/mail.jpg" alt="mail" style="padding: 2px 0px 2px 0px;
+                                    cursor: pointer" />
+                            </a></li>
+                        <li>
+
+                            <script type="text/javascript">                                addthis_pub = 'admin@newvision.co.ug'; addthis_language = 'eng';</script>
+
+                            <a href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')"
+                                onmouseout="addthis_close()" onclick="return addthis_sendto()">
+                                <img border='0' src="../images/f-share.jpg" style="border: solid 0px red;" alt="img" /></a>
+
+                            <script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
+
+                        </li>
+                    </ul>
+                </div></div>
+                <div id="ctl00_ContentPlaceHolder1_divdtls">
+             
+                <div><span style="float:left;" class="Fullstory_class"><p><p><strong>By Duncan Kushaba<br />
+<br />
+If you are familiar with the entertainment scene around Mbarara town, then you know who we are talking about.</strong> <br />
+<br />
+Megatone, one of the fastest rising reggae dancehall and his mentor Bruno the producer who put him on the Mbarara music scene by giving him free recording time in his studio, Alpha Musik, are feuding over singer Tindatiine. <br />
+<br />
+The two went at loggerheads when reports emerged of Megatone secretly seeing Lady Mariam of the Tindatiine fame behind his mentor's back. <br />
+<br />
+The rumour has been strong around town that Lady Mariam was cozily friendly to the much younger skinny dancehall artiste. <br />
+<br />
+It all started when Megatone collaborated on a very massive hit song in Mbarara right now called Nshagara which was ironically produced by Bruno at his studios - for free. <br />
+<br />
+&nbsp;</p></p></span></div></div>
+                <div style="float:left; padding:5px 0px 5px 0px; margin:0px;">
+                 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" type="text/javascript"></script>
+                <!-- newvision articles 645x170 -->
+                <ins class="adsbygoogle"
+                     style="display:inline-block;width:645px;height:170px"
+                     data-ad-client="ca-pub-9128472770397497"
+                     data-ad-slot="9939128935"></ins>
+                <script type="text/javascript">
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                </script>
+                 </div>
+
+<div class="detail_tool2">
+
+<div class = "top_page_new">
+<div class = "body_inner_new">
+<p><i>The statements, comments, or opinions expressed through the use of New Vision Online are those of their respective authors, who are solely responsible for them, and do not necessarily represent the views held by the staff and management of New Vision Online.</i></p>
+<p><i>New Vision Online reserves the right to moderate, publish or delete a post without warning or consultation with the author.<a href = "../ONLINEPOLICY.aspx" target="_blank"  style = "color:navy;">Find out why we moderate comments.</a> For any questions please contact <a href = "mailto:digital@newvision.co.ug">digital@newvision.co.ug</a></i></p>
+</div>
+</div>
+
+
+</div> 
+               
+                <div class="detail_tool2">
+                    <ul>
+                        <li><a href="https://twitter.com/share" class="twitter-share-button" data-via="newvisionwire">
+                            Tweet</a>
+
+                            <script>                                !function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = "//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } } (document, "script", "twitter-wjs");</script>
+
+                        </li>
+                        <li style="display:none;">
+                         <iframe src="http://www.facebook.com/plugins/like.php?href=http://www.newvision.co.ug/news/676937-megatone-producer-bruno-feud-over-tindatiine.html"
+                            scrolling="no" frameborder="0" style="border: none; width: 186px; height: 80px">
+                        </iframe>
+                        
+                        </li>
+                        <li class="tweter">
+                            <!-- Place this tag where you want the +1 button to render -->
+                            <g:plusone></g:plusone>
+                            <!-- Place this render call where appropriate -->
+                        </li>
+                        <li>
+
+                            <script type="text/javascript">
+
+                                (function() {
+
+                                    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+
+                                    po.src = 'https://apis.google.com/js/plusone.js';
+
+                                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+
+                                })();
+
+                            </script>
+
+                        </li>
+                        <li><a onclick="printatory();" style="cursor: pointer;">
+                            <img onclick="printatory();" src="../images/print.jpg" style="border: solid 0px red;" /></a></li>
+                        <li class="addthis_default_style">
+
+                            
+
+                            <a class="addthis_button_email">
+                                <img border='0' src="../images/mail.jpg" alt="mail" style="padding: 2px 0px 2px 0px;
+                                    cursor: pointer" />
+                            </a></li>
+                             <li>
+                                     <div id="fb-root">
+                                    </div>
+
+                                    <script> (function(d, s, id) {
+                                    var js, fjs = d.getElementsByTagName(s)[0];
+                                    if (d.getElementById(id)) return;
+                                    js = d.createElement(s); js.id = id;
+                                    js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";
+                                    fjs.parentNode.insertBefore(js, fjs);
+                                    } (document, 'script', 'facebook-jssdk'));</script>
+
+                                    <div class="fb-share-button" data-href="http://www.newvision.co.ug//news/676937-megatone-producer-bruno-feud-over-tindatiine.html"
+                                    data-layout="button_count">
+                                    </div>
+                            </li>
+                        <li style="display:none;">
+
+                            <script type="text/javascript">                                addthis_pub = 'admin@newvision.co.ug'; addthis_language = 'eng';</script>
+
+                            <a href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')"
+                                onmouseout="addthis_close()" onclick="return addthis_sendto()">
+                                <img border='0' src="../images/f-share.jpg" style="border: solid 0px red;" alt="img" /></a>
+
+                            <script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
+
+                        </li>
+                    </ul>
+                </div>
+                <div style="clear: both; width: 650px;">
+                <div id="disqus_thread">
+                </div>
+
+                <script type="text/javascript">
+                    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+                    var disqus_shortname = 'nvdiscuss'; // required: replace example with your forum shortname
+
+                    /* * * DON'T EDIT BELOW THIS LINE * * */
+                    (function() {
+                        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+                        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+                    })();
+                </script>
+
+                <noscript>
+                    Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments
+                        powered by Disqus.</a></noscript>
+                <a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">
+                    Disqus</span></a>
+            </div>
+                
+                <div class="clear">
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="rhs">
+            <div class="add">
+            <div>
+                                
+<!-- Half_Banner_home_ad_A -->
+<div id='div-gpt-ad-1328525882916-0' style='width:300px; height:90px;'>
+<script type='text/javascript'>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1328525882916-0'); });
+</script>
+</div>
+                
+                </div>
+            <div class="space">
+            </div>
+            <div>
+                <!-- Half_Banner_Home_ad_toppest -->
+<div id='div-gpt-ad-1329315127819-0' style='width:300px; height:90px;'>
+<script type='text/javascript'>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1329315127819-0'); });
+</script>
+</div>
+                
+                </div>
+        </div>
+        <div class="space2">
+        </div>
+        <div class="add" style='height:125px;'>
+            
+<!-- include in place where ad is to appear within the body -->
+
+<!-- 125_Homepage_exclusive_ad_A -->
+<div id='div-gpt-ad-1327324955015-0' style='width:125px; height:125px;float:left'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1327324955015-0'); });
+</script>
+</div>
+				
+				<div class="spaceinside">
+                </div>
+
+				
+<!-- include in place where ad is to appear within the body -->
+
+<!-- 125_Homepage_exclusive_ad_B -->
+<div id='div-gpt-ad-1327329299077-0' style='width:125px; height:125px;float:right'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1327329299077-0'); });
+</script>
+</div>
+
+            
+        </div>
+        <div class="space2">
+        </div>
+        <div class="add">
+        <div id='div-gpt-ad-1398416904558-0' style='width:300px; height:90px;'>
+<script type='text/javascript'>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1398416904558-0'); });
+</script>
+</div>
+        </div>
+        <div class="space2">
+        </div>
+        <div class="add">
+        <!--body tags-->
+<!-- Squarebanner_section_stories -->
+<div id='div-gpt-ad-1396430311625-0' style='width:300px; height:250px;'>
+<script type='text/javascript'>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1396430311625-0'); });
+</script>
+</div>
+        </div>
+		 <div class="space2">
+        </div>
+        <div class="add">
+                <div id='div-gpt-ad-1350985773165-0' style='width: 300px; height: 90px;'>
+
+                    <script type='text/javascript'>
+                        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1350985773165-0'); });
+                    </script>
+
+                </div>
+            </div>
+           <div class="space2">
+        </div>
+        <div class="add1">
+        
+<div class="rhshd">Also In This Section
+</div>
+<div id="ctl00_ContentPlaceHolder1_also_section_alsointhissection" class="also"><div class="newstitle"><a style='color:#11518F;text-decoration:none;' href="/news/677119--star-wars-overtakes-jurassic-world-for-biggest-global-debut.html">'Star Wars' overtakes 'Jurassic World' for biggest global debut</a></div><div><img onMouseDown="closeimagesaving();" src="/newvision_cms/gall_content/2015/12/2015_12$thumbimg122_Dec_2015_093816103.jpg" alt=''Star Wars' overtakes 'Jurassic World' for biggest global debut' style='max-height:55px;max-width:80px;' class="lifeleft"><div  class="newstext">The new "Star Wars" movie has set a global opening weekend record, smashing past the previous record holder "Jurassic World" to rake in $529 million, Disney said on Monday.... </div></div><div class="newstitle"><a style='color:#11518F;text-decoration:none;' href="/news/677074-miss-philippines-crowned-miss-universe-after-live-tv-mixup.html">Miss Philippines crowned Miss Universe after live TV mixup</a></div><div><img onMouseDown="closeimagesaving();" src="/newvision_cms/gall_content/2015/12/2015_12$thumbimg121_Dec_2015_085219160.jpg" alt='Miss Philippines crowned Miss Universe after live TV mixup' style='max-height:55px;max-width:80px;' class="lifeleft"><div  class="newstext">Miss Philippines was named Miss Universe Sunday in a drama-filled turn worthy of a telenovela.... </div></div><div class="newstitle"><a style='color:#11518F;text-decoration:none;' href="/news/677036-new-star-wars-film-smashes-box-office-record.html">New Star Wars film smashes box-office record</a></div><div><img onMouseDown="closeimagesaving();" src="/newvision_cms/gall_content/2015/12/2015_12$thumbimg119_Dec_2015_064731120.jpg" alt='New Star Wars film smashes box-office record' style='max-height:55px;max-width:80px;' class="lifeleft"><div  class="newstext">"Star Wars: The Force Awakens" has smashed the opening night record in the United States and Canada.... </div></div><div class="newstitle"><a style='color:#11518F;text-decoration:none;' href="/news/677028-and-the-party-kicks-off.html">And the party kicks off...</a></div><div><img onMouseDown="closeimagesaving();" src="/newvision_cms/gall_content/2015/12/2015_12$thumbimg118_Dec_2015_175016370.jpg" alt='And the party kicks off...' style='max-height:55px;max-width:80px;' class="lifeleft"><div  class="newstext">Kampala! A city so full of life, depending on how you take it in stride. Among other things, Kampalans party when it's time to party.... </div></div><div class="newstitle"><a style='color:#11518F;text-decoration:none;' href="/news/676989-inbox-me-if-you-need-help-ivan-semwanga.html">Inbox me if you need help - Ivan Semwanga</a></div><div><img onMouseDown="closeimagesaving();" src="/newvision_cms/gall_content/2015/12/2015_12$thumbimg117_Dec_2015_205545247.jpg" alt='Inbox me if you need help - Ivan Semwanga' style='max-height:55px;max-width:80px;' class="lifeleft"><div  class="newstext">It's that time of the year; the parties, the spenders and their egos. The codenamed Rich Gang crew is in town again and are throwing an end of year party themed "The Rich Gang Big Spenders Party... </div></div><div class="newstitle"><a style='color:#11518F;text-decoration:none;' href="/news/676939-kenzo-loses-cool-yet-again.html">Kenzo loses cool – yet again</a></div><div><img onMouseDown="closeimagesaving();" src="/newvision_cms/gall_content/2015/12/2015_12$thumbimg116_Dec_2015_223230443.jpg" alt='Kenzo loses cool – yet again' style='max-height:55px;max-width:80px;' class="lifeleft"><div  class="newstext">Eddy Kenzo is no stranger to brawls and petty fights! The embarrassing scene when he beat up a scribe at a press conference in still fresh... </div></div></div>
+
+                   
+        </div>
+         <div class="space2">
+        </div>
+        
+         
+<div class="clear">
+</div>
+<div id="ctl00_ContentPlaceHolder1_relatedStory1_RelHead" style="float:left;">
+</div>
+<div id="ctl00_ContentPlaceHolder1_relatedStory1_relstories" class="comment-list Related">
+</div>
+
+         <div class="space2">
+        </div>
+        
+<div class="clear">
+</div>
+<div id="ctl00_ContentPlaceHolder1_rel_photoGallery1_relatedphoto_gallery">
+</div>
+        <div class="clear">
+                </div>
+       <div class="space2">
+        </div>
+        
+        
+        
+        
+        <div class="space2">
+        </div>
+        <div id="ctl00_ContentPlaceHolder1_pll1_pollhead"><div class="rhshd"><a style='color:white;text-decoration:none;' href="/prev_poll.aspx">POLL</a></div></div>
+<div id="ctl00_ContentPlaceHolder1_pll1_polldiv" class="add1">
+    <div class="poll">
+        <div id="ctl00_ContentPlaceHolder1_pll1_pollques" class="storytitle">
+        As we celebrate World Human Rights Day, do you think Ugandans know their rights?</div>
+        <div id="ctl00_ContentPlaceHolder1_pll1_f1" class="div2" style="float: left;">
+            <input value="rb1" name="ctl00$ContentPlaceHolder1$pll1$r1" type="radio" id="ctl00_ContentPlaceHolder1_pll1_rb1" /><span id="ctl00_ContentPlaceHolder1_pll1_r1value">
+            Yes</span>
+        </div>
+        <div class="clear">
+        </div>
+        <div id="ctl00_ContentPlaceHolder1_pll1_f2" class="div3" style="float: left;">
+            <input value="rb2" name="ctl00$ContentPlaceHolder1$pll1$r1" type="radio" id="ctl00_ContentPlaceHolder1_pll1_rb2" /><span id="ctl00_ContentPlaceHolder1_pll1_r2value">
+            No</span>
+        </div>
+        <div class="clear">
+        </div>
+        <div id="ctl00_ContentPlaceHolder1_pll1_f3" class="div4" style="float: left;">
+            <input value="rb3" name="ctl00$ContentPlaceHolder1$pll1$r1" type="radio" id="ctl00_ContentPlaceHolder1_pll1_rb3" /><span id="ctl00_ContentPlaceHolder1_pll1_r3value">
+            Can't Say</span>
+        </div>
+        <div class="clear">
+        </div>
+        <div class="div5">
+            
+            <input type="image" name="ctl00$ContentPlaceHolder1$pll1$ImageButton1" id="ctl00_ContentPlaceHolder1_pll1_ImageButton1" src="../images/votebutton.jpg" onclick="javascript:return check_poll();WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ContentPlaceHolder1$pll1$ImageButton1&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" border="0" />
+        </div>
+    </div>
+    <input name="ctl00$ContentPlaceHolder1$Poll$hidcount" type="hidden" id="ctl00_ContentPlaceHolder1_Poll_hidcount" />
+</div>
+
+        <div class="space2">
+        </div>
+        
+
+                <div class="rhshd">
+                    follow us
+                </div>
+                <div id="ctl00_ContentPlaceHolder1_follow_subscribe2_divfollow" class="add1">
+                    <div class="social">
+                       <table align="left" cellpadding="2" cellspacing="0" width="206"><tr>
+	            <td><a href="https://www.facebook.com/thenewvision" target="_blank"><img src="../images/fb.png" name=limage8 border="0" align="top" onmouseover = "document.limage8.src = '../images/fb2.png';" onmouseout = "document.limage8.src = '../images/fb.png';" /></a></td>
+	            <td><a href="https://plus.google.com/100548386404854462665/posts" target="_blank"><img src="../images/google_plus.png" name=limage9 border="0" align="top" onmouseover = "document.limage9.src = '../images/google_plus.png';" onmouseout = "document.limage9.src = '../images/google_plus.png';" /></a></td>
+	            <td><a href="https://www.youtube.com/user/bukeddetv" target="_blank"><img src="../images/yt.png" name=limage4 width="37" height="37" border="0" align="top" onmouseover = "document.limage4.src = '../images/yt2.png';" onmouseout = "document.limage4.src = '../images/yt.png';" /></a></td>
+	                  <td><a href="https://twitter.com/newvisionwire"><img src="../images/tw.png" name=limage5 width="37" height="37" border="0" align="top" onmouseover = "document.limage5.src = '../images/tw2.png';" onmouseout = "document.limage5.src = '../images/tw.png';" /></a></td>
+	            <td><a href="#"><img src="../images/in.png" name=limage6 width="37" height="37" border="0" align="top" onmouseover = "document.limage6.src = '../images/in2.png';" onmouseout = "document.limage6.src = '../images/in.png';" border#="0" /></a></td>
+	            <td><a href="#"><img src="../images/rss.png" name=limage7 width="37" height="37" border="0" align="top" onmouseover = "document.limage7.src = '../images/rss2.png';" onmouseout = "document.limage7.src = '../images/rss.png';" /></a></td>
+	</tr></table>
+                        <div class="clear">
+                        </div>
+                    </div>
+                </div>
+                <div class="space2">
+                </div>
+                <div class="rhshd">
+                    subscribe to our news letter
+                </div>
+                <div id="ctl00_ContentPlaceHolder1_follow_subscribe2_divsubscribe" class="add1">
+                   
+                   
+                   
+                   
+                    <input name="ctl00$ContentPlaceHolder1$follow_subscribe2$email_txt" type="text" id="ctl00_ContentPlaceHolder1_follow_subscribe2_email_txt" onkeypress="javascript:return check_login(event);" class="box" />
+                    
+                    
+                   <input type="image" name="ctl00$ContentPlaceHolder1$follow_subscribe2$ImageButton1" id="ctl00_ContentPlaceHolder1_follow_subscribe2_ImageButton1" alt="go" OnClientClick="javascript:return emailid2();" src="../images/btnsignup.png" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ContentPlaceHolder1$follow_subscribe2$ImageButton1&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" border="0" />
+                              &nbsp;
+                                                        &nbsp;
+                     
+                  
+                </div>
+                      <div class="clear">
+            </div>
+        
+        <div class="space2">
+        </div>
+        <div class="rhshd" style="display:none;">
+            subscribe to our news letter
+        </div>
+        <div class="add1" style="display:none;">
+            
+            
+            
+            
+            <input name="ctl00$ContentPlaceHolder1$email_txt" type="text" id="ctl00_ContentPlaceHolder1_email_txt" onkeypress="javascript:return check_login(event);" class="box" />
+            <input type="image" name="ctl00$ContentPlaceHolder1$ImageButton1" id="ctl00_ContentPlaceHolder1_ImageButton1" alt="go" src="../images/btnsignup.png" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ContentPlaceHolder1$ImageButton1&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" border="0" />
+            
+            
+        </div>
+    </div>
+    <div class="clear">
+    </div>
+
+        
+<div class="clear">
+</div>
+
+<div style='padding:0px 0px 5px 0px;'>
+<!-- Leader_board_home_ad_bottom_most -->
+<div id='div-gpt-ad-1372655516949-0' style='width:728px; height:90px;'>
+<script type='text/javascript'>
+    googletag.display('div-gpt-ad-1372655516949-0');
+</script>
+</div>
+</div>
+<div style='padding:0px 0px 5px 0px;'><script type="text/javascript"><!--
+google_ad_client = "ca-pub-9128472770397497";
+/* bottom */
+google_ad_slot = "7123993142";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+<div class="wrap8">
+    <a href="http://www.bukedde.co.ug/" target="_blank"><img src="../images/brands/bukedde.jpg" alt="no img" width="70" height="30" border="0" /></a> 
+    <a href="http://www.xfm.co.ug/" target="_blank"><img src="../images/brands/visionvoice.jpg" alt="no img" width="36" height="30" border="0" /></a> 
+    <a href="http://www.facebook.com/pages/Radio-Rupiny-957-FM-Mhz-981-FM-Mhz/204305532951252?fref=ts" target="_blank"><img  src="../images/brands/radiorupiny.jpg" alt="no img" width="49" height="40" border="0" /></a> 
+        <a href="http://www.visionmobile.co.ug/" target="_blank"><img
+            src="../images/brands/8338.jpg" width="49" height="40" border="0" /></a> 
+            <a href="http://www.facebook.com/pages/Bride-Groom-Magazine-Uganda/353118420871/" target="_blank">
+            <img
+                src="../images/brands/bridegroom.jpg" alt="no img" width="100" height="30" border="0" /></a> 
+                <a href="http://www.facebook.com/pages/Bukedde-Fama/207673162678396?fref=ts" target="_blank">
+                <img
+                    src="../images/brands/bukeddefm.jpg" alt="no img" width="49" height="40" border="0" /></a> 
+                    <a href="http://youtube.com/bukeddetv" target="_blank">
+                    <img
+                        src="../images/brands/bukeddetv.jpg" alt="no img" width="100" height="30" border="0"/></a> 
+                        <a href="http://www.citybeat.co.ug/" target="_blank">
+                        <img
+                            src="../images/brands/citybeat.jpg" alt="no img" width="90" height="30" border="0"/></a> 
+                            <a href="http://www.facebook.com/EtopRadioAicaNaAteker?fref=ts" target="_blank">
+                            <img
+                                src="../images/brands/etopfm.jpg" alt="no img" width="49" height="40" border="0"/></a> 
+                                <a href="www.etop.co.ug" target="_blank">
+                                <img
+                                    src="../images/brands/etopnews.jpg" alt="no img" width="90" height="30" border="0"/></a> 
+                                    <a href="www.facebook.com/flairforher" target="_blank">
+                                    <img
+                                        src="../images/brands/flair.jpg" alt="no img" width="60" height="30" border="0"/></a> 
+                                        <a href="http://www.orumuri.co.ug/" target="_blank">
+                                        <img
+                                            src="../images/brands/orumuri.jpg" alt="no img" width="80" height="30" border="0"/></a> 
+                                            <a href="www.rupiny.co.ug" target="_blank">
+                                            <img
+                                                src="../images/brands/rupiny.jpg" alt="no img" width="80" height="30" border="0"/></a> 
+                                               <a href="http://www.facebook.com/pages/Radio-West-1002-FM/342705296948" target="_blank">
+                                                <img
+                                                    src="../images/brands/radiowest.jpg" alt="no img" width="36" height="30" border="0"/></a> </div>
+<div class="menuwrap">
+    <div id="menu">
+        <ul id="ctl00_bottombar1_ulfootermenu" class="menu"> <li><a href="/Home.aspx" class="parent"><span>Home</span></a></li><li ><a href="/section/53-435-today-s-Pick.html" class="parent"><span>today's Pick</span></a></li><li ><a href="/section/53-1-National.html" class="parent"><span>National</span></a></li><li ><a href="/section/53-3-Business.html" class="parent"><span>Business</span></a></li><li ><a href="/section/53-5-Sport.html" class="parent"><span>Sport</span></a></li><li class="current"><a href="/section/53-397-Entertainment.html" class="parent"><span>Entertainment</span></a></li><li ><a href="/section/53-2-World.html" class="parent"><span>World</span></a></li><li ><a href="/section/53-486-Science---technology.html" class="parent"><span>Science & technology</span></a></li><li ><a href="/section/53-413-Supplements.html" class="parent"><span>Supplements</span></a></li><li ><a href="http://epaper.newvision.co.ug/login.aspx" target="_blank" class="parent"><span>e-Paper</span></a></li></ul>
+    </div>
+</div>
+<div class="footer">
+    <div class="top">
+        <div class="date">
+            Copyright &copy; 2012 Newvision . All rights reserved | Developed by: <a href="http://www.4cplus.com/"
+                target="_blank">
+                <img src="../images/4c-logo.jpg" style="border: 0px solid blue;" /></a>
+        </div>
+        <div class="topmenu" align="right">
+            <a href="http://www.visiongroup.co.ug/advertising-rates.php" target="_blank" title="Advertise">
+                Advertisement</a> | <a href="Archive.aspx" target="_blank" title="Archive">Archive</a>
+            
+            | <a href="../ONLINEPOLICY.aspx"  title="Online Policy">Online policy</a>
+            | <a href="../Disclaimer.aspx"  title="Disclaimer">Disclaimer</a>
+            | <a href="../copyright.aspx"  title="COPYRIGHT">COPYRIGHT</a>
+            | <a href="../Editorial_Policy.aspx" title="Our Editorial Policy">Our Editorial Policy</a>
+        </div>
+    </div>
+</div>
+
+    </div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+//]]>
+</script>
+</form>
+</body>
+</html>
+
+
+WARC/1.0
+WARC-Type: resource
+WARC-Record-ID: <urn:uuid:2fa6bd1e-f2e5-4501-9c30-964587542830>
+WARC-Warcinfo-ID: <urn:uuid:61b25dac-b079-46fe-9042-770c50a66087>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/MANIFEST.txt
+WARC-Date: 2015-12-22T22:27:30Z
+Content-Type: text/plain
+Content-Length: 48
+
+<urn:uuid:61b25dac-b079-46fe-9042-770c50a66087>
+
+
+WARC/1.0
+WARC-Type: resource
+WARC-Record-ID: <urn:uuid:2fa6bd1e-f2e5-4501-9c30-964587542830>
+WARC-Warcinfo-ID: <urn:uuid:61b25dac-b079-46fe-9042-770c50a66087>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/wget_arguments.txt
+WARC-Date: 2015-12-22T22:27:30Z
+Content-Type: text/plain
+Content-Length: 247
+
+"--warc-file" "676937-megatone-producer-bruno-feud-over-tindatiine" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "-q" "-O" "/dev/null" "http://www.newvision.co.ug/news/676937-megatone-producer-bruno-feud-over-tindatiine.html" 
+
+

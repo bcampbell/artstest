@@ -1,0 +1,1279 @@
+WARC/1.0
+WARC-Type: warcinfo
+Content-Type: application/warc-fields
+WARC-Date: 2015-12-22T23:01:07Z
+WARC-Record-ID: <urn:uuid:e7fb99d9-88f6-4148-822b-4b947047f89d>
+WARC-Filename: africell-launches-the-first-ever-luganda-smart-phone.warc
+Content-Length: 425
+
+software: Wget/1.13.4-2608 (linux-gnu)
+format: WARC File Format 1.0
+conformsTo: http://bibnum.bnf.fr/WARC/WARC_ISO_28500_version1_latestdraft.pdf
+robots: classic
+wget-arguments: "--warc-file" "africell-launches-the-first-ever-luganda-smart-phone" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "-q" "-O" "/dev/null" "http://www.redpepper.co.ug/africell-launches-the-first-ever-luganda-smart-phone/" 
+
+
+
+WARC/1.0
+WARC-Type: request
+WARC-Target-URI: http://www.redpepper.co.ug/africell-launches-the-first-ever-luganda-smart-phone/
+Content-Type: application/http;msgtype=request
+WARC-Date: 2015-12-22T23:01:07Z
+WARC-Record-ID: <urn:uuid:cd7b005c-e3da-43bb-a75b-83b779239390>
+WARC-IP-Address: 198.1.124.153
+WARC-Warcinfo-ID: <urn:uuid:e7fb99d9-88f6-4148-822b-4b947047f89d>
+Content-Length: 177
+
+GET /africell-launches-the-first-ever-luganda-smart-phone/ HTTP/1.1
+User-Agent: Wget/1.13.4-2608 (linux-gnu)
+Accept: */*
+Host: www.redpepper.co.ug
+Connection: Keep-Alive
+
+
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <urn:uuid:d353b569-34f9-4d4f-b346-68570ae57ba1>
+WARC-Warcinfo-ID: <urn:uuid:e7fb99d9-88f6-4148-822b-4b947047f89d>
+WARC-Concurrent-To: <urn:uuid:cd7b005c-e3da-43bb-a75b-83b779239390>
+WARC-Target-URI: http://www.redpepper.co.ug/africell-launches-the-first-ever-luganda-smart-phone/
+WARC-Date: 2015-12-22T23:01:07Z
+WARC-IP-Address: 198.1.124.153
+Content-Type: application/http;msgtype=response
+Content-Length: 92475
+
+HTTP/1.1 200 OK
+Date: Tue, 22 Dec 2015 23:01:08 GMT
+Server: Apache/2.2.23 (Unix) mod_ssl/2.2.23 OpenSSL/1.0.0-fips DAV/2 mod_qos/10.29 mod_auth_passthrough/2.1 mod_bwlimited/1.4
+X-Powered-By: PHP/5.2.17
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+X-Pingback: http://www.redpepper.co.ug/xmlrpc.php
+Link: <http://www.redpepper.co.ug/wp-json/>; rel="https://api.w.org/", <http://www.redpepper.co.ug/?p=61286>; rel=shortlink
+Set-Cookie: PHPSESSID=57189db50d82918c44d302b2925b1671; path=/
+Keep-Alive: timeout=2, max=102
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+16667
+<!doctype html >
+<!--[if IE 8]>    <html class="ie8" lang="en"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en-US"> <!--<![endif]-->
+<head>
+    <title>Africell Launches The First Ever Luganda Smart Phone | Red Pepper Uganda</title>
+    <meta charset="UTF-8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="pingback" href="http://www.redpepper.co.ug/xmlrpc.php" />
+    <meta property="og:image" content="http://www.redpepper.co.ug/wp-content/uploads/2015/12/Africell1.jpg" /><meta name="author" content="Our Reporter">
+<link rel="icon" type="image/png" href="http://www.redpepper.co.ug/wp-content/uploads/2015/03/favi.png"><link rel="alternate" type="application/rss+xml" title="Red Pepper Uganda &raquo; Feed" href="http://www.redpepper.co.ug/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Red Pepper Uganda &raquo; Comments Feed" href="http://www.redpepper.co.ug/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Red Pepper Uganda &raquo; Africell Launches The First Ever Luganda Smart Phone Comments Feed" href="http://www.redpepper.co.ug/africell-launches-the-first-ever-luganda-smart-phone/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.redpepper.co.ug\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56806,55356,56826),0,0),c.toDataURL().length>3e3):("simple"===a?d.fillText(String.fromCharCode(55357,56835),0,0):d.fillText(String.fromCharCode(55356,57135),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='jazz_css-css'  href='http://www.redpepper.co.ug/wp-content/plugins/jazz-popups/jazz-popup/jazz-popup_new.css?ver=4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='google_font_open_sans-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C600%2C700&#038;ver=4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='google_font_roboto_cond-css'  href='http://fonts.googleapis.com/css?family=Roboto+Condensed%3A300italic%2C400italic%2C700italic%2C400%2C300%2C700&#038;ver=4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css'  href='http://www.redpepper.co.ug/wp-content/plugins/js_composer/assets/css/js_composer.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='td-theme-css'  href='http://www.redpepper.co.ug/wp-content/themes/Newsmag/style.css?ver=2.3.2' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.redpepper.co.ug/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://www.redpepper.co.ug/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.redpepper.co.ug/wp-content/plugins/jazz-popups/jazz-popup/jquery.jazz-popup.js?ver=4.4'></script>
+<script type='text/javascript' src='http://www.redpepper.co.ug/wp-content/plugins/jazz-popups/js/customcookie.js?ver=4.4'></script>
+<link rel='https://api.w.org/' href='http://www.redpepper.co.ug/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.redpepper.co.ug/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.redpepper.co.ug/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Victoria University New Guild Sworn In' href='http://www.redpepper.co.ug/victoria-university-new-guild-sworn-in/' />
+<link rel='next' title='Kirunda Kivejinja Finally takes oath' href='http://www.redpepper.co.ug/kirunda-kivejinja-finally-takes-oath/' />
+<meta name="generator" content="WordPress 4.4" />
+<link rel="canonical" href="http://www.redpepper.co.ug/africell-launches-the-first-ever-luganda-smart-phone/" />
+<link rel='shortlink' href='http://www.redpepper.co.ug/?p=61286' />
+<link rel="alternate" type="application/json+oembed" href="http://www.redpepper.co.ug/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.redpepper.co.ug%2Fafricell-launches-the-first-ever-luganda-smart-phone%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.redpepper.co.ug/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.redpepper.co.ug%2Fafricell-launches-the-first-ever-luganda-smart-phone%2F&#038;format=xml" />
+<!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if IE 8]><link rel="stylesheet" type="text/css" href="http://www.redpepper.co.ug/wp-content/plugins/js_composer/assets/css/vc-ie8.css" media="screen"><![endif]-->
+<!-- JS generated by theme -->
+
+<script>
+    
+
+var tdBlocksArray = []; //here we store all the items for the current page
+
+//td_block class - each ajax block uses a object of this class for requests
+function tdBlock() {
+    this.id = '';
+    this.block_type = 1; //block type id (1-234 etc)
+    this.atts = '';
+    this.td_column_number = '';
+    this.td_current_page = 1; //
+    this.post_count = 0; //from wp
+    this.found_posts = 0; //from wp
+    this.max_num_pages = 0; //from wp
+    this.td_filter_value = ''; //current live filter value
+    this.is_ajax_running = false;
+    this.td_user_action = ''; // load more or infinite loader (used by the animation)
+    this.header_color = '';
+    this.ajax_pagination_infinite_stop = ''; //show load more at page x
+}
+
+    
+    
+        // td_js_generator - mini detector
+        (function(){
+            var htmlTag = document.getElementsByTagName("html")[0];
+
+            if ( navigator.userAgent.indexOf("MSIE 10.0") > -1 ) {
+                htmlTag.className += ' ie10';
+            }
+
+            if ( !!navigator.userAgent.match(/Trident.*rv\:11\./) ) {
+                htmlTag.className += ' ie11';
+            }
+
+            if ( /(iPad|iPhone|iPod)/g.test(navigator.userAgent) ) {
+                htmlTag.className += ' td-md-is-ios';
+            }
+
+            var user_agent = navigator.userAgent.toLowerCase();
+            if ( user_agent.indexOf("android") > -1 ) {
+                htmlTag.className += ' td-md-is-android';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Mac OS X')  ) {
+                htmlTag.className += ' td-md-is-os-x';
+            }
+
+            if ( /chrom(e|ium)/.test(navigator.userAgent.toLowerCase()) ) {
+               htmlTag.className += ' td-md-is-chrome';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Firefox') ) {
+                htmlTag.className += ' td-md-is-firefox';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Safari') && -1 === navigator.userAgent.indexOf('Chrome') ) {
+                htmlTag.className += ' td-md-is-safari';
+            }
+
+        })();
+
+
+
+
+        var tdLocalCache = {};
+
+        ( function () {
+            "use strict";
+
+            tdLocalCache = {
+                data: {},
+                remove: function (resource_id) {
+                    delete tdLocalCache.data[resource_id];
+                },
+                exist: function (resource_id) {
+                    return tdLocalCache.data.hasOwnProperty(resource_id) && tdLocalCache.data[resource_id] !== null;
+                },
+                get: function (resource_id) {
+                    return tdLocalCache.data[resource_id];
+                },
+                set: function (resource_id, cachedData) {
+                    tdLocalCache.remove(resource_id);
+                    tdLocalCache.data[resource_id] = cachedData;
+                }
+            };
+        })();
+
+    
+    
+var td_viewport_interval_list=[{"limitBottom":767,"sidebarWidth":251},{"limitBottom":1023,"sidebarWidth":339}];
+var td_animation_stack_effect="type0";
+var tds_animation_stack=true;
+var td_animation_stack_specific_selectors=".entry-thumb, img";
+var td_animation_stack_general_selectors=".td-animation-stack img, .post img";
+var td_ajax_url="http:\/\/www.redpepper.co.ug\/wp-admin\/admin-ajax.php?td_theme_name=Newsmag&v=2.3.2";
+var td_get_template_directory_uri="http:\/\/www.redpepper.co.ug\/wp-content\/themes\/Newsmag";
+var tds_snap_menu="snap";
+var tds_logo_on_sticky="";
+var tds_header_style="";
+var td_please_wait="Please wait...";
+var td_email_user_pass_incorrect="User or password incorrect!";
+var td_email_user_incorrect="Email or username incorrect!";
+var td_email_incorrect="Email incorrect!";
+var tds_more_articles_on_post_enable="";
+var tds_more_articles_on_post_time_to_wait="";
+var tds_more_articles_on_post_pages_distance_from_top=0;
+var tds_theme_color_site_wide="#4db2ec";
+var tds_smart_sidebar="enabled";
+var tdThemeName="Newsmag";
+var td_magnific_popup_translation_tPrev="Previous (Left arrow key)";
+var td_magnific_popup_translation_tNext="Next (Right arrow key)";
+var td_magnific_popup_translation_tCounter="%curr% of %total%";
+var td_magnific_popup_translation_ajax_tError="The content from %url% could not be loaded.";
+var td_magnific_popup_translation_image_tError="The image #%curr% could not be loaded.";
+var td_ad_background_click_link="";
+var td_ad_background_click_target="";
+</script>
+
+
+<!-- Header style compiled by theme -->
+
+<style>
+    
+
+body {
+	background-color:#f4f4f4;
+	background-image:url("http://www.redpepper.co.ug/wp-content/uploads/2015/11/uea.gif");
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+}
+.td-header-top-menu,
+    body .td-top-menu-full,
+    .td-header-style-6 .td-top-menu-full {
+        background-color: #ff0000;
+    }
+
+
+
+    .td-header-style-1 .td-header-sp-top-menu {
+        padding-left: 13px;
+        top: 0;
+    }
+    @media (min-width: 768px) and (max-width: 1023px) {
+        .td-header-style-1 .td-header-sp-top-menu {
+            margin-top: 0;
+        }
+    }
+    .td-header-style-1 .td_ul_logout {
+        position: relative;
+        right: 7px;
+    }
+    .td-header-style-1 .td-header-sp-top-widget,
+    .td-header-style-1 .td-top-menu-widget {
+        right: 3px;
+        top: 0;
+    }
+    @media (min-width: 768px) and (max-width: 1023px) {
+        .td-header-style-1 .td-header-sp-top-widget,
+        .td-header-style-1 .td-top-menu-widget {
+            margin-top: 0;
+        }
+    }
+
+
+    .td-header-style-2 .td-header-sp-top-menu {
+        padding-left: 13px;
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+    .td-header-style-2 .td-header-sp-top-widget {
+        right: 3px;
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+    .td-header-style-2 .td_ul_logout {
+        position: relative;
+        right: 7px;
+    }
+
+    
+    .td-header-sp-top-menu .top-header-menu > li > a,
+    .td-header-sp-top-menu .td-icon-logout,
+    .td-header-sp-top-menu .td_data_time,
+    .td-header-sp-top-menu .top-header-menu .menu-item .td_user_logd_in {
+        color: #ffffff;
+    }
+
+    
+    .td-header-sp-top-menu .top-header-menu > li > a:hover {
+        color: #000000;
+    }
+
+    
+    .td-header-main-menu {
+        background-color: #ff0000;
+    }
+
+    
+    .td-header-border:before {
+        background-color: #fc8702;
+    }
+
+    
+    .td-header-row.td-header-header,
+    .single_template_6 .td-header-header,
+    .td-header-style-7 > .td-header-row.td-header-header,
+    .td-header-style-8 .td-header-header {
+        background-color: #f4f4f4;
+    }
+    .td-header-style-1 .td-header-sp-ads,
+    .td-header-style-3 .td-header-sp-ads {
+        margin-right: 7px;
+    }
+    .td-header-style-1 .td-header-sp-logo,
+    .td-header-style-3 .td-header-sp-logo {
+        margin-left: 7px;
+    }
+
+    .td-header-style-6 .td-header-header .td-make-full {
+    	border-bottom: 0px;
+    }
+    .td-header-style-1 .td-header-sp-top-menu,
+    .td-header-style-1 .td-header-sp-top-widget {
+    	top: 0px;
+    }
+
+    @media (max-height: 768px) {
+        .td-header-style-6 .td-header-sp-ads {
+            margin-right: 7px;
+        }
+        .td-header-style-6 .td-header-sp-logo {
+        	margin-left: 7px;
+    	}
+    }
+
+    @media (max-width: 767px) {
+        .td-header-style-1 .td-header-sp-ads,
+        .td-header-style-3 .td-header-sp-ads,
+        .td-header-style-6 .td-header-sp-ads {
+            margin-right: 0;
+        }
+    }
+
+    
+    .td_block_trending_now .entry-title a {
+    	color: #ff00000;
+    }
+    
+    .td_module_wrap .td-post-author-name a {
+    	color: #241cc9;
+    }
+
+
+    
+    .post header h1 {
+    	color: #ff0000;
+    }
+</style>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-35361429-1', 'auto');
+  ga('send', 'pageview');
+
+</script><script type='text/javascript'>
+  (function() {
+    var useSSL = 'https:' == document.location.protocol;
+    var src = (useSSL ? 'https:' : 'http:') +
+        '//www.googletagservices.com/tag/js/gpt.js';
+    document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+  })();
+</script>
+
+<script type='text/javascript'>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/1002759/RedPepper_728x90', [728, 90], 'div-gpt-ad-1430314404647-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().enableSyncRendering();
+    googletag.enableServices();
+  });
+</script>
+
+</head>
+
+
+<body class="single single-post postid-61286 single-format-standard africell-launches-the-first-ever-luganda-smart-phone wpb-js-composer js-comp-ver-4.4.2 vc_responsive td-animation-stack-type0 td-boxed-layout" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+
+<div id="td-outer-wrap">
+
+        <div class="td-scroll-up"><i class="td-icon-menu-up"></i></div>
+
+    <div class="td-transition-content-and-menu td-mobile-nav-wrap">
+        <div id="td-mobile-nav">
+    <!-- mobile menu close -->
+    <div class="td-mobile-close">
+        <a href="#">CLOSE</a>
+        <div class="td-nav-triangle"></div>
+    </div>
+
+    <div class="td-mobile-content">
+        <div class="menu-main-menu-container"><ul id="menu-main-menu" class=""><li id="menu-item-21282" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-first menu-item-21282"><a href="http://www.redpepper.co.ug/">Home</a></li><li id="menu-item-21247" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-21247"><a href="http://www.redpepper.co.ug/category/news/">News</a></li><li id="menu-item-21250" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-21250"><a href="http://www.redpepper.co.ug/category/gossip/">Gossip</a></li><li id="menu-item-21248" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-21248"><a href="http://www.redpepper.co.ug/category/sports/">Sports</a></li><li id="menu-item-21251" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-21251"><a href="http://www.redpepper.co.ug/category/business/">Business</a></li><li id="menu-item-53512" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-53512"><a href="http://www.redpepper.co.ug/category/crime/">Crime</a></li><li id="menu-item-53511" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-53511"><a href="http://www.redpepper.co.ug/category/health/">Health</a></li><li id="menu-item-21249" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-21249"><a href="http://www.redpepper.co.ug/category/world/">World</a></li><li id="menu-item-61024" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-61024"><a href="http://www.redpepper.co.ug/category/jobs/">Jobs</a></li></ul></div>    </div>
+</div>    </div>
+
+        <div class="td-transition-content-and-menu td-content-wrap">
+
+
+
+<!--
+Header style 1
+-->
+
+<div class="td-header-container td-header-wrap td-header-style-1">
+    <div class="td-header-row td-header-top-menu">
+        
+<div class="td-header-sp-top-menu">
+
+    <div class="td_data_time">Tuesday, December 22, 2015</div>
+                <ul class="top-header-menu td_ul_login"><li class="menu-item"><a class="td-login-modal-js menu-item" href="#login-form" data-effect="mpf-td-login-effect">Sign in / Join</a><span class="td-sp-ico-login td_sp_login_ico_style"></span></li></ul>
+                <div  id="login-form" class="white-popup-block mfp-hide mfp-with-anim">
+                    <ul class="td-login-tabs">
+                        <li><a id="login-link" class="td_login_tab_focus">LOG IN</a></li>
+                    </ul>
+
+
+
+                    <div class="td-login-wrap">
+                        <div class="td_display_err"></div>
+
+                        <div id="td-login-div" class="">
+                            <div class="td-login-panel-title">Welcome! Log into your account</div>
+                            <input class="td-login-input" type="text" name="login_email" id="login_email" placeholder="your username" value="" required>
+                            <input class="td-login-input" type="password" name="login_pass" id="login_pass" value="" placeholder="your password" required>
+                            <input type="button" name="login_button" id="login_button" class="wpb_button btn td-login-button" value="Log In">
+
+
+                            <div class="td-login-info-text"><a href="#" id="forgot-pass-link">Forgot your password?</a></div>
+
+
+                        </div>
+
+                        
+
+                         <div id="td-forgot-pass-div" class="td-dispaly-none">
+                            <div class="td-login-panel-title">Recover your password</div>
+                            <input class="td-login-input" type="text" name="forgot_email" id="forgot_email" placeholder="your email" value="" required>
+                            <input type="button" name="forgot_button" id="forgot_button" class="wpb_button btn td-login-button" value="Send My Pass">
+                        </div>
+
+
+
+
+                    </div>
+                </div>
+                <div class="menu-top-container"><ul id="menu-top-menu" class="top-header-menu"><li id="menu-item-53473" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-first td-menu-item td-normal-menu menu-item-53473"><a href="http://www.redpepper.co.ug/advertise-with-us/">Advertise With Us</a></li><li id="menu-item-53474" class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-53474"><a href="http://www.redpepper.co.ug/about-us/">About Us</a></li><li id="menu-item-53475" class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-53475"><a href="http://www.redpepper.co.ug/contact-us/">Contact Us</a></li></ul></div></div>
+                <div class="td-header-sp-top-widget">
+                    </div>
+        </div>
+
+
+    <div class="td-header-row td-header-header">
+        <div class="td-header-sp-logo">
+                <a itemprop="url" href="http://www.redpepper.co.ug/">
+        <img class="td-retina-data" data-retina="http://www.redpepper.co.ug/wp-content/uploads/2015/03/RP-MAST-KArate1.jpg" src="http://www.redpepper.co.ug/wp-content/uploads/2015/03/RP-MAST-KArate.jpg" alt="Red Pepper"/>
+    </a>
+    <meta itemprop="name" content="Red Pepper Uganda">
+        </div>
+        <div class="td-header-sp-ads">
+            
+<div class="td-header-ad-wrap  td-ad-m td-ad-tp td-ad-p">
+    <div class="td-a-rec td-a-rec-id-header "><!-- /1002759/RedPepper_728x90 -->
+<div id='div-gpt-ad-1430314404647-0' style='height:90px; width:728px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1430314404647-0'); });
+</script>
+</div></div>
+
+</div>        </div>
+    </div>
+    <div class="td-header-menu-wrap">
+        <div class="td-header-row td-header-border td-header-main-menu">
+            <div id="td-header-menu" role="navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+    <div id="td-top-mobile-toggle"><a href="#"><i class="td-icon-font td-icon-mobile"></i></a></div>
+    <div class="td-main-menu-logo">
+        		<a itemprop="url" href="http://www.redpepper.co.ug/">
+			<img class="td-retina-data" data-retina="http://www.redpepper.co.ug/wp-content/uploads/2015/03/RP-MAST-KArate3.jpg" src="http://www.redpepper.co.ug/wp-content/uploads/2015/03/RP-MAST-KArate2.jpg" alt="Red Pepper"/>
+		</a>
+		<meta itemprop="name" content="Red Pepper Uganda">
+	    </div>
+    <div class="menu-main-menu-container"><ul id="menu-main-menu-1" class="sf-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-first td-menu-item td-normal-menu menu-item-21282"><a href="http://www.redpepper.co.ug/">Home</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-21247"><a href="http://www.redpepper.co.ug/category/news/">News</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-21250"><a href="http://www.redpepper.co.ug/category/gossip/">Gossip</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-21248"><a href="http://www.redpepper.co.ug/category/sports/">Sports</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent td-menu-item td-normal-menu menu-item-21251"><a href="http://www.redpepper.co.ug/category/business/">Business</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-53512"><a href="http://www.redpepper.co.ug/category/crime/">Crime</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-53511"><a href="http://www.redpepper.co.ug/category/health/">Health</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-21249"><a href="http://www.redpepper.co.ug/category/world/">World</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-61024"><a href="http://www.redpepper.co.ug/category/jobs/">Jobs</a></li></ul></div></div>
+
+<div class="td-search-wrapper">
+    <div id="td-top-search">
+        <!-- Search -->
+        <div class="header-search-wrap">
+            <div class="dropdown header-search">
+                <a id="td-header-search-button" href="#" role="button" class="dropdown-toggle " data-toggle="dropdown"><i class="td-icon-search"></i></a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="header-search-wrap">
+	<div class="dropdown header-search">
+		<div class="td-drop-down-search" aria-labelledby="td-header-search-button">
+			<form role="search" method="get" class="td-search-form" action="http://www.redpepper.co.ug/">
+				<div class="td-head-form-search-wrap">
+					<input class="needsclick" id="td-header-search" type="text" value="" name="s" autocomplete="off" /><input class="wpb_button wpb_btn-inverse btn" type="submit" id="td-header-search-top" value="Search" />
+				</div>
+			</form>
+			<div id="td-aj-search"></div>
+		</div>
+	</div>
+</div>        </div>
+    </div>
+</div>
+    <div class="td-container td-post-template-default">
+        <div class="td-container-border">
+            <div class="td-pb-row">
+                                            <div class="td-pb-span8 td-main-content" role="main">
+                                <div class="td-ss-main-content">
+                                    
+
+    <article id="post-61286" class="post-61286 post type-post status-publish format-standard has-post-thumbnail hentry category-business" itemscope itemtype="http://schema.org/Article">
+        <div class="td-post-header td-pb-padding-side">
+            <div class="entry-crumbs"><span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a title="" class="entry-crumb" itemprop="url" href="http://www.redpepper.co.ug/"><span itemprop="title">Home</span></a></span> <i class="td-icon-right td-bread-sep"></i> <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a title="View all posts in Business" class="entry-crumb" itemprop="url" href="http://www.redpepper.co.ug/category/business/"><span itemprop="title">Business</span></a></span> <i class="td-icon-right td-bread-sep td-bred-no-url-last"></i> <span class="td-bred-no-url-last" itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><meta itemprop="title" content = "Africell Launches The First Ever Luganda Smart Phone"><meta itemprop="url" content = "http://www.redpepper.co.ug/africell-launches-the-first-ever-luganda-smart-phone/">Africell Launches The First Ever Luganda Smart Phone</span></div>
+            
+            <header>
+                <h1 class="entry-title">Africell Launches The First Ever Luganda Smart Phone</h1>
+
+                
+
+                <div class="meta-info">
+
+                    <div class="td-post-author-name">By <a itemprop="author" href="http://www.redpepper.co.ug/author/our-reporter/">Our Reporter</a> - </div>                    <div class="td-post-date"><time  itemprop="dateCreated" class="entry-date updated td-module-date" datetime="2015-12-20T10:21:09+00:00" >Dec 20, 2015</time><meta itemprop="interactionCount" content="UserComments:0"/></div>                                        <div class="td-post-comments"><a href="http://www.redpepper.co.ug/africell-launches-the-first-ever-luganda-smart-phone/#respond"><i class="td-icon-comments"></i>0</a></div>                </div>
+            </header>
+
+
+        </div>
+
+        <div class="td-post-sharing td-post-sharing-top td-pb-padding-side"><span class="td-post-share-title">SHARE</span>
+				<div class="td-default-sharing ">
+		            <a class="td-social-sharing-buttons td-social-facebook" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.redpepper.co.ug%2Fafricell-launches-the-first-ever-luganda-smart-phone%2F" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><div class="td-sp td-sp-facebook"></div><div class="td-social-but-text">Facebook</div></a>
+		            <a class="td-social-sharing-buttons td-social-twitter" href="https://twitter.com/intent/tweet?text=Africell+Launches+The+First+Ever+Luganda+Smart+Phone&url=http%3A%2F%2Fwww.redpepper.co.ug%2Fafricell-launches-the-first-ever-luganda-smart-phone%2F&via=Red+Pepper+Uganda"  ><div class="td-sp td-sp-twitter"></div><div class="td-social-but-text">Twitter</div></a>
+		            <a class="td-social-sharing-buttons td-social-google" href="http://plus.google.com/share?url=http://www.redpepper.co.ug/africell-launches-the-first-ever-luganda-smart-phone/" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><div class="td-sp td-sp-googleplus"></div></a>
+		            <a class="td-social-sharing-buttons td-social-pinterest" href="http://pinterest.com/pin/create/button/?url=http://www.redpepper.co.ug/africell-launches-the-first-ever-luganda-smart-phone/&amp;media=http://www.redpepper.co.ug/wp-content/uploads/2015/12/Africell1.jpg" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><div class="td-sp td-sp-pinterest"></div></a>
+	            </div></div>
+
+        <div class="td-post-content td-pb-padding-side">
+
+        
+        
+ <!-- A generated by theme --> 
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><div class="td-g-rec td-g-rec-id-content_top">
+<script type="text/javascript">
+var td_screen_width = document.body.clientWidth;
+
+                    if ( td_screen_width >= 1024 ) {
+                        /* large monitors */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-9357472211949590" data-ad-slot="7584566947"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+            
+                    if ( td_screen_width >= 768  && td_screen_width < 1024 ) {
+                        /* portrait tablets */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-9357472211949590" data-ad-slot="7584566947"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+                
+                    if ( td_screen_width < 768 ) {
+                        /* Phones */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-9357472211949590" data-ad-slot="7584566947"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+                </script>
+</div>
+
+ <!-- end A --> 
+
+<p><strong>Africell Uganda on Friday morning launched the first ever Luganda language smart phone at the opening of their new state-of-the art shop at Forest Mall.</strong></p>
+<figure id="attachment_61287" style="width: 640px" class="wp-caption alignnone"><a href="http://www.redpepper.co.ug/wp-content/uploads/2015/12/Africell1.jpg" rel="attachment wp-att-61287"><img class="size-full wp-image-61287" src="http://www.redpepper.co.ug/wp-content/uploads/2015/12/Africell1.jpg" alt="Idroid CEO Jawad Qureshi picks the winning coupon for the lucky winner of the new IDROID Simu flanked by Africell Commercial Director Milad Khairallah" width="640" height="428" srcset="http://www.redpepper.co.ug/wp-content/uploads/2015/12/Africell1-300x201.jpg 300w, http://www.redpepper.co.ug/wp-content/uploads/2015/12/Africell1-537x360.jpg 537w, http://www.redpepper.co.ug/wp-content/uploads/2015/12/Africell1.jpg 640w" sizes="(max-width: 640px) 100vw, 640px" /></a><figcaption class="wp-caption-text">Idroid CEO Jawad Qureshi picks the winning coupon for the lucky winner of the new IDROID Simu flanked by Africell Commercial Director Milad Khairallah</figcaption></figure>
+<p>This launch comes on the heels of other campaigns such as the half a shilling per second call rate which is the cheapest in the market and the king of the bundles campaign that unleashed the best data and voice packages in Uganda.</p>
+<p>The new shop was unveiled as an initiative to get Africell services closer to customers.</p>
+
+ <!-- A generated by theme --> 
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><div class="td-g-rec td-g-rec-id-content_inlineleft">
+<script type="text/javascript">
+var td_screen_width = document.body.clientWidth;
+
+                    if ( td_screen_width >= 1024 ) {
+                        /* large monitors */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-9357472211949590" data-ad-slot="4270226942"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+            
+                    if ( td_screen_width >= 768  && td_screen_width < 1024 ) {
+                        /* portrait tablets */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:200px;height:200px" data-ad-client="ca-pub-9357472211949590" data-ad-slot="4270226942"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+                
+                    if ( td_screen_width < 768 ) {
+                        /* Phones */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:320px;height:50px" data-ad-client="ca-pub-9357472211949590" data-ad-slot="4270226942"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+                </script>
+</div>
+
+ <!-- end A --> 
+
+<p>The first of its kind in Uganda iDROID simu will be FREE on Africell for customers who will buy 3GB worth of data for 3 months at only 199,000/=.</p>
+<p>The perfectly sized 4.0 inch Multi-touch screen is operational in Luganda and English.</p>
+<p>Its 5MP rear camera captures moments with clarity and has a standby battery time of upto 180 hours.</p>
+<p>The iDROID Simu incorporates iDROID’s latest innovative design and technology giving customers the ability to express their individuality in their mother tongue- Luganda; a language spoken and read by the majority.</p>
+<p>Africell has also lined the iDROID Hero 1 which will also be FREE on purchase of a 3GB data package for 4 months for only 259,000/= at all Africell shops.</p>
+<p>The Brand new iDROID Hero 1 offers unmatched style, performance along with enhanced features perfect for self-expressions.</p>
+<p>Speaking at the launch, Milad Khairallah Africell’s Commercial Director said “As Africell, we continue to offer our customers the best deals at the cheapest prices.</p>
+<p>We have launched a number of affordable customer-friendly initiatives that come with the best rates for voice and data packages.</p>
+<figure id="attachment_61288" style="width: 640px" class="wp-caption alignnone"><a href="http://www.redpepper.co.ug/wp-content/uploads/2015/12/africell2.jpg" rel="attachment wp-att-61288"><img class="size-full wp-image-61288" src="http://www.redpepper.co.ug/wp-content/uploads/2015/12/africell2.jpg" alt="Milad Khairallah the Africell Commercial Director hands the new IDROID Simu to Adrian Mwesigwa as  IDROID CEO Jawad Qureshi looks  on" width="640" height="428" srcset="http://www.redpepper.co.ug/wp-content/uploads/2015/12/africell2-300x201.jpg 300w, http://www.redpepper.co.ug/wp-content/uploads/2015/12/africell2-537x360.jpg 537w, http://www.redpepper.co.ug/wp-content/uploads/2015/12/africell2.jpg 640w" sizes="(max-width: 640px) 100vw, 640px" /></a><figcaption class="wp-caption-text">Milad Khairallah the Africell Commercial Director hands the new IDROID Simu to Adrian Mwesigwa as IDROID CEO Jawad Qureshi looks on</figcaption></figure>
+<p>Initiatives like the king of the bundles that has the cheapest data and voice rates, free night calls, the revolutionary half a shilling per second call rate are proof of our commitment to our customer needs.”</p>
+<p>These innovative campaigns by Africell are one of the many customer oriented plans that the telecom company plans over the next months.</p>
+<p>Africell has always been a market leader in the telephony internet category and continues to lead while leveraging on their internet infrastructure investment.</p>
+<p>Milad closed it off “Africell is the network for those customers who want innovation, quality of data and voice at a reasonable price”</p>
+<p>Speaking at the same launch, the iDROID Uganda  Co-founder &amp; Chief Marketing Officer Jawad Qureshi said the iDROID brand will continue to partner with brands like Africell that are enthusiastic about offering their customers the innovative choices.</p>
+<p>He asserted “As iDROID, we are committed to continued innovation, inspired by the feedback and needs of our wide range of customers.</p>
+<p>Our newly launched rescue App gives a strong evidence of our focus on innovation. This App has greatly solved an industry problem since phones with any software problems can now be remotely fixed by the iDROID certified technicians saving client’s precious time when it comes to repairs.”</p>
+<p>The latest Africell campaigns like this one where they are offering free phones for customers who buy their data will target internet users who want data at fast speeds with smart phones that give them the best options at affordable prices. The free iDROID Simu smartphone will be available at selected Africell stores effective today 18<sup>th </sup>December, 2015.</p>
+<div class="wpInsert wpInsertInPostAd wpInsertBelow"><a href="http://www.alexa.com/siteinfo/www.redpepper.co.ug"><script type="text/javascript" src="http://xslt.alexa.com/site_stats/js/s/c?url=www.redpepper.co.ug"></script></a></div>        </div>
+
+
+        <footer>
+                        
+            <div class="td-post-source-tags td-pb-padding-side">
+                                            </div>
+
+            <div class="td-post-sharing td-post-sharing-bottom td-pb-padding-side"><span class="td-post-share-title">SHARE</span>
+            <div class="td-default-sharing ">
+	            <a class="td-social-sharing-buttons td-social-facebook" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.redpepper.co.ug%2Fafricell-launches-the-first-ever-luganda-smart-phone%2F" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><div class="td-sp td-sp-facebook"></div><div class="td-social-but-text">Facebook</div></a>
+	            <a class="td-social-sharing-buttons td-social-twitter" href="https://twitter.com/intent/tweet?text=Africell+Launches+The+First+Ever+Luganda+Smart+Phone&url=http%3A%2F%2Fwww.redpepper.co.ug%2Fafricell-launches-the-first-ever-luganda-smart-phone%2F&via=Red+Pepper+Uganda"><div class="td-sp td-sp-twitter"></div><div class="td-social-but-text">Twitter</div></a>
+	            <a class="td-social-sharing-buttons td-social-google" href="http://plus.google.com/share?url=http://www.redpepper.co.ug/africell-launches-the-first-ever-luganda-smart-phone/" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><div class="td-sp td-sp-googleplus"></div></a>
+	            <a class="td-social-sharing-buttons td-social-pinterest" href="http://pinterest.com/pin/create/button/?url=http://www.redpepper.co.ug/africell-launches-the-first-ever-luganda-smart-phone/&amp;media=http://www.redpepper.co.ug/wp-content/uploads/2015/12/Africell1.jpg" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><div class="td-sp td-sp-pinterest"></div></a>
+            </div></div>            <div class="td-block-row td-post-next-prev"><div class="td-block-span6 td-post-prev-post"><div class="td-post-next-prev-content"><span>Previous article</span><a href="http://www.redpepper.co.ug/victoria-university-new-guild-sworn-in/">Victoria University New Guild Sworn In</a></div></div><div class="td-next-prev-separator"></div><div class="td-block-span6 td-post-next-post"><div class="td-post-next-prev-content"><span>Next article</span><a href="http://www.redpepper.co.ug/kirunda-kivejinja-finally-takes-oath/">Kirunda Kivejinja Finally takes oath</a></div></div></div>            <div class="td-author-name vcard author" style="display: none"><span class="fn"><a href="http://www.redpepper.co.ug/author/our-reporter/">Our Reporter</a></span></div>	        <meta itemprop="author" content = "Our Reporter"><meta itemprop="datePublished" content="2015-12-20T10:21:09+00:00"><meta itemprop="headline " content="Africell Launches The First Ever Luganda Smart Phone"><meta itemprop="image" content="http://www.redpepper.co.ug/wp-content/uploads/2015/12/Africell1.jpg"><meta itemprop="interactionCount" content="UserComments:0"/>        </footer>
+
+    </article> <!-- /.post -->
+
+    <script>var block_td_uid_1_5679d63482a9c = new tdBlock();
+block_td_uid_1_5679d63482a9c.id = "td_uid_1_5679d63482a9c";
+block_td_uid_1_5679d63482a9c.atts = '{"limit":3,"ajax_pagination":"next_prev","live_filter":"cur_post_same_categories","td_ajax_filter_type":"td_custom_related","class":"td_block_id_1197842560 td_uid_1_5679d63482a9c_rand","td_column_number":3,"live_filter_cur_post_id":61286,"live_filter_cur_post_author":"23"}';
+block_td_uid_1_5679d63482a9c.td_column_number = "3";
+block_td_uid_1_5679d63482a9c.block_type = "td_block_related_posts";
+block_td_uid_1_5679d63482a9c.post_count = "3";
+block_td_uid_1_5679d63482a9c.found_posts = "987";
+block_td_uid_1_5679d63482a9c.header_color = "";
+block_td_uid_1_5679d63482a9c.ajax_pagination_infinite_stop = "";
+block_td_uid_1_5679d63482a9c.max_num_pages = "329";
+tdBlocksArray.push(block_td_uid_1_5679d63482a9c);
+</script><div class="td_block_wrap td_block_related_posts td_block_id_1197842560 td_uid_1_5679d63482a9c_rand td_with_ajax_pagination td-pb-border-top"><h4 class="td-related-title"><a id="td_uid_2_5679d63483f64" class="td-related-left td-cur-simple-item" data-td_filter_value="" data-td_block_id="td_uid_1_5679d63482a9c" href="#">RELATED ARTICLES</a><a id="td_uid_3_5679d63483fb2" class="td-related-right" data-td_filter_value="td_related_more_from_author" data-td_block_id="td_uid_1_5679d63482a9c" href="#">MORE FROM AUTHOR</a></h4><div id=td_uid_1_5679d63482a9c class="td_block_inner">
+
+	<div class="td-related-row">
+
+	<div class="td-related-span4">
+
+        <div class="td_module_related_posts td-animation-stack td_mod_related_posts">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="http://www.redpepper.co.ug/boomboom-unveils-classy-headphones/" rel="bookmark" title="BoomBoom Unveils Classy Headphones"><img width="238" height="178" itemprop="image" class="entry-thumb" src="http://www.redpepper.co.ug/wp-content/uploads/2015/12/nyu2-238x178.jpg" alt="" title="BoomBoom Unveils Classy Headphones"/></a></div>                            </div>
+            <div class="item-details">
+                <h3 itemprop="name" class="entry-title td-module-title"><a itemprop="url" href="http://www.redpepper.co.ug/boomboom-unveils-classy-headphones/" rel="bookmark" title="BoomBoom Unveils Classy Headphones">BoomBoom Unveils Classy Headphones</a></h3>            </div>
+        </div>
+        
+	</div> <!-- ./td-related-span4 -->
+
+	<div class="td-related-span4">
+
+        <div class="td_module_related_posts td-animation-stack td_mod_related_posts">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="http://www.redpepper.co.ug/sheraton-kampala-hotel-launches-the-first-e-learning-center-in-uganda/" rel="bookmark" title="Sheraton Kampala Hotel launches the first “E-Learning” center in Uganda"><img width="238" height="178" itemprop="image" class="entry-thumb" src="http://www.redpepper.co.ug/wp-content/uploads/2015/12/e-learning1-238x178.jpg" alt="" title="Sheraton Kampala Hotel launches the first “E-Learning” center in Uganda"/></a></div>                            </div>
+            <div class="item-details">
+                <h3 itemprop="name" class="entry-title td-module-title"><a itemprop="url" href="http://www.redpepper.co.ug/sheraton-kampala-hotel-launches-the-first-e-learning-center-in-uganda/" rel="bookmark" title="Sheraton Kampala Hotel launches the first “E-Learning” center in Uganda">Sheraton Kampala Hotel launches the first “E-Learning” center in Uganda</a></h3>            </div>
+        </div>
+        
+	</div> <!-- ./td-related-span4 -->
+
+	<div class="td-related-span4">
+
+        <div class="td_module_related_posts td-animation-stack td_mod_related_posts">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="http://www.redpepper.co.ug/victoria-university-expands-wings-to-s-sudan/" rel="bookmark" title="Victoria University Expands Wings To S. Sudan"><img width="238" height="178" itemprop="image" class="entry-thumb" src="http://www.redpepper.co.ug/wp-content/uploads/2015/12/26e21d5a-8621-4c8d-ad73-be1c4db4d035-238x178.jpg" alt="" title="Victoria University Expands Wings To S. Sudan"/></a></div>                            </div>
+            <div class="item-details">
+                <h3 itemprop="name" class="entry-title td-module-title"><a itemprop="url" href="http://www.redpepper.co.ug/victoria-university-expands-wings-to-s-sudan/" rel="bookmark" title="Victoria University Expands Wings To S. Sudan">Victoria University Expands Wings To S. Sudan</a></h3>            </div>
+        </div>
+        
+	</div> <!-- ./td-related-span4 --></div><!--./row-fluid--></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_1_5679d63482a9c" data-td_block_id="td_uid_1_5679d63482a9c"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#"  class="td-ajax-next-page" id="next-page-td_uid_1_5679d63482a9c" data-td_block_id="td_uid_1_5679d63482a9c"><i class="td-icon-font td-icon-menu-right"></i></a></div></div> <!-- ./block -->
+
+<div id="disqus_thread">
+    </div>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+    var disqus_url = 'http://www.redpepper.co.ug/africell-launches-the-first-ever-luganda-smart-phone/';
+    var disqus_identifier = '61286 http://www.redpepper.co.ug/?p=61286';
+    var disqus_container_id = 'disqus_thread';
+    var disqus_domain = 'disqus.com';
+    var disqus_shortname = 'redpepperug';
+    var disqus_title = "Africell Launches The First Ever Luganda Smart Phone";
+    var disqus_config = function () {
+        var config = this; // Access to the config object
+        config.language = '';
+
+        /* Add the ability to add javascript callbacks */
+        
+        /*
+           All currently supported events:
+            * preData — fires just before we request for initial data
+            * preInit - fires after we get initial data but before we load any dependencies
+            * onInit  - fires when all dependencies are resolved but before dtpl template is rendered
+            * afterRender - fires when template is rendered but before we show it
+            * onReady - everything is done
+         */
+
+        config.callbacks.preData.push(function() {
+            // clear out the container (its filled for SEO/legacy purposes)
+            document.getElementById(disqus_container_id).innerHTML = '';
+        });
+                config.callbacks.onReady.push(function() {
+            // sync comments in the background so we don't block the page
+            var script = document.createElement('script');
+            script.async = true;
+            script.src = '?cf_action=sync_comments&post_id=61286';
+
+            var firstScript = document.getElementsByTagName( "script" )[0];
+            firstScript.parentNode.insertBefore(script, firstScript);
+        });
+                    };
+/* ]]> */
+</script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+    var DsqLocal = {
+        'trackbacks': [
+        ],
+        'trackback_url': "http:\/\/www.redpepper.co.ug\/africell-launches-the-first-ever-luganda-smart-phone\/trackback\/"    };
+/* ]]> */
+</script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+(function() {
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript';
+    dsq.async = true;
+    dsq.src = '//' + disqus_shortname + '.' + 'disqus.com' + '/' + 'embed' + '.js' + '?pname=wordpress&pver=2.77';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+/* ]]> */
+</script>
+                                </div>
+                            </div>
+                            <div class="td-pb-span4 td-main-sidebar" role="complementary">
+                                <div class="td-ss-main-sidebar">
+                                    <aside class="widget widget_text">			<div class="textwidget"><p>
+<a href="http://www.vu.ac.ug" target="_blank"><img src="http://www.redpepper.co.ug/wp-content/uploads/2015/11/Redpaper-250-x-300.gif" alt="" width="300" height="300" border="0" /></a> </p></div>
+		</aside><aside class="widget widget_text">			<div class="textwidget"><p>
+<a href="http://www.redpepper.co.ug" target="_blank"><img src="http://www.redpepper.co.ug/wp-content/uploads/2015/12/CLIMAX-PAGE-9.jpg" border="1" /></a> </p></div>
+		</aside><aside class="widget widget_text">			<div class="textwidget"><p>
+<a href="http://zande.co.ug/" target="_blank"><img src="http://redpepper.co.ug/wp-content/themes/newspaper/images/Zande-media-advert--animati.gif" alt="" width="300" height="250" border="0" /></a> </p></div>
+		</aside>
+ <!-- A generated by theme --> 
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><div class="td-g-rec td-g-rec-id-sidebar">
+<script type="text/javascript">
+var td_screen_width = document.body.clientWidth;
+
+                    if ( td_screen_width >= 1024 ) {
+                        /* large monitors */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-9357472211949590" data-ad-slot="0844548382"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+            
+                    if ( td_screen_width >= 768  && td_screen_width < 1024 ) {
+                        /* portrait tablets */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:200px;height:200px" data-ad-client="ca-pub-9357472211949590" data-ad-slot="0844548382"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+                
+                    if ( td_screen_width < 768 ) {
+                        /* Phones */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-9357472211949590" data-ad-slot="0844548382"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+                </script>
+</div>
+
+ <!-- end A --> 
+
+<aside class="widget widget_text">			<div class="textwidget"><p>
+<a href="hthttp://www.silverspringshotelug.com/"> <img src="http://www.redpepper.co.ug/wp-content/uploads/2015/12/royal.jpg"></a> </p></div>
+		</aside><aside class="widget widget_text">			<div class="textwidget">p>
+<a href="http://synergypartners.co.ug/"> <img src="http://www.redpepper.co.ug/wp-content/uploads/2015/12/Amaya-Tree-Estate-2.gif"></a> </p>
+</div>
+		</aside><aside class="widget widget_text">			<div class="textwidget"><p>
+<a href="#"> <img src="http://www.redpepper.co.ug/wp-content/uploads/2015/11/SFS-Digital-Banners-RP-300x250px.gif"> </a> 
+</p></div>
+		</aside><script>var block_td_uid_4_5679d63487992 = new tdBlock();
+block_td_uid_4_5679d63487992.id = "td_uid_4_5679d63487992";
+block_td_uid_4_5679d63487992.atts = '{"category_id":"","category_ids":"","tag_slug":"","autors_id":"","sort":"popular","installed_post_types":"","limit":"4","offset":"","custom_title":"Hotly Debated","custom_url":"","header_text_color":"#","header_color":"#","border_top":"","color_preset":"","td_ajax_filter_type":"","td_ajax_filter_ids":"","td_filter_default_txt":"All","ajax_pagination":"next_prev","ajax_pagination_infinite_stop":"","class":"td_block_widget td_block_id_2664654910 td_uid_4_5679d63487992_rand"}';
+block_td_uid_4_5679d63487992.td_column_number = "1";
+block_td_uid_4_5679d63487992.block_type = "td_block_9";
+block_td_uid_4_5679d63487992.post_count = "4";
+block_td_uid_4_5679d63487992.found_posts = "544";
+block_td_uid_4_5679d63487992.header_color = "#";
+block_td_uid_4_5679d63487992.ajax_pagination_infinite_stop = "";
+block_td_uid_4_5679d63487992.max_num_pages = "136";
+tdBlocksArray.push(block_td_uid_4_5679d63487992);
+</script><div class="td_block_wrap td_block_9 td_block_widget td_block_id_2664654910 td_uid_4_5679d63487992_rand td_with_ajax_pagination td-pb-border-top"><h4 class="block-title"><span>Hotly Debated</span></h4><div id=td_uid_4_5679d63487992 class="td_block_inner">
+
+	<div class="td-block-span12">
+
+        <div class="td_module_8 td_module_wrap" itemscope itemtype="http://schema.org/Article">
+
+            <div class="item-details">
+                <h3 itemprop="name" class="entry-title td-module-title"><a itemprop="url" href="http://www.redpepper.co.ug/chameleones-village-mansion-shocks-nation/" rel="bookmark" title="Chameleone’s Village &#8216;Mansion&#8217; Shocks Nation">Chameleone’s Village &#8216;Mansion&#8217; Shocks Nation</a></h3>                <div class="meta-info">
+                                        <div class="td-post-author-name"><a itemprop="author" href="http://www.redpepper.co.ug/author/solomon-businge/">Solomon Businge</a> <span>-</span> </div>                    <div class="td-post-date"><time  itemprop="dateCreated" class="entry-date updated td-module-date" datetime="2015-03-21T11:27:01+00:00" >Mar 21, 2015</time><meta itemprop="interactionCount" content="UserComments:0"/></div>                                    </div>
+            </div>
+
+            <meta itemprop="author" content = "Solomon Businge"><meta itemprop="datePublished" content="2015-03-21T11:27:01+00:00"><meta itemprop="headline " content="Chameleone’s Village &#039;Mansion&#039; Shocks Nation"><meta itemprop="image" content="http://www.redpepper.co.ug/wp-content/uploads/2015/03/mansion1.jpg"><meta itemprop="interactionCount" content="UserComments:0"/>        </div>
+
+        
+	</div> <!-- ./td-block-span12 -->
+
+	<div class="td-block-span12">
+
+        <div class="td_module_8 td_module_wrap" itemscope itemtype="http://schema.org/Article">
+
+            <div class="item-details">
+                <h3 itemprop="name" class="entry-title td-module-title"><a itemprop="url" href="http://www.redpepper.co.ug/worlds-oldest-serving-politician-mateke-phelemon-exports-comedy-to-parliament/" rel="bookmark" title="World’s Oldest Serving Politician Phelemon Mateke  Exports Comedy To Parliament">World’s Oldest Serving Politician Phelemon Mateke  Exports Comedy To Parliament</a></h3>                <div class="meta-info">
+                                        <div class="td-post-author-name"><a itemprop="author" href="http://www.redpepper.co.ug/author/our-reporter/">Our Reporter</a> <span>-</span> </div>                    <div class="td-post-date"><time  itemprop="dateCreated" class="entry-date updated td-module-date" datetime="2015-03-22T11:14:34+00:00" >Mar 22, 2015</time><meta itemprop="interactionCount" content="UserComments:0"/></div>                                    </div>
+            </div>
+
+            <meta itemprop="author" content = "Our Reporter"><meta itemprop="datePublished" content="2015-03-22T11:14:34+00:00"><meta itemprop="headline " content="World’s Oldest Serving Politician Phelemon Mateke  Exports Comedy To Parliament"><meta itemprop="image" content="http://www.redpepper.co.ug/wp-content/uploads/2015/03/mateke.jpg"><meta itemprop="interactionCount" content="UserComments:0"/>        </div>
+
+        
+	</div> <!-- ./td-block-span12 -->
+
+	<div class="td-block-span12">
+
+        <div class="td_module_8 td_module_wrap" itemscope itemtype="http://schema.org/Article">
+
+            <div class="item-details">
+                <h3 itemprop="name" class="entry-title td-module-title"><a itemprop="url" href="http://www.redpepper.co.ug/kadaga-probes-m7-new-cabinet/" rel="bookmark" title="Kadaga Probes M7 New Cabinet">Kadaga Probes M7 New Cabinet</a></h3>                <div class="meta-info">
+                                        <div class="td-post-author-name"><a itemprop="author" href="http://www.redpepper.co.ug/author/mulindwa-henry/">Henry Mulindwa</a> <span>-</span> </div>                    <div class="td-post-date"><time  itemprop="dateCreated" class="entry-date updated td-module-date" datetime="2015-03-22T09:48:06+00:00" >Mar 22, 2015</time><meta itemprop="interactionCount" content="UserComments:0"/></div>                                    </div>
+            </div>
+
+            <meta itemprop="author" content = "Henry Mulindwa"><meta itemprop="datePublished" content="2015-03-22T09:48:06+00:00"><meta itemprop="headline " content="Kadaga Probes M7 New Cabinet"><meta itemprop="image" content="http://www.redpepper.co.ug/wp-content/uploads/2013/08/kadaga1.jpg"><meta itemprop="interactionCount" content="UserComments:0"/>        </div>
+
+        
+	</div> <!-- ./td-block-span12 -->
+
+	<div class="td-block-span12">
+
+        <div class="td_module_8 td_module_wrap" itemscope itemtype="http://schema.org/Article">
+
+            <div class="item-details">
+                <h3 itemprop="name" class="entry-title td-module-title"><a itemprop="url" href="http://www.redpepper.co.ug/madhvani-on-the-spot-for-illegal-possession-of-royals-land/" rel="bookmark" title="Madhvani On the Spot For Illegal Possession Of Buganda Royal Family&#8217;s Estate">Madhvani On the Spot For Illegal Possession Of Buganda Royal Family&#8217;s Estate</a></h3>                <div class="meta-info">
+                                        <div class="td-post-author-name"><a itemprop="author" href="http://www.redpepper.co.ug/author/masereka-alex/">Alex Masereka</a> <span>-</span> </div>                    <div class="td-post-date"><time  itemprop="dateCreated" class="entry-date updated td-module-date" datetime="2015-03-11T13:54:30+00:00" >Mar 11, 2015</time><meta itemprop="interactionCount" content="UserComments:0"/></div>                                    </div>
+            </div>
+
+            <meta itemprop="author" content = "Alex Masereka"><meta itemprop="datePublished" content="2015-03-11T13:54:30+00:00"><meta itemprop="headline " content="Madhvani On the Spot For Illegal Possession Of Buganda Royal Family&#039;s Estate"><meta itemprop="image" content="http://www.redpepper.co.ug/wp-content/uploads/2015/03/DSC04225.jpg"><meta itemprop="interactionCount" content="UserComments:0"/>        </div>
+
+        
+	</div> <!-- ./td-block-span12 --></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_4_5679d63487992" data-td_block_id="td_uid_4_5679d63487992"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#"  class="td-ajax-next-page" id="next-page-td_uid_4_5679d63487992" data-td_block_id="td_uid_4_5679d63487992"><i class="td-icon-font td-icon-menu-right"></i></a></div></div> <!-- ./block --><aside class="widget widget_text">			<div class="textwidget"><p>
+<a href="https://www.facebook.com/GOtvUG?fref=ts" target="_blank"><img src="http://www.redpepper.co.ug/wp-content/uploads/2015/03/GOtv-Yingira.jpg" alt="" width="300" height="250" border="0" /></a> </p></div>
+		</aside><aside class="widget widget_text">			<div class="textwidget"><p>
+<a href="www.roketelkom.co.ug" target="_blank"><img src="http://redpepper.co.ug/wp-content/themes/newspaper/images/Roke-final.gif" alt="" width="300" height="250" border="0" /></a> </p></div>
+		</aside><aside class="widget widget_text">			<div class="textwidget"><p>
+<a href="#"> <img src="http://www.redpepper.co.ug/wp-content/uploads/2015/11/dstv.gif"> </a> 
+</p></div>
+		</aside><aside class="widget widget_text">			<div class="textwidget"><p>
+<a href="http://www.flydubai.com/en/"> <img src="http://www.redpepper.co.ug/wp-content/uploads/2015/12/Africa_to_DXB_Uganda_300x250_En.gif"> </a> 
+</p></div>
+		</aside><script>var block_td_uid_5_5679d6348cee2 = new tdBlock();
+block_td_uid_5_5679d6348cee2.id = "td_uid_5_5679d6348cee2";
+block_td_uid_5_5679d6348cee2.atts = '{"category_id":"","category_ids":"","tag_slug":"","autors_id":"","sort":"","installed_post_types":"","limit":"5","offset":"","custom_title":"Latest Hot News","custom_url":"","header_text_color":"#","header_color":"#","border_top":"","color_preset":"","td_ajax_filter_type":"","td_ajax_filter_ids":"","td_filter_default_txt":"All","ajax_pagination":"next_prev","ajax_pagination_infinite_stop":"","class":"td_block_widget td_block_id_2746577930 td_uid_5_5679d6348cee2_rand"}';
+block_td_uid_5_5679d6348cee2.td_column_number = "1";
+block_td_uid_5_5679d6348cee2.block_type = "td_block_9";
+block_td_uid_5_5679d6348cee2.post_count = "5";
+block_td_uid_5_5679d6348cee2.found_posts = "12921";
+block_td_uid_5_5679d6348cee2.header_color = "#";
+block_td_uid_5_5679d6348cee2.ajax_pagination_infinite_stop = "";
+block_td_uid_5_5679d6348cee2.max_num_pages = "2585";
+tdBlocksArray.push(block_td_uid_5_5679d6348cee2);
+</script><div class="td_block_wrap td_block_9 td_block_widget td_block_id_2746577930 td_uid_5_5679d6348cee2_rand td_with_ajax_pagination td-pb-border-top"><h4 class="block-title"><span>Latest Hot News</span></h4><div id=td_uid_5_5679d6348cee2 class="td_block_inner">
+
+	<div class="td-block-span12">
+
+        <div class="td_module_8 td_module_wrap" itemscope itemtype="http://schema.org/Article">
+
+            <div class="item-details">
+                <h3 itemprop="name" class="entry-title td-module-title"><a itemprop="url" href="http://www.redpepper.co.ug/ousted-burkina-leader-compaore-charged-in-sankara-killing/" rel="bookmark" title="Ousted Burkina leader Compaore charged in Sankara killing">Ousted Burkina leader Compaore charged in Sankara killing</a></h3>                <div class="meta-info">
+                                        <div class="td-post-author-name"><a itemprop="author" href="http://www.redpepper.co.ug/author/our-reporter/">Our Reporter</a> <span>-</span> </div>                    <div class="td-post-date"><time  itemprop="dateCreated" class="entry-date updated td-module-date" datetime="2015-12-22T12:20:03+00:00" >Dec 22, 2015</time><meta itemprop="interactionCount" content="UserComments:0"/></div>                                    </div>
+            </div>
+
+            <meta itemprop="author" content = "Our Reporter"><meta itemprop="datePublished" content="2015-12-22T12:20:03+00:00"><meta itemprop="headline " content="Ousted Burkina leader Compaore charged in Sankara killing"><meta itemprop="image" content="http://www.redpepper.co.ug/wp-content/uploads/2015/12/Blaise-Compaore-.jpg"><meta itemprop="interactionCount" content="UserComments:0"/>        </div>
+
+        
+	</div> <!-- ./td-block-span12 -->
+
+	<div class="td-block-span12">
+
+        <div class="td_module_8 td_module_wrap" itemscope itemtype="http://schema.org/Article">
+
+            <div class="item-details">
+                <h3 itemprop="name" class="entry-title td-module-title"><a itemprop="url" href="http://www.redpepper.co.ug/we-paid-chamelone-a-doughnut-for-our-collabo-swahili-nation/" rel="bookmark" title="We Paid Chamelone A Doughnut for Our Collabo—Swahili Nation">We Paid Chamelone A Doughnut for Our Collabo—Swahili Nation</a></h3>                <div class="meta-info">
+                                        <div class="td-post-author-name"><a itemprop="author" href="http://www.redpepper.co.ug/author/solomon-businge/">Solomon Businge</a> <span>-</span> </div>                    <div class="td-post-date"><time  itemprop="dateCreated" class="entry-date updated td-module-date" datetime="2015-12-22T11:48:02+00:00" >Dec 22, 2015</time><meta itemprop="interactionCount" content="UserComments:0"/></div>                                    </div>
+            </div>
+
+            <meta itemprop="author" content = "Solomon Businge"><meta itemprop="datePublished" content="2015-12-22T11:48:02+00:00"><meta itemprop="headline " content="We Paid Chamelone A Doughnut for Our Collabo—Swahili Nation"><meta itemprop="image" content="http://www.redpepper.co.ug/wp-content/uploads/2015/12/pole.jpg"><meta itemprop="interactionCount" content="UserComments:0"/>        </div>
+
+        
+	</div> <!-- ./td-block-span12 -->
+
+	<div class="td-block-span12">
+
+        <div class="td_module_8 td_module_wrap" itemscope itemtype="http://schema.org/Article">
+
+            <div class="item-details">
+                <h3 itemprop="name" class="entry-title td-module-title"><a itemprop="url" href="http://www.redpepper.co.ug/eu-deploys-an-election-observation-mission-to-uganda/" rel="bookmark" title="EU deploys an Election Observation Mission to Uganda">EU deploys an Election Observation Mission to Uganda</a></h3>                <div class="meta-info">
+                                        <div class="td-post-author-name"><a itemprop="author" href="http://www.redpepper.co.ug/author/our-reporter/">Our Reporter</a> <span>-</span> </div>                    <div class="td-post-date"><time  itemprop="dateCreated" class="entry-date updated td-module-date" datetime="2015-12-22T10:44:41+00:00" >Dec 22, 2015</time><meta itemprop="interactionCount" content="UserComments:0"/></div>                                    </div>
+            </div>
+
+            <meta itemprop="author" content = "Our Reporter"><meta itemprop="datePublished" content="2015-12-22T10:44:41+00:00"><meta itemprop="headline " content="EU deploys an Election Observation Mission to Uganda"><meta itemprop="image" content="http://www.redpepper.co.ug/wp-content/uploads/2015/12/Kukan.jpg"><meta itemprop="interactionCount" content="UserComments:0"/>        </div>
+
+        
+	</div> <!-- ./td-block-span12 -->
+
+	<div class="td-block-span12">
+
+        <div class="td_module_8 td_module_wrap" itemscope itemtype="http://schema.org/Article">
+
+            <div class="item-details">
+                <h3 itemprop="name" class="entry-title td-module-title"><a itemprop="url" href="http://www.redpepper.co.ug/m7-is-the-chief-inciter-of-violence-matembe/" rel="bookmark" title="M7 Is The Chief Inciter Of Violence—Matembe">M7 Is The Chief Inciter Of Violence—Matembe</a></h3>                <div class="meta-info">
+                                        <div class="td-post-author-name"><a itemprop="author" href="http://www.redpepper.co.ug/author/musinguzi-blanshe/">Blanshe Musinguzi</a> <span>-</span> </div>                    <div class="td-post-date"><time  itemprop="dateCreated" class="entry-date updated td-module-date" datetime="2015-12-22T10:18:20+00:00" >Dec 22, 2015</time><meta itemprop="interactionCount" content="UserComments:0"/></div>                                    </div>
+            </div>
+
+            <meta itemprop="author" content = "Blanshe Musinguzi"><meta itemprop="datePublished" content="2015-12-22T10:18:20+00:00"><meta itemprop="headline " content="M7 Is The Chief Inciter Of Violence—Matembe"><meta itemprop="image" content="http://www.redpepper.co.ug/wp-content/uploads/2015/12/miria-matembe.jpg"><meta itemprop="interactionCount" content="UserComments:0"/>        </div>
+
+        
+	</div> <!-- ./td-block-span12 -->
+
+	<div class="td-block-span12">
+
+        <div class="td_module_8 td_module_wrap" itemscope itemtype="http://schema.org/Article">
+
+            <div class="item-details">
+                <h3 itemprop="name" class="entry-title td-module-title"><a itemprop="url" href="http://www.redpepper.co.ug/kagames-state-of-the-nation-speech-in-full/" rel="bookmark" title="Kagame&#8217;s State of the Nation Speech in Full">Kagame&#8217;s State of the Nation Speech in Full</a></h3>                <div class="meta-info">
+                                        <div class="td-post-author-name"><a itemprop="author" href="http://www.redpepper.co.ug/author/arinaitwe-rugyendo/">Arinaitwe Rugyendo</a> <span>-</span> </div>                    <div class="td-post-date"><time  itemprop="dateCreated" class="entry-date updated td-module-date" datetime="2015-12-22T09:52:15+00:00" >Dec 22, 2015</time><meta itemprop="interactionCount" content="UserComments:0"/></div>                                    </div>
+            </div>
+
+            <meta itemprop="author" content = "Arinaitwe Rugyendo"><meta itemprop="datePublished" content="2015-12-22T09:52:15+00:00"><meta itemprop="headline " content="Kagame&#039;s State of the Nation Speech in Full"><meta itemprop="image" content="http://www.redpepper.co.ug/wp-content/uploads/2015/12/23862948806_95c953a4d2_z.jpg"><meta itemprop="interactionCount" content="UserComments:0"/>        </div>
+
+        
+	</div> <!-- ./td-block-span12 --></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_5_5679d6348cee2" data-td_block_id="td_uid_5_5679d6348cee2"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#"  class="td-ajax-next-page" id="next-page-td_uid_5_5679d6348cee2" data-td_block_id="td_uid_5_5679d6348cee2"><i class="td-icon-font td-icon-menu-right"></i></a></div></div> <!-- ./block --><aside class="widget widget_text">			<div class="textwidget"><a href="www.sumadhura.co.ug" target="_blank"><img src="http://www.redpepper.co.ug/wp-content/uploads/2015/04/sumadra.gif" alt="" width="300" height="250" border="0" /></a> </div>
+		</aside><aside class="widget widget_text">			<div class="textwidget"><p>
+<a href="#" target="_blank"><img src="http://www.redpepper.co.ug/wp-content/uploads/2015/03/coffe-spirit-edited.jpg" alt="" width="300" height="424" border="0" /></a> </p></div>
+		</aside><script>var block_td_uid_6_5679d63492c21 = new tdBlock();
+block_td_uid_6_5679d63492c21.id = "td_uid_6_5679d63492c21";
+block_td_uid_6_5679d63492c21.atts = '{"category_id":"","category_ids":"","tag_slug":"","autors_id":"","sort":"featured","installed_post_types":"","limit":"5","offset":"","custom_title":"Big Stories","custom_url":"","header_text_color":"#","header_color":"#","border_top":"","color_preset":"","td_ajax_filter_type":"","td_ajax_filter_ids":"","td_filter_default_txt":"All","ajax_pagination":"next_prev","ajax_pagination_infinite_stop":"","class":"td_block_widget td_block_id_3095140030 td_uid_6_5679d63492c21_rand"}';
+block_td_uid_6_5679d63492c21.td_column_number = "1";
+block_td_uid_6_5679d63492c21.block_type = "td_block_9";
+block_td_uid_6_5679d63492c21.post_count = "5";
+block_td_uid_6_5679d63492c21.found_posts = "488";
+block_td_uid_6_5679d63492c21.header_color = "#";
+block_td_uid_6_5679d63492c21.ajax_pagination_infinite_stop = "";
+block_td_uid_6_5679d63492c21.max_num_pages = "98";
+tdBlocksArray.push(block_td_uid_6_5679d63492c21);
+</script><div class="td_block_wrap td_block_9 td_block_widget td_block_id_3095140030 td_uid_6_5679d63492c21_rand td_with_ajax_pagination td-pb-border-top"><h4 class="block-title"><span>Big Stories</span></h4><div id=td_uid_6_5679d63492c21 class="td_block_inner">
+
+	<div class="td-block-span12">
+
+        <div class="td_module_8 td_module_wrap" itemscope itemtype="http://schema.org/Article">
+
+            <div class="item-details">
+                <h3 itemprop="name" class="entry-title td-module-title"><a itemprop="url" href="http://www.redpepper.co.ug/mbabazi-to-m7-i-have-seen-a-snake-swallow-a-cow/" rel="bookmark" title="Mbabazi To M7: I Have Seen A Snake Swallow A Cow">Mbabazi To M7: I Have Seen A Snake Swallow A Cow</a></h3>                <div class="meta-info">
+                                        <div class="td-post-author-name"><a itemprop="author" href="http://www.redpepper.co.ug/author/musinguzi-blanshe/">Blanshe Musinguzi</a> <span>-</span> </div>                    <div class="td-post-date"><time  itemprop="dateCreated" class="entry-date updated td-module-date" datetime="2015-12-22T07:04:06+00:00" >Dec 22, 2015</time><meta itemprop="interactionCount" content="UserComments:0"/></div>                                    </div>
+            </div>
+
+            <meta itemprop="author" content = "Blanshe Musinguzi"><meta itemprop="datePublished" content="2015-12-22T07:04:06+00:00"><meta itemprop="headline " content="Mbabazi To M7: I Have Seen A Snake Swallow A Cow"><meta itemprop="image" content="http://www.redpepper.co.ug/wp-content/uploads/2015/12/who-is-he.jpg"><meta itemprop="interactionCount" content="UserComments:0"/>        </div>
+
+        
+	</div> <!-- ./td-block-span12 -->
+
+	<div class="td-block-span12">
+
+        <div class="td_module_8 td_module_wrap" itemscope itemtype="http://schema.org/Article">
+
+            <div class="item-details">
+                <h3 itemprop="name" class="entry-title td-module-title"><a itemprop="url" href="http://www.redpepper.co.ug/tanga-odoi-warns-m7-stop-supporting-independents/" rel="bookmark" title="Tanga Odoi warns M7:  Stop Supporting Independents">Tanga Odoi warns M7:  Stop Supporting Independents</a></h3>                <div class="meta-info">
+                                        <div class="td-post-author-name"><a itemprop="author" href="http://www.redpepper.co.ug/author/musinguzi-blanshe/">Blanshe Musinguzi</a> <span>-</span> </div>                    <div class="td-post-date"><time  itemprop="dateCreated" class="entry-date updated td-module-date" datetime="2015-12-21T09:53:25+00:00" >Dec 21, 2015</time><meta itemprop="interactionCount" content="UserComments:0"/></div>                                    </div>
+            </div>
+
+            <meta itemprop="author" content = "Blanshe Musinguzi"><meta itemprop="datePublished" content="2015-12-21T09:53:25+00:00"><meta itemprop="headline " content="Tanga Odoi warns M7:  Stop Supporting Independents"><meta itemprop="image" content="http://www.redpepper.co.ug/wp-content/uploads/2015/12/Dr-Tanga-Odoi-at-Kyadondo-this-morning-1.jpg"><meta itemprop="interactionCount" content="UserComments:0"/>        </div>
+
+        
+	</div> <!-- ./td-block-span12 -->
+
+	<div class="td-block-span12">
+
+        <div class="td_module_8 td_module_wrap" itemscope itemtype="http://schema.org/Article">
+
+            <div class="item-details">
+                <h3 itemprop="name" class="entry-title td-module-title"><a itemprop="url" href="http://www.redpepper.co.ug/m7-to-arrest-mbabazi-kiboko-squad/" rel="bookmark" title="M7 To Arrest Mbabazi ‘Kiboko Squad’">M7 To Arrest Mbabazi ‘Kiboko Squad’</a></h3>                <div class="meta-info">
+                                        <div class="td-post-author-name"><a itemprop="author" href="http://www.redpepper.co.ug/author/musinguzi-blanshe/">Blanshe Musinguzi</a> <span>-</span> </div>                    <div class="td-post-date"><time  itemprop="dateCreated" class="entry-date updated td-module-date" datetime="2015-12-21T07:41:45+00:00" >Dec 21, 2015</time><meta itemprop="interactionCount" content="UserComments:0"/></div>                                    </div>
+            </div>
+
+            <meta itemprop="author" content = "Blanshe Musinguzi"><meta itemprop="datePublished" content="2015-12-21T07:41:45+00:00"><meta itemprop="headline " content="M7 To Arrest Mbabazi ‘Kiboko Squad’"><meta itemprop="image" content="http://www.redpepper.co.ug/wp-content/uploads/2015/12/vision.jpg"><meta itemprop="interactionCount" content="UserComments:0"/>        </div>
+
+        
+	</div> <!-- ./td-block-span12 -->
+
+	<div class="td-block-span12">
+
+        <div class="td_module_8 td_module_wrap" itemscope itemtype="http://schema.org/Article">
+
+            <div class="item-details">
+                <h3 itemprop="name" class="entry-title td-module-title"><a itemprop="url" href="http://www.redpepper.co.ug/burundi-rejects-african-union-peacekeepers-offer-as-invasion-force/" rel="bookmark" title="Burundi rejects African Union peacekeepers offer as &#8216;invasion force&#8217;">Burundi rejects African Union peacekeepers offer as &#8216;invasion force&#8217;</a></h3>                <div class="meta-info">
+                                        <div class="td-post-author-name"><a itemprop="author" href="http://www.redpepper.co.ug/author/our-reporter/">Our Reporter</a> <span>-</span> </div>                    <div class="td-post-date"><time  itemprop="dateCreated" class="entry-date updated td-module-date" datetime="2015-12-20T11:30:51+00:00" >Dec 20, 2015</time><meta itemprop="interactionCount" content="UserComments:0"/></div>                                    </div>
+            </div>
+
+            <meta itemprop="author" content = "Our Reporter"><meta itemprop="datePublished" content="2015-12-20T11:30:51+00:00"><meta itemprop="headline " content="Burundi rejects African Union peacekeepers offer as &#039;invasion force&#039;"><meta itemprop="image" content="http://www.redpepper.co.ug/wp-content/uploads/2015/12/Part-PAR-Par8216889-1-1-0.jpg"><meta itemprop="interactionCount" content="UserComments:0"/>        </div>
+
+        
+	</div> <!-- ./td-block-span12 -->
+
+	<div class="td-block-span12">
+
+        <div class="td_module_8 td_module_wrap" itemscope itemtype="http://schema.org/Article">
+
+            <div class="item-details">
+                <h3 itemprop="name" class="entry-title td-module-title"><a itemprop="url" href="http://www.redpepper.co.ug/there-was-attempt-to-pour-petrol-on-my-car-mbabazi/" rel="bookmark" title="There was An attempt to Pour Petrol on my Car—Mbabazi">There was An attempt to Pour Petrol on my Car—Mbabazi</a></h3>                <div class="meta-info">
+                                        <div class="td-post-author-name"><a itemprop="author" href="http://www.redpepper.co.ug/author/musinguzi-blanshe/">Blanshe Musinguzi</a> <span>-</span> </div>                    <div class="td-post-date"><time  itemprop="dateCreated" class="entry-date updated td-module-date" datetime="2015-12-19T11:35:12+00:00" >Dec 19, 2015</time><meta itemprop="interactionCount" content="UserComments:0"/></div>                                    </div>
+            </div>
+
+            <meta itemprop="author" content = "Blanshe Musinguzi"><meta itemprop="datePublished" content="2015-12-19T11:35:12+00:00"><meta itemprop="headline " content="There was An attempt to Pour Petrol on my Car—Mbabazi"><meta itemprop="image" content="http://www.redpepper.co.ug/wp-content/uploads/2015/06/30-Mbabazi-EPA.jpg"><meta itemprop="interactionCount" content="UserComments:0"/>        </div>
+
+        
+	</div> <!-- ./td-block-span12 --></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_6_5679d63492c21" data-td_block_id="td_uid_6_5679d63492c21"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#"  class="td-ajax-next-page" id="next-page-td_uid_6_5679d63492c21" data-td_block_id="td_uid_6_5679d63492c21"><i class="td-icon-font td-icon-menu-right"></i></a></div></div> <!-- ./block --><aside class="widget widget_text">			<div class="textwidget"><p>
+<a href="http://www.betpawa.ug/"><img src="http://www.redpepper.co.ug/wp-content/uploads/2015/11/stake.png"></a> </p></div>
+		</aside><aside class="widget widget_text">			<div class="textwidget"><p>
+<a href="http://www.clarkson.co.ke" target="_blank"><img src="http://www.redpepper.co.ug/wp-content/uploads/2015/08/clerck.gif" border="1" /></a> </p></div>
+		</aside><aside class="widget widget_text">			<div class="textwidget">
+<div id='div-gpt-ad-1434631212341-0' style='height:250px; width:300px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1434631212341-0'); });
+</script>
+</div></div>
+		</aside>                                </div>
+                            </div>
+                                    </div> <!-- /.td-pb-row -->
+        </div>
+    </div> <!-- /.td-container -->
+
+<!-- Footer -->
+<div class="td-footer-container td-container">
+    <div class="td-pb-row">
+        <div class="td-pb-span4">
+            <div class="td-footer-info td-pb-padding-side"><div class="footer-logo-wrap"><a href="http://www.redpepper.co.ug/"><img class="td-retina-data" src="http://www.redpepper.co.ug/wp-content/uploads/2015/03/RP-MAST-KArate.jpg" data-retina="http://www.redpepper.co.ug/wp-content/uploads/2015/03/RP-MAST-KArate1.jpg" alt=""/></a></div><div class="footer-text-wrap">2015 |THE PEPPER PUBLICATIONS LIMITED | ALL RIGHTS RESERVED | </div><div class="footer-social-wrap td-social-style2"></div></div>        </div>
+
+        <div class="td-pb-span4">
+            <script>var block_td_uid_7_5679d63498c27 = new tdBlock();
+block_td_uid_7_5679d63498c27.id = "td_uid_7_5679d63498c27";
+block_td_uid_7_5679d63498c27.atts = '{"custom_title":"EVEN MORE NEWS","border_top":"no_border_top","limit":3,"class":"td_block_id_2262435977 td_uid_7_5679d63498c27_rand"}';
+block_td_uid_7_5679d63498c27.td_column_number = "1";
+block_td_uid_7_5679d63498c27.block_type = "td_block_7";
+block_td_uid_7_5679d63498c27.post_count = "3";
+block_td_uid_7_5679d63498c27.found_posts = "12921";
+block_td_uid_7_5679d63498c27.header_color = "";
+block_td_uid_7_5679d63498c27.ajax_pagination_infinite_stop = "";
+block_td_uid_7_5679d63498c27.max_num_pages = "4307";
+tdBlocksArray.push(block_td_uid_7_5679d63498c27);
+</script><div class="td_block_wrap td_block_7 td_block_id_2262435977 td_uid_7_5679d63498c27_rand"><h4 class="block-title"><span>EVEN MORE NEWS</span></h4><div id=td_uid_7_5679d63498c27 class="td_block_inner">
+
+	<div class="td-block-span12">
+
+        <div class="td_module_6 td_module_wrap td-animation-stack" itemscope itemtype="http://schema.org/Article">
+
+        <div class="td-module-thumb"><a href="http://www.redpepper.co.ug/ousted-burkina-leader-compaore-charged-in-sankara-killing/" rel="bookmark" title="Ousted Burkina leader Compaore charged in Sankara killing"><img width="100" height="75" itemprop="image" class="entry-thumb" src="http://www.redpepper.co.ug/wp-content/uploads/2015/12/Blaise-Compaore--100x75.jpg" alt="" title="Ousted Burkina leader Compaore charged in Sankara killing"/></a></div>
+        <div class="item-details">
+            <h3 itemprop="name" class="entry-title td-module-title"><a itemprop="url" href="http://www.redpepper.co.ug/ousted-burkina-leader-compaore-charged-in-sankara-killing/" rel="bookmark" title="Ousted Burkina leader Compaore charged in Sankara killing">Ousted Burkina leader Compaore charged in Sankara killing</a></h3>            <div class="meta-info">
+                                                <div class="td-post-date"><time  itemprop="dateCreated" class="entry-date updated td-module-date" datetime="2015-12-22T12:20:03+00:00" >Dec 22, 2015</time><meta itemprop="interactionCount" content="UserComments:0"/></div>                            </div>
+        </div>
+        <meta itemprop="author" content = "Our Reporter"><meta itemprop="datePublished" content="2015-12-22T12:20:03+00:00"><meta itemprop="headline " content="Ousted Burkina leader Compaore charged in Sankara killing"><meta itemprop="image" content="http://www.redpepper.co.ug/wp-content/uploads/2015/12/Blaise-Compaore-.jpg"><meta itemprop="interactionCount" content="UserComments:0"/>        </div>
+
+        
+	</div> <!-- ./td-block-span12 -->
+
+	<div class="td-block-span12">
+
+        <div class="td_module_6 td_module_wrap td-animation-stack" itemscope itemtype="http://schema.org/Article">
+
+        <div class="td-module-thumb"><a href="http://www.redpepper.co.ug/we-paid-chamelone-a-doughnut-for-our-collabo-swahili-nation/" rel="bookmark" title="We Paid Chamelone A Doughnut for Our Collabo—Swahili Nation"><img width="100" height="75" itemprop="image" class="entry-thumb" src="http://www.redpepper.co.ug/wp-content/uploads/2015/12/pole-100x75.jpg" alt="" title="We Paid Chamelone A Doughnut for Our Collabo—Swahili Nation"/></a></div>
+        <div class="item-details">
+            <h3 itemprop="name" class="entry-title td-module-title"><a itemprop="url" href="http://www.redpepper.co.ug/we-paid-chamelone-a-doughnut-for-our-collabo-swahili-nation/" rel="bookmark" title="We Paid Chamelone A Doughnut for Our Collabo—Swahili Nation">We Paid Chamelone A Doughnut for Our Collabo—Swahili Nation</a></h3>            <div class="meta-info">
+                                                <div class="td-post-date"><time  itemprop="dateCreated" class="entry-date updated td-module-date" datetime="2015-12-22T11:48:02+00:00" >Dec 22, 2015</time><meta itemprop="interactionCount" content="UserComments:0"/></div>                            </div>
+        </div>
+        <meta itemprop="author" content = "Solomon Businge"><meta itemprop="datePublished" content="2015-12-22T11:48:02+00:00"><meta itemprop="headline " content="We Paid Chamelone A Doughnut for Our Collabo—Swahili Nation"><meta itemprop="image" content="http://www.redpepper.co.ug/wp-content/uploads/2015/12/pole.jpg"><meta itemprop="interactionCount" content="UserComments:0"/>        </div>
+
+        
+	</div> <!-- ./td-block-span12 -->
+
+	<div class="td-block-span12">
+
+        <div class="td_module_6 td_module_wrap td-animation-stack" itemscope itemtype="http://schema.org/Article">
+
+        <div class="td-module-thumb"><a href="http://www.redpepper.co.ug/eu-deploys-an-election-observation-mission-to-uganda/" rel="bookmark" title="EU deploys an Election Observation Mission to Uganda"><img width="100" height="75" itemprop="image" class="entry-thumb" src="http://www.redpepper.co.ug/wp-content/uploads/2015/12/Kukan-100x75.jpg" alt="" title="EU deploys an Election Observation Mission to Uganda"/></a></div>
+        <div class="item-details">
+            <h3 itemprop="name" class="entry-title td-module-title"><a itemprop="url" href="http://www.redpepper.co.ug/eu-deploys-an-election-observation-mission-to-uganda/" rel="bookmark" title="EU deploys an Election Observation Mission to Uganda">EU deploys an Election Observation Mission to Uganda</a></h3>            <div class="meta-info">
+                                                <div class="td-post-date"><time  itemprop="dateCreated" class="entry-date updated td-module-date" datetime="2015-12-22T10:44:41+00:00" >Dec 22, 2015</time><meta itemprop="interactionCount" content="UserComments:0"/></div>                            </div>
+        </div>
+        <meta itemprop="author" content = "Our Reporter"><meta itemprop="datePublished" content="2015-12-22T10:44:41+00:00"><meta itemprop="headline " content="EU deploys an Election Observation Mission to Uganda"><meta itemprop="image" content="http://www.redpepper.co.ug/wp-content/uploads/2015/12/Kukan.jpg"><meta itemprop="interactionCount" content="UserComments:0"/>        </div>
+
+        
+	</div> <!-- ./td-block-span12 --></div></div> <!-- ./block -->        </div>
+
+        <div class="td-pb-span4">
+            <div class="td_block_wrap td_block_popular_categories widget widget_categories"><h4 class="block-title"><span>POPULAR CATEGORY</span></h4><ul class="td-pb-padding-side"><li><a href="http://www.redpepper.co.ug/category/news/">News<span class="td-cat-no">4747</span></a></li><li><a href="http://www.redpepper.co.ug/category/sports/">Sports<span class="td-cat-no">2235</span></a></li><li><a href="http://www.redpepper.co.ug/category/gossip/">Gossip<span class="td-cat-no">2071</span></a></li><li><a href="http://www.redpepper.co.ug/category/world/">World<span class="td-cat-no">1380</span></a></li><li><a href="http://www.redpepper.co.ug/category/business/">Business<span class="td-cat-no">988</span></a></li><li><a href="http://www.redpepper.co.ug/category/health/">Health<span class="td-cat-no">643</span></a></li><li><a href="http://www.redpepper.co.ug/category/crime/">Crime<span class="td-cat-no">473</span></a></li></ul></div> <!-- ./block -->        </div>
+    </div>
+</div>
+
+
+
+
+<!-- Sub Footer -->
+    <div class="td-sub-footer-container td-container td-container-border ">
+        <div class="td-pb-row">
+            <div class="td-pb-span4 td-sub-footer-copy">
+                <div class="td-pb-padding-side">
+                    &copy; 2015 |THE PEPPER PUBLICATIONS LIMITED                </div>
+            </div>
+
+            <div class="td-pb-span8 td-sub-footer-menu">
+                <div class="td-pb-padding-side">
+                                    </div>
+            </div>
+        </div>
+    </div>
+    </div><!--close content div-->
+</div><!--close td-outer-wrap-->
+
+
+
+
+
+    <!--
+
+        Theme: Newsmag by tagDiv 2015
+        Version: 2.3.2 (rara)
+        Deploy mode: deploy
+        
+        uid: 5679d6349e2c4
+    -->
+
+    <link rel='stylesheet' id='wpBannerizeStyleDefault.css-css'  href='http://www.redpepper.co.ug/wp-content/plugins/wp-bannerize/css/wpBannerizeStyleDefault.css?ver=4.4' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.redpepper.co.ug/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.redpepper.co.ug/wp-content/themes/Newsmag/js/tagdiv_theme.js?ver=2.3.2'></script>
+<script type='text/javascript' src='http://www.redpepper.co.ug/wp-includes/js/comment-reply.min.js?ver=4.4'></script>
+<script type='text/javascript' src='http://www.redpepper.co.ug/wp-includes/js/wp-embed.min.js?ver=4.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpBannerizeJavascriptLocalization = {"ajaxURL":"http:\/\/www.redpepper.co.ug\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.redpepper.co.ug/wp-content/plugins/wp-bannerize/js/wpBannerizeFrontend.min.js?ver=3.1.6'></script>
+
+<!-- JS generated by theme -->
+
+<script>
+    
+
+	
+
+		(function(){
+			var html_jquery_obj = jQuery('html');
+
+			if (html_jquery_obj.length && (html_jquery_obj.is('.ie8') || html_jquery_obj.is('.ie9'))) {
+
+				var path = 'http://www.redpepper.co.ug/wp-content/themes/Newsmag/style.css';
+
+				jQuery.get(path, function(data) {
+
+					var str_split_separator = '#td_css_split_separator';
+					var arr_splits = data.split(str_split_separator);
+					var arr_length = arr_splits.length;
+
+					if (arr_length > 1) {
+
+						var dir_path = 'http://www.redpepper.co.ug/wp-content/themes/Newsmag';
+						var splited_css = '';
+
+						for (var i = 0; i < arr_length; i++) {
+							if (i > 0) {
+								arr_splits[i] = str_split_separator + ' ' + arr_splits[i];
+							}
+							//jQuery('head').append('<style>' + arr_splits[i] + '</style>');
+
+							var formated_str = arr_splits[i].replace(/\surl\(\'(?!data\:)/gi, function regex_function(str) {
+								return ' url(\'' + dir_path + '/' + str.replace(/url\(\'/gi, '').replace(/^\s+|\s+$/gm,'');
+							});
+
+							splited_css += "<style>" + formated_str + "</style>";
+						}
+
+						var td_theme_css = jQuery('link#td-theme-css');
+
+						if (td_theme_css.length) {
+							td_theme_css.after(splited_css);
+						}
+					}
+				});
+			}
+		})();
+
+	
+	
+</script>
+
+</body>
+</html>
+0
+
+
+
+WARC/1.0
+WARC-Type: resource
+WARC-Record-ID: <urn:uuid:33c7cb10-0ba3-4413-a245-fcd5922f32b6>
+WARC-Warcinfo-ID: <urn:uuid:e7fb99d9-88f6-4148-822b-4b947047f89d>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/MANIFEST.txt
+WARC-Date: 2015-12-22T23:01:09Z
+Content-Type: text/plain
+Content-Length: 48
+
+<urn:uuid:e7fb99d9-88f6-4148-822b-4b947047f89d>
+
+
+WARC/1.0
+WARC-Type: resource
+WARC-Record-ID: <urn:uuid:33c7cb10-0ba3-4413-a245-fcd5922f32b6>
+WARC-Warcinfo-ID: <urn:uuid:e7fb99d9-88f6-4148-822b-4b947047f89d>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/wget_arguments.txt
+WARC-Date: 2015-12-22T23:01:09Z
+Content-Type: text/plain
+Content-Length: 240
+
+"--warc-file" "africell-launches-the-first-ever-luganda-smart-phone" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "-q" "-O" "/dev/null" "http://www.redpepper.co.ug/africell-launches-the-first-ever-luganda-smart-phone/" 
+
+

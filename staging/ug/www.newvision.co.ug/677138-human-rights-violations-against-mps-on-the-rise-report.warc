@@ -1,0 +1,1211 @@
+WARC/1.0
+WARC-Type: warcinfo
+Content-Type: application/warc-fields
+WARC-Date: 2015-12-22T22:28:34Z
+WARC-Record-ID: <urn:uuid:04dad56c-69e6-45ef-88eb-b4fb8d85e42e>
+WARC-Filename: 677138-human-rights-violations-against-mps-on-the-rise-report.warc
+Content-Length: 452
+
+software: Wget/1.13.4-2608 (linux-gnu)
+format: WARC File Format 1.0
+conformsTo: http://bibnum.bnf.fr/WARC/WARC_ISO_28500_version1_latestdraft.pdf
+robots: classic
+wget-arguments: "--warc-file" "677138-human-rights-violations-against-mps-on-the-rise-report" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "-q" "-O" "/dev/null" "http://www.newvision.co.ug/news/677138-human-rights-violations-against-mps-on-the-rise-report.html" 
+
+
+
+WARC/1.0
+WARC-Type: request
+WARC-Target-URI: http://www.newvision.co.ug/news/677138-human-rights-violations-against-mps-on-the-rise-report.html
+Content-Type: application/http;msgtype=request
+WARC-Date: 2015-12-22T22:28:34Z
+WARC-Record-ID: <urn:uuid:429899df-70f1-4a6f-9ba3-1ecbb2ccbb05>
+WARC-IP-Address: 119.82.71.117
+WARC-Warcinfo-ID: <urn:uuid:04dad56c-69e6-45ef-88eb-b4fb8d85e42e>
+Content-Length: 195
+
+GET /news/677138-human-rights-violations-against-mps-on-the-rise-report.html HTTP/1.1
+User-Agent: Wget/1.13.4-2608 (linux-gnu)
+Accept: */*
+Host: www.newvision.co.ug
+Connection: Keep-Alive
+
+
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <urn:uuid:6ddffe25-dd8c-4646-8d4e-fcf5df7f3cb3>
+WARC-Warcinfo-ID: <urn:uuid:04dad56c-69e6-45ef-88eb-b4fb8d85e42e>
+WARC-Concurrent-To: <urn:uuid:429899df-70f1-4a6f-9ba3-1ecbb2ccbb05>
+WARC-Target-URI: http://www.newvision.co.ug/news/677138-human-rights-violations-against-mps-on-the-rise-report.html
+WARC-Date: 2015-12-22T22:28:34Z
+WARC-IP-Address: 119.82.71.117
+Content-Type: application/http;msgtype=response
+Content-Length: 89342
+
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Length: 89046
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/7.0
+X-AspNet-Version: 2.0.50727
+Set-Cookie: ASP.NET_SessionId=5jaxoa555vcl0guzrrv5amen; path=/; HttpOnly
+X-Powered-By: ASP.NET
+Date: Tue, 22 Dec 2015 22:27:11 GMT
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	Human rights violations against MPs on the rise - report
+</title><meta name="keywords" content="Ugandan news, news in Uganda, Kampala, Uganda, breaking news, news, besigye, museveni, yoweri, new vision, vision news, vision" /><meta name="description" content="Ugandan news, news in Uganda, Kampala, Uganda, breaking news, news, besigye, museveni, yoweri, new vision, vision news, vision" /><link href="http://fonts.googleapis.com/css?family=Oswald" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Oswald" rel="stylesheet" type="text/css" /><link href="../CSS/style.css" rel="stylesheet" type="text/css" />
+    <!-- include in head tags -->
+    <style type="text/css">
+        #pageshare
+        {
+            position: fixed;
+            top: 25%;
+            float: left;
+            border: 0px solid black;
+            border-radius: 5px;
+            -moz-border-radius: 5px;
+            -webkit-border-radius: 5px;
+            background-color: #eff3fa;
+            padding: 0 0 2px 0;
+            z-index: 10;
+        }
+        #pageshare .sbutton
+        {
+            float: left;
+            clear: both;
+            margin: 5px 5px 0 5px;
+        }
+        #floating-box-wrapper
+        {
+            margin: 0 auto 0 auto;
+            height: auto;
+            position: relative;
+        }
+        #floating-box-container1
+        {
+            float: left;
+            top: 0px;
+            right: 0px;
+            left: -70px;
+            width: 60px;
+            position: absolute;
+        }
+        #pageshare1
+        {
+            position: fixed;
+            top: 25%;
+            float: left;
+            border: 0px solid black;
+            border-radius: 5px;
+            -moz-border-radius: 5px;
+            -webkit-border-radius: 5px;
+            padding: 0px 0px 0px 0px;
+            z-index: 10;
+        }
+        #pageshare1 .sbutton1
+        {
+            float: left;
+            clear: both;
+            margin: 5px 5px 0 5px;
+        }
+        #floating-box-wrapper1
+        {
+            width: 1000px;
+            margin: 0 auto 0 auto;
+            height: auto;
+            position: relative;
+        }
+        #floating-box-container11
+        {
+            float: right;
+            top: 0px;
+            right: -82px; /*left:0px;*/
+            width: 60px;
+            position: absolute;
+        }
+        #socialbar1
+        {
+            list-style-type: none;
+            margin: 0px;
+            padding: 0px;
+        }
+        #floating-box-wrapperleft
+        {
+            width: 1000px;
+            margin: 0 auto 0 auto;
+            height: auto;
+            position: relative;
+        }
+        #floating-box-containerleft2
+        {
+            float: left;
+            top: 0px; /* right: -82px; */
+            left: -173px;
+            width: 60px;
+            position: absolute;
+        }
+        #pageshareleft
+        {
+            position: fixed;
+            top: 25%;
+            float: left;
+            border: 0px solid black;
+            border-radius: 5px;
+            -moz-border-radius: 5px;
+            -webkit-border-radius: 5px;
+            padding: 0px 0px 0px 0px;
+            z-index: 10;
+        }
+        #pageshareleft .sbuttonleft
+        {
+            float: left;
+            clear: both;
+            margin: 5px 5px 0 5px;
+        }
+        #socialbarleft
+        {
+            list-style-type: none;
+            margin: 0px;
+            padding: 0px;
+        }
+    </style>
+
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-658465-1']);
+        _gaq.push(['_trackPageview']);
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+
+    <script type='text/javascript'>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        (function() {
+            var gads = document.createElement('script');
+            gads.async = true;
+            gads.type = 'text/javascript';
+            var useSSL = 'https:' == document.location.protocol;
+            gads.src = (useSSL ? 'https:' : 'http:') +
+'//www.googletagservices.com/tag/js/gpt.js';
+            var node = document.getElementsByTagName('script')[0];
+            node.parentNode.insertBefore(gads, node);
+        })();
+    </script>
+
+    <script type='text/javascript'>
+        googletag.cmd.push(function() {
+            googletag.defineSlot('/16375024/Leader_Board_Home_ad_Top', [681, 92], 'div-gpt-ad-1340357368431-0').addService(googletag.pubads());
+            googletag.defineSlot('/16375024/Half_Banner_home_ad_A', [300, 90], 'div-gpt-ad-1328525882916-0').addService(googletag.pubads());
+            googletag.defineSlot('/16375024/Half_Banner_Home_ad_toppest', [300, 90], 'div-gpt-ad-1329315127819-0').addService(googletag.pubads());
+            googletag.defineSlot('/16375024/125_Homepage_exclusive_ad_A', [125, 125], 'div-gpt-ad-1327324955015-0').addService(googletag.pubads());
+            googletag.defineSlot('/16375024/125_Homepage_exclusive_ad_B', [125, 125], 'div-gpt-ad-1327329299077-0').addService(googletag.pubads());
+            googletag.defineSlot('/16375024/Leader_board_home_ad_bottom_most', [728, 90], 'div-gpt-ad-1372655516949-0').addService(googletag.pubads());
+            googletag.defineSlot('/16375024/health_lead', [600, 90], 'div-gpt-ad-1373800573916-0').addService(googletag.pubads());
+            googletag.defineSlot('/16375024/Business_lead', [600, 90], 'div-gpt-ad-1374176986891-0').addService(googletag.pubads());
+            googletag.defineSlot('/16375024/SCROLL', [150, 327], 'div-gpt-ad-1403861063349-0').addService(googletag.pubads());
+            googletag.defineSlot('/16375024/TOP_STRIP_1000x45', [1000, 45], 'div-gpt-ad-1408450827127-0').addService(googletag.pubads());
+            googletag.defineSlot('/16375024/BUSINESS_FRONT_340X90', [340, 90], 'div-gpt-ad-1415282765081-0').addService(googletag.pubads());
+            googletag.defineSlot('/16375024/PRINT_AD_150X327', [150, 327], 'div-gpt-ad-1418812383605-0').addService(googletag.pubads());
+            googletag.defineSlot('/16375024/Below_ras', [300, 90], 'div-gpt-ad-1350985773165-0').addService(googletag.pubads());
+            googletag.pubads().enableSingleRequest();
+            googletag.enableServices();
+        });
+    </script>
+
+    <script type="text/javascript">
+        //SYNTAX: ddtabmenu.definemenu("tab_menu_id", integer OR "auto")
+        ddtabmenu.definemenu("ddtabs3", 0) //initialize Tab Menu #1 with 1st tab selected
+    </script>
+
+    <script language="javascript" type="text/javascript">
+        function changeColor(color, ID) {
+            document.getElementById(ID).bgColor = "#" + color;
+        }
+    </script>
+
+    
+    
+<META HTTP-EQUIV="EXPIRES" CONTENT="0" />
+    <meta property="og:image" content="http://www.newvision.co.ug/images/New-Vision.jpg" />
+	<meta property="fb:admins" content="100000822588136" />
+    <link href="../style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+.Fullstory_class
+{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 11pt;
+color: #414141;
+letter-spacing: -0.001em;
+text-transform: none;
+line-height: 1.4em;
+}
+.Fullstory_class p
+{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 11pt;
+color: #414141;
+letter-spacing: -0.001em;
+text-transform: none;
+line-height: 1.4em;
+float:left;
+width:650px;
+margin:3px 0px 3px 0px;
+}
+.Fullstory_class p img
+{
+	max-width:650px; 
+}
+.Fullstory_class p a
+ {
+    color:blue;
+	text-decoration:none;
+ }
+.Fullstory_class p a:hover
+ {
+
+   text-decoration:underline;
+ }
+</style>
+<script type='text/javascript'>
+    googletag.cmd.push(function() {
+    googletag.defineSlot('/16375024/Squarebanner_section_stories', [300, 250], 'div-gpt-ad-1396430311625-0').addService(googletag.pubads());
+    googletag.defineSlot('/16375024/Half_banner_Premium', [300, 90], 'div-gpt-ad-1398416904558-0').addService(googletag.pubads());
+        googletag.pubads().enableSingleRequest();
+        googletag.enableServices();
+    });
+</script>
+    
+<meta property="og:description" content="Parliamentarians across the world in 2015 continued to face too many dangers that prevented or hampered their work, representing a real and on-going threat to democracy, a report has said." /><meta name="keywords" content="new vision,newvision,newvision.co.ug,uganda news,news in Uganda,museveni,breaking news," /><link href="/css/style.css" rel="stylesheet"  type="text/css" />
+<link href="/css/solidblocksmenu.css" rel="stylesheet"  type="text/css" />
+<link href="/styles/ticker-style.css" rel="stylesheet"  type="text/css" />
+<script src="/javascript/login.js" type="text/javascript"></script>
+<link href="/images/favicon.ico" rel="shortcut icon" />
+<script src="/javascript/menu.js" type="text/javascript"></script>
+<script src="/includes/jquery.min.js" type="text/javascript"></script>
+<script src="/includes/jquery.ticker.js" type="text/javascript"></script>
+<script src="/includes/site.js" type="text/javascript"></script><script src="/javascript/mootools.svn.js" type="text/javascript"></script><script src="/javascript/lofslidernews.mt11.js" type="text/javascript"></script></head>
+
+<script type="text/javascript">
+    $k = jQuery.noConflict();
+    $k(document).ready(function() {
+
+        var first = 0;
+        var speed = 200;
+        var pause = 8000;
+
+        function removeFirst() {
+            first = $k('ul#listticker li:first').html();
+            $k('ul#listticker li:first')
+			.animate({ opacity: 0 }, speed)
+			.fadeOut('slow', function() { $k(this).remove(); });
+            addLast(first);
+        }
+        function addLast(first) {
+            last = '<li style="display:none">' + first + '</li>';
+            $k('ul#listticker').append(last)
+            $k('ul#listticker li:last')
+			.animate({ opacity: 1 }, speed)
+			.fadeIn('slow')
+        }
+
+        interval = setInterval(removeFirst, pause);
+    });
+</script>
+
+<script type='text/javascript' src='http://code.jquery.com/jquery-1.4.4.min.js'></script>
+
+<script type='text/javascript'>    //<![CDATA[
+    $(function() {
+        $('img').bind('contextmenu', function(e) {
+            //alert("For more information on this © Copyrighted image, please contact digital@bukedde.co.ug");
+            return false;
+        });
+    }); //]]>  
+</script>
+
+<link rel="stylesheet" type="text/css" href="rightsidepopup/style.css" />
+
+<script type="text/javascript" src="rightsidepopup/jquery.min.js"></script>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        jQuery(".pull_feedback").toggle(function() {
+            jQuery("#feedback").animate({ right: "0px" });
+            return false;
+        },
+			function() {
+			    jQuery("#feedback").animate({ right: "-150px" });
+			    return false;
+			}
+		);
+    }); 
+</script>
+
+<body id="ctl00_mainbody">
+    
+    
+    
+    <div id="mainContent">
+        <div id="floating-box-wrapper1" style="display: block;">
+            <div id="floating-box-container11">
+                <div id="pageshare1" title="Share This With Your Friends">
+                    <ul id="socialbar1">
+                        <li>
+                            
+                            <!-- RIGHT SCROL BANNER NV -->
+                            <div id='div-gpt-ad-1403861063349-0' style='width: 150px; height: 327px;'>
+
+                                <script type='text/javascript'>
+                                    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1403861063349-0'); });
+                                </script>
+
+                            </div>
+                        </li>
+                    </ul>
+                    
+                    
+                </div>
+            </div>
+        </div>
+        
+        <div id="floating-box-wrapperleft" style="display: block;">
+            <div id="floating-box-containerleft2">
+                <div id="pageshareleft" title="Share This With Your Friends">
+                    <ul id="socialbarleft">
+                        <li>
+                            <!-- PRINT_AD_150X327 -->
+                            <div id='div-gpt-ad-1418812383605-0' style='width: 150px; height: 327px;'>
+
+                                <script type='text/javascript'>
+                                    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1418812383605-0'); });
+                                </script>
+
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div id="blanket" style="display: none;">
+        </div>
+        <div id="popUpDiv" style="display: none;">
+            <table width="600" cellspacing="0" cellpadding="0" align="center">
+                <tr>
+                    <td class="text" valign="middle">
+                        <img src="../images/olympics.gif" width="995" height="100" alt="olympics" />
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center">
+                        <a href="#" onclick="popup('popUpDiv')">close window</a>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </div>
+    <form name="aspnetForm" method="post" action="../article/fullstory.aspx?story_id=677138&amp;catid=1&amp;mid=53" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE3ODQxOTgyNzMPFgQeB3N0b3J5aWQFBjY3NzEzOB4DbWlkBQI1MxYCZg9kFgICAw9kFgICAQ9kFgYCAw9kFgxmDxYCHglpbm5lcmh0bWwFGiB8IExhc3QgVXBkYXRlZCAxIGhvdXIgYWdvZAIBDxYCHwIF+hc8bGk+PGEgaHJlZj0iL0hvbWUuYXNweCIgY2xhc3M9InBhcmVudCI+PHNwYW4+SG9tZTwvc3Bhbj48L2E+PC9saT48bGkgPjxhIGhyZWY9Ii9zZWN0aW9uLzUzLTQzNS10b2RheS1zLVBpY2suaHRtbCIgY2xhc3M9InBhcmVudCI+PHNwYW4+dG9kYXkncyBQaWNrPC9zcGFuPjwvYT48L2xpPjxsaSBjbGFzcz0iY3VycmVudCI+PGEgaHJlZj0iL3NlY3Rpb24vNTMtMS1OYXRpb25hbC5odG1sIiBjbGFzcz0icGFyZW50Ij48c3Bhbj5OYXRpb25hbDwvc3Bhbj48L2E+PGRpdj48dWw+PGxpPjxhIGhyZWY9Ii9zZWN0aW9uLzUzLTQ5OC1DZW5zdXMtMjAxNC5odG1sIj48c3Bhbj5DZW5zdXMgMjAxNDwvc3Bhbj48L2E+PC9saT48bGk+PGEgaHJlZj0iL3NlY3Rpb24vNTMtNDMxLUNvcnBvcmF0ZS1OZXdzLmh0bWwiPjxzcGFuPkNvcnBvcmF0ZSBOZXdzPC9zcGFuPjwvYT48L2xpPjxsaT48YSBocmVmPSIvc2VjdGlvbi81My01MDEtTmF0aW9uYWwtQnVkZ2V0LTIwMTUuaHRtbCI+PHNwYW4+TmF0aW9uYWwgQnVkZ2V0IDIwMTU8L3NwYW4+PC9hPjwvbGk+PGxpPjxhIGhyZWY9Ii9zZWN0aW9uLzUzLTQxOS1QYWthc2EuaHRtbCI+PHNwYW4+UGFrYXNhPC9zcGFuPjwvYT48L2xpPjxsaT48YSBocmVmPSIvc2VjdGlvbi81My01MDItUGFwYWwtVmlzaXQtMjAxNS5odG1sIj48c3Bhbj5QYXBhbCBWaXNpdCAyMDE1PC9zcGFuPjwvYT48L2xpPjxsaT48YSBocmVmPSIvc2VjdGlvbi81My0zODAtUmVnaW9uYWxzLmh0bWwiPjxzcGFuPlJlZ2lvbmFsczwvc3Bhbj48L2E+PC9saT48bGk+PGEgaHJlZj0iL3NlY3Rpb24vNTMtNTAwLVVnYW5kYS1NYXJ0eXJzLS1EYXktMjAxNS5odG1sIj48c3Bhbj5VZ2FuZGEgTWFydHlycycgRGF5IDIwMTU8L3NwYW4+PC9hPjwvbGk+PC91bD48L2Rpdj48L2xpPjxsaSA+PGEgaHJlZj0iL3NlY3Rpb24vNTMtMy1CdXNpbmVzcy5odG1sIiBjbGFzcz0icGFyZW50Ij48c3Bhbj5CdXNpbmVzczwvc3Bhbj48L2E+PC9saT48bGkgPjxhIGhyZWY9Ii9zZWN0aW9uLzUzLTUtU3BvcnQuaHRtbCIgY2xhc3M9InBhcmVudCI+PHNwYW4+U3BvcnQ8L3NwYW4+PC9hPjxkaXY+PHVsPjxsaT48YSBocmVmPSIvc2VjdGlvbi81My00OTYtMjAxNC1Xb3JsZC1DdXAuaHRtbCI+PHNwYW4+MjAxNCBXb3JsZCBDdXA8L3NwYW4+PC9hPjwvbGk+PC91bD48L2Rpdj48L2xpPjxsaSAgID48YSBocmVmPSIvZ2FsbGVyeS9tdWx0aW1lZGlhLmh0bWwiIGNsYXNzPSJwYXJlbnQiPjxzcGFuPk11bHRpbWVkaWE8L3NwYW4+PC9hPjxkaXY+PHVsPjxsaT48YSBocmVmPSIvZ2FsbGVyeS8zMFBIT1RPLmh0bWwiID48c3Bhbj5QaG90bzwvc3Bhbj48L2E+PC9saT48bGk+PGEgaHJlZj0iL2dhbGxlcnkvOFZJREVPLmh0bWwiID48c3Bhbj5WaWRlbzwvc3Bhbj48L2E+PC9saT48L3VsPjwvZGl2PjwvbGk+PGxpID48YSBocmVmPSIvc2VjdGlvbi81My0zOTctRW50ZXJ0YWlubWVudC5odG1sIiBjbGFzcz0icGFyZW50Ij48c3Bhbj5FbnRlcnRhaW5tZW50PC9zcGFuPjwvYT48L2xpPjxsaSA+PGEgaHJlZj0iL3NlY3Rpb24vNTMtMi1Xb3JsZC5odG1sIiBjbGFzcz0icGFyZW50Ij48c3Bhbj5Xb3JsZDwvc3Bhbj48L2E+PC9saT48bGkgPjxhIGhyZWY9Ii9zZWN0aW9uLzUzLTQ4Ni1TY2llbmNlLS0tdGVjaG5vbG9neS5odG1sIiBjbGFzcz0icGFyZW50Ij48c3Bhbj5TY2llbmNlICYgdGVjaG5vbG9neTwvc3Bhbj48L2E+PGRpdj48dWw+PGxpPjxhIGhyZWY9Ii9zZWN0aW9uLzUzLTQ4Ny1PaWwtLS1HYXMuaHRtbCI+PHNwYW4+T2lsICYgR2FzPC9zcGFuPjwvYT48L2xpPjwvdWw+PC9kaXY+PC9saT48bGkgPjxhIGhyZWY9Ii9zZWN0aW9uLzUzLTQxMy1TdXBwbGVtZW50cy5odG1sIiBjbGFzcz0icGFyZW50Ij48c3Bhbj5TdXBwbGVtZW50czwvc3Bhbj48L2E+PGRpdj48dWw+PGxpPjxhIGhyZWY9Imh0dHA6Ly9qb2JzLmNvLnVnLz9wYWdlX2lkPTUiIHRhcmdldD0nX2JsYW5rJyA+PHNwYW4+Sm9iczwvc3Bhbj48L2E+PC9saT48bGk+PGEgaHJlZj0iL3NlY3Rpb24vNTMtNDE0LU5vdGljZXMuaHRtbCI+PHNwYW4+Tm90aWNlczwvc3Bhbj48L2E+PC9saT48bGk+PGEgaHJlZj0iaHR0cDovL3d3dy5uZXd2aXNpb24uY28udWcvc2VjdGlvbi81My00MTMtU3VwcGxlbWVudHMuaHRtbCIgdGFyZ2V0PSdfcGFyZW50JyA+PHNwYW4+U3VwcGxlbWVudHM8L3NwYW4+PC9hPjwvbGk+PGxpPjxhIGhyZWY9Ii9zZWN0aW9uLzUzLTQxNS1UZW5kZXJzLmh0bWwiPjxzcGFuPlRlbmRlcnM8L3NwYW4+PC9hPjwvbGk+PC91bD48L2Rpdj48L2xpPjxsaSA+PGEgaHJlZj0naHR0cDovL2pvYnMuY28udWcvP3BhZ2VfaWQ9NScgdGFyZ2V0PSdfYmxhbmsnIGNsYXNzPSJwYXJlbnQiPjxzcGFuPkpvYnM8L3NwYW4+PC9hPjxsaSA+PGEgaHJlZj0iIyIgY2xhc3M9InBhcmVudCI+PHNwYW4+ZS1QYXBlcjwvc3Bhbj48L2E+PGRpdj48dWw+PGxpPjxhIGhyZWY9Imh0dHA6Ly93d3cuZXRvcC5jby51ZyIgdGFyZ2V0PSdfYmxhbmsnID48c3Bhbj5FdG9wIDwvc3Bhbj48L2E+PC9saT48bGk+PGEgaHJlZj0iaHR0cDovL2VwYXBlci5uZXd2aXNpb24uY28udWcvbG9naW4uYXNweCIgdGFyZ2V0PSdfYmxhbmsnID48c3Bhbj5OZXd2aXNpb24gPC9zcGFuPjwvYT48L2xpPjxsaT48YSBocmVmPSJodHRwOi8vd3d3LnJ1cGlueS5jby51ZyIgdGFyZ2V0PSdfYmxhbmsnID48c3Bhbj5SdXBpbnkgPC9zcGFuPjwvYT48L2xpPjxsaT48YSBocmVmPSJodHRwOi8vd3d3Lm9ydW11cmkuY28udWciIHRhcmdldD0nX2JsYW5rJyA+PHNwYW4+T3J1bXVyaTwvc3Bhbj48L2E+PC9saT48L3VsPjwvZGl2PjwvbGk+PGxpPjxhIGhyZWY9J2h0dHA6Ly93d3cuZWxlY3Rpb25zLmNvLnVnLycgdGFyZ2V0PSJfYmxhbmsiPjxzcGFuPkVsZWN0aW9uczwvc3Bhbj48L2E+PGRpdiBzdHlsZT0nd2lkdGg6IDEyOHB4Oyc+PHVsIHN0eWxlPSd3aWR0aDogMTIwcHg7Jz48bGk+PGEgc3R5bGU9J3dpZHRoOiAxMTBweDsnIGhyZWY9J2h0dHA6Ly93d3cuZWxlY3Rpb25zLmNvLnVnLycgdGFyZ2V0PSJfYmxhbmsiPjxzcGFuPkVsZWN0aW9ucyAyMDE2PC9zcGFuPjwvYT48L2xpPjwvdWw+PC9kaXY+PC9saT5kAgIPFgIfAgXLAzxhICBocmVmPSIvc2VjdGlvbi81My00OTgtQ2Vuc3VzLTIwMTQuaHRtbCI+Q2Vuc3VzIDIwMTQ8L2E+PGEgIGhyZWY9Ii9zZWN0aW9uLzUzLTQzMS1Db3Jwb3JhdGUtTmV3cy5odG1sIj5Db3Jwb3JhdGUgTmV3czwvYT48YSAgaHJlZj0iL3NlY3Rpb24vNTMtNTAxLU5hdGlvbmFsLUJ1ZGdldC0yMDE1Lmh0bWwiPk5hdGlvbmFsIEJ1ZGdldCAyMDE1PC9hPjxhICBocmVmPSIvc2VjdGlvbi81My00MTktUGFrYXNhLmh0bWwiPlBha2FzYTwvYT48YSAgaHJlZj0iL3NlY3Rpb24vNTMtNTAyLVBhcGFsLVZpc2l0LTIwMTUuaHRtbCI+UGFwYWwgVmlzaXQgMjAxNTwvYT48YSAgaHJlZj0iL3NlY3Rpb24vNTMtMzgwLVJlZ2lvbmFscy5odG1sIj5SZWdpb25hbHM8L2E+PGEgIGhyZWY9Ii9zZWN0aW9uLzUzLTUwMC1VZ2FuZGEtTWFydHlycy0tRGF5LTIwMTUuaHRtbCI+VWdhbmRhIE1hcnR5cnMnIERheSAyMDE1PC9hPmQCAw8WAh8CBaEHIDxkaXYgY2xhc3M9ImhlYWRsaW5lcjEiPjxhIHN0eWxlPSdjb2xvcjojMTE1MThGOycgaHJlZj0iL25ld3MvNjc3MTE3LWJ1cnVuZGktcGFybGlhbWVudC1zbGFtcy1pbnZhc2lvbi1wZWFjZWtlZXBlci1mb3JjZS5odG1sIj5CdXJ1bmRpIHBhcmxpYW1lbnQgc2xhbXMgJ2ludmFzaW9uJyBwZWFjZWtlZXBlciBmb3JjZTwvYT48YSBzdHlsZT0nZm9udC1zaXplOjExcHg7Y29sb3I6cmVkOycgaHJlZj0iL25ld3MvNjc3MTE3LWJ1cnVuZGktcGFybGlhbWVudC1zbGFtcy1pbnZhc2lvbi1wZWFjZWtlZXBlci1mb3JjZS5odG1sIj48L2E+PC9kaXY+IDxkaXYgY2xhc3M9ImhlYWRsaW5lcjIiPjxhIHN0eWxlPSdjb2xvcjojMTE1MThGOycgaHJlZj0iL25ld3MvNjc3MTIwLXdvcmxkLWJhbmstY2FuY2Vscy1mdW5kaW5nLWZvci11Z2FuZGEtdHJhbnNwb3J0LXByb2plY3QuaHRtbCI+V29ybGQgQmFuayBjYW5jZWxzIGZ1bmRpbmcgZm9yIFVnYW5kYSB0cmFuc3BvcnQgcHJvamVjdDwvYT48YSBzdHlsZT0nZm9udC1zaXplOjExcHg7Y29sb3I6cmVkOycgaHJlZj0iL25ld3MvNjc3MTIwLXdvcmxkLWJhbmstY2FuY2Vscy1mdW5kaW5nLWZvci11Z2FuZGEtdHJhbnNwb3J0LXByb2plY3QuaHRtbCI+PC9hPjwvZGl2PiA8ZGl2IGNsYXNzPSJoZWFkbGluZXIzIj48YSBzdHlsZT0nY29sb3I6IzExNTE4RjsnIGhyZWY9Ii9uZXdzLzY3NzE0MS1kcnVnLWZpcm0tYW5ub3VuY2VzLWFkdmFuY2UtaW4tcXVlc3QtZm9yLWhpdi1jdXJlLmh0bWwiPkRydWcgZmlybSBhbm5vdW5jZXMgYWR2YW5jZSBpbiBxdWVzdCBmb3IgSElWIGN1cmU8L2E+PGEgc3R5bGU9J2ZvbnQtc2l6ZToxMXB4O2NvbG9yOnJlZDsnIGhyZWY9Ii9uZXdzLzY3NzE0MS1kcnVnLWZpcm0tYW5ub3VuY2VzLWFkdmFuY2UtaW4tcXVlc3QtZm9yLWhpdi1jdXJlLmh0bWwiPjwvYT48L2Rpdj5kAgQPFgIfAgWRATxpbWcgb25Nb3VzZURvd249ImNsb3NlaW1hZ2VzYXZpbmcoKTsiIHNyYz0iL25ld3Zpc2lvbl9jbXMvZ2FsbF9jb250ZW50LzIwMTUvMTIvMjAxNV8xMiR0aHVtYmltZzEyMl9EZWNfMjAxNV8yMDIwMzM5NjMucG5nIiAgYWx0PSdlcGFwZXIgaW1hZ2UnLz5kAgUPFgIfAgXXDzx1bCBpZD0ianMtbmV3cyIgY2xhc3M9ImpzLWhpZGRlbiI+IDxsaSBjbGFzcz0ibmV3cy1pdGVtIj48c3BhbiBjbGFzcz0iaXRlbSI+PGEgc3R5bGU9J2NvbG9yOiM1NTc0ODI7dGV4dC1kZWNvcmF0aW9uOm5vbmU7JyBocmVmPSIvbmV3cy82NzcxNDEtZHJ1Zy1maXJtLWFubm91bmNlcy1hZHZhbmNlLWluLXF1ZXN0LWZvci1oaXYtY3VyZS5odG1sIj5EcnVnIGZpcm0gYW5ub3VuY2VzIGFkdmFuY2UgaW4gcXVlc3QgZm9yIEhJViBjdXJlLi4uPC9hPjwvc3Bhbj48L2xpPiA8bGkgY2xhc3M9Im5ld3MtaXRlbSI+PGEgc3R5bGU9J2NvbG9yOiM1NTc0ODI7dGV4dC1kZWNvcmF0aW9uOm5vbmU7JyBocmVmPSIvbmV3cy82NzcxMzgtaHVtYW4tcmlnaHRzLXZpb2xhdGlvbnMtYWdhaW5zdC1tcHMtb24tdGhlLXJpc2UtcmVwb3J0Lmh0bWwiPkh1bWFuIHJpZ2h0cyB2aW9sYXRpb25zIGFnYWluc3QgTVBzIG9uIHRoZSByaXNlIC0gcmVwb3J0Li4uPC9hPjwvbGk+IDxsaSBjbGFzcz0ibmV3cy1pdGVtIj48YSBzdHlsZT0nY29sb3I6IzU1NzQ4Mjt0ZXh0LWRlY29yYXRpb246bm9uZTsnIGhyZWY9Ii9uZXdzLzY3NzEzNy1pcHUtY2FsbHMtZm9yLWRpYWxvZ3VlLW92ZXItYnVydW5kaS1jcmlzaXMuaHRtbCI+SVBVIGNhbGxzIGZvciBkaWFsb2d1ZSBvdmVyIEJ1cnVuZGkgY3Jpc2lzLi4uPC9hPjwvbGk+IDxsaSBjbGFzcz0ibmV3cy1pdGVtIj48YSBzdHlsZT0nY29sb3I6IzU1NzQ4Mjt0ZXh0LWRlY29yYXRpb246bm9uZTsnIGhyZWY9Ii9uZXdzLzY3NzEzNi1vaWwtcHJpY2VzLXJlY292ZXItc2xpZ2h0bHkuaHRtbCI+T2lsIHByaWNlcyByZWNvdmVyIHNsaWdodGx5Li4uPC9hPjwvbGk+IDxsaSBjbGFzcz0ibmV3cy1pdGVtIj48YSBzdHlsZT0nY29sb3I6IzU1NzQ4Mjt0ZXh0LWRlY29yYXRpb246bm9uZTsnIGhyZWY9Ii9uZXdzLzY3NzEzNS1iZXNpZWdlZC1hZmdoYW4tZm9yY2VzLWJhdHRsZS10by1mbHVzaC1vdXQtdGFsaWJhbi1pbi1rZXktZGkuaHRtbCI+QmVzaWVnZWQgQWZnaGFuIGZvcmNlcyBiYXR0bGUgdG8gZmx1c2ggb3V0IFRhbGliYW4gaW4ga2V5IGRpLi4uLi4uPC9hPjwvbGk+IDxsaSBjbGFzcz0ibmV3cy1pdGVtIj48YSBzdHlsZT0nY29sb3I6IzU1NzQ4Mjt0ZXh0LWRlY29yYXRpb246bm9uZTsnIGhyZWY9Ii9uZXdzLzY3NzEzNC1raXRndW0tcnVnYnktcXVlZW5zLWFyZS1ub3J0aGVybi1jaGFtcHMuaHRtbCI+S2l0Z3VtIFJ1Z2J5IFF1ZWVucyBhcmUgbm9ydGhlcm4gY2hhbXBzLi4uPC9hPjwvbGk+IDxsaSBjbGFzcz0ibmV3cy1pdGVtIj48YSBzdHlsZT0nY29sb3I6IzU1NzQ4Mjt0ZXh0LWRlY29yYXRpb246bm9uZTsnIGhyZWY9Ii9uZXdzLzY3NzEzMy11Z2FuZGEtc2V0dGxlcy1mb3ItYnJvbnplLWluLWtlbnlhLmh0bWwiPlVnYW5kYSBzZXR0bGVzIGZvciBCcm9uemUgaW4gS2VueWEuLi48L2E+PC9saT4gPGxpIGNsYXNzPSJuZXdzLWl0ZW0iPjxhIHN0eWxlPSdjb2xvcjojNTU3NDgyO3RleHQtZGVjb3JhdGlvbjpub25lOycgaHJlZj0iL25ld3MvNjc3MTMyLWRtYXJrLXJldGFpbi1jaGVzcy1sZWFndWUtY3Jvd24uaHRtbCI+RG1hcmsgcmV0YWluIGNoZXNzIGxlYWd1ZSBjcm93bi4uLjwvYT48L2xpPiA8bGkgY2xhc3M9Im5ld3MtaXRlbSI+PGEgc3R5bGU9J2NvbG9yOiM1NTc0ODI7dGV4dC1kZWNvcmF0aW9uOm5vbmU7JyBocmVmPSIvbmV3cy82NzcxMzEtcGxhdGluaS1jYWxscy1maWZhLWJhbi1hLWtpY2staW4tdGhlLXRlZXRoLmh0bWwiPlBsYXRpbmkgY2FsbHMgRklGQSBiYW4gYSAna2ljayBpbiB0aGUgdGVldGgnLi4uPC9hPjwvbGk+IDxsaSBjbGFzcz0ibmV3cy1pdGVtIj48YSBzdHlsZT0nY29sb3I6IzU1NzQ4Mjt0ZXh0LWRlY29yYXRpb246bm9uZTsnIGhyZWY9Ii9uZXdzLzY3NzEzMC1zd2VkaXNoLWVyaWNzc29uLWFuZC1hcHBsZS1zZXR0bGUtcGF0ZW50LWRpc3B1dGVzLmh0bWwiPlN3ZWRpc2ggRXJpY3Nzb24gYW5kIEFwcGxlIHNldHRsZSBwYXRlbnQgZGlzcHV0ZXMuLi48L2E+PC9saT48L3VsPmQCBQ9kFhZmDxYCHwIFCE5hdGlvbmFsZAIBDxYCHwIFlAENCiAgICAgICAgICAgICAgDQogICAgICAgICAgICBIdW1hbiByaWdodHMgdmlvbGF0aW9ucyBhZ2FpbnN0IE1QcyBvbiB0aGUgcmlzZSAtIHJlcG9ydDxiciAvPjxzcGFuIGNsYXNzPSJ1cGRhdGVkMiI+UHVibGlzaCBEYXRlOiBEZWMgMjIsIDIwMTU8L3NwYW4+ZAICDxYCHwIF9AE8aW1nIG9uTW91c2VEb3duPSJjbG9zZWltYWdlc2F2aW5nKCk7IiBzcmM9Ii9uZXd2aXNpb25fY21zL2dhbGxfY29udGVudC8yMDE1LzEyLzIwMTVfMTIkbGFyZ2VpbWcyMjJfRGVjXzIwMTVfMTkyMDQxMTAwLmpwZyIgIHN0eWxlPSJtYXgtaGVpZ2h0OjMwM3B4O21heC13aWR0aDozODBweDsiIGFsdD0iSHVtYW4gcmlnaHRzIHZpb2xhdGlvbnMgYWdhaW5zdCBNUHMgb24gdGhlIHJpc2UgLSByZXBvcnQiIGNsYXNzPSJpbWciIC8+ZAIDDxYCHwJlZAIEDxYCHgVzdHlsZQUpZGlzcGxheTpibG9jazttYXJnaW4tdG9wOjVweDtoZWlnaHQ6MzVweDtkAgUPFgIfAgUJbmV3dmlzaW9uZAIGDxYCHwMFHmRpc3BsYXk6bm9uZTttYXJnaW4tdG9wOi0yMHB4O2QCBw8WAh8CBZQXDQogICAgICAgICAgICAgDQogICAgICAgICAgICAgICAgPGRpdj48c3BhbiBzdHlsZT0iZmxvYXQ6bGVmdDsiIGNsYXNzPSJGdWxsc3RvcnlfY2xhc3MiPjxwPjxwPjxzdHJvbmc+QnkgSm95Y2UgTmFtdXRlYmk8YnIgLz4NCjxiciAvPg0KUGFybGlhbWVudGFyaWFucyBhY3Jvc3MgdGhlIHdvcmxkIGluIDIwMTUgY29udGludWVkIHRvIGZhY2UgdG9vIG1hbnkgZGFuZ2VycyB0aGF0IHByZXZlbnRlZCBvciBoYW1wZXJlZCB0aGVpciB3b3JrLCByZXByZXNlbnRpbmcgYSByZWFsIGFuZCBvbi1nb2luZyB0aHJlYXQgdG8gZGVtb2NyYWN5LCBhIHJlcG9ydCBoYXMgc2FpZC48L3N0cm9uZz48YnIgLz4NCjxiciAvPg0KVGhlIDIwMTUgcmVwb3J0IHJlbGVhc2VkIGJ5IHRoZSBJUFUgaGVhZHF1YXJ0ZXJzIGluIEdlbmV2YSBzYWlkIHRoYXQgZHVyaW5nIHRoZSB5ZWFyLCB0aGUgQ29tbWl0dGVlIG9uIHRoZSBIdW1hbiBSaWdodHMgb2YgUGFybGlhbWVudGFyaWFucyBoYXMgd29ya2VkIG9uIGNhc2VzIGludm9sdmluZyAzMjAgTVBzIGluIDQzIGNvdW50cmllcywgdXAgZnJvbSAzMTEgY2FzZXMgaW4gNDAgY291bnRyaWVzIGluIDIwMTQgYW5kIDI3MCBjYXNlcyBpbiA0MCBjb3VudHJpZXMgaW4gMjAxMy4gPGJyIC8+DQo8YnIgLz4NCiZsZHF1bztQYXJsaWFtZW50YXJpYW5zIGFjcm9zcyB0aGUgd29ybGQgaW4gMjAxNSBjb250aW51ZWQgdG8gZmFjZSB0b28gbWFueSBkYW5nZXJzIHRoYXQgcHJldmVudGVkIG9yIGhhbXBlcmVkIHRoZWlyIHdvcmssIHJlcHJlc2VudGluZyBhIHJlYWwgYW5kIG9uLWdvaW5nIHRocmVhdCB0byBkZW1vY3JhY3kgdGhhdCBuZWVkZWQgdG8gYmUgYWRkcmVzc2VkLCZyZHF1bzsgYSByZWNlbnQgcHJlc3MgcmVsZWFzZSBzYWlkLjxiciAvPg0KPGJyIC8+DQombGRxdW87TVBzIGNhbiBiZSBzdWJqZWN0IHRvIGEgcmFuZ2Ugb2YgYWJ1c2VzIGFuZCB0eXBlcyBvZiB2aW9sZW5jZS4gVGhleSBpbmNsdWRlIGRlYXRoLCBpbnRpbWlkYXRpb24gYW5kIHRvcnR1cmUsIGJ1dCB0aGUgbWFpbiB2aW9sYXRpb25zIGFyZSBhcmJpdHJhcnkgYXJyZXN0IGFuZCBkZXRlbnRpb24sIGxhY2sgb2YgZmFpciB0cmlhbCwgdmlvbGF0aW9uIG9mIHRoZSByaWdodCB0byBmcmVlZG9tIG9mIGV4cHJlc3Npb24gb3IgYXNzZW1ibHksIGFuZCB0aGUgdW5sYXdmdWwgbG9zcyBvZiBwYXJsaWFtZW50YXJ5IG1hbmRhdGUsJnJkcXVvOyB0aGUgcmVsZWFzZSBkYXRlZCBEZWNlbWJlciA4LCAyMDE1IHNhaWQuPGJyIC8+DQo8YnIgLz4NCkNyZWF0ZWQgaW4gMTk3NiwgdGhlIENvbW1pdHRlZSBvbiB0aGUgSHVtYW4gUmlnaHRzIG9mIFBhcmxpYW1lbnRhcmlhbnMgaXMgYSB1bmlxdWUgYm9keSB0aGF0IHdvcmtzIHRvIHByb3ZpZGUgcmVkcmVzcyBmb3IgTVBzIHdob3NlIHJpZ2h0cyBoYXZlIGJlZW4gdmlvbGF0ZWQuPGJyIC8+DQo8YnIgLz4NCkFjY29yZGluZyB0byB0aGUgcmVsZWFzZSwgQWZyaWNhIGhhcyB0aGUgaGlnaGVzdCBudW1iZXIgb2YgTVBzIHdobyByZWNvcmRlZCBjYXNlcyBudW1iZXJpbmcgMTE0LCBhY2NvdW50aW5nIGZvciAzNiBwZXIgY2VudCBvZiB0aGUgY2FzZXMgYmVmb3JlIElQVSwgYWx0aG91Z2ggdGhpcyBzaG93cyBhIHNsaWdodCBkcm9wIGZyb20gdGhlIDExOSBNUHMgd2hvIHJlcG9ydGVkIGNhc2VzIHRvIHRoZSBJUFUgaW4gMjAxNC48YnIgLz4NCjxiciAvPg0KVGhlIE1QcyB3aG8gcmVjb3JkZWQgY2FzZXMgYXJlIGZyb20gQnVydW5kaSwgQ2FtZXJvb24sIENoYWQsIERlbW9jcmF0aWMgUmVwdWJsaWMgb2YgQ29uZ28gKERSQyksIEVyaXRyZWEsIEtlbnlhLCBNYWRhZ2FzY2FyLCBOaWdlciwgUndhbmRhLCBUb2dvLCBaYW1iaWEgYW5kIFppbWJhYndlLCB0aGUgcmVsZWFzZSBzYWlkLjxiciAvPg0KPGJyIC8+DQpBZnJpY2Egd2FzIGZvbGxvd2VkIGJ5IEFzaWEgd2l0aCA5NCBNUHMgcmVwb3J0aW5nIGNhc2VzIHRvIHRoZSBJUFUsIHRoZSByZWxlYXNlIHNhaWQgZm9sbG93ZWQgYnkgdGhlIE1pZGRsZSBFYXN0IGFuZCBOb3J0aCBBZnJpY2EgcmVnaW9uIHJhbmtzIHRoaXJkIHdpdGggNTQgKDE3JSkgb2YgYWxsIGNhc2VzLCB0aGUgQW1lcmljYXMgd2l0aCA0MyBNUHMgYW5kIEV1cm9wZSB3aXRoIE1Qcy4gJmxkcXVvO1RoZSBQYWNpZmljIHJlZ2lvbiBpcyB0aGUgb25seSBwYXJ0IG9mIHRoZSB3b3JsZCB3aXRoIG5vIGNhc2Ugb2YgYWxsZWdlZCB2aW9sYXRpb25zIGJlaW5nIGV4YW1pbmVkIGJ5IElQVSwmcmRxdW87IHRoZSByZWxlYXNlIHNhaWQuPGJyIC8+DQo8YnIgLz4NCkZvciBBc2lhLCB0aGUgTVBzIGNvbWUgZnJvbSAxMyBjb3VudHJpZXMgbmFtZWx5IEFmZ2hhbmlzdGFuLCBCYW5nbGFkZXNoLCBDYW1ib2RpYSwgSW5kb25lc2lhLCBNYWxheXNpYSwgTWFsZGl2ZXMsIE1vbmdvbGlhLCBNeWFubWFyLCBQYWtpc3RhbiwgUGhpbGlwcGluZXMsIFJlcHVibGljIG9mIEtvcmVhLCBTcmkgTGFua2EgYW5kIFRoYWlsYW5kLjxiciAvPg0KPGJyIC8+DQombGRxdW87QWxtb3N0IGhhbGYgb2YgYWxsIGNhc2VzIGluIHRoZSByZWdpb24gY29tZSBmcm9tIGp1c3QgdHdvIGNvdW50cmllcyAmbmRhc2g7IE1hbGRpdmVzICgzMCkgYW5kIE1hbGF5c2lhICgxNCkuJnJkcXVvOzxiciAvPg0KPGJyIC8+DQpPZiB0aGUgMzIwIE1QcywgMjI4IHdlcmUgb2YgdGhlIG9wcG9zaXRpb24gcGFydGllcywgODEgZnJvbSBtYWpvcml0eSBwYXJ0eSBhbmQgaW5kZXBlbmRlbnQgTVBzIGFuZCBvdGhlcnMsIDExLjwvcD4NCjxwPjxzdHJvbmc+UkVMQVRFRCBTVE9SSUVTOjxiciAvPg0KPC9zdHJvbmc+PC9wPg0KPHA+PGEgaHJlZj0iaHR0cDovL3d3dy5uZXd2aXNpb24uY28udWcvbmV3cy82NTkxMDUtZ29tYmEtbXAtamFpbGVkLW92ZXItc2g3OW0tZGVidC5odG1sIj48c3Ryb25nPkdvbWJhIE1QIGphaWxlZCBvdmVyIHNoNzltIGRlYnQ8L3N0cm9uZz48L2E+PC9wPg0KPHA+Jm5ic3A7PC9wPjwvcD48L3NwYW4+PC9kaXY+ZAIID2QWAgIBDxYCHwIF5R48ZGl2IGNsYXNzPSJuZXdzdGl0bGUiPjxhIHN0eWxlPSdjb2xvcjojMTE1MThGO3RleHQtZGVjb3JhdGlvbjpub25lOycgaHJlZj0iL25ld3MvNjc3MTM3LWlwdS1jYWxscy1mb3ItZGlhbG9ndWUtb3Zlci1idXJ1bmRpLWNyaXNpcy5odG1sIj5JUFUgY2FsbHMgZm9yIGRpYWxvZ3VlIG92ZXIgQnVydW5kaSBjcmlzaXM8L2E+PC9kaXY+PGRpdj48aW1nIG9uTW91c2VEb3duPSJjbG9zZWltYWdlc2F2aW5nKCk7IiBzcmM9Ii9uZXd2aXNpb25fY21zL2dhbGxfY29udGVudC8yMDE1LzEyLzIwMTVfMTIkdGh1bWJpbWcxMjJfRGVjXzIwMTVfMTg1MzI4MzAwLmpwZyIgYWx0PSdJUFUgY2FsbHMgZm9yIGRpYWxvZ3VlIG92ZXIgQnVydW5kaSBjcmlzaXMnIHN0eWxlPSdtYXgtaGVpZ2h0OjU1cHg7bWF4LXdpZHRoOjgwcHg7JyBjbGFzcz0ibGlmZWxlZnQiPjxkaXYgIGNsYXNzPSJuZXdzdGV4dCI+Q29uY2VybmVkIGJ5IHRoZSB2aW9sZW5jZSBpbiBCdXJ1bmRpLCB0aGUgSW50ZXItUGFybGlhbWVudGFyeSBVbmlvbiAoSVBVKSBoYXMgZXhwcmVzc2VkIGl0cyByZWFkaW5lc3MgdG8gd29yayB3aXRoIFBhcmxpYW1lbnQgb2YgQnVydW5kaSB0byBmb3N0ZXIgaW5jbHVzaXZlIGRpYWxvZ3VlLiDigJxUaGUgSW50ZXItUGFybGlhbWVudGFyeSBVbmlvbiBpcyBncmF2ZWx5IGNvbmNlcm5lZCBhYm91dCB0aGUgd29yc2VuaW5nIHZpb2xlbmNlIGluIEJ1cnVuZGksIHdoaWNoIGhhcyBsZWZ0IGh1bmRyZWRzIG9mIHBlb3BsZSBkZWFkLi4uIDwvZGl2PjwvZGl2PjxkaXYgY2xhc3M9Im5ld3N0aXRsZSI+PGEgc3R5bGU9J2NvbG9yOiMxMTUxOEY7dGV4dC1kZWNvcmF0aW9uOm5vbmU7JyBocmVmPSIvbmV3cy82NzcxMjgtcHJlc2lkZW50LXJlY2VpdmVzLWJ1cnVuZGktc3BlY2lhbC1lbnZveS5odG1sIj5QcmVzaWRlbnQgcmVjZWl2ZXMgQnVydW5kaSBzcGVjaWFsIGVudm95PC9hPjwvZGl2PjxkaXY+PGltZyBvbk1vdXNlRG93bj0iY2xvc2VpbWFnZXNhdmluZygpOyIgc3JjPSIvbmV3dmlzaW9uX2Ntcy9nYWxsX2NvbnRlbnQvMjAxNS8xMi8yMDE1XzEyJHRodW1iaW1nMTIyX0RlY18yMDE1XzE1MDgxNzUxNy5qcGciIGFsdD0nUHJlc2lkZW50IHJlY2VpdmVzIEJ1cnVuZGkgc3BlY2lhbCBlbnZveScgc3R5bGU9J21heC1oZWlnaHQ6NTVweDttYXgtd2lkdGg6ODBweDsnIGNsYXNzPSJsaWZlbGVmdCI+PGRpdiAgY2xhc3M9Im5ld3N0ZXh0Ij5QcmVzaWRlbnQgWW93ZXJpIE11c2V2ZW5pIG9uIFR1ZXNkYXkgcmVjZWl2ZWQgYSBzcGVjaWFsIG1lc3NhZ2UgZnJvbSBQcmVzaWRlbnQgUGllcnJlIE5rdXJ1bnppemEgb2YgQnVydW5kaS4uLi4gPC9kaXY+PC9kaXY+PGRpdiBjbGFzcz0ibmV3c3RpdGxlIj48YSBzdHlsZT0nY29sb3I6IzExNTE4Rjt0ZXh0LWRlY29yYXRpb246bm9uZTsnIGhyZWY9Ii9uZXdzLzY3NzEyNy1rb3JlYW4tcHJvamVjdC1zYWVtYXVsLW1vZGlmaWVzLXZpbGxhZ2VzLmh0bWwiPktvcmVhbiBwcm9qZWN0IChTYWVtYXVsKSBtb2RpZmllcyB2aWxsYWdlczwvYT48L2Rpdj48ZGl2PjxpbWcgb25Nb3VzZURvd249ImNsb3NlaW1hZ2VzYXZpbmcoKTsiIHNyYz0iL25ld3Zpc2lvbl9jbXMvZ2FsbF9jb250ZW50LzIwMTUvMTIvMjAxNV8xMiR0aHVtYmltZzEyMl9EZWNfMjAxNV8xNDI0MzA4MDAuanBnIiBhbHQ9J0tvcmVhbiBwcm9qZWN0IChTYWVtYXVsKSBtb2RpZmllcyB2aWxsYWdlcycgc3R5bGU9J21heC1oZWlnaHQ6NTVweDttYXgtd2lkdGg6ODBweDsnIGNsYXNzPSJsaWZlbGVmdCI+PGRpdiAgY2xhc3M9Im5ld3N0ZXh0Ij5UaGUgcmVwdWJsaWMgb2YgS29yZWEgaGFzIGVhcm1hcmtlZCBVUyQyLjUgbWlsbGlvbiB0byBwaWxvdCBhIHByb2plY3QgY29kZSBuYW1lZCDigJxTYWVtYXVsIE1vZGVsIHZpbGxhZ2Vz4oCdIGEgc3RyYXRlZ3kgYWltZWQgYXQgZmlnaHRpbmcgcnVyYWwgcG92ZXJ0eSBhbmQgdXBsaWZ0IHRoZSBzdGFuZGFyZCBvZiBsaXZpbmcgYW1vbmcgcnVyYWwgY29tbXVuaXRpZXMgaW4gTXBpZ2kuLi4gPC9kaXY+PC9kaXY+PGRpdiBjbGFzcz0ibmV3c3RpdGxlIj48YSBzdHlsZT0nY29sb3I6IzExNTE4Rjt0ZXh0LWRlY29yYXRpb246bm9uZTsnIGhyZWY9Ii9uZXdzLzY3NzEyNS1mZGMtYmxhbWVzLWVjLW92ZXItbnR1bmdhbW8tY2xhc2hlcy5odG1sIj5GREMgYmxhbWVzIEVDIG92ZXIgTnR1bmdhbW8gY2xhc2hlczwvYT48L2Rpdj48ZGl2PjxpbWcgb25Nb3VzZURvd249ImNsb3NlaW1hZ2VzYXZpbmcoKTsiIHNyYz0iL25ld3Zpc2lvbl9jbXMvZ2FsbF9jb250ZW50LzIwMTUvMTIvMjAxNV8xMiR0aHVtYmltZzEyMl9EZWNfMjAxNV8xMzQ2NDkzMDMuanBnIiBhbHQ9J0ZEQyBibGFtZXMgRUMgb3ZlciBOdHVuZ2FtbyBjbGFzaGVzJyBzdHlsZT0nbWF4LWhlaWdodDo1NXB4O21heC13aWR0aDo4MHB4OycgY2xhc3M9ImxpZmVsZWZ0Ij48ZGl2ICBjbGFzcz0ibmV3c3RleHQiPlRoZSBGb3J1bSBmb3IgRGVtb2NyYXRpYyBDaGFuZ2UgKEZEQykgbGVhZCBvcHBvc2l0aW9uIHBhcnR5IGhhcyBibGFtZWQgdGhlIE50dW5nYW1vIGNsYXNoZXMgYmV0d2VlbiBpbmRlcGVuZGVudCBwcmVzaWRlbnRpYWwgY2FuZGlkYXRlLCBKb2huIFBhdHJpY2sgQW1hbWEgTWJhYmF6aSdzIGFuZCBOUk0gc3VwcG9ydGVycyB0byB0aGUgd2Vha25lc3Mgb2YgdGhlIEVsZWN0b3JhbCBDb21taXNzaW9uLi4uIDwvZGl2PjwvZGl2PjxkaXYgY2xhc3M9Im5ld3N0aXRsZSI+PGEgc3R5bGU9J2NvbG9yOiMxMTUxOEY7dGV4dC1kZWNvcmF0aW9uOm5vbmU7JyBocmVmPSIvbmV3cy82NzcxMjQtbXVsYWdvLXJlZ2lzdGVycy1tb3JlLWFjY2lkZW50LWNhc2VzLWFoZWFkLW9mLWZlc3RpdmUtc2Vhc29uLmh0bWwiPk11bGFnbyByZWdpc3RlcnMgbW9yZSBhY2NpZGVudCBjYXNlcyBhaGVhZCBvZiBmZXN0aXZlIHNlYXNvbjwvYT48L2Rpdj48ZGl2PjxpbWcgb25Nb3VzZURvd249ImNsb3NlaW1hZ2VzYXZpbmcoKTsiIHNyYz0iL25ld3Zpc2lvbl9jbXMvZ2FsbF9jb250ZW50LzIwMTUvMTIvMjAxNV8xMiR0aHVtYmltZzEyMl9EZWNfMjAxNV8xMzA0MzU1MzAuanBnIiBhbHQ9J011bGFnbyByZWdpc3RlcnMgbW9yZSBhY2NpZGVudCBjYXNlcyBhaGVhZCBvZiBmZXN0aXZlIHNlYXNvbicgc3R5bGU9J21heC1oZWlnaHQ6NTVweDttYXgtd2lkdGg6ODBweDsnIGNsYXNzPSJsaWZlbGVmdCI+PGRpdiAgY2xhc3M9Im5ld3N0ZXh0Ij5NdWxhZ28gTmF0aW9uYWwgUmVmZXJyYWwgaG9zcGl0YWwgaXMgcmVnaXN0ZXJpbmcgbW9yZSBjYXNlcyBvZiBhY2NpZGVudHMgYWhlYWQgb2YgdGhlIGZlc3RpdmUgc2Vhc29uLi4uIDwvZGl2PjwvZGl2PjxkaXYgY2xhc3M9Im5ld3N0aXRsZSI+PGEgc3R5bGU9J2NvbG9yOiMxMTUxOEY7dGV4dC1kZWNvcmF0aW9uOm5vbmU7JyBocmVmPSIvbmV3cy82NzcxMjMtdW5lYi10by1nZXQtbmV3LWJvc3MtbmV4dC1tb250aC5odG1sIj5VTkVCIHRvIGdldCBuZXcgYm9zcyBuZXh0IG1vbnRoPC9hPjwvZGl2PjxkaXY+PGltZyBvbk1vdXNlRG93bj0iY2xvc2VpbWFnZXNhdmluZygpOyIgc3JjPSIvbmV3dmlzaW9uX2Ntcy9nYWxsX2NvbnRlbnQvMjAxNS8xMi8yMDE1XzEyJHRodW1iaW1nMTIyX0RlY18yMDE1XzEyNTE1OTYyMy5qcGciIGFsdD0nVU5FQiB0byBnZXQgbmV3IGJvc3MgbmV4dCBtb250aCcgc3R5bGU9J21heC1oZWlnaHQ6NTVweDttYXgtd2lkdGg6ODBweDsnIGNsYXNzPSJsaWZlbGVmdCI+PGRpdiAgY2xhc3M9Im5ld3N0ZXh0Ij5UaGUgcHJvY2VzcyB0byBmaW5kIGEgbmV3IGV4ZWN1dGl2ZSBzZWNyZXRhcnkgZm9yIHRoZSBVZ2FuZGEgbmF0aW9uYWwgRXhhbWluYXRpb25zIEJvYXJkIChVTkVCKSwgdG8gcmVwbGFjZSBNYXR0aGV3IEJ1a2VueWEsIHdpbGwgYmUgY29uY2x1ZGVkIG5leHQgbW9udGgsIFByb2YuIE1hcnkgT2t3YWtvbCwgdGhlIGJvYXJkJ3MgY2hhaXJwZXJzb24gaGFzIHJldmVhbGVkLi4uIDwvZGl2PjwvZGl2PmQCCw8PFgIeBm1haW5pZAUDMzg2ZBYEZg8WAh8CBWU8ZGl2IGNsYXNzPSJyaHNoZCI+PGEgc3R5bGU9J2NvbG9yOndoaXRlO3RleHQtZGVjb3JhdGlvbjpub25lOycgaHJlZj0iL3ByZXZfcG9sbC5hc3B4Ij5QT0xMPC9hPjwvZGl2PmQCAg9kFgoCAQ8WAh8CBVoNCiAgICAgICAgQXMgd2UgY2VsZWJyYXRlIFdvcmxkIEh1bWFuIFJpZ2h0cyBEYXksIGRvIHlvdSB0aGluayBVZ2FuZGFucyBrbm93IHRoZWlyIHJpZ2h0cz9kAgMPZBYCAgIPFgIfAgURDQogICAgICAgICAgICBZZXNkAgUPZBYCAgIPFgIfAgUQDQogICAgICAgICAgICBOb2QCBw9kFgICAg8WAh8CBRcNCiAgICAgICAgICAgIENhbid0IFNheWQCCQ8PZBYCHgdvbmNsaWNrBR9qYXZhc2NyaXB0OnJldHVybiBjaGVja19wb2xsKCk7ZAIMD2QWAgIDD2QWAgIDDw9kFgIeDU9uQ2xpZW50Q2xpY2sFHWphdmFzY3JpcHQ6cmV0dXJuIGVtYWlsaWQyKCk7ZAIHD2QWAmYPFgIfAgWyByA8bGk+PGEgaHJlZj0iL0hvbWUuYXNweCIgY2xhc3M9InBhcmVudCI+PHNwYW4+SG9tZTwvc3Bhbj48L2E+PC9saT48bGkgPjxhIGhyZWY9Ii9zZWN0aW9uLzUzLTQzNS10b2RheS1zLVBpY2suaHRtbCIgY2xhc3M9InBhcmVudCI+PHNwYW4+dG9kYXkncyBQaWNrPC9zcGFuPjwvYT48L2xpPjxsaSBjbGFzcz0iY3VycmVudCI+PGEgaHJlZj0iL3NlY3Rpb24vNTMtMS1OYXRpb25hbC5odG1sIiBjbGFzcz0icGFyZW50Ij48c3Bhbj5OYXRpb25hbDwvc3Bhbj48L2E+PC9saT48bGkgPjxhIGhyZWY9Ii9zZWN0aW9uLzUzLTMtQnVzaW5lc3MuaHRtbCIgY2xhc3M9InBhcmVudCI+PHNwYW4+QnVzaW5lc3M8L3NwYW4+PC9hPjwvbGk+PGxpID48YSBocmVmPSIvc2VjdGlvbi81My01LVNwb3J0Lmh0bWwiIGNsYXNzPSJwYXJlbnQiPjxzcGFuPlNwb3J0PC9zcGFuPjwvYT48L2xpPjxsaSA+PGEgaHJlZj0iL3NlY3Rpb24vNTMtMzk3LUVudGVydGFpbm1lbnQuaHRtbCIgY2xhc3M9InBhcmVudCI+PHNwYW4+RW50ZXJ0YWlubWVudDwvc3Bhbj48L2E+PC9saT48bGkgPjxhIGhyZWY9Ii9zZWN0aW9uLzUzLTItV29ybGQuaHRtbCIgY2xhc3M9InBhcmVudCI+PHNwYW4+V29ybGQ8L3NwYW4+PC9hPjwvbGk+PGxpID48YSBocmVmPSIvc2VjdGlvbi81My00ODYtU2NpZW5jZS0tLXRlY2hub2xvZ3kuaHRtbCIgY2xhc3M9InBhcmVudCI+PHNwYW4+U2NpZW5jZSAmIHRlY2hub2xvZ3k8L3NwYW4+PC9hPjwvbGk+PGxpID48YSBocmVmPSIvc2VjdGlvbi81My00MTMtU3VwcGxlbWVudHMuaHRtbCIgY2xhc3M9InBhcmVudCI+PHNwYW4+U3VwcGxlbWVudHM8L3NwYW4+PC9hPjwvbGk+PGxpID48YSBocmVmPSJodHRwOi8vZXBhcGVyLm5ld3Zpc2lvbi5jby51Zy9sb2dpbi5hc3B4IiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9InBhcmVudCI+PHNwYW4+ZS1QYXBlcjwvc3Bhbj48L2E+PC9saT5kGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYGBSJjdGwwMCRDb250ZW50UGxhY2VIb2xkZXIxJHBsbDEkcmIxBSJjdGwwMCRDb250ZW50UGxhY2VIb2xkZXIxJHBsbDEkcmIyBSJjdGwwMCRDb250ZW50UGxhY2VIb2xkZXIxJHBsbDEkcmIzBStjdGwwMCRDb250ZW50UGxhY2VIb2xkZXIxJHBsbDEkSW1hZ2VCdXR0b24xBThjdGwwMCRDb250ZW50UGxhY2VIb2xkZXIxJGZvbGxvd19zdWJzY3JpYmUyJEltYWdlQnV0dG9uMQUmY3RsMDAkQ29udGVudFBsYWNlSG9sZGVyMSRJbWFnZUJ1dHRvbjF1xSUXAodh4mF21+CmB3B401VuvQ==" />
+
+
+<script src="/ScriptResource.axd?d=b7PPqI-JGx-w_N0--m9l3Eo6E7vxcOb3EBUSutpja1e86m7VZuVES5gYQHUdS4t0ulSX8podrevqvKq0_6Nd-iaSp00Ut_SOGN4hz3r8J0d-oqJLXigGu68VrQSTUg3YcCI9yN0KQUhVMXEag42xizUIGFChHqdGycpoENHLMpUgkj7x0&amp;t=7ce2a57e" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="10F67F18" />
+    <div id="page">
+        
+        
+<div id="header">
+    <div class="top">
+        <div class="date">
+            <script type="text/javascript">
+
+                var mydate = new Date()
+                var year = mydate.getYear()
+                if (year < 1000)
+                    year += 1900
+                var day = mydate.getDay()
+                var month = mydate.getMonth()
+                var daym = mydate.getDate()
+                if (daym < 10)
+                    daym = "0" + daym
+                var dayarray = new Array("Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday")
+                var montharray = new Array("January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December")
+                document.write(" <font color='8c9eac' > " + dayarray[day] + ", " + montharray[month] + " " + daym + ", " + year + "</font> ")
+
+            </script>
+        </div>
+        <div id="ctl00_topbar1_divlastupdated" class="updated"> | Last Updated 1 hour ago</div>
+        <div style="width:455px;" class="topmenu" align="right">
+          <a href="../Content_Rights_And_Permission.aspx">Content Rights and Permission</a>|
+            <a href="../rss.aspx" target="_blank" title="RSS">RSS</a>
+            | <a href="http://www.visiongroup.co.ug/advertising-rates.php" target="_blank" title="Advertise">
+                Advertise</a> | <a href="../subscription.aspx" target="_blank"
+                    title="Subscribe">Subscribe</a> | <a href="../feedback.aspx"
+                        target="_blank" title="Feedback">Feedback</a> | <a href="../Archive.aspx"
+                            target="_blank" title="Archive">Archive</a> | <a href="http://www.visiongroup.co.ug"
+                                target="_blank" title="About US">About US</a> | <a href="http://epaper.newvision.co.ug/login.aspx"
+                                    target="_blank" title="e-Paper">e-Paper</a> | <a href="http://www.newvision.co.ug/mobile"
+                                        target="_blank" title="Mobile Application">Mobile</a>
+            | <a href="http://ads.newvision.co.ug/public/public" target="_blank" title="Classified">
+                BOOK ADVERT</a>
+        </div>
+    </div>
+    <div class="header">
+        <div class="logo">
+            <a href="../Home.aspx">
+                <img border="0" src="../images/newvisionlogo.jpg" width="270"
+                    height="74" /></a></div>
+        <div>
+            <div id='div-gpt-ad-1340357368431-0'>
+                <script type='text/javascript'>
+                    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1340357368431-0'); });
+                </script>
+            </div>
+        </div>
+    </div>
+    <div class="menuwrap">
+        <div id="menu">
+            <ul id="ctl00_topbar1_ulmainmenu" class="menu"><li><a href="/Home.aspx" class="parent"><span>Home</span></a></li><li ><a href="/section/53-435-today-s-Pick.html" class="parent"><span>today's Pick</span></a></li><li class="current"><a href="/section/53-1-National.html" class="parent"><span>National</span></a><div><ul><li><a href="/section/53-498-Census-2014.html"><span>Census 2014</span></a></li><li><a href="/section/53-431-Corporate-News.html"><span>Corporate News</span></a></li><li><a href="/section/53-501-National-Budget-2015.html"><span>National Budget 2015</span></a></li><li><a href="/section/53-419-Pakasa.html"><span>Pakasa</span></a></li><li><a href="/section/53-502-Papal-Visit-2015.html"><span>Papal Visit 2015</span></a></li><li><a href="/section/53-380-Regionals.html"><span>Regionals</span></a></li><li><a href="/section/53-500-Uganda-Martyrs--Day-2015.html"><span>Uganda Martyrs' Day 2015</span></a></li></ul></div></li><li ><a href="/section/53-3-Business.html" class="parent"><span>Business</span></a></li><li ><a href="/section/53-5-Sport.html" class="parent"><span>Sport</span></a><div><ul><li><a href="/section/53-496-2014-World-Cup.html"><span>2014 World Cup</span></a></li></ul></div></li><li   ><a href="/gallery/multimedia.html" class="parent"><span>Multimedia</span></a><div><ul><li><a href="/gallery/30PHOTO.html" ><span>Photo</span></a></li><li><a href="/gallery/8VIDEO.html" ><span>Video</span></a></li></ul></div></li><li ><a href="/section/53-397-Entertainment.html" class="parent"><span>Entertainment</span></a></li><li ><a href="/section/53-2-World.html" class="parent"><span>World</span></a></li><li ><a href="/section/53-486-Science---technology.html" class="parent"><span>Science & technology</span></a><div><ul><li><a href="/section/53-487-Oil---Gas.html"><span>Oil & Gas</span></a></li></ul></div></li><li ><a href="/section/53-413-Supplements.html" class="parent"><span>Supplements</span></a><div><ul><li><a href="http://jobs.co.ug/?page_id=5" target='_blank' ><span>Jobs</span></a></li><li><a href="/section/53-414-Notices.html"><span>Notices</span></a></li><li><a href="http://www.newvision.co.ug/section/53-413-Supplements.html" target='_parent' ><span>Supplements</span></a></li><li><a href="/section/53-415-Tenders.html"><span>Tenders</span></a></li></ul></div></li><li ><a href='http://jobs.co.ug/?page_id=5' target='_blank' class="parent"><span>Jobs</span></a><li ><a href="#" class="parent"><span>e-Paper</span></a><div><ul><li><a href="http://www.etop.co.ug" target='_blank' ><span>Etop </span></a></li><li><a href="http://epaper.newvision.co.ug/login.aspx" target='_blank' ><span>Newvision </span></a></li><li><a href="http://www.rupiny.co.ug" target='_blank' ><span>Rupiny </span></a></li><li><a href="http://www.orumuri.co.ug" target='_blank' ><span>Orumuri</span></a></li></ul></div></li><li><a href='http://www.elections.co.ug/' target="_blank"><span>Elections</span></a><div style='width: 128px;'><ul style='width: 120px;'><li><a style='width: 110px;' href='http://www.elections.co.ug/' target="_blank"><span>Elections 2016</span></a></li></ul></div></li></ul>
+        </div>
+    </div>
+    <div class="headline">
+        <div align="left" class="headl">
+            <div id="ctl00_topbar1_divsubmenu" class="smenu"><a  href="/section/53-498-Census-2014.html">Census 2014</a><a  href="/section/53-431-Corporate-News.html">Corporate News</a><a  href="/section/53-501-National-Budget-2015.html">National Budget 2015</a><a  href="/section/53-419-Pakasa.html">Pakasa</a><a  href="/section/53-502-Papal-Visit-2015.html">Papal Visit 2015</a><a  href="/section/53-380-Regionals.html">Regionals</a><a  href="/section/53-500-Uganda-Martyrs--Day-2015.html">Uganda Martyrs' Day 2015</a></div>
+            <br />
+            <div id="ctl00_topbar1_top3headline"> <div class="headliner1"><a style='color:#11518F;' href="/news/677117-burundi-parliament-slams-invasion-peacekeeper-force.html">Burundi parliament slams 'invasion' peacekeeper force</a><a style='font-size:11px;color:red;' href="/news/677117-burundi-parliament-slams-invasion-peacekeeper-force.html"></a></div> <div class="headliner2"><a style='color:#11518F;' href="/news/677120-world-bank-cancels-funding-for-uganda-transport-project.html">World Bank cancels funding for Uganda transport project</a><a style='font-size:11px;color:red;' href="/news/677120-world-bank-cancels-funding-for-uganda-transport-project.html"></a></div> <div class="headliner3"><a style='color:#11518F;' href="/news/677141-drug-firm-announces-advance-in-quest-for-hiv-cure.html">Drug firm announces advance in quest for HIV cure</a><a style='font-size:11px;color:red;' href="/news/677141-drug-firm-announces-advance-in-quest-for-hiv-cure.html"></a></div></div>
+        </div>
+        <div id="ctl00_topbar1_top3images" align="right" class="pic"><img onMouseDown="closeimagesaving();" src="/newvision_cms/gall_content/2015/12/2015_12$thumbimg122_Dec_2015_202033963.png"  alt='epaper image'/></div>
+    </div>
+    <div class="news">
+        <div style="float: left; margin: 0px; padding: 0px 0px 5px 0px; width: 100%; height: auto;">
+                       <!-- TOP_STRIP_1000x45 -->
+            <div id='div-gpt-ad-1408450827127-0' style='width:1000px; height:45px;'>
+            <script type='text/javascript'>
+                googletag.cmd.push(function () { googletag.display('div-gpt-ad-1408450827127-0'); });
+            </script>
+            </div>
+        </div>
+        <div class="latestnews">
+            latest news</div>
+        <div id="ctl00_topbar1_tickerdata" class="latestnewstik"><ul id="js-news" class="js-hidden"> <li class="news-item"><span class="item"><a style='color:#557482;text-decoration:none;' href="/news/677141-drug-firm-announces-advance-in-quest-for-hiv-cure.html">Drug firm announces advance in quest for HIV cure...</a></span></li> <li class="news-item"><a style='color:#557482;text-decoration:none;' href="/news/677138-human-rights-violations-against-mps-on-the-rise-report.html">Human rights violations against MPs on the rise - report...</a></li> <li class="news-item"><a style='color:#557482;text-decoration:none;' href="/news/677137-ipu-calls-for-dialogue-over-burundi-crisis.html">IPU calls for dialogue over Burundi crisis...</a></li> <li class="news-item"><a style='color:#557482;text-decoration:none;' href="/news/677136-oil-prices-recover-slightly.html">Oil prices recover slightly...</a></li> <li class="news-item"><a style='color:#557482;text-decoration:none;' href="/news/677135-besieged-afghan-forces-battle-to-flush-out-taliban-in-key-di.html">Besieged Afghan forces battle to flush out Taliban in key di......</a></li> <li class="news-item"><a style='color:#557482;text-decoration:none;' href="/news/677134-kitgum-rugby-queens-are-northern-champs.html">Kitgum Rugby Queens are northern champs...</a></li> <li class="news-item"><a style='color:#557482;text-decoration:none;' href="/news/677133-uganda-settles-for-bronze-in-kenya.html">Uganda settles for Bronze in Kenya...</a></li> <li class="news-item"><a style='color:#557482;text-decoration:none;' href="/news/677132-dmark-retain-chess-league-crown.html">Dmark retain chess league crown...</a></li> <li class="news-item"><a style='color:#557482;text-decoration:none;' href="/news/677131-platini-calls-fifa-ban-a-kick-in-the-teeth.html">Platini calls FIFA ban a 'kick in the teeth'...</a></li> <li class="news-item"><a style='color:#557482;text-decoration:none;' href="/news/677130-swedish-ericsson-and-apple-settle-patent-disputes.html">Swedish Ericsson and Apple settle patent disputes...</a></li></ul></div>
+        <div align="right" style="float:left;">
+            <div id="cse-search-form" style="width: 265px; margin-top: 0px; margin-left: -14px;">
+                Loading</div>
+            <script src="http://www.google.com/jsapi" type="text/javascript"></script>
+            <script type="text/javascript">
+                google.load('search', '1', { language: 'en', style: google.loader.themes.ESPRESSO });
+                google.setOnLoadCallback(function () {
+                    var customSearchControl = new google.search.CustomSearchControl(
+      '016788383194223663450:4ursyw2abq0');
+
+                    customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+                    var options = new google.search.DrawOptions();
+                    options.enableSearchboxOnly("http://www.newvision.co.ug/finalsearch.aspx");
+                    customSearchControl.draw('cse-search-form', options);
+                }, true);
+            </script>
+             </div>
+            <style type="text/css">
+                input.gsc-input
+                {
+                    border-color: #000000;
+                }
+                input.gsc-search-button
+                {
+                    border-color: #333333;
+                    background-color: #461200;
+                }
+                .cse form.gsc-search-box, form.gsc-search-box
+                {
+                    padding: 0px 4px 2px 6px !important;
+                }
+                /* IE ignores styles with [attributes], so it will skip the following. */
+                .trans[class]
+                {
+                    color: white;
+                    text-align: left;
+                    padding-top: 3px;
+                    padding-left: 9px;
+                    bottom: 0px;
+                    padding-bottom: 0px;
+                    background-image: url(images/alpha.png);
+                }
+            </style>
+            
+       
+    </div>
+</div>
+
+        
+    <div id="lhs">
+        <div id="ctl00_ContentPlaceHolder1_mainhd" class="headingmain">National</div>
+        <div id="wrapmain">
+            <div id="ctl00_ContentPlaceHolder1_main_head" class="sectiontitle">
+              
+            Human rights violations against MPs on the rise - report<br /><span class="updated2">Publish Date: Dec 22, 2015</span></div>
+            <div id="containerinside">
+                <div id="leftinside">
+                    <div id="ctl00_ContentPlaceHolder1_maiming" class="list"><img onMouseDown="closeimagesaving();" src="/newvision_cms/gall_content/2015/12/2015_12$largeimg222_Dec_2015_192041100.jpg"  style="max-height:303px;max-width:380px;" alt="Human rights violations against MPs on the rise - report" class="img" /></div>
+                </div>
+                <div id="rightinside_ad">
+                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" type="text/javascript"></script>
+                    <!-- newvision 240x290 articles -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:240px;height:290px"
+                         data-ad-client="ca-pub-9128472770397497"
+                         data-ad-slot="6985662534"></ins>
+                    <script type="text/javascript">
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                </div>
+
+               
+                  <div id="ctl00_ContentPlaceHolder1_divimgcap" class="detail"></div>
+
+
+                      <div id="rightinside" style="display:block; float:left;">
+                    <div id="ctl00_ContentPlaceHolder1_verticaltop" class="detail_tool2" style="display:block;margin-top:5px;height:35px;">
+                        <ul>
+                            <li><a href="https://twitter.com/share" class="twitter-share-button" data-via="newvisionwire">
+                                Tweet</a>
+
+                                <script type="text/javascript">                                    !function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = "//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } } (document, "script", "twitter-wjs");</script>
+
+                            </li>
+                            <li style="display:none;">
+                             <iframe src="http://www.facebook.com/plugins/like.php?href=http://www.newvision.co.ug/news/677138-human-rights-violations-against-mps-on-the-rise-report.html"
+                            scrolling="no" frameborder="0" style="border: none; width: 186px; height: 80px">
+                        </iframe>
+                                
+                            </li>
+                            <li class="tweter">
+                                <!-- Place this tag where you want the +1 button to render -->
+                                <g:plusone></g:plusone>
+                                <!-- Place this render call where appropriate -->
+                            </li>
+                            <li>
+
+                                <script type="text/javascript">
+
+                                    (function () {
+
+                                        var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+
+                                        po.src = 'https://apis.google.com/js/plusone.js';
+
+                                        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+
+                                    })();
+
+                                </script>
+
+                            </li>
+                            <li><a onclick="printatory();" style="cursor: pointer;">
+                                <img onclick="printatory();" src="../images/print.jpg" style="border: solid 0px red;" /></a></li>
+                            <li class="addthis_default_style">
+
+                                
+
+                                <a class="addthis_button_email">
+                                    <img border='0' src="../images/mail.jpg" alt="mail" style="padding: 2px 0px 2px 0px;
+                                        cursor: pointer" />
+                                </a></li>
+                            <li>
+                                     <div id="fb-root">
+                                    </div>
+
+                                    <script> (function(d, s, id) {
+                                    var js, fjs = d.getElementsByTagName(s)[0];
+                                    if (d.getElementById(id)) return;
+                                    js = d.createElement(s); js.id = id;
+                                    js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";
+                                    fjs.parentNode.insertBefore(js, fjs);
+                                    } (document, 'script', 'facebook-jssdk'));</script>
+
+                                    <div class="fb-share-button" data-href="http://www.newvision.co.ug//news/677138-human-rights-violations-against-mps-on-the-rise-report.html"
+                                    data-layout="button_count">
+                                    </div>
+                            </li>
+                            <li style="display:none;">
+
+                                <script type="text/javascript">                                    addthis_pub = 'admin@newvision.co.ug'; addthis_language = 'eng';</script>
+
+                                <a href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')"
+                                    onmouseout="addthis_close()" onclick="return addthis_sendto()">
+                                    <img border='0' src="../images/f-share.jpg" style="border: solid 0px red;" alt="img" /></a>
+
+                                <script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
+
+                            </li>
+                        </ul>
+                    </div>
+                  
+                </div>
+
+
+                    <div id="ctl00_ContentPlaceHolder1_divauthor" class="author">newvision</div>
+                <div class="clear">
+                </div>
+                <div id="ctl00_ContentPlaceHolder1_verticalbottom" class="getsharevertical" style="display:none;margin-top:-20px;">  <div class="detail_tool2">
+                    <ul>
+                        <li><a href="https://twitter.com/share" class="twitter-share-button" data-via="newvisionwire">
+                            Tweet</a>
+
+                            <script>                                !function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = "//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } } (document, "script", "twitter-wjs");</script>
+
+                        </li>
+                        <li>
+                        
+                         <iframe src="http://www.facebook.com/plugins/like.php?href=http://www.newvision.co.ug/news/677138-human-rights-violations-against-mps-on-the-rise-report.html"
+                            scrolling="no" frameborder="0" style="border: none; width: 186px; height: 80px">
+                        </iframe>
+                            
+                        </li>
+                        <li class="tweter">
+                            <!-- Place this tag where you want the +1 button to render -->
+                            <g:plusone></g:plusone>
+                            <!-- Place this render call where appropriate -->
+                        </li>
+                        <li>
+
+                            <script type="text/javascript">
+
+                                (function() {
+
+                                    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+
+                                    po.src = 'https://apis.google.com/js/plusone.js';
+
+                                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+
+                                })();
+
+                            </script>
+
+                        </li>
+                        <li><a onclick="printatory();" style="cursor: pointer;">
+                            <img onclick="printatory();" src="../images/print.jpg" style="border: solid 0px red;" /></a></li>
+                        <li class="addthis_default_style">
+
+                            
+
+                            <a class="addthis_button_email">
+                                <img border='0' src="../images/mail.jpg" alt="mail" style="padding: 2px 0px 2px 0px;
+                                    cursor: pointer" />
+                            </a></li>
+                        <li>
+
+                            <script type="text/javascript">                                addthis_pub = 'admin@newvision.co.ug'; addthis_language = 'eng';</script>
+
+                            <a href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')"
+                                onmouseout="addthis_close()" onclick="return addthis_sendto()">
+                                <img border='0' src="../images/f-share.jpg" style="border: solid 0px red;" alt="img" /></a>
+
+                            <script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
+
+                        </li>
+                    </ul>
+                </div></div>
+                <div id="ctl00_ContentPlaceHolder1_divdtls">
+             
+                <div><span style="float:left;" class="Fullstory_class"><p><p><strong>By Joyce Namutebi<br />
+<br />
+Parliamentarians across the world in 2015 continued to face too many dangers that prevented or hampered their work, representing a real and on-going threat to democracy, a report has said.</strong><br />
+<br />
+The 2015 report released by the IPU headquarters in Geneva said that during the year, the Committee on the Human Rights of Parliamentarians has worked on cases involving 320 MPs in 43 countries, up from 311 cases in 40 countries in 2014 and 270 cases in 40 countries in 2013. <br />
+<br />
+&ldquo;Parliamentarians across the world in 2015 continued to face too many dangers that prevented or hampered their work, representing a real and on-going threat to democracy that needed to be addressed,&rdquo; a recent press release said.<br />
+<br />
+&ldquo;MPs can be subject to a range of abuses and types of violence. They include death, intimidation and torture, but the main violations are arbitrary arrest and detention, lack of fair trial, violation of the right to freedom of expression or assembly, and the unlawful loss of parliamentary mandate,&rdquo; the release dated December 8, 2015 said.<br />
+<br />
+Created in 1976, the Committee on the Human Rights of Parliamentarians is a unique body that works to provide redress for MPs whose rights have been violated.<br />
+<br />
+According to the release, Africa has the highest number of MPs who recorded cases numbering 114, accounting for 36 per cent of the cases before IPU, although this shows a slight drop from the 119 MPs who reported cases to the IPU in 2014.<br />
+<br />
+The MPs who recorded cases are from Burundi, Cameroon, Chad, Democratic Republic of Congo (DRC), Eritrea, Kenya, Madagascar, Niger, Rwanda, Togo, Zambia and Zimbabwe, the release said.<br />
+<br />
+Africa was followed by Asia with 94 MPs reporting cases to the IPU, the release said followed by the Middle East and North Africa region ranks third with 54 (17%) of all cases, the Americas with 43 MPs and Europe with MPs. &ldquo;The Pacific region is the only part of the world with no case of alleged violations being examined by IPU,&rdquo; the release said.<br />
+<br />
+For Asia, the MPs come from 13 countries namely Afghanistan, Bangladesh, Cambodia, Indonesia, Malaysia, Maldives, Mongolia, Myanmar, Pakistan, Philippines, Republic of Korea, Sri Lanka and Thailand.<br />
+<br />
+&ldquo;Almost half of all cases in the region come from just two countries &ndash; Maldives (30) and Malaysia (14).&rdquo;<br />
+<br />
+Of the 320 MPs, 228 were of the opposition parties, 81 from majority party and independent MPs and others, 11.</p>
+<p><strong>RELATED STORIES:<br />
+</strong></p>
+<p><a href="http://www.newvision.co.ug/news/659105-gomba-mp-jailed-over-sh79m-debt.html"><strong>Gomba MP jailed over sh79m debt</strong></a></p>
+<p>&nbsp;</p></p></span></div></div>
+                <div style="float:left; padding:5px 0px 5px 0px; margin:0px;">
+                 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" type="text/javascript"></script>
+                <!-- newvision articles 645x170 -->
+                <ins class="adsbygoogle"
+                     style="display:inline-block;width:645px;height:170px"
+                     data-ad-client="ca-pub-9128472770397497"
+                     data-ad-slot="9939128935"></ins>
+                <script type="text/javascript">
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                </script>
+                 </div>
+
+<div class="detail_tool2">
+
+<div class = "top_page_new">
+<div class = "body_inner_new">
+<p><i>The statements, comments, or opinions expressed through the use of New Vision Online are those of their respective authors, who are solely responsible for them, and do not necessarily represent the views held by the staff and management of New Vision Online.</i></p>
+<p><i>New Vision Online reserves the right to moderate, publish or delete a post without warning or consultation with the author.<a href = "../ONLINEPOLICY.aspx" target="_blank"  style = "color:navy;">Find out why we moderate comments.</a> For any questions please contact <a href = "mailto:digital@newvision.co.ug">digital@newvision.co.ug</a></i></p>
+</div>
+</div>
+
+
+</div> 
+               
+                <div class="detail_tool2">
+                    <ul>
+                        <li><a href="https://twitter.com/share" class="twitter-share-button" data-via="newvisionwire">
+                            Tweet</a>
+
+                            <script>                                !function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = "//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } } (document, "script", "twitter-wjs");</script>
+
+                        </li>
+                        <li style="display:none;">
+                         <iframe src="http://www.facebook.com/plugins/like.php?href=http://www.newvision.co.ug/news/677138-human-rights-violations-against-mps-on-the-rise-report.html"
+                            scrolling="no" frameborder="0" style="border: none; width: 186px; height: 80px">
+                        </iframe>
+                        
+                        </li>
+                        <li class="tweter">
+                            <!-- Place this tag where you want the +1 button to render -->
+                            <g:plusone></g:plusone>
+                            <!-- Place this render call where appropriate -->
+                        </li>
+                        <li>
+
+                            <script type="text/javascript">
+
+                                (function() {
+
+                                    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+
+                                    po.src = 'https://apis.google.com/js/plusone.js';
+
+                                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+
+                                })();
+
+                            </script>
+
+                        </li>
+                        <li><a onclick="printatory();" style="cursor: pointer;">
+                            <img onclick="printatory();" src="../images/print.jpg" style="border: solid 0px red;" /></a></li>
+                        <li class="addthis_default_style">
+
+                            
+
+                            <a class="addthis_button_email">
+                                <img border='0' src="../images/mail.jpg" alt="mail" style="padding: 2px 0px 2px 0px;
+                                    cursor: pointer" />
+                            </a></li>
+                             <li>
+                                     <div id="fb-root">
+                                    </div>
+
+                                    <script> (function(d, s, id) {
+                                    var js, fjs = d.getElementsByTagName(s)[0];
+                                    if (d.getElementById(id)) return;
+                                    js = d.createElement(s); js.id = id;
+                                    js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";
+                                    fjs.parentNode.insertBefore(js, fjs);
+                                    } (document, 'script', 'facebook-jssdk'));</script>
+
+                                    <div class="fb-share-button" data-href="http://www.newvision.co.ug//news/677138-human-rights-violations-against-mps-on-the-rise-report.html"
+                                    data-layout="button_count">
+                                    </div>
+                            </li>
+                        <li style="display:none;">
+
+                            <script type="text/javascript">                                addthis_pub = 'admin@newvision.co.ug'; addthis_language = 'eng';</script>
+
+                            <a href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')"
+                                onmouseout="addthis_close()" onclick="return addthis_sendto()">
+                                <img border='0' src="../images/f-share.jpg" style="border: solid 0px red;" alt="img" /></a>
+
+                            <script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
+
+                        </li>
+                    </ul>
+                </div>
+                <div style="clear: both; width: 650px;">
+                <div id="disqus_thread">
+                </div>
+
+                <script type="text/javascript">
+                    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+                    var disqus_shortname = 'nvdiscuss'; // required: replace example with your forum shortname
+
+                    /* * * DON'T EDIT BELOW THIS LINE * * */
+                    (function() {
+                        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+                        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+                    })();
+                </script>
+
+                <noscript>
+                    Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments
+                        powered by Disqus.</a></noscript>
+                <a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">
+                    Disqus</span></a>
+            </div>
+                
+                <div class="clear">
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="rhs">
+            <div class="add">
+            <div>
+                                
+<!-- Half_Banner_home_ad_A -->
+<div id='div-gpt-ad-1328525882916-0' style='width:300px; height:90px;'>
+<script type='text/javascript'>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1328525882916-0'); });
+</script>
+</div>
+                
+                </div>
+            <div class="space">
+            </div>
+            <div>
+                <!-- Half_Banner_Home_ad_toppest -->
+<div id='div-gpt-ad-1329315127819-0' style='width:300px; height:90px;'>
+<script type='text/javascript'>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1329315127819-0'); });
+</script>
+</div>
+                
+                </div>
+        </div>
+        <div class="space2">
+        </div>
+        <div class="add" style='height:125px;'>
+            
+<!-- include in place where ad is to appear within the body -->
+
+<!-- 125_Homepage_exclusive_ad_A -->
+<div id='div-gpt-ad-1327324955015-0' style='width:125px; height:125px;float:left'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1327324955015-0'); });
+</script>
+</div>
+				
+				<div class="spaceinside">
+                </div>
+
+				
+<!-- include in place where ad is to appear within the body -->
+
+<!-- 125_Homepage_exclusive_ad_B -->
+<div id='div-gpt-ad-1327329299077-0' style='width:125px; height:125px;float:right'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1327329299077-0'); });
+</script>
+</div>
+
+            
+        </div>
+        <div class="space2">
+        </div>
+        <div class="add">
+        <div id='div-gpt-ad-1398416904558-0' style='width:300px; height:90px;'>
+<script type='text/javascript'>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1398416904558-0'); });
+</script>
+</div>
+        </div>
+        <div class="space2">
+        </div>
+        <div class="add">
+        <!--body tags-->
+<!-- Squarebanner_section_stories -->
+<div id='div-gpt-ad-1396430311625-0' style='width:300px; height:250px;'>
+<script type='text/javascript'>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1396430311625-0'); });
+</script>
+</div>
+        </div>
+		 <div class="space2">
+        </div>
+        <div class="add">
+                <div id='div-gpt-ad-1350985773165-0' style='width: 300px; height: 90px;'>
+
+                    <script type='text/javascript'>
+                        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1350985773165-0'); });
+                    </script>
+
+                </div>
+            </div>
+           <div class="space2">
+        </div>
+        <div class="add1">
+        
+<div class="rhshd">Also In This Section
+</div>
+<div id="ctl00_ContentPlaceHolder1_also_section_alsointhissection" class="also"><div class="newstitle"><a style='color:#11518F;text-decoration:none;' href="/news/677137-ipu-calls-for-dialogue-over-burundi-crisis.html">IPU calls for dialogue over Burundi crisis</a></div><div><img onMouseDown="closeimagesaving();" src="/newvision_cms/gall_content/2015/12/2015_12$thumbimg122_Dec_2015_185328300.jpg" alt='IPU calls for dialogue over Burundi crisis' style='max-height:55px;max-width:80px;' class="lifeleft"><div  class="newstext">Concerned by the violence in Burundi, the Inter-Parliamentary Union (IPU) has expressed its readiness to work with Parliament of Burundi to foster inclusive dialogue. “The Inter-Parliamentary Union is gravely concerned about the worsening violence in Burundi, which has left hundreds of people dead... </div></div><div class="newstitle"><a style='color:#11518F;text-decoration:none;' href="/news/677128-president-receives-burundi-special-envoy.html">President receives Burundi special envoy</a></div><div><img onMouseDown="closeimagesaving();" src="/newvision_cms/gall_content/2015/12/2015_12$thumbimg122_Dec_2015_150817517.jpg" alt='President receives Burundi special envoy' style='max-height:55px;max-width:80px;' class="lifeleft"><div  class="newstext">President Yoweri Museveni on Tuesday received a special message from President Pierre Nkurunziza of Burundi.... </div></div><div class="newstitle"><a style='color:#11518F;text-decoration:none;' href="/news/677127-korean-project-saemaul-modifies-villages.html">Korean project (Saemaul) modifies villages</a></div><div><img onMouseDown="closeimagesaving();" src="/newvision_cms/gall_content/2015/12/2015_12$thumbimg122_Dec_2015_142430800.jpg" alt='Korean project (Saemaul) modifies villages' style='max-height:55px;max-width:80px;' class="lifeleft"><div  class="newstext">The republic of Korea has earmarked US$2.5 million to pilot a project code named “Saemaul Model villages” a strategy aimed at fighting rural poverty and uplift the standard of living among rural communities in Mpigi... </div></div><div class="newstitle"><a style='color:#11518F;text-decoration:none;' href="/news/677125-fdc-blames-ec-over-ntungamo-clashes.html">FDC blames EC over Ntungamo clashes</a></div><div><img onMouseDown="closeimagesaving();" src="/newvision_cms/gall_content/2015/12/2015_12$thumbimg122_Dec_2015_134649303.jpg" alt='FDC blames EC over Ntungamo clashes' style='max-height:55px;max-width:80px;' class="lifeleft"><div  class="newstext">The Forum for Democratic Change (FDC) lead opposition party has blamed the Ntungamo clashes between independent presidential candidate, John Patrick Amama Mbabazi's and NRM supporters to the weakness of the Electoral Commission... </div></div><div class="newstitle"><a style='color:#11518F;text-decoration:none;' href="/news/677124-mulago-registers-more-accident-cases-ahead-of-festive-season.html">Mulago registers more accident cases ahead of festive season</a></div><div><img onMouseDown="closeimagesaving();" src="/newvision_cms/gall_content/2015/12/2015_12$thumbimg122_Dec_2015_130435530.jpg" alt='Mulago registers more accident cases ahead of festive season' style='max-height:55px;max-width:80px;' class="lifeleft"><div  class="newstext">Mulago National Referral hospital is registering more cases of accidents ahead of the festive season... </div></div><div class="newstitle"><a style='color:#11518F;text-decoration:none;' href="/news/677123-uneb-to-get-new-boss-next-month.html">UNEB to get new boss next month</a></div><div><img onMouseDown="closeimagesaving();" src="/newvision_cms/gall_content/2015/12/2015_12$thumbimg122_Dec_2015_125159623.jpg" alt='UNEB to get new boss next month' style='max-height:55px;max-width:80px;' class="lifeleft"><div  class="newstext">The process to find a new executive secretary for the Uganda national Examinations Board (UNEB), to replace Matthew Bukenya, will be concluded next month, Prof. Mary Okwakol, the board's chairperson has revealed... </div></div></div>
+
+                   
+        </div>
+         <div class="space2">
+        </div>
+        
+         
+<div class="clear">
+</div>
+<div id="ctl00_ContentPlaceHolder1_relatedStory1_RelHead" style="float:left;">
+</div>
+<div id="ctl00_ContentPlaceHolder1_relatedStory1_relstories" class="comment-list Related">
+</div>
+
+         <div class="space2">
+        </div>
+        
+<div class="clear">
+</div>
+<div id="ctl00_ContentPlaceHolder1_rel_photoGallery1_relatedphoto_gallery">
+</div>
+        <div class="clear">
+                </div>
+       <div class="space2">
+        </div>
+        
+        
+        
+        
+        <div class="space2">
+        </div>
+        <div id="ctl00_ContentPlaceHolder1_pll1_pollhead"><div class="rhshd"><a style='color:white;text-decoration:none;' href="/prev_poll.aspx">POLL</a></div></div>
+<div id="ctl00_ContentPlaceHolder1_pll1_polldiv" class="add1">
+    <div class="poll">
+        <div id="ctl00_ContentPlaceHolder1_pll1_pollques" class="storytitle">
+        As we celebrate World Human Rights Day, do you think Ugandans know their rights?</div>
+        <div id="ctl00_ContentPlaceHolder1_pll1_f1" class="div2" style="float: left;">
+            <input value="rb1" name="ctl00$ContentPlaceHolder1$pll1$r1" type="radio" id="ctl00_ContentPlaceHolder1_pll1_rb1" /><span id="ctl00_ContentPlaceHolder1_pll1_r1value">
+            Yes</span>
+        </div>
+        <div class="clear">
+        </div>
+        <div id="ctl00_ContentPlaceHolder1_pll1_f2" class="div3" style="float: left;">
+            <input value="rb2" name="ctl00$ContentPlaceHolder1$pll1$r1" type="radio" id="ctl00_ContentPlaceHolder1_pll1_rb2" /><span id="ctl00_ContentPlaceHolder1_pll1_r2value">
+            No</span>
+        </div>
+        <div class="clear">
+        </div>
+        <div id="ctl00_ContentPlaceHolder1_pll1_f3" class="div4" style="float: left;">
+            <input value="rb3" name="ctl00$ContentPlaceHolder1$pll1$r1" type="radio" id="ctl00_ContentPlaceHolder1_pll1_rb3" /><span id="ctl00_ContentPlaceHolder1_pll1_r3value">
+            Can't Say</span>
+        </div>
+        <div class="clear">
+        </div>
+        <div class="div5">
+            
+            <input type="image" name="ctl00$ContentPlaceHolder1$pll1$ImageButton1" id="ctl00_ContentPlaceHolder1_pll1_ImageButton1" src="../images/votebutton.jpg" onclick="javascript:return check_poll();WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ContentPlaceHolder1$pll1$ImageButton1&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" border="0" />
+        </div>
+    </div>
+    <input name="ctl00$ContentPlaceHolder1$Poll$hidcount" type="hidden" id="ctl00_ContentPlaceHolder1_Poll_hidcount" />
+</div>
+
+        <div class="space2">
+        </div>
+        
+
+                <div class="rhshd">
+                    follow us
+                </div>
+                <div id="ctl00_ContentPlaceHolder1_follow_subscribe2_divfollow" class="add1">
+                    <div class="social">
+                       <table align="left" cellpadding="2" cellspacing="0" width="206"><tr>
+	            <td><a href="https://www.facebook.com/thenewvision" target="_blank"><img src="../images/fb.png" name=limage8 border="0" align="top" onmouseover = "document.limage8.src = '../images/fb2.png';" onmouseout = "document.limage8.src = '../images/fb.png';" /></a></td>
+	            <td><a href="https://plus.google.com/100548386404854462665/posts" target="_blank"><img src="../images/google_plus.png" name=limage9 border="0" align="top" onmouseover = "document.limage9.src = '../images/google_plus.png';" onmouseout = "document.limage9.src = '../images/google_plus.png';" /></a></td>
+	            <td><a href="https://www.youtube.com/user/bukeddetv" target="_blank"><img src="../images/yt.png" name=limage4 width="37" height="37" border="0" align="top" onmouseover = "document.limage4.src = '../images/yt2.png';" onmouseout = "document.limage4.src = '../images/yt.png';" /></a></td>
+	                  <td><a href="https://twitter.com/newvisionwire"><img src="../images/tw.png" name=limage5 width="37" height="37" border="0" align="top" onmouseover = "document.limage5.src = '../images/tw2.png';" onmouseout = "document.limage5.src = '../images/tw.png';" /></a></td>
+	            <td><a href="#"><img src="../images/in.png" name=limage6 width="37" height="37" border="0" align="top" onmouseover = "document.limage6.src = '../images/in2.png';" onmouseout = "document.limage6.src = '../images/in.png';" border#="0" /></a></td>
+	            <td><a href="#"><img src="../images/rss.png" name=limage7 width="37" height="37" border="0" align="top" onmouseover = "document.limage7.src = '../images/rss2.png';" onmouseout = "document.limage7.src = '../images/rss.png';" /></a></td>
+	</tr></table>
+                        <div class="clear">
+                        </div>
+                    </div>
+                </div>
+                <div class="space2">
+                </div>
+                <div class="rhshd">
+                    subscribe to our news letter
+                </div>
+                <div id="ctl00_ContentPlaceHolder1_follow_subscribe2_divsubscribe" class="add1">
+                   
+                   
+                   
+                   
+                    <input name="ctl00$ContentPlaceHolder1$follow_subscribe2$email_txt" type="text" id="ctl00_ContentPlaceHolder1_follow_subscribe2_email_txt" onkeypress="javascript:return check_login(event);" class="box" />
+                    
+                    
+                   <input type="image" name="ctl00$ContentPlaceHolder1$follow_subscribe2$ImageButton1" id="ctl00_ContentPlaceHolder1_follow_subscribe2_ImageButton1" alt="go" OnClientClick="javascript:return emailid2();" src="../images/btnsignup.png" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ContentPlaceHolder1$follow_subscribe2$ImageButton1&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" border="0" />
+                              &nbsp;
+                                                        &nbsp;
+                     
+                  
+                </div>
+                      <div class="clear">
+            </div>
+        
+        <div class="space2">
+        </div>
+        <div class="rhshd" style="display:none;">
+            subscribe to our news letter
+        </div>
+        <div class="add1" style="display:none;">
+            
+            
+            
+            
+            <input name="ctl00$ContentPlaceHolder1$email_txt" type="text" id="ctl00_ContentPlaceHolder1_email_txt" onkeypress="javascript:return check_login(event);" class="box" />
+            <input type="image" name="ctl00$ContentPlaceHolder1$ImageButton1" id="ctl00_ContentPlaceHolder1_ImageButton1" alt="go" src="../images/btnsignup.png" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ContentPlaceHolder1$ImageButton1&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" border="0" />
+            
+            
+        </div>
+    </div>
+    <div class="clear">
+    </div>
+
+        
+<div class="clear">
+</div>
+
+<div style='padding:0px 0px 5px 0px;'>
+<!-- Leader_board_home_ad_bottom_most -->
+<div id='div-gpt-ad-1372655516949-0' style='width:728px; height:90px;'>
+<script type='text/javascript'>
+    googletag.display('div-gpt-ad-1372655516949-0');
+</script>
+</div>
+</div>
+<div style='padding:0px 0px 5px 0px;'><script type="text/javascript"><!--
+google_ad_client = "ca-pub-9128472770397497";
+/* bottom */
+google_ad_slot = "7123993142";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+<div class="wrap8">
+    <a href="http://www.bukedde.co.ug/" target="_blank"><img src="../images/brands/bukedde.jpg" alt="no img" width="70" height="30" border="0" /></a> 
+    <a href="http://www.xfm.co.ug/" target="_blank"><img src="../images/brands/visionvoice.jpg" alt="no img" width="36" height="30" border="0" /></a> 
+    <a href="http://www.facebook.com/pages/Radio-Rupiny-957-FM-Mhz-981-FM-Mhz/204305532951252?fref=ts" target="_blank"><img  src="../images/brands/radiorupiny.jpg" alt="no img" width="49" height="40" border="0" /></a> 
+        <a href="http://www.visionmobile.co.ug/" target="_blank"><img
+            src="../images/brands/8338.jpg" width="49" height="40" border="0" /></a> 
+            <a href="http://www.facebook.com/pages/Bride-Groom-Magazine-Uganda/353118420871/" target="_blank">
+            <img
+                src="../images/brands/bridegroom.jpg" alt="no img" width="100" height="30" border="0" /></a> 
+                <a href="http://www.facebook.com/pages/Bukedde-Fama/207673162678396?fref=ts" target="_blank">
+                <img
+                    src="../images/brands/bukeddefm.jpg" alt="no img" width="49" height="40" border="0" /></a> 
+                    <a href="http://youtube.com/bukeddetv" target="_blank">
+                    <img
+                        src="../images/brands/bukeddetv.jpg" alt="no img" width="100" height="30" border="0"/></a> 
+                        <a href="http://www.citybeat.co.ug/" target="_blank">
+                        <img
+                            src="../images/brands/citybeat.jpg" alt="no img" width="90" height="30" border="0"/></a> 
+                            <a href="http://www.facebook.com/EtopRadioAicaNaAteker?fref=ts" target="_blank">
+                            <img
+                                src="../images/brands/etopfm.jpg" alt="no img" width="49" height="40" border="0"/></a> 
+                                <a href="www.etop.co.ug" target="_blank">
+                                <img
+                                    src="../images/brands/etopnews.jpg" alt="no img" width="90" height="30" border="0"/></a> 
+                                    <a href="www.facebook.com/flairforher" target="_blank">
+                                    <img
+                                        src="../images/brands/flair.jpg" alt="no img" width="60" height="30" border="0"/></a> 
+                                        <a href="http://www.orumuri.co.ug/" target="_blank">
+                                        <img
+                                            src="../images/brands/orumuri.jpg" alt="no img" width="80" height="30" border="0"/></a> 
+                                            <a href="www.rupiny.co.ug" target="_blank">
+                                            <img
+                                                src="../images/brands/rupiny.jpg" alt="no img" width="80" height="30" border="0"/></a> 
+                                               <a href="http://www.facebook.com/pages/Radio-West-1002-FM/342705296948" target="_blank">
+                                                <img
+                                                    src="../images/brands/radiowest.jpg" alt="no img" width="36" height="30" border="0"/></a> </div>
+<div class="menuwrap">
+    <div id="menu">
+        <ul id="ctl00_bottombar1_ulfootermenu" class="menu"> <li><a href="/Home.aspx" class="parent"><span>Home</span></a></li><li ><a href="/section/53-435-today-s-Pick.html" class="parent"><span>today's Pick</span></a></li><li class="current"><a href="/section/53-1-National.html" class="parent"><span>National</span></a></li><li ><a href="/section/53-3-Business.html" class="parent"><span>Business</span></a></li><li ><a href="/section/53-5-Sport.html" class="parent"><span>Sport</span></a></li><li ><a href="/section/53-397-Entertainment.html" class="parent"><span>Entertainment</span></a></li><li ><a href="/section/53-2-World.html" class="parent"><span>World</span></a></li><li ><a href="/section/53-486-Science---technology.html" class="parent"><span>Science & technology</span></a></li><li ><a href="/section/53-413-Supplements.html" class="parent"><span>Supplements</span></a></li><li ><a href="http://epaper.newvision.co.ug/login.aspx" target="_blank" class="parent"><span>e-Paper</span></a></li></ul>
+    </div>
+</div>
+<div class="footer">
+    <div class="top">
+        <div class="date">
+            Copyright &copy; 2012 Newvision . All rights reserved | Developed by: <a href="http://www.4cplus.com/"
+                target="_blank">
+                <img src="../images/4c-logo.jpg" style="border: 0px solid blue;" /></a>
+        </div>
+        <div class="topmenu" align="right">
+            <a href="http://www.visiongroup.co.ug/advertising-rates.php" target="_blank" title="Advertise">
+                Advertisement</a> | <a href="Archive.aspx" target="_blank" title="Archive">Archive</a>
+            
+            | <a href="../ONLINEPOLICY.aspx"  title="Online Policy">Online policy</a>
+            | <a href="../Disclaimer.aspx"  title="Disclaimer">Disclaimer</a>
+            | <a href="../copyright.aspx"  title="COPYRIGHT">COPYRIGHT</a>
+            | <a href="../Editorial_Policy.aspx" title="Our Editorial Policy">Our Editorial Policy</a>
+        </div>
+    </div>
+</div>
+
+    </div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+//]]>
+</script>
+</form>
+</body>
+</html>
+
+
+WARC/1.0
+WARC-Type: resource
+WARC-Record-ID: <urn:uuid:d21493bf-6c54-418d-857f-0996215fc668>
+WARC-Warcinfo-ID: <urn:uuid:04dad56c-69e6-45ef-88eb-b4fb8d85e42e>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/MANIFEST.txt
+WARC-Date: 2015-12-22T22:28:37Z
+Content-Type: text/plain
+Content-Length: 48
+
+<urn:uuid:04dad56c-69e6-45ef-88eb-b4fb8d85e42e>
+
+
+WARC/1.0
+WARC-Type: resource
+WARC-Record-ID: <urn:uuid:d21493bf-6c54-418d-857f-0996215fc668>
+WARC-Warcinfo-ID: <urn:uuid:04dad56c-69e6-45ef-88eb-b4fb8d85e42e>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/wget_arguments.txt
+WARC-Date: 2015-12-22T22:28:37Z
+Content-Type: text/plain
+Content-Length: 267
+
+"--warc-file" "677138-human-rights-violations-against-mps-on-the-rise-report" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "-q" "-O" "/dev/null" "http://www.newvision.co.ug/news/677138-human-rights-violations-against-mps-on-the-rise-report.html" 
+
+
