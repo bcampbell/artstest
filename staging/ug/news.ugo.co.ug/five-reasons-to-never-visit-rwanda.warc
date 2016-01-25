@@ -1,0 +1,997 @@
+WARC/1.0
+WARC-Type: warcinfo
+Content-Type: application/warc-fields
+WARC-Date: 2016-01-22T03:47:05Z
+WARC-Record-ID: <urn:uuid:ac635b42-d0f1-4aaa-966e-6914b3ae5b2c>
+WARC-Filename: five-reasons-to-never-visit-rwanda.warc
+Content-Length: 379
+
+software: Wget/1.16.1 (linux-gnu)
+format: WARC File Format 1.0
+conformsTo: http://bibnum.bnf.fr/WARC/WARC_ISO_28500_version1_latestdraft.pdf
+robots: classic
+wget-arguments: "--warc-file" "five-reasons-to-never-visit-rwanda" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "-q" "-O" "/dev/null" "http://news.ugo.co.ug/five-reasons-to-never-visit-rwanda/" 
+
+
+
+WARC/1.0
+WARC-Type: request
+WARC-Target-URI: http://news.ugo.co.ug/five-reasons-to-never-visit-rwanda/
+Content-Type: application/http;msgtype=request
+WARC-Date: 2016-01-22T03:47:06Z
+WARC-Record-ID: <urn:uuid:8cc90b30-63e5-402f-b3da-e1e2488109ca>
+WARC-IP-Address: 173.254.127.15
+WARC-Warcinfo-ID: <urn:uuid:ac635b42-d0f1-4aaa-966e-6914b3ae5b2c>
+Content-Length: 176
+
+GET /five-reasons-to-never-visit-rwanda/ HTTP/1.1
+User-Agent: Wget/1.16.1 (linux-gnu)
+Accept: */*
+Accept-Encoding: identity
+Host: news.ugo.co.ug
+Connection: Keep-Alive
+
+
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <urn:uuid:e58a8a68-4f2f-4f4a-a855-2262e7c6bac9>
+WARC-Warcinfo-ID: <urn:uuid:ac635b42-d0f1-4aaa-966e-6914b3ae5b2c>
+WARC-Concurrent-To: <urn:uuid:8cc90b30-63e5-402f-b3da-e1e2488109ca>
+WARC-Target-URI: http://news.ugo.co.ug/five-reasons-to-never-visit-rwanda/
+WARC-Date: 2016-01-22T03:47:06Z
+WARC-IP-Address: 173.254.127.15
+Content-Type: application/http;msgtype=response
+Content-Length: 65693
+
+HTTP/1.1 200 OK
+Date: Fri, 22 Jan 2016 03:47:06 GMT
+Server: Apache
+Vary: Cookie,Accept-Encoding
+Link: <http://news.ugo.co.ug/wp-json/>; rel="https://api.w.org/", <http://news.ugo.co.ug/?p=69758>; rel=shortlink
+Set-Cookie: wfvt_2361191077=56a1a63cec285; expires=Fri, 22-Jan-2016 04:17:08 GMT; path=/; httponly
+Cache-Control: max-age=172800
+Expires: Sun, 24 Jan 2016 03:47:06 GMT
+Keep-Alive: timeout=10, max=500
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+fe8f
+
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="en-US">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<!-- <meta http-equiv="refresh" content="900"> --> 
+<meta name="viewport" content="width=device-width" />
+<meta name="author" content="UGO Uganda" />
+<meta name="revisit-after" content="10 days" />
+<title>Five Reasons To Never Visit Rwanda</title>
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+googletag.defineSlot('/19353156/Top_Banner', [728, 90], 'div-gpt-ad-1392120323593-0').addService(googletag.pubads());
+googletag.defineSlot('/19353156/Medium_Ads', [300, 250], 'div-gpt-ad-1437990340563-0').addService(googletag.pubads());
+googletag.defineSlot('/19353156/MTN_Ugo', [300, 250], 'div-gpt-ad-1437988385042-0').addService(googletag.pubads());
+googletag.defineSlot('/19353156/Medium_Ad4', [300, 250], 'div-gpt-ad-1446795701706-0').addService(googletag.pubads());
+googletag.defineSlot('/19353156/Small_Ads', [300, 120], 'div-gpt-ad-1393943309921-0').addService(googletag.pubads());
+googletag.defineSlot('/19353156/Medium_Ad_2', [300, 250], 'div-gpt-ad-1392279628968-0').addService(googletag.pubads());
+googletag.defineSlot('/19353156/Medium_Ad_3', [300, 250], 'div-gpt-ad-1429106901524-0').addService(googletag.pubads());
+googletag.defineSlot('/19353156/Side_Ad-Left', [120, 500], 'div-gpt-ad-1392299332798-0').addService(googletag.pubads());
+googletag.defineSlot('/19353156/Side_Ad-Right', [120, 500], 'div-gpt-ad-1392388180750-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
+</script>
+<link rel="stylesheet" type="text/css" media="all" href="http://news.ugo.co.ug/wp-content/themes/wt_eris/style.css" />
+<!--[if lt IE 9]>
+<script src="http://news.ugo.co.ug/wp-content/themes/wt_eris/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+
+<script type="text/javascript">
+	var themeDir = "http://news.ugo.co.ug/wp-content/themes/wt_eris";
+</script>
+
+<style type='text/css'>
+          .no-break br {
+            display: none !important;
+          }
+      </style>
+<!-- This site is optimized with the Yoast SEO plugin v3.0.7 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="The land of a thousand hills is quite a bore if you ever thought about it. Kigali has been described as one of the most beautiful cities in the world by people who were obviously out of their minds. Here are a few reasons to never visit Rwanda."/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="http://news.ugo.co.ug/five-reasons-to-never-visit-rwanda/" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="UGO News &raquo; Feed" href="http://news.ugo.co.ug/feed/" />
+<link rel="alternate" type="application/rss+xml" title="UGO News &raquo; Comments Feed" href="http://news.ugo.co.ug/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="UGO News &raquo; Five Reasons To Never Visit Rwanda Comments Feed" href="http://news.ugo.co.ug/five-reasons-to-never-visit-rwanda/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/news.ugo.co.ug\/wp-includes\/js\/wp-emoji-release.min.js?ver=fb5c76571abb2dc7e2a06df2b10937f7"}};
+			!function(a,b,c){function d(a){var c,d=b.createElement("canvas"),e=d.getContext&&d.getContext("2d");return e&&e.fillText?(e.textBaseline="top",e.font="600 32px Arial","flag"===a?(e.fillText(String.fromCharCode(55356,56806,55356,56826),0,0),d.toDataURL().length>3e3):"diversity"===a?(e.fillText(String.fromCharCode(55356,57221),0,0),c=e.getImageData(16,16,1,1).data.toString(),e.fillText(String.fromCharCode(55356,57221,55356,57343),0,0),c!==e.getImageData(16,16,1,1).data.toString()):("simple"===a?e.fillText(String.fromCharCode(55357,56835),0,0):e.fillText(String.fromCharCode(55356,57135),0,0),0!==e.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='fblb-css-css'  href='http://news.ugo.co.ug/wp-content/plugins/arscode-social-slider/fblb.css?ver=fb5c76571abb2dc7e2a06df2b10937f7' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-lionbars-css'  href='http://news.ugo.co.ug/wp-content/plugins/arscode-social-slider/lionbars/lionbars.css?ver=fb5c76571abb2dc7e2a06df2b10937f7' type='text/css' media='all' />
+<!--[if lte IE 7]>
+<link rel='stylesheet' id='fblb-css-ie7-css'  href='http://news.ugo.co.ug/wp-content/plugins/arscode-social-slider/ie7.css?ver=fb5c76571abb2dc7e2a06df2b10937f7' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='googletranslate-style-css'  href='http://news.ugo.co.ug/wp-content/plugins/translate-google/googletranslate-style.css?ver=fb5c76571abb2dc7e2a06df2b10937f7' type='text/css' media='all' />
+<link rel='stylesheet' id='super-rss-reader-css-css'  href='http://news.ugo.co.ug/wp-content/plugins/super-rss-reader/public/srr-css.css?ver=fb5c76571abb2dc7e2a06df2b10937f7' type='text/css' media='all' />
+<link rel='stylesheet' id='wordpress-popular-posts-css'  href='http://news.ugo.co.ug/wp-content/plugins/wordpress-popular-posts/style/wpp.css?ver=fb5c76571abb2dc7e2a06df2b10937f7' type='text/css' media='all' />
+<script type='text/javascript' src='http://news.ugo.co.ug/wp-includes/js/jquery/jquery.js?ver=fb5c76571abb2dc7e2a06df2b10937f7'></script>
+<script type='text/javascript' src='http://news.ugo.co.ug/wp-includes/js/jquery/jquery-migrate.min.js?ver=fb5c76571abb2dc7e2a06df2b10937f7'></script>
+<script type='text/javascript' src='http://news.ugo.co.ug/wp-content/plugins/arscode-social-slider/js/userscripts.js?ver=fb5c76571abb2dc7e2a06df2b10937f7'></script>
+<script type='text/javascript' src='http://news.ugo.co.ug/wp-content/plugins/arscode-social-slider/lionbars/jquery.lionbars.0.3.min.js?ver=fb5c76571abb2dc7e2a06df2b10937f7'></script>
+<script type='text/javascript' src='http://news.ugo.co.ug/wp-content/plugins/super-rss-reader/public/srr-js.js?ver=fb5c76571abb2dc7e2a06df2b10937f7'></script>
+<script type='text/javascript' src='http://news.ugo.co.ug/wp-content/themes/wt_eris/js/hoverIntent.js?ver=fb5c76571abb2dc7e2a06df2b10937f7'></script>
+<script type='text/javascript' src='http://news.ugo.co.ug/wp-includes/js/hoverIntent.min.js?ver=fb5c76571abb2dc7e2a06df2b10937f7'></script>
+<script type='text/javascript' src='http://news.ugo.co.ug/wp-content/themes/wt_eris/js/superfish.js?ver=fb5c76571abb2dc7e2a06df2b10937f7'></script>
+<script type='text/javascript' src='http://news.ugo.co.ug/wp-content/themes/wt_eris/js/flexslider-min.js?ver=fb5c76571abb2dc7e2a06df2b10937f7'></script>
+<script type='text/javascript' src='http://news.ugo.co.ug/wp-content/themes/wt_eris/js/lightbox.js?ver=fb5c76571abb2dc7e2a06df2b10937f7'></script>
+<script type='text/javascript' src='http://news.ugo.co.ug/wp-content/themes/wt_eris/js/jflickrfeed.min.js?ver=fb5c76571abb2dc7e2a06df2b10937f7'></script>
+<script type='text/javascript' src='http://news.ugo.co.ug/wp-content/themes/wt_eris/js/jquery.mobilemenu.js?ver=fb5c76571abb2dc7e2a06df2b10937f7'></script>
+<script type='text/javascript' src='http://news.ugo.co.ug/wp-content/themes/wt_eris/js/jcarousellite_1.0.1.min.js?ver=fb5c76571abb2dc7e2a06df2b10937f7'></script>
+<script type='text/javascript' src='http://news.ugo.co.ug/wp-content/themes/wt_eris/js/custom.js?ver=fb5c76571abb2dc7e2a06df2b10937f7'></script>
+<link rel='https://api.w.org/' href='http://news.ugo.co.ug/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://news.ugo.co.ug/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://news.ugo.co.ug/wp-includes/wlwmanifest.xml" /> 
+
+<link rel='shortlink' href='http://news.ugo.co.ug/?p=69758' />
+<link rel="alternate" type="application/json+oembed" href="http://news.ugo.co.ug/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fnews.ugo.co.ug%2Ffive-reasons-to-never-visit-rwanda%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://news.ugo.co.ug/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fnews.ugo.co.ug%2Ffive-reasons-to-never-visit-rwanda%2F&#038;format=xml" />
+<script charset="utf-8" type="text/javascript">var switchTo5x=true;</script>
+<script charset="utf-8" type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script charset="utf-8" type="text/javascript">stLight.options({"publisher":"31f34e84-9fed-4e1c-bc6a-bca481bb33df","doNotCopy":true,"hashAddressBar":false,"doNotHash":true});var st_type="wordpress4.2.4";</script>
+
+	<meta property="og:image" content="http://news.ugo.co.ug/wp-content/uploads/2015/12/1421353874DSC_6761-500x310.jpg" />
+ 
+
+<link rel="shortcut icon" href="http://ugo.co.ug/images/favicon.ico" />	
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-22938200-3']);
+  _gaq.push(['_setDomainName', '.ugo.co.ug']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- Custom CSS Styles -->
+<style type="text/css"> 
+ 
+</style>
+<!-- /Custom CSS Styles -->
+
+				<!-- WordPress Popular Posts v3.3.3 -->
+				<script type="text/javascript">//<![CDATA[
+
+					var sampling_active = 0;
+					var sampling_rate   = 100;
+					var do_request = false;
+
+					if ( !sampling_active ) {
+						do_request = true;
+					} else {
+						var num = Math.floor(Math.random() * sampling_rate) + 1;
+						do_request = ( 1 === num );
+					}
+
+					if ( do_request ) {
+
+						// Create XMLHttpRequest object and set variables
+						var xhr = ( window.XMLHttpRequest )
+						  ? new XMLHttpRequest()
+						  : new ActiveXObject( "Microsoft.XMLHTTP" ),
+						url = 'http://news.ugo.co.ug/wp-admin/admin-ajax.php',
+						params = 'action=update_views_ajax&token=dc11ec52cd&wpp_id=69758';
+						// Set request method and target URL
+						xhr.open( "POST", url, true );
+						// Set request header
+						xhr.setRequestHeader( "Content-type", "application/x-www-form-urlencoded" );
+						// Hook into onreadystatechange
+						xhr.onreadystatechange = function() {
+							if ( 4 === xhr.readyState && 200 === xhr.status ) {
+								if ( window.console && window.console.log ) {
+									window.console.log( xhr.responseText );
+								}
+							}
+						};
+						// Send request
+						xhr.send( params );
+
+					}
+
+				//]]></script>
+				<!-- End WordPress Popular Posts v3.3.3 -->
+				<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//news.ugo.co.ug/?wordfence_logHuman=1&hid=93012947E1606FE73353D34F1996EE70');
+</script>
+<link href="/wp-content/themes/wt_eris/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+<script type="text/javascript">
+var rootdomain="http://"+window.location.hostname
+function ajaxinclude(url) {
+var page_request = false
+if (window.XMLHttpRequest)
+page_request = new XMLHttpRequest()
+else if (window.ActiveXObject){
+try{page_request = new ActiveXObject("Msxml2.XMLHTTP")}
+catch(e){
+	try{page_request = new ActiveXObject("Microsoft.XMLHTTP")}
+	catch(e){}
+}
+}
+else
+return false
+page_request.open('GET', url, false)
+page_request.send(null)
+writecontent(page_request)
+}
+function writecontent(page_request){if(window.location.href.indexOf("http")==-1 || page_request.status==200) document.write(page_request.responseText)}
+</script>
+<script type="text/javascript">
+jQuery(document).ready(function($){
+	$(window).scroll(function(){
+		$('#masthead').removeClass('site-header');
+		if($(document).scrollTop() > 64){
+			$('#top_tools').addClass('show_top_tools');$('#top_tiny_logo').addClass('top_tiny_logo');
+			$('#main-menu').addClass('fixed_navigation');$('#masthead').addClass('site-header');
+		}
+		else{
+			$('#top_tools').removeClass('show_top_tools');$('#top_tiny_logo').removeClass('top_tiny_logo');
+			$('#main-menu').removeClass('fixed_navigation');$('#masthead').removeClass('site-header');
+		}
+	});
+	$('#top_tiny_logo').click(function(){ window.location = 'http://news.ugo.co.ug/'; });
+});
+</script>
+</head>
+
+<body class="single single-post postid-69758 single-format-standard tourism">
+
+<div id="top_tools">
+	<div class="top_tools">
+		<div id="top_tiny_logo"></div>
+		<li id="googletranslate" class="widget googletranslate_widget"><!-- googletranslate: http://google.com -->
+<div id="google_translate_element"></div>
+<script type="text/javascript">
+function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: ''}, 'google_translate_element');}
+</script><script type="text/javascript" src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+</li>
+<li id="text-19" class="widget widget_text">			<div class="textwidget"><div class="date-time">
+Friday, Jan 22 2016, 6:47:09 AM</div></div>
+		</li>
+	</div> 
+</div>
+
+<div class="all-body">
+	
+				
+<div id="container" class="hfeed">
+	<div id = "container_advert">
+	<header id="header" role="banner">
+		
+	
+
+
+		
+
+		<div class="wrap">
+			<div class="logo">
+
+			
+				<h1>
+
+					<a href="http://news.ugo.co.ug" title="UGO News">
+
+						 <img src="http://news.ugo.co.ug/wp-content/themes/wt_eris/images/logo.gif" alt="UGO News" />
+					</a>
+
+				</h1>	
+
+				
+
+			</div>	<!-- /logo -->		
+
+				
+
+			
+			<div class="ad468">
+
+			<div class="widget-head"> 
+
+				<li id="text-22" class="widget widget_text">			<div class="textwidget"><script>
+  (function() {
+    var cx = '011376450540358121994:hniors4pafw';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search></div>
+		</li>
+
+			</div>
+
+			<div class="weather-widget">
+
+				
+			</div>     
+
+						
+
+				</div>
+
+			
+		
+
+		</div> <!-- /wrap -->		
+
+				
+
+		<div id="main-menu">
+
+			<ul id="menu-ugo" class="menu"><li id="menu-item-18296" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18296"><a href="http://ugo.co.ug">Home</a></li>
+<li id="menu-item-18299" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-has-children menu-item-18299"><a href="http://news.ugo.co.ug">News</a>
+<ul class="sub-menu">
+	<li id="menu-item-18311" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18311"><a href="http://news.ugo.co.ug/category/featured/">Featured</a></li>
+	<li id="menu-item-18292" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18292"><a href="http://news.ugo.co.ug/local/">Local</a></li>
+	<li id="menu-item-18310" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18310"><a href="http://news.ugo.co.ug/category/eastafrica/">East Africa</a></li>
+	<li id="menu-item-18309" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18309"><a href="http://news.ugo.co.ug/category/africa/">Africa</a></li>
+	<li id="menu-item-18293" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18293"><a href="http://news.ugo.co.ug/international/">International</a></li>
+	<li id="menu-item-18294" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18294"><a href="http://news.ugo.co.ug/sports/">Sports</a></li>
+	<li id="menu-item-18297" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18297"><a href="http://news.ugo.co.ug/business/">Business</a></li>
+	<li id="menu-item-18298" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18298"><a href="http://news.ugo.co.ug/education/">Education</a></li>
+	<li id="menu-item-28738" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-28738"><a href="http://news.ugo.co.ug/health-2/">Health</a></li>
+	<li id="menu-item-18295" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-18295"><a href="http://news.ugo.co.ug/tourism/">Tourism</a></li>
+	<li id="menu-item-18291" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18291"><a href="http://news.ugo.co.ug/technology/">Technology</a></li>
+	<li id="menu-item-18290" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18290"><a href="http://news.ugo.co.ug/entertainment/">Entertainment</a></li>
+	<li id="menu-item-28739" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-28739"><a href="http://news.ugo.co.ug/odd/">Odd</a></li>
+</ul>
+</li>
+<li id="menu-item-18302" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18302"><a href="http://ugo.co.ug/ugdecides">Elections 2016</a>
+<ul class="sub-menu">
+	<li id="menu-item-67700" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-67700"><a href="http://ugo.co.ug/category/ugdecides/">News</a></li>
+	<li id="menu-item-67699" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-67699"><a href="http://ugo.co.ug/gallery2016">Gallery</a></li>
+</ul>
+</li>
+<li id="menu-item-18300" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18300"><a href="http://ugo.co.ug/Sports">Sports</a></li>
+<li id="menu-item-18301" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18301"><a href="http://ugo.co.ug/business">Business</a></li>
+<li id="menu-item-18303" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18303"><a href="http://ugo.co.ug/tourism">Tourism</a></li>
+<li id="menu-item-18304" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18304"><a href="http://ugo.co.ug/technology">Technology</a></li>
+<li id="menu-item-18305" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18305"><a href="http://www.oops.ug">Entertainment</a>
+<ul class="sub-menu">
+	<li id="menu-item-18314" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18314"><a href="http://news.ugo.co.ug/celebrity-interviews/">Celebrity Interviews</a></li>
+	<li id="menu-item-28737" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-28737"><a href="http://news.ugo.co.ug/events/">Events</a></li>
+</ul>
+</li>
+<li id="menu-item-18306" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18306"><a href="http://directory.ugo.co.ug/">Directory</a>
+<ul class="sub-menu">
+	<li id="menu-item-18307" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18307"><a href="http://directory.ugo.co.ug/add-business">Add Business</a></li>
+</ul>
+</li>
+<li id="menu-item-30773" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-30773"><a href="http://blogs.ugo.co.ug/">Blogs</a></li>
+</ul>				
+
+		</div>
+		<div class="clearfix"></div>
+		<div id="topbanner_div"><div class="text-15" id="top_banner">			<div class="textwidget"><a href="http://ugo.co.ug/services/"><img src="http://news.ugo.co.ug/wp-content/themes/wt_eris/images/services.gif" alt="UGO Services" title="UGO Services"  /></a>
+
+<div class="set_homepage">
+
+</div></div>
+		</div><div class="text-16" id="top_banner">			<div class="textwidget"><!-- Top_Banner -->
+<div id='div-gpt-ad-1392120323593-0' style='width:728px; height:90px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1392120323593-0'); });
+</script>
+</div></div>
+		</div></div>
+		<div id="rolling_news">
+					</div>	
+	</header>
+</div>
+	<div id="main">  
+<div id="left-sidebar" class="sidebar">
+			<aside id="text-11" class="widget widget_text"><h3>FOREX</h3>			<div class="textwidget"><div class="ug-forex">
+
+
+	<div class='forex-title'>Ugandan Shillings (UGX)</div>
+	<div class='forex-flags'></div>
+	<table class='forex-table' cellpadding='2px' cellspacing='0'>
+		<tr class='odd'><td> US </td><td><div class="value">3465.00</div></td></tr>
+		<tr class='even'><td> EU</td><td><div class="value">3757.45</div></td></tr>
+		<tr class='odd'><td> UK</td><td><div class="value">4923.94</div></td></tr>
+		<tr class='even'><td> Kenya </td><td><div class="value">33.87</div></td></tr>
+		<tr class='odd'><td> Tanzania </td><td><div class="value">1.58</div></td></tr>
+		<tr class='even'><td> Rwanda </td><td><div class="value">4.59</div></td></tr>
+	</table>
+	<div class='forex-date'>Friday, 22 Jan 16</div>
+
+</div></div>
+		</aside><aside id="text-20" class="widget widget_text"><h3>RECENT POSTS</h3>			<div class="textwidget"><ul class="latestNews">
+	<li>
+		<a class="thumb" href="http://news.ugo.co.ug/71059-2/" rel="bookmark" title="Cranes Opponents Zambia Might Be Disqualified From CHAN For Using An Ineligible Player">
+			<img width="50" height="50" src="http://news.ugo.co.ug/wp-content/uploads/2016/01/Zambia-on-Tuesday-before-CHAN-game-50x50.jpg" class="attachment-wt-small-thumb size-wt-small-thumb wp-post-image" alt="Zambia on Tuesday before CHAN game" srcset="http://news.ugo.co.ug/wp-content/uploads/2016/01/Zambia-on-Tuesday-before-CHAN-game-50x50.jpg 50w, http://news.ugo.co.ug/wp-content/uploads/2016/01/Zambia-on-Tuesday-before-CHAN-game-75x75.jpg 75w" sizes="(max-width: 50px) 100vw, 50px" />		</a>
+		<a class="title" href="http://news.ugo.co.ug/71059-2/" rel="bookmark" title="Cranes Opponents Zambia Might Be Disqualified From CHAN For Using An Ineligible Player">Cranes Opponents Zambia Might Be Disqualified From CHAN For Using An Ineligible Player</a><br/>
+		<span>Posted: 1 day ago</span>
+	</li>
+	<li>
+		<a class="thumb" href="http://news.ugo.co.ug/71053-2/" rel="bookmark" title="Sheraton Kampala Hotel Welcomes In GM As Duncan Exits">
+			<img width="50" height="50" src="http://news.ugo.co.ug/wp-content/uploads/2016/01/Ian-Duncan-Jean-Philippe-and-Jennifer-50x50.jpg" class="attachment-wt-small-thumb size-wt-small-thumb wp-post-image" alt="Ian Duncan, Jean Philippe and Jennifer" srcset="http://news.ugo.co.ug/wp-content/uploads/2016/01/Ian-Duncan-Jean-Philippe-and-Jennifer-50x50.jpg 50w, http://news.ugo.co.ug/wp-content/uploads/2016/01/Ian-Duncan-Jean-Philippe-and-Jennifer-75x75.jpg 75w" sizes="(max-width: 50px) 100vw, 50px" />		</a>
+		<a class="title" href="http://news.ugo.co.ug/71053-2/" rel="bookmark" title="Sheraton Kampala Hotel Welcomes In GM As Duncan Exits">Sheraton Kampala Hotel Welcomes In GM As Duncan Exits</a><br/>
+		<span>Posted: 1 day ago</span>
+	</li>
+	<li>
+		<a class="thumb" href="http://news.ugo.co.ug/71050-2/" rel="bookmark" title="Boxing Federation Looking For Ushs288m">
+			<img width="50" height="50" src="http://news.ugo.co.ug/wp-content/uploads/2016/01/Boxer-Mike-Ssekabembe-50x50.jpg" class="attachment-wt-small-thumb size-wt-small-thumb wp-post-image" alt="Boxer Mike Ssekabembe" srcset="http://news.ugo.co.ug/wp-content/uploads/2016/01/Boxer-Mike-Ssekabembe-50x50.jpg 50w, http://news.ugo.co.ug/wp-content/uploads/2016/01/Boxer-Mike-Ssekabembe-75x75.jpg 75w" sizes="(max-width: 50px) 100vw, 50px" />		</a>
+		<a class="title" href="http://news.ugo.co.ug/71050-2/" rel="bookmark" title="Boxing Federation Looking For Ushs288m">Boxing Federation Looking For Ushs288m</a><br/>
+		<span>Posted: 1 day ago</span>
+	</li>
+	<li>
+		<a class="thumb" href="http://news.ugo.co.ug/71047-2/" rel="bookmark" title="Vipers Agrees To Sell Miya To Standard Liege In Belgium">
+			<img width="50" height="50" src="http://news.ugo.co.ug/wp-content/uploads/2016/01/Farouk-Miya-back-to-lead-Vipers-against-Express-1-50x50.jpg" class="attachment-wt-small-thumb size-wt-small-thumb wp-post-image" alt="Farouq Miya" srcset="http://news.ugo.co.ug/wp-content/uploads/2016/01/Farouk-Miya-back-to-lead-Vipers-against-Express-1-50x50.jpg 50w, http://news.ugo.co.ug/wp-content/uploads/2016/01/Farouk-Miya-back-to-lead-Vipers-against-Express-1-75x75.jpg 75w" sizes="(max-width: 50px) 100vw, 50px" />		</a>
+		<a class="title" href="http://news.ugo.co.ug/71047-2/" rel="bookmark" title="Vipers Agrees To Sell Miya To Standard Liege In Belgium">Vipers Agrees To Sell Miya To Standard Liege In Belgium</a><br/>
+		<span>Posted: 1 day ago</span>
+	</li>
+	<li>
+		<a class="thumb" href="http://news.ugo.co.ug/71044-2/" rel="bookmark" title="KABAKA’S BEER: Mengo, UBL Sign Revenue Sharing Pact, Mayiga Directs Baganda To Savor New Beverage">
+			<img width="50" height="50" src="http://news.ugo.co.ug/wp-content/uploads/2016/01/DSC2416-2-50x50.jpg" class="attachment-wt-small-thumb size-wt-small-thumb wp-post-image" alt="The Katikiro of Buganda, Charles Peter Mayiga, Juliana Kagwa, Marketing Director, UBL and Nyimpini Mabunda, MD UBL display bottles of Ngule, a new beer launched by Uganda Breweries Ltd and the Buganda Kingdom." srcset="http://news.ugo.co.ug/wp-content/uploads/2016/01/DSC2416-2-50x50.jpg 50w, http://news.ugo.co.ug/wp-content/uploads/2016/01/DSC2416-2-75x75.jpg 75w" sizes="(max-width: 50px) 100vw, 50px" />		</a>
+		<a class="title" href="http://news.ugo.co.ug/71044-2/" rel="bookmark" title="KABAKA’S BEER: Mengo, UBL Sign Revenue Sharing Pact, Mayiga Directs Baganda To Savor New Beverage">KABAKA’S BEER: Mengo, UBL Sign Revenue Sharing Pact, Mayiga Directs Baganda To Savor New Beverage</a><br/>
+		<span>Posted: 1 day ago</span>
+	</li>
+</ul>
+</div>
+		</aside><aside id="text-17" class="widget widget_text">			<div class="textwidget"><script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://adnoteplus.com/clients/www/delivery/ajs.php':'http://adnoteplus.com/clients/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=52");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://adnoteplus.com/clients/www/delivery/ck.php?n=aac6e4ef&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://adnoteplus.com/clients/www/delivery/avw.php?zoneid=52&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=aac6e4ef' border='0' alt='' /></a></noscript>
+</div>
+		</aside><aside id="text-7" class="widget widget_text">			<div class="textwidget"><form>
+<select onchange="top.location.href = 'http://'
++ this.options[ this.selectedIndex ].value" style="width:158px;" >
+<option value="">Choose</option>
+<option value="radio.ugo.co.ug">Radio</option>
+<option value="directory.ugo.co.ug">Directory</option>
+</select>
+</form></div>
+		</aside><aside id="text-6" class="widget widget_text">			<div class="textwidget"><a class="twitter-timeline" href="https://twitter.com/UgoUganda" data-widget-id="561476834416537600">Tweets by @UgoUganda</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div>
+		</aside><aside id="text-18" class="widget widget_text">			<div class="textwidget"><!-- Side_Ad-Right -->
+<div id='div-gpt-ad-1392388180750-0' style='width:120px; height:500px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1392388180750-0'); });
+</script>
+</div></div>
+		</aside></div><!-- /sidebar --><section id="primary">
+	<div id="content" role="main">
+	
+					
+<article id="post-69758" class="post-69758 post type-post status-publish format-standard has-post-thumbnail hentry category-tourism tag-kigali tag-rwanda tag-tourism_ tourism">
+	
+	<header class="entry-header">
+		<h1 class="entry-title">Five Reasons To Never Visit Rwanda</h1>
+		<div class="entry-meta">
+			<span class="date">December 12, 2015 </span>
+			<span class="category"><a href="http://news.ugo.co.ug/tourism/" rel="category tag">Tourism</a></span> 
+							<span class="comments"><a href="http://news.ugo.co.ug/five-reasons-to-never-visit-rwanda/#comments"><span class="dsq-postid" data-dsqidentifier="69758 http://news.ugo.co.ug/?p=69758">2</span></a></span>
+				
+			<span class="author">Admin</span> 
+			<span class="hits"></span>
+		</div><!-- /entry-meta -->		
+		
+	</header><!-- /entry-header -->
+
+	<div class="entry-content">
+		<p class="no-break"><span class='st_facebook_hcount' st_title='Five Reasons To Never Visit Rwanda' st_url='http://news.ugo.co.ug/five-reasons-to-never-visit-rwanda/'></span><span st_via='ugouganda' st_username='ugouganda' class='st_twitter_hcount' st_title='Five Reasons To Never Visit Rwanda' st_url='http://news.ugo.co.ug/five-reasons-to-never-visit-rwanda/'></span><span st_title='Five Reasons To Never Visit Rwanda' st_url='http://news.ugo.co.ug/five-reasons-to-never-visit-rwanda/' class='st_googleplus_hcount'></span><span st_title='Five Reasons To Never Visit Rwanda' st_url='http://news.ugo.co.ug/five-reasons-to-never-visit-rwanda/' class='st_linkedin_hcount'></span><span st_title='Five Reasons To Never Visit Rwanda' st_url='http://news.ugo.co.ug/five-reasons-to-never-visit-rwanda/' class='st_pinterest_hcount'></span><span st_title='Five Reasons To Never Visit Rwanda' st_url='http://news.ugo.co.ug/five-reasons-to-never-visit-rwanda/' class='st_whatsapp_hcount'></span></p><p>The land of a thousand hills is quite a bore if you ever thought about it. Kigali has been described as one of the most beautiful cities in the world by people who were obviously out of their minds. Here are a few reasons to never visit Rwanda.</p>
+<p><a href="http://news.ugo.co.ug/wp-content/uploads/2015/12/5929724-e1449914950763.jpg"><img class="aligncenter size-full wp-image-69764" src="http://news.ugo.co.ug/wp-content/uploads/2015/12/5929724-e1449914950763.jpg" alt="5929724" width="600" height="338" /></a></p>
+<p>The capital city is filthy. Kigali city is a dusty town, her streets are full of garbage and barely any buildings.</p>
+<p><a href="http://news.ugo.co.ug/wp-content/uploads/2015/12/1420462704DSC_2446-e1449913576977.jpg"><img class="aligncenter size-full wp-image-69759" src="http://news.ugo.co.ug/wp-content/uploads/2015/12/1420462704DSC_2446-e1449913576977.jpg" alt="1420462704DSC_2446" width="600" height="390" /></a></p><div style="width: 300px; height: 250px; padding: 6px 6px 6px 0; float: left; margin-left: 0; margin-right: 18px;">
+				<!-- /19353156/Medium_Ad_3 -->
+				<div id="div-gpt-ad-1429106901524-0" style="height:250px; width:300px;">
+				<script type="text/javascript">
+				googletag.cmd.push(function() { googletag.display("div-gpt-ad-1429106901524-0"); });
+				</script>
+				</div>
+			</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Rwanda has no wildlife. There is no reason to visit a place that has no animals beside mosquitos and ants.</p>
+<p><a href="http://news.ugo.co.ug/wp-content/uploads/2015/12/aaRwanda-Sabyinyo-3.jpg"><img class="aligncenter size-full wp-image-69760" src="http://news.ugo.co.ug/wp-content/uploads/2015/12/aaRwanda-Sabyinyo-3.jpg" alt="aaRwanda Sabyinyo-3" width="591" height="394" srcset="http://news.ugo.co.ug/wp-content/uploads/2015/12/aaRwanda-Sabyinyo-3-279x186.jpg 279w, http://news.ugo.co.ug/wp-content/uploads/2015/12/aaRwanda-Sabyinyo-3-582x388.jpg 582w, http://news.ugo.co.ug/wp-content/uploads/2015/12/aaRwanda-Sabyinyo-3.jpg 591w" sizes="(max-width: 591px) 100vw, 591px" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>The Rwandan culture is really boring. Rwandan culture is not special and there is nothing interesting or beautiful about it.</p>
+<p><a href="http://news.ugo.co.ug/wp-content/uploads/2015/12/tumblr_mubns6EGmb1sqgccho1_1280-e1449913800387.jpg"><img class="aligncenter size-full wp-image-69761" src="http://news.ugo.co.ug/wp-content/uploads/2015/12/tumblr_mubns6EGmb1sqgccho1_1280-e1449913800387.jpg" alt="tumblr_mubns6EGmb1sqgccho1_1280" width="600" height="400" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>There is nothing remarkable about this country. The Rwandan country side is flat and unattractive to look at.</p>
+<p><a href="http://news.ugo.co.ug/wp-content/uploads/2015/12/Rwandan-landscape-1-e1449914028421.jpg"><img class="aligncenter size-full wp-image-69762" src="http://news.ugo.co.ug/wp-content/uploads/2015/12/Rwandan-landscape-1-e1449914028421.jpg" alt="Rwandan-landscape-1" width="600" height="353" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>The people are so cold and unwelcoming. If you are planning on visiting Rwanda get ready to be lonely and feel very unwelcome.</p>
+<p><a href="http://news.ugo.co.ug/wp-content/uploads/2015/12/1421353874DSC_6761-e1449914197935.jpg"><img class="aligncenter size-full wp-image-69763" src="http://news.ugo.co.ug/wp-content/uploads/2015/12/1421353874DSC_6761-e1449914197935.jpg" alt="1421353874DSC_6761" width="600" height="392" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Despite all these reasons, Jovago.com has a number of hotels listed all over Remarkable Rwanda.</p>
+<p>&nbsp;</p>
+
+		<span style="width:50%;float:right;padding:10px 0 0 15px"><h4>RELATED CONTENT</h4>
+			<ul><li><a href="http://news.ugo.co.ug/google-doodle-celebrates-pioneering-zoologist/">Google Doodle Celebrates Pioneering Zoologist</a></li><li><a href="http://news.ugo.co.ug/uwa-sponsors-song-promoting-ugandas-culture-tourism-sector/">UWA Sponsors Song Promoting Uganda’s Culture And Tourism Sector </a></li><li><a href="http://news.ugo.co.ug/eight-people-buried-in-rwanda-mudslide/">Eight People Buried In Rwanda Mudslide</a></li><li><a href="http://news.ugo.co.ug/rwanda-remembers-genocide-18-years-later/">Rwanda Remembers Genocide 18 Years Later</a></li><li><a href="http://news.ugo.co.ug/13b-for-the-standard-gauge-railway-from-mombasa-via-kampala-to-kigali/">$13b for the Standard Gauge Railway from Mombasa via Kampala to Kigali </a></li></ul>
+		</span>
+	
+<p>&nbsp;</p>
+<p><strong>About Jovago</strong><br />
+Jovago.com is an online hotel booking service with offices in Lagos (Nigeria), Nairobi (Kenya), Dakar (Senegal) founded by Africa Internet Group and has MTN and Millicom as investors. Jovago.com, Africa’s No.1 booking portal, facilitates the booking process for its users to provide them with the best hotel booking experience with fast, transparent and easy-to-use services. Jovago.com has over 25,000 local hotel listings across Africa and over 200,000 hotels around the world.</p>
+</p><p><span class='st_facebook_hcount' st_title='Five Reasons To Never Visit Rwanda' st_url='http://news.ugo.co.ug/five-reasons-to-never-visit-rwanda/'></span><span st_via='ugouganda' st_username='ugouganda' class='st_twitter_hcount' st_title='Five Reasons To Never Visit Rwanda' st_url='http://news.ugo.co.ug/five-reasons-to-never-visit-rwanda/'></span><span st_title='Five Reasons To Never Visit Rwanda' st_url='http://news.ugo.co.ug/five-reasons-to-never-visit-rwanda/' class='st_googleplus_hcount'></span><span st_title='Five Reasons To Never Visit Rwanda' st_url='http://news.ugo.co.ug/five-reasons-to-never-visit-rwanda/' class='st_linkedin_hcount'></span><span st_title='Five Reasons To Never Visit Rwanda' st_url='http://news.ugo.co.ug/five-reasons-to-never-visit-rwanda/' class='st_pinterest_hcount'></span><span st_title='Five Reasons To Never Visit Rwanda' st_url='http://news.ugo.co.ug/five-reasons-to-never-visit-rwanda/' class='st_whatsapp_hcount'></span></p>			</div><!-- /entry-content -->
+	
+	<span class="gad-top">
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+		<!-- Top of article -->
+		<ins class="adsbygoogle"
+			style="display:inline-block;width:468px;height:60px"
+			data-ad-client="ca-pub-6392674157941831"
+			data-ad-slot="6512302655"></ins>
+		<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	</span><br/><br/>
+		
+	
+<div id="disqus_thread">
+            <div id="dsq-content">
+
+
+            <ul id="dsq-comments">
+                    <li class="comment even thread-even depth-1" id="dsq-comment-3731">
+        <div id="dsq-comment-header-3731" class="dsq-comment-header">
+            <cite id="dsq-cite-3731">
+                <span id="dsq-author-user-3731">J. Isabirye</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-3731" class="dsq-comment-body">
+            <div id="dsq-comment-message-3731" class="dsq-comment-message"><p>I get the pun</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment odd alt thread-odd thread-alt depth-1" id="dsq-comment-3732">
+        <div id="dsq-comment-header-3732" class="dsq-comment-header">
+            <cite id="dsq-cite-3732">
+                <span id="dsq-author-user-3732">Duncan</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-3732" class="dsq-comment-body">
+            <div id="dsq-comment-message-3732" class="dsq-comment-message"><p>5 reasons to never visit Jovago!</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+            </ul>
+
+
+        </div>
+
+    </div>
+
+	
+	<footer class="entry-footer">
+		
+		<div class="entry-tags">
+			<a href="http://news.ugo.co.ug/tag/kigali/" rel="tag">Kigali</a><a href="http://news.ugo.co.ug/tag/rwanda/" rel="tag">Rwanda</a><a href="http://news.ugo.co.ug/tag/tourism_/" rel="tag">tourism</a> 
+		</div>
+		
+						
+				
+			</footer><!-- /entry-footer -->
+	
+</article><!-- /post-69758 -->
+							
+	</div><!-- /content -->
+</section><!-- /primary -->
+
+ 
+<div id="right-sidebar" class="sidebar">
+		<aside id="text-8" class="widget widget_text">			<div class="textwidget"><!-- /19353156/MTN_Ugo -->
+<div id="div-gpt-ad-1437988385042-0" style="height:250px; width:300px;">
+<script type="text/javascript">
+googletag.cmd.push(function() { googletag.display("div-gpt-ad-1437988385042-0"); });
+</script>
+</div></div>
+		</aside>
+<!-- WordPress Popular Posts Plugin v3.3.3 [W] [monthly] [views] [custom] -->
+<aside id="wpp-2" class="widget popular-posts">
+<h3>Popular This Week</h3>
+<ul class="popular_stories">
+<li>
+<a href="http://news.ugo.co.ug/shocking-pictures-kampala-girls-partying/" title="Shocking Pictures Of Kampala Girls Partying" target="_self"><img src="http://news.ugo.co.ug/wp-content/uploads/wordpress-popular-posts/27018-featured-50x50.jpg" width=50 height=50 title="Shocking Pictures Of Kampala Girls Partying" alt="Shocking Pictures Of Kampala Girls Partying" class="wpp-thumbnail wpp_cached_thumb wpp_featured" /></a> <a href="http://news.ugo.co.ug/shocking-pictures-kampala-girls-partying/" title="Shocking Pictures Of Kampala Girls Partying" class="wpp-post-title" target="_self">Shocking Pictures Of Kampala Girls Partying</a><br/> <span class="wpp-views">3,582 views</span> | <span class="wpp-date">posted on November 18, 2013</span>
+</li>
+<li>
+<a href="http://news.ugo.co.ug/see-what-donald-trump-will-do-to-museveni-when-he-becomes-us-president/" title="See What Donald Trump Will Do To Museveni When He Becomes US President" target="_self"><img src="http://news.ugo.co.ug/wp-content/uploads/wordpress-popular-posts/70402-featured-50x50.jpg" width=50 height=50 title="See What Donald Trump Will Do To Museveni When He Becomes US President" alt="See What Donald Trump Will Do To Museveni When He Becomes US President" class="wpp-thumbnail wpp_cached_thumb wpp_featured" /></a> <a href="http://news.ugo.co.ug/see-what-donald-trump-will-do-to-museveni-when-he-becomes-us-president/" title="See What Donald Trump Will Do To Museveni When He Becomes US President" class="wpp-post-title" target="_self">See What Donald Trump Will Do To Museveni When He Becomes US President</a><br/> <span class="wpp-views">1,230 views</span> | <span class="wpp-date">posted on January 2, 2016</span>
+</li>
+<li>
+<a href="http://news.ugo.co.ug/embokos-master-blaster-shot-dead/" title="Emboko&#8217;s Master Blaster Shot Dead" target="_self"><img src="http://news.ugo.co.ug/wp-content/uploads/wordpress-popular-posts/70291-featured-50x50.png" width=50 height=50 title="Emboko&#8217;s Master Blaster Shot Dead" alt="Emboko&#8217;s Master Blaster Shot Dead" class="wpp-thumbnail wpp_cached_thumb wpp_featured" /></a> <a href="http://news.ugo.co.ug/embokos-master-blaster-shot-dead/" title="Emboko&#8217;s Master Blaster Shot Dead" class="wpp-post-title" target="_self">Emboko&#8217;s Master Blaster Shot Dead</a><br/> <span class="wpp-views">1,145 views</span> | <span class="wpp-date">posted on December 29, 2015</span>
+</li>
+<li>
+<a href="http://news.ugo.co.ug/leaked-nude-pic-desire-luzinda-tells-hacker-photoshop-face-cant-get-body/" title="Leaked Nude Pic: Desire Luzinda Tells &#8216;Hacker&#8217; To Photoshop The Face If He Can&#8217;t Get Her Body" target="_self"><img src="http://news.ugo.co.ug/wp-content/uploads/wordpress-popular-posts/41005-featured-50x50.png" width=50 height=50 title="Leaked Nude Pic: Desire Luzinda Tells &#8216;Hacker&#8217; To Photoshop The Face If He Can&#8217;t Get Her Body" alt="Leaked Nude Pic: Desire Luzinda Tells &#8216;Hacker&#8217; To Photoshop The Face If He Can&#8217;t Get Her Body" class="wpp-thumbnail wpp_cached_thumb wpp_featured" /></a> <a href="http://news.ugo.co.ug/leaked-nude-pic-desire-luzinda-tells-hacker-photoshop-face-cant-get-body/" title="Leaked Nude Pic: Desire Luzinda Tells &#8216;Hacker&#8217; To Photoshop The Face If He Can&#8217;t Get Her Body" class="wpp-post-title" target="_self">Leaked Nude Pic: Desire Luzinda Tells &#8216;Hacker&#8217; To Photoshop The Face If He Can&#8217;t Get Her Body</a><br/> <span class="wpp-views">852 views</span> | <span class="wpp-date">posted on September 2, 2014</span>
+</li>
+<li>
+<a href="http://news.ugo.co.ug/sk-mbugas-wife-speaks-leila-kayondo-stole-husband/" title="SK Mbuga&#8217;s Wife Speaks Out On How Leila Kayondo Stole Her Husband" target="_self"><img src="http://news.ugo.co.ug/wp-content/uploads/wordpress-popular-posts/33540-featured-50x50.png" width=50 height=50 title="SK Mbuga&#8217;s Wife Speaks Out On How Leila Kayondo Stole Her Husband" alt="SK Mbuga&#8217;s Wife Speaks Out On How Leila Kayondo Stole Her Husband" class="wpp-thumbnail wpp_cached_thumb wpp_featured" /></a> <a href="http://news.ugo.co.ug/sk-mbugas-wife-speaks-leila-kayondo-stole-husband/" title="SK Mbuga&#8217;s Wife Speaks Out On How Leila Kayondo Stole Her Husband" class="wpp-post-title" target="_self">SK Mbuga&#8217;s Wife Speaks Out On How Leila Kayondo Stole Her Husband</a><br/> <span class="wpp-views">627 views</span> | <span class="wpp-date">posted on March 27, 2014</span>
+</li>
+<li>
+<a href="http://news.ugo.co.ug/russian-laboratory-invents-a-way-to-remove-the-black-skin-layer-off-black-people/" title="Russian Laboratory Invents A Way To Remove The Black Skin Layer Off Black People" target="_self"><img src="http://news.ugo.co.ug/wp-content/uploads/wordpress-popular-posts/59604-featured-50x50.jpg" width=50 height=50 title="Russian Laboratory Invents A Way To Remove The Black Skin Layer Off Black People" alt="Russian Laboratory Invents A Way To Remove The Black Skin Layer Off Black People" class="wpp-thumbnail wpp_cached_thumb wpp_featured" /></a> <a href="http://news.ugo.co.ug/russian-laboratory-invents-a-way-to-remove-the-black-skin-layer-off-black-people/" title="Russian Laboratory Invents A Way To Remove The Black Skin Layer Off Black People" class="wpp-post-title" target="_self">Russian Laboratory Invents A Way To Remove The Black Skin Layer Off Black People</a><br/> <span class="wpp-views">616 views</span> | <span class="wpp-date">posted on August 8, 2015</span>
+</li>
+<li>
+<a href="http://news.ugo.co.ug/police-seeks-bobi-wines-help-as-hunt-for-dinkas-intensifies-over-master-blasters-death/" title="Police Seeks Bobi Wine&#8217;s Help As Hunt For Dinkas Intensifies Over Master Blaster&#8217;s Death" target="_self"><img src="http://news.ugo.co.ug/wp-content/uploads/wordpress-popular-posts/70356-featured-50x50.png" width=50 height=50 title="Police Seeks Bobi Wine&#8217;s Help As Hunt For Dinkas Intensifies Over Master Blaster&#8217;s Death" alt="Police Seeks Bobi Wine&#8217;s Help As Hunt For Dinkas Intensifies Over Master Blaster&#8217;s Death" class="wpp-thumbnail wpp_cached_thumb wpp_featured" /></a> <a href="http://news.ugo.co.ug/police-seeks-bobi-wines-help-as-hunt-for-dinkas-intensifies-over-master-blasters-death/" title="Police Seeks Bobi Wine&#8217;s Help As Hunt For Dinkas Intensifies Over Master Blaster&#8217;s Death" class="wpp-post-title" target="_self">Police Seeks Bobi Wine&#8217;s Help As Hunt For Dinkas Intensifies Over Master Blaster&#8217;s Death</a><br/> <span class="wpp-views">512 views</span> | <span class="wpp-date">posted on December 31, 2015</span>
+</li>
+
+</ul>
+</aside>
+<!-- End WordPress Popular Posts Plugin v3.3.3 -->
+<aside id="text-23" class="widget widget_text">			<div class="textwidget"><!-- /19353156/Medium_Ad4 -->
+<div id='div-gpt-ad-1446795701706-0' style='height:250px; width:300px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1446795701706-0'); });
+</script>
+</div></div>
+		</aside><aside id="text-12" class="widget widget_text">			<div class="textwidget"><!-- Medium_Ad_2 -->
+<div id='div-gpt-ad-1392279628968-0' style='width:300px; height:250px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1392279628968-0'); });
+</script>
+</div></div>
+		</aside><aside id="super_rss_reader-2" class="widget widget_super_rss_reader"><h3>Blogs</h3>
+
+		<!-- Start - Super RSS Reader v2.5-->
+		<div class="super-rss-reader-widget">
+<ul class="srr-tab-wrap srr-tab-style-none srr-clearfix"><li data-tab="srr-tab-851">UGO Blogs</li><li data-tab="srr-tab-919"> PC Tech Magazine</li><li data-tab="srr-tab-593"> Simon Kaheru</li><li data-tab="srr-tab-927"> Rosebell Kagumire</li></ul><div class="srr-wrap srr-vticker srr-style-none" data-visible="5" data-speed="2000" data-id="srr-tab-851" ><div>
+
+	<div class="srr-item odd"><div class="srr-title"><a href="http://blogs.ugo.co.ug/2016/01/3839/" target="_blank" title="Posted on 21 January 2016">Here Are Some Health Benefits Of Donating Blood</a></div><div class="srr-meta"></div><p class="srr-summary srr-clearfix">In one way or the other we have found ourselves, our friends or our loved ones in need of blood tran <a href="http://blogs.ugo.co.ug/2016/01/3839/" title="Read more" target="_blank">...</a></p></div>
+
+	<div class="srr-item even"><div class="srr-title"><a href="http://blogs.ugo.co.ug/2016/01/3830/" target="_blank" title="Posted on 21 January 2016">Foods You Should Eat To Stay Fresh And Young</a></div><div class="srr-meta"></div><p class="srr-summary srr-clearfix">Hey, you look too old and yet you’re still younger; there could be a problem with the food you are e <a href="http://blogs.ugo.co.ug/2016/01/3830/" title="Read more" target="_blank">...</a></p></div>
+
+	<div class="srr-item odd"><div class="srr-title"><a href="http://blogs.ugo.co.ug/2016/01/3827/" target="_blank" title="Posted on 21 January 2016">Biggest Challenges Facing Online Start Ups In Uganda</a></div><div class="srr-meta"></div><p class="srr-summary srr-clearfix">Ugandans have always been enterprising people and have never been terrified to start their own busin <a href="http://blogs.ugo.co.ug/2016/01/3827/" title="Read more" target="_blank">...</a></p></div>
+
+</div>
+		</div> 
+
+<div class="srr-wrap srr-vticker srr-style-none" data-visible="5" data-speed="2000" data-id="srr-tab-919" ><div>
+
+	<div class="srr-item odd"><div class="srr-title"><a href="http://pctechmag.com/2016/01/youtube-gets-super-bowl-50-ads-weeks-before-the-main-event/" target="_blank" title="Posted on 21 January 2016">Youtube gets super bowl 50 Ads weeks before the main event</a></div><div class="srr-meta"></div><p class="srr-summary srr-clearfix">Super Bowl ads are an event unto themselves. Brands now spend millions both on producing their game  <a href="http://pctechmag.com/2016/01/youtube-gets-super-bowl-50-ads-weeks-before-the-main-event/" title="Read more" target="_blank">...</a></p></div>
+
+	<div class="srr-item even"><div class="srr-title"><a href="http://pctechmag.com/2016/01/this-search-engine-shows-how-vulnerable-the-internet-of-things-is/" target="_blank" title="Posted on 21 January 2016">This search engine shows how vulnerable the Internet of Things is</a></div><div class="srr-meta"></div><p class="srr-summary srr-clearfix">If you’re planning to trick out your home with connected devices so you can do things like unlock do <a href="http://pctechmag.com/2016/01/this-search-engine-shows-how-vulnerable-the-internet-of-things-is/" title="Read more" target="_blank">...</a></p></div>
+
+	<div class="srr-item odd"><div class="srr-title"><a href="http://pctechmag.com/2016/01/spotify-buys-music-social-network-apps-soundwave-cord-project/" target="_blank" title="Posted on 21 January 2016">Spotify Buys Music Social Network Apps Soundwave, Cord Project</a></div><div class="srr-meta"></div><p class="srr-summary srr-clearfix">Spotify Ltd. is stepping up the competition against Apple Music and major European rivals Deezer and <a href="http://pctechmag.com/2016/01/spotify-buys-music-social-network-apps-soundwave-cord-project/" title="Read more" target="_blank">...</a></p></div>
+
+</div>
+		</div> 
+
+<div class="srr-wrap srr-vticker srr-style-none" data-visible="5" data-speed="2000" data-id="srr-tab-593" ><div>
+
+	<div class="srr-item odd"><div class="srr-title"><a href="http://skaheru.com/2016/01/21/all-hail-the-queen-of-katwe/" target="_blank" title="Posted on 21 January 2016">all hail the queen of Katwe</a></div><div class="srr-meta"></div><p class="srr-summary srr-clearfix">IF you don’t know Frozen, you either have no children, no TV, a very low media appetite, or all of t <a href="http://skaheru.com/2016/01/21/all-hail-the-queen-of-katwe/" title="Read more" target="_blank">...</a></p></div>
+
+	<div class="srr-item even"><div class="srr-title"><a href="http://skaheru.com/2016/01/20/out-of-the-way-things-to-do-in-2016/" target="_blank" title="Posted on 20 January 2016">out of the way things to do in 2016</a></div><div class="srr-meta"></div><p class="srr-summary srr-clearfix">I’VE just read Davis Kawalya’s blog post ‘Where Is Our Self-Esteem?‘ and made a snap decision to ado <a href="http://skaheru.com/2016/01/20/out-of-the-way-things-to-do-in-2016/" title="Read more" target="_blank">...</a></p></div>
+
+	<div class="srr-item odd"><div class="srr-title"><a href="http://skaheru.com/2016/01/16/information-is-power-especially-in-economics/" target="_blank" title="Posted on 16 January 2016">information is power – especially in economics</a></div><div class="srr-meta"></div><p class="srr-summary srr-clearfix">IN BIGGER economies reports should start circulating at around this time with details of the Christm <a href="http://skaheru.com/2016/01/16/information-is-power-especially-in-economics/" title="Read more" target="_blank">...</a></p></div>
+
+</div>
+		</div> 
+
+<div class="srr-wrap srr-vticker srr-style-none" data-visible="5" data-speed="2000" data-id="srr-tab-927" ><div>
+
+	<div class="srr-item odd"><div class="srr-title"><a href="http://rosebellkagumire.com/2015/12/01/what-least-developed-countries-ldcs-want-from-paris-climate-conference/" target="_blank" title="Posted on 1 December 2015">What Least Developed Countries (LDCs) want from Paris Climate Conference</a></div><div class="srr-meta"></div><p class="srr-summary srr-clearfix"><img src="http://ugandajournalist.files.wordpress.com/2015/12/malidrought_0.jpg?w=150" alt="What Least Developed Countries (LDCs) want from Paris Climate Conference" class="srr-thumb" align="left"/>The Bandiagara plateau in Central Mali has been hit by repeated droughts. Climate change is making t <a href="http://rosebellkagumire.com/2015/12/01/what-least-developed-countries-ldcs-want-from-paris-climate-conference/" title="Read more" target="_blank">...</a></p></div>
+
+	<div class="srr-item even"><div class="srr-title"><a href="http://rosebellkagumire.com/2015/10/29/africa-needs-a-clear-political-strategy-to-get-a-better-deal-out-of-paris-climate-talks/" target="_blank" title="Posted on 29 October 2015">Africa needs a clear political strategy to get a better deal out of Paris Climate Talks</a></div><div class="srr-meta"></div><p class="srr-summary srr-clearfix"><img src="http://ugandajournalist.files.wordpress.com/2015/10/3k1a4621-1.jpg?w=150" alt="Africa needs a clear political strategy to get a better deal out of Paris Climate Talks" class="srr-thumb" align="left"/>Plenary session at ccda-v by Photo by IISD/ENB Between November 30 – December 11, the 21st session o <a href="http://rosebellkagumire.com/2015/10/29/africa-needs-a-clear-political-strategy-to-get-a-better-deal-out-of-paris-climate-talks/" title="Read more" target="_blank">...</a></p></div>
+
+	<div class="srr-item odd"><div class="srr-title"><a href="http://rosebellkagumire.com/2015/10/12/police-brutality-and-violence-against-women-ahead-of-2016-uganda-elections/" target="_blank" title="Posted on 12 October 2015">Police Brutality and Violence against Women ahead of  2016 Uganda Elections</a></div><div class="srr-meta"></div><p class="srr-summary srr-clearfix">Horrified like most Ugandans by Police actions against opposition politicians, I join concerned Ugan <a href="http://rosebellkagumire.com/2015/10/12/police-brutality-and-violence-against-women-ahead-of-2016-uganda-elections/" title="Read more" target="_blank">...</a></p></div>
+
+</div>
+		</div> 
+
+
+</div>
+		<!-- End - Super RSS Reader -->
+		
+</aside><aside id="text-9" class="widget widget_text">			<div class="textwidget"><!-- Small_Ads -->
+<div id='div-gpt-ad-1393943309921-0' style='width:300px; height:120px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1393943309921-0'); });
+</script>
+</div></div>
+		</aside><aside id="text-10" class="widget widget_text">			<div class="textwidget"><!-- /19353156/Medium_Ads -->
+<div id='div-gpt-ad-1437990340563-0' style='height:250px; width:300px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1437990340563-0'); });
+</script>
+</div></div>
+		</aside></div><!-- /sidebar -->
+			</div><!-- /main -->
+<div class="right_ad_space"></div>
+</div><!-- /container -->
+</div><footer id="colophon" role="contentinfo">	<div class="footer_wrap">		
+<div class="footer_logo"><img src="http://news.ugo.co.ug/wp-content/themes/wt_eris/images/libilinks.png" alt="Libilinks" /></div>		<div class="copyright"> Copyright &copy 2013, Libilinks Ltd. All Rights Reserved. </div>		
+<ul class="footer_menu">
+	<li><a href="http://news.ugo.co.ug/">Home</a></li>
+	<li><a href="http://ugo.co.ug/about-us/">About Us</a></li>
+	<li><a href="http://ugo.co.ug/privacy-policy/">Privacy Policy</a></li>
+	<li><a href="http://ugo.co.ug/advertising/">Advertising</a></li>
+	<li><a href="http://ugo.co.ug/services/">Services</a></li>
+	<li><a href="http://directory.ugo.co.ug/">Directory</a></li>		
+</ul>	
+</div></footer><!-- #colophon --><div class="fblbCenterOuter fblbCenterOuterFb  fblbLeft" style=" left: -241px;z-index: 1000;">
+	<div class="fblbCenterInner">
+		<div class="fblbWrap fblbTheme0 fblbTab9">
+			<div class="fblbForm" style="background: ##3b599; height: 450px; width: 240px; padding: 1px 1px 1px 0;">
+				<h2 class="fblbHead" style="top: 0px; left: 241px;">Facebook</h2>
+				<div id="fblbInnerFb" class="fblbInner fblbInnerLoading" style="height: 450px; background-color: #ffffff;">
+					<div class="fb-root" id="fb-root"></div>
+					<div class="fb-like-box"  data-colorscheme="light"  data-border-color="##3b599" data-href="http://www.facebook.com/ugouganda" data-width="240" data-height="450" data-show-faces="true" data-stream="false" data-header="false"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<script>
+<!--
+var fblbFbLoaded=0;
+function fblb_FbLoad()
+{
+	if(fblbFbLoaded==1)
+	{
+		return true;
+	}
+	(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) {return;}
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));
+	fblbFbLoaded=1;
+	if ( jQuery.browser.msie ) {jQuery('#fblbInnerFb').removeClass('fblbInnerLoading');}
+}
+jQuery(document).ready(function(){	
+if ( !jQuery.browser.msie ) 
+{jQuery('.fb-like-box').bind('DOMNodeInserted', function(event) { 
+if(event.target.nodeName=='IFRAME'){
+jQuery('.fb-like-box iframe').load(function() 
+{jQuery('#fblbInnerFb').removeClass('fblbInnerLoading');
+jQuery('.fb-like-box').unbind('DOMNodeInserted');});
+}});}
+fblb_FbLoad();});
+-->
+</script><div class="fblbCenterOuter fblbCenterOuterTw  fblbLeft" style=" left: -241px;z-index: 1000;">
+	<div class="fblbCenterInner">
+		<div class="fblbWrap fblbTheme0 fblbTab9">
+			<div class="fblbForm" style="background: #33ccff; height: 450px; width: 240px; padding: 1px 1px 1px 0;">
+				<h2 class="fblbHead" style="top: 37px; left: 241px;">Twitter</h2>
+				<div id="fblbInnerTw" class="fblbInner fblbInnerLoading" style="height: 450px;">
+					<script src="//widgets.twimg.com/j/2/widget.js"></script>
+					<div id="fblbTww"></div>
+										<div class="fblbFollowTw">
+						<a href="https://twitter.com/ugouganda" class="twitter-follow-button" data-width="130px" data-show-count="false" data-lang="en">Follow ugouganda</a>
+					</div>
+									</div>
+			</div>
+		</div>
+	</div>
+</div>
+<script>
+<!--
+var fblbTwLoaded=0;
+function fblb_TwLoad()
+{
+	if(fblbTwLoaded==1)
+	{
+		return true;
+	}	
+	!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+	jQuery('.fblbFollowTw').show();
+	new TWTR.Widget({
+		id:	'fblbTww',
+		version: 2,
+		type: 'profile',
+		rpp: 50,
+		interval: 5000,
+		width: 240,
+		height: 358,
+		theme: {
+			shell: {
+				background: '#33ccff',
+				color: '#ffffff'
+			},
+			tweets: {
+				background: '#ffffff',
+				color: '#000000',
+				links: '#47a61e'
+			}
+		},
+		features: {
+			loop: true,
+			live: true,
+			scrollbar: true,
+			avatars: true,
+			behavior: 'default'				  
+		}
+	}).render().setUser('ugouganda').start();
+   jQuery('#fblbInnerTw').removeClass('fblbInnerLoading');
+   fblbTwLoaded=1;
+}
+jQuery(document).ready(function(){	
+jQuery('.fblbFollowTw').hide();
+fblb_TwLoad();});
+-->
+</script><div class="fblbCenterOuter fblbCenterOuterGp  fblbLeft" style=" left: -241px;z-index: 1000;">
+	<div class="fblbCenterInner">
+		<div class="fblbWrap fblbTheme0 fblbTab9">
+			<div class="fblbForm" style="background: #a8291b; height: 450px; width: 240px; padding: 1px 1px 1px 0;">
+				<h2 class="fblbHead" style="top: 74px; left: 241px;">Google Plus</h2>
+				<div class="fblbInner" style="background: #ffffff; height: 450px;">
+										<div id="fblbGpBadge" class="fblbInnerLoading" style="overflow: hidden; height: 131px;">
+						<link href="https://plus.google.com/103499586808564944273" rel="publisher" />
+						<div class="g-plus" data-href="https://plus.google.com/103499586808564944273" data-size="badge"></div>
+					</div>
+										<div style="overflow-y: auto; overflow-x: hidden; height: 319px;">
+						<ul id="fblbGpList" class="fblbList" style="height: 319px">
+												</ul>
+					</div>
+									</div>
+			</div>
+		</div>
+	</div>
+</div>
+<script>
+<!--
+var fblbGpLoaded=0;
+function fblb_GpLoad()
+{
+	if(fblbGpLoaded==1)
+	{
+		return true;
+	}
+	window.___gcfg = {lang: 'en-US'};
+	(function() 
+	{var po = document.createElement("script");
+	po.type = "text/javascript"; po.async = true;po.src = "https://apis.google.com/js/plusone.js";
+	var s = document.getElementsByTagName("script")[0];
+	s.parentNode.insertBefore(po, s);
+	jQuery('#fblbGpBadge').removeClass('fblbInnerLoading');
+	fblbGpLoaded=1;
+	})();
+}
+jQuery(document).ready(function(){	
+	 jQuery('#fblbGpList').lionbars();
+fblb_GpLoad();});
+-->
+</script><script type='text/javascript' src='http://news.ugo.co.ug/wp-includes/js/comment-reply.min.js?ver=fb5c76571abb2dc7e2a06df2b10937f7'></script>
+<script type='text/javascript' src='http://news.ugo.co.ug/wp-includes/js/wp-embed.min.js?ver=fb5c76571abb2dc7e2a06df2b10937f7'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var embedVars = {"disqusConfig":{"platform":"wordpress@4.4.1","language":"","remote_auth_s3":"W10= 11ff9f3b9e2b67824f92499aea714c99e2a5d426 1453434432","api_key":"ybt6paLSxUTDbeNKtMe49GQDzbepX6DPq5WRFXYvgdcExIy2uh53ZzRmM5Ygbk9j","sso":{"name":"UGO News","button":false,"url":"http:\/\/news.ugo.co.ug\/wp-login.php","logout":"http:\/\/news.ugo.co.ug\/wp-login.php?action=logout","width":"800","height":"700"}},"disqusIdentifier":"69758 http:\/\/news.ugo.co.ug\/?p=69758","disqusShortname":"ugouganda","disqusTitle":"Five Reasons To Never Visit Rwanda","disqusUrl":"http:\/\/news.ugo.co.ug\/five-reasons-to-never-visit-rwanda\/","options":{"manualSync":false},"postId":"69758"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://news.ugo.co.ug/wp-content/plugins/disqus-comment-system/media/js/disqus.js?ver=fb5c76571abb2dc7e2a06df2b10937f7'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"ugouganda"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://news.ugo.co.ug/wp-content/plugins/disqus-comment-system/media/js/count.js?ver=fb5c76571abb2dc7e2a06df2b10937f7'></script>
+
+0
+
+
+
+WARC/1.0
+WARC-Type: metadata
+WARC-Record-ID: <urn:uuid:5797ccef-13c4-4a56-b56a-d3e3f5c0837a>
+WARC-Warcinfo-ID: <urn:uuid:ac635b42-d0f1-4aaa-966e-6914b3ae5b2c>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/MANIFEST.txt
+WARC-Date: 2016-01-22T03:47:19Z
+Content-Type: text/plain
+Content-Length: 48
+
+<urn:uuid:ac635b42-d0f1-4aaa-966e-6914b3ae5b2c>
+
+
+WARC/1.0
+WARC-Type: resource
+WARC-Record-ID: <urn:uuid:c35d0779-6359-4f63-8ad5-a3a54df77db7>
+WARC-Warcinfo-ID: <urn:uuid:ac635b42-d0f1-4aaa-966e-6914b3ae5b2c>
+WARC-Concurrent-To: <urn:uuid:5797ccef-13c4-4a56-b56a-d3e3f5c0837a>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/wget_arguments.txt
+WARC-Date: 2016-01-22T03:47:19Z
+Content-Type: text/plain
+Content-Length: 199
+
+"--warc-file" "five-reasons-to-never-visit-rwanda" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "-q" "-O" "/dev/null" "http://news.ugo.co.ug/five-reasons-to-never-visit-rwanda/" 
+
+

@@ -1,0 +1,1518 @@
+WARC/1.0
+WARC-Type: warcinfo
+Content-Type: application/warc-fields
+WARC-Date: 2016-01-22T00:45:21Z
+WARC-Record-ID: <urn:uuid:5875671b-d3c1-4867-92b6-12af6124f706>
+WARC-Filename: delays-issuing-oil-production-licenses-adversely-affecting-ura-collections.warc
+Content-Length: 484
+
+software: Wget/1.13.4-2608 (linux-gnu)
+format: WARC File Format 1.0
+conformsTo: http://bibnum.bnf.fr/WARC/WARC_ISO_28500_version1_latestdraft.pdf
+robots: classic
+wget-arguments: "--warc-file" "delays-issuing-oil-production-licenses-adversely-affecting-ura-collections" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "-q" "-O" "/dev/null" "http://ntv.co.ug/news/business/21/jan/2016/delays-issuing-oil-production-licenses-adversely-affecting-ura-collections" 
+
+
+
+WARC/1.0
+WARC-Type: request
+WARC-Target-URI: http://ntv.co.ug/news/business/21/jan/2016/delays-issuing-oil-production-licenses-adversely-affecting-ura-collections
+Content-Type: application/http;msgtype=request
+WARC-Date: 2016-01-22T00:45:21Z
+WARC-Record-ID: <urn:uuid:4f951d36-fe24-4a25-aad3-014d285965ee>
+WARC-IP-Address: 205.186.138.91
+WARC-Warcinfo-ID: <urn:uuid:5875671b-d3c1-4867-92b6-12af6124f706>
+Content-Length: 214
+
+GET /news/business/21/jan/2016/delays-issuing-oil-production-licenses-adversely-affecting-ura-collections HTTP/1.1
+User-Agent: Wget/1.13.4-2608 (linux-gnu)
+Accept: */*
+Host: ntv.co.ug
+Connection: Keep-Alive
+
+
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <urn:uuid:fba60663-a31a-4957-8f9d-d132e5c5c7c2>
+WARC-Warcinfo-ID: <urn:uuid:5875671b-d3c1-4867-92b6-12af6124f706>
+WARC-Concurrent-To: <urn:uuid:4f951d36-fe24-4a25-aad3-014d285965ee>
+WARC-Target-URI: http://ntv.co.ug/news/business/21/jan/2016/delays-issuing-oil-production-licenses-adversely-affecting-ura-collections
+WARC-Date: 2016-01-22T00:45:21Z
+WARC-IP-Address: 205.186.138.91
+Content-Type: application/http;msgtype=response
+Content-Length: 79482
+
+HTTP/1.1 200 OK
+Date: Fri, 22 Jan 2016 00:45:21 GMT
+Server: Apache
+X-Drupal-Cache: HIT
+Etag: "1453423456-0"
+Content-Language: en
+X-Generator: Drupal 7 (http://drupal.org)
+Link: <http://ntv.co.ug/sites/default/files/video_embed_field_thumbnails/youtube/Q7ynkOSljNc.jpg>; rel="image_src",<http://ntv.co.ug/news/business/21/jan/2016/delays-issuing-oil-production-licenses-adversely-affecting-ura-collections>; rel="canonical",<http://ntv.co.ug/node/10839>; rel="shortlink",<http://ntv.co.ug/favicon.ico>; rel="shortcut icon"
+Cache-Control: public, max-age=1800
+Last-Modified: Fri, 22 Jan 2016 00:44:16 GMT
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Vary: Cookie,User-Agent,Accept-Encoding
+X-Powered-By: PleskLin
+Connection: keep-alive, close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+
+13339
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:fb="http://ogp.me/ns/fb#"
+  itemscope itemtype="http://schema.org/Article">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="The Uganda Revenue Authority says that the current state of affairs within the country’s oil and gas sector is negatively impacting Pay As You Earn and the Value Added Tax remittances." />
+<meta name="abstract" content="The Uganda Revenue Authority says that the current state of affairs within the country’s oil and gas sector is negatively impacting Pay As You Earn and the Value Added Tax remittances." />
+<meta name="keywords" content="NTV, NTV Uganda, News, ,," />
+<meta name="robots" content="follow, index" />
+<meta name="news_keywords" content="NTV, NTV Uganda, News, ,," />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="image_src" href="http://ntv.co.ug/sites/default/files/video_embed_field_thumbnails/youtube/Q7ynkOSljNc.jpg" />
+<link rel="canonical" href="http://ntv.co.ug/news/business/21/jan/2016/delays-issuing-oil-production-licenses-adversely-affecting-ura-collections" />
+<link rel="shortlink" href="http://ntv.co.ug/node/10839" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="Delays in issuing oil production licenses adversely affecting URA collections" />
+<meta name="twitter:title" content="Delays in issuing oil production licenses adversely affecting URA collections" />
+<meta name="twitter:description" content="The Uganda Revenue Authority says that the current state of affairs within the country’s oil and gas sector is negatively impacting Pay As You Earn and the Value Added Tax remittances. Prior to the current hold back on the issuance of the key production licenses, the major players CNOOC, Tullow and TOTAL are believed to have invested a record $2.5 billion in exploration activities within the economy over the years." />
+<meta itemprop="name" content="Delays in issuing oil production licenses adversely affecting URA collections" />
+<meta itemprop="description" content="The Uganda Revenue Authority says that the current state of affairs within the country’s oil and gas sector is negatively impacting Pay As You Earn and the Value Added Tax remittances. Prior to the current hold back on the issuance of the key production licenses, the major players CNOOC, Tullow and TOTAL are believed to have invested a record $2.5 billion in exploration activities within the economy over the years." />
+<meta name="dcterms.title" content="Delays in issuing oil production licenses adversely affecting URA collections" />
+<meta name="dcterms.creator" content="Julian Mwine" />
+<meta name="dcterms.description" content="The Uganda Revenue Authority says that the current state of affairs within the country’s oil and gas sector is negatively impacting Pay As You Earn and the Value Added Tax remittances. Prior to the current hold back on the issuance of the key production licenses, the major players CNOOC, Tullow and TOTAL are believed to have invested a record $2.5 billion in exploration activities within the economy over the years." />
+<meta name="dcterms.date" content="2016-01-21T10:56+03:00" />
+<meta name="dcterms.type" content="Text" />
+<meta name="dcterms.format" content="text/html" />
+<meta name="dcterms.identifier" content="http://ntv.co.ug/news/business/21/jan/2016/delays-issuing-oil-production-licenses-adversely-affecting-ura-collections" />
+<meta name="dcterms.language" content="und" />
+<link rel="shortcut icon" href="http://ntv.co.ug/favicon.ico" type="image/ico" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Delays in issuing oil production licenses adversely affecting URA collections | NTV</title>
+<link type="text/css" rel="stylesheet" href="http://ntv.co.ug/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://ntv.co.ug/sites/default/files/css/css_vZ_wrMQ9Og-YPPxa1q4us3N7DsZMJa-14jShHgRoRNo.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="http://ntv.co.ug/sites/default/files/css/css_RqmENY-vtfVM0s6gBb-OInGamca8H38oKTG0-cAu4JU.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://ntv.co.ug/sites/default/files/css/css_nvlZajeH03_Qyewc0CPR70PKaM-T2qRatRNeg9yr4Iw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://ntv.co.ug/sites/default/files/css/css_Nx6cMtc-TFDRWLBzY2MS1-FBWEJOVV4SYxKwK5SYCQk.css" media="all" />
+<script type="text/javascript" src="http://ntv.co.ug/sites/all/modules/jquery_update/replace/jquery/1.8/jquery.min.js?v=1.8.3"></script>
+<script type="text/javascript" src="http://ntv.co.ug/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://ntv.co.ug/misc/drupal.js?o1b62y"></script>
+<script type="text/javascript" src="http://ntv.co.ug/sites/all/modules/jquery_update/replace/ui/external/jquery.cookie.js?v=67fb34f6a866c40d0570"></script>
+<script type="text/javascript" src="http://ntv.co.ug/sites/all/modules/jquery_update/replace/misc/jquery.form.min.js?v=2.69"></script>
+<script type="text/javascript" src="http://ntv.co.ug/sites/all/modules/views_slideshow/js/views_slideshow.js?v=1.0"></script>
+<script type="text/javascript" src="http://ntv.co.ug/misc/ajax.js?v=7.41"></script>
+<script type="text/javascript" src="http://ntv.co.ug/sites/all/modules/jquery_update/js/jquery_update.js?v=0.0.1"></script>
+<script type="text/javascript" src="http://ntv.co.ug/sites/all/modules/admin_menu/admin_devel/admin_devel.js?o1b62y"></script>
+<script type="text/javascript" src="http://ntv.co.ug/misc/progress.js?o1b62y"></script>
+<script type="text/javascript" src="http://ntv.co.ug/sites/all/modules/views/js/base.js?o1b62y"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var switchTo5x = false;var __st_loadLate = true;
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+if (stLight !== undefined) { stLight.options({"publisher":"dr-9ca752a7-9310-3325-1301-9e5712f95914","version":"4x","doNotCopy":false,"hashAddressBar":true,"doNotHash":false,"newOrZero":"zero"}); }
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://ntv.co.ug/sites/all/modules/views_autorefresh/views_autorefresh.js?o1b62y"></script>
+<script type="text/javascript" src="http://ntv.co.ug/sites/all/modules/disqus/disqus.js?o1b62y"></script>
+<script type="text/javascript" src="http://ntv.co.ug/sites/all/libraries/jquery.cycle/jquery.cycle.all.min.js?o1b62y"></script>
+<script type="text/javascript" src="http://ntv.co.ug/sites/all/modules/views_slideshow/contrib/views_slideshow_cycle/js/views_slideshow_cycle.js?o1b62y"></script>
+<script type="text/javascript" src="http://ntv.co.ug/sites/all/modules/views/js/ajax_view.js?o1b62y"></script>
+<script type="text/javascript" src="http://ntv.co.ug/sites/all/modules/views_load_more/views_load_more.js?o1b62y"></script>
+<script type="text/javascript" src="http://ntv.co.ug/sites/all/modules/quicktabs/js/quicktabs.js?o1b62y"></script>
+<script type="text/javascript" src="http://ntv.co.ug/sites/all/libraries/superfish/jquery.hoverIntent.minified.js?o1b62y"></script>
+<script type="text/javascript" src="http://ntv.co.ug/sites/all/libraries/superfish/supposition.js?o1b62y"></script>
+<script type="text/javascript" src="http://ntv.co.ug/sites/all/libraries/superfish/superfish.js?o1b62y"></script>
+<script type="text/javascript" src="http://ntv.co.ug/sites/all/libraries/superfish/supersubs.js?o1b62y"></script>
+<script type="text/javascript" src="http://ntv.co.ug/sites/all/modules/superfish/superfish.js?o1b62y"></script>
+<script type="text/javascript" src="http://ntv.co.ug/sites/all/themes/thementv/js/vendor/modernizr-2.6.2-respond-1.1.0.min.js?o1b62y"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"thementv","theme_token":"HW9orhIV9tATr88iBRRZIwtYOH5cihZvjgbMOX_vJrQ","jquery_version":"1.8","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"sites\/all\/modules\/views_slideshow\/js\/views_slideshow.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"misc\/progress.js":1,"sites\/all\/modules\/views\/js\/base.js":1,"0":1,"http:\/\/w.sharethis.com\/button\/buttons.js":1,"1":1,"sites\/all\/modules\/views_autorefresh\/views_autorefresh.js":1,"sites\/all\/modules\/disqus\/disqus.js":1,"sites\/all\/libraries\/jquery.cycle\/jquery.cycle.all.min.js":1,"sites\/all\/modules\/views_slideshow\/contrib\/views_slideshow_cycle\/js\/views_slideshow_cycle.js":1,"sites\/all\/modules\/views\/js\/ajax_view.js":1,"sites\/all\/modules\/views_load_more\/views_load_more.js":1,"sites\/all\/modules\/quicktabs\/js\/quicktabs.js":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/supposition.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/modules\/superfish\/superfish.js":1,"sites\/all\/themes\/thementv\/js\/vendor\/modernizr-2.6.2-respond-1.1.0.min.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/views_slideshow\/views_slideshow.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/panels\/plugins\/layouts\/twocol\/twocol.css":1,"sites\/all\/modules\/flippy\/flippy.css":1,"sites\/all\/modules\/views_slideshow\/contrib\/views_slideshow_cycle\/views_slideshow_cycle.css":1,"sites\/all\/modules\/quicktabs\/css\/quicktabs.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/themes\/thementv\/css\/bootstrap.min.css":1,"sites\/all\/themes\/thementv\/css\/animate.css":1,"sites\/all\/themes\/thementv\/css\/jquery.mCustomScrollbar.css":1,"sites\/all\/themes\/thementv\/css\/font-awesome\/css\/font-awesome.min.css":1,"sites\/all\/themes\/thementv\/css\/main.css":1,"sites\/all\/themes\/thementv\/css\/header\/h1.css":1,"sites\/all\/themes\/thementv\/css\/responsive.css":1,"sites\/all\/themes\/thementv\/css\/color1.css":1,"sites\/all\/themes\/thementv\/css\/thementv.css":1}},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:c3c4c68878da41aae2dceb7545cf615c":{"view_name":"news_stories","view_display_id":"block_9","view_args":"10839","view_path":"node\/10839","view_base_path":null,"view_dom_id":"c3c4c68878da41aae2dceb7545cf615c","pager_element":0},"views_dom_id:f487cb343ca9713455fdd2e31f85e889":{"view_name":"news_stories","view_display_id":"block_1","view_args":"10839","view_path":"node\/10839","view_base_path":null,"view_dom_id":"f487cb343ca9713455fdd2e31f85e889","pager_element":0},"views_dom_id:b27a5f6a67ddb3ef8b66c3ca9b4c4fd1":{"view_name":"live_blog","view_display_id":"block","view_args":"10839","view_path":"node\/10839","view_base_path":null,"view_dom_id":"b27a5f6a67ddb3ef8b66c3ca9b4c4fd1","pager_element":0},"views_dom_id:7c40b57bb329648533828ccb723f1a09":{"view_name":"news_stories","view_display_id":"block_3","view_args":"2\/10839","view_path":"node\/10839","view_base_path":null,"view_dom_id":"7c40b57bb329648533828ccb723f1a09","pager_element":0},"views_dom_id:331889a41117ffce35be2e0f3c205a19":{"view_name":"news_stories","view_display_id":"block_6","view_args":"","view_path":"node\/10839","view_base_path":null,"view_dom_id":"331889a41117ffce35be2e0f3c205a19","pager_element":0}}},"views_autorefresh":{"live_blog-block":{"interval":"300000","ping":null,"incremental":null,"nodejs":false,"timestamp":1453423457}},"disqus":{"domain":"NTVUganda","url":"http:\/\/www.ntv.co.ug\/news\/business\/21\/jan\/2016\/delays-issuing-oil-production-licenses-adversely-affecting-ura-collections","title":"Delays in issuing oil production licenses adversely affecting URA collections","identifier":"node\/10839"},"viewsSlideshow":{"nodequeue_1-block":{"methods":{"goToSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"nextSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"pause":["viewsSlideshowControls","viewsSlideshowCycle"],"play":["viewsSlideshowControls","viewsSlideshowCycle"],"previousSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"transitionBegin":["viewsSlideshowPager","viewsSlideshowSlideCounter"],"transitionEnd":[]},"paused":0}},"viewsSlideshowCycle":{"#views_slideshow_cycle_main_nodequeue_1-block":{"num_divs":5,"id_prefix":"#views_slideshow_cycle_main_","div_prefix":"#views_slideshow_cycle_div_","vss_id":"nodequeue_1-block","effect":"scrollVert","transition_advanced":0,"timeout":5000,"speed":700,"delay":0,"sync":1,"random":0,"pause":1,"pause_on_click":0,"action_advanced":0,"start_paused":0,"remember_slide":0,"remember_slide_days":1,"pause_in_middle":0,"pause_when_hidden":0,"pause_when_hidden_type":"full","amount_allowed_visible":"","nowrap":0,"fixed_height":1,"items_per_slide":1,"wait_for_image_load":1,"wait_for_image_load_timeout":3000,"cleartype":0,"cleartypenobg":0,"advanced_options":"{}"}},"urlIsAjaxTrusted":{"\/news\/business\/21\/jan\/2016\/delays-issuing-oil-production-licenses-adversely-affecting-ura-collections":true},"superfish":{"1":{"id":"1","sf":{"animation":{"opacity":"show"},"speed":"\u0027fast\u0027","autoArrows":false,"dropShadows":false,"disableHI":false},"plugins":{"supposition":true,"bgiframe":false,"supersubs":{"minWidth":"12","maxWidth":"27","extraWidth":1}}}},"quicktabs":{"qt_popular_content":{"name":"popular_content","tabs":[{"vid":"news_stories","display":"block_6","args":"","view_path":"node%2F10839","view_dom_id":1,"ajax_args":"","actual_args":[]}],"viewsSlideshowCycle":{"#views_slideshow_cycle_main_nodequeue_1-block":{"num_divs":5,"id_prefix":"#views_slideshow_cycle_main_","div_prefix":"#views_slideshow_cycle_div_","vss_id":"nodequeue_1-block","effect":"scrollVert","transition_advanced":0,"timeout":5000,"speed":700,"delay":0,"sync":1,"random":0,"pause":1,"pause_on_click":0,"action_advanced":0,"start_paused":0,"remember_slide":0,"remember_slide_days":1,"pause_in_middle":0,"pause_when_hidden":0,"pause_when_hidden_type":"full","amount_allowed_visible":"","nowrap":0,"fixed_height":1,"items_per_slide":1,"wait_for_image_load":1,"wait_for_image_load_timeout":3000,"cleartype":0,"cleartypenobg":0,"advanced_options":"{}"}}}}});
+//--><!]]>
+</script>
+<!-- Web Fonts -->
+<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+      <script type="text/javascript" src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script type="text/javascript" src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-35341027-7', 'auto');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+
+</script>
+
+<!-- DFP -->
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+
+<!-- DFP End -->
+
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-10839 node-type-article panels-one-three with-skin-width" >
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-M444Z5"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-M444Z5');</script>
+<!-- End Google Tag Manager -->
+
+<!--[if lt IE 7]>
+    <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+    <![endif]--> 
+<!--
+
+    Scroll to the top
+
+   
+<div id="to-the-top"><i class="fa fa-chevron-up"></i></div> //-->
+<!--
+
+    NTV mobile menu start
+
+    //--> 
+<i class="glyphicon glyphicon-align-justify" id="ntv-mobile-menu-btn"></i>
+<div class="ntv-mobile-menu" id="ntv-mobile-menu">
+  <h3>menu</h3>
+  <nav>
+      <div class="region region-responsivemenu">
+    <div id="block-system-main-menu" class="block block-system block-menu">
+  <div class="block-inner">
+            
+    <div class="content">
+      <ul class="menu"><li class="first expanded menu-474"><a href="/news" class="menu-474">News</a><ul class="menu"><li class="first leaf menu-486"><a href="/news/business" title="Business Category (NTV News)" class="menu-486">Business</a></li>
+<li class="leaf menu-484"><a href="/news/crime" title="Crime Category (NTV News)" class="menu-484">Crime</a></li>
+<li class="leaf menu-487"><a href="/news/lifestyle" title="Health, Entertainment, Gossip etc Lifestyle Category (NTV News)" class="menu-487">Lifestyle</a></li>
+<li class="leaf menu-488"><a href="/news/local" title="Local Category (NTV News)" class="menu-488">Local</a></li>
+<li class="leaf menu-483"><a href="/news/politics" title="Politics Category (NTV News)" class="menu-483">Politics</a></li>
+<li class="leaf menu-490"><a href="/news/science-technology" title="Science and Technology Category (NTV News)" class="menu-490">Science &amp; Technology</a></li>
+<li class="last leaf menu-489"><a href="/news/sports" title="Sports Category (NTV News)" class="menu-489">Sports</a></li>
+</ul></li>
+<li class="expanded menu-439"><a href="/shows" class="menu-439">Shows</a><ul class="menu"><li class="first expanded menu-493"><a href="/shows/productions" class="menu-493">NTV Productions</a><ul class="menu"><li class="first leaf menu-531"><a href="/productions/fourth-estate" title="Fourth Estate" class="menu-531">Fourth Estate</a></li>
+<li class="leaf menu-718"><a href="/productions/gxp-live" class="menu-718">GXP Live</a></li>
+<li class="leaf menu-720"><a href="/productions/kitchen-delight" class="menu-720">Kitchen Delight</a></li>
+<li class="leaf menu-721"><a href="/productions/koona-ne-ntv" class="menu-721">Koona Ne NTV</a></li>
+<li class="leaf menu-722"><a href="/productions/life-stories" class="menu-722">Life Stories</a></li>
+<li class="leaf menu-533"><a href="/productions/login" class="menu-533">Log In</a></li>
+<li class="leaf menu-568"><a href="/productions/men" title="Men" class="menu-568">Men</a></li>
+<li class="leaf menu-955"><a href="/productions/money-matters" class="menu-955">Money Matters</a></li>
+<li class="leaf menu-569"><a href="/productions/morning-ntv" class="menu-569">Morning at NTV</a></li>
+<li class="leaf menu-570"><a href="/productions/omumuli" class="menu-570">Omumuli</a></li>
+<li class="leaf menu-571"><a href="/productions/on-the-spot" class="menu-571">On the Spot</a></li>
+<li class="leaf menu-723"><a href="/productions/planet-k" class="menu-723">Planet K</a></li>
+<li class="leaf menu-724"><a href="/productions/simply-learn" class="menu-724">Simply Learn</a></li>
+<li class="leaf menu-572"><a href="/productions/sports-bar" class="menu-572">Sports Bar</a></li>
+<li class="leaf menu-575"><a href="/productions/beat" class="menu-575">The Beat</a></li>
+<li class="leaf menu-576"><a href="/productions/tuwaye" class="menu-576">Tuwaye</a></li>
+<li class="last leaf menu-725"><a href="/productions/xpozed" class="menu-725">Xpozed</a></li>
+</ul></li>
+<li class="expanded menu-492"><a href="/shows/news-features" class="menu-492">News Features</a><ul class="menu"><li class="first leaf menu-577"><a href="/news-features/akawungeezi" class="menu-577">Akawungeezi</a></li>
+<li class="leaf menu-578"><a href="/news-features/news-night" class="menu-578">News Night</a></li>
+<li class="leaf menu-579"><a href="/news-features/ntv-tonight" class="menu-579">NTV Tonight</a></li>
+<li class="leaf menu-580"><a href="/news-features/point-blank" class="menu-580">Point Blank</a></li>
+<li class="last leaf menu-581"><a href="/news-features/zungulu" class="menu-581">Zungulu</a></li>
+</ul></li>
+<li class="leaf menu-496"><a href="/shows/other-shows" class="menu-496">Other Shows</a></li>
+<li class="last leaf menu-1305"><a href="/shows/comedy-skits" class="menu-1305">Comedy Skits</a></li>
+</ul></li>
+<li class="leaf menu-494"><a href="/tv-schedule" class="menu-494">TV Schedule</a></li>
+<li class="leaf menu-510"><a href="http://nreport.ntv.co.ug/" title="Check out the NTV&#039;s News Correspondence Portal, The nReport" target="_blank" class="menu-510">NReport</a></li>
+<li class="leaf menu-536"><a href="/videos" class="menu-536">Videos</a></li>
+<li class="leaf menu-1261"><a href="/photo-gallery" class="menu-1261">Photos</a></li>
+<li class="expanded menu-559"><a href="/about" class="menu-559">About</a><ul class="menu"><li class="first leaf menu-538"><a href="/about/presenters" class="menu-538">Presenters</a></li>
+<li class="leaf menu-540"><a href="/about/who-we-are" class="menu-540">Who We Are</a></li>
+<li class="leaf menu-539"><a href="/about/advertising" class="menu-539">Advertising</a></li>
+<li class="leaf menu-541"><a href="/contact" title="Contact Information" class="menu-541">Contact Us</a></li>
+<li class="leaf menu-584"><a href="/about/blogs" title="Blogs Posts/Thoughts from various people" class="menu-584">Blogs</a></li>
+<li class="leaf menu-583"><a href="/about/csr" class="menu-583">CSR</a></li>
+<li class="last collapsed menu-1090"><a href="/about/ntv-mobile-applications" class="menu-1090">NTV Mobile</a></li>
+</ul></li>
+<li class="last leaf menu-509"><a href="/live" class="menu-509">Watch Live</a></li>
+</ul>    </div>
+  </div>
+</div>
+
+  </div>
+    <!--
+
+                Mobile Menu end
+
+                //--> 
+  </nav>
+  
+  <!--
+
+    NTV mobile menu end
+
+    //--> 
+</div>
+<!--
+
+    NTV mobile Search & More Info start
+
+    //--> 
+<i class="glyphicon glyphicon-search" id="ntv-mobile-cart-btn"></i>
+<div class="ntv-mobile-menu" id="ntv-mobile-cart">
+  <h3>Mobile Search</h3>
+  <div class="ntv-mobile-cart-list">
+      <div class="region region-search">
+    <div id="block-search-form" class="block block-search">
+  <div class="block-inner">
+            
+    <div class="content">
+      <form action="/news/business/21/jan/2016/delays-issuing-oil-production-licenses-adversely-affecting-ura-collections" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-U08JzurkA1P2JWOaBIAPfizweCKZ-wnNXCpscK6AuJY" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>    </div>
+  </div>
+</div>
+
+  </div>
+  </div>
+  <!--
+
+    NTV mobile shopping cart end
+
+    //--> 
+</div>
+<!--
+
+    NTV header start
+
+    //-->
+<header class="ntv-header ntv-header-1"> 
+  <!--
+
+      Top Empty bar 
+
+      //-->
+  <div class="topspace"><div class="container" style="padding:15px 0px;"></div></div>
+  <!--
+
+      Top bar start
+
+      //-->
+  <div class="ntv-top-bar">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <div class="tick-wrap"> 
+          <!--
+
+              Ticker Information
+
+              //-->
+          <div class="ticker">
+              <div class="region region-ticker">
+    <div id="block-views-nodequeue-1-block" class="block block-views">
+  <div class="block-inner">
+            
+    <div class="content">
+      <div class="view view-nodequeue-1 view-id-nodequeue_1 view-display-id-block view-dom-id-1d7e9e59ff36f09a61c9289a1225324f">
+        
+  
+  
+      <div class="view-content">
+      
+  <div class="skin-default">
+    
+    <div id="views_slideshow_cycle_main_nodequeue_1-block" class="views_slideshow_cycle_main views_slideshow_main"><div id="views_slideshow_cycle_teaser_section_nodequeue_1-block" class="views-slideshow-cycle-main-frame views_slideshow_cycle_teaser_section">
+  <div id="views_slideshow_cycle_div_nodequeue_1-block_0" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-1 views-row-odd">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd views-row-first">
+    
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/news/politics/21/jan/2016/besigye-promises-institute-inquiry-andrew-kayiiras-death-10836"><p><i class="fa fa-chevron-circle-right"></i>  Besigye promises to institute inquiry into Andrew Kayiira&#039;s death</p></a></span>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_nodequeue_1-block_1" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-2 views_slideshow_cycle_hidden views-row-even">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-1 views-row-even">
+    
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/news/politics/20/jan/2016/new-poll-gives-museveni-51-lead-if-election-was-held-today-10827"><p><i class="fa fa-chevron-circle-right"></i>  New poll gives Museveni 51% lead if election was held today</p></a></span>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_nodequeue_1-block_2" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-3 views_slideshow_cycle_hidden views-row-odd">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-2 views-row-odd">
+    
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/news/politics/20/jan/2016/presidential-debate-candidates-facts-and-figures-do-not-hold-scrutiny"><p><i class="fa fa-chevron-circle-right"></i>  Presidential debate: Candidates&#039; facts and figures do not hold up to scrutiny</p></a></span>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_nodequeue_1-block_3" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-4 views_slideshow_cycle_hidden views-row-even">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-3 views-row-even">
+    
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/news/politics/20/jan/2016/presidential-debate-organizers-getting-set-second-round-10822"><p><i class="fa fa-chevron-circle-right"></i>  Presidential debate organizers getting set for second round</p></a></span>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_nodequeue_1-block_4" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-5 views_slideshow_cycle_hidden views-row-odd">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-4 views-row-odd views-row-last">
+    
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/news/politics/19/jan/2016/ec-launches-biometric-voter-verification-system-10814"><p><i class="fa fa-chevron-circle-right"></i>  EC launches biometric voter verification system</p></a></span>  </div></div>
+</div>
+</div>
+</div>
+      </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  </div>
+</div>
+
+  </div>
+          </div>
+          <!--
+
+              Ticker Information end
+
+              //--> 
+          <!--
+
+              Search start
+
+              //-->
+          <div class="shopping-cart"> <span><i class="fa fa-search"></i></span>
+            <div class="cart" style="display: none;">
+              <!--<p class="title">Search NTV</p>-->
+              <div class="cart-entry" id="topbarcart">
+                  <div class="region region-search">
+      <div class="region region-search">
+    <div id="block-search-form" class="block block-search">
+  <div class="block-inner">
+            
+    <div class="content">
+      <form action="/news/business/21/jan/2016/delays-issuing-oil-production-licenses-adversely-affecting-ura-collections" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-U08JzurkA1P2JWOaBIAPfizweCKZ-wnNXCpscK6AuJY" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>    </div>
+  </div>
+</div>
+
+  </div>
+  </div>
+              </div>
+            </div>
+            <!--
+
+              Shopping cart end
+
+              //--> 
+          </div>
+          <!--
+
+              Social Buttons start
+
+              //-->
+          <ul class="social-btns">
+		<li><a href="/about/ntv-mobile-applications"><i class="fa fa-android"></i></a></li>
+            <li><a target="_blank" href="http://www.facebook.com/ntvuganda"><i class="fa fa-facebook"></i></a></li>
+            <li><a target="_blank" href="http://www.twitter.com/ntvuganda"><i class="fa fa-twitter"></i></a></li>
+            <li><a target="_blank" href="https://www.youtube.com/user/ntvuganda"><i class="fa fa-youtube"></i></a></li>
+            <li><a target="_blank" href="https://plus.google.com/+ntvuganda"><i class="fa fa-google-plus"></i></a></li>
+            <li><a href="/rss.xml"><i class="fa fa-rss"></i></a></li>
+            <!--
+
+              Social Buttons end
+
+              //-->
+          </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--
+
+      Top bar end
+
+      //--> 
+  </div>
+  <!--
+
+      Logo & Menu start
+
+      //-->
+  <div class="ntv-header-bg" id="ntv-header-menu">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 wrap">
+          <div class="ntv-relative"> 
+            <!--
+                Site Logo start
+                //--> 
+                           			 <a href="/" title="Home" class="logo"> <div class="ntv-logo"> <img src="http://ntv.co.ug/sites/default/files/NTV-Logo-Small.png" alt="Home" /></div> </a>
+            	              <!--
+                Site Logo end
+                //--> 
+
+            <!--
+                Desktop Menu start
+                //-->
+            <nav>
+                <div class="region region-mainmenu">
+    <div id="block-superfish-1" class="block block-superfish">
+  <div class="block-inner">
+            
+    <div class="content">
+      <ul id="superfish-1" class="menu sf-menu sf-main-menu sf-horizontal sf-style-none sf-total-items-8 sf-parent-items-3 sf-single-items-5"><li id="menu-474-1" class="first odd sf-item-1 sf-depth-1 sf-total-children-7 sf-parent-children-0 sf-single-children-7 menuparent"><a href="/news" class="sf-depth-1 menuparent">News</a><ul><li id="menu-486-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/news/business" title="Business Category (NTV News)" class="sf-depth-2">Business</a></li><li id="menu-484-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/news/crime" title="Crime Category (NTV News)" class="sf-depth-2">Crime</a></li><li id="menu-487-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/news/lifestyle" title="Health, Entertainment, Gossip etc Lifestyle Category (NTV News)" class="sf-depth-2">Lifestyle</a></li><li id="menu-488-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/news/local" title="Local Category (NTV News)" class="sf-depth-2">Local</a></li><li id="menu-483-1" class="middle odd sf-item-5 sf-depth-2 sf-no-children"><a href="/news/politics" title="Politics Category (NTV News)" class="sf-depth-2">Politics</a></li><li id="menu-490-1" class="middle even sf-item-6 sf-depth-2 sf-no-children"><a href="/news/science-technology" title="Science and Technology Category (NTV News)" class="sf-depth-2">Science &amp; Technology</a></li><li id="menu-489-1" class="last odd sf-item-7 sf-depth-2 sf-no-children"><a href="/news/sports" title="Sports Category (NTV News)" class="sf-depth-2">Sports</a></li></ul></li><li id="menu-439-1" class="middle even sf-item-2 sf-depth-1 sf-total-children-4 sf-parent-children-2 sf-single-children-2 menuparent"><a href="/shows" class="sf-depth-1 menuparent">Shows</a><ul class="sf-megamenu"><li class="sf-megamenu-wrapper middle even sf-item-2 sf-depth-1 sf-total-children-4 sf-parent-children-2 sf-single-children-2 menuparent"><ol><li id="menu-493-1" class="first odd sf-item-1 sf-depth-2 sf-total-children-17 sf-parent-children-0 sf-single-children-17 sf-megamenu-column menuparent"><div class="sf-megamenu-column"><a href="/shows/productions" class="sf-depth-2 menuparent">NTV Productions</a><ol><li id="menu-531-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/productions/fourth-estate" title="Fourth Estate" class="sf-depth-3">Fourth Estate</a></li><li id="menu-718-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/productions/gxp-live" class="sf-depth-3">GXP Live</a></li><li id="menu-720-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/productions/kitchen-delight" class="sf-depth-3">Kitchen Delight</a></li><li id="menu-721-1" class="middle even sf-item-4 sf-depth-3 sf-no-children"><a href="/productions/koona-ne-ntv" class="sf-depth-3">Koona Ne NTV</a></li><li id="menu-722-1" class="middle odd sf-item-5 sf-depth-3 sf-no-children"><a href="/productions/life-stories" class="sf-depth-3">Life Stories</a></li><li id="menu-533-1" class="middle even sf-item-6 sf-depth-3 sf-no-children"><a href="/productions/login" class="sf-depth-3">Log In</a></li><li id="menu-568-1" class="middle odd sf-item-7 sf-depth-3 sf-no-children"><a href="/productions/men" title="Men" class="sf-depth-3">Men</a></li><li id="menu-955-1" class="middle even sf-item-8 sf-depth-3 sf-no-children"><a href="/productions/money-matters" class="sf-depth-3">Money Matters</a></li><li id="menu-569-1" class="middle odd sf-item-9 sf-depth-3 sf-no-children"><a href="/productions/morning-ntv" class="sf-depth-3">Morning at NTV</a></li><li id="menu-570-1" class="middle even sf-item-10 sf-depth-3 sf-no-children"><a href="/productions/omumuli" class="sf-depth-3">Omumuli</a></li><li id="menu-571-1" class="middle odd sf-item-11 sf-depth-3 sf-no-children"><a href="/productions/on-the-spot" class="sf-depth-3">On the Spot</a></li><li id="menu-723-1" class="middle even sf-item-12 sf-depth-3 sf-no-children"><a href="/productions/planet-k" class="sf-depth-3">Planet K</a></li><li id="menu-724-1" class="middle odd sf-item-13 sf-depth-3 sf-no-children"><a href="/productions/simply-learn" class="sf-depth-3">Simply Learn</a></li><li id="menu-572-1" class="middle even sf-item-14 sf-depth-3 sf-no-children"><a href="/productions/sports-bar" class="sf-depth-3">Sports Bar</a></li><li id="menu-575-1" class="middle odd sf-item-15 sf-depth-3 sf-no-children"><a href="/productions/beat" class="sf-depth-3">The Beat</a></li><li id="menu-576-1" class="middle even sf-item-16 sf-depth-3 sf-no-children"><a href="/productions/tuwaye" class="sf-depth-3">Tuwaye</a></li><li id="menu-725-1" class="last odd sf-item-17 sf-depth-3 sf-no-children"><a href="/productions/xpozed" class="sf-depth-3">Xpozed</a></li></ol></div></li><li id="menu-492-1" class="middle even sf-item-2 sf-depth-2 sf-total-children-5 sf-parent-children-0 sf-single-children-5 sf-megamenu-column menuparent"><div class="sf-megamenu-column"><a href="/shows/news-features" class="sf-depth-2 menuparent">News Features</a><ol><li id="menu-577-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/news-features/akawungeezi" class="sf-depth-3">Akawungeezi</a></li><li id="menu-578-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/news-features/news-night" class="sf-depth-3">News Night</a></li><li id="menu-579-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/news-features/ntv-tonight" class="sf-depth-3">NTV Tonight</a></li><li id="menu-580-1" class="middle even sf-item-4 sf-depth-3 sf-no-children"><a href="/news-features/point-blank" class="sf-depth-3">Point Blank</a></li><li id="menu-581-1" class="last odd sf-item-5 sf-depth-3 sf-no-children"><a href="/news-features/zungulu" class="sf-depth-3">Zungulu</a></li></ol></div></li><li id="menu-496-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/shows/other-shows" class="sf-depth-2">Other Shows</a></li><li id="menu-1305-1" class="last even sf-item-4 sf-depth-2 sf-no-children"><a href="/shows/comedy-skits" class="sf-depth-2">Comedy Skits</a></li></ol></li></ul></li><li id="menu-494-1" class="middle odd sf-item-3 sf-depth-1 sf-no-children"><a href="/tv-schedule" class="sf-depth-1">TV Schedule</a></li><li id="menu-510-1" class="middle even sf-item-4 sf-depth-1 sf-no-children"><a href="http://nreport.ntv.co.ug/" title="Check out the NTV&#039;s News Correspondence Portal, The nReport" target="_blank" class="sf-depth-1">NReport</a></li><li id="menu-536-1" class="middle odd sf-item-5 sf-depth-1 sf-no-children"><a href="/videos" class="sf-depth-1">Videos</a></li><li id="menu-1261-1" class="middle even sf-item-6 sf-depth-1 sf-no-children"><a href="/photo-gallery" class="sf-depth-1">Photos</a></li><li id="menu-559-1" class="middle odd sf-item-7 sf-depth-1 sf-total-children-7 sf-parent-children-1 sf-single-children-6 menuparent"><a href="/about" class="sf-depth-1 menuparent">About</a><ul><li id="menu-538-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/about/presenters" class="sf-depth-2">Presenters</a></li><li id="menu-540-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/about/who-we-are" class="sf-depth-2">Who We Are</a></li><li id="menu-539-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/about/advertising" class="sf-depth-2">Advertising</a></li><li id="menu-541-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/contact" title="Contact Information" class="sf-depth-2">Contact Us</a></li><li id="menu-584-1" class="middle odd sf-item-5 sf-depth-2 sf-no-children"><a href="/about/blogs" title="Blogs Posts/Thoughts from various people" class="sf-depth-2">Blogs</a></li><li id="menu-583-1" class="middle even sf-item-6 sf-depth-2 sf-no-children"><a href="/about/csr" class="sf-depth-2">CSR</a></li><li id="menu-1090-1" class="last odd sf-item-7 sf-depth-2 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="/about/ntv-mobile-applications" class="sf-depth-2 menuparent">NTV Mobile</a><ul><li id="menu-1089-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/ntv-mobile/ntv-mobi" class="sf-depth-3">NTV Mobi</a></li><li id="menu-1507-1" class="last even sf-item-2 sf-depth-3 sf-no-children"><a href="/ntv-mobile/ntv-go" class="sf-depth-3">NTV Go</a></li></ul></li></ul></li><li id="menu-509-1" class="last even sf-item-8 sf-depth-1 sf-no-children"><a href="/live" class="sf-depth-1">Watch Live</a></li></ul>    </div>
+  </div>
+</div>
+
+  </div>
+              <!--
+                Desktop Menu end
+                //--> 
+            </nav>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--
+
+      Logo & Menu end
+
+      //--> 
+  </div>
+  <!--
+
+    NTV header end
+
+    //--> 
+  <!--
+
+    NTV header end
+
+    //--> 
+</header>
+<!--
+
+    All site content start
+
+    //-->
+<div class="ntv-content"> 
+  
+<!-- Breaking News Notification Slot -->
+
+
+<!-- End Breaking News Notification Slot -->
+<!--
+
+    LayerSlider start
+
+    //-->
+      <section class="ntv-section ntv-home-slider ntv-top-adspot ntv-section-align-center">
+  	<div class="container">   <div class="region region-topad-position">
+    <div id="block-block-26" class="block block-block">
+  <div class="block-inner">
+            
+    <div class="content">
+      <script type='text/javascript'>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/63246411/NTVPublish_news_leaderboardtop', [970, 90], 'div-gpt-ad-1438017156564-1').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+<!-- /63246411/NTVPublish_news_leaderboardtop -->
+<div id='div-gpt-ad-1438017156564-1' style='height:90px; width:970px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1438017156564-1'); });
+</script>
+</div>
+    </div>
+  </div>
+</div>
+
+  </div>
+ </div>
+    <!--
+
+    LayerSlider end
+
+    //--> 
+  </section>
+    <!--
+
+    BreadCrumb trail
+
+    //--> 
+        <section class="ntv-desktop-breadscrubs">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-12">
+              <div class="ntv-desktop-breadscrubs-inner">
+              <h2 class="element-invisible">You are here</h2><div class="breadcrumb"><span class="inline odd first"><a href="/">Home</a></span> <span class="delimiter">»</span> <span class="inline even"><a href="/news">News</a></span> <span class="delimiter">»</span> <span class="inline odd"><a href="http://ntv.co.ug/news/business">Business</a></span> <span class="delimiter">»</span> <span class="inline even last">Delays in issuing oil production licenses adversely affecting URA collections</span></div>              </div>
+            </div>
+          </div>
+        </div>
+      <!--
+
+      Desktop breadscrubs end
+
+      //-->
+      </section>
+          <!--
+
+    BreadCrumb trail END & MObile Breadcrumb Start
+
+    //-->
+        <section class="ntv-mobile-breadscrubs">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-12">
+            	<h2 class="element-invisible">You are here</h2><div class="breadcrumb"><span class="inline odd first"><a href="/">Home</a></span> <span class="delimiter">»</span> <span class="inline even"><a href="/news">News</a></span> <span class="delimiter">»</span> <span class="inline odd"><a href="http://ntv.co.ug/news/business">Business</a></span> <span class="delimiter">»</span> <span class="inline even last">Delays in issuing oil production licenses adversely affecting URA collections</span></div>            </div>
+          </div>
+        </div>
+        
+      <!--
+
+      Mobile breadscrubs end
+
+      //-->
+      </section>
+	      <!--
+
+    Page Title 
+
+    //--> 
+          <!--
+
+      Page Title end
+
+      //-->
+      </section>
+    <!--
+
+    Page Title END
+
+    //-->
+  <div class="container">
+    <div class="row"> 
+      <!--
+
+          Main Content start
+
+          //-->
+      <div class="col-lg-9 col-md-9">
+      	<div class="rowss"> 
+			                                      <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+  <div class="block-inner">
+            
+    <div class="content">
+      <div class="panel-display panel-2col clearfix" id="node-smart-view">
+  <div class="panel-panel panel-col-first">
+    <div class="inside"><div class="panel-pane pane-views pane-news-stories hidden-xs hidden-sm"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="view view-news-stories view-id-news_stories view-display-id-block_9 view-dom-id-c3c4c68878da41aae2dceb7545cf615c">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-presenter-picture">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-field-presenter">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-field-presenter-position">        <div class="field-content"></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-views pane-news-stories"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="view view-news-stories view-id-news_stories view-display-id-block_1 meta view-dom-id-f487cb343ca9713455fdd2e31f85e889">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-created">    <span class="views-label views-label-created">Added: </span>    <span class="field-content"><em class="placeholder">16 hours 47 min</em> ago</span>  </div>  
+  <div class="views-field views-field-totalcount">        <span class="field-content">181 Views</span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-node-terms hidden-xs hidden-sm"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="item-list"><ul><li class="first last"><a href="/news/business" rel="tag" title="">Business</a></li>
+</ul></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-node-terms hidden-xs hidden-sm"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="item-list"></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-entity-field-extra pane-node-sharethis"  >
+  
+        <h2 class="pane-title">
+      Share this story    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="sharethis-buttons"><div class="sharethis-wrapper"><span st_url="http://ntv.co.ug/news/business/21/jan/2016/delays-issuing-oil-production-licenses-adversely-affecting-ura-collections" st_title="Delays in issuing oil production licenses adversely affecting URA collections" class="st_facebook_large" displayText="facebook"></span>
+<span st_url="http://ntv.co.ug/news/business/21/jan/2016/delays-issuing-oil-production-licenses-adversely-affecting-ura-collections" st_title="Delays in issuing oil production licenses adversely affecting URA collections NTVUganda" class="st_twitter_large" st_via="NTVUganda" st_username="NTVUganda" displayText="twitter"></span>
+<span st_url="http://ntv.co.ug/news/business/21/jan/2016/delays-issuing-oil-production-licenses-adversely-affecting-ura-collections" st_title="Delays in issuing oil production licenses adversely affecting URA collections" class="st_linkedin_large" displayText="linkedin"></span>
+<span st_url="http://ntv.co.ug/news/business/21/jan/2016/delays-issuing-oil-production-licenses-adversely-affecting-ura-collections" st_title="Delays in issuing oil production licenses adversely affecting URA collections" class="st_whatsapp_large" displayText="whatsapp"></span>
+<span st_url="http://ntv.co.ug/news/business/21/jan/2016/delays-issuing-oil-production-licenses-adversely-affecting-ura-collections" st_title="Delays in issuing oil production licenses adversely affecting URA collections" class="st_sharethis_large" displayText="sharethis"></span>
+<span st_url="http://ntv.co.ug/news/business/21/jan/2016/delays-issuing-oil-production-licenses-adversely-affecting-ura-collections" st_title="Delays in issuing oil production licenses adversely affecting URA collections" class="st_plusone_large" displayText="plusone"></span>
+<span st_url="http://ntv.co.ug/news/business/21/jan/2016/delays-issuing-oil-production-licenses-adversely-affecting-ura-collections" st_title="Delays in issuing oil production licenses adversely affecting URA collections" class="st_fblike_large" displayText="fblike"></span>
+</div></div>
+  </div>
+
+  
+  </div>
+</div>
+  </div>
+
+  <div class="panel-panel panel-col-last">
+    <div class="inside"><div class="panel-pane pane-token pane-node-title"  >
+  
+      
+  
+  <div class="pane-content">
+    Delays in issuing oil production licenses adversely affecting URA collections  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-token pane-node-field-synopsis"  >
+  
+      
+  
+  <div class="pane-content">
+    The Uganda Revenue Authority says that the current state of affairs within the country’s oil and gas sector is negatively impacting Pay As You Earn and the Value Added Tax remittances.   </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-token pane-node-field-video"  >
+  
+      
+  
+  <div class="pane-content">
+    
+<div class="embedded-video">
+  <div class="player">
+    <iframe class="" width="640px" height="500px" src="//www.youtube.com/embed/Q7ynkOSljNc?width%3D640px%26amp%3Bheight%3D500px%26amp%3Btheme%3Dlight%26amp%3Bautoplay%3D0%26amp%3Bvq%3Dhd720%26amp%3Brel%3D0%26amp%3Bshowinfo%3D0%26amp%3Bmodestbranding%3D1%26amp%3Biv_load_policy%3D1%26amp%3Bcontrols%3D1%26amp%3Bautohide%3D1%26amp%3Bwmode%3Dopaque" frameborder="0" allowfullscreen></iframe>  </div>
+</div>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-token pane-node-body"  >
+  
+      
+  
+  <div class="pane-content">
+    <p>The Uganda Revenue Authority says that the current state of affairs within the country’s oil and gas sector is negatively impacting Pay As You Earn and the Value Added Tax remittances.</p>
+<p>Prior to the current hold back on the issuance of the key production licenses, the major players CNOOC, Tullow and TOTAL are believed to have invested a record $2.5 billion in exploration activities within the economy over the years.</p>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-custom pane-1"  >
+  
+      
+  
+  <div class="pane-content">
+    <h4 style="text-align: center;"><a href="#comment-section">What do you think of this Story? Skip to Comments</a></h4>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-flippy-flippy-pager-node-type-article"  >
+  
+      
+  
+  <div class="pane-content">
+    <ul class="flippy">
+          
+    <li class="prev">
+              <a href="/news/business/21/jan/2016/buganda-land-board-lease-access-financing-registers-success-tenants-10838" title="‹ Buganda Land Board lease access financing registers success with tenants ">‹ Buganda Land Board lease access financing registers success with tenants </a>          </li>
+          
+    <li class="next">
+              <a href="/news/akawungeezi/21/jan/2016/kampeyini-z%E2%80%99ebyobufuzi-nrm-yekyasinze-okusaasanya-sente-10842" title="Kampeyini z’ebyobufuzi: NRM yekyasinze okusaasanya sente ›">Kampeyini z’ebyobufuzi: NRM yekyasinze okusaasanya sente ›</a>          </li>
+  </ul>
+
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-node-links hidden-xs hidden-sm"  >
+  
+      
+  
+  <div class="pane-content">
+    <ul class="links inline"><li class="statistics_counter first last"><span>181 reads</span></li>
+</ul>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-views pane-news-stories"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="view view-news-stories view-id-news_stories view-display-id-block_3 list-mobile view-dom-id-7c40b57bb329648533828ccb723f1a09">
+            <div class="view-header">
+      <h3>Similar Stories</h3>
+    </div>
+  
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first col-lg-6 col-md-6 similar-stories">
+      
+  <div class="views-field views-field-nothing">        <span class="field-content"><div class="ntv-project-inner">
+<figure><a href="/news/business/21/jan/2016/buganda-land-board-lease-access-financing-registers-success-tenants-10838"><img typeof="foaf:Image" src="http://ntv.co.ug/sites/default/files/styles/video_thumbs_b/public/video_embed_field_thumbnails/youtube/Isljo-8m2Xw.jpg?itok=KcOolvgo" width="270" height="180" alt="" /></a>
+<figcaption><a href="/node/[nid]"><i class="fa fa-play-circle-o"></i></a></figcaption>
+</figure>
+<div class="ntv-project-details">
+<h4><a href="/news/business/21/jan/2016/buganda-land-board-lease-access-financing-registers-success-tenants-10838">Buganda Land Board lease access financing registers success with tenants </a></h4>
+<p>Posted 17 hours 16 min ago..</p>
+</div>
+</div></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even col-lg-6 col-md-6 similar-stories">
+      
+  <div class="views-field views-field-nothing">        <span class="field-content"><div class="ntv-project-inner">
+<figure><a href="/news/business/20/jan/2016/uia-admits-lacking-funds-fully-develop-namanve-industrial-park-10824"><img typeof="foaf:Image" src="http://ntv.co.ug/sites/default/files/styles/video_thumbs_b/public/video_embed_field_thumbnails/youtube/Pba_zbncHXg.jpg?itok=WO_pgOxv" width="270" height="180" alt="" /></a>
+<figcaption><a href="/node/[nid]"><i class="fa fa-play-circle-o"></i></a></figcaption>
+</figure>
+<div class="ntv-project-details">
+<h4><a href="/news/business/20/jan/2016/uia-admits-lacking-funds-fully-develop-namanve-industrial-park-10824">UIA admits lacking funds to fully develop Namanve industrial park</a></h4>
+<p>Posted 1 day 17 hours ago..</p>
+</div>
+</div></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd col-lg-6 col-md-6 similar-stories">
+      
+  <div class="views-field views-field-nothing">        <span class="field-content"><div class="ntv-project-inner">
+<figure><a href="/news/business/19/jan/2016/road-construction-costs-rise-after-3-year-low-10812"><img typeof="foaf:Image" src="http://ntv.co.ug/sites/default/files/styles/video_thumbs_b/public/video_embed_field_thumbnails/youtube/UKpVRCFLsaE.jpg?itok=UrWDasLD" width="270" height="180" alt="" /></a>
+<figcaption><a href="/node/[nid]"><i class="fa fa-play-circle-o"></i></a></figcaption>
+</figure>
+<div class="ntv-project-details">
+<h4><a href="/news/business/19/jan/2016/road-construction-costs-rise-after-3-year-low-10812">Road construction costs on the rise after 3 year low</a></h4>
+<p>Posted 2 days 17 hours ago..</p>
+</div>
+</div></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even views-row-last col-lg-6 col-md-6 similar-stories">
+      
+  <div class="views-field views-field-nothing">        <span class="field-content"><div class="ntv-project-inner">
+<figure><a href="/news/business/15/jan/2016/energy-ministry-defends-high-pump-prices-wake-record-drop-oil-prices-10754"><img typeof="foaf:Image" src="http://ntv.co.ug/sites/default/files/styles/video_thumbs_b/public/video_embed_field_thumbnails/youtube/E5VdeMksCkQ.jpg?itok=yUQjNcdB" width="270" height="180" alt="" /></a>
+<figcaption><a href="/node/[nid]"><i class="fa fa-play-circle-o"></i></a></figcaption>
+</figure>
+<div class="ntv-project-details">
+<h4><a href="/news/business/15/jan/2016/energy-ministry-defends-high-pump-prices-wake-record-drop-oil-prices-10754">Energy ministry defends high pump prices in wake of record drop in oil prices</a></h4>
+<p>Posted 6 days 17 hours ago..</p>
+</div>
+</div></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-custom pane-2"  >
+  
+      
+  
+  <div class="pane-content">
+    <h3><a id="comment-section" name="comment-section">What do you think of this story?</a></h3>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-disqus-disqus-comments"  >
+  
+      
+  
+  <div class="pane-content">
+    <div id="disqus_thread"><noscript><p><a href="http://NTVUganda.disqus.com/?url=http%3A%2F%2Fwww.ntv.co.ug%2Fnews%2Fbusiness%2F21%2Fjan%2F2016%2Fdelays-issuing-oil-production-licenses-adversely-affecting-ura-collections">View the discussion thread.</a></p></noscript></div>  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+    </div>
+  </div>
+</div>
+
+<div id="block-block-27" class="block block-block">
+  <div class="block-inner">
+            
+    <div class="content">
+      <script type='text/javascript'>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/63246411/NTVPublish_news_biz_belowbusinessstories', [728, 90], 'div-gpt-ad-1442480047736-2').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+<!-- /63246411/NTVPublish_news_biz_belowbusinessstories -->
+<div id='div-gpt-ad-1442480047736-2' style='height:90px; width:728px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1442480047736-2'); });
+</script>
+</div>    </div>
+  </div>
+</div>
+
+<div id="block-block-33" class="block block-block">
+  <div class="block-inner">
+            
+    <div class="content">
+      <script type='text/javascript'>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/63246411/NTVPublish_homepage_sky_left', [160, 600], 'div-gpt-ad-1438698269760-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+
+<!-- /63246411/NTVPublish_homepage_sky_left -->
+<div id='div-gpt-ad-1438698269760-0' style='height:600px; width:160px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1438698269760-0'); });
+</script>
+</div>    </div>
+  </div>
+</div>
+
+<div id="block-block-34" class="block block-block">
+  <div class="block-inner">
+            
+    <div class="content">
+      <script type='text/javascript'>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/63246411/NTVPublish_homepage_sky_right', [160, 600], 'div-gpt-ad-1438698189951-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+
+<!-- /63246411/NTVPublish_homepage_sky_right -->
+<div id='div-gpt-ad-1438698189951-0' style='height:600px; width:160px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1438698189951-0'); });
+</script>
+</div>    </div>
+  </div>
+</div>
+
+  </div>
+     
+        
+        <!--
+
+          Main Content end
+
+          //--> 
+      	</div>
+      </div>
+      <!--
+
+          Sidebar start
+
+          //-->
+      <div class="col-lg-3 col-md-3">
+        	  <div class="region region-sidebar">
+    <div id="block-block-28" class="block block-block">
+  <div class="block-inner">
+            
+    <div class="content">
+      <script type='text/javascript'>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/63246411/NTVPublish_news_rightsidebartop', [265, 146], 'div-gpt-ad-1438348943763-0').addService(googletag.pubads());
+    googletag.defineSlot('/63246411/NTVPublish_news_biz_rightsidebartop', [265, 146], 'div-gpt-ad-1438348943763-1').addService(googletag.pubads());
+    googletag.defineSlot('/63246411/NTVPublish_newsbizstory_rightsidebartop', [265, 146], 'div-gpt-ad-1438348943763-2').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+<!-- /63246411/NTVPublish_news_rightsidebartop -->
+<div id='div-gpt-ad-1438348943763-0' style='height:146px; width:265px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1438348943763-0'); });
+</script>
+</div>
+    </div>
+  </div>
+</div>
+
+<div id="block-quicktabs-popular-content" class="block block-quicktabs">
+  <div class="block-inner">
+            
+    <div class="content">
+      <div  id="quicktabs-popular_content" class="quicktabs-wrapper quicktabs-style-nostyle"><div class="item-list"><ul class="quicktabs-tabs quicktabs-style-nostyle"><li class="active first last"><a href="/news/business/21/jan/2016/delays-issuing-oil-production-licenses-adversely-affecting-ura-collections?qt-popular_content=0#qt-popular_content" id="quicktabs-tab-popular_content-0" class="active">Popular</a></li>
+</ul></div><div id="quicktabs-container-popular_content" class="quicktabs_main quicktabs-style-nostyle"><div  id="quicktabs-tabpage-popular_content-0" class="quicktabs-tabpage "><div class="view view-news-stories view-id-news_stories view-display-id-block_6 view-dom-id-331889a41117ffce35be2e0f3c205a19">
+        
+  
+  
+      <div class="view-content">
+      <div class="ntv-category-widget">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/news/politics/17/jan/2016/museveni-presidential-debate-was-school-boy-play-book-10795">Museveni: Presidential debate was school boy play book </a></span>  </div>  
+  <div class="views-field views-field-created">    <span class="views-label views-label-created">Posted: </span>    <span class="field-content">4 days 6 hours</span>  </div>  
+  <div class="views-field views-field-totalcount">        <span class="field-content">8888 Views</span>  </div></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/news/akawungeezi/17/jan/2016/museveni-ku-debate-ya-tv-ebyo-%E2%80%99amasomero-nze-nali-na-baloonzi-10790">Museveni ku debate ya TV : Ebyo by’amasomero , nze nali na baloonzi </a></span>  </div>  
+  <div class="views-field views-field-created">    <span class="views-label views-label-created">Posted: </span>    <span class="field-content">4 days 8 hours</span>  </div>  
+  <div class="views-field views-field-totalcount">        <span class="field-content">2275 Views</span>  </div></li>
+          <li class="views-row views-row-3 views-row-odd views-row-last">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/news/politics/18/jan/2016/mbabazi-explains-his-opposition-musevenis-5th-term-and-sole-candidature">Mbabazi explains his opposition to Museveni&#039;s 5th term and sole candidature project</a></span>  </div>  
+  <div class="views-field views-field-created">    <span class="views-label views-label-created">Posted: </span>    <span class="field-content">3 days 5 hours</span>  </div>  
+  <div class="views-field views-field-totalcount">        <span class="field-content">1855 Views</span>  </div></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div></div></div></div>    </div>
+  </div>
+</div>
+
+<div id="block-block-31" class="block block-block">
+  <div class="block-inner">
+            
+    <div class="content">
+      <script type='text/javascript'>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/63246411/NTVPublish_homepage_rightsidebarmiddle', [[275, 196], [275, 275]], 'div-gpt-ad-1431946592890-0').addService(googletag.pubads());
+    googletag.defineSlot('/63246411/NTVPublish_news_biz_rightsidesmallsquare', [272, 272], 'div-gpt-ad-1431946592890-1').addService(googletag.pubads());
+    googletag.defineSlot('/63246411/NTVPublish_newsbizstory_rightsidesmallsquare', [272, 272], 'div-gpt-ad-1431946592890-2').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+<!-- /63246411/NTVPublish_news_biz_rightsidesmallsquare -->
+<div id='div-gpt-ad-1431946592890-1' style='height:150px; width:272px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1431946592890-1'); });
+</script>
+</div>    </div>
+  </div>
+</div>
+
+<div id="block-block-29" class="block block-block">
+  <div class="block-inner">
+            
+    <div class="content">
+      <script type='text/javascript'>
+googletag.cmd.push(function() {
+googletag.defineSlot('/63246411/NTVPublish_news_rightsidemiddlehalfpage', [300, 600], 'div-gpt-ad-1422600150631-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
+</script>
+<!-- news_rightsidemiddlehalfpage -->
+<div id='div-gpt-ad-1422600150631-0' style='width:300px; height:600px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1422600150631-0'); });
+</script>
+</div>    </div>
+  </div>
+</div>
+
+  </div>
+        <!--
+
+          Sidebar end
+
+          //--> 
+      </div>
+    </div>
+  </div>
+  <!--
+
+      Skills
+
+      //-->
+  
+  <!--
+
+      	 PHotogallery
+
+  //-->
+
+  <!--
+  	 Social Icons & Lists
+    
+  //-->
+  <section class="ntv-section ntv-section-bgwhite ntv-soc-buttons-list">
+        <div class="container">
+          <div class="row" style="margin-top: 0px;">
+            <div class="col-lg-12">
+              <!--
+
+              Social Button Item start
+
+              //-->
+              <div class="ntv-social-button-2 ntv-social-button-2-blue">
+                <div class="esb-tooltip" style="display: none;">
+                  <p>facebook</p>
+                  <span class="arrow"></span>
+                </div>
+                <div class="esb-main">
+                  <a target="_blank" href="http://www.facebook.com/ntvuganda"><i class="fa fa-facebook"></i></a>
+                </div>
+              <!--
+
+              Social Button Item end
+              
+              //-->
+              </div>
+              <!--
+
+              Social Button Item start
+              
+              //-->
+              <div class="ntv-social-button-2 ntv-social-button-2-blue">
+                <div class="esb-tooltip" style="display: none;">
+                  <p>twitter</p>
+                  <span class="arrow"></span>
+                </div>
+                <div class="esb-main">
+                  <a target="_blank" href="http://www.twitter.com/ntvuganda"><i class="fa fa-twitter"></i></a>
+                </div>
+              <!--
+
+              Social Button Item end
+              
+              //-->
+              </div>
+              <!--
+
+              Social Button Item start
+              
+              //-->
+              <div class="ntv-social-button-2 ntv-social-button-2-blue">
+                <div class="esb-tooltip" style="display: none;">
+                  <p>linkedin</p>
+                  <span class="arrow"></span>
+                </div>
+                <div class="esb-main">
+                  <a href=""><i class="fa fa-linkedin"></i></a>
+                </div>
+              <!--
+
+              Social Button Item end
+              
+              //-->
+              </div>
+              <!--
+
+              Social Button Item start
+              
+              //-->
+              <div class="ntv-social-button-2 ntv-social-button-2-blue">
+                <div class="esb-tooltip" style="display: none;">
+                  <p>google plus</p>
+                  <span class="arrow"></span>
+                </div>
+                <div class="esb-main">
+                  <a target="_blank" href="https://plus.google.com/+ntvuganda"><i class="fa fa-google-plus"></i></a>
+                </div>
+              <!--
+
+              Social Button Item end
+              
+              //-->
+              </div>
+              <!--
+
+              Social Button Item start
+              
+              //-->
+              <div class="ntv-social-button-2 ntv-social-button-2-blue">
+                <div class="esb-tooltip" style="display: none;">
+                  <p>The NTV App</p>
+                  <span class="arrow"></span>
+                </div>
+                <div class="esb-main">
+                  <a href=""><i class="fa fa-android"></i></a>
+                </div>
+              <!--
+
+              Social Button Item end
+              
+              //-->
+              </div>
+              <!--
+
+              Social Button Item start
+              
+              //-->
+              <div class="ntv-social-button-2 ntv-social-button-2-blue">
+                <div class="esb-tooltip" style="display: none;">
+                  <p>NTV: On Air </p>
+                  <span class="arrow"></span>
+                </div>
+                <div class="esb-main">
+                  <a href="/watch-live"><i class="fa fa-play-circle"></i></a>
+                </div>
+              <!--
+
+              Social Button Item end
+              
+              //-->
+              </div>
+              <!--
+
+              Social Button Item start
+              
+              //-->
+              <div class="ntv-social-button-2 ntv-social-button-2-blue">
+                <div class="esb-tooltip" style="display: none;">
+                  <p>youtube</p>
+                  <span class="arrow"></span>
+                </div>
+                <div class="esb-main">
+                  <a target="_blank" href="https://www.youtube.com/user/ntvuganda"><i class="fa fa-youtube"></i></a>
+                </div>
+              <!--
+
+              Social Button Item end
+              
+              //-->
+              </div>
+              <!--
+
+              Social Button Item start
+              
+              //-->
+              <div class="ntv-social-button-2 ntv-social-button-2-blue">
+                <div class="esb-tooltip" style="display: none;">
+                  <p>RSS Feeds</p>
+                  <span class="arrow"></span>
+                </div>
+                <div class="esb-main">
+                  <a href="/rss.xml"><i class="fa fa-rss"></i></a>
+                </div>
+              <!--
+
+              Social Button Item end
+              
+              //-->
+              </div>
+              <!--
+
+              Social Button Item start
+              
+              //-->
+              <div class="ntv-social-button-2 ntv-social-button-2-blue">
+                <div class="esb-tooltip" style="display: none;">
+                  <p>Our Blogs</p>
+                  <span class="arrow"></span>
+                </div>
+                <div class="esb-main">
+                  <a href="/about/blogs"><i class="fa fa-comments-o"></i></a>
+                </div>
+              <!--
+
+              Social Button Item end
+              
+              //-->
+              </div>
+            </div>
+          </div>
+        </div>
+      <!--
+
+      Social Buttons List end
+
+      //-->
+      </section>
+  <!--
+
+    NTV site content end
+
+    //--> 
+</div>
+<!--
+
+    NTV footer start
+
+    //-->
+<footer class="ntv-footer">
+  <div class="container">
+    <div class="row"> 
+      <!--
+
+          Footer Links Widget start
+
+          //-->
+      <div class="col-lg-6 col-md-6 col-sm-12">
+        <div class="ntv-widget ntv-links-widget">
+            <div class="region region-footer1">
+    <div id="block-block-30" class="block block-block">
+  <div class="block-inner">
+            
+    <div class="content">
+      <script type='text/javascript'>
+googletag.cmd.push(function() {
+googletag.defineSlot('/63246411/NTVPublish_news_footerleftsidenews', [336, 280], 'div-gpt-ad-1422600997752-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
+</script>
+<!-- footer_leftside_news -->
+<div id='div-gpt-ad-1422600997752-0' style='width:336px; height:280px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1422600997752-0'); });
+</script>
+</div>    </div>
+  </div>
+</div>
+
+  </div>
+        </div>
+        <!--
+
+          Footer Links Widget end
+
+          //--> 
+      </div>
+      <!--
+
+          Footer About Widget start
+
+          //-->
+      <div class="col-lg-3 col-md-3 col-sm-3">
+        <div class="ntv-widget ntv-links-widget">
+            <div class="region region-footer2">
+    <div id="block-menu-menu-secondary-menu" class="block block-menu">
+  <div class="block-inner">
+              <h2>Quick Links</h2>
+        
+    <div class="content">
+      <ul class="menu"><li class="first leaf menu-560"><a href="/about" class="menu-560">About NTV</a></li>
+<li class="leaf menu-556"><a href="/about/advertising" title="Advertise with us" class="menu-556">Advertise with us</a></li>
+<li class="leaf menu-558"><a href="/contact" class="menu-558">Get in Touch</a></li>
+<li class="leaf menu-557"><a href="/help-and-support" class="menu-557">Help and Support</a></li>
+<li class="leaf menu-952"><a href="/jobs-vacancies" class="menu-952">Jobs &amp; Vacancies</a></li>
+<li class="leaf menu-953"><a href="/sitemap.xml" target="_blank" class="menu-953">Sitemap</a></li>
+<li class="last leaf menu-1952"><a href="/rss" class="menu-1952">Subscribe to RSS Feeds</a></li>
+</ul>    </div>
+  </div>
+</div>
+
+  </div>
+        </div>
+        <!--
+
+          Footer About Widget end
+
+          //--> 
+      </div>
+      <!--
+
+          Footer Tags Widget start
+
+          //-->
+      <div class="col-lg-3 col-md-3 col-sm-3">
+        <div class="ntv-widget ntv-links-widget">
+            <div class="region region-footer3">
+    <div id="block-menu-menu-external-links" class="block block-menu">
+  <div class="block-inner">
+              <h2>The Organization</h2>
+        
+    <div class="content">
+      <ul class="menu"><li class="first leaf menu-563"><a href="http://www.nationmedia.com/" target="_blank" class="menu-563">Nation Media Group</a></li>
+<li class="leaf menu-562"><a href="http://www.monitor.co.ug/" target="_blank" class="menu-562">Monitor Publications</a></li>
+<li class="leaf menu-565"><a href="http://www.africareview.com/" target="_blank" class="menu-565">Africa Review</a></li>
+<li class="leaf menu-564"><a href="http://www.nation.co.ke/" target="_blank" class="menu-564">Daily Nation</a></li>
+<li class="last leaf menu-566"><a href="http://www.theeastafrican.co.ke/" target="_blank" class="menu-566">The East African</a></li>
+</ul>    </div>
+  </div>
+</div>
+
+  </div>
+        </div>
+        <!--
+
+          Footer Tags Widget end
+
+          //--> 
+      </div>
+      <!--
+
+          Footer Contacts Widget start
+
+          //-->
+<!--    <div class="col-lg-3 col-md-3 col-sm-3">
+        <div class="ntv-widget ntv-links-widget">
+                  </div>
+        -->
+	<!--
+
+          Footer Contacts Widget end
+
+          //--> 
+       	<!-- </div>
+-->
+      <!--
+
+          Footer Copyright start
+
+          //-->
+      <div class="col-lg-12">
+        <div class="ntv-widget ntv-copyright-widget">
+          <div class="ntv-widget-inner">
+              <div class="region region-footer">
+    <div id="block-block-3" class="block block-block">
+  <div class="block-inner">
+            
+    <div class="content">
+      <p>NTV © Copyright 2015  | <a href="http://ntvuganda.co.ug/editorial-policy">Editorial Policy</a> | <a href="http://ntvuganda.co.ug/social-media-policy">Social Media Policy</a> | <a href="/digital-privacy-policy">Digital Privacy Policy</a> | <a href="/website-terms-use">Website Terms of Use</a></p>
+    </div>
+  </div>
+</div>
+
+  </div>
+          </div>
+        </div>
+        <!--
+
+          Footer Copyright end
+
+          //--> 
+      </div>
+    </div>
+  </div>
+  <!--
+
+    NTV footer end
+
+    //--> 
+</footer>
+<!-- Bootstrap core JavaScript
+    ================================================== --> 
+<!-- Placed at the end of the document so the pages load faster --> 
+<script type="text/javascript" src="/sites/all/themes/thementv/js/vendor/core-1.0.5.js"></script> 
+<script type="text/javascript" src="/sites/all/themes/thementv/js/bootstrap.min.js"></script> 
+<script type="text/javascript" src="/sites/all/themes/thementv/js/jquery.mCustomScrollbar.min.js"></script> 
+<script type="text/javascript" src="/sites/all/themes/thementv/js/jquery.mousewheel.min.js"></script> 
+<script type="text/javascript" src="/sites/all/themes/thementv/js/jquery.colorbox-min.js"></script> 
+<script type="text/javascript" src="/sites/all/themes/thementv/js/preloadCssImages.jQuery_v5.js"></script> 
+<script type="text/javascript" src="/sites/all/themes/thementv/js/jquery.stellar.min.js"></script> 
+<!--
+    * jQuery with jQuery Easing, and jQuery Transit JS
+    //--> 
+<script src="/sites/all/themes/thementv/js/layerslider/jquery-easing-1.3.js" type="text/javascript"></script> 
+<script src="/sites/all/themes/thementv/js/layerslider/jquery-transit-modified.js" type="text/javascript"></script> 
+<script src="/sites/all/themes/thementv/js/envor.js" type="text/javascript"></script>
+
+</body>
+</html>
+
+0
+
+
+
+WARC/1.0
+WARC-Type: resource
+WARC-Record-ID: <urn:uuid:cbe2c398-da13-462b-9303-2cbf6f1f9436>
+WARC-Warcinfo-ID: <urn:uuid:5875671b-d3c1-4867-92b6-12af6124f706>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/MANIFEST.txt
+WARC-Date: 2016-01-22T00:45:22Z
+Content-Type: text/plain
+Content-Length: 48
+
+<urn:uuid:5875671b-d3c1-4867-92b6-12af6124f706>
+
+
+WARC/1.0
+WARC-Type: resource
+WARC-Record-ID: <urn:uuid:cbe2c398-da13-462b-9303-2cbf6f1f9436>
+WARC-Warcinfo-ID: <urn:uuid:5875671b-d3c1-4867-92b6-12af6124f706>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/wget_arguments.txt
+WARC-Date: 2016-01-22T00:45:22Z
+Content-Type: text/plain
+Content-Length: 299
+
+"--warc-file" "delays-issuing-oil-production-licenses-adversely-affecting-ura-collections" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "-q" "-O" "/dev/null" "http://ntv.co.ug/news/business/21/jan/2016/delays-issuing-oil-production-licenses-adversely-affecting-ura-collections" 
+
+

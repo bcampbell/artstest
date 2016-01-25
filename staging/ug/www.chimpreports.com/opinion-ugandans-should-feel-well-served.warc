@@ -1,0 +1,2795 @@
+WARC/1.0
+WARC-Type: warcinfo
+Content-Type: application/warc-fields
+WARC-Date: 2016-01-25T00:10:37Z
+WARC-Record-ID: <urn:uuid:b55b0320-6869-47d6-96b1-055a255e7c32>
+WARC-Filename: opinion-ugandans-should-feel-well-served.warc
+Content-Length: 397
+
+software: Wget/1.16.1 (linux-gnu)
+format: WARC File Format 1.0
+conformsTo: http://bibnum.bnf.fr/WARC/WARC_ISO_28500_version1_latestdraft.pdf
+robots: classic
+wget-arguments: "--warc-file" "opinion-ugandans-should-feel-well-served" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "-q" "-O" "/dev/null" "http://www.chimpreports.com/opinion-ugandans-should-feel-well-served/" 
+
+
+
+WARC/1.0
+WARC-Type: request
+WARC-Target-URI: http://www.chimpreports.com/opinion-ugandans-should-feel-well-served/
+Content-Type: application/http;msgtype=request
+WARC-Date: 2016-01-25T00:10:37Z
+WARC-Record-ID: <urn:uuid:8685e20e-31db-458e-940d-92e7168719a6>
+WARC-IP-Address: 198.1.95.36
+WARC-Warcinfo-ID: <urn:uuid:b55b0320-6869-47d6-96b1-055a255e7c32>
+Content-Length: 188
+
+GET /opinion-ugandans-should-feel-well-served/ HTTP/1.1
+User-Agent: Wget/1.16.1 (linux-gnu)
+Accept: */*
+Accept-Encoding: identity
+Host: www.chimpreports.com
+Connection: Keep-Alive
+
+
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <urn:uuid:14fc7e71-d58e-455e-81ba-c61ac9af315e>
+WARC-Warcinfo-ID: <urn:uuid:b55b0320-6869-47d6-96b1-055a255e7c32>
+WARC-Concurrent-To: <urn:uuid:8685e20e-31db-458e-940d-92e7168719a6>
+WARC-Target-URI: http://www.chimpreports.com/opinion-ugandans-should-feel-well-served/
+WARC-Date: 2016-01-25T00:10:37Z
+WARC-IP-Address: 198.1.95.36
+Content-Type: application/http;msgtype=response
+Content-Length: 107915
+
+HTTP/1.1 200 OK
+Date: Mon, 25 Jan 2016 00:10:37 GMT
+Server: Apache/2.2.29 (Unix) mod_ssl/2.2.29 OpenSSL/1.0.1e-fips DAV/2 mod_bwlimited/1.4
+X-Powered-By: PHP/5.4.34
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Access-Control-Allow-Origin: *
+X-Pingback: http://www.chimpreports.com/xmlrpc.php
+Link: <http://www.chimpreports.com/wp-json/>; rel="https://api.w.org/", <http://www.chimpreports.com/?p=86558>; rel=shortlink
+Set-Cookie: PHPSESSID=0e30ae2f93818ecc19e34309058002dc; path=/
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+29f0
+<!DOCTYPE html>
+<!--[if lt IE 7]>  <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en-US"> <![endif]-->
+<!--[if IE 7]>     <html class="no-js lt-ie9 lt-ie8" lang="en-US"> <![endif]-->
+<!--[if IE 8]>     <html class="no-js lt-ie9" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+	<head>
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="geo.region" content="UG-102" />
+<meta name="geo.placename" content="Kampala" />
+<meta name="geo.position" content="0.366139;32.624489" />
+<meta name="ICBM" content="0.366139, 32.624489" />
+
+		<title>Opinion: Ugandans Should Feel Well Served |</title>
+		<meta name="viewport" content="width=device-width">
+
+		<link rel="profile" href="http://gmpg.org/xfn/11">
+		<link rel="pingback" href="http://www.chimpreports.com/xmlrpc.php">
+		<link rel="pingback" href="http://www.chimpreports.com/wp-content/themes/chimpreport/css/style.css">
+
+
+		<script src="http://jwpsrv.com/library/C+sHdPFXEeOWMSIACtqXBA.js"></script>
+		<script type="text/javascript">
+			window.twttr=(function(d,s,id){var t,js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id)){return}js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);return window.twttr||(t={_e:[],ready:function(f){t._e.push(f)}})}(document,"script","twitter-wjs"));
+		</script>
+		
+		<!--wordpress head-->
+		<link rel="alternate" type="application/rss+xml" title="ChimpReports &raquo; Feed" href="http://www.chimpreports.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="ChimpReports &raquo; Comments Feed" href="http://www.chimpreports.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="ChimpReports &raquo; Opinion: Ugandans Should Feel Well Served Comments Feed" href="http://www.chimpreports.com/opinion-ugandans-should-feel-well-served/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.chimpreports.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.1"}};
+			!function(a,b,c){function d(a){var c,d=b.createElement("canvas"),e=d.getContext&&d.getContext("2d");return e&&e.fillText?(e.textBaseline="top",e.font="600 32px Arial","flag"===a?(e.fillText(String.fromCharCode(55356,56806,55356,56826),0,0),d.toDataURL().length>3e3):"diversity"===a?(e.fillText(String.fromCharCode(55356,57221),0,0),c=e.getImageData(16,16,1,1).data.toString(),e.fillText(String.fromCharCode(55356,57221,55356,57343),0,0),c!==e.getImageData(16,16,1,1).data.toString()):("simple"===a?e.fillText(String.fromCharCode(55357,56835),0,0):e.fillText(String.fromCharCode(55356,57135),0,0),0!==e.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='main-event-css'  href='http://www.chimpreports.com/wp-content/plugins/main_event/css/main_event.css?ver=4.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-postratings-css'  href='http://www.chimpreports.com/wp-content/plugins/wp-postratings/postratings-css.css?ver=1.8' type='text/css' media='all' />
+<link rel='stylesheet' id='tell-a-friend-css'  href='http://www.chimpreports.com/wp-content/plugins/wp-tell-a-friend-popup-form/tell-a-friend.css?ver=4.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-lightbox-2.min.css-css'  href='http://www.chimpreports.com/wp-content/plugins/wp-lightbox-2/styles/lightbox.min.css?ver=1.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-style-css'  href='http://www.chimpreports.com/wp-content/themes/chimpreport/css/bootstrap.min.css?ver=4.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-theme-style-css'  href='http://www.chimpreports.com/wp-content/themes/chimpreport/css/bootstrap-theme.min.css?ver=4.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-style-css'  href='http://www.chimpreports.com/wp-content/themes/chimpreport/css/font-awesome.min.css?ver=4.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='main-style-css'  href='http://www.chimpreports.com/wp-content/themes/chimpreport/css/main.css?ver=4.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-basic-style-css'  href='http://www.chimpreports.com/wp-content/themes/chimpreport/style.css?ver=4.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='cool-social-icons-font-css'  href='http://www.chimpreports.com/wp-content/plugins/cool-social-icons-widget/css/style.css?light&#038;ver=1.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='A2A_SHARE_SAVE-css'  href='http://www.chimpreports.com/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.9' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.chimpreports.com/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://www.chimpreports.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var norightclick_args = {"rightclick":"Y","draganddrop":"Y"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.chimpreports.com/wp-content/plugins/image-watermark/js/no-right-click.js?ver=1.5.1'></script>
+<script type='text/javascript' src='http://www.chimpreports.com/wp-content/plugins/main_event/js/carouFredSel.js?ver=4.4.1'></script>
+<script type='text/javascript' src='http://www.chimpreports.com/wp-content/plugins/main_event/js/carousel.js?ver=4.4.1'></script>
+<script type='text/javascript' src='http://www.chimpreports.com/wp-content/plugins/wp-tell-a-friend-popup-form/tell-a-friend-form.js?ver=4.4.1'></script>
+<script type='text/javascript' src='http://www.chimpreports.com/wp-content/plugins/wp-tell-a-friend-popup-form/tell-a-friend-popup.js?ver=4.4.1'></script>
+<script type='text/javascript' src='http://www.chimpreports.com/wp-content/themes/chimpreport/js/vendor/modernizr.min.js?ver=4.4.1'></script>
+<script type='text/javascript' src='http://www.chimpreports.com/wp-content/themes/chimpreport/js/vendor/respond.min.js?ver=4.4.1'></script>
+<script type='text/javascript' src='http://www.chimpreports.com/wp-content/themes/chimpreport/js/vendor/html5shiv.js?ver=4.4.1'></script>
+<script type='text/javascript' src='http://www.chimpreports.com/wp-content/themes/chimpreport/js/vendor/bootstrap.min.js?ver=4.4.1'></script>
+<script type='text/javascript' src='http://www.chimpreports.com/wp-content/themes/chimpreport/js/main.js?ver=4.4.1'></script>
+<link rel='https://api.w.org/' href='http://www.chimpreports.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.chimpreports.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.chimpreports.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Kenya: Gov’t Reaffirms Commitment to Provide Effective Public Services' href='http://www.chimpreports.com/kenya-govt-reaffirms-commitment-to-provide-effective-public-services/' />
+<link rel='next' title='Kibungo Bus Accident: Death Toll Soars to 20' href='http://www.chimpreports.com/kibungo-bus-accident-death-toll-soars-to-20/' />
+<meta name="generator" content="WordPress 4.4.1" />
+<link rel='shortlink' href='http://www.chimpreports.com/?p=86558' />
+<link rel="alternate" type="application/json+oembed" href="http://www.chimpreports.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.chimpreports.com%2Fopinion-ugandans-should-feel-well-served%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.chimpreports.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.chimpreports.com%2Fopinion-ugandans-should-feel-well-served%2F&#038;format=xml" />
+
+<script type="text/javascript"><!--
+var a2a_config=a2a_config||{},wpa2a={done:false,html_done:false,script_ready:false,script_load:function(){var a=document.createElement('script'),s=document.getElementsByTagName('script')[0];a.type='text/javascript';a.async=true;a.src='http://static.addtoany.com/menu/page.js';s.parentNode.insertBefore(a,s);wpa2a.script_load=function(){};},script_onready:function(){if(a2a.type=='page'){wpa2a.script_ready=true;if(wpa2a.html_done)wpa2a.init();}},init:function(){for(var i=0,el,target,targets=wpa2a.targets,length=targets.length;i<length;i++){el=document.getElementById('wpa2a_'+(i+1));target=targets[i];a2a_config.linkname=target.title;a2a_config.linkurl=target.url;if(el){a2a.init('page',{target:el});el.id='';}wpa2a.done=true;}wpa2a.targets=[];}};a2a_config.callbacks=a2a_config.callbacks||[];a2a_config.callbacks.push({ready:wpa2a.script_onready});
+//--></script>
+
+<!-- This site is using AdRotate v3.18.2 Professional to display their advertisements - https://ajdg.solutions/products/adrotate-for-wordpress/ -->
+<!-- AdRotate CSS -->
+<style type="text/css" media="screen">
+	.g { margin:0px; padding:0px; overflow:hidden; line-height:1; zoom:1; }
+	.g img { height:auto; }
+	.g-col { position:relative; float:left; }
+	.g-col:first-child { margin-left: 0; }
+	.g-col:last-child { margin-right: 0; }
+	@media only screen and (max-width: 480px) {
+		.g-col, .g-dyn, .g-single { width:100%; margin-left:0; margin-right:0; }
+	}
+</style>
+<!-- /AdRotate CSS -->
+
+<!-- WordPress Most Popular --><script type="text/javascript">/* <![CDATA[ */ jQuery.post("http://www.chimpreports.com/wp-admin/admin-ajax.php", { action: "wmp_update", id: 86558, token: "59b697f561" }); /* ]]> */</script><!-- /WordPress Most Popular -->
+<!-- All in One SEO Pack 2.2.3.1 by Michael Torbert of Semper Fi Web Design[645,708] -->
+
+120
+<meta name="description" itemprop="description" content="By Joshua Mushwa People that know me can clearly say that generosity towards the high and mighty isn’t part of my rectitude and traits. But i simply" />
+
+<meta name="keywords" itemprop="keywords" content="president museveni" />
+
+
+84
+<link rel="canonical" href="http://www.chimpreports.com/opinion-ugandans-should-feel-well-served/" />
+<!-- /all in one seo pack -->
+
+11
+	</head>
+	<body 
+34b
+class="single single-post postid-86558 single-format-standard">
+
+		<!--[if lt IE 8]>
+			<p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+		<![endif]-->
+		<!--
+		<div class="middle-header-2 middle-header" style="display:none;" id="">
+	<div class="container">	
+					<div class="row">
+						<div class="col-md-12 col-sm-12 full-nav"> 
+							<nav class="navbar" role="navigation">
+								<div class="navbar-header">
+									<span class="mobile-menu">Menu</span><button type="button" class="navbar-toggle btn-default" data-toggle="collapse" data-target=".navbar-primary-collapse">
+										<span class="sr-only">
+10d
+Toggle navigation</span>
+										<span class="icon-bar"></span>
+										<span class="icon-bar"></span>
+										<span class="icon-bar"></span>
+									</button>
+								</div>
+								<div class="collapse navbar-collapse navbar-primary-collapse">
+									
+66c
+<ul id="menu-main-menu-new" class="nav navbar-nav"><li id="menu-item-63036" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63036"><a href="http://www.chimpreports.com/">Home</a></li>
+<li id="menu-item-63040" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-63040"><a href="http://www.chimpreports.com/category/news/">News</a></li>
+<li id="menu-item-63046" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-63046"><a href="http://chimpreports.com/entertainment">Entertainment</a></li>
+<li id="menu-item-63050" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63050"><a href="http://www.chimpreports.com/video/">Video</a></li>
+<li id="menu-item-63041" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-63041"><a href="http://www.chimpreports.com/category/sport/">Sport</a></li>
+<li id="menu-item-63042" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-63042"><a href="http://www.chimpreports.com/category/business/">Business</a></li>
+<li id="menu-item-63043" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-63043"><a href="http://www.chimpreports.com/category/special-reports/">Special Reports</a></li>
+<li id="menu-item-63044" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-63044"><a href="http://www.chimpreports.com/category/travel-2/">Travel</a></li>
+<li id="menu-item-72327" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-72327"><a href="http://chimpreports.com/elections/">Elections</a></li>
+</ul>
+c
+ 
+									
+ec
+ 
+																		
+									
+							
+								</div><!--.navbar-collapse--
+							</nav>
+						</div>											</div>
+				</div></div>
+		-->
+		<div class="container page-container">
+<div class="respocivemainad">  			<figure>
+1d5
+<div class="g g-17"><div class="g-single a-70"><br><a class="gofollow" data-track="NzAsMTcsMSwxMA==" href="http://www.ucc.co.ug/" target="_blank"><img  alt="Header advertisement" src="http://chimpreports.com/wp-content/themes/chimpreport/front-page/images/banner/ucc.jpg"></a> </br</div></div></figure></div> 
+			 
+			<header role="banner" class="header-main">
+				<div class="top-header">
+					<div class="row">
+						<div class="col-md-4 col-sm-4 date-time"> <p>
+72
+Monday 25 January 2016 </p><p>Last updated 1 minute ago</p> </div>
+						<div class="col-md-4 col-sm-4"><a href="
+11e
+http://www.chimpreports.com" class="logo"><img " alt="ChimpReports" src="http://chimpreports.com/wp-content/themes/chimpreport/front-page/images/banner/logo.jpg "></a></a> </div>
+						<div class="col-md-4 col-sm-4 search-news">
+						
+							<form  class="search-form form" action="
+4e2
+http://www.chimpreports.com/search-result"  id="cse-search-box">
+							<label class="sr-only" for="form-search-input">Search for</label>
+								<div class="input-group">
+									<input type="hidden" name="cx" value="partner-pub-6107915822901558:3993489849" />
+									<input type="hidden" name="cof" value="FORID:10" />
+									<input type="hidden" name="ie" value="UTF-8" />
+									<input type="search"  class="form-control"  name="q" size="55" id="form-search-input"  placeholder="custom search"/>
+									<span class="input-group-btn">
+										<button type="submit" class="btn btn-default"  name="sa" value="" />Search</button>
+									</span>
+								</div>
+							</form><div style="display:none;"> <script>
+  (function() {
+    var cx = '006889582988289353181:agwupa4oqr8';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search></div>
+
+												<div class="adv-ser-link">
+							<a href="
+ff
+http://www.chimpreports.com/advance-search-result/">
+								Advance Search!
+							</a>
+						</div>
+						
+						</div>
+					</div>
+				</div><!--top-header-->
+				<div class="middle-header" id="wrap">
+					<div class="row">
+						<div class="
+12e
+col-md-12 col-sm-12"> 
+							<nav class="navbar" role="navigation">
+								<div class="navbar-header">
+									<span class="mobile-menu">Menu</span><a  href="javascript:void(0)" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-primary-collapse">
+										<span class="sr-only">
+1856
+Toggle navigation</span>
+										<span class="icon-bar"></span>
+										<span class="icon-bar"></span>
+										<span class="icon-bar"></span>
+									</a>
+								</div>
+								<div class="collapse navbar-collapse navbar-primary-collapse">
+									<ul id="menu-main-menu-new-1" class="nav navbar-nav"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63036"><a href="http://www.chimpreports.com/">Home</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-63040"><a href="http://www.chimpreports.com/category/news/">News</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-63046"><a href="http://chimpreports.com/entertainment">Entertainment</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63050"><a href="http://www.chimpreports.com/video/">Video</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-63041"><a href="http://www.chimpreports.com/category/sport/">Sport</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-63042"><a href="http://www.chimpreports.com/category/business/">Business</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-63043"><a href="http://www.chimpreports.com/category/special-reports/">Special Reports</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-63044"><a href="http://www.chimpreports.com/category/travel-2/">Travel</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-72327"><a href="http://chimpreports.com/elections/">Elections</a></li>
+</ul> 
+									 
+																		
+									
+							
+								</div><!--.navbar-collapse-->
+							</nav>
+						</div>											</div>
+				</div>
+<script type='text/javascript'>
+  (function() {
+    var useSSL = 'https:' == document.location.protocol;
+    var src = (useSSL ? 'https:' : 'http:') +
+        '//www.googletagservices.com/tag/js/gpt.js';
+    document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+  })();
+</script>
+
+<script type='text/javascript'>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/1002759/ChimpReports_728x90', [728, 90], 'div-gpt-ad-1430314074778-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().enableSyncRendering();
+    googletag.enableServices();
+  });
+</script>
+
+			</header>
+<div class="g g-36"><div class="g-single a-62"><a class="gofollow" data-track="NjIsMzYsMSwxMA==" href="http://vu.ac.ug/" target="_blank"><img  alt="Header advertisement" src="http://chimpreports.com/wp-content/themes/chimpreport/front-page/images/banner/vichor.gif "></a></div></div> 
+			<div id="content" class="row row-with-vspace site-content">
+			<div class="respocivemainad">  			<figure> <div class="g g-18"><div class="g-single a-78"><br><a class="gofollow" data-track="NzgsMTgsMSwxMA==" href="http://www.meaca.go.ug/" target="_blank"><img  alt="Header advertisement" src="http://chimpreports.com/wp-content/themes/chimpreport/front-page/images/banner/moea.gif "></a> </br</div></div> </figure></div><style>
+
+	.addtoany_shortcode .a2a_s_facebook{
+		background: url('http://www.chimpreports.com/wp-content/themes/chimpreport/img/fb.png') no-repeat;
+		padding:19px;
+		margin-right: 15px;
+	}
+	.a2a_count {
+		background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+		border: medium none;
+		left: -9px;
+		top: 4px;
+		width: 18px !important;
+		z-index: -1;
+	}
+	.a2a_count:before, .a2a_count:after{
+		border:none;
+		content:"" !important;
+	}
+	.addtoany_shortcode .a2a_s_twitter{
+		background: url('http://www.chimpreports.com/wp-content/themes/chimpreport/img/tweet.png') no-repeat;
+		padding:19px;
+		margin-right: 15px;
+	}
+	.addtoany_shortcode .a2a_s_google_plus{
+		background: url('http://www.chimpreports.com/wp-content/themes/chimpreport/img/google.png') no-repeat;
+		padding:19px;
+		margin-right: 15px;
+	}
+	.addtoany_shortcode .a2a_s_pinterest{
+		background: url('http://www.chimpreports.com/wp-content/themes/chimpreport/img/pin.png') no-repeat;
+		padding:19px;
+		margin-right: 15px;
+	}
+	.addtoany_list.a2a_kit_size_32 a span{
+		width:auto !important;
+	}
+	
+	
+.row.bread-curmb li {
+    float: left;
+    font-size: 11px;
+    font-weight: bold;
+    margin: 4px 0;
+    text-transform: uppercase;
+}
+.float-box {
+	position:fixed;
+	top:200px;
+	left:200px;
+	width:300px;
+	height:auto;
+        z-index:999999999999;
+display:none;
+}
+.float-box-title {
+	background:#c30000;
+	color:#fff;
+	font-size:14px;
+	padding:5px 10px;
+	box-sizing:border-box;
+	width:100%;
+	float:left;
+	height:auto;
+}
+.float-box-content {
+	font-size:14px;
+	padding:5px 10px;
+	box-sizing:border-box;
+	width:100%;
+	float:left;
+	height:auto;
+	background:#FFFFFF;
+}
+.most-list {
+	margin:0;
+	padding:0;
+	list-style-type:none;
+}
+.most-list li {
+	display:block;
+	width:100%;
+	float:left;
+	padding-bottom:5px;
+	border-bottom:1px dashed #000;
+}
+.most-list li a {
+	font-size:14px;
+	line-height:20px;
+	color:#000;
+}
+.most-list li img {
+	max-width:50px;
+	float:left;
+	margin-right:8px;
+}
+	
+</style>
+
+<section class=" article-page">
+
+	<div class="row bread-curmb">
+		<ul> 
+			<li>
+				<a href="http://www.chimpreports.com">HOME</a> <i class="fa fa-angle-double-right"></i>
+			</li>
+			<li>
+			
+				<a href="http://www.chimpreports.com/category/people/">People</a> <i class="fa fa-angle-double-right"></i> </li> <li><a href="http://www.chimpreports.com/category/people/blogs/" rel="category tag">Blogs</a> <i class="fa fa-angle-double-right"></i> 
+			</li>
+			<li class="kable" style="color:#c30101;">
+				Opinion: Ugandans Should Feel Well Served			</li>
+		</ul>
+	</div>
+	<div class="row">
+
+		<div class="col-md-8 col-sm-8 main-left suspects">
+<div class="float-box">
+	<div class="float-box-title">
+		Title
+	</div>
+	<div class="float-box-content">
+		<ul class="most-list">
+			<li>
+				<img src="" />
+				<a href="#">Readmore</a>
+			</li>
+		</ul>
+	</div>
+</div>
+			
+			<div class="row">
+				<div class="article-page-links">
+					
+
+
+					<h2>Opinion: Ugandans Should Feel Well Served</h2>
+				<p></p>
+				<div id="sharing_single_post">
+				
+					
+7d9
+<div class="addtoany_shortcode"><div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_1"><a class="a2a_button_facebook a2a_counter" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fwww.chimpreports.com%2Fopinion-ugandans-should-feel-well-served%2F&amp;linkname=Opinion%3A%20Ugandans%20Should%20Feel%20Well%20Served" title="Facebook" rel="nofollow" target="_blank"></a><a class="a2a_button_twitter a2a_counter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fwww.chimpreports.com%2Fopinion-ugandans-should-feel-well-served%2F&amp;linkname=Opinion%3A%20Ugandans%20Should%20Feel%20Well%20Served" title="Twitter" rel="nofollow" target="_blank"></a><a class="a2a_button_google_plus" href="http://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fwww.chimpreports.com%2Fopinion-ugandans-should-feel-well-served%2F&amp;linkname=Opinion%3A%20Ugandans%20Should%20Feel%20Well%20Served" title="Google+" rel="nofollow" target="_blank"></a><a class="a2a_button_pinterest a2a_counter" href="http://www.addtoany.com/add_to/pinterest?linkurl=http%3A%2F%2Fwww.chimpreports.com%2Fopinion-ugandans-should-feel-well-served%2F&amp;linkname=Opinion%3A%20Ugandans%20Should%20Feel%20Well%20Served" title="Pinterest" rel="nofollow" target="_blank"></a><a class="a2a_button_google_plus_share addtoany_special_service" data-annotation="none" data-href="http://www.chimpreports.com/opinion-ugandans-should-feel-well-served/"></a>
+<script type="text/javascript"><!--
+wpa2a.script_load();
+//--></script>
+</div></div>					<div class="share-buttun" >
+					<div class="a2a_kit a2a_kit_size_24 a2a_default_style" style="display:none;">
+    <a class="a2a_button_facebook a2a_counter"></a>
+    <a class="a2a_button_twitter a2a_counter"></a>
+    <a class="a2a_button_google_plusone a2a_counter" style="width:85px"></a>
+    <a class="a2a_dd" href="https://www.addtoany.com/share_save"></a>
+</div>
+
+<script type="text/javascript" src="//static.addtoany.com/menu/page.js"></script>
+						
+153
+	<a href='javascript:TellAFriend_OpenForm("TellAFriend_BoxContainer","TellAFriend_BoxContainerBody","TellAFriend_BoxContainerFooter");'><span class="font-awesoe"> <i class="fa fa-envelope"></i> </span>	<div style="display: none;" id="TellAFriend_BoxContainer">
+	  <div id="TellAFriend_BoxContainerHeader">
+		<div id="TellAFriend_BoxTitle">
+9d
+Tell A Friend</div>
+		<div id="TellAFriend_BoxClose"><a href="javascript:TellAFriend_HideForm('TellAFriend_BoxContainer','TellAFriend_BoxContainerFooter');">
+41e
+Close</a></div>
+	  </div>
+	  <div id="TellAFriend_BoxContainerBody">
+		<form action="#" name="TellAFriend_Form" id="TellAFriend_Form">
+		  <div id="TellAFriend_BoxAlert"> <span id="TellAFriend_alertmessage"></span> </div>
+		  <div id="TellAFriend_BoxLabel"> Your Name </div>
+		  <div id="TellAFriend_BoxLabel">
+			<input name="TellAFriend_name" class="TellAFriend_TextBox" type="text" id="TellAFriend_name" maxlength="120">
+		  </div>
+		  <div id="TellAFriend_BoxLabel"> Friend Email </div>
+		  <div id="TellAFriend_BoxLabel">
+			<input name="TellAFriend_email" class="TellAFriend_TextBox" type="text" id="TellAFriend_email" maxlength="120">
+		  </div>
+		  <div id="TellAFriend_BoxLabel"> Enter Message To Friend </div>
+		  <div id="TellAFriend_BoxLabel">
+			<textarea name="TellAFriend_message" class="TellAFriend_TextArea" rows="3" id="TellAFriend_message"></textarea>
+		  </div>
+		  <div id="TellAFriend_BoxLabel">
+			<input type="button" name="button" class="TellAFriend_Button" value="Submit" onClick="javascript:TellAFriend_Submit(this.parentNode,'
+1ec
+http://www.chimpreports.com');">
+		  </div>
+		  <input type="hidden" name="TellAFriend_Link" id="TellAFriend_Link" value="http://www.chimpreports.com/opinion-ugandans-should-feel-well-served/"  />
+		</form>
+	  </div>
+	</div>
+	<div style="display: none;" id="TellAFriend_BoxContainerFooter"></div>	</a>
+	<span class="tellf" style="font-size: 16px; padding-left: 7px;">0</span>  
+					
+						<div style="clear:both"></div>
+					
+					</div>
+				</div>
+				
+				<div class="post-thumbnail">
+				
+36
+					
+
+				<div class="auother">
+				<ul>
+				<h3>By: 
+5
+admin
+32
+ 
+				</h3><li><i class="fa fa-calendar"></i>
+				
+37
+Jan 9,2016</li>
+				<li> <i class="fa fa-eye"></i>
+				
+49
+21812 Viewed </li>
+				<li><i class="fa fa-pencil-square-o"></i><a href="
+68
+http://www.chimpreports.com/opinion-ugandans-should-feel-well-served/#disqus_thread"></a></li>
+				
+				
+6d
+				<!--<li><i class="fa fa-tag"></i>
+				</li>-->
+								</ul>
+
+				</div>
+				<div class="post-cont">
+				
+12e8
+<div class='at-above-post addthis-toolbox' data-title='Opinion: Ugandans Should Feel Well Served' data-url='http://www.chimpreports.com/opinion-ugandans-should-feel-well-served/'></div><div class='at-above-post-recommended addthis-toolbox' data-title='Opinion: Ugandans Should Feel Well Served' data-url='http://www.chimpreports.com/opinion-ugandans-should-feel-well-served/'></div><p><strong>By Joshua Mushwa  </strong>
+<p>People that know me can clearly say that generosity towards the high and mighty isn’t part of my rectitude and traits.</p>
+<p>But i simply have to say this; Ugandans are lucky to have Yoweri Kaguta Museveni as president, and we should wake up and appreciate it while we still can.</p>
+<p>President Museveni will go down in history as an extraordinary president, probably a great one and he will have done this in an era that doesn’t aggrandize leaders, but shrinks them.</p>
+<p>All democratic leaders have had intense opposition and brutal enemies  but in President Museveni&#8217;s case, i honestly think it has been outright unfair by some Ugandans that have made defaming, wrongfully accusing, insulting and personally attacking the president on social media for whatever sinister reason, part of their lives.</p>
+<p>I know most of these people are those openly  opposed to honesty,  internet trolls that are in need of some attention and some simply misguided youths.</p>
+<p>Many will have to agree with me that it would be a morale booster and a sign of civic maturity if more Ugandans appreciated what a phenomenal president they have right now. It could be a long wait for the next one.<br />
+One can hate NRM, disagree with President Museveni on certain issues or even dislike his style. But his accomplishments, ambitious goals, dignity and honesty under tough circumstances demand admiration and appreciation.</p>
+<p>This may obviously come off as perverse liberal-social media propaganda to some NRM and Museveni haters considering this has been written at the peak of a campaign season but i will  simply offer a few points for the open-minded to ponder:</p>
+<p><strong>Security</strong></p>
+<p>The Nrm government under the leadership of President Museveni has managed to secure our country against all sorts of threat and tried to help our African brothers and sisters in the Great Lakes region and the Horn of Africa to stabilize. We have one of the most disciplined, professional and battle the hardened army in Africa regardless of our short history as an independent sovereign state.</p>
+<p><strong>Health</strong></p>
+<p>NRM government over the years has achieved monumental landmarks in the health sector which include; Reducing infant mortality to below 60, universal immunization resulting in eradication of polio and measles, putting close to 650,000 Ugandans on ARV&#8217;s, rehabilitating, re-equipping and building of new health centers up to sub-county level (80 per cent) and policy and regulatory framework that has encouraged the private sector to  participate in providing  health services.</p>
+<p><strong> Infrastructure</strong></p>
+<p>NRM government, regardless of all the challenges ranging from budgetary to politico-imperialist sabotage, has done a tremendous job. Today, you can virtually reach most of the corners of Uganda on a tarmac road. Regarding energy, after Isimba and Karuma which will be commissioned in a few years, we shall have power in excess of 1500 megawatts. Not forgetting the increasing usage of alternative sources of energy like biogas and solar.</p>
+<p>Before one starts criticizing the above achievements, one should not forget that the four years prior to 1986, Uganda underwent a total macro-economic failure, and without any doubt whatsoever ,am sure that  service delivery was something some Ugandans had forgotten about : Education, health, judicial and all other kinds of public services were just limping.</p>
+<p>That being said, we should feel well served. So, Mr. President, on behalf of some ungrateful Ugandans, thank you.</p>
+<div class='at-below-post addthis-toolbox' data-title='Opinion: Ugandans Should Feel Well Served' data-url='http://www.chimpreports.com/opinion-ugandans-should-feel-well-served/'></div><div class='at-below-post-recommended addthis-toolbox' data-title='Opinion: Ugandans Should Feel Well Served' data-url='http://www.chimpreports.com/opinion-ugandans-should-feel-well-served/'></div><div class="g g-31"><div class="g-single a-68"><br><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- CR-300X250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-6107915822901558"
+     data-ad-slot="5977686543"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</br></div></div>
+c6
+#<a href="http://www.chimpreports.com/tag/president-museveni/" rel="tag">President Museveni</a>
+				</div>
+
+				</div>			
+				</div>
+			</div>	
+<div class="clearfix" style="padding-top:20px"></div>
+
+35
+ 
+				<div class="col-lg-12" id="sidebar-left">
+					
+5b
+<aside id="text-16" class="widget widget_text">			<div class="textwidget"></div>
+		</aside>
+e9
+ 
+				</div>
+<div class="clearfix"></div>
+			<div class="subcribes">
+				<p class="hadding_text">
+					Don't miss the stories <span class="follow">follow chimpreports</span> <span class="end_text">AND LET'S go!!!</span>
+				</p>
+				
+47e
+			<div class="social-follow">
+								<span class="meta-facebook-fanspage">
+					<div class="fb-like" data-href="facebook.com/chimpreports" data-layout="button_count" data-action="recommend" data-show-faces="false" data-share="false"></div>
+				</span>
+				
+								<span class="meta-google-plus-follow">
+					<div class="g-follow" data-annotation="bubble" data-height="20" data-href="//plus.google.com/103537220020710032987" data-rel="publisher"></div>
+				</span>
+				<script type="text/javascript">
+					jQuery.noConflict();
+					(function($) {
+						$(function() {
+							gapi.follow.go()
+						});
+					})(jQuery);
+				</script>
+								
+								<span class="meta-twitter-follow">
+					<a href="https://twitter.com/chimpreports" class="twitter-follow-button" data-show-count="true" data-lang="en">Follow @chimpreports</a>
+				</span>
+				<script>
+					!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+				</script>
+								<div class="clear"></div>
+			</div>
+			
+5
+
+				
+83a
+<div id="post-ratings-86558" class="post-ratings" itemscope itemtype="http://schema.org/Article" data-nonce="b0468589cf"><img id="rating_86558_1" src="http://www.chimpreports.com/wp-content/plugins/wp-postratings/images/stars/rating_off.gif" alt="1 Star" title="1 Star" onmouseover="current_rating(86558, 1, '1 Star');" onmouseout="ratings_off(0, 0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="cursor: pointer; border: 0px;" /><img id="rating_86558_2" src="http://www.chimpreports.com/wp-content/plugins/wp-postratings/images/stars/rating_off.gif" alt="2 Stars" title="2 Stars" onmouseover="current_rating(86558, 2, '2 Stars');" onmouseout="ratings_off(0, 0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="cursor: pointer; border: 0px;" /><img id="rating_86558_3" src="http://www.chimpreports.com/wp-content/plugins/wp-postratings/images/stars/rating_off.gif" alt="3 Stars" title="3 Stars" onmouseover="current_rating(86558, 3, '3 Stars');" onmouseout="ratings_off(0, 0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="cursor: pointer; border: 0px;" /><img id="rating_86558_4" src="http://www.chimpreports.com/wp-content/plugins/wp-postratings/images/stars/rating_off.gif" alt="4 Stars" title="4 Stars" onmouseover="current_rating(86558, 4, '4 Stars');" onmouseout="ratings_off(0, 0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="cursor: pointer; border: 0px;" /><img id="rating_86558_5" src="http://www.chimpreports.com/wp-content/plugins/wp-postratings/images/stars/rating_off.gif" alt="5 Stars" title="5 Stars" onmouseover="current_rating(86558, 5, '5 Stars');" onmouseout="ratings_off(0, 0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="cursor: pointer; border: 0px;" /> (No Ratings Yet)<br /><span class="post-ratings-text" id="ratings_86558_text"></span></div><div id="post-ratings-86558-loading" class="post-ratings-loading">
+			<img src="http://www.chimpreports.com/wp-content/plugins/wp-postratings/images/loading.gif" width="16" height="16" alt="Loading..." title="Loading..." class="post-ratings-image" />Loading...</div>
+74
+				<div class="subcribes-form">
+					<form onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=
+c
+Chimpreports
+ce
+', 'popupwindow', 'scrollbars=yes,width=550,height=520'); return true" target="popupwindow" method="post" action="http://feedburner.google.com/fb/a/mailverify">
+						<input type="text" name="email" value="
+18
+Register your email here
+1e
+" onfocus="if (this.value == '
+18
+Register your email here
+44
+') {this.value = '';}" onblur="if (this.value == '') {this.value = '
+18
+Register your email here
+34
+';}" >
+						<input type="hidden" name="uri" value="
+c
+Chimpreports
+8d
+">
+						<input type="hidden" value="en_US" name="loc">
+						<input type="submit" value="Subscribe">
+					</form>	
+				</div>
+			</div>
+				
+25
+			<div class="row next-pre">
+			
+			
+3
+			
+4f
+ 
+
+				<div class="full-row ">
+					<span class="small-tittle">
+						<a href="
+43
+http://www.chimpreports.com/insight-who-sold-off-muslim-properties/
+90
+"><i class="fa fa-chevron-left"></i>
+							Previous Story
+						</a> 
+					</span> 
+					<span class="small-tittle next-story">
+						<a href="
+45
+http://www.chimpreports.com/opinion-ugandans-should-feel-well-served/
+b6
+">
+							Next Story<i class="fa fa-chevron-right"></i>
+						</a> 
+					</span>
+				</div>
+				<div class="col-md-6 col-sm-6 previospostLink">
+					<div class="media">
+						
+						
+45
+						<div class="media-right" style="width:140px"> 
+							<a href="
+45
+http://www.chimpreports.com/opinion-ugandans-should-feel-well-served/
+17
+"> 
+									<img src="
+39
+http://www.chimpreports.com/wp-content/themes/chimpreport
+1b
+/timthumb/timthumb.php?src=
+48
+http://www.chimpreports.com/wp-content/uploads/2016/01/Mufti-800x531.jpg
+3e
+&w=140&h=73&a=t&zc=1&q=95" />
+							</a>
+						</div>
+							
+52
+						<div class="media-body">
+							<h4 class="editor-tittle">
+								<a href="
+43
+http://www.chimpreports.com/insight-who-sold-off-muslim-properties/
+2
+">
+27
+Insight: Who Sold off Muslim Properties
+e0
+</a>
+							</h4>
+						</div>
+
+
+					</div>
+				</div>
+				<div class="col-md-6 col-sm-6 col-6-right nextpostLink">
+					<div class="media">
+						<div class="media-body">
+							<h4 class="editor-tittle">
+								<a href="
+45
+http://www.chimpreports.com/opinion-ugandans-should-feel-well-served/
+2
+">
+29
+Opinion: Ugandans Should Feel Well Served
+33
+</a>
+							</h4>
+						</div>
+						
+						
+						
+7d
+						
+						
+					
+					</div>
+				</div>
+			</div>
+			<div id="comment">&nbsp;</div>
+			
+			
+			<div class="row" id="">
+			
+1e
+
+<div id="disqus_thread">
+    
+4e
+</div>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+    var disqus_url = '
+45
+http://www.chimpreports.com/opinion-ugandans-should-feel-well-served/
+20
+';
+    var disqus_identifier = '
+2a
+86558 http://www.chimpreports.com/?p=86558
+4b
+';
+    var disqus_container_id = 'disqus_thread';
+    var disqus_domain = '
+a
+disqus.com
+1f
+';
+    var disqus_shortname = '
+c
+chimpreports
+1a
+';
+    var disqus_title = 
+2b
+"Opinion: Ugandans Should Feel Well Served"
+7d
+;
+    var disqus_config = function () {
+        var config = this; // Access to the config object
+        config.language = '
+46
+';
+
+        /* Add the ability to add javascript callbacks */
+        
+2a7
+
+        /*
+           All currently supported events:
+            * preData — fires just before we request for initial data
+            * preInit - fires after we get initial data but before we load any dependencies
+            * onInit  - fires when all dependencies are resolved but before dtpl template is rendered
+            * afterRender - fires when template is rendered but before we show it
+            * onReady - everything is done
+         */
+
+        config.callbacks.preData.push(function() {
+            // clear out the container (its filled for SEO/legacy purposes)
+            document.getElementById(disqus_container_id).innerHTML = '';
+        });
+        
+114
+        config.callbacks.onReady.push(function() {
+            // sync comments in the background so we don't block the page
+            var script = document.createElement('script');
+            script.async = true;
+            script.src = '?cf_action=sync_comments&post_id=
+5
+86558
+aa
+';
+
+            var firstScript = document.getElementsByTagName( "script" )[0];
+            firstScript.parentNode.insertBefore(script, firstScript);
+        });
+        
+8
+        
+79
+    };
+/* ]]> */
+</script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+    var DsqLocal = {
+        'trackbacks': [
+
+24
+        ],
+        'trackback_url': 
+56
+"http:\/\/www.chimpreports.com\/opinion-ugandans-should-feel-well-served\/trackback\/"
+ed
+    };
+/* ]]> */
+</script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+(function() {
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript';
+    dsq.async = true;
+    dsq.src = '//' + disqus_shortname + '.' + '
+a
+disqus.com
+33
+' + '/' + 'embed' + '.js' + '?pname=wordpress&pver=
+4
+2.77
+8a
+';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+/* ]]> */
+</script>
+
+1b
+						
+		</div>
+			
+			
+			
+88
+
+			<div class="row related-article">
+				<div class="full-row">
+					<span class="small-tittle">Related Articles</span>
+				</div>
+				
+28
+				<div class="row">
+					<h3><a href="
+43
+http://www.chimpreports.com/insight-who-sold-off-muslim-properties/
+2
+">
+27
+Insight: Who Sold off Muslim Properties
+37
+</a></h3>
+					<div class="media">
+						
+						
+						
+41
+						<div class="media-left" style="width:24%"> 
+						<a href="
+43
+http://www.chimpreports.com/insight-who-sold-off-muslim-properties/
+17
+"> 
+									<img src="
+39
+http://www.chimpreports.com/wp-content/themes/chimpreport
+1b
+/timthumb/timthumb.php?src=
+48
+http://www.chimpreports.com/wp-content/uploads/2016/01/Mufti-800x531.jpg
+3d
+&w=140&h=73&a=t&zc=1&q=95" />
+							</a>
+						</div>
+						
+6
+						
+2d
+						
+						<div class="media-body">
+							
+97
+The Muslim leadership in Uganda bitterly fragmented in 2006 over the alleged sale of the properties mainly in capital Kampala. A group under the Sheikh
+34
+ 
+						</div>
+					</div>
+					<hr>
+				</div>
+				
+28
+				<div class="row">
+					<h3><a href="
+58
+http://www.chimpreports.com/opinion-why-besigye-mbabazi-lost-the-2016-general-elections/
+2
+">
+3d
+Opinion: Why Besigye, Mbabazi Lost the 2016 General Elections
+37
+</a></h3>
+					<div class="media">
+						
+						
+						
+41
+						<div class="media-left" style="width:24%"> 
+						<a href="
+58
+http://www.chimpreports.com/opinion-why-besigye-mbabazi-lost-the-2016-general-elections/
+17
+"> 
+									<img src="
+39
+http://www.chimpreports.com/wp-content/themes/chimpreport
+1b
+/timthumb/timthumb.php?src=
+4a
+http://www.chimpreports.com/wp-content/uploads/2015/12/amama_and_kiiza.jpg
+3d
+&w=140&h=73&a=t&zc=1&q=95" />
+							</a>
+						</div>
+						
+6
+						
+2d
+						
+						<div class="media-body">
+							
+9c
+By Ian Musiimenta   Right from their declaration of ambitions, nominations and with the campaign trails of almost all the 8 presidential candidates for the
+34
+ 
+						</div>
+					</div>
+					<hr>
+				</div>
+				
+28
+				<div class="row">
+					<h3><a href="
+59
+http://www.chimpreports.com/8-things-a-bad-relationship-taught-me-about-entrepreneurship/
+2
+">
+32
+8 Entrepreneurship Lessons from a Bad Relationship
+37
+</a></h3>
+					<div class="media">
+						
+						
+						
+41
+						<div class="media-left" style="width:24%"> 
+						<a href="
+59
+http://www.chimpreports.com/8-things-a-bad-relationship-taught-me-about-entrepreneurship/
+17
+"> 
+									<img src="
+39
+http://www.chimpreports.com/wp-content/themes/chimpreport
+1b
+/timthumb/timthumb.php?src=
+53
+http://www.chimpreports.com/wp-content/uploads/2015/12/break-up-whatsapp-status.jpg
+3d
+&w=140&h=73&a=t&zc=1&q=95" />
+							</a>
+						</div>
+						
+6
+						
+2d
+						
+						<div class="media-body">
+							
+7d
+By Stephen Obeli Someday  I don’t know about you or your story but I have a wild guess that you have your own narration of
+34
+ 
+						</div>
+					</div>
+					<hr>
+				</div>
+				
+28
+				<div class="row">
+					<h3><a href="
+56
+http://www.chimpreports.com/proposed-cities-demand-more-than-just-names-prof-balunywa/
+2
+">
+41
+Proposed Cities Demand More Than Just Names &#8211; Prof Balunywa
+37
+</a></h3>
+					<div class="media">
+						
+						
+						
+41
+						<div class="media-left" style="width:24%"> 
+						<a href="
+56
+http://www.chimpreports.com/proposed-cities-demand-more-than-just-names-prof-balunywa/
+17
+"> 
+									<img src="
+39
+http://www.chimpreports.com/wp-content/themes/chimpreport
+1b
+/timthumb/timthumb.php?src=
+40
+http://www.chimpreports.com/wp-content/uploads/2015/11/Jinja.png
+3d
+&w=140&h=73&a=t&zc=1&q=95" />
+							</a>
+						</div>
+						
+6
+						
+2d
+						
+						<div class="media-body">
+							
+79
+I grew up in Jinja town and the word municipality was very much on our lips though we actually did not know what it meant
+34
+ 
+						</div>
+					</div>
+					<hr>
+				</div>
+				
+28
+				<div class="row">
+					<h3><a href="
+5f
+http://www.chimpreports.com/e-marketing-3-mistakes-musevenis-facebook-team-is-making-right-now/
+2
+">
+46
+E-Marketing: 3 Mistakes Museveni’s Facebook Team is Making Right Now
+37
+</a></h3>
+					<div class="media">
+						
+						
+						
+41
+						<div class="media-left" style="width:24%"> 
+						<a href="
+5f
+http://www.chimpreports.com/e-marketing-3-mistakes-musevenis-facebook-team-is-making-right-now/
+17
+"> 
+									<img src="
+39
+http://www.chimpreports.com/wp-content/themes/chimpreport
+1b
+/timthumb/timthumb.php?src=
+3d
+http://www.chimpreports.com/wp-content/uploads/2015/11/m7.png
+3d
+&w=140&h=73&a=t&zc=1&q=95" />
+							</a>
+						</div>
+						
+6
+						
+2d
+						
+						<div class="media-body">
+							
+95
+In the race for 2016, President Museveni by far has the most resourced and organized PR (public relations) and marketing both offline and online, but
+34
+ 
+						</div>
+					</div>
+					<hr>
+				</div>
+				
+28
+				<div class="row">
+					<h3><a href="
+5d
+http://www.chimpreports.com/tumwebaze-lets-probe-for-issues-and-reject-idealistic-propaganda/
+2
+">
+48
+Tumwebaze: Let&#8217;s Probe for Issues and Reject Idealistic Propaganda
+37
+</a></h3>
+					<div class="media">
+						
+						
+						
+41
+						<div class="media-left" style="width:24%"> 
+						<a href="
+5d
+http://www.chimpreports.com/tumwebaze-lets-probe-for-issues-and-reject-idealistic-propaganda/
+17
+"> 
+									<img src="
+39
+http://www.chimpreports.com/wp-content/themes/chimpreport
+1b
+/timthumb/timthumb.php?src=
+4a
+http://www.chimpreports.com/wp-content/uploads/2015/06/Frank-Tumwebaze.jpg
+3d
+&w=140&h=73&a=t&zc=1&q=95" />
+							</a>
+						</div>
+						
+6
+						
+2d
+						
+						<div class="media-body">
+							
+ac
+Beyond the cheap schemes of some candidates struggling to draw sympathy from the population by playing the martyrdom games, others engaging in unnecessary altercations with
+34
+ 
+						</div>
+					</div>
+					<hr>
+				</div>
+				
+28
+				<div class="row">
+					<h3><a href="
+72
+http://www.chimpreports.com/the-changing-higher-education-environment-in-africa-utamus-approach-to-the-challenges/
+2
+">
+59
+The Changing Higher Education Environment in Africa: UTAMU’s Approach to the Challenges
+37
+</a></h3>
+					<div class="media">
+						
+						
+						
+41
+						<div class="media-left" style="width:24%"> 
+						<a href="
+72
+http://www.chimpreports.com/the-changing-higher-education-environment-in-africa-utamus-approach-to-the-challenges/
+17
+"> 
+									<img src="
+39
+http://www.chimpreports.com/wp-content/themes/chimpreport
+1b
+/timthumb/timthumb.php?src=
+4f
+http://www.chimpreports.com/wp-content/uploads/2015/11/UTAMU-graduates-2015.jpg
+3d
+&w=140&h=73&a=t&zc=1&q=95" />
+							</a>
+						</div>
+						
+6
+						
+2d
+						
+						<div class="media-body">
+							
+a3
+By Professor Benon C Basheka, PhD, FCIPS   Universities worldwide are more than ever before challenged to show their relevance and contribution to society through
+34
+ 
+						</div>
+					</div>
+					<hr>
+				</div>
+				
+28
+				<div class="row">
+					<h3><a href="
+5e
+http://www.chimpreports.com/analysis-ntv-can-win-back-its-viewers-2-ways-museveni-always-does/
+2
+">
+43
+ANALYSIS: NTV Can Win Back Its Viewers; 2 Ways Museveni Always Does
+37
+</a></h3>
+					<div class="media">
+						
+						
+						
+41
+						<div class="media-left" style="width:24%"> 
+						<a href="
+5e
+http://www.chimpreports.com/analysis-ntv-can-win-back-its-viewers-2-ways-museveni-always-does/
+17
+"> 
+									<img src="
+39
+http://www.chimpreports.com/wp-content/themes/chimpreport
+1b
+/timthumb/timthumb.php?src=
+4a
+http://www.chimpreports.com/wp-content/uploads/2015/11/solomon-333x310.jpg
+3d
+&w=140&h=73&a=t&zc=1&q=95" />
+							</a>
+						</div>
+						
+6
+						
+2d
+						
+						<div class="media-body">
+							
+a9
+Neither fair and balanced broadcasting nor massive advertising budgets, promotions or better quality programming can bring back the old glory but more basic, less costly
+34
+ 
+						</div>
+					</div>
+					<hr>
+				</div>
+				
+28
+				<div class="row">
+					<h3><a href="
+5a
+http://www.chimpreports.com/starting-a-business-3-start-up-lessons-from-mbabazis-campaign/
+2
+">
+41
+Starting A Business: 3 Start-up Lessons from Mbabazi’s Campaign
+37
+</a></h3>
+					<div class="media">
+						
+						
+						
+41
+						<div class="media-left" style="width:24%"> 
+						<a href="
+5a
+http://www.chimpreports.com/starting-a-business-3-start-up-lessons-from-mbabazis-campaign/
+17
+"> 
+									<img src="
+39
+http://www.chimpreports.com/wp-content/themes/chimpreport
+1b
+/timthumb/timthumb.php?src=
+61
+http://www.chimpreports.com/wp-content/uploads/2015/09/Mbabazi-was-handed-a-spear-and-shield..jpg
+3d
+&w=140&h=73&a=t&zc=1&q=95" />
+							</a>
+						</div>
+						
+6
+						
+2d
+						
+						<div class="media-body">
+							
+85
+By Stephen Obeli Someday     One dream we all share is to become our own bosses someday by either starting (or growing) a business,
+34
+ 
+						</div>
+					</div>
+					<hr>
+				</div>
+				
+28
+				<div class="row">
+					<h3><a href="
+59
+http://www.chimpreports.com/earning-customer-loyalty-lessons-from-nokia-besigye-diehards/
+2
+">
+3e
+Earning Customer Loyalty; Lessons From Nokia, Besigye Diehards
+37
+</a></h3>
+					<div class="media">
+						
+						
+						
+41
+						<div class="media-left" style="width:24%"> 
+						<a href="
+59
+http://www.chimpreports.com/earning-customer-loyalty-lessons-from-nokia-besigye-diehards/
+17
+"> 
+									<img src="
+39
+http://www.chimpreports.com/wp-content/themes/chimpreport
+1b
+/timthumb/timthumb.php?src=
+42
+http://www.chimpreports.com/wp-content/uploads/2015/10/BESIGYE.jpg
+3d
+&w=140&h=73&a=t&zc=1&q=95" />
+							</a>
+						</div>
+						
+6
+						
+2d
+						
+						<div class="media-body">
+							
+79
+As you read this, only 34% of Ugandan phone users still hold a Nokia phone but most will swear that a few years ago, they
+34
+ 
+						</div>
+					</div>
+					<hr>
+				</div>
+				
+11
+			
+			</div>
+			
+27
+			
+			
+		</div>
+		<!--5main-left-->
+
+	
+234
+	
+		<div class="col-md-4  col-sm-4  main-right news-page-right">
+			<div class="full-row mar-t-article"></div>
+			<div class="row  space-add">
+			<iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FChimpReports&amp;width&amp;height=62&amp;colorscheme=light&amp;show_faces=false&amp;header=false&amp;stream=false&amp;show_border=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:62px;" allowTransparency="true"></iframe>
+				
+			</div>
+
+			<div class="row space-add">
+				<figure>
+				
+19
+</figure>
+			</div>
+			
+19f
+<div class="g g-20"><div class="g-single a-81"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 300X600 Top AD -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:600px"
+     data-ad-client="ca-pub-6107915822901558"
+     data-ad-slot="2559525845"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div>
+18
+                        
+1a6
+<div class="g g-19"><div class="g-single a-68"><br><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- CR-300X250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-6107915822901558"
+     data-ad-slot="5977686543"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</br></div></div>
+1d1
+<div class="g g-37"><div class="g-single a-68"><br><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- CR-300X250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-6107915822901558"
+     data-ad-slot="5977686543"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</br></div></div>			<div class="row letest_v">
+				
+
+				
+87
+								<div class="full-row">
+					<span class="small-tittle">Latest Video</span>
+				</div>
+				<ul class="letest-v-d">	
+								
+df
+				
+					<li>
+						<h4>
+							<a href="http://chimpreports.com/entertainment/?post_type=videogallery&#038;p=45476">Desire's Franklin Mocks Lokodo in video Post</a>
+						</h4>
+						
+					</li>
+						 
+			   				
+29b
+				
+					<li>
+						<h4>
+							<a href="http://chimpreports.com/entertainment/?post_type=videogallery&#038;p=44636">Spice Diana: Sitoma</a>
+						</h4>
+												 
+							<a href="http://chimpreports.com/entertainment/?post_type=videogallery&#038;p=44636"> 
+								<span class="video_icon">
+									<img src="http://chimpreports.com/entertainment/wp-content/themes/chimpreports/images/gallery-thumbnail-video-hover.png">
+								</span> 
+									<img width="215"  alt="Show Reel 2011" srcset="http://i.vimeocdn.com/video/178773710_1280.jpg 2x" src="http://img.youtube.com/vi/TvdHcTnlJmc/0.jpg"  style="width:130px" >
+							
+									<!--<img src="
+54
+http://www.chimpreports.com/wp-content/themes/chimpreport/timthumb/timthumb.php?src=
+f9
+http://chimpreports.com/entertainment/wp-content/uploads/2015/02/spice-diana.png&w=141&h=73&a=t&zc=1&q=95" />-->
+							</a>
+						
+							
+					</li>
+						 
+			   
+			</ul>
+			</div><!--row-->
+
+			            
+            
+            
+61
+<!-- Either there are no banners, they are disabled or none qualified for this location! -->	    
+175
+<div class="g g-24"><div class="g-single a-69"><br><a class="gofollow" data-track="NjksMjQsMSwxMA==" href="http://specialforcescommand.go.ug/" target="_blank"><img  alt="Header advertisement" src="http://chimpreports.com/wp-content/themes/chimpreport/front-page/images/banner/sfc.jpg"></a> </br</div></div>            <div class="clearfix" style="padding-top:20px"></div>
+
+3b
+ <div class="clearfix" style="padding-top:20px"></div>
+			
+9c
+<div id="wpb_widget_blog-3" class="widget widget_wpb_widget_blog"><div class="row blog"><div class="full-row"><span class="small-tittle">Blog</span></div>		
+a
+		
+		
+		
+4e
+		
+			<div class="row editor-picked">
+			<div class="media">
+			
+			 					
+4a
+					
+			<div class="media-body">
+			<h4 class="editor-tittle"><a href="
+47
+http://www.chimpreports.com/opinion-ugandans-should-feel-well-served/">
+4e
+Opinion: Ugandans Should Feel Well Served</a></h4>
+			<p class="author-name">
+5
+admin
+31
+</p>
+			</div>
+
+
+			</div>
+			</div>
+
+
+		
+4e
+		
+			<div class="row editor-picked">
+			<div class="media">
+			
+			 					
+30
+					<div class="media-right"> 
+					 <a href="
+56
+http://www.chimpreports.com/insight-who-sold-off-muslim-properties/"> 
+				<img src="
+54
+http://www.chimpreports.com/wp-content/themes/chimpreport/timthumb/timthumb.php?src=
+dc
+http://www.chimpreports.com/wp-content/uploads/2016/01/Mufti-800x531.jpg&w=120&h=72&a=t&zc=1&q=95" />
+				</a>
+								
+				
+			 </div>
+										
+			<div class="media-body">
+			<h4 class="editor-tittle"><a href="
+45
+http://www.chimpreports.com/insight-who-sold-off-muslim-properties/">
+4c
+Insight: Who Sold off Muslim Properties</a></h4>
+			<p class="author-name">
+10
+Dickens H Okello
+31
+</p>
+			</div>
+
+
+			</div>
+			</div>
+
+
+		
+4e
+		
+			<div class="row editor-picked">
+			<div class="media">
+			
+			 					
+30
+					<div class="media-right"> 
+					 <a href="
+6b
+http://www.chimpreports.com/opinion-why-besigye-mbabazi-lost-the-2016-general-elections/"> 
+				<img src="
+54
+http://www.chimpreports.com/wp-content/themes/chimpreport/timthumb/timthumb.php?src=
+de
+http://www.chimpreports.com/wp-content/uploads/2015/12/amama_and_kiiza.jpg&w=120&h=72&a=t&zc=1&q=95" />
+				</a>
+								
+				
+			 </div>
+										
+			<div class="media-body">
+			<h4 class="editor-tittle"><a href="
+5a
+http://www.chimpreports.com/opinion-why-besigye-mbabazi-lost-the-2016-general-elections/">
+62
+Opinion: Why Besigye, Mbabazi Lost the 2016 General Elections</a></h4>
+			<p class="author-name">
+5
+admin
+31
+</p>
+			</div>
+
+
+			</div>
+			</div>
+
+
+		
+4e
+		
+			<div class="row editor-picked">
+			<div class="media">
+			
+			 					
+30
+					<div class="media-right"> 
+					 <a href="
+6c
+http://www.chimpreports.com/8-things-a-bad-relationship-taught-me-about-entrepreneurship/"> 
+				<img src="
+54
+http://www.chimpreports.com/wp-content/themes/chimpreport/timthumb/timthumb.php?src=
+e7
+http://www.chimpreports.com/wp-content/uploads/2015/12/break-up-whatsapp-status.jpg&w=120&h=72&a=t&zc=1&q=95" />
+				</a>
+								
+				
+			 </div>
+										
+			<div class="media-body">
+			<h4 class="editor-tittle"><a href="
+5b
+http://www.chimpreports.com/8-things-a-bad-relationship-taught-me-about-entrepreneurship/">
+57
+8 Entrepreneurship Lessons from a Bad Relationship</a></h4>
+			<p class="author-name">
+5
+admin
+31
+</p>
+			</div>
+
+
+			</div>
+			</div>
+
+
+		
+4e
+		
+			<div class="row editor-picked">
+			<div class="media">
+			
+			 					
+30
+					<div class="media-right"> 
+					 <a href="
+69
+http://www.chimpreports.com/proposed-cities-demand-more-than-just-names-prof-balunywa/"> 
+				<img src="
+54
+http://www.chimpreports.com/wp-content/themes/chimpreport/timthumb/timthumb.php?src=
+d4
+http://www.chimpreports.com/wp-content/uploads/2015/11/Jinja.png&w=120&h=72&a=t&zc=1&q=95" />
+				</a>
+								
+				
+			 </div>
+										
+			<div class="media-body">
+			<h4 class="editor-tittle"><a href="
+58
+http://www.chimpreports.com/proposed-cities-demand-more-than-just-names-prof-balunywa/">
+66
+Proposed Cities Demand More Than Just Names &#8211; Prof Balunywa</a></h4>
+			<p class="author-name">
+15
+Prof. Wasswa Balunywa
+31
+</p>
+			</div>
+
+
+			</div>
+			</div>
+
+
+		
+c
+			</div>
+	
+146
+<div class="g g-27"><div class="g-single a-86"><a class="gofollow" data-track="ODYsMjcsMSwxMA==" href="http://www.munyonyocommonwealth.com/" target="_blank"><img " alt="Header advertisement" src="http://chimpreports.com/wp-content/themes/chimpreport/front-page/images/banner/MunyonyoCommonwealth.gif"></a></div></div>	
+</div>
+b5
+<div id="wpb_widget_most_pupular-2" class="widget widget_wpb_widget_most_pupular"><div class="full-row"><span class="small-tittle">Most Popular </span></div><ul class="list-row">
+		
+9f
+				<li class="row editor-picked">
+			<span class="decimals">1</span>
+			<div class="media">
+				<div class="media-body">
+					<h3> <a class="read-more" href="
+dd
+http://www.chimpreports.com/inside-story-how-rwandas-col-byabagamba-rusagara-fell-in-trouble/">INSIDE STORY: How Rwanda's Col Byabagamba, Rusagara Fell In Trouble </a></h3>
+				</div>
+				<div class="media-right"> 
+					 
+d
+				<a href="
+58
+http://www.chimpreports.com/opinion-ugandans-should-feel-well-served/"> 
+					<img src="
+54
+http://www.chimpreports.com/wp-content/themes/chimpreport/timthumb/timthumb.php?src=
+132
+http://www.chimpreports.com/wp-content/uploads/2016/01/byabagamba-Baine.jpg&w=120&h=72&a=t&zc=1&q=95" />
+				</a>
+								</div>
+			</div>
+		</li>
+				<li class="row editor-picked">
+			<span class="decimals">2</span>
+			<div class="media">
+				<div class="media-body">
+					<h3> <a class="read-more" href="
+b4
+http://www.chimpreports.com/mbabazi-campaign-team-in-road-accident/">PHOTOS: Amama Mbabazi Campaign Team in Road Accident </a></h3>
+				</div>
+				<div class="media-right"> 
+					 
+d
+				<a href="
+58
+http://www.chimpreports.com/opinion-ugandans-should-feel-well-served/"> 
+					<img src="
+54
+http://www.chimpreports.com/wp-content/themes/chimpreport/timthumb/timthumb.php?src=
+126
+http://www.chimpreports.com/wp-content/uploads/2016/01/rita.jpg&w=120&h=72&a=t&zc=1&q=95" />
+				</a>
+								</div>
+			</div>
+		</li>
+				<li class="row editor-picked">
+			<span class="decimals">3</span>
+			<div class="media">
+				<div class="media-body">
+					<h3> <a class="read-more" href="
+d6
+http://www.chimpreports.com/tumwebaze-was-the-presidential-debate-about-form-or-substance/">Tumwebaze: Was the Presidential Debate About Form or Substance? </a></h3>
+				</div>
+				<div class="media-right"> 
+					 
+d
+				<a href="
+58
+http://www.chimpreports.com/opinion-ugandans-should-feel-well-served/"> 
+					<img src="
+54
+http://www.chimpreports.com/wp-content/themes/chimpreport/timthumb/timthumb.php?src=
+12c
+http://www.chimpreports.com/wp-content/uploads/2015/06/tumwebazes.jpg&w=120&h=72&a=t&zc=1&q=95" />
+				</a>
+								</div>
+			</div>
+		</li>
+				<li class="row editor-picked">
+			<span class="decimals">4</span>
+			<div class="media">
+				<div class="media-body">
+					<h3> <a class="read-more" href="
+b8
+http://www.chimpreports.com/part-2-museveni-the-joy-of-campaigning-for-nrm/">PART 2: Museveni: The Joy of Campaigning For NRM </a></h3>
+				</div>
+				<div class="media-right"> 
+					 
+d
+				<a href="
+58
+http://www.chimpreports.com/opinion-ugandans-should-feel-well-served/"> 
+					<img src="
+54
+http://www.chimpreports.com/wp-content/themes/chimpreport/timthumb/timthumb.php?src=
+12c
+http://www.chimpreports.com/wp-content/uploads/2016/01/museveni-s.jpg&w=120&h=72&a=t&zc=1&q=95" />
+				</a>
+								</div>
+			</div>
+		</li>
+				<li class="row editor-picked">
+			<span class="decimals">5</span>
+			<div class="media">
+				<div class="media-body">
+					<h3> <a class="read-more" href="
+c9
+http://www.chimpreports.com/kabale-nrm-members-summoned-for-supporting-independents/">Kabale: NRM Members Summoned for Supporting Independents </a></h3>
+				</div>
+				<div class="media-right"> 
+					 
+d
+				<a href="
+ac
+http://www.chimpreports.com/opinion-ugandans-should-feel-well-served/"> 
+					<img src="http://www.chimpreports.com/wp-content/themes/chimpreport/timthumb/timthumb.php?src=
+144
+http://www.chimpreports.com/wp-content/uploads/2016/01/ninsiisma-ron-awith-nshnagabashija.jpg&w=120&h=72&a=t&zc=1&q=95" />
+				</a>
+								</div>
+			</div>
+		</li>
+				<li class="row editor-picked">
+			<span class="decimals">6</span>
+			<div class="media">
+				<div class="media-body">
+					<h3> <a class="read-more" href="
+c7
+http://www.chimpreports.com/chan-2016-micho-promises-better-show-against-zimbabwe-2/">CHAN 2016: Micho Promises Better Show Against Zimbabwe </a></h3>
+				</div>
+				<div class="media-right"> 
+					 
+d
+				<a href="
+58
+http://www.chimpreports.com/opinion-ugandans-should-feel-well-served/"> 
+					<img src="
+54
+http://www.chimpreports.com/wp-content/themes/chimpreport/timthumb/timthumb.php?src=
+12a
+http://www.chimpreports.com/wp-content/uploads/2016/01/cranes-1.jpg&w=120&h=72&a=t&zc=1&q=95" />
+				</a>
+								</div>
+			</div>
+		</li>
+				<li class="row editor-picked">
+			<span class="decimals">7</span>
+			<div class="media">
+				<div class="media-body">
+					<h3> <a class="read-more" href="
+be
+http://www.chimpreports.com/kiiza-cup-double-sends-mayanjas-simba-to-round-16/">Kiiza' Cup Double Sends Mayanja's Simba to Round 16 </a></h3>
+				</div>
+				<div class="media-right"> 
+					 
+d
+				<a href="
+58
+http://www.chimpreports.com/opinion-ugandans-should-feel-well-served/"> 
+					<img src="
+54
+http://www.chimpreports.com/wp-content/themes/chimpreport/timthumb/timthumb.php?src=
+12d
+http://www.chimpreports.com/wp-content/uploads/2016/01/KIIZA2BGOAL.jpg&w=120&h=72&a=t&zc=1&q=95" />
+				</a>
+								</div>
+			</div>
+		</li>
+				<li class="row editor-picked">
+			<span class="decimals">8</span>
+			<div class="media">
+				<div class="media-body">
+					<h3> <a class="read-more" href="
+c5
+http://www.chimpreports.com/chan-2016-micho-promises-better-show-against-zimbabwe/">Chan 2016: Micho Promises Better Show Against Zimbabwe </a></h3>
+				</div>
+				<div class="media-right"> 
+					 
+d
+				<a href="
+58
+http://www.chimpreports.com/opinion-ugandans-should-feel-well-served/"> 
+					<img src="
+54
+http://www.chimpreports.com/wp-content/themes/chimpreport/timthumb/timthumb.php?src=
+126
+http://www.chimpreports.com/wp-content/uploads/2016/01/okot.jpg&w=120&h=72&a=t&zc=1&q=95" />
+				</a>
+								</div>
+			</div>
+		</li>
+				<li class="row editor-picked">
+			<span class="decimals">9</span>
+			<div class="media">
+				<div class="media-body">
+					<h3> <a class="read-more" href="
+c5
+http://www.chimpreports.com/government-salvages-uganda-girls-from-saudi-detention/">Government Salvages Ugandan Girls From Saudi Detention </a></h3>
+				</div>
+				<div class="media-right"> 
+					 
+d
+				<a href="
+58
+http://www.chimpreports.com/opinion-ugandans-should-feel-well-served/"> 
+					<img src="
+54
+http://www.chimpreports.com/wp-content/themes/chimpreport/timthumb/timthumb.php?src=
+127
+http://www.chimpreports.com/wp-content/uploads/2016/01/ssss.jpg&w=120&h=72&a=t&zc=1&q=95" />
+				</a>
+								</div>
+			</div>
+		</li>
+				<li class="row editor-picked">
+			<span class="decimals">10</span>
+			<div class="media">
+				<div class="media-body">
+					<h3> <a class="read-more" href="
+9f
+http://www.chimpreports.com/col-samson-mandes-father-passes-on/">Col Samson Mande's Father Passes On </a></h3>
+				</div>
+				<div class="media-right"> 
+					 
+d
+				<a href="
+58
+http://www.chimpreports.com/opinion-ugandans-should-feel-well-served/"> 
+					<img src="
+54
+http://www.chimpreports.com/wp-content/themes/chimpreport/timthumb/timthumb.php?src=
+9a
+http://www.chimpreports.com/wp-content/uploads/2016/01/ddd.jpg&w=120&h=72&a=t&zc=1&q=95" />
+				</a>
+								</div>
+			</div>
+		</li>
+						
+	</ul>
+</div>
+44
+<div id="adrotate_widgets-4" class="widget widget_adrotate_widgets">
+65
+<span style="font-weight: bold; color: #f00;">Error, no group ID set! Check your syntax!</span></div>
+9b
+<div id="wpb_widget_latest_post-2" class="widget widget_wpb_widget_latest_post"><div class="full-row"><span class="small-tittle">Latest News</span></div>
+
+132
+<div class="g g-30"><div class="g-single a-69"><br><a class="gofollow" data-track="NjksMzAsMSwxMA==" href="http://specialforcescommand.go.ug/" target="_blank"><img  alt="Header advertisement" src="http://chimpreports.com/wp-content/themes/chimpreport/front-page/images/banner/sfc.jpg"></a> </br</div></div>
+4d
+
+            
+            <div class="row">
+                <h3> <a href="
+56
+http://www.chimpreports.com/government-salvages-uganda-girls-from-saudi-detention/">  
+7a
+Government Salvages Ugandan Girls From Saudi Detention </a> </h3>
+                <div class="media">
+                  
+24
+  <div class="media-left"> <a href="
+c5
+http://www.chimpreports.com/government-salvages-uganda-girls-from-saudi-detention/"> 
+					
+									<img src="http://www.chimpreports.com/wp-content/themes/chimpreport/timthumb/timthumb.php?src=
+ac
+http://www.chimpreports.com/wp-content/uploads/2016/01/ssss.jpg&w=120&h=72&a=t&zc=1&q=95" />
+								
+					</a> </div>                    <div class="media-body">
+						
+2e3
+The Ugandan Embassy in Saudi Arabia in the Middle East has intervened to salvag...  <a class="read-more" href="http://www.chimpreports.com/government-salvages-uganda-girls-from-saudi-detention/">(Read More)</a><div class='at-below-post addthis-toolbox' data-title='Government Salvages Ugandan Girls From Saudi Detention' data-url='http://www.chimpreports.com/government-salvages-uganda-girls-from-saudi-detention/'></div><div class='at-below-post-recommended addthis-toolbox' data-title='Government Salvages Ugandan Girls From Saudi Detention' data-url='http://www.chimpreports.com/government-salvages-uganda-girls-from-saudi-detention/'></div> 
+                    </div>
+                </div>
+				<hr/>
+            </div>
+			
+			
+4d
+
+            
+            <div class="row">
+                <h3> <a href="
+43
+http://www.chimpreports.com/col-samson-mandes-father-passes-on/">  
+6d
+Col Samson Mande&#8217;s Father Passes On </a> </h3>
+                <div class="media">
+                  
+24
+  <div class="media-left"> <a href="
+5e
+http://www.chimpreports.com/col-samson-mandes-father-passes-on/"> 
+					
+									<img src="
+54
+http://www.chimpreports.com/wp-content/themes/chimpreport/timthumb/timthumb.php?src=
+ab
+http://www.chimpreports.com/wp-content/uploads/2016/01/ddd.jpg&w=120&h=72&a=t&zc=1&q=95" />
+								
+					</a> </div>                    <div class="media-body">
+						
+290
+Exiled former rebel commander Col Samson Mande has lost his father. Cyprian Kabe...  <a class="read-more" href="http://www.chimpreports.com/col-samson-mandes-father-passes-on/">(Read More)</a><div class='at-below-post addthis-toolbox' data-title='Col Samson Mande&#8217;s Father Passes On' data-url='http://www.chimpreports.com/col-samson-mandes-father-passes-on/'></div><div class='at-below-post-recommended addthis-toolbox' data-title='Col Samson Mande&#8217;s Father Passes On' data-url='http://www.chimpreports.com/col-samson-mandes-father-passes-on/'></div> 
+                    </div>
+                </div>
+				<hr/>
+            </div>
+			
+			
+4d
+
+            
+            <div class="row">
+                <h3> <a href="
+4b
+http://www.chimpreports.com/ntare-school-chaplain-charged-over-slander/">  
+6e
+Ntare School Chaplain Charged Over Slander </a> </h3>
+                <div class="media">
+                  
+24
+  <div class="media-left"> <a href="
+66
+http://www.chimpreports.com/ntare-school-chaplain-charged-over-slander/"> 
+					
+									<img src="
+54
+http://www.chimpreports.com/wp-content/themes/chimpreport/timthumb/timthumb.php?src=
+ca
+http://www.chimpreports.com/wp-content/uploads/2016/01/Bishop-Sheldon-moving-out-of-court.jpg&w=120&h=72&a=t&zc=1&q=95" />
+								
+					</a> </div>                    <div class="media-body">
+						
+2aa
+Rev. Benard Mushabe and one Jenifer Nduhura appeared before the Mbarara Grade 1 ...  <a class="read-more" href="http://www.chimpreports.com/ntare-school-chaplain-charged-over-slander/">(Read More)</a><div class='at-below-post addthis-toolbox' data-title='Ntare School Chaplain Charged Over Slander' data-url='http://www.chimpreports.com/ntare-school-chaplain-charged-over-slander/'></div><div class='at-below-post-recommended addthis-toolbox' data-title='Ntare School Chaplain Charged Over Slander' data-url='http://www.chimpreports.com/ntare-school-chaplain-charged-over-slander/'></div> 
+                    </div>
+                </div>
+				<hr/>
+            </div>
+			
+			
+4d
+
+            
+            <div class="row">
+                <h3> <a href="
+47
+http://www.chimpreports.com/mbabazi-campaign-team-in-road-accident/">  
+78
+PHOTOS: Amama Mbabazi Campaign Team in Road Accident </a> </h3>
+                <div class="media">
+                  
+24
+  <div class="media-left"> <a href="
+62
+http://www.chimpreports.com/mbabazi-campaign-team-in-road-accident/"> 
+					
+									<img src="
+54
+http://www.chimpreports.com/wp-content/themes/chimpreport/timthumb/timthumb.php?src=
+ac
+http://www.chimpreports.com/wp-content/uploads/2016/01/rita.jpg&w=120&h=72&a=t&zc=1&q=95" />
+								
+					</a> </div>                    <div class="media-body">
+						
+2b2
+Police have commenced investigations into circumstances under which a van carryi...  <a class="read-more" href="http://www.chimpreports.com/mbabazi-campaign-team-in-road-accident/">(Read More)</a><div class='at-below-post addthis-toolbox' data-title='PHOTOS: Amama Mbabazi Campaign Team in Road Accident' data-url='http://www.chimpreports.com/mbabazi-campaign-team-in-road-accident/'></div><div class='at-below-post-recommended addthis-toolbox' data-title='PHOTOS: Amama Mbabazi Campaign Team in Road Accident' data-url='http://www.chimpreports.com/mbabazi-campaign-team-in-road-accident/'></div> 
+                    </div>
+                </div>
+				<hr/>
+            </div>
+			
+			
+4d
+
+            
+            <div class="row">
+                <h3> <a href="
+55
+http://www.chimpreports.com/us-uk-angered-by-delayed-s-sudanese-unity-government/">  
+7a
+US, UK Angered by Delayed S. Sudanese Unity Government </a> </h3>
+                <div class="media">
+                  
+24
+  <div class="media-left"> <a href="
+51
+http://www.chimpreports.com/us-uk-angered-by-delayed-s-sudanese-unity-government/
+1f
+"> 
+					
+									<img src="
+54
+http://www.chimpreports.com/wp-content/themes/chimpreport/timthumb/timthumb.php?src=
+bb
+http://www.chimpreports.com/wp-content/uploads/2015/12/Machar-Kiir-655x360.jpg&w=120&h=72&a=t&zc=1&q=95" />
+								
+					</a> </div>                    <div class="media-body">
+						
+2e1
+The three Torika member countries of United States, United Kingdom and Norway ar... . <a class="read-more" href="http://www.chimpreports.com/us-uk-angered-by-delayed-s-sudanese-unity-government/">(Read More)</a><div class='at-below-post addthis-toolbox' data-title='US, UK Angered by Delayed S. Sudanese Unity Government' data-url='http://www.chimpreports.com/us-uk-angered-by-delayed-s-sudanese-unity-government/'></div><div class='at-below-post-recommended addthis-toolbox' data-title='US, UK Angered by Delayed S. Sudanese Unity Government' data-url='http://www.chimpreports.com/us-uk-angered-by-delayed-s-sudanese-unity-government/'></div> 
+                    </div>
+                </div>
+				<hr/>
+            </div>
+			
+			
+4d
+
+            
+            <div class="row">
+                <h3> <a href="
+58
+http://www.chimpreports.com/kabale-nrm-members-summoned-for-supporting-independents/">  
+7c
+Kabale: NRM Members Summoned for Supporting Independents </a> </h3>
+                <div class="media">
+                  
+24
+  <div class="media-left"> <a href="
+73
+http://www.chimpreports.com/kabale-nrm-members-summoned-for-supporting-independents/"> 
+					
+									<img src="
+40b5
+http://www.chimpreports.com/wp-content/themes/chimpreport/timthumb/timthumb.php?src=http://www.chimpreports.com/wp-content/uploads/2016/01/ninsiisma-ron-awith-nshnagabashija.jpg&w=120&h=72&a=t&zc=1&q=95" />
+								
+					</a> </div>                    <div class="media-body">
+						Several NRM flag bearers running for different local government positions in Kab...  <a class="read-more" href="http://www.chimpreports.com/kabale-nrm-members-summoned-for-supporting-independents/">(Read More)</a><div class='at-below-post addthis-toolbox' data-title='Kabale: NRM Members Summoned for Supporting Independents' data-url='http://www.chimpreports.com/kabale-nrm-members-summoned-for-supporting-independents/'></div><div class='at-below-post-recommended addthis-toolbox' data-title='Kabale: NRM Members Summoned for Supporting Independents' data-url='http://www.chimpreports.com/kabale-nrm-members-summoned-for-supporting-independents/'></div> 
+                    </div>
+                </div>
+				<hr/>
+            </div>
+			
+			
+            
+            <div class="row">
+                <h3> <a href="http://www.chimpreports.com/inside-story-how-rwandas-col-byabagamba-rusagara-fell-in-trouble/">  INSIDE STORY: How Rwanda&#8217;s Col Byabagamba, Rusagara Fell In Trouble </a> </h3>
+                <div class="media">
+                    <div class="media-left"> <a href="http://www.chimpreports.com/inside-story-how-rwandas-col-byabagamba-rusagara-fell-in-trouble/"> 
+					
+									<img src="http://www.chimpreports.com/wp-content/themes/chimpreport/timthumb/timthumb.php?src=http://www.chimpreports.com/wp-content/uploads/2016/01/byabagamba-Baine.jpg&w=120&h=72&a=t&zc=1&q=95" />
+								
+					</a> </div>                    <div class="media-body">
+						Former Chief of Staff Rwanda Republican Guard, Lt Col Tom Byabagamba faces over ...  <a class="read-more" href="http://www.chimpreports.com/inside-story-how-rwandas-col-byabagamba-rusagara-fell-in-trouble/">(Read More)</a><div class='at-below-post addthis-toolbox' data-title='INSIDE STORY: How Rwanda&#8217;s Col Byabagamba, Rusagara Fell In Trouble' data-url='http://www.chimpreports.com/inside-story-how-rwandas-col-byabagamba-rusagara-fell-in-trouble/'></div><div class='at-below-post-recommended addthis-toolbox' data-title='INSIDE STORY: How Rwanda&#8217;s Col Byabagamba, Rusagara Fell In Trouble' data-url='http://www.chimpreports.com/inside-story-how-rwandas-col-byabagamba-rusagara-fell-in-trouble/'></div> 
+                    </div>
+                </div>
+				<hr/>
+            </div>
+			
+			
+            
+            <div class="row">
+                <h3> <a href="http://www.chimpreports.com/man-arrested-for-selling-operation-wealth-creation-cow/">  Man Arrested for Selling Operation Wealth Creation Cow </a> </h3>
+                <div class="media">
+                    <div class="media-left"> <a href="http://www.chimpreports.com/man-arrested-for-selling-operation-wealth-creation-cow/"> 
+					
+									<img src="http://www.chimpreports.com/wp-content/themes/chimpreport/timthumb/timthumb.php?src=http://www.chimpreports.com/wp-content/uploads/2016/01/FRED-THE-SUSPECTED-WHO-SOLD-THE-OWC-COW-AT-KISORO-POLICE-STATION.jpg&w=120&h=72&a=t&zc=1&q=95" />
+								
+					</a> </div>                    <div class="media-body">
+						A 48 year old beneficiary of the UPDF geared Operation Wealth Creation has been ...  <a class="read-more" href="http://www.chimpreports.com/man-arrested-for-selling-operation-wealth-creation-cow/">(Read More)</a><div class='at-below-post addthis-toolbox' data-title='Man Arrested for Selling Operation Wealth Creation Cow' data-url='http://www.chimpreports.com/man-arrested-for-selling-operation-wealth-creation-cow/'></div><div class='at-below-post-recommended addthis-toolbox' data-title='Man Arrested for Selling Operation Wealth Creation Cow' data-url='http://www.chimpreports.com/man-arrested-for-selling-operation-wealth-creation-cow/'></div> 
+                    </div>
+                </div>
+				<hr/>
+            </div>
+			
+			
+            
+            <div class="row">
+                <h3> <a href="http://www.chimpreports.com/kiiza-cup-double-sends-mayanjas-simba-to-round-16/">  Kiiza&#8217; Cup Double Sends Mayanja&#8217;s Simba to Round 16 </a> </h3>
+                <div class="media">
+                    <div class="media-left"> <a href="http://www.chimpreports.com/kiiza-cup-double-sends-mayanjas-simba-to-round-16/"> 
+					
+									<img src="http://www.chimpreports.com/wp-content/themes/chimpreport/timthumb/timthumb.php?src=http://www.chimpreports.com/wp-content/uploads/2016/01/KIIZA2BGOAL.jpg&w=120&h=72&a=t&zc=1&q=95" />
+								
+					</a> </div>                    <div class="media-body">
+						Ugandan Coach Jackson Mayanja&#8217;s incredible start at Simba Sports Club has ...  <a class="read-more" href="http://www.chimpreports.com/kiiza-cup-double-sends-mayanjas-simba-to-round-16/">(Read More)</a><div class='at-below-post addthis-toolbox' data-title='Kiiza&#8217; Cup Double Sends Mayanja&#8217;s Simba to Round 16' data-url='http://www.chimpreports.com/kiiza-cup-double-sends-mayanjas-simba-to-round-16/'></div><div class='at-below-post-recommended addthis-toolbox' data-title='Kiiza&#8217; Cup Double Sends Mayanja&#8217;s Simba to Round 16' data-url='http://www.chimpreports.com/kiiza-cup-double-sends-mayanjas-simba-to-round-16/'></div> 
+                    </div>
+                </div>
+				<hr/>
+            </div>
+			
+			
+            
+            <div class="row">
+                <h3> <a href="http://www.chimpreports.com/chan-2016-micho-promises-better-show-against-zimbabwe-2/">  CHAN 2016: Micho Promises Better Show Against Zimbabwe </a> </h3>
+                <div class="media">
+                    <div class="media-left"> <a href="http://www.chimpreports.com/chan-2016-micho-promises-better-show-against-zimbabwe-2/"> 
+					
+									<img src="http://www.chimpreports.com/wp-content/themes/chimpreport/timthumb/timthumb.php?src=http://www.chimpreports.com/wp-content/uploads/2016/01/cranes-1.jpg&w=120&h=72&a=t&zc=1&q=95" />
+								
+					</a> </div>                    <div class="media-body">
+						Despite losing control of their chances to qualify for the quarter finals of the...  <a class="read-more" href="http://www.chimpreports.com/chan-2016-micho-promises-better-show-against-zimbabwe-2/">(Read More)</a><div class='at-below-post addthis-toolbox' data-title='CHAN 2016: Micho Promises Better Show Against Zimbabwe' data-url='http://www.chimpreports.com/chan-2016-micho-promises-better-show-against-zimbabwe-2/'></div><div class='at-below-post-recommended addthis-toolbox' data-title='CHAN 2016: Micho Promises Better Show Against Zimbabwe' data-url='http://www.chimpreports.com/chan-2016-micho-promises-better-show-against-zimbabwe-2/'></div> 
+                    </div>
+                </div>
+				<hr/>
+            </div>
+			
+			</div><div id="wpb_widget-2" class="widget widget_wpb_widget"><div class="full-row"><span class="small-tittle">Politics</span></div>
+            
+            <div class="row">
+                <h3> <a href="http://www.chimpreports.com/mbabazi-campaign-team-in-road-accident/">  PHOTOS: Amama Mbabazi Campaign Team in Road Accident </a> </h3>
+                <div class="media">
+                    <div class="media-left"> <a href="http://www.chimpreports.com/mbabazi-campaign-team-in-road-accident/"> 
+														<img src="http://www.chimpreports.com/wp-content/themes/chimpreport/timthumb/timthumb.php?src=http://www.chimpreports.com/wp-content/uploads/2016/01/rita.jpg&w=120&h=72&a=t&zc=1&q=95" />
+													</a> </div>
+                    <div class="media-body">
+						Police have commenced investigations into circumstances under which a van carryi...  <a class="read-more" href="http://www.chimpreports.com/mbabazi-campaign-team-in-road-accident/">(Read More)</a><div class='at-below-post addthis-toolbox' data-title='PHOTOS: Amama Mbabazi Campaign Team in Road Accident' data-url='http://www.chimpreports.com/mbabazi-campaign-team-in-road-accident/'></div><div class='at-below-post-recommended addthis-toolbox' data-title='PHOTOS: Amama Mbabazi Campaign Team in Road Accident' data-url='http://www.chimpreports.com/mbabazi-campaign-team-in-road-accident/'></div> 
+                    </div>
+                </div>
+
+            </div>
+			
+			</div><div id="text-10" class="widget widget_text">			<div class="textwidget"><h2>&nbsp;</h2>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ChimplyfAD -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-6107915822901558"
+     data-ad-slot="4915433043"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+		</div><div id="adrotate_widgets-5" class="widget widget_adrotate_widgets"><span style="font-weight: bold; color: #f00;">Error, no group ID set! Check your syntax!</span></div><div id="wpb_widget-3" class="widget widget_wpb_widget"><div class="full-row"><span class="small-tittle">Special Reports</span></div>
+            
+            <div class="row">
+                <h3> <a href="http://www.chimpreports.com/inside-story-how-rwandas-col-byabagamba-rusagara-fell-in-trouble/">  INSIDE STORY: How Rwanda&#8217;s Col Byabagamba, Rusagara Fell In Trouble </a> </h3>
+                <div class="media">
+                    <div class="media-left"> <a href="http://www.chimpreports.com/inside-story-how-rwandas-col-byabagamba-rusagara-fell-in-trouble/"> 
+														<img src="http://www.chimpreports.com/wp-content/themes/chimpreport/timthumb/timthumb.php?src=http://www.chimpreports.com/wp-content/uploads/2016/01/byabagamba-Baine.jpg&w=120&h=72&a=t&zc=1&q=95" />
+													</a> </div>
+                    <div class="media-body">
+						Former Chief of Staff Rwanda Republican Guard, Lt Col Tom Byabagamba faces over ...  <a class="read-more" href="http://www.chimpreports.com/inside-story-how-rwandas-col-byabagamba-rusagara-fell-in-trouble/">(Read More)</a><div class='at-below-post addthis-toolbox' data-title='INSIDE STORY: How Rwanda&#8217;s Col Byabagamba, Rusagara Fell In Trouble' data-url='http://www.chimpreports.com/inside-story-how-rwandas-col-byabagamba-rusagara-fell-in-trouble/'></div><div class='at-below-post-recommended addthis-toolbox' data-title='INSIDE STORY: How Rwanda&#8217;s Col Byabagamba, Rusagara Fell In Trouble' data-url='http://www.chimpreports.com/inside-story-how-rwandas-col-byabagamba-rusagara-fell-in-trouble/'></div> 
+                    </div>
+                </div>
+
+            </div>
+			
+			</div><div id="wpb_widget-4" class="widget widget_wpb_widget"><div class="full-row"><span class="small-tittle">Travel</span></div>
+            
+            <div class="row">
+                <h3> <a href="http://www.chimpreports.com/excitement-as-museveni-commissions-construction-of-kabale-airstrip/">  Excitement as Museveni Commissions Construction of Kabale Airstrip </a> </h3>
+                <div class="media">
+                    <div class="media-left"> <a href="http://www.chimpreports.com/excitement-as-museveni-commissions-construction-of-kabale-airstrip/"> 
+														<img src="http://www.chimpreports.com/wp-content/themes/chimpreport/timthumb/timthumb.php?src=http://www.chimpreports.com/wp-content/uploads/2016/01/president-yoweri-kaguta-museveni-with-kabale-leaderds-being-shown-around-where-the-airstrip-is-to-be-constructed.jpg&w=120&h=72&a=t&zc=1&q=95" />
+													</a> </div>
+                    <div class="media-body">
+						The tourism sector in Kabale district has been given a boost as the Civil Aviati...  <a class="read-more" href="http://www.chimpreports.com/excitement-as-museveni-commissions-construction-of-kabale-airstrip/">(Read More)</a><div class='at-below-post addthis-toolbox' data-title='Excitement as Museveni Commissions Construction of Kabale Airstrip' data-url='http://www.chimpreports.com/excitement-as-museveni-commissions-construction-of-kabale-airstrip/'></div><div class='at-below-post-recommended addthis-toolbox' data-title='Excitement as Museveni Commissions Construction of Kabale Airstrip' data-url='http://www.chimpreports.com/excitement-as-museveni-commissions-construction-of-kabale-airstrip/'></div> 
+                    </div>
+                </div>
+
+            </div>
+			
+			</div><div id="text-11" class="widget widget_text"><div class="full-row"><span class="small-tittle">Like Us on Facebook</span></div>			<div class="textwidget"><iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FChimpReports&amp;width=300&amp;height=290&amp;colorscheme=light&amp;show_faces=true&amp;header=true&amp;stream=false&amp;show_border=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:290px;" allowTransparency="true"></iframe></div>
+		</div>
+
+		</div><!--main right row-->
+	</div><!--/.row --> 	
+	 	
+</section>
+
+
+			
+			
+			
+			<footer id="site-footer" role="contentinfo">
+			
+				<div class="row footer-row">
+				<!--
+				<div class="col-md-2">
+				<ul class="footer-menu">
+				<h4>News</h4>
+				<li><i class="fa fa-chevron-right"></i><a href="#">Politics</a></li>
+                <li><i class="fa fa-chevron-right"></i><a href="#">Eye Reports</a></li>
+
+				</ul>
+				</div>
+				<div class="col-md-2">
+				<ul class="footer-menu">
+				<h4>Entertainment</h4>
+				<li><i class="fa fa-chevron-right"></i><a href="#">BBA 2012</a></li>
+                <li><i class="fa fa-chevron-right"></i><a href="#">Fashion</a></li>
+
+				</ul>
+				</div>
+				<div class="col-md-2">
+				<ul class="footer-menu">
+				<h4>Sport</h4>
+				<li><i class="fa fa-chevron-right"></i><a href="#">Football</a></li>
+                <li><i class="fa fa-chevron-right"></i><a href="#">Basket Ball</a></li>
+
+				</ul>
+				</div>
+				<div class="col-md-2">
+				<ul class="footer-menu">
+				<h4>SPECIAL REPORTS</h4>
+				<li><i class="fa fa-chevron-right"></i><a href="#">Crime & Investigation </a> </li>
+                <li><i class="fa fa-chevron-right"></i><a href="#">Uganda @50 </a></li>
+
+				</ul>
+				</div>
+				
+				<div class="col-md-4">
+				<ul class="footer-menu footer-menu2">
+				<h4>Rcontact us</h4>
+				<li><i class="fa fa-chevron-right"></i><a href="#">contact us
+
+</a> </li>
+                <li><i class="fa fa-chevron-right"></i><a href="#">about us</a></li>
+				</ul><ul class="footer-menu footer-menu3 ">
+				 <li><i class="fa fa-chevron-right"></i><a href="#">Advertise with us</a></li>
+				  <li><i class="fa fa-chevron-right"></i><a href="#">Work for us</a></li>
+
+				</ul>
+				</div>
+				-->
+				<div class="col-md-2 col-sm-2"><ul class="footer-menu"><h4>News</h4><div class="menu-news-3-container"><ul id="menu-news-3" class="menu"><li id="menu-item-45" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-45"><a href="#">Politics</a></li>
+<li id="menu-item-46" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-46"><a href="#">Eye Reports</a></li>
+</ul></div></ul></div><div class="col-md-2 col-sm-2"><ul class="footer-menu"><h4>Entertainment</h4><div class="menu-entertainment-3-container"><ul id="menu-entertainment-3" class="menu"><li id="menu-item-53" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-53"><a href="#">BBA 2012</a></li>
+<li id="menu-item-54" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-54"><a href="#">Fashion</a></li>
+</ul></div></ul></div><div class="col-md-2 col-sm-2"><ul class="footer-menu"><h4>Sports</h4><div class="menu-sport-3-container"><ul id="menu-sport-3" class="menu"><li id="menu-item-51" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-51"><a href="#">Football</a></li>
+<li id="menu-item-52" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-52"><a href="#">Basket Ball</a></li>
+</ul></div></ul></div><div class="col-md-2 col-sm-2"><ul class="footer-menu"><h4>Special Reports</h4><div class="menu-special-reports-2-container"><ul id="menu-special-reports-2" class="menu"><li id="menu-item-49" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-49"><a href="#">Crime &#038; Investigation</a></li>
+<li id="menu-item-50" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50"><a href="#">Uganda @50</a></li>
+</ul></div></ul></div><div class="col-md-2 col-sm-2"><ul class="footer-menu"><h4>Contact Us</h4>
+20f
+<div class="menu-contact-us-container"><ul id="menu-contact-us" class="menu"><li id="menu-item-63057" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63057"><a href="http://www.chimpreports.com/contact-us/"><i class="fa fa-chevron-right"></i>Contact UsContact US</a></li>
+<li id="menu-item-63058" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63058"><a href="http://www.chimpreports.com/about-us/"><i class="fa fa-chevron-right"></i>About Us</a></li>
+</ul></div></ul></div>
+37
+<div class="col-md-2 col-sm-2"><ul class="footer-menu">
+1d1
+<div class="menu-advertise-with-us-container"><ul id="menu-advertise-with-us" class="menu"><li id="menu-item-63061" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-63061"><a href="#"><i class="fa fa-chevron-right"></i>Advertise With Us</a></li>
+<li id="menu-item-63062" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-63062"><a href="#"><i class="fa fa-chevron-right"></i>Work For Us</a></li>
+</ul></div></ul></div>
+4f
+				
+				</div><!--footer-row-->
+				
+				
+				
+				
+				<div class="row">
+				
+46
+<div class="col-md-2 col-sm-2"><ul class="footer-menu"><h4>People</h4>
+15c
+<div class="menu-people-2-container"><ul id="menu-people-2" class="menu"><li id="menu-item-57" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-57"><a href="#">Health</a></li>
+<li id="menu-item-58" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-58"><a href="#">Blogs</a></li>
+</ul></div></ul></div>
+4d
+<div class="col-md-2 col-sm-2"><ul class="footer-menu"><h4>BUSINESS NEWS</h4>
+16c
+<div class="menu-business-news-container"><ul id="menu-business-news" class="menu"><li id="menu-item-47" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-47"><a href="#">Markets</a></li>
+<li id="menu-item-48" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48"><a href="#">Technology</a></li>
+</ul></div></ul></div>
+4c
+<div class="col-md-2 col-sm-2"><ul class="footer-menu"><h4>Reginal News</h4>
+1b1
+<div class="menu-reginal-news-footer-container"><ul id="menu-reginal-news-footer" class="menu"><li id="menu-item-63158" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-63158"><a href="http://www.chimpreports.com/category/rwanda/">Rwanda</a></li>
+<li id="menu-item-63159" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-63159"><a href="#">Upcountry</a></li>
+</ul></div></ul></div>
+1bc
+<div class="col-md-2 col-sm-2"><ul class="footer-menu"><h4>Follow US On</h4>			<div class="textwidget"><ul class="social-menu">
+				
+				<li> </li>
+                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+				<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+			<li><a href="#"><i class="fa fa-google-plus"></i>
+</a></li>
+				<li><a href="#"><i class="fa fa-youtube"></i></a></li>
+				
+				</ul></div>
+		</ul></div>
+103
+<div class="col-md-2 col-sm-2"><ul class="footer-menu">			<div class="textwidget"><figure> <a class="logo-footer" href="http://chimpreports.com/"> <img src="http://chimpreports.com/wp-content/uploads/2015/02/chimp-logo.png"> </a> </figure></div>
+		</ul></div>
+4fd
+				<!--
+				<div class="col-md-2">
+				<ul class="footer-menu">
+				<h4>PEOPLE</h4>
+				<li><i class="fa fa-chevron-right"></i><a href="#">Health
+
+
+</a> </li>
+                <li><i class="fa fa-chevron-right"></i><a href="#">Blogs</a></li>
+
+				</ul>
+				</div>
+				
+				
+				
+				<div class="col-md-2">
+				<ul class="footer-menu">
+				<h4>BUSINESS NEWS</h4>
+				<li><i class="fa fa-chevron-right"></i><a href="#">Markets
+
+
+
+
+</a> </li>
+                <li><i class="fa fa-chevron-right"></i><a href="#">Technology</a></li>
+
+				</ul>
+				</div>
+				<div class="col-md-2">
+				<ul class="footer-menu">
+				<h4>REGIONAL NEWS</h4>
+				<li><i class="fa fa-chevron-right"></i><a href="#">Rwanda</a> </li>
+                <li><i class="fa fa-chevron-right"></i><a href="#">Upcountry</a></li>
+
+				</ul>
+				</div>
+				<div class="col-md-3">
+				<ul class="social-menu">
+				<h4>follow us on</h4>
+				<li> </li>
+                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+				<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+				<li><a href="#"><i class="fa fa-google-plus"></i>
+</a></li>
+				<li><a href="#"><i class="fa fa-youtube"></i></a></li>
+				</ul>
+				</div>
+				<div class="col-md-2">
+				
+				
+				<figure> <a href="#" class="logo-footer"> <img src="
+91
+http://www.chimpreports.com/wp-content/themes/chimpreport/img/logo-footer.jpg"> </a> </figure>
+				
+				</div>
+				-->
+				<div class="row">
+				
+9c
+			<div class="textwidget"><p class="copy">&copy;2014 ChimpReports is a Chimp Media Ltd Initiative. Registered in Uganda. All rights reserved. </p></div>
+		
+aa
+				</div>
+				</div>	
+				
+			</footer>
+		</div><!--.container page-container-->
+		
+		
+		<!--wordpress footer--></div><!--.site-content-->
+		<link rel="stylesheet"href="
+bf
+http://www.chimpreports.com/wp-content/themes/chimpreport/css/responsiveslides.css"/>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+		<script src="
+acd
+http://www.chimpreports.com/wp-content/themes/chimpreport/js/responsiveslides.min.js"></script>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- CR leadBod 728x90 -->
+
+		<script type="text/javascript">
+		$(function () {
+
+      // Slideshow 1
+      $("#slider1").responsiveSlides({
+        maxwidth: 800,
+        speed: 800
+      });
+
+      // Slideshow 2
+      $("#slider2").responsiveSlides({
+        auto: false,
+        pager: true,
+        speed: 300,
+		nav: true,
+        namespace: "callbacks",
+        maxwidth: 540
+      });
+
+      // Slideshow 3
+      $("#slider3").responsiveSlides({
+        manualControls: '#slider3-pager',
+        maxwidth: 540
+      });
+
+      // Slideshow 4
+      $("#slider4").responsiveSlides({
+        auto: true,
+        pager: true,
+        nav: true,
+        speed: 500,
+        namespace: "callbacks",
+        before: function () {
+          $('.events').append("<li>before event fired.</li>");
+        },
+        after: function () {
+          $('.events').append("<li>after event fired.</li>");
+        }
+      });
+	    $("#slider5").responsiveSlides({
+        auto: false,
+        pager: true,
+        nav: true,
+        speed: 500,
+        namespace: "callbacks",
+        before: function () {
+          $('.events').append("<li>before event fired.</li>");
+        },
+        after: function () {
+          $('.events').append("<li>after event fired.</li>");
+        }
+      });
+
+
+    });
+	
+	jQuery(document).ready(function(){
+		/* jQuery for floating top menu */
+		if(jQuery(window).width() > 768){
+		var height = jQuery("header.header-main").height(); 
+		if(jQuery(window).scrollTop() > height){
+			//jQuery("div.middle-header").show();
+			jQuery("div.middle-header").addClass('navbar-fixed-top');
+		}
+		jQuery( window ).scroll(function() {
+			if(jQuery(window).scrollTop() > height){
+				//jQuery("div.middle-header").show();
+				jQuery("div.middle-header").addClass('navbar-fixed-top');
+			}
+			else{
+				//jQuery("div.middle-header").hide();
+				jQuery("div.middle-header").removeClass('navbar-fixed-top');
+				
+			}
+		});
+		}
+		
+		/* jQuery for floating top menu Ends */
+		
+		var height = jQuery(".article-page-links h2").height(); 
+		if(jQuery(window).scrollTop() > height){
+			//jQuery("div.middle-header").show();
+			
+		}
+		jQuery( window ).scroll(function() {
+			if(jQuery(window).scrollTop() > height){
+				//jQuery("div.middle-header").show();
+				jQuery("#sharing_single_post").addClass('sharing-fixed');
+				if(jQuery(window).width() <= 768){
+					jQuery("#sharing_single_post").css('top','0px');
+				}
+			}
+			else{
+				//jQuery("div.middle-header").hide();
+				jQuery("#sharing_single_post").removeClass('sharing-fixed');
+				
+			}
+		});
+	});
+		</script>
+		
+		
+
+17c
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=242372505811289";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+
+
+573
+    <script type="text/javascript" src="https://apis.google.com/js/platform.js">
+      {parsetags: 'explicit'}
+    </script>
+<link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+
+<script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+<script type="text/javascript">
+	jQuery(".datepicker").datepicker({ dateFormat: 'yy-mm-dd',  maxDate: 0 });
+	function subimt_button(){
+		if((new Date(document.getElementById("end_date").value) < new Date(document.getElementById("start_date").value)) || document.getElementById("start_date").value == '') { 
+			alert("Please select correct date");
+			document.getElementById("end_date").style.border = "1px solid red";
+			if(document.getElementById("start_date").value == ''){
+				document.getElementById("start_date").style.border = "1px solid red";
+			}
+			return false;
+		}
+		else{
+			document.getElementById('advance_search_form').submit();
+		}
+	}
+	function clearInput(){
+		//alert(document.getElementsByClassName('inp_box').value); 
+		document.getElementsByClassName('inp_box')[0].value = '';
+		document.getElementsByClassName('inp_box')[1].value = '';
+		document.getElementsByClassName('inp_box')[2].value = '';
+		document.getElementsByClassName('inp_box')[4].value = '';
+	}
+	
+</script>
+<style>
+@media (max-width:979px){
+	.mobile{
+	display:none !important;
+}
+.g {
+    display: none !important;
+}
+}
+</style>
+
+
+120
+
+<script type="text/javascript"><!--
+wpa2a.targets=[
+{title:'Opinion: Ugandans Should Feel Well Served',url:'http://www.chimpreports.com/opinion-ugandans-should-feel-well-served/'}];
+wpa2a.html_done=true;if(wpa2a.script_ready&&!wpa2a.done)wpa2a.init();wpa2a.script_load();
+//--></script>
+
+55
+    <script type="text/javascript">
+    // <![CDATA[
+        var disqus_shortname = '
+467
+chimpreports';
+        (function () {
+            var nodes = document.getElementsByTagName('span');
+            for (var i = 0, url; i < nodes.length; i++) {
+                if (nodes[i].className.indexOf('dsq-postid') != -1) {
+                    nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('rel'));
+                    url = nodes[i].parentNode.href.split('#', 1);
+                    if (url.length == 1) url = url[0];
+                    else url = url[1]
+                    nodes[i].parentNode.href = url + '#disqus_thread';
+                }
+            }
+            var s = document.createElement('script'); s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+    //]]>
+    </script>
+<script type="text/javascript">var addthis_for_wordpress = 'wpp-4.0';
+</script><script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-546b41e5172e58d4"></script>
+9f
+<script type='text/javascript'>
+/* <![CDATA[ */
+var click_object = {"ajax_url":"http:\/\/www.chimpreports.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+
+93
+<script type='text/javascript' src='http://www.chimpreports.com/wp-content/plugins/adrotate-pro/library/jquery.adrotate.clicktracker.js'></script>
+
+21f
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ratingsL10n = {"plugin_url":"http:\/\/www.chimpreports.com\/wp-content\/plugins\/wp-postratings","ajax_url":"http:\/\/www.chimpreports.com\/wp-admin\/admin-ajax.php","text_wait":"Please rate only 1 post at a time.","image":"stars","image_ext":"gif","max":"5","show_loading":"1","show_fading":"1","custom":"0"};
+var ratings_mouseover_image=new Image();ratings_mouseover_image.src=ratingsL10n.plugin_url+"/images/"+ratingsL10n.image+"/rating_over."+ratingsL10n.image_ext;;
+/* ]]> */
+</script>
+
+87
+<script type='text/javascript' src='http://www.chimpreports.com/wp-content/plugins/wp-postratings/postratings-js.js?ver=1.8'></script>
+
+1cf
+<script type='text/javascript'>
+/* <![CDATA[ */
+var JQLBSettings = {"fitToScreen":"0","resizeSpeed":"400","displayDownloadLink":"0","navbarOnTop":"0","loopImages":"","resizeCenter":"","marginSize":"","linkTarget":"_self","help":"","prevLinkTitle":"previous image","nextLinkTitle":"next image","prevLinkText":"\u00ab Previous","nextLinkText":"Next \u00bb","closeTitle":"close image gallery","image":"Image ","of":" of ","download":"Download"};
+/* ]]> */
+</script>
+
+8d
+<script type='text/javascript' src='http://www.chimpreports.com/wp-content/plugins/wp-lightbox-2/wp-lightbox-2.min.js?ver=1.3.4.1'></script>
+
+74
+<script type='text/javascript' src='http://www.chimpreports.com/wp-includes/js/wp-embed.min.js?ver=4.4.1'></script>
+
+90
+<script type='text/javascript' src='http://www.chimpreports.com/wp-content/themes/chimpreport/js/vendor/jquery.bxslider.js?ver=4.4.1'></script>
+
+56
+<!-- AdRotate JS -->
+<script type="text/javascript">
+</script>
+<!-- /AdRotate JS -->
+
+
+3fa
+<!--wp_footer--> 
+<script>  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');  ga('create', 'UA-26264099-1', 'auto');  ga('send', 'pageview');</script>
+
+<script type="text/javascript">
+ /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+ var disqus_shortname = 'chimpreports'; // required: replace example with your forum shortname
+/* * * DON'T EDIT BELOW THIS LINE * * */
+ (function () {
+ var s = document.createElement('script'); s.async = true;
+ s.type = 'text/javascript';
+ s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+ (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+ }());
+ </script>
+ 
+  <div class="mobile" style="position:fixed;right:0; top:0;">
+  
+ 
+1e2
+<div class="g g-35"><div class="g-single a-79"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 160X600_2 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:120px;height:600px"
+     data-ad-client="ca-pub-6107915822901558"
+     data-ad-slot="8223399842"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div> 
+ </div>
+ <div class="mobile" style="position:fixed; left:0; top:0;">
+ 
+7a
+<!-- Either there are no banners, they are disabled or none qualified for this location! --> 
+ </div>
+ 
+
+ 
+</body>
+</html>
+a3
+<script>
+jQuery( document ).ready(function() {
+
+ 	 
+
+jQuery( ".a2a_s_google_plus" ).after( "<span class='a2a_count'><span>0</span></span>" );  
+
+
+	});
+	
+</script> 
+0
+
+
+
+WARC/1.0
+WARC-Type: metadata
+WARC-Record-ID: <urn:uuid:f73d1a0b-984b-406a-af90-0933d63006c0>
+WARC-Warcinfo-ID: <urn:uuid:b55b0320-6869-47d6-96b1-055a255e7c32>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/MANIFEST.txt
+WARC-Date: 2016-01-25T00:10:39Z
+Content-Type: text/plain
+Content-Length: 48
+
+<urn:uuid:b55b0320-6869-47d6-96b1-055a255e7c32>
+
+
+WARC/1.0
+WARC-Type: resource
+WARC-Record-ID: <urn:uuid:21df8551-0051-4a1b-988c-91e7f61ad1ea>
+WARC-Warcinfo-ID: <urn:uuid:b55b0320-6869-47d6-96b1-055a255e7c32>
+WARC-Concurrent-To: <urn:uuid:f73d1a0b-984b-406a-af90-0933d63006c0>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/wget_arguments.txt
+WARC-Date: 2016-01-25T00:10:39Z
+Content-Type: text/plain
+Content-Length: 217
+
+"--warc-file" "opinion-ugandans-should-feel-well-served" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "-q" "-O" "/dev/null" "http://www.chimpreports.com/opinion-ugandans-should-feel-well-served/" 
+
+

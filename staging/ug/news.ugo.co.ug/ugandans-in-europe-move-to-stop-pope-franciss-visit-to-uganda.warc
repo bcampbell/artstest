@@ -1,0 +1,1085 @@
+WARC/1.0
+WARC-Type: warcinfo
+Content-Type: application/warc-fields
+WARC-Date: 2016-01-22T03:46:16Z
+WARC-Record-ID: <urn:uuid:3c5c9fd1-635c-4f77-b51a-0089aebb0a3f>
+WARC-Filename: ugandans-in-europe-move-to-stop-pope-franciss-visit-to-uganda.warc
+Content-Length: 433
+
+software: Wget/1.16.1 (linux-gnu)
+format: WARC File Format 1.0
+conformsTo: http://bibnum.bnf.fr/WARC/WARC_ISO_28500_version1_latestdraft.pdf
+robots: classic
+wget-arguments: "--warc-file" "ugandans-in-europe-move-to-stop-pope-franciss-visit-to-uganda" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "-q" "-O" "/dev/null" "http://news.ugo.co.ug/ugandans-in-europe-move-to-stop-pope-franciss-visit-to-uganda/" 
+
+
+
+WARC/1.0
+WARC-Type: request
+WARC-Target-URI: http://news.ugo.co.ug/ugandans-in-europe-move-to-stop-pope-franciss-visit-to-uganda/
+Content-Type: application/http;msgtype=request
+WARC-Date: 2016-01-22T03:46:16Z
+WARC-Record-ID: <urn:uuid:0512c915-b59f-4947-b7af-a55e2fb40a1e>
+WARC-IP-Address: 173.254.127.15
+WARC-Warcinfo-ID: <urn:uuid:3c5c9fd1-635c-4f77-b51a-0089aebb0a3f>
+Content-Length: 203
+
+GET /ugandans-in-europe-move-to-stop-pope-franciss-visit-to-uganda/ HTTP/1.1
+User-Agent: Wget/1.16.1 (linux-gnu)
+Accept: */*
+Accept-Encoding: identity
+Host: news.ugo.co.ug
+Connection: Keep-Alive
+
+
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <urn:uuid:344d9afa-8d35-431c-9e48-28168eb856a0>
+WARC-Warcinfo-ID: <urn:uuid:3c5c9fd1-635c-4f77-b51a-0089aebb0a3f>
+WARC-Concurrent-To: <urn:uuid:0512c915-b59f-4947-b7af-a55e2fb40a1e>
+WARC-Target-URI: http://news.ugo.co.ug/ugandans-in-europe-move-to-stop-pope-franciss-visit-to-uganda/
+WARC-Date: 2016-01-22T03:46:16Z
+WARC-IP-Address: 173.254.127.15
+Content-Type: application/http;msgtype=response
+Content-Length: 76612
+
+HTTP/1.1 200 OK
+Date: Fri, 22 Jan 2016 03:46:16 GMT
+Server: Apache
+Vary: Cookie,Accept-Encoding
+X-Pingback: http://news.ugo.co.ug/xmlrpc.php
+Link: <http://news.ugo.co.ug/wp-json/>; rel="https://api.w.org/", <http://news.ugo.co.ug/?p=63846>; rel=shortlink
+Set-Cookie: wfvt_2361191077=56a1a609df907; expires=Fri, 22-Jan-2016 04:16:17 GMT; path=/; httponly
+Cache-Control: max-age=172800
+Expires: Sun, 24 Jan 2016 03:46:16 GMT
+Keep-Alive: timeout=10, max=500
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+12907
+
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="en-US">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<!-- <meta http-equiv="refresh" content="900"> --> 
+<meta name="viewport" content="width=device-width" />
+<meta name="author" content="UGO Uganda" />
+<meta name="revisit-after" content="10 days" />
+<title>Ugandans In Europe Move To Stop Pope Francis’s Visit To Uganda</title>
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+googletag.defineSlot('/19353156/Top_Banner', [728, 90], 'div-gpt-ad-1392120323593-0').addService(googletag.pubads());
+googletag.defineSlot('/19353156/Medium_Ads', [300, 250], 'div-gpt-ad-1437990340563-0').addService(googletag.pubads());
+googletag.defineSlot('/19353156/MTN_Ugo', [300, 250], 'div-gpt-ad-1437988385042-0').addService(googletag.pubads());
+googletag.defineSlot('/19353156/Medium_Ad4', [300, 250], 'div-gpt-ad-1446795701706-0').addService(googletag.pubads());
+googletag.defineSlot('/19353156/Small_Ads', [300, 120], 'div-gpt-ad-1393943309921-0').addService(googletag.pubads());
+googletag.defineSlot('/19353156/Medium_Ad_2', [300, 250], 'div-gpt-ad-1392279628968-0').addService(googletag.pubads());
+googletag.defineSlot('/19353156/Medium_Ad_3', [300, 250], 'div-gpt-ad-1429106901524-0').addService(googletag.pubads());
+googletag.defineSlot('/19353156/Side_Ad-Left', [120, 500], 'div-gpt-ad-1392299332798-0').addService(googletag.pubads());
+googletag.defineSlot('/19353156/Side_Ad-Right', [120, 500], 'div-gpt-ad-1392388180750-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
+</script>
+<link rel="stylesheet" type="text/css" media="all" href="http://news.ugo.co.ug/wp-content/themes/wt_eris/style.css" />
+<!--[if lt IE 9]>
+<script src="http://news.ugo.co.ug/wp-content/themes/wt_eris/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+
+<script type="text/javascript">
+	var themeDir = "http://news.ugo.co.ug/wp-content/themes/wt_eris";
+</script>
+
+<style type='text/css'>
+          .no-break br {
+            display: none !important;
+          }
+      </style>
+<!-- This site is optimized with the Yoast SEO plugin v3.0.7 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="A group called Uganda Diaspora Europe (UDE), a political pressure group in Netherlands, authored the petition asking Pope to call off his visit to Uganda."/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="http://news.ugo.co.ug/ugandans-in-europe-move-to-stop-pope-franciss-visit-to-uganda/" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="UGO News &raquo; Feed" href="http://news.ugo.co.ug/feed/" />
+<link rel="alternate" type="application/rss+xml" title="UGO News &raquo; Comments Feed" href="http://news.ugo.co.ug/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="UGO News &raquo; Ugandans In Europe Move To Stop Pope Francis’s Visit To Uganda Comments Feed" href="http://news.ugo.co.ug/ugandans-in-europe-move-to-stop-pope-franciss-visit-to-uganda/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/news.ugo.co.ug\/wp-includes\/js\/wp-emoji-release.min.js?ver=fb5c76571abb2dc7e2a06df2b10937f7"}};
+			!function(a,b,c){function d(a){var c,d=b.createElement("canvas"),e=d.getContext&&d.getContext("2d");return e&&e.fillText?(e.textBaseline="top",e.font="600 32px Arial","flag"===a?(e.fillText(String.fromCharCode(55356,56806,55356,56826),0,0),d.toDataURL().length>3e3):"diversity"===a?(e.fillText(String.fromCharCode(55356,57221),0,0),c=e.getImageData(16,16,1,1).data.toString(),e.fillText(String.fromCharCode(55356,57221,55356,57343),0,0),c!==e.getImageData(16,16,1,1).data.toString()):("simple"===a?e.fillText(String.fromCharCode(55357,56835),0,0):e.fillText(String.fromCharCode(55356,57135),0,0),0!==e.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='fblb-css-css'  href='http://news.ugo.co.ug/wp-content/plugins/arscode-social-slider/fblb.css?ver=fb5c76571abb2dc7e2a06df2b10937f7' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-lionbars-css'  href='http://news.ugo.co.ug/wp-content/plugins/arscode-social-slider/lionbars/lionbars.css?ver=fb5c76571abb2dc7e2a06df2b10937f7' type='text/css' media='all' />
+<!--[if lte IE 7]>
+<link rel='stylesheet' id='fblb-css-ie7-css'  href='http://news.ugo.co.ug/wp-content/plugins/arscode-social-slider/ie7.css?ver=fb5c76571abb2dc7e2a06df2b10937f7' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='googletranslate-style-css'  href='http://news.ugo.co.ug/wp-content/plugins/translate-google/googletranslate-style.css?ver=fb5c76571abb2dc7e2a06df2b10937f7' type='text/css' media='all' />
+<link rel='stylesheet' id='super-rss-reader-css-css'  href='http://news.ugo.co.ug/wp-content/plugins/super-rss-reader/public/srr-css.css?ver=fb5c76571abb2dc7e2a06df2b10937f7' type='text/css' media='all' />
+<link rel='stylesheet' id='wordpress-popular-posts-css'  href='http://news.ugo.co.ug/wp-content/plugins/wordpress-popular-posts/style/wpp.css?ver=fb5c76571abb2dc7e2a06df2b10937f7' type='text/css' media='all' />
+<script type='text/javascript' src='http://news.ugo.co.ug/wp-includes/js/jquery/jquery.js?ver=fb5c76571abb2dc7e2a06df2b10937f7'></script>
+<script type='text/javascript' src='http://news.ugo.co.ug/wp-includes/js/jquery/jquery-migrate.min.js?ver=fb5c76571abb2dc7e2a06df2b10937f7'></script>
+<script type='text/javascript' src='http://news.ugo.co.ug/wp-content/plugins/arscode-social-slider/js/userscripts.js?ver=fb5c76571abb2dc7e2a06df2b10937f7'></script>
+<script type='text/javascript' src='http://news.ugo.co.ug/wp-content/plugins/arscode-social-slider/lionbars/jquery.lionbars.0.3.min.js?ver=fb5c76571abb2dc7e2a06df2b10937f7'></script>
+<script type='text/javascript' src='http://news.ugo.co.ug/wp-content/plugins/super-rss-reader/public/srr-js.js?ver=fb5c76571abb2dc7e2a06df2b10937f7'></script>
+<script type='text/javascript' src='http://news.ugo.co.ug/wp-content/themes/wt_eris/js/hoverIntent.js?ver=fb5c76571abb2dc7e2a06df2b10937f7'></script>
+<script type='text/javascript' src='http://news.ugo.co.ug/wp-includes/js/hoverIntent.min.js?ver=fb5c76571abb2dc7e2a06df2b10937f7'></script>
+<script type='text/javascript' src='http://news.ugo.co.ug/wp-content/themes/wt_eris/js/superfish.js?ver=fb5c76571abb2dc7e2a06df2b10937f7'></script>
+<script type='text/javascript' src='http://news.ugo.co.ug/wp-content/themes/wt_eris/js/flexslider-min.js?ver=fb5c76571abb2dc7e2a06df2b10937f7'></script>
+<script type='text/javascript' src='http://news.ugo.co.ug/wp-content/themes/wt_eris/js/lightbox.js?ver=fb5c76571abb2dc7e2a06df2b10937f7'></script>
+<script type='text/javascript' src='http://news.ugo.co.ug/wp-content/themes/wt_eris/js/jflickrfeed.min.js?ver=fb5c76571abb2dc7e2a06df2b10937f7'></script>
+<script type='text/javascript' src='http://news.ugo.co.ug/wp-content/themes/wt_eris/js/jquery.mobilemenu.js?ver=fb5c76571abb2dc7e2a06df2b10937f7'></script>
+<script type='text/javascript' src='http://news.ugo.co.ug/wp-content/themes/wt_eris/js/jcarousellite_1.0.1.min.js?ver=fb5c76571abb2dc7e2a06df2b10937f7'></script>
+<script type='text/javascript' src='http://news.ugo.co.ug/wp-content/themes/wt_eris/js/custom.js?ver=fb5c76571abb2dc7e2a06df2b10937f7'></script>
+<link rel='https://api.w.org/' href='http://news.ugo.co.ug/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://news.ugo.co.ug/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://news.ugo.co.ug/wp-includes/wlwmanifest.xml" /> 
+
+<link rel='shortlink' href='http://news.ugo.co.ug/?p=63846' />
+<link rel="alternate" type="application/json+oembed" href="http://news.ugo.co.ug/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fnews.ugo.co.ug%2Fugandans-in-europe-move-to-stop-pope-franciss-visit-to-uganda%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://news.ugo.co.ug/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fnews.ugo.co.ug%2Fugandans-in-europe-move-to-stop-pope-franciss-visit-to-uganda%2F&#038;format=xml" />
+<script charset="utf-8" type="text/javascript">var switchTo5x=true;</script>
+<script charset="utf-8" type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script charset="utf-8" type="text/javascript">stLight.options({"publisher":"31f34e84-9fed-4e1c-bc6a-bca481bb33df","doNotCopy":true,"hashAddressBar":false,"doNotHash":true});var st_type="wordpress4.2.4";</script>
+
+	<meta property="og:image" content="http://news.ugo.co.ug/wp-content/uploads/2015/09/Pope-Francis-is-coming-to-Uganda-500x310.jpg" />
+ 
+
+<link rel="shortcut icon" href="http://ugo.co.ug/images/favicon.ico" />	
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-22938200-3']);
+  _gaq.push(['_setDomainName', '.ugo.co.ug']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- Custom CSS Styles -->
+<style type="text/css"> 
+ 
+</style>
+<!-- /Custom CSS Styles -->
+
+				<!-- WordPress Popular Posts v3.3.3 -->
+				<script type="text/javascript">//<![CDATA[
+
+					var sampling_active = 0;
+					var sampling_rate   = 100;
+					var do_request = false;
+
+					if ( !sampling_active ) {
+						do_request = true;
+					} else {
+						var num = Math.floor(Math.random() * sampling_rate) + 1;
+						do_request = ( 1 === num );
+					}
+
+					if ( do_request ) {
+
+						// Create XMLHttpRequest object and set variables
+						var xhr = ( window.XMLHttpRequest )
+						  ? new XMLHttpRequest()
+						  : new ActiveXObject( "Microsoft.XMLHTTP" ),
+						url = 'http://news.ugo.co.ug/wp-admin/admin-ajax.php',
+						params = 'action=update_views_ajax&token=dc11ec52cd&wpp_id=63846';
+						// Set request method and target URL
+						xhr.open( "POST", url, true );
+						// Set request header
+						xhr.setRequestHeader( "Content-type", "application/x-www-form-urlencoded" );
+						// Hook into onreadystatechange
+						xhr.onreadystatechange = function() {
+							if ( 4 === xhr.readyState && 200 === xhr.status ) {
+								if ( window.console && window.console.log ) {
+									window.console.log( xhr.responseText );
+								}
+							}
+						};
+						// Send request
+						xhr.send( params );
+
+					}
+
+				//]]></script>
+				<!-- End WordPress Popular Posts v3.3.3 -->
+				<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//news.ugo.co.ug/?wordfence_logHuman=1&hid=4B6E9488233EAB5B3E7F4A94A6F26FD0');
+</script>
+<link href="/wp-content/themes/wt_eris/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+<script type="text/javascript">
+var rootdomain="http://"+window.location.hostname
+function ajaxinclude(url) {
+var page_request = false
+if (window.XMLHttpRequest)
+page_request = new XMLHttpRequest()
+else if (window.ActiveXObject){
+try{page_request = new ActiveXObject("Msxml2.XMLHTTP")}
+catch(e){
+	try{page_request = new ActiveXObject("Microsoft.XMLHTTP")}
+	catch(e){}
+}
+}
+else
+return false
+page_request.open('GET', url, false)
+page_request.send(null)
+writecontent(page_request)
+}
+function writecontent(page_request){if(window.location.href.indexOf("http")==-1 || page_request.status==200) document.write(page_request.responseText)}
+</script>
+<script type="text/javascript">
+jQuery(document).ready(function($){
+	$(window).scroll(function(){
+		$('#masthead').removeClass('site-header');
+		if($(document).scrollTop() > 64){
+			$('#top_tools').addClass('show_top_tools');$('#top_tiny_logo').addClass('top_tiny_logo');
+			$('#main-menu').addClass('fixed_navigation');$('#masthead').addClass('site-header');
+		}
+		else{
+			$('#top_tools').removeClass('show_top_tools');$('#top_tiny_logo').removeClass('top_tiny_logo');
+			$('#main-menu').removeClass('fixed_navigation');$('#masthead').removeClass('site-header');
+		}
+	});
+	$('#top_tiny_logo').click(function(){ window.location = 'http://news.ugo.co.ug/'; });
+});
+</script>
+</head>
+
+<body class="single single-post postid-63846 single-format-standard uncategorized">
+
+<div id="top_tools">
+	<div class="top_tools">
+		<div id="top_tiny_logo"></div>
+		<li id="googletranslate" class="widget googletranslate_widget"><!-- googletranslate: http://google.com -->
+<div id="google_translate_element"></div>
+<script type="text/javascript">
+function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: ''}, 'google_translate_element');}
+</script><script type="text/javascript" src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+</li>
+<li id="text-19" class="widget widget_text">			<div class="textwidget"><div class="date-time">
+Friday, Jan 22 2016, 6:46:17 AM</div></div>
+		</li>
+	</div> 
+</div>
+
+<div class="all-body">
+	
+				
+<div id="container" class="hfeed">
+	<div id = "container_advert">
+	<header id="header" role="banner">
+		
+	
+
+
+		
+
+		<div class="wrap">
+			<div class="logo">
+
+			
+				<h1>
+
+					<a href="http://news.ugo.co.ug" title="UGO News">
+
+						 <img src="http://news.ugo.co.ug/wp-content/themes/wt_eris/images/logo.gif" alt="UGO News" />
+					</a>
+
+				</h1>	
+
+				
+
+			</div>	<!-- /logo -->		
+
+				
+
+			
+			<div class="ad468">
+
+			<div class="widget-head"> 
+
+				<li id="text-22" class="widget widget_text">			<div class="textwidget"><script>
+  (function() {
+    var cx = '011376450540358121994:hniors4pafw';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search></div>
+		</li>
+
+			</div>
+
+			<div class="weather-widget">
+
+				
+			</div>     
+
+						
+
+				</div>
+
+			
+		
+
+		</div> <!-- /wrap -->		
+
+				
+
+		<div id="main-menu">
+
+			<ul id="menu-ugo" class="menu"><li id="menu-item-18296" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18296"><a href="http://ugo.co.ug">Home</a></li>
+<li id="menu-item-18299" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-has-children menu-item-18299"><a href="http://news.ugo.co.ug">News</a>
+<ul class="sub-menu">
+	<li id="menu-item-18311" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18311"><a href="http://news.ugo.co.ug/category/featured/">Featured</a></li>
+	<li id="menu-item-18292" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18292"><a href="http://news.ugo.co.ug/local/">Local</a></li>
+	<li id="menu-item-18310" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18310"><a href="http://news.ugo.co.ug/category/eastafrica/">East Africa</a></li>
+	<li id="menu-item-18309" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18309"><a href="http://news.ugo.co.ug/category/africa/">Africa</a></li>
+	<li id="menu-item-18293" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18293"><a href="http://news.ugo.co.ug/international/">International</a></li>
+	<li id="menu-item-18294" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18294"><a href="http://news.ugo.co.ug/sports/">Sports</a></li>
+	<li id="menu-item-18297" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18297"><a href="http://news.ugo.co.ug/business/">Business</a></li>
+	<li id="menu-item-18298" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18298"><a href="http://news.ugo.co.ug/education/">Education</a></li>
+	<li id="menu-item-28738" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-28738"><a href="http://news.ugo.co.ug/health-2/">Health</a></li>
+	<li id="menu-item-18295" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18295"><a href="http://news.ugo.co.ug/tourism/">Tourism</a></li>
+	<li id="menu-item-18291" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18291"><a href="http://news.ugo.co.ug/technology/">Technology</a></li>
+	<li id="menu-item-18290" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18290"><a href="http://news.ugo.co.ug/entertainment/">Entertainment</a></li>
+	<li id="menu-item-28739" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-28739"><a href="http://news.ugo.co.ug/odd/">Odd</a></li>
+</ul>
+</li>
+<li id="menu-item-18302" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18302"><a href="http://ugo.co.ug/ugdecides">Elections 2016</a>
+<ul class="sub-menu">
+	<li id="menu-item-67700" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-67700"><a href="http://ugo.co.ug/category/ugdecides/">News</a></li>
+	<li id="menu-item-67699" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-67699"><a href="http://ugo.co.ug/gallery2016">Gallery</a></li>
+</ul>
+</li>
+<li id="menu-item-18300" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18300"><a href="http://ugo.co.ug/Sports">Sports</a></li>
+<li id="menu-item-18301" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18301"><a href="http://ugo.co.ug/business">Business</a></li>
+<li id="menu-item-18303" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18303"><a href="http://ugo.co.ug/tourism">Tourism</a></li>
+<li id="menu-item-18304" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18304"><a href="http://ugo.co.ug/technology">Technology</a></li>
+<li id="menu-item-18305" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18305"><a href="http://www.oops.ug">Entertainment</a>
+<ul class="sub-menu">
+	<li id="menu-item-18314" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18314"><a href="http://news.ugo.co.ug/celebrity-interviews/">Celebrity Interviews</a></li>
+	<li id="menu-item-28737" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-28737"><a href="http://news.ugo.co.ug/events/">Events</a></li>
+</ul>
+</li>
+<li id="menu-item-18306" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18306"><a href="http://directory.ugo.co.ug/">Directory</a>
+<ul class="sub-menu">
+	<li id="menu-item-18307" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18307"><a href="http://directory.ugo.co.ug/add-business">Add Business</a></li>
+</ul>
+</li>
+<li id="menu-item-30773" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-30773"><a href="http://blogs.ugo.co.ug/">Blogs</a></li>
+</ul>				
+
+		</div>
+		<div class="clearfix"></div>
+		<div id="topbanner_div"><div class="text-15" id="top_banner">			<div class="textwidget"><a href="http://ugo.co.ug/services/"><img src="http://news.ugo.co.ug/wp-content/themes/wt_eris/images/services.gif" alt="UGO Services" title="UGO Services"  /></a>
+
+<div class="set_homepage">
+
+</div></div>
+		</div><div class="text-16" id="top_banner">			<div class="textwidget"><!-- Top_Banner -->
+<div id='div-gpt-ad-1392120323593-0' style='width:728px; height:90px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1392120323593-0'); });
+</script>
+</div></div>
+		</div></div>
+		<div id="rolling_news">
+					</div>	
+	</header>
+</div>
+	<div id="main">  
+<div id="left-sidebar" class="sidebar">
+			<aside id="text-11" class="widget widget_text"><h3>FOREX</h3>			<div class="textwidget"><div class="ug-forex">
+
+
+	<div class='forex-title'>Ugandan Shillings (UGX)</div>
+	<div class='forex-flags'></div>
+	<table class='forex-table' cellpadding='2px' cellspacing='0'>
+		<tr class='odd'><td> US </td><td><div class="value">3465.00</div></td></tr>
+		<tr class='even'><td> EU</td><td><div class="value">3757.45</div></td></tr>
+		<tr class='odd'><td> UK</td><td><div class="value">4924.29</div></td></tr>
+		<tr class='even'><td> Kenya </td><td><div class="value">33.87</div></td></tr>
+		<tr class='odd'><td> Tanzania </td><td><div class="value">1.58</div></td></tr>
+		<tr class='even'><td> Rwanda </td><td><div class="value">4.59</div></td></tr>
+	</table>
+	<div class='forex-date'>Friday, 22 Jan 16</div>
+
+</div></div>
+		</aside><aside id="text-20" class="widget widget_text"><h3>RECENT POSTS</h3>			<div class="textwidget"><ul class="latestNews">
+	<li>
+		<a class="thumb" href="http://news.ugo.co.ug/71059-2/" rel="bookmark" title="Cranes Opponents Zambia Might Be Disqualified From CHAN For Using An Ineligible Player">
+			<img width="50" height="50" src="http://news.ugo.co.ug/wp-content/uploads/2016/01/Zambia-on-Tuesday-before-CHAN-game-50x50.jpg" class="attachment-wt-small-thumb size-wt-small-thumb wp-post-image" alt="Zambia on Tuesday before CHAN game" srcset="http://news.ugo.co.ug/wp-content/uploads/2016/01/Zambia-on-Tuesday-before-CHAN-game-50x50.jpg 50w, http://news.ugo.co.ug/wp-content/uploads/2016/01/Zambia-on-Tuesday-before-CHAN-game-75x75.jpg 75w" sizes="(max-width: 50px) 100vw, 50px" />		</a>
+		<a class="title" href="http://news.ugo.co.ug/71059-2/" rel="bookmark" title="Cranes Opponents Zambia Might Be Disqualified From CHAN For Using An Ineligible Player">Cranes Opponents Zambia Might Be Disqualified From CHAN For Using An Ineligible Player</a><br/>
+		<span>Posted: 1 day ago</span>
+	</li>
+	<li>
+		<a class="thumb" href="http://news.ugo.co.ug/71053-2/" rel="bookmark" title="Sheraton Kampala Hotel Welcomes In GM As Duncan Exits">
+			<img width="50" height="50" src="http://news.ugo.co.ug/wp-content/uploads/2016/01/Ian-Duncan-Jean-Philippe-and-Jennifer-50x50.jpg" class="attachment-wt-small-thumb size-wt-small-thumb wp-post-image" alt="Ian Duncan, Jean Philippe and Jennifer" srcset="http://news.ugo.co.ug/wp-content/uploads/2016/01/Ian-Duncan-Jean-Philippe-and-Jennifer-50x50.jpg 50w, http://news.ugo.co.ug/wp-content/uploads/2016/01/Ian-Duncan-Jean-Philippe-and-Jennifer-75x75.jpg 75w" sizes="(max-width: 50px) 100vw, 50px" />		</a>
+		<a class="title" href="http://news.ugo.co.ug/71053-2/" rel="bookmark" title="Sheraton Kampala Hotel Welcomes In GM As Duncan Exits">Sheraton Kampala Hotel Welcomes In GM As Duncan Exits</a><br/>
+		<span>Posted: 1 day ago</span>
+	</li>
+	<li>
+		<a class="thumb" href="http://news.ugo.co.ug/71050-2/" rel="bookmark" title="Boxing Federation Looking For Ushs288m">
+			<img width="50" height="50" src="http://news.ugo.co.ug/wp-content/uploads/2016/01/Boxer-Mike-Ssekabembe-50x50.jpg" class="attachment-wt-small-thumb size-wt-small-thumb wp-post-image" alt="Boxer Mike Ssekabembe" srcset="http://news.ugo.co.ug/wp-content/uploads/2016/01/Boxer-Mike-Ssekabembe-50x50.jpg 50w, http://news.ugo.co.ug/wp-content/uploads/2016/01/Boxer-Mike-Ssekabembe-75x75.jpg 75w" sizes="(max-width: 50px) 100vw, 50px" />		</a>
+		<a class="title" href="http://news.ugo.co.ug/71050-2/" rel="bookmark" title="Boxing Federation Looking For Ushs288m">Boxing Federation Looking For Ushs288m</a><br/>
+		<span>Posted: 1 day ago</span>
+	</li>
+	<li>
+		<a class="thumb" href="http://news.ugo.co.ug/71047-2/" rel="bookmark" title="Vipers Agrees To Sell Miya To Standard Liege In Belgium">
+			<img width="50" height="50" src="http://news.ugo.co.ug/wp-content/uploads/2016/01/Farouk-Miya-back-to-lead-Vipers-against-Express-1-50x50.jpg" class="attachment-wt-small-thumb size-wt-small-thumb wp-post-image" alt="Farouq Miya" srcset="http://news.ugo.co.ug/wp-content/uploads/2016/01/Farouk-Miya-back-to-lead-Vipers-against-Express-1-50x50.jpg 50w, http://news.ugo.co.ug/wp-content/uploads/2016/01/Farouk-Miya-back-to-lead-Vipers-against-Express-1-75x75.jpg 75w" sizes="(max-width: 50px) 100vw, 50px" />		</a>
+		<a class="title" href="http://news.ugo.co.ug/71047-2/" rel="bookmark" title="Vipers Agrees To Sell Miya To Standard Liege In Belgium">Vipers Agrees To Sell Miya To Standard Liege In Belgium</a><br/>
+		<span>Posted: 1 day ago</span>
+	</li>
+	<li>
+		<a class="thumb" href="http://news.ugo.co.ug/71044-2/" rel="bookmark" title="KABAKA’S BEER: Mengo, UBL Sign Revenue Sharing Pact, Mayiga Directs Baganda To Savor New Beverage">
+			<img width="50" height="50" src="http://news.ugo.co.ug/wp-content/uploads/2016/01/DSC2416-2-50x50.jpg" class="attachment-wt-small-thumb size-wt-small-thumb wp-post-image" alt="The Katikiro of Buganda, Charles Peter Mayiga, Juliana Kagwa, Marketing Director, UBL and Nyimpini Mabunda, MD UBL display bottles of Ngule, a new beer launched by Uganda Breweries Ltd and the Buganda Kingdom." srcset="http://news.ugo.co.ug/wp-content/uploads/2016/01/DSC2416-2-50x50.jpg 50w, http://news.ugo.co.ug/wp-content/uploads/2016/01/DSC2416-2-75x75.jpg 75w" sizes="(max-width: 50px) 100vw, 50px" />		</a>
+		<a class="title" href="http://news.ugo.co.ug/71044-2/" rel="bookmark" title="KABAKA’S BEER: Mengo, UBL Sign Revenue Sharing Pact, Mayiga Directs Baganda To Savor New Beverage">KABAKA’S BEER: Mengo, UBL Sign Revenue Sharing Pact, Mayiga Directs Baganda To Savor New Beverage</a><br/>
+		<span>Posted: 1 day ago</span>
+	</li>
+</ul>
+</div>
+		</aside><aside id="text-17" class="widget widget_text">			<div class="textwidget"><script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://adnoteplus.com/clients/www/delivery/ajs.php':'http://adnoteplus.com/clients/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=52");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://adnoteplus.com/clients/www/delivery/ck.php?n=aac6e4ef&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://adnoteplus.com/clients/www/delivery/avw.php?zoneid=52&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=aac6e4ef' border='0' alt='' /></a></noscript>
+</div>
+		</aside><aside id="text-7" class="widget widget_text">			<div class="textwidget"><form>
+<select onchange="top.location.href = 'http://'
++ this.options[ this.selectedIndex ].value" style="width:158px;" >
+<option value="">Choose</option>
+<option value="radio.ugo.co.ug">Radio</option>
+<option value="directory.ugo.co.ug">Directory</option>
+</select>
+</form></div>
+		</aside><aside id="text-6" class="widget widget_text">			<div class="textwidget"><a class="twitter-timeline" href="https://twitter.com/UgoUganda" data-widget-id="561476834416537600">Tweets by @UgoUganda</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div>
+		</aside><aside id="text-18" class="widget widget_text">			<div class="textwidget"><!-- Side_Ad-Right -->
+<div id='div-gpt-ad-1392388180750-0' style='width:120px; height:500px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1392388180750-0'); });
+</script>
+</div></div>
+		</aside></div><!-- /sidebar --><section id="primary">
+	<div id="content" role="main">
+	
+					
+<article id="post-63846" class="post-63846 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized tag-pope-francis tag-uganda uncategorized">
+	
+	<header class="entry-header">
+		<h1 class="entry-title">Ugandans In Europe Move To Stop Pope Francis’s Visit To Uganda</h1>
+		<div class="entry-meta">
+			<span class="date">September 22, 2015 </span>
+			<span class="category"><a href="http://news.ugo.co.ug/uncategorized/" rel="category tag">Uncategorized</a></span> 
+							<span class="comments"><a href="http://news.ugo.co.ug/ugandans-in-europe-move-to-stop-pope-franciss-visit-to-uganda/#comments"><span class="dsq-postid" data-dsqidentifier="63846 http://news.ugo.co.ug/?p=63846">6</span></a></span>
+				
+			<span class="author">Baz Waiswa</span> 
+			<span class="hits"></span>
+		</div><!-- /entry-meta -->		
+		
+	</header><!-- /entry-header -->
+
+	<div class="entry-content">
+		<p class="no-break"><span class='st_facebook_hcount' st_title='Ugandans In Europe Move To Stop Pope Francis’s Visit To Uganda' st_url='http://news.ugo.co.ug/ugandans-in-europe-move-to-stop-pope-franciss-visit-to-uganda/'></span><span st_via='ugouganda' st_username='ugouganda' class='st_twitter_hcount' st_title='Ugandans In Europe Move To Stop Pope Francis’s Visit To Uganda' st_url='http://news.ugo.co.ug/ugandans-in-europe-move-to-stop-pope-franciss-visit-to-uganda/'></span><span st_title='Ugandans In Europe Move To Stop Pope Francis’s Visit To Uganda' st_url='http://news.ugo.co.ug/ugandans-in-europe-move-to-stop-pope-franciss-visit-to-uganda/' class='st_googleplus_hcount'></span><span st_title='Ugandans In Europe Move To Stop Pope Francis’s Visit To Uganda' st_url='http://news.ugo.co.ug/ugandans-in-europe-move-to-stop-pope-franciss-visit-to-uganda/' class='st_linkedin_hcount'></span><span st_title='Ugandans In Europe Move To Stop Pope Francis’s Visit To Uganda' st_url='http://news.ugo.co.ug/ugandans-in-europe-move-to-stop-pope-franciss-visit-to-uganda/' class='st_pinterest_hcount'></span><span st_title='Ugandans In Europe Move To Stop Pope Francis’s Visit To Uganda' st_url='http://news.ugo.co.ug/ugandans-in-europe-move-to-stop-pope-franciss-visit-to-uganda/' class='st_whatsapp_hcount'></span></p><p>Ugandans leaving abroad have penned a scathing petition requesting Vatican to stop Pope Francis from visiting Uganda in November this year. The country is already in ecstatic mood preparing for his arrival between 27-29, November.</p>
+<div id="attachment_63848" style="width: 574px" class="wp-caption aligncenter"><a href="http://news.ugo.co.ug/wp-content/uploads/2015/09/Pope-Francis-is-coming-to-Uganda-e1442934232364.jpg"><img class="size-large wp-image-63848" src="http://news.ugo.co.ug/wp-content/uploads/2015/09/Pope-Francis-is-coming-to-Uganda-564x388.jpg" alt="Pope Francis is coming to Uganda" width="564" height="388" /></a><p class="wp-caption-text">Pope Francis is coming to Uganda</p></div>
+<p>A group called Uganda Diaspora Europe (UDE), a political pressure group formed in Balk, in the Netherlands, authored the petition which when successful will the much anticipated visit by the leader of Catholic Church abandon his scheduled trip.</p>
+<p>&nbsp;</p>
+<p>Uganda Diaspora Europe believes that Pope Francis born Jorge Mario Bergoglio in Buenos Aires, Argentina and current Pope of the Catholic Church, should not come to Uganda because “Uganda is currently a candidate for court action for its role or roles in crimes against humanity”</p><div style="width: 300px; height: 250px; padding: 6px 6px 6px 0; float: left; margin-left: 0; margin-right: 18px;">
+				<!-- /19353156/Medium_Ad_3 -->
+				<div id="div-gpt-ad-1429106901524-0" style="height:250px; width:300px;">
+				<script type="text/javascript">
+				googletag.cmd.push(function() { googletag.display("div-gpt-ad-1429106901524-0"); });
+				</script>
+				</div>
+			</div>
+<p>&nbsp;</p>
+<p>“We the undersigned persons acting on our own behalf and on behalf of the millions who couldn’t find space to append their signatures here, petition you the Holy Father, Pope Francis to KINDLY BUT strongly consider not going to Uganda for the planned November 2015 visit,” the petition reads in part.</p>
+<p>&nbsp;</p>
+<p>Among the reasons given by the petitioners is that &#8220;President Museveni and the Ugandan government deliberately failed to protect Ugandans in the Northern and North-Eastern parts of the country&#8221;.</p>
+<p>&nbsp;</p>
+<p>In the lengthy petition, the petitioners cite a number of other human rights abuses which they say were performed by the ruling government under President Museveni’s watch. Joel Wakayima, UDE coordinator in Netherlands, confirmed the group authoring the petition which has already been forwarded to Vatican.</p>
+<p>&nbsp;</p>
+<p><strong>BELOW IS THE FULL PETITION:</strong></p>
+<p>&nbsp;</p>
+<p><strong><em>PETITION TO THE HOLY FATHER, POPE FRANCIS</em></strong></p>
+<p><strong><em>SUMMARISED BACKGROUND TO THE PETITION:</em></strong></p>
+<p><strong><em>President Y. K. Museveni of Uganda came to power in 1986 following a destructive war in which lots of lives were lost. His history of war goes back to the early 70&#8217;s when he led an ill prepared ill fated expedition against Idi Amin that was to result in the loss of many young lives. </em></strong></p>
+<p>&nbsp;</p>
+<p><strong><em>In 1980 he led more young men to their lives and went on to lead even more to war in 1981. Several hundred thousand people are thought to have died in the war that brought him to power. </em></strong></p>
+<p>&nbsp;</p>
+<p><strong><em>In 1986, when his group took over power the massacre didn&#8217;t stop despite the surrender of the former UNLA, the former combatants were arbitrarily rounded and packed in train wagons and led to their deaths, in one incident in Acholi a stadium full of ex soldiers were herded to tracks in disguise of deployments but that was the last they were </em></strong><strong><em>ever heard of.</em></strong></p>
+<p><strong><em></p>
+<p>These massacres continued unabated for decades with a war imposed to the people of northern Uganda that stretched for 2 and half decades and there are no clear available figures of the human loss. </em></strong></p>
+<p>&nbsp;</p>
+<p><strong><em>At the same time, abject poverty and destitution was deliberately imposed on millions in Eastern Uganda, its estimated the scorched earth policy and the herding of the civilians in the northern Uganda in squalid and deplorable conditions in internally displace camps led to death of 1000 people per week for 25 years.</em></strong></p>
+<p><strong><em><br />
+He has gone on to order more young men to their deaths in wars in Rwanda, Congo, Sudan Somalia as well as within the country where his police and troops some led by his son and heir-apparent. This is an extension of the policy where any form of dissent is treated as treason punishable by death even in unarmed situations.</em></strong></p>
+<p><strong><em></p>
+<p>*PREAMBLE TO THE PETITION*:</p>
+<p>Whereas   the promotion of peace and stability and to build a world founded on respect for human rights, democracy and the rule of law is founded on a shared determination;</p>
+<p>And whereas human rights are universally applicable legal norms and democracy is a universal aspiration;</p>
+<p>And whereas Sustainable peace, development and prosperity are possible only when grounded upon respect for human rights, democracy and the rule of law;</p>
+<p>And because throughout the world, women and men demand to live lives of liberty, dignity and security of person and property;</p>
+<p>And cognizant that the code of the cannon law section 223 (1) states:</p>
+<p>&#8221;In exercising their rights, Christ’s faithful both individually and in association must take account of the common good of the people as well asthe right of others and their own duties to others.&#8221;</p>
+<p>*Now therefore*, we the undersigned persons acting on our own behalf and on behalf of the millions who couldn’t find space to append their signatures here, petition you the Holy Father, Pope Francis to KINDLY BUT strongly consider not going to Uganda for the planned November 2015 visit due to the following:</p>
+<p>1          Uganda is currently a candidate for court action for its role or roles in crimes against humanity. There is sufficient evidence that<br />
+President Museveni and the Ugandan government deliberately failed to protect Ugandans in the Northern and North-Eastern parts of the country when they needed it most.</p>
+<p>2          President Yoweri Kaguta Museveni and his government or a section of it are responsible for orchestrating mass deaths of women and children and the elderly by deliberately incarcerating nearly 2,000,000 people in concentration camps euphemistically called &#8221;protected villages&#8221; Please refer to the World Health Organisation Report on this link (</em></strong><strong><em><a href="http://www.who.int/hac/crises/sitreps/ugandamortsurvey.pdf">www.who.int/hac/crises/sitreps/ugandamortsurvey.pdf</a></em></strong><strong><em>) At some point during the said crisis, more than 1000 people were dying every week.</em></strong><strong><em></p>
+<p>3          In 2005 President Yoweri Museveni and his government were found guilty by the International Court of Justice for committing grave war crimes in the DRC including the invasion and plunder of the natural resources of the DRC, a sovereign state and for formenting ethnic cleansing. Uganda was ordered to pay a whooping 9 billion dollars, among other consequences.</p>
+<p>4          Uganda under President Museveni, sits comfortably among the world&#8217;s most corrupt nation with an estimated staggering 2,000,000,000 dollars stacked in foreign banks by the leaders. This is at the backdrop of an endemic abject destitution where the majority of the masses live below half dollar, a week!</p>
+<p>5          President Museveni and his govt have violated and continue to violate human rights with impunity. Mr Museveni and his govt blocked a report prepared by the United Nations High Commissioner for human rights Louise Arbour from being tabled at the UN General   Assembly. It is known that the report had detailed extensive information on human rights violations by the UPDF in several areas of Uganda ( see pdf report attached)</p>
+<p>6          President Y Museveni and his government are responsible for the crackdown on the voices of dissent, crashing civilians in process and denting any hope for the enjoyment of the fundamental rights and freedoms.</p>
+<p>7          President Y Museveni and his government or a section of it is responsible for the murders of masses at Corner Kilak, Bibia, Barlonyo, Mukura, Kannungu and Bwaise market.</p>
+<p>8          President Y Museveni and his government are responsible for the many mass graves found around the country: Mityana, Makindye, Lugazi sugar plantation. Some of the decomposing bodies found in some of these mass graves had no heads.</p>
+<p>9          President Y Museveni and his government are responsible for the wanton crackdown on the rights of cultural/traditional leaders to freelymove around the country and mobilize for development. </em></strong></p>
+<p>&nbsp;</p>
+<p><strong><em>Resulting from one such confrotation between the civilian population and Mr Museveni&#8217;s army and other militias, hundreds of youth and children were murdered on the express orders of Mr Y Museveni while about 1000 are unaccounted for till todate.</p>
+<p>10        President Y Museveni and his government  have no respect for rule of law; he     deployed armed soldiers to invade, surround andintimidate the judges of the high court on  two separate occasions. </em></strong></p>
+<p>&nbsp;</p>
+<p><strong><em>This was an affront on the temple of justice. Neither does he respect the       legislature as he is on record having summoned and lined all Members of the Seventh Parliament and forced them to sign up for the changing of article 105 (2) of the constitution so he and his family could rule Uganda as if it were a dynasty.</p>
+<p>11        Holy Father,  we are worried that your visit will increase the pain of the york of poverty in the country. Already the political leaders are have earmarked 28,000,000,000 shs for buying flowers only for one of the places you will visit. Another 280 billion is intended for logistical issues not including security expenses.</p>
+<p>12        The other sad issue is that the leadership of that country intends to use your visit to further its urgly political program which so far (as seen above) has been detrimental to the   advancement of human development, democracy, and rule of law.</em></strong></p>
+<p>&nbsp;</p>
+
+		<span style="width:50%;float:right;padding:10px 0 0 15px"><h4>RELATED CONTENT</h4>
+			<ul><li><a href="http://news.ugo.co.ug/nile-breweries-injects-100000-in-barcelona-legends-uganda-tour/">Nile Breweries Injects $100,000 In Barcelona Legends Uganda Tour</a></li><li><a href="http://news.ugo.co.ug/how-adfs-mukulu-recruits-children-into-rebel-activities/">How ADF’s Mukulu Recruits Children Into Rebel Activities</a></li><li><a href="http://news.ugo.co.ug/ugandan-poster-mess-abc-of-an-effective-political-campaign-poster/">Ugandan Poster Mess: ABC Of An Effective Political Campaign Poster</a></li><li><a href="http://news.ugo.co.ug/pastor-kiwedde-arrested-over-rape-conspiracy/">Pastor ‘Kiwedde’ arrested over rape conspiracy </a></li><li><a href="http://news.ugo.co.ug/registered-expatriates-can-now-freely-travel-uganda-kenya-rwanda/">Registered Expatriates Can Now Freely Travel In Uganda, Kenya and Rwanda</a></li></ul>
+		</span>
+	
+<p><strong><em></p>
+<p>13        You are such a towering world figure whose visit ought to be for those countries that have tangibly demonstrated that their national socio-economic and political program reflects the aspirations of the majority of the masses. That is not the case in Uganda.</p>
+<p>Holy Father, we kindly solemnly urge you to reconsider this visit so that your very well intended mission to share the message of Christ is not used (as similar trips have been before), to legitimize a dictatorship that has caused the death of millions of Africans in Uganda, Rwanda, Burundi, DRC and, currently, South Sudan.</p>
+<p>GOD BLESS YOU HOLY FATHER</p>
+<p>GOD BLESS US ALL.</em></strong></p>
+<p><strong><em>Uganda Diaspora Europe</em></strong></p>
+</p><p><span class='st_facebook_hcount' st_title='Ugandans In Europe Move To Stop Pope Francis’s Visit To Uganda' st_url='http://news.ugo.co.ug/ugandans-in-europe-move-to-stop-pope-franciss-visit-to-uganda/'></span><span st_via='ugouganda' st_username='ugouganda' class='st_twitter_hcount' st_title='Ugandans In Europe Move To Stop Pope Francis’s Visit To Uganda' st_url='http://news.ugo.co.ug/ugandans-in-europe-move-to-stop-pope-franciss-visit-to-uganda/'></span><span st_title='Ugandans In Europe Move To Stop Pope Francis’s Visit To Uganda' st_url='http://news.ugo.co.ug/ugandans-in-europe-move-to-stop-pope-franciss-visit-to-uganda/' class='st_googleplus_hcount'></span><span st_title='Ugandans In Europe Move To Stop Pope Francis’s Visit To Uganda' st_url='http://news.ugo.co.ug/ugandans-in-europe-move-to-stop-pope-franciss-visit-to-uganda/' class='st_linkedin_hcount'></span><span st_title='Ugandans In Europe Move To Stop Pope Francis’s Visit To Uganda' st_url='http://news.ugo.co.ug/ugandans-in-europe-move-to-stop-pope-franciss-visit-to-uganda/' class='st_pinterest_hcount'></span><span st_title='Ugandans In Europe Move To Stop Pope Francis’s Visit To Uganda' st_url='http://news.ugo.co.ug/ugandans-in-europe-move-to-stop-pope-franciss-visit-to-uganda/' class='st_whatsapp_hcount'></span></p>			</div><!-- /entry-content -->
+	
+	<span class="gad-top">
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+		<!-- Top of article -->
+		<ins class="adsbygoogle"
+			style="display:inline-block;width:468px;height:60px"
+			data-ad-client="ca-pub-6392674157941831"
+			data-ad-slot="6512302655"></ins>
+		<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	</span><br/><br/>
+		
+	
+<div id="disqus_thread">
+            <div id="dsq-content">
+
+
+            <ul id="dsq-comments">
+                    <li class="comment even thread-even depth-1" id="dsq-comment-3695">
+        <div id="dsq-comment-header-3695" class="dsq-comment-header">
+            <cite id="dsq-cite-3695">
+                <span id="dsq-author-user-3695">Assumpta</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-3695" class="dsq-comment-body">
+            <div id="dsq-comment-message-3695" class="dsq-comment-message"><p>The Pope is not a political animal, besides he is for sinners not for the righteous you &#8220;our brothers and sisters in the diaspora&#8221;&#8230; COME POPE FRANCIS, COME BLESS OUR NATION</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment odd alt depth-2" id="dsq-comment-3704">
+        <div id="dsq-comment-header-3704" class="dsq-comment-header">
+            <cite id="dsq-cite-3704">
+                <span id="dsq-author-user-3704">wakawaka</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-3704" class="dsq-comment-body">
+            <div id="dsq-comment-message-3704" class="dsq-comment-message"><p>Sorry to you Assumpta. The Pope is considering not to come this year! You should go and buy a lot of aspirins and panadol. Or kwete for that matter.</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment even depth-3" id="dsq-comment-3728">
+        <div id="dsq-comment-header-3728" class="dsq-comment-header">
+            <cite id="dsq-cite-3728">
+                <span id="dsq-author-user-3728">Nambuya S</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-3728" class="dsq-comment-body">
+            <div id="dsq-comment-message-3728" class="dsq-comment-message"><p>The pope came</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+    <li class="comment odd alt thread-odd thread-alt depth-1" id="dsq-comment-3700">
+        <div id="dsq-comment-header-3700" class="dsq-comment-header">
+            <cite id="dsq-cite-3700">
+                <span id="dsq-author-user-3700">ogwapi solomon</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-3700" class="dsq-comment-body">
+            <div id="dsq-comment-message-3700" class="dsq-comment-message"><p>I wholly support the diasporians, the pope shouldnt come</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even thread-even depth-1" id="dsq-comment-3701">
+        <div id="dsq-comment-header-3701" class="dsq-comment-header">
+            <cite id="dsq-cite-3701">
+                <span id="dsq-author-user-3701">philber oketa</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-3701" class="dsq-comment-body">
+            <div id="dsq-comment-message-3701" class="dsq-comment-message"><p>to hell with the pope and his vist</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment odd alt thread-odd thread-alt depth-1" id="dsq-comment-3720">
+        <div id="dsq-comment-header-3720" class="dsq-comment-header">
+            <cite id="dsq-cite-3720">
+                <span id="dsq-author-user-3720">J. Isabirye</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-3720" class="dsq-comment-body">
+            <div id="dsq-comment-message-3720" class="dsq-comment-message"><p>We are less than a month away to the visit. It&#8217;s safe to say the petition failed.<br />
+If that was the criteria for diplomatic visits then am afraid there would be none. No country is wholly innocent of crimes of oppression one way or another.<br />
+The diasporans can now hope the Pope addresses their issues on his 03 day visit.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+            </ul>
+
+
+        </div>
+
+    </div>
+
+	
+	<footer class="entry-footer">
+		
+		<div class="entry-tags">
+			<a href="http://news.ugo.co.ug/tag/pope-francis/" rel="tag">Pope Francis</a><a href="http://news.ugo.co.ug/tag/uganda/" rel="tag">Uganda</a> 
+		</div>
+		
+						
+				
+			</footer><!-- /entry-footer -->
+	
+</article><!-- /post-63846 -->
+							
+	</div><!-- /content -->
+</section><!-- /primary -->
+
+ 
+<div id="right-sidebar" class="sidebar">
+		<aside id="text-8" class="widget widget_text">			<div class="textwidget"><!-- /19353156/MTN_Ugo -->
+<div id="div-gpt-ad-1437988385042-0" style="height:250px; width:300px;">
+<script type="text/javascript">
+googletag.cmd.push(function() { googletag.display("div-gpt-ad-1437988385042-0"); });
+</script>
+</div></div>
+		</aside>
+<!-- WordPress Popular Posts Plugin v3.3.3 [W] [monthly] [views] [custom] -->
+<aside id="wpp-2" class="widget popular-posts">
+<h3>Popular This Week</h3>
+<ul class="popular_stories">
+<li>
+<a href="http://news.ugo.co.ug/shocking-pictures-kampala-girls-partying/" title="Shocking Pictures Of Kampala Girls Partying" target="_self"><img src="http://news.ugo.co.ug/wp-content/uploads/wordpress-popular-posts/27018-featured-50x50.jpg" width=50 height=50 title="Shocking Pictures Of Kampala Girls Partying" alt="Shocking Pictures Of Kampala Girls Partying" class="wpp-thumbnail wpp_cached_thumb wpp_featured" /></a> <a href="http://news.ugo.co.ug/shocking-pictures-kampala-girls-partying/" title="Shocking Pictures Of Kampala Girls Partying" class="wpp-post-title" target="_self">Shocking Pictures Of Kampala Girls Partying</a><br/> <span class="wpp-views">3,581 views</span> | <span class="wpp-date">posted on November 18, 2013</span>
+</li>
+<li>
+<a href="http://news.ugo.co.ug/see-what-donald-trump-will-do-to-museveni-when-he-becomes-us-president/" title="See What Donald Trump Will Do To Museveni When He Becomes US President" target="_self"><img src="http://news.ugo.co.ug/wp-content/uploads/wordpress-popular-posts/70402-featured-50x50.jpg" width=50 height=50 title="See What Donald Trump Will Do To Museveni When He Becomes US President" alt="See What Donald Trump Will Do To Museveni When He Becomes US President" class="wpp-thumbnail wpp_cached_thumb wpp_featured" /></a> <a href="http://news.ugo.co.ug/see-what-donald-trump-will-do-to-museveni-when-he-becomes-us-president/" title="See What Donald Trump Will Do To Museveni When He Becomes US President" class="wpp-post-title" target="_self">See What Donald Trump Will Do To Museveni When He Becomes US President</a><br/> <span class="wpp-views">1,230 views</span> | <span class="wpp-date">posted on January 2, 2016</span>
+</li>
+<li>
+<a href="http://news.ugo.co.ug/embokos-master-blaster-shot-dead/" title="Emboko&#8217;s Master Blaster Shot Dead" target="_self"><img src="http://news.ugo.co.ug/wp-content/uploads/wordpress-popular-posts/70291-featured-50x50.png" width=50 height=50 title="Emboko&#8217;s Master Blaster Shot Dead" alt="Emboko&#8217;s Master Blaster Shot Dead" class="wpp-thumbnail wpp_cached_thumb wpp_featured" /></a> <a href="http://news.ugo.co.ug/embokos-master-blaster-shot-dead/" title="Emboko&#8217;s Master Blaster Shot Dead" class="wpp-post-title" target="_self">Emboko&#8217;s Master Blaster Shot Dead</a><br/> <span class="wpp-views">1,145 views</span> | <span class="wpp-date">posted on December 29, 2015</span>
+</li>
+<li>
+<a href="http://news.ugo.co.ug/leaked-nude-pic-desire-luzinda-tells-hacker-photoshop-face-cant-get-body/" title="Leaked Nude Pic: Desire Luzinda Tells &#8216;Hacker&#8217; To Photoshop The Face If He Can&#8217;t Get Her Body" target="_self"><img src="http://news.ugo.co.ug/wp-content/uploads/wordpress-popular-posts/41005-featured-50x50.png" width=50 height=50 title="Leaked Nude Pic: Desire Luzinda Tells &#8216;Hacker&#8217; To Photoshop The Face If He Can&#8217;t Get Her Body" alt="Leaked Nude Pic: Desire Luzinda Tells &#8216;Hacker&#8217; To Photoshop The Face If He Can&#8217;t Get Her Body" class="wpp-thumbnail wpp_cached_thumb wpp_featured" /></a> <a href="http://news.ugo.co.ug/leaked-nude-pic-desire-luzinda-tells-hacker-photoshop-face-cant-get-body/" title="Leaked Nude Pic: Desire Luzinda Tells &#8216;Hacker&#8217; To Photoshop The Face If He Can&#8217;t Get Her Body" class="wpp-post-title" target="_self">Leaked Nude Pic: Desire Luzinda Tells &#8216;Hacker&#8217; To Photoshop The Face If He Can&#8217;t Get Her Body</a><br/> <span class="wpp-views">852 views</span> | <span class="wpp-date">posted on September 2, 2014</span>
+</li>
+<li>
+<a href="http://news.ugo.co.ug/sk-mbugas-wife-speaks-leila-kayondo-stole-husband/" title="SK Mbuga&#8217;s Wife Speaks Out On How Leila Kayondo Stole Her Husband" target="_self"><img src="http://news.ugo.co.ug/wp-content/uploads/wordpress-popular-posts/33540-featured-50x50.png" width=50 height=50 title="SK Mbuga&#8217;s Wife Speaks Out On How Leila Kayondo Stole Her Husband" alt="SK Mbuga&#8217;s Wife Speaks Out On How Leila Kayondo Stole Her Husband" class="wpp-thumbnail wpp_cached_thumb wpp_featured" /></a> <a href="http://news.ugo.co.ug/sk-mbugas-wife-speaks-leila-kayondo-stole-husband/" title="SK Mbuga&#8217;s Wife Speaks Out On How Leila Kayondo Stole Her Husband" class="wpp-post-title" target="_self">SK Mbuga&#8217;s Wife Speaks Out On How Leila Kayondo Stole Her Husband</a><br/> <span class="wpp-views">627 views</span> | <span class="wpp-date">posted on March 27, 2014</span>
+</li>
+<li>
+<a href="http://news.ugo.co.ug/russian-laboratory-invents-a-way-to-remove-the-black-skin-layer-off-black-people/" title="Russian Laboratory Invents A Way To Remove The Black Skin Layer Off Black People" target="_self"><img src="http://news.ugo.co.ug/wp-content/uploads/wordpress-popular-posts/59604-featured-50x50.jpg" width=50 height=50 title="Russian Laboratory Invents A Way To Remove The Black Skin Layer Off Black People" alt="Russian Laboratory Invents A Way To Remove The Black Skin Layer Off Black People" class="wpp-thumbnail wpp_cached_thumb wpp_featured" /></a> <a href="http://news.ugo.co.ug/russian-laboratory-invents-a-way-to-remove-the-black-skin-layer-off-black-people/" title="Russian Laboratory Invents A Way To Remove The Black Skin Layer Off Black People" class="wpp-post-title" target="_self">Russian Laboratory Invents A Way To Remove The Black Skin Layer Off Black People</a><br/> <span class="wpp-views">616 views</span> | <span class="wpp-date">posted on August 8, 2015</span>
+</li>
+<li>
+<a href="http://news.ugo.co.ug/police-seeks-bobi-wines-help-as-hunt-for-dinkas-intensifies-over-master-blasters-death/" title="Police Seeks Bobi Wine&#8217;s Help As Hunt For Dinkas Intensifies Over Master Blaster&#8217;s Death" target="_self"><img src="http://news.ugo.co.ug/wp-content/uploads/wordpress-popular-posts/70356-featured-50x50.png" width=50 height=50 title="Police Seeks Bobi Wine&#8217;s Help As Hunt For Dinkas Intensifies Over Master Blaster&#8217;s Death" alt="Police Seeks Bobi Wine&#8217;s Help As Hunt For Dinkas Intensifies Over Master Blaster&#8217;s Death" class="wpp-thumbnail wpp_cached_thumb wpp_featured" /></a> <a href="http://news.ugo.co.ug/police-seeks-bobi-wines-help-as-hunt-for-dinkas-intensifies-over-master-blasters-death/" title="Police Seeks Bobi Wine&#8217;s Help As Hunt For Dinkas Intensifies Over Master Blaster&#8217;s Death" class="wpp-post-title" target="_self">Police Seeks Bobi Wine&#8217;s Help As Hunt For Dinkas Intensifies Over Master Blaster&#8217;s Death</a><br/> <span class="wpp-views">512 views</span> | <span class="wpp-date">posted on December 31, 2015</span>
+</li>
+
+</ul>
+</aside>
+<!-- End WordPress Popular Posts Plugin v3.3.3 -->
+<aside id="text-23" class="widget widget_text">			<div class="textwidget"><!-- /19353156/Medium_Ad4 -->
+<div id='div-gpt-ad-1446795701706-0' style='height:250px; width:300px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1446795701706-0'); });
+</script>
+</div></div>
+		</aside><aside id="text-12" class="widget widget_text">			<div class="textwidget"><!-- Medium_Ad_2 -->
+<div id='div-gpt-ad-1392279628968-0' style='width:300px; height:250px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1392279628968-0'); });
+</script>
+</div></div>
+		</aside><aside id="super_rss_reader-2" class="widget widget_super_rss_reader"><h3>Blogs</h3>
+
+		<!-- Start - Super RSS Reader v2.5-->
+		<div class="super-rss-reader-widget">
+<ul class="srr-tab-wrap srr-tab-style-none srr-clearfix"><li data-tab="srr-tab-197">UGO Blogs</li><li data-tab="srr-tab-525"> PC Tech Magazine</li><li data-tab="srr-tab-345"> Simon Kaheru</li><li data-tab="srr-tab-419"> Rosebell Kagumire</li></ul><div class="srr-wrap srr-vticker srr-style-none" data-visible="5" data-speed="2000" data-id="srr-tab-197" ><div>
+
+	<div class="srr-item odd"><div class="srr-title"><a href="http://blogs.ugo.co.ug/2016/01/3839/" target="_blank" title="Posted on 21 January 2016">Here Are Some Health Benefits Of Donating Blood</a></div><div class="srr-meta"></div><p class="srr-summary srr-clearfix">In one way or the other we have found ourselves, our friends or our loved ones in need of blood tran <a href="http://blogs.ugo.co.ug/2016/01/3839/" title="Read more" target="_blank">...</a></p></div>
+
+	<div class="srr-item even"><div class="srr-title"><a href="http://blogs.ugo.co.ug/2016/01/3830/" target="_blank" title="Posted on 21 January 2016">Foods You Should Eat To Stay Fresh And Young</a></div><div class="srr-meta"></div><p class="srr-summary srr-clearfix">Hey, you look too old and yet you’re still younger; there could be a problem with the food you are e <a href="http://blogs.ugo.co.ug/2016/01/3830/" title="Read more" target="_blank">...</a></p></div>
+
+	<div class="srr-item odd"><div class="srr-title"><a href="http://blogs.ugo.co.ug/2016/01/3827/" target="_blank" title="Posted on 21 January 2016">Biggest Challenges Facing Online Start Ups In Uganda</a></div><div class="srr-meta"></div><p class="srr-summary srr-clearfix">Ugandans have always been enterprising people and have never been terrified to start their own busin <a href="http://blogs.ugo.co.ug/2016/01/3827/" title="Read more" target="_blank">...</a></p></div>
+
+</div>
+		</div> 
+
+<div class="srr-wrap srr-vticker srr-style-none" data-visible="5" data-speed="2000" data-id="srr-tab-525" ><div>
+
+	<div class="srr-item odd"><div class="srr-title"><a href="http://pctechmag.com/2016/01/youtube-gets-super-bowl-50-ads-weeks-before-the-main-event/" target="_blank" title="Posted on 21 January 2016">Youtube gets super bowl 50 Ads weeks before the main event</a></div><div class="srr-meta"></div><p class="srr-summary srr-clearfix">Super Bowl ads are an event unto themselves. Brands now spend millions both on producing their game  <a href="http://pctechmag.com/2016/01/youtube-gets-super-bowl-50-ads-weeks-before-the-main-event/" title="Read more" target="_blank">...</a></p></div>
+
+	<div class="srr-item even"><div class="srr-title"><a href="http://pctechmag.com/2016/01/this-search-engine-shows-how-vulnerable-the-internet-of-things-is/" target="_blank" title="Posted on 21 January 2016">This search engine shows how vulnerable the Internet of Things is</a></div><div class="srr-meta"></div><p class="srr-summary srr-clearfix">If you’re planning to trick out your home with connected devices so you can do things like unlock do <a href="http://pctechmag.com/2016/01/this-search-engine-shows-how-vulnerable-the-internet-of-things-is/" title="Read more" target="_blank">...</a></p></div>
+
+	<div class="srr-item odd"><div class="srr-title"><a href="http://pctechmag.com/2016/01/spotify-buys-music-social-network-apps-soundwave-cord-project/" target="_blank" title="Posted on 21 January 2016">Spotify Buys Music Social Network Apps Soundwave, Cord Project</a></div><div class="srr-meta"></div><p class="srr-summary srr-clearfix">Spotify Ltd. is stepping up the competition against Apple Music and major European rivals Deezer and <a href="http://pctechmag.com/2016/01/spotify-buys-music-social-network-apps-soundwave-cord-project/" title="Read more" target="_blank">...</a></p></div>
+
+</div>
+		</div> 
+
+<div class="srr-wrap srr-vticker srr-style-none" data-visible="5" data-speed="2000" data-id="srr-tab-345" ><div>
+
+	<div class="srr-item odd"><div class="srr-title"><a href="http://skaheru.com/2016/01/21/all-hail-the-queen-of-katwe/" target="_blank" title="Posted on 21 January 2016">all hail the queen of Katwe</a></div><div class="srr-meta"></div><p class="srr-summary srr-clearfix">IF you don’t know Frozen, you either have no children, no TV, a very low media appetite, or all of t <a href="http://skaheru.com/2016/01/21/all-hail-the-queen-of-katwe/" title="Read more" target="_blank">...</a></p></div>
+
+	<div class="srr-item even"><div class="srr-title"><a href="http://skaheru.com/2016/01/20/out-of-the-way-things-to-do-in-2016/" target="_blank" title="Posted on 20 January 2016">out of the way things to do in 2016</a></div><div class="srr-meta"></div><p class="srr-summary srr-clearfix">I’VE just read Davis Kawalya’s blog post ‘Where Is Our Self-Esteem?‘ and made a snap decision to ado <a href="http://skaheru.com/2016/01/20/out-of-the-way-things-to-do-in-2016/" title="Read more" target="_blank">...</a></p></div>
+
+	<div class="srr-item odd"><div class="srr-title"><a href="http://skaheru.com/2016/01/16/information-is-power-especially-in-economics/" target="_blank" title="Posted on 16 January 2016">information is power – especially in economics</a></div><div class="srr-meta"></div><p class="srr-summary srr-clearfix">IN BIGGER economies reports should start circulating at around this time with details of the Christm <a href="http://skaheru.com/2016/01/16/information-is-power-especially-in-economics/" title="Read more" target="_blank">...</a></p></div>
+
+</div>
+		</div> 
+
+<div class="srr-wrap srr-vticker srr-style-none" data-visible="5" data-speed="2000" data-id="srr-tab-419" ><div>
+
+	<div class="srr-item odd"><div class="srr-title"><a href="http://rosebellkagumire.com/2015/12/01/what-least-developed-countries-ldcs-want-from-paris-climate-conference/" target="_blank" title="Posted on 1 December 2015">What Least Developed Countries (LDCs) want from Paris Climate Conference</a></div><div class="srr-meta"></div><p class="srr-summary srr-clearfix"><img src="http://ugandajournalist.files.wordpress.com/2015/12/malidrought_0.jpg?w=150" alt="What Least Developed Countries (LDCs) want from Paris Climate Conference" class="srr-thumb" align="left"/>The Bandiagara plateau in Central Mali has been hit by repeated droughts. Climate change is making t <a href="http://rosebellkagumire.com/2015/12/01/what-least-developed-countries-ldcs-want-from-paris-climate-conference/" title="Read more" target="_blank">...</a></p></div>
+
+	<div class="srr-item even"><div class="srr-title"><a href="http://rosebellkagumire.com/2015/10/29/africa-needs-a-clear-political-strategy-to-get-a-better-deal-out-of-paris-climate-talks/" target="_blank" title="Posted on 29 October 2015">Africa needs a clear political strategy to get a better deal out of Paris Climate Talks</a></div><div class="srr-meta"></div><p class="srr-summary srr-clearfix"><img src="http://ugandajournalist.files.wordpress.com/2015/10/3k1a4621-1.jpg?w=150" alt="Africa needs a clear political strategy to get a better deal out of Paris Climate Talks" class="srr-thumb" align="left"/>Plenary session at ccda-v by Photo by IISD/ENB Between November 30 – December 11, the 21st session o <a href="http://rosebellkagumire.com/2015/10/29/africa-needs-a-clear-political-strategy-to-get-a-better-deal-out-of-paris-climate-talks/" title="Read more" target="_blank">...</a></p></div>
+
+	<div class="srr-item odd"><div class="srr-title"><a href="http://rosebellkagumire.com/2015/10/12/police-brutality-and-violence-against-women-ahead-of-2016-uganda-elections/" target="_blank" title="Posted on 12 October 2015">Police Brutality and Violence against Women ahead of  2016 Uganda Elections</a></div><div class="srr-meta"></div><p class="srr-summary srr-clearfix">Horrified like most Ugandans by Police actions against opposition politicians, I join concerned Ugan <a href="http://rosebellkagumire.com/2015/10/12/police-brutality-and-violence-against-women-ahead-of-2016-uganda-elections/" title="Read more" target="_blank">...</a></p></div>
+
+</div>
+		</div> 
+
+
+</div>
+		<!-- End - Super RSS Reader -->
+		
+</aside><aside id="text-9" class="widget widget_text">			<div class="textwidget"><!-- Small_Ads -->
+<div id='div-gpt-ad-1393943309921-0' style='width:300px; height:120px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1393943309921-0'); });
+</script>
+</div></div>
+		</aside><aside id="text-10" class="widget widget_text">			<div class="textwidget"><!-- /19353156/Medium_Ads -->
+<div id='div-gpt-ad-1437990340563-0' style='height:250px; width:300px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1437990340563-0'); });
+</script>
+</div></div>
+		</aside></div><!-- /sidebar -->
+			</div><!-- /main -->
+<div class="right_ad_space"></div>
+</div><!-- /container -->
+</div><footer id="colophon" role="contentinfo">	<div class="footer_wrap">		
+<div class="footer_logo"><img src="http://news.ugo.co.ug/wp-content/themes/wt_eris/images/libilinks.png" alt="Libilinks" /></div>		<div class="copyright"> Copyright &copy 2013, Libilinks Ltd. All Rights Reserved. </div>		
+<ul class="footer_menu">
+	<li><a href="http://news.ugo.co.ug/">Home</a></li>
+	<li><a href="http://ugo.co.ug/about-us/">About Us</a></li>
+	<li><a href="http://ugo.co.ug/privacy-policy/">Privacy Policy</a></li>
+	<li><a href="http://ugo.co.ug/advertising/">Advertising</a></li>
+	<li><a href="http://ugo.co.ug/services/">Services</a></li>
+	<li><a href="http://directory.ugo.co.ug/">Directory</a></li>		
+</ul>	
+</div></footer><!-- #colophon --><div class="fblbCenterOuter fblbCenterOuterFb  fblbLeft" style=" left: -241px;z-index: 1000;">
+	<div class="fblbCenterInner">
+		<div class="fblbWrap fblbTheme0 fblbTab9">
+			<div class="fblbForm" style="background: ##3b599; height: 450px; width: 240px; padding: 1px 1px 1px 0;">
+				<h2 class="fblbHead" style="top: 0px; left: 241px;">Facebook</h2>
+				<div id="fblbInnerFb" class="fblbInner fblbInnerLoading" style="height: 450px; background-color: #ffffff;">
+					<div class="fb-root" id="fb-root"></div>
+					<div class="fb-like-box"  data-colorscheme="light"  data-border-color="##3b599" data-href="http://www.facebook.com/ugouganda" data-width="240" data-height="450" data-show-faces="true" data-stream="false" data-header="false"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<script>
+<!--
+var fblbFbLoaded=0;
+function fblb_FbLoad()
+{
+	if(fblbFbLoaded==1)
+	{
+		return true;
+	}
+	(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) {return;}
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));
+	fblbFbLoaded=1;
+	if ( jQuery.browser.msie ) {jQuery('#fblbInnerFb').removeClass('fblbInnerLoading');}
+}
+jQuery(document).ready(function(){	
+if ( !jQuery.browser.msie ) 
+{jQuery('.fb-like-box').bind('DOMNodeInserted', function(event) { 
+if(event.target.nodeName=='IFRAME'){
+jQuery('.fb-like-box iframe').load(function() 
+{jQuery('#fblbInnerFb').removeClass('fblbInnerLoading');
+jQuery('.fb-like-box').unbind('DOMNodeInserted');});
+}});}
+fblb_FbLoad();});
+-->
+</script><div class="fblbCenterOuter fblbCenterOuterTw  fblbLeft" style=" left: -241px;z-index: 1000;">
+	<div class="fblbCenterInner">
+		<div class="fblbWrap fblbTheme0 fblbTab9">
+			<div class="fblbForm" style="background: #33ccff; height: 450px; width: 240px; padding: 1px 1px 1px 0;">
+				<h2 class="fblbHead" style="top: 37px; left: 241px;">Twitter</h2>
+				<div id="fblbInnerTw" class="fblbInner fblbInnerLoading" style="height: 450px;">
+					<script src="//widgets.twimg.com/j/2/widget.js"></script>
+					<div id="fblbTww"></div>
+										<div class="fblbFollowTw">
+						<a href="https://twitter.com/ugouganda" class="twitter-follow-button" data-width="130px" data-show-count="false" data-lang="en">Follow ugouganda</a>
+					</div>
+									</div>
+			</div>
+		</div>
+	</div>
+</div>
+<script>
+<!--
+var fblbTwLoaded=0;
+function fblb_TwLoad()
+{
+	if(fblbTwLoaded==1)
+	{
+		return true;
+	}	
+	!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+	jQuery('.fblbFollowTw').show();
+	new TWTR.Widget({
+		id:	'fblbTww',
+		version: 2,
+		type: 'profile',
+		rpp: 50,
+		interval: 5000,
+		width: 240,
+		height: 358,
+		theme: {
+			shell: {
+				background: '#33ccff',
+				color: '#ffffff'
+			},
+			tweets: {
+				background: '#ffffff',
+				color: '#000000',
+				links: '#47a61e'
+			}
+		},
+		features: {
+			loop: true,
+			live: true,
+			scrollbar: true,
+			avatars: true,
+			behavior: 'default'				  
+		}
+	}).render().setUser('ugouganda').start();
+   jQuery('#fblbInnerTw').removeClass('fblbInnerLoading');
+   fblbTwLoaded=1;
+}
+jQuery(document).ready(function(){	
+jQuery('.fblbFollowTw').hide();
+fblb_TwLoad();});
+-->
+</script><div class="fblbCenterOuter fblbCenterOuterGp  fblbLeft" style=" left: -241px;z-index: 1000;">
+	<div class="fblbCenterInner">
+		<div class="fblbWrap fblbTheme0 fblbTab9">
+			<div class="fblbForm" style="background: #a8291b; height: 450px; width: 240px; padding: 1px 1px 1px 0;">
+				<h2 class="fblbHead" style="top: 74px; left: 241px;">Google Plus</h2>
+				<div class="fblbInner" style="background: #ffffff; height: 450px;">
+										<div id="fblbGpBadge" class="fblbInnerLoading" style="overflow: hidden; height: 131px;">
+						<link href="https://plus.google.com/103499586808564944273" rel="publisher" />
+						<div class="g-plus" data-href="https://plus.google.com/103499586808564944273" data-size="badge"></div>
+					</div>
+										<div style="overflow-y: auto; overflow-x: hidden; height: 319px;">
+						<ul id="fblbGpList" class="fblbList" style="height: 319px">
+												</ul>
+					</div>
+									</div>
+			</div>
+		</div>
+	</div>
+</div>
+<script>
+<!--
+var fblbGpLoaded=0;
+function fblb_GpLoad()
+{
+	if(fblbGpLoaded==1)
+	{
+		return true;
+	}
+	window.___gcfg = {lang: 'en-US'};
+	(function() 
+	{var po = document.createElement("script");
+	po.type = "text/javascript"; po.async = true;po.src = "https://apis.google.com/js/plusone.js";
+	var s = document.getElementsByTagName("script")[0];
+	s.parentNode.insertBefore(po, s);
+	jQuery('#fblbGpBadge').removeClass('fblbInnerLoading');
+	fblbGpLoaded=1;
+	})();
+}
+jQuery(document).ready(function(){	
+	 jQuery('#fblbGpList').lionbars();
+fblb_GpLoad();});
+-->
+</script><script type='text/javascript' src='http://news.ugo.co.ug/wp-includes/js/comment-reply.min.js?ver=fb5c76571abb2dc7e2a06df2b10937f7'></script>
+<script type='text/javascript' src='http://news.ugo.co.ug/wp-includes/js/wp-embed.min.js?ver=fb5c76571abb2dc7e2a06df2b10937f7'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var embedVars = {"disqusConfig":{"platform":"wordpress@4.4.1","language":"","remote_auth_s3":"W10= fc201248e7e26ac68c1ba7d8fb15b7d2d9b6c777 1453434380","api_key":"ybt6paLSxUTDbeNKtMe49GQDzbepX6DPq5WRFXYvgdcExIy2uh53ZzRmM5Ygbk9j","sso":{"name":"UGO News","button":false,"url":"http:\/\/news.ugo.co.ug\/wp-login.php","logout":"http:\/\/news.ugo.co.ug\/wp-login.php?action=logout","width":"800","height":"700"}},"disqusIdentifier":"63846 http:\/\/news.ugo.co.ug\/?p=63846","disqusShortname":"ugouganda","disqusTitle":"Ugandans In Europe Move To Stop Pope Francis\u2019s Visit To Uganda","disqusUrl":"http:\/\/news.ugo.co.ug\/ugandans-in-europe-move-to-stop-pope-franciss-visit-to-uganda\/","options":{"manualSync":false},"postId":"63846"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://news.ugo.co.ug/wp-content/plugins/disqus-comment-system/media/js/disqus.js?ver=fb5c76571abb2dc7e2a06df2b10937f7'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"ugouganda"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://news.ugo.co.ug/wp-content/plugins/disqus-comment-system/media/js/count.js?ver=fb5c76571abb2dc7e2a06df2b10937f7'></script>
+
+0
+
+
+
+WARC/1.0
+WARC-Type: metadata
+WARC-Record-ID: <urn:uuid:146fbf5d-7483-4956-bf72-7ec24d7d6bf6>
+WARC-Warcinfo-ID: <urn:uuid:3c5c9fd1-635c-4f77-b51a-0089aebb0a3f>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/MANIFEST.txt
+WARC-Date: 2016-01-22T03:46:47Z
+Content-Type: text/plain
+Content-Length: 48
+
+<urn:uuid:3c5c9fd1-635c-4f77-b51a-0089aebb0a3f>
+
+
+WARC/1.0
+WARC-Type: resource
+WARC-Record-ID: <urn:uuid:5ca5ab4a-6de8-4ead-b4bf-79cce057a098>
+WARC-Warcinfo-ID: <urn:uuid:3c5c9fd1-635c-4f77-b51a-0089aebb0a3f>
+WARC-Concurrent-To: <urn:uuid:146fbf5d-7483-4956-bf72-7ec24d7d6bf6>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/wget_arguments.txt
+WARC-Date: 2016-01-22T03:46:47Z
+Content-Type: text/plain
+Content-Length: 253
+
+"--warc-file" "ugandans-in-europe-move-to-stop-pope-franciss-visit-to-uganda" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "-q" "-O" "/dev/null" "http://news.ugo.co.ug/ugandans-in-europe-move-to-stop-pope-franciss-visit-to-uganda/" 
+
+

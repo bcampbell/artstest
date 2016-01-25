@@ -1,0 +1,657 @@
+WARC/1.0
+WARC-Type: warcinfo
+Content-Type: application/warc-fields
+WARC-Date: 2016-01-20T01:37:49Z
+WARC-Record-ID: <urn:uuid:8d4ac4f8-d060-4c31-9207-377139abdcd2>
+WARC-Filename: IEBC--Election-law-on-delisting-poll-offenders-lacks-clarity.warc
+Content-Length: 488
+
+software: Wget/1.13.4-2608 (linux-gnu)
+format: WARC File Format 1.0
+conformsTo: http://bibnum.bnf.fr/WARC/WARC_ISO_28500_version1_latestdraft.pdf
+robots: classic
+wget-arguments: "--warc-file" "IEBC--Election-law-on-delisting-poll-offenders-lacks-clarity" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "-q" "-O" "/dev/null" "http://www.theeastafrican.co.ke/news/IEBC--Election-law-on-delisting-poll-offenders-lacks-clarity/-/2558/3040514/-/xh7366z/-/index.html" 
+
+
+
+WARC/1.0
+WARC-Type: request
+WARC-Target-URI: http://www.theeastafrican.co.ke/news/IEBC--Election-law-on-delisting-poll-offenders-lacks-clarity/-/2558/3040514/-/xh7366z/-/index.html
+Content-Type: application/http;msgtype=request
+WARC-Date: 2016-01-20T01:37:49Z
+WARC-Record-ID: <urn:uuid:ae1f48ee-d583-4a9d-90d3-7b0f40d718ee>
+WARC-IP-Address: 104.18.60.189
+WARC-Warcinfo-ID: <urn:uuid:8d4ac4f8-d060-4c31-9207-377139abdcd2>
+Content-Length: 232
+
+GET /news/IEBC--Election-law-on-delisting-poll-offenders-lacks-clarity/-/2558/3040514/-/xh7366z/-/index.html HTTP/1.1
+User-Agent: Wget/1.13.4-2608 (linux-gnu)
+Accept: */*
+Host: www.theeastafrican.co.ke
+Connection: Keep-Alive
+
+
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <urn:uuid:a6c396c1-9a4b-4fd7-8f53-d7c27d4f65a0>
+WARC-Warcinfo-ID: <urn:uuid:8d4ac4f8-d060-4c31-9207-377139abdcd2>
+WARC-Concurrent-To: <urn:uuid:ae1f48ee-d583-4a9d-90d3-7b0f40d718ee>
+WARC-Target-URI: http://www.theeastafrican.co.ke/news/IEBC--Election-law-on-delisting-poll-offenders-lacks-clarity/-/2558/3040514/-/xh7366z/-/index.html
+WARC-Date: 2016-01-20T01:37:49Z
+WARC-IP-Address: 104.18.60.189
+Content-Type: application/http;msgtype=response
+Content-Length: 32205
+
+HTTP/1.1 200 OK
+Date: Wed, 20 Jan 2016 01:37:50 GMT
+Content-Type: text/html;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: __cfduid=dfe7ca896c9f8b71c294fbb57341ab7b11453253870; expires=Thu, 19-Jan-17 01:37:50 GMT; path=/; domain=.theeastafrican.co.ke; HttpOnly
+Set-Cookie: JSESSIONID=9A211DB8E088BD3F865F9524D17BEFB7.cm6-live-2; Path=/nationmedia/; HttpOnly
+Content-Language: en-GB
+Cache-Control: max-age=180
+Expires: Wed, 20 Jan 2016 01:40:47 GMT
+Vary: Accept-Encoding,User-Agent
+Set-Cookie: NSC_WT-fwb3300082-IUUQ=ffffffff50efd5a445525d5f4f58455e445a4a423660;expires=Wed, 20-Jan-2016 01:39:50 GMT;path=/;httponly
+Server: cloudflare-nginx
+CF-RAY: 26770e6f8e4f1902-AKL
+
+8dc
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
+<head>
+<title>Why Kenya&#039;s electoral body cannot delist a voter - News</title>
+<meta http-equiv="content-type" content="text/html;charset=UTF-8"/>
+<meta name="robots" content="index, follow"/>
+<meta property="fb:app_id" content="373613796056385"/>
+<meta property="fb:admins" content="1830875453"/>
+<meta name="title" content="IEBC: Election law on deregistering poll offenders lacks clarity"/><meta name="description" content="Senator, who had been found guilty of poll bribery in the 2013 General Election by the Supreme Court, survives deregistration from voter list.">
+<meta name="keywords" content="iebc, voter register, deregistration, moses wetang'ula, thomas lentagule"/><meta name="email" content="interneteditors@nation.co.ke"/><meta name="copyright" content="Nation Media Group"/><meta property="og:type" content="article"/>
+<meta property="og:author" content="FRED OLUOCH, "/>
+<meta property="og:title" content="IEBC: Election law on deregistering poll offenders lacks clarity"/>
+<meta property="og:description" content="Senator, who had been found guilty of poll bribery in the 2013 General Election by the Supreme Court, survives deregistration from voter list."/>
+<meta property="og:image" content="/image/view/-/3040512/lowRes/1233257/-/d95e9q/-/WETA.jpg"/>
+<meta property="og:url" content="http://www.www.theeastafrican.co.ke/news/IEBC--Election-law-on-delisting-poll-offenders-lacks-clarity/-/2558/3040514/-/xh7366z/-/index.html"/>
+<link rel="canonical" href="http://www.www.theeastafrican.co.ke/news/IEBC--Election-law-on-delisting-poll-offenders-lacks-clarity/-/2558/3040514/-/xh7366z/-/index.html"/>
+<link type="application/rss+xml" title="" rel="alternate" href="http://www.www.theeastafrican.co.ke/news/-/2558/2558/-/view/asFeed/-/136vofr/-/index.xml"/>
+<link rel="shortcut icon" href="/image/view/-/2456/favicon/33593/-/8dqlwwz/-/root.ico" type="image/x-icon"/><link href="/image/view/-/1527956/data/407653/-/vur3jgz/-/AppleIcon.png" rel="apple-touch-icon" type="image/png"/>
+
+1327
+<link rel="stylesheet" type="text/css" href="/code/view/TheEastAfrican/-/4/-/8lgfdk/-/base.css"/>
+<link rel="stylesheet" type="text/css" href="/code/view/TheEastAfrican/-/16/-/lo74pn/-/print_base.css"/>
+<link rel="stylesheet" type="text/css" href="/code/view/TheEastAfrican/-/2364/-/70e9uiz/-/basemod.css"/>
+<link rel="stylesheet" type="text/css" href="/code/view/TheEastAfrican/-/2366/-/70e9ugz/-/basemod_article.css"/>
+<link rel="stylesheet" type="text/css" href="/code/view/TheEastAfrican/-/2372/-/70e9toz/-/basemod_bloglanding.css"/>
+<link rel="stylesheet" type="text/css" href="/code/view/TheEastAfrican/-/2384/-/70e9sqz/-/basemod_blogpost.css"/>
+<link rel="stylesheet" type="text/css" href="/code/view/TheEastAfrican/-/2388/-/70e9smz/-/basemod_blogsingle.css"/>
+<link rel="stylesheet" type="text/css" href="/code/view/TheEastAfrican/-/2432/-/70e95rz/-/basemod_channel.css"/>
+<link rel="stylesheet" type="text/css" href="/code/view/TheEastAfrican/-/2396/-/70e9rsz/-/basemod_classdetail.css"/>
+<link rel="stylesheet" type="text/css" href="/code/view/TheEastAfrican/-/2400/-/70e98hz/-/basemod_classifieds.css"/>
+<link rel="stylesheet" type="text/css" href="/code/view/TheEastAfrican/-/2404/-/70e98dz/-/basemod_classresults.css"/>
+<link rel="stylesheet" type="text/css" href="/code/view/TheEastAfrican/-/2392/-/70e9rwz/-/basemod_front.css"/>
+<link rel="stylesheet" type="text/css" href="/code/view/TheEastAfrican/-/2410/-/70e97lz/-/basemod_gallery.css"/>
+<link rel="stylesheet" type="text/css" href="/code/view/TheEastAfrican/-/2414/-/70e97hz/-/basemod_join.css"/>
+<link rel="stylesheet" type="text/css" href="/code/view/TheEastAfrican/-/2434/-/70e95pz/-/basemod_obits.css"/>
+<link rel="stylesheet" type="text/css" href="/code/view/TheEastAfrican/-/2418/-/70e97dz/-/basemod_premium.css"/>
+<link rel="stylesheet" type="text/css" href="/code/view/TheEastAfrican/-/2422/-/70e96nz/-/basemod_register.css"/>
+<link rel="stylesheet" type="text/css" href="/code/view/TheEastAfrican/-/2426/-/70e96jz/-/basemod_search.css"/>
+<link rel="stylesheet" type="text/css" href="/code/view/TheEastAfrican/-/2368/-/70e9uez/-/content.css"/>
+<link rel="stylesheet" type="text/css" href="/code/view/TheEastAfrican/-/2430/-/70e95tz/-/patch_generic.css"/>
+<link rel="stylesheet" type="text/css" href="/code/view/TheEastAfrican/-/30/-/lo74r9/-/custom.css"/>
+<script type="text/javascript" language="javascript" src="/code/view/TheEastAfrican/-/1196/-/70f0nvz/-/mootools.js"></script>
+<script type="text/javascript" language="javascript" src="/code/view/TheEastAfrican/-/1198/-/70f0ntz/-/plugin.js"></script>
+<script type="text/javascript" language="javascript" src="/code/view/TheEastAfrican/-/1200/-/70f04kz/-/rating.js"></script>
+<script type="text/javascript" language="javascript" src="/code/view/TheEastAfrican/-/1202/-/70f04iz/-/sse.js"></script>
+<script type="text/javascript" language="javascript" src="/code/view/TheEastAfrican/-/1204/-/70f04gz/-/swfobject.js"></script>
+<script type="text/javascript" language="javascript" src="/code/view/TheEastAfrican/-/1206/-/70f04ez/-/video.js"></script>
+<script type="text/javascript" language="javascript" src="/code/view/TheEastAfrican/-/1208/-/70f04cz/-/voting.js"></script>
+<script type="text/javascript" language="javascript" src="/code/view/TheEastAfrican/-/2564/-/70e8alz/-/functions.js"></script>
+<script type="text/javascript" language="javascript" src="/code/view/TheEastAfrican/-/2566/-/70e8ajz/-/utils.js"></script>
+<script type="text/javascript" language="javascript" src="/code/view/TheEastAfrican/-/2568/-/70e8ahz/-/ddtabmenu.js"></script>
+<script type="text/javascript" language="javascript" src="/code/view/TheEastAfrican/-/2570/-/70e89tz/-/echoice.js"></script>
+<script type="text/javascript" language="javascript" src="/code/view/TheEastAfrican/-/1113230/-/w9uqj2/-/nSoko.js"></script>
+<style type="text/css">#main{padding:10px 20px;}</style>
+<div id="fb-root"></div>
+<script>
+  (function (d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s);
+    js.id = id;
+    js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=373613796056385";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-1030601-5', 'auto');
+  ga('send', 'pageview');
+</script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-0846142691248784",
+    enable_page_level_ads: true
+  });
+</script>
+2b8
+
+<meta name="google-site-verification" content="GbRrSkkVB5cUYalHnqVdF-F6F_LG2-VxQd0cqNlm08s">
+<link type="application/rss+xml" title="" rel="alternate" href="/news/-/2558/2558/-/view/asFeed/-/136vofr/-/index.xml"/>
+</head>
+<body>
+<div class="sidekick">
+<div id="page_shadows">
+<div id="page_margins">
+<analytics:pagecontext object="com.coremedia.starterkit.cae.contentbeans.PageImpl$$@c7f3313a" view="DEFAULT">
+<div id="page">
+<div id="topnav">
+ 
+<a class="skip" href="#navigation" title="skip link">Skip to the navigationchannel.links.navigation.skip.label</a><span class="hideme">.</span>
+<a class="skip" href="#content" title="skip link">Skip to the content</a><span class="hideme">.</span>
+ 
+
+f96
+<a href="/external/863754?url=http%253A%252F%252Fwww.africareview.com%252F" target="_blank">
+Africa Review</a>
+<span>|</span><a href="/external/2476?url=http%253A%252F%252Fwww.nation.co.ke" target="_blank">
+Daily Nation</a>
+<span>|</span><a href="/external/2480?url=http%253A%252F%252Fwww.bdafrica.com" target="_blank">
+Business Daily</a>
+<span>|</span><a href="/external/2464?url=http%253A%252F%252Fwww.ntv.co.ke" target="_blank">
+NTV</a>
+<span>|</span><a href="/external/2478?url=http%253A%252F%252Fwww.monitor.co.ug%252F" target="_blank">
+Daily Monitor</a>
+<span>|</span><a href="/external/2462?url=http%253A%252F%252Fwww.thecitizen.co.tz" target="_blank">
+The Citizen</a>
+<span>|</span><a href="/external/2470?url=http%253A%252F%252Fwww.mwananchi.co.tz%252F" target="_blank">
+Mwananchi</a>
+<span>|</span><a href="/external/1156?url=http%253A%252F%252Fwww.swahilihub.com%252F" target="_blank">
+Swahili Hub</a>
+</div>
+<div id="header_image">
+<div class="c75l">
+<div id="logo">
+<a href="/-/2456/2456/-/1bxxmm/-/index.html"><img src="/image/view/-/442654/medRes/945057/-/maxh/85/-/r36xu1z/-/ea+logo.png" alt="HOME"/>
+</a></div>
+</div>
+<div class="c25r">
+<div id="search">
+<form id="searchHeader" name="searchfrm" action="/page/search/TheEastAfrican/news/-/2558/2558/-/view/asSearch/-/fob6r5/-/index.html" method="post"><input class="textInput" style="width: 140px; height: 25px;" id="searchInput" name="userQuery" type="text" onkeypress="return entsub(event,this.form)">
+<a href="#" class="go_button" onclick="$('searchHeader').submit()"><span>GO</span></a>
+<input name="contextsIds" type="hidden" value="2456"/>
+<input name="sortBy" type="hidden" value="maupublicationdate"/>
+<input name="docTypes" type="hidden" value="&quot;MauArticle,MauGallery,MauVideo,CMDownload&quot;"/>
+</form></div>
+</div>
+</div>
+<div id="nav">
+<a id="navigation" name="navigation_"></a>
+<div id="nav_main">
+<div id="ddtabmenu" class="ddcolortabs">
+<ul>
+<li id="current">
+<a href="/news/-/2558/2558/-/o3vy3hz/-/index.html" rel="ct1">News</a></li>
+<li>
+<a href="/business/-/2560/2560/-/onenc5/-/index.html" rel="ct2">Business</a></li>
+<li>
+<a href="/OpEd/-/434748/434748/-/9qmqgg/-/index.html" rel="ct3">Opinion and Editorial</a></li>
+<li>
+<a href="/magazine/-/434746/434746/-/1523wgq/-/index.html" rel="ct4">Magazine</a></li>
+<li>
+<a href="/Rwanda/-/1433210/1433210/-/qrboogz/-/index.html" rel="ct6">Rwanda Today</a></li>
+<li>
+<a href="/infographics/-/2934674/2934674/-/nreiiw/-/index.html" rel="ct7">Infographics</a></li>
+</ul>
+</div>
+</div>
+<script type="text/javascript">
+    //ddtabmenu.definemenu("ddtabmenu")
+</script>
+<div class="tabcontainer">
+<div id="ct1" class="tabcontent">
+<script type="text/javascript">
+                        ddtabmenu.definemenu("ddtabmenu", 0)
+                    </script>
+</div>
+<div id="ct2" class="tabcontent">
+</div>
+<div id="ct3" class="tabcontent">
+<a href="/OpEd/Politics-and-Verse/-/592324/592324/-/h6eaa2/-/index.html">Politics and Verse</a>|</div>
+<div id="ct4" class="tabcontent">
+</div>
+<div id="ct5" class="tabcontent">
+</div>
+<div id="ct6" class="tabcontent">
+<a href="/Rwanda/News/-/1433218/1433218/-/10wcrjrz/-/index.html">News</a>|<a href="/Rwanda/Business/-/1433224/1433224/-/bwrkhe/-/index.html">Business</a>|<a href="/Rwanda/Opinion/-/1433246/1433246/-/13airnvz/-/index.html">Opinion</a>|<a href="/Rwanda/Lifestyle/-/1433242/1433242/-/1fvbyi/-/index.html">Lifestyle</a>|<a href="/Rwanda/Sports/-/2647206/2647206/-/dhgsga/-/index.html">Sports</a></div>
+<div id="ct7" class="tabcontent">
+</div>
+<div id="ct8" class="tabcontent">
+</div>
+<div id="ct9" class="tabcontent">
+</div>
+</div>
+</div>
+<script type='text/javascript'>
+    (function() {
+        var useSSL = 'https:' == document.location.protocol;
+        var src = (useSSL ? 'https:' : 'http:') +
+                '//www.googletagservices.com/tag/js/gpt.js';
+        document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+    })();
+</script>
+ 
+ 
+ 
+<div id="main" style="width: 950px">
+
+121e
+<a id="content" name="content_"></a>
+ 
+<div class="subcolumns" id="contentwrapper">
+ 
+<div class="c65l" id="articlepagecontent">
+<div class="subcl">
+<div id="articlebody">
+ 
+ 
+<div class="breadcrumbs">
+<a href="/-/2456/2456/-/1bxxmm/-/index.html">Home</a><span><img src="/image/view/-/2288/data/935274/-/h/19/-/w8fdu2/-/bread_sep.gif" height="19"/></span>
+<a href="/news/-/2558/2558/-/o3vy3hz/-/index.html">News</a><span><img src="/image/view/-/2286/data/935275/-/h/19/-/relfyz/-/bread_end.gif " height="19"/></span>
+</div>
+ 
+<p class="newstype">News</p>
+<h1>IEBC: Election law on deregistering poll offenders lacks clarity</h1>
+<div id="article_tools">
+<div id="dropshare">
+<a href="com.coremedia.mauritius.cae.contentbeans.MauArticleImpl$$[id=3040514]&amp;title=IEBC: Election law on deregistering poll offenders lacks clarity" title="Submit to Digg">
+<img src="/image/view/-/2292/data/44/-/jncrjn/-/digg.gif"/>
+</a>
+<a href="com.coremedia.mauritius.cae.contentbeans.MauArticleImpl$$[id=3040514]&amp;title=IEBC: Election law on deregistering poll offenders lacks clarity" title="Submit to del.icio.us">
+<img src="/image/view/-/2290/data/46/-/6p6cuk/-/delicious.gif"/>
+</a>
+<a href="com.coremedia.mauritius.cae.contentbeans.MauArticleImpl$$[id=3040514]&amp;title=IEBC: Election law on deregistering poll offenders lacks clarity" title="Submit to StumbleUpon">
+<img src="/image/view/-/2350/data/47/-/cigefiz/-/stumble.gif"/>
+</a>
+<a href="com.coremedia.mauritius.cae.contentbeans.MauArticleImpl$$[id=3040514]&amp;title=IEBC: Election law on deregistering poll offenders lacks clarity" title="Submit to Yahoo Buzz">
+<img src="/image/view/-/2362/data/48/-/3b8dwwz/-/yahoo.gif"/>
+</a>
+</div>
+<span><img src="/image/view/-/2320/data/43/-/1al6uwz/-/ico_plus.png"/><a href="javascript:void(0);" id="share_link">Share</a></span>
+<span><img src="/image/view/-/418/data/40/-/d9x1rw/-/ico_bookmark.png"/><a href="javascript:void(0);"><script type="text/javascript">
+    function CreateBookmarkLink() {
+        var title = "Why Kenya's electoral body cannot delist a voter";
+        var url = 'http://www.theeastafrican.co.ke/news/IEBC--Election-law-on-delisting-poll-offenders-lacks-clarity/-/2558/3040514/-/xh7366z/-/index.html';
+
+        if (window.sidebar) { // Mozilla Firefox Bookmark
+            window.sidebar.addPanel(title, url, "");
+        } else if (document.all) { // IE Favorite
+            window.external.AddFavorite(url, title);
+        }
+        else if (window.opera) { // Opera Hotlist
+            var elem = document.createElement('a');
+            elem.setAttribute('rel', 'sidebar');
+            elem.setAttribute('href', url);
+            elem.setAttribute('title', title);
+            alert('opera not yet completely supported');
+            elem.click();
+
+        }
+    }
+</script>
+<a href="javascript:CreateBookmarkLink()">Bookmark</a></a></span>
+<span><img src="/image/view/-/414/data/39/-/clerl0z/-/ico_print.png"/><a href="/news/IEBC--Election-law-on-delisting-poll-offenders-lacks-clarity/-/2558/3040514/-/view/printVersion/-/j66ihq/-/index.html">Print</a></span>
+<span id="article_rate">Rating <div id="rating_3040514"> <div id="ratingStars_3040514"><div class="stars" style="width:60px;height:12px;position:relative;background:url(/image/view/-/300/lowRes/737/-/s6lxe0z/-/starrow_white.gif);"><div class="currentStars" style="position:absolute;width:0px;height:12px;left:0px;background:url(/image/view/-/296/lowRes/118489/-/cf8lu6/-/starrow.gif)"></div></div></div> </div></span>
+</div> 
+<img class="photo_article" src="/image/view/-/3040512/medRes/1233258/-/maxw/600/-/oto1bh/-/WETA.jpg" alt="Bungoma senator Moses Wetang’ula at a past event. PHOTO | FILE"/>
+<p id="photo_article_caption">
+Bungoma senator Moses Wetang’ula at a past event. PHOTO | FILE&nbsp;
+</p>
+<div id="articlemeta">
+By&nbsp;FRED OLUOCH<br></br>Posted&nbsp;
+Tuesday, January 19&nbsp;&nbsp;
+2016&nbsp;at&nbsp;
+20:12</div>
+<div id="article_summmary">
+<p class="newstype">In Summary</p>
+<div><ul><li><p class="MsoNormal">Kenya’s Elections Act needs amendments to give the electoral body full authority to remove a candidate found guilty of poll offences from the voter register.</p></li><li><p class="MsoNormal">Mr Wetang’ula —who had been found guilty of voter bribery in the 2013 General Election by the Supreme Court which ordered a by-election— survived because the IEBC committee found that Section 87 is not clear how the electoral body can go about deregistering a voter.</p></li><li><p class="MsoNormal">It was the first time that IEBC has been required to take action under the Elections Act to punish poll
+134f
+ offenders.</p></li></ul></div></div>
+<div id="article_related_news">
+<div class="articleSummary"><div style="margin: 2px; padding: 4px;">
+<div style="font-weight: 400; color:#999; padding:8px 0px; text-align:center; border-bottom: 1px dotted #444444; border-top: 4px solid #666666; ">SHARE THIS STORY</div>
+<div style="height:2px;"></div>
+<span style="margin: 3px;">
+<div class="fb-like" data-href="http://www.theeastafrican.co.ke/news/IEBC--Election-law-on-delisting-poll-offenders-lacks-clarity/-/2558/3040514/-/xh7366z/-/index.html" data-send="false" data-layout="box_count" data-width="40" data-show-faces="false" data-action="recommend" data-font="arial"></div>
+</span>
+<span style="margin: 3px;">
+<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.theeastafrican.co.ke/news/IEBC--Election-law-on-delisting-poll-offenders-lacks-clarity/-/2558/3040514/-/xh7366z/-/index.html" data-via="The_EastAfrican" data-text="IEBC: Election law on deregistering poll offenders lacks clarity" data-lang="en" data-related="BD_Africa" data-count="vertical" data-dnt="true">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</span>
+<span style="margin: 3px;">
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<g:plusone size="tall"></g:plusone>
+</span>
+<span style="margin: 3px;">
+<script src="http://platform.linkedin.com/in.js" type="text/javascript"></script>
+<script type="IN/Share" data-url="http://www.theeastafrican.co.ke/news/IEBC--Election-law-on-delisting-poll-offenders-lacks-clarity/-/2558/3040514/-/xh7366z/-/index.html" data-counter="top"></script>
+</span>
+</div>
+</div>
+<div class="clear"></div>
+<div class="articleSummary">
+<p>
+<div>
+<div class="clear"></div>
+</div>
+</p>
+</div>
+<div class="clear"></div>
+<analytics:objectcontext object="com.coremedia.mauritius.cae.contentbeans.MauAdvertisementImpl$$[id=1185638]" logView="true">
+<analytics:namecontext name="ad_Google" logView="true">
+<a href="#" target="_blank"><!-- google_ad_section_start -->
+<script type='text/javascript' src='http://partner.googleadservices.com/gampad/google_service.js'>
+</script>
+<script type='text/javascript'>
+GS_googleAddAdSenseService("ca-pub-0846142691248784");
+GS_googleEnableAllServices();
+</script>
+<script type='text/javascript'>
+GA_googleAddSlot("ca-pub-0846142691248784", "East-african-336x280-incontent");
+</script>
+<script type='text/javascript'>
+GA_googleFetchAds();
+</script>
+ 
+<script type='text/javascript'>
+GA_googleFillSlot("East-african-336x280-incontent");
+</script><!-- google_ad_section_end -->
+</a>
+</analytics:namecontext>
+</analytics:objectcontext>
+</div>
+<div id="article_text">
+<p>
+<div><p class="MsoNormal">Kenya’s Elections Act needs amendments to give the electoral body full authority to remove a candidate found guilty of poll offences from the voter register.</p></div> 
+ 
+<div><p class="MsoNormal">This is what came out of the Special Committee of the Independent Electoral and Boundaries Commission (IEBC) that had the task of deciding whether to remove or retain the Senate Minority leader, Moses Wetang’ula, from the voters’ roll.</p></div> 
+ 
+<div><p class="MsoNormal">The three-member committee led by Thomas Letangule, ruled Tuesday that they were unable to strike off the name of Mr Wetang’ula from the register because Section 87 of the Elections Act lacks clarity. </p></div> 
+ 
+<div><p class="MsoNormal">Mr Wetang’ula —who had been found guilty of voter bribery in the 2013 General Election by the Supreme Court which ordered a by-election— survived because the IEBC committee found that Section 87 is not clear how the electoral body can go about deregistering a voter.</p></div> 
+ 
+<div><p class="MsoNormal">The striking out of Mr Wetang’ula’s name could have meant realignment within the Coalition for Reform and Democracy (CORD) led by Raila Odinga and where the Bungoma senator and former vice-president Kalonzo Musyoka are key partners. Mr Wetang’ula is crucial for attracting votes from his Western region.</p></div> 
+ 
+<div><p class="MsoNormal">But Paul Mwangi, a lawyer and chairman of the <span class="st">CORD</span> Referendum<em/><span class="st">Committee, said that IEBC all along had no jurisdiction to remove Mr Wetang’ula’s name from the register because he had not been convicted of any election offence.</span></p></div> 
+ 
+<div><p class="MsoNormal"><span class="st">Mr Mwangi said that</span> the Director of Public Prosecutions (DPP) had referred the matter to the Directorate of Criminal Investigations which found that the senator did not commit an election offence.</p></div> 
+ 
+<div><p class="MsoNormal">Section 87 of the Elections Act states that once the election petition court
+26ff
+ nullifies the election of a candidate due to electoral malpractice, the court writes a report to both the IEBC and the relevant parliament Speaker indicating whether an election offence has been committed.</p></div> 
+ 
+<div><p class="MsoNormal">According to sub-section 3: “The relevant Speaker shall publish a report made under this section in the Gazette, and the Commission shall consider the report and delete from the register of voters, the name of a person who is disqualified from being registered in that register of voters.”</p></div> 
+ 
+<div><p class="MsoNormal">Senate Speaker Ekwe Ethuro had gazetted Mr Wetang’ula’s case late last year in a move CORD supporters argued was influenced by the ruling Jubilee Alliance to destabilise the coalition between Mr Odinga, Mr Musyoka and Mr Wetang’ula.</p></div> 
+ 
+<div><p class="MsoNormal">It was the first time that IEBC has been required to take action under the Elections Act to punish poll offenders. In 2013, the IEBC failed to disqualify a number of politicians with integrity issues in line with Chapter 6 of the Constitution, but the electoral body defended itself saying that the Ethics and Anti-Corruption Authority had to supply them with evidence against individuals for it to act.   </p></div> 
+ 
+</p>
+<div class="clear"></div>
+</div>
+<div style="margin:5px,10px; ">
+<div class="clear"></div>
+<analytics:objectcontext object="com.coremedia.mauritius.cae.contentbeans.MauAdLocationImpl$$[id=606292]" logView="true">
+<analytics:objectcontext object="com.coremedia.mauritius.cae.contentbeans.MauAdvertisementImpl$$[id=1130716]" logView="true">
+<analytics:namecontext name="ad_" logView="true">
+<!-- google_ad_section_start -->
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+googletag.defineSlot('/1010816/adslot_EA_468X60', [468, 60], 'div-gpt-ad-1425470944441-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
+</script>
+ 
+<div id='div-gpt-ad-1425470944441-0' style='width:468px; height:60px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1425470944441-0'); });
+</script>
+</div><!-- google_ad_section_end -->
+</analytics:namecontext>
+</analytics:objectcontext>
+</analytics:objectcontext>
+</div>
+<br/>
+<a id="commentsAnchor"></a>
+<div class="subcolumns" id="article_comments">
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'theeastafrican'; // required: replace example with your forum shortname
+
+
+                var strReplaceAll = "Why Kenya's electoral body cannot delist a voter";
+		var intIndexOfMatch = strReplaceAll.indexOf( "'" );
+		 
+
+		while (intIndexOfMatch != -1){
+		// Relace out the current instance.
+		strReplaceAll = strReplaceAll.replace( "'", "" )
+		 
+		// Get the index of any next matching substring.
+		intIndexOfMatch = strReplaceAll.indexOf( "'" );
+		}
+	
+	         
+	var disqus_identifier=strReplaceAll;
+	var disqus_developer = 0; // developer mode is off
+	var disqus_url='http://www.theeastafrican.co.ke/news/IEBC--Election-law-on-delisting-poll-offenders-lacks-clarity/-/2558/3040514/-/xh7366z/-/index.html';
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script></div>
+ 
+</div>
+</div>
+</div>
+ 
+<div class="c35r">
+ 
+<div class="mpuad">
+ 
+<analytics:objectcontext object="com.coremedia.mauritius.cae.contentbeans.MauAdLocationImpl$$[id=594228]" logView="true">
+<analytics:objectcontext object="com.coremedia.mauritius.cae.contentbeans.MauAdvertisementImpl$$[id=1227194]" logView="true">
+<analytics:namecontext name="ad_DFP" logView="true">
+<!-- google_ad_section_start -->
+<script type='text/javascript'>
+  (function() {
+    var useSSL = 'https:' == document.location.protocol;
+    var src = (useSSL ? 'https:' : 'http:') +
+        '//www.googletagservices.com/tag/js/gpt.js';
+    document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+  })();
+</script>
+<script type='text/javascript'>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/1010816/EA_Home_300x250_2', [300, 250], 'div-gpt-ad-1430312491622-0').addService(googletag.pubads());
+ googletag.defineSlot('/1010816/Home_300x250_3-EA', [300, 250], 'div-gpt-ad-1430312244478-0').addService(googletag.pubads());
+ googletag.defineSlot('/1010816/EA-300x250-Hme1', [300, 250], 'div-gpt-ad-1430312358719-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().enableSyncRendering();
+    googletag.enableServices();
+  });
+</script>
+ 
+<div id='div-gpt-ad-1430312491622-0' style='height:250px; width:300px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1430312491622-0'); });
+</script>
+</div><!-- google_ad_section_end -->
+</analytics:namecontext>
+</analytics:objectcontext>
+</analytics:objectcontext>
+</div>
+  
+<div class="mpuad">
+ 
+<analytics:objectcontext object="com.coremedia.mauritius.cae.contentbeans.MauAdLocationImpl$$[id=1020394]" logView="true">
+<analytics:objectcontext object="com.coremedia.mauritius.cae.contentbeans.MauAdvertisementImpl$$[id=1233156]" logView="true">
+<analytics:namecontext name="ad_ Home_300x250_3-EA" logView="true">
+<!-- google_ad_section_start -->
+<script type='text/javascript' src='http://partner.googleadservices.com/gampad/google_service.js'>
+</script>
+<script type='text/javascript'>
+GS_googleAddAdSenseService("ca-pub-0846142691248784");
+GS_googleEnableAllServices();
+</script>
+<script type='text/javascript'>
+GA_googleAddSlot("ca-pub-0846142691248784", "Home_300x250_3-EA");
+</script>
+<script type='text/javascript'>
+GA_googleFetchAds();
+</script>
+ 
+<script type='text/javascript'>
+GA_googleFillSlot("Home_300x250_3-EA");
+</script><!-- google_ad_section_end -->
+</analytics:namecontext>
+</analytics:objectcontext>
+</analytics:objectcontext>
+</div>
+  
+<div class="mpuad">
+ 
+<analytics:objectcontext object="com.coremedia.mauritius.cae.contentbeans.MauAdLocationImpl$$[id=1733386]" logView="true">
+<analytics:objectcontext object="com.coremedia.mauritius.cae.contentbeans.MauAdvertisementImpl$$[id=1733388]" logView="true">
+<analytics:namecontext name="ad_content right3" logView="true">
+<!-- google_ad_section_start -->
+<script type='text/javascript' src='http://partner.googleadservices.com/gampad/google_service.js'>
+</script>
+<script type='text/javascript'>
+GS_googleAddAdSenseService("ca-pub-0846142691248784");
+GS_googleEnableAllServices();
+</script>
+<script type='text/javascript'>
+GA_googleAddSlot("ca-pub-0846142691248784", "Ea-content-300x250-slot3");
+</script>
+<script type='text/javascript'>
+GA_googleFetchAds();
+</script>
+ 
+<script type='text/javascript'>
+GA_googleFillSlot("Ea-content-300x250-slot3");
+</script><!-- google_ad_section_end -->
+</analytics:namecontext>
+</analytics:objectcontext>
+</analytics:objectcontext>
+</div>
+ </div></div>
+ 
+<div class="subcolumns leaderboardad">
+<analytics:objectcontext object="com.coremedia.mauritius.cae.contentbeans.MauAdLocationImpl$$[id=2544]" logView="true">
+<analytics:objectcontext object="com.coremedia.mauritius.cae.contentbeans.MauAdvertisementImpl$$[id=1007538]" logView="true">
+<analytics:namecontext name="ad_" logView="true">
+<!-- google_ad_section_start -->
+<script type='text/javascript' src='http://partner.googleadservices.com/gampad/google_service.js'>
+</script>
+<script type='text/javascript'>
+GS_googleAddAdSenseService("ca-pub-0846142691248784");
+GS_googleEnableAllServices();
+</script>
+<script type='text/javascript'>
+GA_googleAddSlot("ca-pub-0846142691248784", "adslot_EA_728X90");
+</script>
+<script type='text/javascript'>
+GA_googleFetchAds();
+</script>
+ 
+<script type='text/javascript'>
+GA_googleFillSlot("adslot_EA_728X90");
+</script><!-- google_ad_section_end -->
+</analytics:namecontext>
+</analytics:objectcontext>
+</analytics:objectcontext>
+</div> </div>
+ 
+<div id="footer">
+<div id="footer_content">
+<span>
+<a href="http://www.theeastafrican.co.ke/meta/-/2562/2546/-/yuw419z/-/index.html" target="_blank">
+Terms</a>
+<a href="http://www.theeastafrican.co.ke/meta/-/2562/2548/-/yuw417z/-/index.html" target="_blank">
+Privacy Policy</a>
+<a href="/external/452794?url=http%253A%252F%252Fmobile.theeastafrican.co.ke" target="_blank">
+Mobile</a>
+<a href="/external/1472202?url=http%253A%252F%252Fsyndication.nation.co.ke" target="_blank">
+Syndication</a>
+<a href="http://www.theeastafrican.co.ke/meta/-/2562/2550/-/yuw40jz/-/index.html" target="_blank">
+Newsfeeds</a>
+<a href="http://www.theeastafrican.co.ke/meta/-/2562/2552/-/yuw40hz/-/index.html" target="_blank">
+Help</a>
+<a href="http://www.theeastafrican.co.ke/meta/-/2562/2554/-/yuw40fz/-/index.html" target="_blank">
+Contact us</a>
+<a href="http://www.theeastafrican.co.ke/meta/-/2562/2556/-/yuw40dz/-/index.html" target="_blank">
+About us</a>
+</span>
+<span><a href="/news/IEBC--Election-law-on-delisting-poll-offenders-lacks-clarity/-/2558/3040514/-/view/asFeed/-/sfuv2xz/-/index.xml">RSS</a></span>
+</div>
+</div>
+<script type="text/javascript" src="http://s.skimresources.com/js/27887X860844.skimlinks.js"></script>
+ </analytics:pagecontext> </div>
+</div>
+</div>
+</div></body>
+
+7
+</html>
+0
+
+
+
+WARC/1.0
+WARC-Type: resource
+WARC-Record-ID: <urn:uuid:9c0e8a2b-62f3-45f2-a6bf-2dd800009d80>
+WARC-Warcinfo-ID: <urn:uuid:8d4ac4f8-d060-4c31-9207-377139abdcd2>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/MANIFEST.txt
+WARC-Date: 2016-01-20T01:37:51Z
+Content-Type: text/plain
+Content-Length: 48
+
+<urn:uuid:8d4ac4f8-d060-4c31-9207-377139abdcd2>
+
+
+WARC/1.0
+WARC-Type: resource
+WARC-Record-ID: <urn:uuid:9c0e8a2b-62f3-45f2-a6bf-2dd800009d80>
+WARC-Warcinfo-ID: <urn:uuid:8d4ac4f8-d060-4c31-9207-377139abdcd2>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/wget_arguments.txt
+WARC-Date: 2016-01-20T01:37:51Z
+Content-Type: text/plain
+Content-Length: 303
+
+"--warc-file" "IEBC--Election-law-on-delisting-poll-offenders-lacks-clarity" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "-q" "-O" "/dev/null" "http://www.theeastafrican.co.ke/news/IEBC--Election-law-on-delisting-poll-offenders-lacks-clarity/-/2558/3040514/-/xh7366z/-/index.html" 
+
+

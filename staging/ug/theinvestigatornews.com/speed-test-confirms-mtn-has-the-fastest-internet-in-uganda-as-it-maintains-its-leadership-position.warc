@@ -1,0 +1,1500 @@
+WARC/1.0
+WARC-Type: warcinfo
+Content-Type: application/warc-fields
+WARC-Date: 2016-01-24T23:47:59Z
+WARC-Record-ID: <urn:uuid:0ba39dfb-05c6-4ab2-8cf2-e03edb98cb0c>
+WARC-Filename: speed-test-confirms-mtn-has-the-fastest-internet-in-uganda-as-it-maintains-its-leadership-position.warc
+Content-Length: 516
+
+software: Wget/1.16.1 (linux-gnu)
+format: WARC File Format 1.0
+conformsTo: http://bibnum.bnf.fr/WARC/WARC_ISO_28500_version1_latestdraft.pdf
+robots: classic
+wget-arguments: "--warc-file" "speed-test-confirms-mtn-has-the-fastest-internet-in-uganda-as-it-maintains-its-leadership-position" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "-q" "-O" "/dev/null" "http://theinvestigatornews.com/speed-test-confirms-mtn-has-the-fastest-internet-in-uganda-as-it-maintains-its-leadership-position/" 
+
+
+
+WARC/1.0
+WARC-Type: request
+WARC-Target-URI: http://theinvestigatornews.com/speed-test-confirms-mtn-has-the-fastest-internet-in-uganda-as-it-maintains-its-leadership-position/
+Content-Type: application/http;msgtype=request
+WARC-Date: 2016-01-24T23:48:00Z
+WARC-Record-ID: <urn:uuid:427fce38-aee0-445d-acbd-9a9b5f370fee>
+WARC-IP-Address: 216.172.177.30
+WARC-Warcinfo-ID: <urn:uuid:0ba39dfb-05c6-4ab2-8cf2-e03edb98cb0c>
+Content-Length: 249
+
+GET /speed-test-confirms-mtn-has-the-fastest-internet-in-uganda-as-it-maintains-its-leadership-position/ HTTP/1.1
+User-Agent: Wget/1.16.1 (linux-gnu)
+Accept: */*
+Accept-Encoding: identity
+Host: theinvestigatornews.com
+Connection: Keep-Alive
+
+
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <urn:uuid:970c7c0e-fafc-43ed-bfe7-418a0ab4ee54>
+WARC-Warcinfo-ID: <urn:uuid:0ba39dfb-05c6-4ab2-8cf2-e03edb98cb0c>
+WARC-Concurrent-To: <urn:uuid:427fce38-aee0-445d-acbd-9a9b5f370fee>
+WARC-Target-URI: http://theinvestigatornews.com/speed-test-confirms-mtn-has-the-fastest-internet-in-uganda-as-it-maintains-its-leadership-position/
+WARC-Date: 2016-01-24T23:48:00Z
+WARC-IP-Address: 216.172.177.30
+Content-Type: application/http;msgtype=response
+Content-Length: 132130
+
+HTTP/1.1 200 OK
+Date: Sun, 24 Jan 2016 23:48:00 GMT
+Server: Apache/2.2.29 (Unix) mod_ssl/2.2.29 OpenSSL/1.0.1e-fips DAV/2 mod_bwlimited/1.4
+X-Powered-By: PHP/5.4.36
+Vary: Accept-Encoding,Cookie
+Cache-Control: max-age=3, must-revalidate
+WP-Super-Cache: Served supercache file from PHP
+Content-Length: 131672
+Last-Modified: Sun, 24 Jan 2016 23:46:58 GMT
+Keep-Alive: timeout=2, max=38
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8" />
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://theinvestigatornews.com/xmlrpc.php" />
+<title>Speed Test Confirms MTN Has the Fastest Internet in Uganda As it Maintains its Leadership Position &#8211; The Investigator</title>
+<style>
+	/* Custom BSA_PRO Styles */
+
+	/* fonts */
+
+	/* form */
+	.bsaProOrderingForm {   }
+	.bsaProInput input,
+	.bsaProInput input[type='file'],
+	.bsaProSelectSpace select,
+	.bsaProInputsRight .bsaInputInner,
+	.bsaProInputsRight .bsaInputInner label {   }
+	.bsaProPrice  {  }
+	.bsaProDiscount  {   }
+	.bsaProOrderingForm .bsaProSubmit,
+	.bsaProOrderingForm .bsaProSubmit:hover,
+	.bsaProOrderingForm .bsaProSubmit:active {   }
+
+	/* allerts */
+	.bsaProAlert,
+	.bsaProAlert > a,
+	.bsaProAlert > a:hover,
+	.bsaProAlert > a:focus {  }
+	.bsaProAlertSuccess {  }
+	.bsaProAlertFailed {  }
+
+	/* stats */
+	.bsaStatsWrapper .ct-chart .ct-series.ct-series-b .ct-bar,
+	.bsaStatsWrapper .ct-chart .ct-series.ct-series-b .ct-line,
+	.bsaStatsWrapper .ct-chart .ct-series.ct-series-b .ct-point,
+	.bsaStatsWrapper .ct-chart .ct-series.ct-series-b .ct-slice.ct-donut { stroke: #673AB7 !important; }
+
+	.bsaStatsWrapper  .ct-chart .ct-series.ct-series-a .ct-bar,
+	.bsaStatsWrapper .ct-chart .ct-series.ct-series-a .ct-line,
+	.bsaStatsWrapper .ct-chart .ct-series.ct-series-a .ct-point,
+	.bsaStatsWrapper .ct-chart .ct-series.ct-series-a .ct-slice.ct-donut { stroke: #FBCD39 !important; }
+
+
+	/* Custom CSS */
+	
+</style><link rel="alternate" type="application/rss+xml" title="The Investigator &raquo; Feed" href="http://theinvestigatornews.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Investigator &raquo; Comments Feed" href="http://theinvestigatornews.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Investigator &raquo; Speed Test Confirms MTN Has the Fastest Internet in Uganda As it Maintains its Leadership Position Comments Feed" href="http://theinvestigatornews.com/speed-test-confirms-mtn-has-the-fastest-internet-in-uganda-as-it-maintains-its-leadership-position/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/theinvestigatornews.com\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a){var c,d=b.createElement("canvas"),e=d.getContext&&d.getContext("2d");return e&&e.fillText?(e.textBaseline="top",e.font="600 32px Arial","flag"===a?(e.fillText(String.fromCharCode(55356,56806,55356,56826),0,0),d.toDataURL().length>3e3):"diversity"===a?(e.fillText(String.fromCharCode(55356,57221),0,0),c=e.getImageData(16,16,1,1).data.toString(),e.fillText(String.fromCharCode(55356,57221,55356,57343),0,0),c!==e.getImageData(16,16,1,1).data.toString()):("simple"===a?e.fillText(String.fromCharCode(55357,56835),0,0):e.fillText(String.fromCharCode(55356,57135),0,0),0!==e.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='buy_sell_ads_pro_main_stylesheet-css'  href='http://theinvestigatornews.com/wp-content/plugins/bsa-pro-scripteo/frontend/css/asset/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='buy_sell_ads_pro_template_stylesheet-css'  href='http://theinvestigatornews.com/wp-content/plugins/bsa-pro-scripteo/frontend/css/template.css.php' type='text/css' media='all' />
+<link rel='stylesheet' id='buy_sell_ads_pro_materialize_stylesheet-css'  href='http://theinvestigatornews.com/wp-content/plugins/bsa-pro-scripteo/frontend/css/asset/material-design.css' type='text/css' media='all' />
+<link rel='stylesheet' id='buy_sell_ads_pro_animate_stylesheet-css'  href='http://theinvestigatornews.com/wp-content/plugins/bsa-pro-scripteo/frontend/css/asset/animate.css' type='text/css' media='all' />
+<link rel='stylesheet' id='buy_sell_ads_pro_chart_stylesheet-css'  href='http://theinvestigatornews.com/wp-content/plugins/bsa-pro-scripteo/frontend/css/asset/chart.css' type='text/css' media='all' />
+<link rel='stylesheet' id='buy_sell_ads_pro_owl_carousel_stylesheet-css'  href='http://theinvestigatornews.com/wp-content/plugins/bsa-pro-scripteo/frontend/css/asset/owl.carousel.css' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-ui-css'  href='http://theinvestigatornews.com/wp-content/plugins/bsa-pro-scripteo/frontend/css/asset/ui-datapicker.css' type='text/css' media='all' />
+<link rel='stylesheet' id='easy_author_image-css'  href='http://theinvestigatornews.com/wp-content/plugins/easy-author-image/css/easy-author-image.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bwg_frontend-css'  href='http://theinvestigatornews.com/wp-content/plugins/photo-gallery/css/bwg_frontend.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bwg_sumoselect-css'  href='http://theinvestigatornews.com/wp-content/plugins/photo-gallery/css/sumoselect.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bwg_font-awesome-css'  href='http://theinvestigatornews.com/wp-content/plugins/photo-gallery/css/font-awesome/font-awesome.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bwg_mCustomScrollbar-css'  href='http://theinvestigatornews.com/wp-content/plugins/photo-gallery/css/jquery.mCustomScrollbar.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wabtn-style-css'  href='http://theinvestigatornews.com/wp-content/plugins/whatsapp/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='//theinvestigatornews.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='//theinvestigatornews.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='//theinvestigatornews.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css' type='text/css' media='all' />
+<link rel='stylesheet' id='tie-style-css'  href='http://theinvestigatornews.com/wp-content/themes/jarida/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='tie-woocommerce-css'  href='http://theinvestigatornews.com/wp-content/themes/jarida/css/woocommerce.css' type='text/css' media='all' />
+<link rel='stylesheet' id='Oswald-css'  href='http://fonts.googleapis.com/css?family=Oswald%3Aregular%2C700' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='http://theinvestigatornews.com/wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://theinvestigatornews.com/wp-content/plugins/jetpack/css/jetpack.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-author-bio-css'  href='http://theinvestigatornews.com/wp-content/plugins/wp-about-author/wp-about-author.css' type='text/css' media='all' />
+<script type='text/javascript' src='http://theinvestigatornews.com/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='http://theinvestigatornews.com/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript' src='http://theinvestigatornews.com/wp-content/plugins/jetpack/modules/related-posts/related-posts.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/theinvestigatornews.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://theinvestigatornews.com/wp-includes/js/thickbox/thickbox.js'></script>
+<script type='text/javascript' src='http://theinvestigatornews.com/wp-includes/js/underscore.min.js'></script>
+<script type='text/javascript' src='http://theinvestigatornews.com/wp-includes/js/shortcode.min.js'></script>
+<script type='text/javascript' src='http://theinvestigatornews.com/wp-admin/js/media-upload.min.js'></script>
+<script type='text/javascript' src='http://theinvestigatornews.com/wp-content/plugins/bsa-pro-scripteo/frontend/js/script.js'></script>
+<script type='text/javascript' src='http://theinvestigatornews.com/wp-content/plugins/bsa-pro-scripteo/frontend/js/jquery.viewportchecker.js'></script>
+<script type='text/javascript' src='http://theinvestigatornews.com/wp-content/plugins/bsa-pro-scripteo/frontend/js/chart.js'></script>
+<script type='text/javascript' src='http://theinvestigatornews.com/wp-content/plugins/bsa-pro-scripteo/frontend/js/owl.carousel.js'></script>
+<script type='text/javascript' src='http://theinvestigatornews.com/wp-content/plugins/bsa-pro-scripteo/frontend/js/jquery.simplyscroll.js'></script>
+<script type='text/javascript' src='http://theinvestigatornews.com/wp-content/plugins/bsa-pro-scripteo/frontend/js/custom.js'></script>
+<script type='text/javascript' src='http://theinvestigatornews.com/wp-content/plugins/photo-gallery/js/bwg_frontend.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var bwg_objectsL10n = {"bwg_select_tag":"Select Tag."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://theinvestigatornews.com/wp-content/plugins/photo-gallery/js/jquery.sumoselect.min.js'></script>
+<script type='text/javascript' src='http://theinvestigatornews.com/wp-content/plugins/photo-gallery/js/jquery.mobile.js'></script>
+<script type='text/javascript' src='http://theinvestigatornews.com/wp-content/plugins/photo-gallery/js/jquery.mCustomScrollbar.concat.min.js'></script>
+<script type='text/javascript' src='http://theinvestigatornews.com/wp-content/plugins/photo-gallery/js/jquery.fullscreen-0.4.1.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var bwg_objectL10n = {"bwg_field_required":"field is required.","bwg_mail_validation":"This is not a valid email address.","bwg_search_result":"There are no images matching your search."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://theinvestigatornews.com/wp-content/plugins/photo-gallery/js/bwg_gallery_box.js'></script>
+<link rel='https://api.w.org/' href='http://theinvestigatornews.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://theinvestigatornews.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://theinvestigatornews.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Tycoon Sudhir Ruparelia Unveils $25M ‘HARDWARE CITY’ First Of Its Kind One-Stop Shopping Centre, Tenants To Pay Flat Rate for Two Years In Uganda Shillings' href='http://theinvestigatornews.com/tycoon-sudhir-ruparelia-unveils-25m-hardware-city-first-of-its-kind-one-stop-shopping-centre-tenants-to-pay-flat-rate-for-two-years-in-uganda-shillings/' />
+<link rel='next' title='Reggae Icon Maddox Ssematimba To Grace ‘Akandolindoli Just Relaxing’ New Season Opener At Bat Valley Theatre' href='http://theinvestigatornews.com/reggae-icon-maddox-ssematimba-to-grace-akandolindoli-just-relaxing-new-season-opener-at-bat-valley-theatre/' />
+<meta name="generator" content="WordPress 4.4.1" />
+<meta name="generator" content="WooCommerce 2.5.0" />
+<link rel="canonical" href="http://theinvestigatornews.com/speed-test-confirms-mtn-has-the-fastest-internet-in-uganda-as-it-maintains-its-leadership-position/" />
+<link rel='shortlink' href='http://wp.me/p6P4Ko-8zn' />
+<link rel="alternate" type="application/json+oembed" href="http://theinvestigatornews.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheinvestigatornews.com%2Fspeed-test-confirms-mtn-has-the-fastest-internet-in-uganda-as-it-maintains-its-leadership-position%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://theinvestigatornews.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheinvestigatornews.com%2Fspeed-test-confirms-mtn-has-the-fastest-internet-in-uganda-as-it-maintains-its-leadership-position%2F&#038;format=xml" />
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"A7QWi1a8Dy002o", domain:"theinvestigatornews.com",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=A7QWi1a8Dy002o" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-70850657-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<meta name="google-site-verification" content="_NCBm8Hr_fxl8xbo50NEl1j9fqXIpQ56D_oKM5GhdP0" />
+<link rel='dns-prefetch' href='//i0.wp.com'>
+<link rel='dns-prefetch' href='//i1.wp.com'>
+<link rel='dns-prefetch' href='//i2.wp.com'>
+<style type='text/css'>img#wpstats{display:none}</style><link rel="shortcut icon" href="http://theinvestigatornews.com/wp-content/uploads/2015/10/favicon.ico" title="Favicon" /><meta property="og:title" content="Speed Test Confirms MTN Has the Fastest Internet in Uganda As it Maintains its Leadership Position"/>
+<meta property="og:type" content="article"/>
+<meta property="og:description" content="New data collected from independent tests carried out on Speedtest.net indicate MTN Uganda has maint..."/>
+<meta property="og:url" content="http://theinvestigatornews.com/speed-test-confirms-mtn-has-the-fastest-internet-in-uganda-as-it-maintains-its-leadership-position/"/>
+<meta property="og:site_name" content="The Investigator"/>
+<meta property="og:image" content="http://i1.wp.com/theinvestigatornews.com/wp-content/uploads/2016/01/Mapula.jpg?resize=620%2C330" />
+<!--[if IE]>
+<script type="text/javascript">jQuery(document).ready(function (){ jQuery(".menu-item").has("ul").children("a").attr("aria-haspopup", "true");});</script>
+<![endif]-->
+<!--[if lt IE 9]>
+<script src="http://theinvestigatornews.com/wp-content/themes/jarida/js/html5.js"></script>
+<script src="http://theinvestigatornews.com/wp-content/themes/jarida/js/selectivizr-min.js"></script>
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" type="text/css" media="all" href="http://theinvestigatornews.com/wp-content/themes/jarida/css/ie8.css" />
+<![endif]-->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+<style type="text/css" media="screen"> 
+
+body{background:#ded7de;}
+.background-cover{
+	background-color:#ded7de !important;
+	background-image : url('http://theinvestigatornews.com/wp-content/uploads/2016/01/ADVIC.gif') !important;
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://theinvestigatornews.com/wp-content/uploads/2016/01/ADVIC.gif',sizingMethod='scale') !important;
+	-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://theinvestigatornews.com/wp-content/uploads/2016/01/ADVIC.gif',sizingMethod='scale')" !important;
+}
+.top-nav, .top-nav ul ul {background-color:#050545;}
+.top-nav ul li a , .top-nav ul ul a {
+		text-shadow: 0 1px 1px #ffffff !important;}
+.top-nav ul li a:hover, .top-nav ul li:hover > a, .top-nav ul :hover > a , .top-nav ul li.current-menu-item a  {
+	color: #ffffff !important;	}
+header#theme-header{background:#ffffff      !important;}
+
+footer , .footer-bottom{background: url('http://theinvestigatornews.com/wp-content/uploads/2015/10/dark.jpg')    ;}
+
+
+</style> 
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://theinvestigatornews.com/wp-content/uploads/2015/10/apple-icon-144x144.png" />
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://theinvestigatornews.com/wp-content/uploads/2015/10/apple-icon-120x120.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://theinvestigatornews.com/wp-content/uploads/2015/10/apple-icon-72x72.png" />
+<link rel="apple-touch-icon-precomposed" href="http://theinvestigatornews.com/wp-content/uploads/2015/10/apple-icon-57x57.png" />
+
+
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Speed Test Confirms MTN Has the Fastest Internet in Uganda As it Maintains its Leadership Position" />
+<meta property="og:url" content="http://theinvestigatornews.com/speed-test-confirms-mtn-has-the-fastest-internet-in-uganda-as-it-maintains-its-leadership-position/" />
+<meta property="og:description" content="New data collected from independent tests carried out on Speedtest.net indicate MTN Uganda has maintained a substantial distance ahead of competition in the provision of high speed Internet in Ugan…" />
+<meta property="article:published_time" content="2016-01-20T21:33:09+00:00" />
+<meta property="article:modified_time" content="2016-01-20T21:33:09+00:00" />
+<meta property="og:site_name" content="The Investigator" />
+<meta property="og:image" content="http://i1.wp.com/theinvestigatornews.com/wp-content/uploads/2016/01/Mapula.jpg?fit=620%2C330" />
+<meta property="og:image:width" content="620" />
+<meta property="og:image:height" content="330" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:site" content="@uginvestigator" />
+<meta name="twitter:image" content="http://i1.wp.com/theinvestigatornews.com/wp-content/uploads/2016/01/Mapula.jpg?fit=620%2C330&#038;w=640" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:creator" content="@RosandPost" />
+<meta data-pso-pv="1.2.1" data-pso-pt="singlePost" data-pso-th="2b828d8d813da8dc91c03a861b8a0a5e"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><script pagespeed_no_defer="" data-pso-version="20160120_160911">window.dynamicgoogletags={config:[]};dynamicgoogletags.config=["ca-pub-1586406238811772",[[]],[[[],[[["DIV",,,["wrapper"]],["10px","10px",1],1,[4],,0,,,3],[["HEADER",0,,[]],["10px","10px",1],0,[2],,0,,,5],[["DIV",,,["ads-top"]],["8px","10px",1],0,[2],,0,,,7],[["NAV",0,,[]],["10px","10px",1],0,[2],,0,,,6],[["DIV",,"main-content",[]],["15px","25px",1],3,[1],,0,,,5],[["DIV",,,["ads-bottom"]],["20px","20px",1],3,[1],,0,,,5],[["DIV",,,["alignleft"]],["5px","10px",1],0,[5],,0,,,6],[["DIV",,,["alignleft"]],["10px","5px",1],3,[5],,0,,,6],[["DIV",0,,["footer-widget-top"],0],["10px","10px",0],0,[0],,0],[["DIV",0,,["footer-widget-top"],1],["10px","10px",0],0,[0],,0],[["DIV",0,,["footer-widget-top"],2],["10px","10px",0],0,[0],,0],[["DIV",0,,["footer-widget-top"],-1],["10px","10px",0],3,[0],,0],[["DIV",1,,["footer-widget-top"],0],["10px","10px",0],0,[0],,0],[["DIV",1,,["footer-widget-top"],1],["10px","10px",0],0,[0],,0],[["DIV",1,,["footer-widget-top"],2],["10px","10px",0],0,[0],,0],[["DIV",1,,["footer-widget-top"],-1],["10px","10px",0],3,[0],,0],[["DIV",2,,["footer-widget-top"],0],["10px","10px",0],0,[0],,0],[["DIV",2,,["footer-widget-top"],1],["10px","10px",0],0,[0],,0],[["DIV",2,,["footer-widget-top"],2],["10px","10px",0],0,[0],,0],[["DIV",2,,["footer-widget-top"],-1],["10px","10px",0],3,[0],,0]],["2529583444","4006316645","5483049846","6959783041","8436516240"],["DIV",,,["footer-widget-top"]],"20160121_041943",8]],"WordPressSinglePost","8820122647",,0.01,,[,1454788135966],0.01,1,,,"http://theinvestigatornews.com"];(function(){var h=this,aa=function(a){var b=typeof a;if("object"==b)if(a){if(a instanceof Array)return"array";if(a instanceof Object)return b;var c=Object.prototype.toString.call(a);if("[object Window]"==c)return"object";if("[object Array]"==c||"number"==typeof a.length&&"undefined"!=typeof a.splice&&"undefined"!=typeof a.propertyIsEnumerable&&!a.propertyIsEnumerable("splice"))return"array";if("[object Function]"==c||"undefined"!=typeof a.call&&"undefined"!=typeof a.propertyIsEnumerable&&!a.propertyIsEnumerable("call"))return"function"}else return"null";
+else if("function"==b&&"undefined"==typeof a.call)return"object";return b},r=function(a){return"number"==typeof a},t=function(a,b){function c(){}c.prototype=b.prototype;a.wa=b.prototype;a.prototype=new c;a.prototype.constructor=a;a.qa=function(a,c,f){for(var g=Array(arguments.length-2),k=2;k<arguments.length;k++)g[k-2]=arguments[k];return b.prototype[c].apply(a,g)}};var ba=String.prototype.trim?function(a){return a.trim()}:function(a){return a.replace(/^[\s\xa0]+|[\s\xa0]+$/g,"")},ca=function(a,b){return a<b?-1:a>b?1:0};var u;a:{var da=h.navigator;if(da){var fa=da.userAgent;if(fa){u=fa;break a}}u=""}var v=function(a){return-1!=u.indexOf(a)};var ga=v("Opera")||v("OPR"),w=v("Trident")||v("MSIE"),ha=v("Edge"),ia=v("Gecko")&&!(-1!=u.toLowerCase().indexOf("webkit")&&!v("Edge"))&&!(v("Trident")||v("MSIE"))&&!v("Edge"),ja=-1!=u.toLowerCase().indexOf("webkit")&&!v("Edge"),ka=function(){var a=u;if(ia)return/rv\:([^\);]+)(\)|;)/.exec(a);if(ha)return/Edge\/([\d\.]+)/.exec(a);if(w)return/\b(?:MSIE|rv)[: ]([^\);]+)(\)|;)/.exec(a);if(ja)return/WebKit\/(\S+)/.exec(a)},la=function(){var a=h.document;return a?a.documentMode:void 0},ma=function(){if(ga&&
+h.opera){var a;var b=h.opera.version;try{a=b()}catch(c){a=b}return a}a="";(b=ka())&&(a=b?b[1]:"");return w&&(b=la(),b>parseFloat(a))?String(b):a}(),na={},oa=function(a){if(!na[a]){for(var b=0,c=ba(String(ma)).split("."),d=ba(String(a)).split("."),e=Math.max(c.length,d.length),f=0;0==b&&f<e;f++){var g=c[f]||"",k=d[f]||"",n=RegExp("(\\d*)(\\D*)","g"),l=RegExp("(\\d*)(\\D*)","g");do{var m=n.exec(g)||["","",""],q=l.exec(k)||["","",""];if(0==m[0].length&&0==q[0].length)break;b=ca(0==m[1].length?0:parseInt(m[1],
+10),0==q[1].length?0:parseInt(q[1],10))||ca(0==m[2].length,0==q[2].length)||ca(m[2],q[2])}while(0==b)}na[a]=0<=b}},pa=h.document,qa=pa&&w?la()||("CSS1Compat"==pa.compatMode?parseInt(ma,10):5):void 0;var x=function(){},A=function(a,b,c){a.b=null;b||(b=[]);a.va=void 0;a.K=-1;a.g=b;a:{if(a.g.length){b=a.g.length-1;var d=a.g[b];if(d&&"object"==typeof d&&"array"!=aa(d)){a.R=b-a.K;a.H=d;break a}}a.R=Number.MAX_VALUE}if(c)for(b=0;b<c.length;b++)d=c[b],d<a.R?(d+=a.K,a.g[d]=a.g[d]||y):a.H[d]=a.H[d]||y},y=[],B=function(a,b){if(b<a.R){var c=b+a.K,d=a.g[c];return d===y?a.g[c]=[]:d}d=a.H[b];return d===y?a.H[b]=[]:d},C=function(a,b,c){b<a.R?a.g[b+a.K]=c:a.H[b]=c},D=function(a,b,c){a.b||(a.b={});if(!a.b[c]){var d=
+B(a,c);d&&(a.b[c]=new b(d))}return a.b[c]},E=function(a,b,c){a.b||(a.b={});if(!a.b[c]){for(var d=B(a,c),e=[],f=0;f<d.length;f++)e[f]=new b(d[f]);a.b[c]=e}b=a.b[c];b==y&&(b=a.b[c]=[]);return b},ra=function(a,b,c){a.b||(a.b={});c=c||[];for(var d=[],e=0;e<c.length;e++)d[e]=c[e].g;a.b[b]=c;C(a,b,d)};x.prototype.toString=function(){return this.g.toString()};
+var F=function(a){return new a.constructor(sa(a.g))},sa=function(a){var b;if("array"==aa(a)){for(var c=Array(a.length),d=0;d<a.length;d++)null!=(b=a[d])&&(c[d]="object"==typeof b?sa(b):b);return c}c={};for(d in a)null!=(b=a[d])&&(c[d]="object"==typeof b?sa(b):b);return c};var G=function(a){A(this,a,ta)};t(G,x);var ta=[4];G.prototype.o=function(){return F(this)};var H=function(a){return B(a,5)},I=function(a){A(this,a,null)};t(I,x);I.prototype.o=function(){return F(this)};var ua=function(a){A(this,a,null)};t(ua,x);ua.prototype.o=function(){return F(this)};var J=function(a){return D(a,G,1)},K=function(a){A(this,a,va)};t(K,x);var va=[1];K.prototype.o=function(){return F(this)};K.prototype.i=function(){return E(this,ua,1)};K.prototype.ea=function(a){ra(this,1,a)};var L=function(a){A(this,a,wa)};t(L,x);var wa=[2];L.prototype.o=function(){return F(this)};L.prototype.ca=function(){return B(this,3)};var xa=function(a){A(this,a,null)};t(xa,x);xa.prototype.o=function(){return F(this)};
+var M=function(a){A(this,a,ya)};t(M,x);var ya=[1,2,3];M.prototype.o=function(){return F(this)};M.prototype.i=function(){return E(this,ua,2)};M.prototype.ea=function(a){ra(this,2,a)};var N=function(a){A(this,a,za)};t(N,x);var za=[3];N.prototype.o=function(){return F(this)};N.prototype.v=function(){return B(this,1)};N.prototype.C=function(){return D(this,K,2)};N.prototype.P=function(){return B(this,4)};N.prototype.ca=function(){return B(this,5)};N.prototype.O=function(){return D(this,Aa,9)};
+var Aa=function(a){A(this,a,null)};t(Aa,x);Aa.prototype.o=function(){return F(this)};var Ea=function(a,b){var c=b||document,d=null,e=B(a,3);if(e)if(d=c.getElementById(e))d=[d];else return[];if(e=B(a,1))if(d){for(var f=[],g=0;g<d.length;++g)d[g].tagName&&d[g].tagName.toUpperCase()==e.toUpperCase()&&f.push(d[g]);d=f}else{d=c.getElementsByTagName(e);e=[];for(f=0;f<d.length;++f)e.push(d[f]);d=e}if((e=B(a,4))&&0<e.length)if(d)for(c=d,d=[],f=0;f<c.length;++f)Ba(c[f],e)&&d.push(c[f]);else{if(!c.body)return[];d=Ca(e,c.body)}c=B(a,2);if(r(c)&&d)if(0>c&&(c+=d.length),d.length>c)d=[d[c]];else return[];
+c=H(a);if(r(c)&&d){e=[];for(f=0;f<d.length;f++)g=Da(d[f]),0>c&&(c+=g.length),0<=c&&c<g.length&&e.push(g[c]);d=e}c=B(a,6);if(void 0!==c&&d)switch(c){case 0:return d.slice(1);case 1:return d.slice(0,d.length-1);case 2:return d.slice(1,d.length-1)}return d?d:[]},Fa=function(a){return"INS"==a.tagName&&Ba(a,["adsbygoogle-placeholder"])},Da=function(a){var b=[];a=a.getElementsByTagName("p");for(var c=0;c<a.length;++c)100<=Ga(a[c])&&b.push(a[c]);return b},Ha=function(a,b){if(a==b)return!0;if(!a||!b||B(a,
+1)!=B(b,1)||B(a,2)!=B(b,2)||B(a,3)!=B(b,3)||H(a)!=H(b)||B(a,6)!=B(b,6))return!1;var c=B(a,4),d=B(b,4);if(c||d)if(c&&d&&c.length==d.length)for(var e=0;e<c.length;e++){if(c[e]!=d[e])return!1}else return!1;return!0},Ga=function(a){if(3==a.nodeType)return a.length;if(1!=a.nodeType||"SCRIPT"==a.tagName)return 0;for(var b=0,c=0;c<a.childNodes.length;++c)b+=Ga(a.childNodes[c]);return b},Ca=function(a,b){if(b.getElementsByClassName){for(var c=b.getElementsByClassName(a.join(" ")),d=[],e=0;e<c.length;++e)d.push(c[e]);
+return d}c=[];Ba(b,a)&&c.push(b);for(e=0;e<b.childNodes.length;++e)1==b.childNodes[e].nodeType&&(c=c.concat(Ca(a,b.childNodes[e])));return c},Ba=function(a,b){for(var c=a.className?a.className.split(/\s+/):[],d={},e=0;e<c.length;++e)d[c[e]]=!0;for(e=0;e<b.length;++e)if(!d[b[e]])return!1;return!0};var Ia;if(!(Ia=!ia&&!w)){var Ja;if(Ja=w)Ja=9<=Number(qa);Ia=Ja}Ia||ia&&oa("1.9.1");w&&oa("9");var O=function(a,b,c,d){this.top=a;this.right=b;this.bottom=c;this.left=d};O.prototype.contains=function(a){return this&&a?a instanceof O?a.left>=this.left&&a.right<=this.right&&a.top>=this.top&&a.bottom<=this.bottom:a.x>=this.left&&a.x<=this.right&&a.y>=this.top&&a.y<=this.bottom:!1};O.prototype.floor=function(){this.top=Math.floor(this.top);this.right=Math.floor(this.right);this.bottom=Math.floor(this.bottom);this.left=Math.floor(this.left);return this};var Ka=function(a,b){for(var c in a)Object.prototype.hasOwnProperty.call(a,c)&&b.call(void 0,a[c],c,a)},La=function(a,b){var c=a.length;if(0==c)return 0;for(var d=b||305419896,e=0;e<c;e++)d^=(d<<5)+(d>>2)+a.charCodeAt(e)&4294967295;return 0<d?d:4294967296+d};var Oa=function(a,b,c,d){var e=Ma;try{if((c?e.pa:Math.random())<(d||e.ja)){var f=e.ia+a+Na(b),f=f.substring(0,2E3);h.google_image_requests||(h.google_image_requests=[]);var g=h.document.createElement("img");g.src=f;h.google_image_requests.push(g)}}catch(k){}},Na=function(a){var b="";Ka(a,function(a,d){if(0===a||a)b+="&"+d+"="+encodeURIComponent(String(a))});return b};var Pa=window;var Qa=/(^| )adsbygoogle($| )/;var Ra=function(a,b){for(var c=a.google_ad_modifications=a.google_ad_modifications||{},c=c.loeids=c.loeids||[],d=0;d<b.length;d++)c.push(b[d])};var Sa=function(a,b,c){this.T=a;this.la=c?c:new Aa};Sa.prototype.O=function(){return this.la||new Aa};var P=function(a){return a.dynamicgoogletags=a.dynamicgoogletags||{}};var Ma;Ma=new function(){this.ia="http"+("http:"===Pa.location.protocol?"":"s")+"://pagead2.googlesyndication.com/pagead/gen_204?id=";this.ja=.01;this.pa=Math.random()};var Ta=function(a){a=a.document;return("CSS1Compat"==a.compatMode?a.documentElement:a.body)||{}},Ua=function(a){return void 0===a.pageYOffset?(a.document.documentElement||a.document.body.parentNode||a.document.body).scrollTop:a.pageYOffset},Va=function(a){return void 0===a.pageXOffset?(a.document.documentElement||a.document.body.parentNode||a.document.body).scrollLeft:a.pageXOffset};var Wa=function(){this.document=document};var Xa=function(a,b,c){switch(a){case 0:b.parentNode&&b.parentNode.insertBefore(c,b);break;case 3:if(a=b.parentNode){var d=b.nextSibling;if(d&&d.parentNode!=a)for(;d&&8==d.nodeType;)d=d.nextSibling;a.insertBefore(c,d)}break;case 1:b.insertBefore(c,b.firstChild);break;case 2:b.appendChild(c)}Fa(b)&&(b.style.display="block")};var Ya=function(a){return!!a.nextSibling||!!a.parentNode&&Ya(a.parentNode)},Za=function(a,b){var c=J(b);if(!c)return null;c=Ea(c,a);return 0<c.length?c[0]:null},ab=function(a,b){var c=$a(a,b,!0);return r(c)&&!(c<=Ta(a).clientHeight)},bb=function(a,b){return a.body?b-a.body.getBoundingClientRect().top:b},$a=function(a,b,c){if(!c||!r(B(b,8))){var d=Za(a.document,b);if(d){var e=D(b,I,2);c=a.document.createElement("div");c.className="googlepublisherpluginad";var f=c.style;f.textAlign="center";f.width=
+"100%";f.height="0px";f.clear=e&&B(e,3)?"both":"none";Xa(B(b,3),d,c);d=c.getBoundingClientRect().top+Ua(a);c.parentNode.removeChild(c);C(b,8,d)}}b=B(b,8);return r(b)?b-Ua(a):null},eb=function(a,b,c){switch(b){case 0:return!!cb(a,db(c));case 3:return!!cb(a,c);case 1:return!1;case 2:return b=c.lastChild,!!cb(a,b?1==b.nodeType?b:db(b):null);default:return!1}},cb=function(a,b){if(!b)return!1;var c;c=a.getComputedStyle?a.getComputedStyle(b,null):b.currentStyle;if(!c)return!1;c=c.cssFloat||c.styleFloat;
+return"left"==c||"right"==c},fb=function(a){return a.adsbygoogle=a.adsbygoogle||[]},gb=function(a){switch(a){case 0:return"auto";case 1:return"horizontal";case 2:return"vertical";case 3:return"rectangle";default:return"auto"}},db=function(a){for(a=a.previousSibling;a&&1!=a.nodeType;)a=a.previousSibling;return a?a:null},hb=function(a,b){a.sort(function(a,d){var e=$a(b,a,!0),e=r(e)?e:Number.POSITIVE_INFINITY,f=$a(b,d,!0),f=r(f)?f:Number.POSITIVE_INFINITY;return e-f})};var ib=function(a){this.m=a;this.ha=[]};ib.prototype.f=function(){return 0<E(this.m,M,3).length?E(this.m,M,3)[0]:null};var jb=function(a,b){var c=a.google_ad_modifications=a.google_ad_modifications||{};(c.ad_channels=c.ad_channels||[]).push(b)},mb=function(a){a+=kb;var b=La(a);return((b%512*2+1)*lb+La(a,b)%1024)%1024},nb=function(a,b,c){var d=a.length;c-=0;return 0>c||c>=b*d?null:a[c%d]};var ob=function(){this.u=[]};var pb={"120x90":!0,"160x90":!0,"180x90":!0,"200x90":!0,"468x15":!0,"728x15":!0};var qb=function(a,b){var c;c=Ta(a).clientWidth;var d=Ta(a).clientHeight;if(!r(c)||!r(d))throw Error("No VP width and/or height.");var e=Va(a),f=Ua(a);c=new O(f,c+e,d+f,e);return(b.left<c.right&&c.left<b.right&&b.top<c.bottom&&c.top<b.bottom?new O(Math.max(b.top,c.top),Math.min(b.right,c.right),Math.min(b.bottom,c.bottom),Math.max(b.left,c.left)):null)||new O(0,0,0,0)};var rb=function(a){this.j=a;this.X=null;this.B=[];this.L={};this.F=this.S=null},sb=function(a){if(!a.j.ownerDocument)throw Error("Wrapped node should have an owner document.");return a.j.ownerDocument},tb=function(a){a=sb(a);return a.defaultView||a.parentWindow};rb.prototype.getParent=function(){return this.X};rb.prototype.removeChild=function(a){for(var b=0;b<this.B.length;++b)if(this.B[b]==a){this.B[b].X=null;this.B.splice(b,1);break}};
+var vb=function(a){if(!a.aa){var b;if(!a.S){b=Va(tb(a));var c=Ua(tb(a));if(a.j.getBoundingClientRect){var d=a.j.getBoundingClientRect();b=new O(d.top+c,d.right+b,d.bottom+c,d.left+b)}else d=sb(a).createRange(),d.selectNodeContents(a.j),d.collapsed?b=new O(0,0,0,0):(d=d.getBoundingClientRect(),b=new O(d.top+c,d.right+b,d.bottom+c,d.left+b));a.S=b}b=a.S;c=Q(a,"position");if("fixed"==c)b=qb(tb(a),b);else if(a.getParent()){if(d=ub(a.getParent(),0,"absolute"==c)){var d=vb(d),e=d.left,d=d.right;b=b.left>=
+d||b.right<=e?null:new O(b.top,Math.min(b.right,d),b.bottom,Math.max(b.left,e))}b&&(c=ub(a.getParent(),1,"absolute"==c))&&(d=vb(c),c=d.top,d=d.bottom,b=b.top>=d||b.bottom<=c?null:new O(Math.max(b.top,c),b.right,Math.min(b.bottom,d),b.left));b=b&&wb(a)&&"fixed"==Q(wb(a),"position")?qb(tb(a),b):b||new O(0,0,0,0)}a.aa=b}return a.aa},wb=function(a){if(void 0!==a.V)return a.V;var b;b=Q(a,"position");if("fixed"==b)b=a;else{var c=a.getParent();b=c&&"BODY"!=a.j.tagName?(c=wb(c))||"absolute"!=b&&"relative"!=
+b?c:a:null}a.V=b;return a.V},ub=function(a,b,c){if(void 0!==a.L[b])return a.L[b];a.L[b]=xb(a,b,c);return a.L[b]},xb=function(a,b,c){var d=Q(a,"position"),e;a:switch(b){case 0:e="hidden"==Q(a,"overflow")||"scroll"==Q(a,"overflow")||"hidden"==Q(a,"overflow-x")||"scroll"==Q(a,"overflow-x");break a;case 1:e="hidden"==Q(a,"overflow")||"scroll"==Q(a,"overflow")||"hidden"==Q(a,"overflow-y")||"scroll"==Q(a,"overflow-y");break a;default:throw"Unknown pageAxis: "+b;}switch(d){case "fixed":if(e)return a;break;
+case "static":case "":if(e&&!c)return a;if(a.getParent())return ub(a.getParent(),b,c);break;case "absolute":case "relative":if(e)return a;if(a.getParent())return ub(a.getParent(),b,"absolute"==d);break;default:window.console.error("Unknown position value.")}return null},Q=function(a,b){if(1!=a.j.nodeType)return null;a.F=a.F||tb(a).getComputedStyle(a.j);return a.F?a.F[b]||a.F.getPropertyValue(b)||"":""},yb=function(a,b){if(b&&3==a.nodeType?!/\S/.test(a.data):1!=a.nodeType&&3!=a.nodeType||a.tagName&&
+("SCRIPT"==a.tagName.toUpperCase()||"STYLE"==a.tagName.toUpperCase()))return null;for(var c=new rb(a),d=0;d<a.childNodes.length;++d){var e=yb(a.childNodes[d],b);if(e){var f=c;e.X=f;f.B.push(e)}}return c};var Ab=function(a){this.ga=a;this.M=null;a={};var b=this.ga.ta;try{if(b&&"function"==typeof b.oa)for(var c=b.oa().sa(),b=0;b<c.length;b++){var d=c[b].ra();a[d]=!0}}catch(e){Oa("ladd_evt",{ok:0,err:e.toString()},!0,.1)}this.ma=a;this.N=[];this.ba=[];this.fa=!0;zb(this)},Bb=function(a,b){var c=a.id;return!!c&&!!c.indexOf&&"function"===typeof c.indexOf&&0===c.indexOf(b)},Cb=function(a){zb(a);return 0<a.N.length},zb=function(a){if(a.fa){a.fa=!1;if(!a.M){var b;b=(b=a.ga.document.body)?yb(b):null;a.M=b}a.M&&
+Db(a,a.M,a.N,a.ba)}},Db=function(a,b,c,d){var e;if(e=1===b.j.nodeType){e=b.j;var f;(f="INS"==e.tagName&&Qa.test(e.className))||(f=e.id,f=a.ma[f]?!0:"DIV"==e.tagName&&0==f.indexOf("div-gpt-ad"));e=f||Bb(e,"google_ads_frame")||Bb(e,"aswift_")||e.classList.contains("lru_res")}e&&(c.push(b),e=b.j,"IFRAME"!=e.tagName||!Bb(e,"google_ads_frame")&&!Bb(e,"aswift_")?e=!1:(e=vb(b),f=e.bottom-e.top,e=!(pb[e.right-e.left+"x"+f]&&50>f)),e&&d.push(b));b=b.B;for(e=0;e<b.length;e++)Db(a,b[e],c,d)};var R=function(a){this.a=a;this.l=[];this.Z=0;this.G=[];this.u=[];this.$=this.U=null;this.da=!1},Eb=function(a,b){var c;c=a.f();c=D(c,G,4);if(!(c&&b&&B(b,1)==B(c,1)&&B(b,3)==B(c,3)&&r(B(b,2))&&r(H(b))))return!1;c=B(c,4);var d=B(b,4);if(c.length!=d.length)return!1;for(var e=0;e<c.length;++e)if(d[e]!=c[e])return!1;return!0},Fb=function(a){var b=r(void 0)?void 0:20,c=a.f(),d=c.i(),e=D(c,G,4);if(!(a.da||0>=b)&&e&&0!=Ea(e,a.a.document).length){a.da=!0;for(var c=[],f=0;f<d.length;++f){var g=d[f],k=J(g);
+if(Eb(a,k)){var n=B(k,2),k=H(k);null!=n&&null!=k&&0<=n&&0<=k&&(!c[n]||H(J(c[n]))<k)&&(c[n]=g)}}k=0;d=Ea(e,a.a.document);for(n=0;n<c.length&&k<b;++n){var e=k,f=a,l=d[n],g=c[n],k=b-k,m=f.f().i(),q=0;if(l&&g){var l=Da(l).length,p=J(g);switch(B(p,6)){case 0:case 1:--l;break;case 2:l-=2}for(p=H(J(g))+1;p<l&&q<k;++p){var z=g.o(),ea=J(z);C(ea,5,p);m.push(z);q++}}q&&f.f().ea(m);k=e+q}}},S=function(a,b){for(var c=0;c<a.G.length;++c)if(a.G[c]==b)return;a.G.push(b)},Gb=function(a,b){for(var c=0;c<a.u.length;++c)if(a.u[c]==
+b)return;a.u.push(b)},Hb=function(a,b,c){var d=Za(a.a.document,b);if(d){var e=B(b,3),f;if(f=J(b))f=J(b),f=void 0!==B(f,2);if(!f||!eb(a.a,e,d))if(2!=e||c||Ya(d))if(c=1==e||2==e?d:d.parentNode,!(c&&0>=c.offsetWidth)||Fa(c))a:if(null==a.$||a.$.ua(a.a,b))if(B(b,7))Gb(a,8);else{b:if(B(b,5))c=B(b,5);else{if(c=T(a).f())if(c=B(c,3),a.Z<c.length){c=c[a.Z++];break b}S(a,4);c=null}if(null!=c){C(b,7,!0);e=[];(f=a.P())&&e.push(f);f=T(a).ha;for(var g=0;g<f.length;++g)e.push(f[g]);r(B(b,9))&&e.push("pso-lv-"+B(b,
+9));var k=a.a.document;f=a.v();var g=c,n=B(b,6),l=D(b,I,2),m,q,p;l&&(m=B(l,1),q=B(l,2),p=!!B(l,3));var l=k.createElement("div"),z=l.style;z.textAlign="center";z.width="100%";z.height="auto";z.clear=p?"both":"none";p=k.createElement("ins");k=p.style;k.display="block";k.margin="auto";k.backgroundColor="transparent";m&&(k.marginTop=m);q&&(k.marginBottom=q);l.appendChild(p);l.className="googlepublisherpluginad";p.className="adsbygoogle";p.setAttribute("data-ad-client",f);g&&p.setAttribute("data-ad-slot",
+g);p.setAttribute("data-ad-format",gb(n));e.length&&p.setAttribute("data-ad-channel",e.join("+"));p.setAttribute("data-tag-origin","pso");Xa(B(b,3),d,l);try{fb(a.a).push({})}catch(ea){B(b,5)!=c&&a.Z--;C(b,7,!1);Gb(a,6);l.parentNode&&l.parentNode.removeChild(l);break a}a.l.push(l)}}}},Ib=function(a,b){for(var c=Number.POSITIVE_INFINITY,d=0;d<a.l.length;++d)var e=a.l[d].getBoundingClientRect().top,f=a.l[d].getBoundingClientRect().bottom,c=Math.min(c,b<e?e-b:f<b?b-f:0);return c},T=function(a){a=P(a.a).ps||
+null;if(!a)throw Error("No placementState");return a},Jb=function(a,b){var c=T(a).m;if(!c||!c.v())return S(a,5),!1;c=E(c,M,3)[0];return c?B(c,3).length<b?(S(a,4),S(a,5),!1):!0:(S(a,5),!1)};R.prototype.v=function(){return T(this).m.v()||""};R.prototype.P=function(){return T(this).m.P()||void 0};R.prototype.C=function(){return T(this).m.C()||new K};R.prototype.f=function(){var a=T(this).f();if(!a)throw Error("No mConfig");return a};var Kb=function(a){a=a.f();a=B(a,6);return null!=a&&0<a};var U=function(a){R.call(this,a)};t(U,R);U.prototype.apply=function(a){var b;(b=T(this).m)&&b.v()&&b.C()?b=!0:(S(this,5),b=!1);if(b){b=this.C().i();for(var c=0;c<b.length;c++){var d=b[c];B(d,7)||Hb(this,d,a)}}};U.prototype.A=function(){return(0==this.C().i().length||0<this.l.length)&&0==this.G.length};var Lb=function(a){R.call(this,a);if(Jb(this,0)){a=this.C().i();for(var b=this.f().i(),c=0;c<a.length;c++){var d=a[c],e;a:{e=d;var f=b;if(e&&J(e))for(var g=0;g<f.length;g++){var k=f[g];if(B(e,3)==B(k,3)&&Ha(J(e),J(k))){e=k;break a}}e=null}e&&D(e,I,2)&&(e=D(e,I,2),d.b||(d.b={}),f=e?e.g:e,d.b[2]=e,C(d,2,f))}}};t(Lb,U);var V=function(a){R.call(this,a)};t(V,R);V.prototype.apply=function(){};V.prototype.A=function(){return Kb(this)?Cb(new Ab(this.a)):!0};var Mb=function(a){R.call(this,a);this.D=null};t(Mb,R);
+Mb.prototype.apply=function(a){if(a&&Jb(this,2)){Fb(this);a=Ta(this.a).clientHeight||640;null==this.D&&(this.D=new Ab(this.a));var b=this.D.ba.length;if(!(5<=b)){var b=Math.min(2,5-b),c=this.f().i();hb(c,this.a);for(var d=0;d<c.length&&this.l.length<b;++d){var e=c[d];if(ab(this.a,e)){var f=$a(this.a,e,!0);if(void 0!==f){var g;a:{g=this.D;for(var k=f,n=a,l=0;l<g.N.length;l++){var m=vb(g.N[l]);if(Math.abs(m.top-k)<n||Math.abs(m.bottom-k)<n){g=!0;break a}}g=!1}g||Ib(this,f)<a||Hb(this,e,!0)}}}0==this.l.length&&
+Gb(this,1)}}};Mb.prototype.A=function(){return Kb(this)?Cb(this.D):!0};var Nb=function(a){R.call(this,a);this.W=!1};t(Nb,V);
+Nb.prototype.apply=function(a){if(a&&!this.W){var b;a:{var c=this.a.document;b=c.body;if(a&&b){a=this.v();var d=c.createElement("div");d.className="googlepublisherpluginad";d.style.display="block";c=c.createElement("ins");c.className="adsbygoogle";c.setAttribute("data-ad-client",a);c.setAttribute("data-reactive-ad-format","1");c.setAttribute("data-tag-origin","pso");c.style.display="none";d.appendChild(c);Xa(2,b,d);try{fb(this.a).push({})}catch(e){Gb(this,6);d.parentNode&&d.parentNode.removeChild(d);
+b=5;break a}this.l.push(d);b=0}else b=4}this.W=0==b}};Nb.prototype.A=function(){return this.W&&V.prototype.A.call(this)};var Ob=function(a){R.call(this,a);a=Ta(a).clientHeight;this.ka=.1*a;this.na=.75*a};t(Ob,R);
+Ob.prototype.apply=function(a){if(!Jb(this,3))return!1;Fb(this);var b=this.f().i();hb(b,this.a);var c;c=this.ka;var d;d=document;d=d.querySelectorAll?d.querySelectorAll("header,#header,#masthead,.header,.site-header"):[];for(var e=d.length,f=0<e?d[0]:null,g=1;g<e;g++)d[g].getBoundingClientRect().top<f.getBoundingClientRect().top&&(f=d[g]);(d=f)&&(d=d.getBoundingClientRect())&&d.top!=d.bottom&&d.left!=d.right&&(c=Math.min(c,bb(document,d.bottom)));for(d=0;d<b.length&&3>this.l.length;d++){e=b[d];var f=
+c,g=this.a.document,k=$a(this.a,e,!1);!r(k)||bb(g,k)<f?f=!1:(f=Ib(this,k),f=this.na<f);f&&(f=ab(this.a,e),g=B(e,6)||0,f&&0==g&&C(e,6,3),!f&&a||Hb(this,e,a))}return this.A()};Ob.prototype.A=function(){return 3==this.l.length};var W={};W[16]=U;W[17]=U;W[19]=V;W[29]=Mb;W[33]=V;W[30]=Nb;W[28]=Ob;W[32]=Lb;W[1]=U;W[8]=V;W[11]=U;var Pb=[19,29,33,30,16,32,17],Qb=[16,19,33,30,17,1,6,8,11];var Rb=function(a){return 0>a||99<a?null:10>a?"0"+a:""+a};var Sb=function(){this.I=this.J=this.Y=null};var Tb=function(a,b,c,d,e,f){var g=P(window).ss||null,k=P(window).ps||null,n,l=window;n=P(l).ls=P(l).ls||new ob;var m;k&&(m=k.m);var l=a?"pso_success":"pso_failure",q;m&&(q=a?B(m,10):B(m,7));null!=q||(q=.01);a={};var p;a:{p=(new Wa).document.getElementsByTagName("script");for(var z=0;z<p.length;++z)if(p[z].hasAttribute("data-pso-version")){p=p[z].getAttribute("data-pso-version");break a}p=null}a.sv=p;a.wpc=f||m&&m.v();a.su=m&&B(m,14);k&&m&&(a.tn=m.P(),f=k.f(),a.ev=f&&B(f,5));g&&(a.s=g.J,a.st=g.Y);
+a.c=b;a.w=0<window.innerWidth?window.innerWidth:null;a.h=0<window.innerHeight?window.innerHeight:null;a.err=c.join();for(b=0;b<d.length;b++)a:{c=d[b];for(g=0;g<n.u.length;g++)if(n.u[g]==c)break a;n.u.push(c)}a.warn=n.u.join();if(e){a.excp_n=e.name;a.excp_m=e.message&&e.message.substring(0,512);if(d=e.stack){e=e.stack;try{-1==e.indexOf("")&&(e="\n"+e);for(var ea;e!=ea;)ea=e,e=e.replace(/((https?:\/..*\/)[^\/:]*:\d+(?:.|\n)*)\2/,"$1");d=e.replace(/\n */g,"\n")}catch(Ac){d=""}}a.excp_s=d}0<q&&Oa(l,a,
+"jserror"!=l,q)};var Ub=function(a){var b=X;a:if(r(a)){for(var c=0;c<Pb.length;++c)if(a==Pb[c]){a=!1;break a}a=!0}else a=!1;a&&(b=b.google_ad_modifications=b.google_ad_modifications||{},b.remove_ads_by_default=!0,b.ad_whitelist=[{ad_tag_origin:"pso"}],b.ad_blacklist=[],b.space_collapsing="slot")},Zb=function(){var a=X,b=Vb,c=Wb,d=b.f();if(!d)return Xb(16);var e;a:{e=E(d,L,1);for(var f=0;f<e.length;++f){for(var g=!0,k=0;k<Qb.length;++k)B(e[f],4)==Qb[k]&&(g=!1);if(g){e=[];0==d.i().length&&e.push("PsoInvalidVariant");
+0==B(d,3).length&&e.push("PsoNoAdSlotCodes");break a}}e=[]}if(0<e.length){a=e;for(c=0;c<a.length;++c)b.ha.push(a[c]);return Xb(16)}a:{e=E(d,L,1);f=c.T;if(r(f))for(g=0;g<e.length;g++)if(k=e[g],W[B(k,4)])for(var n=E(k,xa,2),l=0;l<n.length;l++){var m=n[l],q=B(m,1),m=B(m,2);if(r(q)&&r(m)&&f>=q&&f<=m){e=k;break a}}e=null}if(!e){f=E(d,L,1);e={};for(g=0;g<f.length;g++)e[B(f[g],4)]=!0;f=null;e[19]||e[8]?f=19:e[16]||e[1]?f=16:0<d.i().length&&0<B(d,3).length&&(f=28);null!=f?(e=new L,C(e,6,3),C(e,4,f)):e=null}if(!e)return Xb(16);
+2==B(e,6)&&((f=e.ca())&&jb(a,f),f=B(e,1),null!=f&&Ra(a,[""+f]));f=!0;g=c.O();if(g=B(g,2))g=Date.now?Date.now():+new Date,k=c.O(),k=B(k,2),g=g<k;g||(jb(a,"pso-ama-exd"),f=!1);B(b.m,11)&&(jb(a,"pso-ama-stl-tmp"),f=!1);f&&jb(a,"pso-ama-elig");if(f&&(2==B(e,6)||1==B(e,6))&&(f=e,d=E(d,L,1),null!==c.T)){c={};b=[];for(g=0;g<d.length;g++)k=Yb(d[g]),null==k||c[k]||(c[k]=!0,b.push(k));d=Yb(f);if(null!=d){c=[];d=Rb(d);f=!1;if(d)for(g=0;g<b.length;g++)k=Rb(b[g]),d==k&&(f=!0),k&&c.push("950"+d+k);f||(c=[]);Ra(a,
+c)}}a=new Sb;a.Y=B(e,5);a.J=B(e,4);return a},Xb=function(a){var b=new Sb;b.J=a;return b},Yb=function(a){var b;switch(B(a,6)){case 1:b=B(a,4);break;case 2:b=B(a,7)}return null!=b?b:null};var $b=null,ac=!1,dc=function(a){var b=bc,c=cc;b.addEventListener?(a&&b.addEventListener("DOMContentLoaded",a,!1),c&&b.addEventListener("load",c,!1)):b.attachEvent&&c&&b.attachEvent("onload",c)},fc=function(){var a=window;r($b)&&a.clearInterval&&(a.clearInterval($b),$b=null);ac||ec(!1);ec(!0)},cc=function(){try{fc();var a=P(window).ss||null;if(a&&a.I){var b=a.I,c=b.A(),d=b.G,e=b.u,f=b.U,g=b.l.length;c||0!=g||d.push(6);c&&0==d.length&&null===f?Tb(!0,g,[],e,null):Tb(!1,g,d,e,f)}else Tb(!1,0,[2],[],
+null,void 0)}catch(k){Tb(!1,null,[1],[],k)}P(window).loaded=!0},ec=function(a){a||(ac=!0);var b=P(window).ss||null;if(b&&b.I){b=b.I;try{b.apply(a)}catch(c){S(b,1),null===b.U&&(b.U=c)}}};try{var X=window,gc,hc=P(X).config;gc=hc?new N(hc):null;if(!gc)throw Error("No config");var Vb=new ib(gc),ic=Vb;P(X).ps=ic;var Y,Wb;if(v("iPad")||v("Android")&&!v("Mobile")||v("Silk")||!(v("iPod")||v("iPhone")||v("Android")||v("IEMobile")))Y=Xb(16);else{var jc,kc=/^#([^=]*)=(\d+)$/.exec(X.location.hash);if((jc=kc&&3==kc.length&&"pso_strategy"==kc[1]?+kc[2]:null)&&W[jc])Y=Xb(jc),Ub(jc);else{var lc=X,mc=Vb.m.O(),Z;try{var nc=parseInt(lc.localStorage.getItem("PSO_EXP0"),10);Z=isNaN(nc)?null:nc}catch(a){Z=
+null}if(null==Z){Z=Math.floor(1024*Math.random());try{lc.localStorage.setItem("PSO_EXP0",Z.toString())}catch(a){}}Wb=new Sa(Z,0,mc);Y=Zb()}1==Y.Y&&Ub(Y.J)}if(!Y)throw Error("No strategyState created!");var oc=Y;P(X).ss=oc;var pc=X,qc=Y,rc=qc.J;if(r(rc)){var sc=W[rc];rc&&sc&&(qc.I=new sc(pc))}if(Wb){var tc=X,lb=Wb.T,kb=X.location.hostname,uc=[],vc=nb(["17415655","17415656"],1,mb("unif1"));null===vc||uc.push(vc);var wc=nb(["17415657","17415658"],10,mb("unif2"));null===wc||uc.push(wc);var xc=nb(["17415659",
+"17415660"],100,mb("unif3"));null===xc||uc.push(""+xc);0<uc.length&&Ra(tc,uc)}var bc=X;switch(bc.document.readyState){case "complete":cc();break;case "interactive":fc();dc();break;default:var yc=ec,zc=fb(bc);zc.loaded||(zc.onload=yc);$b=bc.setInterval(ec,10);dc(fc)}}catch(a){Tb(!1,null,[],[],a)};})();
+</script></head>
+<body id="top" class="single single-post postid-32945 single-format-standard">
+	<a href="http://vu.ac.ug/" target="_blank" class="background-cover"></a>
+	<div class="wrapper animated">
+				<div class="top-nav fade-in animated1 head_menu">
+			<div class="container">
+				<div class="search-block">
+					<form method="get" id="searchform" action="http://theinvestigatornews.com/">
+						<button class="search-button" type="submit" value="Search"></button>	
+						<input type="text" id="s" name="s" value="Search..." onfocus="if (this.value == 'Search...') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search...';}"  />
+					</form>
+				</div><!-- .search-block /-->
+						<div class="social-icons icon_flat">
+		<a class="tooldown" title="Google+" href="https://twitter.com/uginvestigator" target="_blank"><i class="tieicon-gplus"></i></a><a class="tooldown" title="Facebook" href="https://www.facebook.com/uginvestigator" target="_blank"><i class="tieicon-facebook"></i></a><a class="tooldown" title="Twitter" href="https://twitter.com/uginvestigator" target="_blank"><i class="tieicon-twitter"></i></a><a class="tooldown" title="LinkedIn" href="https://twitter.com/uginvestigator" target="_blank"><i class="tieicon-linkedin"></i></a><a class="tooldown" title="Youtube" href="https://twitter.com/uginvestigator" target="_blank"><i class="tieicon-youtube"></i></a><a class="tooldown" title="SoundCloud" href="https://twitter.com/uginvestigator" target="_blank"><i class="tieicon-soundcloud"></i></a><a class="tooldown" title="instagram" href="https://twitter.com/uginvestigator" target="_blank"><i class="tieicon-instagram"></i></a><a class="tooldown" title="Google Play" href="https://twitter.com/uginvestigator" target="_blank"><i class="tieicon-googleplay"></i></a>	</div>
+
+				
+				<div class="top-menu"><ul id="menu-top" class="menu"><li id="menu-item-940" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-940"><a href="#">Advertise</a></li>
+<li id="menu-item-942" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-942"><a href="#">About Us</a></li>
+<li id="menu-item-935" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-935"><a href="#">Subscribe</a></li>
+<li id="menu-item-774" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-774"><a href="http://theinvestigatornews.com/privacy/">Privacy</a></li>
+</ul></div>				
+			</div>
+		</div><!-- .top-menu /-->
+				
+
+		<div class="container">	
+		<header id="theme-header">
+		<div class="header-content fade-in animated1">
+			<div class="logo">
+			<h2>								<a title="The Investigator" href="http://theinvestigatornews.com/">
+					<img src="http://theinvestigatornews.com/wp-content/uploads/2016/01/Logo.jpg" alt="The Investigator" /><strong>The Investigator More Than Just News</strong>
+				</a>
+			</h2>			</div><!-- .logo /-->
+			<div class="ads-top">					
+			<a href="https://cranebanklimited.com/" title="" target="_blank">
+				<img src="http://theinvestigatornews.com/wp-content/uploads/2016/01/CB-Web-728x90px.gif" alt="" />
+			</a>
+				</div>			<div class="clear"></div>
+		</div>	
+									<nav id="main-nav" class="fade-in animated2">
+				<div class="container">				
+				<div class="main-menu"><ul id="menu-main" class="menu"><li id="menu-item-933" class="menu-item  menu-item-type-custom  menu-item-object-custom  menu-item-home"><a href="http://theinvestigatornews.com/">Home</a></li>
+<li id="menu-item-1007" class="menu-item  menu-item-type-post_type  menu-item-object-page  menu-item-has-children"><a href="http://theinvestigatornews.com/local/">Local</a>
+<ul class="sub-menu">
+	<li id="menu-item-1026" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="http://theinvestigatornews.com/diaspora/">Diaspora</a></li>
+	<li id="menu-item-1034" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="http://theinvestigatornews.com/africa/">Africa</a></li>
+	<li id="menu-item-1033" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="http://theinvestigatornews.com/east-africa/">East Africa</a></li>
+</ul> <!--End Sub Menu -->
+</li>
+<li id="menu-item-1011" class="menu-item  menu-item-type-post_type  menu-item-object-page  menu-item-has-children"><a href="http://theinvestigatornews.com/politics/">Politics</a>
+<ul class="sub-menu">
+	<li id="menu-item-1025" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="http://theinvestigatornews.com/elections/">Elections</a></li>
+</ul> <!--End Sub Menu -->
+</li>
+<li id="menu-item-1014" class="menu-item  menu-item-type-post_type  menu-item-object-page  menu-item-has-children"><a href="http://theinvestigatornews.com/business/">Business</a>
+<ul class="sub-menu">
+	<li id="menu-item-1042" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="http://theinvestigatornews.com/technology/">Technology</a></li>
+</ul> <!--End Sub Menu -->
+</li>
+<li id="menu-item-1012" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="http://theinvestigatornews.com/entertainment/">Entertainment</a></li>
+<li id="menu-item-1010" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="http://theinvestigatornews.com/crime/">Crime</a></li>
+<li id="menu-item-1013" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="http://theinvestigatornews.com/sports/">Sports</a></li>
+<li id="menu-item-1008" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="http://theinvestigatornews.com/tourism/">Tourism</a></li>
+<li id="menu-item-1009" class="menu-item  menu-item-type-post_type  menu-item-object-page  menu-item-has-children"><a href="http://theinvestigatornews.com/jobs/">Jobs</a>
+<ul class="sub-menu">
+	<li id="menu-item-931" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="http://theinvestigatornews.com/shop/">Shop</a></li>
+</ul> <!--End Sub Menu -->
+</li>
+<li id="menu-item-1035" class="menu-item  menu-item-type-post_type  menu-item-object-page  menu-item-has-children"><a href="http://theinvestigatornews.com/more/">More</a>
+<ul class="sub-menu">
+	<li id="menu-item-1024" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="http://theinvestigatornews.com/else-where/">Else Where</a></li>
+	<li id="menu-item-1043" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="http://theinvestigatornews.com/education/">Education</a></li>
+	<li id="menu-item-1044" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="http://theinvestigatornews.com/health/">Health</a></li>
+	<li id="menu-item-1006" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="http://theinvestigatornews.com/world/">World</a></li>
+	<li id="menu-item-1023" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="http://theinvestigatornews.com/features/">Features</a></li>
+</ul> <!--End Sub Menu -->
+</li>
+</ul></div>				</div>
+			</nav><!-- .main-nav /-->
+		</header><!-- #header /-->
+	
+	<div id="main-content" class="container fade-in animated3"><div class="content-wrap">
+	<div class="content">
+				
+		
+				
+		<div class="ads-post">					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Latest -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:700px;height:90px"
+     data-ad-client="ca-pub-1586406238811772"
+     data-ad-slot="1207627446"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>				</div>				
+		<article id="the-post" class="post-listing post-32945 post type-post status-publish format-standard has-post-thumbnail hentry category-business category-news tag-featured">
+					<div class="single-post-thumb">
+			 <img width="620" height="330" src="http://i1.wp.com/theinvestigatornews.com/wp-content/uploads/2016/01/Mapula.jpg?resize=620%2C330" class="attachment-slider size-slider wp-post-image" alt="Ms Mapula Bodibe, the chief marketing officer of MTN Uganda" srcset="http://i1.wp.com/theinvestigatornews.com/wp-content/uploads/2016/01/Mapula.jpg?resize=300%2C160 300w, http://i1.wp.com/theinvestigatornews.com/wp-content/uploads/2016/01/Mapula.jpg?w=620 620w" sizes="(max-width: 620px) 100vw, 620px" /> 
+		</div>
+		<div class="single-post-caption">Ms Mapula Bodibe, the chief marketing officer of MTN Uganda</div> 		
+	
+
+			<div class="post-inner">
+				<h1 class="name post-title entry-title" itemprop="itemReviewed" itemscope itemtype="http://schema.org/Thing"><span itemprop="name">Speed Test Confirms MTN Has the Fastest Internet in Uganda As it Maintains its Leadership Position</span></h1>
+
+					
+				<div class="entry">
+					
+					<!-- WhatsApp Share Button for WordPress: http://peadig.com/wordpress-plugins/whatsapp-share-button/ --><div class="wabtn_container"><a href="whatsapp://send?text=Speed Test Confirms MTN Has the Fastest Internet in Uganda As it Maintains its Leadership Position - http://theinvestigatornews.com/speed-test-confirms-mtn-has-the-fastest-internet-in-uganda-as-it-maintains-its-leadership-position/" class="wabtn">Share this on WhatsApp</a></div><p>New data collected from independent tests carried out on Speedtest.net indicate MTN Uganda has maintained a substantial distance ahead of competition in the provision of high speed Internet in Uganda.
+<p>The tests, carried out at various locations around Kampala put MTN’s average 3G speed at 11.793Mbps ahead of Africell’s 5.467Mbps and Airtel’s 4.826Mbps, according to data from Speedtest.net.
+<p>Speedtest.net is a web service that provides free analysis of Internet access parameters, such as connection data rate.
+<p>MTN’s 4G/LTE network, which was re-launched last year with countrywide coverage, exhibited speeds in excess of 60Mbps, with the highest speed of 68.84Mpbs being recorded at Garden City in Kampala.
+<p>With the widest 4G footprint in Uganda, MTN last year announced it had increased its network investment in a bid to deliver a world-class experience to its customers.
+<p>“To lead innovation means enabling our customers to do more in their lives, thereby delivering on our vision of a bold new digital world. Our customers are looking for a differentiated user experience with affordable data products and services,” said Mr Brian Gouldie, CEO of MTN Uganda at the launch of LTE in July 2015.
+<p>MTN Uganda is taking an initiative, not only to bring the internet to some communities for the first time, but also to upgrade those using traditional technologies like 2G to faster and wider 3G internet connectivity.
+<div id="attachment_1893" style="width: 630px" class="wp-caption aligncenter"><a href="http://i1.wp.com/theinvestigatornews.com/wp-content/uploads/2015/11/MTN-App-Challenge.jpg" rel="attachment wp-att-1893"><img class="size-full wp-image-1893" src="http://i1.wp.com/theinvestigatornews.com/wp-content/uploads/2015/11/MTN-App-Challenge.jpg?resize=620%2C330" alt="MTN Ap Challenge: 'Mambo pay' a Start-up led by Charles Muhindo after winning at MTN App Challenge" srcset="http://i1.wp.com/theinvestigatornews.com/wp-content/uploads/2015/11/MTN-App-Challenge.jpg?resize=300%2C160 300w, http://i1.wp.com/theinvestigatornews.com/wp-content/uploads/2015/11/MTN-App-Challenge.jpg?w=620 620w" sizes="(max-width: 620px) 100vw, 620px" data-recalc-dims="1" /></a><p class="wp-caption-text">MTN Ap Challenge: &#8216;Mambo pay&#8217; a Start-up led by Charles Muhindo after winning at MTN App Challenge</p></div>
+<p>Ericsson estimates that doubling the speed of broadband can directly impact the GDP growth by 0.3%, while according to UNESCO, for every 10% increase in data penetration, developing countries could add as much as 1.3% growth to their GDP. Such is the significance of internet in the modern era.
+<p>MTN would like to continue to drive growth in data access and connectivity, leveraging its extensive investment over the past 3 years as well as to increase access to affordable 3G devices, thereby maintaining its leadership position in the provision of data services in Uganda.
+<p>MTN’s leadership in the Internet category dates back to 2010, where MTN Uganda showed its commitment to all its customers, by giving 10 MB of free data every month, an offering that was later increased to 15 MB, to be enjoyed all its customers until recently. This proposition was anchored by the <em>Internet is a Human Right</em> campaign that launched in 2011.
+<p>&nbsp;
+<table>
+<tbody>
+<tr>
+<td colspan="10" width="601"><strong>3G Results from www.speedtest.net</strong></td>
+</tr>
+<tr>
+<td colspan="10" width="601"></td>
+</tr>
+<tr>
+<td width="69"><strong>Location</strong></td>
+<td colspan="2" width="118"><strong>Airtel 3G</strong></td>
+<td width="64"><strong> </strong></td>
+<td colspan="3" width="183"><strong>Africell 3G</strong></td>
+<td colspan="3" width="167"><strong>MTN 3G</strong></td>
+</tr>
+<tr>
+<td rowspan="2" width="69">&nbsp;</td>
+<td width="54"><strong>Download</strong></td>
+<td width="64"><strong>Upload</strong></td>
+<td width="64"><strong>Ping</strong></td>
+<td width="54"><strong>Download</strong></td>
+<td width="70"><strong>Upload</strong></td>
+<td width="59"><strong>Ping</strong></td>
+<td width="60"><strong>Download</strong></td>
+<td width="55"><strong>Upload</strong></td>
+<td width="52"><strong>Ping</strong></td>
+</tr>
+<tr>
+<td width="54"><strong>(Mbps)</strong></td>
+<td width="64"><strong>(Mbps)</strong></td>
+<td width="64"><strong>(ms)</strong></td>
+<td width="54"><strong>(Mbps)</strong></td>
+<td width="70"><strong>(Mbps)</strong></td>
+<td width="59"><strong>(ms)</strong></td>
+<td width="60"><strong>(Mbps)</strong></td>
+<td width="55"><strong>(Mbps)</strong></td>
+<td width="52"><strong>(ms)</strong></td>
+</tr>
+<tr>
+<td width="69">Ntinda Trading center</td>
+<td width="54">6.01</td>
+<td width="64">3.95</td>
+<td width="64">49ms</td>
+<td width="54">3.26</td>
+<td width="70">1.71</td>
+<td width="59">40</td>
+<td width="60">7.15</td>
+<td width="55">1.15</td>
+<td width="52">32</td>
+</tr>
+<tr>
+<td width="69">Naalya–Metroplex</td>
+<td width="54">2.7</td>
+<td width="64">2.96</td>
+<td width="64">28ms</td>
+<td width="54">2.98</td>
+<td width="70">1.5</td>
+<td width="59">40</td>
+<td width="60">10.77</td>
+<td width="55">1.71</td>
+<td width="52">40</td>
+</tr>
+<tr>
+<td width="69">Naguru–Kembabazi Restaurant</td>
+<td width="54">3.36</td>
+<td width="64">0.42</td>
+<td width="64">57ms</td>
+<td width="54">4.79</td>
+<td width="70">1.75</td>
+<td width="59">42</td>
+<td width="60">7.71</td>
+<td width="55">1.71</td>
+<td width="52">40</td>
+</tr>
+<tr>
+<td width="69">Kamwokya</td>
+<td width="54">4.61</td>
+<td width="64">0.45</td>
+<td width="64">60ms</td>
+<td width="54">2.62</td>
+<td width="70">0.09</td>
+<td width="59">39</td>
+<td width="60">10.61</td>
+<td width="55">0.8</td>
+<td width="52">49</td>
+</tr>
+<tr>
+<td width="69">Kabira Country Club</td>
+<td width="54">5.31</td>
+<td width="64">2.07</td>
+<td width="64">49ms</td>
+<td width="54">4.74</td>
+<td width="70">1.48</td>
+<td width="59">40</td>
+<td width="60">8.5</td>
+<td width="55">1.73</td>
+<td width="52">40</td>
+</tr>
+<tr>
+<td width="69">Kyanja–Kensington Apartments</td>
+<td width="54">5.91</td>
+<td width="64">1.31</td>
+<td width="64">39ms</td>
+<td width="54">10.17</td>
+<td width="70">1.8</td>
+<td width="59">36</td>
+<td width="60">16.24</td>
+<td width="55">1.8</td>
+<td width="52">39</td>
+</tr>
+<tr>
+<td width="69">Lugogo-Shoprite</td>
+<td width="54">3.75</td>
+<td width="64">0.08</td>
+<td width="64">50ms</td>
+<td width="54">9.23</td>
+<td width="70">1.69</td>
+<td width="59">42</td>
+<td width="60">9.73</td>
+<td width="55">1.48</td>
+<td width="52">39</td>
+</tr>
+<tr>
+<td width="69">Centenary Park</td>
+<td width="54">3.85</td>
+<td width="64">0.46</td>
+<td width="64">230ms</td>
+<td width="54">1.49</td>
+<td width="70">1.54</td>
+<td width="59">120</td>
+<td width="60">16.78</td>
+<td width="55">1.04</td>
+<td width="52">39</td>
+</tr>
+<tr>
+<td width="69">Kololo</td>
+<td width="54">9.41</td>
+<td width="64">3.62</td>
+<td width="64">39ms</td>
+<td width="54">2.91</td>
+<td width="70">0.5</td>
+<td width="59">40</td>
+<td width="60">13.66</td>
+<td width="55">1.18</td>
+<td width="52">30</td>
+</tr>
+<tr>
+<td width="69">Maria’s Galleria</td>
+<td width="54">3.35</td>
+<td width="64">1.36</td>
+<td width="64">65ms</td>
+<td width="54">12.48</td>
+<td width="70">1.64</td>
+<td width="59">40</td>
+<td width="60">16.78</td>
+<td width="55">0.19</td>
+<td width="52">49</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;
+<table>
+<tbody>
+<tr>
+<td colspan="7" width="601"><strong>4G Results from www.speedtest.net</strong></td>
+</tr>
+<tr>
+<td colspan="7" width="601"></td>
+</tr>
+<tr>
+<td rowspan="2" width="97"><strong>Location</strong></td>
+<td colspan="3" width="252"><strong>Africell</strong></td>
+<td colspan="3" width="252"><strong>MTN</strong></td>
+</tr>
+<tr>
+<td width="75"><strong>Download (Mbps)</strong></td>
+<td width="88"><strong>Upload (Mbps)</strong></td>
+<td width="88"><strong>Ping (ms)</strong></td>
+<td width="74"><strong>Download (Mbps)</strong></td>
+<td width="98"><strong>Upload (Mbps)</strong></td>
+<td width="81"><strong>Ping (ms)</strong></td>
+</tr>
+<tr>
+<td width="97">Ham Towers</td>
+<td width="75">6.01</td>
+<td width="88">6.98</td>
+<td width="88">33</td>
+<td width="74">22.81</td>
+<td width="98">20.3</td>
+<td width="81">15</td>
+</tr>
+<tr>
+<td width="97">Lungujja</td>
+<td width="75">0.82</td>
+<td width="88">0.41</td>
+<td width="88">42</td>
+<td width="74">30.45</td>
+<td width="98">6.91</td>
+<td width="81">14</td>
+</tr>
+<tr>
+<td width="97">Lubaga KCCA Offices</td>
+<td width="75">&#8211;</td>
+<td width="88">&#8211;</td>
+<td width="88">&#8211;</td>
+<td width="74">17.97</td>
+<td width="98">12.31</td>
+<td width="81">18</td>
+</tr>
+<tr>
+<td width="97">Nateete</td>
+<td width="75">&#8211;</td>
+<td width="88">&#8211;</td>
+<td width="88">&#8211;</td>
+<td width="74">16.46</td>
+<td width="98">7.4</td>
+<td width="81">15</td>
+</tr>
+<tr>
+<td width="97">Quality Shopping Village</td>
+<td width="75">2.84</td>
+<td width="88">0.37</td>
+<td width="88">19</td>
+<td width="74">19.2</td>
+<td width="98">21.73</td>
+<td width="81">15</td>
+</tr>
+<tr>
+<td width="97">Makindye</td>
+<td width="75">8.75</td>
+<td width="88">1.23</td>
+<td width="88">30</td>
+<td width="74">12.12</td>
+<td width="98">1.85</td>
+<td width="81">15</td>
+</tr>
+<tr>
+<td width="97">Port Bell</td>
+<td width="75">3.81</td>
+<td width="88">0.12</td>
+<td width="88">252</td>
+<td width="74">53.5</td>
+<td width="98">22.44</td>
+<td width="81">18</td>
+</tr>
+<tr>
+<td width="97">Prince Anne Drive, Bugolobi</td>
+<td width="75">6.16</td>
+<td width="88">1.66</td>
+<td width="88">30</td>
+<td width="74">42.52</td>
+<td width="98">18.91</td>
+<td width="81">16</td>
+</tr>
+<tr>
+<td width="97">Muyenga</td>
+<td width="75">4.69</td>
+<td width="88">2.46</td>
+<td width="88">30</td>
+<td width="74">9.29</td>
+<td width="98">1.21</td>
+<td width="81">16</td>
+</tr>
+<tr>
+<td width="97">Bunga</td>
+<td width="75">5.29</td>
+<td width="88">0.94</td>
+<td width="88">29</td>
+<td width="74">26.7</td>
+<td width="98">12.79</td>
+<td width="81">18</td>
+</tr>
+<tr>
+<td width="97">Garden City</td>
+<td width="75">17.06</td>
+<td width="88">15.61</td>
+<td width="88">29</td>
+<td width="74">68.84</td>
+<td width="98">13.41</td>
+<td width="81">15</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;
+<div class="wp-about-author-containter-top" style="background-color:#FFEAA8;"><div class="wp-about-author-pic wp-about-author-circle"><img class="avatar avatar-100 photo" src="http://i2.wp.com/theinvestigatornews.com/wp-content/uploads/2015/10/ROSAND1.jpg?resize=64%2C64" data-recalc-dims="1"/></div><div class="wp-about-author-text" style="margin-left:140px"><h3><a href='http://theinvestigatornews.com/author/rosand/' title='Robert Ndawula'>Robert Ndawula</a></h3><p>Join me for the latest in Business News, Technology, Entrepreneurship in Uganda and Around Africa</p><p><a href='http://theinvestigatornews.com/author/rosand/' title='More posts by Robert Ndawula'>More Posts</a>  - <a href='http://www.investigator.co.ug' title='Robert Ndawula'>Website</a> </p><p class="wpa-nomargin">Follow Me:<br /><a class='wpa-social-icons' href='http://www.twitter.com/https://twitter.com/RosandPost'><img src='http://i0.wp.com/theinvestigatornews.com/wp-content/plugins/wp-about-author/images/twitter.png?w=620' alt='Twitter' data-recalc-dims="1"/></a><a class='wpa-social-icons' href='http://www.facebook.com/https://www.facebook.com/grandy.bob'><img src='http://i0.wp.com/theinvestigatornews.com/wp-content/plugins/wp-about-author/images/facebook.png?w=620' alt='Facebook' data-recalc-dims="1"/></a><a class='wpa-social-icons' href='http://www.linkedin.com/in/https://www.facebook.com/grandy.bob'><img src='http://i0.wp.com/theinvestigatornews.com/wp-content/plugins/wp-about-author/images/linkedin.png?w=620' alt='LinkedIn' data-recalc-dims="1"/></a><a class='wpa-social-icons' href='http://www.youtube.com/user/https://twitter.com/RosandPost'><img src='http://i1.wp.com/theinvestigatornews.com/wp-content/plugins/wp-about-author/images/youtube.png?w=620' alt='YouTube' data-recalc-dims="1"/></a></p></div></div><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-32945" class="share-twitter sd-button share-icon no-text" href="http://theinvestigatornews.com/speed-test-confirms-mtn-has-the-fastest-internet-in-uganda-as-it-maintains-its-leadership-position/?share=twitter" target="_blank" title="Click to share on Twitter"><span></span><span class="sharing-screen-reader-text">Click to share on Twitter (Opens in new window)</span></a></li><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-32945" class="share-facebook sd-button share-icon no-text" href="http://theinvestigatornews.com/speed-test-confirms-mtn-has-the-fastest-internet-in-uganda-as-it-maintains-its-leadership-position/?share=facebook" target="_blank" title="Click to share on Facebook"><span></span><span class="sharing-screen-reader-text">Click to share on Facebook (Opens in new window)</span></a></li><li class="share-pinterest"><a rel="nofollow" data-shared="sharing-pinterest-32945" class="share-pinterest sd-button share-icon no-text" href="http://theinvestigatornews.com/speed-test-confirms-mtn-has-the-fastest-internet-in-uganda-as-it-maintains-its-leadership-position/?share=pinterest" target="_blank" title="Click to share on Pinterest"><span></span><span class="sharing-screen-reader-text">Click to share on Pinterest (Opens in new window)</span></a></li><li class="share-pocket"><a rel="nofollow" data-shared="" class="share-pocket sd-button share-icon no-text" href="http://theinvestigatornews.com/speed-test-confirms-mtn-has-the-fastest-internet-in-uganda-as-it-maintains-its-leadership-position/?share=pocket" target="_blank" title="Click to share on Pocket"><span></span><span class="sharing-screen-reader-text">Click to share on Pocket (Opens in new window)</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-32945" class="share-google-plus-1 sd-button share-icon no-text" href="http://theinvestigatornews.com/speed-test-confirms-mtn-has-the-fastest-internet-in-uganda-as-it-maintains-its-leadership-position/?share=google-plus-1" target="_blank" title="Click to share on Google+"><span></span><span class="sharing-screen-reader-text">Click to share on Google+ (Opens in new window)</span></a></li><li class="share-email"><a rel="nofollow" data-shared="" class="share-email sd-button share-icon no-text" href="http://theinvestigatornews.com/speed-test-confirms-mtn-has-the-fastest-internet-in-uganda-as-it-maintains-its-leadership-position/?share=email" target="_blank" title="Click to email this to a friend"><span></span><span class="sharing-screen-reader-text">Click to email this to a friend (Opens in new window)</span></a></li><li class="share-print"><a rel="nofollow" data-shared="" class="share-print sd-button share-icon no-text" href="http://theinvestigatornews.com/speed-test-confirms-mtn-has-the-fastest-internet-in-uganda-as-it-maintains-its-leadership-position/#print" target="_blank" title="Click to print"><span></span><span class="sharing-screen-reader-text">Click to print (Opens in new window)</span></a></li><li class="share-linkedin"><a rel="nofollow" data-shared="sharing-linkedin-32945" class="share-linkedin sd-button share-icon no-text" href="http://theinvestigatornews.com/speed-test-confirms-mtn-has-the-fastest-internet-in-uganda-as-it-maintains-its-leadership-position/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span></span><span class="sharing-screen-reader-text">Click to share on LinkedIn (Opens in new window)</span></a></li><li class="share-reddit"><a rel="nofollow" data-shared="" class="share-reddit sd-button share-icon no-text" href="http://theinvestigatornews.com/speed-test-confirms-mtn-has-the-fastest-internet-in-uganda-as-it-maintains-its-leadership-position/?share=reddit" target="_blank" title="Click to share on Reddit"><span></span><span class="sharing-screen-reader-text">Click to share on Reddit (Opens in new window)</span></a></li><li class="share-tumblr"><a rel="nofollow" data-shared="" class="share-tumblr sd-button share-icon no-text" href="http://theinvestigatornews.com/speed-test-confirms-mtn-has-the-fastest-internet-in-uganda-as-it-maintains-its-leadership-position/?share=tumblr" target="_blank" title="Click to share on Tumblr"><span></span><span class="sharing-screen-reader-text">Click to share on Tumblr (Opens in new window)</span></a></li><li class="share-end"></li></ul></div></div></div>
+<div id='jp-relatedposts' class='jp-relatedposts' >
+	
+</div><!-- WhatsApp Share Button for WordPress: http://peadig.com/wordpress-plugins/whatsapp-share-button/ --><div class="wabtn_container"><a href="whatsapp://send?text=Speed Test Confirms MTN Has the Fastest Internet in Uganda As it Maintains its Leadership Position - http://theinvestigatornews.com/speed-test-confirms-mtn-has-the-fastest-internet-in-uganda-as-it-maintains-its-leadership-position/" class="wabtn">Share this on WhatsApp</a></div>										
+					
+									</div><!-- .entry /-->
+				<span style="display:none"><a href="http://theinvestigatornews.com/news/featured/" rel="tag">Featured</a></span>				<span style="display:none" class="updated">2016-01-20</span>
+								<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.facebook.com/grandy.bob?rel=author">+Robert Ndawula</a></strong></div>
+								
+								
+			</div><!-- .post-inner -->
+		</article><!-- .post-listing -->
+		
+		
+		<div class="ads-post">					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Latest -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-1586406238811772"
+     data-ad-slot="1207627446"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>				</div>		
+				
+		
+			
+
+		
+		
+<div id="disqus_thread">
+    </div>
+
+	
+	</div><!-- .content -->
+<aside class="sidebar-narrow">
+		<div id="ads160_600-widget-5" class="ads160-600">
+								<div class="ad-cell">
+				<a href="https://meaca.go.ug"  target="_blank"  >					<img src=" http://theinvestigatornews.com/wp-content/uploads/2015/10/meaca-160X600.png " alt="" />
+				</a>			</div>
+				</div>
+	<div id="ads160_600-widget-2" class="widget ads160_600-widget"><div class="widget-top"><h4> Advertisement</h4><div class="stripe-line"></div></div>
+						<div class="widget-container">		<div  class="ads160-600">
+								<div class="ad-cell">
+				<a href="https://www.facebook.com/PepsiUganda"  >					<img src=" http://theinvestigatornews.com/wp-content/uploads/2015/10/Live-For-Now.jpg " alt="" />
+				</a>			</div>
+				</div>
+	</div></div><!-- .widget /--><div id="ads120_240-widget-3" class="widget ads120_240-widget"><div class="widget-top"><h4> Advertisement</h4><div class="stripe-line"></div></div>
+						<div class="widget-container">		<div  class="ads120-240">
+								<div class="ad-cell">
+				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Invest -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:120px;height:240px"
+     data-ad-client="ca-pub-1586406238811772"
+     data-ad-slot="3375155042"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+			</div>
+								<div class="ad-cell">
+				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Invest -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:120px;height:240px"
+     data-ad-client="ca-pub-1586406238811772"
+     data-ad-slot="3375155042"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+			</div>
+								<div class="ad-cell">
+				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Invest -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:120px;height:240px"
+     data-ad-client="ca-pub-1586406238811772"
+     data-ad-slot="3375155042"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+			</div>
+								<div class="ad-cell">
+				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Invest -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:120px;height:240px"
+     data-ad-client="ca-pub-1586406238811772"
+     data-ad-slot="3375155042"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+			</div>
+				</div>
+	</div></div><!-- .widget /-->		<div id="recent-posts-4" class="widget widget_recent_entries">		<div class="widget-top"><h4>Recent Posts</h4><div class="stripe-line"></div></div>
+						<div class="widget-container">		<ul>
+					<li>
+				<a href="http://theinvestigatornews.com/the-truth-of-the-opinion-polls-in-ugandan-elections-can-only-be-justified-after-polling-day-18th-february-2016/">The Truth Of The Opinion Polls In Ugandan Elections Can Only Be Justified After Polling Day, 18th February 2016</a>
+						</li>
+					<li>
+				<a href="http://theinvestigatornews.com/why-presidential-candidate-eng-elton-joseph-mabirizi-should-not-be-faulted-for-maiden-presidential-debate/">Why Presidential Candidate Eng. Elton Joseph Mabirizi Should Not Be Faulted For Maiden Presidential Debate</a>
+						</li>
+					<li>
+				<a href="http://theinvestigatornews.com/the-pulsating-kampala-nightlife-here-are-some-quick-tips-to-ensure-you-get-a-feel-of-the-energetic-city-nightlife/">The Pulsating Kampala Nightlife: Here Are Some Quick Tips To Ensure You Get A Feel Of The Energetic City Nightlife</a>
+						</li>
+					<li>
+				<a href="http://theinvestigatornews.com/what-do-hr-managers-look-for-before-hiring-here-are-some-useful-tactics-that-could-genuinely-make-you-stand-out/">What Do HR Managers Look For Before Hiring? Here Are Some Useful Tactics That Could Genuinely Make You Stand Out</a>
+						</li>
+					<li>
+				<a href="http://theinvestigatornews.com/two-singles-due-sexy-singer-sheeba-karungi-and-pallaso-set-for-2016-collabo-reunion/">TWO SINGLES DUE: Sexy Singer Sheeba Karungi and Pallaso Set for 2016 Collabo Reunion</a>
+						</li>
+				</ul>
+		</div></div><!-- .widget /-->		</aside>
+</div> <!-- .content-wrap -->
+<aside class="sidebar">
+<div id="ads300_250-widget-9" class="widget ads300_250-widget"><div class="widget-top"><h4> Advertisement</h4><div class="stripe-line"></div></div>
+						<div class="widget-container">		<div  class="ads300-250">
+								<div class="ad-cell">
+				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- New Side -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-1586406238811772"
+     data-ad-slot="1296855846"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+			</div>
+				</div>
+	</div></div><!-- .widget /-->	<div class="widget" id="tabbed-widget">
+		<div class="widget-container">
+			<div class="widget-top">
+				<ul class="tabs posts-taps">
+					<li class="tabs"><a href="#tab1">Popular</a></li>
+					<li class="tabs"><a href="#tab2">Recent</a></li>
+					<li class="tabs" style="margin-left:0; "><a href="#tab3">Comments</a></li>
+				</ul>
+			</div>
+			<div id="tab1" class="tabs-wrap">
+				<ul>
+								<li>
+						
+				<div class="post-thumbnail">
+					<a href="http://theinvestigatornews.com/pine-car-bond-boss-hajji-ssebuwufu-arrested-over-alleged-murder-of-an-indebted-client-katusabe-betty/" title="Permalink to Pine Car bond Boss Hajji Ssebuwufu Arrested Over alleged Murder of an Indebted Client" rel="bookmark"><img width="70" height="70" src="http://i2.wp.com/theinvestigatornews.com/wp-content/uploads/2015/10/Ssebuwufu-Pine.jpg?resize=70%2C70" class="attachment-tie-small size-tie-small wp-post-image" alt="Ssebuwufu Pine" srcset="http://i2.wp.com/theinvestigatornews.com/wp-content/uploads/2015/10/Ssebuwufu-Pine.jpg?resize=150%2C150 150w, http://i2.wp.com/theinvestigatornews.com/wp-content/uploads/2015/10/Ssebuwufu-Pine.jpg?resize=70%2C70 70w, http://i2.wp.com/theinvestigatornews.com/wp-content/uploads/2015/10/Ssebuwufu-Pine.jpg?resize=200%2C200 200w" sizes="(max-width: 70px) 100vw, 70px" /><span class="overlay-icon"></span></a>
+				</div><!-- post-thumbnail /-->
+							<h3><a href="http://theinvestigatornews.com/pine-car-bond-boss-hajji-ssebuwufu-arrested-over-alleged-murder-of-an-indebted-client-katusabe-betty/" title="Pine Car bond Boss Hajji Ssebuwufu Arrested Over alleged Murder of an Indebted Client">Pine Car bond Boss Hajji Ssebuwufu Arrested Over alleged Murder of an Indebted Client</a></h3>
+				 <span class="date"><span class="tie-date">October 23, 2015</span></span>
+			</li>
+				<li>
+						
+				<div class="post-thumbnail">
+					<a href="http://theinvestigatornews.com/frank-gashumbas-bitter-facts-on-tubonga-naawe-crew-will-have-you-scratch-your-head/" title="Permalink to Frank Gashumba’s Bitter Facts on ‘Tubonga Naawe’ Crew Will Make You Scratch Your Head" rel="bookmark"><img width="70" height="70" src="http://i2.wp.com/theinvestigatornews.com/wp-content/uploads/2015/10/Frank-Gashumba.jpg?resize=70%2C70" class="attachment-tie-small size-tie-small wp-post-image" alt="Frank Gashumba" srcset="http://i2.wp.com/theinvestigatornews.com/wp-content/uploads/2015/10/Frank-Gashumba.jpg?resize=150%2C150 150w, http://i2.wp.com/theinvestigatornews.com/wp-content/uploads/2015/10/Frank-Gashumba.jpg?resize=70%2C70 70w, http://i2.wp.com/theinvestigatornews.com/wp-content/uploads/2015/10/Frank-Gashumba.jpg?resize=200%2C200 200w" sizes="(max-width: 70px) 100vw, 70px" /><span class="overlay-icon"></span></a>
+				</div><!-- post-thumbnail /-->
+							<h3><a href="http://theinvestigatornews.com/frank-gashumbas-bitter-facts-on-tubonga-naawe-crew-will-have-you-scratch-your-head/" title="Frank Gashumba’s Bitter Facts on ‘Tubonga Naawe’ Crew Will Make You Scratch Your Head">Frank Gashumba’s Bitter Facts on ‘Tubonga Naawe’ Crew Will Make You Scratch Your Head</a></h3>
+				 <span class="date"><span class="tie-date">October 23, 2015</span></span>
+			</li>
+				<li>
+						
+				<div class="post-thumbnail">
+					<a href="http://theinvestigatornews.com/another-city-murder-university-student-gang-raped-murdered-and-dumped-in-wakiso-swamp-flying-squad-launches-hunt-for-killers/" title="Permalink to ANOTHER CITY MURDER: University Student Gang-Raped, Murdered and Dumped In Wakiso Swamp, Flying Squad Launches Hunt For Killers" rel="bookmark"><img width="70" height="70" src="http://i0.wp.com/theinvestigatornews.com/wp-content/uploads/2015/12/city.jpg?resize=70%2C70" class="attachment-tie-small size-tie-small wp-post-image" alt="Body of Irene Kyakunda" srcset="http://i0.wp.com/theinvestigatornews.com/wp-content/uploads/2015/12/city.jpg?resize=150%2C150 150w, http://i0.wp.com/theinvestigatornews.com/wp-content/uploads/2015/12/city.jpg?resize=70%2C70 70w, http://i0.wp.com/theinvestigatornews.com/wp-content/uploads/2015/12/city.jpg?resize=200%2C200 200w" sizes="(max-width: 70px) 100vw, 70px" /><span class="overlay-icon"></span></a>
+				</div><!-- post-thumbnail /-->
+							<h3><a href="http://theinvestigatornews.com/another-city-murder-university-student-gang-raped-murdered-and-dumped-in-wakiso-swamp-flying-squad-launches-hunt-for-killers/" title="ANOTHER CITY MURDER: University Student Gang-Raped, Murdered and Dumped In Wakiso Swamp, Flying Squad Launches Hunt For Killers">ANOTHER CITY MURDER: University Student Gang-Raped, Murdered and Dumped In Wakiso Swamp, Flying Squad Launches Hunt For Killers</a></h3>
+				 <span class="date"><span class="tie-date">December 2, 2015</span></span>
+			</li>
+				<li>
+						
+				<div class="post-thumbnail">
+					<a href="http://theinvestigatornews.com/enough-is-enough-tororo-election-results-out-sanjay-tana-lose-out-to-yeri-ofwono/" title="Permalink to ENOUGH IS ENOUGH! Tororo Election Results Out- Sanjay Tana Lose Out To Yeri Ofwono" rel="bookmark"><img width="70" height="70" src="http://i1.wp.com/theinvestigatornews.com/wp-content/uploads/2015/10/Ofwono-Tanna-and-Odoi.jpg?resize=70%2C70" class="attachment-tie-small size-tie-small wp-post-image" alt="Ofwono, Tanna and Fox Odoi" srcset="http://i1.wp.com/theinvestigatornews.com/wp-content/uploads/2015/10/Ofwono-Tanna-and-Odoi.jpg?resize=150%2C150 150w, http://i1.wp.com/theinvestigatornews.com/wp-content/uploads/2015/10/Ofwono-Tanna-and-Odoi.jpg?resize=70%2C70 70w, http://i1.wp.com/theinvestigatornews.com/wp-content/uploads/2015/10/Ofwono-Tanna-and-Odoi.jpg?resize=200%2C200 200w" sizes="(max-width: 70px) 100vw, 70px" /><span class="overlay-icon"></span></a>
+				</div><!-- post-thumbnail /-->
+							<h3><a href="http://theinvestigatornews.com/enough-is-enough-tororo-election-results-out-sanjay-tana-lose-out-to-yeri-ofwono/" title="ENOUGH IS ENOUGH! Tororo Election Results Out- Sanjay Tana Lose Out To Yeri Ofwono">ENOUGH IS ENOUGH! Tororo Election Results Out- Sanjay Tana Lose Out To Yeri Ofwono</a></h3>
+				 <span class="date"><span class="tie-date">October 28, 2015</span></span>
+			</li>
+				<li>
+						
+				<div class="post-thumbnail">
+					<a href="http://theinvestigatornews.com/with-billions-wired-monthly-in-mobile-money-systems-how-much-is-lost-to-fraud-how-safe-are-you/" title="Permalink to With Billions wired Monthly in Mobile Money Systems –How much is lost to FRAUD? How SAFE are you?" rel="bookmark"><img width="70" height="70" src="http://i2.wp.com/theinvestigatornews.com/wp-content/uploads/2015/10/Mobile-money-security.jpg?resize=70%2C70" class="attachment-tie-small size-tie-small wp-post-image" alt="Mobile money security" srcset="http://i2.wp.com/theinvestigatornews.com/wp-content/uploads/2015/10/Mobile-money-security.jpg?resize=150%2C150 150w, http://i2.wp.com/theinvestigatornews.com/wp-content/uploads/2015/10/Mobile-money-security.jpg?resize=70%2C70 70w, http://i2.wp.com/theinvestigatornews.com/wp-content/uploads/2015/10/Mobile-money-security.jpg?resize=200%2C200 200w" sizes="(max-width: 70px) 100vw, 70px" /><span class="overlay-icon"></span></a>
+				</div><!-- post-thumbnail /-->
+							<h3><a href="http://theinvestigatornews.com/with-billions-wired-monthly-in-mobile-money-systems-how-much-is-lost-to-fraud-how-safe-are-you/" title="With Billions wired Monthly in Mobile Money Systems –How much is lost to FRAUD? How SAFE are you?">With Billions wired Monthly in Mobile Money Systems –How much is lost to FRAUD? How SAFE are you?</a></h3>
+				 <span class="date"><span class="tie-date">October 19, 2015</span></span>
+			</li>
+		
+				</ul>
+			</div>
+			<div id="tab2" class="tabs-wrap">
+				<ul>
+					<li>
+				
+		<div class="post-thumbnail">
+			<a href="http://theinvestigatornews.com/the-truth-of-the-opinion-polls-in-ugandan-elections-can-only-be-justified-after-polling-day-18th-february-2016/" title="Permalink to The Truth Of The Opinion Polls In Ugandan Elections Can Only Be Justified After Polling Day, 18th February 2016" rel="bookmark"><img width="70" height="70" src="http://i0.wp.com/theinvestigatornews.com/wp-content/uploads/2016/01/Poll.jpg?resize=70%2C70" class="attachment-tie-small size-tie-small wp-post-image" alt="Polls" srcset="http://i0.wp.com/theinvestigatornews.com/wp-content/uploads/2016/01/Poll.jpg?resize=150%2C150 150w, http://i0.wp.com/theinvestigatornews.com/wp-content/uploads/2016/01/Poll.jpg?resize=70%2C70 70w, http://i0.wp.com/theinvestigatornews.com/wp-content/uploads/2016/01/Poll.jpg?resize=200%2C200 200w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+		</div><!-- post-thumbnail /-->
+		<h3><a href="http://theinvestigatornews.com/the-truth-of-the-opinion-polls-in-ugandan-elections-can-only-be-justified-after-polling-day-18th-february-2016/">The Truth Of The Opinion Polls In Ugandan Elections Can Only Be Justified After Polling Day, 18th February 2016</a></h3>
+	 <span class="date"><span class="tie-date">January 23, 2016</span></span>
+</li>
+<li>
+				
+		<div class="post-thumbnail">
+			<a href="http://theinvestigatornews.com/why-presidential-candidate-eng-elton-joseph-mabirizi-should-not-be-faulted-for-maiden-presidential-debate/" title="Permalink to Why Presidential Candidate Eng. Elton Joseph Mabirizi Should Not Be Faulted For Maiden Presidential Debate" rel="bookmark"><img width="70" height="70" src="http://i1.wp.com/theinvestigatornews.com/wp-content/uploads/2016/01/Mabirizi-Debate.jpg?resize=70%2C70" class="attachment-tie-small size-tie-small wp-post-image" alt="Elton Joseph Mabirizi at the debate" srcset="http://i1.wp.com/theinvestigatornews.com/wp-content/uploads/2016/01/Mabirizi-Debate.jpg?resize=150%2C150 150w, http://i1.wp.com/theinvestigatornews.com/wp-content/uploads/2016/01/Mabirizi-Debate.jpg?resize=70%2C70 70w, http://i1.wp.com/theinvestigatornews.com/wp-content/uploads/2016/01/Mabirizi-Debate.jpg?resize=200%2C200 200w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+		</div><!-- post-thumbnail /-->
+		<h3><a href="http://theinvestigatornews.com/why-presidential-candidate-eng-elton-joseph-mabirizi-should-not-be-faulted-for-maiden-presidential-debate/">Why Presidential Candidate Eng. Elton Joseph Mabirizi Should Not Be Faulted For Maiden Presidential Debate</a></h3>
+	 <span class="date"><span class="tie-date">January 22, 2016</span></span>
+</li>
+<li>
+				
+		<div class="post-thumbnail">
+			<a href="http://theinvestigatornews.com/the-pulsating-kampala-nightlife-here-are-some-quick-tips-to-ensure-you-get-a-feel-of-the-energetic-city-nightlife/" title="Permalink to The Pulsating Kampala Nightlife: Here Are Some Quick Tips To Ensure You Get A Feel Of The Energetic City Nightlife" rel="bookmark"><img width="70" height="70" src="http://i1.wp.com/theinvestigatornews.com/wp-content/uploads/2016/01/Kampala2.jpg?resize=70%2C70" class="attachment-tie-small size-tie-small wp-post-image" alt="Kampala Nightlife" srcset="http://i1.wp.com/theinvestigatornews.com/wp-content/uploads/2016/01/Kampala2.jpg?resize=150%2C150 150w, http://i1.wp.com/theinvestigatornews.com/wp-content/uploads/2016/01/Kampala2.jpg?resize=70%2C70 70w, http://i1.wp.com/theinvestigatornews.com/wp-content/uploads/2016/01/Kampala2.jpg?resize=200%2C200 200w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+		</div><!-- post-thumbnail /-->
+		<h3><a href="http://theinvestigatornews.com/the-pulsating-kampala-nightlife-here-are-some-quick-tips-to-ensure-you-get-a-feel-of-the-energetic-city-nightlife/">The Pulsating Kampala Nightlife: Here Are Some Quick Tips To Ensure You Get A Feel Of The Energetic City Nightlife</a></h3>
+	 <span class="date"><span class="tie-date">January 21, 2016</span></span>
+</li>
+<li>
+				
+		<div class="post-thumbnail">
+			<a href="http://theinvestigatornews.com/what-do-hr-managers-look-for-before-hiring-here-are-some-useful-tactics-that-could-genuinely-make-you-stand-out/" title="Permalink to What Do HR Managers Look For Before Hiring? Here Are Some Useful Tactics That Could Genuinely Make You Stand Out" rel="bookmark"><img width="70" height="70" src="http://i2.wp.com/theinvestigatornews.com/wp-content/uploads/2016/01/job2.jpg?resize=70%2C70" class="attachment-tie-small size-tie-small wp-post-image" alt="Photo Credit: Everjobs CV Workshop" srcset="http://i2.wp.com/theinvestigatornews.com/wp-content/uploads/2016/01/job2.jpg?resize=150%2C150 150w, http://i2.wp.com/theinvestigatornews.com/wp-content/uploads/2016/01/job2.jpg?resize=70%2C70 70w, http://i2.wp.com/theinvestigatornews.com/wp-content/uploads/2016/01/job2.jpg?resize=200%2C200 200w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+		</div><!-- post-thumbnail /-->
+		<h3><a href="http://theinvestigatornews.com/what-do-hr-managers-look-for-before-hiring-here-are-some-useful-tactics-that-could-genuinely-make-you-stand-out/">What Do HR Managers Look For Before Hiring? Here Are Some Useful Tactics That Could Genuinely Make You Stand Out</a></h3>
+	 <span class="date"><span class="tie-date">January 21, 2016</span></span>
+</li>
+<li>
+				
+		<div class="post-thumbnail">
+			<a href="http://theinvestigatornews.com/two-singles-due-sexy-singer-sheeba-karungi-and-pallaso-set-for-2016-collabo-reunion/" title="Permalink to TWO SINGLES DUE: Sexy Singer Sheeba Karungi and Pallaso Set for 2016 Collabo Reunion" rel="bookmark"><img width="70" height="70" src="http://i0.wp.com/theinvestigatornews.com/wp-content/uploads/2016/01/pallaso.jpg?resize=70%2C70" class="attachment-tie-small size-tie-small wp-post-image" alt="Sheeba and Pallaso" srcset="http://i0.wp.com/theinvestigatornews.com/wp-content/uploads/2016/01/pallaso.jpg?resize=150%2C150 150w, http://i0.wp.com/theinvestigatornews.com/wp-content/uploads/2016/01/pallaso.jpg?resize=70%2C70 70w, http://i0.wp.com/theinvestigatornews.com/wp-content/uploads/2016/01/pallaso.jpg?resize=200%2C200 200w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+		</div><!-- post-thumbnail /-->
+		<h3><a href="http://theinvestigatornews.com/two-singles-due-sexy-singer-sheeba-karungi-and-pallaso-set-for-2016-collabo-reunion/">TWO SINGLES DUE: Sexy Singer Sheeba Karungi and Pallaso Set for 2016 Collabo Reunion</a></h3>
+	 <span class="date"><span class="tie-date">January 21, 2016</span></span>
+</li>
+	
+				</ul>
+			</div>
+			<div id="tab3" class="tabs-wrap">
+				<ul>
+						<li>
+		<div class="post-thumbnail">
+					</div>
+		<a href="http://theinvestigatornews.com/everjobs-uganda-holds-first-cv-and-job-interview-workshop/#comment-142">
+		What Do HR Managers Look For Before Hiring? Here Are Some Useful Tactics That Could Genuinely Make You Stand Out &#8211; The Investigator: [&#8230;] READ ALSO: Everjobs Uganda Holds First CV And Job... </a>
+	</li>
+	<li>
+		<div class="post-thumbnail">
+			<img src='http://www.gravatar.com/avatar.php?gravatar_id=dd88035121b646c87d887dec35b7bb00&size=40' height='64' width='64' alt=empayippayi@gmail.com' />		</div>
+		<a href="http://theinvestigatornews.com/corruption-at-its-peak-billions-chewed-from-entebbe-express-highway-scum-another-1-2m-inflated-in-karuma-dam-construction-museveni-promises-fire/#comment-141">
+		Empayippayi: This time round, we should not poke our fingers into the leo... </a>
+	</li>
+	<li>
+		<div class="post-thumbnail">
+					</div>
+		<a href="http://theinvestigatornews.com/nwsc-engineers-blame-managing-director-eng-silver-mugisha-for-kampala-water-shortage-worse-expected-as-scores-of-residents-suffer/#comment-140">
+		SURVIVALISTS BLOG | NWSC Engineers Blame Managing Director Eng. Silver Mugisha for &#8230;: [&#8230;] Ugandans have started year 2016 on a bad note for... </a>
+	</li>
+	<li>
+		<div class="post-thumbnail">
+					</div>
+		<a href="http://theinvestigatornews.com/sheraton-kampala-hotel-launches-the-first-e-learning-center-in-uganda-for-the-hospitality-industry/#comment-139">
+		New Sheraton General Manager: My Goal Is To Engage With You So That We Can Improve And Offer Value And Bespoke Needs &#8211; The Investigator: [&#8230;] READ ALSO: Sheraton Kampala Hotel launches the fir... </a>
+	</li>
+	<li>
+		<div class="post-thumbnail">
+			<img class="avatar avatar-60 photo" width="64" height="64" src="http://theinvestigatornews.com/wp-content/uploads/2015/10/ROSAND1.jpg"/>		</div>
+		<a href="http://theinvestigatornews.com/tycoon-sudhir-ruparelia-unveils-25m-hardware-city-first-of-its-kind-one-stop-shopping-centre-tenants-to-pay-flat-rate-for-two-years-in-uganda-shillings/#comment-138">
+		ROBERT N: Kudos Crane Management and Ruparelia Group, for such investm... </a>
+	</li>
+				</ul>
+			</div>
+		</div>
+	</div><!-- .widget /-->
+<div id="ads300_600-widget-3" class="widget ads300_600-widget"><div class="widget-top"><h4> Advertisement</h4><div class="stripe-line"></div></div>
+						<div class="widget-container">		<div  class="ads300-600">
+								<div class="ad-cell">
+				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- long side -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:600px"
+     data-ad-client="ca-pub-1586406238811772"
+     data-ad-slot="5727055448"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+			</div>
+				</div>
+	</div></div><!-- .widget /--><div id="ads300_250-widget-7" class="widget ads300_250-widget"><div class="widget-top"><h4> Advertisement</h4><div class="stripe-line"></div></div>
+						<div class="widget-container">		<div  class="ads300-250">
+								<div class="ad-cell">
+				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- New Side -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-1586406238811772"
+     data-ad-slot="1296855846"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+			</div>
+				</div>
+	</div></div><!-- .widget /--><div id="facebook-widget-1" class="widget facebook-widget"><div class="widget-top"><h4>Find us on Facebook		</h4><div class="stripe-line"></div></div>
+						<div class="widget-container">			<div class="facebook-box">
+				<iframe src="http://www.facebook.com/plugins/likebox.php?href=https://www.facebook.com/uginvestigator&amp;width=300&amp;height=250&amp;colorscheme=light&amp;show_faces=true&amp;header=false&amp;stream=false&amp;show_border=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:250px;" allowTransparency="true"></iframe>
+			</div>
+	</div></div><!-- .widget /-->			<div class="widget social-icons-widget">
+					<div class="social-icons icon_32">
+		<a class="ttip" title="Google+" href="https://twitter.com/uginvestigator" ><i class="tieicon-gplus"></i></a><a class="ttip" title="Facebook" href="https://www.facebook.com/uginvestigator" ><i class="tieicon-facebook"></i></a><a class="ttip" title="Twitter" href="https://twitter.com/uginvestigator" ><i class="tieicon-twitter"></i></a><a class="ttip" title="LinkedIn" href="https://twitter.com/uginvestigator" ><i class="tieicon-linkedin"></i></a><a class="ttip" title="Youtube" href="https://twitter.com/uginvestigator" ><i class="tieicon-youtube"></i></a><a class="ttip" title="SoundCloud" href="https://twitter.com/uginvestigator" ><i class="tieicon-soundcloud"></i></a><a class="ttip" title="instagram" href="https://twitter.com/uginvestigator" ><i class="tieicon-instagram"></i></a><a class="ttip" title="Google Play" href="https://twitter.com/uginvestigator" ><i class="tieicon-googleplay"></i></a>	</div>
+
+			</div>
+		<div id="counter24"><!--start--><a target="_blank" href="http://stats.wpadm.com/en/9f5b22137890" alt="Counter" title="Counter"><script type="text/javascript">var id="9f5b22137890";d=document;s=screen; w=s.width; h=s.height;navigator.appName!="Netscape"? b=s.colorDepth : b=s.pixelDepth;navigator.javaEnabled()==1?j="y":j="n"; w?"":w="0"; h?"":h="0"; b?"":b="0";d.write('<img alt="" style="border: 0;" src="http://stats.wpadm.com/getimages.php?id='+id+'&amp;j='+j+'&amp;sh='+h+'&amp;sw='+w+'&amp;sb='+b+'&amp;d='+escape(d.location.href.replace(/(http:\/\/|https:\/\/)/,""))+'&amp;r='+(d.referrer)+'\">');</script><noscript><img src="http://stats.wpadm.com/getimages.php?id=9f5b22137890&amp;j=n"></noscript></a><!--end--></div><div id="bsa-block-1920--1200" class="bsaProContainer bsaProContainer-1 bsa-block-1920--1200 bsa-pro-col-1"><div class="bsaProHeader" style="background-color:"><h3 class="bsaProHeader__title" style="color:"><span>Victoria</span></h3><a class="bsaProHeader__formUrl" href="http://theinvestigatornews.com/ordering_form?sid=1" target="_blank" style="color:"><span>Click</span></a></div><div class="bsaProItems bsaGridGutter " style="background-color:"><div class="bsaProItem bsaReset" data-animation="shake" style=""><div class="bsaProItemInner" style="background-color:"><div class="bsaProItemInner__thumb"><div class="bsaProAnimateThumb animated"><a class="bsaProItem__url" href="http://theinvestigatornews.com?bsa_pro_id=2&bsa_pro_url=1" target="_blank"><div class="bsaProItemInner__img" style="background-image: url(&#39;http://theinvestigatornews.com/wp-content/uploads/bsa-pro-upload/1449007120-CB Web 160x600px.gif&#39;)"></div></a></div></div></div></div></div></div><script>
+	(function($){
+		$(window).on("resize", function(){
+			var sid = "1";
+			var object = $(".bsaProContainer-" + sid + " .bsaProItemInner__img");
+			var animateThumb = $(".bsaProContainer-" + sid + " .bsaProAnimateThumb");
+			var innerThumb = $(".bsaProContainer-" + sid + " .bsaProItemInner__thumb");
+			var parentWidth = "1920";
+			var parentHeight = "1200";
+			var objectWidth = object.width();
+			if ( objectWidth < parentWidth ) {
+				var scale = objectWidth / parentWidth;
+				if ( objectWidth > 0 && objectWidth != 100 && scale > 0 ) {
+					animateThumb.height(parentHeight * scale);
+					innerThumb.height(parentHeight * scale);
+					object.height(parentHeight * scale);
+				} else {
+					animateThumb.height(parentHeight);
+					innerThumb.height(parentHeight);
+					object.height(parentHeight);
+				}
+			} else {
+				animateThumb.height(parentHeight);
+				innerThumb.height(parentHeight);
+				object.height(parentHeight);
+			}
+		});
+		$(document).ready(function(){
+			$(".bsaProItemInner__img").trigger("resize");
+		});
+	})(jQuery);
+</script>						<style>
+							body {
+								background-position: top center !important;
+								background-color: #e6e6e6 !important;
+								background-repeat: no-repeat !important;
+								background-attachment: fixed !important;
+								padding-top: inherit !important;
+							}
+						</style>
+						<script>
+							(function ($) {
+								$(document).ready(function () {
+									var body = "body";
+									var getImage = $(".bsaProContainer-1 .bsaProItemInner__img").css("background-image");
+									var getUrl = $(".bsaProContainer-1 .bsaProItem__url").attr('href');
+									$(".bsaProContainer-1").hide();
+									$(body).css("background-image", getImage);
+									$(body).click(function (e) {
+										var body_target = $(e.target);
+										if (body_target.is(body) == true) {
+											window.open(getUrl, "_blank");
+										}
+									});
+
+									$(document).mousemove(function (e) {
+										var body_target = $(e.target);
+										if (body_target.is(body)) {
+											body_target.css("cursor", "pointer");
+										} else {
+											$(body).css("cursor", "auto");
+										}
+									});
+								});
+							})(jQuery);
+						</script>
+					</aside>
+<div class="clear"></div>		<div class="clear"></div>
+	</div><!-- .container /-->
+	
+	<div class="ads-bottom">					
+			<a href="https://www.nssfug.org/nssfgo/" title="" target="_blank">
+				<img src="http://theinvestigatornews.com/wp-content/uploads/2015/10/NSSFGO.gif" alt="" />
+			</a>
+				</div>	</div><!-- .container -->
+
+	<footer class="fade-in animated4">
+	<div id="footer-widget-area" class="footer-4c container">
+
+			<div id="footer-first" class="footer-widgets-box">
+			<div id="posts-list-widget-1" class="footer-widget posts-list"><div class="footer-widget-top"><h4>Popular Posts		</h4></div>
+						<div class="footer-widget-container">				<ul>
+								<li>
+						
+				<div class="post-thumbnail">
+					<a href="http://theinvestigatornews.com/pine-car-bond-boss-hajji-ssebuwufu-arrested-over-alleged-murder-of-an-indebted-client-katusabe-betty/" title="Permalink to Pine Car bond Boss Hajji Ssebuwufu Arrested Over alleged Murder of an Indebted Client" rel="bookmark"><img width="70" height="70" src="http://i2.wp.com/theinvestigatornews.com/wp-content/uploads/2015/10/Ssebuwufu-Pine.jpg?resize=70%2C70" class="attachment-tie-small size-tie-small wp-post-image" alt="Ssebuwufu Pine" srcset="http://i2.wp.com/theinvestigatornews.com/wp-content/uploads/2015/10/Ssebuwufu-Pine.jpg?resize=150%2C150 150w, http://i2.wp.com/theinvestigatornews.com/wp-content/uploads/2015/10/Ssebuwufu-Pine.jpg?resize=70%2C70 70w, http://i2.wp.com/theinvestigatornews.com/wp-content/uploads/2015/10/Ssebuwufu-Pine.jpg?resize=200%2C200 200w" sizes="(max-width: 70px) 100vw, 70px" /><span class="overlay-icon"></span></a>
+				</div><!-- post-thumbnail /-->
+							<h3><a href="http://theinvestigatornews.com/pine-car-bond-boss-hajji-ssebuwufu-arrested-over-alleged-murder-of-an-indebted-client-katusabe-betty/" title="Pine Car bond Boss Hajji Ssebuwufu Arrested Over alleged Murder of an Indebted Client">Pine Car bond Boss Hajji Ssebuwufu Arrested Over alleged Murder of an Indebted Client</a></h3>
+				 <span class="date"><span class="tie-date">October 23, 2015</span></span>
+			</li>
+				<li>
+						
+				<div class="post-thumbnail">
+					<a href="http://theinvestigatornews.com/frank-gashumbas-bitter-facts-on-tubonga-naawe-crew-will-have-you-scratch-your-head/" title="Permalink to Frank Gashumba’s Bitter Facts on ‘Tubonga Naawe’ Crew Will Make You Scratch Your Head" rel="bookmark"><img width="70" height="70" src="http://i2.wp.com/theinvestigatornews.com/wp-content/uploads/2015/10/Frank-Gashumba.jpg?resize=70%2C70" class="attachment-tie-small size-tie-small wp-post-image" alt="Frank Gashumba" srcset="http://i2.wp.com/theinvestigatornews.com/wp-content/uploads/2015/10/Frank-Gashumba.jpg?resize=150%2C150 150w, http://i2.wp.com/theinvestigatornews.com/wp-content/uploads/2015/10/Frank-Gashumba.jpg?resize=70%2C70 70w, http://i2.wp.com/theinvestigatornews.com/wp-content/uploads/2015/10/Frank-Gashumba.jpg?resize=200%2C200 200w" sizes="(max-width: 70px) 100vw, 70px" /><span class="overlay-icon"></span></a>
+				</div><!-- post-thumbnail /-->
+							<h3><a href="http://theinvestigatornews.com/frank-gashumbas-bitter-facts-on-tubonga-naawe-crew-will-have-you-scratch-your-head/" title="Frank Gashumba’s Bitter Facts on ‘Tubonga Naawe’ Crew Will Make You Scratch Your Head">Frank Gashumba’s Bitter Facts on ‘Tubonga Naawe’ Crew Will Make You Scratch Your Head</a></h3>
+				 <span class="date"><span class="tie-date">October 23, 2015</span></span>
+			</li>
+				<li>
+						
+				<div class="post-thumbnail">
+					<a href="http://theinvestigatornews.com/another-city-murder-university-student-gang-raped-murdered-and-dumped-in-wakiso-swamp-flying-squad-launches-hunt-for-killers/" title="Permalink to ANOTHER CITY MURDER: University Student Gang-Raped, Murdered and Dumped In Wakiso Swamp, Flying Squad Launches Hunt For Killers" rel="bookmark"><img width="70" height="70" src="http://i0.wp.com/theinvestigatornews.com/wp-content/uploads/2015/12/city.jpg?resize=70%2C70" class="attachment-tie-small size-tie-small wp-post-image" alt="Body of Irene Kyakunda" srcset="http://i0.wp.com/theinvestigatornews.com/wp-content/uploads/2015/12/city.jpg?resize=150%2C150 150w, http://i0.wp.com/theinvestigatornews.com/wp-content/uploads/2015/12/city.jpg?resize=70%2C70 70w, http://i0.wp.com/theinvestigatornews.com/wp-content/uploads/2015/12/city.jpg?resize=200%2C200 200w" sizes="(max-width: 70px) 100vw, 70px" /><span class="overlay-icon"></span></a>
+				</div><!-- post-thumbnail /-->
+							<h3><a href="http://theinvestigatornews.com/another-city-murder-university-student-gang-raped-murdered-and-dumped-in-wakiso-swamp-flying-squad-launches-hunt-for-killers/" title="ANOTHER CITY MURDER: University Student Gang-Raped, Murdered and Dumped In Wakiso Swamp, Flying Squad Launches Hunt For Killers">ANOTHER CITY MURDER: University Student Gang-Raped, Murdered and Dumped In Wakiso Swamp, Flying Squad Launches Hunt For Killers</a></h3>
+				 <span class="date"><span class="tie-date">December 2, 2015</span></span>
+			</li>
+		
+				</ul>
+		<div class="clear"></div>
+	</div></div><!-- .widget /-->		</div>
+	
+			<div id="footer-second" class="footer-widgets-box">
+			<div id="posts-list-widget-2" class="footer-widget posts-list"><div class="footer-widget-top"><h4>Random Posts		</h4></div>
+						<div class="footer-widget-container">				<ul>
+					<li>
+				
+		<div class="post-thumbnail">
+			<a href="http://theinvestigatornews.com/shut-up-or-pay-up-2/" title="Permalink to SHUT UP OR PAY UP" rel="bookmark"><img width="70" height="70" src="http://i2.wp.com/theinvestigatornews.com/wp-content/uploads/Allupo Jessica.jpg?resize=70%2C70" class="attachment-tie-small size-tie-small wp-post-image" alt="Allupo Jessica" srcset="http://i0.wp.com/theinvestigatornews.com/wp-content/uploads//wp-content/uploads/Allupo Jessica.jpg?resize=300%2C300 300w, http://i0.wp.com/theinvestigatornews.com/wp-content/uploads//wp-content/uploads/Allupo Jessica.jpg?resize=150%2C150 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+		</div><!-- post-thumbnail /-->
+		<h3><a href="http://theinvestigatornews.com/shut-up-or-pay-up-2/">SHUT UP OR PAY UP</a></h3>
+	 <span class="date"><span class="tie-date">September 11, 2013</span></span>
+</li>
+<li>
+				
+		<div class="post-thumbnail">
+			<a href="http://theinvestigatornews.com/monitoring-evaluation-learning-manager-technoserve/" title="Permalink to Monitoring, Evaluation &#038; Learning Manager –TechnoServe" rel="bookmark"><img width="70" height="70" src="http://i0.wp.com/theinvestigatornews.com/wp-content/uploads/2015/11/Techno.jpg?resize=70%2C70" class="attachment-tie-small size-tie-small wp-post-image" alt="Techno" srcset="http://i0.wp.com/theinvestigatornews.com/wp-content/uploads/2015/11/Techno.jpg?resize=150%2C150 150w, http://i0.wp.com/theinvestigatornews.com/wp-content/uploads/2015/11/Techno.jpg?resize=70%2C70 70w, http://i0.wp.com/theinvestigatornews.com/wp-content/uploads/2015/11/Techno.jpg?resize=200%2C200 200w, http://i0.wp.com/theinvestigatornews.com/wp-content/uploads/2015/11/Techno.jpg?resize=100%2C100 100w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+		</div><!-- post-thumbnail /-->
+		<h3><a href="http://theinvestigatornews.com/monitoring-evaluation-learning-manager-technoserve/">Monitoring, Evaluation &#038; Learning Manager –TechnoServe</a></h3>
+	 <span class="date"><span class="tie-date">November 10, 2015</span></span>
+</li>
+<li>
+				
+		<div class="post-thumbnail">
+			<a href="http://theinvestigatornews.com/juliette-underwood-in-secret-meeting-with-ivan/" title="Permalink to Juliette Underwood in Secret Meeting with Ivan" rel="bookmark"><img width="70" height="70" src="http://i0.wp.com/theinvestigatornews.com/wp-content/uploads/IVANJUL.jpg?resize=70%2C70" class="attachment-tie-small size-tie-small wp-post-image" alt="IVANJUL" srcset="http://i0.wp.com/theinvestigatornews.com/wp-content/uploads//wp-content/uploads/IVANJUL.jpg?resize=300%2C300 300w, http://i0.wp.com/theinvestigatornews.com/wp-content/uploads//wp-content/uploads/IVANJUL.jpg?resize=150%2C150 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+		</div><!-- post-thumbnail /-->
+		<h3><a href="http://theinvestigatornews.com/juliette-underwood-in-secret-meeting-with-ivan/">Juliette Underwood in Secret Meeting with Ivan</a></h3>
+	 <span class="date"><span class="tie-date">January 7, 2015</span></span>
+</li>
+	
+				</ul>
+		<div class="clear"></div>
+	</div></div><!-- .widget /-->		</div><!-- #second .widget-area -->
+	
+
+			<div id="footer-third" class="footer-widgets-box">
+			<div id="posts-list-widget-3" class="footer-widget posts-list"><div class="footer-widget-top"><h4>Recent Posts		</h4></div>
+						<div class="footer-widget-container">				<ul>
+					<li>
+				
+		<div class="post-thumbnail">
+			<a href="http://theinvestigatornews.com/the-truth-of-the-opinion-polls-in-ugandan-elections-can-only-be-justified-after-polling-day-18th-february-2016/" title="Permalink to The Truth Of The Opinion Polls In Ugandan Elections Can Only Be Justified After Polling Day, 18th February 2016" rel="bookmark"><img width="70" height="70" src="http://i0.wp.com/theinvestigatornews.com/wp-content/uploads/2016/01/Poll.jpg?resize=70%2C70" class="attachment-tie-small size-tie-small wp-post-image" alt="Polls" srcset="http://i0.wp.com/theinvestigatornews.com/wp-content/uploads/2016/01/Poll.jpg?resize=150%2C150 150w, http://i0.wp.com/theinvestigatornews.com/wp-content/uploads/2016/01/Poll.jpg?resize=70%2C70 70w, http://i0.wp.com/theinvestigatornews.com/wp-content/uploads/2016/01/Poll.jpg?resize=200%2C200 200w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+		</div><!-- post-thumbnail /-->
+		<h3><a href="http://theinvestigatornews.com/the-truth-of-the-opinion-polls-in-ugandan-elections-can-only-be-justified-after-polling-day-18th-february-2016/">The Truth Of The Opinion Polls In Ugandan Elections Can Only Be Justified After Polling Day, 18th February 2016</a></h3>
+	 <span class="date"><span class="tie-date">January 23, 2016</span></span>
+</li>
+<li>
+				
+		<div class="post-thumbnail">
+			<a href="http://theinvestigatornews.com/why-presidential-candidate-eng-elton-joseph-mabirizi-should-not-be-faulted-for-maiden-presidential-debate/" title="Permalink to Why Presidential Candidate Eng. Elton Joseph Mabirizi Should Not Be Faulted For Maiden Presidential Debate" rel="bookmark"><img width="70" height="70" src="http://i1.wp.com/theinvestigatornews.com/wp-content/uploads/2016/01/Mabirizi-Debate.jpg?resize=70%2C70" class="attachment-tie-small size-tie-small wp-post-image" alt="Elton Joseph Mabirizi at the debate" srcset="http://i1.wp.com/theinvestigatornews.com/wp-content/uploads/2016/01/Mabirizi-Debate.jpg?resize=150%2C150 150w, http://i1.wp.com/theinvestigatornews.com/wp-content/uploads/2016/01/Mabirizi-Debate.jpg?resize=70%2C70 70w, http://i1.wp.com/theinvestigatornews.com/wp-content/uploads/2016/01/Mabirizi-Debate.jpg?resize=200%2C200 200w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+		</div><!-- post-thumbnail /-->
+		<h3><a href="http://theinvestigatornews.com/why-presidential-candidate-eng-elton-joseph-mabirizi-should-not-be-faulted-for-maiden-presidential-debate/">Why Presidential Candidate Eng. Elton Joseph Mabirizi Should Not Be Faulted For Maiden Presidential Debate</a></h3>
+	 <span class="date"><span class="tie-date">January 22, 2016</span></span>
+</li>
+<li>
+				
+		<div class="post-thumbnail">
+			<a href="http://theinvestigatornews.com/the-pulsating-kampala-nightlife-here-are-some-quick-tips-to-ensure-you-get-a-feel-of-the-energetic-city-nightlife/" title="Permalink to The Pulsating Kampala Nightlife: Here Are Some Quick Tips To Ensure You Get A Feel Of The Energetic City Nightlife" rel="bookmark"><img width="70" height="70" src="http://i1.wp.com/theinvestigatornews.com/wp-content/uploads/2016/01/Kampala2.jpg?resize=70%2C70" class="attachment-tie-small size-tie-small wp-post-image" alt="Kampala Nightlife" srcset="http://i1.wp.com/theinvestigatornews.com/wp-content/uploads/2016/01/Kampala2.jpg?resize=150%2C150 150w, http://i1.wp.com/theinvestigatornews.com/wp-content/uploads/2016/01/Kampala2.jpg?resize=70%2C70 70w, http://i1.wp.com/theinvestigatornews.com/wp-content/uploads/2016/01/Kampala2.jpg?resize=200%2C200 200w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+		</div><!-- post-thumbnail /-->
+		<h3><a href="http://theinvestigatornews.com/the-pulsating-kampala-nightlife-here-are-some-quick-tips-to-ensure-you-get-a-feel-of-the-energetic-city-nightlife/">The Pulsating Kampala Nightlife: Here Are Some Quick Tips To Ensure You Get A Feel Of The Energetic City Nightlife</a></h3>
+	 <span class="date"><span class="tie-date">January 21, 2016</span></span>
+</li>
+	
+				</ul>
+		<div class="clear"></div>
+	</div></div><!-- .widget /-->		</div><!-- #third .widget-area -->
+	
+			<div id="footer-fourth" class="footer-widgets-box">
+			<div id="blog_subscription-2" class="footer-widget jetpack_subscription_widget"><div class="footer-widget-top"><h4>Subscribe Now via Email</h4></div>
+						<div class="footer-widget-container">
+			<form action="#" method="post" accept-charset="utf-8" id="subscribe-blog-blog_subscription-2">
+				<div id="subscribe-text"><p>Enter your email address to subscribe to this Website and receive notifications of new posts by email.</p>
+</div>					<p id="subscribe-email">
+						<label id="jetpack-subscribe-label" for="subscribe-field-blog_subscription-2">
+							Email Address						</label>
+						<input type="email" name="email" required="required" class="required" value="" id="subscribe-field-blog_subscription-2" placeholder="Email Address" />
+					</p>
+
+					<p id="subscribe-submit">
+						<input type="hidden" name="action" value="subscribe" />
+						<input type="hidden" name="source" value="http://theinvestigatornews.com/speed-test-confirms-mtn-has-the-fastest-internet-in-uganda-as-it-maintains-its-leadership-position/" />
+						<input type="hidden" name="sub-type" value="widget" />
+						<input type="hidden" name="redirect_fragment" value="blog_subscription-2" />
+												<input type="submit" value="Subscribe" name="jetpack_subscriptions_widget" />
+					</p>
+							</form>
+
+			<script>
+			/*
+			Custom functionality for safari and IE
+			 */
+			(function( d ) {
+				// In case the placeholder functionality is available we remove labels
+				if ( ( 'placeholder' in d.createElement( 'input' ) ) ) {
+					var label = d.querySelector( 'label[for=subscribe-field-blog_subscription-2]' );
+						label.style.clip 	 = 'rect(1px, 1px, 1px, 1px)';
+						label.style.position = 'absolute';
+						label.style.height   = '1px';
+						label.style.width    = '1px';
+						label.style.overflow = 'hidden';
+				}
+
+				// Make sure the email value is filled in before allowing submit
+				var form = d.getElementById('subscribe-blog-blog_subscription-2'),
+					input = d.getElementById('subscribe-field-blog_subscription-2'),
+					handler = function( event ) {
+						if ( '' === input.value ) {
+							input.focus();
+
+							if ( event.preventDefault ){
+								event.preventDefault();
+							}
+
+							return false;
+						}
+					};
+
+				if ( window.addEventListener ) {
+					form.addEventListener( 'submit', handler, false );
+				} else {
+					form.attachEvent( 'onsubmit', handler );
+				}
+			})( document );
+			</script>
+				
+</div></div><!-- .widget /-->		</div><!-- #fourth .widget-area -->
+		
+	</div><!-- #footer-widget-area -->
+	<div class="clear"></div>
+</footer><!-- .Footer /-->
+				
+	<div class="clear"></div>
+	<div class="footer-bottom fade-in animated4">
+		<div class="container">
+					<div class="social-icons icon_flat">
+		<a class="ttip" title="Google+" href="https://twitter.com/uginvestigator" target="_blank"><i class="tieicon-gplus"></i></a><a class="ttip" title="Facebook" href="https://www.facebook.com/uginvestigator" target="_blank"><i class="tieicon-facebook"></i></a><a class="ttip" title="Twitter" href="https://twitter.com/uginvestigator" target="_blank"><i class="tieicon-twitter"></i></a><a class="ttip" title="LinkedIn" href="https://twitter.com/uginvestigator" target="_blank"><i class="tieicon-linkedin"></i></a><a class="ttip" title="Youtube" href="https://twitter.com/uginvestigator" target="_blank"><i class="tieicon-youtube"></i></a><a class="ttip" title="SoundCloud" href="https://twitter.com/uginvestigator" target="_blank"><i class="tieicon-soundcloud"></i></a><a class="ttip" title="instagram" href="https://twitter.com/uginvestigator" target="_blank"><i class="tieicon-instagram"></i></a><a class="ttip" title="Google Play" href="https://twitter.com/uginvestigator" target="_blank"><i class="tieicon-googleplay"></i></a>	</div>
+
+			<div class="alignleft">
+			Copyright ©  2015. Owned and Powered by GIA Investments Ltd 			</div>
+		</div><!-- .Container -->
+	</div><!-- .Footer bottom -->
+	
+</div><!-- .Wrapper -->
+<div id="fb-root"></div>
+	
+	<section id="check-also-box" class="post-listing fade-in animated3 check-also-right">
+		<a href="#" id="check-also-close">x</a>
+
+		<div class="block-head">
+			<h3>Check Also</h3>
+		</div>
+
+				<div class = "check-also-post">
+						
+			<div class="post-thumbnail">
+				<a href="http://theinvestigatornews.com/the-truth-of-the-opinion-polls-in-ugandan-elections-can-only-be-justified-after-polling-day-18th-february-2016/">
+					<img width="620" height="330" src="http://theinvestigatornews.com/wp-content/uploads/2016/01/Poll.jpg" class="attachment-tie-medium size-tie-medium wp-post-image" alt="Polls" srcset="http://i0.wp.com/theinvestigatornews.com/wp-content/uploads/2016/01/Poll.jpg?resize=300%2C160 300w, http://i0.wp.com/theinvestigatornews.com/wp-content/uploads/2016/01/Poll.jpg?w=620 620w" sizes="(max-width: 620px) 100vw, 620px" />					<span class="fa overlay-icon"></span>
+				</a>
+			</div><!-- post-thumbnail /-->
+						
+			<h2 class="post-title"><a href="http://theinvestigatornews.com/the-truth-of-the-opinion-polls-in-ugandan-elections-can-only-be-justified-after-polling-day-18th-february-2016/" rel="bookmark">The Truth Of The Opinion Polls In Ugandan Elections Can Only Be Justified After Polling Day, 18th February 2016</a></h2>
+			<p>Share this on WhatsAppBy Munyegera Ricardo John Both the Research world in partnership with NGO ...</p>
+		</div>
+			</section>
+			
+			
+		<div style="display:none">
+	<div class="grofile-hash-map-aec4f115050f3f3a75571021f3918202">
+	</div>
+	<div class="grofile-hash-map-dd88035121b646c87d887dec35b7bb00">
+	</div>
+	<div class="grofile-hash-map-dc55b3dadce944a52b219555e08630c6">
+	</div>
+	</div>
+<div id="reading-position-indicator"></div>
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"http:\/\/theinvestigatornews.com\/speed-test-confirms-mtn-has-the-fastest-internet-in-uganda-as-it-maintains-its-leadership-position\/":32945};
+	</script>
+		<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-twitter' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-facebook' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+		});
+		</script>
+						<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-pocket' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcompocket', 'menubar=1,resizable=1,width=450,height=450' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-google-plus-1' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomgoogle-plus-1', 'menubar=1,resizable=1,width=480,height=550' );
+				return false;
+			});
+		});
+		</script>
+			<div id="sharing_email" style="display: none;">
+		<form action="/speed-test-confirms-mtn-has-the-fastest-internet-in-uganda-as-it-maintains-its-leadership-position/" method="post">
+			<label for="target_email">Send to Email Address</label>
+			<input type="email" name="target_email" id="target_email" value="" />
+
+			
+				<label for="source_name">Your Name</label>
+				<input type="text" name="source_name" id="source_name" value="" />
+
+				<label for="source_email">Your Email Address</label>
+				<input type="email" name="source_email" id="source_email" value="" />
+
+						<input type="text" id="jetpack-source_f_name" name="source_f_name" class="input" value="" size="25" autocomplete="off" />
+			<script> document.getElementById('jetpack-source_f_name').value = ''; </script>
+			
+			<img style="float: right; display: none" class="loading" src="http://theinvestigatornews.com/wp-content/plugins/jetpack/modules/sharedaddy/images/loading.gif" alt="loading" width="16" height="16" />
+			<input type="submit" value="Send Email" class="sharing_send" />
+			<a rel="nofollow" href="#cancel" class="sharing_cancel">Cancel</a>
+
+			<div class="errors errors-1" style="display: none;">
+				Post was not sent - check your email addresses!			</div>
+
+			<div class="errors errors-2" style="display: none;">
+				Email check failed, please try again			</div>
+
+			<div class="errors errors-3" style="display: none;">
+				Sorry, your blog cannot share posts by email.			</div>
+		</form>
+	</div>
+		<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-linkedin' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomlinkedin', 'menubar=1,resizable=1,width=580,height=450' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-tumblr' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomtumblr', 'menubar=1,resizable=1,width=450,height=450' );
+				return false;
+			});
+		});
+		</script>
+		<script type='text/javascript' src='http://theinvestigatornews.com/wp-content/plugins/jetpack/modules/photon/photon.js'></script>
+<script type='text/javascript' src='http://theinvestigatornews.com/wp-includes/js/jquery/ui/core.min.js'></script>
+<script type='text/javascript' src='http://theinvestigatornews.com/wp-includes/js/jquery/ui/datepicker.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/speed-test-confirms-mtn-has-the-fastest-internet-in-uganda-as-it-maintains-its-leadership-position\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View Cart","cart_url":"http:\/\/theinvestigatornews.com\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//theinvestigatornews.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js'></script>
+<script type='text/javascript' src='//theinvestigatornews.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/speed-test-confirms-mtn-has-the-fastest-internet-in-uganda-as-it-maintains-its-leadership-position\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//theinvestigatornews.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js'></script>
+<script type='text/javascript' src='//theinvestigatornews.com/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/speed-test-confirms-mtn-has-the-fastest-internet-in-uganda-as-it-maintains-its-leadership-position\/?wc-ajax=%%endpoint%%","fragment_name":"wc_fragments"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//theinvestigatornews.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://theinvestigatornews.com/wp-content/plugins/jetpack/modules/wpgroho.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var tie = {"go_to":"Go to...","ajaxurl":"http:\/\/theinvestigatornews.com\/wp-admin\/admin-ajax.php","your_rating":"Your Rating:","is_singular":"1","reading_indicator":"true"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://theinvestigatornews.com/wp-content/themes/jarida/js/tie-scripts.js'></script>
+<script type='text/javascript' src='http://theinvestigatornews.com/wp-includes/js/comment-reply.min.js'></script>
+<script type='text/javascript' src='http://theinvestigatornews.com/wp-includes/js/wp-embed.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var embedVars = {"disqusConfig":{"platform":"wordpress@4.4.1","language":""},"disqusIdentifier":"32945 http:\/\/theinvestigatornews.com\/?p=32945","disqusShortname":"investigatorug","disqusTitle":"Speed Test Confirms MTN Has the Fastest Internet in Uganda As it Maintains its Leadership Position","disqusUrl":"http:\/\/theinvestigatornews.com\/speed-test-confirms-mtn-has-the-fastest-internet-in-uganda-as-it-maintains-its-leadership-position\/","options":{"manualSync":false},"postId":"32945"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://theinvestigatornews.com/wp-content/plugins/disqus-comment-system/media/js/disqus.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"investigatorug"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://theinvestigatornews.com/wp-content/plugins/disqus-comment-system/media/js/count.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://theinvestigatornews.com/wp-content/plugins/jetpack/modules/sharedaddy/sharing.js'></script>
+<script type='text/javascript' src='http://stats.wp.com/e-201603.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:3.9.1',blog:'100830996',post:'32945',tz:'0',srv:'theinvestigatornews.com'} ]);
+	_stq.push([ 'clickTrackerInit', '100830996', '32945' ]);
+</script>
+<!-- start counter24 --> <div id="counter24"><!--start--><a target="_blank" href="http://stats.wpadm.com/en/9f5b22137890" alt="Counter" title="Counter"><script type="text/javascript">var id="9f5b22137890";d=document;s=screen; w=s.width; h=s.height;navigator.appName!="Netscape"? b=s.colorDepth : b=s.pixelDepth;navigator.javaEnabled()==1?j="y":j="n"; w?"":w="0"; h?"":h="0"; b?"":b="0";d.write('<img alt="" style="border: 0;" src="http://stats.wpadm.com/getimages.php?id='+id+'&amp;j='+j+'&amp;sh='+h+'&amp;sw='+w+'&amp;sb='+b+'&amp;d='+escape(d.location.href.replace(/(http://|https://)/,""))+'&amp;r='+(d.referrer)+'">');</script><noscript><img src="http://stats.wpadm.com/getimages.php?id=9f5b22137890&amp;j=n"></noscript></a><!--end--></div> <!-- end counter24 --></body>
+</html>
+<!-- Dynamic page generated in 3.636 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-01-24 23:46:58 -->
+
+<!-- super cache -->
+
+WARC/1.0
+WARC-Type: metadata
+WARC-Record-ID: <urn:uuid:afe327a2-d299-470d-ac15-4683c3f53a79>
+WARC-Warcinfo-ID: <urn:uuid:0ba39dfb-05c6-4ab2-8cf2-e03edb98cb0c>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/MANIFEST.txt
+WARC-Date: 2016-01-24T23:48:01Z
+Content-Type: text/plain
+Content-Length: 48
+
+<urn:uuid:0ba39dfb-05c6-4ab2-8cf2-e03edb98cb0c>
+
+
+WARC/1.0
+WARC-Type: resource
+WARC-Record-ID: <urn:uuid:97c1dbc2-8612-4731-94bb-c7a39515a050>
+WARC-Warcinfo-ID: <urn:uuid:0ba39dfb-05c6-4ab2-8cf2-e03edb98cb0c>
+WARC-Concurrent-To: <urn:uuid:afe327a2-d299-470d-ac15-4683c3f53a79>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/wget_arguments.txt
+WARC-Date: 2016-01-24T23:48:01Z
+Content-Type: text/plain
+Content-Length: 336
+
+"--warc-file" "speed-test-confirms-mtn-has-the-fastest-internet-in-uganda-as-it-maintains-its-leadership-position" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "-q" "-O" "/dev/null" "http://theinvestigatornews.com/speed-test-confirms-mtn-has-the-fastest-internet-in-uganda-as-it-maintains-its-leadership-position/" 
+
+

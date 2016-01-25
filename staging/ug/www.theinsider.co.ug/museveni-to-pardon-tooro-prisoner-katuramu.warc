@@ -1,0 +1,883 @@
+WARC/1.0
+WARC-Type: warcinfo
+Content-Type: application/warc-fields
+WARC-Date: 2016-01-22T02:30:27Z
+WARC-Record-ID: <urn:uuid:90d2299a-facd-4734-84c8-0f549522ea7e>
+WARC-Filename: museveni-to-pardon-tooro-prisoner-katuramu.warc
+Content-Length: 398
+
+software: Wget/1.16.1 (linux-gnu)
+format: WARC File Format 1.0
+conformsTo: http://bibnum.bnf.fr/WARC/WARC_ISO_28500_version1_latestdraft.pdf
+robots: classic
+wget-arguments: "--warc-file" "museveni-to-pardon-tooro-prisoner-katuramu" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "-q" "-O" "/dev/null" "http://www.theinsider.ug/museveni-to-pardon-tooro-prisoner-katuramu/" 
+
+
+
+WARC/1.0
+WARC-Type: request
+WARC-Target-URI: http://www.theinsider.ug/museveni-to-pardon-tooro-prisoner-katuramu/
+Content-Type: application/http;msgtype=request
+WARC-Date: 2016-01-22T02:30:27Z
+WARC-Record-ID: <urn:uuid:56aec98a-966e-4270-b003-2235d5c51ff2>
+WARC-IP-Address: 108.167.140.107
+WARC-Warcinfo-ID: <urn:uuid:90d2299a-facd-4734-84c8-0f549522ea7e>
+Content-Length: 187
+
+GET /museveni-to-pardon-tooro-prisoner-katuramu/ HTTP/1.1
+User-Agent: Wget/1.16.1 (linux-gnu)
+Accept: */*
+Accept-Encoding: identity
+Host: www.theinsider.ug
+Connection: Keep-Alive
+
+
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <urn:uuid:4b63e50c-32ec-4fe3-8093-8efd09df3d47>
+WARC-Warcinfo-ID: <urn:uuid:90d2299a-facd-4734-84c8-0f549522ea7e>
+WARC-Concurrent-To: <urn:uuid:56aec98a-966e-4270-b003-2235d5c51ff2>
+WARC-Target-URI: http://www.theinsider.ug/museveni-to-pardon-tooro-prisoner-katuramu/
+WARC-Date: 2016-01-22T02:30:27Z
+WARC-IP-Address: 108.167.140.107
+Content-Type: application/http;msgtype=response
+Content-Length: 52011
+
+HTTP/1.1 200 OK
+Server: nginx/1.8.0
+Date: Fri, 22 Jan 2016 02:30:27 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Pingback: http://www.theinsider.ug/xmlrpc.php
+Link: <http://www.theinsider.ug/wp-json/>; rel="https://api.w.org/", <http://www.theinsider.ug/?p=41405>; rel=shortlink
+X-Cacheable: YES
+X-Served-From-Cache: Yes
+
+151e
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8" >
+<meta name="viewport" id="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+
+
+<link rel="shortcut icon" href="http://www.theinsider.ug/wp-content/uploads/2016/01/fav.png" /><link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.theinsider.ug/feed/" />
+<link rel="alternate" type="text/xml" title="RSS .92" href="http://www.theinsider.ug/feed/rss/" />
+<link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="http://www.theinsider.ug/feed/atom/" />
+<link rel="pingback" href="http://www.theinsider.ug/xmlrpc.php" />
+
+<meta property="og:image" content="http://www.theinsider.ug/wp-content/uploads/2016/01/katuramu.jpg" />
+<meta name="twitter:image" content="http://www.theinsider.ug/wp-content/uploads/2016/01/katuramu.jpg" />
+
+<meta property="og:type" content="article" />
+<meta property="og:description" content="President Yoweri Museveni has hinted at a possibility of pardoning former Tooro Prime Minister, John Sanyu Katuramu. In January 2011, while Museveni was campaigning in Kabarole district, residents demanded that he gives Katuramu a parole citing the release of Chris Rwakasisi, another long-term convict. Katuramu was convicted and sentenced to death in 1999, for masterminding [&hellip;]" />
+<meta name="twitter:card" content="summary">
+<meta name="twitter:url" content="http://www.theinsider.ug/museveni-to-pardon-tooro-prisoner-katuramu/">
+<meta name="twitter:title" content="Museveni to pardon Tooro prisoner Katuramu">
+<meta name="twitter:description" content="President Yoweri Museveni has hinted at a possibility of pardoning former Tooro Prime Minister, John Sanyu Katuramu. In January 2011, while Museveni was campaigning in Kabarole district, residents demanded that he gives Katuramu a parole citing the release of Chris Rwakasisi, another long-term convict. Katuramu was convicted and sentenced to death in 1999, for masterminding [&hellip;]">
+
+
+<title>Museveni to pardon Tooro prisoner Katuramu &#8211; theinsider.ug</title>
+<link rel="alternate" type="application/rss+xml" title="theinsider.ug &raquo; Feed" href="http://www.theinsider.ug/feed/" />
+<link rel="alternate" type="application/rss+xml" title="theinsider.ug &raquo; Comments Feed" href="http://www.theinsider.ug/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="theinsider.ug &raquo; Museveni to pardon Tooro prisoner Katuramu Comments Feed" href="http://www.theinsider.ug/museveni-to-pardon-tooro-prisoner-katuramu/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.theinsider.ug\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.1"}};
+			!function(a,b,c){function d(a){var c,d=b.createElement("canvas"),e=d.getContext&&d.getContext("2d");return e&&e.fillText?(e.textBaseline="top",e.font="600 32px Arial","flag"===a?(e.fillText(String.fromCharCode(55356,56806,55356,56826),0,0),d.toDataURL().length>3e3):"diversity"===a?(e.fillText(String.fromCharCode(55356,57221),0,0),c=e.getImageData(16,16,1,1).data.toString(),e.fillText(String.fromCharCode(55356,57221,55356,57343),0,0),c!==e.getImageData(16,16,1,1).data.toString()):("simple"===a?e.fillText(String.fromCharCode(55357,56835),0,0):e.fillText(String.fromCharCode(55356,57135),0,0),0!==e.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='mvp-reset-css'  href='http://www.theinsider.ug/wp-content/themes/flex-mag/css/reset.css?ver=4.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='mvp-fontawesome-css'  href='//netdna.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.css?ver=4.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='mvp-style-css'  href='http://www.theinsider.ug/wp-content/themes/flex-mag/style.css?ver=4.4.1' type='text/css' media='all' />
+<!--[if lt IE 10]>
+<link rel='stylesheet' id='mvp-iecss-css'  href='http://www.theinsider.ug/wp-content/themes/flex-mag/css/iecss.css?ver=4.4.1' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='mvp-media-queries-css'  href='http://www.theinsider.ug/wp-content/themes/flex-mag/css/media-queries.css?v
+8d5e
+er=4.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='studio-fonts-css'  href='//fonts.googleapis.com/css?family=Oswald%3ALato%3A400%2C700%7CWork+Sans%3A900%7CMontserrat%3A400%2C700%7COpen+Sans%3A800%7CPlayfair+Display%3A400%2C700%2C900%7CQuicksand%7CRaleway%3A200%2C400%2C700%7CRoboto+Slab%3A400%2C700%26subset%3Dlatin%2Clatin-ext&#038;ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='ean-style-css'  href='http://www.theinsider.ug/wp-content/plugins/easy-automatic-newsletter/css/style.css?ver=4.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='tw-pagination-css'  href='http://www.theinsider.ug/wp-content/plugins/tw-pagination/tw-pagination.css?ver=1.0' type='text/css' media='screen' />
+<script type='text/javascript' src='http://www.theinsider.ug/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://www.theinsider.ug/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var samAjax = {"ajaxurl":"http:\/\/www.theinsider.ug\/wp-content\/plugins\/simple-ads-manager\/sam-ajax.php","loadurl":"http:\/\/www.theinsider.ug\/wp-content\/plugins\/simple-ads-manager\/sam-ajax-loader.php","load":"","level":"3","clauses":"YTo0OntzOjI6IldDIjtzOjI0ODg6IihJRihzYS5hZF91c2VycyA9IDAsIFRSVUUsIChzYS5hZF91c2Vyc191bnJlZyA9IDEpKSkgQU5EICgoc2Eudmlld190eXBlID0gMSkgT1IgKHNhLnZpZXdfdHlwZSA9IDAgQU5EIChzYS52aWV3X3BhZ2VzKzAgJiA2KSkgT1IgKHNhLnZpZXdfdHlwZSA9IDIgQU5EIEZJTkRfSU5fU0VUKDQxNDA1LCBzYS52aWV3X2lkKSkpIEFORCBJRihzYS52aWV3X3R5cGUgPCAyIEFORCBzYS5hZF9jYXRzIEFORCBJRihzYS52aWV3X3R5cGUgPSAwLCBzYS52aWV3X3BhZ2VzKzAgJiA2LCBUUlVFKSwgRklORF9JTl9TRVQoInNwZWNpYWwtcmVwb3J0cyIsIHNhLnZpZXdfY2F0cyksIFRSVUUpICBBTkQgSUYoc2Eudmlld190eXBlIDwgMiBBTkQgc2EuYWRfYXV0aG9ycyBBTkQgSUYoc2Eudmlld190eXBlID0gMCwgc2Eudmlld19wYWdlcyswICYgNiwgVFJVRSksIEZJTkRfSU5fU0VUKCJSb2dlcnMgQXR1a3VuZGEiLCBzYS52aWV3X2F1dGhvcnMpLCBUUlVFKSAgQU5EIElGKHNhLnZpZXdfdHlwZSA8IDIgQU5EIHNhLmFkX3RhZ3MgQU5EIElGKHNhLnZpZXdfdHlwZSA9IDAsIHNhLnZpZXdfcGFnZXMrMCAmIDYsIFRSVUUpLCBGSU5EX0lOX1NFVCgiYmlnLXN0b3J5Iiwgc2Eudmlld190YWdzKSBPUiBGSU5EX0lOX1NFVCgiaGFwcHkta2lqYW5hbmdvbWEiLCBzYS52aWV3X3RhZ3MpIE9SIEZJTkRfSU5fU0VUKCJqb2huLXNhbnl1LWthdHVyYW11Iiwgc2Eudmlld190YWdzKSBPUiBGSU5EX0lOX1NFVCgibXVzZXZlbmkiLCBzYS52aWV3X3RhZ3MpIE9SIEZJTkRfSU5fU0VUKCJ0b29ybyIsIHNhLnZpZXdfdGFncyksIFRSVUUpICBBTkQgSUYoc2Eudmlld190eXBlIDwgMiBBTkQgc2EuYWRfY3VzdG9tX3RheF90ZXJtcyBBTkQgSUYoc2Eudmlld190eXBlID0gMCwgc2Eudmlld19wYWdlcyswICYgNiwgVFJVRSksIEZJTkRfSU5fU0VUKCJzcGVjaWFsLXJlcG9ydHMiLCBzYS52aWV3X2N1c3RvbV90YXhfdGVybXMpIE9SIEZJTkRfSU5fU0VUKCJiaWctc3RvcnkiLCBzYS52aWV3X2N1c3RvbV90YXhfdGVybXMpIE9SIEZJTkRfSU5fU0VUKCJoYXBweS1raWphbmFuZ29tYSIsIHNhLnZpZXdfY3VzdG9tX3RheF90ZXJtcykgT1IgRklORF9JTl9TRVQoImpvaG4tc2FueXUta2F0dXJhbXUiLCBzYS52aWV3X2N1c3RvbV90YXhfdGVybXMpIE9SIEZJTkRfSU5fU0VUKCJtdXNldmVuaSIsIHNhLnZpZXdfY3VzdG9tX3RheF90ZXJtcykgT1IgRklORF9JTl9TRVQoInRvb3JvIiwgc2Eudmlld19jdXN0b21fdGF4X3Rlcm1zKSwgVFJVRSkgIEFORCBJRihzYS54X2lkLCBOT1QgRklORF9JTl9TRVQoNDE0MDUsIHNhLnhfdmlld19pZCksIFRSVUUpICBBTkQgSUYoc2Eudmlld190eXBlIDwgMiBBTkQgc2EueF9jYXRzIEFORCBJRihzYS52aWV3X3R5cGUgPSAwLCBzYS52aWV3X3BhZ2VzKzAgJiA2LCBUUlVFKSwgKE5PVCBGSU5EX0lOX1NFVCgic3BlY2lhbC1yZXBvcnRzIiwgc2EueF92aWV3X2NhdHMpKSwgVFJVRSkgIEFORCBJRihzYS52aWV3X3R5cGUgPCAyIEFORCBzYS54X2F1dGhvcnMgQU5EIElGKHNhLnZpZXdfdHlwZSA9IDAsIHNhLnZpZXdfcGFnZXMrMCAmIDYsIFRSVUUpLCBOT1QgRklORF9JTl9TRVQoIlJvZ2VycyBBdHVrdW5kYSIsIHNhLnhfdmlld19hdXRob3JzKSwgVFJVRSkgIEFORCBJRihzYS52aWV3X3R5cGUgPCAyIEFORCBzYS54X3RhZ3MgQU5EIElGKHNhLnZpZXdfdHlwZSA9IDAsIHNhLnZpZXdfcGFnZXMrMCAmIDYsIFRSVUUpLCAoTk9UIEZJTkRfSU5fU0VUKCJiaWctc3RvcnkiLCBzYS54X3ZpZXdfdGFncykpIEFORCAoTk9UIEZJTkRfSU5fU0VUKCJoYXBweS1raWphbmFuZ29tYSIsIHNhLnhfdmlld190YWdzKSkgQU5EIChOT1QgRklORF9JTl9TRVQoImpvaG4tc2FueXUta2F0dXJhbXUiLCBzYS54X3ZpZXdfdGFncykpIEFORCAoTk9UIEZJTkRfSU5fU0VUKCJtdXNldmVuaSIsIHNhLnhfdmlld190YWdzKSkgQU5EIChOT1QgRklORF9JTl9TRVQoInRvb3JvIiwgc2EueF92aWV3X3RhZ3MpKSwgVFJVRSkgIEFORCBJRihzYS52aWV3X3R5cGUgPCAyIEFORCBzYS54X2FkX2N1c3RvbV90YXhfdGVybXMgQU5EIElGKHNhLnZpZXdfdHlwZSA9IDAsIHNhLnZpZXdfcGFnZXMrMCAmIDYsIFRSVUUpLCAoTk9UIEZJTkRfSU5fU0VUKCJzcGVjaWFsLXJlcG9ydHMiLCBzYS54X3ZpZXdfY3VzdG9tX3RheF90ZXJtcykpIEFORCAoTk9UIEZJTkRfSU5fU0VUKCJiaWctc3RvcnkiLCBzYS54X3ZpZXdfY3VzdG9tX3RheF90ZXJtcykpIEFORCAoTk9UIEZJTkRfSU5fU0VUKCJoYXBweS1raWphbmFuZ29tYSIsIHNhLnhfdmlld19jdXN0b21fdGF4X3Rlcm1zKSkgQU5EIChOT1QgRklORF9JTl9TRVQoImpvaG4tc2FueXUta2F0dXJhbXUiLCBzYS54X3ZpZXdfY3VzdG9tX3RheF90ZXJtcykpIEFORCAoTk9UIEZJTkRfSU5fU0VUKCJtdXNldmVuaSIsIHNhLnhfdmlld19jdXN0b21fdGF4X3Rlcm1zKSkgQU5EIChOT1QgRklORF9JTl9TRVQoInRvb3JvIiwgc2EueF92aWV3X2N1c3RvbV90YXhfdGVybXMpKSwgVFJVRSkiO3M6MzoiV0NUIjtzOjM2MjoiIEFORCBJRihzYS5hZF9zY2hlZHVsZSwgQ1VSREFURSgpIEJFVFdFRU4gc2EuYWRfc3RhcnRfZGF0ZSBBTkQgc2EuYWRfZW5kX2RhdGUsIFRSVUUpIEFORCBJRihzYS5saW1pdF9oaXRzLCBzYS5oaXRzX2xpbWl0ID4gKFNFTEVDVCBJRk5VTEwoQ09VTlQoKiksIDApIEZST00gd3Bfc2FtX3N0YXRzIHNzIFdIRVJFIHNzLmlkID0gc2EuaWQgQU5EIHNzLmV2ZW50X3R5cGUgPSAwKSwgVFJVRSkgQU5EIElGKHNhLmxpbWl0X2NsaWNrcywgc2EuY2xpY2tzX2xpbWl0ID4gKFNFTEVDVCBJRk5VTEwoQ09VTlQoKiksIDApIEZST00gd3Bfc2FtX3N0YXRzIHNzIFdIRVJFIHNzLmlkID0gc2EuaWQgQU5EIHNzLmV2ZW50X3R5cGUgPSAxKSwgVFJVRSkiO3M6MzoiV0NXIjtzOjgwOiIgQU5EIElGKHNhLmFkX3dlaWdodCA+IDAsIChzYS5hZF93ZWlnaHRfaGl0cyoxMC8oc2EuYWRfd2VpZ2h0KjEwMDApKSA8IDEsIEZBTFNFKSI7czo0OiJXQzJXIjtzOjIyOiJBTkQgKHNhLmFkX3dlaWdodCA+IDApIjt9"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.theinsider.ug/wp-content/plugins/simple-ads-manager/js/sam-layout.min.js?ver=2.2.80'></script>
+<link rel='https://api.w.org/' href='http://www.theinsider.ug/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.theinsider.ug/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.theinsider.ug/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Museveni dispatches Tumukunde, orders arrest of Tooro officials' href='http://www.theinsider.ug/museveni-dispatches-tumukunde-orders-arrest-of-tooro-officials/' />
+<link rel='next' title='I’m proud of my players -Micho' href='http://www.theinsider.ug/im-proud-of-my-players-micho/' />
+<meta name="generator" content="WordPress 4.4.1" />
+<link rel="canonical" href="http://www.theinsider.ug/museveni-to-pardon-tooro-prisoner-katuramu/" />
+<link rel='shortlink' href='http://www.theinsider.ug/?p=41405' />
+<link rel="alternate" type="application/json+oembed" href="http://www.theinsider.ug/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.theinsider.ug%2Fmuseveni-to-pardon-tooro-prisoner-katuramu%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.theinsider.ug/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.theinsider.ug%2Fmuseveni-to-pardon-tooro-prisoner-katuramu%2F&#038;format=xml" />
+<meta name="keywords" content="Museveni to pardon Tooro prisoner Katuramu, Museveni, to, pardon, Tooro, prisoner, Katuramu, theinsider.ug, Special Reports, Big Story, Happy kijanangoma, John Sanyu Katuramu, Museveni, Tooro, " />
+
+
+<style type='text/css'>
+
+@import url(//fonts.googleapis.com/css?family=Work+Sans:100,200,300,400,500,600,700,800,900|Montserrat:100,200,300,400,500,600,700,800,900|Work+Sans:100,200,300,400,400italic,500,600,700,700italic,800,900|Lato:100,200,300,400,400italic,500,600,700,700italic,800,900|Montserrat:100,200,300,400,500,600,700,800,900&subset=latin,latin-ext,cyrillic,cyrillic-ext,greek-ext,greek,vietnamese);
+
+#wallpaper {
+	background: url() no-repeat 50% 0;
+	}
+body,
+.blog-widget-text p,
+.feat-widget-text p,
+.post-info-right,
+span.post-excerpt,
+span.feat-caption,
+span.soc-count-text,
+#content-main p,
+#commentspopup .comments-pop,
+.archive-list-text p,
+.author-box-bot p,
+#post-404 p,
+.foot-widget,
+#home-feat-text p,
+.feat-top2-left-text p,
+.feat-wide1-text p,
+.feat-wide4-text p,
+#content-main table,
+.foot-copy p,
+.video-main-text p {
+	font-family: 'Lato', sans-serif;
+	}
+
+a,
+a:visited,
+.post-info-name a {
+	color: #eb0254;
+	}
+
+a:hover {
+	color: #999999;
+	}
+
+.fly-but-wrap,
+span.feat-cat,
+span.post-head-cat,
+.prev-next-text a,
+.prev-next-text a:visited,
+.prev-next-text a:hover {
+	background: #eb0254;
+	}
+
+.fly-but-wrap {
+	background: #eb0254;
+	}
+
+.fly-but-wrap span {
+	background: #ffffff;
+	}
+
+.woocommerce .star-rating span:before {
+	color: #eb0254;
+	}
+
+.woocommerce .widget_price_filter .ui-slider .ui-slider-range,
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle {
+	background-color: #eb0254;
+	}
+
+.woocommerce span.onsale,
+.woocommerce #respond input#submit.alt,
+.woocommerce a.button.alt,
+.woocommerce button.button.alt,
+.woocommerce input.button.alt,
+.woocommerce #respond input#submit.alt:hover,
+.woocommerce a.button.alt:hover,
+.woocommerce button.button.alt:hover,
+.woocommerce input.button.alt:hover {
+	background-color: #eb0254;
+	}
+
+span.post-header {
+	border-top: 4px solid #eb0254;
+	}
+
+#main-nav-wrap,
+nav.main-menu-wrap,
+.nav-logo,
+.nav-right-wrap,
+.nav-menu-out,
+.nav-logo-out,
+#head-main-top {
+	-webkit-backface-visibility: hidden;
+	background: #eb0254;
+	}
+
+nav.main-menu-wrap ul li a,
+.nav-menu-out:hover ul li:hover a,
+.nav-menu-out:hover span.nav-search-but:hover i,
+.nav-menu-out:hover span.nav-soc-but:hover i,
+span.nav-search-but i,
+span.nav-soc-but i {
+	color: #ffffff;
+	}
+
+.nav-menu-out:hover li.menu-item-has-children:hover a:after,
+nav.main-menu-wrap ul li.menu-item-has-children a:after {
+	border-color: #ffffff transparent transparent transparent;
+	}
+
+.nav-menu-out:hover ul li a,
+.nav-menu-out:hover span.nav-search-but i,
+.nav-menu-out:hover span.nav-soc-but i {
+	color: #fdacc8;
+	}
+
+.nav-menu-out:hover li.menu-item-has-children a:after {
+	border-color: #fdacc8 transparent transparent transparent;
+	}
+
+.nav-menu-out:hover ul li ul.mega-list li a,
+.side-list-text p,
+.row-widget-text p,
+.blog-widget-text h2,
+.feat-widget-text h2,
+.archive-list-text h2,
+h2.author-list-head a,
+.mvp-related-text a {
+	color: #222222;
+	}
+
+ul.mega-list li:hover a,
+ul.side-list li:hover .side-list-text p,
+ul.row-widget-list li:hover .row-widget-text p,
+ul.blog-widget-list li:hover .blog-widget-text h2,
+.feat-widget-wrap:hover .feat-widget-text h2,
+ul.archive-list li:hover .archive-list-text h2,
+ul.archive-col-list li:hover .archive-list-text h2,
+h2.author-list-head a:hover,
+.mvp-related-posts ul li:hover .mvp-related-text a {
+	color: #999999 !important;
+	}
+
+span.more-posts-text,
+a.inf-more-but,
+#comments-button a,
+#comments-button span.comment-but-text {
+	border: 1px solid #eb0254;
+	}
+
+span.more-posts-text,
+a.inf-more-but,
+#comments-button a,
+#comments-button span.comment-but-text {
+	color: #eb0254 !important;
+	}
+
+#comments-button a:hover,
+#comments-button span.comment-but-text:hover,
+a.inf-more-but:hover,
+span.more-posts-text:hover {
+	background: #eb0254;
+	}
+
+nav.main-menu-wrap ul li a,
+ul.col-tabs li a,
+nav.fly-nav-menu ul li a,
+.foot-menu .menu li a {
+	font-family: 'Montserrat', sans-serif;
+	}
+
+.feat-top2-right-text h2,
+.side-list-text p,
+.side-full-text p,
+.row-widget-text p,
+.feat-widget-text h2,
+.blog-widget-text h2,
+.prev-next-text a,
+.prev-next-text a:visited,
+.prev-next-text a:hover,
+span.post-header,
+.archive-list-text h2,
+#woo-content h1.page-title,
+.woocommerce div.product .product_title,
+.woocommerce ul.products li.product h3,
+.video-main-text h2,
+.mvp-related-text a {
+	font-family: 'Montserrat', sans-serif;
+	}
+
+.feat-wide-sub-text h2,
+#home-feat-text h2,
+.feat-top2-left-text h2,
+.feat-wide1-text h2,
+.feat-wide4-text h2,
+.feat-wide5-text h2,
+h1.post-title,
+#content-main h1.post-title,
+#post-404 h1,
+h1.post-title-wide,
+#content-main blockquote p,
+#commentspopup #content-main h1 {
+	font-family: 'Work Sans', sans-serif;
+	}
+
+h3.home-feat-title,
+h3.side-list-title,
+#infscr-loading,
+.score-nav-menu select,
+h1.cat-head,
+h1.arch-head,
+h2.author-list-head,
+h3.foot-head,
+.woocommerce ul.product_list_widget span.product-title,
+.woocommerce ul.product_list_widget li a,
+.woocommerce #reviews #comments ol.commentlist li .comment-text p.meta,
+.woocommerce .related h2,
+.woocommerce div.product .woocommerce-tabs .panel h2,
+.woocommerce div.product .product_title,
+#content-main h1,
+#content-main h2,
+#content-main h3,
+#content-main h4,
+#content-main h5,
+#content-main h6 {
+	font-family: 'Work Sans', sans-serif;
+	}
+
+</style>
+	
+<style type="text/css">
+
+
+.post-cont-out,
+.post-cont-in {
+	margin-right: 0;
+	}
+
+
+.post-wrap-out1,
+.post-wrap-in1 {
+	margin-right: 0;
+	}
+#body-main-wrap {
+	background: #fff;
+	}
+#main-nav-wrap {
+	border-bottom: 1px solid #ddd;
+	}
+
+
+#fly-wrap {
+	background: #fff;
+	}
+ul.fly-bottom-soc li {
+	border-top: 1px solid #666;
+	}
+nav.fly-nav-menu ul li {
+	border-top: 1px solid #ddd;
+	}
+nav.fly-nav-menu ul li a {
+	color: #555;
+	}
+nav.fly-nav-menu ul li a:hover {
+	color: #bbb;
+	}
+nav.fly-nav-menu ul li ul.sub-menu {
+	border-top: 1px solid #ddd;
+	}
+
+
+
+
+</style>
+
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #ededed; }
+</style>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-54580407-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+</head>
+
+<body class="single single-post postid-41405 single-format-standard custom-background">
+	<div id="site" class="left relative">
+		<div id="site-wrap" class="left relative">
+						<div id="fly-wrap">
+	<div class="fly-wrap-out">
+		<div class="fly-side-wrap">
+			<ul class="fly-bottom-soc left relative">
+									<li class="fb-soc">
+						<a href="https://www.facebook.com/theinsiderug/" target="_blank">
+						<i class="fa fa-facebook-square fa-2"></i>
+						</a>
+					</li>
+													<li class="twit-soc">
+						<a href="https://twitter.com/TheInsiderUg" target="_blank">
+						<i class="fa fa-twitter fa-2"></i>
+						</a>
+					</li>
+																																					<li class="rss-soc">
+						<a href="http://www.theinsider.ug/feed/rss/" target="_blank">
+						<i class="fa fa-rss fa-2"></i>
+						</a>
+					</li>
+							</ul>
+		</div><!--fly-side-wrap-->
+		<div class="fly-wrap-in">
+			<div id="fly-menu-wrap">
+				<nav class="fly-nav-menu left relative">
+					<div class="menu-secondary-container"><ul id="menu-secondary" class="menu"><li id="menu-item-40235" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40235"><a href="http://www.theinsider.ug/">Home</a></li>
+<li id="menu-item-40225" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-40225"><a href="http://www.theinsider.ug/category/business-news/">Business</a></li>
+<li id="menu-item-40226" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-40226"><a href="http://www.theinsider.ug/category/crime/">Crime</a></li>
+<li id="menu-item-40227" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-40227"><a href="http://www.theinsider.ug/category/entertainment-news/">Entertainment/Gossip</a></li>
+<li id="menu-item-40228" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-40228"><a href="http://www.theinsider.ug/category/drc-news/">Inside DRC</a></li>
+<li id="menu-item-40229" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-40229"><a href="http://www.theinsider.ug/category/news/">News</a></li>
+<li id="menu-item-40230" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-40230"><a href="http://www.theinsider.ug/category/ug-decides-2016/">UG Decides 2016</a></li>
+<li id="menu-item-40231" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-40231"><a href="http://www.theinsider.ug/category/special-reports/">Special Reports</a></li>
+<li id="menu-item-40232" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-40232"><a href="http://www.theinsider.ug/category/sports-news/">Sports</a></li>
+<li id="menu-item-40234" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-40234"><a href="http://www.theinsider.ug/category/world-news/">World News</a></li>
+</ul></div>				</nav>
+			</div><!--fly-menu-wrap-->
+		</div><!--fly-wrap-in-->
+	</div><!--fly-wrap-out-->
+</div><!--fly-wrap-->			<div id="head-main-wrap" class="left relative">
+				<div id="head-main-top" class="left relative">
+																														</div><!--head-main-top-->
+				<div id="main-nav-wrap">
+					<div class="nav-out">
+						<div class="nav-in">
+							<div id="main-nav-cont" class="left" itemscope itemtype="http://schema.org/Organization">
+								<div class="nav-logo-out">
+									<div class="nav-left-wrap left relative">
+										<div class="fly-but-wrap left relative">
+											<span></span>
+											<span></span>
+											<span></span>
+											<span></span>
+										</div><!--fly-but-wrap-->
+																					<div class="nav-logo left">
+												<h1>
+																									<a itemprop="url" href="http://www.theinsider.ug/"><img itemprop="logo" src="http://www.theinsider.ug/wp-content/uploads/2016/01/inside.png" alt="theinsider.ug" /></a>
+																								</h1>
+											</div><!--nav-logo-->
+																			</div><!--nav-left-wrap-->
+									<div class="nav-logo-in">
+										<div class="nav-menu-out">
+											<div class="nav-menu-in">
+												<nav class="main-menu-wrap left">
+													<div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-7616" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7616"><a href="http://www.theinsider.ug/category/news/">News</a></li>
+<li id="menu-item-724" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-724"><a href="http://www.theinsider.ug/category/ug-decides-2016/">UG Decides 2016</a></li>
+<li id="menu-item-9" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9"><a href="http://www.theinsider.ug/category/entertainment-news/">Entertainment</a></li>
+<li id="menu-item-725" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-725"><a href="http://www.theinsider.ug/category/crime/">Crime</a></li>
+<li id="menu-item-8" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8"><a href="http://www.theinsider.ug/category/business-news/">Business</a></li>
+<li id="menu-item-727" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-727"><a href="http://www.theinsider.ug/category/sports-news/">Sports</a></li>
+<li id="menu-item-40058" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-40058"><a href="http://www.theinsider.ug/category/special-reports/">Special Reports</a></li>
+<li id="menu-item-40057" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-40057"><a href="http://www.theinsider.ug/category/world-news/">World News</a></li>
+</ul></div>												</nav>
+											</div><!--nav-menu-in-->
+											<div class="nav-right-wrap relative">
+												<div class="nav-search-wrap left relative">
+													<span class="nav-search-but left"><i class="fa fa-search fa-2"></i></span>
+													<div class="search-fly-wrap">
+														<form method="get" id="searchform" action="http://www.theinsider.ug//">
+	<input type="text" name="s" id="s" value="Type search term and press enter" onfocus='if (this.value == "Type search term and press enter") { this.value = ""; }' onblur='if (this.value == "") { this.value = "Type search term and press enter"; }' />
+	<input type="hidden" id="searchsubmit" value="Search" />
+</form>													</div><!--search-fly-wrap-->
+												</div><!--nav-search-wrap-->
+																									<a href="https://www.facebook.com/theinsiderug/" target="_blank">
+													<span class="nav-soc-but"><i class="fa fa-facebook fa-2"></i></span>
+													</a>
+																																					<a href="https://twitter.com/TheInsiderUg" target="_blank">
+													<span class="nav-soc-but"><i class="fa fa-twitter fa-2"></i></span>
+													</a>
+																							</div><!--nav-right-wrap-->
+										</div><!--nav-menu-out-->
+									</div><!--nav-logo-in-->
+								</div><!--nav-logo-out-->
+							</div><!--main-nav-cont-->
+						</div><!--nav-in-->
+					</div><!--nav-out-->
+				</div><!--main-nav-wrap-->
+			</div><!--head-main-wrap-->
+										<div id="body-main-wrap" class="left relative" itemscope itemtype="http://schema.org/Article">
+																																			<div class="body-main-out relative">
+					<div class="body-main-in">
+						<div id="body-main-cont" class="left relative">
+																		<div id="post-main-wrap" class="left relative">
+	<div class="post-wrap-out1">
+		<div class="post-wrap-in1">
+			<div id="post-left-col" class="relative">
+									<script type='text/javascript'>
+function wpopen (macagna) {
+    window.open(macagna, '_blank', 'width=400,height=500,scrollbars=yes,status=yes');
+}
+</script>
+					<article id="post-area" class="post-41405 post type-post status-publish format-standard has-post-thumbnail hentry category-special-reports tag-big-story tag-happy-kijanangoma tag-john-sanyu-katuramu tag-museveni tag-tooro">
+													<header id="post-header">
+																	<a class="post-cat-link" href="http://www.theinsider.ug/category/special-reports/"><span class="post-head-cat">Special Reports</span></a>
+																<h1 class="post-title left" itemprop="name headline">Museveni to pardon Tooro prisoner Katuramu</h1>
+																	<div id="post-info-wrap" class="left relative">
+										<div class="post-info-out">
+											<div class="post-info-img left relative">
+												<img alt='' src='http://1.gravatar.com/avatar/ab3ae204da30deef4446bd53f4aa687f?s=50&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/ab3ae204da30deef4446bd53f4aa687f?s=100&amp;d=mm&amp;r=g 2x' class='avatar avatar-50 photo' height='50' width='50' />											</div><!--post-info-img-->
+											<div class="post-info-in">
+												<div class="post-info-right left relative">
+													<div class="post-info-name left relative">
+														<span class="post-info-text">By</span> <span class="author-name vcard fn" itemprop="author"><a href="http://www.theinsider.ug/author/rogers-atukunda/" title="Posts by Our Reporter" rel="author">Our Reporter</a></span>  <span class="author-email"><a href="mailto:rogers@theinsider.ug"><i class="fa fa-envelope fa-2"></i></a></span>													</div><!--post-info-name-->
+													<div class="post-info-date left relative">
+														<span class="post-info-text">Posted on</span> <span class="post-date"><time class="post-date updated" itemprop="datePublished" datetime="2016-01-21">January 21, 2016</time></span>
+													</div><!--post-info-date-->
+												</div><!--post-info-right-->
+											</div><!--post-info-in-->
+										</div><!--post-info-out-->
+									</div><!--post-info-wrap-->
+															</header><!--post-header-->
+																		<div id="content-area" itemprop="articleBody" class="post-41405 post type-post status-publish format-standard has-post-thumbnail hentry category-special-reports tag-big-story tag-happy-kijanangoma tag-john-sanyu-katuramu tag-museveni tag-tooro">
+							<div class="post-cont-out">
+								<div class="post-cont-in">
+									<div id="content-main" class="left relative">
+
+						
+																											<section class="social-sharing-top">
+												
+
+							<div class="share-count relative">
+					<span class="soc-count-num">10</span>
+					<span class="soc-count-text">Shares</span>
+				</div><!--post-social-count-->
+			
+												<a href="#" onclick="window.open('http://www.facebook.com/sharer.php?u=http://www.theinsider.ug/museveni-to-pardon-tooro-prisoner-katuramu/&amp;t=Museveni to pardon Tooro prisoner Katuramu', 'facebookShare', 'width=626,height=436'); return false;" title="Share on Facebook"><div class="facebook-share"><span class="fb-but1"><i class="fa fa-facebook fa-2"></i></span><span class="social-text">Share</span></div></a>
+												<a href="#" onclick="window.open('http://twitter.com/share?text=Museveni to pardon Tooro prisoner Katuramu -&amp;url=http://www.theinsider.ug/museveni-to-pardon-tooro-prisoner-katuramu/', 'twitterShare', 'width=626,height=436'); return false;" title="Tweet This Post"><div class="twitter-share"><span class="twitter-but1"><i class="fa fa-twitter fa-2"></i></span><span class="social-text">Tweet</span></div></a>
+												<a href="whatsapp://send?text=Museveni to pardon Tooro prisoner Katuramu http://www.theinsider.ug/museveni-to-pardon-tooro-prisoner-katuramu/"><div class="whatsapp-share"><span class="whatsapp-but1"><i class="fa fa-whatsapp fa-2"></i></span><span class="social-text">Share</span></div></a>
+												<a href="#" onclick="window.open('http://pinterest.com/pin/create/button/?url=http://www.theinsider.ug/museveni-to-pardon-tooro-prisoner-katuramu/&amp;media=http://www.theinsider.ug/wp-content/uploads/2016/01/katuramu.jpg&amp;description=Museveni to pardon Tooro prisoner Katuramu', 'pinterestShare', 'width=750,height=350'); return false;" title="Pin This Post"><div class="pinterest-share"><span class="pinterest-but1"><i class="fa fa-pinterest-p fa-2"></i></span><span class="social-text">Share</span></div></a>
+												<a href="mailto:?subject=Museveni to pardon Tooro prisoner Katuramu&amp;BODY=I found this article interesting and thought of sharing it with you. Check it out: http://www.theinsider.ug/museveni-to-pardon-tooro-prisoner-katuramu/"><div class="email-share"><span class="email-but"><i class="fa fa-envelope fa-2"></i></span><span class="social-text">Email</span></div></a>
+																																																					<a href="#disqus_thread"><div class="social-comments comment-click-41405"><i class="fa fa-commenting fa-2"></i></div></a>
+																																				</section><!--social-sharing-top-->
+																														<div id="attachment_41406" style="width: 510px" class="wp-caption alignnone"><img class="wp-image-41406 size-full" src="http://www.theinsider.ug/wp-content/uploads/2016/01/katuramu.jpg" alt="katuramu" width="500" height="421" srcset="http://www.theinsider.ug/wp-content/uploads/2016/01/katuramu-300x253.jpg 300w, http://www.theinsider.ug/wp-content/uploads/2016/01/katuramu.jpg 500w" sizes="(max-width: 500px) 100vw, 500px" /><p class="wp-caption-text">John Sanyu Katuramu</p></div>
+<p>President Yoweri Museveni has hinted at a possibility of pardoning former Tooro Prime Minister, John Sanyu Katuramu.</p>
+<p>In January 2011, while Museveni was campaigning in Kabarole district, residents demanded that he gives Katuramu a parole citing the release of Chris Rwakasisi, another long-term convict.</p>
+<p>Katuramu was convicted and sentenced to death in 1999, for masterminding the murder of Tooro Prince Happy Kijanagoma.</p>
+<p>He unsuccessfully appealed to the Court of Appeal and Supreme Court.</p>
+<p>When Museveni asked the people what problems they want the leaders to address, they said that Katuramu should be pardoned, but Museveni remained tight- lipped on the matter.</p>
+<p>In January 2015, a Born Again Faith leader Dr. Joseph Serwadda, also appealed to President Museveni to pardon Katuramu.</p>
+<p>He said Museveni could use the presidential prerogative of mercy enshrined in the Ugandan constitution to pardon prisoners who have genuinely repented and reformed.</p>
+<p>Addressing a rally at Boma grounds in Fort Portal Municipality on Wednesday, Museveni said he would pardon Katuramu on certain conditions.</p>
+<p>“About former Tooro Prime Minister John Katuramu who is in Luzira Prison, he can only be pardoned if his family reconciles with that of late Prince Happy Kijanangoma,” Museveni said.</p>
+<p><strong>Government programmes </strong></p>
+<p>At Boma grounds, Museveni promised to support and nurture talent by building a stadium at Buhinga in Kabarole.</p>
+<p>“On the question of Fort Portal city, I will support its quest if those pushing for it incorporate surrounding villages in the plan.”</p>
+<p>He said government will continue keeping the Allied Democratic Forces rebels at bay.</p>
+<p>“Thank you and I urge the people of Tooro to maintain the strong support they have given the NRM in the past.”</p>
+<p>At an earlier rally in Kyegegwa district, Museveni said before the NRM government came into power, there was no tarmac road, it stopped in Mityana.</p>
+<p>“Now it&#8217;s near, it continues up to Fort Portal. You also have electricity.”</p>
+<p>“Regarding water, a piped system is being fixed in Kitaleesa. You have 7 Health Centre IIIs, and 7 Health Centre IIs but you don&#8217;t have a hospital. Kyegegwa will get a district hospital.”</p>
+<p>He said Kyegegwa now has 147 primary schools, 65 are government aided.</p>
+<p>There are 82 private primary schools.</p>
+<p>Museveni’s first rally was at Rwamwanja, Kibale County East in Kamwenge District.</p>
+<p>He said besides the wealth creation plan that we shall implement, the government will also construct a technical school in Kibale.</p>
+<p>“The Bible says the first shall be last and the last shall be first.”</p>
+<p>He said Kamwenge was very far from development, but now it&#8217;s going to get a very good road connecting with Fort Portal.</p>
+<p>“This should improve the economic opportunities here.”</p>
+																				<div class="posts-nav-link">
+																					</div><!--posts-nav-link-->
+																					<div class="post-tags">
+												<span class="post-tags-header">Related Items:</span><span itemprop="keywords"><a href="http://www.theinsider.ug/tag/big-story/" rel="tag">Big Story</a>, <a href="http://www.theinsider.ug/tag/happy-kijanangoma/" rel="tag">Happy kijanangoma</a>, <a href="http://www.theinsider.ug/tag/john-sanyu-katuramu/" rel="tag">John Sanyu Katuramu</a>, <a href="http://www.theinsider.ug/tag/museveni/" rel="tag">Museveni</a>, <a href="http://www.theinsider.ug/tag/tooro/" rel="tag">Tooro</a></span>
+											</div><!--post-tags-->
+																															<div class="social-sharing-bot">
+												<a href="#" onclick="window.open('http://www.facebook.com/sharer.php?u=http://www.theinsider.ug/museveni-to-pardon-tooro-prisoner-katuramu/&amp;t=Museveni to pardon Tooro prisoner Katuramu', 'facebookShare', 'width=626,height=436'); return false;" title="Share on Facebook"><div class="facebook-share"><span class="fb-but1"><i class="fa fa-facebook fa-2"></i></span><span class="social-text">Share</span></div></a>
+												<a href="#" onclick="window.open('http://twitter.com/share?text=Museveni to pardon Tooro prisoner Katuramu -&amp;url=http://www.theinsider.ug/museveni-to-pardon-tooro-prisoner-katuramu/', 'twitterShare', 'width=626,height=436'); return false;" title="Tweet This Post"><div class="twitter-share"><span class="twitter-but1"><i class="fa fa-twitter fa-2"></i></span><span class="social-text">Tweet</span></div></a>
+												<a href="whatsapp://send?text=Museveni to pardon Tooro prisoner Katuramu http://www.theinsider.ug/museveni-to-pardon-tooro-prisoner-katuramu/"><div class="whatsapp-share"><span class="whatsapp-but1"><i class="fa fa-whatsapp fa-2"></i></span><span class="social-text">Share</span></div></a>
+												<a href="#" onclick="window.open('http://pinterest.com/pin/create/button/?url=http://www.theinsider.ug/museveni-to-pardon-tooro-prisoner-katuramu/&amp;media=http://www.theinsider.ug/wp-content/uploads/2016/01/katuramu.jpg&amp;description=Museveni to pardon Tooro prisoner Katuramu', 'pinterestShare', 'width=750,height=350'); return false;" title="Pin This Post"><div class="pinterest-share"><span class="pinterest-but1"><i class="fa fa-pinterest-p fa-2"></i></span><span class="social-text">Share</span></div></a>
+												<a href="mailto:?subject=Museveni to pardon Tooro prisoner Katuramu&amp;BODY=I found this article interesting and thought of sharing it with you. Check it out: http://www.theinsider.ug/museveni-to-pardon-tooro-prisoner-katuramu/"><div class="email-share"><span class="email-but"><i class="fa fa-envelope fa-2"></i></span><span class="social-text">Email</span></div></a>
+											</div><!--social-sharing-bot-->
+																															            <div class="mvp-related-posts left relative">
+		<h4 class="post-header"><span class="post-header">Recommended for you</span></h4>
+			<ul>
+            		            			<li>
+                		<div class="mvp-related-img left relative">
+										<a href="http://www.theinsider.ug/ntv-uganda-banned-from-covering-museveni-rallies/" rel="bookmark" title="NRM bans NTV from covering museveni">
+						<img width="300" height="180" src="http://www.theinsider.ug/wp-content/uploads/2016/01/NTVUganda-300x180.jpg" class="reg-img wp-post-image" alt="NTVUganda" srcset="http://www.theinsider.ug/wp-content/uploads/2016/01/NTVUganda-450x270.jpg 450w, http://www.theinsider.ug/wp-content/uploads/2016/01/NTVUganda-300x180.jpg 300w" sizes="(max-width: 300px) 100vw, 300px" />						<img width="80" height="80" src="http://www.theinsider.ug/wp-content/uploads/2016/01/NTVUganda-80x80.jpg" class="mob-img wp-post-image" alt="NTVUganda" />					</a>
+									</div><!--related-img-->
+				<div class="mvp-related-text left relative">
+					<a href="http://www.theinsider.ug/ntv-uganda-banned-from-covering-museveni-rallies/">NRM bans NTV from covering museveni</a>
+				</div><!--related-text-->
+            			</li>
+            		            			<li>
+                		<div class="mvp-related-img left relative">
+										<a href="http://www.theinsider.ug/museveni-is-not-fit-to-lead-this-country-matembe/" rel="bookmark" title="Museveni is not fit to lead this country-Matembe">
+						<img width="300" height="180" src="http://www.theinsider.ug/wp-content/uploads/2016/01/a4da2a5e-9764-489f-afcc-d301ded545d9-300x180.jpg" class="reg-img wp-post-image" alt="a4da2a5e-9764-489f-afcc-d301ded545d9" srcset="http://www.theinsider.ug/wp-content/uploads/2016/01/a4da2a5e-9764-489f-afcc-d301ded545d9-450x270.jpg 450w, http://www.theinsider.ug/wp-content/uploads/2016/01/a4da2a5e-9764-489f-afcc-d301ded545d9-300x180.jpg 300w" sizes="(max-width: 300px) 100vw, 300px" />						<img width="80" height="80" src="http://www.theinsider.ug/wp-content/uploads/2016/01/a4da2a5e-9764-489f-afcc-d301ded545d9-80x80.jpg" class="mob-img wp-post-image" alt="a4da2a5e-9764-489f-afcc-d301ded545d9" />					</a>
+									</div><!--related-img-->
+				<div class="mvp-related-text left relative">
+					<a href="http://www.theinsider.ug/museveni-is-not-fit-to-lead-this-country-matembe/">Museveni is not fit to lead this country-Matembe</a>
+				</div><!--related-text-->
+            			</li>
+            		            			<li>
+                		<div class="mvp-related-img left relative">
+										<a href="http://www.theinsider.ug/museveni-dispatches-tumukunde-orders-arrest-of-tooro-officials/" rel="bookmark" title="Museveni dispatches Tumukunde, orders arrest of Tooro officials">
+						<img width="300" height="180" src="http://www.theinsider.ug/wp-content/uploads/2016/01/m-2-300x180.jpg" class="reg-img wp-post-image" alt="m" srcset="http://www.theinsider.ug/wp-content/uploads/2016/01/m-2-450x270.jpg 450w, http://www.theinsider.ug/wp-content/uploads/2016/01/m-2-300x180.jpg 300w" sizes="(max-width: 300px) 100vw, 300px" />						<img width="80" height="80" src="http://www.theinsider.ug/wp-content/uploads/2016/01/m-2-80x80.jpg" class="mob-img wp-post-image" alt="m" />					</a>
+									</div><!--related-img-->
+				<div class="mv
+2713
+p-related-text left relative">
+					<a href="http://www.theinsider.ug/museveni-dispatches-tumukunde-orders-arrest-of-tooro-officials/">Museveni dispatches Tumukunde, orders arrest of Tooro officials</a>
+				</div><!--related-text-->
+            			</li>
+            		</ul></div>																																																																	<div id="comments-button" class="left relative comment-click-41405 com-but-41405">
+													<span class="comment-but-text"><span class="dsq-postid" data-dsqidentifier="41405 http://www.theinsider.ug/?p=41405">Comments</span></span>
+												</div><!--comments-button-->
+												<div id="disqus_thread" class="disqus-thread-41405"></div>
+    <script type="text/javascript">
+        var disqus_shortname = "wwwtheinsiderug.disqus.com";
+        var disqus_title = "Museveni to pardon Tooro prisoner Katuramu";
+        var disqus_url = "http://www.theinsider.ug/museveni-to-pardon-tooro-prisoner-katuramu/";
+        var disqus_identifier = "wwwtheinsiderug.disqus.com-41405";
+    </script>																														</div><!--content-main-->
+								</div><!--post-cont-in-->
+															</div><!--post-cont-out-->
+						</div><!--content-area-->
+					</article>
+																			</div><!--post-left-col-->
+			</div><!--post-wrap-in1-->
+					</div><!--post-wrap-out1-->
+</div><!--post-main-wrap-->
+			<div id="prev-next-wrap">
+							<div id="prev-post-wrap">
+					<div id="prev-post-arrow" class="relative">
+						<i class="fa fa-angle-left fa-4"></i>
+					</div><!--prev-post-arrow-->
+					<div class="prev-next-text">
+						<a href="http://www.theinsider.ug/besigye-surprises-dying-police-station-enters-rotten-school/" rel="prev">Besigye surprises ‘dying’ police station, enters ‘rotten’ school</a>					</div><!--prev-post-text-->
+				</div><!--prev-post-wrap-->
+										<div id="next-post-wrap">
+					<div id="next-post-arrow" class="relative">
+						<i class="fa fa-angle-right fa-4"></i>
+					</div><!--prev-post-arrow-->
+					<div class="prev-next-text">
+						<a href="http://www.theinsider.ug/muhakanizi-orders-government-agencies-to-stop-awarding-local-contracts-in-dollars/" rel="next">Muhakanizi orders government agencies to stop awarding local contracts in dollars</a>					</div><!--prev-next-text-->
+				</div><!--next-post-wrap-->
+					</div><!--prev-next-wrap-->
+												</div><!--body-main-cont-->
+				</div><!--body-main-in-->
+			</div><!--body-main-out-->
+			<footer id="foot-wrap" class="left relative">
+				<div id="foot-top-wrap" class="left relative">
+					<div class="body-main-out relative">
+						<div class="body-main-in">
+							<div id="foot-widget-wrap" class="left relative">
+																	<div class="foot-widget left relative">
+																					<div class="foot-logo left realtive">
+												<img src="http://www.theinsider.ug/wp-content/uploads/2016/01/downlog.png" alt="theinsider.ug" />
+											</div><!--foot-logo-->
+																				<div class="foot-info-text left relative">
+											Theinsider Uganda is a news publishing website.
+We are located at Suite G25 Metroplex Shopping mall, Naalya Kampala Uganda.  info@theinsider.ug										</div><!--footer-info-text-->
+										<div class="foot-soc left relative">
+											<ul class="foot-soc-list relative">
+																									<li class="foot-soc-fb">
+														<a href="https://www.facebook.com/theinsiderug/" target="_blank"><i class="fa fa-facebook-square fa-2"></i></a>
+													</li>
+																																					<li class="foot-soc-twit">
+														<a href="https://twitter.com/TheInsiderUg" target="_blank"><i class="fa fa-twitter-square fa-2"></i></a>
+													</li>
+																																																																																																													<li class="foot-soc-rss">
+														<a href="http://www.theinsider.ug/feed/rss/" target="_blank"><i class="fa fa-rss-square fa-2"></i></a>
+													</li>
+																							</ul>
+										</div><!--foot-soc-->
+									</div><!--foot-widget-->
+																							</div><!--foot-widget-wrap-->
+						</div><!--body-main-in-->
+					</div><!--body-main-out-->
+				</div><!--foot-top-->
+				<div id="foot-bot-wrap" class="left relative">
+					<div class="body-main-out relative">
+						<div class="body-main-in">
+							<div id="foot-bot" class="left relative">
+								<div class="foot-menu relative">
+									<div class="menu-footer-first-menu-container"><ul id="menu-footer-first-menu" class="menu"><li id="menu-item-7693" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7693"><a href="http://www.theinsider.ug/sample-page/">About us</a></li>
+<li id="menu-item-7692" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7692"><a href="http://www.theinsider.ug/our-company/">Our Company</a></li>
+<li id="menu-item-7691" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7691"><a href="http://www.theinsider.ug/advertising/">Advertising</a></li>
+<li id="menu-item-7690" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7690"><a href="http://www.theinsider.ug/careers/">Careers</a></li>
+</ul></div>								</div><!--foot-menu-->
+								<div class="foot-copy relative">
+									<p>Copyright © 2016 Theinsider Uganda. Unearthing the truth</p>
+								</div><!--foot-copy-->
+							</div><!--foot-bot-->
+						</div><!--body-main-in-->
+					</div><!--body-main-out-->
+				</div><!--foot-bot-->
+			</footer>
+		</div><!--body-main-wrap-->
+	</div><!--site-wrap-->
+</div><!--site-->
+<div class="fly-to-top back-to-top">
+	<i class="fa fa-angle-up fa-3"></i>
+	<span class="to-top-text">To Top</span>
+</div><!--fly-to-top-->
+<div class="fly-fade">
+</div><!--fly-fade-->
+        <script type="text/javascript">
+        // <![CDATA[
+        var disqus_shortname = 'theinsiderug';
+        (function () {
+            var nodes = document.getElementsByTagName('span');
+            for (var i = 0, url; i < nodes.length; i++) {
+                if (nodes[i].className.indexOf('dsq-postid') != -1) {
+                    nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('data-dsqidentifier'));
+                    url = nodes[i].parentNode.href.split('#', 1);
+                    if (url.length == 1) { url = url[0]; }
+                    else { url = url[1]; }
+                    nodes[i].parentNode.href = url + '#disqus_thread';
+                }
+            }
+            var s = document.createElement('script'); 
+            s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+        // ]]>
+        </script>
+        		<script type="text/javascript">
+			jQuery(document).ready(function () {
+				jQuery("#post-right-col, #tab-col3, #tab-col2").theiaStickySidebar({"containerSelector":"#post-main-wrap, .home-main-wrap","additionalMarginTop":"","additionalMarginBottom":"","updateSidebarHeight":false,"minWidth":"0","sidebarBehavior":"modern"});
+			});
+		</script>
+	
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<script type="text/javascript">
+jQuery(document).ready(function($) {
+
+	// Back to Top Button
+    	var duration = 500;
+    	$('.back-to-top').click(function(event) {
+          event.preventDefault();
+          $('html, body').animate({scrollTop: 0}, duration);
+          return false;
+	});
+
+	// Main Menu Dropdown Toggle
+	$('.menu-item-has-children a').click(function(event){
+	  event.stopPropagation();
+	  location.href = this.href;
+  	});
+
+	$('.menu-item-has-children').click(function(){
+    	  $(this).addClass('toggled');
+    	  if($('.menu-item-has-children').hasClass('toggled'))
+    	  {
+    	  $(this).children('ul').toggle();
+	  $('.fly-nav-menu').getNiceScroll().resize();
+	  }
+	  $(this).toggleClass('tog-minus');
+    	  return false;
+  	});
+
+	// Main Menu Scroll
+	$(window).load(function(){
+	  $('.fly-nav-menu').niceScroll({cursorcolor:"#888",cursorwidth: 7,cursorborder: 0,zindex:999999});
+	});
+
+
+  	// Comments Toggle
+	  	$(".comment-click-41405").on("click", function(){
+  	  $(".com-click-id-41405").show();
+	  $(".disqus-thread-41405").show();
+  	  $(".com-but-41405").hide();
+  	});
+	
+
+$(window).load(function() {
+  // The slider being synced must be initialized first
+  $('.post-gallery-bot').flexslider({
+    animation: "slide",
+    controlNav: false,
+    animationLoop: true,
+    slideshow: false,
+    itemWidth: 80,
+    itemMargin: 10,
+    asNavFor: '.post-gallery-top'
+  });
+
+  $('.post-gallery-top').flexslider({
+    animation: "fade",
+    controlNav: false,
+    animationLoop: true,
+    slideshow: false,
+    	  prevText: "&lt;",
+          nextText: "&gt;",
+    sync: ".post-gallery-bot"
+  });
+});
+
+});
+</script>
+
+<script type='text/javascript' src='http://www.theinsider.ug/wp-includes/js/comment-reply.min.js?ver=4.4.1'></script>
+<script type='text/javascript' src='http://www.theinsider.ug/wp-content/plugins/theia-sticky-sidebar/js/theia-sticky-sidebar.js?ver=1.3.1'></script>
+<script type='text/javascript' src='http://www.theinsider.ug/wp-content/themes/flex-mag/js/scripts.js?ver=4.4.1'></script>
+<script type='text/javascript' src='http://www.theinsider.ug/wp-includes/js/wp-embed.min.js?ver=4.4.1'></script>
+<script type='text/javascript' src='http://wwwtheinsiderug.disqus.com.disqus.com/embed.js?ver=4.4.1'></script>
+</body>
+</html>
+0
+
+
+
+WARC/1.0
+WARC-Type: metadata
+WARC-Record-ID: <urn:uuid:b5a7bc35-8c50-4474-9b4b-3a4635f2e302>
+WARC-Warcinfo-ID: <urn:uuid:90d2299a-facd-4734-84c8-0f549522ea7e>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/MANIFEST.txt
+WARC-Date: 2016-01-22T02:30:28Z
+Content-Type: text/plain
+Content-Length: 48
+
+<urn:uuid:90d2299a-facd-4734-84c8-0f549522ea7e>
+
+
+WARC/1.0
+WARC-Type: resource
+WARC-Record-ID: <urn:uuid:e9d2aa37-72f4-4cdf-83e6-0ba94f1d12e6>
+WARC-Warcinfo-ID: <urn:uuid:90d2299a-facd-4734-84c8-0f549522ea7e>
+WARC-Concurrent-To: <urn:uuid:b5a7bc35-8c50-4474-9b4b-3a4635f2e302>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/wget_arguments.txt
+WARC-Date: 2016-01-22T02:30:28Z
+Content-Type: text/plain
+Content-Length: 218
+
+"--warc-file" "museveni-to-pardon-tooro-prisoner-katuramu" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "-q" "-O" "/dev/null" "http://www.theinsider.ug/museveni-to-pardon-tooro-prisoner-katuramu/" 
+
+
