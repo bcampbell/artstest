@@ -147,9 +147,39 @@ class Article:
 
             if txt1 != txt2:
                 # allow a little deviation...
-                d = distance.jaccard(txt1.split(), txt2.split())
-                if d >= 0.05:
-                    errs.append("content mismatch (jaccard dist: %.3f)" % (d,))
+
+                bi1 = bigrams(txt1)
+                bi2 = bigrams(txt2)
+
+                # filter out bigrams containing whitespace
+                bi1 = [ bi for bi in bi1 if bi[0]!= ' ' and bi[1] != ' ' ]
+                bi2 = [ bi for bi in bi2 if bi[0]!= ' ' and bi[1] != ' ' ]
+                s1 = set(bi1)
+                s2 = set(bi2)
+
+                # dice coeffcient (0=similar, 1=dissimilar)
+                dice = 1.0 - ( 2.0*float(len(s1.intersection(s2))) ) / float(len(s1) + len(s2))
+
+                # if got is a subset of expected, then we're a lot more forgiving.
+                # It's OK to scrape a bit of extra cruft as long as we've got the text covered...
+                if s2.issubset(s1):
+                    if dice >= 0.05:
+                        errs.append("content mismatch - extra cruft (dice coefficient %.4f)" % (dice,))
+                else:
+                    if dice >= 0.0001:
+                        errs.append("content mismatch - missing text (dice coefficient %.4f)" % (dice,))
+
+
+
+
+                #d = distance.jaccard(txt1.split(), txt2.split())
+                #if d >= 0.05:
+                #    errs.append("content mismatch (jaccard dist: %.3f)" % (d,))
+
+                #d = dicenum(txt1,txt2)
+                #if d >= 0.005:
+                #    errs.append("content mismatch (dice index: %.3f)" % (d,))
+
 
 
                 # is the expected stuff there?
@@ -271,6 +301,37 @@ def render_text(el):
     if el.tag=='br' or tag not in inline_tags:
         txt += u"\n";
     return txt
+
+
+
+def bigrams(txt):
+    """ split a string into bigrams """
+    out = []
+    if len(txt) <2:
+        return[]
+
+    prev = txt[0]
+    for ch in txt[1:]:
+        out.append( prev + ch )
+        prev=ch
+
+    return out
+
+
+def dicenum(txt1 , txt2):
+    """ returns Sorensen-Dice index in range 0 (similar) to 1 (dissimilar) """
+
+    out1 = bigrams(txt1)
+    out2 = bigrams(txt2)
+    # filter out bigrams containing whitespace
+    out1 = [ bi for bi in out1 if bi[0]!= ' ' and bi[1] != ' ' ]
+    out2 = [ bi for bi in out2 if bi[0]!= ' ' and bi[1] != ' ' ]
+    s1 = set(out1)
+    s2 = set(out2)
+
+    return 1.0 - ( 2.0*float(len(s1.intersection(s2))) ) / float(len(s1) + len(s2))
+
+
 
 
 if __name__ == "__main__":
