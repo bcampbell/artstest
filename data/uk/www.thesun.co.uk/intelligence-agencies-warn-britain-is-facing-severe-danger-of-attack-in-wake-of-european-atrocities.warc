@@ -1,0 +1,2909 @@
+WARC/1.0
+WARC-Type: warcinfo
+Content-Type: application/warc-fields
+WARC-Date: 2016-07-26T22:22:40Z
+WARC-Record-ID: <urn:uuid:427d6d60-bd4d-49e7-aa78-94694e6665f3>
+WARC-Filename: intelligence-agencies-warn-britain-is-facing-severe-danger-of-attack-in-wake-of-european-atrocities.warc
+Content-Length: 525
+
+software: Wget/1.17.1 (linux-gnu)
+format: WARC File Format 1.0
+conformsTo: http://bibnum.bnf.fr/WARC/WARC_ISO_28500_version1_latestdraft.pdf
+robots: classic
+wget-arguments: "--warc-file" "intelligence-agencies-warn-britain-is-facing-severe-danger-of-attack-in-wake-of-european-atrocities" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "-q" "-O" "/dev/null" "https://www.thesun.co.uk/news/1506388/intelligence-agencies-warn-britain-is-facing-severe-danger-of-attack-in-wake-of-european-atrocities/" 
+
+
+
+WARC/1.0
+WARC-Type: request
+WARC-Target-URI: https://www.thesun.co.uk/news/1506388/intelligence-agencies-warn-britain-is-facing-severe-danger-of-attack-in-wake-of-european-atrocities/
+Content-Type: application/http;msgtype=request
+WARC-Date: 2016-07-26T22:22:40Z
+WARC-Record-ID: <urn:uuid:dad4509f-5f56-40a5-b351-504717a233ba>
+WARC-IP-Address: 192.0.66.2
+WARC-Warcinfo-ID: <urn:uuid:427d6d60-bd4d-49e7-aa78-94694e6665f3>
+Content-Length: 256
+
+GET /news/1506388/intelligence-agencies-warn-britain-is-facing-severe-danger-of-attack-in-wake-of-european-atrocities/ HTTP/1.1
+User-Agent: Wget/1.17.1 (linux-gnu)
+Accept: */*
+Accept-Encoding: identity
+Host: www.thesun.co.uk
+Connection: Keep-Alive
+
+
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <urn:uuid:99d2de67-fe8f-4480-a576-7d7255e42d5d>
+WARC-Warcinfo-ID: <urn:uuid:427d6d60-bd4d-49e7-aa78-94694e6665f3>
+WARC-Concurrent-To: <urn:uuid:dad4509f-5f56-40a5-b351-504717a233ba>
+WARC-Target-URI: https://www.thesun.co.uk/news/1506388/intelligence-agencies-warn-britain-is-facing-severe-danger-of-attack-in-wake-of-european-atrocities/
+WARC-Date: 2016-07-26T22:22:40Z
+WARC-IP-Address: 192.0.66.2
+WARC-Block-Digest: 
+WARC-Payload-Digest: �v
+Content-Type: application/http;msgtype=response
+Content-Length: 162496
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 26 Jul 2016 22:22:40 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-hacker: If you're reading this, you should visit automattic.com/jobs and apply to join the fun, mention this header.
+Content-Security-Policy-Report-Only: default-src https:; script-src 'unsafe-inline' 'unsafe-eval' https:; style-src 'unsafe-inline' https:; img-src data: https:; font-src data: https:; object-src https:; frame-ancestors https:; form-action 'self'; reflected-xss block; report-uri https://newsunweb.report-uri.io/r/default/csp/reportOnly;
+Link: <https://www.thesun.co.uk/wp-json/>; rel="https://api.w.org/"
+Link: <https://wp.me/p7ygYG-6jSA>; rel=shortlink
+X-rq: syd1 87 198 3083
+Cache-Control: max-age=300, must-revalidate
+Age: 624
+X-Cache: hit
+Vary: Accept-Encoding
+Accept-Ranges: bytes
+Strict-Transport-Security: max-age=31536000;
+
+8000
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(e,n){return function(){o(e,[(new Date).getTime()].concat(a(arguments)),null,n)}}var o=e("handle"),i=e(2),a=e(3);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var c=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],u=["addPageAction"],f="api-";i(c,function(e,n){newrelic[n]=r(f+n,"api")}),i(u,function(e,n){newrelic[n]=r(f+n)}),n.exports=newrelic,newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),o("err",[e,(new Date).getTime()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?c(e,a,i):i()}function t(t,r,o){e&&e(t,r,o);for(var i=n(o),a=l(t),c=a.length,u=0;c>u;u++)a[u].apply(i,r);var s=f[m[t]];return s&&s.push([w,t,r,i]),i}function p(e,n){g[e]=l(e).concat(n)}function l(e){return g[e]||[]}function d(e){return s[e]=s[e]||o(t)}function v(e,n){u(e,function(e,t){n=n||"feature",m[t]=n,n in f||(f[n]=[])})}var g={},m={},w={on:p,emit:t,get:d,listeners:l,context:n,buffer:v};return w}function i(){return new r}var a="nr@context",c=e("gos"),u=e(2),f={},s={},p=n.exports=o();p.backlog=f},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!b++){var e=y.info=NREUM.info,n=s.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){u(m,function(n,t){e[n]||(e[n]=t)});var t="https"===g.split(":")[0]||e.sslForHttp;y.proto=t?"https://":"http://",c("mark",["onload",a()],null,"api");var r=s.createElement("script");r.src=y.proto+e.agent,n.parentNode.insertBefore(r,n)}}}function o(){"complete"===s.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=e("handle"),u=e(2),f=window,s=f.document,p="addEventListener",l="attachEvent",d=f.XMLHttpRequest,v=d&&d.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:d,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},e(1);var g=""+location,m={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-952.min.js"},w=d&&v&&v[p]&&!/CriOS/.test(navigator.userAgent),y=n.exports={offset:a(),origin:g,features:{},xhrWrappable:w};s[p]?(s[p]("DOMContentLoaded",i,!1),f[p]("load",r,!1)):(s[l]("onreadystatechange",o),f[l]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader"]);</script>
+		<script>
+		if(navigator.userAgent.match(/iPad/i) != null && window.matchMedia("(max-resolution: 264dpi)").matches) {
+			document.write('<meta name="viewport" content="maximum-scale=1.0, width=1024">');
+		} else {
+			document.write('<meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no, width=device-width">');
+		}
+	</script>
+	<title>Intelligence agencies warn Britain is facing &#8216;severe&#8217; danger of attack in wake of European atrocities &#8211; The Sun</title>
+<!-- Jetpack Site Verification Tags -->
+<meta name="google-site-verification" content="1kUdMqtWsmgPfRFFA8CRpoL5p_1uAey_x-tuKP6zaO0" />
+<link rel="alternate" type="application/rss+xml" title="The Sun &raquo; Feed" href="https://www.thesun.co.uk/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Sun &raquo; Comments Feed" href="https://www.thesun.co.uk/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Sun &raquo; Intelligence agencies warn Britain is facing &#8216;severe&#8217; danger of attack in wake of European atrocities Comments Feed" href="https://www.thesun.co.uk/news/1506388/intelligence-agencies-warn-britain-is-facing-severe-danger-of-attack-in-wake-of-european-atrocities/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"https:\/\/www.thesun.co.uk\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.3"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='all-css-0' href='https://www.thesun.co.uk/_static/??/wp-content/themes/thesun/css/swiper.min.css,/wp-content/themes/thesun/css/style.css?m=1468584497' type='text/css' media='all' />
+<link rel='stylesheet' id='thesun-fonts-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A400%2C500%2C700%7CRoboto+Slab&#038;ver=4.5.3' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.thesun.co.uk/wp-content/plugins/livefyre-apps/assets/js/lfapps.js?m=1465242728g'></script>
+<script type='text/javascript' src='https://cdn.livefyre.com/Livefyre.js?ver=1.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thesun_googletag = {"networkID":"3048","dfpSiteID":"d.thesun","sectionID":"news\/uknews","path":"\/news\/1506388\/intelligence-agencies-warn-britain-is-facing-severe-danger-of-attack-in-wake-of-european-atrocities\/","sec_id":"327","sec":"art","topics":"government,terror,terrorism,uk","kw":"intelligence,agencies,warn,britain,is,facing,\u2018severe\u2019,danger,of,attack,in,wake,european,atrocities,by,scarlet,howes,seriousness,threat,was,highlighted,a,hearing,intended,to,protect,the,privacy,uk,citizens',amid,warnings,spooks',terror,warning,news,uknews","aid":"1506388","search":"null","article_type":"post","hide_ads":"","article_slug":"null"};
+var utag_data = {"page_site_name":"the sun","page_site_region":"uk","page_restrictions":"public","page_name":"article: Intelligence agencies warn Britain is facing 'severe' danger of attack in wake of European atrocities","page_section":"News","page_section_id":"316","page_type":"article","article_name":"Intelligence agencies warn Britain is facing 'severe' danger of attack in wake of European atrocities","article_publish_timestamp":"2016\/07\/26 18:15 Tuesday","article_id":"1506388","article_author":"By SCARLET HOWES","article_id_type":"wordpress","article_tag_name":"","page_tags":"Terrorism,terror,Government","article_publish_latest":"2016\/07\/26 18:46 Tuesday","article_name_latest":"Intelligence agencies warn Britain is facing \u2018severe\u2019 danger of attack in wake of European atrocities","article_kicker_name":"SPOOKS' TERROR ATTACK WARNING"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.thesun.co.uk/_static/??-eJzTLy/QTc7PK0nNK9EvyUjNTS0GUcWlefpZxfqeuYnpqUV6WcU6+viUpafmpRZlJhNUl5GamAJUZJ9ra2hiZmppZGRgbpQFADnnLnM='></script>
+<script type='text/javascript' data-lf-domain="thesun.fyre.co" src='//cdn.livefyre.com/libs/commentcount/v1.0/commentcount.js'></script>
+<script type='text/javascript' async="async" src='https://widgets.outbrain.com/outbrain.js'></script>
+<script type='text/javascript' async="async" src='https://video.unrulymedia.com/native/native-loader.js'></script>
+<link rel='https://api.w.org/' href='https://www.thesun.co.uk/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.thesun.co.uk/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.thesun.co.uk/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.5.3" />
+<link rel="canonical" href="https://www.thesun.co.uk/news/1506388/intelligence-agencies-warn-britain-is-facing-severe-danger-of-attack-in-wake-of-european-atrocities/" />
+<link rel='shortlink' href='https://wp.me/p7ygYG-6jSA' />
+<link rel="alternate" type="application/json+oembed" href="https://www.thesun.co.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.thesun.co.uk%2Fnews%2F1506388%2Fintelligence-agencies-warn-britain-is-facing-severe-danger-of-attack-in-wake-of-european-atrocities%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.thesun.co.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.thesun.co.uk%2Fnews%2F1506388%2Fintelligence-agencies-warn-britain-is-facing-severe-danger-of-attack-in-wake-of-european-atrocities%2F&#038;format=xml" />
+
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+<link rel='dns-prefetch' href='//v0.wordpress.com'>
+<style type='text/css'>img#wpstats{display:none}</style>	<script type="text/javascript">
+		/* Naytev */
+		!function (n, a, y, t, e, v, s) {
+			var globalNameSpace = "GlobalNaytevNamespace";
+			n[e] || (n[globalNameSpace] = n[globalNameSpace] || [], n[globalNameSpace].push(e), n[e] = function () {
+				(n[e].q = n[e].q || []).push(arguments)
+			}, n[e].q = n[e].q || [], v = a.createElement(y), s = a.getElementsByTagName(y)[0], v.async = 1, v.src = t, s.parentNode.insertBefore(v, s))
+		}(window, document, "script", "https://embed.naytevcdn.com/prod/naytev.min.js", "naytev");
+		naytev( "create", "wdmi5cr2b549bchs9czn4otlnd6jnrh0" );
+
+		/* Tealium */
+		(function(a, b, c, d) {
+			a = "https://tags.tiqcdn.com/utag/newsinternational/thesun.2016.web/prod/utag.js";
+			b = document;
+			c = 'script';
+			d = b.createElement(c);
+			d.src = a;
+			d.type = 'text/java' + c;
+			d.async = true;
+			a = b.getElementsByTagName(c)[0];
+			a.parentNode.insertBefore(d, a);
+		})();
+	</script>
+	<link rel="amphtml" href="https://www.thesun.co.uk/news/1506388/intelligence-agencies-warn-britain-is-facing-severe-danger-of-attack-in-wake-of-european-atrocities/amp/" />
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Intelligence agencies warn Britain is facing &#8216;severe&#8217; danger of attack in wake of European atrocities" />
+<meta property="og:url" content="https://www.thesun.co.uk/news/1506388/intelligence-agencies-warn-britain-is-facing-severe-danger-of-attack-in-wake-of-european-atrocities/" />
+<meta property="og:description" content="A TERROR attack in the UK is “highly likely” following the recent atrocities in Europe, security services have warned. Earlier this year, it was revealed that authorities have disrupted seven plots…" />
+<meta property="article:published_time" content="2016-07-26T17:15:43+00:00" />
+<meta property="article:modified_time" content="2016-07-26T17:46:44+00:00" />
+<meta property="og:site_name" content="The Sun" />
+<meta property="og:image" content="https://www.thesun.co.uk/wp-content/uploads/2016/07/nintchdbpict000254663000.jpg" />
+<meta property="og:image:width" content="4791" />
+<meta property="og:image:height" content="3194" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:card" content="summary" />
+<link rel="icon" href="https://www.thesun.co.uk/wp-content/uploads/2016/04/icon-e1459786005667.png?w=32" sizes="32x32" />
+<link rel="icon" href="https://www.thesun.co.uk/wp-content/uploads/2016/04/icon-e1459786005667.png?w=192" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://www.thesun.co.uk/wp-content/uploads/2016/04/icon-e1459786005667.png?w=180" />
+<meta name="msapplication-TileImage" content="https://www.thesun.co.uk/wp-content/uploads/2016/04/icon-e1459786005667.png?w=270" />
+</head>
+
+<body class="single single-post postid-1506388 single-format-standard">
+
+<div class="mobile-top-cover"></div>
+
+<div class="sun-container theme-news">	<div class="sun-newsuk">
+
+		<div class="close open-newsuk for-mobile"></div>
+
+		<div class="sun-row">
+
+			<div class="col sun-col-6">
+
+				<div class="panel panel--slim">
+					<div class="panel--slim-left">
+						<p>News Corp is a network of leading companies in the worlds of diversified media, news, education, and information services.</p>
+					</div>
+					<div class="panel--slim-right">
+						<h3 class="panel__title">Follow The Sun</h3>
+
+						<div class="follow-sun">
+							<a href="https://www.facebook.com/thesun/" class="follow-facebook"><span class="icon icon-facebook"></span></a>
+							<a href="https://twitter.com/thesun?lang=en-gb" class="follow-twitter"><span class="icon icon-twitter"></span></a>
+						</div>
+					</div>
+				</div>
+
+				<div class="panel for-mobile">
+					<h3 class="panel__title">Your Sun</h3>
+					<ul class="no-columns">
+						<li class="sign-in">
+							<a href="https://login.thesun.co.uk">Sign in</a>
+						</li>
+					</ul>
+				</div>
+
+				<div class="panel for-mobile">
+					<h3 class="panel__title">Editions</h3>
+					<ul class="no-columns">
+						<li>
+							<a href="http://www.thescottishsun.co.uk">Sun Scotland</a>
+						</li>
+						<li>
+							<a href="http://www.thesun.ie">Sun Ireland</a>
+						</li>
+					</ul>
+				</div>
+
+				<div class="panel">
+					<h3 class="panel__title">The Sun</h3>
+					<ul id="menu-service-menu" class="menu"><li id="menu-item-1196700" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1196700"><a href="http://www.thescottishsun.co.uk">The Scottish Sun</a></li>
+<li id="menu-item-1196701" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1196701"><a href="http://www.thesun.ie">The Irish Sun</a></li>
+<li id="menu-item-1196685" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1196685"><a href="https://www.dreamteamfc.com/">Dream Team</a></li>
+<li id="menu-item-1235282" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1235282"><a href="http://perks.thesun.co.uk/">Sun Perks</a></li>
+<li id="menu-item-1235296" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1235296"><a href="http://www.thesun.co.uk/fabulous">Fabulous</a></li>
+<li id="menu-item-1235283" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1235283"><a href="http://www.sunbingo.co.uk/">Sun Bingo</a></li>
+<li id="menu-item-1235284" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1235284"><a href="http://www.sunmotors.co.uk/">Sun Motors</a></li>
+<li id="menu-item-1235315" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1235315"><a href="http://thesun.inthepaper.co.uk/">Sun Gifts</a></li>
+<li id="menu-item-1235287" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1235287"><a href="http://jobs.thesun.co.uk/">Jobs</a></li>
+</ul>				</div>
+
+				<div class="panel panel--half">
+					<h3 class="panel__title">News Corp</h3>
+					<ul id="menu-news-corp-service-menu" class="menu"><li id="menu-item-1196677" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1196677"><a href="http://www.wsj.com/">WSJ.com</a></li>
+<li id="menu-item-1196678" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1196678"><a href="http://nypost.com/">New York Post</a></li>
+<li id="menu-item-1196679" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1196679"><a href="http://www.theaustralian.com.au/">The Australian</a></li>
+<li id="menu-item-1196680" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1196680"><a href="http://www.news.com.au/">News.com.au</a></li>
+<li id="menu-item-1196681" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1196681"><a href="https://storyful.com/">Storyful</a></li>
+<li id="menu-item-1196682" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1196682"><a href="https://www.harpercollins.co.uk/">Harper Collins</a></li>
+<li id="menu-item-1196683" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1196683"><a href="http://www.realtor.com/">Realtor.com</a></li>
+</ul>				</div>
+
+				<div class="panel panel--half panal--services">
+					<h3 class="panel__title">Services</h3>
+		            <ul id="menu-footer" class="menu"><li id="menu-item-1236019" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1236019"><a href="https://www.thesun.co.uk/sign-up-to-the-sun/">Sign Up To The Sun</a></li>
+<li id="menu-item-1235852" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1235852"><a href="https://www.thesun.co.uk/terms-and-conditions/">Terms and Conditions</a></li>
+<li id="menu-item-1235452" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1235452"><a href="https://www.thesun.co.uk/editorial-complaints/">Editorial Complaints</a></li>
+<li id="menu-item-1237807" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1237807"><a href="https://www.thesun.co.uk/topic/clarifications/">Clarifications and Corrections</a></li>
+<li id="menu-item-1235451" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1235451"><a href="https://www.thesun.co.uk/syndication/">Syndication</a></li>
+<li id="menu-item-1388523" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1388523"><a href="http://www.newsukadvertising.co.uk">Advertising</a></li>
+<li id="menu-item-1235453" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1235453"><a href="https://www.thesun.co.uk/contact-us/">Contact Us</a></li>
+<li id="menu-item-1235319" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1235319"><a href="http://help.thesun.co.uk/">Help Hub</a></li>
+</ul>				</div>
+
+				<span class="sun-newsuk__button open-newsuk">The Sun, A News UK Company <span class="icon icon-arrow-down icon-arrow-down--dark"></span></span>
+
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class="sun-header-bg">
+		<span class="sun-header-bg-color"></span>
+		<div class="back-to-top">
+			<span class="icon icon-back-to-top"></span>
+			<span class="text-top">TOP</span>
+		</div>
+	</div>
+
+	<div class="sun-row sun-header--wrap">
+
+		<div class="col sun-col-2 no-gutters logo">
+			<a href="#" class="mobile-search toggle-mobile-search"><span class="icon icon-search"></span></a>
+
+			<div id="logo"><a href="/"></a></div>
+
+			<div class="mobile-toggles open-newsuk">
+				<div class="mobile-toggle"></div>
+				<div class="mobile-toggle"></div>
+				<div class="mobile-toggle"></div>
+			</div>
+		</div>
+
+		<div class="col sun-col-2 no-gutters weather">
+			<div class="weather-icon"></div>
+
+			<div class="weather-content">
+				<div class="place open-popup-box"><span class="place-inner">London</span> <span class="icon icon-arrow-down"></span></div>
+				<div class="popup-box">
+					<span class="popup-box--close"></span>
+
+					<h3>Set your weather</h3>
+
+					<form action="">
+						<div class="input-text-wrap">
+							<input type="text" placeholder="Search for town" />
+						</div>
+
+						<div class="suggestions"></div>
+					</form>
+				</div>
+
+				<div class="temps">
+					<div class="temp now">
+						<span class="nowTitle">Now</span>
+						<span class="nowTemp">0&deg;C</span>
+					</div>
+					<div class="temp later">
+						<span class="laterTitle">9pm</span>
+						<span class="laterTemp">0&deg;C</span>
+					</div>
+				</div>
+
+			</div>
+		</div>
+
+		<div class="col sun-col-2 no-gutters follow">
+
+			<div class="sign-in">
+				<a href="https://login.thesun.co.uk">Sign in <span class="icon icon-avatar"></span></a>
+			</div>
+
+			<div class="edition">
+				<a href="#" class="open-popup-box">UK Edition <span class="icon icon-arrow-down"></span></a>
+
+				<div class="popup-box">
+					<span class="popup-box--close"></span>
+
+					<ul>
+						<li><a href="http://www.thescottishsun.co.uk/">Scottish Sun</a></li>
+						<li><a href="http://www.thesun.ie/">The Irish Sun</a></li>
+					</ul>
+				</div>
+			</div>
+
+			<div class="search-bar">
+				<a href="#" class="open-popup-box">Search <span class="icon icon-search"></span></a>
+
+				<div class="popup-box">
+					<span class="popup-box--close"></span>
+
+					<form action="https://www.thesun.co.uk/">
+						<input type="text" placeholder="Search The Sun" name="s" />
+						<input type="submit" value="Search" />
+					</form>
+				</div>
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class="sun-row sun-header--search">
+
+		<div class="col sun-col-6 no-gutters">
+
+			<a href="#" class="close-search toggle-mobile-search"><span class="icon icon-close"></span></a>
+
+			<form action="https://www.thesun.co.uk/">
+				<input type="text" placeholder="Search The Sun" name="s" />
+			</form>
+
+		</div>
+
+	</div>
+
+	<div class="sun-row sun-header--nav">
+
+		<div class="sun-nav-heavy-rule"></div>
+
+		<div id="logo-mini"><a href="/"></a></div>
+
+		<div class="col sun-col-6 no-gutters swiper-container sun-header--nav-wrap">
+			<ul id="sun-menu" class="sun-menu swiper-wrapper"><li id="menu-item-1196686" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1196686 swiper-slide theme-main"><a href="https://www.thesun.co.uk/">Home</a></li>
+<li id="menu-item-1196675" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1196675 swiper-slide theme-football"><a href="https://www.thesun.co.uk/sport/football/">Football</a></li>
+<li id="menu-item-1196672" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1196672 swiper-slide theme-sport"><a href="https://www.thesun.co.uk/sport/">Sport</a></li>
+<li id="menu-item-1196674" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1196674 swiper-slide theme-showbiz"><a href="https://www.thesun.co.uk/tvandshowbiz/">TV &amp; Showbiz</a></li>
+<li id="menu-item-1196673" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1196673 swiper-slide theme-living"><a href="https://www.thesun.co.uk/living/">Living</a></li>
+<li id="menu-item-1196671" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-1196671 swiper-slide theme-news active"><a href="https://www.thesun.co.uk/news/">News</a></li>
+<li id="menu-item-1196806" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1196806 swiper-slide theme-videos"><a href="https://www.thesun.co.uk/videos">Videos</a></li>
+</ul>
+			<div class="swiper-button-prev">
+				<span class="icon icon-arrow-left"></span>
+			</div>
+			<div class="swiper-button-next">
+				<span class="icon icon-arrow-right"></span>
+			</div>
+		</div>
+
+	</div>
+
+<div class="sub-nav__mobile-head theme__background-color">
+	<span class="sub-nav__mobile-head-text">All News</span> <span class="icon icon-arrow-circled-down"></span>
+</div>
+
+<section class="sun-container sub-nav__container theme__background-color">
+	<div class="sun-row no-gutters">
+		<div class="col sun-col-6 no-gutters">
+			<div class="sub-nav">
+
+				<div class="swiper-container theme-news-secondary">
+
+					<ul class="swiper-wrapper sub-nav__list">
+						<li class=" sub-nav__item swiper-slide theme__copy-color theme__border-color theme--secondary__background-before-color theme--secondary__background-color-mobile">							<a href="https://www.thesun.co.uk/news/" class="theme--secondary__border-color">
+								All News							</a>
+						</li>
+						<li class="active sub-nav__item swiper-slide theme__copy-color theme__border-color theme--secondary__background-before-color theme--secondary__background-color-mobile">								<a href="https://www.thesun.co.uk/news/uknews/" class="theme--secondary__border-color">
+									UK News								</a>
+							</li>
+						<li class=" sub-nav__item swiper-slide theme__copy-color theme__border-color theme--secondary__background-before-color theme--secondary__background-color-mobile">								<a href="https://www.thesun.co.uk/news/worldnews/" class="theme--secondary__border-color">
+									World News								</a>
+							</li>
+						<li class=" sub-nav__item swiper-slide theme__copy-color theme__border-color theme--secondary__background-before-color theme--secondary__background-color-mobile">								<a href="https://www.thesun.co.uk/news/politics/" class="theme--secondary__border-color">
+									Politics								</a>
+							</li>
+						<li class=" sub-nav__item swiper-slide theme__copy-color theme__border-color theme--secondary__background-before-color theme--secondary__background-color-mobile">								<a href="https://www.thesun.co.uk/news/techandscience/" class="theme--secondary__border-color">
+									Tech and science								</a>
+							</li>
+						<li class=" sub-nav__item swiper-slide theme__copy-color theme__border-color theme--secondary__background-before-color theme--secondary__background-color-mobile">								<a href="https://www.thesun.co.uk/news/money-news/" class="theme--secondary__border-color">
+									Money								</a>
+							</li>
+						<li class=" sub-nav__item swiper-slide theme__copy-color theme__border-color theme--secondary__background-before-color theme--secondary__background-color-mobile">								<a href="https://www.thesun.co.uk/news/opinion/" class="theme--secondary__border-color">
+									Opinion								</a>
+							</li>
+											</ul><!-- .swiper-wrapper .sub-nav__list -->
+
+					<div class="swiper-button-prev theme--secondary__background-before-color theme__background-color swiper-button-disabled">
+						<span class="icon icon-arrow-left icon-arrow-left-white theme__background-color"></span>
+					</div>
+
+					<div class="swiper-button-next theme--secondary__background-before-color theme__background-color">
+						<span class="icon icon-arrow-right icon-arrow-right-white theme__background-color"></span>
+					</div>
+
+				</div><!-- .swiper-container .{theme-slug}-secondary -->
+
+			</div><!-- .sub-nav -->
+		</div><!-- .col .sun-col-6 .no-gutters -->
+	</div><!-- sun-row .no-gutters -->
+</section><!-- .sun-container .sub-nav__container .theme__background-color -->
+
+	<div class="main-content-wrap theme-main has-section-nav">
+
+		
+		
+<div class="billboard">
+	<div class="sun-row">
+		<div class="col sun-col-6">
+							<div class="dfp-ad" id="billboard">
+					<script type="text/javascript">
+						document.addEventListener('DOMContentLoaded', function () {
+							googletag.cmd.push( function() {
+								googletag.display( 'billboard' );
+							} );
+						});
+					</script>
+				</div>
+					</div>
+	</div>
+</div>
+
+		<section class="sun-container__article-section theme-news">
+			
+				<div class="sun-row">
+										<div class="col sun-col-4">
+
+														<article class="article">
+
+								
+<header class="article__header">
+	<div class="article__strapline">
+	</div>
+
+		<h1 class="article__headline">
+					<span class="article__kicker theme__copy-color">SPOOKS&#039; TERROR ATTACK WARNING</span>
+		
+		Intelligence agencies warn Britain is facing &#8216;severe&#8217; danger of attack in wake of European atrocities	</h1>
+	
+		<div class="article__subdeck theme__border-color">
+		<p>Seriousness of threat was highlighted in a hearing intended to protect the privacy of UK citizens&#039; amid warnings of attack</p>
+	</div>
+	</header><!-- .article__header -->
+
+<div class="article__meta">
+	
+	<div class="article__name-date">
+					<div class="article__author theme__copy-color">
+				<span class="article__author-name theme__copy-color">
+					By SCARLET HOWES				</span>
+			</div>
+		
+		<div class="article__published">
+							<span>26th July 2016, 6:15 pm</span>
+					</div>
+	</div>
+</div><!-- .article__meta -->
+
+<div class="social social--article">
+
+		<div class="article-social__meta article-social__meta--comment-count-mobile">
+		<div class="article-social__share-icon">
+			<a href="#comments">
+				<svg class="article-data__svg article-comment" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="886.2 203.6 42.7 40.4" enable-background="new 886.2 203.6 42.7 40.4" xml:space="preserve">
+					<path fill="#EAEEEF" d="M886.2,203.6v40.4h42.7v-40.4H886.2z M926.9,233.7c0,0.9-0.7,1.6-1.6,1.6h-19.5l-5.3,6.4
+					c-0.2,0.3-0.5,0.4-0.9,0.4c-0.3,0-0.7-0.1-0.9-0.4l-5.3-6.4h-3.6c-0.9,0-1.6-0.7-1.6-1.6v-26.4c0-0.9,0.7-1.6,1.6-1.6h35.4
+					c0.9,0,1.6,0.7,1.6,1.6V233.7z"/>
+				</svg>
+
+				<div class="article-social__share-no">
+					<div class="share-no-amount theme__copy-color livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="1506388"></div>
+				</div>
+			</a>
+		</div>
+	</div>
+
+		<div class="article-social__meta article-social__meta--share-count">
+		<div class="article-social__share-icon">
+			<a href="">
+				<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+					<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+					L7038.1,4038.5z" />
+				</svg>
+			</a>
+		</div>
+		<div class="article-social__share-no" data-url="https://www.thesun.co.uk/news/1506388/intelligence-agencies-warn-britain-is-facing-severe-danger-of-attack-in-wake-of-european-atrocities/">
+			<a href="">
+				<div class="share-no-amount theme__copy-color">
+				</div>
+				<div class="share-no-name">
+					Shares
+				</div>
+			</a>
+		</div>
+	</div>
+
+		<div data-naytev-share-horizontal></div>
+
+		<div class="article-social__meta article-social__meta--comment-count">
+		<div class="article-social__share-icon">
+			<a href="#comments">
+				<svg class="article-data__svg article-comment" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5796.3 2189.3 2024.7 1916.8" enable-background="new 5796.3 2189.3 2024.7 1916.8" xml:space="preserve">
+					<path fill="#E92129" d="M7740.1,2189.3H5877.3c-40.5,0-81,40.5-81,81v1390.3c0,40.5,40.5,81,81,81h189l283.5,337.5
+					c13.5,13.5,27,27,40.5,27c13.5,0,40.5-13.5,40.5-27l283.5-337.5H7740c40.5,0,81-40.5,81-81V2270.3
+					C7821,2229.8,7780.5,2189.3,7740.1,2189.3z M7362.1,3377.1H6255.2c-27,0-40.5-27-40.5-54s27-54,40.5-54h1106.9c27,0,40.5,27,40.5,54
+					S7389.1,3377.1,7362.1,3377.1z M7362.1,3026.2H6255.2c-27,0-40.5-27-40.5-54s27-54,40.5-54h1106.9c27,0,40.5,27,40.5,54
+					S7389.1,3026.2,7362.1,3026.2z M7362.1,2675.2H6255.2c-27,0-40.5-27-40.5-54s27-54,40.5-5
+8000
+4h1106.9c27,0,40.5,27,40.5,54S7389.1,2675.2,7362.1,2675.2z" />
+				</svg>
+			</a>
+		</div>
+
+		<div class="article-social__share-no">
+			<div class="share-no-amount theme__copy-color livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="1506388">
+			</div>
+			<div class="share-no-name">Comments</div>
+		</div>
+	</div>
+
+</div><!-- .social social--article -->
+								<div class="article__content">
+									<p class="article__content article__content--intro">A TERROR attack in the UK is “highly likely” following the <a href="https://www.thesun.co.uk/news/1503398/isis-terror-two-knife-attackers-beheaded-priest-two-nuns-taken-prisoner-by-knife-attackers-in-french-church-rouvray-rouen-hostage-attack-filmed-by-terrorists/">recent atrocities in Europe</a>, security services have warned.</p>
+<p>Earlier this year, it was revealed that authorities have disrupted seven plots in the UK in the last 18 months.</p>
+<figure class="article__media">
+	<div class="article__media-img-container open-gallery" data-index="0">
+
+		<a href=""><img class="wp-image-1506568 size-thesun-article-image" src="https://www.thesun.co.uk/wp-content/uploads/2016/07/nintchdbpict000254663123.jpg?w=960" alt="Whitehall As U.K. Prime Minister Theresa May Puts Her Stamp On The Government" width="960" height="640" /></a>
+
+				<div class="article__credit">
+			Getty Images		</div>
+		
+				<div class="article__gallery-count theme__background-color-rgba-80">
+			<a href=""><span class="article__gallery-count-value theme__copy-color">4</span></a>
+		</div>
+			</div>
+
+		<figcaption class="article__media-caption">
+		A terror attack in the UK is &#8216;highly likely&#8217; after incidents in Europe	</figcaption>
+	</figure>
+
+<p>Authorities are &#8220;working tirelessly&#8221; to confront the terrorist threat, the country&#8217;s most senior counter-terrorism officer has said.</p>
+<p>Assistant Commissioner Mark Rowley said Scotland Yard is &#8220;constantly testing&#8221; the preparedness to respond to an attack.</p>
+<p>However, security agency MI5, which sets the threat level, says the risk to Brits has developed significantly in wake of the attacks in Europe.</p>
+<p>In the last month alone ISIS has claimed responsibility for <a href="https://www.thesun.co.uk/news/1487396/isis-releases-chilling-video-explaining-exactly-how-nice-killer-used-terror-truck-during-massacre-then-threatens-a-similar-attack-in-the-uk/">brutalities in Nice</a>, where 84 people were killed, a <a href="https://www.thesun.co.uk/news/1501631/germany-isis-suicide-bomb-nut-blew-himself-up-at-ansbach-bar-after-being-turned-away-from-festival-filled-with-thousands-of-revellers/">suicide bombing in Ansbach</a> and <a href="https://www.thesun.co.uk/news/1465260/group-hails-boy-fighter-as-police-find-isis-flag-in-his-room-after-the-afghan-refugee-severely-injured-four-in-train-attack-that-left-carriage-looking-like-a-slaughterhouse/">an axe attack on a train near Wurzburg </a>in southern Germany.</p>
+<p>Today <a href="https://www.thesun.co.uk/news/1504518/rouen-saint-etienne-du-rouvray-isis-1504518/">two ISIS attackers stormed a church</a> near Rouen, Normandy, and slit a French priest&#8217;s throat after taking nuns and worshippers hostage.</p>
+	<div class="sun-grid-container sun-grid-container--white">
+	
+	<div class="sun-row  rail-video-index">
+		<div class="col sun-col-6">
+
+			<div class="rail rail--trending theme-news" data-slide-count="4" data-slide-count-tablet="4">				<div class="swiper-container">
+
+					<div class="rail__header">
+
+											<h3 class="rail__title theme__after-color">Related stories</h3>
+
+											
+					
+					</div>
+
+					
+					<div class="swiper-pagination theme__swiper-pagination"></div>
+
+					<div class="swiper-wrapper">
+						
+<div class="rail__item swiper-slide">
+
+					<div class="rail__item-image">
+			<a href="https://www.thesun.co.uk/news/1503398/the-isis-teen-who-filmed-himself-forcing-catholic-priest-84-to-kneel-before-cutting-his-throat-after-performing-sermon-in-arabic/">
+				<div class="delayed-image-load-landscape" data-src="https://www.thesun.co.uk/wp-content/uploads/2016/07/composite-france-v51.jpg?w=300&#038;h=192&#038;crop=1"></div>
+				<div class="delayed-image-load-mobile" data-src="https://www.thesun.co.uk/wp-content/uploads/2016/07/composite-france-v51.jpg?w=300&#038;h=192&#038;crop=1"></div>
+			</a>
+		</div><!-- .rail__item-image -->
+	
+	<div class="rail__item-content">
+					<h3 class="rail__item-headline theme__copy-color">
+				THE FACE OF EVIL			</h3>
+							<span class="rail__item-sub">
+				The grinning ISIS teen who &#039;filmed himself forcing Catholic priest, 84, to kneel before cutting his throat while performing sermon in Arabic&#039;			</span>
+			</div><!-- .rail__item-content -->
+	<div class="rail__item-gradient-light">
+
+	</div>
+	<a href="https://www.thesun.co.uk/news/1503398/the-isis-teen-who-filmed-himself-forcing-catholic-priest-84-to-kneel-before-cutting-his-throat-after-performing-sermon-in-arabic/" class="rail__item-anchor"></a>
+
+</div><!-- .rail__item .swiper-slide -->
+
+<div class="rail__item swiper-slide">
+
+					<div class="rail__item-image">
+			<a href="https://www.thesun.co.uk/news/1505199/french-church-murderer-was-convicted-terrorist-allowed-out-unsupervised-while-wearing-electronic-tag/">
+				<div class="delayed-image-load-landscape" data-src="https://i0.wp.com/www.thesun.co.uk/wp-content/uploads/2016/07/nintchdbpict000254607768-e1469540765375.jpg?crop=455px%2C148px%2C3047px%2C2030px&#038;resize=300%2C192&#038;ssl=1"></div>
+				<div class="delayed-image-load-mobile" data-src="https://i0.wp.com/www.thesun.co.uk/wp-content/uploads/2016/07/nintchdbpict000254607768-e1469540765375.jpg?crop=455px%2C148px%2C3047px%2C2030px&#038;resize=300%2C192&#038;ssl=1"></div>
+			</a>
+		</div><!-- .rail__item-image -->
+	
+	<div class="rail__item-content">
+					<h3 class="rail__item-headline theme__copy-color">
+				FREED TO KILL			</h3>
+							<span class="rail__item-sub">
+				French church killer was CONVICTED TERRORIST allowed out unsupervised while wearing tag			</span>
+			</div><!-- .rail__item-content -->
+	<div class="rail__item-gradient-light">
+
+	</div>
+	<a href="https://www.thesun.co.uk/news/1505199/french-church-murderer-was-convicted-terrorist-allowed-out-unsupervised-while-wearing-electronic-tag/" class="rail__item-anchor"></a>
+
+</div><!-- .rail__item .swiper-slide -->
+
+<div class="rail__item swiper-slide">
+
+					<div class="rail__item-image">
+			<a href="https://www.thesun.co.uk/news/1502957/armed-french-police-in-trunks-protect-holidaymakers-over-fears-of-isis-beach-attack/">
+				<div class="delayed-image-load-landscape" data-src="https://www.thesun.co.uk/wp-content/uploads/2016/07/beach.jpg?w=300&#038;h=192&#038;crop=1"></div>
+				<div class="delayed-image-load-mobile" data-src="https://www.thesun.co.uk/wp-content/uploads/2016/07/beach.jpg?w=300&#038;h=192&#038;crop=1"></div>
+			</a>
+		</div><!-- .rail__item-image -->
+	
+	<div class="rail__item-content">
+					<h3 class="rail__item-headline theme__copy-color">
+				BAYWATCH GUN COPS GUARD BRITS			</h3>
+							<span class="rail__item-sub">
+				Armed French police in trunks protect tourists over fears of ISIS beach attack			</span>
+			</div><!-- .rail__item-content -->
+	<div class="rail__item-gradient-light">
+
+	</div>
+	<a href="https://www.thesun.co.uk/news/1502957/armed-french-police-in-trunks-protect-holidaymakers-over-fears-of-isis-beach-attack/" class="rail__item-anchor"></a>
+
+</div><!-- .rail__item .swiper-slide -->
+
+<div class="rail__item swiper-slide">
+
+					<div class="rail__item-image">
+			<a href="https://www.thesun.co.uk/news/1501631/germany-isis-suicide-bomb-nut-blew-himself-up-at-ansbach-bar-after-being-turned-away-from-festival-filled-with-thousands-of-revellers/">
+				<div class="delayed-image-load-landscape" data-src="https://www.thesun.co.uk/wp-content/uploads/2016/07/composite-german-bomb-new.jpg?w=300&#038;h=192&#038;crop=1"></div>
+				<div class="delayed-image-load-mobile" data-src="https://www.thesun.co.uk/wp-content/uploads/2016/07/composite-german-bomb-new.jpg?w=300&#038;h=192&#038;crop=1"></div>
+			</a>
+		</div><!-- .rail__item-image -->
+	
+	<div class="rail__item-content">
+					<h3 class="rail__item-headline theme__copy-color">
+				THE ISIS &#039;RAMBO&#039;			</h3>
+							<span class="rail__item-sub">
+				Germany suicide bomb nut who pledged allegiance to ISIS blew himself up at Ansbach bar after plot to massacre 2,500 at festival was foiled			</span>
+			</div><!-- .rail__item-content -->
+	<div class="rail__item-gradient-light">
+
+	</div>
+	<a href="https://www.thesun.co.uk/news/1501631/germany-isis-suicide-bomb-nut-blew-himself-up-at-ansbach-bar-after-being-turned-away-from-festival-filled-with-thousands-of-revellers/" class="rail__item-anchor"></a>
+
+</div><!-- .rail__item .swiper-slide -->
+
+<div class="rail__item swiper-slide">
+
+					<div class="rail__item-image">
+			<a href="https://www.thesun.co.uk/news/1496592/syrian-migrant-denied-asylum-in-germany-injures-12-in-ansbach-after-blowing-himself-up-at-bar-near-music-festival-had-video-pledging-allegiance-to-isis-on-his-phone/">
+				<div class="delayed-image-load-landscape" data-src="https://www.thesun.co.uk/wp-content/uploads/2016/07/composite-bomber.jpg?w=300&#038;h=192&#038;crop=1"></div>
+				<div class="delayed-image-load-mobile" data-src="https://www.thesun.co.uk/wp-content/uploads/2016/07/composite-bomber.jpg?w=300&#038;h=192&#038;crop=1"></div>
+			</a>
+		</div><!-- .rail__item-image -->
+	
+	<div class="rail__item-content">
+					<h3 class="rail__item-headline theme__copy-color">
+				bomb horror			</h3>
+							<span class="rail__item-sub">
+				Syrian suicide bomber had recorded video on his phone pledging allegiance to ISIS before blowing himself up, injuring 12			</span>
+			</div><!-- .rail__item-content -->
+	<div class="rail__item-gradient-light">
+
+	</div>
+	<a href="https://www.thesun.co.uk/news/1496592/syrian-migrant-denied-asylum-in-germany-injures-12-in-ansbach-after-blowing-himself-up-at-bar-near-music-festival-had-video-pledging-allegiance-to-isis-on-his-phone/" class="rail__item-anchor"></a>
+
+</div><!-- .rail__item .swiper-slide -->
+					</div><!-- .swiper-wrapper -->
+
+					<div class="swiper-button-prev"></div>
+					<div class="swiper-button-next"></div>
+
+				</div><!-- .swiper-container -->
+			</div><!-- .rail .{rail} .swiper-video-rail .{theme-slug} -->
+
+		</div><!-- .col .sun-col-6 -->
+	</div><!-- .sun-row .{row} .rail-video-index-->
+	</div> <!-- .sun-grid-container .sun-grid-container--{color} -->
+
+<p>Britain’s intelligence agencies highlighted the seriousness of the threat as they defended themselves against accusations of collecting UK citizens’ personal information without proper legal safeguards put in place.</p>
+<p>The charity Privacy International has taken the issue before the Investigatory Powers Tribunal (IPT) in London in a hearing expected to last four days.</p>
+<figure class="article__media">
+	<div class="article__media-img-container open-gallery" data-index="1">
+
+		<a href=""><img class="wp-image-1506565 size-thesun-article-image" src="https://www.thesun.co.uk/wp-content/uploads/2016/07/nintchdbpict000254663000.jpg?w=960" alt="BRITAIN-UNREST-SYRIA-IRAQ-SECURITY" width="960" height="640" /></a>
+
+				<div class="article__credit">
+			Getty Images		</div>
+		
+				<div class="article__gallery-count theme__background-color-rgba-80">
+			<a href=""><span class="article__gallery-count-value theme__copy-color">4</span></a>
+		</div>
+			</div>
+
+		<figcaption class="article__media-caption">
+		Threat level in the UK is set as &#8216;severe&#8217;, security services say	</figcaption>
+	</figure>
+
+<p>Thomas de la Mare QC, for the charity, told the tribunal there was no form of &#8220;red flag system&#8221; in place to protect the privacy of UK citizens from the &#8220;aggressive use&#8221; of data collection powers given to the security services under section 94 of the Telecommunications Act 1984.</p>
+<p>The accusations are being fought by the Foreign Secretary, Home Secretary, MI6, MI5 and Government Communication Headquarters (GCHQ).</p>
+<p>James Eadie QC, for the security services, is arguing that section 94 powers have at all times been used lawfully as an &#8220;essential tool&#8221; to meet the &#8220;increasing&#8221; terrorist threat.</p>
+<figure class="article__media">
+	<div class="article__media-img-container open-gallery" data-index="2">
+
+		<a href=""><img class="wp-image-1506567 size-thesun-article-image" src="https://www.thesun.co.uk/wp-content/uploads/2016/07/nintchdbpict000254663236.jpg?w=960" alt="12 Injured In Suicide Bomb Attack On Music Festival In Ansbach" width="960" height="650" /></a>
+
+				<div class="article__credit">
+			Getty Images		</div>
+		
+				<div class="article__gallery-count theme__background-color-rgba-80">
+			<a href=""><span class="article__gallery-count-value theme__copy-color">4</span></a>
+		</div>
+			</div>
+
+		<figcaption class="article__media-caption">
+		Forensics search the area of a suicide bomb attack at a music festival in Ansbach, Germany	</figcaption>
+	</figure>
+
+<p>His written argument before the tribunal says: &#8220;The threat level currently stands at SEVERE, which means that an attack in the UK is highly likely.&#8221;</p>
+<p>He states the principal threat comes from militant Islamist extremists, as was more than apparent from the <a href="https://www.thesun.co.uk/news/1505199/french-church-murderer-was-convicted-terrorist-allowed-out-unsupervised-while-wearing-electronic-tag/">recent tragic terrorist attacks</a> in Tunisia, Paris and Brussels.</p>
+<p>He says Northern Ireland-related terrorism also remains a severe threat.</p>
+<p>Privacy International says current secret government surveillance practices go beyond what was revealed in the case of whistle-blower Edward Snowden.</p>
+<figure class="article__media">
+	<div class="article__media-img-container open-gallery" data-index="3">
+
+		<a href=""><img class="wp-image-1506570 size-thesun-article-image" src="https://www.thesun.co.uk/wp-content/uploads/2016/07/nintchdbpict000254663122.jpg?w=960" alt="FRANCE-POLICE-VIOLENCE" width="960" height="639" /></a>
+
+				<div class="article__credit">
+			Getty Images		</div>
+		
+				<div class="article__gallery-count theme__background-color-rgba-80">
+			<a href=""><span class="article__gallery-count-value theme__copy-color">4</span></a>
+		</div>
+			</div>
+
+		<figcaption class="article__media-caption">
+		The Le Carillon bar in Paris where victims of the November attacks were killed by ISIS terrorists	</figcaption>
+	</figure>
+
+<p>The charity says the security services hold large amounts of data about a wide range of people, most of which is unlikely to be of any intelligence interest.</p>
+<p>Bulk personal data includes information extracted from passports, travel records, financial data, telephone calls and emails.</p>
+<p>&nbsp;</p>
+								</div><!-- .article__content -->
+
+																<div class="tags tags--article">
+										<ul class="tags__list">
+					<li class="tags__item">
+				<span class="theme__copy-color">Topics</span>
+			</li>
+							<li class="tags__item theme__after-color">
+				<a href="https://www.thesun.co.uk/topic/government/">
+					Government				</a>
+			</li>
+					<li class="tags__item theme__after-color">
+				<a href="https://www.thesun.co.uk/topic/terror/">
+					terror				</a>
+			</li>
+					<li class="tags__item theme__after-color">
+				<a href="https://www.thesun.co.uk/topic/terrorism/">
+					Terrorism				</a>
+			</li>
+					<li class="tags__item theme__after-color">
+				<a href="https://www.thesun.co.uk/where/uk/">
+					UK				</a>
+			</li>
+			</ul>
+									</div><!-- .tags .tags--article -->
+								
+<div class="social social--article">
+
+		<div class="article-social__meta article-social__meta--comment-count-mobile">
+		<div class="article-social__share-icon">
+			<a href="#comments">
+				<svg class="article-data__svg article-comment" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="886.2 203.6 42.7 40.4" enable-background="new 886.2 203.6 42.7 40.4" xml:space="preserve">
+					<path fill="#EAEEEF" d="M886.2,203.6v40.4h42.7v-40.4H886.2z M926.9,233.7c0,0.9-0.7,1.6-1.6,1.6h-19.5l-5.3,6.4
+					c-0.2,0.3-0.5,0.4-0.9,0.4c-0.3,0-0.7-0.1-0.9-0.4l-5.3-6.4h-3.6c-0.9,0-1.6-0.7-1.6-1.6v-26.4c0-0.9,0.7-1.6,1.6-1.6h35.4
+					c0.9,0,1.6,0.7,1.6,1.6V233.7z"/>
+				</svg>
+
+				<div class="article-social__share-no">
+					<div class="share-no-amount theme__copy-color livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="1506388"></div>
+				</div>
+			</a>
+		</div>
+	</div>
+
+		<div class="article-social__meta article-social__meta--share-count">
+		<div class="article-social__share-icon">
+			<a href="">
+				<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+					<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+					L7038.1,4038.5z" />
+				</svg>
+			</a>
+		</div>
+		<div class="article-social__share-no" data-url="https://www.thesun.co.uk/news/1506388/intelligence-agencies-warn-britain-is-facing-severe-danger-of-attack-in-wake-of-european-atrocities/">
+			<a href="">
+				<div class="share-no-amount theme__copy-color">
+				</div>
+				<div class="share-no-name">
+					Shares
+				</div>
+			</a>
+		</div>
+	</div>
+
+		<div data-naytev-share-horizontal></div>
+
+		<div class="article-social__meta article-social__meta--comment-count">
+		<div class="article-social__share-icon">
+			<a href="#comments">
+				<svg class="article-data__svg article-comment" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5796.3 2189.3 2024.7 1916.8" enable-background="new 5796.3 2189.3 2024.7 1916.8" xml:space="preserve">
+					<path fill="#E92129" d="M7740.1,2189.3H5877.3c-40.5,0-81,40.5-81,81v1390.3c0,40.5,40.5,81,81,81h189l283.5,337.5
+					c13.5,13.5,27,27,40.5,27c13.5,0,40.5-13.5,40.5-27l283.5-337.5H7740c40.5,0,81-40.5,81-81V2270.3
+					C7821,2229.8,7780.5,2189.3,7740.1,2189.3z M7362.1,3377.1H6255.2c-27,0-40.5-27-40.5-54s27-54,40.5-54h1106.9c27,0,40.5,27,40.5,54
+					S7389.1,3377.1,7362.1,3377.1z M7362.1,3026.2H6255.2c-27,0-40.5-27-40.5-54s27-54,40.5-54h1106.9c27,0,40.5,27,40.5,54
+					S7389.1,3026.2,7362.1,3026.2z M7362.1,2675.2H6255.2c-27,0-40.5-27-40.5-54s27-54,40.5-54h1106.9c27,0,40.5,27,40.5,54S7389.1,2675.2,7362.1,2675.2z" />
+				</svg>
+			</a>
+		</div>
+
+		<div class="article-social__share-no">
+			<div class="share-no-amount theme__copy-color livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="1506388">
+			</div>
+			<div class="share-no-name">Comments</div>
+		</div>
+	</div>
+
+</div><!-- .social social--article -->
+
+								<div id="sidebar-mobile"></div>
+
+								<div class="OUTBRAIN" data-src="https://www.thesun.co.uk/news/1506388/intelligence-agencies-warn-britain-is-facing-severe-danger-of-attack-in-wake-of-european-atrocities/" data-widget-id="AR_3" data-ob-template="TheSun_1"></div>
+
+								<script>
+									(function() {
+										var done = false,
+										    ob   = document.createElement("script");ob.type = "text/javascript";ob.async = true;ob.src = "https://widgets.outbrain.com/outbrain.js";
+										//Make sure code is here!!
+										ob.onload = ob.onreadystatechange = function() {
+											if ( !done && (!this.readyState || this.readyState == "loaded" || this.readyState == "complete")) {
+												OBR.extern.onOdbReturn("AR_3",function() {
+													// Edit the desktop widget
+													setTimeout(function(){
+														var ob_first       = document.getElementsByClassName('ob-first')[0],
+														    rec_containers = ob_first.getElementsByClassName('ob-dynamic-rec-container');
+
+														for (i = 0 ; i < rec_containers.length ; i++) {
+															var text_author = rec_containers[i].getElementsByClassName('ob-rec-author')[0],
+															    text_title = rec_containers[i].getElementsByClassName('ob-rec-text')[0],
+															    text_full = text_author.textContent + text_title.textContent;
+
+															if(text_full.length >= 100) {
+																text_title.textContent = text_title.textContent.substring(0,60) + '...';
+															}
+														}
+													},300);
+												});
+
+												OBR.extern.onOdbReturn("CRMB_2",function() {
+													//Edit the mobile widget
+													setTimeout(function(){
+														var ob_first = document.getElementsByClassName('ob-first')[0],
+														    rec_containers = ob_first.getElementsByClassName('ob-dynamic-rec-container');
+
+														for (i = 0 ; i < rec_containers.length ; i++) {
+															var text_author = rec_containers[i].getElementsByClassName('ob-rec-author')[0],
+															    text_title = rec_containers[i].getElementsByClassName('ob-rec-text')[0],
+															    text_full = text_author.textContent + text_title.textContent;
+
+															if(text_full.length >= 140) {
+																text_title.textContent = text_title.textContent.substring(0,100) + '...';
+															}
+														}
+													},300);
+												});
+											}
+										};
+
+										//Inject
+										var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ob, s);
+									})();
+								</script>
+
+																<div class="comments" id="comments">
+									<div class="comments-header-wrap">
+										<h3>Comments</h3>
+									</div>
+
+									<div id="livefyre-comments"></div>								</div>
+								
+							</article><!-- .article -->
+					</div><!-- .col sun-col-4/6 -->
+
+										<div id="sidebar" class="col sun-col-2">
+						<aside id="thesun_dfp_ad_widget-2" class="widget widget_thesun_dfp_ad_widget"><div class="dfp-ad teaser-item teasermedium teasermedium--mpu" id="mpu">
+	<script type="text/javascript">
+		document.addEventListener('DOMContentLoaded', function () {
+			var thesun_ad_cmd = thesun_ad_cmd || [];
+			thesun_ad_cmd.push( function() {
+				googletag.display( 'mpu' );
+			} );
+		});
+	</script>
+</div>
+
+</aside><aside class="widget sidebar sidebar__section teaser theme-news"><h3 class="sidebar__title theme__after-color">Most Read in News</h3><!-- SMALL TEASER - 150PX -->
+<div class="teaser-item teaser__small theme-news" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.co.uk/news/1503398/the-isis-teen-who-filmed-himself-forcing-catholic-priest-84-to-kneel-before-cutting-his-throat-after-performing-sermon-in-arabic/">
+					<div class="delayed-image-load-landscape" data-src="https://www.thesun.co.uk/wp-content/uploads/2016/07/composite-france-v51.jpg?w=150&amp;h=100&amp;crop=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://www.thesun.co.uk/wp-content/uploads/2016/07/composite-france-v51.jpg?w=300&amp;h=192&amp;crop=1"></div>
+			</a>
+			<!-- EXCLUSIVE TAG -->
+		<div class="teaser-slug">
+			<span class="teaser-slug__copy">Pictured</span>
+		</div>
+	</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.co.uk/news/1503398/the-isis-teen-who-filmed-himself-forcing-catholic-priest-84-to-kneel-before-cutting-his-throat-after-performing-sermon-in-arabic/">
+					<h2 class="teaser__headline theme__copy-color">THE FACE OF EVIL</h2>
+		
+		<p class="teaser__subdeck">
+			The grinning ISIS teen who &#039;filmed himself forcing Catholic priest, 84, to kneel before cutting his throat&hellip;		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+			<a href="https://www.thesun.co.uk/news/" class="theme__copy-color">
+				News				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	<div class="article-data__item article-data__comment">
+		<a href="https://www.thesun.co.uk/news/1503398/the-isis-teen-who-filmed-himself-forcing-catholic-priest-84-to-kneel-before-cutting-his-throat-after-performing-sermon-in-arabic/#comments">
+			<span class="icon icon-comment"></span>
+			<span class="livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="1503398"></span>
+		</a>
+	</div><!-- .article-data__item .article-data__comment -->
+
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.co.uk/news/1503398/the-isis-teen-who-filmed-himself-forcing-catholic-priest-84-to-kneel-before-cutting-his-throat-after-performing-sermon-in-arabic/">
+		<a href="https://www.thesun.co.uk/news/1503398/the-isis-teen-who-filmed-himself-forcing-catholic-priest-84-to-kneel-before-cutting-his-throat-after-performing-sermon-in-arabic/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.co.uk/news/1503398/the-isis-teen-who-filmed-himself-forcing-catholic-priest-84-to-kneel-before-cutting-his-throat-after-performing-sermon-in-arabic/"></a>
+
+</div>
+<!-- SMALL TEASER - 150PX -->
+<div class="teaser-item teaser__small theme-news" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.co.uk/news/1506124/hundreds-evacuated-from-central-london-after-gas-leak/">
+					<div class="delayed-image-load-landscape" data-src="https://www.thesun.co.uk/wp-content/uploads/2016/07/composite-gasleak-landscape.jpg?w=150&amp;h=100&amp;crop=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://www.thesun.co.uk/wp-content/uploads/2016/07/composite-gasleak-landscape.jpg?w=300&amp;h=192&amp;crop=1"></div>
+			</a>
+	</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.co.uk/news/1506124/hundreds-evacuated-from-central-london-after-gas-leak/">
+					<h2 class="teaser__headline theme__copy-color">EMERGENCY IN CENTRAL LONDON</h2>
+		
+		<p class="teaser__subdeck">
+			Hundreds of workers evacuated from financial district after gas leak		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+			<a href="https://www.thesun.co.uk/news/" class="theme__copy-color">
+				News				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	<div class="article-data__item article-data__comment">
+		<a href="https://www.thesun.co.uk/news/1506124/hundreds-evacuated-from-central-london-after-gas-leak/#comments">
+			<span class="icon icon-comment"></span>
+			<span class="livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="1506124"></span>
+		</a>
+	</div><!-- .article-data__item .article-data__comment -->
+
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.co.uk/news/1506124/hundreds-evacuated-from-central-london-after-gas-leak/">
+		<a href="https://www.thesun.co.uk/news/1506124/hundreds-evacuated-from-central-london-after-gas-leak/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.co.uk/news/1506124/hundreds-evacuated-from-central-london-after-gas-leak/"></a>
+
+</div>
+<!-- SMALL TEASER - 150PX -->
+<div class="teaser-item teaser__small theme-news" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.co.uk/news/1499673/mums-heartbreak-as-football-loving-son-17-dies-from-heart-attack-after-plunging-underwater-in-swimming-pool-on-dream-turkey-holiday/">
+					<div class="delayed-image-load-landscape" data-src="https://www.thesun.co.uk/wp-content/uploads/2016/07/composite-guy.jpg?w=150&amp;h=100&amp;crop=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://www.thesun.co.uk/wp-content/uploads/2016/07/composite-guy.jpg?w=300&amp;h=192&amp;crop=1"></div>
+			</a>
+			<!-- EXCLUSIVE TAG -->
+		<div class="teaser-slug">
+			<span class="teaser-slug__copy">Exclusive</span>
+		</div>
+	</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.co.uk/news/1499673/mums-heartbreak-as-football-loving-son-17-dies-from-heart-attack-after-plunging-underwater-in-swimming-pool-on-dream-turkey-holiday/">
+					<h2 class="teaser__headline theme__copy-color">&#039;HE HAD MASSIVE DREAMS&#039;</h2>
+		
+		<p class="teaser__subdeck">
+			Mum&#039;s heartbreak as football-mad son, 17, dies from heart attack after plunging his head into&hellip;		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+			<a href="https://www.thesun.co.uk/news/" class="theme__copy-color">
+				News				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	<div class="article-data__item article-data__comment">
+		<a href="https://www.thesun.co.uk/news/1499673/mums-heartbreak-as-football-loving-son-17-dies-from-heart-attack-after-plunging-underwater-in-swimming-pool-on-dream-turkey-holiday/#comments">
+			<span class="icon icon-comment"></span>
+			<span class="livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="1499673"></span>
+		</a>
+	</div><!-- .article-data__item .article-data__comment -->
+
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.co.uk/news/1499673/mums-heartbreak-as-football-loving-son-17-dies-from-heart-attack-after-plunging-underwater-in-swimming-pool-on-dream-turkey-holiday/">
+		<a href="https://www.thesun.co.uk/news/1499673/mums-heartbreak-as-football-loving-son-17-dies-from-heart-attack-after-plunging-underwater-in-swimming-pool-on-dream-turkey-holiday/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.co.uk/news/1499673/mums-heartbreak-as-football-loving-son-17-dies-from-heart-attack-after-plunging-underwater-in-swimming-pool-on-dream-turkey-holiday/"></a>
+
+</div>
+<!-- SMALL TEASER - 150PX -->
+<div class="teaser-item teaser__small theme-news" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.co.uk/news/1497484/son-three-is-buried-in-the-arms-of-dad-who-killed-him-in-car-crash-murder-suicide/">
+					<div class="delayed-image-load-landscape" data-src="https://i1.wp.com/www.thesun.co.uk/wp-content/uploads/2016/07/composite-murder-suicide-landscape.jpg?crop=0px%2C0px%2C750px%2C500px&amp;resize=150%2C100&amp;ssl=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://i1.wp.com/www.thesun.co.uk/wp-content/uploads/2016/07/composite-murder-suicide-landscape.jpg?crop=0px%2C0px%2C750px%2C500px&amp;resize=300%2C192&amp;ssl=1"></div>
+			</a>
+	</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.co.uk/news/1497484/son-three-is-buried-in-the-arms-of-dad-who-killed-him-in-car-crash-
+7fee
+murder-suicide/">
+					<h2 class="teaser__headline theme__copy-color">&#039;LOVE CAN MANIFEST IN A PERVERSE WAY&#039;</h2>
+		
+		<p class="teaser__subdeck">
+			Son, three, buried in arms of dad who killed him in car crash murder-suicide		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+			<a href="https://www.thesun.co.uk/news/" class="theme__copy-color">
+				News				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	<div class="article-data__item article-data__comment">
+		<a href="https://www.thesun.co.uk/news/1497484/son-three-is-buried-in-the-arms-of-dad-who-killed-him-in-car-crash-murder-suicide/#comments">
+			<span class="icon icon-comment"></span>
+			<span class="livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="1497484"></span>
+		</a>
+	</div><!-- .article-data__item .article-data__comment -->
+
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.co.uk/news/1497484/son-three-is-buried-in-the-arms-of-dad-who-killed-him-in-car-crash-murder-suicide/">
+		<a href="https://www.thesun.co.uk/news/1497484/son-three-is-buried-in-the-arms-of-dad-who-killed-him-in-car-crash-murder-suicide/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.co.uk/news/1497484/son-three-is-buried-in-the-arms-of-dad-who-killed-him-in-car-crash-murder-suicide/"></a>
+
+</div>
+<!-- SMALL TEASER - 150PX -->
+<div class="teaser-item teaser__small theme-news" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.co.uk/news/1503910/heartbreak-for-sir-roger-moore-as-he-announces-his-daughter-dies-of-cancer-aged-just-47/">
+					<div class="delayed-image-load-landscape" data-src="https://www.thesun.co.uk/wp-content/uploads/2016/07/landscape-3-x-2-moore.jpg?w=150&amp;h=100&amp;crop=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://www.thesun.co.uk/wp-content/uploads/2016/07/landscape-3-x-2-moore.jpg?w=300&amp;h=192&amp;crop=1"></div>
+			</a>
+	</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.co.uk/news/1503910/heartbreak-for-sir-roger-moore-as-he-announces-his-daughter-dies-of-cancer-aged-just-47/">
+					<h2 class="teaser__headline theme__copy-color">bond STAR&#039;S PAIN</h2>
+		
+		<p class="teaser__subdeck">
+			Heartbreak for Sir Roger Moore as he announces his daughter dies of cancer aged just 47		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+			<a href="https://www.thesun.co.uk/news/" class="theme__copy-color">
+				News				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	<div class="article-data__item article-data__comment">
+		<a href="https://www.thesun.co.uk/news/1503910/heartbreak-for-sir-roger-moore-as-he-announces-his-daughter-dies-of-cancer-aged-just-47/#comments">
+			<span class="icon icon-comment"></span>
+			<span class="livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="1503910"></span>
+		</a>
+	</div><!-- .article-data__item .article-data__comment -->
+
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.co.uk/news/1503910/heartbreak-for-sir-roger-moore-as-he-announces-his-daughter-dies-of-cancer-aged-just-47/">
+		<a href="https://www.thesun.co.uk/news/1503910/heartbreak-for-sir-roger-moore-as-he-announces-his-daughter-dies-of-cancer-aged-just-47/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.co.uk/news/1503910/heartbreak-for-sir-roger-moore-as-he-announces-his-daughter-dies-of-cancer-aged-just-47/"></a>
+
+</div>
+<!-- SMALL TEASER - 150PX -->
+<div class="teaser-item teaser__small theme-news" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.co.uk/news/1506421/sweden-gunman-on-the-run-and-area-evacuated-after-gunning-down-victim-in-horrific-attack-in-broad-daylight/">
+					<div class="delayed-image-load-landscape" data-src="https://i2.wp.com/www.thesun.co.uk/wp-content/uploads/2016/07/nintchdbpict000254662823.jpg?crop=441px%2C198px%2C734px%2C489px&amp;resize=150%2C100&amp;ssl=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://i2.wp.com/www.thesun.co.uk/wp-content/uploads/2016/07/nintchdbpict000254662823.jpg?crop=441px%2C198px%2C734px%2C489px&amp;resize=300%2C192&amp;ssl=1"></div>
+			</a>
+			<!-- EXCLUSIVE TAG -->
+		<div class="teaser-slug">
+			<span class="teaser-slug__copy">Latest</span>
+		</div>
+	</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.co.uk/news/1506421/sweden-gunman-on-the-run-and-area-evacuated-after-gunning-down-victim-in-horrific-attack-in-broad-daylight/">
+					<h2 class="teaser__headline theme__copy-color">SHOPPING MALL SHOOTING</h2>
+		
+		<p class="teaser__subdeck">
+			Gunman on the run after blasting victim in horrific daylight attack in Sweden		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+			<a href="https://www.thesun.co.uk/news/" class="theme__copy-color">
+				News				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	<div class="article-data__item article-data__comment">
+		<a href="https://www.thesun.co.uk/news/1506421/sweden-gunman-on-the-run-and-area-evacuated-after-gunning-down-victim-in-horrific-attack-in-broad-daylight/#comments">
+			<span class="icon icon-comment"></span>
+			<span class="livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="1506421"></span>
+		</a>
+	</div><!-- .article-data__item .article-data__comment -->
+
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.co.uk/news/1506421/sweden-gunman-on-the-run-and-area-evacuated-after-gunning-down-victim-in-horrific-attack-in-broad-daylight/">
+		<a href="https://www.thesun.co.uk/news/1506421/sweden-gunman-on-the-run-and-area-evacuated-after-gunning-down-victim-in-horrific-attack-in-broad-daylight/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.co.uk/news/1506421/sweden-gunman-on-the-run-and-area-evacuated-after-gunning-down-victim-in-horrific-attack-in-broad-daylight/"></a>
+
+</div>
+<!-- SMALL TEASER - 150PX -->
+<div class="teaser-item teaser__small theme-news" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.co.uk/news/1504518/rouen-saint-etienne-du-rouvray-isis-1504518/">
+					<div class="delayed-image-load-landscape" data-src="https://i0.wp.com/www.thesun.co.uk/wp-content/uploads/2016/07/nintchdbpict0002546091951.jpg?crop=0px%2C0px%2C4552px%2C3036px&amp;resize=150%2C100&amp;ssl=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://i0.wp.com/www.thesun.co.uk/wp-content/uploads/2016/07/nintchdbpict0002546091951.jpg?crop=0px%2C0px%2C4552px%2C3036px&amp;resize=300%2C192&amp;ssl=1"></div>
+			</a>
+			<!-- EXCLUSIVE TAG -->
+		<div class="teaser-slug">
+			<span class="teaser-slug__copy">Revealed</span>
+		</div>
+	</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.co.uk/news/1504518/rouen-saint-etienne-du-rouvray-isis-1504518/">
+					<h2 class="teaser__headline theme__copy-color">CHURCH WAS ON ISIS HIT LIST</h2>
+		
+		<p class="teaser__subdeck">
+			Catholic church where priest was murdered among several targets singled out by jihadis		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+			<a href="https://www.thesun.co.uk/news/" class="theme__copy-color">
+				News				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	<div class="article-data__item article-data__comment">
+		<a href="https://www.thesun.co.uk/news/1504518/rouen-saint-etienne-du-rouvray-isis-1504518/#comments">
+			<span class="icon icon-comment"></span>
+			<span class="livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="1504518"></span>
+		</a>
+	</div><!-- .article-data__item .article-data__comment -->
+
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.co.uk/news/1504518/rouen-saint-etienne-du-rouvray-isis-1504518/">
+		<a href="https://www.thesun.co.uk/news/1504518/rouen-saint-etienne-du-rouvray-isis-1504518/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.co.uk/news/1504518/rouen-saint-etienne-du-rouvray-isis-1504518/"></a>
+
+</div>
+<!-- SMALL TEASER - 150PX -->
+<div class="teaser-item teaser__small theme-news" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.co.uk/news/1501559/three-year-old-prince-george-hit-by-vile-rant-from-british-council-boss-paid-thousands-to-promote-uk/">
+					<div class="delayed-image-load-landscape" data-src="https://www.thesun.co.uk/wp-content/uploads/2016/07/composite-george-and-the-dragon-new.jpg?w=150&amp;h=100&amp;crop=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://www.thesun.co.uk/wp-content/uploads/2016/07/composite-george-and-the-dragon-new.jpg?w=300&amp;h=192&amp;crop=1"></div>
+			</a>
+			<!-- EXCLUSIVE TAG -->
+		<div class="teaser-slug">
+			<span class="teaser-slug__copy">Exclusive</span>
+		</div>
+	</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.co.uk/news/1501559/three-year-old-prince-george-hit-by-vile-rant-from-british-council-boss-paid-thousands-to-promote-uk/">
+					<h2 class="teaser__headline theme__copy-color">George &amp; the dragon</h2>
+		
+		<p class="teaser__subdeck">
+			Three-year-old Prince George hit by vile rant from British Council boss paid thousands to promote UK		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+			<a href="https://www.thesun.co.uk/news/" class="theme__copy-color">
+				News				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	<div class="article-data__item article-data__comment">
+		<a href="https://www.thesun.co.uk/news/1501559/three-year-old-prince-george-hit-by-vile-rant-from-british-council-boss-paid-thousands-to-promote-uk/#comments">
+			<span class="icon icon-comment"></span>
+			<span class="livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="1501559"></span>
+		</a>
+	</div><!-- .article-data__item .article-data__comment -->
+
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.co.uk/news/1501559/three-year-old-prince-george-hit-by-vile-rant-from-british-council-boss-paid-thousands-to-promote-uk/">
+		<a href="https://www.thesun.co.uk/news/1501559/three-year-old-prince-george-hit-by-vile-rant-from-british-council-boss-paid-thousands-to-promote-uk/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.co.uk/news/1501559/three-year-old-prince-george-hit-by-vile-rant-from-british-council-boss-paid-thousands-to-promote-uk/"></a>
+
+</div>
+<!-- SMALL TEASER - 150PX -->
+<div class="teaser-item teaser__small theme-news" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.co.uk/news/1499463/massive-6-1-magnitude-earthquake-rocks-southern-australia-as-experts-issue-tsunami-warning/">
+					<div class="delayed-image-load-landscape" data-src="https://i2.wp.com/www.thesun.co.uk/wp-content/uploads/2016/07/composite-oz-earthquake.jpg?crop=0px%2C0px%2C750px%2C500px&amp;resize=150%2C100&amp;ssl=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://i2.wp.com/www.thesun.co.uk/wp-content/uploads/2016/07/composite-oz-earthquake.jpg?crop=0px%2C0px%2C750px%2C500px&amp;resize=300%2C192&amp;ssl=1"></div>
+			</a>
+	</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.co.uk/news/1499463/massive-6-1-magnitude-earthquake-rocks-southern-australia-as-experts-issue-tsunami-warning/">
+					<h2 class="teaser__headline theme__copy-color">thunder down under</h2>
+		
+		<p class="teaser__subdeck">
+			Massive 6.1 magnitude earthquake rocks southern Australia as experts issue tsunami warning		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+			<a href="https://www.thesun.co.uk/news/" class="theme__copy-color">
+				News				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	<div class="article-data__item article-data__comment">
+		<a href="https://www.thesun.co.uk/news/1499463/massive-6-1-magnitude-earthquake-rocks-southern-australia-as-experts-issue-tsunami-warning/#comments">
+			<span class="icon icon-comment"></span>
+			<span class="livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="1499463"></span>
+		</a>
+	</div><!-- .article-data__item .article-data__comment -->
+
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.co.uk/news/1499463/massive-6-1-magnitude-earthquake-rocks-southern-australia-as-experts-issue-tsunami-warning/">
+		<a href="https://www.thesun.co.uk/news/1499463/massive-6-1-magnitude-earthquake-rocks-southern-australia-as-experts-issue-tsunami-warning/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.co.uk/news/1499463/massive-6-1-magnitude-earthquake-rocks-southern-australia-as-experts-issue-tsunami-warning/"></a>
+
+</div>
+<!-- SMALL TEASER - 150PX -->
+<div class="teaser-item teaser__small theme-news" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.co.uk/news/1497267/cops-make-arrest-after-a-man-is-shot-dead-and-several-injured-at-pool-party-murder-at-1m-bungalow-in-surrey/">
+					<div class="delayed-image-load-landscape" data-src="https://www.thesun.co.uk/wp-content/uploads/2016/07/composite-pool-party-v2.jpg?w=150&amp;h=100&amp;crop=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://www.thesun.co.uk/wp-content/uploads/2016/07/composite-pool-party-v2.jpg?w=300&amp;h=192&amp;crop=1"></div>
+			</a>
+	</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.co.uk/news/1497267/cops-make-arrest-after-a-man-is-shot-dead-and-several-injured-at-pool-party-murder-at-1m-bungalow-in-surrey/">
+					<h2 class="teaser__headline theme__copy-color">TWO HELD AFTER PARTY BLOODBATH</h2>
+		
+		<p class="teaser__subdeck">
+			Cops make two arrests after a man is shot dead and two injured at pool party at &pound;1m&hellip;		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+			<a href="https://www.thesun.co.uk/news/" class="theme__copy-color">
+				News				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	<div class="article-data__item article-data__comment">
+		<a href="https://www.thesun.co.uk/news/1497267/cops-make-arrest-after-a-man-is-shot-dead-and-several-injured-at-pool-party-murder-at-1m-bungalow-in-surrey/#comments">
+			<span class="icon icon-comment"></span>
+			<span class="livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="1497267"></span>
+		</a>
+	</div><!-- .article-data__item .article-data__comment -->
+
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.co.uk/news/1497267/cops-make-arrest-after-a-man-is-shot-dead-and-several-injured-at-pool-party-murder-at-1m-bungalow-in-surrey/">
+		<a href="https://www.thesun.co.uk/news/1497267/cops-make-arrest-after-a-man-is-shot-dead-and-several-injured-at-pool-party-murder-at-1m-bungalow-in-surrey/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.co.uk/news/1497267/cops-make-arrest-after-a-man-is-shot-dead-and-several-injured-at-pool-party-murder-at-1m-bungalow-in-surrey/"></a>
+
+</div>
+<!-- SMALL TEASER - 150PX -->
+<div class="teaser-item teaser__small theme-news" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.co.uk/news/1503528/woman-hunted-after-assaulting-a-toddler-in-a-photome-booth-at-shopping-centre/">
+					<div class="delayed-image-load-landscape" data-src="https://i1.wp.com/www.thesun.co.uk/wp-content/uploads/2016/07/met-appeal-lewisham.jpg?crop=0px%2C166px%2C215px%2C143px&amp;resize=150%2C100&amp;ssl=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://i1.wp.com/www.thesun.co.uk/wp-content/uploads/2016/07/met-appeal-lewisham.jpg?crop=0px%2C166px%2C215px%2C143px&amp;resize=300%2C192&amp;ssl=1"></div>
+			</a>
+	</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.co.uk/news/1503528/woman-hunted-after-assaulting-a-toddler-in-a-photome-booth-at-shopping-centre/">
+					<h2 class="teaser__headline theme__copy-color">COP HUNT</h2>
+		
+		<p class="teaser__subdeck">
+			Woman hunted after &#039;assaulting a toddler in a PhotoMe booth at shopping centre&#039;		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+			<a href="https://www.thesun.co.uk/news/" class="theme__copy-color">
+				News				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	<div class="article-data__item article-data__comment">
+		<a href="https://www.thesun.co.uk/news/1503528/woman-hunted-after-assaulting-a-toddler-in-a-photome-booth-at-shopping-centre/#comments">
+			<span class="icon icon-comment"></span>
+			<span class="livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="1503528"></span>
+		</a>
+	</div><!-- .article-data__item .article-data__comment -->
+
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.co.uk/news/1503528/woman-hunted-after-assaulting-a-toddler-in-a-photome-booth-at-shopping-centre/">
+		<a href="https://www.thesun.co.uk/news/1503528/woman-hunted-after-assaulting-a-toddler-in-a-photome-booth-at-shopping-centre/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.co.uk/news/1503528/woman-hunted-after-assaulting-a-toddler-in-a-photome-booth-at-shopping-centre/"></a>
+
+</div>
+<!-- SMALL TEASER - 150PX -->
+<div class="teaser-item teaser__small theme-news" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.co.uk/news/1502952/formula-one-tycoon-bernie-ecclestones-mother-in-law-is-held-hostage-by-brazilian-gangsters-demanding-28million-ransom/">
+					<div class="delayed-image-load-landscape" data-src="https://i1.wp.com/www.thesun.co.uk/wp-content/uploads/2016/07/composite-aparecida-schunk-landscape.jpg?crop=0px%2C0px%2C750px%2C500px&amp;resize=150%2C100&amp;ssl=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://i1.wp.com/www.thesun.co.uk/wp-content/uploads/2016/07/composite-aparecida-schunk-landscape.jpg?crop=0px%2C0px%2C750px%2C500px&amp;resize=300%2C192&amp;ssl=1"></div>
+			</a>
+	</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.co.uk/news/1502952/formula-one-tycoon-bernie-ecclestones-mother-in-law-is-held-hostage-by-brazilian-gangsters-demanding-28million-ransom/">
+					<h2 class="teaser__headline theme__copy-color">ECCLESTONE KIDNAP TERROR</h2>
+		
+		<p class="teaser__subdeck">
+			Formula One tycoon Bernie Ecclestone&#039;s mother-in-law &#039;kidnapped by Brazilian gangsters&#039;		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+			<a href="https://www.thesun.co.uk/news/" class="theme__copy-color">
+				News				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	<div class="article-data__item article-data__comment">
+		<a href="https://www.thesun.co.uk/news/1502952/formula-one-tycoon-bernie-ecclestones-mother-in-law-is-held-hostage-by-brazilian-gangsters-demanding-28million-ransom/#comments">
+			<span class="icon icon-comment"></span>
+			<span class="livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="1502952"></span>
+		</a>
+	</div><!-- .article-data__item .article-data__comment -->
+
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.co.uk/news/1502952/formula-one-tycoon-bernie-ecclestones-mother-in-law-is-held-hostage-by-brazilian-gangsters-demanding-28million-ransom/">
+		<a href="https://www.thesun.co.uk/news/1502952/formula-one-tycoon-bernie-ecclestones-mother-in-law-is-held-hostage-by-brazilian-gangsters-demanding-28million-ransom/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.co.uk/news/1502952/formula-one-tycoon-bernie-ecclestones-mother-in-law-is-held-hostage-by-brazilian-gangsters-demanding-28million-ransom/"></a>
+
+</div>
+<!-- SMALL TEASER - 150PX -->
+<div class="teaser-item teaser__small theme-news" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.co.uk/news/1501446/sick-thug-jailed-for-13-years-after-raping-73-year-old-woman-twice-in-own-home/">
+					<div class="delayed-image-load-landscape" data-src="https://i2.wp.com/www.thesun.co.uk/wp-content/uploads/2016/07/nintchdbpict000238480097.jpg?crop=0px%2C169px%2C407px%2C271px&amp;resize=150%2C100&amp;ssl=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://i2.wp.com/www.thesun.co.uk/wp-content/uploads/2016/07/nintchdbpict000238480097.jpg?crop=0px%2C169px%2C407px%2C271px&amp;resize=300%2C192&amp;ssl=1"></div>
+			</a>
+	</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.co.uk/news/1501446/sick-thug-jailed-for-13-years-after-raping-73-year-old-woman-twice-in-own-home/">
+					<h2 class="teaser__headline theme__copy-color">SEX BEAST CAGED</h2>
+		
+		<p class="teaser__subdeck">
+			Sick thug jailed for 13 years after raping 73-year-old woman TWICE in own home		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+			<a href="https://www.thesun.co.uk/news/" class="theme__copy-color">
+				News				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	<div class="article-data__item article-data__comment">
+		<a href="https://www.thesun.co.uk/news/1501446/sick-thug-jailed-for-13-years-after-raping-73-year-old-woman-twice-in-own-home/#comments">
+			<span class="icon icon-comment"></span>
+			<span class="livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="1501446"></span>
+		</a>
+	</div><!-- .article-data__item .article-data__comment -->
+
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.co.uk/news/1501446/sick-thug-jailed-for-13-years-after-raping-73-year-old-woman-twice-in-own-home/">
+		<a href="https://www.thesun.co.uk/news/1501446/sick-thug-jailed-for-13-years-after-raping-73-year-old-woman-twice-in-own-home/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.co.uk/news/1501446/sick-thug-jailed-for-13-years-after-raping-73-year-old-woman-twice-in-own-home/"></a>
+
+</div>
+<!-- SMALL TEASER - 150PX -->
+<div class="teaser-item teaser__small theme-news" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.co.uk/news/1496592/syrian-migrant-denied-asylum-in-germany-injures-12-in-ansbach-after-blowing-himself-up-at-bar-near-music-festival-had-video-pledging-allegiance-to-isis-on-his-phone/">
+					<div class="delayed-image-load-landscape" data-src="https://www.thesun.co.uk/wp-content/uploads/2016/07/composite-bomber.jpg?w=150&amp;h=100&amp;crop=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://www.thesun.co.uk/wp-content/uploads/2016/07/composite-bomber.jpg?w=300&amp;h=192&amp;crop=1"></div>
+			</a>
+			<!-- EXCLUSIVE TAG -->
+		<div class="teaser-slug">
+			<span class="teaser-slug__copy">Latest</span>
+		</div>
+	</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.co.uk/news/1496592/syrian-migrant-denied-asylum-in-germany-injures-12-in-ansbach-after-blowing-himself-up-at-bar-near-music-festival-had-video-pledging-allegiance-to-isis-on-his-phone/">
+					<h2 class="teaser__headline theme__copy-color">bomb horror</h2>
+		
+		<p class="teaser__subdeck">
+			Syrian suicide bomber had recorded video on his phone pledging allegiance to ISIS before blowing himself up,&hellip;		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+			<a href="https://www.thesun.co.uk/news/" class="theme__copy-color">
+				News				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	<div class="article-data__item article-data__comment">
+		<a href="https://www.thesun.co.uk/news/1496592/syrian-migrant-denied-asylum-in-germany-injures-12-in-ansbach-after-blowing-himself-up-at-bar-near-music-festival-had-video-pledging-allegiance-to-isis-on-his-phone/#comments">
+			<span class="icon icon-comment"></span>
+			<span class="livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="1496592"></span>
+		</a>
+	</div><!-- .article-data__item .article-data__comment -->
+
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.co.uk/news/1496592/syrian-migrant-denied-asylum-in-germany-injures-12-in-ansbach-after-blowing-himself-up-at-bar-near-music-festival-had-video-pledging-allegiance-to-isis-on-his-phone/">
+		<a href="https://www.thesun.co.uk/news/1496592/syrian-migrant-denied-asylum-in-germany-injures-12-in-ansbach-after-blowing-himself-up-at-bar-near-music-festival-had-video-pledging-allegiance-to-isis-on-his-phone/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+		
+f710
+	</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.co.uk/news/1496592/syrian-migrant-denied-asylum-in-germany-injures-12-in-ansbach-after-blowing-himself-up-at-bar-near-music-festival-had-video-pledging-allegiance-to-isis-on-his-phone/"></a>
+
+</div>
+<!-- SMALL TEASER - 150PX -->
+<div class="teaser-item teaser__small theme-news" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.co.uk/news/1502929/randy-lad-forced-to-pray-for-forgiveness-by-cops-after-he-was-caught-romping-with-girl-in-street-by-angry-locals-in-thailand/">
+					<div class="delayed-image-load-landscape" data-src="https://www.thesun.co.uk/wp-content/uploads/2016/07/composite-randy-couple-landscape.jpg?w=150&amp;h=100&amp;crop=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://www.thesun.co.uk/wp-content/uploads/2016/07/composite-randy-couple-landscape.jpg?w=300&amp;h=192&amp;crop=1"></div>
+			</a>
+			<!-- EXCLUSIVE TAG -->
+		<div class="teaser-slug">
+			<span class="teaser-slug__copy">Video</span>
+		</div>
+	</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.co.uk/news/1502929/randy-lad-forced-to-pray-for-forgiveness-by-cops-after-he-was-caught-romping-with-girl-in-street-by-angry-locals-in-thailand/">
+					<h2 class="teaser__headline theme__copy-color">STREET SEX SHAME</h2>
+		
+		<p class="teaser__subdeck">
+			Randy Irish lad forced to pray for forgiveness after he is caught romping with fellow holidaymaker in Thai&hellip;		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+			<a href="https://www.thesun.co.uk/news/" class="theme__copy-color">
+				News				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	<div class="article-data__item article-data__comment">
+		<a href="https://www.thesun.co.uk/news/1502929/randy-lad-forced-to-pray-for-forgiveness-by-cops-after-he-was-caught-romping-with-girl-in-street-by-angry-locals-in-thailand/#comments">
+			<span class="icon icon-comment"></span>
+			<span class="livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="1502929"></span>
+		</a>
+	</div><!-- .article-data__item .article-data__comment -->
+
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.co.uk/news/1502929/randy-lad-forced-to-pray-for-forgiveness-by-cops-after-he-was-caught-romping-with-girl-in-street-by-angry-locals-in-thailand/">
+		<a href="https://www.thesun.co.uk/news/1502929/randy-lad-forced-to-pray-for-forgiveness-by-cops-after-he-was-caught-romping-with-girl-in-street-by-angry-locals-in-thailand/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.co.uk/news/1502929/randy-lad-forced-to-pray-for-forgiveness-by-cops-after-he-was-caught-romping-with-girl-in-street-by-angry-locals-in-thailand/"></a>
+
+</div>
+</aside><aside id="thesun_outbrain_widget-2" class="widget widget_thesun_outbrain_widget"><div
+	class="OUTBRAIN"
+	data-src="https://www.thesun.co.uk/news/1506388/intelligence-agencies-warn-britain-is-facing-severe-danger-of-attack-in-wake-of-european-atrocities/"
+	data-widget-id="SB_3"
+	data-ob-template="TheSun_1"
+></div>
+</aside><aside class="widget sidebar sidebar__section teaser theme-main"><h3 class="sidebar__title theme__after-color">Most Popular</h3><!-- MEDIUM TEASER - 300PX -->
+<div class="teaser-item teaser__medium theme-main" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.co.uk/news/1504729/gunman-opens-fire-in-berlin-hospital-and-kill-doctor/">
+					<div class="delayed-image-load-landscape" data-src="https://www.thesun.co.uk/wp-content/uploads/2016/07/nintchdbpict000254624875.jpg?w=300&amp;h=192&amp;crop=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://www.thesun.co.uk/wp-content/uploads/2016/07/nintchdbpict000254624875.jpg?w=300&amp;h=192&amp;crop=1"></div>
+			</a>
+			<!-- EXCLUSIVE TAG -->
+		<div class="teaser-slug">
+			<span class="teaser-slug__copy">Latest</span>
+		</div>
+	</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.co.uk/news/1504729/gunman-opens-fire-in-berlin-hospital-and-kill-doctor/">
+					<h2 class="teaser__headline theme__copy-color">HOSPITAL SHOOTING HORROR</h2>
+		
+		<p class="teaser__subdeck">
+			Patient, 72, kills Doctor at Berlin clinic before shooting himself in latest German atrocity		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+			<a href="https://www.thesun.co.uk/news/" class="theme__copy-color">
+				News				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	<div class="article-data__item article-data__comment">
+		<a href="https://www.thesun.co.uk/news/1504729/gunman-opens-fire-in-berlin-hospital-and-kill-doctor/#comments">
+			<span class="icon icon-comment"></span>
+			<span class="livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="1504729"></span>
+		</a>
+	</div><!-- .article-data__item .article-data__comment -->
+
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.co.uk/news/1504729/gunman-opens-fire-in-berlin-hospital-and-kill-doctor/">
+		<a href="https://www.thesun.co.uk/news/1504729/gunman-opens-fire-in-berlin-hospital-and-kill-doctor/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.co.uk/news/1504729/gunman-opens-fire-in-berlin-hospital-and-kill-doctor/"></a>
+
+</div>
+<!-- MEDIUM TEASER - 300PX -->
+<div class="teaser-item teaser__medium theme-main" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.co.uk/news/1503398/the-isis-teen-who-filmed-himself-forcing-catholic-priest-84-to-kneel-before-cutting-his-throat-after-performing-sermon-in-arabic/">
+					<div class="delayed-image-load-landscape" data-src="https://www.thesun.co.uk/wp-content/uploads/2016/07/composite-france-v51.jpg?w=300&amp;h=192&amp;crop=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://www.thesun.co.uk/wp-content/uploads/2016/07/composite-france-v51.jpg?w=300&amp;h=192&amp;crop=1"></div>
+			</a>
+			<!-- EXCLUSIVE TAG -->
+		<div class="teaser-slug">
+			<span class="teaser-slug__copy">Pictured</span>
+		</div>
+	</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.co.uk/news/1503398/the-isis-teen-who-filmed-himself-forcing-catholic-priest-84-to-kneel-before-cutting-his-throat-after-performing-sermon-in-arabic/">
+					<h2 class="teaser__headline theme__copy-color">THE FACE OF EVIL</h2>
+		
+		<p class="teaser__subdeck">
+			The grinning ISIS teen who &#039;filmed himself forcing Catholic priest, 84, to kneel before cutting his throat&hellip;		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+			<a href="https://www.thesun.co.uk/news/" class="theme__copy-color">
+				News				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	<div class="article-data__item article-data__comment">
+		<a href="https://www.thesun.co.uk/news/1503398/the-isis-teen-who-filmed-himself-forcing-catholic-priest-84-to-kneel-before-cutting-his-throat-after-performing-sermon-in-arabic/#comments">
+			<span class="icon icon-comment"></span>
+			<span class="livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="1503398"></span>
+		</a>
+	</div><!-- .article-data__item .article-data__comment -->
+
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.co.uk/news/1503398/the-isis-teen-who-filmed-himself-forcing-catholic-priest-84-to-kneel-before-cutting-his-throat-after-performing-sermon-in-arabic/">
+		<a href="https://www.thesun.co.uk/news/1503398/the-isis-teen-who-filmed-himself-forcing-catholic-priest-84-to-kneel-before-cutting-his-throat-after-performing-sermon-in-arabic/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.co.uk/news/1503398/the-isis-teen-who-filmed-himself-forcing-catholic-priest-84-to-kneel-before-cutting-his-throat-after-performing-sermon-in-arabic/"></a>
+
+</div>
+<!-- MEDIUM TEASER - 300PX -->
+<div class="teaser-item teaser__medium theme-main" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.co.uk/news/1506124/hundreds-evacuated-from-central-london-after-gas-leak/">
+					<div class="delayed-image-load-landscape" data-src="https://www.thesun.co.uk/wp-content/uploads/2016/07/composite-gasleak-landscape.jpg?w=300&amp;h=192&amp;crop=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://www.thesun.co.uk/wp-content/uploads/2016/07/composite-gasleak-landscape.jpg?w=300&amp;h=192&amp;crop=1"></div>
+			</a>
+	</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.co.uk/news/1506124/hundreds-evacuated-from-central-london-after-gas-leak/">
+					<h2 class="teaser__headline theme__copy-color">EMERGENCY IN CENTRAL LONDON</h2>
+		
+		<p class="teaser__subdeck">
+			Hundreds of workers evacuated from financial district after gas leak		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+			<a href="https://www.thesun.co.uk/news/" class="theme__copy-color">
+				News				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	<div class="article-data__item article-data__comment">
+		<a href="https://www.thesun.co.uk/news/1506124/hundreds-evacuated-from-central-london-after-gas-leak/#comments">
+			<span class="icon icon-comment"></span>
+			<span class="livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="1506124"></span>
+		</a>
+	</div><!-- .article-data__item .article-data__comment -->
+
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.co.uk/news/1506124/hundreds-evacuated-from-central-london-after-gas-leak/">
+		<a href="https://www.thesun.co.uk/news/1506124/hundreds-evacuated-from-central-london-after-gas-leak/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.co.uk/news/1506124/hundreds-evacuated-from-central-london-after-gas-leak/"></a>
+
+</div>
+<!-- MEDIUM TEASER - 300PX -->
+<div class="teaser-item teaser__medium theme-main" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.co.uk/news/1499673/mums-heartbreak-as-football-loving-son-17-dies-from-heart-attack-after-plunging-underwater-in-swimming-pool-on-dream-turkey-holiday/">
+					<div class="delayed-image-load-landscape" data-src="https://www.thesun.co.uk/wp-content/uploads/2016/07/composite-guy.jpg?w=300&amp;h=192&amp;crop=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://www.thesun.co.uk/wp-content/uploads/2016/07/composite-guy.jpg?w=300&amp;h=192&amp;crop=1"></div>
+			</a>
+			<!-- EXCLUSIVE TAG -->
+		<div class="teaser-slug">
+			<span class="teaser-slug__copy">Exclusive</span>
+		</div>
+	</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.co.uk/news/1499673/mums-heartbreak-as-football-loving-son-17-dies-from-heart-attack-after-plunging-underwater-in-swimming-pool-on-dream-turkey-holiday/">
+					<h2 class="teaser__headline theme__copy-color">&#039;HE HAD MASSIVE DREAMS&#039;</h2>
+		
+		<p class="teaser__subdeck">
+			Mum&#039;s heartbreak as football-mad son, 17, dies from heart attack after plunging his head into&hellip;		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+			<a href="https://www.thesun.co.uk/news/" class="theme__copy-color">
+				News				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	<div class="article-data__item article-data__comment">
+		<a href="https://www.thesun.co.uk/news/1499673/mums-heartbreak-as-football-loving-son-17-dies-from-heart-attack-after-plunging-underwater-in-swimming-pool-on-dream-turkey-holiday/#comments">
+			<span class="icon icon-comment"></span>
+			<span class="livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="1499673"></span>
+		</a>
+	</div><!-- .article-data__item .article-data__comment -->
+
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.co.uk/news/1499673/mums-heartbreak-as-football-loving-son-17-dies-from-heart-attack-after-plunging-underwater-in-swimming-pool-on-dream-turkey-holiday/">
+		<a href="https://www.thesun.co.uk/news/1499673/mums-heartbreak-as-football-loving-son-17-dies-from-heart-attack-after-plunging-underwater-in-swimming-pool-on-dream-turkey-holiday/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.co.uk/news/1499673/mums-heartbreak-as-football-loving-son-17-dies-from-heart-attack-after-plunging-underwater-in-swimming-pool-on-dream-turkey-holiday/"></a>
+
+</div>
+<!-- MEDIUM TEASER - 300PX -->
+<div class="teaser-item teaser__medium theme-main" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.co.uk/news/1497484/son-three-is-buried-in-the-arms-of-dad-who-killed-him-in-car-crash-murder-suicide/">
+					<div class="delayed-image-load-landscape" data-src="https://i1.wp.com/www.thesun.co.uk/wp-content/uploads/2016/07/composite-murder-suicide-landscape.jpg?crop=0px%2C0px%2C750px%2C500px&amp;resize=300%2C192&amp;ssl=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://i1.wp.com/www.thesun.co.uk/wp-content/uploads/2016/07/composite-murder-suicide-landscape.jpg?crop=0px%2C0px%2C750px%2C500px&amp;resize=300%2C192&amp;ssl=1"></div>
+			</a>
+	</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.co.uk/news/1497484/son-three-is-buried-in-the-arms-of-dad-who-killed-him-in-car-crash-murder-suicide/">
+					<h2 class="teaser__headline theme__copy-color">&#039;LOVE CAN MANIFEST IN A PERVERSE WAY&#039;</h2>
+		
+		<p class="teaser__subdeck">
+			Son, three, buried in arms of dad who killed him in car crash murder-suicide		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+			<a href="https://www.thesun.co.uk/news/" class="theme__copy-color">
+				News				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	<div class="article-data__item article-data__comment">
+		<a href="https://www.thesun.co.uk/news/1497484/son-three-is-buried-in-the-arms-of-dad-who-killed-him-in-car-crash-murder-suicide/#comments">
+			<span class="icon icon-comment"></span>
+			<span class="livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="1497484"></span>
+		</a>
+	</div><!-- .article-data__item .article-data__comment -->
+
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.co.uk/news/1497484/son-three-is-buried-in-the-arms-of-dad-who-killed-him-in-car-crash-murder-suicide/">
+		<a href="https://www.thesun.co.uk/news/1497484/son-three-is-buried-in-the-arms-of-dad-who-killed-him-in-car-crash-murder-suicide/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.co.uk/news/1497484/son-three-is-buried-in-the-arms-of-dad-who-killed-him-in-car-crash-murder-suicide/"></a>
+
+</div>
+<!-- MEDIUM TEASER - 300PX -->
+<div class="teaser-item teaser__medium theme-main" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.co.uk/tvandshowbiz/1496319/police-kick-down-lindsay-lohans-door-after-star-screams-that-her-fiance-is-trying-to-kill-her/">
+					<div class="delayed-image-load-landscape" data-src="https://www.thesun.co.uk/wp-content/uploads/2016/07/composite-lindsay1.jpg?w=300&amp;h=192&amp;crop=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://www.thesun.co.uk/wp-content/uploads/2016/07/composite-lindsay1.jpg?w=300&amp;h=192&amp;crop=1"></div>
+			</a>
+			<!-- EXCLUSIVE TAG -->
+		<div class="teaser-slug">
+			<span class="teaser-slug__copy">Exclusive</span>
+		</div>
+	</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.co.uk/tvandshowbiz/1496319/police-kick-down-lindsay-lohans-door-after-star-screams-that-her-fiance-is-trying-to-kill-her/">
+					<h2 class="teaser__headline theme__copy-color">&#039;You’re a f*****g psycho&#039;</h2>
+		
+		<p class="teaser__subdeck">
+			Police kick down Lindsay Lohan&#039;s door after star screams that her fiance is &#039;trying to kill her&#039;		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+			<a href="https://www.thesun.co.uk/tvandshowbiz/" class="theme__copy-color">
+				TV &amp; Showbiz				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	<div class="article-data__item article-data__comment">
+		<a href="https://www.thesun.co.uk/tvandshowbiz/1496319/police-kick-down-lindsay-lohans-door-after-star-screams-that-her-fiance-is-trying-to-kill-her/#comments">
+			<span class="icon icon-comment"></span>
+			<span class="livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="1496319"></span>
+		</a>
+	</div><!-- .article-data__item .article-data__comment -->
+
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.co.uk/tvandshowbiz/1496319/police-kick-down-lindsay-lohans-door-after-star-screams-that-her-fiance-is-trying-to-kill-her/">
+		<a href="https://www.thesun.co.uk/tvandshowbiz/1496319/police-kick-down-lindsay-lohans-door-after-star-screams-that-her-fiance-is-trying-to-kill-her/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.co.uk/tvandshowbiz/1496319/police-kick-down-lindsay-lohans-door-after-star-screams-that-her-fiance-is-trying-to-kill-her/"></a>
+
+</div>
+<!-- MEDIUM TEASER - 300PX -->
+<div class="teaser-item teaser__medium theme-main" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.co.uk/news/1503910/heartbreak-for-sir-roger-moore-as-he-announces-his-daughter-dies-of-cancer-aged-just-47/">
+					<div class="delayed-image-load-landscape" data-src="https://www.thesun.co.uk/wp-content/uploads/2016/07/landscape-3-x-2-moore.jpg?w=300&amp;h=192&amp;crop=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://www.thesun.co.uk/wp-content/uploads/2016/07/landscape-3-x-2-moore.jpg?w=300&amp;h=192&amp;crop=1"></div>
+			</a>
+	</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.co.uk/news/1503910/heartbreak-for-sir-roger-moore-as-he-announces-his-daughter-dies-of-cancer-aged-just-47/">
+					<h2 class="teaser__headline theme__copy-color">bond STAR&#039;S PAIN</h2>
+		
+		<p class="teaser__subdeck">
+			Heartbreak for Sir Roger Moore as he announces his daughter dies of cancer aged just 47		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+			<a href="https://www.thesun.co.uk/news/" class="theme__copy-color">
+				News				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	<div class="article-data__item article-data__comment">
+		<a href="https://www.thesun.co.uk/news/1503910/heartbreak-for-sir-roger-moore-as-he-announces-his-daughter-dies-of-cancer-aged-just-47/#comments">
+			<span class="icon icon-comment"></span>
+			<span class="livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="1503910"></span>
+		</a>
+	</div><!-- .article-data__item .article-data__comment -->
+
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.co.uk/news/1503910/heartbreak-for-sir-roger-moore-as-he-announces-his-daughter-dies-of-cancer-aged-just-47/">
+		<a href="https://www.thesun.co.uk/news/1503910/heartbreak-for-sir-roger-moore-as-he-announces-his-daughter-dies-of-cancer-aged-just-47/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.co.uk/news/1503910/heartbreak-for-sir-roger-moore-as-he-announces-his-daughter-dies-of-cancer-aged-just-47/"></a>
+
+</div>
+<!-- MEDIUM TEASER - 300PX -->
+<div class="teaser-item teaser__medium theme-main" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.co.uk/living/1500728/superdrug-workers-whispered-nasty-remarks-about-this-girls-shorts-but-she-had-the-last-laugh/">
+					<div class="delayed-image-load-landscape" data-src="https://www.thesun.co.uk/wp-content/uploads/2016/07/composite-truro.jpg?w=300&amp;h=192&amp;crop=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://www.thesun.co.uk/wp-content/uploads/2016/07/composite-truro.jpg?w=300&amp;h=192&amp;crop=1"></div>
+			</a>
+	</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.co.uk/living/1500728/superdrug-workers-whispered-nasty-remarks-about-this-girls-shorts-but-she-had-the-last-laugh/">
+					<h2 class="teaser__headline theme__copy-color">Super response</h2>
+		
+		<p class="teaser__subdeck">
+			Superdrug workers made mean comments about this girl&#039;s shorts… but she had the last laugh		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+			<a href="https://www.thesun.co.uk/living/" class="theme__copy-color">
+				Living				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	<div class="article-data__item article-data__comment">
+		<a href="https://www.thesun.co.uk/living/1500728/superdrug-workers-whispered-nasty-remarks-about-this-girls-shorts-but-she-had-the-last-laugh/#comments">
+			<span class="icon icon-comment"></span>
+			<span class="livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="1500728"></span>
+		</a>
+	</div><!-- .article-data__item .article-data__comment -->
+
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.co.uk/living/1500728/superdrug-workers-whispered-nasty-remarks-about-this-girls-shorts-but-she-had-the-last-laugh/">
+		<a href="https://www.thesun.co.uk/living/1500728/superdrug-workers-whispered-nasty-remarks-about-this-girls-shorts-but-she-had-the-last-laugh/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.co.uk/living/1500728/superdrug-workers-whispered-nasty-remarks-about-this-girls-shorts-but-she-had-the-last-laugh/"></a>
+
+</div>
+<!-- MEDIUM TEASER - 300PX -->
+<div class="teaser-item teaser__medium theme-main" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.co.uk/living/1503130/urban-decay-the-worst-professional-makeover-ever-leaves-woman-looking-like-a-potato/">
+					<div class="delayed-image-load-landscape" data-src="https://i0.wp.com/www.thesun.co.uk/wp-content/uploads/2016/07/shauna-adamson-composite.jpg?crop=0px%2C0px%2C1500px%2C1000px&amp;resize=300%2C192&amp;ssl=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://i0.wp.com/www.thesun.co.uk/wp-content/uploads/2016/07/shauna-adamson-composite.jpg?crop=0px%2C0px%2C1500px%2C1000px&amp;resize=300%2C192&amp;ssl=1"></div>
+			</a>
+	</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.co.uk/living/1503130/urban-decay-the-worst-professional-makeover-ever-leaves-woman-looking-like-a-potato/">
+					<h2 class="teaser__headline theme__copy-color">Request a refund?</h2>
+		
+		<p class="teaser__subdeck">
+			This girl got a makeover from Urban Decay… but says the ‘awful’ result left her looking ‘like a potato’		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+			<a href="https://www.thesun.co.uk/living/" class="theme__copy-color">
+				Living				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	<div class="article-data__item article-data__comment">
+		<a href="https://www.thesun.co.uk/living/1503130/urban-decay-the-worst-professional-makeover-ever-leaves-woman-looking-like-a-potato/#comments">
+			<span class="icon icon-comment"></span>
+			<span class="livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="1503130"></span>
+		</a>
+	</div><!-- .article-data__item .article-data__comment -->
+
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.co.uk/living/1503130/urban-decay-the-worst-professional-makeover-ever-leaves-woman-looking-like-a-potato/">
+		<a href="https://www.thesun.co.uk/living/1503130/urban-decay-the-worst-professional-makeover-ever-leaves-woman-looking-like-a-potato/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.co.uk/living/1503130/urban-decay-the-worst-professional-makeover-ever-leaves-woman-looking-like-a-potato/"></a>
+
+</div>
+<!-- MEDIUM TEASER - 300PX -->
+<div class="teaser-item teaser__medium theme-main" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.co.uk/news/1506421/sweden-gunman-on-the-run-and-area-evacuated-after-gunning-down-victim-in-horrific-attack-in-broad-daylight/">
+					<div class="delayed-image-load-landscape" data-src="https://i2.wp.com/www.thesun.co.uk/wp-content/uploads/2016/07/nintchdbpict000254662823.jpg?crop=441px%2C198px%2C734px%2C489px&amp;resize=300%2C192&amp;ssl=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://i2.wp.com/www.thesun.co.uk/wp-content/uploads/2016/07/nintchdbpict000254662823.jpg?crop=441px%2C198px%2C734px%2C489px&amp;resize=300%2C192&amp;ssl=1"></div>
+			</a>
+			<!-- EXCLUSIVE TAG -->
+		<div class="teaser-slug">
+			<span class="teaser-slug__copy">Latest</span>
+		</div>
+	</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.co.uk/news/1506421/sweden-gunman-on-the-run-and-area-evacuated-after-gunning-down-victim-in-horrific-attack-in-broad-daylight/">
+					<h2 class="teaser__headline theme__copy-color">SHOPPING MALL SHOOTING</h2>
+		
+		<p class="teaser__subdeck">
+			Gunman on the run after blasting victim in horrific daylight attack in Sweden		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+			<a href="https://www.thesun.co.uk/news/" class="theme__copy-color">
+				News				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	<div class="article-data__item article-data__comment">
+		<a href="https://www.thesun.co.uk/news/1506421/sweden-gunman-on-the-run-and-area-evacuated-after-gunning-down-victim-in-horrific-attack-in-broad-daylight/#comments">
+			<span class="icon icon-comment"></span>
+			<span class="livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="1506421"></span>
+		</a>
+	</div><!-- .article-data__item .article-data__comment -->
+
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.co.uk/news/1506421/sweden-gunman-on-the-run-and-area-evacuated-after-gunning-down-victim-in-horrific-attack-in-broad-daylight/">
+		<a href="https://www.thesun.co.uk/news/1506421/sweden-gunman-on-the-run-and-area-evacuated-after-gunning-down-victim-in-horrific-attack-in-broad-daylight/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.co.uk/news/1506421/sweden-gunman-on-the-run-and-area-evacuated-after-gunning-down-victim-in-horrific-attack-in-broad-daylight/"></a>
+
+</div>
+<!-- MEDIUM TEASER - 300PX -->
+<div class="teaser-item teaser__medium theme-main" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.co.uk/news/1504518/rouen-saint-etienne-du-rouvray-isis-1504518/">
+					<div class="delayed-image-load-landscape" data-src="https://i0.wp.com/www.thesun.co.uk/wp-content/uploads/2016/07/nintchdbpict0002546091951.jpg?crop=0px%2C0px%2C4552px%2C3036px&amp;resize=300%2C192&amp;ssl=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://i0.wp.com/www.thesun.co.uk/wp-content/uploads/2016/07/nintchdbpict0002546091951.jpg?crop=0px%2C0px%2C4552px%2C3036px&amp;resize=300%2C192&amp;ssl=1"></div>
+			</a>
+			<!-- EXCLUSIVE TAG -->
+		<div class="teaser-slug">
+			<span class="teaser-slug__copy">Revealed</span>
+		</div>
+	</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.co.uk/news/1504518/rouen-saint-etienne-du-rouvray-isis-1504518/">
+					<h2 class="teaser__headline theme__copy-color">CHURCH WAS ON ISIS HIT LIST</h2>
+		
+		<p class="teaser__subdeck">
+			Catholic church where priest was murdered among several targets singled out by jihadis		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+			<a href="https://www.thesun.co.uk/news/" class="theme__copy-color">
+				News				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	<div class="article-data__item article-data__comment">
+		<a href="https://www.thesun.co.uk/news/1504518/rouen-saint-etienne-du-rouvray-isis-1504518/#comments">
+			<span class="icon icon-comment"></span>
+			<span class="livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="1504518"></span>
+		</a>
+	</div><!-- .article-data__item .article-data__comment -->
+
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.co.uk/news/1504518/rouen-saint-etienne-du-rouvray-isis-1504518/">
+		<a href="https://www.thesun.co.uk/news/1504518/rouen-saint-etienne-du-rouvray-isis-1504518/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.co.uk/news/1504518/rouen-saint-etienne-du-rouvray-isis-1504518/"></a>
+
+</div>
+<!-- MEDIUM TEASER - 300PX -->
+<div class="teaser-item teaser__medium theme-main" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.co.uk/living/1505369/this-bikini-shot-of-three-girls-in-a-convenience-store-has-gone-viral-for-all-the-wrong-reasons-but-can-you-spot-why/">
+					<div class="delayed-image-load-landscape" data-src="https://i1.wp.com/www.thesun.co.uk/wp-content/uploads/2016/07/nintchdbpict0002546307111.jpg?crop=0px%2C0px%2C586px%2C391px&amp;resize=300%2C192&amp;ssl=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://i1.wp.com/www.thesun.co.uk/wp-content/uploads/2016/07/nintchdbpict0002546307111.jpg?crop=0px%2C0px%2C586px%2C391px&amp;resize=300%2C192&amp;ssl=1"></div>
+			</a>
+	</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.co.uk/living/1505369/this-bikini-shot-of-three-girls-in-a-convenience-store-has-gone-viral-for-all-the-wrong-reasons-but-can-you-spot-why/">
+					<h2 class="teaser__headline theme__copy-color">thong arm of the law</h2>
+		
+		<p class="teaser__subdeck">
+			This bikini shot of three girls in a store has gone viral for all the wrong reasons&hellip; but can you&hellip;		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+			<a href="https://www.thesun.co.uk/living/" class="theme__copy-color">
+				Living				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	<div class="article-data__item article-data__comment">
+		<a href="https://www.thesun.co.uk/living/1505369/this-bikini-shot-of-three-girls-in-a-convenience-store-has-gone-viral-for-all-the-wrong-reasons-but-can-you-spot-why/#comments">
+			<span class="icon icon-comment"></span>
+			<span class="livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="1505369"></span>
+		</a>
+	</div><!-- .article-data__item .article-data__comment -->
+
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.co.uk/living/1505369/this-bikini-shot-of-three-girls-in-a-convenience-store-has-gone-viral-for-all-the-wrong-reasons-but-can-you-spot-why/">
+		<a href="https://www.thesun.co.uk/living/1505369/this-bikini-shot-of-three-girls-in-a-convenience-store-has-gone-viral-for-all-the-wrong-reasons-but-can-you-spot-why/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.co.uk/living/1505369/this-bikini-shot-of-three-girls-in-a-convenience-store-has-gone-viral-for-all-the-wrong-reasons-but-can-you-spot-why/"></a>
+
+</div>
+<!-- MEDIUM TEASER - 300PX -->
+<div class="teaser-item teaser__medium theme-main" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.co.uk/tvandshowbiz/1499549/love-islands-kady-mcdermott-suffers-embarrassing-wardrobe-malfunction-at-ocean-beach-club-party-in-ibiza-with-boyfriend-scott-thomas/">
+					<div class="delayed-image-load-landscape" data-src="https://www.thesun.co.uk/wp-content/uploads/2016/07/composite-kady-mcdermott-landscape.jpg?w=300&amp;h=192&amp;crop=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://www.thesun.co.uk/wp-content/uploads/2016/07/composite-kady-mcdermott-landscape.jpg?w=300&amp;h=192&amp;crop=1"></div>
+			</a>
+	</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.co.uk/tvandshowbiz/1499549/love-islands-kady-mcdermott-suffers-embarrassing-wardrobe-malfunction-at-ocean-beach-club-party-in-ibiza-with-boyfriend-scott-thomas/">
+					<h2 class="teaser__headline theme__copy-color">Wet and wild</h2>
+		
+		<p class="teaser__subdeck">
+			Love Island&#039;s Kady McDermott suffers wardrobe malfunction at Ocean Beach Club party in Ibiza		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+			<a href="https://www.thesun.co.uk/tvandshowbiz/" class="theme__copy-color">
+				TV &amp; Showbiz				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	<div class="article-data__item article-data__comment">
+		<a href="https://www.thesun.co.uk/tvandshowbiz/1499549/love-islands-kady-mcdermott-suffers-embarrassing-wardrobe-malfunction-at-ocean-beach-club-party-in-ibiza-with-boyfriend-scott-thomas/#comments">
+			<span class="icon icon-comment"></span>
+			<span class="livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="1499549"></span>
+		</a>
+	</div><!-- .article-data__item .article-data__comment -->
+
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.co.uk/tvandshowbiz/1499549/love-islands-kady-mcdermott-suffers-embarrassing-wardrobe-malfunction-at-ocean-beach-club-party-in-ibiza-with-boyfriend-scott-thomas/">
+		<a href="https://www.thesun.co.uk/tvandshowbiz/1499549/love-islands-kady-mcdermott-suffers-embarrassing-wardrobe-malfunction-at-ocean-beach-club-party-in-ibiza-with-boyfriend-scott-thomas/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.co.uk/tvandshowbiz/1499549/love-islands-kady-mcdermott-suffers-embarrassing-wardrobe-malfunction-at-ocean-beach-club-party-in-ibiza-with-boyfriend-scott-thomas/"></a>
+
+</div>
+<!-- MEDIUM TEASER - 300PX -->
+<div class="teaser-item teaser__medium theme-main" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.co.uk/news/1501559/three-year-old-prince-george-hit-by-vile-rant-from-british-council-boss-paid-thousands-to-promote-uk/">
+					<div class="delayed-image-load-landscape" data-src="https://www.thesun.co.uk/wp-content/uploads/2016/07/composite-george-and-the-dragon-new.jpg?w=300&amp;h=192&amp;crop=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://www.thesun.co.uk/wp-content/uploads/2016/07/composite-george-and-the-dragon-new.jpg?w=300&amp;h=192&amp;crop=1"></div>
+			</a>
+			<!-- EXCLUSIVE TAG -->
+		<div class="teaser-slug">
+			<span class="teaser-slug__copy">Exclusive</span>
+		</div>
+	</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.co.uk/news/1501559/three-year-old-prince-george-hit-by-vile-rant-from-british-council-boss-paid-thousands-to-promote-uk/">
+					<h2 class="teaser__headline theme__copy-color">George &amp; the dragon</h2>
+		
+		<p class="teaser__subdeck">
+			Three-year-old Prince George hit by vile rant from British Council boss paid thousands to promote UK		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+			<a href="https://www.thesun.co.uk/news/" class="theme__copy-color">
+				News				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	<div class="article-data__item article-data__comment">
+		<a href="https://www.thesun.co.uk/news/1501559/three-year-old-prince-george-hit-by-vile-rant-from-british-council-boss-paid-thousands-to-promote-uk/#comments">
+			<span class="icon icon-comment"></span>
+			<span class="livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="1501559"></span>
+		</a>
+	</div><!-- .article-data__item .article-data__comment -->
+
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.co.uk/news/1501559/three-year-old-prince-george-hit-by-vile-rant-from-british-council-boss-paid-thousands-to-promote-uk/">
+		<a href="https://www.thesun.co.uk/news/1501559/three-year-old-prince-george-hit-by-vile-rant-from-british-council-boss-paid-thousands-to-promote-uk/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.co.uk/news/1501559/three-year-old-prince-george-hit-by-vile-rant-from-british-council-boss-paid-thousands-to-promote-uk/"></a>
+
+</div>
+<!-- MEDIUM TEASER - 300PX -->
+<div class="teaser-item teaser__medium theme-main" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.co.uk/sport/football/premierleague/1501546/paul-pogba-to-manchester-united-25m-payment-to-agent-mino-raiola-holding-up-world-record-deal/">
+					<div class="delayed-image-load-landscape" data-src="https://www.thesun.co.uk/wp-content/uploads/2016/07/composite-pogba4.jpg?w=300&amp;h=192&amp;crop=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://www.thesun.co.uk/wp-content/uploads/2016/07/composite-pogba4.jpg?w=300&amp;h=192&amp;crop=1"></div>
+			</a>
+	</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.co.uk/sport/football/premierleague/1501546/paul-pogba-to-manchester-united-25m-payment-to-agent-mino-raiola-holding-up-world-record-deal/">
+					<h2 class="teaser__headline theme__copy-color">POG RISK</h2>
+		
+		<p class="teaser__subdeck">
+			Manchester United&#039;s world record £100m swoop for Paul Pogba being held up by agent Mino Raiola&#039;s £25m fee		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+			<a href="https://www.thesun.co.uk/sport/football/" class="theme__copy-color">
+				Football				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	<div class="article-data__item article-data__comment">
+		<a href="https://www.thesun.co.uk/sport/football/premierleague/1501546/paul-pogba-to-manchester-united-25m-payment-to-agent-mino-raiola-holding-up-world-record-deal/#comments">
+			<span class="icon icon-comment"></span>
+			<span class="livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="1501546"></span>
+		</a>
+	</div><!-- .article-data__item .article-data__comment -->
+
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.co.uk/sport/football/premierleague/1501546/paul-pogba-to-manchester-united-25m-payment-to-agent-mino-raiola-holding-up-world-record-deal/">
+		<a href="https://www.thesun.co.uk/sport/football/premierleague/1501546/paul-pogba-to-manchester-united-25m-payment-to-agent-mino-raiola-holding-up-world-record-deal/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.co.uk/sport/football/premierleague/1501546/paul-pogba-to-manchester-united-25m-payment-to-agent-mino-raiola-holding-up-world-record-deal/"></a>
+
+</div>
+</aside>					</div><!-- .col sun-col-2 -->
+					
+				</div><!-- .sun-row -->
+			
+			
+		</section><!--. sun-container__article-section theme-sport -->
+
+	</div><!-- .main-content-wrap -->
+
+		<div class="gallery-popup">
+		<a href="#" class="close-gallery"><span class="icon icon-close"></span></a>
+
+		<div class="gallery-image-load-cover"></div>
+		<div class="gallery-container">
+			<div class="swiper-container">
+				<div class="swiper-wrapper"></div>
+
+				<div class="swiper-button-prev"></div>
+				<div class="swiper-button-next"></div>
+			</div><!-- .swiper-container -->
+		</div><!-- .gallery-container -->
+
+		<div class="swiper-caption">
+			<div class="swiper-caption-toggle"><span class="arrow"></span></div>
+
+			<div class="swiper-pagination"></div>
+
+			<span class="swiper-caption-list"></span>
+
+			<div class="sharingButtons social social--gallery">
+				<div data-naytev-share-horizontal></div>
+			</div>
+		</div><!-- .swiper-caption -->
+	</div><!-- .gallery-popup -->
+
+<div id="cookie-bar">
+    <div class="sun-row">
+        <div class="col sun-col-6">
+            <p>By continuing to use the site, you agree to the use of cookies. You can change this and find out more by following <a href="http://www.newsprivacy.co.uk/single/">this link</a></p>
+            <a class="accept-cookies">Close</a>
+        </div>
+    </div>
+</div>
+
+</div><!-- .sun-container .theme -->
+
+<div class="dfp-ad" id="pixel">
+	<script type="text/javascript">
+		document.addEventListener('DOMContentLoaded', function () {
+			var thesun_ad_cmd = thesun_ad_cmd || [];
+			thesun_ad_cmd.push( function() {
+				googletag.display( 'pixel' );
+			} );
+		});
+	</script>
+</div>
+<div class="dfp-ad" id="pixelSkin">
+	<script type="text/javascript">
+		document.addEventListener('DOMContentLoaded', function () {
+			var thesun_ad_cmd = thesun_ad_cmd || [];
+			thesun_ad_cmd.push( function() {
+				googletag.display( 'pixelSkin' );
+			} );
+		});
+	</script>
+</div>
+<div class="dfp-ad" id="pixelTeads">
+	<script type="text/javascript">
+		document.addEventListener('DOMContentLoaded', function () {
+			var thesun_ad_cmd = thesun_ad_cmd || [];
+			thesun_ad_cmd.push( function() {
+				googletag.display( 'pixelTeads' );
+			} );
+		});
+	</script>
+</div>
+
+<footer>
+
+	<div class="sun-row">
+		<div class="col sun-col-2 footer-follow">
+			<h3 class="footer-title-follow">Follow The Sun</h3>
+
+			<div class="follow-sun">
+				<a href="https://www.facebook.com/thesun/" class="follow-facebook"><span class="icon icon-facebook"></span></a>
+				<a href="https://twitter.com/thesun?lang=en-gb" class="follow-twitter"><span class="icon icon-twitter"></span></a>
+			</div>
+		</div>
+
+		<div class="col sun-col-4 footer-nav">
+			<h3 class="footer-title-services">Services</h3>
+			<ul id="menu-footer" class="menu"><li id="menu-item-1236019" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1236019"><a href="https://www.thesun.co.uk/sign-up-to-the-sun/">Sign Up To The Sun</a></li>
+<li id="menu-item-1235852" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1235852"><a href="https://www.thesun.co.uk/terms-and-conditions/">Terms and Conditions</a></li>
+<li id="menu-item-1235452" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1235452"><a href="https://www.thesun.co.uk/editorial-complaints/">Editorial Complaints</a></li>
+<li id="menu-item-1237807" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1237807"><a href="https://www.thesun.co.uk/topic/clarifications/">Clarifications and Corrections</a></li>
+<li id="menu-item-1235451" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1235451"><a href="https://www.thesun.co.uk/syndication/">Syndication</a></li>
+<li id="menu-item-1388523" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1388523"><a href="http://www.newsukadvertising.co.uk">Advertising</a></li>
+<li id="menu-item-1235453" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1235453"><a href="https://www.thesun.co.uk/contact-us/">Contact Us</a></li>
+<li id="menu-item-1235319" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1235319"><a href="http://help.thesun.co.uk/">Help Hub</a></li>
+</ul>		</div>
+
+		<div class="col sun-col-2 footer-col-dummy"></div>
+
+		<div class="col sun-col-4">
+			<div class="terms">
+				<p>&copy;News Group Newspapers Limited in England No. 679215 Registered office: 1 London Bridge Street, London, SE1 9GF. "The Sun", "Sun", "Sun Online" are registered trademarks or trade names of News Group Newspapers Limited. This service is provided on News Group Newspapers' Limited's <a href="https://www.thesun.co.uk/terms-and-conditions/">Standard Terms and Conditions</a> in accordance with our <a href="http://www.newsprivacy.co.uk/">Privacy &amp; Cookie Policy</a>. To inquire about a licence to reproduce material, visit our <a href="https://www.thesun.co.uk/syndication/">Syndication</a> site. View our online Press Pack. For other inquiries, <a href="https://www.thesun.co.uk/contact-us/">Contact Us</a>. To see all content on The Sun, please use the Site Map. The Sun website is regulated by the <a href="https://www.thesun.co.uk/editorial-complaints/">Independent Press Standards Organisation (IPSO)</a></p>
+<p>Our journalists strive for accuracy but on occasion we make mistakes. For further details of our complaints policy and to make a complaint please click <a href="https://www.thesun.co.uk/editorial-complaints/">here</a>.</p>
+			</div>
+		</div>
+	</div><!-- .sun-row -->
+
+</footer>
+
+
+		<!-- /// LOAD CHARTBEAT /// -->
+		<script type="text/javascript">
+		var _sf_async_config={};
+		_sf_async_config.uid = 28716;
+		_sf_async_config.useCanonical = true;
+					_sf_async_config.domain = 'thesun.co.uk';
+			_sf_async_config.authors = 'showes';
+_sf_async_config.sections = ["News", "UK News"];
+
+		(function(){
+		  function loadChartbeat() {
+			window._sf_endpt=(new Date()).getTime();
+			var e = document.createElement('script');
+			e.setAttribute('language', 'javascript');
+			e.setAttribute('type', 'text/javascript');
+			e.setAttribute('src',
+			   (("https:" == document.location.protocol) ? "https://" : "http://") +
+			   "static.chartbeat.com/js/chartbeat.js");
+			document.body.appendChild(e);
+		  }
+		  var oldonload = window.onload;
+		  window.onload = (typeof window.onload != 'function') ?
+			 loadChartbeat : function() { try { oldonload(); } catch (e) { loadChartbeat(); throw e} loadChartbeat(); };
+		})();
+		</script>
+			<div style="display:none">
+	</div>
+	<script>
+		!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+			n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+			n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+			t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+			document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+		fbq('init', '752905198150451');
+		fbq('track', "PageView");
+	</script>
+
+	<noscript>
+		<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=752905198150451&ev=PageView&noscript=1" />
+	</noscript>
+
+		 <script type="application/ld+json">
+	 {
+	 "@context": "http://schema.org",
+	 "@type": "NewsArticle",
+	 "mainEntityOfPage": {
+	    "@type":"WebPage",
+	    "@id":"https:\/\/www.thesun.co.uk\/news\/1506388\/intelligence-agencies-warn-britain-is-facing-severe-danger-of-attack-in-wake-of-european-atrocities\/"	  },
+	  "headline": "Intelligence agencies warn Britain is facing &#8216;severe&#8217; danger of attack in wake of European atrocities",
+	  "image": {
+	    "@type": "ImageObject",
+	    "url": false,
+	    "height": 1200,
+	    "width": 800
+	  },
+	  "datePublished": "2016-07-26T18:15:43+00:00",
+	  "dateModified": "2016-07-26T18:46:44+00:00",
+	  "author": {
+	    "@type": "Person",
+	    "name": "showes"	  },
+	   "publisher": {
+	    "@type": "Organization",
+	    "name": "The Sun",
+	    "logo": {
+	      "@type": "ImageObject",
+	      "url": "https:\/\/www.thesun.co.uk\/wp-content\/themes\/thesun\/images\/the-sun-structured-data-logo.jpg",
+	      "width": 139,
+	      "height": 60
+	    }
+	  },
+	  "description": "Seriousness of threat was highlighted in a hearing intended to protect the privacy of UK citizens&#039; amid warnings of attack"	}
+	</script>
+	<script type="text/javascript">
+    var livefyre_auth_loaded = false;
+</script>
+    <script type="text/javascript">
+        var load_livefyre_auth = function() {};
+    </script>
+
+<script type="text/javascript">
+    var networkConfigComments = {
+        network: "thesun.fyre.co"    };
+    var convConfigComments1506388 = {
+        siteId: "289969",
+        articleId: 1506388,
+        el: "livefyre-comments",
+        collectionMeta: "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJodHRwczpcL1wvd3d3LnRoZXN1bi5jby51a1wvbmV3c1wvMTUwNjM4OFwvaW50ZWxsaWdlbmNlLWFnZW5jaWVzLXdhcm4tYnJpdGFpbi1pcy1mYWNpbmctc2V2ZXJlLWRhbmdlci1vZi1hdHRhY2staW4td2FrZS1vZi1ldXJvcGVhbi1hdHJvY2l0aWVzXC8iLCJ0aXRsZSI6IkludGVsbGlnZW5jZSBhZ2VuY2llcyB3YXJuIEJyaXRhaW4gaXMgZmFjaW5nICYjODIxNjtzZXZlcmUmIzgyMTc7IGRhbmdlciBvZiBhdHRhY2sgaW4gd2FrZSBvZiBFdXJvcGVhbiBhdHJvY2l0aWVzIiwiYXJ0aWNsZUlkIjoxNTA2Mzg4LCJ0YWdzIjpbIkdvdmVybm1lbnQiLCJ0ZXJyb3IiLCJUZXJyb3Jpc20iXSwidHlwZSI6ImxpdmVjb21tZW50cyJ9.zRdyT7dvpFiWBW-ieSB1LmtstCuAWRjwPP7YQiBmTAo",
+        checksum: "c92bb145eb9b82759b1cbf09c83f147d"    };
+    if (typeof (liveCommentsConfig) !== 'undefined') {
+        convConfigComments1506388 = Livefyre.LFAPPS.lfExtend(liveCommentsConfig, convConfigComments1506388);
+    }
+
+    Livefyre.require(["fyre.conv#3"], function (ConvComments) {
+        load_livefyre_auth();
+        new ConvComments(networkConfigComments,
+                [convConfigComments1506388],
+                function (commentsWidget) {
+                    var livecommentsListeners = Livefyre.LFAPPS.getAppEventListeners('livecomments');
+                    if (livecommentsListeners.length > 0) {
+                        for (var i = 0; i<livecommentsListeners.length; i++) {
+                            var livecommentsListener = livecommentsListeners[i];
+                            commentsWidget.on(livecommentsListener.eventName, livecommentsListener.callback);
+                        }
+                    }
+                }
+        );
+    });
+</script><script type="text/javascript" data-lf-domain="thesun.fyre.co" id="ncomments_js" src="https://cdn.livefyre.com/libs/commentcount/v1.0/commentcount.js"></script><script type='text/javascript'>
+/* <![CDATA[ */
+var galleryData = [{"img":"https:\/\/www.thesun.co.uk\/wp-content\/uploads\/2016\/07\/nintchdbpict000254663123.jpg?w=960","caption":"A terror attack in the UK is 'highly likely' after incidents in Europe","credit":"Getty Images"},{"img":"https:\/\/www.thesun.co.uk\/wp-content\/uploads\/2016\/07\/nintchdbpict000254663000.jpg?w=960","caption":"Threat level in the UK is set as 'severe', security services say","credit":"Getty Images"},{"img":"https:\/\/www.thesun.co.uk\/wp-content\/uploads\/2016\/07\/nintchdbpict000254663236.jpg?w=960","caption":"Forensics search the area of a suicide bomb attack at a music festival in Ansbach, Germany","credit":"Getty Images"},{"img":"https:\/\/www.thesun.co.uk\/wp-content\/uploads\/2016\/07\/nintchdbpict000254663122.jpg?w=960","caption":"The Le Carillon bar in Paris where victims of the November attacks were killed by ISIS terrorists","credit":"Getty Images"}];
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.thesun.co.uk/wp-content/themes/thesun/js/main.js?m=1466003782g'></script>
+<script type='text/javascript' src='https://player.ooyala.com/v3/NDcyOWI0M2YyMDdkN2YwODU5Mzc5MDUz?platform=html5-priority'></script>
+<script type='text/javascript' src='https://www.thesun.co.uk/_static/??-eJzTLy/QTc7PK0nNK9EvyUjNTS0GUcWlefpZxfplmSmp+XpZxTr6+FQVl2cWpBbp5WbmEVSaXpwIU5OZl5xTmgKUBQoDuam5SakpUDPsc20NTczMjQ0MLS3MswBRJDqk'></script>
+<script type='text/javascript' src='https://stats.wp.com/e-201630.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:4.1.1',blog:'111602770',post:'1506388',tz:'1',srv:'www.thesun.co.uk'} ]);
+	_stq.push([ 'clickTrackerInit', '111602770', '1506388' ]);
+</script>
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"12f4312a27","applicationID":"17819076","transactionName":"YFxWYEpUVhJQAUMIXFkWdVdMXFcPHhFeD1RCVVVG","queueTime":0,"applicationTime":316,"atts":"TBtBFgJORU0TAxVbSEpE","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>
+
+0
+
+
+
+WARC/1.0
+WARC-Type: metadata
+WARC-Record-ID: <urn:uuid:03afac37-d109-4534-af06-e216e91c49b4>
+WARC-Warcinfo-ID: <urn:uuid:427d6d60-bd4d-49e7-aa78-94694e6665f3>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/MANIFEST.txt
+WARC-Date: 2016-07-26T22:22:40Z
+Content-Type: text/plain
+Content-Length: 48
+
+<urn:uuid:427d6d60-bd4d-49e7-aa78-94694e6665f3>
+
+
+WARC/1.0
+WARC-Type: resource
+WARC-Record-ID: <urn:uuid:cc29120d-288c-4d31-8abb-7c150755beb1>
+WARC-Warcinfo-ID: <urn:uuid:427d6d60-bd4d-49e7-aa78-94694e6665f3>
+WARC-Concurrent-To: <urn:uuid:03afac37-d109-4534-af06-e216e91c49b4>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/wget_arguments.txt
+WARC-Date: 2016-07-26T22:22:40Z
+Content-Type: text/plain
+Content-Length: 345
+
+"--warc-file" "intelligence-agencies-warn-britain-is-facing-severe-danger-of-attack-in-wake-of-european-atrocities" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "-q" "-O" "/dev/null" "https://www.thesun.co.uk/news/1506388/intelligence-agencies-warn-britain-is-facing-severe-danger-of-attack-in-wake-of-european-atrocities/" 
+
+
