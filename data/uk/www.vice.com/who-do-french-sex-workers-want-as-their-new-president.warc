@@ -1,0 +1,500 @@
+WARC/1.0
+WARC-Type: warcinfo
+Content-Type: application/warc-fields
+WARC-Date: 2017-04-23T10:37:54Z
+WARC-Record-ID: <urn:uuid:f5b77983-1f46-44b3-8949-fd260275a885>
+WARC-Filename: who-do-french-sex-workers-want-as-their-new-president.warc
+Content-Length: 429
+
+software: Wget/1.17.1 (linux-gnu)
+format: WARC File Format 1.0
+conformsTo: http://bibnum.bnf.fr/WARC/WARC_ISO_28500_version1_latestdraft.pdf
+robots: classic
+wget-arguments: "--warc-file" "who-do-french-sex-workers-want-as-their-new-president" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "-q" "-O" "/dev/null" "https://www.vice.com/en_uk/article/who-do-french-sex-workers-want-as-their-new-president" 
+
+
+
+WARC/1.0
+WARC-Type: request
+WARC-Target-URI: https://www.vice.com/en_uk/article/who-do-french-sex-workers-want-as-their-new-president
+Content-Type: application/http;msgtype=request
+WARC-Date: 2017-04-23T10:37:54Z
+WARC-Record-ID: <urn:uuid:92f657a5-48f3-4b0c-a03a-799be02feeab>
+WARC-IP-Address: 151.101.1.132
+WARC-Warcinfo-ID: <urn:uuid:f5b77983-1f46-44b3-8949-fd260275a885>
+Content-Length: 206
+
+GET /en_uk/article/who-do-french-sex-workers-want-as-their-new-president HTTP/1.1
+User-Agent: Wget/1.17.1 (linux-gnu)
+Accept: */*
+Accept-Encoding: identity
+Host: www.vice.com
+Connection: Keep-Alive
+
+
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <urn:uuid:b1e84b08-675f-464f-96c6-8f6bbbbb0f44>
+WARC-Warcinfo-ID: <urn:uuid:f5b77983-1f46-44b3-8949-fd260275a885>
+WARC-Concurrent-To: <urn:uuid:92f657a5-48f3-4b0c-a03a-799be02feeab>
+WARC-Target-URI: https://www.vice.com/en_uk/article/who-do-french-sex-workers-want-as-their-new-president
+WARC-Date: 2017-04-23T10:37:54Z
+WARC-IP-Address: 151.101.1.132
+WARC-Block-Digest: 
+WARC-Payload-Digest: �E
+Content-Type: application/http;msgtype=response
+Content-Length: 84092
+
+HTTP/1.1 200 OK
+Cache-Control: public, max-age=303, must-revalidate
+Content-Type: text/html; charset=utf-8
+ETag: W/"145b4-9lUSo1L8li6ejWL/xDOJtA"
+Expires: Sat, 22 Apr 2017 14:03:33 GMT
+Pragma: public
+Server: nginx
+X-Powered-By: Express
+Via: 1.1 varnish
+Fastly-Debug-Digest: c30a5295858aa3684fcfd62ba5fa86442afe729e24305114ff0ce4a3f4a3b9a3
+X-Backend: 23.235.46.33
+Content-Length: 83380
+Accept-Ranges: bytes
+Date: Sun, 23 Apr 2017 10:37:55 GMT
+Via: 1.1 varnish
+Age: 0
+Connection: keep-alive
+X-Served-By: cache-iad2133-IAD, cache-wlg7320-WLG
+X-Cache: HIT, MISS
+X-Cache-Hits: 1, 0
+X-Timer: S1492943875.629789,VS0,VE432
+Vary: Accept-Encoding
+X-GeoIP-Country-Code: NZ
+X-GeoIP-Region-Code: E9
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+  <!-- NREUM: (1) -->
+  
+  <script>
+window.__V1C3 = {};
+</script>
+
+  <meta charset='utf-8'/>
+  <title>Who Do French Sex Workers Want as Their New President? - Vice</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+  <meta name="keywords" content="culture, news, lgbtq, politics, journalism, video, documentary, sex, drugs, film, tv, entertainment, travel, crime,sex work,Elections,presidential elections,VICE International,vice france"/>
+  <meta name="news_keywords" content="culture, news, lgbtq, politics, journalism, video, documentary, sex, drugs, film, tv, entertainment, travel, crime,sex work,Elections,presidential elections,VICE International,vice france"/>
+  <meta name="description" content="A year ago, a law passed in France made paying for sex illegal. I asked the people directly affected how they feel about the upcoming elections." />
+  <meta name="thumbnail" content="https://video-images.vice.com/articles/58f9d023af66ac6a64f56e78/lede/1492783503155-1492595470588-VICE1_V2.jpeg"/>
+  <link rel="canonical" href="https://www.vice.com/en_uk/article/who-do-french-sex-workers-want-as-their-new-president"/>
+  <link rel="alternate" type="application/rss+xml" title="vice" href="https://www.vice.com/en_uk/rss"/>
+  <!-- Serialized Content Policy Tag(s) -->
+  
+    
+      
+      <link rel="alternate" href="https://www.vice.com/en_us/article/who-do-french-sex-workers-want-as-their-new-president" hreflang="en-US" />
+      
+      <link rel="alternate" href="https://www.vice.com/en_ca/article/who-do-french-sex-workers-want-as-their-new-president" hreflang="en-CA" />
+      
+      <link rel="alternate" href="https://www.vice.com/en_uk/article/who-do-french-sex-workers-want-as-their-new-president" hreflang="en-GB" />
+      
+    
+  
+
+  <!-- Facebook -->
+  <meta property="fb:app_id" content="213518685373476"/>
+  <meta property="og:site_name" name="og:site_name" content="Vice"/>
+  <meta property="og:title" name="og:title" content="Who Do French Sex Workers Want as Their New President?" />
+  
+  <meta property="og:image" name="og:image" content="https://video-images.vice.com/articles/58f9d023af66ac6a64f56e78/lede/1492783503155-1492595470588-VICE1_V2.jpeg?crop=0.9986130374479889xw:1xh;center,center&resize=1200:*"/>
+  
+  <meta property="og:image:type" name="og:image:type" content="image/jpeg"/>
+  <meta property="og:locale" name="og:locale" content="en_uk"/>
+  <meta property="og:url" name="og:url" content="https://www.vice.com/en_uk/article/who-do-french-sex-workers-want-as-their-new-president"/>
+  <meta property="og:description" name="og:description" content="A year ago, a law passed in France made paying for sex illegal. I asked the people directly affected how they feel about the upcoming elections."/>
+
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="viceuk"/>
+  <meta name="twitter:title" content="Who Do French Sex Workers Want as Their New President?" />
+  <meta name="twitter:description" content="A year ago, a law passed in France made paying for sex illegal. I asked the people directly affected how they feel about the upcoming elections."/>
+
+  <!-- include homepage specific logic here -->
+  
+  <!-- Favicons -->
+  <link rel="manifest" href="https://vice-web-statics-cdn.vice.com/favicons/vice/manifest.json">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="theme-color" content="#fff">
+<meta name="application-name" content="vice">
+<link rel="apple-touch-icon" sizes="57x57" href="https://vice-web-statics-cdn.vice.com/favicons/vice/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="https://vice-web-statics-cdn.vice.com/favicons/vice/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://vice-web-statics-cdn.vice.com/favicons/vice/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://vice-web-statics-cdn.vice.com/favicons/vice/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://vice-web-statics-cdn.vice.com/favicons/vice/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://vice-web-statics-cdn.vice.com/favicons/vice/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://vice-web-statics-cdn.vice.com/favicons/vice/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://vice-web-statics-cdn.vice.com/favicons/vice/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://vice-web-statics-cdn.vice.com/favicons/vice/apple-touch-icon-180x180.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="vice">
+<link rel="icon" type="image/png" sizes="228x228" href="https://vice-web-statics-cdn.vice.com/favicons/vice/coast-228x228.png">
+<link rel="yandex-tableau-widget" href="https://vice-web-statics-cdn.vice.com/favicons/vice/yandex-browser-manifest.json">
+<meta name="msapplication-TileColor" content="#fff">
+<meta name="msapplication-TileImage" content="https://vice-web-statics-cdn.vice.com/favicons/vice/mstile-144x144.png">
+<meta name="msapplication-config" content="https://vice-web-statics-cdn.vice.com/favicons/vice/browserconfig.xml">
+<link rel="icon" type="image/png" sizes="32x32" href="https://vice-web-statics-cdn.vice.com/favicons/vice/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="192x192" href="https://vice-web-statics-cdn.vice.com/favicons/vice/android-chrome-192x192.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://vice-web-statics-cdn.vice.com/favicons/vice/favicon-16x16.png">
+<link rel="shortcut icon" href="https://vice-web-statics-cdn.vice.com/favicons/vice/favicon.ico">
+<link rel="apple-touch-startup-image" media="(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 1)" href="https://vice-web-statics-cdn.vice.com/favicons/vice/apple-touch-startup-image-320x460.png">
+<link rel="apple-touch-startup-image" media="(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 2)" href="https://vice-web-statics-cdn.vice.com/favicons/vice/apple-touch-startup-image-640x920.png">
+<link rel="apple-touch-startup-image" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)" href="https://vice-web-statics-cdn.vice.com/favicons/vice/apple-touch-startup-image-640x1096.png">
+<link rel="apple-touch-startup-image" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)" href="https://vice-web-statics-cdn.vice.com/favicons/vice/apple-touch-startup-image-750x1294.png">
+<link rel="apple-touch-startup-image" media="(device-width: 414px) and (device-height: 736px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 3)" href="https://vice-web-statics-cdn.vice.com/favicons/vice/apple-touch-startup-image-1182x2208.png">
+<link rel="apple-touch-startup-image" media="(device-width: 414px) and (device-height: 736px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 3)" href="https://vice-web-statics-cdn.vice.com/favicons/vice/apple-touch-startup-image-1242x2148.png">
+<link rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 1)" href="https://vice-web-statics-cdn.vice.com/favicons/vice/apple-touch-startup-image-748x1024.png">
+<link rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 1)" href="https://vice-web-statics-cdn.vice.com/favicons/vice/apple-touch-startup-image-768x1004.png">
+<link rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 2)" href="https://vice-web-statics-cdn.vice.com/favicons/vice/apple-touch-startup-image-1496x2048.png">
+<link rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 2)" href="https://vice-web-statics-cdn.vice.com/favicons/vice/apple-touch-startup-image-1536x2008.png">
+
+  <!-- MS Application -->
+  <meta name="msapplication-TileColor" content="#FFFFFF"/>
+  <meta name="msapplication-square70x70logo" content=""/>
+  <meta name="msapplication-TileImage" content=""/>
+  <meta name="msapplication-square150x150logo" content=""/>
+  <meta name="msapplication-wide310x150logo" content=""/>
+  <meta name="msapplication-square310x310logo" content=""/>
+  
+  <link href="https://fonts.googleapis.com/css?family=Lora:400,700" rel="stylesheet">
+  
+  <link rel="stylesheet" type="text/css" href="https://vice-web-statics-cdn.vice.com/static/vice.483438c4ddd9b394bd92.css"/>
+  <script>
+    window.__LOGGER = {};
+  </script>
+  <!-- iFramely lazy load snippet -->
+  <script type="text/javascript">
+    function loadIframelyEmbedJs() {
+        if (document.querySelectorAll('[data-iframely-url]').length === 0) return;
+        var iframely = window.iframely = window.iframely || {};
+        var widgets = iframely.widgets = iframely.widgets || {};
+        if (widgets.load) {
+            widgets.load();
+        } else {
+            var ifs = document.createElement('script'); ifs.type = 'text/javascript'; ifs.async = true;
+            ifs.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + '//cdn.iframe.ly/embed.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ifs, s);
+        }
+    }
+  </script>
+  <!-- GRAPESHOT channel tag -->
+<script type="text/javascript">
+  var gs_channels="DEFAULT";
+  var gsurl=window.location!=window.top.location?document.referrer:window.location;
+  document.write('<scr'+'ipt type="text/javascript" src="//vice-useast.gscontxt.net/main/channels.fcgi?url='+encodeURIComponent(gsurl)+'"></scr'+'ipt>');
+</script>
+<!-- GRAPESHOT channel tag END -->
+
+<script type="text/javascript" src="//vice-d.openx.net/w/1.0/jstag?nc=16916245-vice"></script>
+
+<!-- Start: GPT Async -->
+<script type='text/javascript'>
+  var gptadslots = {};
+  var globalAdSlots = {};
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function(){ var gads = document.createElement('script');
+    gads.async = true; gads.type = 'text/javascript';
+    var useSSL = 'https:' == document.location.protocol;
+    gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script>
+<!-- BEGIN Krux Control Tag for "Noisey" -->
+
+<script class="kxct" data-id="JLmLD3_1" data-timing="async" data-version="1.9" type="text/javascript">
+ window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
+ (function(){
+   var k=document.createElement('script');k.type='text/javascript';k.async=true;
+   var m,src=(m=location.href.match(/\bkxsrc=([^&]+)/))&&decodeURIComponent(m[1]);
+   k.src = /^https?:\/\/([a-z0-9_\-\.]+\.)?krxd\.net(:\d{1,5})?\//i.test(src) ? src : src === "disable" ? "" :
+     (location.protocol==="https:"?"https:":"http:")+"//cdn.krxd.net/controltag?confid=JLmLD3_1"
+ ;
+   var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);
+ }());
+
+</script>
+<script>
+window.Krux||((Krux=function(){Krux.q.push(arguments);}).q=[]);
+(function(){
+ function retrieve(n){
+  var m, k='kx'+n;
+  if(window.localStorage){
+   return window.localStorage[k] || "";
+  }else if(navigator.cookieEnabled){
+   m = document.cookie.match(k+'=([^;]*)');
+   return (m && unescape(m[1])) || "";
+  }else{
+   return '';
+  }
+ }
+ Krux.user = retrieve('user');
+ Krux.segments = retrieve('segs') && retrieve('segs').split(',') || [];
+})();
+</script>
+<!-- END Krux Controltag -->
+
+<!-- sharethrough -->
+<script type="text/javascript" src="//native.sharethrough.com/assets/sfp.js"></script>
+
+<script type="text/javascript">
+  googletag.cmd.push(function() {
+    googletag.pubads().setTargeting("ksg", Krux.segments);
+    googletag.pubads().setTargeting("kuid", Krux.user);
+    googletag.pubads().setTargeting('gs_cat', gs_channels);
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().enableAsyncRendering();
+    googletag.pubads().disableInitialLoad();
+    googletag.pubads().collapseEmptyDivs(true);
+    googletag.enableServices();
+  });
+</script>
+<!-- End: GPT -->
+
+<script async defer src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+  
+
+  
+<!-- GA Tag -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', "UA-599058-49", 'auto');
+
+</script>
+<!-- End GA Tag -->
+
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt); })();
+_qevents.push({
+qacct:"p-6EzWtvBV9sFU3"
+});
+</script>
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-6EzWtvBV9sFU3.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"x5HVh1aUXR00Gi", domain:"vice.com",dynamic: true};
+window.__LOGGER.atrk = {};
+window.__LOGGER.atrk[window.location.pathname] = true;
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=x5HVh1aUXR00Gi" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->
+
+<!-- begin comscore tag -->
+<script>
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "8568956" });
+(function() {
+var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+el.parentNode.insertBefore(s, el);
+})();
+window.__LOGGER.comscore = {};
+window.__LOGGER.comscore[window.location.pathname] = true;
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&c2=8568956&cv=2.0&cj=1" />
+</noscript>
+<!-- end comscore tag -->
+
+<!--IVW Script-->
+<script src="https://advice-ads-cdn.vice.com/DE/viceIVW-CS.js"></script>
+<!--End IVW Script-->
+
+<!--Austrian OEWA updated Tracker-->
+<script type="text/javascript" src="https://vice-publishers-cdn.vice.com/AT_CH/OEWA/oewa_pixel_updated.js" async="async"></script>
+<!--End Austrian OEWA Tracker-->
+
+<!--Chartbeat-->
+<script type="text/javascript">
+var _sf_startpt=(new Date()).getTime();
+var _sf_async_config = {};
+/** CONFIGURATION START **/
+_sf_async_config.sections = 'en_uk';
+_sf_async_config.uid = 8233;
+_sf_async_config.domain = "vice.com";
+/** CONFIGURATION END **/
+(function(){
+function loadChartbeat(){
+window._sf_endpt=(new Date()).getTime();
+var e = document.createElement("script");
+e.setAttribute("language", "javascript");
+e.setAttribute("type", "text/javascript");
+e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+document.body.appendChild(e);
+}
+var oldonload = window.onload;
+window.onload = (typeof window.onload != "function") ?
+loadChartbeat : function(){try{oldonload();}catch(e){loadChartbeat(); throw e}loadChartbeat();};
+})();
+</script>
+<!-- end chartbeat -->
+
+
+
+  
+<!-- BEGIN iOS app smart banner -->
+<meta name="apple-itunes-app" content="app-id=591496838">
+<!-- END iOS app smart banner -->
+
+<!--Crazy Egg-->
+<script type="text/javascript">
+  setTimeout(function(){var a=document.createElement("script");
+    var b=document.getElementsByTagName("script")[0];
+    a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0013/1363.js?"+Math.floor(new Date().getTime()/3600000);
+    a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+<!--End Crazy Egg-->
+
+  
+</head>
+<body>
+  <script>
+    window.__PREFETCH_DATA = {"id":"58f9d023af66ac6a64f56e78","nsfb":false,"nsfw":false,"web_id":"4x9nxg","title":"Who Do French Sex Workers Want as Their New President?","body":"\u003Cp\u003E\u003Ci\u003EThis article originally appeared on \u003Ca href=\"http:\u002F\u002Fvice.com\u002Ffr\"\u003EVICE France\u003C\u002Fa\u003E\u003C\u002Fi\u003E\u003Cbr\u003E\u003Cbr\u003EWhen I meet them, the women are all wearing chunky knit cardigans over their satin nighties. We're standing in front of a caravan belonging to one of them, Chloé*, and they're smoking and chatting. Chloé tells me she just got her polling card for the first round of France's presidential elections this Sunday. \"Like most people in France, we're not sure who we'll vote for yet,\" her friend Sandra tells me. She has copper highlights in her hair and smoky eyes. \"But we're absolutely positive who we're not voting for.\" \u003C\u002Fp\u003E \u003Cp\u003EStanding next to her is Jocelyne, who points at her mismatching red socks and apologises for the way she's dressed. She tells me she doesn't feel ready to vote yet. Florence, in a blonde wig, says that it annoys her that \"no one talks about us\". The position of prostitutes in France hasn't been discussed much during the campaign, but whichever candidate wins will have a huge impact on the lives of these four women. \u003C\u002Fp\u003E \u003Cp\u003EThey're all in their fifties, and they've worked the same spot for almost three decades, on a road that crosses the Bois de Vincennes – the largest public park in Paris – in the southeast of the city. When their increasingly rare clients leave them, the morning joggers run by. \"Our clients don't want to take an escort to a fancy restaurant,\" Sandra says. \"They just want to blow off some steam.\" \u003C\u002Fp\u003E \u003Cp\u003EA lot changed for these women when, about a year ago, \u003Ca href=\"https:\u002F\u002Fwww.theguardian.com\u002Fworld\u002F2016\u002Fapr\u002F06\u002Ffrance-passes-law-illegal-to-pay-for-sex-criminalise-customers\" target=\"_blank\"\u003Ea law was passed making paying for sex in France illegal\u003C\u002Fa\u003E. Chloé points to a few younger girls on the other side of the street. \"The networks are still there, so nothing changed there. But more than anything, this law has put us in danger.\" A client recently tried to rob her. He took out a revolver, threatened her and eventually just left with her iPhone. \"A lot of our clients have left – it has affected our quality of life. We now have to accept clients who we wouldn't have taken on before – people who are rude or violent. People who fear nothing.\" \u003C\u002Fp\u003E\u003Cp\u003EThe health risk is worse now, too. \"Everyone in this area used to wear condoms, but these days one out of two doesn't wear one.\" One man recently asked Jocelyn for a \"natural fellatio\" – without a condom – which she refused. \"It's a disaster,\" she says. \u003C\u002Fp\u003E \u003Chr\u003E \u003Cp\u003E\u003Cb\u003E\u003Ci\u003EWatch: 10 Questions You Always Wanted to Ask a Sex Worker\u003Cbr\u003E\u003C\u002Fi\u003E\u003C\u002Fb\u003E\u003C\u002Fp\u003E \u003Cdiv data-iframely-id=\"Rz9UaVp\" class=\"article__embed article__embed--iframely\"\u003E\u003Cdiv style=\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;\" data-iframely-smart-iframe=\"true\"\u003E\u003Ciframe data-img=\"\" data-iframely-url=\"\u002F\u002Foembed.vice.com\u002FRz9UaVp\" style=\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\" allowfullscreen data-iframely-smart-iframe=\"true\" frameborder=\"0\"\u003E\u003C\u002Fiframe\u003E\u003C\u002Fdiv\u003E\u003C\u002Fdiv\u003E \u003Chr\u003E \u003Cp\u003EThe women tell me they're in this line of work by choice, and feel their profession should be recognised as such. \"It's an art, like Grisélidis Réal said,\" says Sandra, referring to the famous Genevan author, prostitute and feminist. \"And one of our missions has always been sexual education. We used to explain to men that sex is not just emptying your balls – that it could be more. We would advise them to go and see a doctor if they had an issue or were impotent. People need to differentiate between prostitution and sexual slavery. As long as they don't, our work will keep being stigmatised.\"\u003C\u002Fp\u003E \u003Cp\u003ELike Sandra said, they know who they aren't voting for. Left-wing candidate Jean-Luc Mélenchon \u003Ca href=\"http:\u002F\u002Fwww.leparisien.fr\u002Fespace-premium\u002Factu\u002Fjean-luc-melenchon-le-ps-presente-de-nombreux-symptomes-de-necrose-11-12-2011-1762691.php\" target=\"_blank\"\u003Ehas said\u003C\u002Fa\u003E \"prostitution is nothing but human trafficking and should therefore be radically regulated\". They won't go for Socialist Party candidate Benoît Hamon either, who signed \u003Ca href=\"http:\u002F\u002Fcongres.parti-socialiste.fr\u002Fcontributions\u002Fla-prostitution-est-une-violence-abolissons-la.pdf\" target=\"_blank\"\u003Ea declaration\u003C\u002Fa\u003E called \"Prostitution is a form of violence, let's abolish it!\" The biggest betrayal to them, however, is the fact that the left formed a majority that led to the law fining their clients. Sandra is a leftie and was a supporter of current president François Hollande when he was elected in 2012. \"It hurts that this law came from the left,\" she says. \u003C\u002Fp\u003E \u003Cp\u003ECentre-right candidate François Fillon \u003Ca href=\"http:\u002F\u002Fwww.lejdd.fr\u002FPolitique\u002FLa-loi-sur-la-prostitution-adoptee-en-premiere-lecture-qui-a-vote-quoi-642092\" target=\"_blank\"\u003Edidn't vote\u003C\u002Fa\u003E on the law when it was passed in the National Assembly, but the women of the Bois de Vincennes are sceptical about him for other reasons. He's being investigated for \u003Ca href=\"https:\u002F\u002Fnews.vice.com\u002Fstory\u002Fdefiant-fillon-refuses-to-drop-out-of-french-presidential-race-as-le-pen-advances\"\u003Ehiring his wife\u003C\u002Fa\u003E as a parliamentary assistant for an outrageously high salary. \"To give that kind of money to his wife and still pretend to be Mr Clean, it's incredible,\" says Sandra. \"What's more, he's supported by all these Catholic traditionalists, so Fillon is also not an option.\" \u003C\u002Fp\u003E \u003Cdiv class=\"article__media\"\u003E \u003Cpicture class=\"article__image\"\u003E \u003Csource media=\"(max-width: 25em)\" srcset=\"https:\u002F\u002Fvideo-images.vice.com\u002F_uncategorized\u002F1492786170624-1492595438302-VICE_2.jpeg?resize=400:*, https:\u002F\u002Fvideo-images.vice.com\u002F_uncategorized\u002F1492786170624-1492595438302-VICE_2.jpeg?resize=600:* 2x\"\u003E \u003Csource media=\"(max-width: 40.625em)\" srcset=\"https:\u002F\u002Fvideo-images.vice.com\u002F_uncategorized\u002F1492786170624-1492595438302-VICE_2.jpeg?resize=650:*, https:\u002F\u002Fvideo-images.vice.com\u002F_uncategorized\u002F1492786170624-1492595438302-VICE_2.jpeg?resize=975:* 2x\"\u003E \u003Csource media=\"(max-width: 53.125em)\" srcset=\"https:\u002F\u002Fvideo-images.vice.com\u002F_uncategorized\u002F1492786170624-1492595438302-VICE_2.jpeg?resize=850:*, https:\u002F\u002Fvideo-images.vice.com\u002F_uncategorized\u002F1492786170624-1492595438302-VICE_2.jpeg?resize=1275:* 2x\"\u003E \u003Csource media=\"(max-width: 65.625em)\" srcset=\"https:\u002F\u002Fvideo-images.vice.com\u002F_uncategorized\u002F1492786170624-1492595438302-VICE_2.jpeg?resize=1050:*, https:\u002F\u002Fvideo-images.vice.com\u002F_uncategorized\u002F1492786170624-1492595438302-VICE_2.jpeg?resize=1575:* 2x\"\u003E \u003Csource media=\"(min-width: 65.625em)\" srcset=\"https:\u002F\u002Fvideo-images.vice.com\u002F_uncategorized\u002F1492786170624-1492595438302-VICE_2.jpeg?resize=1050:*, https:\u002F\u002Fvideo-images.vice.com\u002F_uncategorized\u002F1492786170624-1492595438302-VICE_2.jpeg?resize=1575:* 2x\"\u003E \u003Cimg src=\"https:\u002F\u002Fvideo-images.vice.com\u002F_uncategorized\u002F1492786170624-1492595438302-VICE_2.jpeg\" alt=\"\"\u003E \u003C\u002Fpicture\u003E \u003C\u002Fdiv\u003E \u003Cp\u003EAnd then there's Marine Le Pen of the far-right Front National. Sandra says, \"I don't support racists, but some of us sex workers might be tempted to vote for her because she's said \u003Ca href=\"http:\u002F\u002Fwww.lefigaro.fr\u002Fflash-actu\u002F2013\u002F12\u002F04\u002F97001-20131204FILWWW00363-prostitution-marine-le-pen-contre-la-penalisation.php\" target=\"_blank\"\u003Eshe's against fining our clients\u003C\u002Fa\u003E.\" Florence and Chloé are more right-leaning in their views, and they think the National Front has a few \"good ideas\" for the economy. \"I have clients in plumbing and in construction who can't find jobs because of competition from foreign labourers,\" Chloé says. But leftie Sandra says she has her passport ready and has put some money aside; if Marine Le Pen wins, she will \"fuck off\".\u003C\u002Fp\u003E \u003Cp\u003EThe four women all agree that social-liberal Emmanuel Macron might be an option – he talked about prostitution \u003Ca href=\"http:\u002F\u002Fwww.grazia.fr\u002Farticle\u002Femmanuel-macron-je-souhaiterais-que-mon-premier-ministre-soit-une-femme-849621\" target=\"_blank\"\u003Ein an interview with \u003Ci\u003EGrazia\u003C\u002Fi\u003E\u003C\u002Fa\u003E, and while he didn't offer any solution, he also didn't judge. As a candidate, he hasn't disappointed them yet. And they like his wife Brigitte Trogneux. \"She has a certain presence,\" Sandra notes. If he makes it to the second round, they'll all vote for him.\u003C\u002Fp\u003E \u003Cp\u003EBut the women working in the Bois de Vincennes aren't the only sex workers I want to hear from about the upcoming elections. After speaking to Chloé, Sandra, Jocelyne and Florence, I contact Morgane Merteuil, an escort and former spokesperson for French sex workers union STRASS. She has decided to vote for the far-left socialist candidate Mélenchon, mostly because of the other options: \"I believe our struggle is in better hands with him than with the three main other candidates – a fascist, an ultra-liberal and an ultra-conservative.\"\u003C\u002Fp\u003E\u003Cp\u003EShe thinks specific laws on prostitution don't affect sex workers more than laws about social issues. \"I'm a woman and a sex worker, which means that I am part of a rather vulnerable class. I think liberals will put vulnerable people at risk even more than they are now. So I'll go for a candidate who promises to fight inequality.\" \u003C\u002Fp\u003E\u003Cp class=\"article__pull-quote\"\u003E \"Women were just beginning to feel more comfortable about paying for sexual favours, and now they're made to feel guilty and weird about it again.\" \u003C\u002Fp\u003E\u003Cp\u003EI ask 32-year-old male escort Bug Powder the same question. He calls himself an extreme leftist with libertarian inclinations, and when I meet him a badge with the text \"This is what a sex worker looks like\" is pinned to his leather jacket. He's not voting because he doesn't recognise himself in the options. \"The political class doesn't represent the people – they don't engage in the reality of the working class, and even less so in that of sex workers.\" According to him, \"The regulation of prostitution is one of the rare issues all politicians agree on. I'm not going to vote for someone who wants to make working more difficult for me.\" \u003Cbr\u003E\u003C\u002Fp\u003E \u003Cp\u003EThe new law has impacted his business, too. He still has his regular clients, but hardly any new ones coming in. \"Women were just beginning to feel more comfortable about paying for sexual favours, and now they're made to feel guilty and weird about it again.\" Among his clients are women with all kinds of motivations – they pay for sex with him because they don't want or have time for a relationship, or because they have special fantasies. But he thinks there's a social aspect to selling sex – that he sells empathy and attention, too. He has worked with disabled women who'd never had sex before and with women who deal with conditions that make sex painful, like endometriosis. And then there's a woman who was subjected to female genital mutilation as a girl, and has had clitoral reconstructive surgery later in life. Her new clitoris needs to be stimulated to regain sensitivity, which is where he comes in.\u003C\u002Fp\u003E \u003Cp\u003ECentrist candidate Emmanuel Macron \u003Ca href=\"http:\u002F\u002Fbigbrowser.blog.lemonde.fr\u002F2015\u002F03\u002F09\u002Femmanuel-macron-compare-son-ancien-emploi-a-de-la-prostitution\u002F\" target=\"_blank\"\u003Ehas compared\u003C\u002Fa\u003E his former job as a banker with that of \"a prostitute\". Bug thinks that's ridiculous. \"He should do sex work for a while to get food on the table, then we'll talk,\" he says. \"Sex work is short term work, wage labour. Politicians are making it a thing outside of classic employment – something incomparable to anything. But violence and exploitation exist in other lines of work, too. Many sex workers chose their job because they didn't want to be exploited in other fields, and to stay in control. That is my case.\"\u003C\u002Fp\u003E \u003Cp\u003E\u003Ci\u003E *First names have been changed.\u003C\u002Fi\u003E\u003Cbr\u003E\u003C\u002Fp\u003E","url":"https:\u002F\u002Fwww.vice.com\u002Fen_uk\u002Farticle\u002Fwho-do-french-sex-workers-want-as-their-new-president","summary":null,"suggested_tweet":null,"dek":"A year ago, a law passed in France made paying for sex illegal. I asked the people directly affected how they feel about the upcoming elections.","slug":"who-do-french-sex-workers-want-as-their-new-president","original_id":"vice:1366926","locale":"en_uk","publish_date":1492859442248,"display_type":"long-form","vmp_id":null,"embed_code":null,"autoplay":false,"clickthrough_url":null,"caption":null,"credit":null,"thumbnail_url":"https:\u002F\u002Fvideo-images.vice.com\u002Farticles\u002F58f9d023af66ac6a64f56e78\u002Flede\u002F1492783503155-1492595470588-VICE1_V2.jpeg","thumbnail_url_16_9":"https:\u002F\u002Fvideo-images.vice.com\u002Farticles\u002F58f9d023af66ac6a64f56e78\u002Flede\u002F1492783503155-1492595470588-VICE1_V2.jpeg?crop=0.9986130374479889xw:1xh;center,center","thumbnail_url_1_1":"https:\u002F\u002Fvideo-images.vice.com\u002Farticles\u002F58f9d023af66ac6a64f56e78\u002Flede\u002F1492783503155-1492595470588-VICE1_V2.jpeg?crop=0.5617xw:1xh;0.1699xw,0xh","thumbnail_url_2_3":"https:\u002F\u002Fvideo-images.vice.com\u002Farticles\u002F58f9d023af66ac6a64f56e78\u002Flede\u002F1492783503155-1492595470588-VICE1_V2.jpeg?crop=0.37447988904299584xw:1xh;center,center","thumbnail_url_10_4":"https:\u002F\u002Fvideo-images.vice.com\u002Farticles\u002F58f9d023af66ac6a64f56e78\u002Flede\u002F1492783503155-1492595470588-VICE1_V2.jpeg?crop=1xw:0.7123xh;0xw,0.2148xh","thumbnail_url_10_3":"https:\u002F\u002Fvideo-images.vice.com\u002Farticles\u002F58f9d023af66ac6a64f56e78\u002Flede\u002F1492783503155-1492595470588-VICE1_V2.jpeg?crop=1xw:0.5395xh;0xw,0.2901xh","thumbnail_url_7_10":"https:\u002F\u002Fvideo-images.vice.com\u002Farticles\u002F58f9d023af66ac6a64f56e78\u002Flede\u002F1492783503155-1492595470588-VICE1_V2.jpeg?crop=0.3932038834951456xw:1xh;center,center","channel":{"id":"57a204088cb727dec794c67b","name":"vice","url":"www.vice.com","badge_url":"https:\u002F\u002Fvideo-images.vice.com\u002Fchannels\u002F57a204088cb727dec794c67b\u002Fbadge\u002F1487174972413-vice-circle-badge3x.png","twitter_url":"https:\u002F\u002Ftwitter.com\u002Fviceuk","facebook_url":"https:\u002F\u002Fwww.facebook.com\u002Fviceuk\u002F","instagram_url":"https:\u002F\u002Fwww.instagram.com\u002Fvice\u002F?hl=en","youtube_url":"https:\u002F\u002Fwww.youtube.com\u002Fuser\u002Fvice","tumblr_url":"http:\u002F\u002Fvicemag.tumblr.com\u002F","pinterest_url":"https:\u002F\u002Fwww.pinterest.com\u002Fvicemag\u002F","reddit_url":"https:\u002F\u002Fwww.reddit.com\u002Fr\u002Fvice\u002F","reddit_handle":"vice","soundcloud_url":null,"twitch_url":null,"twitch_handle":null,"color":"#000000","dek":"The definitive guide to enlightening information.","slug":"vice","original_id":1,"thumbnail_url":"https:\u002F\u002Fvideo-images.vice.com\u002Fimages\u002Fchannel\u002F1\u002Flede\u002FVICEBLACK_333x333.png","light_logo_url":"https:\u002F\u002Fvideo-images.vice.com\u002Fchannels\u002F57a204088cb727dec794c67b\u002Flogo\u002F1487174972395-vice-thick-white3x.png","light_logo_url_1_1":"https:\u002F\u002Fvideo-images.vice.com\u002Fchannels\u002F57a204088cb727dec794c67b\u002Flogo\u002F1487174972395-vice-thick-white3x.png?crop=0.31446540880503143xw:1xh;center,center","light_logo_url_10_4":"https:\u002F\u002Fvideo-images.vice.com\u002Fchannels\u002F57a204088cb727dec794c67b\u002Flogo\u002F1487174972395-vice-thick-white3x.png?crop=0.7861635220125787xw:1xh;center,center","light_logo_url_16_9":"https:\u002F\u002Fvideo-images.vice.com\u002Fchannels\u002F57a204088cb727dec794c67b\u002Flogo\u002F1487174972395-vice-thick-white3x.png?crop=0.5590496156533893xw:1xh;center,center","dark_logo_url":null,"dark_logo_url_1_1":null,"dark_logo_url_10_4":null,"dark_logo_url_16_9":null},"topics":[{"id":"57a204b88cb727dec7952416","is_primary_topic":false,"topic_type":"standard","name":"sex work","slug":"sex-work","thumbnail_url":null,"thumbnail_url_2_3":null,"thumbnail_url_16_9":null,"thumbnail_url_10_4":null,"thumbnail_url_10_3":null,"thumbnail_url_7_10":null,"thumbnail_url_1_1":null,"article_count":8,"video_count":5,"show_count":0},{"id":"57a205038cb727dec7955d69","is_primary_topic":false,"topic_type":"standard","name":"Elections","slug":"elections","thumbnail_url":null,"thumbnail_url_2_3":null,"thumbnail_url_16_9":null,"thumbnail_url_10_4":null,"thumbnail_url_10_3":null,"thumbnail_url_7_10":null,"thumbnail_url_1_1":null,"article_count":5,"video_count":13,"show_count":0},{"id":"57a2053e8cb727dec7958a96","is_primary_topic":false,"topic_type":"standard","name":"presidential elections","slug":"presidential-elections","thumbnail_url":null,"thumbnail_url_2_3":null,"thumbnail_url_16_9":null,"thumbnail_url_10_4":null,"thumbnail_url_10_3":null,"thumbnail_url_7_10":null,"thumbnail_url_1_1":null,"article_count":0,"video_count":1,"show_count":0},{"id":"583ed9015f53891433074580","is_primary_topic":false,"topic_type":"standard","name":"VICE International","slug":"vice-international","thumbnail_url":null,"thumbnail_url_2_3":null,"thumbnail_url_16_9":null,"thumbnail_url_10_4":null,"thumbnail_url_10_3":null,"thumbnail_url_7_10":null,"thumbnail_url_1_1":null,"article_count":25,"video_count":0,"show_count":0},{"id":"58477f75f4cc51024e838e54","is_primary_topic":false,"topic_type":"standard","name":"vice france","slug":"vice-france","thumbnail_url":null,"thumbnail_url_2_3":null,"thumbnail_url_16_9":null,"thumbnail_url_10_4":null,"thumbnail_url_10_3":null,"thumbnail_url_7_10":null,"thumbnail_url_1_1":null,"article_count":0,"video_count":0,"show_count":0}],"system_tags":[],"genres":[],"primary_topic":{"id":"58eff4a647ac2b7a6e776155","is_primary_topic":true,"topic_type":"standard","name":"French elections","slug":"french-elections","thumbnail_url":null,"thumbnail_url_2_3":null,"thumbnail_url_16_9":null,"thumbnail_url_10_4":null,"thumbnail_url_10_3":null,"thumbnail_url_7_10":null,"thumbnail_url_1_1":null,"article_count":0,"video_count":0,"show_count":0},"contributions":[{"contribution_id":"588b30ccbf46bb7ff52293a1","role_id":"589b62267be1070395990030","role":"Author","contributor":{"id":"588b30ccbf46bb7ff52293a1","first_name":"Pauline","last_name":"Verduzier","full_name":"Pauline Verduzier","url":"https:\u002F\u002Fwww.vice.com\u002Fen_uk\u002Fcontributor\u002Fpauline-verduzier","public_url":null,"twitter_url":null,"twitter_handle":"pverduzier","instagram_handle":null,"slug":"pauline-verduzier","email":"","position":null,"bio":"","article_count":0,"video_count":0,"show_count":0,"thumbnail_url":"https:\u002F\u002Fvideo-images.vice.com\u002Fcontributors\u002F588b30ccbf46bb7ff52293a1\u002Flede\u002F1485517005064-Capture-decran-2017-01-27-a-123419.png","thumbnail_url_1_1":"https:\u002F\u002Fvideo-images.vice.com\u002Fcontributors\u002F588b30ccbf46bb7ff52293a1\u002Flede\u002F1485517005064-Capture-decran-2017-01-27-a-123419.png?crop=1xw:0.9861495844875346xh;center,center","thumbnail_url_10_3":"https:\u002F\u002Fvideo-images.vice.com\u002Fcontributors\u002F588b30ccbf46bb7ff52293a1\u002Flede\u002F1485517005064-Capture-decran-2017-01-27-a-123419.png?crop=1xw:0.29584487534626036xh;center,center","thumbnail_url_10_4":"https:\u002F\u002Fvideo-images.vice.com\u002Fcontributors\u002F588b30ccbf46bb7ff52293a1\u002Flede\u002F1485517005064-Capture-decran-2017-01-27-a-123419.png?crop=1xw:0.39445983379501387xh;center,center","thumbnail_url_16_9":"https:\u002F\u002Fvideo-images.vice.com\u002Fcontributors\u002F588b30ccbf46bb7ff52293a1\u002Flede\u002F1485517005064-Capture-decran-2017-01-27-a-123419.png?crop=1xw:0.5547091412742382xh;center,center","thumbnail_url_2_3":"https:\u002F\u002Fvideo-images.vice.com\u002Fcontributors\u002F588b30ccbf46bb7ff52293a1\u002Flede\u002F1485517005064-Capture-decran-2017-01-27-a-123419.png?crop=0.6760299625468165xw:1xh;center,center","thumbnail_url_7_10":"https:\u002F\u002Fvideo-images.vice.com\u002Fcontributors\u002F588b30ccbf46bb7ff52293a1\u002Flede\u002F1485517005064-Capture-decran-2017-01-27-a-123419.png?crop=0.7098314606741573xw:1xh;center,center"}},{"contribution_id":"58f7329144cd0c449b190a1c","role_id":"589b62267be1070395990033","role":"Illustrator","contributor":{"id":"58f7329144cd0c449b190a1c","first_name":"Marion","last_name":"Dupas","full_name":"Marion Dupas","url":"https:\u002F\u002Fwww.vice.com\u002Fen_uk\u002Fcontributor\u002Fmarion-dupas","public_url":null,"twitter_url":null,"twitter_handle":null,"instagram_handle":null,"slug":"marion-dupas","email":"","position":null,"bio":"","article_count":0,"video_count":0,"show_count":0,"thumbnail_url":null,"thumbnail_url_1_1":null,"thumbnail_url_10_3":null,"thumbnail_url_10_4":null,"thumbnail_url_16_9":null,"thumbnail_url_2_3":null,"thumbnail_url_7_10":null}}],"content_policies":[{"id":"58fb535de3e40c609c272001","display_at":null,"created_at":1492766755024,"updated_at":1492865888116,"published_at":1492865887915,"deleted_at":null,"schedule_end_date":null,"locale_display_scope":0,"locale_locked_scope":0,"locale_feed_visibility_scope":1,"nsfb":0,"nsfw":0,"locale_scope":1,"site_scope":7,"locked_scope":0,"platform_scope":0,"distribution_scope":0,"geo_code":"US","language":"en","url_fragment":"en_us","slug":"who-do-french-sex-workers-want-as-their-new-president","url":"https:\u002F\u002Fwww.vice.com\u002Fen_us\u002Farticle\u002Fwho-do-french-sex-workers-want-as-their-new-president"},{"id":"58fb5c6efce2b266116e9baf","display_at":null,"created_at":1492766755024,"updated_at":1492868208191,"published_at":1492868208713,"deleted_at":null,"schedule_end_date":null,"locale_display_scope":0,"locale_locked_scope":0,"locale_feed_visibility_scope":1,"nsfb":0,"nsfw":0,"locale_scope":2,"site_scope":7,"locked_scope":0,"platform_scope":0,"distribution_scope":0,"geo_code":"CA","language":"en","url_fragment":"en_ca","slug":"who-do-french-sex-workers-want-as-their-new-president","url":"https:\u002F\u002Fwww.vice.com\u002Fen_ca\u002Farticle\u002Fwho-do-french-sex-workers-want-as-their-new-president"},{"id":"58f9d023af66ac6a64f56e79","display_at":null,"created_at":1492766755024,"updated_at":1492859443135,"published_at":1492859442248,"deleted_at":null,"schedule_end_date":null,"locale_display_scope":0,"locale_locked_scope":0,"locale_feed_visibility_scope":1,"nsfb":0,"nsfw":0,"locale_scope":256,"site_scope":7,"locked_scope":0,"platform_scope":0,"distribution_scope":0,"geo_code":"GB","language":"en","url_fragment":"en_uk","slug":"who-do-french-sex-workers-want-as-their-new-president","url":"https:\u002F\u002Fwww.vice.com\u002Fen_uk\u002Farticle\u002Fwho-do-french-sex-workers-want-as-their-new-president"}],"metadata":{"title":"Who Do French Sex Workers Want as Their New President? - Vice","share_title":"Who Do French Sex Workers Want as Their New President?","description":"A year ago, a law passed in France made paying for sex illegal. I asked the people directly affected how they feel about the upcoming elections.","keywords":"culture, news, lgbtq, politics, journalism, video, documentary, sex, drugs, film, tv, entertainment, travel, crime,sex work,Elections,presidential elections,VICE International,vice france","thumbnail":"https:\u002F\u002Fvideo-images.vice.com\u002Farticles\u002F58f9d023af66ac6a64f56e78\u002Flede\u002F1492783503155-1492595470588-VICE1_V2.jpeg","og_image":"https:\u002F\u002Fvideo-images.vice.com\u002Farticles\u002F58f9d023af66ac6a64f56e78\u002Flede\u002F1492783503155-1492595470588-VICE1_V2.jpeg?crop=0.9986130374479889xw:1xh;center,center&resize=1200:*"}};
+  </script>
+  <script>
+    window.__LOCALES = [{"id":"57a204068cb727dec794c573","label":"United States","abbreviation":"US","url_fragment":"en_us","language":"en","country":"USA","geo_code":"US","bitwise":1,"legacy_id":1,"site_scope":32631,"created_at":null,"updated_at":1490712294700,"cacheKeys":["locale:57a204068cb727dec794c573:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"57a204068cb727dec794c574","label":"Québec","abbreviation":"FRCA","url_fragment":"fr_ca","language":"fr","country":"CAN","geo_code":"CA","bitwise":4,"legacy_id":3,"site_scope":3,"created_at":null,"updated_at":1489158704368,"cacheKeys":["locale:57a204068cb727dec794c574:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"57a204068cb727dec794c575","label":"Canada","abbreviation":"CA","url_fragment":"en_ca","language":"en","country":"CAN","geo_code":"CA","bitwise":2,"legacy_id":2,"site_scope":51,"created_at":null,"updated_at":1490214941205,"cacheKeys":["locale:57a204068cb727dec794c575:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"57a204068cb727dec794c577","label":"Germany","abbreviation":"DE","url_fragment":"de","language":"de","country":"DE","geo_code":"DE","bitwise":16,"legacy_id":5,"site_scope":3379,"created_at":null,"updated_at":1490214941242,"cacheKeys":["locale:57a204068cb727dec794c577:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"57a204068cb727dec794c578","label":"Denmark","abbreviation":"DK","url_fragment":"en_dk","language":"en","country":"DK","geo_code":"DK","bitwise":64,"legacy_id":7,"site_scope":19,"created_at":null,"updated_at":null,"cacheKeys":["locale:57a204068cb727dec794c578:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"57a204068cb727dec794c579","label":"Sweden","abbreviation":"SE","url_fragment":"sv","language":"sv","country":"SE","geo_code":"SE","bitwise":128,"legacy_id":8,"site_scope":19,"created_at":null,"updated_at":null,"cacheKeys":["locale:57a204068cb727dec794c579:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"57a204068cb727dec794c57a","label":"Australia","abbreviation":"AU","url_fragment":"en_au","language":"en","country":"AU","geo_code":"AU","bitwise":32,"legacy_id":6,"site_scope":2099,"created_at":null,"updated_at":1490214941215,"cacheKeys":["locale:57a204068cb727dec794c57a:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"57a204068cb727dec794c57b","label":"United Kingdom","abbreviation":"UK","url_fragment":"en_uk","language":"en","country":"UK","geo_code":"GB","bitwise":256,"legacy_id":9,"site_scope":3123,"created_at":null,"updated_at":1490214941210,"cacheKeys":["locale:57a204068cb727dec794c57b:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"57a204068cb727dec794c57c","label":"Spain","abbreviation":"ES","url_fragment":"es","language":"es","country":"ES","geo_code":"ES","bitwise":512,"legacy_id":10,"site_scope":3347,"created_at":null,"updated_at":null,"cacheKeys":["locale:57a204068cb727dec794c57c:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"57a204068cb727dec794c57d","label":"Chile","abbreviation":"CL","url_fragment":"es_cl","language":"es","country":"CL","geo_code":"CL","bitwise":4096,"legacy_id":13,"site_scope":1,"created_at":null,"updated_at":null,"cacheKeys":["locale:57a204068cb727dec794c57d:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"57a204068cb727dec794c57e","label":"Argentina","abbreviation":"AR","url_fragment":"es_ar","language":"es","country":"AR","geo_code":"AR","bitwise":1024,"legacy_id":11,"site_scope":17,"created_at":null,"updated_at":null,"cacheKeys":["locale:57a204068cb727dec794c57e:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"57a204068cb727dec794c57f","label":"Mexico","abbreviation":"MX","url_fragment":"es_mx","language":"es","country":"MX","geo_code":"MX","bitwise":8192,"legacy_id":14,"site_scope":2099,"created_at":null,"updated_at":1490214941215,"cacheKeys":["locale:57a204068cb727dec794c57f:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"57a204068cb727dec794c580","label":"Colombia","abbreviation":"CO","url_fragment":"es_co","language":"es","country":"CO","geo_code":"CO","bitwise":2048,"legacy_id":12,"site_scope":51,"created_at":null,"updated_at":1490214941216,"cacheKeys":["locale:57a204068cb727dec794c580:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"57a204068cb727dec794c581","label":"France","abbreviation":"FR","url_fragment":"fr","language":"fr","country":"FR","geo_code":"FR","bitwise":16384,"legacy_id":15,"site_scope":3347,"created_at":null,"updated_at":null,"cacheKeys":["locale:57a204068cb727dec794c581:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"57a204068cb727dec794c582","label":"Poland","abbreviation":"PL","url_fragment":"pl","language":"pl","country":"PL","geo_code":"PL","bitwise":65536,"legacy_id":17,"site_scope":19,"created_at":null,"updated_at":null,"cacheKeys":["locale:57a204068cb727dec794c582:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"57a204068cb727dec794c583","label":"Netherlands","abbreviation":"NL","url_fragment":"nl","language":"nl","country":"NL","geo_code":"NL","bitwise":262144,"legacy_id":19,"site_scope":3379,"created_at":null,"updated_at":1490214941232,"cacheKeys":["locale:57a204068cb727dec794c583:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"57a204068cb727dec794c584","label":"Italy","abbreviation":"IT","url_fragment":"it","language":"it","country":"IT","geo_code":"IT","bitwise":32768,"legacy_id":16,"site_scope":2323,"created_at":null,"updated_at":null,"cacheKeys":["locale:57a204068cb727dec794c584:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"57a204068cb727dec794c585","label":"Japan","abbreviation":"JP","url_fragment":"jp","language":"jp","country":"JP","geo_code":"JP","bitwise":524288,"legacy_id":20,"site_scope":2065,"created_at":null,"updated_at":null,"cacheKeys":["locale:57a204068cb727dec794c585:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"57a204068cb727dec794c586","label":"Brasil","abbreviation":"BR","url_fragment":"pt_br","language":"pt","country":"BR","geo_code":"BR","bitwise":131072,"legacy_id":18,"site_scope":2355,"created_at":null,"updated_at":1490214941231,"cacheKeys":["locale:57a204068cb727dec794c586:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"57a204068cb727dec794c587","label":"Greece","abbreviation":"GR","url_fragment":"gr","language":"el","country":"GR","geo_code":"GR","bitwise":1048576,"legacy_id":21,"site_scope":3,"created_at":null,"updated_at":1486995351085,"cacheKeys":["locale:57a204068cb727dec794c587:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"57ffa6ff967ad56a84f78e66","label":"Indonesia","abbreviation":"ID","url_fragment":"en_id","language":"en","country":"ID","geo_code":"ID","bitwise":2097152,"legacy_id":22,"site_scope":3,"created_at":null,"updated_at":null,"cacheKeys":["locale:57ffa6ff967ad56a84f78e66:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"58221ec29628d47a95310e14","label":"Belgium","abbreviation":"BE","url_fragment":"be","language":"nl","country":"BE","geo_code":"BE","bitwise":4194304,"legacy_id":23,"site_scope":3,"created_at":null,"updated_at":null,"cacheKeys":["locale:58221ec29628d47a95310e14:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"58221ec29628d47a95310e15","label":"Czech Republic\u002FSlovakia","abbreviation":"CZ","url_fragment":"cs","language":"cs","country":"CZ","geo_code":"CZ","bitwise":8388608,"legacy_id":24,"site_scope":3,"created_at":null,"updated_at":null,"cacheKeys":["locale:58221ec29628d47a95310e15:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"58221ec29628d47a95310e16","label":"Portugal","abbreviation":"PT","url_fragment":"pt","language":"pt","country":"PT","geo_code":"PT","bitwise":16777216,"legacy_id":25,"site_scope":3,"created_at":null,"updated_at":null,"cacheKeys":["locale:58221ec29628d47a95310e16:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"58221ec29628d47a95310e17","label":"Romania","abbreviation":"RO","url_fragment":"ro","language":"ro","country":"RO","geo_code":"RO","bitwise":33554432,"legacy_id":26,"site_scope":3,"created_at":null,"updated_at":null,"cacheKeys":["locale:58221ec29628d47a95310e17:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"58221ec29628d47a95310e18","label":"Russia","abbreviation":"RU","url_fragment":"ru","language":"ru","country":"RU","geo_code":"RU","bitwise":67108864,"legacy_id":27,"site_scope":3,"created_at":null,"updated_at":null,"cacheKeys":["locale:58221ec29628d47a95310e18:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"58221ec29628d47a95310e19","label":"Serbia","abbreviation":"RS","url_fragment":"rs","language":"sr","country":"RS","geo_code":"RS","bitwise":134217728,"legacy_id":28,"site_scope":3,"created_at":null,"updated_at":null,"cacheKeys":["locale:58221ec29628d47a95310e19:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"583dce87a312b6783b3fbfa9","label":"Bahasa Indonesia","abbreviation":"ID","url_fragment":"id_id","language":"id","country":"ID","geo_code":"ID","bitwise":268435456,"legacy_id":29,"site_scope":3,"created_at":null,"updated_at":null,"cacheKeys":["locale:583dce87a312b6783b3fbfa9:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"583dce87a312b6783b3fbfaa","label":"New Zealand","abbreviation":"NZ","url_fragment":"en_nz","language":"en","country":"NZ","geo_code":"NZ","bitwise":536870912,"legacy_id":30,"site_scope":3,"created_at":null,"updated_at":null,"cacheKeys":["locale:583dce87a312b6783b3fbfaa:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"583dce87a312b6783b3fbfab","label":"Bulgaria","abbreviation":"BG","url_fragment":"bg","language":"bg","country":"BG","geo_code":"BG","bitwise":1073741824,"legacy_id":31,"site_scope":1,"created_at":null,"updated_at":null,"cacheKeys":["locale:583dce87a312b6783b3fbfab:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"583dce87a312b6783b3fbfac","label":"Slovenia","abbreviation":"SI","url_fragment":"sl_si","language":"sl","country":"SI","geo_code":"SI","bitwise":2147483648,"legacy_id":32,"site_scope":1,"created_at":null,"updated_at":null,"cacheKeys":["locale:583dce87a312b6783b3fbfac:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"583dce87a312b6783b3fbfb0","label":"Arabic","abbreviation":"AR","url_fragment":"ar","language":"ar","country":"AE","geo_code":"AE","bitwise":68719476736,"legacy_id":37,"site_scope":1,"created_at":null,"updated_at":null,"cacheKeys":["locale:583dce87a312b6783b3fbfb0:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"58e567801e3f5707cc5f1484","label":"Austria","abbreviation":"AT","url_fragment":"de_at","language":"de","country":"AT","geo_code":"AT","bitwise":137438953472,"legacy_id":38,"site_scope":19,"created_at":1491429248378,"updated_at":1491429367156,"cacheKeys":["locale:58e567801e3f5707cc5f1484:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"58e567b894b8d507baf069ac","label":"Switzerland","abbreviation":"CH","url_fragment":"de_ch","language":"de","country":"CH","geo_code":"CH","bitwise":274877906944,"legacy_id":39,"site_scope":19,"created_at":1491429304318,"updated_at":1491429387774,"cacheKeys":["locale:58e567b894b8d507baf069ac:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]}];
+    window.__SITE_NAME = "vice";
+    window.__CURRENT_LOCALE = {"id":"57a204068cb727dec794c57b","label":"United Kingdom","abbreviation":"UK","url_fragment":"en_uk","language":"en","country":"UK","geo_code":"GB","bitwise":256,"legacy_id":9,"site_scope":3123,"created_at":null,"updated_at":1490214941210,"cacheKeys":["locale:57a204068cb727dec794c57b:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]};
+    window.__CURRENT_SITE = {"id":"57a204058cb727dec794c567","name":"vice","url":"www.vice.com","enabled":true,"badge":null,"favicon":null,"display_name":"VICE","legacy_id":3,"socials":{"id":"584b12d04975cc6456a84699","site_id":"57a204058cb727dec794c567","channel_id":null,"show_id":null,"email_newsletter":null,"email_newsletter_weekly":null,"reddit_url":"https:\u002F\u002Fwww.reddit.com\u002Fr\u002Fvice\u002F","tumblr_url":"http:\u002F\u002Fvicemag.tumblr.com\u002F","twitch_url":null,"twitter_url":"https:\u002F\u002Ftwitter.com\u002Fviceuk","youtube_url":"https:\u002F\u002Fwww.youtube.com\u002Fuser\u002Fvice","facebook_url":"https:\u002F\u002Fwww.facebook.com\u002Fviceuk\u002F","instagram_url":"https:\u002F\u002Fwww.instagram.com\u002Fviceuk\u002F?hl=en","pinterest_url":"https:\u002F\u002Fwww.pinterest.com\u002Fvicemag\u002F","soundcloud_url":null,"reddit_handle":"vice","tumblr_handle":null,"twitch_handle":null,"twitter_handle":"viceuk","youtube_handle":null,"facebook_handle":"viceuk","instagram_handle":"vice","pinterest_handle":null,"soundcloud_handle":null,"locale_scope":256,"created_at":1481315024596,"updated_at":1481315024596},"twitter_url":"https:\u002F\u002Ftwitter.com\u002Fviceuk","facebook_url":"https:\u002F\u002Fwww.facebook.com\u002Fviceuk\u002F","instagram_url":"https:\u002F\u002Fwww.instagram.com\u002Fviceuk\u002F?hl=en","youtube_url":"https:\u002F\u002Fwww.youtube.com\u002Fuser\u002Fvice","tumblr_url":"http:\u002F\u002Fvicemag.tumblr.com\u002F","pinterest_url":"https:\u002F\u002Fwww.pinterest.com\u002Fvicemag\u002F","reddit_url":"https:\u002F\u002Fwww.reddit.com\u002Fr\u002Fvice\u002F","reddit_handle":"vice","soundcloud_url":null,"twitch_url":null,"twitch_handle":null};
+    window.__NAV_LINKS = [{"id":"585413560954150815d618ae","locale":"en_uk","site":"www.vice.com","link_type":"primary","order":1,"title":"READ","custom_link":"\u002Fen_uk\u002Fread","topic":{"url":null,"thumbnail_url":null,"thumbnail_url_2_3":null,"thumbnail_url_16_9":null,"thumbnail_url_10_4":null,"thumbnail_url_10_3":null,"thumbnail_url_7_10":null,"thumbnail_url_1_1":null}},{"id":"5857fe7c2e494a080750ecea","locale":"en_uk","site":"www.vice.com","link_type":"primary","order":1,"title":"Watch","custom_link":"https:\u002F\u002Fvideo.vice.com\u002Fen_uk\u002Fchannel\u002Fvice?ref=vice","topic":{"url":null,"thumbnail_url":null,"thumbnail_url_2_3":null,"thumbnail_url_16_9":null,"thumbnail_url_10_4":null,"thumbnail_url_10_3":null,"thumbnail_url_7_10":null,"thumbnail_url_1_1":null}},{"id":"584999db05e48253144e0663","locale":"en_uk","site":"www.vice.com","link_type":"secondary","order":0,"title":"POLITICS","custom_link":"","topic":{"id":"57a204ab8cb727dec7951a9d","url":"https:\u002F\u002Fwww.vice.com\u002Fen_uk\u002Ftopic\u002Fpolitics","name":"politics","slug":"politics","article_count":162,"video_count":242,"show_count":2,"vmp_id":257,"dek":"","caption":null,"credit":null,"thumbnail_url":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a204ab8cb727dec7951a9d\u002Flede\u002F1490993569004-static1squarespace.jpeg","thumbnail_url_16_9":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a204ab8cb727dec7951a9d\u002Flede\u002F1490993569004-static1squarespace.jpeg?crop=1xw:0.8440514469453376xh;center,center","thumbnail_url_1_1":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a204ab8cb727dec7951a9d\u002Flede\u002F1490993569004-static1squarespace.jpeg?crop=0.6664285714285715xw:1xh;center,center","thumbnail_url_2_3":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a204ab8cb727dec7951a9d\u002Flede\u002F1490993569004-static1squarespace.jpeg?crop=0.4442857142857143xw:1xh;center,center","thumbnail_url_10_4":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a204ab8cb727dec7951a9d\u002Flede\u002F1490993569004-static1squarespace.jpeg?crop=1xw:0.6002143622722401xh;center,center","thumbnail_url_10_3":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a204ab8cb727dec7951a9d\u002Flede\u002F1490993569004-static1squarespace.jpeg?crop=1xw:0.45016077170418006xh;center,center","thumbnail_url_7_10":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a204ab8cb727dec7951a9d\u002Flede\u002F1490993569004-static1squarespace.jpeg?crop=0.4665xw:1xh;center,center"}},{"id":"584999e8d862ad1e474e66d0","locale":"en_uk","site":"www.vice.com","link_type":"secondary","order":1,"title":"ENTERTAINMENT","custom_link":"","topic":{"id":"57a204c98cb727dec79531a4","url":"https:\u002F\u002Fwww.vice.com\u002Fen_uk\u002Ftopic\u002Fentertainment","name":"entertainment","slug":"entertainment","article_count":42,"video_count":144,"show_count":0,"vmp_id":1467,"dek":"","thumbnail_url":null,"thumbnail_url_2_3":null,"thumbnail_url_16_9":null,"thumbnail_url_10_4":null,"thumbnail_url_10_3":null,"thumbnail_url_7_10":null,"thumbnail_url_1_1":null}},{"id":"58499a000b75be1e537d3a03","locale":"en_uk","site":"www.vice.com","link_type":"secondary","order":2,"title":"LGBTQ","custom_link":"","topic":{"id":"57a205178cb727dec7956d45","url":"https:\u002F\u002Fwww.vice.com\u002Fen_uk\u002Ftopic\u002Flgbtq","name":"lgbtq","slug":"lgbtq","article_count":61,"video_count":50,"show_count":1,"vmp_id":4670,"dek":"","caption":null,"credit":null,"thumbnail_url":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a205178cb727dec7956d45\u002Flede\u002F1491001186060-nyc-pride-2015-405-1435594808.jpeg","thumbnail_url_16_9":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a205178cb727dec7956d45\u002Flede\u002F1491001186060-nyc-pride-2015-405-1435594808.jpeg?crop=0.9994712591585467xw:1xh;center,center","thumbnail_url_1_1":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a205178cb727dec7956d45\u002Flede\u002F1491001186060-nyc-pride-2015-405-1435594808.jpeg?crop=0.5622025832766825xw:1xh;center,center","thumbnail_url_2_3":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a205178cb727dec7956d45\u002Flede\u002F1491001186060-nyc-pride-2015-405-1435594808.jpeg?crop=0.37480172218445507xw:1xh;center,center","thumbnail_url_10_4":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a205178cb727dec7956d45\u002Flede\u002F1491001186060-nyc-pride-2015-405-1435594808.jpeg?crop=1xw:0.7114873035066506xh;center,center","thumbnail_url_10_3":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a205178cb727dec7956d45\u002Flede\u002F1491001186060-nyc-pride-2015-405-1435594808.jpeg?crop=1xw:0.533615477629988xh;center,center","thumbnail_url_7_10":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a205178cb727dec7956d45\u002Flede\u002F1491001186060-nyc-pride-2015-405-1435594808.jpeg?crop=0.39354180829367774xw:1xh;center,center"}},{"id":"58499a1107b67e1e30fc0bde","locale":"en_uk","site":"www.vice.com","link_type":"secondary","order":3,"title":"DRUGS","custom_link":"","topic":{"id":"57a204a58cb727dec7951606","url":"https:\u002F\u002Fwww.vice.com\u002Fen_uk\u002Ftopic\u002Fdrugs","name":"DRUGS","slug":"drugs","article_count":193,"video_count":196,"show_count":4,"vmp_id":20,"dek":"","caption":null,"credit":null,"thumbnail_url":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a204a58cb727dec7951606\u002Flede\u002F1491001265282-additional2.jpeg","thumbnail_url_16_9":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a204a58cb727dec7951606\u002Flede\u002F1491001265282-additional2.jpeg?crop=1xw:0.8440361139369278xh;center,center","thumbnail_url_1_1":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a204a58cb727dec7951606\u002Flede\u002F1491001265282-additional2.jpeg?crop=0.6664406779661017xw:1xh;center,center","thumbnail_url_2_3":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a204a58cb727dec7951606\u002Flede\u002F1491001265282-additional2.jpeg?crop=0.4442937853107345xw:1xh;center,center","thumbnail_url_10_4":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a204a58cb727dec7951606\u002Flede\u002F1491001265282-additional2.jpeg?crop=1xw:0.6002034587995931xh;center,center","thumbnail_url_10_3":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a204a58cb727dec7951606\u002Flede\u002F1491001265282-additional2.jpeg?crop=1xw:0.4501525940996948xh;center,center","thumbnail_url_7_10":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a204a58cb727dec7951606\u002Flede\u002F1491001265282-additional2.jpeg?crop=0.4665084745762712xw:1xh;center,center"}},{"id":"58499a1c96e89552f695bdd9","locale":"en_uk","site":"www.vice.com","link_type":"secondary","order":4,"title":"OPINION","custom_link":"","topic":{"id":"57c640cc55f7a5827a818cad","url":"https:\u002F\u002Fwww.vice.com\u002Fen_uk\u002Ftopic\u002Fopinion","name":"opinion","slug":"opinion","article_count":79,"video_count":0,"show_count":0,"vmp_id":255308,"dek":null,"caption":null,"credit":null,"thumbnail_url":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57c640cc55f7a5827a818cad\u002Flede\u002F1490995924712-Palmer-Vice-April-0006.jpeg","thumbnail_url_16_9":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57c640cc55f7a5827a818cad\u002Flede\u002F1490995924712-Palmer-Vice-April-0006.jpeg?crop=1xw:0.8419xh;0xw,0.0468xh","thumbnail_url_1_1":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57c640cc55f7a5827a818cad\u002Flede\u002F1490995924712-Palmer-Vice-April-0006.jpeg?crop=0.6672xw:1xh;0.1805xw,0xh","thumbnail_url_2_3":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57c640cc55f7a5827a818cad\u002Flede\u002F1490995924712-Palmer-Vice-April-0006.jpeg?crop=0.4447916666666667xw:1xh;center,center","thumbnail_url_10_4":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57c640cc55f7a5827a818cad\u002Flede\u002F1490995924712-Palmer-Vice-April-0006.jpeg?crop=1xw:0.5995xh;0xw,0.2389xh","thumbnail_url_10_3":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57c640cc55f7a5827a818cad\u002Flede\u002F1490995924712-Palmer-Vice-April-0006.jpeg?crop=1xw:0.4543xh;0xw,0.3021xh","thumbnail_url_7_10":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57c640cc55f7a5827a818cad\u002Flede\u002F1490995924712-Palmer-Vice-April-0006.jpeg?crop=0.46703124999999995xw:1xh;center,center"}},{"id":"58499a25f0d0e51e2f4ec0ab","locale":"en_uk","site":"www.vice.com","link_type":"secondary","order":5,"title":"NSFW","custom_link":"","topic":{"id":"57a204ea8cb727dec7954ac2","url":"https:\u002F\u002Fwww.vice.com\u002Fen_uk\u002Ftopic\u002Fnsfw","name":"nsfw","slug":"nsfw","article_count":149,"video_count":6,"show_count":0,"vmp_id":2804,"dek":"","caption":null,"credit":null,"thumbnail_url":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a204ea8cb727dec7954ac2\u002Flede\u002F1491001490285-071300-R1-6A.jpeg","thumbnail_url_16_9":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a204ea8cb727dec7954ac2\u002Flede\u002F1491001490285-071300-R1-6A.jpeg?crop=1xw:0.8574695121951219xh;center,center","thumbnail_url_1_1":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a204ea8cb727dec7954ac2\u002Flede\u002F1491001490285-071300-R1-6A.jpeg?crop=0.656xw:1xh;center,center","thumbnail_url_2_3":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a204ea8cb727dec7954ac2\u002Flede\u002F1491001490285-071300-R1-6A.jpeg?crop=0.4373333333333333xw:1xh;center,center","thumbnail_url_10_4":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a204ea8cb727dec7954ac2\u002Flede\u002F1491001490285-071300-R1-6A.jpeg?crop=1xw:0.6097560975609756xh;center,center","thumbnail_url_10_3":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a204ea8cb727dec7954ac2\u002Flede\u002F1491001490285-071300-R1-6A.jpeg?crop=1xw:0.4573170731707317xh;center,center","thumbnail_url_7_10":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a204ea8cb727dec7954ac2\u002Flede\u002F1491001490285-071300-R1-6A.jpeg?crop=0.4592xw:1xh;center,center"}},{"id":"58499a34ecaedc53092c2db4","locale":"en_uk","site":"www.vice.com","link_type":"secondary","order":6,"title":"PHOTOS","custom_link":"","topic":{"id":"57a204f08cb727dec7954fa4","url":"https:\u002F\u002Fwww.vice.com\u002Fen_uk\u002Ftopic\u002Fphotos","name":"Photos","slug":"photos","article_count":1216,"video_count":2,"show_count":0,"vmp_id":3078,"dek":"","caption":null,"credit":null,"thumbnail_url":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a204f08cb727dec7954fa4\u002Flede\u002F1491384622030-frog.jpeg","thumbnail_url_16_9":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a204f08cb727dec7954fa4\u002Flede\u002F1491384622030-frog.jpeg?crop=1xw:1xh;center,center","thumbnail_url_1_1":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a204f08cb727dec7954fa4\u002Flede\u002F1491384622030-frog.jpeg?crop=0.5625xw:1xh;center,center","thumbnail_url_2_3":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a204f08cb727dec7954fa4\u002Flede\u002F1491384622030-frog.jpeg?crop=0.375xw:1xh;center,center","thumbnail_url_10_4":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a204f08cb727dec7954fa4\u002Flede\u002F1491384622030-frog.jpeg?crop=1xw:0.7111111111111111xh;center,center","thumbnail_url_10_3":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a204f08cb727dec7954fa4\u002Flede\u002F1491384622030-frog.jpeg?crop=1xw:0.5333333333333333xh;center,center","thumbnail_url_7_10":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a204f08cb727dec7954fa4\u002Flede\u002F1491384622030-frog.jpeg?crop=0.39375xw:1xh;center,center"}},{"id":"58ecea8e1e92ba4d24db75a8","locale":"en_uk","site":"www.vice.com","link_type":"secondary","order":7,"title":"Shop","custom_link":"https:\u002F\u002Fshop.vice.com\u002Fen\u002F","topic":{"url":null,"thumbnail_url":null,"thumbnail_url_2_3":null,"thumbnail_url_16_9":null,"thumbnail_url_10_4":null,"thumbnail_url_10_3":null,"thumbnail_url_7_10":null,"thumbnail_url_1_1":null}},{"id":"58499a3f07b67e1e30fc0bdf","locale":"en_uk","site":"www.vice.com","link_type":"secondary","order":8,"title":"MAGAZINE","custom_link":"","topic":{"id":"57a204c48cb727dec7952d4e","url":"https:\u002F\u002Fwww.vice.com\u002Fen_uk\u002Ftopic\u002Fvice-magazine","name":"vice magazine","slug":"vice-magazine","article_count":298,"video_count":30,"show_count":0,"vmp_id":1242,"dek":"","thumbnail_url":null,"thumbnail_url_2_3":null,"thumbnail_url_16_9":null,"thumbnail_url_10_4":null,"thumbnail_url_10_3":null,"thumbnail_url_7_10":null,"thumbnail_url_1_1":null}},{"id":"5853125781042351b3ced964","locale":"en_uk","site":"www.vice.com","link_type":"footer","order":0,"title":"About","custom_link":"\u002Fen_uk\u002Fpage\u002Fabout-58477f133bbbf901f85613df","topic":{"url":null,"thumbnail_url":null,"thumbnail_url_2_3":null,"thumbnail_url_16_9":null,"thumbnail_url_10_4":null,"thumbnail_url_10_3":null,"thumbnail_url_7_10":null,"thumbnail_url_1_1":null}},{"id":"585312698a7fe051ad7339b9","locale":"en_uk","site":"www.vice.com","link_type":"footer","order":1,"title":"Careers at VICE","custom_link":"\u002Fen_uk\u002Fpage\u002Fjobs-583ee8a95f53891433074623","topic":{"url":null,"thumbnail_url":null,"thumbnail_url_2_3":null,"thumbnail_url_16_9":null,"thumbnail_url_10_4":null,"thumbnail_url_10_3":null,"thumbnail_url_7_10":null,"thumbnail_url_1_1":null}},{"id":"5853127a81446e51a728dbe1","locale":"en_uk","site":"www.vice.com","link_type":"footer","order":2,"title":"Privacy & Terms","custom_link":"\u002Fen_uk\u002Fpage\u002Fprivacy-and-terms","topic":{"url":null,"thumbnail_url":null,"thumbnail_url_2_3":null,"thumbnail_url_16_9":null,"thumbnail_url_10_4":null,"thumbnail_url_10_3":null,"thumbnail_url_7_10":null,"thumbnail_url_1_1":null}}];
+  </script>
+  <div id="root">
+    
+    
+
+
+
+<script>
+  var el = document.createElement('style');
+  el.innerText = '.pre-load-hidden { visibility: hidden; }';
+  document.body.appendChild(el);
+</script>
+
+
+<div class='server-side-article pre-load-hidden'>
+  <div class='article-page'>
+    
+    <div class='long-form-article'>
+      <div class='long-form-article__lede-image'>
+        <img class='server-side-image' src='https://video-images.vice.com/articles/58f9d023af66ac6a64f56e78/lede/1492783503155-1492595470588-VICE1_V2.jpeg?resize=720:*'/>
+      </div>
+      <div class='long-form-article__content'>
+        <div class='long-form-article__content__header'>
+          <div class='article__title'>Who Do French Sex Workers Want as Their New President?</div>
+        </div>
+        <div class='body long-form-article__content__body'>
+          <h3 class='article__dek'>A year ago, a law passed in France made paying for sex illegal. I asked the people directly affected how they feel about the upcoming elections.</h3>
+          <div class='article__body'><p><i>This article originally appeared on <a href="http://vice.com/fr">VICE France</a></i><br><br>When I meet them, the women are all wearing chunky knit cardigans over their satin nighties. We're standing in front of a caravan belonging to one of them, Chloé*, and they're smoking and chatting. Chloé tells me she just got her polling card for the first round of France's presidential elections this Sunday. "Like most people in France, we're not sure who we'll vote for yet," her friend Sandra tells me. She has copper highlights in her hair and smoky eyes. "But we're absolutely positive who we're not voting for." </p> <p>Standing next to her is Jocelyne, who points at her mismatching red socks and apologises for the way she's dressed. She tells me she doesn't feel ready to vote yet. Florence, in a blonde wig, says that it annoys her that "no one talks about us". The position of prostitutes in France hasn't been discussed much during the campaign, but whichever candidate wins will have a huge impact on the lives of these four women. </p> <p>They're all in their fifties, and they've worked the same spot for almost three decades, on a road that crosses the Bois de Vincennes – the largest public park in Paris – in the southeast of the city. When their increasingly rare clients leave them, the morning joggers run by. "Our clients don't want to take an escort to a fancy restaurant," Sandra says. "They just want to blow off some steam." </p> <p>A lot changed for these women when, about a year ago, <a href="https://www.theguardian.com/world/2016/apr/06/france-passes-law-illegal-to-pay-for-sex-criminalise-customers" target="_blank">a law was passed making paying for sex in France illegal</a>. Chloé points to a few younger girls on the other side of the street. "The networks are still there, so nothing changed there. But more than anything, this law has put us in danger." A client recently tried to rob her. He took out a revolver, threatened her and eventually just left with her iPhone. "A lot of our clients have left – it has affected our quality of life. We now have to accept clients who we wouldn't have taken on before – people who are rude or violent. People who fear nothing." </p><p>The health risk is worse now, too. "Everyone in this area used to wear condoms, but these days one out of two doesn't wear one." One man recently asked Jocelyn for a "natural fellatio" – without a condom – which she refused. "It's a disaster," she says. </p> <hr> <p><b><i>Watch: 10 Questions You Always Wanted to Ask a Sex Worker<br></i></b></p> <div data-iframely-id="Rz9UaVp" class="article__embed article__embed--iframely"><div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;" data-iframely-smart-iframe="true"><iframe data-img="" data-iframely-url="//oembed.vice.com/Rz9UaVp" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen data-iframely-smart-iframe="true" frameborder="0"></iframe></div></div> <hr> <p>The women tell me they're in this line of work by choice, and feel their profession should be recognised as such. "It's an art, like Grisélidis Réal said," says Sandra, referring to the famous Genevan author, prostitute and feminist. "And one of our missions has always been sexual education. We used to explain to men that sex is not just emptying your balls – that it could be more. We would advise them to go and see a doctor if they had an issue or were impotent. People need to differentiate between prostitution and sexual slavery. As long as they don't, our work will keep being stigmatised."</p> <p>Like Sandra said, they know who they aren't voting for. Left-wing candidate Jean-Luc Mélenchon <a href="http://www.leparisien.fr/espace-premium/actu/jean-luc-melenchon-le-ps-presente-de-nombreux-symptomes-de-necrose-11-12-2011-1762691.php" target="_blank">has said</a> "prostitution is nothing but human trafficking and should therefore be radically regulated". They won't go for Socialist Party candidate Benoît Hamon either, who signed <a href="http://congres.parti-socialiste.fr/contributions/la-prostitution-est-une-violence-abolissons-la.pdf" target="_blank">a declaration</a> called "Prostitution is a form of violence, let's abolish it!" The biggest betrayal to them, however, is the fact that the left formed a majority that led to the law fining their clients. Sandra is a leftie and was a supporter of current president François Hollande when he was elected in 2012. "It hurts that this law came from the left," she says. </p> <p>Centre-right candidate François Fillon <a href="http://www.lejdd.fr/Politique/La-loi-sur-la-prostitution-adoptee-en-premiere-lecture-qui-a-vote-quoi-642092" target="_blank">didn't vote</a> on the law when it was passed in the National Assembly, but the women of the Bois de Vincennes are sceptical about him for other reasons. He's being investigated for <a href="https://news.vice.com/story/defiant-fillon-refuses-to-drop-out-of-french-presidential-race-as-le-pen-advances">hiring his wife</a> as a parliamentary assistant for an outrageously high salary. "To give that kind of money to his wife and still pretend to be Mr Clean, it's incredible," says Sandra. "What's more, he's supported by all these Catholic traditionalists, so Fillon is also not an option." </p> <div class="article__media"> <picture class="article__image"> <source media="(max-width: 25em)" srcset="https://video-images.vice.com/_uncategorized/1492786170624-1492595438302-VICE_2.jpeg?resize=400:*, https://video-images.vice.com/_uncategorized/1492786170624-1492595438302-VICE_2.jpeg?resize=600:* 2x"> <source media="(max-width: 40.625em)" srcset="https://video-images.vice.com/_uncategorized/1492786170624-1492595438302-VICE_2.jpeg?resize=650:*, https://video-images.vice.com/_uncategorized/1492786170624-1492595438302-VICE_2.jpeg?resize=975:* 2x"> <source media="(max-width: 53.125em)" srcset="https://video-images.vice.com/_uncategorized/1492786170624-1492595438302-VICE_2.jpeg?resize=850:*, https://video-images.vice.com/_uncategorized/1492786170624-1492595438302-VICE_2.jpeg?resize=1275:* 2x"> <source media="(max-width: 65.625em)" srcset="https://video-images.vice.com/_uncategorized/1492786170624-1492595438302-VICE_2.jpeg?resize=1050:*, https://video-images.vice.com/_uncategorized/1492786170624-1492595438302-VICE_2.jpeg?resize=1575:* 2x"> <source media="(min-width: 65.625em)" srcset="https://video-images.vice.com/_uncategorized/1492786170624-1492595438302-VICE_2.jpeg?resize=1050:*, https://video-images.vice.com/_uncategorized/1492786170624-1492595438302-VICE_2.jpeg?resize=1575:* 2x"> <img src="https://video-images.vice.com/_uncategorized/1492786170624-1492595438302-VICE_2.jpeg" alt=""> </picture> </div> <p>And then there's Marine Le Pen of the far-right Front National. Sandra says, "I don't support racists, but some of us sex workers might be tempted to vote for her because she's said <a href="http://www.lefigaro.fr/flash-actu/2013/12/04/97001-20131204FILWWW00363-prostitution-marine-le-pen-contre-la-penalisation.php" target="_blank">she's against fining our clients</a>." Florence and Chloé are more right-leaning in their views, and they think the National Front has a few "good ideas" for the economy. "I have clients in plumbing and in construction who can't find jobs because of competition from foreign labourers," Chloé says. But leftie Sandra says she has her passport ready and has put some money aside; if Marine Le Pen wins, she will "fuck off".</p> <p>The four women all agree that social-liberal Emmanuel Macron might be an option – he talked about prostitution <a href="http://www.grazia.fr/article/emmanuel-macron-je-souhaiterais-que-mon-premier-ministre-soit-une-femme-849621" target="_blank">in an interview with <i>Grazia</i></a>, and while he didn't offer any solution, he also didn't judge. As a candidate, he hasn't disappointed them yet. And they like his wife Brigitte Trogneux. "She has a certain presence," Sandra notes. If he makes it to the second round, they'll all vote for him.</p> <p>But the women working in the Bois de Vincennes aren't the only sex workers I want to hear from about the upcoming elections. After speaking to Chloé, Sandra, Jocelyne and Florence, I contact Morgane Merteuil, an escort and former spokesperson for French sex workers union STRASS. She has decided to vote for the far-left socialist candidate Mélenchon, mostly because of the other options: "I believe our struggle is in better hands with him than with the three main other candidates – a fascist, an ultra-liberal and an ultra-conservative."</p><p>She thinks specific laws on prostitution don't affect sex workers more than laws about social issues. "I'm a woman and a sex worker, which means that I am part of a rather vulnerable class. I think liberals will put vulnerable people at risk even more than they are now. So I'll go for a candidate who promises to fight inequality." </p><p class="article__pull-quote"> "Women were just beginning to feel more comfortable about paying for sexual favours, and now they're made to feel guilty and weird about it again." </p><p>I ask 32-year-old male escort Bug Powder the same question. He calls himself an extreme leftist with libertarian inclinations, and when I meet him a badge with the text "This is what a sex worker looks like" is pinned to his leather jacket. He's not voting because he doesn't recognise himself in the options. "The political class doesn't represent the people – they don't engage in the reality of the working class, and even less so in that of sex workers." According to him, "The regulation of prostitution is one of the rare issues all politicians agree on. I'm not going to vote for someone who wants to make working more difficult for me." <br></p> <p>The new law has impacted his business, too. He still has his regular clients, but hardly any new ones coming in. "Women were just beginning to feel more comfortable about paying for sexual favours, and now they're made to feel guilty and weird about it again." Among his clients are women with all kinds of motivations – they pay for sex with him because they don't want or have time for a relationship, or because they have special fantasies. But he thinks there's a social aspect to selling sex – that he sells empathy and attention, too. He has worked with disabled women who'd never had sex before and with women who deal with conditions that make sex painful, like endometriosis. And then there's a woman who was subjected to female genital mutilation as a girl, and has had clitoral reconstructive surgery later in life. Her new clitoris needs to be stimulated to regain sensitivity, which is where he comes in.</p> <p>Centrist candidate Emmanuel Macron <a href="http://bigbrowser.blog.lemonde.fr/2015/03/09/emmanuel-macron-compare-son-ancien-emploi-a-de-la-prostitution/" target="_blank">has compared</a> his former job as a banker with that of "a prostitute". Bug thinks that's ridiculous. "He should do sex work for a while to get food on the table, then we'll talk," he says. "Sex work is short term work, wage labour. Politicians are making it a thing outside of classic employment – something incomparable to anything. But violence and exploitation exist in other lines of work, too. Many sex workers chose their job because they didn't want to be exploited in other fields, and to stay in control. That is my case."</p> <p><i> *First names have been changed.</i><br></p></div>
+        </div>
+      </div>
+    </div>
+    
+    
+  </div>
+</div>
+
+    
+  </div>
+  
+<script type="text/javascript" src="https://vice-sundry-assets-cdn.vice.com/sites/web-assets/js/intl-messageformat-with-locales.min.js"></script>
+
+  
+  <script type="text/javascript">
+    var MTIProjectId='7eb418f6-501b-4faa-9669-1f33e54e4532';
+    (function() {
+      var mtiTracking = document.createElement('script');
+      mtiTracking.type='text/javascript';
+      mtiTracking.async='true';
+      mtiTracking.src='https://vice-web-statics-cdn.vice.com/fonts/mtiFontTrackingCode.js';
+      (document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild( mtiTracking );
+    })();
+  </script>
+  
+  <!-- END VENDOR LIBRARIES -->
+
+  <script type="text/javascript" src="https://vice-web-statics-cdn.vice.com/static/vendor.ee64a5782d4a71c0515b.js"></script>
+  <script type="text/javascript" src="https://vice-web-statics-cdn.vice.com/static/assets.efd00f2020548320caa4.js"></script>
+  <script type="text/javascript" src="https://vice-web-statics-cdn.vice.com/static/common.7a948b7d155fc927bb7b.js"></script>
+  <script type="text/javascript" src="https://vice-web-statics-cdn.vice.com/static/vice.483438c4ddd9b394bd92.js"></script>
+  <script>
+  </script>
+  <!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2012 Nielsen Online -->
+<script type="text/javascript" src="//secure-au.imrworldwide.com/v60.js">
+</script>
+<script type="text/javascript">
+var pvar = { cid: "au-vice", content: "0", server: "secure-au" };
+var trac = nol_t(pvar);
+trac.record().post();
+</script>
+<noscript>
+<div>
+<img src="//secure-au.imrworldwide.com/cgi-bin/m?ci=au-vice&cg=0&cc=1&ts=noscript"
+width="1" height="1" alt="" />
+</div>
+</noscript>
+<!-- END Nielsen Online SiteCensus V6.0 -->
+
+</body>
+</html>
+
+
+WARC/1.0
+WARC-Type: metadata
+WARC-Record-ID: <urn:uuid:1ebff232-880a-4cf3-b84a-1dc3c7f9ea6f>
+WARC-Warcinfo-ID: <urn:uuid:f5b77983-1f46-44b3-8949-fd260275a885>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/MANIFEST.txt
+WARC-Date: 2017-04-23T10:37:55Z
+Content-Type: text/plain
+Content-Length: 48
+
+<urn:uuid:f5b77983-1f46-44b3-8949-fd260275a885>
+
+
+WARC/1.0
+WARC-Type: resource
+WARC-Record-ID: <urn:uuid:941c78e8-e1dc-4fda-af17-66e7bb00426d>
+WARC-Warcinfo-ID: <urn:uuid:f5b77983-1f46-44b3-8949-fd260275a885>
+WARC-Concurrent-To: <urn:uuid:1ebff232-880a-4cf3-b84a-1dc3c7f9ea6f>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/wget_arguments.txt
+WARC-Date: 2017-04-23T10:37:55Z
+Content-Type: text/plain
+Content-Length: 249
+
+"--warc-file" "who-do-french-sex-workers-want-as-their-new-president" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "-q" "-O" "/dev/null" "https://www.vice.com/en_uk/article/who-do-french-sex-workers-want-as-their-new-president" 
+
+

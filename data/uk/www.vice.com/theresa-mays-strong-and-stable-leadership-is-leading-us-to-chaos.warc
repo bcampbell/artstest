@@ -1,0 +1,497 @@
+WARC/1.0
+WARC-Type: warcinfo
+Content-Type: application/warc-fields
+WARC-Date: 2017-04-23T10:30:29Z
+WARC-Record-ID: <urn:uuid:a15a1fab-8759-4158-bc65-197248a01d57>
+WARC-Filename: theresa-mays-strong-and-stable-leadership-is-leading-us-to-chaos.warc
+Content-Length: 451
+
+software: Wget/1.17.1 (linux-gnu)
+format: WARC File Format 1.0
+conformsTo: http://bibnum.bnf.fr/WARC/WARC_ISO_28500_version1_latestdraft.pdf
+robots: classic
+wget-arguments: "--warc-file" "theresa-mays-strong-and-stable-leadership-is-leading-us-to-chaos" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "-q" "-O" "/dev/null" "https://www.vice.com/en_uk/article/theresa-mays-strong-and-stable-leadership-is-leading-us-to-chaos" 
+
+
+
+WARC/1.0
+WARC-Type: request
+WARC-Target-URI: https://www.vice.com/en_uk/article/theresa-mays-strong-and-stable-leadership-is-leading-us-to-chaos
+Content-Type: application/http;msgtype=request
+WARC-Date: 2017-04-23T10:30:30Z
+WARC-Record-ID: <urn:uuid:360e7230-6e16-4df7-a0ec-46a5167a4776>
+WARC-IP-Address: 151.101.1.132
+WARC-Warcinfo-ID: <urn:uuid:a15a1fab-8759-4158-bc65-197248a01d57>
+Content-Length: 217
+
+GET /en_uk/article/theresa-mays-strong-and-stable-leadership-is-leading-us-to-chaos HTTP/1.1
+User-Agent: Wget/1.17.1 (linux-gnu)
+Accept: */*
+Accept-Encoding: identity
+Host: www.vice.com
+Connection: Keep-Alive
+
+
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <urn:uuid:1ade73a9-b3c4-44c9-83cf-0697467c05c7>
+WARC-Warcinfo-ID: <urn:uuid:a15a1fab-8759-4158-bc65-197248a01d57>
+WARC-Concurrent-To: <urn:uuid:360e7230-6e16-4df7-a0ec-46a5167a4776>
+WARC-Target-URI: https://www.vice.com/en_uk/article/theresa-mays-strong-and-stable-leadership-is-leading-us-to-chaos
+WARC-Date: 2017-04-23T10:30:30Z
+WARC-IP-Address: 151.101.1.132
+WARC-Block-Digest: 
+WARC-Payload-Digest: �
+Content-Type: application/http;msgtype=response
+Content-Length: 74369
+
+HTTP/1.1 200 OK
+Cache-Control: public, max-age=303, must-revalidate
+Content-Type: text/html; charset=utf-8
+ETag: W/"11fb7-0prgskfZmyrRPqTJiQIb7g"
+Expires: Sat, 22 Apr 2017 15:43:22 GMT
+Pragma: public
+Server: nginx
+X-Powered-By: Express
+Via: 1.1 varnish
+Fastly-Debug-Digest: 8fd575b7b687cf06e38317ebb5f2ec52f6f7a1051b0fc7b7aead9988dab5467a
+X-Backend: 23.235.46.51
+Content-Length: 73655
+Accept-Ranges: bytes
+Date: Sun, 23 Apr 2017 10:30:30 GMT
+Via: 1.1 varnish
+Age: 473
+Connection: keep-alive
+X-Served-By: cache-iad2151-IAD, cache-wlg7320-WLG
+X-Cache: HIT, MISS
+X-Cache-Hits: 1, 0
+X-Timer: S1492943430.429137,VS0,VE229
+Vary: Accept-Encoding
+X-GeoIP-Country-Code: NZ
+X-GeoIP-Region-Code: E9
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+  <!-- NREUM: (1) -->
+  
+  <script>
+window.__V1C3 = {};
+</script>
+
+  <meta charset='utf-8'/>
+  <title>Theresa May&#39;s &#39;Strong and Stable Leadership&#39; Is Leading Us to Chaos - Vice</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+  <meta name="keywords" content="culture, news, lgbtq, politics, journalism, video, documentary, sex, drugs, film, tv, entertainment, travel, crime,Conservative Party,theresa may,Leadership,Election 2017"/>
+  <meta name="news_keywords" content="culture, news, lgbtq, politics, journalism, video, documentary, sex, drugs, film, tv, entertainment, travel, crime,Conservative Party,theresa may,Leadership,Election 2017"/>
+  <meta name="description" content="The Tories&#39; election slogan is a cheap, nasty lie." />
+  <meta name="thumbnail" content="https://video-images.vice.com/articles/58f9de1874f85362a6a6ec15/lede/1492770472508-PA-30983045.jpeg"/>
+  <link rel="canonical" href="https://www.vice.com/en_uk/article/theresa-mays-strong-and-stable-leadership-is-leading-us-to-chaos"/>
+  <link rel="alternate" type="application/rss+xml" title="vice" href="https://www.vice.com/en_uk/rss"/>
+  <!-- Serialized Content Policy Tag(s) -->
+  
+    
+      
+      <link rel="alternate" href="https://www.vice.com/en_uk/article/theresa-mays-strong-and-stable-leadership-is-leading-us-to-chaos" hreflang="en-GB" />
+      
+    
+  
+
+  <!-- Facebook -->
+  <meta property="fb:app_id" content="213518685373476"/>
+  <meta property="og:site_name" name="og:site_name" content="Vice"/>
+  <meta property="og:title" name="og:title" content="Theresa May&#39;s &#39;Strong and Stable Leadership&#39; Is Leading Us to Chaos" />
+  
+  <meta property="og:image" name="og:image" content="https://video-images.vice.com/articles/58f9de1874f85362a6a6ec15/lede/1492770472508-PA-30983045.jpeg?crop=1xw:0.7601351351351351xh;center,center&resize=1200:*"/>
+  
+  <meta property="og:image:type" name="og:image:type" content="image/jpeg"/>
+  <meta property="og:locale" name="og:locale" content="en_uk"/>
+  <meta property="og:url" name="og:url" content="https://www.vice.com/en_uk/article/theresa-mays-strong-and-stable-leadership-is-leading-us-to-chaos"/>
+  <meta property="og:description" name="og:description" content="The Tories&#39; election slogan is a cheap, nasty lie."/>
+
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="viceuk"/>
+  <meta name="twitter:title" content="Theresa May&#39;s &#39;Strong and Stable Leadership&#39; Is Leading Us to Chaos" />
+  <meta name="twitter:description" content="The Tories&#39; election slogan is a cheap, nasty lie."/>
+
+  <!-- include homepage specific logic here -->
+  
+  <!-- Favicons -->
+  <link rel="manifest" href="https://vice-web-statics-cdn.vice.com/favicons/vice/manifest.json">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="theme-color" content="#fff">
+<meta name="application-name" content="vice">
+<link rel="apple-touch-icon" sizes="57x57" href="https://vice-web-statics-cdn.vice.com/favicons/vice/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="https://vice-web-statics-cdn.vice.com/favicons/vice/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://vice-web-statics-cdn.vice.com/favicons/vice/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://vice-web-statics-cdn.vice.com/favicons/vice/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://vice-web-statics-cdn.vice.com/favicons/vice/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://vice-web-statics-cdn.vice.com/favicons/vice/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://vice-web-statics-cdn.vice.com/favicons/vice/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://vice-web-statics-cdn.vice.com/favicons/vice/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://vice-web-statics-cdn.vice.com/favicons/vice/apple-touch-icon-180x180.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="vice">
+<link rel="icon" type="image/png" sizes="228x228" href="https://vice-web-statics-cdn.vice.com/favicons/vice/coast-228x228.png">
+<link rel="yandex-tableau-widget" href="https://vice-web-statics-cdn.vice.com/favicons/vice/yandex-browser-manifest.json">
+<meta name="msapplication-TileColor" content="#fff">
+<meta name="msapplication-TileImage" content="https://vice-web-statics-cdn.vice.com/favicons/vice/mstile-144x144.png">
+<meta name="msapplication-config" content="https://vice-web-statics-cdn.vice.com/favicons/vice/browserconfig.xml">
+<link rel="icon" type="image/png" sizes="32x32" href="https://vice-web-statics-cdn.vice.com/favicons/vice/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="192x192" href="https://vice-web-statics-cdn.vice.com/favicons/vice/android-chrome-192x192.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://vice-web-statics-cdn.vice.com/favicons/vice/favicon-16x16.png">
+<link rel="shortcut icon" href="https://vice-web-statics-cdn.vice.com/favicons/vice/favicon.ico">
+<link rel="apple-touch-startup-image" media="(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 1)" href="https://vice-web-statics-cdn.vice.com/favicons/vice/apple-touch-startup-image-320x460.png">
+<link rel="apple-touch-startup-image" media="(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 2)" href="https://vice-web-statics-cdn.vice.com/favicons/vice/apple-touch-startup-image-640x920.png">
+<link rel="apple-touch-startup-image" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)" href="https://vice-web-statics-cdn.vice.com/favicons/vice/apple-touch-startup-image-640x1096.png">
+<link rel="apple-touch-startup-image" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)" href="https://vice-web-statics-cdn.vice.com/favicons/vice/apple-touch-startup-image-750x1294.png">
+<link rel="apple-touch-startup-image" media="(device-width: 414px) and (device-height: 736px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 3)" href="https://vice-web-statics-cdn.vice.com/favicons/vice/apple-touch-startup-image-1182x2208.png">
+<link rel="apple-touch-startup-image" media="(device-width: 414px) and (device-height: 736px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 3)" href="https://vice-web-statics-cdn.vice.com/favicons/vice/apple-touch-startup-image-1242x2148.png">
+<link rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 1)" href="https://vice-web-statics-cdn.vice.com/favicons/vice/apple-touch-startup-image-748x1024.png">
+<link rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 1)" href="https://vice-web-statics-cdn.vice.com/favicons/vice/apple-touch-startup-image-768x1004.png">
+<link rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 2)" href="https://vice-web-statics-cdn.vice.com/favicons/vice/apple-touch-startup-image-1496x2048.png">
+<link rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 2)" href="https://vice-web-statics-cdn.vice.com/favicons/vice/apple-touch-startup-image-1536x2008.png">
+
+  <!-- MS Application -->
+  <meta name="msapplication-TileColor" content="#FFFFFF"/>
+  <meta name="msapplication-square70x70logo" content=""/>
+  <meta name="msapplication-TileImage" content=""/>
+  <meta name="msapplication-square150x150logo" content=""/>
+  <meta name="msapplication-wide310x150logo" content=""/>
+  <meta name="msapplication-square310x310logo" content=""/>
+  
+  <link href="https://fonts.googleapis.com/css?family=Lora:400,700" rel="stylesheet">
+  
+  <link rel="stylesheet" type="text/css" href="https://vice-web-statics-cdn.vice.com/static/vice.483438c4ddd9b394bd92.css"/>
+  <script>
+    window.__LOGGER = {};
+  </script>
+  <!-- iFramely lazy load snippet -->
+  <script type="text/javascript">
+    function loadIframelyEmbedJs() {
+        if (document.querySelectorAll('[data-iframely-url]').length === 0) return;
+        var iframely = window.iframely = window.iframely || {};
+        var widgets = iframely.widgets = iframely.widgets || {};
+        if (widgets.load) {
+            widgets.load();
+        } else {
+            var ifs = document.createElement('script'); ifs.type = 'text/javascript'; ifs.async = true;
+            ifs.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + '//cdn.iframe.ly/embed.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ifs, s);
+        }
+    }
+  </script>
+  <!-- GRAPESHOT channel tag -->
+<script type="text/javascript">
+  var gs_channels="DEFAULT";
+  var gsurl=window.location!=window.top.location?document.referrer:window.location;
+  document.write('<scr'+'ipt type="text/javascript" src="//vice-useast.gscontxt.net/main/channels.fcgi?url='+encodeURIComponent(gsurl)+'"></scr'+'ipt>');
+</script>
+<!-- GRAPESHOT channel tag END -->
+
+<script type="text/javascript" src="//vice-d.openx.net/w/1.0/jstag?nc=16916245-vice"></script>
+
+<!-- Start: GPT Async -->
+<script type='text/javascript'>
+  var gptadslots = {};
+  var globalAdSlots = {};
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function(){ var gads = document.createElement('script');
+    gads.async = true; gads.type = 'text/javascript';
+    var useSSL = 'https:' == document.location.protocol;
+    gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script>
+<!-- BEGIN Krux Control Tag for "Noisey" -->
+
+<script class="kxct" data-id="JLmLD3_1" data-timing="async" data-version="1.9" type="text/javascript">
+ window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
+ (function(){
+   var k=document.createElement('script');k.type='text/javascript';k.async=true;
+   var m,src=(m=location.href.match(/\bkxsrc=([^&]+)/))&&decodeURIComponent(m[1]);
+   k.src = /^https?:\/\/([a-z0-9_\-\.]+\.)?krxd\.net(:\d{1,5})?\//i.test(src) ? src : src === "disable" ? "" :
+     (location.protocol==="https:"?"https:":"http:")+"//cdn.krxd.net/controltag?confid=JLmLD3_1"
+ ;
+   var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);
+ }());
+
+</script>
+<script>
+window.Krux||((Krux=function(){Krux.q.push(arguments);}).q=[]);
+(function(){
+ function retrieve(n){
+  var m, k='kx'+n;
+  if(window.localStorage){
+   return window.localStorage[k] || "";
+  }else if(navigator.cookieEnabled){
+   m = document.cookie.match(k+'=([^;]*)');
+   return (m && unescape(m[1])) || "";
+  }else{
+   return '';
+  }
+ }
+ Krux.user = retrieve('user');
+ Krux.segments = retrieve('segs') && retrieve('segs').split(',') || [];
+})();
+</script>
+<!-- END Krux Controltag -->
+
+<!-- sharethrough -->
+<script type="text/javascript" src="//native.sharethrough.com/assets/sfp.js"></script>
+
+<script type="text/javascript">
+  googletag.cmd.push(function() {
+    googletag.pubads().setTargeting("ksg", Krux.segments);
+    googletag.pubads().setTargeting("kuid", Krux.user);
+    googletag.pubads().setTargeting('gs_cat', gs_channels);
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().enableAsyncRendering();
+    googletag.pubads().disableInitialLoad();
+    googletag.pubads().collapseEmptyDivs(true);
+    googletag.enableServices();
+  });
+</script>
+<!-- End: GPT -->
+
+<script async defer src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+  
+
+  
+<!-- GA Tag -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', "UA-599058-49", 'auto');
+
+</script>
+<!-- End GA Tag -->
+
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt); })();
+_qevents.push({
+qacct:"p-6EzWtvBV9sFU3"
+});
+</script>
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-6EzWtvBV9sFU3.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"x5HVh1aUXR00Gi", domain:"vice.com",dynamic: true};
+window.__LOGGER.atrk = {};
+window.__LOGGER.atrk[window.location.pathname] = true;
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=x5HVh1aUXR00Gi" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->
+
+<!-- begin comscore tag -->
+<script>
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "8568956" });
+(function() {
+var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+el.parentNode.insertBefore(s, el);
+})();
+window.__LOGGER.comscore = {};
+window.__LOGGER.comscore[window.location.pathname] = true;
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&c2=8568956&cv=2.0&cj=1" />
+</noscript>
+<!-- end comscore tag -->
+
+<!--IVW Script-->
+<script src="https://advice-ads-cdn.vice.com/DE/viceIVW-CS.js"></script>
+<!--End IVW Script-->
+
+<!--Austrian OEWA updated Tracker-->
+<script type="text/javascript" src="https://vice-publishers-cdn.vice.com/AT_CH/OEWA/oewa_pixel_updated.js" async="async"></script>
+<!--End Austrian OEWA Tracker-->
+
+<!--Chartbeat-->
+<script type="text/javascript">
+var _sf_startpt=(new Date()).getTime();
+var _sf_async_config = {};
+/** CONFIGURATION START **/
+_sf_async_config.sections = 'en_uk';
+_sf_async_config.uid = 8233;
+_sf_async_config.domain = "vice.com";
+/** CONFIGURATION END **/
+(function(){
+function loadChartbeat(){
+window._sf_endpt=(new Date()).getTime();
+var e = document.createElement("script");
+e.setAttribute("language", "javascript");
+e.setAttribute("type", "text/javascript");
+e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+document.body.appendChild(e);
+}
+var oldonload = window.onload;
+window.onload = (typeof window.onload != "function") ?
+loadChartbeat : function(){try{oldonload();}catch(e){loadChartbeat(); throw e}loadChartbeat();};
+})();
+</script>
+<!-- end chartbeat -->
+
+
+
+  
+<!-- BEGIN iOS app smart banner -->
+<meta name="apple-itunes-app" content="app-id=591496838">
+<!-- END iOS app smart banner -->
+
+<!--Crazy Egg-->
+<script type="text/javascript">
+  setTimeout(function(){var a=document.createElement("script");
+    var b=document.getElementsByTagName("script")[0];
+    a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0013/1363.js?"+Math.floor(new Date().getTime()/3600000);
+    a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+<!--End Crazy Egg-->
+
+  
+</head>
+<body>
+  <script>
+    window.__PREFETCH_DATA = {"id":"58f9de1874f85362a6a6ec15","nsfb":false,"nsfw":false,"web_id":"yp7bwy","title":"Theresa May's 'Strong and Stable Leadership' Is Leading Us to Chaos","body":"\u003Cp\u003E I don't know what's crushing your sprit today, but for me it's the grim, glum, deadening sight of Theresa May on stage, launching her new election slogan. It's a picture of seeping dread; the Prime Minister preposterous and pontificating on her little plywood dais, surrounded by people who all look \u003Ci\u003E utterly miserable\u003C\u002Fi\u003E: sad, drooping potato-heads with their scrunched-up or jammed-shut mouths, expressions of fretful woe or sheer blank emptiness, raising their placards without even a hint of enthusiasm, like tired and bloodied soldiers carrying their flags home on a shuffling retreat. \u003C\u002Fp\u003E\u003Cp\u003EIt doesn't look like a political rally at all; it's of those Renaissance paintings or tapestries, a hunt-scene: the lord's courtiers all arranged with precise spacing across the frame, all wearing the strangely identical heads of an art that wasn't yet so concerned with what people looked like – and just out of view, some poor, harried creature bristling with arrows and choking on its own blood. This is the future she's promising us. It groans from every placard. \u003Ci\u003E Strong and stable leadership in the national interest\u003C\u002Fi\u003E.\u003C\u002Fp\u003E \u003Cp\u003E It's not a good slogan. It's a lumpy, ungainly mouthful, and it's not really clear what it means. And the placards look \u003Ci\u003E awful\u003C\u002Fi\u003E. A British flag, almost entirely defaced with white; a politics that looks shitty and functional and cheap, like it's being offered on the Tesco Value range. You deserve better, we all deserve better, but this is what you can afford. Scrimping and miserly; low ceilings and low expectations; mildew, flaking paint, bad tempers and rain. A slogan that could be used to advertise a dishcloth. \u003C\u002Fp\u003E\u003Cp\u003EStrong and stable leadership – to do what? It's a slogan that blots out any hope for a better world, and even any set of political principles beyond whatever ancient spite is contained in that thin strip of flag around the edge. Politics can do nothing for you; the best you can hope is that when it does whatever it does, it happens efficiently. If you are lucky, every day will be just like the last one. If you suffer, it will be in the national interest. What is this thing \u003Ci\u003E for\u003C\u002Fi\u003E? It doesn't matter. It's good value for money; buy it or get out the shop. \u003C\u002Fp\u003E \u003Cp class=\"article__pull-quote\"\u003E\"If this is stability, what would chaos even look like?\"\u003C\u002Fp\u003E\u003Cp\u003E This is also a lie; it's the same lie that's been dripping honey-thick from Tory mouths since 2010. David Cameron ran on a similar line during the last election – strong and stable government with me, or \u003Ci\u003E chaos –\u003C\u002Fi\u003E sheer chaos – under Ed Miliband. Since then, his strong and stable government oversaw a massive decline in the pound's value, a spate of racially motivated attacks and killings, the biggest constitutional crisis in nearly a century, a renewed likelihood that the country will break up entirely and – within just over a year – the strong and stable government opting to give up altogether and fob off the job to somebody else. If this is stability, what would chaos even look like? \u003C\u002Fp\u003E \u003Cp\u003E From the moment Theresa May began her Tory leadership campaign, she was determinedly projecting a similar image: an expert negotiator, a safe pair of hands, someone stern and bloodless, but who could \u003Ci\u003E get it done\u003C\u002Fi\u003E. It's not that there was anything in her record to actually suggest this, though; it was a strange, quasi-magical connection: this person is austere, humourless and unpleasant, a born bureaucrat, therefore she must be good at her job. As she took her first steps into Downing Street, everyone appeared to forget that as Home Secretary she had deported 48,000 students on legal visas because they \u003Ca href=\"http:\u002F\u002Fwww.independent.co.uk\u002Fstudent\u002Fnews\u002Ftheresa-may-wrongly-deported-48000-students-after-bbc-panorama-exposes-toeic-scam-a6958286.html\" target=\"_blank\"\u003Etook an English proficiency test\u003C\u002Fa\u003E, or that her flagship policy consisted of sending vans emblazoned with National Front slogans around London, and was \u003Ca href=\"http:\u002F\u002Fwww.huffingtonpost.co.uk\u002F2013\u002F10\u002F22\u002Fracist-van-home-office_n_4141382.html\" target=\"_blank\"\u003Equickly cancelled\u003C\u002Fa\u003E. All the facts indicated that she was a witless idiot, propelled by the farts and fire of a fanatical nationalist ideology. It didn't matter.\u003C\u002Fp\u003E\u003Cp class=\"article__pull-quote\"\u003E\"Is there any chance, at all, that it could be worse than this?\"\u003C\u002Fp\u003E \u003Cp\u003E Since she took power, her strong and stable government has been in constant crisis and disintegration, fixed only by the basilisk stare of her puffy, emotionless eyes. Her approach to the Brexit negotiations has been bizarre and incomprehensible, \u003Ca href=\"http:\u002F\u002Fwww.bbc.co.uk\u002Fnews\u002Fuk-politics-38641208\" target=\"_blank\"\u003Egiving up any reasonable demand\u003C\u002Fa\u003E before they even started, a chess player sawing off her own hands before the first move. Her first budget was \u003Ca href=\"https:\u002F\u002Fwww.theguardian.com\u002Fpolitics\u002F2017\u002Fmar\u002F16\u002Ftheresa-may-philip-hammond-national-insurance-humiliation\" target=\"_blank\"\u003Ea disaster\u003C\u002Fa\u003E, with its main prescription – a rise in National Insurance rates – being cancelled a week after it was announced. Her attempt to bring back grammar schools is deeply unpopular and may well be dead in the water. On her watch, the Red Cross announced that the state of the NHS constituted a \u003Ca href=\"https:\u002F\u002Fwww.theguardian.com\u002Fsociety\u002F2017\u002Fjan\u002F06\u002Fnhs-faces-humanitarian-crisis-rising-demand-british-red-cross\" target=\"_blank\"\u003Ehumanitarian crisis\u003C\u002Fa\u003E. She repeatedly \u003Ca href=\"https:\u002F\u002Fwww.theguardian.com\u002Fpolitics\u002F2017\u002Fapr\u002F18\u002Fthe-many-times-theresa-may-ruled-out-an-early-election\" target=\"_blank\"\u003Eruled out a snap election\u003C\u002Fa\u003E, and yet here we are. Nothing makes sense any more. People are \u003Ca href=\"http:\u002F\u002Fuk.businessinsider.com\u002Finequality-class-britain-property-ownership-workers-income-poorer-2017-2\" target=\"_blank\"\u003Egetting poorer\u003C\u002Fa\u003E and living \u003Ca href=\"https:\u002F\u002Fwww.ft.com\u002Fcontent\u002F78146114-15f5-11e7-80f4-13e067d5072c\" target=\"_blank\"\u003Eshorter lives\u003C\u002Fa\u003E; the country is getting measurably, quantifiably worse; it's falling apart, split into warring tribes, and violence is never too far away. Is this strength and stability? How bad, how chaotic, could a Jeremy Corbyn government really be? Is there any chance, at all, that it could be worse than this?\u003C\u002Fp\u003E \u003Cp\u003E Clearly the real meaning of whatever stability Theresa May embodies isn't the one you'll find in a dictionary. Historians will tell us that early civilisations, the Greeks and the Mesopotamians, were \u003Ci\u003E terrified of chaos.\u003C\u002Fi\u003E Clearly we're not so different. In the Babylonian creation myth, the world is formed when the law-giving hero-god Marduk kills Tiamat, the primordial sea-dragon of chaos, and fashions the universe from her corpse. Order, clearly, is not the same thing as peace. It comes from a club or a sword: a pile of corpses is ordered – inert, pliable, able to be stacked and numbered – while a mob of living beings is not. Ancient societies fought constant, pointless, brutal wars; entire cities were slaughtered, peasants were enslaved, the fields were salted and turned to dust – but this wasn't chaos, because it was always at someone's command. The fear of chaos is the fear of \u003Ci\u003E life\u003C\u002Fi\u003E, in all its messy unpredictability; it's the fear that the sun and moon might roll over in the sky and become, once more, Tiamat's living eyes. \u003C\u002Fp\u003E \u003Cp\u003E When Theresa May tells people that she represents the forces of order and stability, people believe her, even though everything she's done so far suggests a government that's making things up as it goes along, a stomping and mindless giant imprisoned on its island, leaving vast footprints of wreckage around the country. It's because, at the most foundational level, competence and cruelty are eventually held to be the same thing. British politics are still ingrained with a vulgar Hobbesianism; we still think that good government means surrendering our own violence to a mightier and more repressive state violence, and you can tell how well the state is doing by seeing if it still has the ability to inflict needless, capricious suffering on other people. This is why May's strong-and-stable bullshit doesn't contradict the Brexity desire to shake things up and make a change: they're both based on the same idea, that there's an undeserving underclass – migrants, ethnic minorities, young people, people with disabilities and so on – who simply \u003Ci\u003E aren't suffering enough\u003C\u002Fi\u003E. Look at them. Living, eating, breathing, offending the world with their very existence. Chaos, pure chaos. Something must be done.\u003C\u002Fp\u003E\u003Cp\u003E\u003Ci\u003E\u003Ca href=\"https:\u002F\u002Ftwitter.com\u002Fsam_kriss\" target=\"_blank\"\u003E@sam_kriss\u003C\u002Fa\u003E\u003C\u002Fi\u003E\u003C\u002Fp\u003E","url":"https:\u002F\u002Fwww.vice.com\u002Fen_uk\u002Farticle\u002Ftheresa-mays-strong-and-stable-leadership-is-leading-us-to-chaos","summary":null,"suggested_tweet":null,"dek":"The Tories' election slogan is a cheap, nasty lie.","slug":"theresa-mays-strong-and-stable-leadership-is-leading-us-to-chaos","original_id":"vice:1366968","locale":"en_uk","publish_date":1492780071843,"display_type":"short-form","vmp_id":null,"embed_code":null,"autoplay":false,"clickthrough_url":null,"caption":null,"credit":"Strong and stable leadership for a stable and strong nation (Photo: ANDREW YATES\u002FPA Wire\u002FPA Images)","thumbnail_url":"https:\u002F\u002Fvideo-images.vice.com\u002Farticles\u002F58f9de1874f85362a6a6ec15\u002Flede\u002F1492770472508-PA-30983045.jpeg","thumbnail_url_16_9":"https:\u002F\u002Fvideo-images.vice.com\u002Farticles\u002F58f9de1874f85362a6a6ec15\u002Flede\u002F1492770472508-PA-30983045.jpeg?crop=1xw:0.7601351351351351xh;center,center","thumbnail_url_1_1":"https:\u002F\u002Fvideo-images.vice.com\u002Farticles\u002F58f9de1874f85362a6a6ec15\u002Flede\u002F1492770472508-PA-30983045.jpeg?crop=0.74xw:1xh;center,center","thumbnail_url_2_3":"https:\u002F\u002Fvideo-images.vice.com\u002Farticles\u002F58f9de1874f85362a6a6ec15\u002Flede\u002F1492770472508-PA-30983045.jpeg?crop=0.49333333333333335xw:1xh;center,center","thumbnail_url_10_4":"https:\u002F\u002Fvideo-images.vice.com\u002Farticles\u002F58f9de1874f85362a6a6ec15\u002Flede\u002F1492770472508-PA-30983045.jpeg?crop=1xw:0.5405xh;0xw,0.2162xh","thumbnail_url_10_3":"https:\u002F\u002Fvideo-images.vice.com\u002Farticles\u002F58f9de1874f85362a6a6ec15\u002Flede\u002F1492770472508-PA-30983045.jpeg?crop=1xw:0.4099xh;0xw,0.3568xh","thumbnail_url_7_10":"https:\u002F\u002Fvideo-images.vice.com\u002Farticles\u002F58f9de1874f85362a6a6ec15\u002Flede\u002F1492770472508-PA-30983045.jpeg?crop=0.518xw:1xh;center,center","channel":{"id":"57a204088cb727dec794c67b","name":"vice","url":"www.vice.com","badge_url":"https:\u002F\u002Fvideo-images.vice.com\u002Fchannels\u002F57a204088cb727dec794c67b\u002Fbadge\u002F1487174972413-vice-circle-badge3x.png","twitter_url":"https:\u002F\u002Ftwitter.com\u002Fviceuk","facebook_url":"https:\u002F\u002Fwww.facebook.com\u002Fviceuk\u002F","instagram_url":"https:\u002F\u002Fwww.instagram.com\u002Fvice\u002F?hl=en","youtube_url":"https:\u002F\u002Fwww.youtube.com\u002Fuser\u002Fvice","tumblr_url":"http:\u002F\u002Fvicemag.tumblr.com\u002F","pinterest_url":"https:\u002F\u002Fwww.pinterest.com\u002Fvicemag\u002F","reddit_url":"https:\u002F\u002Fwww.reddit.com\u002Fr\u002Fvice\u002F","reddit_handle":"vice","soundcloud_url":null,"twitch_url":null,"twitch_handle":null,"color":"#000000","dek":"The definitive guide to enlightening information.","slug":"vice","original_id":1,"thumbnail_url":"https:\u002F\u002Fvideo-images.vice.com\u002Fimages\u002Fchannel\u002F1\u002Flede\u002FVICEBLACK_333x333.png","light_logo_url":"https:\u002F\u002Fvideo-images.vice.com\u002Fchannels\u002F57a204088cb727dec794c67b\u002Flogo\u002F1487174972395-vice-thick-white3x.png","light_logo_url_1_1":"https:\u002F\u002Fvideo-images.vice.com\u002Fchannels\u002F57a204088cb727dec794c67b\u002Flogo\u002F1487174972395-vice-thick-white3x.png?crop=0.31446540880503143xw:1xh;center,center","light_logo_url_10_4":"https:\u002F\u002Fvideo-images.vice.com\u002Fchannels\u002F57a204088cb727dec794c67b\u002Flogo\u002F1487174972395-vice-thick-white3x.png?crop=0.7861635220125787xw:1xh;center,center","light_logo_url_16_9":"https:\u002F\u002Fvideo-images.vice.com\u002Fchannels\u002F57a204088cb727dec794c67b\u002Flogo\u002F1487174972395-vice-thick-white3x.png?crop=0.5590496156533893xw:1xh;center,center","dark_logo_url":null,"dark_logo_url_1_1":null,"dark_logo_url_10_4":null,"dark_logo_url_16_9":null},"topics":[{"id":"57a205498cb727dec7959374","is_primary_topic":false,"topic_type":"standard","name":"Conservative Party","slug":"conservative-party","thumbnail_url":null,"thumbnail_url_2_3":null,"thumbnail_url_16_9":null,"thumbnail_url_10_4":null,"thumbnail_url_10_3":null,"thumbnail_url_7_10":null,"thumbnail_url_1_1":null,"article_count":1,"video_count":1,"show_count":0},{"id":"57a206d8455477dee9d0580b","is_primary_topic":false,"topic_type":"standard","name":"theresa may","slug":"theresa-may","thumbnail_url":null,"thumbnail_url_2_3":null,"thumbnail_url_16_9":null,"thumbnail_url_10_4":null,"thumbnail_url_10_3":null,"thumbnail_url_7_10":null,"thumbnail_url_1_1":null,"article_count":5,"video_count":0,"show_count":0},{"id":"57f426bc8a26f31290ffe403","is_primary_topic":false,"topic_type":"standard","name":"Leadership","slug":"leadership","thumbnail_url":null,"thumbnail_url_2_3":null,"thumbnail_url_16_9":null,"thumbnail_url_10_4":null,"thumbnail_url_10_3":null,"thumbnail_url_7_10":null,"thumbnail_url_1_1":null,"article_count":0,"video_count":1,"show_count":0},{"id":"58f5f8dec010450cf587db7b","is_primary_topic":false,"topic_type":"standard","name":"Election 2017","slug":"election-2017","thumbnail_url":null,"thumbnail_url_2_3":null,"thumbnail_url_16_9":null,"thumbnail_url_10_4":null,"thumbnail_url_10_3":null,"thumbnail_url_7_10":null,"thumbnail_url_1_1":null,"article_count":0,"video_count":0,"show_count":0}],"system_tags":[],"genres":[],"primary_topic":{"id":"57a206ef717496df578dbdaa","is_primary_topic":true,"topic_type":"standard","name":"Oh Snap","slug":"oh-snap","thumbnail_url":null,"thumbnail_url_2_3":null,"thumbnail_url_16_9":null,"thumbnail_url_10_4":null,"thumbnail_url_10_3":null,"thumbnail_url_7_10":null,"thumbnail_url_1_1":null,"article_count":1,"video_count":0,"show_count":0},"contributions":[{"contribution_id":"58477f911add200286af8e22","role_id":"589b62267be1070395990030","role":"Author","contributor":{"id":"58477f911add200286af8e22","first_name":"Sam","last_name":"Kriss","full_name":"Sam Kriss","url":"https:\u002F\u002Fwww.vice.com\u002Fen_uk\u002Fcontributor\u002Fsam-kriss","public_url":"https:\u002F\u002Fwww.vice.com\u002Fen_us\u002Fauthor\u002Fsam-kriss","twitter_url":null,"twitter_handle":null,"instagram_handle":null,"slug":"sam-kriss","email":"editor@vice.com","position":null,"bio":null,"article_count":0,"video_count":0,"show_count":0,"thumbnail_url":"https:\u002F\u002Fvice-images.vice.com\u002Fimages\u002Fcontributor\u002Fmeta\u002F2016\u002F07\u002F07\u002Fsam-kriss-1467897480.png","thumbnail_url_1_1":"https:\u002F\u002Fvice-images.vice.com\u002Fimages\u002Fcontributor\u002Fmeta\u002F2016\u002F07\u002F07\u002Fsam-kriss-1467897480.png?crop=0.5104166666666666xw:1xh;center,center","thumbnail_url_10_3":"https:\u002F\u002Fvice-images.vice.com\u002Fimages\u002Fcontributor\u002Fmeta\u002F2016\u002F07\u002F07\u002Fsam-kriss-1467897480.png?crop=1xw:0.5877551020408164xh;center,center","thumbnail_url_10_4":"https:\u002F\u002Fvice-images.vice.com\u002Fimages\u002Fcontributor\u002Fmeta\u002F2016\u002F07\u002F07\u002Fsam-kriss-1467897480.png?crop=1xw:0.7836734693877551xh;center,center","thumbnail_url_16_9":"https:\u002F\u002Fvice-images.vice.com\u002Fimages\u002Fcontributor\u002Fmeta\u002F2016\u002F07\u002F07\u002Fsam-kriss-1467897480.png?crop=0.9074074074074073xw:1xh;center,center","thumbnail_url_2_3":"https:\u002F\u002Fvice-images.vice.com\u002Fimages\u002Fcontributor\u002Fmeta\u002F2016\u002F07\u002F07\u002Fsam-kriss-1467897480.png?crop=0.3402777777777778xw:1xh;center,center","thumbnail_url_7_10":"https:\u002F\u002Fvice-images.vice.com\u002Fimages\u002Fcontributor\u002Fmeta\u002F2016\u002F07\u002F07\u002Fsam-kriss-1467897480.png?crop=0.3572916666666667xw:1xh;center,center"}}],"content_policies":[{"id":"58f9de1874f85362a6a6ec16","display_at":null,"created_at":1492770328338,"updated_at":1492780072467,"published_at":1492780071843,"deleted_at":null,"schedule_end_date":null,"locale_display_scope":0,"locale_locked_scope":0,"locale_feed_visibility_scope":1,"nsfb":0,"nsfw":0,"locale_scope":256,"site_scope":7,"locked_scope":0,"platform_scope":0,"distribution_scope":0,"geo_code":"GB","language":"en","url_fragment":"en_uk","slug":"theresa-mays-strong-and-stable-leadership-is-leading-us-to-chaos","url":"https:\u002F\u002Fwww.vice.com\u002Fen_uk\u002Farticle\u002Ftheresa-mays-strong-and-stable-leadership-is-leading-us-to-chaos"}],"metadata":{"title":"Theresa May's 'Strong and Stable Leadership' Is Leading Us to Chaos - Vice","share_title":"Theresa May's 'Strong and Stable Leadership' Is Leading Us to Chaos","description":"The Tories' election slogan is a cheap, nasty lie.","keywords":"culture, news, lgbtq, politics, journalism, video, documentary, sex, drugs, film, tv, entertainment, travel, crime,Conservative Party,theresa may,Leadership,Election 2017","thumbnail":"https:\u002F\u002Fvideo-images.vice.com\u002Farticles\u002F58f9de1874f85362a6a6ec15\u002Flede\u002F1492770472508-PA-30983045.jpeg","og_image":"https:\u002F\u002Fvideo-images.vice.com\u002Farticles\u002F58f9de1874f85362a6a6ec15\u002Flede\u002F1492770472508-PA-30983045.jpeg?crop=1xw:0.7601351351351351xh;center,center&resize=1200:*"}};
+  </script>
+  <script>
+    window.__LOCALES = [{"id":"57a204068cb727dec794c573","label":"United States","abbreviation":"US","url_fragment":"en_us","language":"en","country":"USA","geo_code":"US","bitwise":1,"legacy_id":1,"site_scope":32631,"created_at":null,"updated_at":1490712294700,"cacheKeys":["locale:57a204068cb727dec794c573:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"57a204068cb727dec794c574","label":"Québec","abbreviation":"FRCA","url_fragment":"fr_ca","language":"fr","country":"CAN","geo_code":"CA","bitwise":4,"legacy_id":3,"site_scope":3,"created_at":null,"updated_at":1489158704368,"cacheKeys":["locale:57a204068cb727dec794c574:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"57a204068cb727dec794c575","label":"Canada","abbreviation":"CA","url_fragment":"en_ca","language":"en","country":"CAN","geo_code":"CA","bitwise":2,"legacy_id":2,"site_scope":51,"created_at":null,"updated_at":1490214941205,"cacheKeys":["locale:57a204068cb727dec794c575:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"57a204068cb727dec794c577","label":"Germany","abbreviation":"DE","url_fragment":"de","language":"de","country":"DE","geo_code":"DE","bitwise":16,"legacy_id":5,"site_scope":3379,"created_at":null,"updated_at":1490214941242,"cacheKeys":["locale:57a204068cb727dec794c577:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"57a204068cb727dec794c578","label":"Denmark","abbreviation":"DK","url_fragment":"en_dk","language":"en","country":"DK","geo_code":"DK","bitwise":64,"legacy_id":7,"site_scope":19,"created_at":null,"updated_at":null,"cacheKeys":["locale:57a204068cb727dec794c578:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"57a204068cb727dec794c579","label":"Sweden","abbreviation":"SE","url_fragment":"sv","language":"sv","country":"SE","geo_code":"SE","bitwise":128,"legacy_id":8,"site_scope":19,"created_at":null,"updated_at":null,"cacheKeys":["locale:57a204068cb727dec794c579:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"57a204068cb727dec794c57a","label":"Australia","abbreviation":"AU","url_fragment":"en_au","language":"en","country":"AU","geo_code":"AU","bitwise":32,"legacy_id":6,"site_scope":2099,"created_at":null,"updated_at":1490214941215,"cacheKeys":["locale:57a204068cb727dec794c57a:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"57a204068cb727dec794c57b","label":"United Kingdom","abbreviation":"UK","url_fragment":"en_uk","language":"en","country":"UK","geo_code":"GB","bitwise":256,"legacy_id":9,"site_scope":3123,"created_at":null,"updated_at":1490214941210,"cacheKeys":["locale:57a204068cb727dec794c57b:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"57a204068cb727dec794c57c","label":"Spain","abbreviation":"ES","url_fragment":"es","language":"es","country":"ES","geo_code":"ES","bitwise":512,"legacy_id":10,"site_scope":3347,"created_at":null,"updated_at":null,"cacheKeys":["locale:57a204068cb727dec794c57c:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"57a204068cb727dec794c57d","label":"Chile","abbreviation":"CL","url_fragment":"es_cl","language":"es","country":"CL","geo_code":"CL","bitwise":4096,"legacy_id":13,"site_scope":1,"created_at":null,"updated_at":null,"cacheKeys":["locale:57a204068cb727dec794c57d:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"57a204068cb727dec794c57e","label":"Argentina","abbreviation":"AR","url_fragment":"es_ar","language":"es","country":"AR","geo_code":"AR","bitwise":1024,"legacy_id":11,"site_scope":17,"created_at":null,"updated_at":null,"cacheKeys":["locale:57a204068cb727dec794c57e:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"57a204068cb727dec794c57f","label":"Mexico","abbreviation":"MX","url_fragment":"es_mx","language":"es","country":"MX","geo_code":"MX","bitwise":8192,"legacy_id":14,"site_scope":2099,"created_at":null,"updated_at":1490214941215,"cacheKeys":["locale:57a204068cb727dec794c57f:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"57a204068cb727dec794c580","label":"Colombia","abbreviation":"CO","url_fragment":"es_co","language":"es","country":"CO","geo_code":"CO","bitwise":2048,"legacy_id":12,"site_scope":51,"created_at":null,"updated_at":1490214941216,"cacheKeys":["locale:57a204068cb727dec794c580:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"57a204068cb727dec794c581","label":"France","abbreviation":"FR","url_fragment":"fr","language":"fr","country":"FR","geo_code":"FR","bitwise":16384,"legacy_id":15,"site_scope":3347,"created_at":null,"updated_at":null,"cacheKeys":["locale:57a204068cb727dec794c581:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"57a204068cb727dec794c582","label":"Poland","abbreviation":"PL","url_fragment":"pl","language":"pl","country":"PL","geo_code":"PL","bitwise":65536,"legacy_id":17,"site_scope":19,"created_at":null,"updated_at":null,"cacheKeys":["locale:57a204068cb727dec794c582:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"57a204068cb727dec794c583","label":"Netherlands","abbreviation":"NL","url_fragment":"nl","language":"nl","country":"NL","geo_code":"NL","bitwise":262144,"legacy_id":19,"site_scope":3379,"created_at":null,"updated_at":1490214941232,"cacheKeys":["locale:57a204068cb727dec794c583:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"57a204068cb727dec794c584","label":"Italy","abbreviation":"IT","url_fragment":"it","language":"it","country":"IT","geo_code":"IT","bitwise":32768,"legacy_id":16,"site_scope":2323,"created_at":null,"updated_at":null,"cacheKeys":["locale:57a204068cb727dec794c584:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"57a204068cb727dec794c585","label":"Japan","abbreviation":"JP","url_fragment":"jp","language":"jp","country":"JP","geo_code":"JP","bitwise":524288,"legacy_id":20,"site_scope":2065,"created_at":null,"updated_at":null,"cacheKeys":["locale:57a204068cb727dec794c585:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"57a204068cb727dec794c586","label":"Brasil","abbreviation":"BR","url_fragment":"pt_br","language":"pt","country":"BR","geo_code":"BR","bitwise":131072,"legacy_id":18,"site_scope":2355,"created_at":null,"updated_at":1490214941231,"cacheKeys":["locale:57a204068cb727dec794c586:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"57a204068cb727dec794c587","label":"Greece","abbreviation":"GR","url_fragment":"gr","language":"el","country":"GR","geo_code":"GR","bitwise":1048576,"legacy_id":21,"site_scope":3,"created_at":null,"updated_at":1486995351085,"cacheKeys":["locale:57a204068cb727dec794c587:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"57ffa6ff967ad56a84f78e66","label":"Indonesia","abbreviation":"ID","url_fragment":"en_id","language":"en","country":"ID","geo_code":"ID","bitwise":2097152,"legacy_id":22,"site_scope":3,"created_at":null,"updated_at":null,"cacheKeys":["locale:57ffa6ff967ad56a84f78e66:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"58221ec29628d47a95310e14","label":"Belgium","abbreviation":"BE","url_fragment":"be","language":"nl","country":"BE","geo_code":"BE","bitwise":4194304,"legacy_id":23,"site_scope":3,"created_at":null,"updated_at":null,"cacheKeys":["locale:58221ec29628d47a95310e14:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"58221ec29628d47a95310e15","label":"Czech Republic\u002FSlovakia","abbreviation":"CZ","url_fragment":"cs","language":"cs","country":"CZ","geo_code":"CZ","bitwise":8388608,"legacy_id":24,"site_scope":3,"created_at":null,"updated_at":null,"cacheKeys":["locale:58221ec29628d47a95310e15:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"58221ec29628d47a95310e16","label":"Portugal","abbreviation":"PT","url_fragment":"pt","language":"pt","country":"PT","geo_code":"PT","bitwise":16777216,"legacy_id":25,"site_scope":3,"created_at":null,"updated_at":null,"cacheKeys":["locale:58221ec29628d47a95310e16:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"58221ec29628d47a95310e17","label":"Romania","abbreviation":"RO","url_fragment":"ro","language":"ro","country":"RO","geo_code":"RO","bitwise":33554432,"legacy_id":26,"site_scope":3,"created_at":null,"updated_at":null,"cacheKeys":["locale:58221ec29628d47a95310e17:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"58221ec29628d47a95310e18","label":"Russia","abbreviation":"RU","url_fragment":"ru","language":"ru","country":"RU","geo_code":"RU","bitwise":67108864,"legacy_id":27,"site_scope":3,"created_at":null,"updated_at":null,"cacheKeys":["locale:58221ec29628d47a95310e18:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"58221ec29628d47a95310e19","label":"Serbia","abbreviation":"RS","url_fragment":"rs","language":"sr","country":"RS","geo_code":"RS","bitwise":134217728,"legacy_id":28,"site_scope":3,"created_at":null,"updated_at":null,"cacheKeys":["locale:58221ec29628d47a95310e19:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"583dce87a312b6783b3fbfa9","label":"Bahasa Indonesia","abbreviation":"ID","url_fragment":"id_id","language":"id","country":"ID","geo_code":"ID","bitwise":268435456,"legacy_id":29,"site_scope":3,"created_at":null,"updated_at":null,"cacheKeys":["locale:583dce87a312b6783b3fbfa9:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"583dce87a312b6783b3fbfaa","label":"New Zealand","abbreviation":"NZ","url_fragment":"en_nz","language":"en","country":"NZ","geo_code":"NZ","bitwise":536870912,"legacy_id":30,"site_scope":3,"created_at":null,"updated_at":null,"cacheKeys":["locale:583dce87a312b6783b3fbfaa:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"583dce87a312b6783b3fbfab","label":"Bulgaria","abbreviation":"BG","url_fragment":"bg","language":"bg","country":"BG","geo_code":"BG","bitwise":1073741824,"legacy_id":31,"site_scope":1,"created_at":null,"updated_at":null,"cacheKeys":["locale:583dce87a312b6783b3fbfab:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"583dce87a312b6783b3fbfac","label":"Slovenia","abbreviation":"SI","url_fragment":"sl_si","language":"sl","country":"SI","geo_code":"SI","bitwise":2147483648,"legacy_id":32,"site_scope":1,"created_at":null,"updated_at":null,"cacheKeys":["locale:583dce87a312b6783b3fbfac:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"583dce87a312b6783b3fbfb0","label":"Arabic","abbreviation":"AR","url_fragment":"ar","language":"ar","country":"AE","geo_code":"AE","bitwise":68719476736,"legacy_id":37,"site_scope":1,"created_at":null,"updated_at":null,"cacheKeys":["locale:583dce87a312b6783b3fbfb0:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"58e567801e3f5707cc5f1484","label":"Austria","abbreviation":"AT","url_fragment":"de_at","language":"de","country":"AT","geo_code":"AT","bitwise":137438953472,"legacy_id":38,"site_scope":19,"created_at":1491429248378,"updated_at":1491429367156,"cacheKeys":["locale:58e567801e3f5707cc5f1484:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]},{"id":"58e567b894b8d507baf069ac","label":"Switzerland","abbreviation":"CH","url_fragment":"de_ch","language":"de","country":"CH","geo_code":"CH","bitwise":274877906944,"legacy_id":39,"site_scope":19,"created_at":1491429304318,"updated_at":1491429387774,"cacheKeys":["locale:58e567b894b8d507baf069ac:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]}];
+    window.__SITE_NAME = "vice";
+    window.__CURRENT_LOCALE = {"id":"57a204068cb727dec794c57b","label":"United Kingdom","abbreviation":"UK","url_fragment":"en_uk","language":"en","country":"UK","geo_code":"GB","bitwise":256,"legacy_id":9,"site_scope":3123,"created_at":null,"updated_at":1490214941210,"cacheKeys":["locale:57a204068cb727dec794c57b:1.2.4:45a34f9224a3abfc11b3a1aa967c99d990a90331"]};
+    window.__CURRENT_SITE = {"id":"57a204058cb727dec794c567","name":"vice","url":"www.vice.com","enabled":true,"badge":null,"favicon":null,"display_name":"VICE","legacy_id":3,"socials":{"id":"584b12d04975cc6456a84699","site_id":"57a204058cb727dec794c567","channel_id":null,"show_id":null,"email_newsletter":null,"email_newsletter_weekly":null,"reddit_url":"https:\u002F\u002Fwww.reddit.com\u002Fr\u002Fvice\u002F","tumblr_url":"http:\u002F\u002Fvicemag.tumblr.com\u002F","twitch_url":null,"twitter_url":"https:\u002F\u002Ftwitter.com\u002Fviceuk","youtube_url":"https:\u002F\u002Fwww.youtube.com\u002Fuser\u002Fvice","facebook_url":"https:\u002F\u002Fwww.facebook.com\u002Fviceuk\u002F","instagram_url":"https:\u002F\u002Fwww.instagram.com\u002Fviceuk\u002F?hl=en","pinterest_url":"https:\u002F\u002Fwww.pinterest.com\u002Fvicemag\u002F","soundcloud_url":null,"reddit_handle":"vice","tumblr_handle":null,"twitch_handle":null,"twitter_handle":"viceuk","youtube_handle":null,"facebook_handle":"viceuk","instagram_handle":"vice","pinterest_handle":null,"soundcloud_handle":null,"locale_scope":256,"created_at":1481315024596,"updated_at":1481315024596},"twitter_url":"https:\u002F\u002Ftwitter.com\u002Fviceuk","facebook_url":"https:\u002F\u002Fwww.facebook.com\u002Fviceuk\u002F","instagram_url":"https:\u002F\u002Fwww.instagram.com\u002Fviceuk\u002F?hl=en","youtube_url":"https:\u002F\u002Fwww.youtube.com\u002Fuser\u002Fvice","tumblr_url":"http:\u002F\u002Fvicemag.tumblr.com\u002F","pinterest_url":"https:\u002F\u002Fwww.pinterest.com\u002Fvicemag\u002F","reddit_url":"https:\u002F\u002Fwww.reddit.com\u002Fr\u002Fvice\u002F","reddit_handle":"vice","soundcloud_url":null,"twitch_url":null,"twitch_handle":null};
+    window.__NAV_LINKS = [{"id":"585413560954150815d618ae","locale":"en_uk","site":"www.vice.com","link_type":"primary","order":1,"title":"READ","custom_link":"\u002Fen_uk\u002Fread","topic":{"url":null,"thumbnail_url":null,"thumbnail_url_2_3":null,"thumbnail_url_16_9":null,"thumbnail_url_10_4":null,"thumbnail_url_10_3":null,"thumbnail_url_7_10":null,"thumbnail_url_1_1":null}},{"id":"5857fe7c2e494a080750ecea","locale":"en_uk","site":"www.vice.com","link_type":"primary","order":1,"title":"Watch","custom_link":"https:\u002F\u002Fvideo.vice.com\u002Fen_uk\u002Fchannel\u002Fvice?ref=vice","topic":{"url":null,"thumbnail_url":null,"thumbnail_url_2_3":null,"thumbnail_url_16_9":null,"thumbnail_url_10_4":null,"thumbnail_url_10_3":null,"thumbnail_url_7_10":null,"thumbnail_url_1_1":null}},{"id":"584999db05e48253144e0663","locale":"en_uk","site":"www.vice.com","link_type":"secondary","order":0,"title":"POLITICS","custom_link":"","topic":{"id":"57a204ab8cb727dec7951a9d","url":"https:\u002F\u002Fwww.vice.com\u002Fen_uk\u002Ftopic\u002Fpolitics","name":"politics","slug":"politics","article_count":162,"video_count":242,"show_count":2,"vmp_id":257,"dek":"","caption":null,"credit":null,"thumbnail_url":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a204ab8cb727dec7951a9d\u002Flede\u002F1490993569004-static1squarespace.jpeg","thumbnail_url_16_9":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a204ab8cb727dec7951a9d\u002Flede\u002F1490993569004-static1squarespace.jpeg?crop=1xw:0.8440514469453376xh;center,center","thumbnail_url_1_1":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a204ab8cb727dec7951a9d\u002Flede\u002F1490993569004-static1squarespace.jpeg?crop=0.6664285714285715xw:1xh;center,center","thumbnail_url_2_3":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a204ab8cb727dec7951a9d\u002Flede\u002F1490993569004-static1squarespace.jpeg?crop=0.4442857142857143xw:1xh;center,center","thumbnail_url_10_4":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a204ab8cb727dec7951a9d\u002Flede\u002F1490993569004-static1squarespace.jpeg?crop=1xw:0.6002143622722401xh;center,center","thumbnail_url_10_3":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a204ab8cb727dec7951a9d\u002Flede\u002F1490993569004-static1squarespace.jpeg?crop=1xw:0.45016077170418006xh;center,center","thumbnail_url_7_10":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a204ab8cb727dec7951a9d\u002Flede\u002F1490993569004-static1squarespace.jpeg?crop=0.4665xw:1xh;center,center"}},{"id":"584999e8d862ad1e474e66d0","locale":"en_uk","site":"www.vice.com","link_type":"secondary","order":1,"title":"ENTERTAINMENT","custom_link":"","topic":{"id":"57a204c98cb727dec79531a4","url":"https:\u002F\u002Fwww.vice.com\u002Fen_uk\u002Ftopic\u002Fentertainment","name":"entertainment","slug":"entertainment","article_count":42,"video_count":144,"show_count":0,"vmp_id":1467,"dek":"","thumbnail_url":null,"thumbnail_url_2_3":null,"thumbnail_url_16_9":null,"thumbnail_url_10_4":null,"thumbnail_url_10_3":null,"thumbnail_url_7_10":null,"thumbnail_url_1_1":null}},{"id":"58499a000b75be1e537d3a03","locale":"en_uk","site":"www.vice.com","link_type":"secondary","order":2,"title":"LGBTQ","custom_link":"","topic":{"id":"57a205178cb727dec7956d45","url":"https:\u002F\u002Fwww.vice.com\u002Fen_uk\u002Ftopic\u002Flgbtq","name":"lgbtq","slug":"lgbtq","article_count":61,"video_count":50,"show_count":1,"vmp_id":4670,"dek":"","caption":null,"credit":null,"thumbnail_url":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a205178cb727dec7956d45\u002Flede\u002F1491001186060-nyc-pride-2015-405-1435594808.jpeg","thumbnail_url_16_9":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a205178cb727dec7956d45\u002Flede\u002F1491001186060-nyc-pride-2015-405-1435594808.jpeg?crop=0.9994712591585467xw:1xh;center,center","thumbnail_url_1_1":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a205178cb727dec7956d45\u002Flede\u002F1491001186060-nyc-pride-2015-405-1435594808.jpeg?crop=0.5622025832766825xw:1xh;center,center","thumbnail_url_2_3":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a205178cb727dec7956d45\u002Flede\u002F1491001186060-nyc-pride-2015-405-1435594808.jpeg?crop=0.37480172218445507xw:1xh;center,center","thumbnail_url_10_4":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a205178cb727dec7956d45\u002Flede\u002F1491001186060-nyc-pride-2015-405-1435594808.jpeg?crop=1xw:0.7114873035066506xh;center,center","thumbnail_url_10_3":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a205178cb727dec7956d45\u002Flede\u002F1491001186060-nyc-pride-2015-405-1435594808.jpeg?crop=1xw:0.533615477629988xh;center,center","thumbnail_url_7_10":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a205178cb727dec7956d45\u002Flede\u002F1491001186060-nyc-pride-2015-405-1435594808.jpeg?crop=0.39354180829367774xw:1xh;center,center"}},{"id":"58499a1107b67e1e30fc0bde","locale":"en_uk","site":"www.vice.com","link_type":"secondary","order":3,"title":"DRUGS","custom_link":"","topic":{"id":"57a204a58cb727dec7951606","url":"https:\u002F\u002Fwww.vice.com\u002Fen_uk\u002Ftopic\u002Fdrugs","name":"DRUGS","slug":"drugs","article_count":193,"video_count":196,"show_count":4,"vmp_id":20,"dek":"","caption":null,"credit":null,"thumbnail_url":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a204a58cb727dec7951606\u002Flede\u002F1491001265282-additional2.jpeg","thumbnail_url_16_9":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a204a58cb727dec7951606\u002Flede\u002F1491001265282-additional2.jpeg?crop=1xw:0.8440361139369278xh;center,center","thumbnail_url_1_1":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a204a58cb727dec7951606\u002Flede\u002F1491001265282-additional2.jpeg?crop=0.6664406779661017xw:1xh;center,center","thumbnail_url_2_3":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a204a58cb727dec7951606\u002Flede\u002F1491001265282-additional2.jpeg?crop=0.4442937853107345xw:1xh;center,center","thumbnail_url_10_4":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a204a58cb727dec7951606\u002Flede\u002F1491001265282-additional2.jpeg?crop=1xw:0.6002034587995931xh;center,center","thumbnail_url_10_3":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a204a58cb727dec7951606\u002Flede\u002F1491001265282-additional2.jpeg?crop=1xw:0.4501525940996948xh;center,center","thumbnail_url_7_10":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a204a58cb727dec7951606\u002Flede\u002F1491001265282-additional2.jpeg?crop=0.4665084745762712xw:1xh;center,center"}},{"id":"58499a1c96e89552f695bdd9","locale":"en_uk","site":"www.vice.com","link_type":"secondary","order":4,"title":"OPINION","custom_link":"","topic":{"id":"57c640cc55f7a5827a818cad","url":"https:\u002F\u002Fwww.vice.com\u002Fen_uk\u002Ftopic\u002Fopinion","name":"opinion","slug":"opinion","article_count":79,"video_count":0,"show_count":0,"vmp_id":255308,"dek":null,"caption":null,"credit":null,"thumbnail_url":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57c640cc55f7a5827a818cad\u002Flede\u002F1490995924712-Palmer-Vice-April-0006.jpeg","thumbnail_url_16_9":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57c640cc55f7a5827a818cad\u002Flede\u002F1490995924712-Palmer-Vice-April-0006.jpeg?crop=1xw:0.8419xh;0xw,0.0468xh","thumbnail_url_1_1":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57c640cc55f7a5827a818cad\u002Flede\u002F1490995924712-Palmer-Vice-April-0006.jpeg?crop=0.6672xw:1xh;0.1805xw,0xh","thumbnail_url_2_3":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57c640cc55f7a5827a818cad\u002Flede\u002F1490995924712-Palmer-Vice-April-0006.jpeg?crop=0.4447916666666667xw:1xh;center,center","thumbnail_url_10_4":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57c640cc55f7a5827a818cad\u002Flede\u002F1490995924712-Palmer-Vice-April-0006.jpeg?crop=1xw:0.5995xh;0xw,0.2389xh","thumbnail_url_10_3":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57c640cc55f7a5827a818cad\u002Flede\u002F1490995924712-Palmer-Vice-April-0006.jpeg?crop=1xw:0.4543xh;0xw,0.3021xh","thumbnail_url_7_10":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57c640cc55f7a5827a818cad\u002Flede\u002F1490995924712-Palmer-Vice-April-0006.jpeg?crop=0.46703124999999995xw:1xh;center,center"}},{"id":"58499a25f0d0e51e2f4ec0ab","locale":"en_uk","site":"www.vice.com","link_type":"secondary","order":5,"title":"NSFW","custom_link":"","topic":{"id":"57a204ea8cb727dec7954ac2","url":"https:\u002F\u002Fwww.vice.com\u002Fen_uk\u002Ftopic\u002Fnsfw","name":"nsfw","slug":"nsfw","article_count":149,"video_count":6,"show_count":0,"vmp_id":2804,"dek":"","caption":null,"credit":null,"thumbnail_url":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a204ea8cb727dec7954ac2\u002Flede\u002F1491001490285-071300-R1-6A.jpeg","thumbnail_url_16_9":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a204ea8cb727dec7954ac2\u002Flede\u002F1491001490285-071300-R1-6A.jpeg?crop=1xw:0.8574695121951219xh;center,center","thumbnail_url_1_1":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a204ea8cb727dec7954ac2\u002Flede\u002F1491001490285-071300-R1-6A.jpeg?crop=0.656xw:1xh;center,center","thumbnail_url_2_3":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a204ea8cb727dec7954ac2\u002Flede\u002F1491001490285-071300-R1-6A.jpeg?crop=0.4373333333333333xw:1xh;center,center","thumbnail_url_10_4":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a204ea8cb727dec7954ac2\u002Flede\u002F1491001490285-071300-R1-6A.jpeg?crop=1xw:0.6097560975609756xh;center,center","thumbnail_url_10_3":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a204ea8cb727dec7954ac2\u002Flede\u002F1491001490285-071300-R1-6A.jpeg?crop=1xw:0.4573170731707317xh;center,center","thumbnail_url_7_10":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a204ea8cb727dec7954ac2\u002Flede\u002F1491001490285-071300-R1-6A.jpeg?crop=0.4592xw:1xh;center,center"}},{"id":"58499a34ecaedc53092c2db4","locale":"en_uk","site":"www.vice.com","link_type":"secondary","order":6,"title":"PHOTOS","custom_link":"","topic":{"id":"57a204f08cb727dec7954fa4","url":"https:\u002F\u002Fwww.vice.com\u002Fen_uk\u002Ftopic\u002Fphotos","name":"Photos","slug":"photos","article_count":1216,"video_count":2,"show_count":0,"vmp_id":3078,"dek":"","caption":null,"credit":null,"thumbnail_url":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a204f08cb727dec7954fa4\u002Flede\u002F1491384622030-frog.jpeg","thumbnail_url_16_9":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a204f08cb727dec7954fa4\u002Flede\u002F1491384622030-frog.jpeg?crop=1xw:1xh;center,center","thumbnail_url_1_1":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a204f08cb727dec7954fa4\u002Flede\u002F1491384622030-frog.jpeg?crop=0.5625xw:1xh;center,center","thumbnail_url_2_3":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a204f08cb727dec7954fa4\u002Flede\u002F1491384622030-frog.jpeg?crop=0.375xw:1xh;center,center","thumbnail_url_10_4":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a204f08cb727dec7954fa4\u002Flede\u002F1491384622030-frog.jpeg?crop=1xw:0.7111111111111111xh;center,center","thumbnail_url_10_3":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a204f08cb727dec7954fa4\u002Flede\u002F1491384622030-frog.jpeg?crop=1xw:0.5333333333333333xh;center,center","thumbnail_url_7_10":"https:\u002F\u002Fvideo-images.vice.com\u002Ftopics\u002F57a204f08cb727dec7954fa4\u002Flede\u002F1491384622030-frog.jpeg?crop=0.39375xw:1xh;center,center"}},{"id":"58ecea8e1e92ba4d24db75a8","locale":"en_uk","site":"www.vice.com","link_type":"secondary","order":7,"title":"Shop","custom_link":"https:\u002F\u002Fshop.vice.com\u002Fen\u002F","topic":{"url":null,"thumbnail_url":null,"thumbnail_url_2_3":null,"thumbnail_url_16_9":null,"thumbnail_url_10_4":null,"thumbnail_url_10_3":null,"thumbnail_url_7_10":null,"thumbnail_url_1_1":null}},{"id":"58499a3f07b67e1e30fc0bdf","locale":"en_uk","site":"www.vice.com","link_type":"secondary","order":8,"title":"MAGAZINE","custom_link":"","topic":{"id":"57a204c48cb727dec7952d4e","url":"https:\u002F\u002Fwww.vice.com\u002Fen_uk\u002Ftopic\u002Fvice-magazine","name":"vice magazine","slug":"vice-magazine","article_count":298,"video_count":30,"show_count":0,"vmp_id":1242,"dek":"","thumbnail_url":null,"thumbnail_url_2_3":null,"thumbnail_url_16_9":null,"thumbnail_url_10_4":null,"thumbnail_url_10_3":null,"thumbnail_url_7_10":null,"thumbnail_url_1_1":null}},{"id":"5853125781042351b3ced964","locale":"en_uk","site":"www.vice.com","link_type":"footer","order":0,"title":"About","custom_link":"\u002Fen_uk\u002Fpage\u002Fabout-58477f133bbbf901f85613df","topic":{"url":null,"thumbnail_url":null,"thumbnail_url_2_3":null,"thumbnail_url_16_9":null,"thumbnail_url_10_4":null,"thumbnail_url_10_3":null,"thumbnail_url_7_10":null,"thumbnail_url_1_1":null}},{"id":"585312698a7fe051ad7339b9","locale":"en_uk","site":"www.vice.com","link_type":"footer","order":1,"title":"Careers at VICE","custom_link":"\u002Fen_uk\u002Fpage\u002Fjobs-583ee8a95f53891433074623","topic":{"url":null,"thumbnail_url":null,"thumbnail_url_2_3":null,"thumbnail_url_16_9":null,"thumbnail_url_10_4":null,"thumbnail_url_10_3":null,"thumbnail_url_7_10":null,"thumbnail_url_1_1":null}},{"id":"5853127a81446e51a728dbe1","locale":"en_uk","site":"www.vice.com","link_type":"footer","order":2,"title":"Privacy & Terms","custom_link":"\u002Fen_uk\u002Fpage\u002Fprivacy-and-terms","topic":{"url":null,"thumbnail_url":null,"thumbnail_url_2_3":null,"thumbnail_url_16_9":null,"thumbnail_url_10_4":null,"thumbnail_url_10_3":null,"thumbnail_url_7_10":null,"thumbnail_url_1_1":null}}];
+  </script>
+  <div id="root">
+    
+    
+
+
+
+<script>
+  var el = document.createElement('style');
+  el.innerText = '.pre-load-hidden { visibility: hidden; }';
+  document.body.appendChild(el);
+</script>
+
+
+<div class='server-side-article pre-load-hidden'>
+  <div class='article-page'>
+    
+    
+    <div class='short-form-article'>
+      <div class='short-form-article__header'>
+        <div class='article__title'>Theresa May&#39;s &#39;Strong and Stable Leadership&#39; Is Leading Us to Chaos</div>
+      </div>
+      <div class='short-form-article__bounding-box'>
+        <div class='short-form-article__body'>
+          <div class='short-form-article__body__content'>
+            <img class='server-side-image' src='https://video-images.vice.com/articles/58f9de1874f85362a6a6ec15/lede/1492770472508-PA-30983045.jpeg'/>
+            <h3 class='article__dek'>The Tories&#39; election slogan is a cheap, nasty lie.</h3>
+            <div class='article__body'><p> I don't know what's crushing your sprit today, but for me it's the grim, glum, deadening sight of Theresa May on stage, launching her new election slogan. It's a picture of seeping dread; the Prime Minister preposterous and pontificating on her little plywood dais, surrounded by people who all look <i> utterly miserable</i>: sad, drooping potato-heads with their scrunched-up or jammed-shut mouths, expressions of fretful woe or sheer blank emptiness, raising their placards without even a hint of enthusiasm, like tired and bloodied soldiers carrying their flags home on a shuffling retreat. </p><p>It doesn't look like a political rally at all; it's of those Renaissance paintings or tapestries, a hunt-scene: the lord's courtiers all arranged with precise spacing across the frame, all wearing the strangely identical heads of an art that wasn't yet so concerned with what people looked like – and just out of view, some poor, harried creature bristling with arrows and choking on its own blood. This is the future she's promising us. It groans from every placard. <i> Strong and stable leadership in the national interest</i>.</p> <p> It's not a good slogan. It's a lumpy, ungainly mouthful, and it's not really clear what it means. And the placards look <i> awful</i>. A British flag, almost entirely defaced with white; a politics that looks shitty and functional and cheap, like it's being offered on the Tesco Value range. You deserve better, we all deserve better, but this is what you can afford. Scrimping and miserly; low ceilings and low expectations; mildew, flaking paint, bad tempers and rain. A slogan that could be used to advertise a dishcloth. </p><p>Strong and stable leadership – to do what? It's a slogan that blots out any hope for a better world, and even any set of political principles beyond whatever ancient spite is contained in that thin strip of flag around the edge. Politics can do nothing for you; the best you can hope is that when it does whatever it does, it happens efficiently. If you are lucky, every day will be just like the last one. If you suffer, it will be in the national interest. What is this thing <i> for</i>? It doesn't matter. It's good value for money; buy it or get out the shop. </p> <p class="article__pull-quote">"If this is stability, what would chaos even look like?"</p><p> This is also a lie; it's the same lie that's been dripping honey-thick from Tory mouths since 2010. David Cameron ran on a similar line during the last election – strong and stable government with me, or <i> chaos –</i> sheer chaos – under Ed Miliband. Since then, his strong and stable government oversaw a massive decline in the pound's value, a spate of racially motivated attacks and killings, the biggest constitutional crisis in nearly a century, a renewed likelihood that the country will break up entirely and – within just over a year – the strong and stable government opting to give up altogether and fob off the job to somebody else. If this is stability, what would chaos even look like? </p> <p> From the moment Theresa May began her Tory leadership campaign, she was determinedly projecting a similar image: an expert negotiator, a safe pair of hands, someone stern and bloodless, but who could <i> get it done</i>. It's not that there was anything in her record to actually suggest this, though; it was a strange, quasi-magical connection: this person is austere, humourless and unpleasant, a born bureaucrat, therefore she must be good at her job. As she took her first steps into Downing Street, everyone appeared to forget that as Home Secretary she had deported 48,000 students on legal visas because they <a href="http://www.independent.co.uk/student/news/theresa-may-wrongly-deported-48000-students-after-bbc-panorama-exposes-toeic-scam-a6958286.html" target="_blank">took an English proficiency test</a>, or that her flagship policy consisted of sending vans emblazoned with National Front slogans around London, and was <a href="http://www.huffingtonpost.co.uk/2013/10/22/racist-van-home-office_n_4141382.html" target="_blank">quickly cancelled</a>. All the facts indicated that she was a witless idiot, propelled by the farts and fire of a fanatical nationalist ideology. It didn't matter.</p><p class="article__pull-quote">"Is there any chance, at all, that it could be worse than this?"</p> <p> Since she took power, her strong and stable government has been in constant crisis and disintegration, fixed only by the basilisk stare of her puffy, emotionless eyes. Her approach to the Brexit negotiations has been bizarre and incomprehensible, <a href="http://www.bbc.co.uk/news/uk-politics-38641208" target="_blank">giving up any reasonable demand</a> before they even started, a chess player sawing off her own hands before the first move. Her first budget was <a href="https://www.theguardian.com/politics/2017/mar/16/theresa-may-philip-hammond-national-insurance-humiliation" target="_blank">a disaster</a>, with its main prescription – a rise in National Insurance rates – being cancelled a week after it was announced. Her attempt to bring back grammar schools is deeply unpopular and may well be dead in the water. On her watch, the Red Cross announced that the state of the NHS constituted a <a href="https://www.theguardian.com/society/2017/jan/06/nhs-faces-humanitarian-crisis-rising-demand-british-red-cross" target="_blank">humanitarian crisis</a>. She repeatedly <a href="https://www.theguardian.com/politics/2017/apr/18/the-many-times-theresa-may-ruled-out-an-early-election" target="_blank">ruled out a snap election</a>, and yet here we are. Nothing makes sense any more. People are <a href="http://uk.businessinsider.com/inequality-class-britain-property-ownership-workers-income-poorer-2017-2" target="_blank">getting poorer</a> and living <a href="https://www.ft.com/content/78146114-15f5-11e7-80f4-13e067d5072c" target="_blank">shorter lives</a>; the country is getting measurably, quantifiably worse; it's falling apart, split into warring tribes, and violence is never too far away. Is this strength and stability? How bad, how chaotic, could a Jeremy Corbyn government really be? Is there any chance, at all, that it could be worse than this?</p> <p> Clearly the real meaning of whatever stability Theresa May embodies isn't the one you'll find in a dictionary. Historians will tell us that early civilisations, the Greeks and the Mesopotamians, were <i> terrified of chaos.</i> Clearly we're not so different. In the Babylonian creation myth, the world is formed when the law-giving hero-god Marduk kills Tiamat, the primordial sea-dragon of chaos, and fashions the universe from her corpse. Order, clearly, is not the same thing as peace. It comes from a club or a sword: a pile of corpses is ordered – inert, pliable, able to be stacked and numbered – while a mob of living beings is not. Ancient societies fought constant, pointless, brutal wars; entire cities were slaughtered, peasants were enslaved, the fields were salted and turned to dust – but this wasn't chaos, because it was always at someone's command. The fear of chaos is the fear of <i> life</i>, in all its messy unpredictability; it's the fear that the sun and moon might roll over in the sky and become, once more, Tiamat's living eyes. </p> <p> When Theresa May tells people that she represents the forces of order and stability, people believe her, even though everything she's done so far suggests a government that's making things up as it goes along, a stomping and mindless giant imprisoned on its island, leaving vast footprints of wreckage around the country. It's because, at the most foundational level, competence and cruelty are eventually held to be the same thing. British politics are still ingrained with a vulgar Hobbesianism; we still think that good government means surrendering our own violence to a mightier and more repressive state violence, and you can tell how well the state is doing by seeing if it still has the ability to inflict needless, capricious suffering on other people. This is why May's strong-and-stable bullshit doesn't contradict the Brexity desire to shake things up and make a change: they're both based on the same idea, that there's an undeserving underclass – migrants, ethnic minorities, young people, people with disabilities and so on – who simply <i> aren't suffering enough</i>. Look at them. Living, eating, breathing, offending the world with their very existence. Chaos, pure chaos. Something must be done.</p><p><i><a href="https://twitter.com/sam_kriss" target="_blank">@sam_kriss</a></i></p></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+  </div>
+</div>
+
+    
+  </div>
+  
+<script type="text/javascript" src="https://vice-sundry-assets-cdn.vice.com/sites/web-assets/js/intl-messageformat-with-locales.min.js"></script>
+
+  
+  <script type="text/javascript">
+    var MTIProjectId='7eb418f6-501b-4faa-9669-1f33e54e4532';
+    (function() {
+      var mtiTracking = document.createElement('script');
+      mtiTracking.type='text/javascript';
+      mtiTracking.async='true';
+      mtiTracking.src='https://vice-web-statics-cdn.vice.com/fonts/mtiFontTrackingCode.js';
+      (document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild( mtiTracking );
+    })();
+  </script>
+  
+  <!-- END VENDOR LIBRARIES -->
+
+  <script type="text/javascript" src="https://vice-web-statics-cdn.vice.com/static/vendor.ee64a5782d4a71c0515b.js"></script>
+  <script type="text/javascript" src="https://vice-web-statics-cdn.vice.com/static/assets.efd00f2020548320caa4.js"></script>
+  <script type="text/javascript" src="https://vice-web-statics-cdn.vice.com/static/common.7a948b7d155fc927bb7b.js"></script>
+  <script type="text/javascript" src="https://vice-web-statics-cdn.vice.com/static/vice.483438c4ddd9b394bd92.js"></script>
+  <script>
+  </script>
+  <!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2012 Nielsen Online -->
+<script type="text/javascript" src="//secure-au.imrworldwide.com/v60.js">
+</script>
+<script type="text/javascript">
+var pvar = { cid: "au-vice", content: "0", server: "secure-au" };
+var trac = nol_t(pvar);
+trac.record().post();
+</script>
+<noscript>
+<div>
+<img src="//secure-au.imrworldwide.com/cgi-bin/m?ci=au-vice&cg=0&cc=1&ts=noscript"
+width="1" height="1" alt="" />
+</div>
+</noscript>
+<!-- END Nielsen Online SiteCensus V6.0 -->
+
+</body>
+</html>
+
+
+WARC/1.0
+WARC-Type: metadata
+WARC-Record-ID: <urn:uuid:48b3171f-7dab-43b0-9c98-5da017ae4b81>
+WARC-Warcinfo-ID: <urn:uuid:a15a1fab-8759-4158-bc65-197248a01d57>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/MANIFEST.txt
+WARC-Date: 2017-04-23T10:30:30Z
+Content-Type: text/plain
+Content-Length: 48
+
+<urn:uuid:a15a1fab-8759-4158-bc65-197248a01d57>
+
+
+WARC/1.0
+WARC-Type: resource
+WARC-Record-ID: <urn:uuid:42f303b5-81c6-4ba0-b440-59639f40e553>
+WARC-Warcinfo-ID: <urn:uuid:a15a1fab-8759-4158-bc65-197248a01d57>
+WARC-Concurrent-To: <urn:uuid:48b3171f-7dab-43b0-9c98-5da017ae4b81>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/wget_arguments.txt
+WARC-Date: 2017-04-23T10:30:30Z
+Content-Type: text/plain
+Content-Length: 271
+
+"--warc-file" "theresa-mays-strong-and-stable-leadership-is-leading-us-to-chaos" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "-q" "-O" "/dev/null" "https://www.vice.com/en_uk/article/theresa-mays-strong-and-stable-leadership-is-leading-us-to-chaos" 
+
+
