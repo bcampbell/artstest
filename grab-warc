@@ -1,0 +1,27 @@
+#!/bin/bash
+# script to download a page to a warc file, using the slug as base filename
+
+set -e
+
+if [[ $# -lt 1 ]]; then
+    echo "Usage: $0 <url> [slug]"
+    exit 1
+fi
+
+url=${1}
+
+if [[ $# -lt 2 ]]; then
+    # no slug specified - try and grab one from the url
+    slugpat='([A-Za-z0-9]+(-[A-Za-z0-9]+){2,})([.]html|[.]htm)?/?$'
+    if ! [[ $1 =~ $slugpat ]]; then
+        echo "No slug found in url (specify one as second arg)"
+        exit 1
+    fi
+    slug=${BASH_REMATCH[1]}
+else
+    slug=${2}
+fi
+
+#echo "grabbing ${slug}.warc"
+wget --warc-file ${slug} --no-warc-digests --no-warc-keep-log --no-warc-compression -q -O /dev/null ${url}
+
