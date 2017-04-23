@@ -1,0 +1,1506 @@
+WARC/1.0
+WARC-Type: warcinfo
+Content-Type: application/warc-fields
+WARC-Date: 2017-04-23T10:22:25Z
+WARC-Record-ID: <urn:uuid:c47cf520-b6e8-490d-aa17-9619a701c4a8>
+WARC-Filename: league-two-round-up-leyton-orient-relegated-from-the-football-league.warc
+Content-Length: 460
+
+software: Wget/1.17.1 (linux-gnu)
+format: WARC File Format 1.0
+conformsTo: http://bibnum.bnf.fr/WARC/WARC_ISO_28500_version1_latestdraft.pdf
+robots: classic
+wget-arguments: "--warc-file" "league-two-round-up-leyton-orient-relegated-from-the-football-league" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "-q" "-O" "/dev/null" "http://www.itv.com/news/2017-04-22/league-two-round-up-leyton-orient-relegated-from-the-football-league/" 
+
+
+
+WARC/1.0
+WARC-Type: request
+WARC-Target-URI: http://www.itv.com/news/2017-04-22/league-two-round-up-leyton-orient-relegated-from-the-football-league/
+Content-Type: application/http;msgtype=request
+WARC-Date: 2017-04-23T10:22:25Z
+WARC-Record-ID: <urn:uuid:5849c5ae-d3d3-4258-86f0-046d3f6feb2f>
+WARC-IP-Address: 23.43.157.168
+WARC-Warcinfo-ID: <urn:uuid:c47cf520-b6e8-490d-aa17-9619a701c4a8>
+Content-Length: 223
+
+GET /news/2017-04-22/league-two-round-up-leyton-orient-relegated-from-the-football-league/ HTTP/1.1
+User-Agent: Wget/1.17.1 (linux-gnu)
+Accept: */*
+Accept-Encoding: identity
+Host: www.itv.com
+Connection: Keep-Alive
+
+
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <urn:uuid:0e3e6fe9-e7ee-446b-9941-0e1ee3047e40>
+WARC-Warcinfo-ID: <urn:uuid:c47cf520-b6e8-490d-aa17-9619a701c4a8>
+WARC-Concurrent-To: <urn:uuid:5849c5ae-d3d3-4258-86f0-046d3f6feb2f>
+WARC-Target-URI: http://www.itv.com/news/2017-04-22/league-two-round-up-leyton-orient-relegated-from-the-football-league/
+WARC-Date: 2017-04-23T10:22:25Z
+WARC-IP-Address: 23.43.157.168
+WARC-Block-Digest: 
+WARC-Payload-Digest: f#
+Content-Type: application/http;msgtype=response
+Content-Length: 75198
+
+HTTP/1.1 200 OK
+Server: Apache
+Content-Length: 74598
+Content-Type: text/html; charset=utf-8
+Set-Cookie: AWSELB=0F27010F0CC90AA71929DDFF665CB511D94B6D9750D4AD7AAB2BEA5CF313C5F26017BF03BC38BC6F20D197BE61004C850FCF8FA20312558F52F428344CC649944D1AA3DB18;PATH=/;MAX-AGE=5
+Status: 200 OK
+Vary: Accept-Encoding
+X-Varnish: 8549753
+X-UA-Compatible: IE=Edge,chrome=1
+X-Request-Id: e10a3ba0b746aaf39c13fa7352b57011
+X-Frame-Options: SAMEORIGIN
+Expires: Sun, 23 Apr 2017 10:22:25 GMT
+Cache-Control: max-age=0, no-cache
+Pragma: no-cache
+Date: Sun, 23 Apr 2017 10:22:25 GMT
+Connection: keep-alive
+
+<!doctype html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js ie6 lte-ie7 lte-ie8 lte-ie9 isie" xmlns:fb="https://www.facebook.com/2008/fbml" lang="en" itemscope itemtype="https://schema.org/NewsArticle"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 lte-ie7 lte-ie8 lte-ie9 isie" xmlns:fb="https://www.facebook.com/2008/fbml" lang="en" itemscope itemtype="https://schema.org/NewsArticle"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 lte-ie8 lte-ie9 isie" xmlns:fb="https://www.facebook.com/2008/fbml" lang="en" itemscope itemtype="https://schema.org/NewsArticle"> <![endif]-->
+<!--[if IE 9]>    <html class="no-js ie9 lte-ie9 isie" lang="en" xmlns:fb="https://www.facebook.com/2008/fbml" itemscope itemtype="https://schema.org/NewsArticle"> <![endif]-->
+<!--[if gt IE 9]><!--> <html class="no-js html-device--desktop" lang="en" itemscope itemtype="https://schema.org/NewsArticle" xmlns:fb="https://www.facebook.com/2008/fbml"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>League Two round-up: Leyton Orient relegated from the Football League - ITV News</title>
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="cleartype" content="on">
+
+<!--[if lt IE 9&(!IEMobile)]>
+  <link href="/news/assets/application-lt-ie9.css" media="screen" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if gt IE 8]><!-->
+  <link href="/news/assets/application.css" media="screen" rel="stylesheet" type="text/css" />
+<!--<![endif]-->
+
+<link rel="alternate" type="application/rss+xml" title="RSS" href="/news/index.rss" />
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="eqheg6ykO/gO7FcWg7M8FSA/5qR0WzhAzwMFuzZJtPo=" name="csrf-token" />
+<script src="/news/assets/modernizr.js" type="text/javascript"></script>
+
+<script>ns_loadingtime1=(new Date()).getTime()</script>
+
+<meta name="description" content="Read League Two round-up: Leyton Orient relegated from the Football League latest on ITV News. All the Sport news" />
+<meta name="keywords" content="League Two round-up: Leyton Orient relegated from the Football League. Sport, news, video, latest, ITV News" />
+<meta name="canonical" content="http://www.itv.com/news/2017-04-22/league-two-round-up-leyton-orient-relegated-from-the-football-league/" />
+<meta name="apple-itunes-app" content="app-id=907113454">
+
+<link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
+
+<meta property="fb:app_id" content="296752597030880">
+<meta property="fb:admins" content="678795166">
+
+<!-- Open Graph -->
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="ITV News">
+<meta property="og:url" content="http://www.itv.com/news/2017-04-22/league-two-round-up-leyton-orient-relegated-from-the-football-league/">
+<meta property="og:title" content="League Two round-up: Leyton Orient relegated from the Football League">
+<meta property="og:description" content="Leyton Orient&amp;#39;s 112-year stay in the Football League is over after a 3-0 defeat at Crewe but Newport moved out of the bottom two with a 1-0 win against Accrington.
+
+Following a season of turmoil which has seen five different managers, a winding-up petition and their owner going AWOL as wages go unpaid, the O&amp;#39;s relegation to the Vanarama National League was confirmed as first-half goals from Callum Ainley, Ryan Wintle and George Cooper eased the Alex to victory.
+
+Newport&amp;#39;s &amp;#39;great escape&amp;#39; is well and truly on after a 1-0 win against Accrington saw them leapfrog Hartlepool, who slumped to a dismal 2-0 defeat at home to Barnet.
+
+Mark Randall was claiming the only goal of the game for the Exiles, with his shot looping in with striker Ryan Bird lurking on the line.
+
+At the Northern Gas &amp;amp; Power Stadium, Hartlepool had offered little as an attacking threat when Barnet took the lead. Curtis Weston played the ball through for John Akinde who turned his marker and fired home.
+
+It was 2-0 shortly afterwards when Jamal Campbell-Ryce pulled the ball across for Simeon Akinola to slot in and could have been worse had Joe Fryer not saved an Akinde penalty.
+
+Pools are now two points behind Newport with two games left to play.
+
+Plymouth&amp;#39;s goalless draw at Colchester saw them close the gap on leaders Doncaster to two points after Darren Ferguson&amp;#39;s men were beaten 2-1 at Wycombe.
+
+Luke O&amp;#39;Nien scored twice for the Chairboys, either side of a fine solo strike from Alfie May.
+
+Portsmouth, whose promotion was confirmed last weekend, held on for a 2-1 win against Cambridge.
+
+They broke the deadlock when Enda Stevens raced down the left and cut the ball back for Carl Baker to slot in from 10 yards.
+
+It was 2-0 early in the second half when Kal Naismith curled home a 25-yard free-kick, with Luke Berry grabbing a late consolation for Cambridge.
+">
+
+  <meta property="og:image" content="http://news.images.itv.com/image/file/1281864/img.jpg">
+
+<!-- Twitter card -->
+<meta name="twitter:site" content="@itvnews">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="League Two round-up: Leyton Orient relegated from the Football League">
+<meta name="twitter:description" content="Leyton Orient&amp;#39;s 112-year stay in the Football League is over after a 3-0 defeat at Crewe but Newport moved out of the bottom two with a 1-0 win against Accrington.
+
+Following a season of turmoil which has seen five different managers, a winding-up petition and their owner going AWOL as wages go unpaid, the O&amp;#39;s relegation to the Vanarama National League was confirmed as first-half goals from Callum Ainley, Ryan Wintle and George Cooper eased the Alex to victory.
+
+Newport&amp;#39;s &amp;#39;great escape&amp;#39; is well and truly on after a 1-0 win against Accrington saw them leapfrog Hartlepool, who slumped to a dismal 2-0 defeat at home to Barnet.
+
+Mark Randall was claiming the only goal of the game for the Exiles, with his shot looping in with striker Ryan Bird lurking on the line.
+
+At the Northern Gas &amp;amp; Power Stadium, Hartlepool had offered little as an attacking threat when Barnet took the lead. Curtis Weston played the ball through for John Akinde who turned his marker and fired home.
+
+It was 2-0 shortly afterwards when Jamal Campbell-Ryce pulled the ball across for Simeon Akinola to slot in and could have been worse had Joe Fryer not saved an Akinde penalty.
+
+Pools are now two points behind Newport with two games left to play.
+
+Plymouth&amp;#39;s goalless draw at Colchester saw them close the gap on leaders Doncaster to two points after Darren Ferguson&amp;#39;s men were beaten 2-1 at Wycombe.
+
+Luke O&amp;#39;Nien scored twice for the Chairboys, either side of a fine solo strike from Alfie May.
+
+Portsmouth, whose promotion was confirmed last weekend, held on for a 2-1 win against Cambridge.
+
+They broke the deadlock when Enda Stevens raced down the left and cut the ball back for Carl Baker to slot in from 10 yards.
+
+It was 2-0 early in the second half when Kal Naismith curled home a 25-yard free-kick, with Luke Berry grabbing a late consolation for Cambridge.
+">
+
+  <meta property="twitter:image" content="http://news.images.itv.com/image/file/1281864/img.jpg">
+
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.itv.com/news/assets/mobile/high/apple-touch-icon.png?v=2">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.itv.com/news/assets/mobile/medium/apple-touch-icon.png?v=2">
+<link rel="apple-touch-icon-precomposed" href="http://www.itv.com/news/assets/mobile/medium/apple-touch-icon.png?v=2">
+<link rel="shortcut icon" href="http://www.itv.com/news/assets/mobile/medium/apple-touch-icon.png?v=2">
+
+
+
+  <link rel="stylesheet" href="//www.itvstatic.com/assets/css/fonts.css">
+
+    <!--[if gt IE 8]><!-->
+      <link rel="stylesheet" href="http://www.itv.com/dotcomassets/page-fragments/responsive/page-fragments-ba4099ccb5ded7a6b6de66f02f582926.css">
+    <!--<![endif]-->
+
+    <!--[if lt IE 9&(!IEMobile)]>
+      <link rel="stylesheet" href="http://www.itv.com/dotcomassets/page-fragments/responsive/page-fragments-lt-ie9-aab389d3597ba0132aaacc13322e3606.css">
+    <![endif]-->
+
+
+<style type="text/css">
+  .itv-glob-nav__link{
+  	color: #f2f2f2;
+	 font: 400 normal 1em/2.375 "Reem", arial, sans-serif;
+  }
+
+  .svg .itv-glob-search__toggle,
+  .svg .itv-glob-nav__toggle-icon {
+    background-image: none;
+  }
+
+  @media (min-width: 896px) and (max-width: 960px){
+    .itv-news  .itv-glob-nav__nav{
+      margin-left: 23px;
+    }
+  }
+  @media (min-width: 960px) and (max-width: 976px){
+    .itv-news  .itv-glob-nav__nav{
+      margin-left: 42px;
+    }
+  }
+  @media (min-width: 977px){
+    .itv-news  .itv-glob-nav__nav{
+      margin-left: 56px;
+    }
+  }
+}
+
+</style>
+
+<script type="text/javascript">
+
+document.addEventListener("DOMContentLoaded", function() {
+
+	if(window.location.pathname.split( '/' )[1] == "news"){
+		document.getElementsByTagName("body")[0].className  += ' itv-news ';
+	}
+
+    var searchForm = document.forms.search_search;
+
+    var dropdowns = [ document.getElementById("itv-glob-nav-dropdown") ];
+
+    var hasSearch = !!searchForm;
+    var hasPlaceholderSupport = "placeholder" in document.createElement("input");
+
+    function addEvent(el, type, handler) {
+        if (!el) return;
+
+        if (el.addEventListener) {
+            el.addEventListener(type, handler, false);
+        } else if (el.attachEvent) {
+            el.attachEvent("on" + type, handler);
+        }
+    }
+
+    function eventHandler(el) {
+        return function(evt) {
+            toggleDropdown(evt, el.parentNode);
+        };
+    }
+
+    function toggleDropdown(evt, parent) {
+        var className = parent.className;
+        var classNameMatcher = /\b ? is-open\b/;
+
+        for (i = 0; i < dropdowns.length; i++) {
+            if (parent !== dropdowns[i].parentNode) {
+                dropdowns[i].parentNode.className =
+                    dropdowns[i].parentNode.className.replace(classNameMatcher, "");
+            }
+        }
+
+        if (className.match(classNameMatcher)) {
+            parent.className = className.replace(classNameMatcher, "");
+        } else {
+            parent.className = className + " is-open";
+        }
+
+        evt.preventDefault ? evt.preventDefault() : evt.returnValue = false;
+    }
+
+    if (hasSearch) {
+        if (!hasPlaceholderSupport) {
+            var searchInput = searchForm.q;
+            var placeholderText = searchInput.getAttribute("placeholder");
+
+            searchInput.value = placeholderText;
+
+            addEvent(searchInput, "focus", function() {
+                if (searchInput.value == placeholderText) {
+                    searchInput.value = "";
+                }
+            });
+
+            addEvent(searchInput, "blur", function() {
+                if (searchInput.value == "") {
+                    searchInput.value = placeholderText;
+                }
+            });
+        }
+
+        dropdowns.push(document.getElementById("itv-glob-search-toggle"));
+    }
+
+    var events = ["click", "touchstart"];
+    var handler, d, i, e, j;
+
+    for (i = 0; i < dropdowns.length; i++) {
+        d = dropdowns[i];
+        handler = eventHandler(d);
+
+        for (j = 0; j < events.length; j++) {
+            e = events[j];
+            addEvent(d, e, handler);
+        }
+    }
+
+    var element = document.getElementById("itv-header-page-fragment");
+
+    if (!element) return;
+
+    if (!!document.createElementNS &&
+        !!document.createElementNS("http://www.w3.org/2000/svg", "svg").createSVGRect) {
+            element.className = element.className + " svg";
+    }
+
+});
+
+</script>
+
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+  <script>window.jQuery || document.write('<script src="/news/assets/jquery-1.8.3.min.js"><\/script>')</script>
+  <script src="https://js.pusher.com/1.11.2/pusher.min.js" type="text/javascript"></script>
+</head>
+
+<body class="articles-show " id="articles" data-action="show" data-ad-id="news.national.article">
+
+    <div class="header-ad js-ad">    
+      <div class="ad leaderboard any" data-key="Article:184512">
+        <h4>Advertisement</h4>
+        <script src="http://tom.itv.com/itv/jserver/random=69151/site=itv/area=news.national.article/position=1/adtype=any/size=728x90/categories=sport/topics=football/contentid=2017.04.22.league.two.round.up.leyton.orient.relegated.from.the.football.league/viewid=1493836847"></script>
+      </div>
+    
+</div>
+
+  <div id="itv-header-page-fragment" class="itv-page-fragment itv-header-sticky-holder">
+  <div class="itv-header-sticky itv-header--bg"><!--is-sticky -->
+    <div id="itv-glob-cookie-policy-holder"></div>
+
+    <div class="itv-glob-nav">
+      <header>
+        <div class="itv-glob-nav__inner">
+          <div class="itv-glob-nav__logo">
+            <a class="itv-glob-nav__logo-link icon--itv-glob-head-itv" href="/">ITV</a>
+          </div>
+
+          <nav>
+            <div class="itv-glob-nav__nav" id="skip_to_navigation">
+              <a class="itv-glob-nav__toggle" href="#" id="itv-glob-nav-dropdown">
+                <span class="itv-glob-nav__toggle-icon"></span>
+                <span class="itv-glob-nav__visuallyhidden">Toggle navigation</span>
+</a>
+              <ul class="itv-glob-nav__list">
+                <li class="itv-glob-nav__item">
+                  <a class="itv-glob-nav__link" href="http://www.itv.com/itv">Live TV</a>
+                </li>
+                <li class="itv-glob-nav__item">
+                  <a class="itv-glob-nav__link" href="http://www.itv.com/shows">Shows</a>
+                </li>
+                <li class="itv-glob-nav__item">
+                  <a class="itv-glob-nav__link" href="http://www.itv.com/hub/categories">Categories</a>
+                </li>
+                 <li class="itv-glob-nav__item">
+                  <a class="itv-glob-nav__link" href="http://www.itv.com/news">News</a>
+                </li>
+                <li class="itv-glob-nav__item itv-glob-nav__item__small itv-glob-nav__item--mobile">
+                  <a class="itv-glob-nav__link" href="http://www.itv.com/help" rel="nofollow">Help</a>
+                </li>
+              </ul>
+            </div>
+          </nav>
+            <div id="itv-glob-search" class="itv-glob-search  itv-glob-search--no-mobile">
+              <button id="itv-glob-search-toggle" class="itv-glob-search__toggle"></button>
+              <form name="search_search" class="itv-glob-search__form" method="get" action="/news/search/">
+                <div class="itv-glob-search__field">
+                  <input class="itv-glob-search__input" id="itv-glob-search-input" name="q" placeholder="Search news" type="text" />
+                  <button class="itv-glob-search__button" type="submit">
+                    <div class="itv-glob-search__button-icon icon--itv-glob-search-alt-grey itv-glob-search__button-icon--is-not-active">Search news</div>
+                    <div class="itv-glob-search__button-icon icon--itv-glob-search-alt-cyan itv-glob-search__button-icon--is-active"></div>
+                  </button>
+                </div>
+              </form>
+              <ul class="itv-glob-search__suggestion" id="itv-glob-search-suggestion">
+
+              </ul>
+            </div>
+          <nav>
+            <div class="itv-glob-nav__additional">
+              <ul class="itv-glob-nav__list">
+                <li class="itv-glob-nav__item">
+                  <a class="itv-glob-nav__link" href="http://www.itv.com/help" rel="nofollow">Help</a>
+                </li>
+              </ul>
+            </div>
+          </nav>
+        </div>
+      </header>
+    </div>
+    
+  </div>
+</div>
+
+  <script type="text/javascript">
+    $(document).ready(function(){var s={searchInput:"#itv-glob-search-input",searchArea:"#itv-glob-search",highlightClassName:"itv-glob-search--active",suggestionBox:"#itv-glob-search-suggestion",suggestionItemTemplate:'<% for(var name in names) { %><li class="itv-glob-nav__item"><a class="itv-glob-nav__link" href="/search?q=<%= names[name] %>"><%= names[name] %></a></li><% } %>',bloodhoundEngine:!1,isOpenClassName:"is-open",init:function(){$(this.searchInput).on("focus",$.proxy(this.focusHandler,this)),$(this.searchInput).on("blur",$.proxy(this.blurHandler,this))},showSuggestion:function(){$(this.suggestionBox).addClass(this.isOpenClassName)},hideSuggestion:function(){$(this.suggestionBox).removeClass(this.isOpenClassName)},fillSuggestion:function(s){var i=_.template(this.suggestionItemTemplate),t=i({names:s});$(this.suggestionBox).html(t)},focusHandler:function(){$(this.searchArea).addClass(this.highlightClassName),this.showSuggestion()},blurHandler:function(){var s=this;$(s.searchArea).removeClass(s.highlightClassName),s.hideSuggestion()},keyupHandler:function(){var s=$(this.searchInput).val(),i=this;this.bloodhoundEngine.search(s,function(s){i.fillSuggestion(s),console.log(s)},function(s){i.fillSuggestion(s),console.log(s)})}},i={secNav:".itv-glob-second-nav__list",secNavHolder:".itv-glob-second-nav",arrLeft:".itv--arrow-left",arrRight:".itv--arrow-right",hiddenClass:"is-hidden",init:function(){0!=$(this.secNavHolder).length&&(this.displayArrows(),$(this.secNavHolder).on("scroll",$.proxy(this.scrollHandler,this)),$(window).on("resize",$.proxy(this.resizeHandler,this)),$(this.arrLeft).on("click",$.proxy(this.leftArrClickHandler,this)),$(this.arrRight).on("click",$.proxy(this.rightArrClickHandler,this)))},displayArrow:function(s,i){var t=this.arrLeft;"right"==s&&(t=this.arrRight),i?$(t).removeClass(this.hiddenClass):$(t).addClass(this.hiddenClass)},displayLeftArrow:function(s){this.displayArrow("left",s)},displayRightArrow:function(s){this.displayArrow("right",s)},displayArrows:function(){var s=$(this.secNav).prop("scrollWidth"),i=$(this.secNav).position().left,t=$(this.secNavHolder).width();s==t?(this.displayLeftArrow(!1),this.displayRightArrow(!1)):(s-t+Math.round(i)<=5?this.displayRightArrow(!1):this.displayRightArrow(!0),0>i?this.displayLeftArrow(!0):this.displayLeftArrow(!1))},resizeHandler:function(){this.displayArrows()},scrollHandler:function(){this.displayArrows()},leftArrClickHandler:function(){$(this.secNavHolder).scrollLeft($(this.secNavHolder).scrollLeft()-100),this.displayArrows()},rightArrClickHandler:function(){$(this.secNavHolder).scrollLeft($(this.secNavHolder).scrollLeft()+100),this.displayArrows()}};i.init(),s.init()}),$(document).ready(function(){$(".is-sticky").removeClass("is-sticky")});
+</script>
+
+  
+  
+      <div class="background-takeover-container">
+        <div class="background-takeover">
+          <script src="http://tom.itv.com/itv/jserver/random=57489/site=itv/area=news.national.article/position=1/adtype=any/size=pagetakeover/contentid=2017.04.22.league.two.round.up.leyton.orient.relegated.from.the.football.league/viewid=1493836847"></script>
+        </div>
+      </div>
+    
+
+
+  <div class="header-apron">
+    
+  </div>
+
+  <nav class="main-nav ">
+  <ul class="main-nav__inner">
+    <li class="main-nav__item">
+      <a href="/news/" class="main-nav__item-link main-nav__item-link--news"><img alt="News" src="/news/assets/icons/itv-news.svg" /></a>
+    </li>
+
+    <li class="main-nav__item main-nav__item--no-mobile">
+      <a href="/news/" class="main-nav__item-link main-nav__item-link--bordered">Top stories</a>
+    </li>
+
+    <li class="main-nav__item main-nav__item--with-dropdown js-nav-dropdown">
+      <button class="main-nav__item-link main-nav__item-link--bordered js-nav-dropdown-toggle" type="button">
+        Your area
+      </button>
+
+      <div class="main-nav__dropdown">
+        <ul class="main-nav__inner region-selector">
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/" class="main-nav__item-link is-active">National</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/border/" class="main-nav__item-link ">Border</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/tyne-tees/" class="main-nav__item-link ">Tyne Tees</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/calendar/" class="main-nav__item-link ">Calendar</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/granada/" class="main-nav__item-link ">Granada</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/central/" class="main-nav__item-link ">Central</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/anglia/" class="main-nav__item-link ">Anglia</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/london/" class="main-nav__item-link ">London</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/meridian/" class="main-nav__item-link ">Meridian</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/wales/" class="main-nav__item-link ">Wales</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/westcountry/" class="main-nav__item-link ">West Country</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/channel/" class="main-nav__item-link ">Channel</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/utv/" class="main-nav__item-link ">UTV</a>
+            </li>
+        </ul>
+      </div>
+    </li>
+
+    <li class="main-nav__item main-nav__item--with-dropdown js-nav-dropdown">
+      <button class="main-nav__item-link main-nav__item-link--bordered js-nav-dropdown-toggle" type="button">
+        Topics
+      </button>
+
+      <div class="main-nav__dropdown">
+        <ul class="main-nav__inner">
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/world/" class="main-nav__item-link ">World</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/politics/" class="main-nav__item-link ">Politics</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/brexit/" class="main-nav__item-link ">Brexit</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/business/" class="main-nav__item-link ">Business</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/money/" class="main-nav__item-link ">Money</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/health/" class="main-nav__item-link ">Health</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/education/" class="main-nav__item-link ">Education</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/entertainment/" class="main-nav__item-link ">Entertainment</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/royal/" class="main-nav__item-link ">Royal</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/technology/" class="main-nav__item-link ">Technology</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/sport/" class="main-nav__item-link ">Sport</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/and-finally/" class="main-nav__item-link ">And Finally</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/environment/" class="main-nav__item-link ">Environment</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/science/" class="main-nav__item-link ">Science</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/travel/" class="main-nav__item-link ">Travel</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/religion/" class="main-nav__item-link ">Religion</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/economy/" class="main-nav__item-link ">Economy</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/weather/" class="main-nav__item-link ">Weather</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/countryside/" class="main-nav__item-link ">Countryside</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/employment/" class="main-nav__item-link ">Employment</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/animals/" class="main-nav__item-link ">Animals</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/consumer/" class="main-nav__item-link ">Consumer</a>
+            </li>
+        </ul>
+      </div>
+    </li>
+
+    <li class="main-nav__item main-nav__item--no-mobile">
+      <a href="/news/sport/" class="main-nav__item-link main-nav__item-link--bordered">Sport</a>
+    </li>
+
+    <li class="main-nav__item main-nav__item--no-mobile">
+      <a href="/news/weather/" class="main-nav__item-link main-nav__item-link--bordered">Weather</a>
+    </li>
+
+  </ul>
+</nav>
+
+
+  <a id="containerTarget" class="visuallyhidden" tabindex="-1" href="#containerTarget">Main page content</a>
+
+  
+  
+
+
+  
+
+  <div role="main" class="site-container clearfix content-left ">
+    
+
+
+
+
+
+
+
+
+<div class="container container--grey container--with-sidebar container--no-border">
+
+    <div class="content content--with-sidebar">
+
+      <div class="content__main">
+
+
+        <div class="content__main__responsive">
+          <div class="content__main__responsive__inner">
+
+            <article class="update">
+              <header class="update__header ">
+
+                <div class="update__header__content">
+
+                  <div class="update__top">
+
+                    <div class="update__sponsorbutton sponsorbutton js-ad js-ad-author-sponsorbutton">
+                      
+      <div class="ad sponsorbutton any" data-key="Article:184512">
+        <h4>Advertisement</h4>
+        <script src="http://tom.itv.com/itv/jserver/random=84272/site=itv/area=news.national.article/position=1/adtype=any/size=sponsorbutton/categories=sport/topics=football/contentid=2017.04.22.league.two.round.up.leyton.orient.relegated.from.the.football.league/viewid=1493836847"></script>
+      </div>
+    
+                    </div>
+
+                    <section class="update__labels">
+                      <ol class="labels">
+                          <li class="labels__item labels__item--article">
+                            ITV Report
+                          </li>
+
+                        <li class="labels__item labels__item--time">
+                          <time datetime="2017-04-22T17:39:53+01:00">
+                            22 April 2017 at  5:39pm
+                          </time>
+                        </li>
+                      </ol>
+                    </section>
+
+                  </div>
+
+                  <h1 class="update__title update__title--large">League Two round-up: Leyton Orient relegated from the Football League</h1>
+
+                </div>
+
+
+              </header>
+
+                <figure class="update__hero-image">
+                  <div class="fluid-media-wrapper">
+                    <div class="fluid-media-wrapper__media">
+                      
+<span class=" responsive-image" data-alt="" data-height="null" data-picture="true" data-width="null">
+    <span data-src="http://news.images.itv.com/image/file/1281835/article_update_img.jpg"></span>
+    <span data-src="http://news.images.itv.com/image/file/1281835/stream_img.jpg" data-media="(min-width: 321px)"></span>
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <span data-src="http://news.images.itv.com/image/file/1281835/article_update_img.jpg"></span>
+  <![endif]-->
+
+    <noscript>
+      <img alt="" src="http://news.images.itv.com/image/file/1281835/article_update_img.jpg" />
+    </noscript>
+</span>
+                    </div>
+                  </div>
+                    <figcaption class="update__hero-image__caption">Leyton Orient are relegated.<cite class="update__hero-image__cite"> Photo: PA</cite></figcaption>
+                </figure>
+
+              <div class="item__content-block item__content-block--markdown">
+  <p>Leyton Orient&#39;s 112-year stay in the Football League is over after a 3-0 defeat at Crewe but Newport moved out of the bottom two with a 1-0 win against Accrington.</p>
+
+<p>Following a season of turmoil which has seen five different managers, a winding-up petition and their owner going AWOL as wages go unpaid, the O&#39;s relegation to the Vanarama National League was confirmed as first-half goals from Callum Ainley, Ryan Wintle and George Cooper eased the Alex to victory.</p>
+
+<p>Newport&#39;s &#39;great escape&#39; is well and truly on after a 1-0 win against Accrington saw them leapfrog Hartlepool, who slumped to a dismal 2-0 defeat at home to Barnet.</p>
+
+<p>Mark Randall was claiming the only goal of the game for the Exiles, with his shot looping in with striker Ryan Bird lurking on the line.</p>
+
+<p>At the Northern Gas &amp; Power Stadium, Hartlepool had offered little as an attacking threat when Barnet took the lead. Curtis Weston played the ball through for John Akinde who turned his marker and fired home.</p>
+
+<p>It was 2-0 shortly afterwards when Jamal Campbell-Ryce pulled the ball across for Simeon Akinola to slot in and could have been worse had Joe Fryer not saved an Akinde penalty.</p>
+
+<p>Pools are now two points behind Newport with two games left to play.</p>
+
+<p>Plymouth&#39;s goalless draw at Colchester saw them close the gap on leaders Doncaster to two points after Darren Ferguson&#39;s men were beaten 2-1 at Wycombe.</p>
+
+<p>Luke O&#39;Nien scored twice for the Chairboys, either side of a fine solo strike from Alfie May.</p>
+
+<p>Portsmouth, whose promotion was confirmed last weekend, held on for a 2-1 win against Cambridge.</p>
+
+<p>They broke the deadlock when Enda Stevens raced down the left and cut the ball back for Carl Baker to slot in from 10 yards.</p>
+
+<p>It was 2-0 early in the second half when Kal Naismith curled home a 25-yard free-kick, with Luke Berry grabbing a late consolation for Cambridge.</p>
+
+</div>
+<figure class="item__content-block item__content-block--with-caption
+                 item__content-block--image">
+  <div class="fluid-media-wrapper" style="padding-top:55.96590909090909%;">
+
+    <div class="fluid-media-wrapper__media">
+      
+<span class=" responsive-image" data-alt="Luke O&#x27;Nien celebrates." data-height="null" data-picture="true" data-width="null">
+    <span data-src="http://news.images.itv.com/image/file/1281864/article_update_img.jpg"></span>
+    <span data-src="http://news.images.itv.com/image/file/1281864/stream_img.jpg" data-media="(min-width: 321px)"></span>
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <span data-src="http://news.images.itv.com/image/file/1281864/article_update_img.jpg"></span>
+  <![endif]-->
+
+    <noscript>
+      <img alt="Luke O&#x27;Nien celebrates." src="http://news.images.itv.com/image/file/1281864/article_update_img.jpg" />
+    </noscript>
+</span>
+    </div>
+</div>  <figcaption class="item__content-block__media-info">Luke O&#x27;Nien celebrates. <cite>Credit: PA</cite></figcaption>
+</figure>
+<div class="item__content-block item__content-block--markdown">
+  <p>A thumping strike from Danny Rose earned Mansfield a 1-0 win at Stevenage, who slipped to seventh as a result.</p>
+
+<p>The game of the day saw Crawley throw away a two-goal lead only to snatch a last-gasp point in a 3-3 draw at home to Carlisle.</p>
+
+<p>Two goals from James Collins - the second a penalty - had put the Reds in control but Jabo Ibehre pulled one back for the Cumbrians after 29 minutes.</p>
+
+<p>It was all-square before the break as Jamie Proctor powered in a header and the turnaround was complete in the 59th minute when Reggie Lambe slotted in.</p>
+
+<p>But Crawley snatched a point when Jimmy Smith coolly slotted home in the second minute of time added on.</p>
+
+<p>Exeter left it late to claim a 3-1 win at home to Morecambe and move up to fifth.</p>
+
+<p>The Grecians took the lead early in the second half when David Wheeler touched in from a corner but Kevin Ellison scored a left-foot volley from 25 yards to level for Morecambe.</p>
+
+<p>Exeter snatched maximum points when Reuben Reid converted a late penalty and Liam McAlinden added a third three minutes later.</p>
+
+<p>Luton cemented fourth place with a 2-1 win against Notts County but striker Danny Hylton faces a suspension for a late red card, while Blackpool are sixth after a 3-0 romp against struggling Cheltenham.</p>
+
+<p>Russell Slade claimed a second win since taking charge of Grimsby with a 4-2 victory against Yeovil.</p>
+
+</div>
+
+
+                <div class="item__content-block">
+                  <time datetime="2017-04-22" pubdate class="update__time-edited">
+                    Last updated Sat 22 Apr 2017
+                  </time>
+                </div>
+
+
+
+                <div class="update__tags">
+    <ul class="tag-list">
+
+
+        <li class="tag-list__tag tag-list__tag--category">
+          <a href="/news/sport/">Sport</a>
+        </li>
+
+        <li class="tag-list__tag">
+          <a href="/news/topic/football/">football</a>
+        </li>
+
+    </ul>
+  </div>
+
+
+              <div class="update__share">
+                <ul class="share ">
+  <li class="share__item">
+    <a href="https://www.facebook.com/sharer/sharer.php?u=http://www.itv.com/news/2017-04-22/league-two-round-up-leyton-orient-relegated-from-the-football-league/" class="share__button share__button--facebook js-facebook-share" data-share-action="share" data-share-network="Facebook" data-share-url="http://www.itv.com/news/2017-04-22/league-two-round-up-leyton-orient-relegated-from-the-football-league/">
+      <span class="share__icon share__icon--facebook"></span><span class="share__icon-text">Share</span>
+</a>  </li><li class="share__item">
+    <a href="https://twitter.com/intent/tweet?text=League Two round-up: Leyton Orient relegated from the Football League&amp;url=http://www.itv.com/news/2017-04-22/league-two-round-up-leyton-orient-relegated-from-the-football-league/" class="share__button share__button--twitter js-twitter-share" data-share-action="tweet" data-share-network="Twitter" data-share-url="http://www.itv.com/news/2017-04-22/league-two-round-up-leyton-orient-relegated-from-the-football-league/">
+      <span class="share__icon share__icon--twitter"></span><span class="share__icon-text">Tweet</span>
+</a>  </li><li class="share__item">
+    <a href="https://plus.google.com/share?url=http://www.itv.com/news/2017-04-22/league-two-round-up-leyton-orient-relegated-from-the-football-league/" class="share__button share__button--googleplus js-googleplus-share" data-share-action="share" data-share-network="Google+" data-share-url="http://www.itv.com/news/2017-04-22/league-two-round-up-leyton-orient-relegated-from-the-football-league/">
+      <span class="share__icon share__icon--googleplus"></span><span class="share__icon-text">Plus</span>
+</a>  </li><li class="share__item">
+    <a href="https://www.reddit.com/submit?url=http://www.itv.com/news/2017-04-22/league-two-round-up-leyton-orient-relegated-from-the-football-league/" class="share__button share__button--reddit js-reddit-share" data-share-action="share" data-share-network="Reddit" data-share-url="http://www.itv.com/news/2017-04-22/league-two-round-up-leyton-orient-relegated-from-the-football-league/">
+      <span class="share__icon share__icon--reddit"></span><span class="share__icon-text">Reddit</span>
+</a>  </li>
+</ul>
+
+              </div>
+
+            </article>
+
+
+          </div>
+        </div>
+
+      </div>
+
+      <aside class="content__aside">
+  <div class="content__aside__inner">
+
+      <div class="add-sidebar any js-ad">
+    
+      <div class="ad mpu any" data-key="Article:184512">
+        <h4>Advertisement</h4>
+        <script src="http://tom.itv.com/itv/jserver/random=78960/site=itv/area=news.national.article/position=1/adtype=any/size=300x250/categories=sport/topics=football/contentid=2017.04.22.league.two.round.up.leyton.orient.relegated.from.the.football.league/viewid=1493836847"></script>
+      </div>
+    
+  </div>
+
+
+      <section class="small-content-listing small-content-listing--in-sidebar">
+    <h2 class="small-content-listing__title">
+      Related news
+    </h2>
+
+    <div class="small-content-listing__columns columns">
+      <ul class="small-content-listing__items">
+          <li class="small-content-listing__item column column--inline">
+            <article class="small-content-listing__item-content">
+
+              <a href="/news/utv/2017-04-22/linfield-knock-crues-off-top-with-win-over-coleraine/">
+
+
+                <div class="small-content-listing__item-image">
+                  <div class="fluid-media-wrapper">
+                    <div class="fluid-media-wrapper__media">
+                        
+<span class=" responsive-image" data-alt="Linfield v Coleraine" data-height="null" data-picture="true" data-width="null">
+    <span data-src="http://news.images.itv.com/image/file/1281941/top_article_img.jpg"></span>
+    <span data-src="http://news.images.itv.com/image/file/1281941/article_update_img.jpg" data-media="(min-width: 37.5em)"></span>
+    <span data-src="http://news.images.itv.com/image/file/1281941/top_article_img.jpg" data-media="(min-width: 50em)"></span>
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <span data-src="http://news.images.itv.com/image/file/1281941/top_article_img.jpg"></span>
+  <![endif]-->
+
+    <noscript>
+      <img alt="Linfield v Coleraine" src="http://news.images.itv.com/image/file/1281941/top_article_img.jpg" />
+    </noscript>
+</span>
+                    </div>
+                  </div>
+                </div>
+
+</a>            
+              <div class="small-content-listing__item-details">
+                <h3 class="small-content-listing__item-title">
+                  <a href="/news/utv/2017-04-22/linfield-knock-crues-off-top-with-win-over-coleraine/" class="small-content-listing__item-link">Linfield knock Crues off top with win over Coleraine</a>
+                </h3>
+              </div>
+            </article>
+          </li>
+          <li class="small-content-listing__item column column--inline">
+            <article class="small-content-listing__item-content">
+
+              <a href="/news/utv/update/2017-04-22/managerless-cliftonville-lose-out-against-glenavon/">
+
+
+                <div class="small-content-listing__item-image">
+                  <div class="fluid-media-wrapper">
+                    <div class="fluid-media-wrapper__media">
+                        
+<span class=" responsive-image" data-alt="Cliftonville v Glenavon" data-height="null" data-picture="true" data-width="null">
+    <span data-src="http://news.images.itv.com/image/file/1281937/top_article_img.jpg"></span>
+    <span data-src="http://news.images.itv.com/image/file/1281937/article_update_img.jpg" data-media="(min-width: 37.5em)"></span>
+    <span data-src="http://news.images.itv.com/image/file/1281937/top_article_img.jpg" data-media="(min-width: 50em)"></span>
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <span data-src="http://news.images.itv.com/image/file/1281937/top_article_img.jpg"></span>
+  <![endif]-->
+
+    <noscript>
+      <img alt="Cliftonville v Glenavon" src="http://news.images.itv.com/image/file/1281937/top_article_img.jpg" />
+    </noscript>
+</span>
+                    </div>
+                  </div>
+                </div>
+
+</a>            
+              <div class="small-content-listing__item-details">
+                <h3 class="small-content-listing__item-title">
+                  <a href="/news/utv/update/2017-04-22/managerless-cliftonville-lose-out-against-glenavon/" class="small-content-listing__item-link">Managerless Cliftonville lose out against Glenavon</a>
+                </h3>
+              </div>
+            </article>
+          </li>
+          <li class="small-content-listing__item column column--inline">
+            <article class="small-content-listing__item-content">
+
+              <a href="/news/utv/update/2017-04-22/glentoran-seal-victory-over-portadown/">
+
+
+                <div class="small-content-listing__item-image">
+                  <div class="fluid-media-wrapper">
+                    <div class="fluid-media-wrapper__media">
+                        
+<span class=" responsive-image" data-alt="Glentoran v Portadown" data-height="null" data-picture="true" data-width="null">
+    <span data-src="http://news.images.itv.com/image/file/1281936/top_article_img.jpg"></span>
+    <span data-src="http://news.images.itv.com/image/file/1281936/article_update_img.jpg" data-media="(min-width: 37.5em)"></span>
+    <span data-src="http://news.images.itv.com/image/file/1281936/top_article_img.jpg" data-media="(min-width: 50em)"></span>
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <span data-src="http://news.images.itv.com/image/file/1281936/top_article_img.jpg"></span>
+  <![endif]-->
+
+    <noscript>
+      <img alt="Glentoran v Portadown" src="http://news.images.itv.com/image/file/1281936/top_article_img.jpg" />
+    </noscript>
+</span>
+                    </div>
+                  </div>
+                </div>
+
+</a>            
+              <div class="small-content-listing__item-details">
+                <h3 class="small-content-listing__item-title">
+                  <a href="/news/utv/update/2017-04-22/glentoran-seal-victory-over-portadown/" class="small-content-listing__item-link">Glentoran seal victory over Portadown</a>
+                </h3>
+              </div>
+            </article>
+          </li>
+      </ul>
+    </div>
+  </section>
+
+
+      <section class="small-content-listing small-content-listing--top-stories">
+    <h2 class="small-content-listing__title">
+      Top stories
+    </h2>
+
+    <div class="small-content-listing__columns columns">
+      <ul class="small-content-listing__items">
+          <li class="small-content-listing__item column column--inline">
+            <article class="small-content-listing__item-content">
+
+              <a href="/news/2017-04-22/labour-seeks-to-create-four-new-bank-holidays-corbyn-announces/">
+                <div class="small-content-listing__item-image brightcove-video">
+                  <div class="fluid-media-wrapper">
+                    <div class="fluid-media-wrapper__media">
+                      
+<span class=" responsive-image" data-alt="Labour &#x27;plans to create four new bank holidays&#x27;" data-height="null" data-picture="true" data-width="null">
+    <span data-src="http://news.images.itv.com/image/file/1281955/top_article_img.jpg"></span>
+    <span data-src="http://news.images.itv.com/image/file/1281955/article_update_img.jpg" data-media="(min-width: 37.5em)"></span>
+    <span data-src="http://news.images.itv.com/image/file/1281955/top_article_img.jpg" data-media="(min-width: 60em)"></span>
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <span data-src="http://news.images.itv.com/image/file/1281955/top_article_img.jpg"></span>
+  <![endif]-->
+
+    <noscript>
+      <img alt="Labour &#x27;plans to create four new bank holidays&#x27;" src="http://news.images.itv.com/image/file/1281955/top_article_img.jpg" />
+    </noscript>
+</span>
+                    </div>
+                  </div>
+
+                  
+                </div>
+</a>
+              <div class="small-content-listing__item-details">
+                <h3 class="small-content-listing__item-title">
+                  
+                  <a href="/news/2017-04-22/labour-seeks-to-create-four-new-bank-holidays-corbyn-announces/" class="small-content-listing__item-link">Labour &#x27;plans to create four new bank holidays&#x27;</a>
+                </h3>
+              </div>
+            </article>
+          </li>
+          <li class="small-content-listing__item column column--inline">
+            <article class="small-content-listing__item-content">
+
+              <a href="/news/2017-04-23/2017-london-marathon-sees-record-number-of-runners-sign-up/">
+                <div class="small-content-listing__item-image brightcove-video">
+                  <div class="fluid-media-wrapper">
+                    <div class="fluid-media-wrapper__media">
+                      
+<span class=" responsive-image" data-alt="Record number of runners sign up for London Marathon" data-height="null" data-picture="true" data-width="null">
+    <span data-src="http://news.images.itv.com/image/file/1281990/top_article_img.jpg"></span>
+    <span data-src="http://news.images.itv.com/image/file/1281990/article_update_img.jpg" data-media="(min-width: 37.5em)"></span>
+    <span data-src="http://news.images.itv.com/image/file/1281990/top_article_img.jpg" data-media="(min-width: 60em)"></span>
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <span data-src="http://news.images.itv.com/image/file/1281990/top_article_img.jpg"></span>
+  <![endif]-->
+
+    <noscript>
+      <img alt="Record number of runners sign up for London Marathon" src="http://news.images.itv.com/image/file/1281990/top_article_img.jpg" />
+    </noscript>
+</span>
+                    </div>
+                  </div>
+
+                  
+                </div>
+</a>
+              <div class="small-content-listing__item-details">
+                <h3 class="small-content-listing__item-title">
+                  
+                  <a href="/news/2017-04-23/2017-london-marathon-sees-record-number-of-runners-sign-up/" class="small-content-listing__item-link">Record number of runners sign up for London Marathon</a>
+                </h3>
+              </div>
+            </article>
+          </li>
+          <li class="small-content-listing__item column column--inline">
+            <article class="small-content-listing__item-content">
+
+              <a href="/news/2017-04-22/theresa-may-avoids-2015-pledge-but-vows-tories-party-of-lower-taxes/">
+                <div class="small-content-listing__item-image brightcove-video">
+                  <div class="fluid-media-wrapper">
+                    <div class="fluid-media-wrapper__media">
+                      
+<span class=" responsive-image" data-alt="Theresa May: Tories are the party of &#x27;lower taxes&#x27;" data-height="null" data-picture="true" data-width="null">
+    <span data-src="http://news.images.itv.com/image/file/1281710/top_article_img.jpg"></span>
+    <span data-src="http://news.images.itv.com/image/file/1281710/article_update_img.jpg" data-media="(min-width: 37.5em)"></span>
+    <span data-src="http://news.images.itv.com/image/file/1281710/top_article_img.jpg" data-media="(min-width: 60em)"></span>
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <span data-src="http://news.images.itv.com/image/file/1281710/top_article_img.jpg"></span>
+  <![endif]-->
+
+    <noscript>
+      <img alt="Theresa May: Tories are the party of &#x27;lower taxes&#x27;" src="http://news.images.itv.com/image/file/1281710/top_article_img.jpg" />
+    </noscript>
+</span>
+                    </div>
+                  </div>
+
+                  
+                </div>
+</a>
+              <div class="small-content-listing__item-details">
+                <h3 class="small-content-listing__item-title">
+                  
+                  <a href="/news/2017-04-22/theresa-may-avoids-2015-pledge-but-vows-tories-party-of-lower-taxes/" class="small-content-listing__item-link">Theresa May: Tories are the party of &#x27;lower taxes&#x27;</a>
+                </h3>
+              </div>
+            </article>
+          </li>
+          <li class="small-content-listing__item column column--inline">
+            <article class="small-content-listing__item-content">
+
+              <a href="/news/2017-04-22/man-charged-over-nightclub-acid-attack/">
+                <div class="small-content-listing__item-image brightcove-video">
+                  <div class="fluid-media-wrapper">
+                    <div class="fluid-media-wrapper__media">
+                      
+<span class=" responsive-image" data-alt="Arthur Collins arrested over nightclub &#x27;acid attack&#x27;" data-height="null" data-picture="true" data-width="null">
+    <span data-src="http://news.images.itv.com/image/file/1282000/top_article_img.jpg"></span>
+    <span data-src="http://news.images.itv.com/image/file/1282000/article_update_img.jpg" data-media="(min-width: 37.5em)"></span>
+    <span data-src="http://news.images.itv.com/image/file/1282000/top_article_img.jpg" data-media="(min-width: 60em)"></span>
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <span data-src="http://news.images.itv.com/image/file/1282000/top_article_img.jpg"></span>
+  <![endif]-->
+
+    <noscript>
+      <img alt="Arthur Collins arrested over nightclub &#x27;acid attack&#x27;" src="http://news.images.itv.com/image/file/1282000/top_article_img.jpg" />
+    </noscript>
+</span>
+                    </div>
+                  </div>
+
+                  
+                </div>
+</a>
+              <div class="small-content-listing__item-details">
+                <h3 class="small-content-listing__item-title">
+                  
+                  <a href="/news/2017-04-22/man-charged-over-nightclub-acid-attack/" class="small-content-listing__item-link">Arthur Collins arrested over nightclub &#x27;acid attack&#x27;</a>
+                </h3>
+              </div>
+            </article>
+          </li>
+          <li class="small-content-listing__item column column--inline">
+            <article class="small-content-listing__item-content">
+
+              <a href="/news/2017-04-23/france-goes-to-the-polls-in-tight-election-race/">
+                <div class="small-content-listing__item-image brightcove-video">
+                  <div class="fluid-media-wrapper">
+                    <div class="fluid-media-wrapper__media">
+                      
+<span class=" responsive-image" data-alt="France goes to the polls in tight election race" data-height="null" data-picture="true" data-width="null">
+    <span data-src="http://news.images.itv.com/image/file/1281989/top_article_img.jpg"></span>
+    <span data-src="http://news.images.itv.com/image/file/1281989/article_update_img.jpg" data-media="(min-width: 37.5em)"></span>
+    <span data-src="http://news.images.itv.com/image/file/1281989/top_article_img.jpg" data-media="(min-width: 60em)"></span>
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <span data-src="http://news.images.itv.com/image/file/1281989/top_article_img.jpg"></span>
+  <![endif]-->
+
+    <noscript>
+      <img alt="France goes to the polls in tight election race" src="http://news.images.itv.com/image/file/1281989/top_article_img.jpg" />
+    </noscript>
+</span>
+                    </div>
+                  </div>
+
+                  
+                </div>
+</a>
+              <div class="small-content-listing__item-details">
+                <h3 class="small-content-listing__item-title">
+                  
+                  <a href="/news/2017-04-23/france-goes-to-the-polls-in-tight-election-race/" class="small-content-listing__item-link">France goes to the polls in tight election race</a>
+                </h3>
+              </div>
+            </article>
+          </li>
+          <li class="small-content-listing__item column column--inline">
+            <article class="small-content-listing__item-content">
+
+              <a href="/news/2017-04-23/star-of-happy-days-erin-moran-dies-aged-56/">
+                <div class="small-content-listing__item-image brightcove-video">
+                  <div class="fluid-media-wrapper">
+                    <div class="fluid-media-wrapper__media">
+                      
+<span class=" responsive-image" data-alt="Happy Days star Erin Moran dies aged 56" data-height="null" data-picture="true" data-width="null">
+    <span data-src="http://news.images.itv.com/image/file/1281970/top_article_img.jpg"></span>
+    <span data-src="http://news.images.itv.com/image/file/1281970/article_update_img.jpg" data-media="(min-width: 37.5em)"></span>
+    <span data-src="http://news.images.itv.com/image/file/1281970/top_article_img.jpg" data-media="(min-width: 60em)"></span>
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <span data-src="http://news.images.itv.com/image/file/1281970/top_article_img.jpg"></span>
+  <![endif]-->
+
+    <noscript>
+      <img alt="Happy Days star Erin Moran dies aged 56" src="http://news.images.itv.com/image/file/1281970/top_article_img.jpg" />
+    </noscript>
+</span>
+                    </div>
+                  </div>
+
+                  
+                </div>
+</a>
+              <div class="small-content-listing__item-details">
+                <h3 class="small-content-listing__item-title">
+                  
+                  <a href="/news/2017-04-23/star-of-happy-days-erin-moran-dies-aged-56/" class="small-content-listing__item-link">Happy Days star Erin Moran dies aged 56</a>
+                </h3>
+              </div>
+            </article>
+          </li>
+          <li class="small-content-listing__item column column--inline">
+            <article class="small-content-listing__item-content">
+
+              <a href="/news/2017-04-22/three-customers-report-problems-making-calls-and-sending-texts/">
+                <div class="small-content-listing__item-image brightcove-video">
+                  <div class="fluid-media-wrapper">
+                    <div class="fluid-media-wrapper__media">
+                      
+<span class=" responsive-image" data-alt="&#x27;Network down&#x27; for many Three mobile customers" data-height="null" data-picture="true" data-width="null">
+    <span data-src="http://news.images.itv.com/image/file/1281875/top_article_img.jpg"></span>
+    <span data-src="http://news.images.itv.com/image/file/1281875/article_update_img.jpg" data-media="(min-width: 37.5em)"></span>
+    <span data-src="http://news.images.itv.com/image/file/1281875/top_article_img.jpg" data-media="(min-width: 60em)"></span>
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <span data-src="http://news.images.itv.com/image/file/1281875/top_article_img.jpg"></span>
+  <![endif]-->
+
+    <noscript>
+      <img alt="&#x27;Network down&#x27; for many Three mobile customers" src="http://news.images.itv.com/image/file/1281875/top_article_img.jpg" />
+    </noscript>
+</span>
+                    </div>
+                  </div>
+
+                  
+                </div>
+</a>
+              <div class="small-content-listing__item-details">
+                <h3 class="small-content-listing__item-title">
+                  
+                  <a href="/news/2017-04-22/three-customers-report-problems-making-calls-and-sending-texts/" class="small-content-listing__item-link">&#x27;Network down&#x27; for many Three mobile customers</a>
+                </h3>
+              </div>
+            </article>
+          </li>
+          <li class="small-content-listing__item column column--inline">
+            <article class="small-content-listing__item-content">
+
+              <a href="/news/2017-04-22/american-airlines-suspends-employee-after-heated-row-over-pram/">
+                <div class="small-content-listing__item-image brightcove-video">
+                  <div class="fluid-media-wrapper">
+                    <div class="fluid-media-wrapper__media">
+                      
+<span class=" responsive-image" data-alt="American Airlines suspends employee after row over pram" data-height="null" data-picture="true" data-width="null">
+    <span data-src="http://news.images.itv.com/image/file/1281750/top_article_img.jpg"></span>
+    <span data-src="http://news.images.itv.com/image/file/1281750/article_update_img.jpg" data-media="(min-width: 37.5em)"></span>
+    <span data-src="http://news.images.itv.com/image/file/1281750/top_article_img.jpg" data-media="(min-width: 60em)"></span>
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <span data-src="http://news.images.itv.com/image/file/1281750/top_article_img.jpg"></span>
+  <![endif]-->
+
+    <noscript>
+      <img alt="American Airlines suspends employee after row over pram" src="http://news.images.itv.com/image/file/1281750/top_article_img.jpg" />
+    </noscript>
+</span>
+                    </div>
+                  </div>
+
+                  
+                </div>
+</a>
+              <div class="small-content-listing__item-details">
+                <h3 class="small-content-listing__item-title">
+                  
+                  <a href="/news/2017-04-22/american-airlines-suspends-employee-after-heated-row-over-pram/" class="small-content-listing__item-link">American Airlines suspends employee after row over pram</a>
+                </h3>
+              </div>
+            </article>
+          </li>
+          <li class="small-content-listing__item column column--inline">
+            <article class="small-content-listing__item-content">
+
+              <a href="/news/2017-04-22/simon-cowell-i-still-have-nightmares-about-burglary/">
+                <div class="small-content-listing__item-image brightcove-video">
+                  <div class="fluid-media-wrapper">
+                    <div class="fluid-media-wrapper__media">
+                      
+<span class=" responsive-image" data-alt="Simon Cowell: I still have nightmares about burglary " data-height="null" data-picture="true" data-width="null">
+    <span data-src="http://news.images.itv.com/image/file/1281929/top_article_img.jpg"></span>
+    <span data-src="http://news.images.itv.com/image/file/1281929/article_update_img.jpg" data-media="(min-width: 37.5em)"></span>
+    <span data-src="http://news.images.itv.com/image/file/1281929/top_article_img.jpg" data-media="(min-width: 60em)"></span>
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <span data-src="http://news.images.itv.com/image/file/1281929/top_article_img.jpg"></span>
+  <![endif]-->
+
+    <noscript>
+      <img alt="Simon Cowell: I still have nightmares about burglary " src="http://news.images.itv.com/image/file/1281929/top_article_img.jpg" />
+    </noscript>
+</span>
+                    </div>
+                  </div>
+
+                  
+                </div>
+</a>
+              <div class="small-content-listing__item-details">
+                <h3 class="small-content-listing__item-title">
+                  
+                  <a href="/news/2017-04-22/simon-cowell-i-still-have-nightmares-about-burglary/" class="small-content-listing__item-link">Simon Cowell: I still have nightmares about burglary </a>
+                </h3>
+              </div>
+            </article>
+          </li>
+          <li class="small-content-listing__item column column--inline">
+            <article class="small-content-listing__item-content">
+
+              <a href="/news/2017-04-23/largely-dry-but-turning-colder-and-more-unsettled/">
+                <div class="small-content-listing__item-image brightcove-video">
+                  <div class="fluid-media-wrapper">
+                    <div class="fluid-media-wrapper__media">
+                      
+<span class=" responsive-image" data-alt="Weather: Largely dry but turning colder and more unsettled" data-height="null" data-picture="true" data-width="null">
+    <span data-src="http://news.images.itv.com/image/file/1281977/top_article_img.jpg"></span>
+    <span data-src="http://news.images.itv.com/image/file/1281977/article_update_img.jpg" data-media="(min-width: 37.5em)"></span>
+    <span data-src="http://news.images.itv.com/image/file/1281977/top_article_img.jpg" data-media="(min-width: 60em)"></span>
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <span data-src="http://news.images.itv.com/image/file/1281977/top_article_img.jpg"></span>
+  <![endif]-->
+
+    <noscript>
+      <img alt="Weather: Largely dry but turning colder and more unsettled" src="http://news.images.itv.com/image/file/1281977/top_article_img.jpg" />
+    </noscript>
+</span>
+                    </div>
+                  </div>
+
+                  
+                </div>
+</a>
+              <div class="small-content-listing__item-details">
+                <h3 class="small-content-listing__item-title">
+                  
+                  <a href="/news/2017-04-23/largely-dry-but-turning-colder-and-more-unsettled/" class="small-content-listing__item-link">Weather: Largely dry but turning colder and more unsettled</a>
+                </h3>
+              </div>
+            </article>
+          </li>
+      </ul>
+    </div>
+  </section>
+
+    
+
+    
+
+  </div>
+</aside>
+
+
+    </div>
+
+</div>
+
+  </div>
+
+    <div class="ad-onebyone any">
+      
+      <script src="http://tom.itv.com/itv/jserver/random=4173/site=itv/area=news.national.article/position=1/adtype=any/size=1x1/categories=sport/topics=football/contentid=2017.04.22.league.two.round.up.leyton.orient.relegated.from.the.football.league/viewid=1493836847"></script>
+    
+    </div>
+
+  <div class="itv-page-fragment">
+  <div class="itv-glob-foot" id="skip_to_footer">
+    <footer>
+      <div class="itv-glob-foot__inner">
+        <div class="itv-glob-foot__channels itv-glob-foot__block">
+          <nav>
+            <ul class="itv-glob-foot__channels-list">
+              <li class="itv-glob-foot__channels-item">
+                <a class="itv-glob-foot__channels-link" href="http://www.itv.com/itv">
+                  <span class="itv-glob-foot__channel icon--itv-glob-foot-itv">ITV</span>
+</a>              </li><!--
+           --><li class="itv-glob-foot__channels-item">
+                <a class="itv-glob-foot__channels-link" href="http://www.itv.com/itv2">
+                  <span class="itv-glob-foot__channel icon--itv-glob-foot-itv2">ITV2</span>
+</a>              </li><!--
+              --><li class="itv-glob-foot__channels-item">
+                  <a class="itv-glob-foot__channels-link" href="http://www.itv.com/hub/itvbe">
+                    <span class="itv-glob-foot__channel itv-glob-foot__channel--itvbe icon--itv-glob-foot-itvbe">ITVBE</span>
+</a>                </li><!--
+           --><li class="itv-glob-foot__channels-item">
+                <a class="itv-glob-foot__channels-link" href="http://www.itv.com/itv3">
+                  <span class="itv-glob-foot__channel icon--itv-glob-foot-itv3">ITV3</span>
+</a>              </li><!--
+           --><li class="itv-glob-foot__channels-item">
+                <a class="itv-glob-foot__channels-link" href="http://www.itv.com/itv4">
+                  <span class="itv-glob-foot__channel icon--itv-glob-foot-itv4">ITV4</span>
+</a>              </li><!--
+           --><li class="itv-glob-foot__channels-item">
+                <a class="itv-glob-foot__channels-link" href="http://www.itv.com/hub/citv">
+                  <span class="itv-glob-foot__channel icon--itv-glob-foot-citv">CITV</span>
+</a>              </li><!--
+           --><li class="itv-glob-foot__channels-item">
+                <a class="itv-glob-foot__channels-link" href="http://www.itv.com/encore">
+                  <span class="itv-glob-foot__channel icon--itv-glob-foot-encore itv-glob-foot__channel--encore">ITV Encore</span>
+</a>              </li>
+
+            </ul>
+          </nav>
+        </div>
+
+        <div class="itv-glob-foot__links itv-glob-foot__block">
+          <nav>
+            <div class="itv-glob-foot__columns">
+              <div class="itv-glob-foot__column">
+                <section>
+                  <h3 class="itv-glob-foot__heading">ITV Presents</h3>
+
+                  <ul class="itv-glob-foot__links-list">
+                    <li class="itv-glob-foot__links-item">
+                      <a class="itv-glob-foot__links-link" href="http://www.itv.com/beontv/">Be on TV</a>
+                    </li>
+                    <li class="itv-glob-foot__links-item">
+                      <a class="itv-glob-foot__links-link" href="http://www.itv.com/mobile/">Mobile</a>
+                    </li>
+                    <li class="itv-glob-foot__links-item">
+                      <a class="itv-glob-foot__links-link" href="http://traffic.jackpot247.com/redirect.php?member=itvreferrer&amp;profile=website" rel="nofollow">Jackpot</a>
+                    </li>
+                    <li class="itv-glob-foot__links-item">
+                      <a class="itv-glob-foot__links-link" href="http://www.signedstories.com/" rel="nofollow">Signed Stories</a>
+                    </li>
+                  </ul>
+                </section>
+              </div>
+
+              <div class="itv-glob-foot__column">
+                <section>
+                  <h3 class="itv-glob-foot__heading">Corporate</h3>
+
+                  <ul class="itv-glob-foot__links-list">
+                    <li class="itv-glob-foot__links-item">
+                      <a class="itv-glob-foot__links-link" href="http://www.itvplc.com/">ITV Plc</a>
+                    </li>
+                    <li class="itv-glob-foot__links-item">
+                      <a class="itv-glob-foot__links-link" href="http://www.itvjobs.com/">Jobs</a>
+                    </li>
+                    <li class="itv-glob-foot__links-item">
+                      <a class="itv-glob-foot__links-link" href="http://www.itv.com/presscentre/">Press Centre</a>
+                    </li>
+                    <li class="itv-glob-foot__links-item">
+                      <a class="itv-glob-foot__links-link" href="http://www.itvmedia.co.uk/">ITV Media</a>
+                    </li>
+                    <li class="itv-glob-foot__links-item">
+                      <a class="itv-glob-foot__links-link" href="http://www.itv.com/commissioning/">Commissioning</a>
+                    </li>
+                  </ul>
+                </section>
+              </div>
+
+              <div class="itv-glob-foot__column">
+                <section>
+                  <h3 class="itv-glob-foot__heading">Information</h3>
+
+                  <ul class="itv-glob-foot__links-list">
+                    <li class="itv-glob-foot__links-item">
+                      <a class="itv-glob-foot__links-link" href="http://www.itv.com/help/">Help</a>
+                    </li>
+                    <li class="itv-glob-foot__links-item">
+                      <a class="itv-glob-foot__links-link" href="http://www.itv.com/contactus/">Contact Us</a>
+                    </li>
+                    <li class="itv-glob-foot__links-item">
+                      <a class="itv-glob-foot__links-link" href="http://www.itv.com/termsconditions/" rel="nofollow">Terms &amp; Conditions</a>
+                    </li>
+                    <li class="itv-glob-foot__links-item">
+                      <a class="itv-glob-foot__links-link" href="http://www.itv.com/privacy/" rel="nofollow">Privacy Policy</a>
+                    </li>
+                  </ul>
+                </section>
+              </div>
+            </div>
+          </nav>
+        </div>
+
+        <div class="itv-glob-foot__legal">
+          <section>
+            <p class="itv-glob-foot__cookies">
+              By using this site, you agree we can set and use cookies.
+              For more details of these cookies and how to disable them,
+              see our <a href="http://www.itv.com/cookies/">cookie policy</a>.
+            </p>
+
+            <p class="itv-glob-foot__copyright">
+              &copy; Copyright ITV plc 2017
+            </p>
+          </section>
+        </div>
+      </div>
+    </footer>
+  </div>
+</div>
+
+    <script type="text/javascript">
+    !function(){var o=$("#itv-glob-cookie-policy-holder").get(0);if(o){var e;o.className;var i=document.location.hostname.split(".").slice(-2).join("."),c=document.cookie.replace(/(?:(?:^|.*;\s*)Itv.CookiePolicy\s*\=\s*([^;]*).*$)|^.*$/,"$1"),t=function(e){document.cookie="Itv.CookiePolicy=accepted; expires=Fri, 31 Dec 9999 23:59:59 GMT; path=/; domain="+i,o.parentElement.removeChild(o),e.preventDefault?e.preventDefault():e.returnValue=!1};"accepted"!==c&&("notified"!==c&&(document.cookie="Itv.CookiePolicy=notified; expires=Fri, 31 Dec 9999 23:59:59 GMT; path=/; domain="+i),o.innerHTML='      <div class="itv-page-fragment">        <div id="itv-glob-cookie-policy" class="itv-glob-cook">          <div class="itv-glob-cook__inner">            <div class="itv-glob-cook__columns">              <div class="itv-glob-cook__header">                <h2 class="itv-glob-cook__title">                  Cookies on the ITV website                </h2>              </div>              <div class="itv-glob-cook__body">                <div class="itv-glob-cook__content">                  <p class="itv-glob-cook__message">                    ITV websites use cookies. By continuing to browse the site you are agreeing to our use of cookies. For more details about cookies and how to manage them, see our <a href="http://www.itv.com/cookies/">cookie policy</a>.                  </p>                </div>                <div class="itv-glob-cook__cta">                  <a href="#" id="itv-glob-accept-cookie-policy" class="itv-glob-cook__cta-accept">                    <span class="itv-glob-cook__check icon--itv-glob-cook-tick"></span>Continue                  </a>                </div>              </div>            </div>          </div>        </div>      </div>',e=document.getElementById("itv-glob-accept-cookie-policy"),e.addEventListener&&e.addEventListener("click",t,!1),e.attachEvent&&e.attachEvent("onclick",t))}}();
+</script>
+
+
+  <!-- for facebook like button - don't delete me -->
+  <div id="fb-root"></div>
+
+  <script src="/news/assets/application.js" type="text/javascript"></script>
+  
+
+  
+
+  <!-- mathiasbynens.be/notes/async-analytics-snippet -->
+<script>
+  // google analytics code - don't delete me
+  var _gaq=[['_setAccount','UA-17825253-1']];
+    _gaq.push(['_setPageGroup', "1", "Article"]);
+    _gaq.push(['_setPageGroup', "2", "Sport"]);
+    _gaq.push(['_setPageGroup', "3", "football"]);
+    _gaq.push(['_setPageGroup', "5", "National"]);
+  _gaq.push(['_trackPageview']);
+  _gaq.push(['_trackPageLoadTime']);
+  (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];g.async=1;
+  g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+  s.parentNode.insertBefore(g,s)}(document,"script"));
+</script>
+  <script>
+
+    (function () {
+      var d = new Image(1, 1);
+      d.onerror = d.onload = function () {
+        d.onerror = d.onload = null;
+      };
+      d.src = ["//secure-uk.imrworldwide.com/cgi-bin/m?ci=uk-705203h&cg=0&cc=1&si=", escape(window.location.href), "&rp=", escape(document.referrer), "&ts=compact&rnd=", (new Date()).getTime()].join('');
+    })();
+
+    function sitestat(u){var d=document,l=d.location;ns_pixelUrl=u+"&ns__t="+(new Date().getTime());u=ns_pixelUrl+"&ns_c="+((d.characterSet)?d.characterSet:d.defaultCharset)+"&ns_ti="+escape(d.title)+"&ns_jspageurl="+escape(l&&l.href?l.href:d.URL)+"&ns_referrer="+escape(d.referrer);(d.images)?new Image().src=u:d.write('<'+'p><img src="'+u+'" height="1" width="1" alt="*"><'+'/p>');}; sitestat("//ned.itv.com/itv/test/s?news.national.article.2017-04-22.league-two-round-up-leyton-orient-relegated-from-the-football-league.page&itv_sitetype=itv&itv_contentgenre=news-sport&itv_sitesection1=news&itv_sitesection2=national&itv_sitesection3=article&itv_sitesection4=2017-04-22&itv_sitesection5=league-two-round-up-leyton-orient-relegated-from-the-football-league&itv_tvchannel=itv1&itv_contenttype=general&itv_pageversion=2012&itv_showpage=itvnews");
+
+    var nedstat_twitter_share = "//ned.itv.com/itv/test/s?news.national.article.2017-04-22.league-two-round-up-leyton-orient-relegated-from-the-football-league.page&itv_sitetype=itv&itv_contentgenre=news-sport&itv_sitesection1=news&itv_sitesection2=national&itv_sitesection3=article&itv_sitesection4=2017-04-22&itv_sitesection5=league-two-round-up-leyton-orient-relegated-from-the-football-league&itv_tvchannel=itv1&itv_contenttype=general&itv_pageversion=2012&itv_showpage=itvnews&itv_appaction=twittershare&itv_eventtype=twitterbutton&ns_type=hidden";
+    var nedstat_fb_share = "//ned.itv.com/itv/test/s?news.national.article.2017-04-22.league-two-round-up-leyton-orient-relegated-from-the-football-league.page&itv_sitetype=itv&itv_contentgenre=news-sport&itv_sitesection1=news&itv_sitesection2=national&itv_sitesection3=article&itv_sitesection4=2017-04-22&itv_sitesection5=league-two-round-up-leyton-orient-relegated-from-the-football-league&itv_tvchannel=itv1&itv_contenttype=general&itv_pageversion=2012&itv_showpage=itvnews&itv_appaction=fbshare&itv_eventtype=fbbutton&ns_type=hidden";
+
+  </script>
+  <noscript>
+    <div>
+      <img src="//secure-uk.imrworldwide.com/cgi-bin/m?ci=uk-705203h&amp;cg=0&amp;cc=1&amp;ts=noscript" width="1" height="1" alt="" />
+      <p><img src="//ned.itv.com/itv/test/s?news.national.article.2017-04-22.league-two-round-up-leyton-orient-relegated-from-the-football-league.page&itv_sitetype=itv&itv_contentgenre=news-sport&itv_sitesection1=news&itv_sitesection2=national&itv_sitesection3=article&itv_sitesection4=2017-04-22&itv_sitesection5=league-two-round-up-leyton-orient-relegated-from-the-football-league&itv_tvchannel=itv1&itv_contenttype=general&itv_pageversion=2012&itv_showpage=itvnews" height="1" width="1" alt="*"></p>
+    </div>
+  </noscript>
+
+  <!-- Prompt IE 6 users to install Chrome Frame. -->
+  <!--[if lt IE 7 ]>
+    <script defer src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+    <script defer>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+  <![endif]-->
+
+  <!-- <script src="/news/assets/softclick.js"></script> -->
+
+    <script src="/news/assets/sitestat.js"></script>
+  <script>ns_loadingtime2=(new Date()).getTime()</script>
+</body>
+</html>
+
+
+WARC/1.0
+WARC-Type: metadata
+WARC-Record-ID: <urn:uuid:371a4b12-6654-46af-ac29-bacaee9c47c7>
+WARC-Warcinfo-ID: <urn:uuid:c47cf520-b6e8-490d-aa17-9619a701c4a8>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/MANIFEST.txt
+WARC-Date: 2017-04-23T10:22:26Z
+Content-Type: text/plain
+Content-Length: 48
+
+<urn:uuid:c47cf520-b6e8-490d-aa17-9619a701c4a8>
+
+
+WARC/1.0
+WARC-Type: resource
+WARC-Record-ID: <urn:uuid:38582223-d40c-40cd-9266-d8907b1fc5c1>
+WARC-Warcinfo-ID: <urn:uuid:c47cf520-b6e8-490d-aa17-9619a701c4a8>
+WARC-Concurrent-To: <urn:uuid:371a4b12-6654-46af-ac29-bacaee9c47c7>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/wget_arguments.txt
+WARC-Date: 2017-04-23T10:22:26Z
+Content-Type: text/plain
+Content-Length: 280
+
+"--warc-file" "league-two-round-up-leyton-orient-relegated-from-the-football-league" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "-q" "-O" "/dev/null" "http://www.itv.com/news/2017-04-22/league-two-round-up-leyton-orient-relegated-from-the-football-league/" 
+
+
