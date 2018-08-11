@@ -22,7 +22,7 @@ import unicodedata
 import yaml
 import lxml.html
 import lxml.etree
-import distance
+#import distance
 
 splitter = re.compile(r'---(.*?)---\s*(.*)$',re.DOTALL)
 
@@ -80,6 +80,7 @@ class Article:
             # split yaml front matter from content block
             m = splitter.match(data)
             assert(m)
+            sys.stdout.flush()
             meta = yaml.load(m.group(1))
             for f in ("headline","published","updated","authors","canonical_url","urls"):
                 if f in meta:
