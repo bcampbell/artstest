@@ -40,7 +40,8 @@ for expected in $inputs; do
     fi
     tmpfile=$(mktemp)
     #echo >&2 $srcfile
-    ${scrape} "file://$(pwd)/$srcfile" >$tmpfile
+    #${scrape} "file://$(pwd)/$srcfile" >$tmpfile
+    ${scrape} "$srcfile" >$tmpfile
 
     set +e
     errs=$(${compare} ${COMPARE_FLAGS} $tmpfile $expected)
