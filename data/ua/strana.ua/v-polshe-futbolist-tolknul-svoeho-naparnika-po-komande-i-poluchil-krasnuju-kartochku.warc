@@ -1,0 +1,1298 @@
+WARC/1.0
+WARC-Type: warcinfo
+Content-Type: application/warc-fields
+WARC-Date: 2018-08-11T22:37:47Z
+WARC-Record-ID: <urn:uuid:537a5dc9-4aeb-4426-a7ee-c0dd34895a78>
+WARC-Filename: v-polshe-futbolist-tolknul-svoeho-naparnika-po-komande-i-poluchil-krasnuju-kartochku.warc
+Content-Length: 492
+
+software: Wget/1.19.5 (linux-gnu)
+format: WARC File Format 1.0
+conformsTo: http://bibnum.bnf.fr/WARC/WARC_ISO_28500_version1_latestdraft.pdf
+robots: classic
+wget-arguments: "--warc-file" "v-polshe-futbolist-tolknul-svoeho-naparnika-po-komande-i-poluchil-krasnuju-kartochku" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "-q" "-O" "/dev/null" "https://strana.ua/news/155627--v-polshe-futbolist-tolknul-svoeho-naparnika-po-komande-i-poluchil-krasnuju-kartochku.html" 
+
+
+
+WARC/1.0
+WARC-Type: request
+WARC-Target-URI: <https://strana.ua/news/155627--v-polshe-futbolist-tolknul-svoeho-naparnika-po-komande-i-poluchil-krasnuju-kartochku.html>
+Content-Type: application/http;msgtype=request
+WARC-Date: 2018-08-11T22:37:48Z
+WARC-Record-ID: <urn:uuid:588b51be-28ea-42a0-a200-af87a5559c62>
+WARC-IP-Address: 149.202.215.74
+WARC-Warcinfo-ID: <urn:uuid:537a5dc9-4aeb-4426-a7ee-c0dd34895a78>
+Content-Length: 238
+
+GET /news/155627--v-polshe-futbolist-tolknul-svoeho-naparnika-po-komande-i-poluchil-krasnuju-kartochku.html HTTP/1.1
+User-Agent: Wget/1.19.5 (linux-gnu)
+Accept: */*
+Accept-Encoding: identity
+Host: strana.ua
+Connection: Keep-Alive
+
+
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <urn:uuid:d9eacadf-7b36-4d67-9871-4532a670f5f7>
+WARC-Warcinfo-ID: <urn:uuid:537a5dc9-4aeb-4426-a7ee-c0dd34895a78>
+WARC-Concurrent-To: <urn:uuid:588b51be-28ea-42a0-a200-af87a5559c62>
+WARC-Target-URI: <https://strana.ua/news/155627--v-polshe-futbolist-tolknul-svoeho-naparnika-po-komande-i-poluchil-krasnuju-kartochku.html>
+WARC-Date: 2018-08-11T22:37:48Z
+WARC-IP-Address: 149.202.215.74
+WARC-Block-Digest: �?��EV
+WARC-Payload-Digest: 
+Content-Type: application/http;msgtype=response
+Content-Length: 78563
+
+HTTP/1.1 200 OK
+Server: nginx/1.13.3
+Date: Sat, 11 Aug 2018 22:37:49 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 78283
+Last-Modified: Sat, 11 Aug 2018 22:29:19 GMT
+Connection: keep-alive
+Vary: Accept-Encoding
+ETag: "5b6f633f-131cb"
+Accept-Ranges: bytes
+
+
+<!DOCTYPE html>
+<html>
+            <head>
+    <title> В Польше футболист толкнул своего олноклубника и получил красную карточку</title><meta name="description" content="В Польше арбитр удалил футболиста Патрика Скоречки за фол против игрока из его команды" /><meta name="news_keywords" content="новости Польши, новости мира, Патрик Скоречки, Ястшембе, Хойничанка, футбол" class="js-meta"/><link rel="canonical" href="https://strana.ua/news/155627--v-polshe-futbolist-tolknul-svoeho-naparnika-po-komande-i-poluchil-krasnuju-kartochku.html" />    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+            <script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "NewsArticle",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://strana.ua/news/155627--v-polshe-futbolist-tolknul-svoeho-naparnika-po-komande-i-poluchil-krasnuju-kartochku.html"
+        },
+        "headline": "В Польше с поля удалили футболиста, толкнувшего игрока своей команды",
+        "datePublished": "2018-08-12T00:03:45+03:00",
+        "dateModified": "2018-08-12T00:03:45+03:00",
+
+                    "image": {
+                "@type": "ImageObject",
+                "url": "https://strana.ua/img/article/1556/27_social_text.jpeg",
+                "height": 378,
+                "width": 720
+            },
+        
+                    "author": {
+                "@type": "Organization",
+                "name": "Strana.ua"
+                },
+        
+                    "description": "В Польше арбитр удалил футболиста Патрика Скоречки за фол против игрока из его команды",
+                
+        "articleBody": "В матче Первой футбольной лиги Польши арбитр удалил игрока, за толчок своего же партнера по команде. Матч &quot;Ястшембе&quot; и &quot;Хойничанка&quot; завершился нулевой ничьей.
+Необычное удаление произошло на 81-й минуте матча. Полузащитник &quot;Ястшембе&quot; Патрик Скоречки оттолкнул одного из игроков собственной команды, за что был удален с поля.
+
+Co tu się wydarzyło?! Czerwona kartka za... uderzenie kolegi! Widzieliście coś takiego?pic.twitter.com/QmLStWzwnx
+&amp;mdash; Polsat Sport (@polsatsport) 11 серпня 2018 р.
+
+Видео:&amp;nbsp;twitter.com/polsatsport
+Как сообщала &quot;Страна&quot;,&amp;nbsp;в ответ на заявления Хацкевича, что &quot;Шахтер - не украинская команда&quot;, &quot;горняки&quot; напомнили ему о рейтинге УЕФА и очках в национальную копилку.
+А перешедший в мадридский &quot;Реал&quot; экс-вратарь &quot;Зари&quot;&amp;nbsp;Андрей Лунин попал на обложку крупнейшего испанского таблоида.",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Strana.ua",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://strana.ua/user/img/logo.png",
+                "width": 338,
+                "height": 60
+            }
+        }
+    }
+    </script>
+
+    <meta name="twitter:site" content="@StranaUA">
+    <meta property="fb:pages" content="225855087749367" />
+    <meta name="theme-color" content="#7d122e">
+    
+
+    <link rel="shortcut icon" href="/user/img/favicon.ico" type="image/x-icon" />
+    <link rel="apple-touch-icon" sizes="60x60" href="/user/img/touch-icon-iphone.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/user/img/touch-icon-ipad.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/user/img/touch-icon-iphone-retina.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/user/img/touch-icon-ipad-retina.png">
+
+            
+        <meta property="og:title" content="В Польше с поля удалили футболиста, толкнувшего игрока своей команды" class="js-meta"/>
+        <meta property="og:type" content="article" class="js-meta"/>
+        <meta property="og:description" content="" class="js-meta"/>
+        <meta property="og:url" content="https://strana.ua/news/155627--v-polshe-futbolist-tolknul-svoeho-naparnika-po-komande-i-poluchil-krasnuju-kartochku.html" class="js-meta"/>
+
+                    <meta property="og:image" content="https://strana.ua/img/article/1556/27_social_text.jpeg" class="js-meta"/>
+            <meta property="og:image:width" content="720" class="js-meta"/>
+            <meta property="og:image:height" content="378" class="js-meta"/>
+            <link rel="image_src" href="https://strana.ua/img/article/1556/27_social_text.jpeg" class="js-meta"/>
+        
+        <meta name="twitter:card" content="summary_large_image" class="js-meta">
+        <meta name="twitter:title" content="В Польше с поля удалили футболиста, толкнувшего игрока своей команды" class="js-meta">
+        <meta name="twitter:description" content="В Польше арбитр удалил футболиста Патрика Скоречки за фол против игрока из его команды" class="js-meta">
+                    <meta name="twitter:image" content="https://strana.ua/img/article/1556/27_social_text.jpeg" class="js-meta"/>
+        
+                    <link rel="amphtml" href="https://amp.strana.ua/news/155627--v-polshe-futbolist-tolknul-svoeho-naparnika-po-komande-i-poluchil-krasnuju-kartochku.html" class="js-meta">
+            
+    
+    
+    
+
+    <script>
+        var loadsrcscache = [];
+        load_srcs = function(sources, callback) {
+            loadsrcscache.push([sources, callback]);
+        };
+    </script>
+
+    
+        
+        
+
+        
+            
+            
+            
+            
+            
+                
+                
+
+            
+                
+            
+                
+                
+            
+            
+            
+        
+    
+    
+
+    <link rel="stylesheet" href="/user/css/normalize.min.css" >
+<link rel="stylesheet" href="/user/css/main.css" >
+<link rel="stylesheet" href="/user/css/strana_fix-new-4.css" ></head>
+
+        <body>
+        <div class="container sbody" id="adpartner_branding">
+            <span id='obHP'></span>
+<script type="text/javascript" language="javascript">
+    // bigmir)net TOP 100 Script
+    bmN=navigator,bmD=document,bmD.cookie='b=b',i=0,bs=[],bm={o:1,v:16944555,s:16944555,t:6,c:bmD.cookie?1:0,n:Math.round((Math.random()* 1000000)),w:0};
+    try{obHP.style.behavior="url('#default#homePage')";obHP.addBehavior('#default#homePage');if(obHP.isHomePage(window.location.href))bm.h=1;}catch(e){;}
+    for(var f=self;f!=f.parent;f=f.parent)bm.w++;
+    try{if(bmN.plugins&&bmN.mimeTypes.length&&(x=bmN.plugins['Shockwave Flash']))bm.m=parseInt(x.description.replace(/([a-zA-Z]|\s)+/,''));
+    else for(var f=3;f<20;f++)if(eval('new ActiveXObject("ShockwaveFlash.ShockwaveFlash.'+f+'")'))bm.m=f}catch(e){;}
+    try{bm.y=bmN.javaEnabled()?1:0}catch(e){;}
+    try{bmS=screen;bm.v^=bm.d=bmS.colorDepth||bmS.pixelDepth;bm.v^=bm.r=bmS.width}catch(e){;}
+    r=bmD.referrer.replace(/^w+:\/\//,'');if(r&&r.split('/')[0]!=window.location.host){bm.f=escape(r).slice(0,400).slice(0,400);bm.v^=r.length}
+    bm.v^=window.location.href.length;for(var x in bm) if(/^[ohvstcnwmydrf]$/.test(x)) bs[i++]=x+bm[x];
+
+    script_bm = bmD.createElement('script');
+    script_bm.async = 1;
+    script_bm.src = '//c.bigmir.net/?' + bs.join('&');
+
+    element = bmD.getElementsByTagName('script')[0];
+    element.parentNode.insertBefore(script_bm, element);
+    // end
+
+    new Image().src = "//counter.yadro.ru/hit;StranaUA?r" +
+        escape(document.referrer) + ((typeof(screen) == "undefined") ? "" :
+            ";s" + screen.width + "*" + screen.height + "*" + (screen.colorDepth ?
+            screen.colorDepth : screen.pixelDepth)) + ";u" + escape(document.URL) +
+        ";h" + escape(document.title.substring(0, 80)) +
+        ";" + Math.random();
+</script>
+<noscript><img src="//c.bigmir.net/?v16944555&s16944555&t6" width="0" height="0" alt="" title="" border="0" /></noscript>
+
+
+                                                <div class="sunsite_actions top-banner" data-action="banners" data-place="1" data-page="2265"></div>
+                                        <header>
+    <div class="header-row">
+        <div class="info-right clearfix">
+            <div class="social-box-top">
+                <div class="addthis_inline_follow_toolbox"></div>
+            </div>
+            <div class="top-search" id="search-you">
+                <form class="js-search-fm" role="search" method="get" action="/search.html">
+                    <div class="search-form">
+                        <label><input type="text" class="search-field" placeholder="Поиск..." value="" name="query"></label>
+                        <button type="submit" class="btn btn-default search-submit"><i class="fa fa-search"> </i></button>
+                    </div>
+                </form>
+            </div>
+            <script>
+                load_srcs(['/user/js/jquery-3.2.1.min.js'], function () {
+                    $('.js-search-fm').on('submit', function(event){
+                        event.preventDefault();
+                        $form = $(this);
+                        var value = $form.find('[name="query"]').val();
+                        if(value){
+                            window.History.pushState(null, document.title, decodeURIComponent($form.attr('action') + '?query=' + value));
+                        }
+                    });
+                });
+            </script>
+        </div>
+    </div>
+
+    <div class="header-main hidden-xs">
+        <a class="logo js-refresh-page" data-page="2265" href="/"><img src="/user/img/logo.png" alt="strana.ua"></a>
+
+        
+                    <div class="promo-news">
+                <div class="img">
+                    <a href="/articles/analysis/155255-shutki-v-storonu-5-hlavnykh-voprosov-ob-uchastii-v-vyborakh-vladimira-zelenskoho.html">
+                                                                        <img data-src="/img/article/1555/7_promo_1.jpeg" src="/user/img/cap/wrap_100x67.png" height="67">
+                    </a>
+                </div>
+                <div class="text">
+                    <a href="/articles/analysis/155255-shutki-v-storonu-5-hlavnykh-voprosov-ob-uchastii-v-vyborakh-vladimira-zelenskoho.html">Шутки в сторону. Пять главных вопросов об участии в выборах Владимира Зеленского</a>
+                </div>
+            </div>
+                    <div class="promo-news">
+                <div class="img">
+                    <a href="/articles/analysis/155273-kak-mirovoj-zernovoj-krizis-vzvintit-tseny-na-produkty-v-ukraine.html">
+                                                                        <img data-src="/img/article/1554/74_promo_1.jpeg" src="/user/img/cap/wrap_100x67.png" height="67">
+                    </a>
+                </div>
+                <div class="text">
+                    <a href="/articles/analysis/155273-kak-mirovoj-zernovoj-krizis-vzvintit-tseny-na-produkty-v-ukraine.html">Еда уйдет за доллары. Как зерновой кризис взвинтит цены на продукты в Украине</a>
+                </div>
+            </div>
+            </div>
+    <nav class="clearfix">
+        <a class="mob-logo js-refresh-page" data-page="2265" href="/"><img src="/user/img/logo.png" alt="strana.ua"></a>
+        <div class="mob-toggle">
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+        </div>
+        <div class="search">
+            <i class="fa fa-search"></i>
+        </div>
+        <form class="js-search-fm" action="/search.html">
+            <input type="text" name="query">
+            <button type="submit">
+                <i class="fa fa-search"></i>
+            </button>
+        </form>
+
+        <ul>
+                                                                                                                                                                                                                                                                                                                                                        <li class="active"><a  href="/news.html">Новости</a></li>
+                                                            <li class=""><a  href="/articles.html">Статьи</a></li>
+                                                            <li class=""><a  href="/articles/interview.html">Интервью</a></li>
+                                                            <li class=""><a  href="/reviews.html">Рецензии</a></li>
+                                                            <li class=""><a  href="/s/blockchain.html">Блокчейн</a></li>
+                                                            <li class=""><a  href="/opinions.html">Лента Соцсетей</a></li>
+                                                            <li class=""><a  href="/photovideo.html">Видео</a></li>
+                                                            <li class=""><a class="s-hot-link" href="/s/ataka-na-stranu.html">Атака на Страну</a></li>
+                    </ul>
+    </nav>
+    
+    <style>
+        nav ul a.s-hot-link{
+            color: #7d0126;
+        }
+
+        nav ul .active a.s-hot-link, nav ul a.s-hot-link:hover{
+            color: #fff;
+        }
+    </style>
+
+    
+            
+        <div class="main-header-news">
+            <div class="col1">
+                                    <div class="link-text">
+                        <a href="/news/155628-sentsova-osvobodili-rossijskij-zhurnalist-soobshchila-chto-samolet-s-ukraintsem-vyletel-iz-salekharda.html">Сенцова освободили? Российский журналист сообщила, что самолет с украинцем вылетел из Салехарда</a>
+                    </div>
+                                                        <div class="link-text">
+                        <a href="/articles/analysis/155488-aleksej-tamrazov-za-chto-na-samom-dele-arestovali-vladeltsa-insider.html">Финансировал Гриценко, писал о махинациях в МВД и в фонде жены Порошенко. Почему арестовали Тамразова</a>
+                    </div>
+                                            </div><div class="col2">
+                                                        <div class="link-text">
+                        <a href="/news/155542-avtory-zakona-o-protivodejstvii-bullinhu-objasili-neobkhodimost-eho-prinjatija.html">Платить будут родители. Депутаты предлагают ввести штрафы за буллинг в Украине</a>
+                    </div>
+                                                        <div class="link-text">
+                        <a href="/news/155458-video-s-mesta-strashnoho-dtp-pod-zaporozhem-hde-pohibli-pjat-detej-i-vzroslyj.html">В страшном ДТП под Запорожьем погибли пятеро детей и взрослый</a>
+                    </div>
+                                                </div>
+        </div>
+    
+            <div class="header-slider blogs-under-header visible-xs owl-carousel owl-theme">
+                            <div class="item">
+                    <div class="promo-news">
+                        <a href="/articles/analysis/155255-shutki-v-storonu-5-hlavnykh-voprosov-ob-uchastii-v-vyborakh-vladimira-zelenskoho.html">Шутки в сторону. Пять главных вопросов об участии в выборах Владимира Зеленского</a>
+                    </div>
+                </div>
+                            <div class="item">
+                    <div class="promo-news">
+                        <a href="/articles/analysis/155273-kak-mirovoj-zernovoj-krizis-vzvintit-tseny-na-produkty-v-ukraine.html">Еда уйдет за доллары. Как зерновой кризис взвинтит цены на продукты в Украине</a>
+                    </div>
+                </div>
+                    </div>
+        <script>
+            load_srcs(['/user/js/jquery-3.2.1.min.js'], function () {
+                var on_mobile_load = function(){
+                    if($(window).width() < 768) {
+                        load_srcs(['/user/js/owl.carousel.min.js', '/user/css/owl.carousel.min.css', '/user/css/owl.theme.default.min.css'], function () {
+                            $(".header-slider").owlCarousel({
+                                items: 1,
+                                loop: true,
+                                nav: true,
+                                dots: false,
+                                navText: '',
+                                autoplay: true
+                            });
+                        });
+
+                        return true;
+                    }
+                    return false;
+                };
+
+                if(!on_mobile_load()) {
+                    $(window).on('resize', function () {
+                        on_mobile_load();
+                    });
+                }
+
+                $('.js-refresh-page').on('click', function (e) {
+                    var page = $(this).data('page');
+
+                    if(parseInt(page) == 1000){
+                        e.preventDefault();
+                        loadPage($(this).attr('href'));
+                    }
+                })
+            });
+         </script>
+    </header>
+
+            
+                                <a data-absnum="155627" data-action="stat" data-operand="article" name="js-views-stat" class="js-views-stat sunsite_actions"></a>
+    <script type="text/javascript">
+        function sunsite_action_stat(data){}
+    </script>
+    <section class="main">
+        <div class="main-right-column">
+            
+
+        <div class="right-top-news hidden-xs">
+        <div class="title-rubric hidden-xs">Главное</div>
+        <div class="right-top-news-image">
+            <a href="/articles/analysis/155319-kak-bankovaja-kontroliruet-sudejskij-korpus-cherez-sistemu-konkursnoho-otbora.html">
+                <img data-src="/img/article/1555/99_promo_3.jpeg" src="/user/img/cap/wrap_730x411.png" itemprop="image">
+            </a>
+        </div>
+        <div class="right-top-news-title">
+            <a href="/articles/analysis/155319-kak-bankovaja-kontroliruet-sudejskij-korpus-cherez-sistemu-konkursnoho-otbora.html" data-edit="155319,2268">
+                Сбитая Ластовка. Как украинских судей на Банковой пропускают сквозь сито отбора и сколько стоит для них индульгенция
+            </a>
+        </div>
+        <div class="right-top-news-subtitle">
+            
+        </div>
+    </div>
+
+                    <div class="sunsite_actions" data-action="banners" data-place="2" data-all="1" data-page="2265"></div>
+                
+
+    <div class="live-block">
+        <div class="title-rubric live">Видео</div>
+
+                <article class="photo-news">
+            <div class="main-img">
+                <a href="/video/155603-moment-dtp-pod-zaprozhem-snjal-videorehistrator-proezzhajushchej-mashiny.html">
+                    <img data-src="/img/article/1556/7_promo_10.jpeg" src="/user/img/cap/wrap_730x411.png">
+                </a>
+                <div class="video-icon">
+                    <a href="/video/155603-moment-dtp-pod-zaprozhem-snjal-videorehistrator-proezzhajushchej-mashiny.html">
+                        <i class="fa fa-play-circle-o" aria-hidden="true"></i>
+                    </a>
+                </div>
+            </div>
+            <div class="text-photo-news">
+                <div class="title">
+                    <a href="/video/155603-moment-dtp-pod-zaprozhem-snjal-videorehistrator-proezzhajushchej-mashiny.html" data-edit="155603,2280">
+                        Момент ДТП под Запорожьем снял видеорегистратор проезжающей машины
+                    </a>
+                </div>
+            </div>
+        </article>
+    </div>
+
+                
+<div class="popular-block">
+    <div class="title-rubric">Популярное</div>
+
+            <div class="popular-news">
+            <div class="number">1</div>
+            <div class="text-popular">
+                <a href="/news/155387-solnechnoe-zatmenie-11-avhusta-hde-i-kohda-smotret-horoskop-znaki-zodiaka.html" class="link-popular" data-edit="155387,2265">
+                    Солнечное затмение 11 августа. Влияние на знаки зодиака и здоровье
+                </a>
+            </div>
+            <span class="clearfix"></span>
+        </div>
+            <div class="popular-news">
+            <div class="number">2</div>
+            <div class="text-popular">
+                <a href="/news/155614-poroshenko-trizhdy-oshibsja-v-pervoj-strochke-himna-ukrainy.html" class="link-popular" data-edit="155614,2265">
+                    Порошенко трижды ошибся в первой строчке гимна Украины
+                </a>
+            </div>
+            <span class="clearfix"></span>
+        </div>
+            <div class="popular-news">
+            <div class="number">3</div>
+            <div class="text-popular">
+                <a href="/news/155597-donetskij-metallurhicheskij-zavod-chastichno-pereshel-pod-kontrol-rinatu-akhmetovu.html" class="link-popular" data-edit="155597,2265">
+                    Ахметов купил Донецкий металлургический завод, который сепаратисты уже успели переименовать в честь Юза
+                </a>
+            </div>
+            <span class="clearfix"></span>
+        </div>
+            <div class="popular-news">
+            <div class="number">4</div>
+            <div class="text-popular">
+                <a href="/news/155542-avtory-zakona-o-protivodejstvii-bullinhu-objasili-neobkhodimost-eho-prinjatija.html" class="link-popular" data-edit="155542,2265">
+                    Платить будут родители. Депутаты предлагают ввести штрафы за буллинг в Украине
+                </a>
+            </div>
+            <span class="clearfix"></span>
+        </div>
+            <div class="popular-news">
+            <div class="number">5</div>
+            <div class="text-popular">
+                <a href="/articles/private-life/155535-kak-smotrjashchij-za-kievom-roman-stolar-otprazdnoval-svoj-den-rozhdenija-v-monako.html" class="link-popular" data-edit="155535,2267">
+                    "Без паники!" Как "теневой мэр" Киева отпраздновал в Монако свой день рождения с Лободой и Бастой. Фото
+                </a>
+            </div>
+            <span class="clearfix"></span>
+        </div>
+    </div>
+        
+
+        <div class="social-news">
+        <div class="title-rubric">
+            <a href="/articles/private-life.html">Частная жизнь</a>
+        </div>
+        <div class="socialnews-image">
+            <a href="/articles/private-life/155535-kak-smotrjashchij-za-kievom-roman-stolar-otprazdnoval-svoj-den-rozhdenija-v-monako.html">
+                <img data-src="/img/article/1556/4_promo_9.jpeg" src="/user/img/cap/wrap_300x178_promo9.png">
+            </a>
+        </div>
+
+        <div class="socialnews-title">
+            <a href="/articles/private-life/155535-kak-smotrjashchij-za-kievom-roman-stolar-otprazdnoval-svoj-den-rozhdenija-v-monako.html" data-edit="155535,2267">"Без паники!" Как "теневой мэр" Киева отпраздновал в Монако свой день рождения с Лободой и Бастой. Фото</a>
+        </div>
+        <div class="socialnews-subtitle">На день рождения политика и бизнесмена Вадима Столара приехал киевский бомонд и запрещенный в Украине рэппер</div>
+    </div>
+
+                    <div class="sunsite_actions" data-action="banners" data-place="6" data-page="2265"></div>
+
+            
+            <div id="stick-banner-top"></div>
+            <div id="stick-banner" class="sunsite_actions" data-action="banners" data-place="4" data-page="2265"></div>
+            
+            <div class="sunsite_actions" data-action="banners" data-place="17" data-page="2265"></div>
+    </div>
+
+        <div class="article" id="main-center-column">
+            <div class="breadcrumbs hidden-xs">
+                                        <a itemprop="url" itemtype="http://data-vocabulary.org/Breadcrumb" href="/" title="">
+                    Страна
+                </a> »
+                                                <a itemprop="url" itemtype="http://data-vocabulary.org/Breadcrumb" href="/news.html" title="">
+                    Новости
+                </a> »
+                                                <a itemprop="url" itemtype="http://data-vocabulary.org/Breadcrumb" href="/news/155627--v-polshe-futbolist-tolknul-svoeho-naparnika-po-komande-i-poluchil-krasnuju-kartochku.html" title="">
+                    В Польше с поля удалили футболиста, толкнувшего игрока своей команды
+                </a>
+                        </div>
+<script type="text/javascript">
+    load_srcs(['/user/js/jquery-3.2.1.min.js'], function(){
+        var title = '';
+        var href = '';
+        var itemprop = '';
+        var name = '';
+
+        $('.hybrideLink').each(function(){
+            var linkText = '';
+            href = $(this).find('span').data('href');
+            itemprop = $(this).find('span').data('itemprop');
+            title = $(this).find('span').data('title');
+            name = $(this).find('span').data('name');
+
+            linkText += '<a itemprop="'+ itemprop +'" href="'+ href +'" title="'+ title +'">';
+            linkText += '<span itemprop="title">';
+            linkText += name;
+            linkText +=	'</span></a>';
+            $(this).html(linkText);
+        });
+    });
+</script>
+            <div class="article-content">
+                    
+    <div class="newsfeed" id="js-sticky-bar">
+        <div class="sidebar__innner">
+            <div class="addthis_inline_share_toolbox"></div>
+
+            <div class="title-rubric">Читайте также</div>
+            <ul class="list-newsfeed left-read-more-art">
+                                                        <li>
+                        <a href="/news/155090-chelsi-podpisal-kepaarrisabalahi-za-80-mln-evro.html">"Челси" купил самого дорого вратаря в истории футбола</a>
+                    </li>
+                                                        <li>
+                        <a href="/news/154214-uchenye-priznali-evropejskij-futbol-opasnym-dlja-zhenskoho-mozha-vidom-sporta.html">Американские ученые назвали европейский футбол опасным для женского мозга видом спорта</a>
+                    </li>
+                                                        <li>
+                        <a href="/news/153932-dinamo-arendovalo-atakujushcheho-poluzashchitnika-viktora-bueno-iz-brazilskoho-santosa.html">"Динамо" и бразильский "Сантос" обменялись футболистами</a>
+                    </li>
+                            </ul>
+                            <div class="sunsite_actions" data-action="banners" data-place="11" data-page="2265"></div>
+                    </div>
+    </div>
+
+    <script>
+        load_srcs(['/user/js/jquery-3.2.1.min.js'], function(){
+            if ($(window).width() > 992) {
+                load_srcs(['/user/js/ResizeSensor.min.js', '/user/js/theia-sticky-sidebar.min.js'], function() {
+                    $('#js-sticky-bar').theiaStickySidebar({
+                        additionalMarginTop: 30
+                    });
+                });
+            }
+        });
+    </script>
+
+                <div class="articles">
+                    <div class="article-title article-edit">
+                        <h1 class="article" data-edit="155627,2265">В Польше с поля удалили футболиста, толкнувшего игрока своей команды</h1>
+                        
+                    </div>
+                    <div class="article-meta">
+                                                                            <time class="date">00:03,
+                                <span class="strana-adate" data-time="2018-08-12 00:03:45">сегодня</span>
+                            </time>
+                                                <div class="clearfix"></div>
+                    </div>
+                    <div class="article-text" style="margin-left:0" id="article-text">
+                                                    <div class="article-image">
+                                <img src="/img/article/1556/27_main.jpeg" itemprop="image">
+                            </div>
+                                                                            <div id="article-body">
+                                                        
+                            <p>В матче Первой футбольной лиги Польши арбитр удалил игрока, за толчок своего же партнера по команде. Матч "Ястшембе" и "Хойничанка" завершился нулевой ничьей.</p>
+<p>Необычное удаление произошло на 81-й минуте матча. Полузащитник "Ястшембе" Патрик Скоречки оттолкнул одного из игроков собственной команды, за что был удален с поля.</p>
+<blockquote class="twitter-tweet" data-lang="uk">
+<p dir="ltr" lang="pl">Co tu się wydarzyło?! Czerwona kartka za... uderzenie kolegi! Widzieliście coś takiego?<a href="https://t.co/QmLStWzwnx">pic.twitter.com/QmLStWzwnx</a></p>
+&mdash; Polsat Sport (@polsatsport) <a href="https://twitter.com/polsatsport/status/1028334792079753217?ref_src=twsrc%5Etfw">11 серпня 2018 р.</a></blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<p><span class="img-article-description">Видео:&nbsp;twitter.com/polsatsport</span></p><div class="mob-ban"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                            <!-- premium -->
+                            <ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-2133930531084912" data-ad-slot="7199937636"></ins>
+                            <script>
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                            </script></div>
+<p>Как сообщала "Страна",&nbsp;в ответ на заявления Хацкевича, что "Шахтер - не украинская команда", "горняки" <a href="/news/154904-v-otvet-na-zajavlenija-khatskevicha-chto-shakhter-ne-ukrainskaja-komanda-hornjaki-napomnili-emu-o-rejtinhe-uefa-i-ochkakh-v-natsionalnuju-kopilku.html">напомнили ему о рейтинге УЕФА и очках в национальную копилку</a>.</p>
+<p>А перешедший в мадридский "Реал" экс-вратарь "Зари"&nbsp;<a href="/news/152702-ukrainskij-holkiper-andrej-lunin-za-transfer-kotoroho-madridskij-real-zaplatil-8-5-mln-evro-popal-na-oblozhku-krupnejsheho-ispanskoho-tabloida-.html">Андрей Лунин попал на обложку крупнейшего испанского таблоида</a>.</p>
+
+                            
+                        </div>
+
+                        <div class="article-afterbody">
+    Подписывайся на рассылку <a href="https://chats.viber.com/stranabot/ru" target="_blank">новостей Страны в Viber</a>. Узнавай первым самые важные и интересные новости!
+</div>
+
+                        <div class="clearfix"></div>
+                        <div class="addthis_inline_share_toolbox"></div>
+
+                    </div>
+                </div>
+            </div>
+                <div class="tags">
+        Темы:
+                    <a href="/tags/novosti-polshi.html"><span class="tag">новости Польши</span></a>
+                    <a href="/tags/novosti-mira.html"><span class="tag">новости мира</span></a>
+                    <a href="/tags/patrik-skorechki.html"><span class="tag">Патрик Скоречки</span></a>
+                    <a href="/tags/jastshembe.html"><span class="tag">Ястшембе</span></a>
+                    <a href="/tags/khojnichanka.html"><span class="tag">Хойничанка</span></a>
+                    <a href="/tags/futbol.html"><span class="tag">футбол</span></a>
+            </div>
+            <div class="sunsite_actions" data-action="banners" data-place="16" data-page="2265"></div>
+        <div class="sunsite_actions" data-action="banners" data-place="9" data-page="2265"></div>
+    
+
+                            <div class="sunsite_actions" data-action="banners" data-place="9" data-page="2265"></div>
+                
+                <iframe src="/pub/html/mixadv_3029.html" frameborder="0" width="100%" height="348"></iframe>
+                <script class="r35948" type="text/javascript">
+    (function() {
+        var worker35948,
+            tickerID = 35948,
+            tag = document.currentScript || (function() {
+                var scripts = document.getElementsByClassName('r35948'),
+                    len = scripts.length;
+                return len ? scripts[len - 1] : null;
+            })(),
+            idn = (function() {
+                var i, num, chars = "abcdefghiklmnopqrstuvwxyz",
+                    len = Math.floor((Math.random() * 2) + 4),
+                    idn = '';
+                for (i = 0; i < len; i++) {
+                    num = Math.floor(Math.random() * chars.length);
+                    idn += chars.substring(num, num + 1);
+                }
+                return idn;
+            })();
+        
+        var container = document.createElement('div');
+            container.id = idn;
+            container.innerHTML = 'çàãðóçêà...';
+        tag.parentNode.insertBefore(container, tag);
+
+        var script = document.createElement('script');
+            script.setAttribute('class', 's35948');
+            script.setAttribute('data-idn', idn);
+            script.src = '//js-ru.redtram.com/n4p/0/35/ticker_35948.js';
+            script.type = 'text/javascript';
+            script.charset = 'utf-8';
+            script.onerror = function() {
+                if (!('atob' in window && 'Worker' in window))
+                    return;
+                window.rtIsWebSocket = true;
+
+                var code = 'dmFyIHNvY2tldDsgZnVuY3Rpb24gc2VuZFRvU29ja2V0KGRhdGEpIHsgdmFyIHdzc1VybCA9ICJ3c3M6Ly9uNHAucmVkdHJhbS5jb20vd3MvIjsgaWYgKCFzb2NrZXQgfHwgc29ja2V0LnJlYWR5U3RhdGUgPT09IHNvY2tldC5DTE9TRUQpIHsgc29ja2V0ID0gbmV3IFdlYlNvY2tldCh3c3NVcmwpOyBzb2NrZXQub25tZXNzYWdlID0gZnVuY3Rpb24ocikgeyBwb3N0TWVzc2FnZShKU09OLnN0cmluZ2lmeShyLmRhdGEpKTsgfTsgfSBpZiAoc29ja2V0KSB7IHNlbmRDb25uZWN0aW9uKHNvY2tldCwgZnVuY3Rpb24oKSB7IHNvY2tldC5zZW5kKGRhdGEpOyB9KTsgfSB9IGZ1bmN0aW9uIHNlbmRDb25uZWN0aW9uKGMsIHIpIHsgc2V0VGltZW91dChmdW5jdGlvbigpIHsgaWYgKGMucmVhZHlTdGF0ZSA9PT0gYy5PUEVOKSB7IHJldHVybiByKCk7IH0gcmV0dXJuIHNlbmRDb25uZWN0aW9uKGMsIHIpOyB9LCA1MCk7IH0gb25tZXNzYWdlID0gZnVuY3Rpb24ocikgeyBzZW5kVG9Tb2NrZXQoci5kYXRhKTsgfTsg';
+
+                function runExternalMessage(data) {
+                    worker35948.postMessage(data);
+                }
+
+                worker35948 = new Worker(URL.createObjectURL(
+                    new Blob(["eval(atob('"+code+"'))"], {type: 'text/javascript'})
+                ));
+
+                worker35948.onmessage = function(m) {
+                    var json = JSON.parse(m.data),
+                        content = JSON.parse(json)['content'];
+                    eval(content);
+                };
+
+                worker35948.postMessage(JSON.stringify({
+                    command: 'init',
+                    informer_id: tickerID,
+                    url: script.src
+                }));
+            };
+        tag.parentNode.insertBefore(script, tag);
+    })();
+</script>
+                <div class="sunsite_actions" data-action="banners" data-place="8" data-all="1" data-page="2265"></div>
+                <div class="sunsite_actions" data-action="banners" data-place="10" data-all="1" data-page="2265"></div>
+            
+            
+
+
+    <div class="article-main-news" id="">
+        <div class="title-rubric">
+            <a href="/articles.html">Главные статьи</a>
+        </div>
+                    <div class="row">
+                                    <div class="top-news">
+                        <div class="top-img">
+                                                                                    <a href="/articles/special/155063-spetsreportazh-strany-shaurmu-dlja-kievljan-delajut-v-antisanitranykh-uslovijakh-iz-neizvestnykh-produktov.html">
+                                <img data-src="/img/article/1556/0_promo_4.jpeg" src="/user/img/cap/wrap_255x152_promo4.png">
+                            </a>
+                        </div>
+                        <div class="text-top-news">
+                            <div class="title-top-news">
+                                <a href="/articles/special/155063-spetsreportazh-strany-shaurmu-dlja-kievljan-delajut-v-antisanitranykh-uslovijakh-iz-neizvestnykh-produktov.html">"Аппарат полтора месяца не мыли. Нет времени"
+                                </a>
+                            </div>
+                            <div class="subtitle-top-news">Журналистка "Страны" поработала за 350 гривен в сутки в точке по продаже хот-догов и шаурмы</div>
+                            <div class="author">
+                                                            </div>
+                        </div>
+                    </div>
+                                    <div class="top-news">
+                        <div class="top-img">
+                                                                                    <a href="/articles/interview/155247-polina-maloshtan-izbitaja-v-chernihove-mne-dazhe-povezlo-chto-kohda-menja-bili-eto-snimali-na-video.html">
+                                <img data-src="/img/article/1555/91_promo_4.jpeg" src="/user/img/cap/wrap_255x152_promo4.png">
+                            </a>
+                        </div>
+                        <div class="text-top-news">
+                            <div class="title-top-news">
+                                <a href="/articles/interview/155247-polina-maloshtan-izbitaja-v-chernihove-mne-dazhe-povezlo-chto-kohda-menja-bili-eto-snimali-na-video.html">Полина Малоштан: "Мне даже повезло, что когда меня били,  это снимали на видео"
+                                </a>
+                            </div>
+                            <div class="subtitle-top-news">Избитая в Чернигове в апреле прошлого года школьница рассказала "Стране", что думает о новой волне буллинга среди украинских подростков, и как ее обидчиц пытаются "отмазать" в суде</div>
+                            <div class="author">
+                                                            </div>
+                        </div>
+                    </div>
+                                    <div class="top-news">
+                        <div class="top-img">
+                                                                                    <a href="/articles/analysis/155037-kto-orhanizoval-provokatsiju-v-otnoshenii-savchenko-i-rubana.html">
+                                <img data-src="/img/article/1554/75_promo_4.jpeg" src="/user/img/cap/wrap_255x152_promo4.png">
+                            </a>
+                        </div>
+                        <div class="text-top-news">
+                            <div class="title-top-news">
+                                <a href="/articles/analysis/155037-kto-orhanizoval-provokatsiju-v-otnoshenii-savchenko-i-rubana.html">Как "Восьмерка", "Кедр" и "Одесса" загнали в капкан Надежду Савченко
+                                </a>
+                            </div>
+                            <div class="subtitle-top-news">"Стране" стали известны новые детали дела Савченко-Рубана</div>
+                            <div class="author">
+                                                            </div>
+                        </div>
+                    </div>
+                            </div>
+                    <div class="row">
+                                    <div class="top-news">
+                        <div class="top-img">
+                                                                                    <a href="/articles/analysis/154988-kak-ukraintsy-budut-platit-nalohi-na-nedvizhimost-i-avtomobili.html">
+                                <img data-src="/img/article/1554/53_promo_4.jpeg" src="/user/img/cap/wrap_255x152_promo4.png">
+                            </a>
+                        </div>
+                        <div class="text-top-news">
+                            <div class="title-top-news">
+                                <a href="/articles/analysis/154988-kak-ukraintsy-budut-platit-nalohi-na-nedvizhimost-i-avtomobili.html">Начислят задним числом и насчитают штрафы
+                                </a>
+                            </div>
+                            <div class="subtitle-top-news">Как украинцы в этом году будут платить налоги на недвижимость и авто</div>
+                            <div class="author">
+                                                            </div>
+                        </div>
+                    </div>
+                                    <div class="top-news">
+                        <div class="top-img">
+                                                                                    <a href="/articles/analysis/155102-smozhet-li-ministr-omeljan-ostanovit-zhd-soobshchenie-s-rossiej-i-chem-eto-hrozit-ukraine.html">
+                                <img data-src="/img/article/1553/63_promo_4.jpeg" src="/user/img/cap/wrap_255x152_promo4.png">
+                            </a>
+                        </div>
+                        <div class="text-top-news">
+                            <div class="title-top-news">
+                                <a href="/articles/analysis/155102-smozhet-li-ministr-omeljan-ostanovit-zhd-soobshchenie-s-rossiej-i-chem-eto-hrozit-ukraine.html">"Появится миллиардный рынок нелегальных перевозок"
+                                </a>
+                            </div>
+                            <div class="subtitle-top-news">Чем обернется для Украины остановка движения поездов в Россию</div>
+                            <div class="author">
+                                                            </div>
+                        </div>
+                    </div>
+                                    <div class="top-news">
+                        <div class="top-img">
+                                                                                    <a href="/news/155055-leonidu-kuchme-80-let-biohafija-tsitaty-byvsheho-prezidenta-ukrainy.html">
+                                <img data-src="/img/article/1552/64_promo_4.jpeg" src="/user/img/cap/wrap_255x152_promo4.png">
+                            </a>
+                        </div>
+                        <div class="text-top-news">
+                            <div class="title-top-news">
+                                <a href="/news/155055-leonidu-kuchme-80-let-biohafija-tsitaty-byvsheho-prezidenta-ukrainy.html">Архитектор страны
+                                </a>
+                            </div>
+                            <div class="subtitle-top-news">Сегодня исполнилось 80 лет Леониду Кучме, который построил ту Украину, в которой мы живем</div>
+                            <div class="author">
+                                                            </div>
+                        </div>
+                    </div>
+                            </div>
+            </div>
+
+
+                            <div class="sunsite_actions" data-action="banners" data-place="12" data-page="2265"></div>
+                    </div>
+    </section>
+    <section class="blocks">
+        
+
+    <div class="blogs">
+        <div class="title-rubric"><a href="/news/opinions.html">Лента соцсетей</a></div>
+        <div class="opinions">
+                            <div class="opinion-block">
+                    <div class="opinion-img">
+                        <a href="/news/opinions/155617-tak-kak-menjajut-privetstvie-v-armii-zakonom-ili-ukazom-prezidenta.html"><img data-src="/img/article/1556/17_tn.jpeg" width="100"></a>
+                    </div>
+                    <div class="opinion-text">
+                        <div class="name">
+                            <a href="/news/opinions/155617-tak-kak-menjajut-privetstvie-v-armii-zakonom-ili-ukazom-prezidenta.html">
+                                Алексей Кучеренко
+                            </a>
+                        </div>
+                        <div class="opinion-title">
+                            <a href="/news/opinions/155617-tak-kak-menjajut-privetstvie-v-armii-zakonom-ili-ukazom-prezidenta.html" data-edit="155617,2276">Так как меняют приветствие в армии - законом или указом президента?
+                            </a>
+                        </div>
+                        <div class="opinion-subtitle">А то разные стороны дают разные показания по этому вопросу...</div>
+                    </div>
+                    <span class="clearfix"></span>
+                </div>
+                            <div class="opinion-block">
+                    <div class="opinion-img">
+                        <a href="/news/opinions/155616-zavtra-v-aktau-mohut-byt-prinjaty-istoricheskie-reshenija-po-hazu.html"><img data-src="/img/article/1556/16_tn.jpeg" width="100"></a>
+                    </div>
+                    <div class="opinion-text">
+                        <div class="name">
+                            <a href="/news/opinions/155616-zavtra-v-aktau-mohut-byt-prinjaty-istoricheskie-reshenija-po-hazu.html">
+                                Юрий Романенко
+                            </a>
+                        </div>
+                        <div class="opinion-title">
+                            <a href="/news/opinions/155616-zavtra-v-aktau-mohut-byt-prinjaty-istoricheskie-reshenija-po-hazu.html" data-edit="155616,2276">Завтра в Актау могут быть приняты исторические решения по газу
+                            </a>
+                        </div>
+                        <div class="opinion-subtitle">Складывается новый мировой уклад, и Украина рискует остаться вне игры</div>
+                    </div>
+                    <span class="clearfix"></span>
+                </div>
+                            <div class="opinion-block">
+                    <div class="opinion-img">
+                        <a href="/news/opinions/155601-za-chetyre-hoda-vlast-okazalas-nesposobnoj-ni-k-chemu.html"><img data-src="/img/article/1556/1_tn.jpeg" width="100"></a>
+                    </div>
+                    <div class="opinion-text">
+                        <div class="name">
+                            <a href="/news/opinions/155601-za-chetyre-hoda-vlast-okazalas-nesposobnoj-ni-k-chemu.html">
+                                Виктор Небоженко
+                            </a>
+                        </div>
+                        <div class="opinion-title">
+                            <a href="/news/opinions/155601-za-chetyre-hoda-vlast-okazalas-nesposobnoj-ni-k-chemu.html" data-edit="155601,2276">За четыре года власть оказалась неспособной ни к чему
+                            </a>
+                        </div>
+                        <div class="opinion-subtitle">И с такими парадоксальными итогами ее работы мы подходим к выборам</div>
+                    </div>
+                    <span class="clearfix"></span>
+                </div>
+                            <div class="opinion-block">
+                    <div class="opinion-img">
+                        <a href="/news/opinions/155598-uzhe-i-v-majdannom-lahere-nachinajut-bojatsja-pravykh-radikalov.html"><img data-src="/img/article/1555/98_tn.jpeg" width="100"></a>
+                    </div>
+                    <div class="opinion-text">
+                        <div class="name">
+                            <a href="/news/opinions/155598-uzhe-i-v-majdannom-lahere-nachinajut-bojatsja-pravykh-radikalov.html">
+                                Михаил Погребинский
+                            </a>
+                        </div>
+                        <div class="opinion-title">
+                            <a href="/news/opinions/155598-uzhe-i-v-majdannom-lahere-nachinajut-bojatsja-pravykh-radikalov.html" data-edit="155598,2276">Уже и в майданном лагере начинают бояться правых радикалов
+                            </a>
+                        </div>
+                        <div class="opinion-subtitle">Как будто это не было ясно четыре года назад!</div>
+                    </div>
+                    <span class="clearfix"></span>
+                </div>
+                    </div>
+    </div>
+
+        
+
+    <div class="select-news hidden-xs">
+        <div class="title-rubric"><a>Выбор страны</a></div>
+
+        <div class="hardnews">
+                            <div class="main-hardnews">
+                    <div class="rubric-main-photo">
+                        <a href="/articles/analysis/136422-strana-publikuet-pervuju-hlavu-knihi-onishchenko-pro-razhovor-s-poroshenko-o-korruptsionnoj-skheme-so-zlochevskim.html"><img data-src="/img/article/1372/81_promo_5.jpeg" src="/user/img/cap/wrap_278x165_promo5.png"></a>
+                    </div>
+                    <div class="main-news-title-rubric">
+                        <a href="/articles/analysis/136422-strana-publikuet-pervuju-hlavu-knihi-onishchenko-pro-razhovor-s-poroshenko-o-korruptsionnoj-skheme-so-zlochevskim.html" data-edit="136422,2268">
+                            Как Порошенко по Злочевскому вопрос решал. Текст разговора президента с нардепом Онищенко
+                        </a>
+                        <span class="glyphicon glyphicon-camera"></span>
+                    </div>
+                    <div class="main-news-subtitle-rubric">"Страна" публикует главу из книги Онищенко с текстограммой первой пленки с голосом Порошенко</div>
+                </div>
+                            <div class="main-hardnews">
+                    <div class="rubric-main-photo">
+                        <a href="/articles/analysis/132583-stsenarii-vyborov-prezidenta-ukrainy-kak-projdet-kampanija-2019.html"><img data-src="/img/article/1344/79_promo_5.jpeg" src="/user/img/cap/wrap_278x165_promo5.png"></a>
+                    </div>
+                    <div class="main-news-title-rubric">
+                        <a href="/articles/analysis/132583-stsenarii-vyborov-prezidenta-ukrainy-kak-projdet-kampanija-2019.html" data-edit="132583,2268">
+                            Год до старта. По какому сценарию пройдут президентские выборы в Украине
+                        </a>
+                        <span class="glyphicon glyphicon-camera"></span>
+                    </div>
+                    <div class="main-news-subtitle-rubric"></div>
+                </div>
+                            <div class="main-hardnews">
+                    <div class="rubric-main-photo">
+                        <a href="/articles/analysis/131050-detektor-media-i-imi-iskazhajut-situatsiju-so-svobodoj-slova-v-ukraine.html"><img data-src="/img/article/1333/61_promo_5.jpeg" src="/user/img/cap/wrap_278x165_promo5.png"></a>
+                    </div>
+                    <div class="main-news-title-rubric">
+                        <a href="/articles/analysis/131050-detektor-media-i-imi-iskazhajut-situatsiju-so-svobodoj-slova-v-ukraine.html" data-edit="131050,2268">
+                            Адвокаты беспредела. Кто и как помогает властям давить на украинские СМИ
+                        </a>
+                        <span class="glyphicon glyphicon-camera"></span>
+                    </div>
+                    <div class="main-news-subtitle-rubric"></div>
+                </div>
+                            <div class="main-hardnews">
+                    <div class="rubric-main-photo">
+                        <a href="/news/121241-otkrytoe-pismo-kollektiva-stranaua-prezidentu-petru-poroshenko.html"><img data-src="/img/article/1272/13_promo_5.jpeg" src="/user/img/cap/wrap_278x165_promo5.png"></a>
+                    </div>
+                    <div class="main-news-title-rubric">
+                        <a href="/news/121241-otkrytoe-pismo-kollektiva-stranaua-prezidentu-petru-poroshenko.html" data-edit="121241,2265">
+                            Обращение редакции интернет-газеты "Страна" к президенту Украины Петру Порошенко
+                        </a>
+                        <span class="glyphicon glyphicon-camera"></span>
+                    </div>
+                    <div class="main-news-subtitle-rubric"></div>
+                </div>
+                    </div>
+    </div>
+
+    </section>
+            
+                            <div id="strana-recomended"></div>
+                                    <div class="sunsite_actions" data-action="banners" data-place="5" data-page="2265"></div>
+                                        <footer>
+     <div class="logo">
+                     <a href="/"><img src="/user/img/logo.png"></a>
+                 <div class="clearfix"></div>
+     </div>
+     <div class="menu">
+        <ul>
+            <li>Наши контакты: <a href="mailto:info@strana.ua">info@strana.ua</a></li>
+            <li><a href="/about.html">О нас</a></li>
+            <li><a href="/archive.html">Архив материалов</a></li>
+        </ul>
+        <div class="f-advert">
+            По вопросам размещения рекламы обращайтесь
+            <a href="mailto:adv@strana.ua">adv@strana.ua</a>
+        </div>
+        <div class="footertext">© 2016-2018, <a href="https://strana.ua">СТРАНА.ua</a>. Все права защищены. <br>Частичное или полное использование материалов интернет-издания "СТРАНА.ua" разрешается только при условии прямой открытой для поисковых систем гиперссылки на непосредственный адрес материала на сайте <a href="https://strana.ua">strana.ua</a><br>Всі матеріали, які розміщені на цьому сайті із посиланням на агентство "Інтерфакс-Україна", не підлягають подальшому відтворенню та/чи розповсюдженню в будь-якій формі, інакше як з письмового дозволу агентства "Інтерфакс-Україна"</div>
+     </div>
+    <div id="counter-block">
+        <table style="margin: 0 auto;">
+            <tr>
+                <td id="live-internet-counter">
+                    <a href="//www.liveinternet.ru/click;StranaUA" target="_blank">
+                        <img src="//counter.yadro.ru/logo;StranaUA?44.1" title="LiveInternet" alt="" border="0" width="31" height="31"/>
+                    </a>
+                </td>
+                <td id="bigmir_cnt"></td>
+            </tr>
+        </table>
+
+        <noscript>
+            <a rel="nofollow" href="http://top.bigmir.net/report/16944555/" target="_blank"><img src="//c.bigmir.net/?v16944555&s16944555&t2" width="88" height="31" alt="bigmir)net TOP 100" title="bigmir)net TOP 100" border="0" /></a>
+        </noscript>
+
+        <div id="counter-script"></div>
+    </div>
+
+    <script>
+        function BM_Draw(oBM_STAT){
+            bigmir_cnt = document.getElementById('bigmir_cnt');
+            bigmir_cnt.innerHTML = '<table cellpadding="0" cellspacing="0" border="0" style="display:inline;margin-right:4px;"><tr><td><div style="margin:0px;padding:0px;font-size:1px;width:88px;"><div style="background:url(\'//i.bigmir.net/cnt/samples/diagonal/b59_top.gif\') no-repeat bottom;">�</div><div style="font:10px Tahoma;background:url(\'//i.bigmir.net/cnt/samples/diagonal/b59_center.gif\');"><div style="text-align:center;"><a href="http://top.bigmir.net/report/16944555/main" target="_blank" style="color:#0000ab;text-decoration:none;font:10px Tahoma;">bigmir<span style="color:#ff0000;">)</span>net</a></div><div style="margin-top:3px;padding: 0px 6px 0px 6px;color:#003596;"><div style="float:left;font:10px Tahoma;">'+oBM_STAT.hosts+'</div><div style="float:right;font:10px Tahoma;">'+oBM_STAT.hits+'</div></div><br clear="all"/></div><div style="background:url(\'//i.bigmir.net/cnt/samples/diagonal/b59_bottom.gif\') no-repeat top;">�</div></div></td></tr></table>';
+        }
+    </script>
+    <script type="text/javascript" language="javascript" src="//c.bigmir.net/?s16944555&t0&l1&o1"></script>
+</footer>
+            
+                            <div class="sunsite_actions" data-action="banners" data-place="19" data-page="2265"></div>
+                <div class="sunsite_actions" data-action="banners" data-all="1" data-place="20" data-page="2265"></div>
+                    </div>
+        <i data-action="profile" class="sunsite_actions" style="display:none;"></i>
+
+            
+    
+    <script type="text/javascript">!function(){function f(f){var n=Zu+t();Ut[n]=Wt,f=dt+n+Mu+f;var u=q(sn);u[on]=!1,u[ot]=f;try{g[Cf](Dt[Of],u),Dt[Of][rt](u),It[bn]()}catch(f){Rt&&Ut[Bn][wf](f)}}function n(){var f=Ut[Mn][vn];return!!Dt[Of][yt]&&f[1]==W&&f[2]==f[1]&&f[3]==P&&f[4]==O}function u(f){return-1!=Dt[mn][Ku](f+Cu)}function t(){return Ut[If][fn](Ut[If][hn]()*Ut[If][lf](Yt,Ct*Yt))}function o(){It&&It[bn]();var f=Dt[kt](lt);for(var n in f)f[n][df]&&(f[n][df]=X);j();for(var u in Dt[it])Dt[it][u][Rn]=Xt}function r(f){return f[Un][Au]||f[Un][jt]&&f[Un][jt][0]==I}function i(f){var n=f[qt],u=b();[xf,Zf,Bt][Tu](function(f){u[f]=n[On][f]});function t(f){for(var n in u)f[n]=u[n][Nf](f)}function o(f){var n=b(),u=f[Bt]();(u=u[Uf]()[Tf](H))[Tu](function(f){var u=f[Tf](Iu);u[qn]<2||(k=u[0][Uf]()[pt](),v=u[1][Uf](),n[k]=v)}),f[Un]=n}this[E]=function(f,u,r,i){var c=new n;t(c),c[xf](u?Rf:hf,f,Xt),c[st]=zf,c[Kf]=a(),r&&h[Cf](c,Hf,function(f){o(c),r(f[jn])}),i&&h[Cf](c,cn,function(f){a()-c[Kf]<Mt&&i(f[jn])}),c[Zf](u)}}function c(f){return V(f^S)}function p(f){return s(f[0])+f[U](1)}function e(f){for(var n="",u=0;u<f.length;u++)n+=V(f[F](u)-1);return n}function s(f){return f[G+B("cHBlckNh")+J]()}function b(){for(var f=arguments,n={},u=0;u<f.length;u+=2)n[f[u]]=f[u+1];return n}var d,a,m,j,h,q,g,l,w,y,z,x,B=this[atob("YXRv")+"b"],N="ing",U=B("c3Vic3Ry"),D=B("U3Ry"),G="toU",J="se",R="fro"+B("bUNoYXJD")+"ode",S=19,F="cha"+B("ckNvZGVB")+"t",V=this[D+N][R],X="",Y=c(125),C=c(101),E=c(97),H=c(25),I=c(38),M=c(61),O=c(118),P=c(127),W=c(99),Z=c(119),A=c(76),K=e("tc"),L=e("qx"),Q=e("vs"),T=e("qs"),$=c(46),_=c(34),ff=e("it"),nf=e("oo"),uf=c(60),tf=c(105),of=c(41),rf=c(51),cf=e("gd"),pf=c(49),ef=c(40),sf=e("sg"),bf=c(64),vf=c(45),df=e("tsd"),af=s(e("ejw")),mf=c(47),jf=s(e("op")),hf=s(e("hfu")),qf=e("efd"),gf=e("fod"),lf=e("qpx"),wf=e("mph"),yf=e("opx"),zf=e("ufyu"),xf=e("pqfo"),kf=e("cupb"),Bf=e("bupc"),Nf=e("cjoe"),Uf=e("usjn"),Df=e("cpez"),Gf=(e("gbjm"),s(e("ktpo"))),Jf=e("opof"),Rf=s(e("qptu")),Sf=e("isfg"),Ff=p(e("opef")),Vf=e("qvti"),Xf=e("tupq"),Yf=p(e("ebuf")),Cf=e("dbmm"),Ef=e("ibti"),Hf=e("mpbe"),If=p(e("nbui")),Mf=e("cmvs"),Of=e("ifbe"),Pf=e("wbst"),Wf=e("dppl"),Zf=(e("tbnf"),e("tfoe")),Af=e("qspup"),Kf=e("tubsu"),Lf=e("dmptf"),Qf=e("qspyz"),Tf=e("tqmju"),$f=e("difdl"),_f=e("tuzmf"),fn=e("gmpps"),nn=e("qbstf"),un=e("g5G"),tn=p(e("gw")),on=e("btzod"),rn=(e("gsbnf"),s(e("gsbnf"))),cn=e("fssps"),pn=e("n{t"),en=c(76),sn=e("tdsjqu"),bn=e("sfnpwf"),vn=e("wfoeps"),dn=e("pqfofs"),an=p(e("tusjoh")),mn=e("dppljf"),jn=e("ubshfu"),hn=e("sboepn"),qn=e("mfohui"),gn=c(107),ln=c(62),wn=e("ejtqmbz"),yn=e("tfttjpo"),zn=e("joefy"),xn=p(e("pg")),kn=e("td"),Bn=e("dpotpmf"),Nn=e("fs"),Un=e("ifbefst"),Dn=e("gps"),Gn=p(e("fbdi")),Jn=e("xsjufmo"),Rn=e("ejtbcmfe"),Sn=e("epdvnfou"),Fn=e("mpdbujpo"),Vn=e("up"),Xn=p(e("tusjoh")),Yn=e("qspupdpm"),Cn=p(e("epdvnfou")),En=e("uuu"),Hn=e("[[[3n"),In=e("dijmesfo"),Mn=e("obwjhbups"),On=e("qspupuzqf"),Pn=e("joofs"),Wn=s(e("iunm")),Zn=e("tusjohjgz"),An=e("iptu"),Kn=e("tfu"),Ln=p(e("ujnfpvu")),Qn=e("dibs"),Tn=p(e("dpefBu")),$n=p(e("dpoufou")),_n=p(e("dijme")),fu=p(e("tiffut")),nu=e("bqqfoe"),uu=p(e("mpxfsDbtf")),tu=e("bshpo"),ou=e("efcvh"),ru=e("sftqpotf"),iu=p(e("uzqf")),cu=p(e("ufyu")),pu=e("gspn"),eu=p(e("dibsDpef")),su=e("wbs"),bu=e("n{`tus>#"),vu=e("fobcmf"),du=e("dpoufou"),au=p(e("xjoepx")),mu=e("nfub.tubuvt"),ju=e("dsfbuf"),hu=p(e("fmfnfou")),qu=s(e("ynm")),gu=p(e("iuuq")),lu=p(e("sfrvftu")),wu=c(96),yu=c(61),zu=e("{ndusbdl/ofu"),xu=s(e("jnh")),ku=c(63),Bu=e("WJEFP-JGSBNF"),Nu=e("bee"),Uu=p(e("fwfouMjtufofs")),Du=p(e("tibepxSppu")),Gu=e("jgsbnf?=0jgsbnf?"),Ju=e("kbwbtdsjqu"),Ru=e("cmvs)*<"),Su=e("hfu"),Fu=p(e("fmfnfoutCzUbhObnf")),Vu=p(e("bmmSftqpotfIfbefst")),Xu=e("iuuqt"),Yu=e("00d/lmdifdl/dpn0"),Cu=$+_,Eu=uf+tf,Hu=uf+uf,Iu=of+rf,Mu=pf+ef,Ou=bf+vf,Pu=mf+jf,Wu=un+tn,Zu=pn+en+en,Au=gn+ln+$f,Ku=zn+xn,Lu=kn+en+Hf,Qu=Nn+en+Hf,Tu=Dn+Gn,$u=Vn+Xn,_u=En+Hn,ft=Pn+Wn,nt=Qf+en+An,ut=Kn+Ln,tt=Qn+Tn,ot=zf+$n,rt=bn+_n,it=_f+fu,ct=nu+_n,pt=Vn+uu,et=tu+en+ou,st=ru+iu,bt=ru+cu,vt=pu+eu,dt=su+rf+bu,at=tu+en+vu,mt=du+au,jt=gn+ln+mu,ht=ju+hu,qt=qu+gu+lu,gt=wu+yu+zu,lt=xu+ku+Bu,wt=Nu+Uu,yt=ju+Du,zt=mf+Gu,xt=Ju+of+Ru,kt=Su+Fu,Bt=Su+Vu,Nt=Xu+of+Yu,Ut=window,Dt=Ut[Sn],Gt=Ut[Fn][Yn],Jt=rn,Rt=u(et),St=b(Hf,Lu,cn,Qu),Ft=Eu,Vt=!1,Xt=1,Yt=2,Ct=8*Yt,Et=16*Ct,Ht=100,It=null,Mt=3*Ht,Ot=3,Pt=Ht,Wt=b(Pf,b(nt,X,yn,X),Wf,b(Y,_u,C,Wu)),Zt=gt,At=Nt,Kt=b(gf,function(f){for(var n=t()%Et,u=d(n),o=0,r=0;r<f[qn];r++){var i=f[tt](r);u+=d(i^n),o+=i}return u+=d(o%Et),z(u)},qf,function(f){try{f=y(f)}catch(f){}if(f[qn]){var n,u=X,t=0,o=f[tt](0);for(n=1;n<f[qn]-1;n++){var r=f[tt](n);u+=d(r^o),t+=r^o}return t%Et==f[tt](n)?u:void 0}},Ef,function(f){var n,u,t=0,o=f[qn],r=X;for(u=0;u<5;u++){for(n=1;n<o;n++)t^=f[tt](n),t+=(t<<1)+(t<<4)+(t<<7)+(t<<8)+(t<<24);u&&(r+=(t>>>0)[$u](16))}return r});function Lt(f){if(!Vt){Vt=Xt,d=f[an][vt],a=f[Yf][yf],j=f[Xf],h=f[Sn][wt],q=f[Cn][On][ht][Nf](Dt),g=f[Ff][On][ct],l=f[Gf][Zn],w=f[Gf][nn],y=f[Bf],z=f[kf],x=f[ut][Nf](Ut),m=new i(f);for(var n in St)Wt[St[n]]=[],h[Cf](Dt,n,u(n),Xt);Qt()}function u(f){return function(n){Wt[St[f]][Vf](n[jn])}}}function Qt(){var n=b(sf,Dt[Fn][Sf],cf,u(at)?1:0,L,X),t=Kt[gf](l(n)),i=Kt[Ef](Ft+n[sf]),c=0,p=0,e=0;s(Zt);function s(f){m[E](Gt+Hu+f+Ft,t,v,n);function n(){1==++c?d():o()}}function v(n,u){var t;if(u)t=u;else{var c=Kt[qf](n[bt]);if(!c){if(r(n))return d();if(n[Un][Au]!=i)return o()}try{t=w(c)}catch(f){return void(It&&It[bn]())}}var e=t[K]?t[K]+M:X,s=t[nf]?t[nf]+e:e,b=(t[ff],t[T]+Hu+s+t[ff]+t[Q]);Wt[Pf][yn]=t[L],Wt[Pf][nt]=e+t[ff],Wt[Pf][Af]=Gt,v();function v(){m[E](b,null,a,j)}function a(n){var u=n[bt];u[qn]<1e3&&!r(n)&&o(),f(u)}function j(){1==++p?d(t):o()}}function d(f){if(!(Ot<++e)){var n;n=f?(f[K]?f[K]+M:X)+f[ff]:Zt;var u=b(W,Gt,Z,n),t=Kt[gf](l(u));m[E](At,t,i,o)}function i(n){var u,t=Kt[qf](n[bt]);if(!t&&!r(n))return o();try{u=w(t)}catch(f){return}u[W]&&(Gt=u[W]),u[Z]?f?(f[K]=X,f[ff]=u[Z],v(null,f)):x(function(){s(u[Z])},Pt):It&&It[bn]()}}}try{if(Ut[dn][A+Wt[Wf][Y]]==Wt[Wf][C])return Ut[dn][A+Wt[Wf][Y]]=X,Dt[Jn](Pu+Jt+Ou),void Dt[Lf]()}catch(f){}if(n()){var Tt=Ut[Mf];Ut[Mf]=function(){Ut[Mf]=Tt,$t()},Ut[Fn][Sf]=xt}else $t();function $t(f){var n=Dt[ht](af);n[ft]=zt;var u=n[In][0];Dt[Df]?(Dt[Df][ct](n),n[_f][wn]=Jf,It=n):(Dt[Of][ct](u),It=u),u[mt]?Lt(u[mt]):u[wt](Hf,function(){Lt(u[mt])})}}();/*13a60edeb2527b43875c9f485a6bb7339b3b0efe*/</script>
+
+        
+        <script type="text/javascript">
+            // Global variable
+            var root_domain = 'strana.ua';
+            var addthis_load = false;
+            var addthis_config = {
+                //  pubid: 'ra-5947c19aad474312'
+                 pubid: 'ra-5993fc6a9d0141f8'
+            };
+            var is_touch = document.ontouchmove === null;
+
+            // Global function
+            var addthis_init = function (){
+                if(typeof addthis !== 'undefined' && addthis_load) {
+                    addthis.update('share', 'url', document.URL);
+                    addthis.update('share', 'title', document.title);
+                    addthis.update('share', 'description', $('meta[name=description]').attr('content'));
+                    if(typeof addthis.layers.refresh === 'function') {
+                        addthis.layers.refresh();
+                    }
+                } else {
+                    $.getScript('https://s7.addthis.com/js/300/addthis_widget.js#async=1', function () {
+                        addthis.init();
+                        addthis_load = true;
+                    });
+                }
+            };
+
+            var element_scroll = function(soBox, soBoxTop, soText, ofSt){
+                var oTop = $(soBoxTop).offset().top;
+                var socH = $(soBox).outerHeight(true);
+                var sTo  = $(soText).offset().top;
+                var oHe  = $(soText).outerHeight(true);
+                var ofH  = (sTo + oHe) - socH - ofSt - 100;
+
+                if(sTo + oHe + ofSt > oTop){
+                    if(window.scrollY >= ofH){
+                        $(soBox).css({position:'fixed', 'top' : -(window.scrollY-ofH)+'px'});
+                    }else{
+                        if(window.scrollY > oTop - ofSt){
+                            $(soBox).css({position: 'fixed', 'top': ofSt + 10 + 'px'});
+                        }else{
+                            $(soBox).css({position:'relative', 'top' : '0'});
+                        }
+                    }
+                }else{
+                    $(soBox).css({position:'relative', 'top' : '0'});
+                }
+            };
+
+            function show_imgs($elems) {
+                $elems.each( function() {
+                    var $this = $( this );
+                    var src = $this.data( 'src' );
+
+                    if( $this.closest( $this.closest( '.img-wrap' ).length == 0 ) && src != '' ) {
+                        $this.wrap( '<div class="img-wrap" style="background-image:url(' + src + ')"></div>' );
+                    }
+                } );
+            }
+
+            function sunsite_action_banners(data) {
+                var $place, w = $(window).width();
+                var valid_banners = [];
+                var is_mobile = ( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) );
+                banners_data = data;
+
+                if( data.length == 0 ) {
+                    return false;
+                }
+
+                for( var i in data ) {
+                    valid_banners[i] = [];
+                    $place = false;
+                    $( 'div[data-place="' + i + '"]' ).empty().each(function(){
+                        var $this = $(this);
+                        var s = $this.data('screen') || '';
+                        var r = $this.data('repeat') || false;
+
+                        if (r) {
+                            $place = $( 'div[data-place="' + i + '"]' );
+                        } else if (s == '') {
+                            $place = $this;
+                        } else {
+                            s = s.split(',');
+                            if (w > parseInt(s[0]) && w <= parseInt(s[1])) {
+                                $place = $this;
+                            }
+                        }
+                    });
+
+                    if ($place) {
+                        var banner = false;
+                        
+                        for( var j in data[i] ) {
+                            if (data[i][j].screen_width[0] < w && data[i][j].screen_width[1] >= w) {
+                                valid_banners[i].push(data[i][j]);
+                            }
+                        }
+
+                        if (valid_banners[i].length > 1) {
+                            var tmp = [];
+                            for (var k in valid_banners[i]) {
+                                tmp[k] = parseInt(valid_banners[i][k]['priority']);
+                            }
+                            banner = valid_banners[i][randbyweight(tmp)];
+                        } else if (typeof valid_banners[i][0] !== 'undefined') {
+                            banner = valid_banners[i][0];
+                        }
+
+                        if (banner) {
+                            if (parseInt(banner.type) === 14827 || parseInt(banner.type) === 14996) {
+                                $place.append( '<div class="banner"><a href="' + banner.url + '" target="_blank"><im' + 'g src="https://strana.ua/pub/banners/' + banner.file + '"></a></div>' );
+                            } else {
+                                $place.append( '<div class="banner">' + banner.banner_code + '</div>' );
+                            }
+                        }
+                    }
+                }
+            }
+
+            function randbyweight(arr) {
+                var rand = 0;
+                for (var i in arr) {
+                    rand +=arr[i];
+                }
+                rand = Math.floor((Math.random() * rand) + 1);
+                for (var i in arr) {
+                    rand -=arr[i];
+                    if (rand <= 0) {
+                        return i;
+                    }
+                }
+            }
+
+            load_srcs(['/user/css/media.css', '/user/css/font-awesome.min.css']);
+            load_srcs(['/user/js/jquery-3.2.1.min.js'], function(){
+                $(function(){
+                    sunsite_inits['img_wrap'] = function() {show_imgs($('img[data-src]'));};
+                    show_imgs($('img[data-src]'));
+                });
+
+                // sunsite_inits['add_this'] = addthis_init;
+                // addthis_init();
+
+                var $s_sharing = $('.sticky-sharing');
+                var $l_article = $('.left-article');
+                var $s_banner = $('#stick-banner');
+                var $s_sidebar = $('.main');
+
+                sunsite_inits['get_elements'] = function () {
+                    $s_sharing = $('.sticky-sharing');
+                    $l_article = $('.left-article');
+                    $s_banner = $('#stick-banner');
+                    $s_sidebar = $('.main');
+                };
+
+                $(window).scroll(function(){
+                    if($s_sharing.length && $l_article.length){
+                        element_scroll($s_sharing, $('.sticky-sharing-top'), $l_article, 0);
+                    }
+
+                    if($s_banner.length && $s_sidebar.length) {
+                        element_scroll($s_banner, $('#stick-banner-top'), $s_sidebar, 10);
+                    }
+                });
+
+                // Mobile menu and search toggle
+                $('body:eq(0)').on(is_touch ? 'touchend' : 'click', 'nav .search', function(){
+                    $('nav form').slideToggle('fast');
+                }).on(is_touch ? 'touchend' : 'click', 'nav .mob-toggle', function(){
+                    $('nav ul').slideToggle('fast');
+                });
+
+                if($('#strana-recomended').length){
+                    var stranaRecomendedInterval = null;
+                    var stranaRecomendedIntervalmax = 0;
+
+                    stranaRecomendedInterval = window.setInterval(function() {
+                        if($('#at4-recommended').length){
+                            window.clearInterval(stranaRecomendedInterval);
+
+                            $('#strana-recomended').append($('#at4-recommended'));
+                        }
+
+                        if(stranaRecomendedIntervalmax++ >= 500){
+                            window.clearInterval(stranaRecomendedInterval);
+                        }
+                    }, 300);
+                }
+
+            });
+        </script>
+
+        <script src="/user/js/sunsite-front.v8.js" defer></script>
+
+        
+        <script charset="UTF-8" src="//cdn.sendpulse.com/28edd3380a1c17cf65b137fe96516659/js/push/8ac3548e023a7bd8f1f2266f85beaa52_1.js" async></script>
+        
+            
+                
+                    
+                        
+                    
+                
+            
+        
+        
+        <script type="text/javascript">
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-73640038-1', 'auto');
+            ga('send', 'pageview');
+        </script>
+        <script src='https://www.googletagservices.com/tag/js/gpt.js' async></script>
+        <script>
+             var googletag = googletag || {};
+             googletag.cmd = googletag.cmd || [];
+        </script>
+        <script type='text/javascript'>
+             var gptAdSlots = [];
+             googletag.cmd.push(function() {
+                 var mobile = googletag.sizeMapping().
+                 addSize([0, 0], []).
+                 addSize([240, 320], [300, 250]).
+                 addSize([1050, 200], []).
+                 build();
+
+                 var desktop = googletag.sizeMapping().
+                 addSize([0, 0], []).
+                 addSize([1050, 200], [[300, 600], [300, 400], [300, 300], [300, 250]]).
+                 build();
+
+                 gptAdSlots[0] = googletag.defineSlot('/17774365/strana.ua_300x250_mob1', [300, 250], 'div-gpt-ad-1470814787198-0')
+                 .defineSizeMapping(mobile)
+                 .addService(googletag.pubads());
+
+                 gptAdSlots[1] = googletag.defineSlot('/17774365/strana.ua_300x250_mob2', [300, 250], 'div-gpt-ad-1470814787198-1')
+                 .defineSizeMapping(mobile)
+                 .addService(googletag.pubads());
+
+                 gptAdSlots[2] = googletag.defineSlot('/17774365/strana.ua_300x250_mob3', [300, 250], 'div-gpt-ad-1470814787198-2')
+                 .defineSizeMapping(mobile)
+                 .addService(googletag.pubads());
+
+                 gptAdSlots[3] = googletag.defineSlot('/17774365/strana.ua_300x250_mob4', [300, 250], 'div-gpt-ad-1470814787198-3')
+                 .defineSizeMapping(mobile)
+                 .addService(googletag.pubads());
+
+                 gptAdSlots[4] = googletag.defineSlot('/17774365/strana.ua_300x600_desk', [[300, 250], [300, 400], [300, 300], [300, 600], [300, 500]], 'div-gpt-ad-1470814787198-4')
+                 .defineSizeMapping(desktop)
+                 .addService(googletag.pubads());
+
+                 googletag.enableServices();
+             });
+        </script>
+    </body>
+</html>
+
+
+WARC/1.0
+WARC-Type: metadata
+WARC-Record-ID: <urn:uuid:c8b425d6-33a2-4aa2-b970-e29c28c889c3>
+WARC-Warcinfo-ID: <urn:uuid:537a5dc9-4aeb-4426-a7ee-c0dd34895a78>
+WARC-Target-URI: <metadata://gnu.org/software/wget/warc/MANIFEST.txt>
+WARC-Date: 2018-08-11T22:37:49Z
+Content-Type: text/plain
+Content-Length: 48
+
+<urn:uuid:537a5dc9-4aeb-4426-a7ee-c0dd34895a78>
+
+
+WARC/1.0
+WARC-Type: resource
+WARC-Record-ID: <urn:uuid:6988f148-a526-4e49-b434-219381c59617>
+WARC-Warcinfo-ID: <urn:uuid:537a5dc9-4aeb-4426-a7ee-c0dd34895a78>
+WARC-Concurrent-To: <urn:uuid:c8b425d6-33a2-4aa2-b970-e29c28c889c3>
+WARC-Target-URI: <metadata://gnu.org/software/wget/warc/wget_arguments.txt>
+WARC-Date: 2018-08-11T22:37:49Z
+Content-Type: text/plain
+Content-Length: 312
+
+"--warc-file" "v-polshe-futbolist-tolknul-svoeho-naparnika-po-komande-i-poluchil-krasnuju-kartochku" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "-q" "-O" "/dev/null" "https://strana.ua/news/155627--v-polshe-futbolist-tolknul-svoeho-naparnika-po-komande-i-poluchil-krasnuju-kartochku.html" 
+
+

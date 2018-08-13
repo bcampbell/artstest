@@ -1,0 +1,2301 @@
+WARC/1.0
+WARC-Type: warcinfo
+Content-Type: application/warc-fields
+WARC-Date: 2018-08-11T22:32:27Z
+WARC-Record-ID: <urn:uuid:2b23f2fd-f519-4b99-8690-c309f86f68e8>
+WARC-Filename: 2254486-antikorruptsionnyj-sud-v-es-prinjali-zajavlenie.warc
+Content-Length: 425
+
+software: Wget/1.19.5 (linux-gnu)
+format: WARC File Format 1.0
+conformsTo: http://bibnum.bnf.fr/WARC/WARC_ISO_28500_version1_latestdraft.pdf
+robots: classic
+wget-arguments: "--warc-file" "2254486-antikorruptsionnyj-sud-v-es-prinjali-zajavlenie" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "-q" "-O" "/dev/null" "http://podrobnosti.ua/2254486-antikorruptsionnyj-sud-v-es-prinjali-zajavlenie.html" 
+
+
+
+WARC/1.0
+WARC-Type: request
+WARC-Target-URI: <http://podrobnosti.ua/2254486-antikorruptsionnyj-sud-v-es-prinjali-zajavlenie.html>
+Content-Type: application/http;msgtype=request
+WARC-Date: 2018-08-11T22:32:27Z
+WARC-Record-ID: <urn:uuid:50554ef6-af59-43d4-96dd-32adfd973c25>
+WARC-IP-Address: 104.27.171.176
+WARC-Warcinfo-ID: <urn:uuid:2b23f2fd-f519-4b99-8690-c309f86f68e8>
+Content-Length: 201
+
+GET /2254486-antikorruptsionnyj-sud-v-es-prinjali-zajavlenie.html HTTP/1.1
+User-Agent: Wget/1.19.5 (linux-gnu)
+Accept: */*
+Accept-Encoding: identity
+Host: podrobnosti.ua
+Connection: Keep-Alive
+
+
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <urn:uuid:43fac1e9-5fca-4d73-8e81-4faa28af327c>
+WARC-Warcinfo-ID: <urn:uuid:2b23f2fd-f519-4b99-8690-c309f86f68e8>
+WARC-Concurrent-To: <urn:uuid:50554ef6-af59-43d4-96dd-32adfd973c25>
+WARC-Target-URI: <http://podrobnosti.ua/2254486-antikorruptsionnyj-sud-v-es-prinjali-zajavlenie.html>
+WARC-Date: 2018-08-11T22:32:27Z
+WARC-IP-Address: 104.27.171.176
+WARC-Block-Digest: �ר�2V
+WARC-Payload-Digest: 
+Content-Type: application/http;msgtype=response
+Content-Length: 94332
+
+HTTP/1.1 200 OK
+Date: Sat, 11 Aug 2018 22:32:28 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: __cfduid=da4ea42614def9531dc3639319935b13e1534026748; expires=Sun, 11-Aug-19 22:32:28 GMT; path=/; domain=.podrobnosti.ua; HttpOnly
+Expires: Sat, 11 Aug 2018 22:33:07 GMT
+Vary: Accept-Encoding, Cookie
+Last-Modified: Sat, 11 Aug 2018 22:31:37 GMT
+Cache-Control: max-age=90
+Vary: Accept-Encoding
+Server: cloudflare
+CF-RAY: 448e2886f072a435-AKL
+
+7b76
+<!DOCTYPE html>
+<html itemscope itemtype="http://schema.org/Article">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=0">
+<meta name="google-site-verification" content="args0fyr1XvUuGsWvlqvaZeIaP5I6oP8eSvWTu6zMyE" />
+<meta property="fb:pages" content="408668362511658" />
+<link rel="canonical" href="http://podrobnosti.ua/2254486-antikorruptsionnyj-sud-v-es-prinjali-zajavlenie.html" />
+<meta name="description" content="Европейская служба внешних действий (ЕСВД) ждет начала работы антикоррупционного суда до конца текущего года">
+<meta name="author" content="Наталия Клюева">
+<meta property="og:title" content="Антикоррупционный суд: в ЕС приняли заявление " />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://podrobnosti.ua/2254486-antikorruptsionnyj-sud-v-es-prinjali-zajavlenie.html" />
+<meta property="og:description" content="Европейская служба внешних действий (ЕСВД) ждет начала работы антикоррупционного суда до конца текущего года" />
+<meta property="og:site_name" content="podrobnosti" />
+<meta property="article:published_time" content="2018-08-11 15:58:06+02:02" />
+<meta property="article:section" content="ВЛАСТЬ" />
+<meta property="article:tag" content="ЕС" />
+<meta property="article:tag" content="Общество" />
+<meta property="article:tag" content="Люди" />
+<meta property="article:tag" content="Власть" />
+<meta property="article:tag" content="Антикоррупционный суд" />
+<meta property="twitter:url" content="http://podrobnosti.ua/2254486-antikorruptsionnyj-sud-v-es-prinjali-zajavlenie.html" />
+<meta itemprop="name" content="Антикоррупционный суд: в ЕС приняли заявление ">
+<meta itemprop="description" content="Европейская служба внешних действий (ЕСВД) ждет начала работы антикоррупционного суда до конца текущего года">
+<meta name="twitter:card" content="summary_large_image">
+<meta property="og:image" content="http://podrobnosti.ua/media/pictures/2018/8/11/thumbs/472x246/foto-pixabay_rect_76a78337c0b26a0c686a654164a03f3d.jpg" />
+<meta property="og:image:width" content="472" />
+<meta property="og:image:height" content="246" />
+
+<meta name="twitter:image:src" content="http://podrobnosti.ua/media/pictures/2018/8/11/thumbs/435x375/foto-pixabay_rect_76a78337c0b26a0c686a654164a03f3d.jpg">
+<meta name="twitter:image:width" content="435">
+<meta name="twitter:image:height" content="375">
+<meta name="twitter:site" content="@podrobnosti">
+<meta name="twitter:title" content="Антикоррупционный суд: в ЕС приняли заявление ">
+<meta name="twitter:description" content="Европейская служба внешних действий (ЕСВД) ждет начала работы антикоррупционного суда до конца текущего года">
+<meta name="twitter:creator" content="@podrobnosti">
+<meta itemprop="image" content="http://podrobnosti.ua/media/pictures/2018/8/11/thumbs/472x246/foto-pixabay_rect_76a78337c0b26a0c686a654164a03f3d.jpg">
+<title>
+            Антикоррупционный суд: в ЕС приняли заявление  | podrobnosti.ua
+        </title>
+<link rel="stylesheet" href="/static/cache/css/73caea714e9d.css" type="text/css" />
+<link rel="stylesheet" href="/static/cache/css/88540e5cead7.css" type="text/css" />
+<!--[if gte IE 9]>
+        <style type="text/css">
+            .gradient {
+                filter: none;
+            }
+        </style>
+        <![endif]-->
+<style>
+    
+    .vjs-remaining-time-display {
+        line-height: 28px!important;
+    }
+    .vjs-va5t-container {
+		top: 0!important;
+		height: 100%!important;
+	}
+    
+    </style>
+<link rel="shortcut icon" href="/static/images/favicon3.ico">
+<script>
+        if (document.location.hostname==='podrobnosti.ua'){
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-58488203-1', 'auto');
+            ga('send', 'pageview');
+
+            var test = document.createElement('div');
+            test.innerHTML = '&nbsp;';
+            test.className = 'adsbox';
+            document.body.appendChild(test);
+            window.setTimeout(function() {
+                if (test.offsetHeight === 0) {
+                    document.body.classList.add('adblock');
+                    ga('send', 'event', 'Ad Setting', 'Adblock', 'Enabled');
+                    console.log('adblock is enabled')
+                }
+                else {
+                    console.log('adblock is disabled')
+                }
+                test.remove();
+            }, 400);
+        }
+    </script>
+
+<script async src="https://cdn.onthe.io/io.js/w16aJoDDAIvr"></script>
+<script>
+        window._io_config = window._io_config || {};
+        window._io_config["0.2.0"] = window._io_config["0.2.0"] || [];
+        window._io_config["0.2.0"].push({
+            page_url: window.location.href,
+            page_url_canonical: "http://podrobnosti.ua/2254486-antikorruptsionnyj-sud-v-es-prinjali-zajavlenie.html",
+            page_title: "Антикоррупционный суд: в ЕС приняли заявление ",
+            page_type: "article",
+            page_language: "ru",
+
+            
+                article_authors: ["Наталия Клюева"],
+                article_categories: ["ВЛАСТЬ"],
+                article_subcategories: ["ЕС", "Общество", "Люди", "Власть", "Антикоррупционный суд", ],
+                article_type: "default",
+                article_word_count: "1901",
+                article_publication_date: "Sat, 11 Aug 2018 15:58:06 +0202",
+            
+        });
+    </script>
+
+
+<script src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script type="text/javascript">
+        var device_width = (window.innerWidth > 0) ? window.innerWidth : screen.width;
+        if (device_width > 766) {
+            googletag.cmd.push(function() {
+                    var s = googletag.defineSlot('/58302844/SLDS_Podrobnosti_Background', [[766, 900], [960, 1000], [2004, 1300], [1340, 1100]], 'div-gpt-ad-1517409597453-0').addService(googletag.pubads());
+                    var m = googletag.sizeMapping()
+                            .addSize([500, 0], [766, 900])
+                            .addSize([767, 0], [1, 1])
+                            .addSize([900, 0], [960, 1000])
+                            .addSize([961, 0], [1, 1])
+                            .addSize([1120, 0], [1340, 1100])
+                            .addSize([1341, 0], [1, 1])
+                            .addSize([1500, 0], [2004, 1300])
+                            .build();
+                    s.defineSizeMapping(m);
+                    googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+                        if (event.slot.getSlotElementId() == "div-gpt-ad-1517409597453-0") {
+                            if (!event.isEmpty) {
+                                var el = document.body;
+                                if (el.classList) { el.classList.add('branded'); }
+                                else { el.className += ' branded'; }
+                            };
+                        };
+                        if (event.slot.getSlotElementId() == "div-gpt-ad-1529058061206-5") {
+                            if(event.isEmpty == true){
+                                document.getElementById('catfish-wrapper').style.display="none";
+                            } else {
+                                document.getElementById('catfish-close-btn').style.display="block";
+                                document.getElementById('catfish-close-btn').style.visibility="visible";
+                                document.getElementById('catfish-wrapper').style.display="block";
+                                document.getElementById('catfish-wrapper').style.visibility = "visible";
+                                document.getElementById('div-gpt-ad-1529058061206-5').style.display = "block";
+                                document.getElementById('catfish-close-btn').style.left = close_position_left + "px";
+                                document.getElementById('catfish-close-btn').style.top = close_position_top + "px";
+                            }
+                        };
+
+
+                    });
+                    googletag.defineSlot('/58302844/SLDS_Podrobnosti_ContentBanner', [580, 400], 'div-gpt-ad-1517242584583-1').addService(googletag.pubads()).setTargeting("power", "power").setTargeting("urlgi", "5abc0c390d74744b5a81");
+                    googletag.defineSlot('/58302844/SLDS_Podrobnosti_Footer', [[970, 90], [728, 90]], 'div-gpt-ad-1517242584583-2').addService(googletag.pubads()).setTargeting("power", "power").setTargeting("urlgi", "5abc0c390d74744b5a81");
+                    googletag.defineSlot('/58302844/SLDS_Podrobnosti_Gorizont', [[970, 250], [970, 90], [728, 90]], 'div-gpt-ad-1517242584583-3').addService(googletag.pubads()).setTargeting("power", "power").setTargeting("urlgi", "5abc0c390d74744b5a81");
+                    googletag.defineSlot('/58302844/SLDS_Podrobnosti_Premium1', [[240, 600], [240, 400], [240, 350], [300, 600], [300, 250]], 'div-gpt-ad-1517242584583-4').addService(googletag.pubads()).setTargeting("power", "power").setTargeting("urlgi", "5abc0c390d74744b5a81");
+                    googletag.defineSlot('/58302844/SLDS_Podrobnosti_Premium2', [[240, 600], [240, 400], [240, 350], [300, 600], [300, 250]], 'div-gpt-ad-1517242584583-5').addService(googletag.pubads()).setTargeting("power", "power").setTargeting("urlgi", "5abc0c390d74744b5a81");
+                    googletag.defineSlot('/58302844/SLDS_Podrobnosti_Premium3', [[240, 600], [240, 400], [240, 350], [300, 600], [300, 250]], 'div-gpt-ad-1517242584583-6').addService(googletag.pubads()).setTargeting("power", "power").setTargeting("urlgi", "5abc0c390d74744b5a81");
+                    googletag.defineSlot('/58302844/SLDS_Podrobnosti_TOP', [[970, 150], [970, 250], [970, 90], [728, 90]], 'div-gpt-ad-1517242584583-7').addService(googletag.pubads()).setTargeting("power", "power").setTargeting("urlgi", "5abc0c390d74744b5a81");
+                    googletag.defineSlot('/58302844/SLDS_InterGroup_Podrobnosti_Catfish', [1440, 180], 'div-gpt-ad-1529058061206-5').addService(googletag.pubads()).setTargeting("power", "power").setTargeting("urlgi", "5abc0c390d74744b5a81");
+                    googletag.pubads().collapseEmptyDivs();
+                    googletag.pubads().enableSyncRendering();
+                    googletag.enableServices();
+            });
+        }
+    </script>
+
+<script type="text/javascript" src="/static/cache/js/5265c96f86f3.js"></script>
+<script type="text/javascript" src="/static/cache/js/d882a7a32c9c.js"></script>
+<script type="text/javascript" src="/static/cache/js/967f4aeb88a5.js"></script>
+<script type="text/javascript" src="/static/cache/js/47c044854a7c.js"></script>
+<script type="text/javascript" src="/static/cache/js/c234ae794c09.js"></script>
+<!--[if lte IE 8]><script type="text/javascript" src="/static/js/ie.js"></script><![endif]-->
+<script type="text/javascript" src="/static/cache/js/a4242ae05a5f.js"></script>
+<script type="text/javascript">
+            player_type = 'adv_player';
+        </script>
+<script type="text/javascript">
+        $(function(){
+            if (isVisited(2254486) === false){
+                $.ajax({
+                    url: '/update-visited/2254486/',
+                    method: 'post'
+                });
+            }
+
+        });
+    </script>
+<script type="text/javascript">
+        N = 3;
+        adv_rand_bn = Math.floor(Math.random()*N+1);
+    </script>
+<script type="text/javascript" src="/static/js/adriver.core.2.ua.min.js"></script>
+<style>
+        #bodyOverflow {
+            pointer-events: none;
+        }
+        #wrapper {
+            pointer-events: all;
+        }
+        .background-banner {
+            position: fixed;
+            left: 50%;
+            width: auto;
+            -webkit-transform: translateX(-50%);
+               -moz-transform: translateX(-50%);
+                -ms-transform: translateX(-50%);
+                 -o-transform: translateX(-50%);
+                    transform: translateX(-50%);
+        }
+    </style>
+</head>
+<body>
+<div class="background-banner hide-for-mobile">
+<div id="div-gpt-ad-1517409597453-0"></div>
+<script type='text/javascript'>
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1517409597453-0'); });
+        </script>
+</div>
+<div id="bodyOverflow">
+<div class="w1">
+<div id="wrapper">
+<div>
+<div style="display: table; margin: auto;">
+<div class="ads hide-for-mobile">
+<div id='div-gpt-ad-1517242584583-7'></div>
+<script type='text/javascript'>
+                googletag.cmd.push(function() { googletag.display('div-gpt-ad-1517242584583-7');  });
+			</script>
+</div>
+</div>
+</div>
+<header id="header">
+<strong class="logo"><a href="/">Новости. Новости дня на сайте Подробности.</a>
+</strong>
+<a href="#" class="live-link" data-url=/static/images/loader.gif>live<em class="ico"></em></a>
+<nav class="top-menu hide-for-mobile">
+<ul>
+<li>&nbsp;</li>
+<li>&nbsp;</li>
+<li>
+<a href="/special-news/my-pomogaem/">Мы помогаем</a>
+</li>
+</ul>
+</nav>
+<div class="info-block weather-block wheater">
+<span class="ico">
+<img src="/static/images/weather-ico.png" alt="Погода">
+</span>
+<strong class="temperature">+18°</strong>
+<span class="city">Киев</span>
+<div class="drop-holder">
+<a href="#" class="drop-ico"><em class="ico"></em></a>
+<ul><li class="active">
+<a href="#">Винница</a>
+<div class="hidden">
+<span class="ico">
+<img src="/static/images/weather-ico.png" alt="Погода">
+</span>
+<strong class="temperature">+17°</strong>
+<span class="city">Винница</span>
+</div>
+</li><li>
+<a href="#">Луцк</a>
+<div class="hidden">
+<span class="ico">
+<img src="/static/images/weather-ico.png" alt="Погода">
+</span>
+<strong class="temperature">+19°</strong>
+<span class="city">Луцк</span>
+</div>
+</li><li>
+<a href="#">Днепр</a>
+<div class="hidden">
+<span class="ico">
+<img src="/static/images/weather-ico.png" alt="Погода">
+</span>
+<strong class="temperature">+17°</strong>
+<span class="city">Днепр</span>
+</div>
+</li><li>
+<a href="#">Донецк</a>
+<div class="hidden">
+<span class="ico">
+<img src="/static/images/weather-ico.png" alt="Погода">
+</span>
+<strong class="temperature">+17°</strong>
+<span class="city">Донецк</span>
+</div>
+</li><li>
+<a href="#">Житомир</a>
+<div class="hidden">
+<span class="ico">
+<img src="/static/images/weather-ico.png" alt="Погода">
+</span>
+<strong class="temperature">+18°</strong>
+<span class="city">Житомир</span>
+</div>
+</li><li>
+<a href="#">Ужгород</a>
+<div class="hidden">
+<span class="ico">
+<img src="/static/images/weather-ico.png" alt="Погода">
+</span>
+<strong class="temperature">+22°</strong>
+<span class="city">Ужгород</span>
+</div>
+</li><li>
+<a href="#">Запорожье</a>
+<div class="hidden">
+<span class="ico">
+<img src="/static/images/weather-ico.png" alt="Погода">
+</span>
+<strong class="temperature">+18°</strong>
+<span class="city">Запорожье</span>
+</div>
+</li><li>
+<a href="#">Ивано-Франковск</a>
+<div class="hidden">
+<span class="ico">
+<img src="/static/images/weather-ico.png" alt="Погода">
+</span>
+<strong class="temperature">+20°</strong>
+<span class="city">Ивано-Франковск</span>
+</div>
+</li><li>
+<a href="#">Киев</a>
+<div class="hidden">
+<span class="ico">
+<img src="/static/images/weather-ico.png" alt="Погода">
+</span>
+<strong class="temperature">+18°</strong>
+<span class="city">Киев</span>
+</div>
+</li><li>
+<a href="#">Кропивницкий</a>
+<div class="hidden">
+<span class="ico">
+<img src="/static/images/weather-ico.png" alt="Погода">
+</span>
+<strong class="temperature">+16°</strong>
+<span class="city">Кропивницкий</span>
+</div>
+</li><li>
+<a href="#">Луганск</a>
+<div class="hidden">
+<span class="ico">
+<img src="/static/images/weather-ico.png" alt="Погода">
+</span>
+<strong class="temperature">+17°</strong>
+<span class="city">Луганск</span>
+</div>
+</li><li>
+<a href="#">Львов</a>
+<div class="hidden">
+<span class="ico">
+<img src="/static/images/weather-ico.png" alt="Погода">
+</span>
+<strong class="temperature">+18°</strong>
+<span class="city">Львов</span>
+</div>
+</li><li>
+<a href="#">Николаев</a>
+<div class="hidden">
+<span class="ico">
+<img src="/static/images/weather-ico.png" alt="Погода">
+</span>
+<strong class="temperature">+21°</strong>
+<span class="city">Николаев</span>
+</div>
+</li><li>
+<a href="#">Одесса</a>
+<div class="hidden">
+<span class="ico">
+<img src="/static/images/weather-ico.png" alt="Погода">
+</span>
+<strong class="temperature">+21°</strong>
+<span class="city">Одесса</span>
+</div>
+</li><li>
+<a href="#">Полтава</a>
+<div class="hidden">
+<span class="ico">
+<img src="/static/images/weather-ico.png" alt="Погода">
+</span>
+<strong class="temperature">+18°</strong>
+<span class="city">Полтава</span>
+</div>
+</li><li>
+<a href="#">Ривне</a>
+<div class="hidden">
+<span class="ico">
+<img src="/static/images/weather-ico.png" alt="Погода">
+</span>
+<strong class="temperature">+20°</strong>
+<span class="city">Ривне</span>
+</div>
+</li><li>
+<a href="#">Сумы</a>
+<div class="hidden">
+<span class="ico">
+<img src="/static/images/weather-ico.png" alt="Погода">
+</span>
+<strong class="temperature">+17°</strong>
+<span class="city">Сумы</span>
+</div>
+</li><li>
+<a href="#">Тернополь</a>
+<div class="hidden">
+<span class="ico">
+<img src="/static/images/weather-ico.png" alt="Погода">
+</span>
+<strong class="temperature">+20°</strong>
+<span class="city">Тернополь</span>
+</div>
+</li><li>
+<a href="#">Харьков</a>
+<div class="hidden">
+<span class="ico">
+<img src="/static/images/weather-ico.png" alt="Погода">
+</span>
+<strong class="temperature">+19°</strong>
+<span class="city">Харьков</span>
+</div>
+</li><li>
+<a href="#">Херсон</a>
+<div class="hidden">
+<span class="ico">
+<img src="/static/images/weather-ico.png" alt="Погода">
+</span>
+<strong class="temperature">+17°</strong>
+<span class="city">Херсон</span>
+</div>
+</li><li>
+<a href="#">Хмельницкий</a>
+<div class="hidden">
+<span class="ico">
+<img src="/static/images/weather-ico.png" alt="Погода">
+</span>
+<strong class="temperature">+19°</strong>
+<span class="city">Хмельницкий</span>
+</div>
+</li><li>
+<a href="#">Черкассы</a>
+<div class="hidden">
+<span class="ico">
+<img src="/static/images/weather-ico.png" alt="Погода">
+</span>
+<strong class="temperature">+19°</strong>
+<span class="city">Черкассы</span>
+</div>
+</li><li>
+<a href="#">Чернигов</a>
+<div class="hidden">
+<span class="ico">
+<img src="/static/images/weather-ico.png" alt="Погода">
+</span>
+<strong class="temperature">+18°</strong>
+<span class="city">Чернигов</span>
+</div>
+</li><li>
+<a href="#">Черновцы</a>
+<div class="hidden">
+<span class="ico">
+<img src="/static/images/weather-ico.png" alt="Погода">
+</span>
+<strong class="temperature">+18°</strong>
+<span class="city">Черновцы</span>
+</div>
+</li><li>
+<a href="#">Севастополь</a>
+<div class="hidden">
+<span class="ico">
+<img src="/static/images/weather-ico.png" alt="Погода">
+</span>
+<strong class="temperature">+20°</strong>
+<span class="city">Севастополь</span>
+</div>
+</li></ul>
+</div>
+</div>
+<div class="info-block current-block">
+<span class="currency">USD</span>
+<div class="drop-holder">
+<a href="#" class="drop-ico"><em class="ico"></em></a>
+<ul><li class="active">
+<a href="#">RUB</a>
+<div class="hidden">
+<span class="currency">RUB</span>
+<span class="numbers">0.4072
+<span>-4.46%</span>
+</span>
+</div>
+</li><li>
+<a href="#">EUR</a>
+<div class="hidden">
+<span class="currency">EUR</span>
+<span class="numbers">31.2126
+<span>+7223.46%</span>
+</span>
+</div>
+</li><li>
+<a href="#">USD</a>
+<div class="hidden">
+<span class="currency">USD</span>
+<span class="numbers">27.2456
+<span>+1.83%</span>
+</span>
+</div>
+</li></ul>
+</div>
+<span class="numbers">27.2456
+<span>+1.83%</span>
+</span>
+</div>
+<a href="http://lenta.podrobnosti.ua/" target="_blank" class="login-link">Login</a>
+<a href="/add-user-news/" class="report-link button">
+<span>Сообщить новость</span><span>Отправить видео</span>
+</a>
+<nav id="nav">
+<a href="/all/archive/2018/08/11/all/page1/" class="news-on-mobile">НОВОСТИ</a>
+<form action="/search/" class="search" method="get" accept-charset="utf-8">
+<fieldset>
+<a href="#" class="search-button">Найти</a>
+<div class="search-form">
+<input id="id_page" name="page" type="hidden" value="1" />
+<input id="id_type" name="type" type="hidden" value="all" />
+<input id="id_sort" name="sort" type="hidden" value="1" />
+<input id="id_period" name="period" type="hidden" value="30" />
+<input type="submit" value="Поиск">
+<input type="text" name="text" placeholder="Поиск по сайту">
+<a href="#" class="close">Close</a>
+</div>
+</fieldset>
+</form>
+<div class="archive_link">
+<a href="/all/archive/2018/08/11/release/page1/"></a>
+</div>
+<ul>
+<li class="nav-home-button">
+<a href="http://podrobnosti.ua">
+<img src="/static/images/home.svg" alt="http://podrobnosti.ua">
+</a>
+</li>
+<li><a href="/news-release-list/2018/8/11/20/0/">ВЫПУСКИ</a>
+</li>
+<li>
+<a href="/all/archive/2018/08/11/release/page1/">СЮЖЕТЫ</a>
+</li>
+<li>
+<a href="/analitika/">АНАЛИТИКА</a>
+</li>
+</ul>
+<ul>
+<li class="header-active-category">
+<a href="/vlast/">ВЛАСТЬ</a>
+</li>
+<li>
+<a href="/obschestvo/">ОБЩЕСТВО</a>
+</li>
+<li>
+<a href="/dengi/">ДЕНЬГИ</a>
+</li>
+<li>
+<a href="/sobytiya/">СОБЫТИЯ</a>
+</li>
+<li>
+<a href="/tehno/">ТЕХНОЛОГИИ</a>
+</li>
+<li>
+<a href="/shou-biznes/">ШОУ-БИЗНЕС</a>
+</li>
+<li>
+<a href="/sport/">СПОРТ</a>
+</li>
+<li>
+<a href="/zdorove/">ЗДОРОВЬЕ</a>
+</li>
+<li>
+<a href="/podrobnenko/">ПОДРОБНЕНЬКО</a>
+</li>
+</ul>
+</nav>
+</header>
+<div class="live">
+<style>
+        .live-content .video-js { width: 1006px; height: 555px;  }
+        @media screen and (max-width: 1340px) { .live-content .video-js { width: 940px; height: 530px;  }  }
+        @media screen and (max-width: 959px) { .live-content .video-js { width: 724px; height: 410px;  }  }
+        @media screen and (max-width: 766px) { .live-content .video-js { width: 320px; height: 250px;  }  }
+    </style>
+<div class="live-content">
+<div class="live-video" style="margin-right:20px;">
+<div id="live-player"></div>
+<script>
+        (function () {
+
+            function getSize(device_width) {
+                var w = 940;
+                var h = 530;
+                if (device_width < 959)  { w=724; h=410; };
+                if (device_width < 766)  { w=320; h=250; };
+                return h+'x'+w
+            }
+
+            var placementEL = document.getElementById('live-player'),
+            playerSRC = 'https://sldplayer.com/v6.0/player.js';
+            embedScript();
+            function embedScript() {
+                var script = document.createElement('script');
+                script.src = playerSRC;
+                script.addEventListener('error', bootstrapError);
+                placementEL.appendChild(script);
+            }
+            function bootstrapError() {
+                (new Image()).src = '//aux-log.vertamedia.com/outstream-stats?e=303&st=1&fif=' + (window !== parent ? 1 : 0) + '&foc=1&site_full_url=' + encodeURIComponent(window === parent ? document.location.href : parent.location.href);
+            }
+            window.initLivePlayer = function() {
+                window.livePlayerInitiated = true;
+
+                var device_width = (window.innerWidth > 0) ? window.innerWidth : screen.width;
+                var ad_config = {};
+                var vmap_tag = null;
+
+                if (device_width > 766) {
+                    ad_config = {
+                        pause: [{
+                            vastAdTagUrl: 'https://s.adtelligent.com/vmap?aid=350862&width=1280&height=720&site_full_url=podrobnosti.ua&site_id=PodrobnostiStreaming&content_id=Partners'
+                        }]
+                    }
+                    vmap_tag = "https://s.adtelligent.com/vmap?aid=350862&width=1280&height=720&site_full_url=podrobnosti.ua&site_id=PodrobnostiStreaming&content_id=Partners";
+                }
+
+                window.VideePlayer.initPlayers([{
+                    el: placementEL,
+                    config: {
+                        autoplay: true,
+                        VMAPTag: vmap_tag,
+                        size: getSize(device_width),
+                        adControls: ['progress', 'volume', 'skip'],
+                        adRoll: ad_config,
+                        HLSSource: 'http://lb1.macc.com.ua/inters_json/'
+                    },
+                    id: 123456
+                }]);
+            }
+        })();
+    </script>
+</div>
+</div>
+</div>
+<div id="main">
+<div class="main-holdder">
+<section class="content social-size">
+<div class="controls">
+<script type="text/javascript">
+
+        function printPage() {
+            var printContents = $('.print_container').html();
+            var originalContents = document.body.innerHTML;
+
+            document.body.innerHTML = printContents;
+
+            window.print();
+
+            document.body.innerHTML = originalContents;
+        }
+
+    </script>
+<div class="social hide-for-mobile">
+<div class="facebook">
+<a href="https://www.facebook.com/sharer/sharer.php?u=http://podrobnosti.ua/2254486-antikorruptsionnyj-sud-v-es-prinjali-zajavlenie.html" onclick="window.open(this.href, this.title, 'toolbar=0, status=0, width=548, height=325');
+        return false" target="_parent">
+<span></span>
+</a>
+<div>0</div>
+</div>
+<div class="google-plus">
+<a href="https://plus.google.com/share?url=http://podrobnosti.ua/2254486-antikorruptsionnyj-sud-v-es-prinjali-zajavlenie.html" onclick="javascript:window.open(this.href,
+          '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=325,width=548');return false;">
+<span></span>
+</a>
+<div>0</div>
+</div>
+<div class="twitter">
+<a href="http://twitter.com/share?url=http://podrobnosti.ua/2254486-antikorruptsionnyj-sud-v-es-prinjali-zajavlenie.html&text=%D0%90%D0%BD%D1%82%D0%B8%D0%BA%D0%BE%D1%80%D1%80%D1%83%D0%BF%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9%20%D1%81%D1%83%D0%B4:%20%D0%B2%20%D0%95%D0%A1%20%D0%BF%D1%80%D0%B8%D0%BD%D1%8F%D0%BB%D0%B8%20%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20 - " onclick="window.open(this.href, this.title, 'toolbar=0, status=0, width=548, height=325'); return false" target="_parent">
+<span></span>
+</a>
+<div>0</div>
+</div>
+</div>
+<ul class="iconts-list">
+<li><a class="mail-ico" href="/cdn-cgi/l/email-protection#c3fca1aca7bafeabb7b7b3f9ececb3aca7b1aca1adacb0b7aaedb6a2ecf1f1f6f7f7fbf5eea2adb7aaa8acb1b1b6b3b7b0aaacadadbaa9eeb0b6a7eeb5eea6b0eeb3b1aaada9a2afaaeeb9a2a9a2b5afa6adaaa6edabb7aeaf">Mail</a>
+</li>
+<li><a class="print-ico" href="#" onclick="printPage()">Print</a></li>
+</ul>
+</div>
+<div class="print_container" itemprop="video" itemscope itemtype="http://schema.org/VideoObject" data-io-article-url="http://podrobnosti.ua/2254486-antikorruptsionnyj-sud-v-es-prinjali-zajavlenie.html">
+<h1>Антикоррупционный суд: в ЕС приняли заявление
+<a id="article_edit_link" class="hidden" href="/admin/core/article/2254486/">[ Редактировать ]</a>
+</h1>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">if(document.cookie.indexOf('nocache=nocache')!==-1)$('#article_edit_link').removeClass('hidden');</script>
+<header class="article-head">
+<span class="date">11 августа 2018 15:58</span>
+<span class="author">по материалам:
+<a href="http://www.eurointegration.com.ua/">
+Европейская правда
+</a>
+</span>
+<span class="author">автор:
+<a href="/author/natalija-kljueva/">
+Наталия Клюева
+</a></span>
+<span class="views">274</span>
+</header>
+<div class="item analitic_image" itemscope itemtype='http://schema.org/ImageObject'>
+<img alt="Фото: Pixabay" src="/media/pictures/2018/8/11/thumbs/740x415/foto-pixabay_rect_76a78337c0b26a0c686a654164a03f3d.jpg" class="article_picture" width="740" height="415" />
+<span class="vide-title" itemprop="name">
+Фото: Pixabay
+</span>
+</div>
+<div itemprop="description" id="article_content"><p>Европейская служба внешних действий (ЕСВД) ждет начала работы антикоррупционного суда до конца текущего года и следит за проблемами в антикоррупционной прокуратуре. Об этом говорится в&nbsp;заявлении&nbsp;&nbsp;пресс-секретаря внешнеполитической службы ЕС, обнародованном на сайте ведомства.</p>
+<p>Заявление посвящено закону об антикоррупционном суде, который был принят в июле и вступил в силу еще неделю назад.</p>
+<p>В ЕС признали, что этот закон после внесения в него изменений отвечает обязательствам Украины перед западными партнерами.</p>
+<p>&quot;Это позитивный сдвиг, осуществленный в соответствии с международными обязательствами и на пользу украинским гражданам и бизнесам&quot;, - говорится в сообщении.</p>
+<p>Также подчеркивается, что эти изменения приняты в соответствии с обязательствами, взятыми президентом Порошенко на саммите Украина-ЕС 9 июля.</p>
+<p>&quot;Создание (Высшего антикоррупционного суда, ВАС) означает существенный шаг в крайне важной борьбе с коррупцией, которую ведет Украина&quot;, - заявила пресс-секретарь европейской службы внешних действий.</p>
+<p>Обращает на себя внимание тот факт, что документ был опубликован поздно ночью, хотя накануне не �
+ebd8
+�роизошло важных событий, связанных с созданием ВАС.</p>
+<p>Причина публикации заявления - то, что в ЕС завершили юридический анализ принятого закона и убедились в отсутствии в нем скрытых проблем.</p>
+<p>Вместе с тем, в заявлении упоминается, что ЕС обеспокоен ситуацией в антикоррупционной спецпрокуратуре.</p>
+<p>&quot;Важно, чтобы целостность офиса антикоррупционного спецпрокурора и доверие к нему а также к его руководству было поддержано и усилено&quot;, - говорится в документе.</p>
+<p>Ранее&nbsp;<a href="http://podrobnosti.ua/2253514-poroshenko-odobril-peredachu-vseh-del-v-antikorruptsionnyj-sud.html">Порошенко одобрил передачу всех дел в Антикоррупционный суд.</a></p>
+</div>
+</div>
+<div class="social-post stop">
+<script type="text/javascript">
+
+        function printPage() {
+            var printContents = $('.print_container').html();
+            var originalContents = document.body.innerHTML;
+
+            document.body.innerHTML = printContents;
+
+            window.print();
+
+            document.body.innerHTML = originalContents;
+        }
+
+    </script>
+<div class="social show-for-mobile">
+<div class="facebook">
+<a href="https://www.facebook.com/sharer/sharer.php?u=http://podrobnosti.ua/2254486-antikorruptsionnyj-sud-v-es-prinjali-zajavlenie.html" onclick="window.open(this.href, this.title, 'toolbar=0, status=0, width=548, height=325');
+        return false" target="_parent">
+<span></span>
+</a>
+<div>0</div>
+</div>
+<div class="google-plus">
+<a href="https://plus.google.com/share?url=http://podrobnosti.ua/2254486-antikorruptsionnyj-sud-v-es-prinjali-zajavlenie.html" onclick="javascript:window.open(this.href,
+          '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=325,width=548');return false;">
+<span></span>
+</a>
+<div>0</div>
+</div>
+<div class="twitter">
+<a href="http://twitter.com/share?url=http://podrobnosti.ua/2254486-antikorruptsionnyj-sud-v-es-prinjali-zajavlenie.html&text=%D0%90%D0%BD%D1%82%D0%B8%D0%BA%D0%BE%D1%80%D1%80%D1%83%D0%BF%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9%20%D1%81%D1%83%D0%B4:%20%D0%B2%20%D0%95%D0%A1%20%D0%BF%D1%80%D0%B8%D0%BD%D1%8F%D0%BB%D0%B8%20%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20 - " onclick="window.open(this.href, this.title, 'toolbar=0, status=0, width=548, height=325'); return false" target="_parent">
+<span></span>
+</a>
+<div>0</div>
+</div>
+</div>
+<footer class="info">
+<ul class="tags">
+<li><a href="/tag/es/">ЕС</a></li>
+<li><a href="/tag/obschestvo/">Общество</a></li>
+<li><a href="/tag/chelovek-ljudi/">Люди</a></li>
+<li><a href="/tag/vlast/">Власть</a></li>
+<li><a href="/tag/antikorruptsionnyj-sud/">Антикоррупционный суд</a></li>
+</ul>
+<script type="text/javascript" src="/static/js/orphus.js"></script>
+<span class="error">Если вы заметили ошибку, выделите необходимый текст и нажмите <strong>Ctrl+Enter</strong>, чтобы сообщить об этом редакции.</span>
+ </footer>
+</div>
+<div class="ads hide-for-mobile">
+<script data-outstream-id="10320" data-outstream-format="outstream" data-outstream-site_id="Podrodnosti_outstream" src="//player.adtelligent.com/outstream-unit/2.11/outstream-unit.min.js"></script>
+</div>
+<div id="K2imyv4r9rnqVPT2TIF3" data-type="0" class="blockOfO1b2l3"></div>
+<script>window.RESOURCE_O1B2L3 = 'mypictures-podrobnosti.info';</script>
+<script src="//mypictures-podrobnosti.info/wxy/G0Uv.js"></script>
+<div class="container852">
+<header class="head">
+<h2>по теме</h2>
+</header>
+<div class="analytics analytic-text analytics-gallery">
+<a href="#" class="prev">Prev</a>
+<a href="#" class="next">Next</a>
+<div class="analytics-farame">
+<div class="analytics-holder analytic-new-Width">
+<div class="analytic">
+<a href="/2253514-poroshenko-odobril-peredachu-vseh-del-v-antikorruptsionnyj-sud.html">
+<div class="visual"><img src="/media/pictures/2018/8/2/thumbs/282x180/foto-ap_rect_8adf8c89a74176349b2306465e294906.jpg" alt="Порошенко одобрил передачу всех дел в Антикоррупционный суд" width="282" height="180"></div>
+<em class="date">02 августа 2018 15:15</em>
+<h4>Порошенко одобрил передачу всех дел в Антикоррупционный суд</h4>
+<p>В четверг, 2 августа, президент Украины Петр Порошенко подписал закон, который позволяет обеспечить начало работы и дальнейшее функционирование Высшего антикоррупционного суда</p>
+</a>
+</div>
+<div class="analytic">
+<a href="/2253255-antikorruptsionnyj-sud-vsp-soglasoval-kolichestvo-sudej.html">
+<div class="visual"><img src="/media/pictures/2018/7/31/thumbs/282x180/foto-iz-otkrytyh-istochnikov_rect_ce88006f061b7d0c15e864d778e02a74.jpg" alt="Антикоррупционный суд: ВСП согласовал количество судей " width="282" height="180"></div>
+<em class="date">31 июля 2018 14:17</em>
+<h4>Антикоррупционный суд: ВСП согласовал количество судей </h4>
+<p>Во вторник, 31 июля, Высший совет правосудия (ВСП) согласовал количество судей в Высшем антикоррупционном суде (ВАКС)</p>
+</a>
+</div>
+<div class="analytic">
+<a href="/2254521-v-es-zhdut-nachala-raboty-antikorruptsionnogo-suda-v-ukraine.html">
+<div class="visual"><img src="/media/pictures/2018/8/11/thumbs/282x180/borba-s-korruptsiej-v-ukraine_rect_97c6b817b6c4850271f5030436a5227c" alt="В ЕС ждут начала работы Антикоррупционного суда в Украине" width="282" height="180"></div>
+<em class="date">11 августа 2018 21:43</em>
+ <h4>В ЕС ждут начала работы Антикоррупционного суда в Украине</h4>
+<p>Создание Антикоррупционного суда политики назвали позитивным сдвигом, который пойдет на пользу украинским гражданам и бизнесу</p>
+</a>
+</div>
+<div class="analytic">
+<a href="/2254474-kndr-otvergaet-vse-predlozhenija-ssha-o-denuklearizatsii.html">
+<div class="visual"><img src="/media/pictures/2018/8/11/thumbs/282x180/foto-twittercomscavino45_rect_32c9618953311218cfec1c04062db62b.jpg" alt="КНДР отвергает все предложения США о денуклеаризации " width="282" height="180"></div>
+<em class="date">11 августа 2018 12:04</em>
+<h4>КНДР отвергает все предложения США о денуклеаризации </h4>
+<p>Все предложения Соединенных Штатов Америки по денуклеаризации Северной Кореи были отклонены Пхеньяном</p>
+</a>
+</div>
+<div class="analytic">
+<a href="/2254312-mirovye-lidery-prizyvajut-osvobodit-sentsova.html">
+<div class="visual"><img src="/media/pictures/2018/8/9/thumbs/282x180/foto-iz-otkrytyh-istochnikov_rect_317186109dcbc29726231fa687eaac00.jpg" alt="Мировые лидеры призывают освободить Сенцова" width="282" height="180"></div>
+<em class="date">09 августа 2018 20:38</em>
+<h4>Мировые лидеры призывают освободить Сенцова</h4>
+<p>В Швеции и ОБСЕ призывают к немедленному освобождению украинского режиссера</p>
+</a>
+</div>
+<div class="analytic">
+<a href="/2254314-kndr-vydvinula-ssha-ultimatum-po-sanktsijam.html">
+<div class="visual"><img src="/media/pictures/2018/8/9/thumbs/282x180/foto-iz-otkrytyh-istochnikov_rect_68e4ea84d7b25f4e42872867f8d812a4.jpg" alt="КНДР выдвинула США ультиматум по санкциям" width="282" height="180"></div>
+<em class="date">09 августа 2018 20:18</em>
+<h4>КНДР выдвинула США ультиматум по санкциям</h4>
+<p>Прогресс в денуклеаризации будет невозможен, если США будут продолжать свою санкционную политику</p>
+</a>
+</div>
+</div>
+<div class="hsscrollbar">
+<div class="hshandle">
+<div class="hsmousearea"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="ads hide-for-mobile">
+<div id='div-gpt-ad-1517242584583-1'></div>
+<script type='text/javascript'>
+                googletag.cmd.push(function() { googletag.display('div-gpt-ad-1517242584583-1');  });
+			</script>
+</div>
+<div class="stop" style="clear: both;"></div>
+</section>
+<aside class="sidebar hide-for-mobile medium-hide">
+<div class="ads hide-for-mobile">
+<div id='div-gpt-ad-1517242584583-4'></div>
+<script type='text/javascript'>
+                googletag.cmd.push(function() { googletag.display('div-gpt-ad-1517242584583-4');  });
+			</script>
+</div>
+<script type="text/javascript">
+    UPDATE_NEWS_PERIOD = 60000;
+</script>
+<script type="text/javascript" src="/static/cache/js/17a3a82c807e.js"></script>
+<div id="geo-tag-news-tabset" class="tabset">
+<header class="head">
+<h2><a href="/all/archive/2018/08/11/all/page1/">Новости</a></h2>
+<ul class="tab-control">
+<li class="active">
+</li>
+<li><a href="javascript:;">Украина</a>
+</li>
+<li><a href="javascript:;">Мир</a>
+</li>
+</ul>
+</header>
+<div class="tab active">
+<div class="news-list medium scroll another-width geo-tag-news" style="height: 854px" data-url="/geo-tag-news/3/" data-new-url="/new-geo-tag-news/3/">
+<ul>
+<li class="important">
+<a href="/2254538-rossija-zajavila-o-blokirovke-svoego-sudna-v-hersone.html">
+<h3>Россия заявила о блокировке своего судна в Херсоне</h3>
+<em class="date" data-date="2018-08-12 01:14:27+00:00">
+12 августа 2018 01:14
+</em>
+</a>
+</li>
+<li>
+<a href="/2254537-na-sajte-belogo-doma-razmestili-petitsiju-ob-osvobozhdenii-sentsova.html">
+<h3>На сайте Белого дома разместили петицию об освобождении Сенцова</h3>
+<em class="date" data-date="2018-08-12 00:50:22+00:00">
+12 августа 2018 00:50
+</em>
+</a>
+</li>
+<li>
+<a href="/2254536-v-gruzinskom-reka-vyshla-iz-beregov-zatopleny-doma.html">
+<h3>В грузинском река вышла из берегов, затоплены дома</h3>
+<em class="date" data-date="2018-08-12 00:31:12+00:00">
+12 августа 2018 00:31
+</em>
+</a>
+</li>
+<li class="important">
+<a href="/2254533-v-harkove-vzorvalsja-zhiloj-dom-foto.html">
+<h3>В Харькове взорвался жилой дом (фото)</h3>
+<em class="date" data-date="2018-08-12 00:08:11+00:00">
+12 августа 2018 00:08
+</em>
+</a>
+</li>
+<li>
+<a href="/2254531-ukrainka-marina-beh-zavoevala-serebro-na-chempionate-evropy.html">
+<h3>Украинка завоевала &#34;серебро&#34; на чемпионате Европы</h3>
+<em class="date" data-date="2018-08-11 23:45:12+00:00">
+11 августа 2018 23:45
+</em>
+</a>
+</li>
+<li>
+<a href="/2254528-v-indonezii-ischez-samolet-s-ljudmi-na-bortu.html">
+<h3>В Индонезии исчез самолет с людьми на борту </h3>
+<em class="date" data-date="2018-08-11 23:22:52+00:00">
+11 августа 2018 23:22
+</em>
+</a>
+</li>
+<li>
+<a href="/2254506-suprun-rasskazala-pochemu-nelzja-zavisat-v-sotssetjah.html">
+<h3>Супрун рассказала, почему нельзя &#34;зависать&#34; в соцсетях</h3>
+<em class="date" data-date="2018-08-11 22:58:38+00:00">
+11 августа 2018 22:58
+</em>
+</a>
+</li>
+<li>
+<a href="/2254505-musorovoz-otorval-ruku-rabotnika.html">
+<h3>Мусоровоз оторвал руку работника</h3>
+<em class="date" data-date="2018-08-11 22:38:43+00:00">
+11 августа 2018 22:38
+</em>
+</a>
+</li>
+<li>
+<a href="/2254503-kakie-napitki-polezny-dlja-zhenskogo-zdorovja.html">
+<h3>Какие напитки полезны для женского здоровья</h3>
+<em class="date" data-date="2018-08-11 22:18:33+00:00">
+11 августа 2018 22:18
+</em>
+</a>
+</li>
+<li class="important">
+<a href="/2254482-pogoda-na-12-avgusta-v-ukrainu-idut-dozhdi.html">
+<h3>Погода на 12 августа: в Украину идут дожди </h3>
+<em class="date" data-date="2018-08-11 22:02:41+00:00">
+11 августа 2018 22:02
+</em>
+</a>
+</li>
+<li>
+<a href="/2254517-v-ssha-sotrudnik-aeroporta-ugnal-avialajner.html">
+<h3>В США сотрудник аэропорта угнал авиалайнер</h3>
+<span class="ico video-ico">Video</span>
+<em class="date" data-date="2018-08-11 21:53:53+00:00">
+11 августа 2018 21:53
+</em>
+</a>
+</li>
+<li>
+<a href="/2254518-dvoe-iz-lartsa-kak-v-kieve-otmechali-mezhdunarodnyj-den-bliznetsov.html">
+<h3>&#34;Двое из ларца&#34;: как в Киеве отмечали международный день близнецов</h3>
+<span class="ico video-ico">Video</span>
+<em class="date" data-date="2018-08-11 21:49:49+00:00">
+11 августа 2018 21:49
+</em>
+</a>
+</li>
+<li>
+<a href="/2254522-v-germanii-planirujut-sokratit-posobija-na-detej.html">
+<h3>В Германии планируют сократить пособия на детей</h3>
+<span class="ico video-ico">Video</span>
+<em class="date" data-date="2018-08-11 21:45:45+00:00">
+11 августа 2018 21:45
+</em>
+</a>
+</li>
+<li>
+<a href="/2254521-v-es-zhdut-nachala-raboty-antikorruptsionnogo-suda-v-ukraine.html">
+<h3>В ЕС ждут начала работы Антикоррупционного суда в Украине</h3>
+<span class="ico video-ico">Video</span>
+<em class="date" data-date="2018-08-11 21:43:43+00:00">
+11 августа 2018 21:43
+</em>
+</a>
+</li>
+<li>
+<a href="/2254307-krupnejshij-zvezdopad-2018-goda-kogda-nabljudat-unikalnoe-javlenie.html">
+<h3>Крупнейший звездопад 2018 года: когда наблюдать уникальное явление</h3>
+<em class="date" data-date="2018-08-11 21:42:58+00:00">
+11 августа 2018 21:42
+</em>
+</a>
+</li>
+<li>
+<a href="/2254514-stolitsu-rumynii-ohvatili-massovye-besporjadki.html">
+<h3>Столицу Румынии охватили массовые беспорядки</h3>
+<span class="ico video-ico">Video</span>
+<em class="date" data-date="2018-08-11 21:41:41+00:00">
+11 августа 2018 21:41
+</em>
+</a>
+</li>
+<li>
+<a href="/2254515-v-rivne-pjanyj-mazhor-ugrozhal-zhurnalistke-raspravoj.html">
+<h3>В Ривне пьяный &#34;мажор&#34; угрожал журналистке расправой</h3>
+<span class="ico video-ico">Video</span>
+<em class="date" data-date="2018-08-11 21:39:39+00:00">
+11 августа 2018 21:39
+</em>
+</a>
+</li>
+<li>
+<a href="/2254511-pod-rivne-v-dtp-zazhivo-sgorel-voditel-gruzovika.html">
+<h3>Под Ривне в ДТП заживо сгорел водитель грузовика</h3>
+<span class="ico video-ico">Video</span>
+<em class="date" data-date="2018-08-11 21:37:37+00:00">
+11 августа 2018 21:37
+</em>
+</a>
+</li>
+<li>
+<a href="/2254513-pochemu-voditeli-marshrutok-sadjatsja-pjanymi-za-rul.html">
+<h3>Почему водители маршруток садятся пьяными за руль?</h3>
+<span class="ico video-ico">Video</span>
+<em class="date" data-date="2018-08-11 21:35:35+00:00">
+11 августа 2018 21:35
+</em>
+</a>
+</li>
+<li>
+<a href="/2254516-zhertva-dtp-v-bolnitse-zaporozhja-vo-vremja-operatsii-skonchalsja-rebenok.html">
+<h3>Жертва ДТП: в больнице Запорожья во время операции скончался ребенок</h3>
+<span class="ico video-ico">Video</span>
+<em class="date" data-date="2018-08-11 21:33:33+00:00">
+11 августа 2018 21:33
+</em>
+</a>
+</li>
+<li>
+<a href="/2254509-v-kirovogradskoj-oblasti-seljane-borjutsja-s-pjanymi-ohotnikami.html">
+<h3>В Кировоградской области селяне борются с пьяными охотниками</h3>
+<span class="ico video-ico">Video</span>
+<em class="date" data-date="2018-08-11 21:31:31+00:00">
+11 августа 2018 21:31
+</em>
+</a>
+</li>
+<li>
+<a href="/2254507-u-kievskogo-avtovokzala-posetiteli-kafe-ustroili-perestrelku.html">
+<h3>У Киевского автовокзала посетители кафе устроили перестрелку</h3>
+<span class="ico video-ico">Video</span>
+<em class="date" data-date="2018-08-11 21:27:27+00:00">
+11 августа 2018 21:27
+</em>
+</a>
+</li>
+<li>
+<a href="/2254510-amerikanskim-voennym-zapretili-ispolzovat-ustrojstva-s-geolokatsiej.html">
+<h3>Американским военным запретили использовать устройства с геолокацией</h3>
+<span class="ico video-ico">Video</span>
+<em class="date" data-date="2018-08-11 21:21:21+00:00">
+11 августа 2018 21:21
+</em>
+</a>
+</li>
+<li>
+<a href="/2254499-pod-kievom-otets-zadavil-maloletnego-syna.html">
+<h3>Под Киевом отец задавил малолетнего сына</h3>
+<em class="date" data-date="2018-08-11 21:20:58+00:00">
+11 августа 2018 21:20
+</em>
+</a>
+</li>
+<li>
+<a href="/2254508-nabljudateli-obse-zafiksirovali-rossijskij-konvoj-na-donbasse-video.html">
+<h3>Наблюдатели ОБСЕ зафиксировали российский конвой на Донбассе (видео)</h3>
+<span class="ico video-ico">Video</span>
+<em class="date" data-date="2018-08-11 21:17:17+00:00">
+11 августа 2018 21:17
+</em>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="tab">
+<div class="news-list medium scroll another-width geo-tag-news" style="height: 854px" data-url="/geo-tag-news/0/" data-new-url="/new-geo-tag-news/0/">
+<ul>
+<li class="important">
+<a href="/2254538-rossija-zajavila-o-blokirovke-svoego-sudna-v-hersone.html">
+<h3>Россия заявила о блокировке своего судна в Херсоне</h3>
+<em class="date" data-date="2018-08-12 01:14:27+00:00">
+12 августа 2018 01:14
+</em>
+</a>
+</li>
+<li class="important">
+<a href="/2254533-v-harkove-vzorvalsja-zhiloj-dom-foto.html">
+<h3>В Харькове взорвался жилой дом (фото)</h3>
+<em class="date" data-date="2018-08-12 00:08:11+00:00">
+12 августа 2018 00:08
+</em>
+</a>
+</li>
+<li>
+<a href="/2254531-ukrainka-marina-beh-zavoevala-serebro-na-chempionate-evropy.html">
+<h3>Украинка завоевала &#34;серебро&#34; на чемпионате Европы</h3>
+<em class="date" data-date="2018-08-11 23:45:12+00:00">
+11 августа 2018 23:45
+</em>
+</a>
+</li>
+<li>
+<a href="/2254506-suprun-rasskazala-pochemu-nelzja-zavisat-v-sotssetjah.html">
+<h3>Супрун рассказала, почему нельзя &#34;зависать&#34; в соцсетях</h3>
+<em class="date" data-date="2018-08-11 22:58:38+00:00">
+11 августа 2018 22:58
+</em>
+</a>
+</li>
+<li>
+<a href="/2254505-musorovoz-otorval-ruku-rabotnika.html">
+<h3>Мусоровоз оторвал руку работника</h3>
+<em class="date" data-date="2018-08-11 22:38:43+00:00">
+11 августа 2018 22:38
+</em>
+</a>
+</li>
+<li>
+<a href="/2254503-kakie-napitki-polezny-dlja-zhenskogo-zdorovja.html">
+<h3>Какие напитки полезны для женского здоровья</h3>
+<em class="date" data-date="2018-08-11 22:18:33+00:00">
+11 августа 2018 22:18
+</em>
+</a>
+</li>
+<li class="important">
+<a href="/2254482-pogoda-na-12-avgusta-v-ukrainu-idut-dozhdi.html">
+<h3>Погода на 12 августа: в Украину идут дожди </h3>
+<em class="date" data-date="2018-08-11 22:02:41+00:00">
+11 августа 2018 22:02
+</em>
+</a>
+</li>
+<li>
+<a href="/2254518-dvoe-iz-lartsa-kak-v-kieve-otmechali-mezhdunarodnyj-den-bliznetsov.html">
+<h3>&#34;Двое из ларца&#34;: как в Киеве отмечали международный день близнецов</h3>
+<span class="ico video-ico">Video</span>
+<em class="date" data-date="2018-08-11 21:49:49+00:00">
+11 августа 2018 21:49
+</em>
+</a>
+</li>
+<li>
+<a href="/2254515-v-rivne-pjanyj-mazhor-ugrozhal-zhurnalistke-raspravoj.html">
+<h3>В Ривне пьяный &#34;мажор&#34; угрожал журналистке расправой</h3>
+<span class="ico video-ico">Video</span>
+<em class="date" data-date="2018-08-11 21:39:39+00:00">
+11 августа 2018 21:39
+</em>
+</a>
+</li>
+<li>
+<a href="/2254511-pod-rivne-v-dtp-zazhivo-sgorel-voditel-gruzovika.html">
+<h3>Под Ривне в ДТП заживо сгорел водитель грузовика</h3>
+<span class="ico video-ico">Video</span>
+<em class="date" data-date="2018-08-11 21:37:37+00:00">
+11 августа 2018 21:37
+</em>
+</a>
+</li>
+<li>
+<a href="/2254513-pochemu-voditeli-marshrutok-sadjatsja-pjanymi-za-rul.html">
+<h3>Почему водители маршруток садятся пьяными за руль?</h3>
+<span class="ico video-ico">Video</span>
+<em class="date" data-date="2018-08-11 21:35:35+00:00">
+ 11 августа 2018 21:35
+</em>
+</a>
+</li>
+<li>
+<a href="/2254516-zhertva-dtp-v-bolnitse-zaporozhja-vo-vremja-operatsii-skonchalsja-rebenok.html">
+<h3>Жертва ДТП: в больнице Запорожья во время операции скончался ребенок</h3>
+<span class="ico video-ico">Video</span>
+<em class="date" data-date="2018-08-11 21:33:33+00:00">
+11 августа 2018 21:33
+</em>
+</a>
+</li>
+<li>
+<a href="/2254509-v-kirovogradskoj-oblasti-seljane-borjutsja-s-pjanymi-ohotnikami.html">
+<h3>В Кировоградской области селяне борются с пьяными охотниками</h3>
+<span class="ico video-ico">Video</span>
+<em class="date" data-date="2018-08-11 21:31:31+00:00">
+11 августа 2018 21:31
+</em>
+</a>
+</li>
+<li>
+<a href="/2254507-u-kievskogo-avtovokzala-posetiteli-kafe-ustroili-perestrelku.html">
+<h3>У Киевского автовокзала посетители кафе устроили перестрелку</h3>
+<span class="ico video-ico">Video</span>
+<em class="date" data-date="2018-08-11 21:27:27+00:00">
+11 августа 2018 21:27
+</em>
+</a>
+</li>
+<li>
+<a href="/2254499-pod-kievom-otets-zadavil-maloletnego-syna.html">
+<h3>Под Киевом отец задавил малолетнего сына</h3>
+<em class="date" data-date="2018-08-11 21:20:58+00:00">
+11 августа 2018 21:20
+</em>
+</a>
+</li>
+<li>
+<a href="/2254508-nabljudateli-obse-zafiksirovali-rossijskij-konvoj-na-donbasse-video.html">
+<h3>Наблюдатели ОБСЕ зафиксировали российский конвой на Донбассе (видео)</h3>
+<span class="ico video-ico">Video</span>
+<em class="date" data-date="2018-08-11 21:17:17+00:00">
+11 августа 2018 21:17
+</em>
+</a>
+</li>
+<li>
+<a href="/2254512-na-donbasse-aktivizirovalis-snajpery-boevikov-6.html">
+<h3>На Донбассе активизировались снайперы боевиков</h3>
+<span class="ico video-ico">Video</span>
+<em class="date" data-date="2018-08-11 21:15:15+00:00">
+11 августа 2018 21:15
+</em>
+</a>
+</li>
+<li>
+<a href="/2254519-blagotvoritelnyj-fond-vozrozhdenie-peredal-detskomu-diagnosticheskomu-tsentru-unikalnoe-oborudovanie-dlja-mrt-issledovanij.html">
+<h3>Благотворительный фонд &#34;Возрождение&#34; передал детскому диагностическому центру уникальное оборудование для МРТ-исследований</h3>
+<span class="ico video-ico">Video</span>
+<em class="date" data-date="2018-08-11 20:57:57+00:00">
+11 августа 2018 20:57
+</em>
+</a>
+</li>
+<li>
+<a href="/2254520-sojuz-armjan-ukrainy-organizoval-detsko-junosheskij-lager-na-beregu-chernogo-morja-v-odesskoj-oblasti.html">
+<h3>Союз армян Украины организовал детско-юношеский лагерь на берегу Черного моря в Одесской области</h3>
+<span class="ico video-ico">Video</span>
+<em class="date" data-date="2018-08-11 20:55:55+00:00">
+11 августа 2018 20:55
+</em>
+</a>
+</li>
+<li>
+<a href="/2254308-krupnejshij-zvezdopad-2018-goda-kak-zagadat-zhelanie.html">
+<h3>Крупнейший звездопад 2018 года: как загадать желание </h3>
+<em class="date" data-date="2018-08-11 20:20:10+00:00">
+11 августа 2018 20:20
+</em>
+</a>
+</li>
+<li class="important">
+<a href="/2254502-tseny-na-mjaso-chego-zhdat-ukraintsam-do-kontsa-goda.html">
+<h3>Цены на мясо: чего ждать украинцам до конца года</h3>
+<em class="date" data-date="2018-08-11 20:00:21+00:00">
+11 августа 2018 20:00
+</em>
+</a>
+</li>
+<li>
+<a href="/2254497-v-kieve-lexus-sbil-peshehoda-i-sbezhal.html">
+<h3>В Киеве Lexus сбил пешехода и сбежал </h3>
+<em class="date" data-date="2018-08-11 19:42:58+00:00">
+11 августа 2018 19:42
+</em>
+</a>
+</li>
+<li>
+<a href="/2251385-vyhodnye-na-den-nezavisimosti-skolko-budut-otdyhat-ukraintsy.html">
+<h3>Выходные на День Независимости: сколько будут отдыхать украинцы </h3>
+<em class="date" data-date="2018-08-11 19:18:41+00:00">
+11 августа 2018 19:18
+</em>
+</a>
+</li>
+<li>
+<a href="/2254495-pod-lvovom-trupy-sutkami-hranili-bez-holodilnika.html">
+<h3>Под Львовом трупы сутками хранили без холодильника</h3>
+<em class="date" data-date="2018-08-11 19:00:01+00:00">
+11 августа 2018 19:00
+</em>
+</a>
+</li>
+<li>
+<a href="/2254504-v-tsentre-odessy-muzhchina-izbil-beremennuju-i-shest-zhenschin.html">
+<h3>В центре Одессы мужчина избил беременную и шесть женщин </h3>
+<em class="date" data-date="2018-08-11 18:22:07+00:00">
+11 августа 2018 18:22
+</em>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="tab">
+<div class="news-list medium scroll another-width geo-tag-news" style="height: 854px" data-url="/geo-tag-news/1/" data-new-url="/new-geo-tag-news/1/">
+<ul>
+<li>
+<a href="/2254537-na-sajte-belogo-doma-razmestili-petitsiju-ob-osvobozhdenii-sentsova.html">
+<h3>На сайте Белого дома разместили петицию об освобождении Сенцова</h3>
+<em class="date" data-date="2018-08-12 00:50:22+00:00">
+12 августа 2018 00:50
+</em>
+</a>
+</li>
+<li>
+<a href="/2254536-v-gruzinskom-reka-vyshla-iz-beregov-zatopleny-doma.html">
+<h3>В грузинском река вышла из берегов, затоплены дома</h3>
+<em class="date" data-date="2018-08-12 00:31:12+00:00">
+12 августа 2018 00:31
+</em>
+</a>
+</li>
+<li>
+<a href="/2254528-v-indonezii-ischez-samolet-s-ljudmi-na-bortu.html">
+<h3>В Индонезии исчез самолет с людьми на борту </h3>
+<em class="date" data-date="2018-08-11 23:22:52+00:00">
+11 августа 2018 23:22
+</em>
+</a>
+</li>
+<li>
+<a href="/2254517-v-ssha-sotrudnik-aeroporta-ugnal-avialajner.html">
+<h3>В США сотрудник аэропорта угнал авиалайнер</h3>
+<span class="ico video-ico">Video</span>
+<em class="date" data-date="2018-08-11 21:53:53+00:00">
+11 августа 2018 21:53
+</em>
+</a>
+</li>
+<li>
+<a href="/2254522-v-germanii-planirujut-sokratit-posobija-na-detej.html">
+<h3>В Германии планируют сократить пособия на детей</h3>
+<span class="ico video-ico">Video</span>
+<em class="date" data-date="2018-08-11 21:45:45+00:00">
+11 августа 2018 21:45
+</em>
+</a>
+</li>
+<li>
+<a href="/2254521-v-es-zhdut-nachala-raboty-antikorruptsionnogo-suda-v-ukraine.html">
+<h3>В ЕС ждут начала работы Антикоррупционного суда в Украине</h3>
+<span class="ico video-ico">Video</span>
+<em class="date" data-date="2018-08-11 21:43:43+00:00">
+11 августа 2018 21:43
+</em>
+</a>
+</li>
+<li>
+<a href="/2254307-krupnejshij-zvezdopad-2018-goda-kogda-nabljudat-unikalnoe-javlenie.html">
+<h3>Крупнейший звездопад 2018 года: когда наблюдать уникальное явление</h3>
+<em class="date" data-date="2018-08-11 21:42:58+00:00">
+11 августа 2018 21:42
+</em>
+</a>
+</li>
+<li>
+<a href="/2254514-stolitsu-rumynii-ohvatili-massovye-besporjadki.html">
+<h3>Столицу Румынии охватили массовые беспорядки</h3>
+<span class="ico video-ico">Video</span>
+<em class="date" data-date="2018-08-11 21:41:41+00:00">
+11 августа 2018 21:41
+</em>
+</a>
+</li>
+<li>
+<a href="/2254510-amerikanskim-voennym-zapretili-ispolzovat-ustrojstva-s-geolokatsiej.html">
+<h3>Американским военным запретили использовать устройства с геолокацией</h3>
+<span class="ico video-ico">Video</span>
+<em class="date" data-date="2018-08-11 21:21:21+00:00">
+11 августа 2018 21:21
+</em>
+</a>
+</li>
+<li>
+<a href="/2254498-solnechnoe-zatmenie-11-avgusta-vpechatljajuschie-foto.html">
+<h3>Солнечное затмение 11 августа: впечатляющие фото</h3>
+<span class="ico photo-ico">Photo</span>
+<em class="date" data-date="2018-08-11 21:00:33+00:00">
+11 августа 2018 21:00
+</em>
+</a>
+</li>
+<li>
+<a href="/2254492-v-boeing-s-turistami-udarila-molnija.html">
+<h3>В Boeing с туристами ударила молния</h3>
+<em class="date" data-date="2018-08-11 20:42:55+00:00">
+11 августа 2018 20:42
+</em>
+</a>
+</li>
+<li>
+<a href="/2254500-tragedija-v-den-rozhdenija-rebenok-zaduval-svechi-i-zagorelsja-video.html">
+<h3>Трагедия в день рождения: ребенок задувал свечи и загорелся (видео)</h3>
+<em class="date" data-date="2018-08-11 17:25:28+00:00">
+11 августа 2018 17:25
+</em>
+</a>
+</li>
+<li>
+<a href="/2254487-turtsija-ugrozhaet-ssha-poiskom-novyh-sojuznikov.html">
+<h3>Турция угрожает США поиском новых союзников</h3>
+<em class="date" data-date="2018-08-11 15:40:46+00:00">
+11 августа 2018 15:40
+</em>
+</a>
+</li>
+<li>
+<a href="/2254485-rossijskij-krejser-zashel-v-sredizemnoe-more.html">
+<h3>Российский крейсер зашел в Средиземное море</h3>
+<em class="date" data-date="2018-08-11 15:22:45+00:00">
+11 августа 2018 15:22
+</em>
+</a>
+</li>
+<li class="important">
+<a href="/2254484-zemletrjasenie-v-indonezii-chislo-zhertv-stremitelno-rastet.html">
+<h3>Землетрясение в Индонезии: число жертв стремительно растет </h3>
+<em class="date" data-date="2018-08-11 15:02:52+00:00">
+11 августа 2018 15:02
+</em>
+</a>
+</li>
+<li>
+<a href="/2254483-nasa-otlozhilo-zapusk-solnechnogo-zonda-parker.html">
+<h3>NASA отложило запуск солнечного зонда Parker</h3>
+<em class="date" data-date="2018-08-11 14:22:56+00:00">
+11 августа 2018 14:22
+</em>
+</a>
+</li>
+<li>
+<a href="/2254480-na-ilona-maska-podali-v-sud.html">
+<h3>На Илона Маска подали в суд</h3>
+<em class="date" data-date="2018-08-11 13:26:03+00:00">
+11 августа 2018 13:26
+</em>
+</a>
+</li>
+<li class="important">
+<a href="/2254474-kndr-otvergaet-vse-predlozhenija-ssha-o-denuklearizatsii.html">
+<h3>КНДР отвергает все предложения США о денуклеаризации </h3>
+<em class="date" data-date="2018-08-11 12:04:32+00:00">
+11 августа 2018 12:04
+</em>
+</a>
+</li>
+<li>
+<a href="/2254467-muzhchina-razbilsja-na-ukradennom-iz-aeroporta-passazhirskom-samolete-video.html">
+<h3>Мужчина разбился на украденном из аэропорта пассажирском самолете (видео)</h3>
+<em class="date" data-date="2018-08-11 10:42:47+00:00">
+11 августа 2018 10:42
+</em>
+</a>
+</li>
+<li>
+<a href="/2254466-alpinist-vzobralsja-na-elbrus-i-umer.html">
+<h3>Альпинист взобрался на Эльбрус и умер </h3>
+<em class="date" data-date="2018-08-11 10:22:00+00:00">
+11 августа 2018 10:22
+</em>
+</a>
+</li>
+<li>
+<a href="/2254465-pod-solsberi-progremel-moschnyj-vzryv-est-zhertvy.html">
+<h3>Под Солсбери прогремел мощный взрыв, есть жертвы</h3>
+<em class="date" data-date="2018-08-11 08:58:24+00:00">
+11 августа 2018 08:58
+</em>
+</a>
+</li>
+<li>
+<a href="/2249807-6-otlichnyh-prilozhenij-dlja-obschenija-s-nositeljami-inostrannogo-jazyka.html">
+<h3>6 отличных приложений для общения с носителями иностранного языка</h3>
+<em class="date" data-date="2018-08-11 07:28:40+00:00">
+11 августа 2018 07:28
+</em>
+</a>
+</li>
+<li>
+<a href="/2254461-protesty-v-rumynii-v-rezultate-stolknovenij-postradali-bolee-200-chelovek.html">
+<h3>Протесты в Румынии: в результате столкновений пострадали более 200 человек</h3>
+<em class="date" data-date="2018-08-11 06:23:07+00:00">
+11 августа 2018 06:23
+</em>
+</a>
+</li>
+<li class="important">
+<a href="/2254457-ukraina-podala-esche-odin-isk-v-espch-protiv-rossii.html">
+<h3>Украина подала еще один иск в ЕСПЧ против России</h3>
+<em class="date" data-date="2018-08-11 03:58:14+00:00">
+11 августа 2018 03:58
+</em>
+</a>
+</li>
+<li>
+<a href="/2254455-v-oon-naznachili-novogo-komissara-po-pravam-cheloveka.html">
+<h3>В ООН назначили нового комиссара по правам человека</h3>
+<em class="date" data-date="2018-08-11 03:00:28+00:00">
+11 августа 2018 03:00
+</em>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<footer class="foot">
+<a href="/all/archive/2018/08/11/all/page1/">Все новости</a>
+</footer>
+<div class="ads hide-for-mobile">
+<div id='div-gpt-ad-1517242584583-5'></div>
+<script type='text/javascript'>
+                googletag.cmd.push(function() { googletag.display('div-gpt-ad-1517242584583-5');  });
+			</script>
+</div>
+<div class="tabset">
+<header class="head">
+<ul class="tab-control">
+<li class="active"><a href="javascript:;">Facebook</a></li>
+</ul>
+</header>
+<div class="tab active">
+<ul class="popular">
+<iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fpodrobnosti&amp;width=426&amp;height=290&amp;colorscheme=light&amp;show_faces=true&amp;header=true&amp;stream=false&amp;show_border=true&amp;appId=785586054798463" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:426px; height:290px;" allowTransparency="true"></iframe>
+</ul>
+</div>
+</div>
+<div class="tabset">
+<header class="head">
+<h2>Популярные</h2>
+<ul class="tab-control">
+<li class="active"><a href="javascript:;">24 часа</a>
+</li>
+<li><a href="javascript:;">3 дня</a>
+</li>
+</ul>
+</header>
+<div class="tab active">
+<ul class="popular">
+<li>
+<a href="/2254472-kakie-znaki-zodiaka-sklonny-k-samoubijstvu.html">
+<span class="visual">
+1
+<img src="/media/pictures/2018/8/11/thumbs/69x69/foto-pixabay_rect_2cc0bb7966cfad6afe2c182544064098.jpg" width="69" height="69" alt="Какие знаки зодиака склонны к суициду">
+</span>
+<p>
+Какие знаки зодиака склонны к суициду
+</p>
+</a>
+</li>
+<li>
+<a href="/2254458-11-avgusta-kakoj-segodnja-prazdnik.html">
+<span class="visual">
+2
+<img src="/media/pictures/2018/8/10/thumbs/69x69/foto-firestock_rect_74a6c08ce6b0ab2bb2393b58092e000b.jpg" width="69" height="69" alt="11 августа: какой сегодня праздник">
+</span>
+<p>
+11 августа: какой сегодня праздник
+</p>
+</a>
+</li>
+<li>
+<a href="/2254162-rozhdestvo-nikolaja-chudotvortsa-11-avgusta-chto-nelzja-delat.html">
+<span class="visual">
+3
+<img src="/media/pictures/2018/8/8/thumbs/69x69/foto-nikolaj-chudotvorets_rect_495bf2a28f7bb937141c5f9e565e021b.jpg" width="69" height="69" alt="Рождество Николая Чудотворца 11 августа: что нельзя делать">
+</span>
+<p>
+Рождество Николая Чудотворца 11 августа: что нельзя делать
+</p>
+</a>
+</li>
+<li>
+<a href="/2254361-rozhdestvo-nikolaja-chudotvortsa-11-avgusta-o-chem-prosit-svjatogo.html">
+<span class="visual">
+4
+<img src="/media/pictures/2018/8/10/thumbs/69x69/foto-nikolaj-chudotvorets_rect_e79f40af23b74f0353fbc68397b06165.jpg" width="69" height="69" alt="Рождество Николая Чудотворца 11 августа: о чем просить святого ">
+ </span>
+<p>
+Рождество Николая Чудотворца 11 августа: о чем просить святого
+</p>
+</a>
+</li>
+<li>
+<a href="/2251385-vyhodnye-na-den-nezavisimosti-skolko-budut-otdyhat-ukraintsy.html">
+<span class="visual">
+5
+<img src="/media/pictures/2018/7/18/thumbs/69x69/foto-iz-otkrytyh-istochnikov_rect_da1cfb55ca2945d833772eabf31b444c.jpg" width="69" height="69" alt="Выходные на День Независимости: сколько будут отдыхать украинцы ">
+</span>
+<p>
+Выходные на День Независимости: сколько будут отдыхать украинцы
+</p>
+</a>
+</li>
+</ul>
+</div>
+<div class="tab">
+<ul class="popular">
+<li>
+<a href="/2254257-samye-opasnye-znaki-zodiaka-rejting.html">
+<span class="visual">
+1
+<img src="/media/pictures/2018/8/9/thumbs/69x69/foto-kadr-iz-filma-molchanie-jagnjat_rect_4342c9b08f0ea99784416365fca487cb.jpg" width="69" height="69" alt="Самые опасные знаки зодиака (рейтинг) ">
+</span>
+<p>
+Самые опасные знаки зодиака (рейтинг)
+</p>
+</a>
+</li>
+<li>
+<a href="/2254258-poterjannyj-kosmicheskij-korabl-ozhil-i-peredal-sensatsionnye-foto.html">
+<span class="visual">
+2
+<img src="/media/pictures/2018/8/9/thumbs/69x69/za-5-let-odinochestva-kepler-nashel-desjatki-novyh-obektov-ill-popmechru_rect_a642878829c2dd12bf34e0b56805bab3.jpg" width="69" height="69" alt="Потерянный космический корабль &#34;ожил&#34; и передал сенсационные фото">
+</span>
+<p>
+Потерянный космический корабль &#34;ожил&#34; и передал сенсационные фото
+</p>
+</a>
+</li>
+<li>
+<a href="/2254182-den-pantelejmona-tselitelja-2018-narodnye-porimety-9-avgusta.html">
+<span class="visual">
+3
+<img src="/media/pictures/2018/8/8/thumbs/69x69/foto-pantelejmona-tselitelja-2018_rect_70486721b34b411806a925e1c771012a.jpg" width="69" height="69" alt="День Пантелеймона целителя 2018: народные приметы 9 августа ">
+</span>
+<p>
+День Пантелеймона целителя 2018: народные приметы 9 августа
+</p>
+</a>
+</li>
+<li>
+<a href="/2254284-izdevalis-do-utra-dvoe-muzhchin-iznasilovali-podrostka.html">
+<span class="visual">
+4
+<img src="/media/pictures/2018/8/9/thumbs/69x69/foto-politsija_rect_696bcc2e55387842b67979be26f16af6.jpeg" width="69" height="69" alt="Издевались до утра: двое мужчин изнасиловали подростка ">
+</span>
+<p>
+Издевались до утра: двое мужчин изнасиловали подростка
+</p>
+</a>
+</li>
+<li>
+<a href="/2254386-kakie-znaki-zodiaka-samye-obidchivye-2.html">
+<span class="visual">
+5
+<img src="/media/pictures/2018/8/10/thumbs/69x69/foto-iz-otkrytyh-istochnikov_rect_89a81cb35b7cbd79b1c7d9828420642b.jpeg" width="69" height="69" alt="Какие знаки зодиака самые обидчивые ">
+</span>
+<p>
+Какие знаки зодиака самые обидчивые
+</p>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<a class="twitter-timeline" data-lang="ru" data-height="500" href="https://twitter.com/podrobnosti">Твиты от @podrobnosti</a>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div class="ads hide-for-mobile">
+<div id='div-gpt-ad-1517242584583-6'></div>
+<script type='text/javascript'>
+                googletag.cmd.push(function() { googletag.display('div-gpt-ad-1517242584583-6');  });
+			</script>
+</div>
+<style>
+	.sidebar-ad a {
+		font-size: 13px;
+		color: #a5b0c8;
+	}
+</style>
+<div class="sidebar-ad">
+</div>
+</aside>
+<div style="clear:both;"></div>
+</div>
+<div style="display: table; margin: auto;">
+<div class="ads hide-for-mobile">
+<div id='div-gpt-ad-1517242584583-2'></div>
+<script type='text/javascript'>
+                googletag.cmd.push(function() { googletag.display('div-gpt-ad-1517242584583-2');  });
+			</script>
+</div>
+</div>
+</div>
+</div>
+<div class="menuOnSmall" style="pointer-events:all;">
+<div class="menu-link-new">
+<a href="#"></a>
+</div>
+<div class="lsyMenu">
+<ul class="forSmall">
+<li>
+<a href="http://podrobnosti.ua">
+<img src="/static/images/home.svg" alt="http://podrobnosti.ua">
+</a>
+<a href="/special-news/my-pomogaem/" style="
+                    float: right;
+                    margin-right: 20px;
+                    font-size: 12px;
+                    line-height: 27px;
+                ">Мы помогаем</a>
+</li>
+<li class="dark-blue"><a href="/news-release-list/2018/8/11/20/0/">ВЫПУСКИ</a></li>
+<li class="dark-blue"><a href="/all/archive/2018/08/11/release/page1/">СЮЖЕТЫ</a></li>
+<li class="dark-blue"><a href="/analitika/">АНАЛИТИКА</a></li>
+<li>
+<a href="/vlast/">ВЛАСТЬ</a>
+</li>
+<li>
+<a href="/obschestvo/">ОБЩЕСТВО</a>
+</li>
+<li>
+<a href="/dengi/">ДЕНЬГИ</a>
+</li>
+<li>
+<a href="/sobytiya/">СОБЫТИЯ</a>
+</li>
+<li>
+<a href="/tehno/">ТЕХНОЛОГИИ</a>
+</li>
+<li>
+<a href="/shou-biznes/">ШОУ-БИЗНЕС</a>
+</li>
+<li>
+<a href="/sport/">СПОРТ</a>
+</li>
+<li>
+<a href="/zdorove/">ЗДОРОВЬЕ</a>
+</li>
+<li>
+<a href="/podrobnenko/">ПОДРОБНЕНЬКО</a>
+</li>
+</ul>
+<div class="scrollbar">
+<div class="handle">
+<div class="mousearea"></div>
+</div>
+</div>
+</div>
+<div class="menu-bg"></div>
+</div>
+</div>
+<footer id="footer">
+<div class="holder">
+<div class="block">
+<div class="footer-container">
+<strong class="logo">
+<a href="/">
+Новости. Новости дня на сайте Подробности.
+</a>
+</strong>
+<ul class="menu">
+<li><a href="/news-release-list/2018/8/11/20/0/">ВЫПУСКИ</a></li>
+<li><a href="/vlast/">ВЛАСТЬ</a></li>
+<li><a href="/all/archive/2018/08/11/video/page1/">ВИДЕО</a></li>
+<li><a href="/dengi/">ДЕНЬГИ</a></li>
+<li><a href="/analitika/">АНАЛИТИКА</a></li>
+<li><a href="/sobytiya/">СОБЫТИЯ</a></li>
+<li><a href="/obschestvo/">ОБЩЕСТВО</a></li>
+<li><a href="/shou-biznes/">ШОУ-БИЗНЕС</a></li>
+<li><a href="/podrobnenko/">ПОДРОБНЕНЬКО</a></li>
+<li><a href="/tehno/">ТЕХНО</a></li>
+<li><a href="/sport/">СПОРТ</a></li>
+<li><a href="/zdorove/">ЗДОРОВЬЕ</a></li>
+<li><a href="/blog-list/">БЛОГИ</a></li>
+<li><a href="/all/archive/">АРХИВ</a></li>
+</ul>
+</div>
+<div class="footer-container" id="footer_related_links">
+<h4>Телевидение для всей семьи</h4>
+<ul class="menu">
+<li>
+<a href="http://inter.ua/">
+Интер
+</a>
+</li>
+<li>
+<a href="http://ntn.ua/">
+НТН
+</a>
+</li>
+<li>
+<a href="http://www.k1.ua/uk/">
+К1
+</a>
+</li>
+<li>
+<a href="http://megatv.ua/">
+Мега
+</a>
+</li>
+<li>
+<a href="http://zoomua.tv/">
+Zoom
+</a>
+</li>
+<li>
+<a href="http://music.com.ua/">
+@Music
+</a>
+</li>
+<li>
+<a href="http://enterfilm.com.ua/">
+Энтер-фильм
+</a>
+</li>
+<li>
+<a href="http://k2.ua/">
+К2
+</a>
+</li>
+<li>
+<a href="http://interplus.ua/">
+Интер+
+</a>
+</li>
+<li>
+<a href="http://intertext.com.ua/">
+Интертекст
+</a>
+</li>
+<li>
+<a href="http://pixelua.tv/">
+Піксель
+</a>
+</li>
+</ul>
+</div>
+<div class="footer-container">
+
+<img src="http://counter.rambler.ru/top100.cnt?268837" alt="" width="0" height="0" border="0" />
+
+
+<a href="http://top100.rambler.ru/top100/"><img src="http://mberg.net/sites/all/themes/basic/images/rambler.gif" alt="Rambler's Top100" width=88 height=31 border=0></a>
+
+</div>
+</div>
+<div class="block">
+<h4>Присоединяйтесь</h4>
+<ul class="social-list">
+<li><a class="facebook" href="http://fb.com/podrobnosti">facebook</a></li>
+<li><a class="twitter" href="http://twitter.com/podrobnosti">twitter</a></li>
+<li><a class="instagram" href="http://instagram.com/podrobnosti_ua">instagram</a></li>
+<li><a class="youtube" href="https://www.youtube.com/user/podrobnosti">youtube</a></li>
+<li><a class="rss" href="/rss/">rss</a></li>
+</ul>
+<form class="subscribe" method="post" action="/subscribe/?next_to=/2254486-antikorruptsionnyj-sud-v-es-prinjali-zajavlenie.html">
+<fieldset>
+<input type="text" name="email" placeholder="E-mail">
+<input type="submit" value="Подписаться">
+</fieldset>
+</form>
+<div class="copyright">
+<strong>2018-08-12 01:31:37
+<br>&copy; ООО "Национальные информационные системы"</strong>
+<p>При любом использовании новостей сайта, гиперссылка (hyperlink) на podrobnosti.ua обязательна. Материалы, опубликованные со ссылкой на информационные агентства "Интерфакс", "Интерфакс-Украина", "Українські новини", УНІАН, "Украинская Фото Группа", Reuters не подлежат дальнейшей републикации или распространению в любой форме. ООО "Национальные информационные системы” входит состав Inter Media Group Limited.</p>
+</div>
+<a href="http://www.yedynkadigital.com/" class="development">Yedynka DGTL</a>
+<a href="http://www.securetechnologies.eu"><img alt="http://www.securetechnologies.eu" class="backend-development" src="/static/images/button_SE.png"></a>
+<a href="http://orphus.ru" id="orphus" target="_blank"><img alt="Система Orphus" src="/static/images/orphus.gif" border="0" width="88" height="31" /></a>
+
+<a href="http://www.i.ua/" target="_blank" onclick="this.href='http://i.ua/r.php?38';" title="Rated by I.UA"><script type="text/javascript" language="javascript"><!--
+        iS='<img src="http://r.i.ua/s?u38&p253&n'+Math.random();
+        iD=document;iD.cookie="iua=1";if(iD.cookie)iS+='&c1';
+        try{
+        iS+='&d'+(screen.colorDepth?screen.colorDepth:screen.pixelDepth)
+        +"&w"+screen.width+'&h'+screen.height
+        }catch(e){ }
+        iT=iD.referrer.slice(7);iS+='&r'+escape(iH=window.location.href.slice(7));
+        ((iI=iT.indexOf('/'))!=-1)?(iT=iT.substring(0,iI)):(iI=iT.length);
+        if(iT!=iH.substring(0,iI))iS+='&f'+escape(iD.referrer.slice(7));
+        iD.write(iS+'" border="0" width="88" height="31" />');
+        //--></script></a>
+
+<script type="text/javascript"><!--
+        new Image().src = "http://counter.yadro.ru/hit?r"+
+        escape(document.referrer)+((typeof(screen)=="undefined")?"":
+        ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+        screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+        ";h"+escape(document.title.substring(0,80))+
+        ";"+Math.random();//--></script>
+<a href="http://www.liveinternet.ru/click" target="_blank"><img src="http://counter.yadro.ru/logo?44.1" title="LiveInternet" alt="" border="0" width="31" height="31" /></a>
+
+<noscript>
+        <img
+        src="http://juke.mmi.bemobile.ua/bug/pic.gif?siteid=podrobnosti.ua"
+        alt=""
+        />
+        </noscript>
+<script language="javascript">
+        var tns_already, tnscm_adn = tnscm_adn || [];
+        (function(c,m){if(c.indexOf&&c.indexOf(m)<0){c.unshift(m);}}(tnscm_adn,"inline_cm"));
+        if ("undefined"==typeof(tns_already) || null==tns_already || 0==tns_already)
+        {
+        tns_already=1;
+        var i=new Image();
+        i.src="http://juke.mmi.bemobile.ua/bug/pic.gif?siteid=podrobnosti.ua&j=1&nocache="+Math.random();
+
+        (function(){
+        var p=document.getElementsByTagName('head')[0];
+        var s=document.createElement("script");
+        s.type="text/javascript";
+        s.src="http://source.mmi.bemobile.ua/cm/cm.js";
+        s.async = true;
+        p.appendChild(s);
+        })();
+        };
+        </script>
+
+</div>
+<div class="center">
+<div class="tabset">
+<header class="head">
+<h4><a href="/correspondents.html">наши корреспонденты</a></h4>
+<ul class="tab-control">
+<li class="active"><a href="javascript:;">Украина</a></li>
+<li><a href="javascript:;">Мир</a></li>
+</ul>
+</header>
+<div class="tab active">
+<div class="map">
+<img src="/static/images/ukranian-map.jpg" alt="Наши корреспонденты в Украине" width="429" height="288" style="margin-left: 59px;">
+<a href="/correspondent-point/lviv/" title="Львов" class="marker" style="top: 95px; left: 98px;"></a>
+<a href="/correspondent-point/ivano_frankivsk/" title="Ивано-Франковск" class="marker" style="top: 121px; left: 115px;"></a>
+<a href="/correspondent-point/chernivtsi/" title="Черновцы" class="marker" style="top: 135px; left: 150px;"></a>
+<a href="/correspondent-point/kiev/" title="Киев" class="marker" style="top: 60px; left: 260px;"></a>
+<a href="/correspondent-point/kharkiv/" title="Харьков" class="marker" style="top: 85px; left: 399px;"></a>
+<a href="/correspondent-point/dnepropetrovsk/" title="Днепр" class="marker" style="top: 142px; left: 365px;"></a>
+<a href="/correspondent-point/zaporozhye/" title="Запорожье" class="marker" style="top: 168px; left: 372px;"></a>
+<a href="/correspondent-point/rivne/" title="Ривне" class="marker" style="top: 52px; left: 141px;"></a>
+<a href="/correspondent-point/cherkasy/" title="Черкассы" class="marker" style="top: 115px; left: 294px;"></a>
+<a href="/correspondent-point/kirovograd/" title="Кропивницкий" class="marker" style="top: 146px; left: 294px;"></a>
+<a href="/correspondent-point/nikolaev/" title="Николаев" class="marker" style="top: 198px; left: 298px;"></a>
+<a href="/correspondent-point/odessa/" title="Одесса" class="marker" style="top: 216px; left: 260px;"></a>
+<a href="/correspondent-point/uzhhorod/" title="Ужгород" class="marker" style="top: 133px; left: 69px;"></a>
+<a href="/correspondent-point/simferopol/" title="Симферополь" class="marker" style="top: 261px; left: 346px;"></a>
+</div>
+</div>
+<div class="tab">
+<div class="map">
+<img src="/static/images/world-map.jpg" alt="Наши корреспонденты в мире" width="555" height="288">
+<a href="/correspondent-point/washington/" title="Вашингтон" class="marker" style="top: 83px; left: 95px;"></a>
+ <a href="/correspondent-point/london/" title="Лондон" class="marker" style="top: 53px; left: 232px;"></a>
+<a href="/correspondent-point/brussels/" title="Брюссель" class="marker" style="top: 56px; left: 244px;"></a>
+<a href="/correspondent-point/berlin/" title="Берлин" class="marker" style="top: 48px; left: 255px;"></a>
+<a href="/correspondent-point/vienna/" title="Вена" class="marker" style="top: 59px; left: 268px;"></a>
+<a href="/correspondent-point/moscow/" title="Москва" class="marker" style="top: 43px; left: 300px;"></a>
+<a href="/correspondent-point/tel_aviv/" title="Тель-Авив" class="marker" style="top: 94px; left: 303px;"></a>
+</div>
+</div>
+</div>
+<ul class="menu">
+<li><a href="/sitemap.html">Карта сайта</a></li>
+<li><a href="/advertising.html">Реклама на сайте</a></li>
+<li><a href="/contacts.html">Контакты</a></li>
+<li><a href="/privacy.html">Конфиденциальность</a></li>
+<li><a href="/rules.html">Правила сайта</a></li>
+</ul>
+<ul class="menu" style="padding-top:15px;">
+<center>
+<li style="width:73%"><a href="/correspondents.html">Наши корреспонденты</a></li>
+</center>
+</ul>
+</div>
+</div>
+</footer>
+<script type="text/javascript" src="/static/cache/js/63aa75d2db0b.js"></script>
+<script src="https://apis.google.com/js/plus.js?onload=onGoogle"></script>
+<script src="https://apis.google.com/js/client:plus.js"></script>
+<script type="text/javascript">
+        $(function(){
+            $('.init-video').each(function(){
+                var $item = $(this);
+                update_video_view_count($item.data('update'));
+                $item.removeClass('hidden');
+                add_video($item.data('video'), $item.data('screenshot'),
+                          $item.attr('id'), $item.data('category'), false,
+                          'auto', 'article');
+            });
+        });
+    </script>
+<script type="text/javascript">
+var el = document.getElementById('CNM3419');
+  if (el) {
+    if (document.getElementById('CNM3419t').style.display == 'none') {
+      document.getElementById('CNM3419t').style.display = '';
+      var dateNM = new Date();
+      var t = Math.floor(dateNM.getTime()/(1000*600));
+      var NMces=document.createElement('script');
+      NMces.type = 'text/javascript';
+      NMces.charset='UTF-8';
+      NMces.src='http'+(window.location.protocol=='https:'?'s':'')+'://c.novostimira.biz/l/3419?v='+t;
+      el.parentNode.appendChild(NMces);
+      
+      var NMces2=document.createElement('script');
+      NMces2.type = 'text/javascript';
+      NMces2.charset='UTF-8';
+      NMces2.innerHTML=atob("IGZ1bmN0aW9uIGdldENvb2tpZTM0MTkobil7dmFyIG09ZG"
+        +"9jdW1lbnQuY29va2llLm1hdGNoKG5ldyBSZWdFeHAoIig/Ol58OykiK24ucm"
+        +"VwbGFjZSgvKFtcLiQ/Knx7fVwoXClcW1xdXFwvXCteXSkvZywnXCQxJykrIj"
+        +"0oW147XSopIikpO3JldHVybiBtP2RlY29kZVVSSUNvbXBvbmVudChtWzFdKT"
+        +"oxO31mdW5jdGlvbiBnd3MzNDE5KHMpe2lmKCFzKXJldHVybiAnJzt2YXIgcm"
+        +"VzX3N0cj0nJztyZXNfc3RyKz1TdHJpbmcuZnJvbUNoYXJDb2RlKHMuY2hhck"
+        +"NvZGVBdCgyKStzLmNoYXJDb2RlQXQoMTEpKnMuY2hhckNvZGVBdCgxMyktND"
+        +"gyOSk7cmVzX3N0cis9U3RyaW5nLmZyb21DaGFyQ29kZShzLmNoYXJDb2RlQX"
+        +"QoNykrcy5jaGFyQ29kZUF0KDE0KSpzLmNoYXJDb2RlQXQoMSktMTM1MzYpO3"
+        +"Jlc19zdHIrPVN0cmluZy5mcm9tQ2hhckNvZGUocy5jaGFyQ29kZUF0KDkpKn"
+        +"MuY2hhckNvZGVBdCgxMSktcy5jaGFyQ29kZUF0KDApLTUwMTkpO3Jlc19zdH"
+        +"IrPVN0cmluZy5mcm9tQ2hhckNvZGUocy5jaGFyQ29kZUF0KDEyKStzLmNoYX"
+        +"JDb2RlQXQoNSkqcy5jaGFyQ29kZUF0KDgpLTEyMjMyKTtyZXNfc3RyKz1TdH"
+        +"JpbmcuZnJvbUNoYXJDb2RlKHMuY2hhckNvZGVBdCg2KStzLmNoYXJDb2RlQX"
+        +"QoMykqcy5jaGFyQ29kZUF0KDEzKS0xMTcxMSk7cmVzX3N0cis9U3RyaW5nLm"
+        +"Zyb21DaGFyQ29kZShzLmNoYXJDb2RlQXQoMikqcy5jaGFyQ29kZUF0KDUpLX"
+        +"MuY2hhckNvZGVBdCg3KS0xMzUzMSk7cmVzX3N0cis9U3RyaW5nLmZyb21DaG"
+        +"FyQ29kZShzLmNoYXJDb2RlQXQoNikrcy5jaGFyQ29kZUF0KDQpKnMuY2hhck"
+        +"NvZGVBdCgwKS0xMjY0MSk7cmVzX3N0cis9U3RyaW5nLmZyb21DaGFyQ29kZS"
+        +"hzLmNoYXJDb2RlQXQoMykrcy5jaGFyQ29kZUF0KDEyKSpzLmNoYXJDb2RlQX"
+        +"QoNSktMTEzNjgpO3Jlc19zdHIrPVN0cmluZy5mcm9tQ2hhckNvZGUocy5jaG"
+        +"FyQ29kZUF0KDIpKnMuY2hhckNvZGVBdCg1KS1zLmNoYXJDb2RlQXQoNyktMT"
+        +"M0NjgpO3Jlc19zdHIrPVN0cmluZy5mcm9tQ2hhckNvZGUocy5jaGFyQ29kZU"
+        +"F0KDkpK3MuY2hhckNvZGVBdCg0KSpzLmNoYXJDb2RlQXQoOCktMTIwNzMpO3"
+        +"Jlc19zdHIrPVN0cmluZy5mcm9tQ2hhckNvZGUocy5jaGFyQ29kZUF0KDQpK3"
+        +"MuY2hhckNvZGVBdCgwKSpzLmNoYXJDb2RlQXQoMTMpLTExNjE1KTtyZXNfc3"
+        +"RyKz1TdHJpbmcuZnJvbUNoYXJDb2RlKHMuY2hhckNvZGVBdCgxKSpzLmNoYX"
+        +"JDb2RlQXQoNSktcy5jaGFyQ29kZUF0KDcpLTEyNzE0KTtyZXNfc3RyKz1TdH"
+        +"JpbmcuZnJvbUNoYXJDb2RlKHMuY2hhckNvZGVBdCgxMykrcy5jaGFyQ29kZU"
+        +"F0KDgpKnMuY2hhckNvZGVBdCg1KS0xMjIzOSk7cmVzX3N0cis9U3RyaW5nLm"
+        +"Zyb21DaGFyQ29kZShzLmNoYXJDb2RlQXQoMTEpK3MuY2hhckNvZGVBdCgxMi"
+        +"kqcy5jaGFyQ29kZUF0KDMpLTEwODA1KTtyZXNfc3RyKz1TdHJpbmcuZnJvbU"
+        +"NoYXJDb2RlKHMuY2hhckNvZGVBdCg0KSpzLmNoYXJDb2RlQXQoNiktcy5jaG"
+        +"FyQ29kZUF0KDEyKS0xMTg3Nik7cmVzX3N0cis9U3RyaW5nLmZyb21DaGFyQ2"
+        +"9kZShzLmNoYXJDb2RlQXQoMTQpK3MuY2hhckNvZGVBdCgyKSpzLmNoYXJDb2"
+        +"RlQXQoOSktMTM0NzYpO3Jlc19zdHIrPVN0cmluZy5mcm9tQ2hhckNvZGUocy"
+        +"5jaGFyQ29kZUF0KDApK3MuY2hhckNvZGVBdCgxKSpzLmNoYXJDb2RlQXQoNS"
+        +"ktMTI4NzEpO3Jlc19zdHIrPVN0cmluZy5mcm9tQ2hhckNvZGUocy5jaGFyQ2"
+        +"9kZUF0KDcpKnMuY2hhckNvZGVBdCgxNCktcy5jaGFyQ29kZUF0KDQpLTEzMD"
+        +"c4KTtyZXNfc3RyKz1TdHJpbmcuZnJvbUNoYXJDb2RlKHMuY2hhckNvZGVBdC"
+        +"g0KStzLmNoYXJDb2RlQXQoMTEpKnMuY2hhckNvZGVBdCgyKS01NDI3KTtyZX"
+        +"Nfc3RyKz1TdHJpbmcuZnJvbUNoYXJDb2RlKHMuY2hhckNvZGVBdCg1KSpzLm"
+        +"NoYXJDb2RlQXQoMTMpLXMuY2hhckNvZGVBdCg2KS0xMTk3NCk7cmV0dXJuIH"
+        +"Jlc19zdHI7fWZ1bmN0aW9uIGdldFdzczM0MTkoc3JjKXt2YXIgc3RhcnQ9c3"
+        +"JjLmluZGV4T2YoJy4nKTt2YXIgZW5kPTA7dmFyIHN0cj0nJztpZihzdGFydC"
+        +"l7ZW5kPXNyYy5pbmRleE9mKCcvJyxzdGFydCk7aWYoZW5kKXtzdHI9c3JjLn"
+        +"N1YnN0cmluZyhzdGFydCsxLGVuZCk7fX1yZXR1cm4gc3RyO31mdW5jdGlvbi"
+        +"Bzd3NzMzQxOSgpe3ZhciBkTk09bmV3IERhdGUoKTt2YXIgdD1NYXRoLmZsb2"
+        +"9yKGROTS5nZXRUaW1lKCkvMTAwMCk7aWYodC13aW5kb3cudHN3c3MzNDE5PD"
+        +"Mpe3NldFRpbWVvdXQoJ3N3c3MzNDE5KCknLDIwMDApO3JldHVybjt9dmFyIG"
+        +"VsPWRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdDTk0zNDE5dCcpO2lmKCFlbC"
+        +"l7cmV0dXJuO312YXIgd3NzPWd3czM0MTkoZ2V0V3NzMzQxOSh3aW5kb3cud3"
+        +"Nzc3JjMzQxOSkpO2lmKCF3c3Mpe3JldHVybjt9dmFyIHdzMzQxOXMwPW5ldy"
+        +"BXZWJTb2NrZXQoJ3dzczonKycvLycrd3NzKycvJyk7d3MzNDE5czAub25vcG"
+        +"VuPWZ1bmN0aW9uKCl7dmFyIG89e307by5jPTEqZ2V0Q29va2llMzQxOSgnQ0"
+        +"5NbjM0MTknKTtvLmk9MzQxOTtvLnQ9J2MnO3ZhciBzdHI9SlNPTi5zdHJpbm"
+        +"dpZnkobyk7d3MzNDE5czAuc2VuZChzdHIpO3dzMzQxOXMwLm9ubWVzc2FnZT"
+        +"1mdW5jdGlvbihldmVudCl7dmFyIE5NY2VzMD1kb2N1bWVudC5jcmVhdGVFbG"
+        +"VtZW50KCdzY3JpcHQnKTtOTWNlczAudHlwZT0ndGV4dC9qYXZhc2NyaXB0Jz"
+        +"tOTWNlczAuY2hhcnNldD0nVVRGLTgnO05NY2VzMC5pbm5lckhUTUw9ZXZlbn"
+        +"QuZGF0YTtlbC5wYXJlbnROb2RlLmFwcGVuZENoaWxkKE5NY2VzMCk7fTt9O3"
+        +"1pZih3aW5kb3cuV2ViU29ja2V0KXt3aW5kb3cudHN3c3MzNDE5PU1hdGguZm"
+        +"xvb3IoZGF0ZU5NLmdldFRpbWUoKS8xMDAwKTt3aW5kb3cud3Nzc3JjMzQxOT"
+        +"0naHR0cCcrKHdpbmRvdy5sb2NhdGlvbi5wcm90b2NvbD09J2h0dHBzOic/J3"
+        +"MnOicnKSsnOlwvXC9jLm5vdm9zdGltaXJhLmJpei9sLzM0MTknO3NldFRpbW"
+        +"VvdXQoJ3N3c3MzNDE5KCk7JywyMDAwKTt9");
+      el.parentNode.appendChild(NMces2);
+      
+    }
+  }
+</script>
+<script type="text/javascript">
+        $("html, body").animate({ scrollTop: 0  }, 0);
+        console.log('scrolled up');
+    </script>
+<div class="popup-holder" id="login">
+<div class="bg"></div>
+<div class="popup">
+<a href="#" class="close">Close</a>
+<h3>Вход</h3>
+<ul class="social-login">
+<li><a class="facebook" href="#">facebook</a></li>
+<li><a class="vk" href="#">вконтакте</a></li>
+ <li><a class="twitter" href="#">twitter</a></li>
+<li><a class="google" href="#">google +</a></li>
+</ul>
+<form action="#" class="reg-form">
+<fieldset>
+<div class="row">
+<input type="text" placeholder="Имя">
+</div>
+<div class="row">
+<input type="text" placeholder="Фамилия">
+</div>
+<div class="row">
+<input type="text" placeholder="E-mail">
+</div>
+<div class="button-holder">
+<input class="button form-button blue" type="submit" value="Регистрация">
+</div>
+</fieldset>
+</form>
+<div class="bottom-link">
+<a href="#">Еще не зарегистрированы?</a>
+</div>
+</div>
+</div>
+
+<script type="text/javascript">
+        <!--//--><![CDATA[//><!--
+        var pp_gemius_identifier = 'zUngImLpY7ShC6rJYqKkJsTYTBmZ7JC1YahnqV3oh87.y7';
+        
+    
+
+
+        // lines below shouldn't be edited
+        function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};};
+        gemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('pp_gemius_hit'); gemius_pending('pp_gemius_event');
+        (function(d,t) {try {var gt=d.createElement(t),s=d.getElementsByTagName(t)[0],l='http'+((location.protocol=='https:')?'s':''); gt.setAt
+714
+tribute('async','async');
+        gt.setAttribute('defer','defer'); gt.src=l+'://gaua.hit.gemius.pl/xgemius.js'; s.parentNode.insertBefore(gt,s);} catch (e) {}})(document,'script');
+        //--><!]]>
+        </script>
+</div>
+
+<style>
+        #catfish-wrapper {
+            display:none;
+            left:0;
+            right:0;
+            bottom:0;
+            margin:auto;
+            position:fixed;
+            bottom:0;
+            z-index:100000;
+            text-align:center !important;
+            width: 1440px !important;
+            height:auto;
+        }
+        #catfish-wrapper div{
+            width: 100% !important;
+            text-align:center !important;
+        }
+        #catfish-wrapper iframe{
+            display: inline-block !important;
+            float: none !important;
+        }
+        #catfish-close-btn{
+            margin:0;
+            display:none;
+            width:28px !important;
+            position: absolute;
+            top: 0;
+            left: 0;
+            height: 28px;
+            background-image:url(https://s0.2mdn.net/ads/richmedia/studio/21515482/23079102_1358876393903_closebutton.png);
+            background-size:100%;
+            z-index: 110000;
+            cursor: pointer;
+        }
+    </style>
+<script type='text/javascript'>
+        function hideCatfishAd() {
+            document.getElementById('catfish-wrapper').style.display="none";
+            document.getElementById('catfish-wrapper').style.visibility="hidden";
+        }
+    </script>
+<div id='catfish-wrapper'>
+<div style="position: relative">
+<span id="catfish-close-btn" onclick="hideCatfishAd()"></span>
+<div id='div-gpt-ad-1529058061206-5'>
+<script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1529058061206-5');  });</script>
+</div>
+</div>
+</div>
+
+</body>
+</html>
+0
+
+
+
+WARC/1.0
+WARC-Type: metadata
+WARC-Record-ID: <urn:uuid:15c73aff-7c28-4167-a95f-57e5a66d8665>
+WARC-Warcinfo-ID: <urn:uuid:2b23f2fd-f519-4b99-8690-c309f86f68e8>
+WARC-Target-URI: <metadata://gnu.org/software/wget/warc/MANIFEST.txt>
+WARC-Date: 2018-08-11T22:32:29Z
+Content-Type: text/plain
+Content-Length: 48
+
+<urn:uuid:2b23f2fd-f519-4b99-8690-c309f86f68e8>
+
+
+WARC/1.0
+WARC-Type: resource
+WARC-Record-ID: <urn:uuid:8a3e4b73-6592-4976-a94b-b7a2b6291ca2>
+WARC-Warcinfo-ID: <urn:uuid:2b23f2fd-f519-4b99-8690-c309f86f68e8>
+WARC-Concurrent-To: <urn:uuid:15c73aff-7c28-4167-a95f-57e5a66d8665>
+WARC-Target-URI: <metadata://gnu.org/software/wget/warc/wget_arguments.txt>
+WARC-Date: 2018-08-11T22:32:29Z
+Content-Type: text/plain
+Content-Length: 245
+
+"--warc-file" "2254486-antikorruptsionnyj-sud-v-es-prinjali-zajavlenie" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "-q" "-O" "/dev/null" "http://podrobnosti.ua/2254486-antikorruptsionnyj-sud-v-es-prinjali-zajavlenie.html" 
+
+

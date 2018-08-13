@@ -1,0 +1,1100 @@
+WARC/1.0
+WARC-Type: warcinfo
+Content-Type: application/warc-fields
+WARC-Date: 2018-08-11T21:50:25Z
+WARC-Record-ID: <urn:uuid:46fc7fe8-5687-4154-b50a-ba4cc1211b4c>
+WARC-Filename: 544460-tramp-kritika-fbr-komi-makkeib.warc
+Content-Length: 399
+
+software: Wget/1.19.5 (linux-gnu)
+format: WARC File Format 1.0
+conformsTo: http://bibnum.bnf.fr/WARC/WARC_ISO_28500_version1_latestdraft.pdf
+robots: classic
+wget-arguments: "--warc-file" "544460-tramp-kritika-fbr-komi-makkeib" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "-q" "-O" "/dev/null" "https://russian.rt.com/world/article/544460-tramp-kritika-fbr-komi-makkeib" 
+
+
+
+WARC/1.0
+WARC-Type: request
+WARC-Target-URI: <https://russian.rt.com/world/article/544460-tramp-kritika-fbr-komi-makkeib>
+Content-Type: application/http;msgtype=request
+WARC-Date: 2018-08-11T21:50:26Z
+WARC-Record-ID: <urn:uuid:655b6fb9-80eb-43f0-b26b-259db7142df7>
+WARC-IP-Address: 207.244.80.181
+WARC-Warcinfo-ID: <urn:uuid:46fc7fe8-5687-4154-b50a-ba4cc1211b4c>
+Content-Length: 192
+
+GET /world/article/544460-tramp-kritika-fbr-komi-makkeib HTTP/1.1
+User-Agent: Wget/1.19.5 (linux-gnu)
+Accept: */*
+Accept-Encoding: identity
+Host: russian.rt.com
+Connection: Keep-Alive
+
+
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <urn:uuid:9c58e9f7-71e4-4bd7-b3b7-839bace7f541>
+WARC-Warcinfo-ID: <urn:uuid:46fc7fe8-5687-4154-b50a-ba4cc1211b4c>
+WARC-Concurrent-To: <urn:uuid:655b6fb9-80eb-43f0-b26b-259db7142df7>
+WARC-Target-URI: <https://russian.rt.com/world/article/544460-tramp-kritika-fbr-komi-makkeib>
+WARC-Date: 2018-08-11T21:50:26Z
+WARC-IP-Address: 207.244.80.181
+WARC-Block-Digest:  4ֵ�U
+WARC-Payload-Digest: 
+Content-Type: application/http;msgtype=response
+Content-Length: 111759
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Sat, 11 Aug 2018 21:50:26 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Keep-Alive: timeout=5
+X-4vcta: H8296
+
+4000
+
+    
+
+                
+    
+    <!DOCTYPE html><html prefix="og: http://ogp.me/ns#"  lang="ru"><head><meta charset="UTF-8"><meta name="msvalidate.01" content="36879475773792950F4872586A371571" /><meta name="apple-mobile-web-app-capable" content="no"><meta name="format-detection" content="telephone=yes"><meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"><meta name="HandheldFriendly" content="true"><meta name="MobileOptimzied" content="width"><meta http-equiv="cleartype" content="on"><meta name="navigation" content="tabbed" ><title>«Клоуны и неудачники»: почему Трамп раскритиковал бывших высокопоставленных сотрудников ФБР — РТ на русском</title><link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" /><link rel="icon" href="/favicon.ico" type="image/x-icon" /><link rel="apple-touch-icon" href="/static/blocks/touch-icon/apple-touch-icon-precomposed.png"/><link rel="apple-touch-icon" sizes="72x72" href="/static/blocks/touch-icon/apple-touch-icon-72x72-precomposed.png" /><link rel="apple-touch-icon" sizes="114x114" href="/static/blocks/touch-icon/apple-touch-icon-114x114-precomposed.png" /><link rel="apple-touch-icon" sizes="144x144" href="/static/blocks/touch-icon/apple-touch-icon-144x144-precomposed.png" /><meta name="description" content="«Клоуны и неудачники»: почему Трамп раскритиковал бывших высокопоставленных сотрудников ФБР - Читайте подробнее на сайте РТ на русском." /><meta property="fb:pages" content="240228462761886" /><meta name="google-site-verification" content="GYFQiVoLOXGoiBZb6BPk_PoFj173iKc7_nZ1eG1k-x4"><meta property="og:site_name" content="RT на русском" /><meta property="og:locale" content="ru_RU" /><meta property="og:type" content="article" /><meta property="og:title" content="«Клоуны и неудачники»: почему Трамп раскритиковал бывших высокопоставленных сотрудников ФБР" /><meta property="og:url" content="https://russian.rt.com/world/article/544460-tramp-kritika-fbr-komi-makkeib" /><meta property="og:description" content="Бывший директор ФБР Джеймс Коми, его заместитель Эндрю Маккейб и ряд других экс-сотрудников нанесли серьёзный ущерб репутации Федерального бюро расследований США. Об этом заявил Дональд Трамп. По словам американского президента, множество людей пострадали от действий «этих клоунов и неудачников». Эксперты отмечают, что противостояние главы Белого дома и разведсообщества обострилось в преддверии промежуточных выборов в конгресс. Аналитики считают, что отношения Трампа с разведчиками не улучшатся и после голосования, поскольку американский лидер нарушает «сложившиеся несколько десятилетий назад методы работы спецслужб»." /><link rel="amphtml" href="https://russian.rt.com/world/article/544460-tramp-kritika-fbr-komi-makkeib/amp"><meta name="twitter:title" content="«Клоуны и неудачники»: почему Трамп раскритиковал бывших высокопоставленных сотрудников ФБР" /><meta name="spotim:recommended_page" content="false"/><meta name="published_time_telegram" content="2018-08-11T21:19:00+03:00" /><meta property="og:image" content="https://cdni.rt.com/russian/images/2018.08/article/5b6f2898183561b1628b4578.jpg"/><meta property="og:image:type" content="image/jpeg" /><meta property="og:image:width" content="840" /><meta property="og:image:height" content="450" /><meta name="twitter:image" content="https://cdni.rt.com/russian/images/2018.08/article/5b6f2898183561b1628b4578.jpg" /><meta name="twitter:site" content="@RT_russian" /><meta name="twitter:card" content="summary_large_image"><meta name="twitter:app:name:iphone" content="iphone" /><meta name="twitter:app:id:iphone" content="iphone" /><meta name="twitter:app:url:iphone" content="url" /><meta name="twitter:app:name:ipad" content="ipad" /><meta name="twitter:app:id:ipad" content="ipad" /><meta name="twitter:app:url:ipad" content="url" /><meta name="twitter:app:name:googleplay" content="googleplay" /><meta name="twitter:app:id:googleplay" content="googleplay" /><meta name="twitter:app:url:googleplay" content="googleplay" /><meta name="apple-itunes-app" content="app-id=649316948, app-argument=russianrtnews://articles/544460" /><script type="text/javascript">(window.Image ? (new Image()) : document.createElement('img')).src = 'https://vk.com/rtrg?p=VK-RTRG-109324-1Xxct';</script><script type="text/javascript" src="//pp.lp4.io/app/59/4b/a9/594ba919e45a1d4b4ab1e468.js" async="async"></script><meta name="mediator_theme" content="Мир" /><meta name="mediator" content="544460" /><meta name="mediator_published_time" content="2018-08-11T21:19:00+03:00" /><meta name="mediator_author" content="Роман Шимаев"/><meta name="mediator_author" content="Владимир Смирнов"/><meta name="mediator_author" content="Марианна Чурсина"/><script>
+                var _prum = [['id', '54ca2d51abe53ddb6be85738'],
+                    ['mark', 'firstbyte', (new Date()).getTime()]];
+                (function() {
+                    var s = document.getElementsByTagName('script')[0]
+                        , p = document.createElement('script');
+                    p.async = 'async';
+                    p.src = '//rum-static.pingdom.net/prum.min.js';
+                    s.parentNode.insertBefore(p, s);
+                })();
+            </script><!-- rev-hash --><link rel="stylesheet" href="/static/css/template.css?v=2207e272jghfjsd7f8khfjs7fg5gh6dc9n9567sasdiuo5yuiy8x73lsghj1asdc67d7cd7cj4n675771871c7654sad6544"/><!-- end --><link rel="stylesheet" href="/static/css/label.css?v=5"/><script src="https://yastatic.net/pcode/adfox/header-bidding.js"></script><script type="text/javascript">
+                    if(typeof _adv == 'undefined') var _adv = {};
+                    _adv.section = 'world';
+                    _adv.account = 258144;
+                    _adv.place = {
+                        'parallax': {
+                            ownerId: _adv.account,
+                            containerId: 'parallax',
+                            params: {
+                                p1: 'bziyi',
+                                p2: 'fumy',
+                                puid1: 'world'
+                            }
+                        },
+                        'billboard': {
+                            ownerId: _adv.account,
+                            containerId: 'billboard',
+                            params: {
+                                p1: 'byppm',
+                                p2: 'y',
+                                puid1: 'world'
+                            }
+                        },
+                        '240x400': {
+                            ownerId: _adv.account,
+                            containerId: '240x400',
+                            params: {
+                                p1: 'byppp',
+                                p2: 'fsys',
+                                puid1: 'world'
+                            }
+                        },
+                        '240x400x2': {
+                            ownerId: _adv.account,
+                            containerId: '240x400x2',
+                            params: {
+                                p1: 'byppq',
+                                p2: 'fsyt',
+                                puid1: 'world'
+                            }
+                        },
+                        '240x400x3': {
+                            ownerId: _adv.account,
+                            containerId: '240x400x3',
+                            params: {
+                                p1: 'byppr',
+                                p2: 'fsyu',
+                                puid1: 'world'
+                            }
+                        },
+                        'leaderboard': {
+                            ownerId: _adv.account,
+                            containerId: 'leaderboard',
+                            params: {
+                                p1: 'byppn',
+                                p2: 'fsyv',
+                                puid1: 'world'
+                            }
+                        },
+                        'leaderboardx2': {
+                            ownerId: _adv.account,
+                            containerId: 'leaderboardx2',
+                            params: {
+                                p1: 'byppo',
+                                p2: 'fsyw',
+                                puid1: 'world'
+                            }
+                        }
+                    };
+                    _adv.adfox_hb = {
+                        biddersMap: {'criteo':'750428','adriver':'750427'},
+                        timeout: 500,
+                        adUnits: [ {
+                            code: 'billboard',
+                            sizes: [[970,250 ], [970,90]],
+                            bids: [{
+                                bidder: 'criteo',
+                                params: {
+                                    zoneid: 1104886
+                                }
+                            }, {
+                                bidder: 'criteo',
+                                params: {
+                                    zoneid: 1104884
+                                }
+                            }, {
+                                bidder: 'adriver',
+                                params: {
+                                    siteid: '9:rtcom_970x90'
+                                }
+                            }
+                            ]
+                        }, {
+                            code: '240x400x2',
+                            sizes: [300,600],
+                            bids: [ {
+                                bidder: 'criteo',
+                                params: {
+                                    zoneid: 1104882,
+                                }
+                            }, {
+                                bidder: 'adriver',
+                                params: {
+                                    siteid: '9:rtcom_300x600_mid'
+                                }
+                            }
+                            ]
+                        }, {
+                            code: '240x400x3',
+                            sizes: [300,600],
+                            bids: [ {
+                                bidder: 'criteo',
+                                params: {
+                                    zoneid: 1104883,
+                                }
+                            }, {
+                                bidder: 'adriver',
+                                params: {
+                                    siteid: '9:rtcom_300x600_bottom'
+                                }
+                            }
+                            ]
+                        }]
+                    };
+                    Ya.headerBidding.setSettings(_adv.adfox_hb);
+                </script><script src="https://yastatic.net/pcode/adfox/loader.js"></script><script src="/static/js/inpage/rt.ad.wrapper.min.js"></script><script>
+            var charsThresold = 3000;
+
+            function insertAfter(newNode, referenceNode){
+
+                referenceNode.parentNode.insertBefore(newNode, referenceNode.nextSibling);
+            }
+            function findContentAdPlacement(selector, cb){
+
+                var paragraphs = document.querySelectorAll(selector);
+                var charsCount = 0;
+                var refParagraph = false;
+
+                if(paragraphs.length){
+
+                    for(var i=0; i < paragraphs.length; i++){
+
+                        if(charsCount < charsThresold){
+
+                            var text = paragraphs[i].innerText;
+
+                            charsCount = charsCount + text.length;
+
+                            if(charsCount > charsThresold||charsCount == charsThresold){
+
+                                refParagraph = paragraphs[i];
+
+                            }
+
+                        }
+
+                    }
+
+                    if(refParagraph) cb(refParagraph);
+
+                }
+            }
+            function insertParallax(refNode){
+
+                var _div = document.createElement('div');
+                _div.id = 'parallax';
+
+                insertAfter(_div, refNode);
+
+                window.Ya.adfoxCode.create(_adv.place['parallax']);
+            }
+        </script></head><body><div class="layout "><div class="offers" id="offers"></div><div class="layout__header" id="layout__header"><div class="header js-header" id="header"><div class="header__section header__section_gray"><div class="header__content"><div class="header__social"><div class="socials "><ul class="socials__row "><li class="socials__item "><a href="//vk.com/rt_russian" class="socials__link socials__link_vkontakte" target="_blank">
+                    RT на русском Вконтакте
+                </a></li><li class="socials__item "><a href="//twitter.com/RT_russian" class="socials__link socials__link_twitter" target="_blank">
+                    Twitter RT Russian
+                </a></li><li class="socials__item "><a href="//www.facebook.com/RTRussian" class="socials__link socials__link_facebook" target="_blank">
+                    Страница RT на facebook.com
+                </a></li><li class="socials__item "><a href="//ttttt.me/rt_russian" class="socials__link socials__link_telegram" target="_blank">
+                    Канал RT на Telegram.me
+                </a></li><li class="socials__item "><a href="//www.youtube.com/user/rtrussian" class="socials__link socials__link_youtube" target="_blank">
+                    Канал RT на YouTube.com
+                </a></li><li class="socials__item "><a href="//ok.ru/rtrussian" class="socials__link socials__link_odnoklassniki" target="_blank">
+                    RT на русском группа на Одноклассники.ru
+                </a></li><li class="socials__item "><a href="//plus.google.com/+rtrussian" class="socials__link socials__link_gplus" target="_blank">
+                    RT Russian в Google plus
+                </a></li><li class="socials__item "><a href="//rt-russian.livejournal.com/" class="socials__link socials__link_livejournal" target="_blank">
+                    Материалы RT на русском в Живом Журнале
+                </a></li><li class="socials__item "><a href="//www.instagram.com/rtrussian/" class="socials__link socials__link_instagram" target="_blank">
+                    Фотолента корреспондентов RT в Instagram
+                </a></li><li class="socials__item "><a href="//chats.viber.com/rtrussian" class="socials__link socials__link_viber" target="_blank">
+                    viber
+                </a></li><li class="socials__item "><a href="/rss" class="socials__link socials__link_rss" target="_blank">
+                    rss
+                </a></li></ul></div></div><div class="header__langs"><div class="langs"><div class="nav langs__nav "><ul class="nav__row nav__row_langs"><li class="nav__row-item nav__row-item_lang"><a class="nav__link nav__link_lang  link" href="//www.rt.com/" target="_blank" >
+
+                    ENG
+
+                </a></li><li class="nav__row-item nav__row-item_lang"><a class="nav__link nav__link_lang  link" href="//deutsch.rt.com/" target="_blank" >
+
+                    DE
+
+                </a></li><li class="nav__row-item nav__row-item_lang"><a class="nav__link nav__link_lang  link" href="//francais.rt.com/" t
+1118
+arget="_blank" >
+
+                    FR
+
+                </a></li><li class="nav__row-item nav__row-item_lang"><a class="nav__link nav__link_lang  link" href="//arabic.rt.com/" target="_blank" >
+
+                    العربية
+
+                </a></li><li class="nav__row-item nav__row-item_lang"><a class="nav__link nav__link_lang  link" href="//actualidad.rt.com/" target="_blank" >
+
+                    ESP
+
+                </a></li></ul></div></div></div><div class="header__media-projects"><div class="nav nav_media-projects "><ul class="nav__row nav__row_media-projects"><li class="nav__row-item nav__row-item_media-projects"><a class="nav__link nav__link_media-projects  link" href="//doc.rt.com/"  target="_blank">
+
+                    RTД
+
+                </a></li><li class="nav__row-item nav__row-item_media-projects"><a class="nav__link nav__link_media-projects  link" href="/trend/302293-rt360"  >
+
+                    RT360
+
+                </a></li></ul></div></div><div class="clears-mh"></div></div></div><div class="header__section header__section_border-bottom_gray"><div class="header__content"><div class="header__logo"><a class="logo " href="/"><span class="logo__image">RT</span><span class="logo__text">На русском</span></a></div><div class="header__seach-form"><form name="search" class="search" action="/search" ><div class="search__wrapper" role="search__submit-top"><input class="search__submit" type="checkbox" value="Поиск" id="search__submit-top" /><label class="search__submit-label" for="search__submit-top" ></label><input class="search__submit-label search__submit-label_header" type="submit" value="Поиск" /><div class="search__text" ><input type="text" name="q" value="" maxlength="100" /></div></div></form></div><ul class="mobile-nav"><li class="mobile-nav__item"><a class="js-mobile-element-nav mobile-nav__link mobile-nav__link_search">Search</a></li><li class="mobile-nav__item"><a class="js-mobile-element-nav mobile-nav__link mobile-nav__link_menu">Menu mobile</a></li></ul></div></div><div class="header__section" id="header-nav"><div class="header__content"><div class="nav  nav_header"><ul class="nav__row nav__row_center"><li class="nav__row-item nav__row-item_header"><a class="nav__link nav__link_header  link" href="/news"  >
+
+                    Новости
+
+                </a></li><li class="nav__row-item nav__row-item_header"><a class="nav__link nav__link_header nav__link_header_active link" href="/world"  >
+
+                    Мир
+
+                </a></li><li class="nav__row-item nav__row-item_header"><a class="nav__link nav__link_header  link" href="/russia"  >
+
+                    Россия
+
+                </a></li><li class="nav__row-item nav__row-item_header"><a class="nav__link nav__link_header  link" href="/ussr"  >
+
+                    Бывший СССР
+
+                </a></li><li class="nav__row-item nav__row-item_header"><a class="nav__link nav__link_header  link" href="/business"  >
+
+                    Экономика
+
+                </a></li><li class="nav__row-item nav__row-item_header"><a class="nav__link nav__link_header  link" href="/sport"  >
+
+                    Спорт
+
+                </a></li><li class="nav__row-item nav__row-item_header"><a class="nav__link nav__link_header  link" href="/science"  >
+
+                    Наука
+
+                </a></li><li class="nav__row-item nav__row-item_header"><a class="nav__link nav__link_header  link" href="/nopolitics"  >
+
+                    Без политики
+
+                </a></li><li class="nav__row-item nav__row-item_header"><a class="nav__link nav__link_header  link" href="/opinion"  >
+
+                    Мнения
+
+                </a></li><li class="nav__row-item nav__row-item_header"><a class="nav__link nav__link_header  link" href="/inotv"  target="_blank">
+
+                    ИноТВ
+
+                </a></li><li class="nav__row-item nav__row-item_header"><a class="nav__link nav__link_header  link" href="/foto"  >
+
+                    Фото
+
+                </a></li><li class="nav__row-item nav__row-item_header"><a class="nav__link nav__link_header  link" href="/video"  >
+
+                    Видео
+
+                </a></li></ul></div></div></div></div></div><div class="layout__popular-trends"><div class="layout__control-width">
+a7c
+<div class="nav nav_popular-trends"><ul class="nav__row nav__row_popular-trends"><li class="nav__row-item nav__row-item_popular-trends"><a class="nav__link nav__link_popular-trends" href="/trend/306261-situaciya-v-sirii" data-trends-link="5754f688c461887a5f8b45cf">
+                            Ситуация в Сирии
+                        </a></li><li class="nav__row-item nav__row-item_popular-trends"><a class="nav__link nav__link_popular-trends" href="/trend/335114-evropa" data-trends-link="5835d52fc46188aa738b47f4">
+                            Европа
+                        </a></li><li class="nav__row-item nav__row-item_popular-trends"><a class="nav__link nav__link_popular-trends" href="/trend/346584-sankcii" data-trends-link="586638cac46188666a8b48e1">
+                            Санкции
+                        </a></li><li class="nav__row-item nav__row-item_popular-trends"><a class="nav__link nav__link_popular-trends" href="/trend/354675-terakty" data-trends-link="588f50d2c46188fd248b45fc">
+                            Теракты
+                        </a></li><li class="nav__row-item nav__row-item_popular-trends"><a class="nav__link nav__link_popular-trends" href="/trend/335110-ssha" data-trends-link="5835d4cec4618889798b47a1">
+                            США
+                        </a></li><li class="nav__row-item nav__row-item_popular-trends"><a class="nav__link nav__link_popular-trends" href="/trend/336983-aziya" data-trends-link="583d8b92c36188b90a8b46f8">
+                            Азия
+                        </a></li><li class="nav__row-item nav__row-item_popular-trends"><a class="nav__link nav__link_popular-trends" href="/trend/349105-latinskaya-amerika" data-trends-link="5874f377c36188ce088b4721">
+                            Латинская Америка
+                        </a></li><li class="nav__row-item nav__row-item_popular-trends"><a class="nav__link nav__link_popular-trends" href="/trend/335108-blizhnii-vostok" data-trends-link="5835d446c46188aa738b47ee">
+                            Ближний Восток
+                        </a></li><li class="nav__row-item nav__row-item_popular-trends"><a class="nav__link nav__link_popular-trends" href="/trend/335329-turciya" data-trends-link="5836feffc3618836698b48cb">
+                            Турция
+                        </a></li><li class="nav__row-item nav__row-item_popular-trends"><a class="nav__link nav__link_popular-trends" href="/trend/335105-vneshnyaya-politika" data-trends-link="5835d35ec46188a6798b493b">
+                            Внешняя политика
+                        </a></li></ul></div>
+2c8
+<script>
+        (function () {
+            var list = ['5835d4cec4618889798b47a1'];
+            var next = true;
+            var links = [].slice.call(document.querySelectorAll('[data-trends-link]'), 0);
+            if(!links.length) {
+                return;
+            }
+            links.forEach(function (link) {
+                if (!next) return;
+                var id = link.getAttribute('data-trends-link');
+                if (~list.indexOf(id)) {
+                    link.classList.add('nav__link_bold');
+                    next = false;
+                }
+            })
+        })();
+    </script></div></div><div class="layout__wrapper layout__wrapper_article-page"><div class="layout__breaking ">
+23d0
+</div><div class="layout__banners rows__bottom"><div id="billboard"><script type="text/javascript">
+                        window.Ya.adfoxCode.create(_adv.place['billboard']);
+                    </script></div></div><div class="layout__content "><div class="layout__rows"><div class="rows rows_article-page"><div class="rows__column rows__column_article-page_left"><div class="column"><div class="flex-news-block"><div class="column__row"><div class="article article_article-page"><h1 class="article__heading article__heading_article-page">«Клоуны и неудачники»: почему Трамп раскритиковал бывших высокопоставленных сотрудников ФБР</h1><div class="article__date-autor-shortcode article__date-author-shortcode_article-page"><div class="article__short-url-block"><div class="short-url article__short-url"><a class="short-url__link" href="https://ru.rt.com/bo3w">Короткая ссылка</a></div></div><div class="article__date article__date_article-page"><time class="date ">
+		21:19
+	</time></div><div class="article__author article__author_article-page">
+                                    Роман Шимаев,
+                                    Владимир Смирнов,
+                                    Марианна Чурсина
+                            </div></div><div class="article__share article__share_article-page"><script>
+        var RT = window.RT || {};
+        RT.yaShare = true;
+    </script><script async src="/static/js/social.min.js?v=7"></script><div class="social-container"
+     data-buttons="facebook, vk, ok, twitter, google, telegram, fbmessenger, whatsapp"
+     data-counters></div></div><div class="article__summary article__summary_article-page js-mediator-article">Бывший директор ФБР Джеймс Коми, его заместитель Эндрю Маккейб и ряд других экс-сотрудников нанесли серьёзный ущерб репутации Федерального бюро расследований США. Об этом заявил Дональд Трамп. По словам американского президента, множество людей пострадали от действий «этих клоунов и неудачников». Эксперты отмечают, что противостояние главы Белого дома и разведсообщества обострилось в преддверии промежуточных выборов в конгресс. Аналитики считают, что отношения Трампа с разведчиками не улучшатся и после голосования, поскольку американский лидер нарушает «сложившиеся несколько десятилетий назад методы работы спецслужб».</div><div class="article__cover article__cover_article-page"><img src="https://cdni.rt.com/russian/images/2018.08/article/5b6f2898183561b1628b4578.jpg" alt="«Клоуны и неудачники»: почему Трамп раскритиковал бывших высокопоставленных сотрудников ФБР" class="article__cover-image "><ul class="article__cover-description "><li class="article__cover-source ">
+                                Gettyimages.ru
+                            </li><li class="article__cover-copyright">
+                                &copy; Matt McClain / The Washington Post
+                            </li></ul></div><div class="article__facebook article__facebook_article-page"><div id="fb-root"></div><div class="fb-like" data-href="https://www.facebook.com/RTRussian/" data-layout="standard" data-action="like" data-size="large" data-show-faces="true" data-share="true"></div></div><div class="article__text article__text_article-page js-mediator-article"><p>Президент США Дональд Трамп жёстко раскритиковал бывших высокопоставленных сотрудников ФБР, в том числе экс-директора&nbsp;ведомства Джеймса Коми.</p><p>В частности, американский лидер задался вопросом, почему&nbsp;консервативная правозащитная организация Judicial Watch&nbsp;или другое соответствующее правительственное учреждение не получают от бюро данных о&nbsp;текстовых сообщениях Эндрю Маккейба, бывшего заместителя директора ФБР, уволенного в марте по обвинению в утечках информации и предоставлении ложных сведений. Так, офису генинспектора Минюста США удалось выяснить, что Маккейб четыре раза обманывал следователей по делу&nbsp;об использовании экс-госсекретарём США Хиллари Клинтон личного почтового ящика для служебной переписки.</p><p>&laquo;В ФБР сказали, что они не отдадут даже одно (текстовое сообщение. &mdash; <em>RT</em>). Что они прячут?&raquo; &mdash; написал Трамп в Twitter.</p><p>Американский лидер напомнил, что супруга Эндрю Маккейба&nbsp;&mdash; Джилл, которая в 2015 году баллотировалась в сенат штата Висконсин,&nbsp;&mdash; получала значительные средства в ходе кампании от представителей Хиллари Клинтон. Отметим, что глава Белого дома <a href="https://twitter.com/realDonaldTrump/status/890208319566229504" target="_blank" rel="noopener noreferrer">указывал на этот факт</a>&nbsp;в июле 2017 года.</p><blockquote><p>&laquo;Восстановит ли когда-нибудь ФБР свою <a href="https://russian.rt.com/world/news/544415-tramp-komi-fbr" target="_blank" rel="noopener noreferrer">былую звёздную репутацию</a>, которой был нанесён столь сильный ущерб Коми, Маккейбом, Питером Стржоком и его прекрасной&nbsp;любовницей Лизой Пейдж, а также другими высокопоставленными чиновниками, которые были&nbsp;отстранены или уволены? Стольким прекрасным людям в ФБР был нанесён урон этими клоунами и неудачниками!&raquo; &mdash; заявил 45-й президент США.</p></blockquote><p>Добавим, что бывшие агенты ФБР Питер Стржок и Лиза Пейдж, работавшие&nbsp;в команде спецпрокурора Роберта Мюллера по расследованию&nbsp;&laquo;российского вмешательства&raquo;, в конце прошлого года стали участниками скандала после того, как их личная переписка попала в американские СМИ. Во время их переписки, которая относится к 2015&mdash;2016 годам, они оскорбительно высказывались в адрес Трампа, а также заявляли о готовности помешать ему стать президентом США.</p><div class="article__cover "><img src="https://cdni.rt.com/russian/images/2018.08/original/5b6f1433183561f93f8b4609.jpg"  class="article__cover-image "><ul class="article__cover-description "><li class="article__cover-title ">
+                                Эмблема Федерального бюро расследований США
+                            </li><li class="article__cover-source ">
+                                AFP
+                            </li><li class="article__cover-copyright">
+                                &copy; MANDEL NGAN
+                            </li></ul></div><p></p><h2>История конфликта</h2><p></p><p>45-й президент Соединённых Штатов давно находится в более или менее открытой конфронтации со значительной частью американского разведсообщества. Причём наиболее острым можно назвать его противостояние с бывшим директором ФБР Джеймсом Коми, которого Трамп с грандиозным скандалом отправил в отставку 9 мая 2017 года.</p>
+c00
+    <div class="article__read-more read-more"><div class="read-more__title">
+                Также по теме
+            </div><a class="read-more__link" href="/world/article/540929-konflikt-interesov-myuller-vmeshatelstvo-vybory"><img class="read-more__cover" src="https://cdni.rt.com/russian/images/2018.07/thumbnail/5b5ee960370f2c8a2f8b4633.jpg"  /></a><strong class="read-more__heading"><a class="read-more__link" href="/world/article/540929-konflikt-interesov-myuller-vmeshatelstvo-vybory">
+                        «Намёк, что пора заканчивать»: почему Трамп заявил о конфликте интересов в расследовании «вмешательства России» в выборы
+                    </a></strong><div class="read-more__summary">
+                    Дональд Трамп призвал Роберта Мюллера признать конфликт интересов при проведении расследования «вмешательства России» в выборы....
+                </div></div><p>Тогда на основании рекомендаций генпрокурора Джеффа Сешнса и его заместителя Рода Розенстайна президент уволил Коми с занимаемого поста за &laquo;некомпетентность и неспособность эффективно руководить ФБР&raquo;. Это кадровое решение последовало за информацией о том, что во время выступления в конгрессе Коми исказил&nbsp;факты по делу об электронной переписке бывшего госсекретаря Хиллари Клинтон, а также настоял на закрытии дела без уголовного преследования в 2016 году, фактически &laquo;узурпировав власть генпрокурора&raquo;.</p><p>&laquo;Я не могу оправдать манипулирование выводами по делу об электронной почте госсекретаря Клинтон и не понимаю отказа Джеймса Коми принять фактически всеобщее мнение, что он ошибся... Директор был неправ, узурпировав власть генерального прокурора 5 июля 2016 года и объявив в своём заключении, что дело должно быть закрыто без уголовного преследования&raquo;, &mdash; заявил в меморандуме Род Розенстайн.</p><p>В американском конгрессе мгновенно отреагировали на увольнение Коми, связав его с попыткой сорвать расследование &laquo;российского вмешательс�
+117a
+�ва&raquo; спецпрокурора Роберта Мюллера. Не заставила себя долго ждать и реакция самого Коми, обнародовавшего данные, согласно которым в феврале 2017-го Дональд Трамп якобы просил его прекратить расследование в отношении возможных связей с Россией советника по нацбезопасности Майкла Флинна.</p><p></p><div class="rtcode"><center><div style="position: relative;padding-bottom: 56.25%; padding-top: 25px; height: 0;"><iframe style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;" src="https://russian.rt.com/world/video/543953-dvoynye-standarty-fbr-v-rassledovanii-rossiyskogo-vmeshatelstva/video/5b6c6831370f2caa208b45a2" frameborder="0" allowfullscreen/></iframe></div></center></div><p></p><h2>&laquo;Апогей противостояния&raquo;</h2><p></p><p>По словам&nbsp;политолога-американиста Дмитрия Михеева, конфликт между Трампом и разведсообществом в первую очередь обусловлен вмешательством ФБР в политическую кампанию.</p><p>&laquo;ФБР начало вмешиваться в политическую кампанию, а это строго запрещено законом и страшно болезненно для Трампа, потому что ставится под сомнение легитимность его избрания&raquo;, &mdash; заметил Михеев в разговоре с RT.</p><p>Он считает, что негативное отношение Трампа к экс-сотрудникам ФБР также связано с их открытой поддержкой Хиллари Клинтон&nbsp;во время предвыборной кампании. При этом эксперт заметил, что, несмотря на устоявшиеся разногласия между многочисленными американскими спецслужбами, они объединились в противостоянии с Трампом.&nbsp;</p><p>&laquo;Сейчас мы видим, я бы сказал, почти апогей этого противостояния, которое неизвестно чем закончится. Видимо, выборы что-нибудь изменят. Но тут проблема в том, что спецслужбы остаются. Да, Трамп может заменить директора, но&nbsp;обычно главы этих ведомств &mdash; политические назначенцы. А сами эти структуры, вся эта колоссальная бюрократическая машина остаётся на месте. Поэтому я не представляю, как Трамп может выдержать противостояние. Потому что у них огромная власть, возможности совершать какие-то секретные, легальные, полулегальные и нелегальные действия&raquo;, &mdash; отметил Михеев.</p>    <div class="article__read-more read-more"><div class="read-more__title">
+                Также по теме
+            </div><a class="read-more__link" href="/world/article/542447-fbr-stil-dosie-tramp"><img class="read-more__cover" src="https://cdni.rt.com/russian/images/2018.08/thumbnail/5b65f20d370f2c381e8b4601.jpg"  /></a><strong class="read-more__heading"><a class="read-more__link" href="/world/article/542447-fbr-stil-dosie-tramp">
+                        «Издевательство над здравым смыслом»: зачем ФБР опубликовало «пустой» документ о контактах с автором «досье на Трампа»
+                    </a></strong><div class="read-more__summary">
+                    ФБР опубликовало отчёт о своих контактах с автором «секретного досье на Трампа» — экс-сотрудником MI6 Кристофером Стилом. Впрочем, из...
+                </div></div>
+2887
+<p>В то же время, по словам эксперта, представители спецслужб опасаются&nbsp;открыто выступать против Трампа, поскольку это может привести к расколу в американском обществе.</p><p>&laquo;Они боятся, потому что это приведёт к настоящему социальному взрыву. Где-то 42% населения всё же поддерживает Трампа. И процентов 60%, если я не ошибаюсь, республиканцев его поддерживают. Они боятся, что какой-либо решительный шаг в противостоянии с Трампом может спровоцировать очень серьёзные гражданские беспорядки&raquo;, &mdash; пояснил аналитик.</p><p>Кроме того, по его мнению, действующий глава Белого дома мешает устоявшимся и работающим уже несколько десятилетий планам и методикам действий американских спецслужб в отношении других государств.</p><p>&laquo;Он не вписывается в эту десятилетиями сложившуюся практику подрывной деятельности по всем фронтам. Это то, чем занимаются силовики и спецслужбы. А Трамп выходит и говорит, что он встретился с Ким Чен Ыном, и он достойный человек, с ним можно договориться. И все в замешательстве: так что, мы будем сейчас договариваться или всё же подрывать, вести учения и, может быть, пытаться отравить Ким Чен Ына или ещё что-нибудь, то есть действовать своими методами? Он нарушает всю эту работу, которая десятилетиями складывалась, на которую идут огромные средства&raquo;, &mdash; заключил Михеев.</p><p>В свою очередь,&nbsp;член-корреспондент Академии военных наук политолог Сергей Судаков заметил, что Трамп запомнил серьёзное противоборство с ФБР в ходе предвыборной кампании и в начале своего президентства. Кроме того, по мнению эксперта, глава Белого дома не забыл, что скандалы существенно навредили его репутации.</p><blockquote><p>&laquo;Сейчас Трамп заручился поддержкой со стороны Пентагона, но поддержки со стороны спецслужб нет. Поэтому он специально унижает их, называя комиками, неудачниками, лжецами. Он каждый раз пытается показать, что они не способны играть в полновесную игру&raquo;, &mdash; сказал аналитик в разговоре с RT.</p></blockquote><p>При этом он добавил, что заявления Трампа укладываются в рамки предвыборной кампании промежуточных выборов в конгресс США, которые пройдут 6 ноября.</p><p>&laquo;Именно сейчас надо показывать, что таким людям, как Коми, никогда больше не будет места в ФБР&raquo;, &mdash; заключил Судаков.</p></div><div class="error-on-page"><a id="error-on-page-link" class="error-on-page__link">Ошибка в тексте?</a> Выделите её и нажмите &laquo;Ctrl + Enter&raquo;</div><div class="follows-channel follows-channel_top-middle follows-channel_fb"><div class="follows-channel__content">Самые свежие новости России и мира <a href="https://www.facebook.com/RTRussian/" onclick="ga('send', 'event', 'banner', 'click', 'FB-click');" target="_blank">на нашей странице в Facebook</a></div></div><div class="article__tags-trends article__tags-trends_article-page tags-trends"><a class="tags-trends__link link link_underline_color" rel="tag" href="/tag/dzheims-komi">
+                            Джеймс Коми
+                        </a><a class="tags-trends__link link link_underline_color" rel="tag" href="/tag/donald-tramp">
+                            Дональд Трамп
+                        </a><a class="tags-trends__link link link_underline_color" rel="tag" href="/tag/prezident">
+                            Президент
+                        </a><a class="tags-trends__link link link_underline_color" rel="tag" href="/tag/razvedka">
+                            Разведка
+                        </a><a class="tags-trends__link link link_underline_color" rel="tag" href="/tag/rassledovanie">
+                            Расследование
+                        </a><a class="tags-trends__link link link_underline_color" rel="tag" href="/tag/ssha">
+                            США
+                        </a><a class="tags-trends__link link link_underline_color" rel="tag" href="/tag/specsluzhby">
+                            Спецслужбы
+                        </a></div><div class="article__crosslinks article__crosslinks_article-page"><div class="crosslinks"><strong class="crosslinks__heading crosslinks__heading_article-page">Ранее на эту тему: </strong><ul class="crosslinks__list crosslinks__list_article-page"><li class="crosslinks__item crosslinks__item_article-page"><a class="crosslinks__link crosslinks__link_article-page" href="/world/article/540493-tramp-vmeshatelstvo-vybory-ssha">«Угроза раздувается специально»: почему Трамп заявил Совету нацбезопасности о возможном вмешательстве в выборы США</a></li><li class="crosslinks__item crosslinks__item_article-page"><a class="crosslinks__link crosslinks__link_article-page" href="/world/news/540811-tramp-prizval-specprokurora-myullera">Трамп призвал спецпрокурора Мюллера признать конфликт интересов</a></li><li class="crosslinks__item crosslinks__item_article-page"><a class="crosslinks__link crosslinks__link_article-page" href="/world/article/543739-ssha-golosovanie-hakery-bezopasnost">Ошибка системы: почему инфраструктура выборов в США остаётся уязвимой для кибератак</a></li><li class="crosslinks__item crosslinks__item_article-page"><a class="crosslinks__link crosslinks__link_article-page" href="/world/news/544415-tramp-komi-fbr">Трамп назвал ряд бывших сотрудников ФБР «клоунами и неудачниками»</a></li></ul></div></div></div><script type="text/javascript">_rt.banner.inpage.adfox(255791,{'p1':'bypps'},'article__text');</script></div><div class="column__row"><div class="flex-news-block"><div class="today-media today-media_article" id="today-media-article"><strong class="today-media__heading today-media__heading_article">Сегодня в СМИ</strong><div id="mediametrics" class="today-media__content today-media__content_article"><script>
+	        function callbackJsonpMediametrics(data) {
+	            var result = '<ul class="today-media__rows today-media__rows_article">',
+	                src;
+	            for(var i = 0; i < 3; i += 1) {
+	                src = "https://mediametrics.ru/images/" + data[i].id.slice(0, data[i].id.length-4) + "/" + data[i].id + "-420.jpg";
+	                result += '<li class="today-media__item today-media__item_article"><a class="link" href="' + data[i].link + '" target="_blank">';
+	                result += '<div class="today-media__cover today-media__cover_article cover"><div class="cover__media cover__media_ratio"><img class="cover__image cover__image_ratio" src="' + src + '" alt="' + data[i].title + '"></div></div>';
+	                result += '<span class="today-media__title today-media__title_article">' + data[i].title + '</span>';
+	                result += '</a></li>';
+	            }
+	            result += '</ul>';
+	            document.getElementById("mediametrics").innerHTML=result;
+	        }
+	        (function() {
+	            var script = document.createElement('script');
+	            script.src = 'https://mediametrics.ru/partner/inject/online.jsonp.ru.js';
+	            document.getElementsByTagName("body")[0].appendChild(script);
+	        }());
+	    </script></div></div></div><style></style></div><div class="yandex_ad-wrap"><style>
+    .yandex_ad-wrap { margin: 20px 0; padding: 10px 0; border-top: solid 1px #e9e9e9; border-bottom: solid 1px #e9e9e9; display: none; }
+    @media screen and (max-width: 540px) {
+        .yandex_ad-wrap { display: block; }
+    }
+  </style><!-- R-153743-1 Яндекс.RTB-блок  --><div class="yandex_ad-body"><noindex><div class="yandex_ad-toggle"></div></noindex><div id="yandex_ad_R-153743-1"></div></div><script type="text/javascript">
+        (function(w, d, n, s, t) {
+            w[n] = w[n] || [];
+            w[n].push(function() {
+                Ya.Context.AdvManager.render({
+                    blockId: "R-153743-1",
+                    renderTo: "yandex_ad_R-153743-1",
+                    async: true
+                });
+            });
+            t = d.getElementsByTagName("script")[0];
+            s = d.createElement("script");
+            s.type = "text/javascript";
+            s.src = "//an.yandex.ru/system/context.js";
+            s.async = true;
+            t.parentNode.insertBefore(s, t);
+        })(this, this.document, "yandexContextAsyncCallbacks");
+    </script></div>
+18ab
+<div class="column__row"><div id="unit_90702" class="rt--partner-block rt--partner--smi2"><a href="http://smi2.ru/">Новости smi2.ru</a></div><script type="text/javascript" charset="utf-8">
+  (function() {
+    var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true;
+    sc.src = '//smi2.ru/data/js/90702.js'; sc.charset = 'utf-8';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
+  }());
+</script></div><div class="column__row"><script src="//cdnjs.cloudflare.com/ajax/libs/Swiper/3.3.1/js/swiper.min.js"></script><script src="//code.jquery.com/jquery-2.1.1.min.js"></script><script>
+
+
+
+    var MGGallery = function ( obj ) {
+
+        var _obj = obj,
+            _parent = _obj.parent(),
+            _swiper,
+            _btnPrev = _obj.parent().find( '.swiper-button-prev' ),
+            _btnNext = _obj.parent().find( '.swiper-button-next'),
+            _swiperContainer = _obj.find( '.swiper-container' );
+
+        var _addEvents = function(){
+
+                _parent.on({
+
+                    mousemove: function( e ) {
+
+                        var positionX = e.pageX - _obj.offset().left;
+
+                        if ( positionX < _obj.width()/2 ){
+
+                            _obj.addClass('MGGallery_left-btn');
+                            _obj.removeClass('MGGallery_right-btn');
+
+                        } else {
+
+                            _obj.addClass('MGGallery_right-btn');
+                            _obj.removeClass('MGGallery_left-btn');
+
+                        }
+
+                    },
+
+                    mouseleave: function() {
+
+                        _obj.removeClass('MGGallery_left-btn');
+                        _obj.removeClass('MGGallery_right-btn');
+
+                    }
+
+                });
+
+            },
+
+            _initSwiper = function(){
+
+                _swiper = new Swiper( _swiperContainer, {
+                    nextButton: _btnNext,
+                    prevButton: _btnPrev,
+                    slidesPerView:'auto',
+                    speed: 600,
+                    spaceBetween: 24,
+                    slidesPerGroup: 3,
+                    autoplayDisableOnInteraction: false,
+                    breakpoints: {
+                        460: {
+                            slidesPerGroup: 1
+                        },
+                        1023: {
+                            slidesPerGroup: 2
+                        }
+                    },
+
+                });
+
+            },
+
+            _init = function () {
+                _initSwiper();
+                _addEvents();
+            };
+
+        _init();
+
+    };
+
+    $( function() {
+
+        var loop = function(){
+
+            if ( !$('.MGGallery').length ){
+                window.requestAnimationFrame( loop );
+            } else {
+                new MGGallery ( $( '.MGGallery' ) );
+            }
+        };
+
+        loop();
+
+    } );
+
+</script><!-- Composite Start --><div id="M281228ScriptRootC668233"><div id="M281228PreloadC668233"> Загрузка... </div><script> (function(){ var D=new Date(),d=document,b='body',ce='createElement',ac='appendChild',st='style',ds='display',n='none',gi='getElementById',lp=d.location.protocol,wp=lp.indexOf('http')==0?lp:'https:'; var i=d[ce]('iframe');i[st][ds]=n;d[gi]("M281228ScriptRootC668233")[ac](i);try{var iw=i.contentWindow.document;iw.open();iw.writeln("<ht"+"ml><bo"+"dy></bo"+"dy></ht"+"ml>");iw.close();var c=iw[b];} catch(e){var iw=d;var c=d[gi]("M281228ScriptRootC668233");}var dv=iw[ce]('div');dv.id="MG_ID";dv[st][ds]=n;dv.innerHTML=668233;c[ac](dv); var s=iw[ce]('script');s.async='async';s.defer='defer';s.charset='utf-8';s.src=wp+"//jsc.lentainform.com/r/u/russian.rt.com.668233.js?t="+D.getYear()+D.getMonth()+D.getUTCDate()+D.getUTCHours()+12344;c[ac](s);})(); </script></div><!-- Composite End --></div><div class="column__row"><div class="flex-news-block dzen--widget"><div class="widget-container" style="margin: 0px auto; position: relative; width:100%"></div><script>
+            (function(w, d, n) {
+                w[n] = w[n] || [];
+                w[n].push(() => {
+                    w.YandexZen.renderWidget({
+                        clid: ['454', '455'],
+                        container: '.widget-container', // cелектор элемента или сам элемент, куда надо вставить виджет
+                        successCallback: function () { // вызывается при успешной вставке виджета
+                            console.log('виджет вставлен успешно');
+                        },
+                        failCallback: function () { // Если Дзен не ответил, используйте место для чего-то другого.
+                            console.log('Дзен не ответил');
+                        },
+                    });
+                });
+                t = d.getElementsByTagName("script")[0];
+                s = d.createElement("script");
+                s.type = "text/javascript";
+                s.src = "https://zen.yandex.ru/widget-loader";
+                s.async = true;
+                t.parentNode.insertBefore(s, t);
+            })(window, document, 'yandexZenAsyncCallbacks');
+        </script><style type="text/css">
+            .flex-news-block .widget-container .zen-widget.widget {
+                margin-top: 20px;
+                padding:10px;
+                box-sizing: border-box;
+            }
+            .flex-news-block.dzen--widget {
+                margin-bottom: 20px;
+            }
+
+            .flex-news-block .zen-widget.widget__title {
+                margin-left: 0px;
+                margin-right: 0px;
+            }
+            .flex-news-block .zen-widget.widget__cards-scroller {
+                padding: 12px 0 50px 0px
+            }
+
+            .flex-news-block .zen-widget .widget__title > a,.flex-news-block .zen-widget .widget__title > span {
+                display: none;
+            }
+
+            .flex-news-block .zen-widget.widget__title {
+                margin-bottom: 6px;
+            }
+        </style></div></div><div class="column__row"><div id="slider24smi_11671"></div><script src="/static/blocks/24smi/24smi.js"></script></div>
+27e6
+<div class="column__cell"><div class="banners"><a href="https://ttttt.me/rt_russian" target="_blank"><img src="https://cdni.rt.com/russian/images/2018.07/original/5b4da771370f2c227a8b4578.jpg" alt=""></a></div></div><div class="column__row column__row_plista"><div class="widget widget_engageya"><div id="ENGAGEYA_WIDGET_96960"></div><script data-cfasync="false">
+            (function(E,n,G,A,g,Y,a){E['EngageyaObject']=g;E[g]=E[g]||function(){ (E[g].q=E[g].q||[]).push(arguments)},E[g].l=1*new Date();Y=n.createElement(G), a=n.getElementsByTagName(G)[0];Y.async=1;Y.src=A;a.parentNode.insertBefore(Y,a)})(window,document,'script','//widget.engageya.com/engageya_loader.js','__engWidget');
+            __engWidget('createWidget',{wwei:'ENGAGEYA_WIDGET_96960',pubid:170734,webid:140312,wid:96960});
+        </script></div></div></div><div class="comments"><div class="comments__wrapper"><script async
+              src="https://launcher.spot.im/spot/sp_oSi8qg2j"
+              data-spotim-module="spotim-launcher"
+              data-post-url="https://ru.rt.com/bo3w"
+              data-post-id="article___544460"></script></div></div></div></div><div class="rows__column rows__column_article-page_right"><div class="column"><div class="column__content column__content_article-page_right"><div class="column__row column__row_article-page_right column__row_article-page_right-1"><ul class="tabs"><li class="tabs__item tabs__item_active tabs__item_1 tabs__item_right">
+            Лента новостей
+        </li><li class="tabs__item tabs__item_2 tabs__item_right">
+            Картина дня
+        </li></ul><div class="tabs__content tabs__content_active tabs__content_1"><div class="listing listing_short-news"  ><div class="listing__content listing__content_short-news "><ul class="listing__rows listing__rows_short-news "><li class="listing__column  listing__column_short-news "><div class="listing__card  listing__card_short-news "><div class="card card_short-news card_not-cover "><div class="card__date card__date_short-news card__date_not-cover ">
+
+            
+                            00:47
+            
+        </div><div class="card__heading
+            card__heading_short-news card__heading_not-cover
+            
+            
+            "><a class="link link_color" href="/world/news/544492-merkel-bezhency-sistema-evropa">
+                Меркель заявила, что нынешняя система приёма беженцев в Евросоюзе не работает
+            </a></div></div></div></li><li class="listing__column  listing__column_short-news "><div class="listing__card  listing__card_short-news "><div class="card card_short-news card_not-cover "><div class="card__date card__date_short-news card__date_not-cover ">
+
+            
+                            00:29
+            
+        </div><div class="card__heading
+            card__heading_short-news card__heading_not-cover
+            
+            
+            "><a class="link link_color" href="/world/news/544491-shoigu-nemcy-poziciya-sily">
+                Шойгу предложил немцам вспомнить, к чему приводят разговоры с Россией «с позиции силы»
+            </a></div></div></div></li><li class="listing__column  listing__column_short-news "><div class="listing__card  listing__card_short-news "><div class="card card_short-news card_not-cover "><div class="card__date card__date_short-news card__date_not-cover ">
+
+            
+                            00:17
+            
+        </div><div class="card__heading
+            card__heading_short-news card__heading_not-cover
+            
+            
+            "><a class="link link_color" href="/world/news/544490-venesuela-identificirovat-23-pokushenie">
+                МВД Венесуэлы удалось идентифицировать 23 человек, подозреваемых в покушении на Мадуро
+            </a></div></div></div></li><li class="listing__column  listing__column_short-news "><div class="listing__card  listing__card_short-news "><div class="card card_short-news card_not-cover "><div class="card__date card__date_short-news card__date_not-cover "><time class="date ">
+		11 августа, 23:54
+	</time></div><div class="card__heading
+            card__heading_short-news card__heading_not-cover
+            
+            
+            "><a class="link link_color" href="/russia/news/544487-shoigu-armeiskie-mezhdunarodnye-igry">
+                Шойгу назвал Армейские международные игры праздником мирного оружия
+            </a></div></div></div></li><li class="listing__column  listing__column_short-news "><div class="listing__card  listing__card_short-news "><div class="card card_short-news card_not-cover "><div class="card__date card__date_short-news card__date_not-cover "><time class="date ">
+		11 августа, 23:41
+	</time></div><div class="card__heading
+            card__heading_short-news card__heading_not-cover
+            card__heading_not-trends
+            
+            "><a class="link link_color" href="/russia/news/544484-direktor-vaikule-zayavlenie-krym">
+                Директор Вайкуле прокомментировал её заявление о Крыме
+            </a></div></div></div></li><li class="listing__column  listing__column_short-news "><div class="listing__card  listing__card_short-news "><div class="card card_short-news card_not-cover "><div class="card__date card__date_short-news card__date_not-cover "><time class="date ">
+		11 августа, 23:29
+	</time></div><div class="card__heading
+            card__heading_short-news card__heading_not-cover
+            
+            
+            "><a class="link link_color" href="/world/news/544482-pompeo-friland-saudovskaya-araviya">
+                Помпео обсудил с главой МИД Канады конфликт между Оттавой и Эр-Риядом
+            </a></div></div></div></li><li class="listing__column  listing__column_short-news "><div class="listing__card  listing__card_short-news "><div class="card card_short-news card_not-cover "><div class="card__date card__date_short-news card__date_not-cover "><time class="date ">
+		11 августа, 23:13
+	</time></div><div class="card__heading
+            card__heading_short-news card__heading_not-cover
+            
+            
+            "><a class="link link_color" href="/sport/news/544480-polsha-arbitr-udalenie">
+                В Польше арбитр удалил футболиста, толкнувшего своего партнёра по команде
+            </a></div></div></div></li><li class="listing__column  listing__column_short-news "><div class="listing__card  listing__card_short-news "><div class="card card_short-news  "><div class="card__date card__date_short-news  "><time class="date ">
+		11 августа, 23:13
+	</time></div><div class="card__heading
+            card__heading_short-news 
+            card__heading_not-trends
+            
+            "><a class="link link_color" href="/world/news/544479-kanada-obvineniya-strelok-strelba">
+                Полиция предъявила обвинения предполагаемому стрелку из канадского Фредериктона
+            </a></div></div></div></li><li class="listing__column  listing__column_short-news "><div class="listing__card  listing__card_short-news "><div class="card card_short-news  "><div class="card__date card__date_short-news  "><time class="date ">
+		11 августа, 22:59
+	</time></div><div class="card__heading
+            card__heading_short-news 
+            card__heading_not-trends
+            
+            "><a class="link link_color" href="/nopolitics/news/544478-volgograd-direktor-muzei-stalingrad">
+                В Волгограде умер директор музея-заповедника «Сталинградская битва»
+            </a></div></div></div></li><li class="listing__column  listing__column_short-news "><div class="listing__card  listing__card_short-news "><div class="card card_short-news  "><div class="card__date card__date_short-news  "><time class="date ">
+		11 августа, 22:52
+	</time></div><div class="card__heading
+            card__heading_short-news 
+            
+            
+            "><a class="link link_color" href="/sport/news/544477-mourinyu-nedovolstvo-zameny">
+                Моуринью заявил, что ему мало трёх замен в футбольных матчах
+            </a></div></div></div></li><li class="listing__column  listing__column_short-news "><div class="listing__card  listing__card_short-news "><div class="card card_short-news  "><div class="card__date card__date_short-news  "><time class="date ">
+		11 августа, 22:43
+	</time></div><div class="card__heading
+            card__heading_short-news 
+            
+            
+            "><a class="link link_color" href="/sport/news/544476-ivanyuk-bronza-che-pryzhki-v-vysotu">
+                Иванюк завоевал бронзу чемпионата Европы в прыжках в высоту
+            </a></div></div></div></li><li class="listing__column  listing__column_short-news "><div class="listing__card  listing__card_short-news "><div class="card card_short-news  "><div class="card__date card__date_short-news  "><time class="date ">
+		11 августа, 22:36
+	</time></div><div class="card__heading
+            card__heading_short-news 
+            card__heading_not-trends
+            
+            "><a class="link link_color" href="/russia/news/544475-shoigu-pesnya-kusturica">
+                Кустурица посвятил песню Шойгу
+            </a></div></div></div></li></ul><div class="listing__button listing__button_short-news " data-href="/listing/type.News.tag.novosty-glavnoe/prepare/short-news/12/1" ><div class="button"><a class="button__item link link_color" href="/news" >
+            Все новости
+        </a></div></div></div></div>
+549e
+</div><div class="tabs__content tabs__content_2"><div class="listing listing_picture-of-day"  ><div class="listing__content listing__content_picture-of-day "><ul class="listing__rows listing__rows_picture-of-day "><li class="listing__column  listing__column_picture-of-day "><div class="listing__card  listing__card_picture-of-day "><div class="card card_picture-of-day  "><div class="card__cover card__cover_picture-of-day                                        "><div class="cover   "><div class="cover__media cover__media_ratio cover__media_bgi   " style="background-image: url(https://cdni.rt.com/russian/images/2018.08/thumbnail/5b6ee9cc370f2cd3768b45da.JPG)"><a href="/world/article/544488-erdogan-turciya-ssha-konflikt" class="cover__link link cover__link_media"></a></div></div></div><div class="card__heading
+            card__heading_picture-of-day 
+            
+            
+            "><a class="link link_color" href="/world/article/544488-erdogan-turciya-ssha-konflikt">
+                «Счёт взаимных претензий растёт»: к чему могут привести разногласия между Турцией и США
+            </a></div><div class="card__spot-im-count card__spot-im-count_picture-of-day"><a class="spot-im-replies-href" href="/world/article/544488-erdogan-turciya-ssha-konflikt#href_spot-im"><span class="spot-im-replies-count" data-post-id="article___544488"></span></a></div></div></div></li><li class="listing__column  listing__column_picture-of-day "><div class="listing__card  listing__card_picture-of-day "><div class="card card_picture-of-day  "><div class="card__cover card__cover_picture-of-day                                                                "><div class="cover   "><div class="cover__media cover__media_ratio cover__media_bgi   " style="background-image: url(https://cdni.rt.com/russian/images/2018.08/thumbnail/5b6da5f1370f2cdc1a8b459e.jpg)"><a href="/world/article/544469-kndr-golod-zasuha-sankcii-ssha" class="cover__link link cover__link_media"></a></div></div></div><div class="card__heading
+            card__heading_picture-of-day 
+            
+            
+            "><a class="link link_color" href="/world/article/544469-kndr-golod-zasuha-sankcii-ssha">
+                «Людоедская политика»: почему США отказываются смягчать санкции против Северной Кореи
+            </a></div><div class="card__spot-im-count card__spot-im-count_picture-of-day"><a class="spot-im-replies-href" href="/world/article/544469-kndr-golod-zasuha-sankcii-ssha#href_spot-im"><span class="spot-im-replies-count" data-post-id="article___544469"></span></a></div></div></div></li><li class="listing__column  listing__column_picture-of-day "><div class="listing__card  listing__card_picture-of-day "><div class="card card_picture-of-day  "><div class="card__cover card__cover_picture-of-day                "><div class="cover   "><div class="cover__media cover__media_ratio cover__media_bgi   " style="background-image: url(https://cdni.rt.com/russian/images/2018.08/thumbnail/5b6f2898183561b1628b4578.jpg)"><a href="/world/article/544460-tramp-kritika-fbr-komi-makkeib" class="cover__link link cover__link_media"></a></div></div></div><div class="card__heading
+            card__heading_picture-of-day 
+            
+            
+            "><a class="link link_color" href="/world/article/544460-tramp-kritika-fbr-komi-makkeib">
+                «Клоуны и неудачники»: почему Трамп раскритиковал бывших высокопоставленных сотрудников ФБР
+            </a></div><div class="card__spot-im-count card__spot-im-count_picture-of-day"><a class="spot-im-replies-href" href="/world/article/544460-tramp-kritika-fbr-komi-makkeib#href_spot-im"><span class="spot-im-replies-count" data-post-id="article___544460"></span></a></div></div></div></li><li class="listing__column  listing__column_picture-of-day "><div class="listing__card  listing__card_picture-of-day "><div class="card card_picture-of-day  "><div class="card__cover card__cover_picture-of-day                  "><div class="cover   "><div class="cover__media cover__media_ratio cover__media_bgi   " style="background-image: url(https://cdni.rt.com/russian/images/2018.08/thumbnail/5b6f09f9370f2c95198b457d.JPG)"><a href="/world/news/544441-erdogan-torgovlya-nacvalyuta" class="cover__link link cover__link_media"></a></div></div></div><div class="card__heading
+            card__heading_picture-of-day 
+            
+            
+            "><a class="link link_color" href="/world/news/544441-erdogan-torgovlya-nacvalyuta">
+                Эрдоган заявил о планах Турции вести торговлю с Россией в нацвалютах
+            </a></div><div class="card__spot-im-count card__spot-im-count_picture-of-day"><a class="spot-im-replies-href" href="/world/news/544441-erdogan-torgovlya-nacvalyuta#href_spot-im"><span class="spot-im-replies-count" data-post-id="article___544441"></span></a></div></div></div></li><li class="listing__column  listing__column_picture-of-day "><div class="listing__card  listing__card_picture-of-day "><div class="card card_picture-of-day  "><div class="card__cover card__cover_picture-of-day                    "><div class="cover   "><div class="cover__media cover__media_ratio cover__media_bgi   " style="background-image: url(https://cdni.rt.com/russian/images/2018.08/thumbnail/5b6ed29b183561f43f8b458f.jpg)"><a href="/ussr/article/544427-reakciya-poroshenko-flag-ukraina-yalta" class="cover__link link cover__link_media"></a></div></div></div><div class="card__heading
+            card__heading_picture-of-day 
+            
+            
+            "><a class="link link_color" href="/ussr/article/544427-reakciya-poroshenko-flag-ukraina-yalta">
+                «Остались только обещания»: как в России отреагировали на слова Порошенко об украинском флаге над Ялтой
+            </a></div><div class="card__spot-im-count card__spot-im-count_picture-of-day"><a class="spot-im-replies-href" href="/ussr/article/544427-reakciya-poroshenko-flag-ukraina-yalta#href_spot-im"><span class="spot-im-replies-count" data-post-id="article___544427"></span></a></div></div></div></li><li class="listing__column  listing__column_picture-of-day "><div class="listing__card  listing__card_picture-of-day "><div class="card card_picture-of-day  "><div class="card__cover card__cover_picture-of-day                  "><div class="cover   "><div class="cover__media cover__media_ratio cover__media_bgi   " style="background-image: url(https://cdni.rt.com/russian/images/2018.08/thumbnail/5b6ec9b6183561c8418b4583.jpg)"><a href="/ussr/article/544399-ukraina-sudebnaya-sistema-razval" class="cover__link link cover__link_media"></a></div></div></div><div class="card__heading
+            card__heading_picture-of-day 
+            
+            
+            "><a class="link link_color" href="/ussr/article/544399-ukraina-sudebnaya-sistema-razval">
+                «Не хотят связываться с радикалами»: к чему может привести нехватка судей на Украине
+            </a></div><div class="card__spot-im-count card__spot-im-count_picture-of-day"><a class="spot-im-replies-href" href="/ussr/article/544399-ukraina-sudebnaya-sistema-razval#href_spot-im"><span class="spot-im-replies-count" data-post-id="article___544399"></span></a></div></div></div></li></ul></div></div></div></div><div class="column__row column__row_article-page_right column__row_article-page_right-2"><div class="hide--partner--block smi2adblock-right smi2adblock-right_article-page" id="smi2adblock-right"><div id="smi2adblock_77365"><a href="http://smi2.net/">Новости СМИ2</a></div><script type="text/javascript" charset="utf-8">
+          (function() {
+            var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true;
+            sc.src = '//news.smi2.ru/data/js/77365.js'; sc.charset = 'utf-8';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
+          }());
+        </script></div></div><div class="column__row column__row_article-page_right column__row_article-page_right-3"><div class="column__cell column__cell_yandex-right_main"><style> 
+    #LentaInformComposite613233 .mgl {
+        background-color: transparent !important;
+    }
+</style><!-- Composite Start --><div id="M281228ScriptRootC613233" class="hide--partner--block"><div id="M281228PreloadC613233">Загрузка...</div><script>
+                (function(){
+            var D=new Date(),d=document,b='body',ce='createElement',ac='appendChild',st='style',ds='display',n='none',gi='getElementById';
+            var i=d[ce]('iframe');i[st][ds]=n;d[gi]("M281228ScriptRootC613233")[ac](i);try{var iw=i.contentWindow.document;iw.open();iw.writeln("<ht"+"ml><bo"+"dy></bo"+"dy></ht"+"ml>");iw.close();var c=iw[b];}
+            catch(e){var iw=d;var c=d[gi]("M281228ScriptRootC613233");}var dv=iw[ce]('div');dv.id="MG_ID";dv[st][ds]=n;dv.innerHTML=613233;c[ac](dv);
+            var s=iw[ce]('script');s.async='async';s.defer='defer';s.charset='utf-8';s.src="//jsc.lentainform.com/r/u/russian.rt.com.613233.js?t="+D.getYear()+D.getMonth()+D.getDate()+D.getHours();c[ac](s);})();
+    </script></div><!-- Composite End --></div></div><div class="column__row column__row_article-page_right column__row_article-page_right-4"><div class="column__cell column__cell_news24smi hide--partner--block"><div id="smi_teaser_10978" class="news24smi"><center><a href="https://24smi.info/?utm_source=informer_10978">
+                Агрегатор новостей 24СМИ
+            </a></center></div><script type="text/JavaScript" encoding="utf8">
+        (function() {
+        var sm = document.createElement("script");
+        sm.type = "text/javascript";
+        sm.async = true;
+        sm.src = "//jsn.24smi.net/9/f/10978.js";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(sm, s);})();
+    </script></div></div><div class="column__row column__row_article-page_right column__row_article-page_right-5"><div id="unit_90894"><a href="http://mirtesen.ru/">Новости mirtesen.ru</a></div><script type="text/javascript" charset="utf-8">
+    (function() {
+        var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true;
+        sc.src = '//news.mirtesen.ru/data/js/90894.js'; sc.charset = 'utf-8';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
+    }());
+</script></div><div class="column__row column__row_article-page_right column__row_article-page_right-6"><div id="infox_904" class="hide--partner--block"></div><script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            INFOX904.renderTo("infox_904");
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//rb.infox.sg/infox/904";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "infoxContextAsyncCallbacks904");
+</script></div><div class="column__row column__row_article-page_right column__row_article-page_right-7"><div class="subscribe-layout subscribe-layout_sidebar"><div class="subscribe"><form class="subscribe__form js-subscribe-form" method="post" action=""><div class="subscribe__heading"><div class="subscribe__heading-text1">Вступай в ряды иноагентов</div><div class="subscribe__heading-text2">Подпишись на рассылку RT</div></div><div class="subscribe__field"><input class="subscribe__field-text js-subscribe-email" type="email" value="" placeholder="Ваш e-mail" required="" /></div><div class="subscribe__button"><button class="subscribe__button-submit" type="submit">Подписаться</button></div></form><a class="subscribe__close js-subscribe-close" href="#"></a></div></div></div><div class="column__row column__row_article-page_right column__row_article-page_right-8"><div class="subscribe-layout subscribe-layout_sidebar"><div class="yandex-banner-medium"><div class="yandex-banner-medium__background"><svg viewBox="0 0 406 99" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><polygon id="path-1" points="0 145 122.199227 145 203 174.109793 231.762329 145 406 145 406 243.354356 0 243.354356"></polygon><filter x="-1.1%" y="-4.6%" width="102.2%" height="109.2%" filterUnits="objectBoundingBox" id="filter-2"><feGaussianBlur stdDeviation="2.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur><feOffset dx="0" dy="4" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset><feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite><feColorMatrix values="0 0 0 0 0.0541063082   0 0 0 0 0.0895797272   0 0 0 0 0.125053146  0 0 0 0.619904891 0" type="matrix" in="shadowInnerInner1"></feColorMatrix></filter></defs><g id="Yellow" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(0.000000, -145.000000)" id="Bottom"><g><use fill="#343A40" fill-rule="evenodd" xlink:href="#path-1"></use><use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use></g></g></g></svg></div><div class="yandex-banner-medium__container"><div class="yandex-banner-medium__logo"><svg width="175px" height="30px" viewBox="0 0 175 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g id="Yellow" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-27.000000, -38.000000)" id="Лого_Яндекс.Новостей"><g transform="translate(27.000000, 38.000000)"><g id="g3398" fill-rule="nonzero"><path d="M10.1154853,2.65730769 L8.60867647,2.65730769 C6.32929412,2.65730769 4.12426471,4.15384615 4.12426471,8.49807692 C4.12426471,12.6957692 6.14573529,14.0480769 8.60867647,14.0480769 L10.1154853,14.0480769 L10.1154853,2.65615385 L10.1154853,2.65730769 Z M7.76291176,16.3846154 L3.2785,26.3861538 L0.00697058824,26.3861538 L4.93285294,15.69 C2.61629412,14.52 1.07347059,12.4038462 1.07347059,8.49692308 C1.07347059,3.02076923 4.56457353,0.281538462 8.71788235,0.281538462 L12.9467059,0.281538462 L12.9467059,26.3884615 L10.1143235,26.3884615 L10.1143235,16.3846154 L7.76291176,16.3846154 Z" id="path3400" fill="#FF0000"></path><path d="M67.9318676,17.1865385 C67.9318676,11.4173077 70.1740735,7.73192308 74.5121029,7.73192308 C76.1652941,7.73192308 77.1214265,8.17038462 77.9300147,8.68153846 L77.5233971,11.3815385 C76.7531471,10.7261538 75.6494706,10.1053846 74.4737647,10.1053846 C72.4151176,10.1053846 70.9454853,12.405 70.9454853,17.04 C70.9454853,21.6415385 72.0491618,24.27 74.3633971,24.27 C75.7598382,24.27 76.8263382,23.7219231 77.4885441,23.1392308 L78.15075,25.2553846 C77.1562794,26.0942308 75.9805735,26.6423077 74.2902059,26.6423077 C70.3204559,26.6423077 67.9307059,23.4657692 67.9307059,17.1865385 L67.9318676,17.1865385 Z M59.5520588,17.2211538 L59.5520588,26.385 L56.6848235,26.385 L56.6848235,7.98692308 L59.5520588,7.98692308 L59.5520588,16.4930769 L63.9992941,7.98692308 L66.9037059,7.98692308 L62.3089265,16.6384615 L67.56475,26.385 L64.4396029,26.385 L59.5520588,17.2234615 L59.5520588,17.2211538 Z M46.0639706,15.5076923 L50.8039706,15.5076923 C50.8039706,12.3669231 50.2893088,10.0673077 48.6349559,10.0673077 C46.8713971,10.0673077 46.2463676,12.2215385 46.0628088,15.5065385 L46.0639706,15.5076923 Z M49.2239706,26.6423077 C45.4017647,26.6423077 43.0480294,23.6111538 43.0480294,17.9538462 C43.0480294,12.0392308 44.7023824,7.73076923 48.6361176,7.73076923 C51.7229265,7.73076923 53.7443971,10.0315385 53.7443971,16.2738462 L53.7443971,17.8430769 L46.0267941,17.8430769 C46.0267941,22.005 47.2036618,24.195 49.4818824,24.195 C51.1002206,24.195 52.3862941,23.4646154 53.1216912,22.9534615 L53.7838971,25.1434615 C52.6070294,26.055 51.0653676,26.64 49.2262941,26.64 L49.2239706,26.6423077 Z M37.0207941,10.2853846 L33.8224559,10.2853846 L33.8224559,10.6153846 C33.8224559,14.4842308 33.6388971,20.1426923 32.0949118,24.0496154 L37.0207941,24.0496154 L37.0207941,10.2865385 L37.0207941,10.2853846 Z M41.3216471,30 L38.7483382,30 L38.7483382,26.385 L30.81,26.385 L30.81,30 L28.2355294,30 L28.2355294,24.0496154 L29.3740588,24.0496154 C31.06675,20.1426923 31.2503088,14.4496154 31.2503088,9.55730769 L31.2503088,7.98807692 L39.8485294,7.98807692 L39.8485294,24.0496154 L41.3193235,24.0496154 L41.3193235,30 L41.3216471,30 Z M26.5811765,7.98692308 L26.5811765,26.385 L23.7511176,26.385 L23.7511176,18.135 L19.4874412,18.135 L19.4874412,26.385 L16.6213676,26.385 L16.6213676,7.98692308 L19.4886029,7.98692308 L19.4886029,15.7984615 L23.7522794,15.7984615 L23.7522794,7.98692308 L26.5823382,7.98692308 L26.5811765,7.98692308 Z" id="path3402" fill="#000000"></path></g><path d="M95.7233399,27.6402715 L97.5554242,27.6402715 L97.5554242,2 L95.7233399,2 L95.7233399,13.8325792 L87.8494227,13.8325792 L87.8494227,2.00113122 L86,2.00113122 L86,27.6402715 L87.8494227,27.6402715 L87.8494227,15.3042986 L95.7233399,15.3042986 L95.7233399,27.6402715 Z M106.406068,27.9988688 C109.59401,27.9988688 112.049119,24.4841629 112.049119,18.4966063 C112.049119,12.2918552 109.59401,9.20927602 106.406068,9.20927602 C103.218125,9.20927602 100.763017,12.6866516 100.763017,18.7115385 C100.763017,24.8789593 103.218125,27.9988688 106.406068,27.9988688 Z M106.406068,26.6357466 C104.244555,26.6357466 102.485292,24.2330317 102.485292,18.6040724 C102.485292,13.1176471 104.244555,10.6063348 106.406068,10.6063348 C108.567581,10.6063348 110.326844,12.9366516 110.326844,18.6040724 C110.326844,24.0542986 108.567581,26.6357466 106.406068,26.6357466 Z M119.157837,27.6402715 C122.637064,27.6402715 124.94653,25.9909502 124.94653,22.4400452 C124.94653,20.2533937 123.883112,18.7466063 121.501981,18.0656109 C123.298232,17.2771493 124.102731,15.7692308 124.102731,13.9423077 C124.102731,11.0746606 122.34578,9.5678733 119.08386,9.5678733 L115.200073,9.5678733 L115.200073,27.6402715 L119.157837,27.6402715 Z M119.012195,10.8936652 C121.135564,10.8936652 122.456745,11.719457 122.456745,14.0135747 C122.456745,16.5248869 121.025754,17.5995475 119.012195,17.5995475 L116.885359,17.5995475 L116.885359,10.8936652 L119.012195,10.8936652 Z M119.120849,18.8540724 C121.795576,18.8540724 123.224255,19.928733 123.224255,22.5486425 C123.224255,25.3427602 121.538969,26.3495475 119.157837,26.3495475 L116.885359,26.3495475 L116.885359,18.8529412 L119.120849,18.8529412 L119.120849,18.8540724 Z M132.714106,27.9988688 C135.90436,27.9988688 138.357157,24.4841629 138.357157,18.4966063 C138.357157,12.2918552 135.903204,9.20927602 132.716418,9.20927602 C129.526163,9.20927602 127.072211,12.6866516 127.072211,18.7115385 C127.072211,24.8789593 129.527319,27.9988688 132.715262,27.9988688 L132.714106,27.9988688 Z M132.714106,26.6357466 C130.552593,26.6357466 128.795641,24.2330317 128.795641,18.6040724 C128.795641,13.1176471 130.552593,10.6063348 132.714106,10.6063348 C134.875619,10.6063348 136.636038,12.9366516 136.636038,18.6040724 C136.636038,24.0542986 134.876774,26.6357466 132.715262,26.6357466 L132.714106,26.6357466 Z M146.674935,26.5282805 C143.817577,26.5282805 142.53454,23.5871041 142.53454,18.6391403 C142.53454,13.5486425 143.852254,10.6414027 146.674935,10.6414027 C148.250412,10.6414027 149.42364,11.5746606 150.229295,12.6866516 L150.705521,10.8947964 C149.89871,9.92647059 148.578685,9.20927602 146.673779,9.20927602 C142.899801,9.20927602 140.81111,12.6877828 140.81111,18.6402715 C140.81111,24.5226244 142.937946,28 146.636791,28 C149.532293,28 150.888151,25.9920814 150.888151,25.9920814 L150.337948,24.5927602 C150.337948,24.5927602 149.054911,26.5294118 146.673779,26.5294118 L146.674935,26.5282805 Z M162.614647,10.9660633 L162.614647,9.56561086 L152.354975,9.56561086 L152.354975,10.9660633 L156.643324,10.9660633 L156.643324,27.6402715 L158.365599,27.6402715 L158.365599,10.9660633 L162.614647,10.9660633 Z M173.352858,27.6402715 L175,27.6402715 L175,9.56674219 L173.497344,9.56674219 L167.490188,22.2613122 C167.122615,23.0497738 166.756198,23.8393665 166.499591,24.6640271 L166.389781,24.6640271 C166.462602,23.8721719 166.536579,23.0848416 166.536579,22.1165158 L166.536579,9.56674219 L164.924114,9.56674219 L164.924114,27.6402715 L166.389781,27.6402715 L172.400405,14.9095023 C172.801499,14.1210407 173.132083,13.3676471 173.38869,12.5791855 L173.4985,12.5791855 L173.352858,27.6402715 Z" id="path3412" fill="#000000"></path></g></g></g></svg></div><div class="yandex-banner-medium__content">
+                Добавьте RT<br>
+                в список ваших источников<br>
+                 на Яндекс.Новостях
+            </div></div><a href="https://news.yandex.ru/index.html?from=rubric&favid=254083361" class="yandex-banner-medium__button" target="_blank">Добавить</a></div></div></div><div class="column__row column__row_article-page_right column__row_article-page_right-9"><div id="240x400x2"><script type="text/javascript">
+                        window.Ya.adfoxCode.create(_adv.place['240x400x2']);
+                    </script></div></div><div class="column__row column__row_article-page_right column__row_article-page_right-10">
+d8
+<div class="column__cell"><div class="banners"><a href="https://ttttt.me/rt_russian" target="_blank"><img src="https://cdni.rt.com/russian/images/2018.07/original/5b4dab30370f2c477a8b4582.jpg" alt=""></a></div></div>
+5529
+</div><div class="column__row column__row_article-page_right column__row_article-page_right-11"><div class="listing listing_foreign-press_right" data-component="Listing" onclick="return {
+            template: {
+                name: 'foreignPress',
+                loadPath: '/static/js/modules/foreignPress.min.js',
+                listing: {
+                    modifiersCard: 'listing__card_foreign-press'
+                },
+                card: {
+                    modifiersCover: 'card__cover_foreign-press_right',
+                }
+            },
+            singlePage: {
+               url: '/inotv/api/widgets/press.json' + '?_='+ parseInt(new Date().getTime() / 120000) /*добавляем раз в минуту новую переменую для кэша*/
+            }
+        };"></div></div><div class="column__row column__row_article-page_right column__row_article-page_right-12"><div class="js-sticky"><div class="js-sticky__content"><div id="240x400x3"><script type="text/javascript">
+                        window.Ya.adfoxCode.create(_adv.place['240x400x3']);
+                    </script></div></div></div></div></div></div></div><div class="rows__column"></div></div></div></div></div><div class="clears-mh"></div><div class="layout__footer"><div class="footer js-mediator-footer"><div class="footer__content"><div class="footer__control-width"><div role="footer__left" class="footer__left"><div class="footer__navs footer__navs_item_1"><div class="nav nav_langs "><ul class="nav__row footer__nav footer__nav_1"><li class="nav__row-item footer__nav-item"><a class="nav__link footer__nav-link  link" href="//www.rt.com/" target="_blank" >
+
+                    English
+
+                </a></li><li class="nav__row-item footer__nav-item"><a class="nav__link footer__nav-link  link" href="//deutsch.rt.com/" target="_blank" >
+
+                    Deutsch
+
+                </a></li><li class="nav__row-item footer__nav-item"><a class="nav__link footer__nav-link  link" href="//francais.rt.com/" target="_blank" >
+
+                    Français
+
+                </a></li><li class="nav__row-item footer__nav-item"><a class="nav__link footer__nav-link  link" href="//arabic.rt.com/" target="_blank" >
+
+                    العربية
+
+                </a></li><li class="nav__row-item footer__nav-item"><a class="nav__link footer__nav-link  link" href="//actualidad.rt.com/" target="_blank" >
+
+                    Español
+
+                </a></li></ul></div><ul class="footer__nav footer__nav_last"><li class="footer__nav-item"><a href="//rtd.rt.com/" class="footer__nav-link" target="blank" >
+                                    RTД на английском
+                                </a></li><li class="footer__nav-item"><a href="//doc.rt.com/" class="footer__nav-link" target="blank" >
+                                    RTД на русском
+                                </a></li><li class="footer__nav-item"><a href="//ruptly.tv/" class="footer__nav-link" target="blank" >
+                                    RUPTLY
+                                </a></li></ul></div><div class="footer__social"><div class="socials socials_footer"><ul class="socials__row socials__row_footer"><li class="socials__item socials__item_footer"><a href="//vk.com/rt_russian" class="socials__link socials__link_vkontakte" target="_blank">
+                    RT на русском Вконтакте
+                </a></li><li class="socials__item socials__item_footer"><a href="//twitter.com/RT_russian" class="socials__link socials__link_twitter" target="_blank">
+                    Twitter RT Russian
+                </a></li><li class="socials__item socials__item_footer"><a href="//www.facebook.com/RTRussian" class="socials__link socials__link_facebook" target="_blank">
+                    Страница RT на facebook.com
+                </a></li><li class="socials__item socials__item_footer"><a href="//ttttt.me/rt_russian" class="socials__link socials__link_telegram" target="_blank">
+                    Канал RT на Telegram.me
+                </a></li><li class="socials__item socials__item_footer"><a href="//www.youtube.com/user/rtrussian" class="socials__link socials__link_youtube" target="_blank">
+                    Канал RT на YouTube.com
+                </a></li><li class="socials__item socials__item_footer"><a href="//ok.ru/rtrussian" class="socials__link socials__link_odnoklassniki" target="_blank">
+                    RT на русском группа на Одноклассники.ru
+                </a></li><li class="socials__item socials__item_footer"><a href="//plus.google.com/+rtrussian" class="socials__link socials__link_gplus" target="_blank">
+                    RT Russian в Google plus
+                </a></li><li class="socials__item socials__item_footer"><a href="//rt-russian.livejournal.com/" class="socials__link socials__link_livejournal" target="_blank">
+                    Материалы RT на русском в Живом Журнале
+                </a></li><li class="socials__item socials__item_footer"><a href="//www.instagram.com/rtrussian/" class="socials__link socials__link_instagram" target="_blank">
+                    Фотолента корреспондентов RT в Instagram
+                </a></li><li class="socials__item socials__item_footer"><a href="//chats.viber.com/rtrussian" class="socials__link socials__link_viber" target="_blank">
+                    viber
+                </a></li><li class="socials__item socials__item_footer"><a href="/rss" class="socials__link socials__link_rss" target="_blank">
+                    rss
+                </a></li></ul></div></div><input class="footer__button" type="checkbox" id="footer__left"><label class="footer__button-switch" for="footer__left" onclick=""></label><div class="footer__navs footer__navs_item_2"><ul class="footer__nav footer__nav_2"><li class="footer__nav-item"><a href="/press_releases" class="footer__nav-link" >
+                                        Пресс-релизы
+                                    </a></li><li class="footer__nav-item"><a href="/about" class="footer__nav-link" >
+                                        О канале
+                                    </a></li><li class="footer__nav-item"><a href="//doc.rt.com/programmy/" class="footer__nav-link" >
+                                        Программы RT
+                                    </a></li><li class="footer__nav-item"><a href="//rt.com/about-us/contact-info/" class="footer__nav-link" >
+                                        Контакты
+                                    </a></li><li class="footer__nav-item"><a href="//zakupki.rt.com/" class="footer__nav-link" >
+                                        Текущие закупки RT
+                                    </a></li><li class="footer__nav-item"><a href="mailto:russian@rttv.ru" class="footer__nav-link" >
+                                        Написать в редакцию
+                                    </a></li><li class="footer__nav-item"><a href="/rt_events" class="footer__nav-link" >
+                                        Новости телеканала
+                                    </a></li><li class="footer__nav-item"><a href="/partners" class="footer__nav-link" >
+                                        Новости партнёров
+                                    </a></li></ul></div><div class="footer__navs footer__navs_item_3"><ul class="footer__nav footer__nav_3"><li class="footer__nav-item"><a href="/news" class="footer__nav-link" >
+                                        Новости
+                                    </a></li><li class="footer__nav-item"><a href="/world" class="footer__nav-link" >
+                                        Мир
+                                    </a></li><li class="footer__nav-item"><a href="/russia" class="footer__nav-link" >
+                                        Россия
+                                    </a></li><li class="footer__nav-item"><a href="/ussr" class="footer__nav-link" >
+                                        Бывший СССР
+                                    </a></li><li class="footer__nav-item"><a href="/business" class="footer__nav-link" >
+                                        Экономика
+                                    </a></li><li class="footer__nav-item"><a href="/sport" class="footer__nav-link" >
+                                        Спорт
+                                    </a></li><li class="footer__nav-item"><a href="/science" class="footer__nav-link" >
+                                        Наука
+                                    </a></li><li class="footer__nav-item"><a href="/nopolitics" class="footer__nav-link" >
+                                        Без политики
+                                    </a></li><li class="footer__nav-item"><a href="/opinion" class="footer__nav-link" >
+                                        Мнения
+                                    </a></li><li class="footer__nav-item"><a href="/inotv" class="footer__nav-link" target="_blank">
+                                        ИноТВ
+                                    </a></li><li class="footer__nav-item"><a href="/foto" class="footer__nav-link" >
+                                        Фото
+                                    </a></li><li class="footer__nav-item"><a href="/video" class="footer__nav-link" >
+                                        Видео
+                                    </a></li></ul></div></div><div class="footer__right"><div class="footer__seach-form"><form name="search" class="search" action="/search" ><div class="search__wrapper" role="search__submit-footer"><input class="search__submit" type="checkbox" value="Поиск" id="search__submit-footer" /><label class="search__submit-label" for="search__submit-footer" ></label><input class="search__submit-label search__submit-label_header" type="submit" value="Поиск" /><div class="search__text" ><input type="text" name="q" value="" maxlength="100" /></div></div></form></div></div></div><div class="footer__control-width"><div class="footer__age-limit">18+</div></div></div><div class="footer__copyright footer__copyright_share-article"><div class="footer__control-width"><div class="copyright"><div class="copyright__logo"><a href="/" class="">
+               RT
+            </a></div><div class="copyright__text"><p>&copy; Автономная некоммерческая организация «ТВ-Новости», 2005—2018 гг. Все права защищены.</p><p>Сетевое издание <a href="https://rt.com" class="link">rt.com</a> зарегистрировано Роскомнадзором 21 декабря 2016 г., свидетельство Эл № ФС 77-68119</p><p>Главный редактор: Симоньян М. С. Адрес редакции: Москва, Боровая улица, 3к1. Телефон: <a href="tel:+74997500075" class="link">+7 499 750-00-75</a> доб. 1200 E-mail: <a class="link" href="mailto:info@rttv.ru">info@rttv.ru</a></p><p><a href="https://russian.rt.com/privacy" class="link">Политика АНО «ТВ-Новости» в отношении обработки персональных данных</a></p></div></div></div></div><noindex><div class="footer__organizations"><p class="footer__organizations-title">Организации, признанные экстремистскими и запрещённые на территории РФ</p><div class="footer__organizations-image"><span class="footer__organizations-image__wrapper"></span></div></div></noindex></div></div><div class="cookies__banner js-cookies-banner"><div class="cookies__banner-wrapper"><p class="cookies__banner-text">Данный сайт использует файлы <a href="https://russian.rt.com/privacy-policy" target="_blank">cookies</a></p><a class="cookies__banner-button js-cookies-button">Подтвердить</a></div></div></div><div class="overlay"></div><div class="subscribe-layout subscribe-layout_modal js-subscribe-layout-modal"><div class="subscribe"><a class="subscribe__image" href="https://ttttt.me/rt_russian" target="_blank"></a><a class="subscribe__close js-subscribe-close" href="#"></a></div></div><script src="/static/js/pushes/firebase.js"></script><script src="/static/js/pushes/notification.js?v=2"></script><script>
+    var RT = RT || {};
+    RT.counter = {
+        url: 'https://russian.rt.com/nbc/',
+        publicId: '544460'
+    };
+</script><script defer="defer" async="async" src="/static/js/common.min.js?v=2207e56gs79787fghc76h7f45asd44n9f45s8654h27k73d77ll27123ghj172766767667asdas6757718718982144"></script><script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.8";
+    fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script><script type="text/javascript" src="//cdn.playbuzz.com/widget/feed.js"></script><!-- google analytics --><script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-5773642-24', 'auto');
+                    ga('set', 'dimension1', 'Роман Шимаев,Владимир Смирнов,Марианна Чурсина');
+                            ga('set', 'dimension2', '11 августа 2018');
+                ga('send', 'pageview');
+
+    </script><!--/ google analytics --><!--LiveInternet counter--><div style="position: fixed; left: -9999px;"><script type="text/javascript">
+        document.write("<a href='//www.liveinternet.ru/click;russian_rt' "+
+            "target=_blank><img src='//counter.yadro.ru/hit;russian_rt?t44.5;r"+
+            escape(document.referrer)+((typeof(screen)=="undefined")?"":
+                ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+                    screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+            ";"+Math.random()+
+            "' alt='' title='LiveInternet' "+
+            "border='0' width='31' height='31'><\/a>")
+    </script></div><!--/LiveInternet--><!-- Yandex.Metrika --><script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter17954578 = new Ya.Metrika({id:17954578, enableAll: true});
+                w.yaCounter27102311 = new Ya.Metrika({id:27102311, webvisor:true, clickmap:true, trackLinks:true, accurateTrackBounce:true});
+            } catch(e) { }
+        });
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script><script type="text/javascript" src="//mc.yandex.ru/metrika/watch.js" defer="defer"></script><noscript><img src="//mc.yandex.ru/watch/17954578" style="position:absolute; left:-9999px;" alt="" /></noscript><noscript><div><img src="//mc.yandex.ru/watch/27102311" style="position:absolute; left:-9999px;" alt="" /></div></noscript><!-- /Yandex.Metrika --><!-- Begin comScore Tag --><script type="text/javascript">
+    var _comscore = _comscore || [];
+    _comscore.push({ c1: "2", c2: "17935924" });
+    (function() {
+        var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+        s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+        el.parentNode.insertBefore(s, el);
+    })();
+</script><noscript><img src="//b.scorecardresearch.com/p?c1=2&c2=17935924&cv=2.0&cj=1" /></noscript><!-- End comScore Tag --><!-- tns-counter.ru --><script type="text/javascript">
+    (new Image()).src = '//www.tns-counter.ru/V13a***R>' + document.referrer.replace(/\*/g,'%2a') + '*russianrt_com/ru/UTF-8/tmsec=rt_russia/' + Math.round(Math.random()*1E9);
+</script><noscript><img src="http://www.tns-counter.ru/V13a****russianrt_com/ru/UTF-8/tmsec=rt_russia/" width="1" height="1" alt="" /></noscript><!--/ tns-counter.ru --><!-- mediator --><script id="js-mpf-mediator-init" data-counter="2820232" data-adaptive="true">!function(e){function t(t,n){if(!(n in e)){for(var r,a=e.document,i=a.scripts,o=i.length;o--;)if(-1!==i[o].src.indexOf(t)){r=i[o];break}if(!r){r=a.createElement("script"),r.type="text/javascript",r.async=!0,r.defer=!0,r.src=t,r.charset="UTF-8";;var d=function(){var e=a.getElementsByTagName("script")[0];e.parentNode.insertBefore(r,e)};"[object Opera]"==e.opera?a.addEventListener?a.addEventListener("DOMContentLoaded",d,!1):e.attachEvent("onload",d):d()}}}t("//mediator.mail.ru/script/2820232/","_mediator")}(window);</script><!-- /mediator --><!-- Top100 (Kraken) Counter --><script>
+    (function (w, d, c) {
+        (w[c] = w[c] || []).push(function() {
+            var options = {
+                project: 4502732
+            };
+            try {
+                w.top100Counter = new top100(options);
+            } catch(e) { }
+        });
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src =
+            (d.location.protocol == "https:" ? "https:" : "http:") +
+            "//st.top100.ru/top100/top100.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(window, document, "_top100q");
+</script><noscript><img src="//counter.rambler.ru/top100.cnt?pid=1886286" alt="Топ-100" /></noscript><!-- END Top100 (Kraken) Counter --><!-- Yandex.Metrika Counter --><script type="text/javascript" >
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter48853397 = new Ya.Metrika({
+                    id:48853397,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script><noscript><div><img src="https://mc.yandex.ru/watch/48853397" style="position:absolute; left:-9999px;" alt="" /></div></noscript><!-- /Yandex.Metrika counter --><script type="text/javascript">findContentAdPlacement('.article__text_article-page p', insertParallax);</script></body><!-- [vk12321] --></html>
+                <meta property="og:title" content="«Клоуны и неудачники»: почему Трамп раскритиковал бывших высокопоставленных сотрудников ФБР" />
+                <meta property="og:url" content="https://russian.rt.com/world/article/544460-tramp-kritika-fbr-komi-makkeib" />
+        <meta property="og:description" content="Бывший директор ФБР Джеймс Коми, его заместитель Эндрю Маккейб и ряд других экс-сотрудников нанесли серьёзный ущерб репутации Федерального бюро расследований США. Об этом заявил Дональд Трамп. По словам американского президента, множество людей пострадали от действий «этих клоунов и неудачников». Эксперты отмечают, что противостояние главы Белого дома и разведсообщества обострилось в преддверии промежуточных выборов в конгресс. Аналитики считают, что отношения Трампа с разведчиками не улучшатся и после голосования, поскольку американский лидер нарушает «сложившиеся несколько десятилетий назад методы работы спецслужб»." />
+        <link rel="amphtml" href="https://russian.rt.com/world/article/544460-tramp-kritika-fbr-komi-makkeib/amp">
+        <meta name="twitter:title" content="«Клоуны и неудачники»: почему Трамп раскритиковал бывших высокопоставленных сотрудников ФБР" />
+        <meta name="published_time_telegram" content="2018-08-11T21:19:00+03:00" />
+     
+
+
+
+0
+
+
+
+WARC/1.0
+WARC-Type: metadata
+WARC-Record-ID: <urn:uuid:a91f542b-e153-4c1d-9866-eb3a2ac83f2a>
+WARC-Warcinfo-ID: <urn:uuid:46fc7fe8-5687-4154-b50a-ba4cc1211b4c>
+WARC-Target-URI: <metadata://gnu.org/software/wget/warc/MANIFEST.txt>
+WARC-Date: 2018-08-11T21:50:27Z
+Content-Type: text/plain
+Content-Length: 48
+
+<urn:uuid:46fc7fe8-5687-4154-b50a-ba4cc1211b4c>
+
+
+WARC/1.0
+WARC-Type: resource
+WARC-Record-ID: <urn:uuid:66bb55b2-d99d-46aa-92e8-61d2482b722e>
+WARC-Warcinfo-ID: <urn:uuid:46fc7fe8-5687-4154-b50a-ba4cc1211b4c>
+WARC-Concurrent-To: <urn:uuid:a91f542b-e153-4c1d-9866-eb3a2ac83f2a>
+WARC-Target-URI: <metadata://gnu.org/software/wget/warc/wget_arguments.txt>
+WARC-Date: 2018-08-11T21:50:27Z
+Content-Type: text/plain
+Content-Length: 219
+
+"--warc-file" "544460-tramp-kritika-fbr-komi-makkeib" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "-q" "-O" "/dev/null" "https://russian.rt.com/world/article/544460-tramp-kritika-fbr-komi-makkeib" 
+
+
