@@ -1,0 +1,1151 @@
+WARC/1.0
+WARC-Type: warcinfo
+Content-Type: application/warc-fields
+WARC-Date: 2018-08-13T22:12:18Z
+WARC-Record-ID: <urn:uuid:56c2a855-f042-4f95-9ecd-7340a5992536>
+WARC-Filename: 544963-kndr-yuzhnaya-koreya-sammit-phenyan-voina.warc
+Content-Length: 421
+
+software: Wget/1.19.5 (linux-gnu)
+format: WARC File Format 1.0
+conformsTo: http://bibnum.bnf.fr/WARC/WARC_ISO_28500_version1_latestdraft.pdf
+robots: classic
+wget-arguments: "--warc-file" "544963-kndr-yuzhnaya-koreya-sammit-phenyan-voina" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "-q" "-O" "/dev/null" "https://russian.rt.com/world/article/544963-kndr-yuzhnaya-koreya-sammit-phenyan-voina" 
+
+
+
+WARC/1.0
+WARC-Type: request
+WARC-Target-URI: <https://russian.rt.com/world/article/544963-kndr-yuzhnaya-koreya-sammit-phenyan-voina>
+Content-Type: application/http;msgtype=request
+WARC-Date: 2018-08-13T22:12:19Z
+WARC-Record-ID: <urn:uuid:dc8345c8-a75e-4e75-8fc4-06630398901b>
+WARC-IP-Address: 207.244.80.181
+WARC-Warcinfo-ID: <urn:uuid:56c2a855-f042-4f95-9ecd-7340a5992536>
+Content-Length: 203
+
+GET /world/article/544963-kndr-yuzhnaya-koreya-sammit-phenyan-voina HTTP/1.1
+User-Agent: Wget/1.19.5 (linux-gnu)
+Accept: */*
+Accept-Encoding: identity
+Host: russian.rt.com
+Connection: Keep-Alive
+
+
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <urn:uuid:a603c72d-83df-41f5-9444-a8934c7d97d9>
+WARC-Warcinfo-ID: <urn:uuid:56c2a855-f042-4f95-9ecd-7340a5992536>
+WARC-Concurrent-To: <urn:uuid:dc8345c8-a75e-4e75-8fc4-06630398901b>
+WARC-Target-URI: <https://russian.rt.com/world/article/544963-kndr-yuzhnaya-koreya-sammit-phenyan-voina>
+WARC-Date: 2018-08-13T22:12:19Z
+WARC-IP-Address: 207.244.80.181
+WARC-Block-Digest: �f]U
+WARC-Payload-Digest: 
+Content-Type: application/http;msgtype=response
+Content-Length: 118711
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 13 Aug 2018 22:12:19 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Keep-Alive: timeout=5
+X-4vcta: H2983
+
+508e
+
+    
+
+                
+    
+    <!DOCTYPE html><html prefix="og: http://ogp.me/ns#"  lang="ru"><head><meta charset="UTF-8"><meta name="msvalidate.01" content="36879475773792950F4872586A371571" /><meta name="apple-mobile-web-app-capable" content="no"><meta name="format-detection" content="telephone=yes"><meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"><meta name="HandheldFriendly" content="true"><meta name="MobileOptimzied" content="width"><meta http-equiv="cleartype" content="on"><meta name="navigation" content="tabbed" ><title>«Мун Чжэ Ин показывает характер»: как новый межкорейский саммит может изменить ситуацию в регионе — РТ на русском</title><link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" /><link rel="icon" href="/favicon.ico" type="image/x-icon" /><link rel="apple-touch-icon" href="/static/blocks/touch-icon/apple-touch-icon-precomposed.png"/><link rel="apple-touch-icon" sizes="72x72" href="/static/blocks/touch-icon/apple-touch-icon-72x72-precomposed.png" /><link rel="apple-touch-icon" sizes="114x114" href="/static/blocks/touch-icon/apple-touch-icon-114x114-precomposed.png" /><link rel="apple-touch-icon" sizes="144x144" href="/static/blocks/touch-icon/apple-touch-icon-144x144-precomposed.png" /><meta name="description" content="«Мун Чжэ Ин показывает характер»: как новый межкорейский саммит может изменить ситуацию в регионе - Читайте подробнее на сайте РТ на русском." /><meta property="fb:pages" content="240228462761886" /><meta name="google-site-verification" content="GYFQiVoLOXGoiBZb6BPk_PoFj173iKc7_nZ1eG1k-x4"><meta property="og:site_name" content="RT на русском" /><meta property="og:locale" content="ru_RU" /><meta property="og:type" content="article" /><meta property="og:title" content="«Мун Чжэ Ин показывает характер»: как новый межкорейский саммит может изменить ситуацию в регионе" /><meta property="og:url" content="https://russian.rt.com/world/article/544963-kndr-yuzhnaya-koreya-sammit-phenyan-voina" /><meta property="og:description" content="Третий за год саммит лидеров Северной и Южной Кореи пройдёт в сентябре 2018 года в столице КНДР. Об этом 13 августа договорились представители двух стран в ходе переговоров в Пханмунджоме. Предполагается, что Ким Чен Ын и Мун Чже Ин обсудят экономическое сотрудничество и вопросы, связанные с формальным завершением Корейской войны. Впрочем, США выступают против подобной декларации. По мнению экспертов, Вашингтону невыгодна стабильность на полуострове и он тормозит диалог между Пхеньяном и Сеулом. Однако твёрдая позиция южнокорейского лидера может повлиять на Соединённые Штаты, считают аналитики." /><link rel="amphtml" href="https://russian.rt.com/world/article/544963-kndr-yuzhnaya-koreya-sammit-phenyan-voina/amp"><meta name="twitter:title" content="«Мун Чжэ Ин показывает характер»: как новый межкорейский саммит может изменить ситуацию в регионе" /><meta name="spotim:recommended_page" content="false"/><meta name="published_time_telegram" content="2018-08-13T23:11:00+03:00" /><meta property="og:image" content="https://cdni.rt.com/russian/images/2018.08/article/5b71880918356118168b45f2.jpg"/><meta property="og:image:type" content="image/jpeg" /><meta property="og:image:width" content="840" /><meta property="og:image:height" content="450" /><meta name="twitter:image" content="https://cdni.rt.com/russian/images/2018.08/article/5b71880918356118168b45f2.jpg" /><meta name="twitter:site" content="@RT_russian" /><meta name="twitter:card" content="summary_large_image"><meta name="twitter:app:name:iphone" content="iphone" /><meta name="twitter:app:id:iphone" content="iphone" /><meta name="twitter:app:url:iphone" content="url" /><meta name="twitter:app:name:ipad" content="ipad" /><meta name="twitter:app:id:ipad" content="ipad" /><meta name="twitter:app:url:ipad" content="url" /><meta name="twitter:app:name:googleplay" content="googleplay" /><meta name="twitter:app:id:googleplay" content="googleplay" /><meta name="twitter:app:url:googleplay" content="googleplay" /><meta name="apple-itunes-app" content="app-id=649316948, app-argument=russianrtnews://articles/544963" /><script type="text/javascript">(window.Image ? (new Image()) : document.createElement('img')).src = 'https://vk.com/rtrg?p=VK-RTRG-109324-1Xxct';</script><script type="text/javascript" src="//pp.lp4.io/app/59/4b/a9/594ba919e45a1d4b4ab1e468.js" async="async"></script><meta name="mediator_theme" content="Мир" /><meta name="mediator" content="544963" /><meta name="mediator_published_time" content="2018-08-13T23:11:00+03:00" /><meta name="mediator_author" content="Александр Бовдунов"/><script>
+                var _prum = [['id', '54ca2d51abe53ddb6be85738'],
+                    ['mark', 'firstbyte', (new Date()).getTime()]];
+                (function() {
+                    var s = document.getElementsByTagName('script')[0]
+                        , p = document.createElement('script');
+                    p.async = 'async';
+                    p.src = '//rum-static.pingdom.net/prum.min.js';
+                    s.parentNode.insertBefore(p, s);
+                })();
+            </script><!-- rev-hash --><link rel="stylesheet" href="/static/css/template.css?v=2207e272jghfjsd7f8khfjs7fg5gh6dc9n9567sasdiuo5yuiy8x73lsghj1asdc67d7cd7cj4n675771871c7654sad6544"/><!-- end --><link rel="stylesheet" href="/static/css/label.css?v=5"/><script src="https://yastatic.net/pcode/adfox/header-bidding.js"></script><script type="text/javascript">
+                    if(typeof _adv == 'undefined') var _adv = {};
+                    _adv.section = 'world';
+                    _adv.account = 258144;
+                    _adv.place = {
+                        'parallax': {
+                            ownerId: _adv.account,
+                            containerId: 'parallax',
+                            params: {
+                                p1: 'bziyi',
+                                p2: 'fumy',
+                                puid1: 'world'
+                            }
+                        },
+                        'billboard': {
+                            ownerId: _adv.account,
+                            containerId: 'billboard',
+                            params: {
+                                p1: 'byppm',
+                                p2: 'y',
+                                puid1: 'world'
+                            }
+                        },
+                        '240x400': {
+                            ownerId: _adv.account,
+                            containerId: '240x400',
+                            params: {
+                                p1: 'byppp',
+                                p2: 'fsys',
+                                puid1: 'world'
+                            }
+                        },
+                        '240x400x2': {
+                            ownerId: _adv.account,
+                            containerId: '240x400x2',
+                            params: {
+                                p1: 'byppq',
+                                p2: 'fsyt',
+                                puid1: 'world'
+                            }
+                        },
+                        '240x400x3': {
+                            ownerId: _adv.account,
+                            containerId: '240x400x3',
+                            params: {
+                                p1: 'byppr',
+                                p2: 'fsyu',
+                                puid1: 'world'
+                            }
+                        },
+                        'leaderboard': {
+                            ownerId: _adv.account,
+                            containerId: 'leaderboard',
+                            params: {
+                                p1: 'byppn',
+                                p2: 'fsyv',
+                                puid1: 'world'
+                            }
+                        },
+                        'leaderboardx2': {
+                            ownerId: _adv.account,
+                            containerId: 'leaderboardx2',
+                            params: {
+                                p1: 'byppo',
+                                p2: 'fsyw',
+                                puid1: 'world'
+                            }
+                        }
+                    };
+                    _adv.adfox_hb = {
+                        biddersMap: {'criteo':'750428','adriver':'750427'},
+                        timeout: 500,
+                        adUnits: [ {
+                            code: 'billboard',
+                            sizes: [[970,250 ], [970,90]],
+                            bids: [{
+                                bidder: 'criteo',
+                                params: {
+                                    zoneid: 1104886
+                                }
+                            }, {
+                                bidder: 'criteo',
+                                params: {
+                                    zoneid: 1104884
+                                }
+                            }, {
+                                bidder: 'adriver',
+                                params: {
+                                    siteid: '9:rtcom_970x90'
+                                }
+                            }
+                            ]
+                        }, {
+                            code: '240x400x2',
+                            sizes: [300,600],
+                            bids: [ {
+                                bidder: 'criteo',
+                                params: {
+                                    zoneid: 1104882,
+                                }
+                            }, {
+                                bidder: 'adriver',
+                                params: {
+                                    siteid: '9:rtcom_300x600_mid'
+                                }
+                            }
+                            ]
+                        }, {
+                            code: '240x400x3',
+                            sizes: [300,600],
+                            bids: [ {
+                                bidder: 'criteo',
+                                params: {
+                                    zoneid: 1104883,
+                                }
+                            }, {
+                                bidder: 'adriver',
+                                params: {
+                                    siteid: '9:rtcom_300x600_bottom'
+                                }
+                            }
+                            ]
+                        }]
+                    };
+                    Ya.headerBidding.setSettings(_adv.adfox_hb);
+                </script><script src="https://yastatic.net/pcode/adfox/loader.js"></script><script src="/static/js/inpage/rt.ad.wrapper.min.js"></script><script>
+            var charsThresold = 3000;
+
+            function insertAfter(newNode, referenceNode){
+
+                referenceNode.parentNode.insertBefore(newNode, referenceNode.nextSibling);
+            }
+            function findContentAdPlacement(selector, cb){
+
+                var paragraphs = document.querySelectorAll(selector);
+                var charsCount = 0;
+                var refParagraph = false;
+
+                if(paragraphs.length){
+
+                    for(var i=0; i < paragraphs.length; i++){
+
+                        if(charsCount < charsThresold){
+
+                            var text = paragraphs[i].innerText;
+
+                            charsCount = charsCount + text.length;
+
+                            if(charsCount > charsThresold||charsCount == charsThresold){
+
+                                refParagraph = paragraphs[i];
+
+                            }
+
+                        }
+
+                    }
+
+                    if(refParagraph) cb(refParagraph);
+
+                }
+            }
+            function insertParallax(refNode){
+
+                var _div = document.createElement('div');
+                _div.id = 'parallax';
+
+                insertAfter(_div, refNode);
+
+                window.Ya.adfoxCode.create(_adv.place['parallax']);
+            }
+        </script></head><body><div class="layout "><div class="offers" id="offers"></div><div class="layout__header" id="layout__header"><div class="header js-header" id="header"><div class="header__section header__section_gray"><div class="header__content"><div class="header__social"><div class="socials "><ul class="socials__row "><li class="socials__item "><a href="//vk.com/rt_russian" class="socials__link socials__link_vkontakte" target="_blank">
+                    RT на русском Вконтакте
+                </a></li><li class="socials__item "><a href="//twitter.com/RT_russian" class="socials__link socials__link_twitter" target="_blank">
+                    Twitter RT Russian
+                </a></li><li class="socials__item "><a href="//www.facebook.com/RTRussian" class="socials__link socials__link_facebook" target="_blank">
+                    Страница RT на facebook.com
+                </a></li><li class="socials__item "><a href="//ttttt.me/rt_russian" class="socials__link socials__link_telegram" target="_blank">
+                    Канал RT на Telegram.me
+                </a></li><li class="socials__item "><a href="//www.youtube.com/user/rtrussian" class="socials__link socials__link_youtube" target="_blank">
+                    Канал RT на YouTube.com
+                </a></li><li class="socials__item "><a href="//ok.ru/rtrussian" class="socials__link socials__link_odnoklassniki" target="_blank">
+                    RT на русском группа на Одноклассники.ru
+                </a></li><li class="socials__item "><a href="//plus.google.com/+rtrussian" class="socials__link socials__link_gplus" target="_blank">
+                    RT Russian в Google plus
+                </a></li><li class="socials__item "><a href="//rt-russian.livejournal.com/" class="socials__link socials__link_livejournal" target="_blank">
+                    Материалы RT на русском в Живом Журнале
+                </a></li><li class="socials__item "><a href="//www.instagram.com/rtrussian/" class="socials__link socials__link_instagram" target="_blank">
+                    Фотолента корреспондентов RT в Instagram
+                </a></li><li class="socials__item "><a href="//chats.viber.com/rtrussian" class="socials__link socials__link_viber" target="_blank">
+                    viber
+                </a></li><li class="socials__item "><a href="/rss" class="socials__link socials__link_rss" target="_blank">
+                    rss
+                </a></li></ul></div></div><div class="header__langs"><div class="langs"><div class="nav langs__nav "><ul class="nav__row nav__row_langs"><li class="nav__row-item nav__row-item_lang"><a class="nav__link nav__link_lang  link" href="//www.rt.com/" target="_blank" >
+
+                    ENG
+
+                </a></li><li class="nav__row-item nav__row-item_lang"><a class="nav__link nav__link_lang  link" href="//deutsch.rt.com/" target="_blank" >
+
+                    DE
+
+                </a></li><li class="nav__row-item nav__row-item_lang"><a class="nav__link nav__link_lang  link" href="//francais.rt.com/" target="_blank" >
+
+                    FR
+
+                </a></li><li class="nav__row-item nav__row-item_lang"><a class="nav__link nav__link_lang  link" href="//arabic.rt.com/" target="_blank" >
+
+                    العربية
+
+                </a></li><li class="nav__row-item nav__row-item_lang"><a class="nav__link nav__link_lang  link" href="//actualidad.rt.com/" target="_blank" >
+
+                    ESP
+
+                </a></li></ul></div></div></div><div class="header__media-projects"><div class="nav nav_media-projects "><ul class="nav__row nav__row_media-projects"><li class="nav__row-item nav__row-item_media-projects"><a class="nav__link nav__link_media-projects  link" href="//doc.rt.com/"  target="_blank">
+
+                    RTД
+
+                </a></li><li class="nav__row-item nav__row-item_media-projects"><a class="nav__link nav__link_media-projects  link" href="/trend/302293-rt360"  >
+
+                    RT360
+
+                </a></li></ul></div></div><div class="clears-mh"></div></div></div><div class="header__section header__section_border-bottom_gray"><div class="header__content"><div class="header__logo"><a class="logo " href="/"><span class="logo__image">RT</span><span class="logo__text">На русском</span></a></div><div class="header__seach-form"><form name="search" class="search" action="/search" ><div class="search__wrapper" role="search__submit-top"><input class="search__submit" type="checkbox" value="Поиск" id="search__submit-top" /><label class="search__submit-label" for="search__submit-top" ></label><input class="search__submit-label search__submit-label_header" type="submit" value="Поиск" /><div class="search__text" ><input type="text" name="q" value="" maxlength="100" /></div></div></form></div><ul class="mobile-nav"><li class="mobile-nav__item"><a class="js-mobile-element-nav mobile-nav__link mobile-nav__link_search">Search</a></li><li class="mobile-nav__item"><a class="js-mobile-element-nav mobile-nav__link mobile-nav__link_menu">Menu mobile</a></li></ul></div></div><div class="header__section" id="header-nav"><div class="header__content"><div class="nav  nav_header"><ul class="nav__row nav__row_center"><li class="nav__row-item nav__row-item_header"><a class="nav__link nav__link_header  link" href="/news"  >
+
+                    Новости
+
+                </a></li><li class="nav__row-item nav__row-item_header"><a class="nav__link nav__link_header nav__link_header_active link" href="/world"  >
+
+                    Мир
+
+                </a></li><li class="nav__row-item nav__row-item_header"><a class="nav__link nav__link_header  link" href="/russia"  >
+
+                    Россия
+
+                </a></li><li class="nav__row-item nav__row-item_header"><a class="nav__link nav__link_header  link" href="/ussr"  >
+
+                    Бывший СССР
+
+                </a></li><li class="nav__row-item nav__row-item_header"><a class="nav__link nav__link_header  link" href="/business"  >
+
+                    Экономика
+
+                </a></li><li class="nav__row-item nav__row-item_header"><a class="nav__link nav__link_header  link" href="/sport"  >
+
+                    Спорт
+
+                </a></li><li class="nav__row-item nav__row-item_header"><a class="nav__link nav__link_header  link" href="/science"  >
+
+                    Наука
+
+                </a></li><li class="nav__row-item nav__row-item_header"><a class="nav__link nav__link_header  link" href="/nopolitics"  >
+
+                    Без политики
+
+                </a></li><li class="nav__row-item nav__row-item_header"><a class="nav__link nav__link_header  link" href="/opinion"  >
+
+                    Мнения
+
+                </a></li><li class="nav__row-item nav__row-item_header"><a class="nav__link nav__link_header  link" href="/inotv"  target="_blank">
+
+                    ИноТВ
+
+                </a></li><li class="nav__row-item nav__row-item_header"><a class="nav__link nav__link_header  link" href="/foto"  >
+
+                    Фото
+
+                </a></li><li class="nav__row-item nav__row-item_header"><a class="nav__link nav__link_header  link" href="/video"  >
+
+                    Видео
+
+                </a></li></ul></div></div></div></div></div><div class="layout__popular-trends"><div class="layout__control-width">
+a7c
+<div class="nav nav_popular-trends"><ul class="nav__row nav__row_popular-trends"><li class="nav__row-item nav__row-item_popular-trends"><a class="nav__link nav__link_popular-trends" href="/trend/306261-situaciya-v-sirii" data-trends-link="5754f688c461887a5f8b45cf">
+                            Ситуация в Сирии
+                        </a></li><li class="nav__row-item nav__row-item_popular-trends"><a class="nav__link nav__link_popular-trends" href="/trend/335114-evropa" data-trends-link="5835d52fc46188aa738b47f4">
+                            Европа
+                        </a></li><li class="nav__row-item nav__row-item_popular-trends"><a class="nav__link nav__link_popular-trends" href="/trend/346584-sankcii" data-trends-link="586638cac46188666a8b48e1">
+                            Санкции
+                        </a></li><li class="nav__row-item nav__row-item_popular-trends"><a class="nav__link nav__link_popular-trends" href="/trend/354675-terakty" data-trends-link="588f50d2c46188fd248b45fc">
+                            Теракты
+                        </a></li><li class="nav__row-item nav__row-item_popular-trends"><a class="nav__link nav__link_popular-trends" href="/trend/335110-ssha" data-trends-link="5835d4cec4618889798b47a1">
+                            США
+                        </a></li><li class="nav__row-item nav__row-item_popular-trends"><a class="nav__link nav__link_popular-trends" href="/trend/336983-aziya" data-trends-link="583d8b92c36188b90a8b46f8">
+                            Азия
+                        </a></li><li class="nav__row-item nav__row-item_popular-trends"><a class="nav__link nav__link_popular-trends" href="/trend/349105-latinskaya-amerika" data-trends-link="5874f377c36188ce088b4721">
+                            Латинская Америка
+                        </a></li><li class="nav__row-item nav__row-item_popular-trends"><a class="nav__link nav__link_popular-trends" href="/trend/335108-blizhnii-vostok" data-trends-link="5835d446c46188aa738b47ee">
+                            Ближний Восток
+                        </a></li><li class="nav__row-item nav__row-item_popular-trends"><a class="nav__link nav__link_popular-trends" href="/trend/335329-turciya" data-trends-link="5836feffc3618836698b48cb">
+                            Турция
+                        </a></li><li class="nav__row-item nav__row-item_popular-trends"><a class="nav__link nav__link_popular-trends" href="/trend/335105-vneshnyaya-politika" data-trends-link="5835d35ec46188a6798b493b">
+                            Внешняя политика
+                        </a></li></ul></div>
+2c8
+<script>
+        (function () {
+            var list = ['583d8b92c36188b90a8b46f8'];
+            var next = true;
+            var links = [].slice.call(document.querySelectorAll('[data-trends-link]'), 0);
+            if(!links.length) {
+                return;
+            }
+            links.forEach(function (link) {
+                if (!next) return;
+                var id = link.getAttribute('data-trends-link');
+                if (~list.indexOf(id)) {
+                    link.classList.add('nav__link_bold');
+                    next = false;
+                }
+            })
+        })();
+    </script></div></div><div class="layout__wrapper layout__wrapper_article-page"><div class="layout__breaking ">
+3033
+</div><div class="layout__banners rows__bottom"><div id="billboard"><script type="text/javascript">
+                        window.Ya.adfoxCode.create(_adv.place['billboard']);
+                    </script></div></div><div class="layout__content "><div class="layout__rows"><div class="rows rows_article-page"><div class="rows__column rows__column_article-page_left"><div class="column"><div class="flex-news-block"><div class="column__row"><div class="article article_article-page"><h1 class="article__heading article__heading_article-page">«Мун Чжэ Ин показывает характер»: как новый межкорейский саммит может изменить ситуацию в регионе</h1><div class="article__date-autor-shortcode article__date-author-shortcode_article-page"><div class="article__short-url-block"><div class="short-url article__short-url"><a class="short-url__link" href="https://ru.rt.com/bohv">Короткая ссылка</a></div></div><div class="article__date article__date_article-page"><time class="date ">
+		13 августа 2018, 23:11
+	</time></div><div class="article__author article__author_article-page">
+                                    Александр Бовдунов
+                            </div></div><div class="article__share article__share_article-page"><script>
+        var RT = window.RT || {};
+        RT.yaShare = true;
+    </script><script async src="/static/js/social.min.js?v=7"></script><div class="social-container"
+     data-buttons="facebook, vk, ok, twitter, google, telegram, fbmessenger, whatsapp"
+     data-counters></div></div><div class="article__summary article__summary_article-page js-mediator-article">Третий за год саммит лидеров Северной и Южной Кореи пройдёт в сентябре 2018 года в столице КНДР. Об этом 13 августа договорились представители двух стран в ходе переговоров в Пханмунджоме. Предполагается, что Ким Чен Ын и Мун Чже Ин обсудят экономическое сотрудничество и вопросы, связанные с формальным завершением Корейской войны. Впрочем, США выступают против подобной декларации. По мнению экспертов, Вашингтону невыгодна стабильность на полуострове и он тормозит диалог между Пхеньяном и Сеулом. Однако твёрдая позиция южнокорейского лидера может повлиять на Соединённые Штаты, считают аналитики.</div><div class="article__cover article__cover_article-page"><img src="https://cdni.rt.com/russian/images/2018.08/article/5b71880918356118168b45f2.jpg" alt="«Мун Чжэ Ин показывает характер»: как новый межкорейский саммит может изменить ситуацию в регионе" class="article__cover-image "><ul class="article__cover-description "><li class="article__cover-title ">
+                                Президент Республики Корея Мун Чжэ Ин во время встречи с Северокорейским лидером Ким Чен Ыном
+                            </li><li class="article__cover-source ">
+                                Reuters
+                            </li><li class="article__cover-copyright">
+                                &copy; POOL New
+                            </li></ul></div><div class="article__facebook article__facebook_article-page"><div id="fb-root"></div><div class="fb-like" data-href="https://www.facebook.com/RTRussian/" data-layout="standard" data-action="like" data-size="large" data-show-faces="true" data-share="true"></div></div><div class="article__text article__text_article-page js-mediator-article"><p>Президент Южной Кореи Мун Чжэ Ин и лидер Северной Кореи Ким Чен Ын проведут переговоры в Пхеньяне в сентябре текущего года. Такого соглашения в понедельник, 13 августа, достигли представители ведомств обеих стран по объединению Корейского полуострова. Однако точная дата проведения нового саммита пока не сообщается. Как отметили в администрации президента Южной Кореи, наиболее вероятно, что он состоится во второй половине месяца.</p><p>Эта встреча лидеров двух Корей&nbsp;станет третьей в этом году и&nbsp;первой после переговоров Ким Чен Ына и президента США Дональда Трампа в Сингапуре 12 июня этого года. Последний раз президент Южной Кореи посещал Пхеньян одиннадцать лет назад, в 2007 году.</p><blockquote><p>&laquo;Это своего рода феномен &mdash; третий саммит в течение года, &mdash; заявил в интервью RT заведующий отделом Кореи и Монголии Института востоковедения РАН Александр Воронцов. &mdash; Такого никогда не было, и это говорит о серьёзном&nbsp;подходе лидеров двух стран к вопросам улучшения межкорейских отношений, углублению диалога, в том числе и по вопросам безопасности&raquo;.</p></blockquote><h2><strong>Обоюдный интерес</strong></h2><p><strong></strong></p><p>Как сообщает южнокорейское информационное агентство &laquo;Рёнхап&raquo;, переговоры представителей КНДР и Республики Корея 13 августа прошли в тёплой дружеской обстановке. Помимо визита южнокорейского лидера на север, обсуждались вопросы двустороннего сотрудничества, среди них &mdash; встречи разделённых семей, а также экономическая кооперация, которой особое внимание уделяет северокорейская сторона.</p>    <div class="article__read-more read-more"><div class="read-more__title">
+                Также по теме
+            </div><a class="read-more__link" href="/world/article/527256-rossiya-yuzhnaya-koreya-kndr"><img class="read-more__cover" src="https://cdni.rt.com/russian/images/2018.06/thumbnail/5b2d276a183561e85d8b45a6.jpg"  /></a><strong class="read-more__heading"><a class="read-more__link" href="/world/article/527256-rossiya-yuzhnaya-koreya-kndr">
+                        «Сеулу нужны договорённости с игроками на континенте»: почему Южная Корея активизировала политический диалог с Россией
+                    </a></strong><div class="read-more__summary">
+                    В Москве завершилась встреча президента России Владимира Путина и его южнокорейского коллеги Мун Чжэ Ина. Лидеры обсудили вопросы...
+                </div></div><p>Как отмечает &laquo;Рёнхап&raquo;, в Пхеньяне не удовлетворены низкими темпами восстановления экономических связей двух стран, чему препятствуют наложенные на Северную Корею санкции ООН и односторонние санкции США &mdash; главного внешнеполитического союзника Сеула. По мнению экспертов, вопрос восстановления экономических связей между двумя Кореями будет приоритетным для северокорейской стороны, когда она будет принимать у себя Мун Чжэ Ина.</p><p>&laquo;Главное для КНДР сейчас &mdash; это экономическое развитие. С начала года в официальных сообщениях о поездках Ким Чен Ына по стране нет ни одного сообщения о целенаправленном посещении воинских частей. Он ездит только по объектам народного хозяйства, &mdash; подчеркнул в интервью RT ведущий научный сотрудник Центра корейских исследований Института Дальнего Востока РАН Евгений Ким. &mdash; Поэтому если южнокорейцы выполнят обещание, которое во время своей предвыборной кампании давал Мун Чжэ Ин, и восстановят работу Кэсонского промышленного комплекса, то это может успокоить северян&raquo;.</p><p>Расположенный на границе двух стран промышленный комплекс, где размещались совместные предприятия КНДР и Южной Кореи, начал работу в декабре 2004 года. После серии северокорейских ракетных испытаний Сеул прекратил своё участие в проекте в феврале 2016 года.</p><p>По словам Евгения Кима, в восстановлении работы комплекса заинтересован и южнокорейский бизнес. Использование крайне дешёвой рабочей силы из КНДР позволяло получать баснословную прибыль. На момент закрытия комплекса средняя зарплата его рабочих составляла $75 в месяц, а минимальный оклад в Республике Корея &mdash; $1 тыс.</p><div class="article__cover "><img src="https://cdni.rt.com/russian/images/2018.08/original/5b718967370f2caa708b45d9.jpg"  class="article__cover-image "><ul class="article__cover-description "><li class="article__cover-title ">
+                                Сотрудники на фабрике в Объединённом промышленном парке в промышленной зоне Кэсон
+                            </li><li class="article__cover-source ">
+                                Reuters
+                            </li><li class="article__cover-copyright">
+                                &copy; Kim Hong-Ji
+                            </li></ul></div><p>Кроме того, обе страны проявляют заинтересованность в объединении инфраструктурных систем Корейского полуострова и могут обсудить этот вопрос на Пхеньянском саммите в сентябре, отмечают эксперты. Так, встреча, посвящённая объединению железнодорожных путей, <a href="https://russian.rt.com/world/news/543848-kndr-severnaya-koreya-zheleznye-dorogi">прошла в Пханмунджоме</a> 9 августа 2018 года.</p><p>Ранее вопрос подключения Транскорейской магистрал
+1f6e
+и к Транссибу обсуждался во время визита в Москву президента Южной Кореи Мун Чжэ Ина. Накануне визита южнокорейский лидер заявлял о возможности строительства <a href="https://russian.rt.com/world/article/523549-rossiya-gazoprovod-yuzhnaya-koreya-severnaya-koreya">газопровода из России</a> через территорию КНДР в Южную Корею.</p><blockquote><p>&laquo;Серьёзных решений по итогам саммита в Пхеньяне ожидать можно и нужно, &mdash; считает Александр Воронцов. &mdash; Это подтверждается устойчивостью процесса нормализации отношений на Корейском полуострове&raquo;.</p></blockquote><h2><strong>Конец войне?</strong></h2><p><strong></strong></p><p>По информации &laquo;Рёнхап&raquo;, на саммите в Пхеньяне, вероятно, будет поднят вопрос об объявлении Корейской войны 1950&mdash;1953 годов законченной.</p><p>Дело в том, что по её итогам было заключено лишь перемирие между Северной Кореей, США и союзником КНДР Китаем. Представители Южной Кореи отказались подписывать документ о перемирии.</p><p>Ранее на саммите в Пханмунджоме Север и Юг договорились объявить об окончании войны в нынешнем году. В начале августа официальное северокорейское издание &laquo;Нодон синмун&raquo; призвало США объявить об окончании Корейской войны. Несколькими днями ранее об озабоченности Пхеньяна тем, что этот процесс затягивается, <a href="https://russian.rt.com/world/article/540166-kndr-ssha-mirnyi-dogovor">заявил</a> председатель Корейского национального совета по сотрудничеству и примирению Ким Хон Гиль.</p><div class="article__cover "><img src="https://cdni.rt.com/russian/images/2018.08/original/5b718b8b183561be158b4611.jpg"  class="article__cover-image "><ul class="article__cover-description "><li class="article__cover-title ">
+                                Посол США в Южной Корее Гарри Гаррис
+                            </li><li class="article__cover-source ">
+                                Gettyimages.ru
+                            </li><li class="article__cover-copyright">
+                                &copy; Tom Williams 
+                            </li></ul></div><p>Он отметил, что для КНДР этот вопрос принципиально важен для продолжения процесса денуклеаризации. В США, однако, считают иначе. 13 августа 2018 года посол США в Южной Корее Гарри Гаррис заявил, что говорить об окончании Корейской войны пока рано.</p><p>&laquo;Что касается декларации об окончании войны, то работа в этом направлении только начата. В то же время говорить об этом ещё слишком рано, даже в свете нашего стремления улучшить отношения между Севером и Югом и между Северной Кореей и Соединёнными Штатами&raquo;, &mdash; подчеркнул бывший американский адмирал, выступая в Сеуле.</p><p>По словам экспертов, США не заинтересованы в продвижении мирного процесса на Корейском полуострове, так как разрядка напряжённости может поставить под вопрос и американское военное присутствие в Южной Корее.</p><blockquote><p>&laquo;Зачем этого лишаться ради того, чтобы в Северо-Восточной Азии наступили мир и благоденствие, которые прежде всего выгодны противнику США &mdash; Китаю, &mdash; подчеркнул в интервью RT заведующий Центром российской стратегии в Азии Института экономики РАН Георгий Толорая. &mdash; Соединённые Штаты гораздо больше устраивает контролируемый хаос, при котором была бы возможность ссылаться на северокорейскую угрозу для давления как на противников, так и на союзников и для развития военных программ&raquo;.</p></blockquote><p>По словам Евгения Кима, от позиции США зависит ещё один аспект нормализации отношений КНДР и Южной Кореи. 31 июля военные Северной и Южной Кореи в Пханмунджоме договорились о сокращении количества наблюдательных постов в разделяющей две страны демилитаризованной зоне (в пробном режиме), а в дальнейшем &mdash; о рассмотрении вопроса их полной ликвидации&nbsp;для снижения напряжённости на границе.</p><p>&laquo;Это было, кстати, предложение КНДР, &mdash; отмечает Евгений Ким. &mdash; Но поскольку США взяли на себя обязанность быть представителями командования Вооружённых сил ООН и демилитаризованная зона &mdash; это зона ответственности войск ООН, то нужно получить согласие американцев. Смогут ли южнокорейцы получить его &mdash; вот вопрос&raquo;.</p><div class="article__cover "><img src="https://cdni.rt.com/russian/images/2018.08/original/5b718a3d370f2c1e728b45d8.jpg"  class="article__cover-image "><ul class="article__cover-description "><li class="article__cover-title ">
+                                Демилитаризованная зона на границе КДНР и Южной Кореи
+                            </li><li class="article__cover-source ">
+                                Reuters
+                            </li><li class="article__cover-copyright">
+                                &copy; Lee Jae Won
+                            </li></ul></div><p></p><h2><strong>Роль Сеула</strong></h2><p><strong></strong></p><p>&laquo;Многое будет зависеть о того, как поведёт себя Южная Корея&raquo;, &mdash; подчёркивает Евгений Ким. По мнению эксперта, если Сеул, несмотря на позицию Вашингтона, сможет обеспечить развитие выгодных для обеих Корей экономических проектов, то Пхеньян продолжит мораторий на ядерные и ракетные пуски.</p>
+4ece
+    <div class="article__read-more read-more"><div class="read-more__title">
+                Также по теме
+            </div><a class="read-more__link" href="/world/article/538603-kim-chen-yn-tramp-zakon-prava-cheloveka"><img class="read-more__cover" src="https://cdni.rt.com/russian/images/2018.07/thumbnail/5b53ab02183561de6f8b45d3.jpg" alt="Президент США Дональд Трамп и лидер Северной Кореи Ким Чен Ын" /></a><strong class="read-more__heading"><a class="read-more__link" href="/world/article/538603-kim-chen-yn-tramp-zakon-prava-cheloveka">
+                        Демократия, гаджеты и поп-культура: удастся ли США изменить северокорейское общество
+                    </a></strong><div class="read-more__summary">
+                    Президент США Дональд Трамп подписал закон о содействии соблюдению прав человека в КНДР. В документе, призванном продвигать «идеи...
+                </div></div><p>С точки зрения Александра Воронцова, усилия южнокорейской дипломатии могут изменить и позиции Соединённых Штатов. Сейчас в отношениях Пхеньяна и Вашингтона наметилось охлаждение. 9 августа северокорейский МИД заявил, что &laquo;США не соблюдают даже элементарных приличий во взаимодействии со своим партнёром по диалогу&raquo;. Так в КНДР отреагировали на <a href="https://russian.rt.com/world/article/534478-kndr-denuklearizaciya-sankcii-ssha">отказ США от снятия санкций</a> с Пхеньяна&nbsp;и обвинения в том, что Северная Корея не выполняет свою часть договорённостей по денуклеаризации, достигнутых в ходе саммита Ким Чен Ына и Трампа в Сингапуре и контактов дипломатических ведомств двух стран.</p><p>&laquo;Соединённые Штаты сейчас тормозят процесс диалога с Северной Кореей,&nbsp;&mdash; подчёркивает Воронцов. &mdash; Однако тот факт, что союзник США &mdash; Южная Корея играет в свою игру и проявляет активность и последовательность&nbsp;в нормализации отношений с КНДР, оказывает влияние и на Вашингтон, подталкивая его к юридической формализации завершения Корейской войны&raquo;.</p><p>По мнению эксперта, Вашингтон и Сеул как союзники оказывают влияние на политику друг друга, но, несмотря на то что мощь и вес США на мировой арене больше, чем у Южной Кореи, непреклонная позиция южнокорейского руководства может побудить США скорректировать позицию в отношении КНДР.</p><blockquote><p>&laquo;Мун Чжэ Ин едет в Пхеньян, хотя это не радует Вашингтон. Тем самым Мун Чжэ Ин показывает характер, несмотря на попытки США его одёрнуть. Такая позиция, вероятно, отражает настроения большинства южнокорейского населения. Это фактор, способствующий в том числе и ускорению американо-северокорейского диалога&raquo;, &mdash; утверждает Воронцов.</p></blockquote></div><div class="error-on-page"><a id="error-on-page-link" class="error-on-page__link">Ошибка в тексте?</a> Выделите её и нажмите &laquo;Ctrl + Enter&raquo;</div><div class="follows-channel follows-channel_top-middle follows-channel_djen"><div class="follows-channel__content">Подписывайтесь на наш канал в <a href="https://zen.yandex.ru/russian.rt.com" onclick="ga('send', 'event', 'banner', 'click', 'Яндекс.Дзен');" target="_blank">Яндекс.Дзен</a></div></div><div class="article__tags-trends article__tags-trends_article-page tags-trends"><a class="tags-trends__link link link_underline_color" rel="tag" href="/tag/azia">
+                            Азия
+                        </a><a class="tags-trends__link link link_underline_color" rel="tag" href="/tag/ballisticheskaya-raketa">
+                            Баллистическая ракета
+                        </a><a class="tags-trends__link link link_underline_color" rel="tag" href="/tag/gaz">
+                            Газ
+                        </a><a class="tags-trends__link link link_underline_color" rel="tag" href="/tag/donald-tramp">
+                            Дональд Трамп
+                        </a><a class="tags-trends__link link link_underline_color" rel="tag" href="/tag/kndr">
+                            КНДР
+                        </a><a class="tags-trends__link link link_underline_color" rel="tag" href="/tag/kim-chen-yn">
+                            Ким Чен Ын
+                        </a><a class="tags-trends__link link link_underline_color" rel="tag" href="/tag/konflikt-scha-i-kndr">
+                            Конфликт США и КНДР
+                        </a><a class="tags-trends__link link link_underline_color" rel="tag" href="/tag/mbr">
+                            Межконтинентальная баллистическая ракета
+                        </a><a class="tags-trends__link link link_underline_color" rel="tag" href="/tag/mun-chzhe-in">
+                            Мун Чжэ Ин
+                        </a><a class="tags-trends__link link link_underline_color" rel="tag" href="/tag/peregovory">
+                            Переговоры
+                        </a><a class="tags-trends__link link link_underline_color" rel="tag" href="/tag/raketa">
+                            Ракета
+                        </a><a class="tags-trends__link link link_underline_color" rel="tag" href="/tag/rossiya">
+                            Россия
+                        </a><a class="tags-trends__link link link_underline_color" rel="tag" href="/tag/sammit">
+                            Саммит
+                        </a><a class="tags-trends__link link link_underline_color" rel="tag" href="/tag/severnaya-koreya">
+                            Северная Корея
+                        </a><a class="tags-trends__link link link_underline_color" rel="tag" href="/tag/transport">
+                            Транспорт
+                        </a><a class="tags-trends__link link link_underline_color" rel="tag" href="/tag/energetika">
+                            Энергетика
+                        </a><a class="tags-trends__link link link_underline_color" rel="tag" href="/tag/yuzhnaya-koreya">
+                            Южная Корея
+                        </a><a class="tags-trends__link link link_underline_color" rel="tag" href="/tag/yadernaya-programma">
+                            Ядерная программа
+                        </a><a class="tags-trends__link link link_underline_color" rel="tag" href="/tag/yadernaya-ugroza">
+                            Ядерная угроза
+                        </a><a class="tags-trends__link link link_underline_color" rel="tag" href="/tag/yadernoe-oruzhie">
+                            Ядерное оружие
+                        </a><a class="tags-trends__link link link_underline_color" rel="tag" href="/tag/yadernoe-razoruzhenie">
+                            Ядерное разоружение
+                        </a><a class="tags-trends__link link link_underline_color" rel="tag" href="/tag/bezopasnost">
+                            Безопасность
+                        </a><a class="tags-trends__link link link_underline_color" rel="tag" href="/tag/vneshnya-politika">
+                            Внешняя политика
+                        </a><a class="tags-trends__link link link_underline_color" rel="tag" href="/tag/voennosluzhaschie">
+                            Военнослужащие
+                        </a><a class="tags-trends__link link link_underline_color" rel="tag" href="/tag/dogovor">
+                            Договор
+                        </a><a class="tags-trends__link link link_underline_color" rel="tag" href="/tag/oborona">
+                            Оборона
+                        </a><a class="tags-trends__link link link_underline_color" rel="tag" href="/tag/politika">
+                            Политика
+                        </a></div><div class="article__crosslinks article__crosslinks_article-page"><div class="crosslinks"><strong class="crosslinks__heading crosslinks__heading_article-page">Ранее на эту тему: </strong><ul class="crosslinks__list crosslinks__list_article-page"><li class="crosslinks__item crosslinks__item_article-page"><a class="crosslinks__link crosslinks__link_article-page" href="/world/article/428177-den-nezavisimosti-kndr-9-sentyabrya">Социализм по-корейски: как была образована КНДР</a></li><li class="crosslinks__item crosslinks__item_article-page"><a class="crosslinks__link crosslinks__link_article-page" href="/world/article/453786-korea-gazoprovod-konflikt">Мирный поток: как Москва собирается соединить газопроводом Северную и Южную Кореи</a></li><li class="crosslinks__item crosslinks__item_article-page"><a class="crosslinks__link crosslinks__link_article-page" href="/world/article/506757-ssha-posol-koreya-admiral-harris">Военный кадр: почему Трамп назначает послом в Южную Корею адмирала-ястреба</a></li><li class="crosslinks__item crosslinks__item_article-page"><a class="crosslinks__link crosslinks__link_article-page" href="/world/article/540166-kndr-ssha-mirnyi-dogovor">Условие денуклеаризации: станут ли США заключать мирный договор с КНДР</a></li></ul></div></div></div><script type="text/javascript">_rt.banner.inpage.adfox(255791,{'p1':'bypps'},'article__text');</script></div><div class="column__row"><div class="flex-news-block"><div class="today-media today-media_article" id="today-media-article"><strong class="today-media__heading today-media__heading_article">Сегодня в СМИ</strong><div id="mediametrics" class="today-media__content today-media__content_article"><script>
+	        function callbackJsonpMediametrics(data) {
+	            var result = '<ul class="today-media__rows today-media__rows_article">',
+	                src;
+	            for(var i = 0; i < 3; i += 1) {
+	                src = "https://mediametrics.ru/images/" + data[i].id.slice(0, data[i].id.length-4) + "/" + data[i].id + "-420.jpg";
+	                result += '<li class="today-media__item today-media__item_article"><a class="link" href="' + data[i].link + '" target="_blank">';
+	                result += '<div class="today-media__cover today-media__cover_article cover"><div class="cover__media cover__media_ratio"><img class="cover__image cover__image_ratio" src="' + src + '" alt="' + data[i].title + '"></div></div>';
+	                result += '<span class="today-media__title today-media__title_article">' + data[i].title + '</span>';
+	                result += '</a></li>';
+	            }
+	            result += '</ul>';
+	            document.getElementById("mediametrics").innerHTML=result;
+	        }
+	        (function() {
+	            var script = document.createElement('script');
+	            script.src = 'https://mediametrics.ru/partner/inject/online.jsonp.ru.js';
+	            document.getElementsByTagName("body")[0].appendChild(script);
+	        }());
+	    </script></div></div></div><style></style></div><div class="yandex_ad-wrap"><style>
+    .yandex_ad-wrap { margin: 20px 0; padding: 10px 0; border-top: solid 1px #e9e9e9; border-bottom: solid 1px #e9e9e9; display: none; }
+    @media screen and (max-width: 540px) {
+        .yandex_ad-wrap { display: block; }
+    }
+  </style><!-- R-153743-1 Яндекс.RTB-блок  --><div class="yandex_ad-body"><noindex><div class="yandex_ad-toggle"></div></noindex><div id="yandex_ad_R-153743-1"></div></div><script type="text/javascript">
+        (function(w, d, n, s, t) {
+            w[n] = w[n] || [];
+            w[n].push(function() {
+                Ya.Context.AdvManager.render({
+                    blockId: "R-153743-1",
+                    renderTo: "yandex_ad_R-153743-1",
+                    async: true
+                });
+            });
+            t = d.getElementsByTagName("script")[0];
+            s = d.createElement("script");
+            s.type = "text/javascript";
+            s.src = "//an.yandex.ru/system/context.js";
+            s.async = true;
+            t.parentNode.insertBefore(s, t);
+        })(this, this.document, "yandexContextAsyncCallbacks");
+    </script></div><div class="column__row"><div id="unit_90702" class="rt--partner-block rt--partner--smi2"><a href="http://smi2.ru/">Новости smi2.ru</a></div><script type="text/javascript" charset="utf-8">
+  (function() {
+    var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true;
+    sc.src = '//smi2.ru/data/js/90702.js'; sc.charset = 'utf-8';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
+  }());
+</script></div><div class="column__row"><script src="//cdnjs.cloudflare.com/ajax/libs/Swiper/3.3.1/js/swiper.min.js"></script><script src="//code.jquery.com/jquery-2.1.1.min.js"></script><script>
+
+
+
+    var MGGallery = function ( obj ) {
+
+        var _obj = obj,
+            _parent = _obj.parent(),
+            _swiper,
+            _btnPrev = _obj.parent().find( '.swiper-button-prev' ),
+            _btnNext = _obj.parent().find( '.swiper-button-next'),
+            _swiperContainer = _obj.find( '.swiper-container' );
+
+        var _addEvents = function(){
+
+                _parent.on({
+
+                    mousemove: function( e ) {
+
+                        var positionX = e.pageX - _obj.offset().left;
+
+                        if ( positionX < _obj.width()/2 ){
+
+                            _obj.addClass('MGGallery_left-btn');
+                            _obj.removeClass('MGGallery_right-btn');
+
+                        } else {
+
+                            _obj.addClass('MGGallery_right-btn');
+                            _obj.removeClass('MGGallery_left-btn');
+
+                        }
+
+                    },
+
+                    mouseleave: function() {
+
+                        _obj.removeClass('MGGallery_left-btn');
+                        _obj.removeClass('MGGallery_right-btn');
+
+                    }
+
+                });
+
+            },
+
+            _initSwiper = function(){
+
+                _swiper = new Swiper( _swiperContainer, {
+                    nextButton: _btnNext,
+                    prevButton: _btnPrev,
+                    slidesPerView:'auto',
+                    speed: 600,
+                    spaceBetween: 24,
+                    slidesPerGroup: 3,
+                    autoplayDisableOnInteraction: false,
+                    breakpoints: {
+                        460: {
+                            slidesPerGroup: 1
+                        },
+                        1023: {
+                            slidesPerGroup: 2
+                        }
+                    },
+
+                });
+
+            },
+
+            _init = function () {
+                _initSwiper();
+                _addEvents();
+            };
+
+        _init();
+
+    };
+
+    $( function() {
+
+        var loop = function(){
+
+            if ( !$('.MGGallery').length ){
+                window.requestAnimationFrame( loop );
+            } else {
+                new MGGallery ( $( '.MGGallery' ) );
+            }
+        };
+
+        loop();
+
+    } );
+
+</script><!-- Composite Start --><div id="M281228ScriptRootC668233"><div id="M281228PreloadC668233"> Загрузка... </div><script> (function(){ var D=new Date(),d=document,b='body',ce='createElement',ac='appendChild',st='style',ds='display',n='none',gi='getElementById',lp=d.location.protocol,wp=lp.indexOf('http')==0?lp:'https:'; var i=d[ce]('iframe');i[st][ds]=n;d[gi]("M281228ScriptRootC668233")[ac](i);try{var iw=i.contentWindow.document;iw.open();iw.writeln("<ht"+"ml><bo"+"dy></bo"+"dy></ht"+"ml>");iw.close();var c=iw[b];} catch(e){var iw=d;var c=d[gi]("M281228ScriptRootC668233");}var dv=iw[ce]('div');dv.id="MG_ID";dv[st][ds]=n;dv.innerHTML=668233;c[ac](dv); var s=iw[ce]('script');s.async='async';s.defer='defer';s.charset='utf-8';s.src=wp+"//jsc.lentainform.com/r/u/russian.rt.com.668233.js?t="+D.getYear()+D.getMonth()+D.getUTCDate()+D.getUTCHours()+12344;c[ac](s);})(); </script></div><!-- Composite End --></div><div class="column__row"><div class="flex-news-block dzen--widget"><div class="widget-container" style="margin: 0px auto; position: relative; width:100%"></div><script>
+            (function(w, d, n) {
+                w[n] = w[n] || [];
+                w[n].push(() => {
+                    w.YandexZen.renderWidget({
+                        clid: ['454', '455'],
+                        container: '.widget-container', // cелектор элемента или сам элемент, куда надо вставить виджет
+                        successCallback: function () { // вызывается при успешной вставке виджета
+                            console.log('виджет вставлен успешно');
+                        },
+                        failCallback: function () { // Если Дзен не ответил, используйте место для чего-то другого.
+                            console.log('Дзен не ответил');
+                        },
+                    });
+                });
+                t = d.getElementsByTagName("script")[0];
+                s = d.createElement("script");
+                s.type = "text/javascript";
+                s.src = "https://zen.yandex.ru/widget-loader";
+                s.async = true;
+                t.parentNode.insertBefore(s, t);
+            })(window, document, 'yandexZenAsyncCallbacks');
+        </script><style type="text/css">
+            .flex-news-block .widget-container .zen-widget.widget {
+                margin-top: 20px;
+                padding:10px;
+                box-sizing: border-box;
+            }
+            .flex-news-block.dzen--widget {
+                margin-bottom: 20px;
+            }
+
+            .flex-news-block .zen-widget.widget__title {
+                margin-left: 0px;
+                margin-right: 0px;
+            }
+            .flex-news-block .zen-widget.widget__cards-scroller {
+                padding: 12px 0 50px 0px
+            }
+
+            .flex-news-block .zen-widget .widget__title > a,.flex-news-block .zen-widget .widget__title > span {
+                display: none;
+            }
+
+            .flex-news-block .zen-widget.widget__title {
+                margin-bottom: 6px;
+            }
+        </style></div></div><div class="column__row"><div id="slider24smi_11671"></div><script src="/static/blocks/24smi/24smi.js"></script></div>
+d8
+<div class="column__cell"><div class="banners"><a href="https://ttttt.me/rt_russian" target="_blank"><img src="https://cdni.rt.com/russian/images/2018.07/original/5b4da771370f2c227a8b4578.jpg" alt=""></a></div></div>
+25ce
+<div class="column__row column__row_plista"><div class="widget widget_engageya"><div id="ENGAGEYA_WIDGET_96960"></div><script data-cfasync="false">
+            (function(E,n,G,A,g,Y,a){E['EngageyaObject']=g;E[g]=E[g]||function(){ (E[g].q=E[g].q||[]).push(arguments)},E[g].l=1*new Date();Y=n.createElement(G), a=n.getElementsByTagName(G)[0];Y.async=1;Y.src=A;a.parentNode.insertBefore(Y,a)})(window,document,'script','//widget.engageya.com/engageya_loader.js','__engWidget');
+            __engWidget('createWidget',{wwei:'ENGAGEYA_WIDGET_96960',pubid:170734,webid:140312,wid:96960});
+        </script></div></div></div><div class="comments"><div class="comments__wrapper"><script async
+              src="https://launcher.spot.im/spot/sp_oSi8qg2j"
+              data-spotim-module="spotim-launcher"
+              data-post-url="https://ru.rt.com/bohv"
+              data-post-id="article___544963"></script></div></div></div></div><div class="rows__column rows__column_article-page_right"><div class="column"><div class="column__content column__content_article-page_right"><div class="column__row column__row_article-page_right column__row_article-page_right-1"><ul class="tabs"><li class="tabs__item tabs__item_active tabs__item_1 tabs__item_right">
+            Лента новостей
+        </li><li class="tabs__item tabs__item_2 tabs__item_right">
+            Картина дня
+        </li></ul><div class="tabs__content tabs__content_active tabs__content_1"><div class="listing listing_short-news"  ><div class="listing__content listing__content_short-news "><ul class="listing__rows listing__rows_short-news "><li class="listing__column  listing__column_short-news "><div class="listing__card  listing__card_short-news "><div class="card card_short-news card_not-cover "><div class="card__date card__date_short-news card__date_not-cover ">
+
+            
+                            01:02
+            
+        </div><div class="card__heading
+            card__heading_short-news card__heading_not-cover
+            
+            
+            "><a class="link link_color" href="/world/news/544985-rossiya-ssha-dogovor-nebo">
+                США ограничили сотрудничество с Россией в рамках Договора по открытому небу
+            </a></div></div></div></li><li class="listing__column  listing__column_short-news "><div class="listing__card  listing__card_short-news "><div class="card card_short-news card_not-cover "><div class="card__date card__date_short-news card__date_not-cover ">
+
+            
+                            00:46
+            
+        </div><div class="card__heading
+            card__heading_short-news card__heading_not-cover
+            
+            
+            "><a class="link link_color" href="/world/news/544984-ssha-byudzhet-makkein">
+                Маккейн тронут тем, что оборонный бюджет США назван в его честь
+            </a></div></div></div></li><li class="listing__column  listing__column_short-news "><div class="listing__card  listing__card_short-news "><div class="card card_short-news  "><div class="card__date card__date_short-news  ">
+
+            
+                            00:31
+            
+        </div><div class="card__heading
+            card__heading_short-news 
+            
+            
+            "><a class="link link_color" href="/world/news/544983-car-zhurnalisty-voditel-arest">
+                Водителя убитых в ЦАР российских журналистов заключили под стражу
+            </a></div></div></div></li><li class="listing__column  listing__column_short-news "><div class="listing__card  listing__card_short-news "><div class="card card_short-news card_not-cover "><div class="card__date card__date_short-news card__date_not-cover ">
+
+            
+                            00:15
+            
+        </div><div class="card__heading
+            card__heading_short-news card__heading_not-cover
+            
+            
+            "><a class="link link_color" href="/world/news/544981-bolton-turciya-posol-pastor">
+                Болтон провёл встречу с послом Турции в США
+            </a></div></div></div></li><li class="listing__column  listing__column_short-news "><div class="listing__card  listing__card_short-news "><div class="card card_short-news card_not-cover "><div class="card__date card__date_short-news card__date_not-cover "><time class="date ">
+		13 августа, 23:59
+	</time></div><div class="card__heading
+            card__heading_short-news card__heading_not-cover
+            
+            
+            "><a class="link link_color" href="/ussr/news/544977-yuschenko-narod-ukraina">
+                Ющенко назвал рабами украинский народ
+            </a></div></div></div></li><li class="listing__column  listing__column_short-news "><div class="listing__card  listing__card_short-news "><div class="card card_short-news card_not-cover "><div class="card__date card__date_short-news card__date_not-cover "><time class="date ">
+		13 августа, 23:50
+	</time></div><div class="card__heading
+            card__heading_short-news card__heading_not-cover
+            
+            
+            "><a class="link link_color" href="/sport/news/544975-semak-dzyuba-zdorove">
+                Семак заявил, что Дзюба испытывает проблемы со здоровьем
+            </a></div></div></div></li><li class="listing__column  listing__column_short-news "><div class="listing__card  listing__card_short-news "><div class="card card_short-news card_not-cover "><div class="card__date card__date_short-news card__date_not-cover "><time class="date ">
+		13 августа, 23:48
+	</time></div><div class="card__heading
+            card__heading_short-news card__heading_not-cover
+            
+            
+            "><a class="link link_color" href="/russia/news/544974-dagestan-otravlenie-rospotrebnadzor">
+                В Дагестане назвали предварительную причину отравления в детском лагере
+            </a></div></div></div></li><li class="listing__column  listing__column_short-news "><div class="listing__card  listing__card_short-news "><div class="card card_short-news  "><div class="card__date card__date_short-news  "><time class="date ">
+		13 августа, 23:36
+	</time></div><div class="card__heading
+            card__heading_short-news 
+            
+            
+            "><a class="link link_color" href="/world/news/544973-siriya-1-sentyabrya-shkola">
+                В Сирии 1 сентября в школу пойдут около пяти миллионов детей
+            </a></div></div></div></li><li class="listing__column  listing__column_short-news "><div class="listing__card  listing__card_short-news "><div class="card card_short-news  "><div class="card__date card__date_short-news  "><time class="date ">
+		13 августа, 23:17
+	</time></div><div class="card__heading
+            card__heading_short-news 
+            
+            
+            "><a class="link link_color" href="/russia/news/544966-lemeshevskii-arest-npo-lavochkina">
+                Суд в Москве вновь арестовал экс-гендиректора НПО имени Лавочкина
+            </a></div></div></div></li><li class="listing__column  listing__column_short-news "><div class="listing__card  listing__card_short-news "><div class="card card_short-news card_not-cover "><div class="card__date card__date_short-news card__date_not-cover "><time class="date ">
+		13 августа, 23:04
+	</time></div><div class="card__heading
+            card__heading_short-news card__heading_not-cover
+            
+            
+            "><a class="link link_color" href="/sport/news/544962-dzyuba-zenit-galatasarai">
+                Дзюба заявил, что не намерен переходить в «Галатасарай»
+            </a></div></div></div></li><li class="listing__column  listing__column_short-news "><div class="listing__card  listing__card_short-news "><div class="card card_short-news  "><div class="card__date card__date_short-news  "><time class="date ">
+		13 августа, 22:54
+	</time></div><div class="card__heading
+            card__heading_short-news 
+            
+            
+            "><a class="link link_color" href="/russia/news/544960-pushkov-vaikule-krym">
+                Пушков назвал слова Вайкуле о запрете гражданам ЕС посещать Крым выдумкой
+            </a></div></div></div></li><li class="listing__column  listing__column_short-news "><div class="listing__card  listing__card_short-news "><div class="card card_short-news  "><div class="card__date card__date_short-news  "><time class="date ">
+		13 августа, 22:51
+	</time></div><div class="card__heading
+            card__heading_short-news 
+            
+            
+            "><a class="link link_color" href="/world/news/544959-tramp-oboronnyi-byudzhet-ssha">
+                Трамп подписал оборонный бюджет США на 2019 финансовый год
+            </a></div></div></div></li></ul><div class="listing__button listing__button_short-news " data-href="/listing/type.News.tag.novosty-glavnoe/prepare/short-news/12/1" ><div class="button"><a class="button__item link link_color" href="/news" >
+            Все новости
+        </a></div></div></div></div>
+1f50
+</div><div class="tabs__content tabs__content_2"><div class="listing listing_picture-of-day"  ><div class="listing__content listing__content_picture-of-day "><ul class="listing__rows listing__rows_picture-of-day "><li class="listing__column  listing__column_picture-of-day "><div class="listing__card  listing__card_picture-of-day "><div class="card card_picture-of-day  "><div class="card__cover card__cover_picture-of-day                                                        "><div class="cover   "><div class="cover__media cover__media_ratio cover__media_bgi   " style="background-image: url(https://cdni.rt.com/russian/images/2018.08/thumbnail/5b71880918356118168b45f2.jpg)"><a href="/world/article/544963-kndr-yuzhnaya-koreya-sammit-phenyan-voina" class="cover__link link cover__link_media"></a></div></div></div><div class="card__heading
+            card__heading_picture-of-day 
+            
+            
+            "><a class="link link_color" href="/world/article/544963-kndr-yuzhnaya-koreya-sammit-phenyan-voina">
+                «Мун Чжэ Ин показывает характер»: как новый межкорейский саммит может изменить ситуацию в регионе
+            </a></div><div class="card__spot-im-count card__spot-im-count_picture-of-day"><a class="spot-im-replies-href" href="/world/article/544963-kndr-yuzhnaya-koreya-sammit-phenyan-voina#href_spot-im"><span class="spot-im-replies-count" data-post-id="article___544963"></span></a></div></div></div></li><li class="listing__column  listing__column_picture-of-day "><div class="listing__card  listing__card_picture-of-day "><div class="card card_picture-of-day  "><div class="card__cover card__cover_picture-of-day                                "><div class="cover   "><div class="cover__media cover__media_ratio cover__media_bgi   " style="background-image: url(https://cdni.rt.com/russian/images/2018.08/thumbnail/5b71c7a0370f2cb80d8b45fd.jpg)"><a href="/sport/article/544938-efimova-che-olimpiada-futbol" class="cover__link link cover__link_media"></a></div></div></div><div class="card__heading
+            card__heading_picture-of-day 
+            
+            
+            "><span class="card__informal card__informal_exclusive card__informal_picture-of-day">Эксклюзив RT</span><a class="link link_color" href="/sport/article/544938-efimova-che-olimpiada-futbol">
+                «Единый турнир стал неожиданностью»: Ефимова о ЧЕ по летним видам спорта, планах на будущее и соперничестве с Кинг
+            </a></div><div class="card__spot-im-count card__spot-im-count_picture-of-day"><a class="spot-im-replies-href" href="/sport/article/544938-efimova-che-olimpiada-futbol#href_spot-im"><span class="spot-im-replies-count" data-post-id="article___544938"></span></a></div></div></div></li><li class="listing__column  listing__column_picture-of-day "><div class="listing__card  listing__card_picture-of-day "><div class="card card_picture-of-day  "><div class="card__cover card__cover_picture-of-day                  "><div class="cover   "><div class="cover__media cover__media_ratio cover__media_bgi   " style="background-image: url(https://cdni.rt.com/russian/images/2018.08/thumbnail/5b719c4c370f2cc00d8b4589.jpg)"><a href="/ussr/article/544927-general-ukraina-rossiya-dnepr" class="cover__link link cover__link_media"></a></div></div></div><div class="card__heading
+            card__heading_picture-of-day 
+            
+            
+            "><a class="link link_color" href="/ussr/article/544927-general-ukraina-rossiya-dnepr">
+                «Информация для внутреннего потребления»: зачем украинский генерал заявил о российских «планах дойти до Днепра»
+            </a></div><div class="card__spot-im-count card__spot-im-count_picture-of-day"><a class="spot-im-replies-href" href="/ussr/article/544927-general-ukraina-rossiya-dnepr#href_spot-im"><span class="spot-im-replies-count" data-post-id="article___544927"></span></a></div></div></div></li><li class="listing__column  listing__column_picture-of-day "><div class="listing__card  listing__card_picture-of-day "><div class="card card_picture-of-day  "><div class="card__cover card__cover_picture-of-day            "><div class="cover   "><div class="cover__media cover__media_ratio cover__media_bgi   " style="background-image: url(https://cdni.rt.com/russian/images/2018.08/thumbnail/5b7199ae1835611b2a8b4579.jpg)"><a href="/ussr/article/544910-posadka-vertolet-tadzhikistan-alpinisty" class="cover__link link cover__link_media"></a></div></div></div><div class="card__heading
+            card__heading_picture-of-day 
+            card__heading_not-trends
+            
+            "><a class="link link_color" href="/ussr/article/544910-posadka-vertolet-tadzhikistan-alpinisty">
+                Погибли три альпиниста и два члена экипажа: что известно о жёсткой посадке вертолёта Ми-8 в Таджикистане
+            </a></div><div class="card__spot-im-count card__spot-im-count_picture-of-day"><a class="spot-im-replies-href" href="/ussr/article/544910-posadka-vertolet-tadzhikistan-alpinisty#href_spot-im"><span class="spot-im-replies-count" data-post-id="article___544910"></span></a></div></div></div></li><li class="listing__column  listing__column_picture-of-day "><div class="listing__card  listing__card_picture-of-day "><div class="card card_picture-of-day  "><div class="card__cover card__cover_picture-of-day          "><div class="cover   "><div class="cover__media cover__media_ratio cover__media_bgi   " style="background-image: url(https://cdni.rt.com/russian/images/2018.08/thumbnail/5b719b0c370f2cbc0d8b457d.jpg)"><a href="/business/article/544907-osago-avtoyuristy-moshenniki" class="cover__link link cover__link_media"></a></div></div></div><div class="card__heading
+            card__heading_picture-of-day 
+            card__heading_not-trends
+            
+            "><a class="link link_color" href="/business/article/544907-osago-avtoyuristy-moshenniki">
+                Гонки со страховкой: как в России отреагировали на предложение сократить до пяти дней срок обращения по ОСАГО
+            </a></div><div class="card__spot-im-count card__spot-im-count_picture-of-day"><a class="spot-im-replies-href" href="/business/article/544907-osago-avtoyuristy-moshenniki#href_spot-im"><span class="spot-im-replies-count" data-post-id="article___544907"></span></a></div></div></div></li><li class="listing__column  listing__column_picture-of-day "><div class="listing__card  listing__card_picture-of-day "><div class="card card_picture-of-day  "><div class="card__cover card__cover_picture-of-day                "><div class="cover   "><div class="cover__media cover__media_ratio cover__media_bgi   " style="background-image: url(https://cdni.rt.com/russian/images/2018.08/thumbnail/5b715636370f2c51708b4576.jpg)"><a href="/business/article/544888-rubl-dollar-ssha-oslablenie" class="cover__link link cover__link_media"></a></div></div></div><div class="card__heading
+            card__heading_picture-of-day 
+            
+            
+            "><a class="link link_color" href="/business/article/544888-rubl-dollar-ssha-oslablenie">
+                «Выше справедливого уровня»: что может ожидать российский рубль в ближайшее время
+            </a></div><div class="card__spot-im-count card__spot-im-count_picture-of-day"><a class="spot-im-replies-href" href="/business/article/544888-rubl-dollar-ssha-oslablenie#href_spot-im"><span class="spot-im-replies-count" data-post-id="article___544888"></span></a></div></div></div></li></ul></div></div>
+36a6
+</div></div><div class="column__row column__row_article-page_right column__row_article-page_right-2"><div class="hide--partner--block smi2adblock-right smi2adblock-right_article-page" id="smi2adblock-right"><div id="smi2adblock_77365"><a href="http://smi2.net/">Новости СМИ2</a></div><script type="text/javascript" charset="utf-8">
+          (function() {
+            var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true;
+            sc.src = '//news.smi2.ru/data/js/77365.js'; sc.charset = 'utf-8';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
+          }());
+        </script></div></div><div class="column__row column__row_article-page_right column__row_article-page_right-3"><div class="column__cell column__cell_yandex-right_main"><style> 
+    #LentaInformComposite613233 .mgl {
+        background-color: transparent !important;
+    }
+</style><!-- Composite Start --><div id="M281228ScriptRootC613233" class="hide--partner--block"><div id="M281228PreloadC613233">Загрузка...</div><script>
+                (function(){
+            var D=new Date(),d=document,b='body',ce='createElement',ac='appendChild',st='style',ds='display',n='none',gi='getElementById';
+            var i=d[ce]('iframe');i[st][ds]=n;d[gi]("M281228ScriptRootC613233")[ac](i);try{var iw=i.contentWindow.document;iw.open();iw.writeln("<ht"+"ml><bo"+"dy></bo"+"dy></ht"+"ml>");iw.close();var c=iw[b];}
+            catch(e){var iw=d;var c=d[gi]("M281228ScriptRootC613233");}var dv=iw[ce]('div');dv.id="MG_ID";dv[st][ds]=n;dv.innerHTML=613233;c[ac](dv);
+            var s=iw[ce]('script');s.async='async';s.defer='defer';s.charset='utf-8';s.src="//jsc.lentainform.com/r/u/russian.rt.com.613233.js?t="+D.getYear()+D.getMonth()+D.getDate()+D.getHours();c[ac](s);})();
+    </script></div><!-- Composite End --></div></div><div class="column__row column__row_article-page_right column__row_article-page_right-4"><div class="column__cell column__cell_news24smi hide--partner--block"><div id="smi_teaser_10978" class="news24smi"><center><a href="https://24smi.info/?utm_source=informer_10978">
+                Агрегатор новостей 24СМИ
+            </a></center></div><script type="text/JavaScript" encoding="utf8">
+        (function() {
+        var sm = document.createElement("script");
+        sm.type = "text/javascript";
+        sm.async = true;
+        sm.src = "//jsn.24smi.net/9/f/10978.js";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(sm, s);})();
+    </script></div></div><div class="column__row column__row_article-page_right column__row_article-page_right-5"><div id="unit_90894"><a href="http://mirtesen.ru/">Новости mirtesen.ru</a></div><script type="text/javascript" charset="utf-8">
+    (function() {
+        var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true;
+        sc.src = '//news.mirtesen.ru/data/js/90894.js'; sc.charset = 'utf-8';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
+    }());
+</script></div><div class="column__row column__row_article-page_right column__row_article-page_right-6"><div id="infox_904" class="hide--partner--block"></div><script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            INFOX904.renderTo("infox_904");
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//rb.infox.sg/infox/904";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "infoxContextAsyncCallbacks904");
+</script></div><div class="column__row column__row_article-page_right column__row_article-page_right-7"><div class="subscribe-layout subscribe-layout_sidebar"><div class="subscribe"><form class="subscribe__form js-subscribe-form" method="post" action=""><div class="subscribe__heading"><div class="subscribe__heading-text1">Вступай в ряды иноагентов</div><div class="subscribe__heading-text2">Подпишись на рассылку RT</div></div><div class="subscribe__field"><input class="subscribe__field-text js-subscribe-email" type="email" value="" placeholder="Ваш e-mail" required="" /></div><div class="subscribe__button"><button class="subscribe__button-submit" type="submit">Подписаться</button></div></form><a class="subscribe__close js-subscribe-close" href="#"></a></div></div></div><div class="column__row column__row_article-page_right column__row_article-page_right-8"><div class="subscribe-layout subscribe-layout_sidebar"><div class="yandex-banner-medium"><div class="yandex-banner-medium__background"><svg viewBox="0 0 406 99" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><polygon id="path-1" points="0 145 122.199227 145 203 174.109793 231.762329 145 406 145 406 243.354356 0 243.354356"></polygon><filter x="-1.1%" y="-4.6%" width="102.2%" height="109.2%" filterUnits="objectBoundingBox" id="filter-2"><feGaussianBlur stdDeviation="2.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur><feOffset dx="0" dy="4" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset><feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite><feColorMatrix values="0 0 0 0 0.0541063082   0 0 0 0 0.0895797272   0 0 0 0 0.125053146  0 0 0 0.619904891 0" type="matrix" in="shadowInnerInner1"></feColorMatrix></filter></defs><g id="Yellow" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(0.000000, -145.000000)" id="Bottom"><g><use fill="#343A40" fill-rule="evenodd" xlink:href="#path-1"></use><use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use></g></g></g></svg></div><div class="yandex-banner-medium__container"><div class="yandex-banner-medium__logo"><svg width="175px" height="30px" viewBox="0 0 175 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g id="Yellow" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-27.000000, -38.000000)" id="Лого_Яндекс.Новостей"><g transform="translate(27.000000, 38.000000)"><g id="g3398" fill-rule="nonzero"><path d="M10.1154853,2.65730769 L8.60867647,2.65730769 C6.32929412,2.65730769 4.12426471,4.15384615 4.12426471,8.49807692 C4.12426471,12.6957692 6.14573529,14.0480769 8.60867647,14.0480769 L10.1154853,14.0480769 L10.1154853,2.65615385 L10.1154853,2.65730769 Z M7.76291176,16.3846154 L3.2785,26.3861538 L0.00697058824,26.3861538 L4.93285294,15.69 C2.61629412,14.52 1.07347059,12.4038462 1.07347059,8.49692308 C1.07347059,3.02076923 4.56457353,0.281538462 8.71788235,0.281538462 L12.9467059,0.281538462 L12.9467059,26.3884615 L10.1143235,26.3884615 L10.1143235,16.3846154 L7.76291176,16.3846154 Z" id="path3400" fill="#FF0000"></path><path d="M67.9318676,17.1865385 C67.9318676,11.4173077 70.1740735,7.73192308 74.5121029,7.73192308 C76.1652941,7.73192308 77.1214265,8.17038462 77.9300147,8.68153846 L77.5233971,11.3815385 C76.7531471,10.7261538 75.6494706,10.1053846 74.4737647,10.1053846 C72.4151176,10.1053846 70.9454853,12.405 70.9454853,17.04 C70.9454853,21.6415385 72.0491618,24.27 74.3633971,24.27 C75.7598382,24.27 76.8263382,23.7219231 77.4885441,23.1392308 L78.15075,25.2553846 C77.1562794,26.0942308 75.9805735,26.6423077 74.2902059,26.6423077 C70.3204559,26.6423077 67.9307059,23.4657692 67.9307059,17.1865385 L67.9318676,17.1865385 Z M59.5520588,17.2211538 L59.5520588,26.385 L56.6848235,26.385 L56.6848235,7.98692308 L59.5520588,7.98692308 L59.5520588,16.4930769 L63.9992941,7.98692308 L66.9037059,7.98692308 L62.3089265,16.6384615 L67.56475,26.385 L64.4396029,26.385 L59.5520588,17.2234615 L59.5520588,17.2211538 Z M46.0639706,15.5076923 L50.8039706,15.5076923 C50.8039706,12.3669231 50.2893088,10.0673077 48.6349559,10.0673077 C46.8713971,10.0673077 46.2463676,12.2215385 46.0628088,15.5065385 L46.0639706,15.5076923 Z M49.2239706,26.6423077 C45.4017647,26.6423077 43.0480294,23.6111538 43.0480294,17.9538462 C43.0480294,12.0392308 44.7023824,7.73076923 48.6361176,7.73076923 C51.7229265,7.73076923 53.7443971,10.0315385 53.7443971,16.2738462 L53.7443971,17.8430769 L46.0267941,17.8430769 C46.0267941,22.005 47.2036618,24.195 49.4818824,24.195 C51.1002206,24.195 52.3862941,23.4646154 53.1216912,22.9534615 L53.7838971,25.1434615 C52.6070294,26.055 51.0653676,26.64 49.2262941,26.64 L49.2239706,26.6423077 Z M37.0207941,10.2853846 L33.8224559,10.2853846 L33.8224559,10.6153846 C33.8224559,14.4842308 33.6388971,20.1426923 32.0949118,24.0496154 L37.0207941,24.0496154 L37.0207941,10.2865385 L37.0207941,10.2853846 Z M41.3216471,30 L38.7483382,30 L38.7483382,26.385 L30.81,26.385 L30.81,30 L28.2355294,30 L28.2355294,24.0496154 L29.3740588,24.0496154 C31.06675,20.1426923 31.2503088,14.4496154 31.2503088,9.55730769 L31.2503088,7.98807692 L39.8485294,7.98807692 L39.8485294,24.0496154 L41.3193235,24.0496154 L41.3193235,30 L41.3216471,30 Z M26.5811765,7.98692308 L26.5811765,26.385 L23.7511176,26.385 L23.7511176,18.135 L19.4874412,18.135 L19.4874412,26.385 L16.6213676,26.385 L16.6213676,7.98692308 L19.4886029,7.98692308 L19.4886029,15.7984615 L23.7522794,15.7984615 L23.7522794,7.98692308 L26.5823382,7.98692308 L26.5811765,7.98692308 Z" id="path3402" fill="#000000"></path></g><path d="M95.7233399,27.6402715 L97.5554242,27.6402715 L97.5554242,2 L95.7233399,2 L95.7233399,13.8325792 L87.8494227,13.8325792 L87.8494227,2.00113122 L86,2.00113122 L86,27.6402715 L87.8494227,27.6402715 L87.8494227,15.3042986 L95.7233399,15.3042986 L95.7233399,27.6402715 Z M106.406068,27.9988688 C109.59401,27.9988688 112.049119,24.4841629 112.049119,18.4966063 C112.049119,12.2918552 109.59401,9.20927602 106.406068,9.20927602 C103.218125,9.20927602 100.763017,12.6866516 100.763017,18.7115385 C100.763017,24.8789593 103.218125,27.9988688 106.406068,27.9988688 Z M106.406068,26.6357466 C104.244555,26.6357466 102.485292,24.2330317 102.485292,18.6040724 C102.485292,13.1176471 104.244555,10.6063348 106.406068,10.6063348 C108.567581,10.6063348 110.326844,12.9366516 110.326844,18.6040724 C110.326844,24.0542986 108.567581,26.6357466 106.406068,26.6357466 Z M119.157837,27.6402715 C122.637064,27.6402715 124.94653,25.9909502 124.94653,22.4400452 C124.94653,20.2533937 123.883112,18.7466063 121.501981,18.0656109 C123.298232,17.2771493 124.102731,15.7692308 124.102731,13.9423077 C124.102731,11.0746606 122.34578,9.5678733 119.08386,9.5678733 L115.200073,9.5678733 L115.200073,27.6402715 L119.157837,27.6402715 Z M119.012195,10.8936652 C121.135564,10.8936652 122.456745,11.719457 122.456745,14.0135747 C122.456745,16.5248869 121.025754,17.5995475 119.012195,17.5995475 L116.885359,17.5995475 L116.885359,10.8936652 L119.012195,10.8936652 Z M119.120849,18.8540724 C121.795576,18.8540724 123.224255,19.928733 123.224255,22.5486425 C123.224255,25.3427602 121.538969,26.3495475 119.157837,26.3495475 L116.885359,26.3495475 L116.885359,18.8529412 L119.120849,18.8529412 L119.120849,18.8540724 Z M132.714106,27.9988688 C135.90436,27.9988688 138.357157,24.4841629 138.357157,18.4966063 C138.357157,12.2918552 135.903204,9.20927602 132.716418,9.20927602 C129.526163,9.20927602 127.072211,12.6866516 127.072211,18.7115385 C127.072211,24.8789593 129.527319,27.9988688 132.715262,27.9988688 L132.714106,27.9988688 Z M132.714106,26.6357466 C130.552593,26.6357466 128.795641,24.2330317 128.795641,18.6040724 C128.795641,13.1176471 130.552593,10.6063348 132.714106,10.6063348 C134.875619,10.6063348 136.636038,12.9366516 136.636038,18.6040724 C136.636038,24.0542986 134.876774,26.6357466 132.715262,26.6357466 L132.714106,26.6357466 Z M146.674935,26.5282805 C143.817577,26.5282805 142.53454,23.5871041 142.53454,18.6391403 C142.53454,13.5486425 143.852254,10.6414027 146.674935,10.6414027 C148.250412,10.6414027 149.42364,11.5746606 150.229295,12.6866516 L150.705521,10.8947964 C149.89871,9.92647059 148.578685,9.20927602 146.673779,9.20927602 C142.899801,9.20927602 140.81111,12.6877828 140.81111,18.6402715 C140.81111,24.5226244 142.937946,28 146.636791,28 C149.532293,28 150.888151,25.9920814 150.888151,25.9920814 L150.337948,24.5927602 C150.337948,24.5927602 149.054911,26.5294118 146.673779,26.5294118 L146.674935,26.5282805 Z M162.614647,10.9660633 L162.614647,9.56561086 L152.354975,9.56561086 L152.354975,10.9660633 L156.643324,10.9660633 L156.643324,27.6402715 L158.365599,27.6402715 L158.365599,10.9660633 L162.614647,10.9660633 Z M173.352858,27.6402715 L175,27.6402715 L175,9.56674219 L173.497344,9.56674219 L167.490188,22.2613122 C167.122615,23.0497738 166.756198,23.8393665 166.499591,24.6640271 L166.389781,24.6640271 C166.462602,23.8721719 166.536579,23.0848416 166.536579,22.1165158 L166.536579,9.56674219 L164.924114,9.56674219 L164.924114,27.6402715 L166.389781,27.6402715 L172.400405,14.9095023 C172.801499,14.1210407 173.132083,13.3676471 173.38869,12.5791855 L173.4985,12.5791855 L173.352858,27.6402715 Z" id="path3412" fill="#000000"></path></g></g></g></svg></div><div class="yandex-banner-medium__content">
+                Добавьте RT<br>
+                в список ваших источников<br>
+                 на Яндекс.Новостях
+            </div></div><a href="https://news.yandex.ru/index.html?from=rubric&favid=254083361" class="yandex-banner-medium__button" target="_blank">Добавить</a></div></div></div><div class="column__row column__row_article-page_right column__row_article-page_right-9"><div id="240x400x2"><script type="text/javascript">
+                        window.Ya.adfoxCode.create(_adv.place['240x400x2']);
+                    </script></div></div><div class="column__row column__row_article-page_right column__row_article-page_right-10">
+55b7
+<div class="column__cell"><div class="banners"><a href="https://ttttt.me/rt_russian" target="_blank"><img src="https://cdni.rt.com/russian/images/2018.07/original/5b4dab30370f2c477a8b4582.jpg" alt=""></a></div></div></div><div class="column__row column__row_article-page_right column__row_article-page_right-11"><div class="listing listing_foreign-press_right" data-component="Listing" onclick="return {
+            template: {
+                name: 'foreignPress',
+                loadPath: '/static/js/modules/foreignPress.min.js',
+                listing: {
+                    modifiersCard: 'listing__card_foreign-press'
+                },
+                card: {
+                    modifiersCover: 'card__cover_foreign-press_right',
+                }
+            },
+            singlePage: {
+               url: '/inotv/api/widgets/press.json' + '?_='+ parseInt(new Date().getTime() / 120000) /*добавляем раз в минуту новую переменую для кэша*/
+            }
+        };"></div></div><div class="column__row column__row_article-page_right column__row_article-page_right-12"><div class="js-sticky"><div class="js-sticky__content"><div id="240x400x3"><script type="text/javascript">
+                        window.Ya.adfoxCode.create(_adv.place['240x400x3']);
+                    </script></div></div></div></div></div></div></div><div class="rows__column"></div></div></div></div></div><div class="clears-mh"></div><div class="layout__footer"><div class="footer js-mediator-footer"><div class="footer__content"><div class="footer__control-width"><div role="footer__left" class="footer__left"><div class="footer__navs footer__navs_item_1"><div class="nav nav_langs "><ul class="nav__row footer__nav footer__nav_1"><li class="nav__row-item footer__nav-item"><a class="nav__link footer__nav-link  link" href="//www.rt.com/" target="_blank" >
+
+                    English
+
+                </a></li><li class="nav__row-item footer__nav-item"><a class="nav__link footer__nav-link  link" href="//deutsch.rt.com/" target="_blank" >
+
+                    Deutsch
+
+                </a></li><li class="nav__row-item footer__nav-item"><a class="nav__link footer__nav-link  link" href="//francais.rt.com/" target="_blank" >
+
+                    Français
+
+                </a></li><li class="nav__row-item footer__nav-item"><a class="nav__link footer__nav-link  link" href="//arabic.rt.com/" target="_blank" >
+
+                    العربية
+
+                </a></li><li class="nav__row-item footer__nav-item"><a class="nav__link footer__nav-link  link" href="//actualidad.rt.com/" target="_blank" >
+
+                    Español
+
+                </a></li></ul></div><ul class="footer__nav footer__nav_last"><li class="footer__nav-item"><a href="//rtd.rt.com/" class="footer__nav-link" target="blank" >
+                                    RTД на английском
+                                </a></li><li class="footer__nav-item"><a href="//doc.rt.com/" class="footer__nav-link" target="blank" >
+                                    RTД на русском
+                                </a></li><li class="footer__nav-item"><a href="//ruptly.tv/" class="footer__nav-link" target="blank" >
+                                    RUPTLY
+                                </a></li></ul></div><div class="footer__social"><div class="socials socials_footer"><ul class="socials__row socials__row_footer"><li class="socials__item socials__item_footer"><a href="//vk.com/rt_russian" class="socials__link socials__link_vkontakte" target="_blank">
+                    RT на русском Вконтакте
+                </a></li><li class="socials__item socials__item_footer"><a href="//twitter.com/RT_russian" class="socials__link socials__link_twitter" target="_blank">
+                    Twitter RT Russian
+                </a></li><li class="socials__item socials__item_footer"><a href="//www.facebook.com/RTRussian" class="socials__link socials__link_facebook" target="_blank">
+                    Страница RT на facebook.com
+                </a></li><li class="socials__item socials__item_footer"><a href="//ttttt.me/rt_russian" class="socials__link socials__link_telegram" target="_blank">
+                    Канал RT на Telegram.me
+                </a></li><li class="socials__item socials__item_footer"><a href="//www.youtube.com/user/rtrussian" class="socials__link socials__link_youtube" target="_blank">
+                    Канал RT на YouTube.com
+                </a></li><li class="socials__item socials__item_footer"><a href="//ok.ru/rtrussian" class="socials__link socials__link_odnoklassniki" target="_blank">
+                    RT на русском группа на Одноклассники.ru
+                </a></li><li class="socials__item socials__item_footer"><a href="//plus.google.com/+rtrussian" class="socials__link socials__link_gplus" target="_blank">
+                    RT Russian в Google plus
+                </a></li><li class="socials__item socials__item_footer"><a href="//rt-russian.livejournal.com/" class="socials__link socials__link_livejournal" target="_blank">
+                    Материалы RT на русском в Живом Журнале
+                </a></li><li class="socials__item socials__item_footer"><a href="//www.instagram.com/rtrussian/" class="socials__link socials__link_instagram" target="_blank">
+                    Фотолента корреспондентов RT в Instagram
+                </a></li><li class="socials__item socials__item_footer"><a href="//chats.viber.com/rtrussian" class="socials__link socials__link_viber" target="_blank">
+                    viber
+                </a></li><li class="socials__item socials__item_footer"><a href="/rss" class="socials__link socials__link_rss" target="_blank">
+                    rss
+                </a></li></ul></div></div><input class="footer__button" type="checkbox" id="footer__left"><label class="footer__button-switch" for="footer__left" onclick=""></label><div class="footer__navs footer__navs_item_2"><ul class="footer__nav footer__nav_2"><li class="footer__nav-item"><a href="/press_releases" class="footer__nav-link" >
+                                        Пресс-релизы
+                                    </a></li><li class="footer__nav-item"><a href="/about" class="footer__nav-link" >
+                                        О канале
+                                    </a></li><li class="footer__nav-item"><a href="//doc.rt.com/programmy/" class="footer__nav-link" >
+                                        Программы RT
+                                    </a></li><li class="footer__nav-item"><a href="//rt.com/about-us/contact-info/" class="footer__nav-link" >
+                                        Контакты
+                                    </a></li><li class="footer__nav-item"><a href="//zakupki.rt.com/" class="footer__nav-link" >
+                                        Текущие закупки RT
+                                    </a></li><li class="footer__nav-item"><a href="mailto:russian@rttv.ru" class="footer__nav-link" >
+                                        Написать в редакцию
+                                    </a></li><li class="footer__nav-item"><a href="/rt_events" class="footer__nav-link" >
+                                        Новости телеканала
+                                    </a></li><li class="footer__nav-item"><a href="/partners" class="footer__nav-link" >
+                                        Новости партнёров
+                                    </a></li></ul></div><div class="footer__navs footer__navs_item_3"><ul class="footer__nav footer__nav_3"><li class="footer__nav-item"><a href="/news" class="footer__nav-link" >
+                                        Новости
+                                    </a></li><li class="footer__nav-item"><a href="/world" class="footer__nav-link" >
+                                        Мир
+                                    </a></li><li class="footer__nav-item"><a href="/russia" class="footer__nav-link" >
+                                        Россия
+                                    </a></li><li class="footer__nav-item"><a href="/ussr" class="footer__nav-link" >
+                                        Бывший СССР
+                                    </a></li><li class="footer__nav-item"><a href="/business" class="footer__nav-link" >
+                                        Экономика
+                                    </a></li><li class="footer__nav-item"><a href="/sport" class="footer__nav-link" >
+                                        Спорт
+                                    </a></li><li class="footer__nav-item"><a href="/science" class="footer__nav-link" >
+                                        Наука
+                                    </a></li><li class="footer__nav-item"><a href="/nopolitics" class="footer__nav-link" >
+                                        Без политики
+                                    </a></li><li class="footer__nav-item"><a href="/opinion" class="footer__nav-link" >
+                                        Мнения
+                                    </a></li><li class="footer__nav-item"><a href="/inotv" class="footer__nav-link" target="_blank">
+                                        ИноТВ
+                                    </a></li><li class="footer__nav-item"><a href="/foto" class="footer__nav-link" >
+                                        Фото
+                                    </a></li><li class="footer__nav-item"><a href="/video" class="footer__nav-link" >
+                                        Видео
+                                    </a></li></ul></div></div><div class="footer__right"><div class="footer__seach-form"><form name="search" class="search" action="/search" ><div class="search__wrapper" role="search__submit-footer"><input class="search__submit" type="checkbox" value="Поиск" id="search__submit-footer" /><label class="search__submit-label" for="search__submit-footer" ></label><input class="search__submit-label search__submit-label_header" type="submit" value="Поиск" /><div class="search__text" ><input type="text" name="q" value="" maxlength="100" /></div></div></form></div></div></div><div class="footer__control-width"><div class="footer__age-limit">18+</div></div></div><div class="footer__copyright footer__copyright_share-article"><div class="footer__control-width"><div class="copyright"><div class="copyright__logo"><a href="/" class="">
+               RT
+            </a></div><div class="copyright__text"><p>&copy; Автономная некоммерческая организация «ТВ-Новости», 2005—2018 гг. Все права защищены.</p><p>Сетевое издание <a href="https://rt.com" class="link">rt.com</a> зарегистрировано Роскомнадзором 21 декабря 2016 г., свидетельство Эл № ФС 77-68119</p><p>Главный редактор: Симоньян М. С. Адрес редакции: Москва, Боровая улица, 3к1. Телефон: <a href="tel:+74997500075" class="link">+7 499 750-00-75</a> доб. 1200 E-mail: <a class="link" href="mailto:info@rttv.ru">info@rttv.ru</a></p><p><a href="https://russian.rt.com/privacy" class="link">Политика АНО «ТВ-Новости» в отношении обработки персональных данных</a></p></div></div></div></div><noindex><div class="footer__organizations"><p class="footer__organizations-title">Организации, признанные экстремистскими и запрещённые на территории РФ</p><div class="footer__organizations-image"><span class="footer__organizations-image__wrapper"></span></div></div></noindex></div></div><div class="cookies__banner js-cookies-banner"><div class="cookies__banner-wrapper"><p class="cookies__banner-text">Данный сайт использует файлы <a href="https://russian.rt.com/privacy-policy" target="_blank">cookies</a></p><a class="cookies__banner-button js-cookies-button">Подтвердить</a></div></div></div><div class="overlay"></div><div class="subscribe-layout subscribe-layout_modal js-subscribe-layout-modal"><div class="subscribe"><a class="subscribe__image" href="https://ttttt.me/rt_russian" target="_blank"></a><a class="subscribe__close js-subscribe-close" href="#"></a></div></div><script src="/static/js/pushes/firebase.js"></script><script src="/static/js/pushes/notification.js?v=2"></script><script>
+    var RT = RT || {};
+    RT.counter = {
+        url: 'https://russian.rt.com/nbc/',
+        publicId: '544963'
+    };
+</script><script defer="defer" async="async" src="/static/js/common.min.js?v=2207e56gs79787fghc76h7f45asd44n9f45s8654h27k73d77ll27123ghj172766767667asdas6757718718982144"></script><script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.8";
+    fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script><script type="text/javascript" src="//cdn.playbuzz.com/widget/feed.js"></script><!-- google analytics --><script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-5773642-24', 'auto');
+                    ga('set', 'dimension1', 'Александр Бовдунов');
+                            ga('set', 'dimension2', '13 августа 2018');
+                ga('send', 'pageview');
+
+    </script><!--/ google analytics --><!--LiveInternet counter--><div style="position: fixed; left: -9999px;"><script type="text/javascript">
+        document.write("<a href='//www.liveinternet.ru/click;russian_rt' "+
+            "target=_blank><img src='//counter.yadro.ru/hit;russian_rt?t44.5;r"+
+            escape(document.referrer)+((typeof(screen)=="undefined")?"":
+                ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+                    screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+            ";"+Math.random()+
+            "' alt='' title='LiveInternet' "+
+            "border='0' width='31' height='31'><\/a>")
+    </script></div><!--/LiveInternet--><!-- Yandex.Metrika --><script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter17954578 = new Ya.Metrika({id:17954578, enableAll: true});
+                w.yaCounter27102311 = new Ya.Metrika({id:27102311, webvisor:true, clickmap:true, trackLinks:true, accurateTrackBounce:true});
+            } catch(e) { }
+        });
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script><script type="text/javascript" src="//mc.yandex.ru/metrika/watch.js" defer="defer"></script><noscript><img src="//mc.yandex.ru/watch/17954578" style="position:absolute; left:-9999px;" alt="" /></noscript><noscript><div><img src="//mc.yandex.ru/watch/27102311" style="position:absolute; left:-9999px;" alt="" /></div></noscript><!-- /Yandex.Metrika --><!-- Begin comScore Tag --><script type="text/javascript">
+    var _comscore = _comscore || [];
+    _comscore.push({ c1: "2", c2: "17935924" });
+    (function() {
+        var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+        s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+        el.parentNode.insertBefore(s, el);
+    })();
+</script><noscript><img src="//b.scorecardresearch.com/p?c1=2&c2=17935924&cv=2.0&cj=1" /></noscript><!-- End comScore Tag --><!-- tns-counter.ru --><script type="text/javascript">
+    (new Image()).src = '//www.tns-counter.ru/V13a***R>' + document.referrer.replace(/\*/g,'%2a') + '*russianrt_com/ru/UTF-8/tmsec=rt_russia/' + Math.round(Math.random()*1E9);
+</script><noscript><img src="http://www.tns-counter.ru/V13a****russianrt_com/ru/UTF-8/tmsec=rt_russia/" width="1" height="1" alt="" /></noscript><!--/ tns-counter.ru --><!-- mediator --><script id="js-mpf-mediator-init" data-counter="2820232" data-adaptive="true">!function(e){function t(t,n){if(!(n in e)){for(var r,a=e.document,i=a.scripts,o=i.length;o--;)if(-1!==i[o].src.indexOf(t)){r=i[o];break}if(!r){r=a.createElement("script"),r.type="text/javascript",r.async=!0,r.defer=!0,r.src=t,r.charset="UTF-8";;var d=function(){var e=a.getElementsByTagName("script")[0];e.parentNode.insertBefore(r,e)};"[object Opera]"==e.opera?a.addEventListener?a.addEventListener("DOMContentLoaded",d,!1):e.attachEvent("onload",d):d()}}}t("//mediator.mail.ru/script/2820232/","_mediator")}(window);</script><!-- /mediator --><!-- Top100 (Kraken) Counter --><script>
+    (function (w, d, c) {
+        (w[c] = w[c] || []).push(function() {
+            var options = {
+                project: 4502732
+            };
+            try {
+                w.top100Counter = new top100(options);
+            } catch(e) { }
+        });
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src =
+            (d.location.protocol == "https:" ? "https:" : "http:") +
+            "//st.top100.ru/top100/top100.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(window, document, "_top100q");
+</script><noscript><img src="//counter.rambler.ru/top100.cnt?pid=1886286" alt="Топ-100" /></noscript><!-- END Top100 (Kraken) Counter --><!-- Yandex.Metrika Counter --><script type="text/javascript" >
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter48853397 = new Ya.Metrika({
+                    id:48853397,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script><noscript><div><img src="https://mc.yandex.ru/watch/48853397" style="position:absolute; left:-9999px;" alt="" /></div></noscript><!-- /Yandex.Metrika counter --><script type="text/javascript">findContentAdPlacement('.article__text_article-page p', insertParallax);</script></body><!-- [vk12321] --></html>
+                <meta property="og:title" content="«Мун Чжэ Ин показывает характер»: как новый межкорейский саммит может изменить ситуацию в регионе" />
+                <meta property="og:url" content="https://russian.rt.com/world/article/544963-kndr-yuzhnaya-koreya-sammit-phenyan-voina" />
+        <meta property="og:description" content="Третий за год саммит лидеров Северной и Южной Кореи пройдёт в сентябре 2018 года в столице КНДР. Об этом 13 августа договорились представители двух стран в ходе переговоров в Пханмунджоме. Предполагается, что Ким Чен Ын и Мун Чже Ин обсудят экономическое сотрудничество и вопросы, связанные с формальным завершением Корейской войны. Впрочем, США выступают против подобной декларации. По мнению экспертов, Вашингтону невыгодна стабильность на полуострове и он тормозит диалог между Пхеньяном и Сеулом. Однако твёрдая позиция южнокорейского лидера может повлиять на Соединённые Штаты, считают аналитики." />
+        <link rel="amphtml" href="https://russian.rt.com/world/article/544963-kndr-yuzhnaya-koreya-sammit-phenyan-voina/amp">
+        <meta name="twitter:title" content="«Мун Чжэ Ин показывает характер»: как новый межкорейский саммит может изменить ситуацию в регионе" />
+        <meta name="published_time_telegram" content="2018-08-13T23:11:00+03:00" />
+     
+
+
+
+0
+
+
+
+WARC/1.0
+WARC-Type: metadata
+WARC-Record-ID: <urn:uuid:d587b71d-83fc-4e30-b057-afc6ab075c92>
+WARC-Warcinfo-ID: <urn:uuid:56c2a855-f042-4f95-9ecd-7340a5992536>
+WARC-Target-URI: <metadata://gnu.org/software/wget/warc/MANIFEST.txt>
+WARC-Date: 2018-08-13T22:12:20Z
+Content-Type: text/plain
+Content-Length: 48
+
+<urn:uuid:56c2a855-f042-4f95-9ecd-7340a5992536>
+
+
+WARC/1.0
+WARC-Type: resource
+WARC-Record-ID: <urn:uuid:827f36c1-8372-4fea-a847-7bd894144576>
+WARC-Warcinfo-ID: <urn:uuid:56c2a855-f042-4f95-9ecd-7340a5992536>
+WARC-Concurrent-To: <urn:uuid:d587b71d-83fc-4e30-b057-afc6ab075c92>
+WARC-Target-URI: <metadata://gnu.org/software/wget/warc/wget_arguments.txt>
+WARC-Date: 2018-08-13T22:12:20Z
+Content-Type: text/plain
+Content-Length: 241
+
+"--warc-file" "544963-kndr-yuzhnaya-koreya-sammit-phenyan-voina" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "-q" "-O" "/dev/null" "https://russian.rt.com/world/article/544963-kndr-yuzhnaya-koreya-sammit-phenyan-voina" 
+
+

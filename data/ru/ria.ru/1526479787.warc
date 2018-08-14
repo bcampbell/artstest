@@ -1,0 +1,1180 @@
+WARC/1.0
+WARC-Type: warcinfo
+Content-Type: application/warc-fields
+WARC-Date: 2018-08-13T21:44:01Z
+WARC-Record-ID: <urn:uuid:682e3433-1340-4071-bbc7-1ee44445752a>
+WARC-Filename: 1526479787.warc
+Content-Length: 343
+
+software: Wget/1.19.5 (linux-gnu)
+format: WARC File Format 1.0
+conformsTo: http://bibnum.bnf.fr/WARC/WARC_ISO_28500_version1_latestdraft.pdf
+robots: classic
+wget-arguments: "--warc-file" "1526479787" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "-q" "-O" "/dev/null" "https://ria.ru/world/20180813/1526479787.html" 
+
+
+
+WARC/1.0
+WARC-Type: request
+WARC-Target-URI: <https://ria.ru/world/20180813/1526479787.html>
+Content-Type: application/http;msgtype=request
+WARC-Date: 2018-08-13T21:44:02Z
+WARC-Record-ID: <urn:uuid:1bb68a84-4fa5-431f-b168-fc4a365f27f7>
+WARC-IP-Address: 178.248.233.32
+WARC-Warcinfo-ID: <urn:uuid:682e3433-1340-4071-bbc7-1ee44445752a>
+Content-Length: 163
+
+GET /world/20180813/1526479787.html HTTP/1.1
+User-Agent: Wget/1.19.5 (linux-gnu)
+Accept: */*
+Accept-Encoding: identity
+Host: ria.ru
+Connection: Keep-Alive
+
+
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <urn:uuid:4ccf8345-ec73-4ad7-b2b2-ce55764a6b4b>
+WARC-Warcinfo-ID: <urn:uuid:682e3433-1340-4071-bbc7-1ee44445752a>
+WARC-Concurrent-To: <urn:uuid:1bb68a84-4fa5-431f-b168-fc4a365f27f7>
+WARC-Target-URI: <https://ria.ru/world/20180813/1526479787.html>
+WARC-Date: 2018-08-13T21:44:02Z
+WARC-IP-Address: 178.248.233.32
+WARC-Block-Digest: �u;I�U
+WARC-Payload-Digest: 
+Content-Type: application/http;msgtype=response
+Content-Length: 147496
+
+HTTP/1.1 200 OK
+Server: QRATOR
+Date: Mon, 13 Aug 2018 21:44:02 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Keep-Alive: timeout=15
+Set-Cookie: ab_autored=c; expires=Tue, 13-Aug-2019 21:44:02 GMT; path=/; domain=.ria.ru
+Set-Cookie: ab_recommend3=b; expires=Tue, 13-Aug-2019 21:44:02 GMT; path=/; domain=.ria.ru
+Set-Cookie: ab_title=a; expires=Tue, 13-Aug-2019 21:44:02 GMT; path=/; domain=.ria.ru
+Set-Cookie: ab_newpartners_step3=b; expires=Tue, 13-Aug-2019 21:44:02 GMT; path=/; domain=.ria.ru
+Set-Cookie: ria_nauka_test1=a; expires=Tue, 13-Aug-2019 21:44:02 GMT; path=/; domain=.ria.ru
+Cache-Control: public
+
+3402
+<!DOCTYPE html SYSTEM "about:legacy-compat">
+<html lang="ru"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article# ya: http://webmaster.yandex.ru/vocabularies/"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><!-- Google Tag Manager script -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N5NCZ4');</script>
+<!-- End Google Tag Manager script -->
+<meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><title>США заморозили выполнение Договора по открытому небу с Россией - РИА Новости, 13.08.2018</title><link rel="canonical" href="https://ria.ru/world/20180813/1526479787.html"><link rel="amphtml" href="https://ria.ru/amp/world/20180813/1526479787.html"><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=2.0, user-scalable=yes"><meta name="HandheldFriendly" content="true"><meta name="MobileOptimzied" content="width"><meta name="referrer" content="always"><meta name="format-detection" content="telephone=no"><meta name="format-detection" content="address=no"><meta property="analytics:ab" content="c"><meta name="description" content="США заморозили сотрудничество с Россией в рамках Договора по открытому небу, пока Москва не вернется к его соблюдению. Об этом говорится в тексте..."><meta name="keywords" content="россия, сша"><meta property="analytics:keyw" content="россия, сша"><meta name="robots" content="all"><link rel="stylesheet" type="text/css" href="https://cdn1.img.ria.ru/min/css/common.css?8e10b0c50"><link rel="stylesheet" type="text/css" href="https://cdn2.img.ria.ru/min/css/fonts/font_ria_text_sans.css?8494575a5"><link rel="stylesheet" type="text/css" href="https://cdn1.img.ria.ru/min/css/fonts/font_ria_super_display_sans_compressed.css?8ac22c71b"><link rel="stylesheet" type="text/css" href="https://cdn2.img.ria.ru/min/css/pages/article.css?848bdc88f"><meta name="relap-image" content="https://cdn3.img.ria.ru/images/152189/93/1521899363.jpg"><meta property="og:title" content="США заморозили выполнение Договора по открытому небу с Россией"><meta property="og:type" content="article"><meta property="og:url" content="https://ria.ru/world/20180813/1526479787.html"><meta property="og:site_name" content="РИА Новости"><meta property="og:description" content="РИА Новости"><meta property="fb:app_id" content="130182077069283"><meta name="mrc__share_title" content="США заморозили выполнение Договора по открытому небу с Россией"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:site" content="@rianru"><meta property="article:published_time" content="20180813T2304+0300Z"><meta property="article:modified_time" content="20180813T2339+0300Z"><meta property="og:image" content="https://cdn3.img.ria.ru/images/152189/93/1521899358.jpg"><link rel="image_src" href="https://cdn3.img.ria.ru/images/152189/93/1521899358.jpg"><meta name="relap-entity-id" content="1526479787"><meta name="adriverDefaults" content="sid:45736,bt:52"><meta name="yandex-verification" content="6e92aa3fa8a4126f"><meta property="fb:pages" content="325794294270"><meta property="fb:pages" content="254390511252858"><meta name="rian_tags" content="location_Russia, location_United_States"><meta property="analytics:tags" content="location_Russia, location_United_States"><meta property="analytics:p_ts" content="1534190640"><meta property="analytics:rubric" content="world"><meta name="apple-itunes-app" content="app-id=326855360, app-argument=ru.ria://article?issuer_id=1&amp;issuer_article_id=1526479787"><meta name="msApplication-ID" content="RIANovosti.86234F117D12"><meta name="msApplication-PackageFamilyName" content="RIANovosti.86234F117D12_bwjwabna54xm2"><meta name="google-play-app" content="app-id=ru.rian.reader"><link rel="apple-touch-icon" sizes="57x57" href="/i/favicons/apple-touch-icon-57x57.png"><link rel="apple-touch-icon" sizes="60x60" href="/i/favicons/apple-touch-icon-60x60.png"><link rel="apple-touch-icon" sizes="72x72" href="/i/favicons/apple-touch-icon-72x72.png"><link rel="apple-touch-icon" sizes="76x76" href="/i/favicons/apple-touch-icon-76x76.png"><link rel="apple-touch-icon" sizes="114x114" href="/i/favicons/apple-touch-icon-114x114.png"><link rel="apple-touch-icon" sizes="120x120" href="/i/favicons/apple-touch-icon-120x120.png"><link rel="apple-touch-icon" sizes="144x144" href="/i/favicons/apple-touch-icon-144x144.png"><link rel="apple-touch-icon" sizes="152x152" href="/i/favicons/apple-touch-icon-152x152.png"><link rel="apple-touch-icon" sizes="180x180" href="/i/favicons/apple-touch-icon-180x180.png"><link rel="icon" type="image/png" href="/i/favicons/favicon-32x32.png" sizes="32x32"><link rel="icon" type="image/png" href="/i/favicons/favicon-194x194.png" sizes="194x194"><link rel="icon" type="image/png" href="/i/favicons/favicon-96x96.png" sizes="96x96"><link rel="icon" type="image/png" href="/i/favicons/android-chrome-192x192.png" sizes="192x192"><link rel="icon" type="image/png" href="/i/favicons/favicon-16x16.png" sizes="16x16"><link rel="manifest" href="/i/favicons/manifest.json"><link rel="mask-icon" href="/i/favicons/safari-pinned-tab.svg" color="#00235a"><link rel="shortcut icon" href="/i/favicons/favicon.ico"><meta name="apple-mobile-web-app-title" content="Ria.ru"><meta name="application-name" content="Ria.ru"><meta name="msapplication-TileColor" content="#da532c"><meta name="msapplication-TileImage" content="/i/favicons/mstile-144x144.png"><meta name="theme-color" content="#ffffff"><script>var GLOBAL = {}; GLOBAL.www = 'https://ria.ru'; GLOBAL.cookie_domain = '.ria.ru'; GLOBAL.adriver = {}; GLOBAL.adriver.sid = "45736"; GLOBAL.adriver.bt = "52"; GLOBAL.csrf_token = ''; GLOBAL.search = {}; GLOBAL.auth = {}; GLOBAL.auth.status = 'error'; GLOBAL.auth.provider = ''; GLOBAL.auth.twitter = '/id/twitter/request/'; GLOBAL.auth.facebook = '/id/facebook/request/'; GLOBAL.auth.vkontakte = '/id/vkontakte/request/'; GLOBAL.auth.google = '/id/google/request/'; GLOBAL.auth.ok = '/id/ok/request/'; GLOBAL.user = {}; GLOBAL.user.id = ""; GLOBAL.locale = {}; GLOBAL.locale.id = {}; GLOBAL.locale.id.is_id = '1'; GLOBAL.locale.id.errors = {}; GLOBAL.locale.id.errors.email = 'Введите e-mail'; GLOBAL.locale.id.errors.password = 'Введите пароль'; GLOBAL.locale.id.errors.wrong = 'Неправильный e-mail или пароль'; GLOBAL.locale.id.errors.wrongpassword = 'Неправильный пароль'; GLOBAL.locale.id.errors.wronglogin = 'Не корректный e-mail'; GLOBAL.locale.id.errors.emptylogin = 'Не введено имя пользователя'; GLOBAL.locale.id.errors.wrongemail = 'Не верный e-mail'; GLOBAL.locale.id.errors.passwordnotsimilar = 'Пароли не совпадают'; GLOBAL.locale.id.errors.wrongcode = 'Неправильный код'; GLOBAL.locale.id.errors.send = 'E-mail отправлен!'; GLOBAL.locale.id.errors.notsend = 'Ошибка! Не возможно отправить e-mail.'; GLOBAL.locale.id.errors.anothersoc = 'Другой социальный аккаунт уже связан с этим профилем'; GLOBAL.locale.id.errors.acclink = 'Аккаунты успешно связаны!'; GLOBAL.locale.id.errors.emailexist = 'Пользователь с таким e-mail уже существует'; GLOBAL.locale.id.errors.emailnotexist = 'Ошибка! Пользователя с таким e-mail не существует'; GLOBAL.locale.id.errors.recoveryerror = 'Ошибка восстановления пароля. Пожалуйста, попробуйте снова!'; GLOBAL.locale.id.errors.alreadyactive = 'Пользователь уже был активирован'; GLOBAL.locale.id.errors.autherror = 'Ошибка входа. Пожалуйста, повторите попытку позже или обратитесь в службу технической поддержки'; GLOBAL.locale.id.errors.codeerror = 'Ошибка генерации кода подтверждение регистрации. Пожалуйста, повторите попытку позже или обратитесь в службу технической поддержки'; GLOBAL.locale.id.errors.global = 'Произошла ошибка. Пожалуйста, повторите попытку позже или обратитесь в службу технической поддержки'; GLOBAL.locale.id.errors.registeremail = ' На указанный Вами e-mail отправленно письмо. <br/> Для завершения регистрации, пожалуйста перейдите по ссылке в e-mail. '; GLOBAL.locale.id.errors.linkprofile = ' Этот e-mail уже используется! <a data-modal-open="link_local_account">Вы хотите связать эти аккаунты?</a> '; GLOBAL.locale.id.errors.confirm = ' Этот аккаунт не был подтвержден! <br/> <a class="b-id__secret-recovery">Отправить e-mail</a> с информацией для подтверждения аккаунта. '; GLOBAL.locale.id.errors.block = ' Ваш аккаунт на ria.ru.com был заблокирован.<br/>Для восстановления доступа отправьте письмо на <a href="mailto:moderator@rian.ru">moderator@rian.ru</a>. '; GLOBAL.locale.id.errors.del = ' Ваш аккаунт был удален! Вы можете восстановить аккаунт перейдя по ссылки в письме, высланом вам при уделении аккаунта. <br/> <a class="b-id__user-remind-letter">Повторно выслать e-mail</a>. '; GLOBAL.locale.id.links = {}; GLOBAL.locale.id.links.login = 'Авторизация'; GLOBAL.locale.id.links.register = 'Регистрация'; GLOBAL.locale.id.links.forgotpassword = 'Восстановление пароля'; GLOBAL.locale.id.links.privacy = 'Политика конфиденциальности'; GLOBAL.locale.id.login = {}; GLOBAL.locale.id.login.title = 'Авторизация'; GLOBAL.locale.id.login.email = 'E-mail:'; GLOBAL.locale.id.login.password = 'Пароль:'; GLOBAL.locale.id.login.remember = 'Запомнить меня'; GLOBAL.locale.id.login.signin = 'Войти'; GLOBAL.locale.id.login.social = {}; GLOBAL.locale.id.login.social.label = 'Other ways to sign in:'; GLOBAL.locale.id.login.social.anotheruserlink = 'This account has been linked to a different profile.'; GLOBAL.locale.id.register = {}; GLOBAL.locale.id.register.title = 'Регистрация'; GLOBAL.locale.id.register.email = 'E-mail:'; GLOBAL.locale.id.register.password = 'Пароль:'; GLOBAL.locale.id.register.confirm = 'Подтверждение пароля:'; GLOBAL.locale.id.register.captcha = 'Введите код с картинки'; GLOBAL.locale.id.register.requirements = '* Все поля обязательны к заполнению'; GLOBAL.locale.id.register.success = ' Пожалуйста, подтвердите Ваш e-mail для продолжения. Инструкции для подтверждения были высланы на <a class="email"></a> '; GLOBAL.locale.id.register.confirmemail = 'Пожалуйста, подтвердите Ваш e-mail для продолжения.'; GLOBAL.locale.id.register.confirm_personal = 'By clicking \'Register\', you confirm that you agree to our Privacy Policy and give your consent to the processing of personal data in accordance with the Privacy Policy'; GLOBAL.locale.id.deleteaccount = {}; GLOBAL.locale.id.deleteaccount.title = 'Удалить аккаунт'; GLOBAL.locale.id.deleteaccount.body = 'Вы уверены, что хотите удалить аккаунт?'; GLOBAL.locale.id.deleteaccount.success = 'Ваш аккаунт был удален! Вы можете восстановить аккаунт в течение 30 дней, перейдя по ссылке в письме.'; GLOBAL.locale.id.deleteaccount.action = 'Удалить аккаунт'; GLOBAL.locale.id.passwordrecovery = {}; GLOBAL.locale.id.passwordrecovery.title = 'Восстановление пароля'; GLOBAL.locale.id.passwordrecovery.password = 'Введите новый пароль:'; GLOBAL.locale.id.passwordrecovery.confirm = 'Повторите новый пароль:'; GLOBAL.locale.id.passwordrecovery.email = 'E-mail'; GLOBAL.locale.id.passwordrecovery.send = ' Инструкции для восстановления пароля высланы на <a class="email"></a> '; GLOBAL.locale.id.passwordrecovery.success = ' Поздравл
+3fff
+яем! Пароль успешно восстановлен. Пожалуйста авторизуйтесь. '; GLOBAL.locale.id.passwordrecovery.alert = ' На указанный Вами адрес отправлено сообщение. Чтобы установить пароль, перейдите по ссылке в тексте письма. '; GLOBAL.locale.id.registerconfirm = {}; GLOBAL.locale.id.registerconfirm.success = 'Аккаунт успешно создан!'; GLOBAL.locale.id.registerconfirm.error = 'Ошибка подтверждения регистрации. Пожалуйста, повторите попытку позже или обратитесь в службу технической поддержки'; GLOBAL.locale.id.restoreaccount = {}; GLOBAL.locale.id.restoreaccount.confirm = 'Восстановить Ваш аккаунт?'; GLOBAL.locale.id.restoreaccount.error = 'Ошибка! Невозможно восстановить аккаунт.'; GLOBAL.locale.id.restoreaccount.success = 'Ваш аккаунт был восстановлен.'; GLOBAL.locale.id.localaccount = {}; GLOBAL.locale.id.localaccount.exist = 'У меня есть аккаунт в ria.ru'; GLOBAL.locale.id.localaccount.notexist = 'У меня нет аккаунта в ria.ru'; GLOBAL.locale.id.localaccount.title = 'Регистрация'; GLOBAL.locale.id.localaccount.profile = 'У вас есть аккаунт в ria.ru?'; GLOBAL.locale.id.localaccount.hello = ' <span>Здравствуйте, </span> <span class="m-name"></span> <span>!</span> '; GLOBAL.locale.id.button = {}; GLOBAL.locale.id.button.ok = 'Ок'; GLOBAL.locale.id.button.yes = 'Да'; GLOBAL.locale.id.button.no = 'Нет'; GLOBAL.locale.id.button.next = 'Дальше'; GLOBAL.locale.id.button.close = 'Закрыть'; GLOBAL.locale.id.button.profile = 'В личный кабинет'; GLOBAL.locale.id.button.recover = 'Восстановление'; GLOBAL.locale.id.button.register = 'Регистрация'; GLOBAL.locale.id.message = {}; GLOBAL.locale.id.message.errors = {}; GLOBAL.locale.id.message.errors.empty = 'Невозможно отправить сообщение'; GLOBAL.locale.id.message.errors.notfound = 'Невозможно отправить сообщение'; GLOBAL.locale.id.message.errors.similar = 'Неверный код';</script><script type="text/javascript">GLOBAL.comet = {}; GLOBAL.comet.ticket = "00"; GLOBAL.comet.url = "https://n-ssl.ria.ru/polling"; GLOBAL.comet.ts = "1534196642"; GLOBAL.comet.objects = []; GLOBAL.comet.reduce = "0"; GLOBAL.comet.timeouts = {}; GLOBAL.comet.timeouts.try2 = 1000; GLOBAL.comet.timeouts.try3 = 10000; GLOBAL.comet.timeouts.try4 = 30000;</script><script src="https://yastatic.net/pcode/adfox/loader.js"></script><script type="text/javascript" src="https://cdn2.img.ria.ru/min/js-group/common_47.js?8755363dc"></script><script>
+			
+				(function() {
+					try {
+						var group = "ThNmoJ48iPaggJ1NIyJk";
+						var lsKey = "rtb_" + group;
+						var xhr = new XMLHttpRequest(); if (!("withCredentials" in xhr)) return; xhr.withCredentials = true;
+						xhr.open('GET', 'https://pubs2-eu.creativecdn.com/bidder/pubs/tagging?type=json&group=' + group);
+						xhr.onload = function() {
+							try {
+								var json = JSON.parse(xhr.responseText); json._ts = new Date().getTime();
+								localStorage.setItem(lsKey, JSON.stringify(json));
+							} catch (e) {
+								localStorage.setItem(lsKey, '{"deals":[]}');
+							}
+						};
+					xhr.onerror = function(){
+						localStorage.setItem(lsKey, '{"deals":[]}')
+					};
+					xhr.onabort = function(){
+						localStorage.setItem(lsKey, '{"deals":[]}')
+					};
+						xhr.send();
+					} catch (e) {}
+				})()
+			
+		</script><script src="//cdn.rutarget.ru/static/publishertag/publishertag.js"></script><script src="https://cdn1.img.ria.ru/min/js/libs/banners/adfox.loader.bind.js?8161078540"></script><script src="https://cdn1.img.ria.ru/min/js/libs/banners/prebid.js?8d8070613"></script>
+			
+				<script>
+					var AdriverPrebid={adriverBids:{},winnerBid:{},winnerDeal:{}};AdriverPrebid.drawBanner=function(e,r){function i(e){return e.contentWindow?e.contentWindow.document:e.contentDocument}function d(e,r){if(e&&r)try{var i=AdriverPrebid.winnerDeal[r];void 0!==i&&void 0!==i.nurl&&void 0!==i.w&&void 0!==i.h&&(e.write('<IFRAME SRC="'+i.nurl+'" FRAMEBORDER="0" SCROLLING="no" MARGINHEIGHT="0" MARGINWIDTH="0" TOPMARGIN="0" LEFTMARGIN="0" ALLOWTRANSPARENCY="true" WIDTH="'+i.w+'" HEIGHT="'+i.h+'"></IFRAME>'),e.close(),e.defaultView&&e.defaultView.frameElement&&(e.defaultView.frameElement.width=i.w,e.defaultView.frameElement.height=i.h))}catch(e){}}if("undefined"==typeof r)try{if(e.origin.indexOf("adfox")===-1)return;var r=JSON.parse(e.data);if(!r.isAdriver||!r.place||!r.id)return}catch(e){}if("undefined"!=typeof r)try{if(!r.place||!r.id)return;var n,t,a=document.getElementById(r.place),o=r.dealid?r.dealid:void 0;if(void 0===o)n=AdriverPrebid.winnerBid[r.id][1],t=AdriverPrebid.winnerBid[r.id][2];else{if(void 0===AdriverPrebid.winnerDeal[o].w||void 0===AdriverPrebid.winnerDeal[o].h)return;n=AdriverPrebid.winnerDeal[o].w,t=AdriverPrebid.winnerDeal[o].h}a.innerHTML='<IFRAME id="adriver_frame_'+r.id+'" FRAMEBORDER="0" SCROLLING="no" MARGINHEIGHT="0" MARGINWIDTH="0" TOPMARGIN="0" LEFTMARGIN="0" ALLOWTRANSPARENCY="true" WIDTH="'+n+'" HEIGHT="'+t+'"></IFRAME>',void 0===o?setTimeout(function(){pbjs.renderAd(i(document.getElementById("adriver_frame_"+r.id)),AdriverPrebid.winnerBid[r.id][0])},100):setTimeout(function(){d(i(document.getElementById("adriver_frame_"+r.id)),o)},100)}catch(e){}},AdriverPrebid.sendAdserverRequest=function(){if(!pbjs.adserverRequestSent){pbjs.adserverRequestSent=!0;var e=pbjs.getHighestCpmBids();e.forEach(function(e){e.adUrl&&e.adUnitCode&&(AdriverPrebid.adriverBids[e.adUnitCode]=AdriverPrebid.adriverBids[e.adUnitCode].replace("false","true"),AdriverPrebid.winnerBid[e.adUnitCode]=[e.adId,e.width,e.height])}),window.addEventListener?window.addEventListener("message",AdriverPrebid.drawBanner,!1):window.attachEvent("onmessage",AdriverPrebid.drawBanner)}};var pbjs=pbjs||{};pbjs.que=pbjs.que||[];
+					pbjs.que.push(function () {
+						var adUnits = [{
+						    code: '4:ria240fs',
+						    sizes: [[240, 400]],
+						    bids: [{
+								bidder: 'adriver',
+						        params: {
+						            siteid: '216200',
+						            bidfloor: 160,
+						            dealid: '1997093'
+						            }
+						         },{
+								bidder: 'adriver',
+						        params: {
+						            siteid: '216200',
+						            bidfloor: 120,
+						            dealid: '1997094'
+						            }
+						         }]
+						    }];
+					adUnits.forEach(function (unit) {unit.bids.forEach(function (bid) {if (bid.bidder === 'adriver') {if (bid.params.dealid === undefined) {AdriverPrebid.adriverBids[unit.code] = 'false';}}})});pbjs.addAdUnits(adUnits);pbjs.requestBids({bidsBackHandler: AdriverPrebid.sendAdserverRequest});});
+				</script>
+			
+		<script type="text/javascript">if(typeof(adriver) !== 'undefined'){ new adriver.Plugin.require("old.adriver", "autoLoad.adriver", "onScroll.adriver"); adriver.setPluginPath({rian: 'https://pano.img.ria.ru/adriver/tgb-ria/'}); var N = 3; var ar_bn1= Math.floor(Math.random()*N+1); }</script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script><script>
+			var ria_activity_counter = function (ria_counter_action, ria_data){
+			url = "";
+			if (url  != "") {
+			url += "&r="+encodeURIComponent(document.referrer)+((typeof(screen)=="undefined")?"":"&s="+screen.width+"*"+screen.height+"*"+(screen.colorDepth?screen.colorDepth:screen.pixelDepth))+"&u="+encodeURIComponent(document.URL)+"&h="+encodeURIComponent(document.title.substring(0,80));
+			url += "&action=" + ria_counter_action;
+			if (typeof ria_data  != "undefined") {
+			url += "&d=" + ria_data;
+			}
+			img = new Image().src = url + "&" + Math.random();
+			}
+			};
+		</script><script type="text/javascript">
+			var _paq = _paq || [];
+			(function(){
+			_paq.push(['setSiteId', 'ria']);
+			_paq.push(['trackPageView']);
+			_paq.push(['enableLinkTracking']);
+			var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript'; g.defer=true; g.async=true; g.src='//a.ria.ru/js/counter.js';
+			s.parentNode.insertBefore(g,s); })();
+		</script><script type="text/javascript" src="//static.criteo.net/js/ld/publishertag.js"></script><script>
+			var network = 4499,
+				crtg_cookiename = 'crtg_rta',
+				crtg_varname = 'crtg_content';
+			var Criteo = Criteo || {};
+				Criteo.events = Criteo.events || [];
+			Criteo.events.push(function() {
+				Criteo.CallRTA({"networkId":network, "cookiename":crtg_cookiename, "varname": crtg_varname});
+			});
+			function crtg_getCookie(c_name){
+				var i,x,y,ARRCookies=document.cookie.split(";");for(i=0;i<ARRCookies.length;i++){x=ARRCookies[i].substr(0,ARRCookies[i].indexOf("="));y=ARRCookies[i].substr(ARRCookies[i].indexOf("=")+1);x=x.replace(/^\s+|\s+$/g,"");if(x==c_name){return unescape(y);} }return'';
+			}
+			var crtg_content = crtg_getCookie(crtg_cookiename);
+		</script><script async="true" type="text/javascript" src="https://relap.io/api/v6/head.js?token=HvaPHeJmpVila25r"></script></head><body class="page_article  mode-adaptive"><div class="l-wr-page" id="wrPage"><!-- Google Tag Manager noscript -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-N5NCZ4"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager noscript -->
+
+<div class="invisible" style="position:absolute;"><!-- tns-counter.ru -->
+<script type="text/javascript">
+	(function(win, doc, cb){
+		(win[cb] = win[cb] || []).push(function() {
+			try {
+				tnsCounterRian_ru = new TNS.TnsCounter({
+				'account':'rian_ru',
+				'tmsec': 'rian_world'
+				});
+			} catch(e){}
+		});
+
+		var tnsscript = doc.createElement('script');
+		tnsscript.type = 'text/javascript';
+		tnsscript.async = true;
+		tnsscript.src = ('https:' == doc.location.protocol ? 'https:' : 'http:') + 
+			'//www.tns-counter.ru/tcounter.js';
+		var s = doc.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(tnsscript, s);
+	})(window, this.document,'tnscounter_callback');
+</script>
+<noscript>
+	<img src="//www.tns-counter.ru/V13a****rian_ru/ru/UTF-8/tmsec=rian_world/" width="0" height="0" alt="" />
+</noscript>
+<!--/ tns-counter.ru --><script type="text/javascript">
+				var _tmr = window._tmr || (window._tmr = []);
+				_tmr.push({id: "331653", type: "pageView", start: (new Date()).getTime()});
+				(function (d, w, id) {
+					if (d.getElementById(id)) return;
+					var ts = d.createElement("script");
+					ts.type = "text/javascript";
+					ts.async = true; ts.id = id;
+					ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+					var f = function () {
+						var s = d.getElementsByTagName("script")[0];
+						s.parentNode.insertBefore(ts, s);
+					};
+					if (w.opera == "[object Opera]") {
+						d.addEventListener("DOMContentLoaded", f, false);
+					} else {
+						f();
+					}
+				})(document, window, "topmailru-code");
+			</script><noscript><div style="position:absolute;left:-10000px;"><img src="//top-fwz1.mail.ru/counter?id=331653;js=na" style="border:0;" height="1" width="1" alt="Рейтинг@Mail.ru"></div></noscript><script language="JavaScript" type="text/javascript"><!--if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')--></script><noscript><img src="http://rianovosti.d1.sc.omtrdc.net/b/ss/rianovostidev/1/H.25.2−−NS/0?[AQB]&cdp=3&[AQE]" height="1" width="1" border="0" alt="" /></noscript></div><div class="b-top-bar" id="anchor_0"><div class="l-page-width"><a class="b-top-bar__home" href="http://xn--c1acbl2abdlkab1og.xn--p1ai/" target="_blank"><span><img src="https://cdn2.img.ria.ru/i/top_line_logo_mia.svg"></span></a><a class="b-top-bar__login" data-modal-open="authorization" title="Авторизация"><span></span></a><div class="b-userpanel" style="display: none;"><div class="b-userpanel__user" data-provider=""><span class="b-userpanel__events-btn m-nodata" count=""><span></span></span><a class="b-userpanel__user-button"><span class="b-userpanel__user-ava"><img src="https://cdn1.img.ria.ru/i/default_avatar_50x50.png"></span><span class="b-userpanel__user-name"></span></a><div class="b-userpanel__nav"><ul><li class="b-userpanel__nav-item"><a href="/id/lenta/">Лента</a></li><li class="b-userpanel__nav-item"><a href="/id/profile/">Профиль</a></li><li class="b-userpanel__nav-item"><a class="b-userpanel__nav-logout"><span>Выход</span></a></li></ul></div><div class="b-userpanel__events"><ul class="b-userpanel__events-list"></ul><div class="b-userpanel__events-more"><a href="/id/lenta/">Еще</a></div></div></div></div><!--# include virtual="/services/ssi/get_region_weather/" --><ul class="b-top-bar__projects_list"><li><a href="http://inosmi.ru/" target="_blank"><span>ИноСМИ</span></a></li><li><a href="http://www.1prime.ru/" target="_blank"><span>ПРАЙМ</span></a></li><li><a href="https://rsport.ria.ru"><span>Р-Спорт</span></a></li><li><a href="http://realty.ria.ru/"><span>РИА Недвижимость</span></a></li><li><a href="http://www.riarating.ru/" target="_blank"><span>РИА Рейтинг</span></a></li></ul><div class="b-top-bar__social"><a class="b-top-bar__social-vk" href="http://vk.com/ria" target="_blank"><span></span></a><a class="b-top-bar__social-fb" href="http://www.facebook.com/rianru" target="_blank"><span></span></a><a class="b-top-bar__social-tw" href="http://twitter.com/rianru" target="_blank"><span></span></a><a class="b-top-bar__social-ok" href="http://www.odnoklassniki.ru/ria" target="_blank" rel="nofollow"><span></span></a><a class="b-top-bar__social-tt" href="http://tamtam.chat/rian_ru" target="_blank"><span></span></a></div></div></div><div class="l-page"><noindex><div class="l-branding"><div class="l-branding__img" id="brandingImg"></div></div></noindex><noindex><div class="l-banner-place m-desktop m-on-header"><div class="l-page-width"><div class="b-banner m-banner__on-header stub-remove"><div class="b-banner__3 b-banner__loader" data-bpos="3" id="banner_pos_3"><div class="b-banner__content"><!--AdFox START--> 
+<!--riaru--> 
+<!--Площадка: ria.ru / * / *--> 
+<!--Тип баннера: 1000x--> 
+<!--Расположение: 1001_ria_bn1--> 
+<div id="adfox_1482221541402530"></div> 
+<script>
+window.Ya.adfoxCode.createAdaptive({
+	ownerId: 249922,
+	containerId: 'adfox_1482221541402530',
+	params: {
+		pp: 'ion',
+		ps: 'chyo',
+		p2: 'fliq',
+		puid1: '',
+		pk: decodeURIComponent(crtg_content)
+	}
+}, ['desktop'], { tabletWidth: 1023, phoneWidth: 0 });
+</script>
+
+
+<!--AdFox START-->
+<!--riaru-->
+<!--Площадка: ria.ru / * / *-->
+<!--Тип баннера: Бекграунд-->
+<!--Расположение: 1012_bn12-->
+<div id="adfox_149207540878683371"></div>
+<script>
+    window.Ya.adfoxCode.createAdaptive({
+        ownerId: 249922,
+        containerId: 'adfox_149207540878683371',
+        params: {
+            pp: 'kbx',
+            ps: 'chyo',
+            p2: 'fmui',
+            puid1: ''
+        },
+       onRender : function(options){
+                        $('#'+options.containerId+'').parents('.b-banner:first').addClass('not-border');
+                        $('.l-page').css('background','none');
+                        console.log('onRender '+options.containerId+' background banner');
+       },
+        onStub : function(options){
+		console.log('onStub '+options.containerId+' background banner');
+	}
+    }, ['desktop'], { tabletWidth: 1023, phoneWidth: 0 });
+</script></div></div></div></div></div></noindex><div class="b-header"><div class="l-page-width"><div class="l-page-width__ledge"><img class="b-header__bg-img" src="https://cdn2.img.ria.ru/i/header_bg.jpg?0000465"><a class="b-header__logo-link" href="/"><img src="https://cdn2.img.ria.ru/i/ria_logo.svg?0000465"></a><a class="b-header__menu-button"><span></span></a><div class="b-header__layer"><div class="b-header__search"><form action="/search/" method="get"><div class="b-header__search-nav"><span></span></div><div class="b-header__search-input"><input type="text" id="search" name="query" title="Поиск" placeholder="Поиск"></div><div cla
+10000
+ss="b-header__search-button"><span></span><input class="search_button" type="submit" value="Искать"></div></form></div><div class="b-header__social"><a class="b-header__social-expand"><span></span></a><ul><li class="b-header__social-vk"><a href="http://vk.com/ria" target="_blank"><span></span></a></li><li class="b-header__social-fb"><a href="http://www.facebook.com/rianru" target="_blank"><span></span></a></li><li class="b-header__social-tw"><a href="http://twitter.com/rianru" target="_blank"><span></span></a></li><li class="b-header__social-ok"><a href="http://www.odnoklassniki.ru/ria" target="_blank" rel="nofollow"><span></span></a></li><li class="b-header__social-tt"><a href="http://tamtam.chat/rian_ru" target="_blank"><span></span></a></li><li class="b-header__social-ig"><a href="http://instagram.com/ria_novosti" target="_blank" rel="nofollow"><span></span></a></li><li class="b-header__social-yt"><a href="http://www.youtube.com/rianovosti" target="_blank"><span></span></a></li><li class="b-header__social-bn"><a href="http://twitter.com/riabreakingnews" target="_blank"><span></span></a></li></ul></div><div class="b-header__radio"><a href="/radio/"><s></s><span>Радио<span>Sputnik</span></span><i></i></a></div></div></div></div></div><div class="l-wr-main"><div class="b-hide-slide"></div><div class="b-slide"><div class="b-slide-menu"><div class="b-slide-menu__radio"><a href="/radio/"><s></s><span>Радио Sputnik</span><i></i></a></div><div class="b-slide-menu__project"><div><span>Проекты</span></div><ul><li><a href="http://inosmi.ru/" target="_blank"><span>ИноСМИ</span></a></li><li><a href="http://www.1prime.ru/" target="_blank"><span>ПРАЙМ</span></a></li><li><a href="https://rsport.ria.ru"><span>Р-Спорт</span></a></li><li><a href="http://realty.ria.ru/"><span>РИА Недвижимость</span></a></li><li><a href="http://www.riarating.ru/" target="_blank"><span>РИА Рейтинг</span></a></li></ul></div><div class="b-slide-menu__region"><div class="b-slide-menu__region-change modal-open-change-region"><span> </span><i></i></div><a class="b-slide-menu__region-current js-region-href" href="/lenta/location_New_Zealand"><span class="js-region-name">Новая Зеландия</span></a></div><div class="b-slide-menu__theme"><div class="b-slide-menu__theme-switch"><span></span><i></i></div><div class="b-slide-menu__theme-title"><span>Сменить фон</span></div></div><div class="b-main-nav"><div class="l-page-width"><div class="l-page-width__ledge"><ul class="b-main-nav__main" data-url="world"><li class="b-main-nav__main-item" data-point="0"><a href="/" class="b-main-nav__main-link" data-point="0"><span>Главное</span></a><div class="b-main-nav__sub l-page-width"><div class="l-page-width__ledge m-ledge-blue"><ul><li class="b-main-nav__sub-item"><a href="https://ria.ru/sanctions/" class="b-main-nav__sub-link" data-main-point="0"><span>Реакция на санкции</span></a></li><li class="b-main-nav__sub-item"><a href="/trend/ship-pogodin-arrest-13082018/" class="b-main-nav__sub-link" data-main-point="0"><span>Задержание судна "Механик Погодин" на Украине</span></a></li><li class="b-main-nav__sub-item"><a href="http://ria.ru/syria/" class="b-main-nav__sub-link" data-main-point="0"><span>Война в Сирии</span></a></li><li class="b-main-nav__sub-item"><a href="/trend/ukraine-ria-novosti-15052018/" class="b-main-nav__sub-link" data-main-point="0"><span>Задержание Кирилла Вышинского</span></a></li><li class="b-main-nav__sub-item"><a href="/trend/belta-news-case-07082018/" class="b-main-nav__sub-link" data-main-point="0"><span>Скандал вокруг доступа к новостям Белты</span></a></li><li class="b-main-nav__sub-item"><a href="/trend/moscow-sisters-murder-father-03082018/" class="b-main-nav__sub-link" data-main-point="0"><span>Дело об убийстве тремя сестрами отца в Москве</span></a></li><li class="b-main-nav__sub-item"><a href="/trend/usa-russia-expansion-sanctions-15032018/" class="b-main-nav__sub-link" data-main-point="0"><span>Расширение санкций США против России</span></a></li><li class="b-main-nav__sub-item"><a href="/trend/case-torture-jail-23072018/" class="b-main-nav__sub-link" data-main-point="0"><span>Дело о пытках в ярославской колонии</span></a></li></ul></div></div></li><li class="b-main-nav__main-item" data-point="1"><div class="b-main-nav__main-drop"><span> </span></div><a href="/politics/" class="b-main-nav__main-link" data-point="1"><span>Политика</span></a><div class="b-main-nav__sub l-page-width"><div class="l-page-width__ledge m-ledge-blue"><ul><li class="b-main-nav__sub-item"><a href="https://ria.ru/election2018/" class="b-main-nav__sub-link" data-point="1"><span>Выборы 2018</span></a></li><li class="b-main-nav__sub-item"><a href="/defense_safety/" class="b-main-nav__sub-link" data-point="1"><span>Безопасность</span></a></li><li class="b-main-nav__sub-item"><a href="/arms/" class="b-main-nav__sub-link" data-point="1"><span>Новое оружие России</span></a></li></ul></div></div></li><li class="b-main-nav__main-item" data-point="2"><div class="b-main-nav__main-drop"><span> </span></div><a href="/society/" class="b-main-nav__main-link" data-point="2"><span>Общество</span></a><div class="b-main-nav__sub l-page-width"><div class="l-page-width__ledge m-ledge-blue"><ul><li class="b-main-nav__sub-item"><a href="/sn/" class="b-main-nav__sub-link" data-point="2"><span>Социальный навигатор</span></a></li><li class="b-main-nav__sub-item"><a href="https://ria.ru/trend/Russia_WCIOM_polls_21112016/" class="b-main-nav__sub-link" data-point="2"><span>"Общественные мнения"</span></a></li><li class="b-main-nav__sub-item"><a href="/sn_volunteers/" class="b-main-nav__sub-link" data-point="2"><span>Год волонтера</span></a></li></ul></div></div></li><li class="b-main-nav__main-item" data-point="3"><div class="b-main-nav__main-drop"><span> </span></div><a href="/economy/" class="b-main-nav__main-link" data-point="3"><span>Экономика</span></a><div class="b-main-nav__sub l-page-width"><div class="l-page-width__ledge m-ledge-blue"><ul><li class="b-main-nav__sub-item"><a href="/company/" class="b-main-nav__sub-link" data-point="3"><span>Новости компаний</span></a></li><li class="b-main-nav__sub-item"><a href="/legprom/" class="b-main-nav__sub-link" data-point="3"><span>Легкая промышленность</span></a></li><li class="b-main-nav__sub-item"><a href="/lpk/" class="b-main-nav__sub-link" data-point="3"><span>Лесная промышленность</span></a></li><li class="b-main-nav__sub-item"><a href="/avto/" class="b-main-nav__sub-link" data-point="3"><span>Авто</span></a></li><li class="b-main-nav__sub-item"><a href="/himprom/" class="b-main-nav__sub-link" data-point="3"><span>Химическая промышленность </span></a></li></ul></div></div></li><li class="b-main-nav__main-item" data-point="4"><a href="/world/" class="b-main-nav__main-link" data-point="4"><span>В мире</span></a><div class="b-main-nav__sub l-page-width"><div class="l-page-width__ledge m-ledge-blue"><ul></ul></div></div></li><li class="b-main-nav__main-item" data-point="5"><a href="/incidents/" class="b-main-nav__main-link" data-point="5"><span>Происшествия</span></a><div class="b-main-nav__sub l-page-width"><div class="l-page-width__ledge m-ledge-blue"><ul></ul></div></div></li><li class="b-main-nav__main-item" data-point="6"><a href="https://rsport.ria.ru/" class="b-main-nav__main-link" data-point="6"><span>Спорт</span></a><div class="b-main-nav__sub l-page-width"><div class="l-page-width__ledge m-ledge-blue"><ul></ul></div></div></li><li class="b-main-nav__main-item" data-point="7"><div class="b-main-nav__main-drop"><span> </span></div><a href="/science/" class="b-main-nav__main-link" data-point="7"><span>Наука</span></a><div class="b-main-nav__sub l-page-width"><div class="l-page-width__ledge m-ledge-blue"><ul><li class="b-main-nav__sub-item"><a href="/ecology/" class="b-main-nav__sub-link" data-point="7"><span>Экология</span></a></li><li class="b-main-nav__sub-item"><a href="/ecomap/" class="b-main-nav__sub-link" data-point="7"><span>Экологическая карта России</span></a></li><li class="b-main-nav__sub-item"><a href="https://ria.ru/science/20160825/1475271649.html" class="b-main-nav__sub-link" data-point="7"><span>Экология мегаполиса</span></a></li><li class="b-main-nav__sub-item"><a href="/atomtec/" class="b-main-nav__sub-link" data-point="7"><span>Ядерные технологии</span></a></li><li class="b-main-nav__sub-item"><a href="/technology/" class="b-main-nav__sub-link" data-point="7"><span>Технологии</span></a></li><li class="b-main-nav__sub-item"><a href="https://ria.ru/cosmosVDNH/" class="b-main-nav__sub-link" data-point="7"><span>"Космос" на ВДНХ</span></a></li></ul></div></div></li><li class="b-main-nav__main-item" data-point="8"><div class="b-main-nav__main-drop"><span> </span></div><a href="/culture/" class="b-main-nav__main-link" data-point="8"><span>Культура</span></a><div class="b-main-nav__sub l-page-width"><div class="l-page-width__ledge m-ledge-blue"><ul><li class="b-main-nav__sub-item"><a href="/museum/" class="b-main-nav__sub-link" data-point="8"><span>Музеи меняют мир</span></a></li></ul></div></div></li><li class="b-main-nav__main-item" data-point="9"><a href="http://ria.ru/religion/" class="b-main-nav__main-link" data-point="9"><span>Религия</span></a><div class="b-main-nav__sub l-page-width"><div class="l-page-width__ledge m-ledge-blue"><ul></ul></div></div></li><li class="b-main-nav__main-item" data-point="10"><div class="b-main-nav__main-drop"><span> </span></div><a href="/tourism/" class="b-main-nav__main-link" data-point="10"><span>Туризм</span></a><div class="b-main-nav__sub l-page-width"><div class="l-page-width__ledge m-ledge-blue"><ul><li class="b-main-nav__sub-item"><a href="/tourism_news/" class="b-main-nav__sub-link" data-point="10"><span>Новости</span></a></li><li class="b-main-nav__sub-item"><a href="/tourism_problems/" class="b-main-nav__sub-link" data-point="10"><span>Проблемы</span></a></li><li class="b-main-nav__sub-item"><a href="/tourism_navigator/" class="b-main-nav__sub-link" data-point="10"><span>Маршруты</span></a></li><li class="b-main-nav__sub-item"><a href="/tourism_celebrity/" class="b-main-nav__sub-link" data-point="10"><span>Звезды</span></a></li><li class="b-main-nav__sub-item"><a href="/tourism_food/" class="b-main-nav__sub-link" data-point="10"><span>Еда</span></a></li><li class="b-main-nav__sub-item"><a href="/tourism_anons/" class="b-main-nav__sub-link" data-point="10"><span>Анонсы</span></a></li><li class="b-main-nav__sub-item"><a href="/tourism_impression/" class="b-main-nav__sub-link" data-point="10"><span>Впечатления</span></a></li><li class="b-main-nav__sub-item"><a href="/tourism_visual/" class="b-main-nav__sub-link" data-point="10"><span>Фото</span></a></li></ul></div></div></li><li class="b-main-nav__main-item sputnik-radio"><a href="/radio/" class="b-main-nav__main-link"><span><s></s>Радио SPUTNIK<i></i></span></a></li></ul></div></div></div></div></div><div class="b-content-body"><div class="b-middle-bar l-page-width"></div><div class="l-content-page"><div class="l-banner-place m-mobile"><div class="l-page-width"><div class="b-banner m-banner__commerce"><div class="b-banner__59 b-banner__loader" data-bpos="59" id="banner_pos_59"><div class="b-banner__content"><!--AdFox START-->
+<!--riaru-->
+<!--Площадка: ria.ru / * / *-->
+<!--Тип баннера: Fullscreen-->
+<!--Расположение: 1018_bn18-->
+<div id="adfox_14823161054312"></div>
+<script>
+    window.Ya.adfoxCode.createAdaptive({
+        ownerId: 249922,
+        containerId: 'adfox_14823161054312',
+        params: {
+            pp: 'jgd',
+            ps: 'chyo',
+            p2: 'fmks',
+            puid1: ''
+        }
+    }, ['tablet'], { tabletWidth: 1023, phoneWidth: 0 });
+</script>
+
+
+
+<!--AdFox START-->
+<!--riaru-->
+<!--Площадка: ria.ru / * / *-->
+<!--Тип баннера: 300x-->
+<!--Расположение: 1011_bn11-->
+<div id="adfox_15123822274077463"></div>
+<script>
+    window.Ya.adfoxCode.createScroll({
+        ownerId: 249922,
+        containerId: 'adfox_15123822274077463',
+        params: {
+            pp: 'ipa',
+            ps: 'chyo',
+            p2: 'flng',
+            puid1: '',
+            puid2: '',
+            puid3: ''
+        }
+    }, ['tablet'], {
+        tabletWidth: 1023,
+        phoneWidth: 0
+    });
+</script>
+
+
+</div></div></div></div></div><div class="l-page-width"><div class="l-page-width__ledge m-ledge-dark"><div class="b-page-title "><div class="b-page-title__text"><a href="/world/">В мире</a></div></div></div></div><div class="l-page-width"><div class="l-page-width__ledge"><div class="l-slide-columns"><div class="l-main-column"><div class="b-article" itemscope="" itemtype="http://schema.org/Article"><meta content="2018-08-13T23:04Z" itemprop="datePublished"><meta content="2018-08-13T23:39Z" itemprop="dateModified"><meta content="/world/20180813/1526479787.html" itemprop="mainEntityOfPage"><div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization"><meta itemprop="name" content="'РИА Новости'"><span itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject"><meta itemprop="url" content="https://ria.ru/i/ria_logo.png"><meta itemprop="width" content="216"><meta itemprop="height" content="32"></span></div><div itemprop="author" itemscope="" itemtype="http://schema.org/Organization"><meta itemprop="name" content="'РИА Новости'"><meta itemprop="logo" content="'https://ria.ru/i/ria_logo.png'"></div><div class="b-article__main"><div class="b-article__ind"><h1 class="b-article__title" itemprop="headline"><span>США заморозили выполнение Договора по открытому небу с Россией</span></h1><div class="b-article__info"><div class="b-article__info-date" itemprop="datePublished" content="2018-08-13T23:04Z"><span class="b-article__info-time">23:04</span><span>13.08.2018</span></div><div class="b-article__info-date-update"><span> (обновлено: <span class="b-article__info-date-update-color" itemprop="dateModified" content="2018-08-13T23:39Z" datetime="2018-08-13T23:39Z">23:39 13.08.2018</span>)</span></div><div class="b-article__info-statistic"><span class="b-statistic"><span class="b-statistic__item m-comments" data-article-id="1526479787"><span class="b-statistic__icon"></span><span class="b-statistic__number">8</span></span><span class="b-statistic__item m-views" data-article-id="1526479787"><span class="b-statistic__icon"></span><span class="b-statistic__number">28834</span></span><span class="b-statistic__item m-like" data-article-id="1526479787"><span class="b-statistic__icon"></span><span class="b-statistic__number">86</span></span><span class="b-statistic__item m-dislike" data-article-id="1526479787"><span class="b-statistic__icon"></span><span class="b-statistic__number">266</span></span></span></div></div><div class="b-article__announce"><meta itemprop="image" content="https://ria.ru/images/152189/93/1521899354.jpg"><div class="b-media"><div class="b-media__size"><div class="b-share-media b-share-media__default" data-url="https://ria.ru/world/20180813/1526479787.html?share-img=1497209104"><div class="l-photoview__open" data-photoview_group="1526479787" data-photoview_src="https://cdn4.img.ria.ru/images/152189/93/1521899354.jpg" data-photoview_sharelink="https://ria.ru/world/20180813/1526479787.html?share-img=1497209104"><span class="l-photoview__copy-data"><span><a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a> / <a href="https://www.flickr.com/photos/offutt_afb/5596235438/in/photolist-9wwaPU-9akkSZ-9wwaqm-9wtaz4-aMXbhV-aMXbPZ-aMX9NH-Zip5FV">U.S. Air Force Photo by Josh Plueger</a> / </span></span><span class="l-photoview__extlink-data"></span><span class="l-photoview__desc-data"><span>Американский самолет судного дня Boeing E-4B. Архивное фото</span></span><img src="https://cdn3.img.ria.ru/images/152189/93/1521899363.jpg" alt="Американский самолет судного дня Boeing E-4B. Архивное фото" title="Американский самолет судного дня Boeing E-4B. Архивное фото"></div></div></div><div class="b-media-copyright "><div class="b-media-copyright__copy"><span><a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a> / <a href="https://www.flickr.com/photos/offutt_afb/5596235438/in/photolist-9wwaPU-9akkSZ-9wwaqm-9wtaz4-aMXbhV-aMXbPZ-aMX9NH-Zip5FV">U.S. Air Force Photo by Josh Plueger</a> / </span></div></div></div></div><div class="b-article__lead" itemprop="description"></div><div class="b-article__body js-mediator-article mia-analytics" itemprop="articleBody"><p><strong>ВАШИНГТОН, 13 авг &ndash; РИА Новости.</strong> США заморозили сотрудничество с&nbsp;Россией в&nbsp;рамках Договора по&nbsp;открытому небу, пока Москва не&nbsp;вернется к&nbsp;его соблюдению. Об этом говорится в&nbsp;тексте оборонного бюджета, который ранее подписал американский президент Дональд Трамп.<div id="inject_1511941805" class="b-inject b-inject__type-article"><div class="b-inject__article m-right-align"><a href="/radio_brief/20171229/1511941805.html?inj=1" target="_blank"><div class="b-inject__article-photo"><img src="https://cdn4.img.ria.ru/images/151186/14/1511861469.jpg" alt="Самолет Ту-214" title="Самолет Ту-214"></div></a><div class="b-inject__article-desc"><div class="b-media-copyright "><div class="b-media-copyright__copy"><span><a href="https://www.flickr.com/photos/joseluiscel/">© Flickr / José Luis Celada Euba</a></span></div></div><div class="b-inject__article-title"><a href="/radio_brief/20171229/1511941805.html?inj=1" target="_blank">"Логику США не разберешь". Военный эксперт о Договоре по открытому небу</a></div></div></div></div></p>
+<p>"Ни один из&nbsp;фондов не&nbsp;может быть использован для&nbsp;финансирования в&nbsp;2019 бюджетном году для&nbsp;развития, испытаний&hellip; в&nbsp;рамках Договора по&nbsp;открытому небу, пока президент не&nbsp;представит соответствующим комитетам Конгресса соответствующий сертификат",&nbsp;&mdash; следует из&nbsp;документа. Там же уточняется, что под&nbsp;сертификатом подразумевается снятие ограничений с&nbsp;Россией после оценки выполнения ею Договора по&nbsp;открытому небу.</p>
+<p>Ответственность за&nbsp;оценку выполнения данного требования, согласно закону, возлагается на&nbsp;госсекретаря США.</p><div class="b-banner "><div class="b-banner__57 b-banner__loader" data-bpos="57" id="banner_pos_57"><div class="b-banner__content"><!--AdFox START-->
+<!--riaru-->
+<!--Площадка: ria.ru / * / *-->
+<!--Тип баннера: 700x-->
+<!--Расположение: 1015_bn15-->
+<div id="adfox_153147870108627706"></div>
+<script>
+    window.Ya.adfoxCode.create({
+        ownerId: 249922,
+        containerId: 'adfox_153147870108627706',
+        params: {
+            pp: 'nww',
+            ps: 'chyo',
+            p2: 'flvd',
+            puid1: '',
+            puid2: '',
+            puid3: ''
+        }
+    });
+</script></div></div></div><div class="l-banner-place m-desktop"><div id="relap-inset-0"></div></div><div class="l-banner-place m-mobile"><div id="relap-inset-2"></div></div>
+<h2>Суть договора</h2>
+<p>Договор по&nbsp;открытому небу подписали 23 страны-члены ОБСЕ в&nbsp;1992 году. Россия ратифицировала его спустя девять лет, в&nbsp;2001 году. Участники договора получили возможность облетать территории друг друга для&nbsp;контроля военной активности.<div id="inject_1511923834" class="b-inject b-inject__type-article"><div class="b-inject__article m-right-align"><a href="/radio_brief/20171228/1511923834.html?inj=1" target="_blank"><div class="b-inject__article-photo"><img src="https://cdn1.img.ria.ru/images/147293/71/1472937152.jpg" alt="Самолет наблюдения США Boeing OC-135B Open Skies" title="Самолет наблюдения США Boeing OC-135B Open Skies"></div></a><div class="b-inject__article-desc"><div class="b-media-copyright "><div class="b-media-copyright__copy"><span><a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a> / <a href="https://www.flickr.com/photos/24874528@N04/">Airwolfhound</a> / <a href="https://www.flickr.com/photos/24874528@N04/4353739824/in/photolist-7CJ4aJ-8LuoAC-kMNumP-qtcHCF-qUXTny-m7DV8P-atsfVE-fXpkW8-amzqwb-s7SJBC-ntDxri-oGwgM5-fr9RZt-eRLjp9-qos1Yt-qKc4JG-qUZEW7-atsfVL-8LuoHy-W85oxP-id8EMH-SwbNmk-huH3SF-DZ8PGN-XXnAm9-eg1AJz-DZB7du-Tb1xuq-espmDA-frRHyU-Tb1EJq-E19EUy-DXeGE7-76Wsve-7zgmPS-7zgn1s-7zgmZu-7zczVr-ThAPAG-ThAPHL-a8dx4M-7zgmQq-oYsAw9-68uei1-7zgmRq-UmQy8u-ek9qFn-ajae3s-56n3Ne-aiTUTp">OC-135B Open Skies - RAF Mildenhall Feb 2010</a></span></div></div><div class="b-inject__article-title"><a href="/radio_brief/20171228/1511923834.html?inj=1" target="_blank">Эксперт о ситуации с Договором по открытому небу: уровень доверия снижается</a></div></div></div></div></p>
+<p>Согласно документу, самолет наблюдения не&nbsp;может быть оснащен каким-либо вооружением. Лайнер и&nbsp;установленная на&nbsp;нем аппаратура должны проходить международное освидетельствование. При этом на&nbsp;борту, по&nbsp;условиям договора, обязательно находятся представители того государства, над&nbsp;территорией которого проходит полет.</p>
+<p>В прошлом году в&nbsp;Госдепе заявили, что с&nbsp;2004 года якобы фиксируют нарушение Россией условий Договора, а&nbsp;20 июня прошлого года формально обозначили претензии по&nbsp;трем пунктам.</p>
+<p>Среди них ограничения на&nbsp;полеты над&nbsp;Калининградской областью, запрет на&nbsp;полеты вдоль десятикилометрового коридора на&nbsp;границах России с&nbsp;Южной Осетией и&nbsp;Абхазией, а&nbsp;также отклонение от&nbsp;согласованных маршрутов под&nbsp;предлогом форс-мажора.</p>
+<p>С начала текущего года Россия ввела ответные ограничения для&nbsp;американских наблюдателей. Так, Москва уменьшила число аэродромов, которые можно использовать американским самолетам-наблюдателям.</p></div><noindex><div class="l-banner-place m-desktop-mid"><div class="m-tac"><div class="b-banner m-inline m-active"><div class="b-banner__72 b-banner__loader" data-bpos="72" id="banner_pos_72"><div class="b-banner__content"><!--AdFox START-->
+<!--riaru-->
+<!--Площадка: ria.ru / * / *-->
+<!--Тип баннера: 700x-->
+<!--Расположение: 1021_bn21-->
+<div id="adfox_1488807491695211"></div>
+<script>
+    window.Ya.adfoxCode.create({
+        ownerId: 249922,
+        containerId: 'adfox_1488807491695211',
+        params: {
+            pp: 'jue',
+            ps: 'chyo',
+            p2: 'flvd',
+            puid1: ''
+        }
+    });
+</script>
+</div></div></div></div></div><div class="l-banner-place m-mobile-mid"><div class="m-tac"><div class="b-banner m-inline m-active"><div class="b-banner__73 b-banner__loader" data-bpos="73" id="banner_pos_73"><div class="b-banner__content"><!--AdFox START-->
+<!--riaru-->
+<!--Площадка: ria.ru / * / *-->
+<!--Тип баннера: 700x-->
+<!--Расположение: 1022_bn22-->
+<div id="adfox_1488879421641755"></div>
+<script>
+    window.Ya.adfoxCode.create({
+        ownerId: 249922,
+        containerId: 'adfox_1488879421641755',
+        params: {
+            pp: 'juf',
+            ps: 'chyo',
+            p2: 'flvd',
+            puid1: ''
+        }
+    });
+</script>
+</div></div></div></div></div></noindex><div class="b-article__bottom"><div class="b-sharebar b-sharebar__default b-sharebar__mobile-fixed" data-url="https://ria.ru/world/20180813/1526479787.html"></div><div class="b-article__bottom-bg"><div class="b-social-userbar"><div class="b-social-userbar__likes"><div class="b-buttons-likes " data-param="article_id" data-id="1526479787" data-value="" data-likes="86" data-dislikes="266"><a class="b-buttons-likes__button m-like"><i></i><span class="b-buttons-likes__count">86</span></a><a class="b-buttons-likes__button m-dislike"><i></i><span class="b-buttons-likes__count">266</span></a></div></div><div class="b-social-userbar__to-comment"><a><span>Комментировать</span></a></div></div><div class="b-article__bottom-rubric"><a href="/world/"><span>В мире</span></a></div><div class="b-article__tags"><ul class="b-article__tags-list"><li class="b-article__tags-item"><a href="/tags/location_Russia/"><span>#Россия</span></a></li><li class="b-article__tags-item"><a href="/tags/location_United_States/"><span>#США</span></a></li></ul></div></div></div><noindex><div class="l-banner-place"><div class="b-banner "><div class="b-banner__11 b-banner__loader" data-bpos="11" id="banner_pos_11"><div class="b-banner__content"><!--AdFox START-->
+<!--adsmart-->
+<!--Площадка: Ria.ru / all_pages / adsmart-->
+<!--Категория: AdSmart  News-->
+<!--Тип баннера: adsmart-->
+<div id="adfox_1486555587738017"></div>
+<script>
+    window.Ya.adfoxCode.createScroll({
+        ownerId: 1435,
+        containerId: 'adfox_1486555587738017',
+        params: {
+            p1: 'bqmtd',
+            p2: 'ul',
+            puid1: '',
+            puid3: '',
+            puid4: '',
+            puid5: '',
+            puid6: ''
+        }
+    });
+</script> </div></div></div><div class="b-banner "><div class="b-banner__12 b-banner__loader" data-bpos="12" id="banner_pos_12"><div class="b-banner__content"><div style="text-align:center;">
+<div id="yandex_rtb" style="display: inline-block;"></div>
+</div>
+<script type="text/javascript">
+(function(w, d, n, s, t) {
+if (window.matchMedia("only screen and (max-device-width: 600px)").matches){var m= "R-A-207485-1";}
+else{var m= "R-A-38690-9";}
+w[n] = w[n] || [];
+w[n].push(function() {
+Ya.Context.AdvManager.render({
+blockId: m,
+renderTo: "yandex_rtb",
+async: true
+});
+});
+t = d.getElementsByTagName("script")[0];
+s = d.createElement("script");
+s.type = "text/javascript";
+s.src = "//an.yandex.ru/system/context.js";
+s.async = true;
+t.parentNode.insertBefore(s, t);
+})(this, this.document, "yandexContextAsyncCallbacks");
+</script>
+</div></div></div></div></noindex><div class="b-comments " data-article_id="1526479787"><div class="b-comments__title"><span>Комментарии</span></div><div class="b-comments__users-stat"><span><i>8</i> 
+			пользователей
+		 оставили <i>8</i> 
+			комментариев
+		</span></div><div class="b-comments__create-top-place"><div class="b-comments__button-comment"><a data-place="top"><span>Комментировать</span></a></div><div class="b-comments__create" style="display: none;"><form class="b-comments__create-form"><img src="https://cdn1.img.ria.ru/i/default_avatar_50x50.png" width="50" height="50" class="b-comments__create-form-avatar"><input type="hidden" name="article_id" value="1526479787"><input type="hidden" name="parent_id" value=""><input type="hidden" name="generated_id" value=""><input type="hidden" name="list_sid" value="world"><div class="b-comments__create-form-ind"><textarea class="b-comments__create-form-textarea" name="comment" placeholder="Оставьте свой комментарий" rows="4"></textarea><div class="b-comments__create-form-opt"><a data-modal-open="commenting_rules"><span>Правила комментирования материалов</span></a></div><div class="b-comments__create-form-submit" data-email-validation="ERROR" data-email=""><input class="b-action-button" type="submit" value="Добавить"></div></div></form><div class="b-comments__create-success"><div class="b-comments__create-success-text"><span>Спасибо!<br>Ваш комментарий будет проверен модератором<br>на предмет соответствия <a data-modal-open="commenting_rules">Правилам</a>.</span></div><div class="b-comments__create-add-more"><a class="b-action-button"><span>Добавить еще</span></a></div></div></div></div><div class="b-comments__all-lists-place"><div class="b-comments__tabs"><div class="b-comments__tabs-list"><a class="b-comments__tabs-point m-active" data-tabs="m-top-list"><span>Популярные комментарии</span></a><a class="b-comments__tabs-point m-desc" data-tabs="m-main-list"><span>Все комментарии</span><i></i></a></div><div class="b-comments__tabs-content m-desc m-active" data-tabs="m-top-list"><div class="b-comments__list m-desc m-top-list" itemscope="" itemtype="http://schema.org/UserComments"><div class="b-comments__list-items"><div class="b-comments__list-tree"><div class="b-comments__item m-first-level" data-id="5b71e5a861fa008c10bcc143" data-ts="1534191016" data-generated-id="10001" data-likes="1" data-user="5140def2cdb873c41e000000" itemtype="http://schema.org/Comment" itemscope=""><div class="b-comments__item-light"></div><div class="b-comments__comment"><a href="/id/user/5140def2cdb873c41e000000/"><img src="https://cdn1.img.ria.ru/userpic/5140def2cdb873c41e000000.png?1501656745" width="50" height="50" class="b-comments__item-avatar"></a><div class="b-comments__item-ind"><div class="b-comments__item-head"><div class="b-comments__item-auth-controls" style="display: none;"><a class="b-comments__item-controls-delete" data-id="5b71e5a861fa008c10bcc143"><i></i></a><a class="b-comments__item-controls-edit" data-id="5b71e5a861fa008c10bcc143"><i></i></a></div><a href="/id/user/5140def2cdb873c41e000000/" class="b-comments__item-author"><span>Михаил Иванов</span></a></div><div class="b-comments__item-text" itemprop="text">Предлагаю вообще разорвать с США дипломатические отношения. Договариваться нам с ними не о чем.</div><div class="b-comments__item-info"><div class="b-comments__item-time"><span>23:10</span></div><div class="b-comments__item-date" datetime="2018-08-13"><span>13.08.2018</span></div><div class="b-comments__item-likes-view m-like"><span class="b-comments__item-likes-icon"></span><span class="b-comments__item-likes-number">1</span></div><div class="b-comments__item-controls"><a class="b-comments__item-controls-icons b-comments__item-controls-like " data-id="5b71e5a861fa008c10bcc143" data-generated_id="10001"><i></i></a><a class="b-comments__item-controls-icons b-comments__item-controls-dislike " data-id="5b71e5a861fa008c10bcc143" data-generated_id="10001"><i></i></a><a class="b-comments__item-controls-answer" data-id="5b71e5a861fa008c10bcc143" data-generated_id="10001"><span class="m-answer">Ответить</span><span class="m-close">Не отвечать</span></a></div><div class="b-comments__item-answer-collapse" style="display: none;"><a><span class="m-show">Показать комментарии</span><span class="m-hide">Скрыть комментарии</span><i></i></a></div></div></div></div></div><div class="b-comments__list-answer"><div class="b-comments__list-answer-load" data-parent_id="5b71e5a861fa008c10bcc143" style="display: none;"><a><span>Показать еще (<i>0</i>)</span></a></div></div></div></div></div></div><div class="b-comments__tabs-content m-desc" data-tabs="m-main-list"><div class="b-comments__list m-desc m-main-list" itemscope="" itemtype="http://schema.org/UserComments"><div class="b-comments__list-load m-top" style="display: none;"><a><span>Новые комментарии (<i>0</i>)</span></a></div><div class="b-comments__list-load" data-sort="desc" style="display: none;"><a><span>Следующие комментарии (<i>0</i>)</span></a></div></div></div></div><div class="b-comments__button-back"><a><span></span><i></i></a></div></div><div class="b-comments__create-bottom-place"><div class="b-comments__button-comment"><a data-place="bottom"><span>Комментировать</span></a></div></div><script type="text/javascript">$(function(){ if($.fn.riaComments instanceof Function ) { var pageComment = $('.b-comments'); GLOBAL.article = {}; GLOBAL.article.id = '1526479787'; pageComment.riaComments(); GLOBAL.riaComments = pageComment.data('riaComments'); if (typeof Comet != 'undefined') { Comet.listen('1526479787', 'comment', function(e, message){ pageComment.trigger('newcomment', [message]); }); } } });</script><div class="b-comments__empty-comment" style="display: none;"><div class="b-comments__item" data-id="" data-ts="" data-generated-id="" data-likes="" data-user="" itemtype="http://schema.org/Comment" itemscope=""><div class="b-comments_comment"><a href=""><img src="https://cdn1.img.ria.ru/i/default_avatar_50x50.png" width="50" height="50" class="b-comments__item-avatar"></a><div class="b-comments__item-ind"><div class="b-comments__item-head"><div class="b-comments__item-auth-controls"><a class="b-comments__item-controls-delete"><i></i></a><a class="b-comments__item-controls-edit"><i></i></a></div><a href="" class="b-comments__item-author"></a><span class="b-comments__item-answer"><span class="b-comments__item-answer-author"><i></i><a href=""></a></span></span></div><div class="b-comments__item-text" itemprop="text"></div><div class="b-comments__item-info"><div class="b-comments__item-time"></div><div class="b-comments__item-date"></div><div class="b-comments__item-likes-view"><span class="b-comments__item-likes-icon"></span><span class="b-comments__item-likes-number"></span></div><div class="b-comments__item-controls"><a class="b-comments__item-controls-like"><i></i></a><a class="b-comments__item-controls-dislike"><i></i></a><a class="b-comments__item-controls-answer"><span class="m-answer">Ответить</span><span class="m-close">Не отвечать</span></a></div><div class="b-comments__item-answer-collapse"><a><span class="m-show">Показать комментарии</span><span class="m-hide">Скрыть комментарии</span><i></i></a></div></div></div></div></div></div><div class="b-comments__empty-edit" style="display: none;"><form class="b-comments__edit-form"><textarea class="b-comments__edit-form-textarea" name="comment" rows="3"></textarea><input type="submit" class="b-action-button b-comments__edit-form--submit" value="Сохранить"><input type="hidden" name="article_id" value="1526479787"><input type="hidden" name="comment_id"></form><div class="b-comments__edit-success"><div class="b-comments__edit-success-text"><span>Спасибо!<br>Ваш комментарий будет проверен модератором<br>на предмет соответствия <a data-modal-open="commenting_rules">Правилам</a>.</span></div></div></div><div class="b-comments__empty-answer" style="display: none;"><form class="b-comments__answer-form"><img src="https://cdn1.img.ria.ru/i/default_avatar_50x50.png" width="50" height="50" class="b-comments__answer-form-avatar"><input type="hidden" name="article_id" value="1526479787"><input type="hidden" name="parent_id" value=""><input type="hidden" name="generated_id" value=""><input type="hidden" name="list_sid" value="world"><div class="b-comments__answer-form-ind"><textarea class="b-comments__answer-form-textarea" name="comment" placeholder="Оставьте свой комментарий" rows="4"></textarea><div class="b-comments__answer-form-opt"><a data-modal-open="commenting_rules"><span>Правила комментирования материалов</span></a></div><div class="b-comments__answer-form-submit"><input class="b-action-button" type="submit" value="Добавить"></div></div></form><div class="b-comments__answer-success"><div class="b-comments__answer-success-text"><span>Спасибо!<br>Ваш комментарий будет проверен модератором<br>на предмет соответствия <a data-modal-open="commenting_rules">Правилам</a>.</span></div></div></div></div></div></div></div><noindex><div class="l-banner-place zen-banner-place" id="gtm_zen_anchor"><style>
+						.zen-banner-place .widget{ width: auto; }
+						.zen-banner-place .widget__title,
+						.zen-banner-place .widget_need-edges .widget__title{margin-left: 17px; margin-right: 17px;}
+						.zen-banner-place .widget__cards-scroller{ padding: 12px 0 46px 17px; }
+						.zen-banner-place .widget-card{margin: 0 16px 0 0;}
+						.zen-banner-place .widget__edge{ top: 70px; }
+						@media screen and (min-width: 64em){
+						    .zen-banner-place .widget{ margin-left: 17px; }
+							.zen-banner-place .widget__title,
+							.zen-banner-place .widget_need-edges .widget__title{margin-left: 0; margin-right: 0;}
+							.zen-banner-place .widget__cards-scroller{ padding: 12px 0 46px 0; }
+						}
+					</style><div class="b-banner "><div class="b-banner__257 b-banner__loader" data-bpos="257" id="banner_pos_257"><div class="b-banner__content"><!--Яндекс.Дзен-->
+<div class="widget-container" style="position: relative; width: 100%;"></div>
+
+<script src="https://zen.yandex.ru/widget-loader" async="true"></script>
+<script>
+(function(w, n) {
+w[n] = w[n] || [];
+w[n].push(() => {
+w.YandexZen.renderWidget({
+clid: ['446', '447'], /* идентификатор партнера, должен быть получен в пункте 2 */
+container: '.widget-container', /* cелектор элемента или сам элемент, куда надо вставить виджет */
+successCallback: function () { /* вызывается при успешной вставке виджета */
+console.log('виджет вставлен успешно');
+},
+failCallback: function () { /* вызывается при неуспешной вставке виджета */
+console.log('проблема при встаки виджета, отреагируйте на нее');
+},
+});
+});
+})(window, 'yandexZenAsyncCallbacks');
+</script>
+</div></div></div></div></noindex><noindex><div id="gtm_relap_anchor"><div class="ria-popular"><div class="ria-popular__wrapper"><div class="ria-popular__title">Популярное</div><div class="ria-popular__items-container"><div class="ria-popular__item"><a class="ria-popular__item-link" data-position="1" href="/world/20180813/1526479226.html?recommend=b"><span class="ria-popular__item-img"><img src="https://cdn1.img.ria.ru/images/152491/79/1524917932.jpg" alt="Испытания межконтинентальной ракеты Сармат. Архивное фото" title="Испытания межконтинентальной ракеты Сармат. Архивное фото"></span><span class="ria-popular__item-container"><span class="ria-popular__item-info"><span class="ria-popular__item-date">22:39</span><span class="ria-popular__item-time">13.08.2018</span></span><span class="ria-popular__item-title">США намерены обсудить соответствие новых российских вооружений СНВ-3</span></span></a></div><div class="ria-popular__item"><a class="ria-popular__item-link" data-position="2" href="/society/20180813/1526479050.html?recommend=b"><span class="ria-popular__item-img"><img src="https://cdn2.img.ria.ru/images/152646/24/1526462431.jpg" alt="Певица Лайма Вайкуле. Архивное фото" title="Певица Лайма Вайкуле. Архивное фото"></span><span class="ria-popular__item-container"><span class="ria-popular__item-info"><span class="ria-popular__item-date">22:33</span><span class="ria-popular__item-time">13.08.2018</span></span><span class="ria-popular__item-title">В Совфеде уличили Вайкуле во лжи после ее слов о Крыме</span></span></a></div><div class="ria-popular__item"><a class="ria-popular__item-link" data-position="3" href="/syria/20180813/1526478453.html?recommend=b"><span class="ria-popular__item-img"><img src="https://cdn2.img.ria.ru/images/151226/03/1512260311.jpg" alt="Российская боевая авиация на авиабазе Хмеймим в Сирии. Архивное фото" title="Российская боевая авиация на авиабазе Хмеймим в Сирии. Архивное фото"></span><span class="ria-popular__item-container"><span class="ria-popular__item-info"><span class="ria-popular__item-date">22:03</span><span class="ria-popular__item-time">13.08.2018</span></span><span class="ria-popular__item-title">В Сирии уничтожили пять беспилотников, приближавшихся к авиабазе Хмеймим</span></span></a></div><div class="ria-popular__item"><a class="ria-popular__item-link" data-position="4" href="/society/20180813/1526478050.html?recommend=b"><span class="ria-popular__item-img"><img src="https://cdn3.img.ria.ru/images/152639/95/1526399568.jpg" alt="Певица Лайма Вайкуле. Архивное фото" title="Певица Лайма Вайкуле. Архивное фото"></span><span class="ria-popular__item-container"><span class="ria-popular__item-info"><span class="ria-popular__item-date">21:50</span><span class="ria-popular__item-time">13.08.2018</span></span><span class="ria-popular__item-title">Пушков уличил Вайкуле во лжи после слов певицы о Крыме</span></span></a></div><div class="ria-popular__item"><a class="ria-popular__item-link" data-position="5" href="/world/20180813/1526476798.html?recommend=b"><span class="ria-popular__item-img"><img src="https://cdn4.img.ria.ru/images/151820/64/1518206434.jpg" alt="Виктор Ющенко. Архивное фото" title="Виктор Ющенко. Архивное фото"></span><span class="ria-popular__item-container"><span class="ria-popular__item-info"><span class="ria-popular__item-date">20:56</span><span class="ria-popular__item-time">13.08.2018</span></span><span class="ria-popular__item-title">"Вы уже рабы": Ющенко рассказал, что мешает Украине "победить" Россию</span></span></a></div><div class="ria-popular__item"><a class="ria-popular__item-link" data-position="6" href="/world/20180813/1526467797.html?recommend=b"><span class="ria-popular__item-img"><img src="https://cdn5.img.ria.ru/images/152440/48/1524404805.jpg" alt="Президент Турции Реджеп Тайип Эрдоган на саммите НАТО в Брюсселе. Архивное фото" title="Президент Турции Реджеп Тайип Эрдоган на саммите НАТО в Брюсселе. Архивное фото"></span><span class="ria-popular__item-container"><span class="ria-popular__item-info"><span class="ria-popular__item-date">18:14</span><span class="ria-popular__item-time">13.08.2018</span></span><span class="ria-popular__item-title">США нанесли Турции "удар в спину", заявил Эрдоган</span></span></a></div><div class="ria-popular__item"><a class="ria-popular__item-link" data-position="7" href="/economy/20180813/1526455596.html?recommend=b"><span class="ria-popular__item-img"><img src="https://cdn1.img.ria.ru/images/152645/74/1526457427.jpg" alt="Табло курса обмена доллара и евро к рублю в Москве. 13 августа 2018" title="Табло курса обмена доллара и евро к рублю в Москве. 13 августа 2018"></span><span class="ria-popular__item-container"><span class="ria-popular__item-info"><span class="ria-popular__item-date">16:08</span><span class="ria-popular__item-time">13.08.2018</span></span><span class="ria-popular__item-title">Рубль начал резко расти к доллару и евро</span></span></a></div><div class="ria-popular__item"><a class="ria-popular__item-link" data-position="8" href="/world/20180813/1526447334.html?recommend=b"><span class="ria-popular__item-img"><img src="https://cdn1.img.ria.ru/images/151113/65/1511136502.jpg" alt="Лидер Исламского государства* Абу Бакр аль-Багдади. Архивное фото" title="Лидер Исламского государства* Абу Бакр аль-Багдади. Архивное фото"></span><span class="ria-popular__item-container"><span class="ria-popular__item-info"><span class="ria-popular__item-date">14:29</span><span class="ria-popular__item-time">13.08.2018</span></span><span class="ria-popular__item-title">Главарь ИГ* аль-Багдади тяжело ранен, сообщил источник</span></span></a></div><div class="ria-popular__item"><script id="i3SL6SnpmM81xBoa">if (window.relap) window.relap.ar('i3SL6SnpmM81xBoa');</script></div></div></div></div></div></noindex><noindex><div class="l-banner-place"><div class="b-banner "><div class="b-banner__201 b-banner__loader" data-bpos="201" id="banner_pos_201"><div class="b-banner__content"><div id="unit_90768"><a href="http://smi2.ru/">Новости smi2.ru</a></div>
+<script type="text/javascript" charset="utf-8">
+  (function() {
+    var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true;
+    sc.src = '//smi2.ru/data/js/90768.js'; sc.charset = 'utf-8';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
+  }());
+</script></div></div></div></div></noindex></div><div class="l-right-column"><div class="l-right-column__indent"><noindex><div class="l-banner-place m-desktop"><div class="b-banner "></div><div class="b-banner "><div class="b-banner__2 b-banner__loader" data-bpos="2" id="banner_pos_2"><div class="b-banner__content"><!--riaru-->
+<!--Площадка: ria.ru / * / *-->
+<!--Тип баннера: 240x-->
+<!--Расположение: 1005_bn5-->
+<!--Расположение: 1009_bn9-->
+
+<script>
+        rutarget.adfox.checkAd({
+           placementId: '33', 
+           width: 240,
+           height: 400
+        });
+    </script>
+
+
+<div id="adfox_1482221196166345"></div>
+<div id="adfox_15306295020204925"></div>
+<script>
+window.Ya.adfoxCode.createAdaptive({
+  ownerId: 249922,
+  containerId: 'adfox_1482221196166345',
+  params: {
+   pp: 'ios',
+   ps: 'chyo',
+   p2: 'fkam',
+   puid1: '',
+   pk: decodeURIComponent(crtg_content)
+  },
+  onStub: function(options) {
+  window.Ya.adfoxCode.create({
+    ownerId: 249922,
+    containerId: 'adfox_15306295020204925',
+    params: {
+     pp: 'iow',
+     ps: 'chyo',
+     p2: 'fkam',
+     puid1: '',
+     puid2: '',
+     puid3: '',
+     pk: rutarget.adfox.getAdState('33')
+    }
+   });
+  }
+}, ['desktop'], { tabletWidth: 1023, phoneWidth: 0});
+</script></div></div></div><div class="b-banner "><div class="b-banner__1 b-banner__loader" data-bpos="1" id="banner_pos_1"><div class="b-banner__content"><!--AdFox START-->
+<!--riaru-->
+<!--Площадка: ria.ru / * / *-->
+<!--Тип баннера: 240x-->
+<!--Расположение: 1004_bn4-->
+<div id="adfox_1482221093181160"></div>
+<script>
+    window.Ya.adfoxCode.createAdaptive({
+        ownerId: 249922,
+        containerId: 'adfox_1482221093181160',
+        params: {
+            pp: 'ior',
+            ps: 'chyo',
+            p2: 'fkam',
+            puid1: ''
+        }
+    }, ['desktop'], { tabletWidth: 1023, phoneWidth: 0 });
+</script></div></div></div><div class="b-banner "><div class="b-banner__7 b-banner__loader" data-bpos="7" id="banner_pos_7"><div class="b-banner__content">  <script>
+        var adfox_custom_puid2 = adfox_custom_puid2 || '';
+        adfox_custom_puid2 += (function(){var a="rtb_ThNmoJ48iPaggJ1NIyJk",b=[],c=localStorage.getItem(a);if(c){c=JSON.parse(c);for(var d=0;d<c.deals.length;d++){var e=c.deals[d];(!e.ttl||(new Date).getTime()<c._ts+e.ttl)&&b.push(e.hash)}}return b})().join(':'); 
+</script>
+
+<script>
+        var adfox_custom_puid3 = adfox_custom_puid3 || '';
+        adfox_custom_puid3 += (function(){var a="rtb_ThNmoJ48iPaggJ1NIyJk",b=[],c=localStorage.getItem(a);if(c){c=JSON.parse(c);for(var d=0;d<c.deals.length;d++){var e=c.deals[d];(!e.ttl||(new Date).getTime()<c._ts+e.ttl)&&b.push(e.hash)}}return b})().join(':'); 
+</script>
+
+
+<!--AdFox START-->
+<!--riaru-->
+<!--Площадка: ria.ru / * / *-->
+<!--Тип баннера: 240x-->
+<!--Расположение: 1002_bn2-->
+<div id="adfox_1482315708982706"></div>
+<script>
+    window.Ya.adfoxCode.createAdaptive({
+        ownerId: 249922,
+        containerId: 'adfox_1482315708982706',
+        params: {
+            pp: 'ioo',
+            ps: 'chyo',
+            p2: 'fkam',
+            puid1: AdriverPrebid.adriverBids['4:ria240fs'],
+            puid2: adfox_custom_puid2,
+            puid3: adfox_custom_puid3
+        }
+    }, ['desktop'], { tabletWidth: 1023, phoneWidth: 0 });
+</script>
+
+
+
+<br>
+
+
+<!--AdFox START-->
+<!--riaru-->
+<!--Площадка: ria.ru / * / *-->
+<!--Тип баннера: 240x-->
+<!--Расположение: 1003_bn3-->
+<div id="adfox_1482315773680532"></div>
+<script>
+    window.Ya.adfoxCode.createAdaptive({
+        ownerId: 249922,
+        containerId: 'adfox_1482315773680532',
+        params: {
+            pp: 'ioq',
+            ps: 'chyo',
+            p2: 'fkam',
+            puid1: ''
+        }
+    }, ['desktop'], { tabletWidth: 1023, phoneWidth: 0 });
+</script></div></div></div><div class="b-banner "><div class="b-banner__65 b-banner__loader" data-bpos="65" id="banner_pos_65"><div class="b-banner__content"><!--AdFox START-->
+<!--riaru-->
+<!--Площадка: ria.ru / * / *-->
+<!--Тип баннера: 240x-->
+<!--Расположение: 1010_bn10-->
+<div id="adfox_1482315374454576"></div>
+<script>
+    window.Ya.adfoxCode.createAdaptive({
+        ownerId: 249922,
+        containerId: 'adfox_1482315374454576',
+        params: {
+            pp: 'iox',
+            ps: 'chyo',
+            p2: 'fkam',
+            puid1: ''
+        }
+    }, ['desktop'], { tabletWidth: 1023, phoneWidth: 0 });
+</script></div></div></div></div><div class="l-banner-place m-desktop"><div class="b-banner "><div class="b-banner__203 b-banner__loader" data-bpos="203" id="banner_pos_203"><div class="b-banner__content"><div id="smi2adblock_76926" style="margin-bottom:12px"><a href="http://smi2.net/">Новости СМИ2</a></div>
+<script type="text/javascript" charset="utf-8">
+  (function() {
+    var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true;
+    sc.src = '//news.smi2.ru/data/js/76926.js'; sc.charset = 'utf-8';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
+  }());
+</script>
+
+</div></div></div><div class="b-banner "><div class="b-banner__207 b-banner__loader" data-bpos="207" id="banner_pos_207"><div class="b-banner__content"><!-- LentaInformNews Start -->
+<div id="LentaInformScriptRootN7953" class="news-block-magick" style="margin-top:1em">
+    <div id="LentaInformPreloadN7953">
+                <a href="http://lentainform.com/" target="_blank">Загрузка...</a>    
+    </div>
+    <script>
+                (function(){
+            var D=new Date(),d=document,b='body',ce='createElement',ac='appendChild',st='style',ds='display',n='none',gi='getElementById';
+            var i=d[ce]('iframe');i[st][ds]=n;d[gi]("LentaInformScriptRootN7953")[ac](i);try{var iw=i.contentWindow.document;iw.open();iw.writeln("<ht"+"ml><bo"+"dy></bo"+"dy></ht"+"ml>");iw.close();var c=iw[b];}
+            catch(e){var iw=d;var c=d[gi]("LentaInformScriptRootN7953");}var dv=iw[ce]('div');dv.id="MG_ID";dv[st][ds]=n;dv.innerHTML=7953;c[ac](dv);
+            var s=iw[ce]('script');s.async='async';s.defer='defer';s.charset='utf-8';s.src="//jsn.lentainform.com/r/i/ria.ru.7953.js?t="+D.getYear()+D.getMonth()+D.getDate()+D.getHours();c[ac](s);})();
+    </script>
+</div>
+<!-- LentaInformNews End --></div></div></div><div class="b-banner "><div class="b-banner__258 b-banner__loader" data-bpos="258" id="banner_pos_258"><div class="b-banner__content"><!--  Код WiseUp -->
+<!-- AdFox_Scroll -->
+<!--AdFox START-->
+<!--WiseUP-->
+<!--Площадка: ria.ru / * / *-->
+<!--Тип баннера: 240x200_d-->
+<!--Расположение: <середина страницы>-->
+<div id="adfox_12303993"></div> 
+<script> 
+setTimeout(function() {
+    window.Ya.adfoxCode.createScroll({
+        ownerId: 239292,
+        containerId: 'adfox_12303993',
+        params: {
+            pp: 'h',
+            ps: 'cjkt',
+            p2: 'flha',
+            pt: 'b'
+        }
+    });
+}, 7000);
+</script>
+<!--  Код WiseUp END  --></div></div></div><div class="b-banner "><div class="b-banner__261 b-banner__loader" data-bpos="261" id="banner_pos_261"><div class="b-banner__content"><!-- 24СМИ-->
+<div id="smi_teaser_11224" style="margin-top:1em">
+    <center>
+        <a href="https://24smi.info/?utm_source=informer_11224">
+            Агрегатор новостей 24СМИ
+        </a>
+    </center>
+</div>
+
+<script type="text/JavaScript" encoding="utf8">
+ (function() {
+ var sm = document.createElement("script");
+ sm.type = "text/javascript";
+ sm.async = true;
+ sm.src = "//jsn.24smi.net/e/e/11224.js";
+ var s = document.getElementsByTagName("script")[0];
+ s.parentNode.insertBefore(sm, s);})();
+</script>
+</div></div></div><div class="b-banner "><div class="b-banner__215 b-banner__loader" data-bpos="215" id="banner_pos_215"><div class="b-banner__content"><!-- InfoxSG-->
+<div id="infox_1607" style="margin-top:1em"></div>
+<script type="text/javascript"> 
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            INFOX1607.renderTo("infox_1607");
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//rb.infox.sg/infox/1607";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "infoxContextAsyncCallbacks1607");
+</script></div></div></div><div class="b-banner "><div class="b-banner__251 b-banner__loader" data-bpos="251" id="banner_pos_251"><div class="b-banner__content"><noindex>
+<div class="mediametrics_block_tizers_6" style="margin-top:0.8em">
+<style> div.mediametrics_block_tizers_6 a{color:#666 !important;} </style>
+<img src="https://pano.img.ria.ru/adfox/css/img/mediametrics_logo.png" /> 
+
+<script src='//mediametrics.ru/partner/inject/injectv2.js' type='text/javascript' id='MediaMetricsInject' data-adaptive='true' data-img='false' data-type='std' data-bgcolor='FFFFFF' data-bordercolor='FFFFFF' data-linkscolor='666' data-transparent='' data-rows='5' data-inline='' data-fontfamily='roboto' data-border='' data-borderwidth='0' data-place='left' data-fontsize='13' data-lineheight=21 data-visiblerows=3 data-fontweight=100 data-fontalign=left data-textposition="bottom" data-fontfamilycurrent="Roboto" data-period='online' data-alignment='vertical' data-country='ru' data-site='mmet/ria_ru' data-hash='4f8cc58b9b13df276ea89a5de4e8cedf'> </script>
+
+
+</div>
+</noindex></div></div></div><div class="b-banner "><div class="b-banner__211 b-banner__loader" data-bpos="211" id="banner_pos_211"><div class="b-banner__content"><!--AdFox START-->
+<!--riaru-->
+<!--Площадка: ria.ru / * / *-->
+<!--Тип баннера: 240x-->
+<!--Расположение: 1007_bn7-->
+<div id="adfox_1482316408487289"></div>
+<script>
+    window.Ya.adfoxCode.createAdaptive({
+        ownerId: 249922,
+        containerId: 'adfox_1482316408487289',
+        params: {
+            pp: 'iou',
+            ps: 'chyo',
+            p2: 'fkam',
+            puid1: AdriverPrebid.adriverBids.ria240ss
+        }
+    }, ['desktop'], { tabletWidth: 319, phoneWidth: 0 });
+</script></div></div></div><div class="b-banner "><div class="b-banner__239 b-banner__loader" data-bpos="239" id="banner_pos_239"><div class="b-banner__content"><!--AdFox START-->
+<!--riaru-->
+<!--Площадка: ria.ru / * / *-->
+<!--Тип баннера: 240x-->
+<!--Расположение: 1200_bn200-->
+<div id="adfox_151203912163656534"></div>
+<script>
+    window.Ya.adfoxCode.create({
+        ownerId: 249922,
+        containerId: 'adfox_151203912163656534',
+        params: {
+            pp: 'iqa',
+            ps: 'chyo',
+            p2: 'fkam',
+            puid1: '',
+            puid2: '',
+            puid3: ''
+        }
+    });
+</script></div></div></div></div><div class="l-banner-place m-desktop"><div class="b-banner "><div class="b-banner__10 b-banner__loader" data-bpos="10" id="banner_pos_10"><div class="b-banner__content"><!--AdFox START-->
+<!--riaru-->
+<!--Площадка: ria.ru / * / *-->
+<!--Тип баннера: 240x-->
+<!--Расположение: 1014_bn14-->
+<div id="adfox_1482315532280402"></div>
+<script>
+    window.Ya.adfoxCode.createAdaptive({
+        ownerId: 249922,
+        containerId: 'adfox_1482315532280402',
+        params: {
+            pp: 'ioz',
+            ps: 'chyo',
+            p2: 'fkam',
+            puid1: ''
+        }
+    }, ['desktop'], { tabletWidth: 1023, phoneWidth: 0 });
+</script></div></div></div><div class="b-banner "><div class="b-banner__259 b-banner__loader" data-bpos="259" id="banner_pos_259"><div class="b-banner__content"><!--Taboola-->
+
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({article:'auto'});
+  !function (e, f, u, i) {
+    if (!document.getElementById(i)){
+      e.async = 1;
+      e.src = u;
+      e.id = i;
+      f.parentNode.insertBefore(e, f);
+    }
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/ria/loader.js',
+  'tb_loader_script');
+  if(window.performance && typeof window.performance.mark == 'function')
+    {window.performance.mark('tbl_ic');}
+</script>
+
+<div id="taboola-right-rail-article-thumbnails" style="margin-bottom:10px"></div>
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'organic-thumbnails-rr-stream',
+    container: 'taboola-right-rail-article-thumbnails',
+    placement: 'Right Rail Article Thumbnails',
+    target_type: 'mix'
+  });
+</script>
+
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({flush: true});
+</script></div></div></div><div class="b-banner "><div class="b-banner__53 b-banner__loader" data-bpos="53" id="banner_pos_53"><div class="b-banner__content">
+<!-- Yandex.RTB R-A-38690-23 -->
+<div id="yandex_rtb_R-A-38690-23"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-38690-23",
+                renderTo: "yandex_rtb_R-A-38690-23",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script></div></div></div></div></noindex></div></div></div></div></div></div><img style="position: absolute; left: -10000px;" src="/services/counter/?project=&amp;obj_id=1526479787&amp;obj_type=article&amp;action_type=&amp;ts=1534196642" alt=""><script type="application/ld+json">
+            {
+            "@context": "http://schema.org",
+            "@type": "Article",
+            "headline": "США заморозили выполнение Договора по открытому небу с Россией",
+            "description": "",
+            "name": "США заморозили выполнение Договора по открытому небу с Россией",
+            "url": "https://ria.ru/world/20180813/1526479787.html",
+            "mainEntityOfPage":{
+            "@type":"WebPage",
+            "@id":"https://ria.ru/world/20180813/1526479787.html"
+            },
+            "datePublished": "2018-08-13T23:04Z ",
+            "articleBody": "ВАШИНГТОН, 13 авг &ndash; РИА Новости. США заморозили сотрудничество с&nbsp;Россией в&nbsp;рамках Договора по&nbsp;открытому небу, пока Москва не&nbsp;вернется к&nbsp;его соблюдению. Об этом говорится в&nbsp;тексте оборонного бюджета, который ранее подписал американский президент Дональд Трамп.
+\"Ни один из&nbsp;фондов не&nbsp;может быть использован для&nbsp;финансирования в&nbsp;2019 бюджетном году для&nbsp;развития, испытаний&hellip; в&nbsp;рамках Договора по&nbsp;открытому небу, пока президент не&nbsp;представит соответствующим комитетам Конгресса соответствующий сертификат\",&nbsp;&mdash; следует из&nbsp;документа. Там же уточняется, что под&nbsp;сертификатом подразумевается снятие ограничений с&nbsp;Россией после оценки выполнения ею Договора по&nbsp;открытому небу.
+Ответственность за&nbsp;оценку выполнения данного требования, согласно закону, возлагается на&nbsp;госсекретаря США.
+Суть договора
+Договор по&nbsp;открытому небу подписали 23 страны-члены ОБСЕ в&nbsp;1992 году. Россия ратифицировала его спустя девять лет, в&nbsp;2001 году. Участники договора получили возможность облетать территории друг друга для&nbsp;контроля военной активности.
+Согласно документу, самолет наблюдения не&nbsp;может быть оснащен каким-либо вооружением. Лайнер и&nbsp;установленная на&nbsp;нем аппаратура должны проходить международное освидетельствование. При этом на&nbsp;борту, по&nbsp;условиям договора, обязательно находятся представители того государства, над&nbsp;территорией которого проходит полет.
+В прошлом году в&nbsp;Госдепе заявили, что с&nbsp;2004 года якобы фиксируют нарушение Россией условий Договора, а&nbsp;20 июня прошлого года формально обозначили претензии по&nbsp;трем пунктам.
+Среди них ограничения на&nbsp;полеты над&nbsp;Калининградской областью, запрет на&nbsp;полеты вдоль десятикилометрового коридора на&nbsp;границах России с&nbsp;Южной Осетией и&nbsp;Абхазией, а&nbsp;также отклонение от&nbsp;согласованных маршрутов под&nbsp;предло
+c961
+гом форс-мажора.
+С начала текущего года Россия ввела ответные ограничения для&nbsp;американских наблюдателей. Так, Москва уменьшила число аэродромов, которые можно использовать американским самолетам-наблюдателям. ",
+            "dateModified": "2018-08-13T23:39Z",
+            "publisher": {
+            "@type": "Organization",
+            "name": "РИА Новости",
+            "logo": {
+            "@type": "ImageObject",
+            "url": "https://ria.ru/i/ria_logo.png?3",
+            "width": 216,
+            "height": 32
+            }
+            },
+            
+
+        "thumbnailUrl": "https://cdn3.img.ria.ru/images/152189/93/1521899358.jpg",
+        "image": {
+        "@type": "ImageObject",
+        "representativeOfPage": "true",
+        "url": "https://cdn3.img.ria.ru/images/152189/93/1521899358.jpg",
+        "width": 1036,
+        "height":
+        588
+        },
+    
+            "author": {
+            "@type": "Organization",
+            "name": "РИА Новости"
+            }
+            }
+        </script><div class="b-footer js-mediator-footer"><div class="l-page-width"><div class="b-footer__nav"><div class="b-footer__wr-items"><div class="b-footer__nav-item m-active" data-nav-point="1"><a><span>Новости</span></a></div><div class="b-footer__nav-item " data-nav-point="2"><a><span>Спецпроекты</span></a></div><div class="b-footer__nav-item " data-nav-point="3"><a><span>ПРЕСС-ЦЕНТР</span></a></div><div class="b-footer__nav-item " data-nav-point="4"><a><span>Клиентам</span></a></div><div class="b-footer__nav-item " data-nav-point="5"><a><span>Об Агентстве</span></a></div></div><div class="b-footer__nav-content m-active" data-nav-content="1"><ul class="b-footer__column"><li class="b-footer__item"><a href="/"><span>Главное</span></a></li><li class="b-footer__item"><a href="/politics/"><span>Политика</span></a></li><li class="b-footer__item"><a href="/economy/"><span>Экономика</span></a></li><li class="b-footer__item"><a href="/world/"><span>В мире</span></a></li><li class="b-footer__item"><a href="/incidents/"><span>Происшествия</span></a></li><li class="b-footer__item"><a href="/culture/"><span>Культура</span></a></li></ul><ul class="b-footer__column"><li class="b-footer__item"><a href="/society/"><span>Общество</span></a></li><li class="b-footer__item"><a href="/culture/"><span>Культура</span></a></li><li class="b-footer__item"><a href="https://rsport.ria.ru"><span>Р-Спорт</span></a></li><li class="b-footer__item"><a href="http://ria.ru/radio/"><span>В эфире</span></a></li><li class="b-footer__item"><a href="http://ria.ru/science/"><span>Наука и технологии</span></a></li><li class="b-footer__item"><a href="/religion/"><span>Религия и мировоззрение</span></a></li></ul><ul class="b-footer__column"><li class="b-footer__item"><a href="/spravka/"><span>Справки</span></a></li><li class="b-footer__item"><a href="/announce/"><span>Анонсы</span></a></li><li class="b-footer__item"><a href="/vote/"><span>Опросы</span></a></li><li class="b-footer__item"><a href="/victorina/"><span>Тесты</span></a></li></ul><ul class="b-footer__column"><li class="b-footer__item"><a href="/photolents/"><span>Фото</span></a></li><li class="b-footer__item"><a href="/infografika/"><span>Инфографика</span></a></li><li class="b-footer__item"><a href="/video/"><span>Видео</span></a></li><li class="b-footer__item"><a href="/caricature/"><span>Карикатуры</span></a></li></ul></div><div class="b-footer__nav-content " data-nav-content="2"><ul class="b-footer__column"><li class="b-footer__item"><a href="http://crimea.ria.ru/"><span>РИА Крым</span></a></li><li class="b-footer__item"><a href="http://rus4all.ru/"><span>Россия для всех</span></a></li><li class="b-footer__item"><a href="https://ria.ru/society/20171109/1508430983.html#/main" target="_blank"><span>Дагестан. Место силы</span></a></li><li class="b-footer__item"><a href="http://www.9may.ru"><span>Наша Победа. День за днем</span></a></li></ul><ul class="b-footer__column"><li class="b-footer__item"><a href="/sn/"><span>Социальный навигатор</span></a></li><li class="b-footer__item"><a href="/abitura/"><span>Навигатор абитуриента</span></a></li><li class="b-footer__item"><a href="https://mama.ria.ru/"><span>Найди меня, мама</span></a></li><li class="b-footer__item"><a href="https://ria.ru/ecology/"><span>Год экологии</span></a></li><li class="b-footer__item"><a href="http://riarating.ru/"><span>РИА Рейтинг</span></a></li><li class="b-footer__item"><a href="/lpk/"><span>Лесопромышленный комплекс России</span></a></li><li class="b-footer__item"><a href="/legprom/"><span>Легкая промышленность</span></a></li><li class="b-footer__item"><a href="/teplo/"><span>Теплоснабжение </span></a></li><li class="b-footer__item"><a href="/worldskills/"><span>WorldSkills</span></a></li><li class="b-footer__item"><a href="/spasskaya_bashnya/"><span>Фестиваль "Спасская Башня"</span></a></li><li class="b-footer__item"><a href="http://ria.ru/trend/crimea-koktebel-jazz-party-06072017/"><span>Фестиваль Koktebel Jazz Party</span></a></li></ul><ul class="b-footer__column"><li class="b-footer__item"><a href="http://eurasiancenter.ru/"><span>Евразийский коммуникационный центр</span></a></li><li class="b-footer__item"><a href="/zinoviev_club/"><span>Зиновьевский клуб</span></a></li><li class="b-footer__item"><a href="http://ria.ru/sg/"><span>Союзное государство</span></a></li><li class="b-footer__item"><a href="/mo/"><span>Новости Подмосковья</span></a></li></ul><ul class="b-footer__column"><li class="b-footer__item"><a href="/docs/projects/index.html"><span>Архив проектов</span></a><ul class="b-footer__sub"><li class="b-footer__sub-item"><a href="http://ria.ru/1812/%20"><span>1812: Война и мiръ</span></a></li></ul></li></ul></div><div class="b-footer__nav-content " data-nav-content="3"><ul class="b-footer__column"><li class="b-footer__item"><a href="http://pressria.ru/docs/about/index.html"><span>О пресс-центре</span></a></li><li class="b-footer__item"><a href="http://pressria.ru/docs/about/service.html"><span>Услуги</span></a></li><li class="b-footer__item"><a href="http://pressria.ru/pressclub/"><span>Календарь мероприятий</span></a></li></ul></div><div class="b-footer__nav-content " data-nav-content="4"><ul class="b-footer__column"><li class="b-footer__item"><a href="http://xn--c1acbl2abdlkab1og.xn--p1ai/newswire/"><span>Новостные ленты</span></a></li><li class="b-footer__item"><a href="/docs/products/multimedia.html"><span>Мультимедиа </span></a><ul class="b-footer__sub"><li class="b-footer__sub-item"><a href="/docs/products/photos.html"><span>Фото</span></a></li><li class="b-footer__sub-item"><a href="/docs/products/infografica.html"><span>Инфографика</span></a></li><li class="b-footer__sub-item"><a href="/docs/products/karikatura.html"><span>Карикатуры</span></a></li><li class="b-footer__sub-item"><a href="/docs/products/videoproduct.html"><span>Видео</span></a></li></ul></li><li class="b-footer__item"><a href="/docs/products/info.html"><span>Инфоэкраны</span></a></li><li class="b-footer__item"><a href="http://ria.ru/docs/products/app.html"><span>Приложение "Динамика дня"</span></a></li></ul><ul class="b-footer__column"><li class="b-footer__item"><a href="/docs/products/press.html"><span>Мероприятия</span></a><ul class="b-footer__sub"><li class="b-footer__sub-item"><a href="/docs/products/press.html"><span>Конференции и форумы</span></a></li><li class="b-footer__sub-item"><a href="http://pressria.ru/docs/about/service.html"><span>Пресс-мероприятия</span></a></li><li class="b-footer__sub-item"><a href="/docs/products/photovystavki.html"><span>Фотовыставки</span></a></li></ul></li></ul><ul class="b-footer__column"><li class="b-footer__item"><a href="/docs/products/index.html"><span>Онлайн СМИ МИА «Россия Сегодня»</span></a><ul class="b-footer__sub"><li class="b-footer__sub-item"><a href="http://inosmi.ru/" target="_blank"><span>ИноСМИ</span></a></li><li class="b-footer__sub-item"><a href="http://xn--c1acbl2abdlkab1og.xn--p1ai/sputnik/"><span>Sputnik</span></a></li><li class="b-footer__sub-item"><a href="http://rsport.ru/docs/about/index.html"><span>Р-Спорт</span></a></li><li class="b-footer__sub-item"><a href="http://www.riarealty.ru/"><span>Недвижимость</span></a></li><li class="b-footer__sub-item"><a href="http://riarating.ru/docs/about/about.html"><span>РИА Рейтинг</span></a></li><li class="b-footer__sub-item"><a href="https://ria.ru/promo/services/"><span>Мобильные приложения </span></a></li><li class="b-footer__sub-item"><a href="http://rus4all.ria.ru/"><span>Россия для всех</span></a></li><li class="b-footer__sub-item"><a href="http://eurasiancenter.ru/"><span>Евразийский коммуникационный центр</span></a></li><li class="b-footer__sub-item"><a href="http://crimea.ria.ru/"><span>РИА Крым</span></a></li></ul></li></ul><ul class="b-footer__column"><li class="b-footer__item"><a href="http://ria.ru/docs/partnership/index.html"><span>Инфопартнерство</span></a></li><li class="b-footer__item"><a href="http://%D1%80%D0%BE%D1%81%D1%81%D0%B8%D1%8F%D1%81%D0%B5%D0%B3%D0%BE%D0%B4%D0%BD%D1%8F.%D1%80%D1%84/online/"><span>Реклама</span></a></li><li class="b-footer__item"><a href="/press_release/"><span>Пресс-релизы</span></a></li></ul></div><div class="b-footer__nav-content " data-nav-content="5"><ul class="b-footer__column"><li class="b-footer__item"><a href="http://%D1%80%D0%BE%D1%81%D1%81%D0%B8%D1%8F%D1%81%D0%B5%D0%B3%D0%BE%D0%B4%D0%BD%D1%8F.%D1%80%D1%84"><span>МИА «Россия сегодня»</span></a></li><li class="b-footer__item"><a href="/news_company/"><span>Новости агентства</span></a></li><li class="b-footer__item"><a href="/docs/about/zakupki.html"><span>Закупки</span></a></li></ul></div><dt class="nav_footer_last"> </dt></div><div class="b-footer__copyright"><p><a href="/docs/products/advertising.html" target="_blank">РЕКЛАМА</a></p><div class="js-notifications-button"></div><p>Версия 5.1.11 beta.  Чтобы связаться с редакцией или сообщить обо всех замеченных ошибках, воспользуйтесь <a href="/feedback/">формой обратной связи</a>.</p><p><a href="/docs/about/copyright.html">Правила использования материалов МИА «Россия сегодня»</a></p><p>© 2018 МИА «Россия сегодня»</p><p>Сетевое издание РИА Новости зарегистрировано в Федеральной службе по надзору в сфере связи, информационных технологий и массовых коммуникаций (Роскомнадзор) 08 апреля 2014 года. Свидетельство о регистрации Эл № ФС77-57640</p><p>Учредитель: Федеральное государственное унитарное предприятие "Международное информационное агентство "Россия сегодня" (МИА "Россия сегодня").</p><p>Главный редактор: Анисимов А.С.</p><p>Адрес электронной почты Редакции: internet-group@rian.ru</p><p>Телефон Редакции: 7 (495) 645-6601</p><p>Настоящий ресурс содержит материалы 18+</p></div><div class="b-footer__counters" id="anchor_8"><noindex><div class="b-footer__counter-sect"><a href="http://top.mail.ru/jump?from=331653" target="_top"><img src="//top-fwz1.mail.ru/counter?id=331653;t=49;l=1" height="31" width="88" alt="Рейтинг@Mail.ru"></a></div><div class="b-footer__counter-sect"><a href="//www.liveinternet.ru/click;RS_Total/Riaru_Total" target="_blank"><img src="//counter.yadro.ru/logo;RS_Total/Riaru_Total?14.11" title="LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня" alt="" border="0" width="88" height="31"></a></div><div class="b-footer__counter-sect"><div id="Rambler-counter"><noscript><a href="http://top100.rambler.ru/navi/307779/"><img src="https://counter.rambler.ru/top100.cnt?307779" alt="Rambler's Top100" border="0"></a></noscript></div></div><div class="b-footer__counter-sect"><a href="http://www.rambler.ru/" target="_blank" class="link"><span>Партнер Рамблера</span></a></div></noindex><script type="text/javascript">
+			/*var _sf_async_config={};
+
+			_sf_async_config.uid = 34813;
+			_sf_async_config.domain = 'ria.ru';
+			_sf_async_config.sections = 'Change this to your Section name';
+			_sf_async_config.authors = 'Change this to your Author name';
+
+			(function(){
+			function loadChartbeat() {
+			window._sf_endpt=(new Date()).getTime();
+			var e = document.createElement('script');
+			e.setAttribute('language', 'javascript');
+			e.setAttribute('type', 'text/javascript');
+			e.setAttribute('src',(('https:' == document.location.protocol) ? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' : 'http://static.chartbeat.com/') + 'js/chartbeat.js');
+			document.body.appendChild(e);
+			}
+			var oldonload = window.onload;
+			window.onload = (typeof window.onload != 'function') ?
+			loadChartbeat : function() { oldonload(); loadChartbeat(); };
+			})();*/
+
+
+			$(document).ready(function(){
+			if (typeof ria_activity_counter != "undefined") {
+			
+		var articleTagsList = ["location_Russia","location_United_States"];
+	
+					ria_activity_counter('page_read', articleTagsList);
+				
+			}
+			});
+
+			var _top100q = _top100q || [];
+			_top100q.push(['setAccount', '307779']);
+			_top100q.push(['trackPageviewByLogo', document.getElementById('Rambler-counter')]);
+			(function(){
+			var pa = document.createElement("script");
+			pa.type = "text/javascript";
+			pa.async = true;
+			pa.src = ("https:" == document.location.protocol ? "https:" : "http:") + "//st.top100.ru/top100/top100.js";
+			var s = document.getElementsByTagName("script")[0];
+			s.parentNode.insertBefore(pa, s);
+			})();
+
+			var _comscore = _comscore || [];
+			_comscore.push({ c1: "2", c2: "15352215" });
+			(function() {
+			var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+			s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+			el.parentNode.insertBefore(s, el);
+			})();
+
+		</script><noscript><!--
+					<img src="http://b.scorecardresearch.com/p?c1=2&c2=15352215&cv=2.0&cj=1" />
+				//--></noscript><script type="text/javascript">
+			(function (d, w, c) {
+			(w[c] = w[c] || []).push(function() {
+			try {
+			w.yaCounter960630 = new Ya.Metrika({id:960630, enableAll: true, webvisor:true});
+			} catch(e) { }
+			});
+
+			var n = d.getElementsByTagName("script")[0],
+			s = d.createElement("script"),
+			f = function () { n.parentNode.insertBefore(s, n); };
+			s.type = "text/javascript";
+			s.async = true;
+			s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+			if (w.opera == "[object Opera]") {
+			d.addEventListener("DOMContentLoaded", f);
+			} else { f(); }
+			})(document, window, "yandex_metrika_callbacks");
+		</script><noscript><div><img src="http://mc.yandex.ru/watch/960630" style="position:absolute; left:-9999px;" alt=""></div></noscript><script type="text/javascript"><!--//--><![CDATA[//><!--
+				var pp_gemius_identifier = 'coVKhk9xR8zUgnZ1PFoK2sPJ.KhyrLAbjoy7ReYPxOv.Q7';
+				// lines below shouldn't be edited
+				function gemius_pending(i){
+					window[i] = window[i] || function(){
+						var x = window[i+'_pdata'] = window[i+'_pdata'] || [];
+						x[x.length]=arguments;
+					};
+				};
+				gemius_pending('gemius_hit');
+				gemius_pending('gemius_event');
+				gemius_pending('pp_gemius_hit');
+				gemius_pending('pp_gemius_event');
+				(function(d,t) {
+					try {
+						var gt=d.createElement(t),
+							s=d.getElementsByTagName(t)[0],
+							l='http'+((location.protocol=='https:')?'s':'');
+						gt.setAttribute('async','async');
+						gt.setAttribute('defer','defer');
+						gt.src=l+'://garu.hit.gemius.pl/xgemius.js';
+						s.parentNode.insertBefore(gt,s);
+					}
+					catch (e) {}
+				})(document,'script');
+			//--><!]]></script></div></div></div></div></div></div><script type="text/javascript" src="https://cdn2.img.ria.ru/min/js-group/article_normal_15.js?834b8b378"></script><div class="b-banner m-banner__hide"><div class="b-banner__6 b-banner__loader" data-bpos="6" id="banner_pos_6"><div class="b-banner__content"><script language="javascript">
+	(function(){
+		function addEvent(e,t,f){
+			if (e.addEventListener) e.addEventListener(t, f, false);
+			else if (e.attachEvent) e.attachEvent('on'+t, f)
+		}
+		function removeEvent(e,t,f){
+			if (e.removeEventListener) e.removeEventListener(t, f, false);
+			else if (e.detachEvent) e.detachEvent('on'+t, f)
+		}
+
+		var detectFlashBlock = {
+			has: null,
+			swfUrl: 'https://pano.img.ria.ru/adriver/flashplagin/movie.swf', // Путь до movie.swf
+			handlers: {
+				q: [],
+				push: function(f){this.q.push(f)},
+				execute: function(){var f; while (f = this.q.shift()) f()}
+			},
+			createMovie: function(){
+				// Called from movie
+				window.___hasFlash = function(){window.___hasFlash.exec = true};
+
+				var m = '\v' == 'v'
+					? '<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="1" height="1"><param value="'
+						+ this.swfUrl + '" name="movie"><param value="true" name="play"><param value="always" name="allowScriptAccess"></object>'
+					: '<embed width="1" height="1" src="' + this.swfUrl
+						+'" swLiveConnect="true" allowScriptAccess="always" type="application/x-shockwave-flash" />';
+
+				document.write('<div style="width:1px;height:1px;overflow:hidden;">' + m + '</div>');
+			},
+			listenMovie: function(delay){
+				setTimeout(function(){
+					detectFlashBlock.execute(window.___hasFlash.exec ? false : true);
+					removeEvent(window, 'load', detectFlashBlock.start);
+				}, delay * 1000);
+			},
+			execute: function(flag){
+				detectFlashBlock.has = flag;
+				detectFlashBlock.handlers.execute();
+			},
+			start: function(){ detectFlashBlock.listenMovie(.7); }
+		};
+		detectFlashBlock.handlers.push(function(){
+			var zeropixel = "//ad.adriver.ru/cgi-bin/rle.cgi?sid=166081&bn=20&bt=21&pz=0&rnd=![rnd]";
+			var flashver = (function(){
+				var n=navigator,f='Shockwave Flash',m,d;
+				if((m=n.mimeTypes)&&(m=m["application/x-shockwave-flash"])&&m.enabledPlugin&&(n=n.plugins)&&n[f]){d=n[f].description}
+				else if(window.ActiveXObject){try{d=(new
+				ActiveXObject((f+'.'+f).replace(/ /g,''))).GetVariable('$version')}catch(e){}}
+				return d?d.replace(/\D+/,'').split(/\D+/)[0]:0;
+			})();
+			var sendPixel = function(src){
+				if (!src) return;
+				src = src.replace(/!\[rnd\]/g, Math.random()*100000);
+				var d = document, b = d.body;
+				if(b){
+					var i = document.createElement('IMG');
+					i.style.position = 'absolute';
+					i.style.width = i.style.height = '0px';
+					i.onload = i.onerror = function(){b.removeChild(i)}
+					i.src=src;
+					b.insertBefore(i, b.firstChild);
+				}
+				else{new Image().src = src}
+			}
+			if (flashver >= 8 && !detectFlashBlock.has) sendPixel(zeropixel);
+		});
+		detectFlashBlock.createMovie();
+		addEvent(window, 'load', detectFlashBlock.start);
+	})()
+</script>
+
+
+
+<script type="text/javascript">
+    var ttsmi2_data = { siteid: 38879, count: 'site' };
+    (function() {
+      var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true;
+      sc.src = '//target.smi2.net/client/target.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
+    }());
+  </script>
+
+
+</div></div></div><div id="fb-root"></div><script type="text/javascript">
+            $(window).bind("script_load.vkopenapi-js", function(){
+                VK.init({apiId: '1990932', onlyWidgets: true});				
+                $(window).trigger("vk.init");
+            });
+		</script><script type="text/javascript">
+            $(window).bind("script_load.facebook-jssdk", function(){
+                FB.init({
+                    appId      : '130182077069283',
+                    //channelUrl : '//WWW.YOUR_DOMAIN.COM/channel.html', // Channel File
+                    status     : true, // check login status
+                    cookie     : true, // enable cookies to allow the server to access the session
+                    xfbml      : true  // parse XFBML
+                });
+
+                FB.XFBML.parse(); 
+                $(window).trigger("fb.init");
+                
+                /*
+                FB.Event.subscribe('edge.create', function(response) {
+                    log('fb like ' + response);
+                });
+                FB.Event.subscribe('edge.remove', function(response) {
+                    log('fb unlike ' + response);
+                });
+
+                FB.Event.unsubscribe('edge.create');
+                FB.Event.unsubscribe('edge.remove');
+                */
+            });
+		</script><script type="text/javascript">
+            (function(d,s){
+                var s_target = d.getElementsByTagName(s)[0];
+                ScriptLoader = function( scripts ){
+                    this.scripts = scripts || [];
+                    this.load.apply( this );
+                };
+                ScriptLoader.prototype = {
+                    "constructor"   :   ScriptLoader,
+                    "push"          :   function( name, src, target ){
+                        this.scripts.push({
+                            "name"  :   name,
+                            "src"   :   src,
+                            "target":   target | d
+                        });
+                        this.load.apply( this );
+                    },
+                    "load"          :   function(){
+                        for( var i = 0; i < this.scripts.length; i++ ){
+                            var script = this.scripts[i];
+                            if(!d.getElementById(script.name)){
+                                js = d.createElement(s); js.id = script.name; js.src = script.src; js.async = true;
+								if(js.onreadystatechange !== undefined )
+									js.onreadystatechange = function(){
+										if( js.readyState == 'complete' || js.readyState == 'loaded' )
+											$(window).trigger("script_load." + this.id);
+											if( typeof( script.loadCallback ) == 'function' )  
+												script.loadCallback.call( this );
+									};
+								else
+									js.onload = function(){
+										$(window).trigger("script_load." + this.id);
+										if( typeof( script.loadCallback ) == 'function' )  
+											script.loadCallback.call( this );
+									};
+
+                                s_target.parentNode.insertBefore(js,s_target);
+                            }
+                        }
+                    }
+                };
+                <!-- Google config -->
+                window.___gcfg = {lang: 'ru'};
+                <!--// Google config -->
+                ScriptLoader = new ScriptLoader([
+                    { "name" : "twitter-wjs", "src" : "//platform.twitter.com/widgets.js" },
+                    { "name" : "googleplusone-js", "src" : "//apis.google.com/js/plusone.js" },
+                    { "name" : "facebook-jssdk", "src" : "//connect.facebook.net/ru_RU/all.js" },
+                    { "name" : "vkopenapi-js", "src" : "//userapi.com/js/api/openapi.js?52" },
+                    { "name" : "pinit-js", "src" : "//assets.pinterest.com/js/pinit.js" },
+                  <!--  { "name" : "mailru_odkl-js", "src" : "//connect.mail.ru/js/loader.js" }-->
+                ]);
+                
+            })(document, "script");
+            </script><script async="async" defer src="//platform.instagram.com/ru_RU/embeds.js"></script><script class="js-mediator-script">
+				!function(e){function t(t,n){if(!(n in e)){for(var r,a=e.document,i=a.scripts,o=i.length;o--;)if(-1!==i[o].src.indexOf(t)){r=i[o];break}if(!r){r=a.createElement("script"),r.type="text/javascript",r.async=!0,r.defer=!0,r.src=t,r.charset="UTF-8";var d=function(){var e=a.getElementsByTagName("script")[0];e.parentNode.insertBefore(r,e)};"[object Opera]"==e.opera?a.addEventListener?a.addEventListener("DOMContentLoaded",d,!1):e.attachEvent("onload",d):d()}}}t("//mediator.mail.ru/script/2771082/","_mediator")}(window);
+			</script><!-- ticket ria.1504.6642.5852--></div><div class="b-scroller-up"><div class="l-page-width"><a><span class="b-scroller-up__bg"></span><span>Наверх</span><i></i></a></div></div><div class="l-modal" id="modalLayer"><div class="l-modal__dimensions"><div class="l-modal__hide"></div><div class="l-modal__container"><div class="l-modal__background"><div class="l-modal__preset b-modal-custom" data-modal-preset="custom" data-modal-width="530px"><div class="l-modal__padding"><div class="l-modal__main-title"><span></span></div><div class="l-modal__main-content"></div><div class="l-modal__error-message"><span></span></div></div></div><div class="l-modal__preset b-modal-gallery" data-modal-preset="gallery"><div class="b-modal-gallery__empty-item"><div class="b-modal-gallery__img-row"><div class="b-modal-gallery__img"></div></div><div class="b-modal-gallery__info-row"><div class="b-modal-gallery__info"></div></div></div><div class="b-modal-gallery__nav"><a class="b-modal-gallery__prev"><i></i></a><a class="b-modal-gallery__next"><i></i></a></div></div><div class="l-modal__preset b-modal-authorization" data-modal-preset="authorization" data-modal-width="530px"><div class="l-modal__padding"><div class="l-modal__main-title"><span>Авторизация</span></div><form action="/services/id/login/" method="post"><div class="l-modal__grid m-adaptive"><div class="l-modal__grid-1-2 m-right"><div class="l-modal__list"><div class="l-modal__link"><a data-modal-open="registration">Регистрация</a></div><div class="l-modal__link"><a data-modal-open="recovery_password">Восстановление пароля</a></div><div class="l-modal__link"><a href="/docs/about/privacy_policy.html">Политика конфиденциальности</a></div></div></div><div class="l-modal__grid-1-2"><label class="l-modal__field"><div class="l-modal__field-title"><span>E-mail</span></div><input type="text" name="login" autocomplete="email"></label><label class="l-modal__field"><div class="l-modal__field-title"><span>Пароль</span></div><input type="password" name="password"></label></div><div class="l-modal__grid-1-2 m-right m-clear"><div class="l-modal__field m-field-checkbox"><label><input type="checkbox" class="js-custom-checkbox" name="remember"><span>Запомнить меня</span></label></div></div><div class="l-modal__grid-1-2"><div class="l-modal__submit"><button>Войти</button></div></div></div><div class="l-modal__error-message"><span>
+										He правильное имя пользователя или пароль
+									</span></div><div class="l-modal__separator"></div><div class="l-modal__title"><span>Войти через социальные сети</span></div><div class="l-modal__grid m-adaptive"><div class="l-modal__grid-1-2"><div class="b-modal-authorization__soc"><a class="m-fb" data-provider="facebook"><i></i><span>Facebook</span></a><a class="m-vk" data-provider="vkontakte"><i></i><span>Вконтакте</span></a></div></div><div class="l-modal__grid-1-2"><div class="b-modal-authorization__soc"><a class="m-tw" data-provider="twitter"><i></i><span>Twitter</span></a><a class="m-ok" data-provider="ok"><i></i><span>Одноклассники</span></a></div></div></div></form></div></div><div class="l-modal__preset b-modal-registration" data-modal-preset="registration" data-modal-width="530px"><div class="l-modal__padding"><div class="l-modal__main-title"><span>Регистрация</span></div><form action="/services/id/register/" method="post"><div class="l-modal__grid  m-adaptive"><div class="l-modal__grid-1-2 m-right"><div class="l-modal__list"><div class="l-modal__link"><a data-modal-open="authorization">Авторизация</a></div><div class="l-modal__link"><a href="/docs/about/privacy_policy.html">Политика конфиденциальности</a></div></div></div><div class="l-modal__grid-1-2"><div class="l-modal__field"><div class="l-modal__field-title"><span>E-mail</span></div><div class="l-modal__field-input"><input type="text" name="login"></div></div><div class="l-modal__field"><div class="l-modal__field-title"><span>Пароль</span></div><div class="l-modal__field-input"><input type="password" name="password"></div></div><div class="l-modal__field"><div class="l-modal__field-title"><span>Подтверждение пароля</span></div><div class="l-modal__field-input"><input type="password" name="password_confirmation"></div></div></div><div class="l-modal__grid-1-2 m-right  m-clear"><div class="l-modal__capcha-img"><a class="l-modal__capcha-update"><img><span class="l-modal__capcha-reload"><i></i></span></a></div></div><div class="l-modal__grid-1-2"><div class="l-modal__field"><div class="l-modal__field-title"><span>Введите код с картинки</span></div><div class="l-modal__field-input"><input type="text" name="captcha"></div></div><div class="l-modal__submit"><button>Регистрация</button></div></div></div><div class="l-modal__error-message"><span>
+										He правильное имя пользователя или пароль
+									</span></div><div class="l-modal__footnote"><span>* Все поля обязательны к заполнению</span></div></form><div class="l-modal__success"><div class="l-modal__text"><span></span></div><div class="l-modal__confirm"><button class="l-modal__confirm-yes" data-modal-close="">Ок</button></div></div></div></div><div class="l-modal__preset b-modal-recovery-password" data-modal-preset="recovery_password" data-modal-width="530px"><div class="l-modal__padding"><div class="l-modal__main-title"><span>Восстановление пароля</span></div><form action="/services/id/password_recovery/send_email/" method="post"><div class="l-modal__grid m-adaptive"><div class="l-modal__grid-1-2 m-right"><div class="l-modal__list"><div class="l-modal__link"><a data-modal-open="authorization">Авторизация</a></div><div class="l-modal__link"><a data-modal-open="registration">Регистрация</a></div></div></div><div class="l-modal__grid-1-2"><div class="l-modal__field"><div class="l-modal__field-title"><span>E-mail</span></div><div class="l-modal__field-field"><input type="text" name="login"></div></div><div class="l-modal__submit"><button>Восстановить</button></div></div></div><div class="l-modal__error-message"><span></span></div></form><div class="l-modal__success"><div class="l-modal__text"><span>
+				
+                    Инструкции для восстановления пароля высланы на <a class="email"></a>
+                
+			</span></div><div class="l-modal__confirm"><button class="l-modal__confirm-yes" data-modal-close="">Ок</button></div></div></div></div><div class="l-modal__preset b-modal-local-account" data-modal-preset="local_account" data-modal-width="530px"><div class="l-modal__padding"><div class="l-modal__main-title"><span>Регистрация</span></div><div class="l-modal__user"><img class="l-modal__user-avatar" src="https://cdn1.img.ria.ru/i/default_avatar_50x50.png" width="50" height="50"><div class="l-modal__user-name-valign"><div class="l-modal__user-name"><span>Здравствуйте, </span><span class="m-name"></span><span>!</span></div></div></div><div class="l-modal__separator"></div><div class="l-modal__text"><span>У вас есть аккаунт в ria.ru?</span></div><div class="l-modal__confirm"><button class="l-modal__confirm-yes" data-modal-open="link_local_account">Да</button><button class="l-modal__confirm-no" data-modal-open="create_local_account">Нет</button></div></div></div><div class="l-modal__preset b-modal-link-local-account" data-modal-preset="link_local_account" data-modal-width="530px"><div class="l-modal__padding"><div class="l-modal__main-title"><span>Регистрация</span></div><div class="l-modal__user"><img class="l-modal__user-avatar" src="https://cdn1.img.ria.ru/i/default_avatar_50x50.png" width="50" height="50"><div class="l-modal__user-name-valign"><div class="l-modal__user-name"><span>Здравствуйте, </span><span class="m-name"></span><span>!</span></div></div></div><div class="l-modal__separator"></div><form action="/services/id/social/link_account/" method="post"><div class="l-modal__grid m-adaptive"><div class="l-modal__grid-1-2 m-right"><div class="l-modal__list"><div class="l-modal__link"><a data-modal-open="registration">Регистрация</a></div><div class="l-modal__link"><a data-modal-open="recovery_password">Восстановление пароля</a></div><div class="l-modal__link"><a href="/docs/about/privacy_policy.html">Политика конфиденциальности</a></div></div></div><div class="l-modal__grid-1-2"><label class="l-modal__field"><div class="l-modal__field-title"><span>E-mail</span></div><input type="text" name="login" autocomplete="email"></label><label class="l-modal__field"><div class="l-modal__field-title"><span>Пароль</span></div><input type="password" name="password"></label></div><div class="l-modal__grid-1-2 m-right m-clear"><div class="l-modal__field m-field-checkbox"><label><input type="checkbox" class="js-custom-checkbox" name="remember"><span>Запомнить меня</span></label></div></div><div class="l-modal__grid-1-2"><div class="l-modal__submit"><button>Войти</button></div></div></div><div class="l-modal__error-message"><span></span></div><div class="l-modal__separator"></div><div class="l-modal__footnote"><a data-modal-open="create_local_account">У меня нет аккаунта в ria.ru</a></div></form><div class="l-modal__success"><div class="l-modal__text"><span></span></div><div class="l-modal__confirm"><button class="l-modal__confirm-yes" data-modal-close="">Ок</button></div></div></div></div><div class="l-modal__preset b-modal-create-local-account" data-modal-preset="create_local_account" data-modal-width="530px"><div class="l-modal__padding"><div class="l-modal__main-title"><span>Регистрация</span></div><div class="l-modal__user"><img class="l-modal__user-avatar" src="https://cdn1.img.ria.ru/i/default_avatar_50x50.png" width="50" height="50"><div class="l-modal__user-name-valign"><div class="l-modal__user-name"><span>Здравствуйте, </span><span class="m-name"></span><span>!</span></div></div></div><div class="l-modal__separator"></div><form action="/services/id/social/create_account/" method="post"><div class="l-modal__grid m-adaptive"><div class="l-modal__grid-1-2 m-right"><div class="l-modal__list"><div class="l-modal__link"><a data-modal-open="authorization">Регистрация</a></div></div></div><div class="l-modal__grid-1-2"><label class="l-modal__field"><div class="l-modal__field-title"><span>E-mail</span></div><input type="text" name="login" autocomplete="email"></label><div class="l-modal__submit"><button>Регистрация</button></div></div></div><div class="l-modal__error-message"><span></span></div><div class="l-modal__separator"></div><div class="l-modal__footnote"><a data-modal-open="link_local_account">У меня есть аккаунт в ria.ru</a></div></form><div class="l-modal__success"><div class="l-modal__text"><span></span></div><div class="l-modal__confirm"><button class="l-modal__confirm-yes" data-modal-close="">Ок</button></div></div></div></div><div class="l-modal__preset b-modal-create-social-account" data-modal-preset="create_social_account" data-modal-width="530px"><div class="l-modal__padding"><div class="l-modal__main-title"><span>Это ваше имя и e-mail?</span></div><form action="/services/id/social/create_account/" method="post"><div class="l-modal__grid m-adaptive"><div class="l-modal__grid-1-2 m-right"><div class="l-modal__field m-field-checkbox"><label><input type="checkbox" class="js-custom-checkbox" name="privacy"><span>
+													Регистрируясь, вы соглашаетесь на обработку персональных данных, описанную в <a href="/docs/about/privacy_policy.html">политике конфиденциальности</a></span></label></div></div><div class="l-modal__grid-1-2"><label class="l-modal__field"><input type="text" name="firstName" placeholder="Имя"></label><label class="l-modal__field"><input type="text" name="lastName" placeholder="Фамилия"></label><label class="l-modal__field"><input type="text" name="login" placeholder="E-mail"></label></div><div class="l-modal__grid-1-1"><div class="l-modal__submit"><button>Зарегистрироваться</button></div></div></div><div class="l-modal__error-message"><span></span></div></form><div class="l-modal__success"><div class="l-modal__text"><span>Инструкции для подтверждения e-mail высланы на: </span><span class="confirmLogin"></span></div><div class="l-modal__confirm"><button class="l-modal__confirm-yes" data-modal-close="">Ок</button></div></div></div></div><div class="l-modal__preset b-modal-change-region" data-modal-preset="change_region" data-modal-width="530px"><div class="l-modal__padding"><div class="l-modal__main-title"><span>Смена региона</span></div><div class="b-change-region__in-modal"><div class="b-change-region__loader"><span>Идет загрузка...</span></div><div class="b-change-region__load-error"><span>Произошла ошибка... <a>Повторить</a></span></div></div></div></div><div class="l-modal__preset b-modal-commenting-rules" data-modal-preset="commenting_rules" data-modal-width="700px"><div class="l-modal__padding"><div class="l-modal__main-title"><span>правила комментирования материалов</span></div><div class="b-modal-commenting-rules__wr"><div class="b-modal-commenting-rules__text">
+		
+			<p>Регистрация пользователя в сервисе РИА Клуб на сайте Ria.Ru и авторизация на других сайтах медиагруппы МИА «Россия сегодня»  при помощи аккаунта или аккаунтов пользователя в социальных сетях обозначает согласие с данными правилами.</p>
+			<p>Пользователь обязуется своими действиями не нарушать действующее законодательство Российской Федерации.</p>
+			<p>Пользователь обязуется высказываться уважительно по отношению к другим участникам дискуссии, читателям и лицам, фигурирующим в материалах.</p>
+			<p>Публикуются комментарии только на тех языках, на которых представлено основное содержание материала, под которым пользователь размещает комментарий.</p>
+			<p>На сайтах медиагруппы МИА «Россия сегодня» может осуществляться редактирование комментариев, в том числе и предварительное. Это означает, что модератор проверяет соответствие комментариев данным правилам после того, как комментарий был опубликован автором и стал доступен другим пользователям, а также до того, как комментарий стал доступен другим пользователям.</p>
+			<p>Комментарий пользователя будет удален, если он:</p>
+			<ul>
+				<li>не соответствует тематике страницы;</li>
+				<li>пропагандирует ненависть, дискриминацию по расовому, этническому, половому, религиозному, социальному признакам, ущемляет права меньшинств;</li>
+				<li>нарушает права несовершеннолетних, причиняет им вред в любой форме;</li>
+				<li>содержит идеи экстремистского и террористического характера, призывает к насильственному изменению конституционного строя Российской Федерации;</li>
+				<li>содержит оскорбления, угрозы в адрес других пользователей, конкретных лиц или организаций, порочит честь и достоинство или подрывает их деловую репутацию;</li>
+				<li>содержит оскорбления или сообщения, выражающие неуважение в адрес МИА «Россия сегодня» или сотрудников агентства;</li>
+				<li>нарушает неприкосновенность частной жизни, распространяет персональные данные третьих лиц без их согласия, раскрывает тайну переписки;</li>
+				<li>содержит ссылки на сцены насилия, жестокого обращения с животными;</li>
+				<li>содержит информацию о способах суицида, подстрекает к самоубийству;</li>
+				<li>преследует коммерческие цели, содержит ненадлежащую рекламу, незаконную политическую рекламу или ссылки на другие сетевые ресурсы, содержащие такую информацию;</li>
+				<li>имеет непристойное содержание, содержит нецензурную лексику и её производные, а также намёки на употребление лексических единиц, подпадающих под это определение;</li>
+				<li>содержит спам, рекламирует распространение спама, сервисы массовой рассылки сообщений и ресурсы для заработка в интернете;</li>
+				<li>рекламирует употребление наркотических/психотропных препаратов, содержит информацию об их изготовлении и употреблении;</li>
+				<li>содержит ссылки на вирусы и вредоносное программное обеспечение;</li>
+				<li>является частью акции, при которой поступает большое количество комментариев с идентичным или схожим содержанием («флешмоб»);</li>
+				<li>автор злоупотребляет написанием большого количества малосодержательных сообщений, или смысл текста трудно либо невозможно уловить («флуд»);</li>
+				<li>автор нарушает сетевой этикет, проявляя формы агрессивного, издевательского и оскорбительного поведения («троллинг»);</li>
+				<li>автор проявляет неуважение к русскому языку, текст написан по-русски с использованием латиницы, целиком или преимущественно набран заглавными буквами или не разбит на предложения.</li>
+			</ul>
+			<p>Пожалуйста, пишите грамотно — комментарии, в которых проявляется пренебрежение правилами и нормами русского языка, могут блокироваться вне зависимости от содержания.</p>
+			<p>Администрация имеет право без предупреждения заблокировать пользователю доступ к странице в случае систематического нарушения или однократного грубого нарушения участником правил комментирования.</p>
+			<p>Пользователь может инициировать восстановление своего доступа, написав письмо на адрес электронной почты <a href="mailto:moderator@rian.ru">moderator@rian.ru</a></p>
+			<p>В письме должны быть указаны:</p>
+			<ul>
+				<li>Тема – восстановление доступа</li>
+				<li>Логин пользователя</li>
+				<li>Объяснения причин действий, которые были нарушением вышеперечисленных правил и повлекли за собой блокировку.</li>
+			</ul>
+			<p>Если модераторы сочтут возможным восстановление доступа, то это будет сделано.</p>
+			<p>В случае повторного нарушения правил и повторной блокировки доступ пользователю не может быть восстановлен, блокировка в таком случае является полной.</p>
+			<p>Чтобы связаться с командой модераторов, используйте адрес электронной почты moderator@rian.ru или воспользуйтесь <a href="https://ria.ru/feedback/">формой обратной связи</a>.</p>
+        
+	</div></div></div></div><div class="l-modal__preset b-pressrelease__modal" data-modal-preset="press_release" data-modal-width="700px"><div class="l-modal__padding"><div class="l-modal__main-title">Заявка на размещение пресс-релиза</div><form action="/services/form/press_release/" method="post"><div class="l-modal__grid m-adaptive"><div class="l-modal__grid-1-2"><div class="l-modal__field"><div class="l-modal__field-title"><span>Компания</span></div><div class="l-modal__field-input"><input type="text" name="company"></div></div><div class="l-modal__field"><div class="l-modal__field-title"><span>Контактное лицо</span></div><div class="l-modal__field-input"><input type="text" name="person"></div></div><div class="l-modal__field"><div class="l-modal__field-title"><span>Контактный телефон или E-mail</span></div><div class="l-modal__field-input"><input type="text" name="phone_email"></div></div></div><div class="l-modal__grid-1-2 m-right"><div class="l-modal__field"><div class="l-modal__field-title"><span>Комментарий</span></div><div class="l-modal__field-input"><textarea name="comment" rows="7"></textarea></div></div></div><div class="l-modal__grid-1-2 m-right m-clear"><div class="l-modal__capcha-img"><a class="l-modal__capcha-update"><img><span class="l-modal__capcha-reload"><i></i></span></a></div></div><div class="l-modal__grid-1-2"><div class="l-modal__field"><div class="l-modal__field-title"><span>Введите код с картинки</span></div><div class="l-modal__field-input"><input type="text" name="captcha"></div></div><div class="l-modal__submit"><button>Отправить заявку</button></div></div></div><div class="l-modal__footnote"><span>Все поля обязательны к заполнению. Услуга предоставляется на коммерческой основе.</span></div></form><div class="l-modal__success"><div class="l-modal__text"><span>Заявка успешно отправлена</span></div><div class="l-modal__confirm"><button class="l-modal__confirm-yes" data-modal-close="">Ок</button></div></div></div></div></div><div class="l-modal__loader"><img src="https://cdn1.img.ria.ru/i/loaders/line_loader.gif"></div><div class="l-modal__close"><a><span></span></a></div></div></div></div><div class="l-photoview" id="photoViewLayer"><div class="l-photoview__back"></div><div class="l-photoview__sub"><div class="l-photoview__prev"><img class="l-photoview__loader" src="https://cdn1.img.ria.ru/i/loaders/line2_loader.gif?"><img class="l-photoview__img"></div><div class="l-photoview__next"><img class="l-photoview__loader" src="https://cdn1.img.ria.ru/i/loaders/line2_loader.gif?"><img class="l-photoview__img"></div></div><div class="l-photoview__main"><div class="l-photoview__active"><img class="l-photoview__loader" src="https://cdn1.img.ria.ru/i/loaders/line2_loader.gif?"><img class="l-photoview__img"></div></div><a class="l-photoview__btn-prev"><i></i></a><a class="l-photoview__btn-next"><i></i></a><div class="l-photoview__controls"><div class="l-photoview__bottom"><div class="l-photoview__bottom-ind"><div class="l-photoview__flex"><div class="l-photoview__info"><div class="l-photoview__copy"></div><div class="l-photoview__extlink"></div></div><div class="l-photoview__social"><div class="b-social-likes" data-url="https://ria.ru/world/20180813/1526479787.html"><div class="facebook" title="Поделиться ссылкой на Facebook"></div><div class="twitter" title="Поделиться ссылкой в Twitter"></div><div class="vkontakte" title="Поделиться ссылкой во Вконтакте"></div><div class="odnoklassniki" title="Поделиться ссылкой в Одноклассниках"></div></div></div></div><div class="l-photoview__desc"><span></span></div></div></div></div><div class="l-photoview__index-view"><span></span></div><a class="l-photoview__btn-close"></a></div></body></html>
+
+0
+
+
+
+WARC/1.0
+WARC-Type: metadata
+WARC-Record-ID: <urn:uuid:e9207bed-0ec1-4ae0-a1bd-0ec12da4336e>
+WARC-Warcinfo-ID: <urn:uuid:682e3433-1340-4071-bbc7-1ee44445752a>
+WARC-Target-URI: <metadata://gnu.org/software/wget/warc/MANIFEST.txt>
+WARC-Date: 2018-08-13T21:44:04Z
+Content-Type: text/plain
+Content-Length: 48
+
+<urn:uuid:682e3433-1340-4071-bbc7-1ee44445752a>
+
+
+WARC/1.0
+WARC-Type: resource
+WARC-Record-ID: <urn:uuid:79293ea9-5e9d-4939-bfdc-a3269ab5963b>
+WARC-Warcinfo-ID: <urn:uuid:682e3433-1340-4071-bbc7-1ee44445752a>
+WARC-Concurrent-To: <urn:uuid:e9207bed-0ec1-4ae0-a1bd-0ec12da4336e>
+WARC-Target-URI: <metadata://gnu.org/software/wget/warc/wget_arguments.txt>
+WARC-Date: 2018-08-13T21:44:04Z
+Content-Type: text/plain
+Content-Length: 163
+
+"--warc-file" "1526479787" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "-q" "-O" "/dev/null" "https://ria.ru/world/20180813/1526479787.html" 
+
+

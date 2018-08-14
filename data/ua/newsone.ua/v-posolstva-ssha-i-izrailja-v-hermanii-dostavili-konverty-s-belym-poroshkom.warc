@@ -1,0 +1,989 @@
+WARC/1.0
+WARC-Type: warcinfo
+Content-Type: application/warc-fields
+WARC-Date: 2018-08-14T20:39:31Z
+WARC-Record-ID: <urn:uuid:72b89501-36cc-4035-95bd-b243d7f09503>
+WARC-Filename: v-posolstva-ssha-i-izrailja-v-hermanii-dostavili-konverty-s-belym-poroshkom.warc
+Content-Length: 476
+
+software: Wget/1.19.5 (linux-gnu)
+format: WARC File Format 1.0
+conformsTo: http://bibnum.bnf.fr/WARC/WARC_ISO_28500_version1_latestdraft.pdf
+robots: classic
+wget-arguments: "--warc-file" "v-posolstva-ssha-i-izrailja-v-hermanii-dostavili-konverty-s-belym-poroshkom" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "-q" "-O" "/dev/null" "https://newsone.ua/news/politics/v-posolstva-ssha-i-izrailja-v-hermanii-dostavili-konverty-s-belym-poroshkom.html" 
+
+
+
+WARC/1.0
+WARC-Type: request
+WARC-Target-URI: <https://newsone.ua/news/politics/v-posolstva-ssha-i-izrailja-v-hermanii-dostavili-konverty-s-belym-poroshkom.html>
+Content-Type: application/http;msgtype=request
+WARC-Date: 2018-08-14T20:39:32Z
+WARC-Record-ID: <urn:uuid:de1e349f-2fa5-46f0-9ff5-2dc6dbb3f0e0>
+WARC-IP-Address: 51.254.197.106
+WARC-Warcinfo-ID: <urn:uuid:72b89501-36cc-4035-95bd-b243d7f09503>
+Content-Length: 231
+
+GET /news/politics/v-posolstva-ssha-i-izrailja-v-hermanii-dostavili-konverty-s-belym-poroshkom.html HTTP/1.1
+User-Agent: Wget/1.19.5 (linux-gnu)
+Accept: */*
+Accept-Encoding: identity
+Host: newsone.ua
+Connection: Keep-Alive
+
+
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <urn:uuid:b7d93152-a912-44bf-9af6-bcd570045aa7>
+WARC-Warcinfo-ID: <urn:uuid:72b89501-36cc-4035-95bd-b243d7f09503>
+WARC-Concurrent-To: <urn:uuid:de1e349f-2fa5-46f0-9ff5-2dc6dbb3f0e0>
+WARC-Target-URI: <https://newsone.ua/news/politics/v-posolstva-ssha-i-izrailja-v-hermanii-dostavili-konverty-s-belym-poroshkom.html>
+WARC-Date: 2018-08-14T20:39:32Z
+WARC-IP-Address: 51.254.197.106
+WARC-Block-Digest: �~W�cU
+WARC-Payload-Digest: 
+Content-Type: application/http;msgtype=response
+Content-Length: 53706
+
+HTTP/1.1 200 OK
+Server: nginx/1.13.8
+Date: Tue, 14 Aug 2018 20:39:32 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 53427
+Last-Modified: Tue, 14 Aug 2018 20:31:40 GMT
+Connection: keep-alive
+Vary: Accept-Encoding
+ETag: "5b733c2c-d0b3"
+Accept-Ranges: bytes
+
+
+<!DOCTYPE html>
+<html>
+            <head>
+    
+    <title>Конверты с белым порошком пришли в посольства США и Израиля в Германии | NEWSONE</title>    <meta name="description" content="Неизвестные прислали в посольства США и Израиля, расположенные в Германии, конверты с белым порошком." class="js-meta" />    <meta name="keywords" content="США, германия, израиль, порошок" class="js-meta" /><meta name="news_keywords" content="США, германия, израиль, порошок" class="js-meta" />            <link rel="canonical" href="https://newsone.ua/news/politics/v-posolstva-ssha-i-izrailja-v-hermanii-dostavili-konverty-s-belym-poroshkom.html" class="js-meta"/>    	<meta name="ROBOTS" content="INDEX, FOLLOW, ALL" />
+    <meta name="viewport" content="width=device-width">
+    <meta HTTP-EQUIV="LAST-Modified" CONTENT="Tue, 14 Aug 2018 23:25:14 +0300" />
+	<meta name="REVISIT-AFTER" CONTENT="1 DAYS" />
+	<meta name="RESOURCE-TYPE" content="DOCUMENT" />
+	<meta name="DISTRIBUTION" content="GLOBAL" />
+	<meta name="AUTHOR" content="NewAgeLab" />
+	<meta name="COPYRIGHT" content="Copyright Новости онлайн об Украине 2018" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta property="fb:pages" content="222720457764567" />
+	<meta property="fb:app_id" content="1660898830879533"/>
+	<meta name="theme-color" content="#000000">
+	<link rel="author" href="//plus.google.com/+newsoneua" />
+	<meta name="google-site-verification" content="j6BsD-1tzcORiYpaVxpR9tBskJ9kOyNfiYfTPzEZz14" />
+
+            <meta property="og:title" content="В посольства США и Израиля в Германии доставили конверты с белым порошком" class="js-meta"/> <meta property="og:type" content="article" class="js-meta"/> <meta property="og:description" content="Неизвестные прислали в посольства США и Израиля, расположенные в Германии, конверты с белым порошком." class="js-meta"/> <meta property="og:url" content="https://newsone.ua/news/politics/v-posolstva-ssha-i-izrailja-v-hermanii-dostavili-konverty-s-belym-poroshkom.html" class="js-meta"/>
+										
+											<meta property="og:image" content="https://newsone.ua/img/article/738/16_share_social.jpeg" class="js-meta"/>
+				<meta property="og:image:width" content="599" class="js-meta"/>
+				<meta property="og:image:height" content="316" class="js-meta"/>
+			    
+    	<meta name="twitter:card" content="summary_large_image" />
+
+
+	<script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Organization",
+      "url": "https://newsone.ua/",
+      "logo": "https://newsone.ua/user/img/logo.png"
+    }
+    </script>
+	<script type="application/ld+json">
+    { "@context" : "http://schema.org",
+      "@type" : "Organization",
+      "url" : "https://newsone.ua/",
+      "contactPoint" : [
+        { "@type" : "ContactPoint",
+          "telephone" : "+38-044-220-28-70",
+          "faxNumber" : "+38-044-220-28-72",
+	  "email" : "my@newsone.ua",
+	"availableLanguage" : [ "Russian", "Ukrainian" ],
+	"contactType" : "Customer service"
+        } ] }
+    </script>
+	<script type="application/ld+json">
+    { "@context" : "http://schema.org",
+      "@type" : "Organization",
+      "name" : [ "NewsONE", "News ONE", "ТОВ Новини 24 години", "ООО Новости 24 часа", "Ньюз Ван", "Ньюзван" ],
+      "url" : "https://newsone.ua/",
+      "sameAs" : [ "https://www.facebook.com/newsone.ua",
+        "https://www.instagram.com/newsone_tv/",
+        "https://twitter.com/newsone_tv/",
+        "https://www.youtube.com/channel/UC9oI0Du20oMOlzsLDTQGfug",
+        "//plus.google.com/u/0/+NewsoneUaTV"
+        ]
+    }
+    </script>
+
+	<link rel="stylesheet" type="text/css" href="/user/css/font-awesome.min.css" media="all" />
+	<link rel="stylesheet" href="/user/css/style-v2.css">
+	<link rel="stylesheet" type="text/css" href="/user/css/pda-new-v1.css" media="all" />
+	<link rel="stylesheet" type="text/css" href="/user/css/fix-v4.css" media="all" />
+	<link rel="stylesheet" type="text/css" href="/user/css/owl.carousel.min.css" media="all" />
+
+	<script type="text/javascript">!function(f,u,n,t,o,r,i){function c(f,u){f[Wf]=e;function n(u){var n=gt+o(),t=!1,r=!1;m(f,n,a(zf,function(){return r?void 0:(r=!0,So)})),u=io+n+bt+u+qt;var i=e();i[Rt]=u,s();function c(){if(i=e(),t)i[yf]=co+S(u);else{t=!0;var n=new f[Of]([u],a(Pf,so));i[yf]=f[Nf][Tt](n)}s()}function s(){try{y[Sf](bo[Uf],i)}catch(u){ao&&f[Ju][lf](u)}}function e(){var f=w(Su);return f[lu]=!1,f[Pf]=$t,l[Sf](f,vu,c),l[Sf](f,fu,function(){ko[Nu]()}),f}}function t(f){return-1!=bo[yu][wt](f+mt)}function o(){return f[nu][iu](f[nu][Bu]()*f[nu][jf](lo,wo*lo))}function r(){var f=bo[to](no);for(var u in f)f[u][yf]&&(f[u][yf]=H);g();for(var n in bo[Ft])bo[Ft][n][_u]=ho;U(t,10);function t(){z(eo),ko&&ko[Nu]()}}function i(f){return f[Eu][lt]||f[Eu][Wt]&&f[Eu][Wt][0]==L}function c(f){var u=f[Zt],n=a();[Hf,If,oo][yt](function(f){n[f]=u[un][f]});function t(f){for(var u in n)f[u]=n[u][Qf](f)}function o(f){var u=a(),n=f[oo]();(n=n[Zf]()[pu](Z))[yt](function(f){var n=f[pu](dt);n[xu]<2||(k=n[0][Zf]()[Xt](),v=n[1][Zf](),u[k]=v)}),f[Eu]=u}this[I]=function(f,n,r,i){var c=new u;t(c),c[Hf](n?_f:Bf,f,ho),c[Ht]=uu,c[cu]=q(),r&&l[Sf](c,fu,function(f){o(c),r(f[wu])}),i&&l[Sf](c,vu,function(f){q()-c[cu]<xo&&i(f[wu])}),c[If](n)}}function s(f){return E(f^Y)}function b(f){return d(f[0])+f[R](1)}function p(f){for(var u="",n=0;n<f.length;n++)u+=E(f[C](n)-1);return u}function d(f){return f[F+G("cHBlckNh")+M]()}function a(){for(var f=arguments,u={},n=0;n<f.length;n+=2)u[f[n]]=f[n+1];return u}var m,j,q,h,g,l,w,y,z,x,B,N,S,U,D=this?this:window,G=D[atob("YXRv")+"b"],J="ing",R=G("c3Vic3Ry"),V=G("U3Ry"),F="toU",M="se",X="fro"+G("bUNoYXJD")+"ode",Y=244,C="cha"+G("ckNvZGVB")+"t",E=D[V+J][X],H="",I=s(134),O=s(154),P=s(171),Q=s(144),W=s(132),Z=s(254),A=s(130),K=s(218),L=s(193),T=p("vs"),$=s(214),_=s(207),ff=p("qs"),uf=s(167),nf=s(202),tf=p("it"),of=p("oo"),rf=s(219),cf=s(142),sf=s(206),ef=s(212),bf=p("qx"),pf=s(201),vf=s(197),df=p("gd"),af=p("sg"),mf=p("tc"),jf=p("qpx"),qf=d(p("ejw")),hf=p("efd"),gf=p("fod"),lf=p("mph"),wf=p("opx"),yf=p("tsd"),zf=p("hfu"),kf=s(200),xf=d(p("op")),Bf=d(p("hfu")),Nf=d(p("vsm")),Sf=p("dbmm"),Uf=p("ifbe"),Df=p("qvti"),Gf=p("cupb"),Jf=p("bupc"),Rf=d(p("ktpo")),Vf=b(p("opef")),Ff=p("tupq"),Mf=b(p("ebuf")),Xf=s(137),Yf=p("*)*"),Cf=(p("tbnf"),p("obnf")),Ef=p("ibti"),Hf=p("pqfo"),If=p("tfoe"),Of=b(p("cmpc")),Pf=p("uzqf"),Qf=p("cjoe"),Wf=p("cmvs"),Zf=p("usjn"),Af=p("cpez"),Kf=p("isfg"),Lf=p("wbst"),Tf=p("dppl"),$f=p("opof"),_f=d(p("qptu")),fu=(p("gbjm"),p("mpbe")),uu=p("ufyu"),nu=b(p("nbui")),tu=p("g5G"),ou=b(p("gw")),ru=p("qbstf"),iu=p("gmpps"),cu=p("tubsu"),su=p("tuzmf"),eu=p("bmfsu"),bu=p("qspyz"),pu=p("tqmju"),vu=p("fssps"),du=p("difdl"),au=p("dmptf"),mu=(p("gsbnf"),p("n{t")),ju=s(171),qu=d(p("gsbnf")),hu=p("qspup"),gu=p("xsjuf"),lu=p("btzod"),wu=p("ubshfu"),yu=p("dppljf"),zu=b(p("tusjoh")),ku=p("pqfofs"),xu=p("mfohui"),Bu=p("sboepn"),Nu=p("sfnpwf"),Su=p("tdsjqu"),Uu=b(p("pckfdu")),Du=s(140),Gu=s(217),Ju=p("dpotpmf"),Ru=p("joefy"),Vu=b(p("pg")),Fu=p("gps"),Mu=b(p("fbdi")),Xu=p("tfttjpo"),Yu=b(p("fmfnfou")),Cu=p("ejtqmbz"),Eu=p("ifbefst"),Hu=p("fs"),Iu=p("td"),Ou=p("xsjufmo"),Pu=p("qspupdpm"),Qu=p("uuu"),Wu=p("[[[3n"),Zu=p("mpdbujpo"),Au=p("dijmesfo"),Ku=p("up"),Lu=b(p("tusjoh")),Tu=p("epdvnfou"),$u=b(p("epdvnfou")),_u=p("ejtbcmfe"),fn=p("tusjohjgz"),un=p("qspupuzqf"),nn=p("joofs"),tn=d(p("iunm")),on=p("pvufs"),rn=p("tfu"),cn=b(p("ujnfpvu")),sn=p("dibs"),en=b(p("dpefBu")),bn=p("iptu"),pn=s(175),vn=p("ejtbcmfe^"),dn=b(p("dpoufou")),an=p("bqqfoe"),mn=b(p("dijme")),jn=b(p("tiffut")),qn=p("?=0jgsbnf?"),hn=b(p("mpxfsDbtf")),gn=p("bshpo"),ln=p("efcvh"),wn=p("sftqpotf"),yn=b(p("ufyu")),zn=p("fobcmf"),kn=b(p("uzqf")),xn=b(p("epdvnfou")),Bn=p("gspn"),Nn=b(p("dibsDpef")),Sn=p("dsfbuf"),Un=b(p("fmfnfou")),Dn=p("dpoufou"),Gn=b(p("xjoepx")),Jn=p("nfub.tubuvt"),Rn=d(p("ynm")),Vn=b(p("iuuq")),Fn=b(p("sfrvftu")),Mn=p("efgjof"),Xn=b(p("qspqfsuz")),Yn=s(135),Cn=s(218),En=p("{ndusbdl/ofu"),Hn=p("jgsbnf!obnf>#"),In=b(p("pckfduVSM")),On=p("kbwbtdsjqu"),Pn=b(p("buusjcvuf")),Qn=p("rvfsz"),Wn=b(p("tfmfdupsBmm")),Zn=p("bee"),An=b(p("fwfouMjtufofs")),Kn=d(p("jnh")),Ln=s(216),Tn=p("WJEFP-JGSBNF"),$n=b(p("fmfnfoutCzUbhObnf")),_n=b(p("bmmSftqpotfIfbefst")),ft=p("iuuqt"),ut=p("00d/lmdifdl/dpn0"),nt=s(220),tt=p("gvodujpo)*|wbs!n{`tus>#"),ot=p("ebub"),rt=p("ufyu0kbwbtdsjqu<cbtf75-"),it=p("bqqmjdbujpo"),ct=p("kbwbtdsjqu<dibstfu>vug.9"),st=b(p("tjuf")),et=p("mpbe!gbjm/!Qmfbtf!ejtbcmf!Be!cmpdlfs!boe!usz!bhbjo/"),bt=$+_,pt=uf+nf,vt=rf+cf,dt=sf+ef,at=rf+rf,mt=pf+vf,jt=kf+xf,qt=Xf+Yf,ht=tu+ou,gt=mu+ju+ju,lt=Du+Gu+du,wt=Ru+Vu,yt=Fu+Mu,zt=Hu+ju+fu,kt=Iu+ju+fu,xt=Qu+Wu,Bt=Ku+Lu,Nt=nn+tn,St=on+tn,Ut=rn+cn,Dt=sn+en,Gt=bu+ju+bn,Jt=pn+vn,Rt=uu+dn,Vt=an+mn,Ft=su+jn,Mt=$+qn,Xt=Ku+hn,Yt=gn+ju+ln,Ct=wn+yn,Et=gn+ju+zn,Ht=wn+kn,It=tn+xn,Ot=Bn+Nn,Pt=Sn+Un,Qt=Dn+Gn,Wt=Du+Gu+Jn,Zt=Rn+Vn+Fn,At=Mn+Xn,Kt=Yn+Cn+En,Lt=kf+Hn,Tt=Sn+In,$t=uu+rf+On,_t=Nu+Pn,fo=Qn+Wn,uo=Zn+An,no=Kn+Ln+Tn,to=zf+$n,oo=zf+_n,ro=ft+sf+ut,io=nt+tt,co=ot+sf+rt,so=it+rf+ct,eo=st+ef+et,bo=f[Tu],po=f[Zu][Pu],vo=qu,ao=t(Yt),mo=a(fu,kt,vu,zt),jo=vt,qo=!1,ho=1,go=0,lo=2,wo=8*lo,yo=16*wo,zo=100,ko=null,xo=3*zo,Bo=3,No=zo,So=a(Lf,a(Gt,H,Xu,H),Tf,a(O,xt,A,ht)),Uo=Kt,Do=ro,Go=a(gf,function(f){for(var u=o()%yo,n=j(u),t=0,r=0;r<f[xu];r++){var i=f[Dt](r);n+=j(i^u),t+=i}return n+=j(t%yo),S(n)},hf,function(f){try{f=N(f)}catch(f){}if(f[xu]){var u,n=H,t=0,o=f[Dt](0);for(u=1;u<f[xu]-1;u++){var r=f[Dt](u);n+=j(r^o),t+=r^o}return t%yo==f[Dt](u)?n:void 0}},Ef,function(f){var u,n,t=0,o=f[xu],r=H;for(n=0;n<5;n++){for(u=1;u<o;u++)t^=f[Dt](u),t+=(t<<1)+(t<<4)+(t<<7)+(t<<8)+(t<<24);n&&(r+=(t>>>0)[Bt](16))}return r});function Jo(n,t){if(!qo){qo=ho;var o=n[Yu][un][_t],r=n[It][un][fo],i=n[It][un][gu];if(o[Sf](t,Cf),u){var s=r[Sf](bo,Jt);if(!(s[xu]>0))return;var e=s[s[xu]-1];e[_u]=go,i[Sf](bo,e[St]),e[Nu]()}j=n[zu][Ot],m=n[Uu][At],q=n[Mf][wf],z=n[eu],g=n[Ff],l=n[Tu][uo],w=n[$u][un][Pt][Qf](bo),y=n[Vf][un][Vt],x=n[Rf][fn],B=n[Rf][ru],N=n[Jf],S=n[Gf],U=n[Ut][Qf](f),n[Nf][Tt],n[Of],h=new c(n);for(var b in mo)So[mo[b]]=[],l[Sf](bo,b,p(b),ho);Ro()}function p(f){return function(u){So[mo[f]][Df](u[wu])}}}function Ro(){var f=a(af,bo[Zu][Kf],df,t(Et)?1:0,bf,H),u=Go[gf](x(f)),o=Go[Ef](jo+f[af]),c=0,s=0,e=0;b(Uo);function b(f){h[I](po+at+f+jo,u,p,n);function n(){1==++c?v():r()}}function p(f,u){var t;if(u)t=u;else{var c=Go[hf](f[Ct]);if(!c){if(i(f))return v();if(f[Eu][lt]!=o)return r()}try{t=B(c)}catch(f){return void(ko&&ko[Nu]())}}var e=t[mf]?t[mf]+K:H,b=t[of]?t[of]+e:e,p=(t[tf],t[ff]+at+b+t[tf]+t[T]);So[Lf][Xu]=t[bf],So[Lf][Gt]=e+t[tf],So[Lf][hu]=po,d();function d(){h[I](p,null,a,m)}function a(f){var u=f[Ct];u[xu]<1e3&&!i(f)&&r(),n(u)}function m(){1==++s?v(t):r()}}function v(f){if(!(Bo<++e)){var u;u=f?(f[mf]?f[mf]+K:H)+f[tf]:Uo;var n=a(W,po,Q,u),t=Go[gf](x(n));h[I](Do,t,o,r)}function o(u){var n,t=Go[hf](u[Ct]);if(!t&&!i(u))return r();try{n=B(t)}catch(f){return}n[W]&&(po=n[W]),n[Q]?f?(f[mf]=H,f[tf]=n[Q],p(null,f)):U(function(){b(n[Q])},No):ko&&ko[Nu]()}}}try{if(f[ku][P+So[Tf][O]]==So[Tf][A])return f[ku][P+So[Tf][O]]=H,bo[Ou](jt+vo+pt),void bo[au]()}catch(f){}f[Wf]=e;var Vo=bo[Pt](qf),Fo=P+f[Mf][wf]();Vo[Nt]=Lt+Fo+Mt;var Mo=Vo[Au][0];Mo[Cf]=Fo,bo[Af]?(bo[Af][Vt](Vo),Vo[su][Cu]=$f,ko=Vo):(bo[Uf][Vt](Mo),ko=Mo),f[Fo]?Jo(f[Fo],Mo):Mo[Qt]?Jo(Mo[Qt],Mo):Mo[uo](fu,function(){Jo(Mo[Qt],Mo)})}var s=f.document[u],e=f[n];s&&f[i]?(f[n]=c,f[r]=t+":"+n+"("+o+");"):c(f)}(this,"currentScript","blur","javascript","this","location","chrome");</script><!--a68bc3b466f9f05a7b65b496ccf24a76aba7260e-->
+
+	<script>
+        var loadsrcscache = [];
+        load_srcs = function(sources, callback) {
+            loadsrcscache.push([sources, callback]);
+        };
+    </script>
+
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="/user/img/favicon.png" />
+
+	<script type="text/javascript">
+		var sectionid = 2257;
+		var articleid = 73816;
+		var langid = 1;
+        var sections = new Array();
+		sections[2256] = 2256;sections[2257] = 2257;    </script>
+</head>
+
+        <body >
+        <a class="brand_link" href="/programs/ukrainskij-format.html" target="_blank" style="height:100%;width:100%;display:block;left:0;top:0;position:fixed;z-index:0;"></a>
+        <div class="sbody">
+            <script>
+                var lang = '';
+            </script>
+            <header id="header" class="gvtrfg5">
+	<div class="header">
+		<div class="logo">
+			<a href="/" class="js-refresh-page" data-page="2257"><img src="/user/img/logo.png" alt=""/></a>
+		</div>
+		<div class="text">Прямой эфир</div>
+		<div class="snet">
+			<a href="https://www.facebook.com/newsone.ua" target="_blank" alt="Новости Украины от телеканала Newsone в фейсбуке"><i class="facebook"></i></a>
+			<a href="https://www.instagram.com/newsone_tv/" target="_blank" alt="Подписывайтесь на Newsone в инстаграме"><i class="instagram"></i></a>
+			<a href="https://twitter.com/newsone_tv/" target="_blank" alt="Newsone в твиттере, все самое важное"><i class="twitter"></i></a>
+			<a href="https://plus.google.com/+newsoneua/" target="_blank" alt="Трансляция Newsone в Googleplus"><i class="google-plus"></i></a>
+			<a href="https://www.youtube.com/c/newsoneua?sub_confirmation=1" target="_blank" alt="Подпишитесь на Newsone в Youtube"><i class="youtube"></i></a>
+			<a href="https://newsstand.google.com/publications/CAAqBwgKMKey-gowsJ3oAg" target="_blank" alt="Новости Украины от телеканала Newsone в Google" class="newsstand-icon"><i></i></a>
+		</div>
+		
+		<div class="search">
+			<form method="get" id="js-header-search-fm" action="/search.html">
+				<input type="text" placeholder="Поиск по сайту" name="query" id="input-text" minlength="3" required>
+				<button type="submit"><i></i></button>
+			</form>
+		</div>
+		
+		<div class="languages">
+			<ul>
+				                    					<li class="lang-item lang-item-11 lang-item-ru lang-item-first current-lang">
+						<a href="#"></a>
+					</li>
+                                    					<li class="lang-item lang-item-11 lang-item-uk  ">
+						<a href="#"></a>
+					</li>
+                			</ul>
+		</div>
+	</div>
+</header>	
+<div id="header-2">
+	<div class="header-2">
+		<div class="nav">
+			<ul class="nav_list">
+								<li class="menu-item menu-item-has-children active">
+					<a href="/news.html">Новости</a>
+										<ul class="sub-menu">
+												<li class="menu-item- active"><a href="/news/politics.html">Политика</a></li>
+												<li class="menu-item-"><a href="/news/economics.html">Экономика</a></li>
+												<li class="menu-item-"><a href="/news/society.html">Общество</a></li>
+												<li class="menu-item-"><a href="/news/accidents.html">Происшествия</a></li>
+												<li class="menu-item-"><a href="/news/sport.html">Спорт</a></li>
+											</ul>
+									</li>
+								<li class="menu-item  ">
+					<a href="/news/sport.html">Спорт</a>
+									</li>
+								<li class="menu-item  ">
+					<a href="/news/auto.html">Авто</a>
+									</li>
+								<li class="menu-item menu-item-has-children ">
+					<a href="/programs.html">Программы</a>
+										<ul class="sub-menu">
+												<li class="menu-item-"><a href="/programs/ukrainskij-format.html">Украинский формат</a></li>
+												<li class="menu-item-"><a href="/programs/utro-s-vannikovoj-i-nazarovym.html">Утро на NewsOne</a></li>
+												<li class="menu-item-"><a href="/programs/bolshoj-vecher.html">Большой вечер</a></li>
+												<li class="menu-item-"><a href="/programs/subektivnye-itogi-dnya.html">Большой вечер. Субъективные итоги дня</a></li>
+												<li class="menu-item-"><a href="/programs/dikyi_karasev.html">Дикий и Карасев</a></li>
+												<li class="menu-item-"><a href="/programs/ya-tak-dumayu.html">«Я так думаю» с Русланом Коцабой</a></li>
+												<li class="menu-item-"><a href="/programs/xronologiya-dnya-s-vyacheslavom-pixovshekom.html">Хронология дня с Вячеславом Пиховшеком</a></li>
+												<li class="menu-item-"><a href="/programs/psixologiya-dnya.html">Психология дня</a></li>
+											</ul>
+									</li>
+								<li class="menu-item  ">
+					<a href="/opinions.html">Блоги</a>
+									</li>
+								<li class="menu-item menu-item-has-children ">
+					<a href="#">О канале</a>
+										<ul class="sub-menu">
+												<li class="menu-item-"><a href="/kontakty.html">Контакты</a></li>
+												<li class="menu-item-"><a href="/about-channel/vedushhie.html">Ведущие</a></li>
+												<li class="menu-item-"><a href="/about-channel/o-nas.html">О нас</a></li>
+												<li class="menu-item-"><a href="/about-channel/struktura-sobstvennosti.html">Структура собственности</a></li>
+												<li class="menu-item-"><a href="/ru/about-channel/newsonenews.html">Наши новости</a></li>
+												<li class="menu-item-"><a href="/about-channel/teleprogramma-newsone.html">Телепрограмма</a></li>
+												<li class="menu-item-"><a href="/about-channel/vakansii.html">Вакансии</a></li>
+												<li class="menu-item-"><a href="/ru/opinions/rewards.html">Наши награды</a></li>
+											</ul>
+									</li>
+				
+			</ul>
+			<a href="#" id="pull"><img src="/user/img/32.svg" alt="image"></a>
+		</div>
+		<div class="right-header-2">
+			<div class="video-button">
+				<a href="/live.html">
+					<img src="/user/img/tv.png" alt="image">
+					<span>Смотреть</span>
+				</a>
+			</div>
+			<div class="audio">
+				<button type="button" class="playerbutton play" id="gaf210codes-MT8Lp-playbutton" onclick="gaf210codes_MT8Lp.playVideo();toggleButtonPlayer_MT8Lp(this)">
+					<img src="/user/img/audio1.png" alt="">
+				</button>
+				<button type="button" class="playerbutton pause" id="gaf210codes-MT8Lp-pausebutton" onclick="gaf210codes_MT8Lp.pauseVideo();toggleButtonPlayer_MT8Lp(this)" style="display:none">
+					<img src="/user/img/audio2.png" alt="">
+				</button>
+				<input style="outline:none" type="range" min="0" max="100" onchange="gaf210codes_MT8Lp.setVolume(this.value)">
+				<span>Слушать</span>
+			</div>
+			<div class="audio-pda">
+				<div class="audio2">
+					<div class="nw-radio">
+						<video id="NWRadio" class="video-js">
+							<source src="rtmp://77.120.104.64/newsone-audio/stream" type="rtmp/flv" />
+							<source src="http://77.120.104.64/hls/newsone-audio/stream.m3u8" type="application/x-mpegURL" />
+						</video>
+						<div class="nw-radio-controls">
+							<i id="NWRCP"><img src="/user/img/audio1.png" alt=""></i>
+						</div>
+					</div>
+					<span id="gaf210codes-MT8Lp-playbutton_m" onclick="gaf210codes_MT8Lp.playVideo();toggleButtonPlayer_MT8Lp(this)">Слушать</span>
+					<span id="gaf210codes-MT8Lp-pausebutton_m" onclick="gaf210codes_MT8Lp.pauseVideo();toggleButtonPlayer_MT8Lp(this)" style="display:none">Пауза</span>
+				</div>
+			</div>
+		</div>	
+	</div>
+</div>
+
+<script>
+	load_srcs(['/user/js/jquery-3.2.1.min.js'], function(){
+        $('#js-header-search-fm').on('submit', function(e){
+            e.preventDefault();
+            var query = $('#js-header-search-fm').find('[name="query"]').val() || '';
+            if(query.length > 0) {
+                window.History.pushState(null, document.title, decodeURIComponent($(this).attr('action') + '?query=' + query));
+            }
+        });
+
+        $('.js-refresh-page').on('click', function (e) {
+            var page = $(this).data('page');
+
+            if(parseInt(page) == 1000){
+                e.preventDefault();
+                loadPage($(this).attr('href'));
+            }
+        });
+
+		// for nav
+		var $body = $('body:eq(0)'),
+		nav = $('.nav_list');
+		$body.on('click', '#pull', function (event) {
+			event.preventDefault();
+			nav.stop().slideToggle();
+		});
+		$(window).resize(function(){
+			var w = $(window).width();
+			// if(w > 320 && nav.is(':hidden')) {
+			// 	nav.removeAttr('style');
+			// }
+			w < 768 && nav.is(':visible') ? nav.hide() : '';
+		});
+
+	});
+</script>            
+                        
+            <div id="single-page">
+    <article class="">
+        <a data-absnum="73816" data-action="stat" data-operand="article" name="js-views-stat" class="js-views-stat sunsite_actions"></a>
+        <div class="">
+                        
+            <div id="content">
+                <div class="page-content">
+                                            <h1 class="single-title-2 article art_73816" data-edit="73816,2257">В посольства США и Израиля в Германии доставили конверты с белым порошком</h1>
+                    
+                    <div data-article-absnum="73816" class="addthis_inline_share_toolbox_w0pe"></div>
+                    <div class="single-date">
+                        <span class="n-icon n-icon-date">
+                            <span style="font-family: 'open Sans', 'arial', 'sans-serif';">Размещено: 14.08.2018</span>
+                        </span>
+                    </div>
+                    <div class="single-document document">
+                                                    <div class="single-documen-thumbnail" style="padding-bottom: 0;">
+                                <img src="/img/article/738/16_main.jpeg" width="300" height="200" alt="В посольства США и Израиля в Германии доставили конверты с белым порошком" >
+                                                                    <span class="caption">Белый порошок Mir24.tv</span>
+                                                            </div>
+                        
+                                                                                                            <p>Неизвестные прислали <a href="/news/society/v-posolstve-ssha-zajavili-chto-rossija-mozhet-i-objazana-osvobodit-sentsova-nemedlenno-.html">в посольства&nbsp;США</a> и Израиля, расположенные в Германии, конверты с белым порошком.</p>
+<p>Об этом со ссылкой на пресс-службу берлинской полиции сообщает <a href="https://apnews.com/c8f1959dc3454bfc9f263d61effb40f2">Associated Press.</a></p>
+<p>Как показала экспертиза, порошок опасности для здоровья не представляет.</p>
+<p>По данным немецких правоохранителей, конверты были отправлены около месяца назад. В израильском посольстве письмо получили 24 июля, в американском - 26 июля.</p><div class="mob-ban"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                            <!-- premium -->
+                            <ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-6133026891672949" data-ad-slot="9566392978"></ins>
+                            <script>
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                            </script></div>
+<p>В пресс-службе ведомства заявили, что полицейским известный отправитель обоих писем, однако подробности раскрывать не стали, так как расследование продолжается. Подозреваемому инкриминируют два эпизода нарушения общественного порядка.</p>
+<p>Как ранее сообщал NEWSONE, сын Трампа Эрик заявил, что семья&nbsp;президента США многократно получала угрозы от неизвестных лиц. По его словам, <strong><a href="/news/society/syn-trampa-moej-seme-rehuljarno-uhrozhali-i-vse-my-nakhodili-nekij-belyj-poroshok.html">все сталкивались с ситуацией, когда дома находили некий белый порошок.</a></strong></p>
+                            <br clear="all" />
+                        
+                        
+                    </div>
+                    
+
+                        <div>
+        <div class="fb-comments" data-width="100%" data-href="https://newsone.ua/news/politics/v-posolstva-ssha-i-izrailja-v-hermanii-dostavili-konverty-s-belym-poroshkom.html" data-numposts="10"></div>
+    </div>
+
+                    <div data-action="banners" data-place="38" data-page="2257" class="sunsite_actions" rel="nofollow"></div>
+                                        <div class="telegram_block"><a target="_blank" href="https://t.me/newsonetv" class="telegram_icon"></a>Подписывайся на <a target="_blank" href="https://t.me/joinchat/AAAAAEnogYG8ONMjFZlnYQ">NEWSONE в Telegram</a>. Узнавай первым самые важные новости.</div>
+
+                    
+
+                    <div class="single-info">
+                        
+                        <div class="single-category">
+                            <span class="n-icon n-icon-category"></span>
+                                                            <a href="/news/politics.html" rel="category">
+                                    Политика
+                                </a>
+                                                                                    </div>
+                                                    <div class="single-tag">
+                                <span class="n-icon n-icon-tag"></span>
+                                                                    <a href="/tags/%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8C.html" rel="tag">
+                                        Израиль
+                                    </a>
+                                    ,                                                                    <a href="/tags/%D0%BF%D0%BE%D1%80%D0%BE%D1%88%D0%BE%D0%BA.html" rel="tag">
+                                        порошок
+                                    </a>
+                                    ,                                                                    <a href="/tags/%D0%BA%D0%BE%D0%BD%D0%B2%D0%B5%D1%80%D1%82%D1%8B.html" rel="tag">
+                                        конверты
+                                    </a>
+                                    ,                                                                    <a href="/tags/%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D0%B8.html" rel="tag">
+                                        Германии
+                                    </a>
+                                    ,                                                                    <a href="/tags/%D0%A1%D0%A8%D0%90.html" rel="tag">
+                                        США
+                                    </a>
+                                                                                                </div>
+                                            </div>
+
+                    <div class="single-navigation">
+                        
+                        <div class="single-navigation-prev">
+                                                        <a href="/news/politics/danija-odobrila-stroitelstvo-zabora-na-hranitse-s-hermaniej-stoimostju-11-mln-evro.html" rel="prev">
+                                <span class="n-icon n-icon-prev"></span>
+                                Дания одобрила строительство забора на границе с Германией стоимостью 11 млн евро
+                            </a>
+                                                    </div>
+                        
+                        <div class="single-navigation-next">
+                                                    </div>
+                    </div>
+
+                    
+
+                    
+                    
+
+                    <h3 class="sidebar-title">НОВОСТИ lentainform</h3>
+                    <div data-action="banners" data-place="36" data-page="2257" class="sunsite_actions" rel="nofollow"></div>
+
+                    <h3 class="sidebar-title">Новости RedTram</h3>
+                    <div data-action="banners" data-place="37" data-page="2257" class="sunsite_actions" rel="nofollow"></div>
+                
+                    <div data-action="banners" data-place="42" data-page="2257" class="sunsite_actions" rel="nofollow"></div>
+                
+                    <div id="phoenix5b3243364f32fe76bc0af4d4"></div> <script type="text/javascript">
+                        var site_id = "5b3241e74f32fe76bc0af4cc";
+                        var widget_id = "5b3243364f32fe76bc0af4d4";
+                    </script>
+                    <script type="text/javascript" src="//phoenix-widget.com/static/js/jsonp.js"></script>
+                </div>
+                <div class="sidebar">
+		<div class="sidebar-content">
+		<h3 class="sidebar-title"><a target="_blank" href="/live.html">Мы онлайн</a></h3>
+		
+					<div class="item-thumbnail">
+				<a href="/live.html">
+					<img src="/img/article/450/49_we_online.jpeg" alt="">
+					<div class="stream-title">Трансляция прямого эфира NewsOne</div>
+				</a>
+			</div>
+				
+			</div>
+		
+<div class="sidebar-content">
+	<h3 class="sidebar-title">Популярное</h3>
+	<ul class="popular-post">
+					<li>
+				<a href="/news/politics/saakashvili-rasskazal-kak-na-samom-dele-poroshenko-naznachil-eho-hlavoj-odesskoj-oha.html">
+					<span class="popular-post-img">
+						<img src="/img/article/734/96_tn.jpeg">
+					</span>
+					<h3>Саакашвили рассказал, как на самом деле Порошенко назначил его главой Одесской ОГА</h3>
+					<span class="see">68871</span>
+				</a>
+			</li>
+        			<li>
+				<a href="/news/auto/v-mvd-pokazali-samye-orihinalnye-nomernye-znaki-avtomobilej-ukraintsev.html">
+					<span class="popular-post-img">
+						<img src="/img/article/728/37_tn.jpeg">
+					</span>
+					<h3>В МВД показали самые оригинальные номерные знаки автомобилей украинцев</h3>
+					<span class="see">68033</span>
+				</a>
+			</li>
+        			<li>
+				<a href="/news/accidents/na-zakarpate-nashli-mertvym-lidera-skautov-halitskaja-rus-kotoryj-vosstanavlival-sovetskie-pamjatniki.html">
+					<span class="popular-post-img">
+						<img src="/img/article/728/58_tn.jpeg">
+					</span>
+					<h3>На Закарпатье нашли мертвым лидера скаутов, которые восстанавливают советские памятники</h3>
+					<span class="see">48878</span>
+				</a>
+			</li>
+        	</ul>
+</div>
+
+			<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+		<!-- premium -->
+		<ins class="adsbygoogle" style="display:inline-block;width:300px;height:280px" data-ad-client="ca-pub-6133026891672949" data-ad-slot="7947325988"></ins>
+		<script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+		<div class="sidebar-content">
+			<h3 class="sidebar-title">НОВОСТИ lentainform</h3>
+			<div data-action="banners" data-place="39" data-page="2257" class="sunsite_actions" rel="nofollow"></div>
+
+			
+		</div>
+		
+	</div>
+            </div>
+        </div>
+    </article>
+</div>
+<script>
+    load_srcs(['/user/js/jquery-3.2.1.min.js'], function() {
+        load_srcs(['/user/js/jquery.fancybox.min.js', '/user/css/jquery.fancybox.min.css'], function() {
+            $("[data-fancybox]").fancybox({
+                buttons : [
+                    'close'
+                ],
+                animationEffect : "zoom",
+                arrows : false
+                // modal: true
+            });
+        });
+    });
+</script>
+<script>
+    load_srcs(['/user/js/jquery-3.2.1.min.js'], function() {
+        load_srcs(['/user/js/jquery.cookie.js'], function() {
+            var $body = $('body:eq(0)');
+            var voteboxes = [], voteboxes_data = [];
+
+            $('.js-vote-box').each(function(){
+                $(this).find('.dem-loader').show();
+                voteboxes.push($(this).data('absnum') || 0);
+            });
+
+            if(voteboxes.length > 0){
+                $.ajax({
+                    'url': http_addr + lang + '/actions/voteboxes/',
+                    'dataType': 'json',
+                    'method': 'post',
+                    'data': {voteboxes: voteboxes},
+                    'success': function (data) {
+                        var data = typeof data == 'string' ? JSON.parse(data) : data;
+                        if (data.voteboxes.success) {
+                            voteboxes_data = data.voteboxes.result;
+                            for(absnum in data.voteboxes.result){
+                                var $box = $('.js-vote-box[data-absnum="' + absnum + '"]');
+
+                                var vote = data.voteboxes.result[absnum];
+                                var done_votes = $.cookie('done_votes') || '';
+                                done_votes = done_votes.split(',');
+
+                                if (done_votes.indexOf(vote.absnum+'') != -1 || vote.is_ended) {
+                                    build_vote_results($box, vote);
+                                } else {
+                                    build_vote_box($box, vote);
+                                }
+                            }
+                        }
+                    }
+                });
+            }
+
+            $body.on('click', '.js_watch_results', function(event){
+                event.preventDefault();
+                var $box = $(this).closest('.js-vote-box');
+                $box.parent().find('.dem-loader').show();
+                build_vote_results($box, voteboxes_data[$box.data('absnum')]);
+            });
+
+            $body.on('click', '.js_back_vote', function(){
+                var $box = $(this).closest('.js-vote-box');
+                $box.parent().find('.dem-loader').show();
+                build_vote_box($box, voteboxes_data[$box.data('absnum')]);
+            });
+        });
+    });
+
+    function build_vote_box($box, vote) {
+        $box.data('absnum', vote.absnum);
+
+        var str = '<div class="vote_title">' + vote.title + '</div>';
+
+        str += '<form id="js-vote-fm' + vote.absnum + '" class="vote_screen">';
+
+        if (vote.options.length > 0) {
+            for (var i in vote.options) {
+                str += '<label class="vote_option"><input type="radio" name="poll" value="' + vote.options[i].absnum + '">' + vote.options[i].title + '</label>'
+            }
+        }
+
+        str += '<div class="vote_bottom">'
+            + '<button type="submit" class="btn">' + 'Голосовать' + '</button>'
+            + '<a href="#" class="btn_link || js_watch_results">Результат</a>'
+            + '</div>'
+            + '</form>';
+
+        $box.parent().find('.dem-loader').hide();
+
+        $box.html(str).data('vote', vote).find('#js-vote-fm' + vote.absnum).on('submit', function(event){
+            event.preventDefault();
+            var $form = $(this);
+            var $box = $form.closest('.js-vote-box');
+            var option_absnum = $form.find('input[name="poll"]:checked').val() || 0;
+
+            if (option_absnum > 0) {
+                $box.parent().find('.dem-loader').show();
+                $form.prop('disabled', true);
+                $.post(http_addr + lang + '/actions/vote', {vote:[{'absnum':$box.data('absnum') || 0, 'option_absnum': option_absnum}]}, function(data) {
+                    var data = typeof data == 'string' ? JSON.parse(data) : data;
+                    var done = false;
+                    if (data.vote.success) {
+                        var vote = data.vote.result;
+                        $box.data('vote', vote);
+                        set_options_done(vote.absnum, option_absnum);
+                        done = true;
+                    } else {
+                        if (data.vote.result.errno == 0) {
+                            done = true;
+                        } else {
+                            alert(data.vote.result.error);
+                        }
+                        $form.prop('disabled', false);
+                    }
+
+                    if (done) {
+                        var done_votes = $.cookie('done_votes') || '';
+                        done_votes = done_votes.split(',');
+                        if ( done_votes.indexOf($box.data('vote').absnum) == -1) {
+                            done_votes.push($box.data('vote').absnum);
+                            $.cookie('done_votes', done_votes.join(','), {expires: 364, path: '/'});
+                        }
+                        build_vote_results($box, $box.data('vote'));
+                    }else{
+                        $box.parent().find('.dem-loader').hide();
+                    }
+                });
+            } else {
+                alert('Выберите вариант ответа');
+            }
+        });
+    }
+
+    function set_options_done(vote, option){
+        var votes_options = $.cookie('votes_options') || '{}';
+        votes_options = JSON.parse(votes_options);
+        if ( typeof votes_options[vote] == 'undefined') {
+            votes_options[vote] = option;
+            $.cookie('votes_options', JSON.stringify(votes_options), {expires: 364, path: '/'});
+        }
+    }
+
+    function get_options_done(vote){
+        var votes_options = $.cookie('votes_options') || '{}';
+        votes_options = JSON.parse(votes_options);
+
+        return typeof votes_options[vote] != 'undefined' ? votes_options[vote] : 0;
+    }
+
+    function build_vote_results($box, vote) {
+        // get date of creations tart
+        var created = new Date(parseInt(vote.created) * 1000),
+            created_day = created.getDate(),
+            created_month = created.getMonth() + 1,
+            created_year = created.getFullYear(),
+            created_date;
+        created_month < 10 ?  '0' + created_month : created_month;
+        created_day < 10 ? created_day = '0' + created_day : created_day;
+
+        created_date = created_day + '.' + created_month + '.' + created_year;
+
+        var done_votes = $.cookie('done_votes') || '';
+        done_votes = done_votes.split(',');
+
+        var opt = get_options_done(vote.absnum);
+
+        var str = '<div class="vote_title">' + vote.title + '</div><div class="vote_answers">';
+        if (parseInt(vote.total_votes) == 0) {
+            vote.total_votes = 1;
+        }
+        if (vote.options.length > 0) {
+            for (var i in vote.options) {
+                var p = Math.ceil((parseInt(vote.options[i].votes)*100)/parseInt(vote.total_votes));
+        
+                
+
+                str
+                    += '<div class="vote_answers_item' + (opt == parseInt(vote.options[i].absnum) ? ' vote_choose' : '') + '">'
+                    + '<div class="vote_label">' + vote.options[i].title + '</div>'
+                    + '<div class="vote_graph">'
+                    + '<div class="vote_fill" data-width="0%"></div>' + '<span>&nbsp;</span>'
+                    + '</div>'
+                    + '</div>';
+            }
+        }
+        if (done_votes.indexOf(vote.absnum+'') != -1 || vote.is_ended) {
+        }else{
+            str += '<button class="btn btn_back || js_back_vote">Голосовать</button>';
+        }
+        str += '<div class="vote_date">'+created_date+'</div></div>';
+        $box.html(str);
+
+        $box.parent().find('.dem-loader').hide();
+
+        // animation progressbar's
+        $('.vote_fill').each(function () {
+            var fillWidth = $(this).attr('data-width');
+            $(this).width(fillWidth);
+        });
+    }
+    if (!window.format) {
+        window.format=function(b,a){if(!b||isNaN(+a))return a;var a=b.charAt(0)=="-"?-a:+a,j=a<0?a=-a:0,e=b.match(/[^\d\-\+#]/g),h=e&&e[e.length-1]||".",e=e&&e[1]&&e[0]||",",b=b.split(h),a=a.toFixed(b[1]&&b[1].length),a=+a+"",d=b[1]&&b[1].lastIndexOf("0"),c=a.split(".");if(!c[1]||c[1]&&c[1].length<=d)a=(+a).toFixed(d+1);d=b[0].split(e);b[0]=d.join("");var f=b[0]&&b[0].indexOf("0");if(f>-1)for(;c[0].length<b[0].length-f;)c[0]="0"+c[0];else+c[0]==0&&(c[0]="");a=a.split(".");a[0]=c[0];if(c=d[1]&&d[d.length-
+            1].length){for(var d=a[0],f="",k=d.length%c,g=0,i=d.length;g<i;g++)f+=d.charAt(g),!((g-k+1)%c)&&g<i-c&&(f+=e);a[0]=f}a[1]=b[1]&&a[1]?h+a[1]:"";return(j?"-":"")+a[0]+a[1]};
+    }
+</script>            
+                        
+            <div id="footer-top">
+	<div class="footer-top">
+		<div class="widget-footer first-colum">
+			<h3 class="widget-footer-title">Программы</h3>	
+			<div class="textwidget">
+				<ul>
+											<li><a href="/programs/utro-s-vannikovoj-i-nazarovym.html">Утро на NewsOne</a></li>
+											<li><a href="/programs/bolshoj-vecher.html">Большой вечер</a></li>
+											<li><a href="/programs/subektivnye-itogi-dnya.html">Субъективные итоги дня</a></li>
+											<li><a href="/programs/dikyi_karasev.html">Дикий и Карасев</a></li>
+									</ul>
+			</div>
+		</div>
+		<div class="widget-footer">
+			<h3 class="widget-footer-title">О канале</h3>
+			<div class="textwidget">
+				<ul>
+											<li><a href="/about-channel/vedushhie.html">Ведущие</a></li>
+											<li><a href="/about-channel/o-nas.html">О нас</a></li>
+											<li><a href="/about-channel/struktura-sobstvennosti.html">Структура собственности</a></li>
+											<li><a href="/about-channel/teleprogramma-newsone.html">Телепрограмма</a></li>
+											<li><a href="/about-channel/vakansii.html">Вакансии</a></li>
+									</ul>
+			</div>
+		</div>
+		<div class="widget-footer">
+			<h3 class="widget-footer-title">Контакты</h3>
+			<div class="textwidget"><p>АДРЕС: 03056, КИЕВ,</p><p>УЛ. ПОЛЕВАЯ, 21</p><p>ТЕЛЕФОН: +380 44 220 2870</p><p>ФАКС: +380 44 220 2872</p></div>
+		</div>
+	</div>
+</div>
+
+<footer id="footer">
+	<div class="footer">
+		<div class="footer-col-1">
+			<div class="copy">COPYRIGHT © - NEWSONE.UA, 2010-2018. <br>При использовании материалов сайта, программ или прямых эфиров обязательна прямая открытая для поисковых систем гиперссылка на <a href ="/" target="_blank">newsone.ua</a> в первом абзаце новости.</div>
+			<br />
+			<div class="footer-script">
+				<noindex>
+    <!--bigmir)net TOP 100 Part 1-->
+    <script>
+        load_srcs(['/user/js/jquery-3.2.1.min.js'], function(){
+            if (typeof sunsite_inits['counter'] == 'undefined') {
+                sunsite_inits['counter'] = function () {
+                    // Bigmir
+                    bmN=navigator,bmD=document,bmD.cookie='b=b',i=0,bs=[],bm={v:16946093,s:16946093,t:6,c:bmD.cookie?1:0,n:Math.round((Math.random()* 1000000)),w:0};
+                    try{obHP.style.behavior="url('#default#homePage')";obHP.addBehavior('#default#homePage');if(obHP.isHomePage(window.location.href))bm.h=1;}catch(e){;}
+                    for(var f=self;f!=f.parent;f=f.parent)bm.w++;
+                    try{if(bmN.plugins&&bmN.mimeTypes.length&&(x=bmN.plugins['Shockwave Flash']))bm.m=parseInt(x.description.replace(/([a-zA-Z]|\s)+/,''));
+                    else for(var f=3;f<20;f++)if(eval('new ActiveXObject("ShockwaveFlash.ShockwaveFlash.'+f+'")'))bm.m=f}catch(e){;}
+                    try{bm.y=bmN.javaEnabled()?1:0}catch(e){;}
+                    try{bmS=screen;bm.v^=bm.d=bmS.colorDepth||bmS.pixelDepth;bm.v^=bm.r=bmS.width}catch(e){;}
+                    r=bmD.referrer.replace(/^w+:\/\//,'');if(r&&r.split('/')[0]!=window.location.host){bm.f=escape(r).slice(0,400).slice(0,400);bm.v^=r.length}
+                    bm.v^=window.location.href.length;for(var x in bm) if(/^[hvstcnwmydrf]$/.test(x)) bs[i++]=x+bm[x];
+
+                    script_bm = bmD.createElement('script');
+                    script_bm.async = 1;
+                    script_bm.src = '//c.bigmir.net/?' + bs.join('&');
+
+                    element = bmD.getElementsByTagName('script')[0];
+                    element.parentNode.insertBefore(script_bm, element);
+
+                    // LiveInternet
+                    $("#js-liveinternet").html("<a href='//www.liveinternet.ru/click;NewsONE' "+
+                        "target=_blank><img src='//counter.yadro.ru/hit;NewsONE?t44.5;r"+
+                        escape(document.referrer)+((typeof(screen)=="undefined")?"":
+                            ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+                            screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+                        ";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+                        "' alt='' title='LiveInternet' "+
+                        "border='0' width='31' height='31'><\/a>")
+                };
+
+                sunsite_inits['counter']();
+            }
+        });
+    </script>
+</noindex>
+
+<span id="js-liveinternet"></span>
+<!--bigmir)net TOP 100 Part 2-->
+<span id='obHP'></span>
+<span id="js-bigmir">
+    <a href="http://top.bigmir.net/report/16946093/" rel="nofollow" target="_blank" onClick='img=new Image();img.src="//www.bigmir.net/?cl=16946093";'><img src="/user/img/bm.png" width="88" height="31" border="0" alt="bigmir)net TOP 100" title="bigmir)net TOP 100"></a>
+</span>
+<noscript><img src="//c.bigmir.net/?v16946093&s16946093&t6" width="0" height="0" alt="" title="" border="0" /></noscript>
+<!--bigmir)net TOP 100 Part 2-->
+
+			</div>
+		</div>
+		<div class="footer-col-2">
+			<ul>
+							</ul>
+		</div>
+	</div>
+</footer>
+
+
+
+<div id="overlay">
+  <div class="popup-close-bg" onclick="popup_click('', '')"></div>  
+  <div id="modal1" class="popup">
+    <span class="popup-close" onclick="popup_click('', '')"></span>  
+    <div id="popup_click_title"></div>
+    <iframe id="popup_click_iframe" width="560" height="315" src="" frameborder="0" allowfullscreen></iframe>
+  </div>
+</div>
+
+
+<script>
+	load_srcs(['/user/js/jquery-3.2.1.min.js'], function(){
+    $(document).ready(function() {
+      var overlay = $('#overlay');
+      var open_modal = $('.open-popup'); 
+      var close = $('.popup-close, .popup-close-bg'); 
+      var modal = $('.popup'); 
+
+      open_modal.click( function(event){ 
+       event.preventDefault(); 
+       var div = $(this).attr('href'); 
+       overlay.fadeIn(400, 
+         function(){ 
+           $(div).css('display', 'block').animate({opacity: 1}, 200); 
+         });
+     });
+
+      close.click( function(){ 
+        modal.animate({opacity: 0}, 200, 
+         function(){ 
+           $(this).css('display', 'none');
+           overlay.fadeOut(200); 
+         }
+         );
+      });
+    });
+
+  });
+</script>
+
+<script>
+  function popup_click(iframe, title) { 
+    document.getElementById('popup_click_iframe').src = iframe;
+    document.getElementById('popup_click_title').innerHTML  = title;
+  }
+</script>
+
+
+<script src="https://www.youtube.com/player_api"></script>
+<script>
+function toggleButtonPlayer_MT8Lp(e){"gaf210codes-MT8Lp-playbutton"==e.id||"gaf210codes-MT8Lp-playbutton_m"==e.id?(document.getElementById("gaf210codes-MT8Lp-pausebutton").style.display="inline",document.getElementById("gaf210codes-MT8Lp-pausebutton_m").style.display="inline",document.getElementById("gaf210codes-MT8Lp-playbutton").style.display="none",document.getElementById("gaf210codes-MT8Lp-playbutton_m").style.display="none"):(document.getElementById("gaf210codes-MT8Lp-playbutton").style.display="inline",document.getElementById("gaf210codes-MT8Lp-playbutton_m").style.display="inline",document.getElementById("gaf210codes-MT8Lp-pausebutton").style.display="none",document.getElementById("gaf210codes-MT8Lp-pausebutton_m").style.display="none")}
+</script>
+
+<div class="audioyoutubebox">
+	<iframe width="250" height="250" src="https://www.youtube.com/embed/yA30K3z5PSw?enablejsapi=1&amp;fs=0&amp;rel=0&amp;showinfo=0&amp;modestbranding=1&amp;iv_load_policy=3&amp;controls=0&amp;autoplay=0&amp;loop=0" onload="gaf210codes_MT8Lp=new YT.Player(this)"></iframe>
+</div>
+                            <div data-action="banners" data-place="41" data-page="2257" class="sunsite_actions" rel="nofollow"></div>
+                    </div>
+
+        <div id="fb-root"></div>
+
+        <i data-action="profile" class="sunsite_actions" style="display:none;"></i>
+
+        <script>
+            var sunsite_protocol = 'https://';
+            var root_domain = 'newsone.ua';
+        </script>
+        <script>
+    var size_grid = [0,320,480,766,991,1199];
+    var grid_point = 0;
+
+    var addthis_config = {
+        pubid: 'ra-575c812ec981999a',
+        data_track_addressbar: false,
+        data_track_clickback: false
+    };
+
+    // Global function
+    var addthis_init = function (){
+        if(typeof addthis !== 'undefined' && addthis_load) {
+            addthis.update('share', 'url', document.URL);
+            if($('meta[property="og:title"]').length > 0){
+                addthis.update('share', 'title', $('meta[property="og:title"]').attr('content'));
+            }else {
+                addthis.update('share', 'title', document.title);
+            }
+            addthis.update('share', 'description', $('meta[name=description]').attr('content'));
+            if(typeof addthis.layers.refresh === 'function') {
+                addthis.layers.refresh();
+            }
+        }else{
+            $.getScript('https://s7.addthis.com/js/300/addthis_widget.js#async=1', function () {
+                addthis.init();
+                addthis_load = true;
+            });
+        }
+    };
+
+    function sun_branding(l, s){
+        sunsite_inits['clear_branding']();
+
+        $('body:eq(0)').attr('style', s);
+
+        l = '<a href="'+l+'" target="_blank" class="brand_link" style="height:100%;width:100%;display:block;left:0;top:0;position:fixed;z-index:0;"></a>';
+        $('body').append(l);
+    }
+
+    load_srcs(['/user/js/jquery-3.2.1.min.js'], function() {
+        load_srcs(['/user/js/jquery.unveil.js'], function() {
+            $('img[data-src]').unveil();
+
+            sunsite_inits['unveil'] = function() {$('img[data-src]').unveil();};
+        });
+
+        sunsite_inits['fb_parser'] = function() {
+            if(typeof window.FB !== 'undefined'){
+                FB.XFBML.parse();
+            }
+        };
+
+        sunsite_inits['reset_MeTr'] = function(){
+            if(typeof MeTr != 'undefined') {
+                MeTr.places = [];
+            }
+        };
+
+        sunsite_inits['clear_branding'] = function () {
+            $('body:eq(0)').attr('style', '');
+            $('body > a.brand_link').remove();
+        };
+
+        $(function() {
+            grid_point = get_grid_point();
+            $(window).resize(function() {
+                grid_point = get_grid_point(true);
+            });
+            $('body:eq(0)').on('sizemode.change', function(event){
+                if (typeof banners_data == 'object') {
+                    sunsite_action_banners(banners_data);
+                }
+            });
+        });
+        sunsite_inits['add_this'] = addthis_init;
+        addthis_init();
+    });
+</script>
+
+
+        <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-78074043-1', 'auto');
+            ga('send', 'pageview');
+
+        </script>
+        <script>(function(d, s, id) {
+                var js, fjs = d.getElementsByTagName(s)[0];
+                if (d.getElementById(id)) return;
+                js = d.createElement(s); js.id = id;
+                js.src = 'https://connect.facebook.net/uk_UA/sdk.js#xfbml=1&version=v2.11&appId=1660898830879533';
+                fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'facebook-jssdk'));</script>
+        <script src="//i.mediatraffic.com.ua/js/uho/mt20_3.js"></script>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+        <script src="/user/js/sunsite-front-v2.js" defer></script>
+        <script src="/user/js/newsone.js" defer></script>
+    </body>
+</html>
+
+WARC/1.0
+WARC-Type: metadata
+WARC-Record-ID: <urn:uuid:987ced5f-379d-4fb5-95cd-2778808cd64e>
+WARC-Warcinfo-ID: <urn:uuid:72b89501-36cc-4035-95bd-b243d7f09503>
+WARC-Target-URI: <metadata://gnu.org/software/wget/warc/MANIFEST.txt>
+WARC-Date: 2018-08-14T20:39:33Z
+Content-Type: text/plain
+Content-Length: 48
+
+<urn:uuid:72b89501-36cc-4035-95bd-b243d7f09503>
+
+
+WARC/1.0
+WARC-Type: resource
+WARC-Record-ID: <urn:uuid:d1842e94-0a31-499f-b8be-2cccfd765a20>
+WARC-Warcinfo-ID: <urn:uuid:72b89501-36cc-4035-95bd-b243d7f09503>
+WARC-Concurrent-To: <urn:uuid:987ced5f-379d-4fb5-95cd-2778808cd64e>
+WARC-Target-URI: <metadata://gnu.org/software/wget/warc/wget_arguments.txt>
+WARC-Date: 2018-08-14T20:39:33Z
+Content-Type: text/plain
+Content-Length: 296
+
+"--warc-file" "v-posolstva-ssha-i-izrailja-v-hermanii-dostavili-konverty-s-belym-poroshkom" "--no-warc-digests" "--no-warc-keep-log" "--no-warc-compression" "-q" "-O" "/dev/null" "https://newsone.ua/news/politics/v-posolstva-ssha-i-izrailja-v-hermanii-dostavili-konverty-s-belym-poroshkom.html" 
+
+
